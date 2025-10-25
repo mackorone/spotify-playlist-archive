@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EG7kZ.md) - [plain]
 
 > This is Bluey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,022 likes - 24 songs - 58 min 22 sec
+[Spotify](https://open.spotify.com/user/spotify) - 50,040 likes - 24 songs - 58 min 22 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EG7kZ.md) - [plain]
 | 23 | [Octopus \(feat\. King Stingray\)](https://open.spotify.com/track/2SYVVaCRhGLLdTxHqfqJGY) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Octopus \(feat\. King Stingray\)](https://open.spotify.com/album/5R9jx9v2UWrFaF4QXjHWsn) | 2:41 |
 | 24 | [Bin Night](https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 3:13 |
 
-Snapshot ID: `aPgegAAAAACzv+xPoa/OAGOv1htg2BIN`
+Snapshot ID: `aPlwAAAAAADq7hKB9+r803baWAYc9cvu`

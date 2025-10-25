@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Yaelokre \(Philippines\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,367 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,436 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 70 | [Your Light](https://open.spotify.com/track/4qEnCuCn5N4gO2TyWyIOeZ) | [8WHAT](https://open.spotify.com/artist/7sUI7Wt3xbG60XRh00Kf6i), [Alisara Arial](https://open.spotify.com/artist/181vxGPS6gV3SWQUXzNpZP), [YiDD](https://open.spotify.com/artist/1YeTLfx7aPF0T5hmNHTsMk) | [Your Light](https://open.spotify.com/album/3D2AoXbOpUScjeH9zOWwWJ) | 2:44 |
 | 71 | [หยุดก่อน! \(Puzzle\)](https://open.spotify.com/track/1E7wgi9Ni4WhS6ZpqZpRqQ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [หยุดก่อน! \(Puzzle\)](https://open.spotify.com/album/5yORwvTp3m9IWnLib8cdhf) | 3:16 |
 | 72 | [Bertemu Kembali](https://open.spotify.com/track/3hUERop4ypQSfI24PqVBTu) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Bertemu Kembali](https://open.spotify.com/album/5yGt8nG3ZmW6LVVcJGClrO) | 2:49 |
-| 73 | [Track 10](https://open.spotify.com/track/5E9GFYeMdd6asHesvMflaT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [](https://open.spotify.com/album/null) | 0:00 |
+| 73 | [swan song](https://open.spotify.com/track/5E9GFYeMdd6asHesvMflaT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [the blueprint](https://open.spotify.com/album/6rnEVluW1Z5CFiC3hDVDtV) | 3:25 |
 | 74 | [MIRROR](https://open.spotify.com/track/322ZFlJ5zhErQhaOXnZ1di) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Flash and Core](https://open.spotify.com/album/6adDt7KDDnY7Kdtyazkr8N) | 3:08 |
 | 75 | [Sacred Soil](https://open.spotify.com/track/2qHHlaoTV2yLEzHYFB9LWy) | [SCALLER](https://open.spotify.com/artist/6IjWOreXe5zdIiRpDD4stM), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS) | [Sacred Soil](https://open.spotify.com/album/2GtHXXH1DOMA9bgUs81WoF) | 5:00 |
 | 76 | [NOW](https://open.spotify.com/track/0FefW9wddyFsMoIdQAoGQH) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [〈NOW〉 \(English Deluxe\)](https://open.spotify.com/album/0oTkQLTmgvP6wyF3x3WqOF) | 4:13 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia  🎸 VAEVA in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,609 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,610 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Briciole](https://open.spotify.com/track/4aJvcKyKlB9plU78kLzgJ4) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [](https://open.spotify.com/album/null) | 2:56 |
+| 1 | [Briciole](https://open.spotify.com/track/4aJvcKyKlB9plU78kLzgJ4) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [Preda dei venti](https://open.spotify.com/album/7B0UiGsUxljGcZd3qKLsDA) | 2:56 |
 | 2 | [ragazze](https://open.spotify.com/track/69IDvONe3y2jZjumffbb48) | [Leyla El Abiri](https://open.spotify.com/artist/3E7G9DQhR8ftQDt18ieMVZ) | [ragazze](https://open.spotify.com/album/3P5xyKWAq4tKZckSbp3tsL) | 3:16 |
 | 3 | [Marea](https://open.spotify.com/track/0LQNGEtKgT6JdNNu0jYzv0) | [ALLERTA!](https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI) | [Marea](https://open.spotify.com/album/7ET1DVw5RFcnOeTRugTr4T) | 3:30 |
 | 4 | [Hey there](https://open.spotify.com/track/4dOtTSoFb5Zd1bnp2mrMev) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Hey there](https://open.spotify.com/album/0nY4RA6NmqHNw5XNQ0k6HY) | 2:50 |

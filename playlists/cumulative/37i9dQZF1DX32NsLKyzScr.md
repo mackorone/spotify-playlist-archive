@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,304 songs - 2 day 22 hr 45 min
+1,305 songs - 2 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,7 +479,7 @@
 | [Highway Freedom](https://open.spotify.com/track/3OyKSA6gU1Il2uOvCXU5IK) | [Late Replies](https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7) | [Highway Freedom EP](https://open.spotify.com/album/4xT3vXGr92An3Ua3WdwfWh) | 3:15 | 2021-04-10 | 2021-07-17 |
 | [Hit List](https://open.spotify.com/track/1dQtt3K8GyPmH7ZD1LJ2ox) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Hit List](https://open.spotify.com/album/2HFagfqzSWiinz9jqcj4Q2) | 2:46 | 2021-01-05 | 2021-07-24 |
 | [Hold Me Closer \- Joel Corry Remix](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hold Me Closer \(Joel Corry Remix\)](https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa) | 4:08 | 2022-12-02 | 2024-04-20 |
-| [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 | 2025-08-01 |  |
+| [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 | 2025-08-01 | 2025-10-25 |
 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 | 2024-11-15 |  |
 | [Hold On To Now](https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:57 | 2023-12-15 | 2024-01-25 |
 | [Hold On To Now](https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/3StjwfadugiV10gNhLDu29) | 3:57 | 2023-09-22 | 2023-11-18 |
@@ -1009,6 +1009,7 @@
 | [Somebody](https://open.spotify.com/track/6retCKqQNJfyTzUbd30MqK) | [Steve Brian](https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf), [Eric Lumiere](https://open.spotify.com/artist/4TSqSBlGY1wV5qhnX6vVwB) | [Somebody](https://open.spotify.com/album/1OJzBRbUlCm8pDkljaASLH) | 3:38 | 2020-11-03 | 2021-07-24 |
 | [Somebody Like U](https://open.spotify.com/track/2uDyv5rw4333xY5obTeByt) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Walkerverse, Pt\. I](https://open.spotify.com/album/22pMyI5Ra0xRPDpf21ZWNb) | 3:11 | 2022-07-01 | 2022-11-26 |
 | [Somebody Like U](https://open.spotify.com/track/5CkNcNcocnAWbshrLuCl2B) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 3:11 | 2022-12-02 | 2023-04-01 |
+| [Somebody Like You](https://open.spotify.com/track/0mEezkUuKYcxKNdhcnXNIT) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Somebody Like You](https://open.spotify.com/album/7vA6ciINABuYjDPMkF2dxI) | 3:26 | 2025-10-24 |  |
 | [Somebody New](https://open.spotify.com/track/1qquvzcqc8Mv9EIXXCbfOk) | [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ), [BYNON](https://open.spotify.com/artist/033DxVOVQqNlUy6yEI03ar) | [Somebody New](https://open.spotify.com/album/2TB6gYbR9TvmIdvuANCMeY) | 4:19 | 2020-09-21\* | 2021-01-23 |
 | [Somebody New](https://open.spotify.com/track/6lP1UrOucq5sIXl6scYAHS) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Somebody New](https://open.spotify.com/album/7aiOAETi57e8Uq9puRj8lQ) | 2:25 | 2020-11-27 | 2021-07-07 |
 | [Somebody To Use](https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Somebody To Use](https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo) | 2:34 | 2021-12-03 | 2022-03-12 |

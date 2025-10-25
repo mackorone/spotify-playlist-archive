@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Pop music driving the current, every week.  Cover: Labrinth",
+  "description": "Pop music driving the current, every week.  Cover: Shenseea",
   "name": "Pop Frequency",
   "tracks": [
     {
@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "BOSS UP",
+        "url": "https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151320,
+      "name": "BOSS UP",
+      "url": "https://open.spotify.com/track/458u353fkPaERY2SoOGPl3"
+    },
+    {
+      "album": {
         "name": "Boy Bye",
         "url": "https://open.spotify.com/album/5Z3LNuIi0IWLJCnIn4OkdG"
       },
@@ -1511,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
+    },
+    {
+      "album": {
         "name": "I Am Enough",
         "url": "https://open.spotify.com/album/57YQ4POLwqTtEzSyVyEfVc"
       },
@@ -1690,6 +1726,24 @@
       "duration_ms": 137813,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/54fIT6FB4H6z3BJXQai1hm"
+    },
+    {
+      "album": {
+        "name": "Love & Hyperbole (Deluxe)",
+        "url": "https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192355,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt"
     },
     {
       "album": {
@@ -2686,7 +2740,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 177011,
       "name": "DYNAMITE",
       "url": "https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX"
@@ -3867,6 +3921,24 @@
     },
     {
       "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/3IwmHrw566MMhJk0hsIZrQ"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "Greed",
+      "url": "https://open.spotify.com/track/6SeKBq8l79WLvnDWQDd3GZ"
+    },
+    {
+      "album": {
         "name": "Green Lights (La Luz)",
         "url": "https://open.spotify.com/album/06mGkV3wuFPcfvUM2MvBhQ"
       },
@@ -4290,7 +4362,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 170400,
       "name": "Holy Blindfold",
       "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
@@ -4344,7 +4416,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 160000,
       "name": "Hot Body",
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
@@ -4948,7 +5020,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 164213,
       "name": "IRL (FEAT. SZA)",
       "url": "https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2"
@@ -5292,7 +5364,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 199923,
       "name": "L.O.V.E.U (feat. hannah bahng)",
       "url": "https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ"
@@ -5328,7 +5400,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 186367,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/2oLdcgV9mi8acMszmVZnYS"
@@ -5522,7 +5594,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 212281,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs"
@@ -6428,7 +6500,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 200000,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/5d9YtDcXi97VcJzMBoYI1b"
@@ -6756,7 +6828,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
@@ -7549,6 +7621,24 @@
     },
     {
       "album": {
+        "name": "Please Don't Hate Me",
+        "url": "https://open.spotify.com/album/03p0tlHZsQRjw54rG4hPkd"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214071,
+      "name": "Please Don't Hate Me",
+      "url": "https://open.spotify.com/track/2cAQTyGQYeeYMukxgi6uEG"
+    },
+    {
+      "album": {
         "name": "Polytics",
         "url": "https://open.spotify.com/album/3znffL5bZo1Fkjj5j2xKjj"
       },
@@ -8134,7 +8224,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 170579,
       "name": "Rock A Bye Baby",
       "url": "https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn"
@@ -9852,7 +9942,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 166974,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/0mhlIcF2UReFGIl6XvKzB4"
@@ -10000,7 +10090,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 144277,
       "name": "Two to Tango",
       "url": "https://open.spotify.com/track/6NXuqTLgPlY0bwjDsI5Piy"
@@ -10675,6 +10765,24 @@
     },
     {
       "album": {
+        "name": "White Lighter",
+        "url": "https://open.spotify.com/album/1CJcaw2pUIVh9y4fI9SS6W"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171240,
+      "name": "White Lighter",
+      "url": "https://open.spotify.com/track/1BVulvTYmkPUPmEjdfm4qh"
+    },
+    {
+      "album": {
         "name": "Black Is Golden",
         "url": "https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK"
       },
@@ -10708,6 +10816,28 @@
       "duration_ms": 178027,
       "name": "Who's Gonna",
       "url": "https://open.spotify.com/track/2X3xur7x1K5PYiWrzJfM1O"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Dat Girl",
+        "url": "https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172912,
+      "name": "Who\u2019s Dat Girl",
+      "url": "https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC"
     },
     {
       "album": {

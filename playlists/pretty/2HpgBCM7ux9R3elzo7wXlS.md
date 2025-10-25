@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,028 songs - 2 day 15 hr 17 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,031 songs - 2 day 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1035,6 +1035,9 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1025 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 |
 | 1026 | [DAMIDAMI](https://open.spotify.com/track/2xcu1V7AVqhofPPiTO9PDn) | [Sihan](https://open.spotify.com/artist/4vlIQAwJbXLG9FJtpnTP7N), [Sān\-Z](https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [DAMIDAMI](https://open.spotify.com/album/0JBMEAfdcPfgzbiZ3vhXGA) | 3:11 |
 | 1027 | [my <3](https://open.spotify.com/track/5yrqoCSTL3oYJ38tUtqlRD) | [teenatown](https://open.spotify.com/artist/37qs5TwDvhn1CBrnP8hhGL) | [where the butterflies are](https://open.spotify.com/album/7fldve2AopG1BlqAFkDMYf) | 3:47 |
-| 1028 | [TWITCH \(feat\. 2 Chainz & Tyga\)](https://open.spotify.com/track/5pPtoY9EchbPOyZlUngAq2) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 2:48 |
+| 1028 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |
+| 1029 | [TWITCH \(feat\. 2 Chainz & Tyga\)](https://open.spotify.com/track/5pPtoY9EchbPOyZlUngAq2) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 2:48 |
+| 1030 | [Pearlies \(My oyster is the world\)](https://open.spotify.com/track/2CfVDYfw0B4WUHaWxyjsU3) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 3:07 |
+| 1031 | [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 |
 
-Snapshot ID: `AAAHqlVx2He7v3v7ra9QJZcBkTpJyNMm`
+Snapshot ID: `AAAHrmIVDZfypz8NZybleb0shQFHL++i`

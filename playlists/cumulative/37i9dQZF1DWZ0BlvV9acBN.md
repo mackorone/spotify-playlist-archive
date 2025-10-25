@@ -4,7 +4,7 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Rosa de Saron
 
-190 songs - 14 hr 35 min
+191 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Carta](https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [A Carta](https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba) | 4:56 | 2022-09-02 | 2025-03-15 |
 | [A Estátua](https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Diego Rox](https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg) | [A Estátua](https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK) | 3:27 | 2023-03-18 |  |
 | [A Fênix](https://open.spotify.com/track/036y2ECw1GN9hzwYtUzcjh) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [A Fênix](https://open.spotify.com/album/5TTQATslcS8RatQMnppMh6) | 4:00 | 2022-09-02 | 2023-07-22 |
+| [A Maior Certeza \- Ao Vivo](https://open.spotify.com/track/5oTBJ6Pt17MvQEunGE2CJS) | [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L), [NOVO CANTO](https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB), [NOVA](https://open.spotify.com/artist/0ckNfMo73lHTOKQLAtw2oM) | [A Maior Certeza \(Ao Vivo\)](https://open.spotify.com/album/3T7SizuAmTC0ltM7I1GGn8) | 4:54 | 2025-10-24 |  |
 | [A Porta \- Acústico](https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [A Porta \(Acústico\)](https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4) | 3:11 | 2022-10-14 | 2023-07-15 |
 | [A Rosa e o Espinho: In Concert \- Ao Vivo](https://open.spotify.com/track/5xjyvPqZN4i2cim98DvNx5) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [A Rosa e o Espinho: In Concert \(Ao Vivo\)](https://open.spotify.com/album/2Pm6LMv22egl44eo75SBgx) | 4:48 | 2023-09-08 | 2023-10-14 |
 | [A Vitória Da Cruz / Mais Que Vencedor \- Ao Vivo](https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Salazar \(Ao Vivo\)](https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN) | 6:20 | 2022-09-02 | 2024-08-10 |
@@ -94,7 +95,7 @@
 | [Jardim Dos Inocentes](https://open.spotify.com/track/6Jxs0BSse305oGyLW6aDKF) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN) | [Jardim Dos Inocentes](https://open.spotify.com/album/6WBt57jyBlxr9F4kuWQL5s) | 6:10 | 2023-09-08 | 2024-11-23 |
 | [Jesus é o Amigo da Hora](https://open.spotify.com/track/7aeJCG02CJAMgXjX5NmJX8) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [Jesus é o Amigo da Hora](https://open.spotify.com/album/29CVx12VyXFjyNZbvC2iSW) | 3:19 | 2023-01-20 | 2023-03-04 |
 | [John](https://open.spotify.com/track/2VrZk39CZtqr7TIjF0aJIp) | [Geisson Augusto](https://open.spotify.com/artist/4UBl1COiNkZVcA0blaQKle) | [John](https://open.spotify.com/album/5Kkg9ZUfUlO7nTyHmrrMuD) | 3:30 | 2024-06-07 | 2024-08-17 |
-| [João 1 \- VEC](https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP) | 4:18 | 2022-10-07 |  |
+| [João 1 \- VEC](https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP) | 4:18 | 2022-10-07 | 2025-10-25 |
 | [João 1 \- VEC](https://open.spotify.com/track/7fY0cpQJpJkvMfN7st6PyG) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/15aPsEilVLOZ4lF5JWg6be) | 4:18 | 2023-05-05 | 2024-04-19 |
 | [justiça, paz, alegria](https://open.spotify.com/track/0uFxeF9GqOOOlYAwHQVOjW) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY), [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4) | [justiça, paz, alegria](https://open.spotify.com/album/2xtFRJflfGl6hkMIoZ1fKS) | 4:30 | 2022-09-02 | 2022-10-08 |
 | [Lado a Lado](https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Lado a Lado](https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O) | 3:45 | 2022-10-14 | 2023-05-06 |

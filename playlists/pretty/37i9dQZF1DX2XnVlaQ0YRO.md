@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > chill christmas beats to keep you cozy and focused
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,877 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,882 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 99 | [Driving Home For Christmas](https://open.spotify.com/track/2P1YLhhyZ4GJaQn7kKDPk1) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [Driving Home For Christmas](https://open.spotify.com/album/4gILcAQcb1HG8UNBizfq10) | 3:02 |
 | 100 | [Deck the halls](https://open.spotify.com/track/4taPyMLDSfabMHeIJ4lNeA) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [Deck the halls](https://open.spotify.com/album/0EQvJ7JspgRjDVzwnD1P5j) | 1:31 |
 
-Snapshot ID: `AAAAAONfQS5DcwHZWRWTtNig/RSWh6CJ`
+Snapshot ID: `AAAAAMyoUNGzsE7N1hQay/Otj1CuBmxG`

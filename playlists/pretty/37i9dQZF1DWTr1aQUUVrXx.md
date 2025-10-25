@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr1aQUUVrXx.md) - [plain]
 
 > Your favourite café with that warm and cozy Jazz vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,343 likes - 200 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,416 likes - 200 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr1aQUUVrXx.md) - [plain]
 | 199 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 |
 | 200 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 |
 
-Snapshot ID: `AAAAAAzFRpMNs7eJQwC0A4XaG26xg2dy`
+Snapshot ID: `AAAAAMqpFoC3oaf5bS5Q4LKYbFFiwX76`

@@ -289,6 +289,24 @@
     },
     {
       "album": {
+        "name": "Un A\u00f1o de \u00c9xitos",
+        "url": "https://open.spotify.com/album/3T81Fb3j1BVohxqEpgLtTy"
+      },
+      "artists": [
+        {
+          "name": "Bad\u00e1",
+          "url": "https://open.spotify.com/artist/1So8svHazh6ueFOhunp3Ku"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160897,
+      "name": "BGA",
+      "url": "https://open.spotify.com/track/55Iogrhz4l5iOqsZuC6nLi"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2wzFp1jyZWCfWczTp4moUl"
       },
@@ -692,7 +710,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 174957,
       "name": "Costeo",
       "url": "https://open.spotify.com/track/4uXSq3bBfk9uYV9fgDbvJd"
@@ -740,6 +758,32 @@
       "duration_ms": 186122,
       "name": "CUANDO",
       "url": "https://open.spotify.com/track/64vKyzRjkcmTUntwsLxo0m"
+    },
+    {
+      "album": {
+        "name": "D U R O",
+        "url": "https://open.spotify.com/album/5tnjiUY7dh6f61Ahge2XS1"
+      },
+      "artists": [
+        {
+          "name": "ICON",
+          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
+        },
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        },
+        {
+          "name": "Jhay P",
+          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183494,
+      "name": "D U R O",
+      "url": "https://open.spotify.com/track/713U89JR8j30nXdf1q0WaG"
     },
     {
       "album": {
@@ -2639,6 +2683,28 @@
     },
     {
       "album": {
+        "name": "MONSTRUO",
+        "url": "https://open.spotify.com/album/1zCc2EaQzif2IzspBCpwuG"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213430,
+      "name": "MONSTRUO",
+      "url": "https://open.spotify.com/track/2ToF4unFUMMKGfu7KYhy1j"
+    },
+    {
+      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
       },
@@ -2742,7 +2808,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 207529,
       "name": "NO ES PA TANTO",
       "url": "https://open.spotify.com/track/2c8sHAMfGK6EkKzJZBKb85"
@@ -3020,7 +3086,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 174352,
       "name": "PA QUE LA BC",
       "url": "https://open.spotify.com/track/5TZ8QutXyJcMMCRgMAoUFo"

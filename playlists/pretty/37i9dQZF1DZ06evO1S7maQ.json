@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 654702,
+  "num_followers": 654933,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAktidQXuOlE8GaeCoRZFEy",
+  "snapshot_id": "aPlwAAAAAAAlzWKjimG/C9dsz9tFOR0U",
   "tracks": [
     {
       "added_at": null,
@@ -20,7 +20,7 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 447584,
+      "duration_ms": 447583,
       "name": "Land of Hope and Dreams - Live in Manchester, May 14, 2025",
       "url": "https://open.spotify.com/track/6WAp3KTjx6741b4K9ygzL5"
     },
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wild, the Innocent & The E Street Shuffle",
-        "url": "https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 420840,
-      "name": "Rosalita (Come Out Tonight)",
-      "url": "https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 412973,
       "name": "Racing in the Street",
       "url": "https://open.spotify.com/track/4L6ZmbSmjH5swqGWrelrrN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wild, the Innocent & The E Street Shuffle",
+        "url": "https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 420840,
+      "name": "Rosalita (Come Out Tonight)",
+      "url": "https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
       "duration_ms": 186226,
       "name": "Sea Of Heartbreak",
       "url": "https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only the Strong Survive",
-        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "Do I Love You (Indeed I Do)",
-      "url": "https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 272426,
       "name": "Darkness On the Edge of Town",
       "url": "https://open.spotify.com/track/6fBy4h0spon7gkmZroCRmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "Do I Love You (Indeed I Do)",
+      "url": "https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi"
     },
     {
       "added_at": null,

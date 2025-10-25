@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,345,348 likes - 200 songs - 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,345,615 likes - 200 songs - 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,17 +29,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 19 | [One And Only](https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ) | [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [One And Only](https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8) | 3:42 |
 | 20 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
 | 21 | [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 |
-| 22 | [This Life](https://open.spotify.com/track/444vT3ohxrihxUqD8hEyLl) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Mawimbi](https://open.spotify.com/album/4yX07wB5aU4jIe90XCm7KE) | 2:55 |
-| 23 | [dreamforever](https://open.spotify.com/track/0yA6WTLMSkRYdwjHBBivLS) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv), [Nina Nst](https://open.spotify.com/artist/6S7CIpIi5NY2ZmdUP9Wh4Q) | [dreamforever](https://open.spotify.com/album/7AdGCHuoZzGY8IK9Cbbz2H) | 2:50 |
-| 24 | [Falling Apart](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Falling Apart](https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji) | 3:28 |
+| 22 | [dreamforever](https://open.spotify.com/track/0yA6WTLMSkRYdwjHBBivLS) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv), [Nina Nst](https://open.spotify.com/artist/6S7CIpIi5NY2ZmdUP9Wh4Q) | [dreamforever](https://open.spotify.com/album/7AdGCHuoZzGY8IK9Cbbz2H) | 2:50 |
+| 23 | [Falling Apart](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Falling Apart](https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji) | 3:28 |
+| 24 | [Spring Embers](https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Spring Embers](https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU) | 3:32 |
 | 25 | [Poison Of Choice](https://open.spotify.com/track/72zZ2KOn7JbTFsALUmhpt0) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Poison Of Choice](https://open.spotify.com/album/0OyTVoG2ISGrLG3UNnLicA) | 4:01 |
-| 26 | [Spring Embers](https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Spring Embers](https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU) | 3:32 |
-| 27 | [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 |
+| 26 | [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 |
+| 27 | [Blossom](https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Colorize 2023 Spring Sampler](https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO) | 4:00 |
 | 28 | [You Can Win](https://open.spotify.com/track/2OxjkBtBAwF3QBVEIlOLwR) | [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2), [Poizen](https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [You Can Win](https://open.spotify.com/album/7y5iApVpQcZsQhxl3lpBf1) | 7:11 |
-| 29 | [Blossom](https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Colorize 2023 Spring Sampler](https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO) | 4:00 |
-| 30 | [All The Love](https://open.spotify.com/track/3hAfmM8O1VgtFmSfbm5FSc) | [Everything Is Art](https://open.spotify.com/artist/4CNfRyL59In8QRz94NE63M), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [All The Love](https://open.spotify.com/album/0AfvonhHpPRUz6fpPy7RHu) | 3:36 |
-| 31 | [Glow](https://open.spotify.com/track/0tL68fTZxDafmumMTedtbA) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Glow](https://open.spotify.com/album/7n7O4ZeIs3uoFZOPj3CIky) | 2:42 |
-| 32 | [Call Me Up](https://open.spotify.com/track/7xlPrYqBpWc1fjrfA3zP53) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Movement II](https://open.spotify.com/album/53o2yMucNXQc8kOYdpF2mD) | 3:02 |
+| 29 | [All The Love](https://open.spotify.com/track/3hAfmM8O1VgtFmSfbm5FSc) | [Everything Is Art](https://open.spotify.com/artist/4CNfRyL59In8QRz94NE63M), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [All The Love](https://open.spotify.com/album/0AfvonhHpPRUz6fpPy7RHu) | 3:36 |
+| 30 | [Glow](https://open.spotify.com/track/0tL68fTZxDafmumMTedtbA) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Glow](https://open.spotify.com/album/7n7O4ZeIs3uoFZOPj3CIky) | 2:42 |
+| 31 | [Call Me Up](https://open.spotify.com/track/7xlPrYqBpWc1fjrfA3zP53) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Movement II](https://open.spotify.com/album/53o2yMucNXQc8kOYdpF2mD) | 3:02 |
+| 32 | [This Life](https://open.spotify.com/track/444vT3ohxrihxUqD8hEyLl) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Mawimbi](https://open.spotify.com/album/4yX07wB5aU4jIe90XCm7KE) | 2:55 |
 | 33 | [Berlin](https://open.spotify.com/track/7417sWBafxcD9NxZ7DbSMW) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Berlin](https://open.spotify.com/album/0Ec1kkdXl9Sxc5XB7SDt1W) | 3:22 |
 | 34 | [Like I Used To](https://open.spotify.com/track/2L9M3x9RTHoJ313ajYr0dg) | [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Like I Used To](https://open.spotify.com/album/4JJduz9iTc6n8ntRPAhOUy) | 4:56 |
 | 35 | [Fade](https://open.spotify.com/track/1bNo2ybJL8rmZzOdd6T3sG) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Sølv](https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe) | [Fade](https://open.spotify.com/album/29CnJBF1VbNG79dvyguEzj) | 3:18 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 199 | [Some Type Of Skin \- Sofia Kourtesis Remix](https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Some Type Of Skin](https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi) | 3:24 |
 | 200 | [Kintsugi](https://open.spotify.com/track/43cbFFWsvH9ojZ0QaufdlH) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI) | [Kintsugi](https://open.spotify.com/album/3XVyRiBQtZTxjrjtVL0Igx) | 8:40 |
 
-Snapshot ID: `AAAAADO50ozC0WyA2BqdmMTtVem4dl6S`
+Snapshot ID: `AAAAAB7q/U3YbFGbdHggVaDmfoUF0wjR`

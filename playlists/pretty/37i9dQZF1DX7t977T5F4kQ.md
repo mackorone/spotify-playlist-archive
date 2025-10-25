@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover: Wendy Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,947 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,983 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 10 | [OMG](https://open.spotify.com/track/642UlSGtBqRt7RPW6p930B) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Lova Boy Era](https://open.spotify.com/album/5i3t44ZOyolbQ3f9SVH93x) | 2:38 |
 | 11 | [Crazy Love](https://open.spotify.com/track/4sckyDjgswzH5RBBHTNlax) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Crazy Love](https://open.spotify.com/album/5bolp7EDlLNan3nQIQwpOD) | 2:49 |
 | 12 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go \(with Tyla\)](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
-| 13 | [Bedroom Bully](https://open.spotify.com/track/1NjedAHuo81qjOWOa28KXT) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Larusso](https://open.spotify.com/artist/07sMHU0vu01xrz1gnNrNry) | [Bedroom Bully](https://open.spotify.com/album/4kgf853i8hbgxtLmJP0fmX) | 2:46 |
+| 13 | [Bedroom Bully](https://open.spotify.com/track/1NjedAHuo81qjOWOa28KXT) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Bedroom Bully](https://open.spotify.com/album/4kgf853i8hbgxtLmJP0fmX) | 2:46 |
 | 14 | [Gymnastic](https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Gymnastic](https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT) | 3:30 |
 | 15 | [Keep It Sexy](https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Keep It Sexy](https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0) | 2:39 |
 | 16 | [Eye Open](https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:17 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 27 | [NEXT DOOR \(with Sarkodie\)](https://open.spotify.com/track/0NnsR4mHwY8hAJUGldCUEe) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [NEXT DOOR \(with Sarkodie\)](https://open.spotify.com/album/4WnjNWkD250iwrlUkyYutz) | 2:36 |
 | 28 | [Do You Know?](https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql) | [siicie](https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Do You Know?](https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0) | 2:25 |
 | 29 | [A Fuul](https://open.spotify.com/track/2kMYpI02BoSrdQhNgmXeWl) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Fuul](https://open.spotify.com/album/4pC90geT6Amug9vtCIxoYq) | 2:47 |
-| 30 | [Track 4](https://open.spotify.com/track/0SvCtbierkiv1H1eBqCWtv) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [](https://open.spotify.com/album/null) | 0:00 |
+| 30 | [Cocoa Butter](https://open.spotify.com/track/0SvCtbierkiv1H1eBqCWtv) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Defy All Odds](https://open.spotify.com/album/7uQleWb5HutX2vUIU3YPWp) | 2:50 |
 | 31 | [Too Bad](https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Disturbation 2](https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I) | 3:03 |
 | 32 | [Lavida Loca \(feat\. Lasmid\)](https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Lavida Loca \(feat\. Lasmid\)](https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB) | 2:39 |
 | 33 | [Soma Obi](https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:41 |

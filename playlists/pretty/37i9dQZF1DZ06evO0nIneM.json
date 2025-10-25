@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 92256,
+  "num_followers": 92264,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAVK+S9XLOC//HhKevVXCwd",
+  "snapshot_id": "aPlwAAAAAAC7r0Ngf52xY43jKbhxrgyr",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "Donker Hart",
+      "url": "https://open.spotify.com/track/7slPUKikfw8lG5s5GvUd6K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bitterzoet",
         "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 227840,
       "name": "Bitterzoet",
       "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Hemingway",
-      "url": "https://open.spotify.com/track/783dXZcVk8s888KgelZpWi"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Hemingway",
+      "url": "https://open.spotify.com/track/783dXZcVk8s888KgelZpWi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Radio Berlijn",
         "url": "https://open.spotify.com/album/5QjzQDyPWc4R9vM5L6Reqq"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 247533,
-      "name": "Donker Hart",
-      "url": "https://open.spotify.com/track/7slPUKikfw8lG5s5GvUd6K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "April",
         "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
       },
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 205080,
-      "name": "Vandaag",
-      "url": "https://open.spotify.com/track/5wHiVi4aj4J0fO8c4xB99G"
+      "duration_ms": 210883,
+      "name": "Midzomernacht",
+      "url": "https://open.spotify.com/track/3TFsLvUmCf0f8gAs3BCuDo"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 210883,
-      "name": "Midzomernacht",
-      "url": "https://open.spotify.com/track/3TFsLvUmCf0f8gAs3BCuDo"
+      "duration_ms": 205080,
+      "name": "Vandaag",
+      "url": "https://open.spotify.com/track/5wHiVi4aj4J0fO8c4xB99G"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > indie twang fall bby 🍂 Whitney on the cover
 
-324 songs - 20 hr 53 min
+325 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Vines to Make It All Worth It](https://open.spotify.com/track/1OyKSBvrtyy3LczOQQagJb) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Vines to Make It All Worth It](https://open.spotify.com/album/4Yhhj9VKURvV5wdMvzkWDb) | 1:36 | 2023-06-30 | 2023-12-09 |
 | [Voicemail](https://open.spotify.com/track/1BhIBuQqcc797NM9gwJWwE) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Place to Land](https://open.spotify.com/album/55pfu2IeDDtlhtKuFl1krR) | 3:11 | 2023-02-23 | 2024-11-23 |
 | [Walking Song](https://open.spotify.com/track/3asFmPu37s04nrH3zSBLdR) | [The Slow Country](https://open.spotify.com/artist/5kD1IXOvV30AavIW5so1tA) | [Walking Song \(Deleted\)](https://open.spotify.com/album/4ew6WVIlCjMuKMvthjftze) | 5:02 | 2024-11-18 |  |
+| [Watchin](https://open.spotify.com/track/0PCAf03GaD6hm5VepAh7Xw) | [Nicholas Creus](https://open.spotify.com/artist/2UqrObU2Do3nyUr80zIxn9) | [Watchin](https://open.spotify.com/album/6GV7D6eMEkCAetfDLEo4cx) | 2:20 | 2025-10-24 |  |
 | [we were girls together](https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [we were girls together](https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj) | 2:17 | 2023-06-30 | 2025-09-20 |
 | [Weekday/Anything](https://open.spotify.com/track/5Gd3XDWIBPJ0lbFPzavKqS) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Thread](https://open.spotify.com/album/4ngbnWenF6xcw6gtZzGOFH) | 6:00 | 2023-04-28 | 2023-07-15 |
 | [When i'm blue](https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [When i'm blue](https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC) | 4:41 | 2023-02-23 | 2023-09-02 |

@@ -1,13 +1,437 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. Featuring new music from  Ms* Gloom and Car Culture plus the latest cuts from Bennett Coast, ATRIP,  and more.",
-  "num_followers": 50682,
+  "description": "The latest tracks from Mad Decent and friends. Featuring Yellow Claw's 10th Anniversary Edition of their Blood For Mercy album.",
+  "num_followers": 50675,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAdU9zx6pJZ8iP5xt1l+OTzsqjsDm2H",
+  "snapshot_id": "AAAdV/WQnVLXm43WvyiJRl0dLEfSrEWP",
   "tracks": [
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Roller - 2025 Remaster",
+      "url": "https://open.spotify.com/track/4aiNvu0I7nvz2eWQOVZzur"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Lil Eddie",
+          "url": "https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi"
+        }
+      ],
+      "duration_ms": 216836,
+      "name": "Higher (feat. Lil Eddie) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/2dVXKr6xNogBVNwOMl1A1D"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 256806,
+      "name": "For The Thrill (feat. Becky G) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/4IQtJlqmszSthQ0G6kXokI"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 246418,
+      "name": "Nightmare (feat. Pusha T & Barrington Levy) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/7zobyXnvVElpyHGEm3Cym5"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 168703,
+      "name": "In My Room (feat. Ty Dolla $ign & Tyga) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/05n5ocTSFHEvB0iUULqQ0v"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Kyler England",
+          "url": "https://open.spotify.com/artist/6YvjlSVLWjXqSvATafQkSK"
+        }
+      ],
+      "duration_ms": 216396,
+      "name": "Lifetime (feat. Kyler England) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/7drFRAWEJ1zclNVSatfb17"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Flux Pavilon",
+          "url": "https://open.spotify.com/artist/2DTtk8855U7aJdEldXpIoz"
+        },
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "Catch Me (feat. Naaz) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/3CZ2kQYvOmuLTYLX8uMf3U"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Lil Eddie",
+          "url": "https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi"
+        }
+      ],
+      "duration_ms": 222643,
+      "name": "We Made It (feat. Lil Eddie) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/20HNq74ZRzgmieVM3rEx6t"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
+        }
+      ],
+      "duration_ms": 193070,
+      "name": "Feel It (feat. Naaz) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/0jpTCXmTyHFRrLvfyu4A6Y"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Maty Noyes",
+          "url": "https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA"
+        }
+      ],
+      "duration_ms": 204432,
+      "name": "Drowning In Champagne (feat. Maty Noyes) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/1oe8mtuExJ5WSe5u92t83h"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "SEREBRO",
+          "url": "https://open.spotify.com/artist/1Ulwacsns9Me7dz4OVwkiQ"
+        }
+      ],
+      "duration_ms": 189140,
+      "name": "Blood Diamond (feat. Serebro) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/46hwdNFKOsqg8Lkp6h68WX"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 156655,
+      "name": "Sin City - 2025 Remaster",
+      "url": "https://open.spotify.com/track/7ceh4ZhWycgN5TwM0YtdGo"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "duration_ms": 173042,
+      "name": "Bun It Up (feat. Beenie Man) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/2xEpbsbmNrkMhTqPqJ8700"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Cesqeaux",
+          "url": "https://open.spotify.com/artist/1EAFXic0Cfiwpe7nSuTrGL"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 227505,
+      "name": "Wild Mustang (feat. Becky G) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/6YVKPGERAzeqfIjBRAsWIA"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Dirtcaps",
+          "url": "https://open.spotify.com/artist/2PC3QVYzOPekKLIppjFUoi"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        }
+      ],
+      "duration_ms": 228872,
+      "name": "Ride Or Die (feat. Kalibwoy) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/3Ot8sqfes70uJoUjQOocc3"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 208241,
+      "name": "Kaolo Pt. 3 - 2025 Remaster",
+      "url": "https://open.spotify.com/track/4NwF4CX0zgWyRSNjlIwVyN"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 153515,
+      "name": "In My Room - \u20acURO TRA$H Remix",
+      "url": "https://open.spotify.com/track/66MJNvHgMM4Igu3isUuJx6"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Dj Jedag Jedug",
+          "url": "https://open.spotify.com/artist/5dX0YsbXvCbqy1CGJ4efq5"
+        },
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
+        }
+      ],
+      "duration_ms": 125082,
+      "name": "Catch Me (feat. Naaz) - Dj Jedag Jedug Remix",
+      "url": "https://open.spotify.com/track/2VnuwAuvVHxrRP778xWUG3"
+    },
+    {
+      "added_at": "2025-10-24 22:05:48",
+      "album": {
+        "name": "Blood For Mercy (10th Anniversary 2025 Remaster)",
+        "url": "https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "BRONZY",
+          "url": "https://open.spotify.com/artist/2hwlbb7qNW1pve5XHrpi8e"
+        },
+        {
+          "name": "PODLESNOV",
+          "url": "https://open.spotify.com/artist/6f2JUrSRbB4Nyz4BIVurSA"
+        },
+        {
+          "name": "SEREBRO",
+          "url": "https://open.spotify.com/artist/1Ulwacsns9Me7dz4OVwkiQ"
+        }
+      ],
+      "duration_ms": 188633,
+      "name": "Blood Diamond (feat. Serebro) - BRONZY & PODLESNOV Remix",
+      "url": "https://open.spotify.com/track/5y2YlZx3hJwJYA3LtmEeog"
+    },
     {
       "added_at": "2025-10-16 20:40:25",
       "album": {

@@ -4,7 +4,7 @@
 
 > Photo : Soolking
 
-405 songs - 19 hr 2 min
+405 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [AIR FORCE BLANCHE](https://open.spotify.com/track/6bcDH1OOwuKzfsByqsQKhH) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [AIR FORCE BLANCHE](https://open.spotify.com/album/61QF4MUk8qSxpaXlsxjjKQ) | 3:06 | 2025-06-19 |  |
 | [ALICANTE](https://open.spotify.com/track/5BII2RgPk98nXOajxZrODH) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Comment T'aimer Sans Diamants ?](https://open.spotify.com/album/29XRiLlkr4iLRbDz319jM7) | 2:58 | 2025-04-17 | 2025-10-24 |
 | [Allez \(feat\. PLK & Naps\)](https://open.spotify.com/track/50XM4fyredImTQ4NLGaggW) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Allez \(feat\. PLK & Naps\)](https://open.spotify.com/album/0wMCJ6INLI8ssVC5x3azVU) | 3:11 | 2024-07-11 | 2024-11-08 |
+| [Allo](https://open.spotify.com/track/7royjNIb46zGAkCvSdpWz2) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Queen](https://open.spotify.com/album/6dzjdYfWaGwfMZZaJXVlYJ) | 2:15 | 2025-10-23 |  |
 | [AMORÉ](https://open.spotify.com/track/15mVPgb7A6uoenya5eRKSo) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [AMORÉ](https://open.spotify.com/album/42Pgf1jr36NyHSSEnDfiQW) | 2:24 | 2024-12-12 | 2025-02-21 |
 | [Ana Wana](https://open.spotify.com/track/3Vmk65ChDVLhx64EYpysPs) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Cheb Abbes](https://open.spotify.com/artist/4ItLTIz60SzR31tzOu5LjO) | [Ana Wana](https://open.spotify.com/album/5MiXDx9DGa1XSMfaCOizoG) | 2:37 | 2024-08-08 | 2024-08-16 |
 | [Angela](https://open.spotify.com/track/5tl5NRfjvOEZaVuWBQHOf9) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ?](https://open.spotify.com/album/13DOol2YIm4SV5opoucJpu) | 2:54 | 2024-12-19 | 2025-05-16 |
@@ -377,7 +378,6 @@
 | [Toute la nuit](https://open.spotify.com/track/4kzHds1mgNB0kuCLHeOGiV) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [Toute la nuit](https://open.spotify.com/album/0GNUPfnVUIn0Pbm3KLB8NS) | 3:18 | 2025-10-09 |  |
 | [TOXIC](https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 2:40 | 2025-06-19 |  |
 | [TP](https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq) | [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ouvert tout l'été](https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB) | 2:58 | 2023-09-28 | 2023-12-14 |
-| [Track 9](https://open.spotify.com/track/7royjNIb46zGAkCvSdpWz2) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [Traficante](https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Traficante](https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV) | 2:56 | 2023-12-14 | 2024-01-26 |
 | [Trop Bizarre](https://open.spotify.com/track/6JnYVpEvdSMKYwLUfoM4v7) | [Kery James](https://open.spotify.com/artist/5ydAcIK2KdpBIbL0yGFJle), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw) | [Trop Bizarre](https://open.spotify.com/album/39ZydYNYrTrRoRys0tqMaI) | 4:32 | 2023-09-28 | 2024-05-10 |
 | [TROP TARD](https://open.spotify.com/track/4g6v0Y4KEwdfwCDii1SFob) | [ZZ](https://open.spotify.com/artist/51loVlVgRomkJwd04A6B1e) | [TROP TARD](https://open.spotify.com/album/1mkOVWIB0xuPts7ASixrs7) | 2:26 | 2025-08-28 | 2025-09-19 |

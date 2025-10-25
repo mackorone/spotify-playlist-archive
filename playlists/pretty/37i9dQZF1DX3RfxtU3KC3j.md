@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,944 likes - 74 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,916 likes - 74 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 2 | [Sar](https://open.spotify.com/track/7aQOJQ2UjcpbVzFbtUpi31) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6) | [Sar](https://open.spotify.com/album/51A9DqO0EH2onh4Mvylbtl) | 3:23 |
 | 3 | [Nereye Kadar](https://open.spotify.com/track/5Xil6P4sBspMCpHdL2Ysuj) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Nereye Kadar](https://open.spotify.com/album/2rt2ohV5pqvqMmbKItLnqW) | 3:21 |
 | 4 | [Akbaba](https://open.spotify.com/track/2HNfJEMK5i9W2PvyxOHaPY) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Simulakrum](https://open.spotify.com/album/7M8fpUByQXbGPzb16ukWmf) | 4:06 |
-| 5 | [İSYAN](https://open.spotify.com/track/0YRkTjFtNYpvs1Fn6HIs6F) | [Dilhan Şeşen](https://open.spotify.com/artist/3Xq8A0LnlgWAIFOaRM6LE1) | [](https://open.spotify.com/album/null) | 3:05 |
+| 5 | [İSYAN](https://open.spotify.com/track/0YRkTjFtNYpvs1Fn6HIs6F) | [Dilhan Şeşen](https://open.spotify.com/artist/3Xq8A0LnlgWAIFOaRM6LE1) | [KAÇAK ELEKTRİK](https://open.spotify.com/album/2gsMKoRLXvzXjGzFj8nU9h) | 3:05 |
 | 6 | [Aikido\-Tekvando](https://open.spotify.com/track/4ncEXQ6xZ7G0n1CkIAX3S2) | [Nova Norda](https://open.spotify.com/artist/0A5AyLcMXZRmLE7i2maS0R) | [Aikido\-Tekvando](https://open.spotify.com/album/5FQyhvTfsgntRHqOk2tT7v) | 3:15 |
 | 7 | [Kimlere Bel Bağlamışız](https://open.spotify.com/track/1QRZLAQunkyrfQVNgOPPdY) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [YGA](https://open.spotify.com/artist/759ZyzBKCRfVS5e9emtsCu) | [Kimlere Bel Bağlamışız](https://open.spotify.com/album/6xMCi0gh0coDN8Gsqzj8nZ) | 2:46 |
 | 8 | [Hayat](https://open.spotify.com/track/0Ni5HAa6Hqke9mJhqDJ1HB) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO), [Yahya Babuz](https://open.spotify.com/artist/3wCsTznzEonkjTGANeKW98) | [Hayat](https://open.spotify.com/album/1aA1mPgnU7BgzonbLzKGbn) | 2:22 |

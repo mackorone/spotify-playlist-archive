@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Lila\-May
 
-853 songs - 2 day 12 hr 36 min
+853 songs - 2 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Lonely](https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3) | [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Lonely](https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3) | 5:02 | 2022-06-23 | 2022-10-28 |
 | [Long Story Short](https://open.spotify.com/track/4ikG0zxuFINnTcaxCbW4RD) | [Romain Pilon](https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z), [Orlando Le Fleming](https://open.spotify.com/artist/6SW6dyOPmcKpO0ZwiUDZj5), [Mark Whitfield Jr.](https://open.spotify.com/artist/5E0blTIGjZLSHXBhXmjYgl), [Alexis Valet](https://open.spotify.com/artist/1VBaICEeEhOKIPra2zkbD4), [Jean\-Paul Estiévenart](https://open.spotify.com/artist/2ksFkwxoKd9oSKDrCz4Dsv) | [Long Story Short](https://open.spotify.com/album/1lSG9GKeYCczhhThAo2ElK) | 6:30 | 2025-02-27 | 2025-06-06 |
 | [Long Way From Home \(feat\. Eric Harland\)](https://open.spotify.com/track/6nEICyQWdK4EwHAGj5HViA) | [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [Long Way from Home \(feat\. Eric Harland\)](https://open.spotify.com/album/3dKw67fLeR7pHf4w22Hfl3) | 5:17 | 2022-04-14 | 2022-06-17 |
+| [Longest Way Round](https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Teal Dreams](https://open.spotify.com/album/2AzTf9LVZzgJ7DoN1nE7uQ) | 3:42 | 2025-10-23 |  |
 | [Lookin' Up](https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [Lookin' Up](https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk) | 3:02 | 2022-11-24 | 2023-02-17 |
 | [Lord Have Mercy](https://open.spotify.com/track/4BujRkyN9HhlOYXVJhGbAA) | [Michel Jonasz](https://open.spotify.com/artist/1xbjT6BnZk2j6PZhf5VZR7) | [SOUL](https://open.spotify.com/album/5u6ypyEMZRu3DTStrOyL8J) | 5:21 | 2024-10-03 | 2025-01-24 |
 | [Love Anthem](https://open.spotify.com/track/7CFEsAjOQdDHjHWzgyDEz1) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Love Anthem](https://open.spotify.com/album/1bHbEieWlnDRsghM58cmvd) | 4:04 | 2024-06-06 | 2024-09-20 |
@@ -771,7 +772,6 @@
 | [Tom Sawyer \(feat\. Chris Thile\)](https://open.spotify.com/track/2xoKI8Q32j85vB2CsutaAd) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Tom Sawyer \(feat\. Chris Thile\)](https://open.spotify.com/album/5BixI41jRQeNxOCG4IqoLQ) | 7:44 | 2022-04-14 | 2022-04-22 |
 | [Tomorrow](https://open.spotify.com/track/2OmKfDdY4wSdvTB9YuCJ4t) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8), [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [The Return of Slick](https://open.spotify.com/album/1t2kpu4LHR0O5PsQLxSQnp) | 3:19 | 2025-10-16 |  |
 | [Top Hat, White Tie and Tails \- Live](https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella At The Hollywood Bowl: The Irving Berlin Songbook \(Live\)](https://open.spotify.com/album/7aebz42KPbU8Otic1ze11x) | 2:46 | 2022-06-23 | 2022-08-26 |
-| [Track 14](https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [Transe](https://open.spotify.com/track/6o9JFWqgg1RiVoUqv5d0yk) | [Monsieur MÂLÂ](https://open.spotify.com/artist/5N5NNRHYscHxAzcCPCtj7t) | [Transe](https://open.spotify.com/album/4H6duHfqSqD9pLd2egTzvL) | 6:23 | 2023-07-20 | 2023-10-13 |
 | [Transformation](https://open.spotify.com/track/6G6XGVNCOV2tfwv3r2QlhY) | [Pamina Beroff](https://open.spotify.com/artist/5o2LIkj5gUj33wuzmyiE7M), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi) | [Unfolding](https://open.spotify.com/album/3OGyLTv3Ijupp1zRw88e7f) | 3:58 | 2022-12-22 | 2023-03-03 |
 | [Trop beau pour être vrai](https://open.spotify.com/track/3GZQSblqvzUGvA7LmBXXSm) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Biréli Lagrène plays Loulou Gasté](https://open.spotify.com/album/0TnO3HNJuygK4cOPp8mefA) | 2:32 | 2023-11-02 | 2023-11-24 |

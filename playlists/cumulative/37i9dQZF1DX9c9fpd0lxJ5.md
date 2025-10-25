@@ -4,7 +4,7 @@
 
 > indie tunes to make you shine \(✿◠‿◠\)
 
-266 songs - 14 hr 49 min
+267 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Persona Favorita](https://open.spotify.com/track/6WklRgGMJsQEB74MvnS36U) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 4:01 | 2023-03-03 | 2024-04-19 |
 | [Personita Buena \- CLUBZ Remix](https://open.spotify.com/track/7EXx0bIOSyM0iVABq82jrw) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Personita Buena \(CLUBZ Remix\)](https://open.spotify.com/album/34Pb7ScJyBVS4SWbwSxFyA) | 3:08 | 2025-02-14 |  |
 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 | 2021-12-29 | 2023-01-13 |
+| [PIRRI](https://open.spotify.com/track/4PKnU6PICOeVRSJYVYDBDz) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [PIRRI](https://open.spotify.com/album/4DWUUTlu2iKVG56uK3WIhB) | 3:12 | 2025-10-24 |  |
 | [Por qué te quiero tanto?](https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Por qué te quiero tanto?](https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih) | 3:50 | 2023-08-25 | 2024-06-01 |
 | [Primer encuentro](https://open.spotify.com/track/4emJgbXvVStk13TJOQ3xWV) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg), [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [Primer encuentro](https://open.spotify.com/album/6LHPL2nlo5M8tx5Eyc0nXm) | 4:06 | 2024-03-22 |  |
 | [Promesas De Origami](https://open.spotify.com/track/53ZG7GgHBCkAIhWSC8ksYX) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Promesas de Origami](https://open.spotify.com/album/7HfXvuT1dU2njGRxqBLoSa) | 2:26 | 2024-05-31 |  |
@@ -213,7 +214,7 @@
 | [Rompecabezas](https://open.spotify.com/track/5KPVawlzPpOuQ3qqvny35p) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/2czVuP4m56SE64ctzcXclC) | 5:32 | 2022-12-06 | 2023-04-15 |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-22 | 2024-10-05 |
 | [s a l u d o s](https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 3:17 | 2021-12-29 | 2023-01-13 |
-| [Sad Lullaby](https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Sad Lullaby](https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd) | 3:25 | 2021-12-29 |  |
+| [Sad Lullaby](https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Sad Lullaby](https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd) | 3:25 | 2021-12-29 | 2025-10-25 |
 | [Santo Domingo](https://open.spotify.com/track/0iLN9FL8qQNsd13N5TVPAX) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Santo Domingo](https://open.spotify.com/album/7MHtcxNInflrOkle3BVSSI) | 2:36 | 2022-12-06 |  |
 | [Sexy](https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Quemar La Casa](https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE) | 4:03 | 2023-11-09 |  |
 | [Si Hay Algo](https://open.spotify.com/track/4RBCEwBRA0oHa49UwmhT98) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [El Tiempo Locura Todo](https://open.spotify.com/album/2dlQczNA78nEuIY8KOWfrp) | 4:04 | 2021-12-29 |  |

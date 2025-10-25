@@ -1,13 +1,29 @@
 {
-  "description": "Dendang Dangdut teratas. Cover: Afan",
-  "num_followers": 194776,
+  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah",
+  "num_followers": 194816,
   "original_name": "Dangdut Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMWScP+TONN2BRcVznqi/VB1hjqu",
+  "snapshot_id": "AAAAAPCdR/OqXwkKfIBF8dSJLdx/iFjR",
   "tracks": [
+    {
+      "added_at": "2025-10-24 08:30:42",
+      "album": {
+        "name": "Obati Rinduku (Acoustic)",
+        "url": "https://open.spotify.com/album/5cXRZIwFeZwDvcfTxM4zt9"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "duration_ms": 258367,
+      "name": "Obati Rinduku - Acoustic",
+      "url": "https://open.spotify.com/track/67cxYPcbVFaHZlrPrIGPE0"
+    },
     {
       "added_at": "2025-10-17 06:14:15",
       "album": {

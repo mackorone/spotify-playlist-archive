@@ -2,9 +2,9 @@
 
 ### [boleritos](https://open.spotify.com/playlist/37i9dQZF1DX64myInc1vfu)
 
-> The new bolero era\. Los boleritos de hoy, just for you\. Cover: Escarlata
+> The new bolero era\. Los boleritos de hoy, just for you\. Cover: iLe
 
-156 songs - 8 hr 47 min
+158 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Déjame Conocerte](https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Déjame Conocerte](https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP) | 4:39 | 2023-08-25 | 2025-01-27 |
 | [Déjame Conocerte](https://open.spotify.com/track/15ruMfVVmUmseegU8b1VUU) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Déjame Conocerte](https://open.spotify.com/album/64jzkUox8C2chUZAxUerD2) | 3:37 | 2025-01-17 |  |
 | [El Muchacho de los Ojos Tristes \- Sesión Jeanette](https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sesión Jeanette](https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg) | 3:27 | 2023-03-03 | 2023-07-01 |
+| [El Verdugo](https://open.spotify.com/track/5LOPIEbkLGsgmn4KfLuNAq) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [El Verdugo](https://open.spotify.com/album/7pL9pdUY8j7CnTSJlppQ2m) | 2:52 | 2025-10-24 |  |
 | [Embrujo](https://open.spotify.com/track/3DH72cjjj9nx1jKhvP2bhq) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Embrujo](https://open.spotify.com/album/51k6mLimFAmnXcRbpyHbHP) | 3:19 | 2023-07-21 | 2023-09-02 |
 | [En las Noches](https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [En las Noches](https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e) | 3:59 | 2022-02-16 | 2025-04-06 |
 | [En un Abrir y Cerrar](https://open.spotify.com/track/50061uLdTYvEZtebm7fIip) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [En un Abrir y Cerrar](https://open.spotify.com/album/6sYSywBDpaNdgpQhceJAQd) | 3:19 | 2022-05-31 | 2022-07-14 |
@@ -92,6 +93,7 @@
 | [Me Vas a Hacer Falta](https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 4:00 | 2022-02-16 |  |
 | [Me Voy \(4:21 A.M.\)](https://open.spotify.com/track/2hNPHB3dAu13yZfXp8FhE1) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Por Si No Te Vuelvo a Ver, Te Quiero](https://open.spotify.com/album/1kssQiCRNjE68j0J1Aphik) | 2:28 | 2022-02-16 | 2022-07-29 |
 | [Mi Último Fracaso](https://open.spotify.com/track/33j8pvz67cQFfKX6PshhXH) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d), [La Flor del Recuerdo](https://open.spotify.com/artist/3tWvay3ptxY5kOmd8SlaAL) | [Mi Último Fracaso](https://open.spotify.com/album/70sioPX15Egeve5rYXANiB) | 4:25 | 2022-02-16 | 2022-07-28 |
+| [Muy Agradecido](https://open.spotify.com/track/7aQGORkdFvIqmMCYyFVK1X) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Tiza](https://open.spotify.com/album/6x4sQOXwYw8JdEdMCfXvjs) | 2:45 | 2025-10-24 |  |
 | [Mírame A Los Ojos](https://open.spotify.com/track/4WAXcK0n5Thc1DD2f3pv9O) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [Lágrimas](https://open.spotify.com/album/3PTFecBLHp4dV9NZo6SSmT) | 3:08 | 2023-06-30 | 2023-07-08 |
 | [No Respondo Pt\. 2](https://open.spotify.com/track/3ZDyawmx3X2cazcFYv74F6) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [No Respondo Pt\. 2](https://open.spotify.com/album/6jHmrZG9ZytJMnd5VoHQh2) | 4:08 | 2023-08-25 | 2023-11-04 |
 | [No Soy Nada](https://open.spotify.com/track/3lH1wnABnFl7xGYdjRpcOU) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [No Soy Nada](https://open.spotify.com/album/2TA2MTtDOmUViZ9disb6Y6) | 4:12 | 2022-02-16 | 2022-07-29 |
@@ -100,7 +102,7 @@
 | [Odio Gitano](https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK), [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Juntos Otra Vez](https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr) | 2:37 | 2023-02-13 |  |
 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 | 2022-02-16 |  |
 | [Ojos de Serpiente](https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Ojos de Serpiente](https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt) | 2:51 | 2022-02-16 |  |
-| [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 | 2022-02-16 |  |
+| [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 | 2022-02-16 | 2025-10-25 |
 | [Para No Olvidar](https://open.spotify.com/track/5V2PAJnOJn7H4e8FwSbRdr) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [Para No Olvidar](https://open.spotify.com/album/2oXUAq2lYbpdCVkJjDdZQy) | 4:04 | 2022-05-31 | 2023-10-29 |
 | [Para No Romperme](https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Para No Romperme](https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh) | 2:51 | 2023-03-17 |  |
 | [Perfidia](https://open.spotify.com/track/14PXI56j53LkKFLexnpf8n) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Perfidia](https://open.spotify.com/album/101igY1HyXs27avcElHKzj) | 3:31 | 2023-06-30 | 2025-09-22 |
@@ -139,7 +141,7 @@
 | [Te Mata](https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Te Mata](https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z) | 3:52 | 2023-10-20 |  |
 | [Te Vi Partir](https://open.spotify.com/track/3tiiu0Znrc4UVqTE2lYAaB) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Marco di Mauro](https://open.spotify.com/artist/62x8NZZ2E8iLiCTNM7zWvK) | [Te Vi Partir](https://open.spotify.com/album/6sRBpHJRwbwEEN8LceDyX9) | 3:10 | 2022-02-16 | 2022-06-01 |
 | [Tengo Algo Que Decirte](https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Tengo Algo Que Decirte](https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A) | 3:26 | 2022-02-16 | 2024-10-29 |
-| [Tengo Todo Contigo](https://open.spotify.com/track/5Kqs49o8gpjm08E3EAr6sD) | [Thyan V](https://open.spotify.com/artist/4flNO0lNvXAJmzZpWTvXzb) | [Tengo Todo Contigo](https://open.spotify.com/album/1rtHQK6dXbLXZxdFg7iwPm) | 3:22 | 2024-06-07 |  |
+| [Tengo Todo Contigo](https://open.spotify.com/track/5Kqs49o8gpjm08E3EAr6sD) | [Thyan V](https://open.spotify.com/artist/4flNO0lNvXAJmzZpWTvXzb) | [Tengo Todo Contigo](https://open.spotify.com/album/1rtHQK6dXbLXZxdFg7iwPm) | 3:22 | 2024-06-07 | 2025-10-25 |
 | [Tesoro](https://open.spotify.com/track/1Wakq6TJMEZGCJ99xW23lU) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Tesoro](https://open.spotify.com/album/7135vNimUAz5hmePw0CbVp) | 3:33 | 2023-01-13 | 2023-07-01 |
 | [Tiempo De Reír](https://open.spotify.com/track/7tnj2t2hFnDvxDteGuO9TV) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Parceiros, Vol\. 3](https://open.spotify.com/album/0iOAjduxkyRrCrU1n4G8Km) | 3:39 | 2025-01-24 | 2025-03-25 |
 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 | 2022-09-19 |  |

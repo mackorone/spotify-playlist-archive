@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. 🦇 Kannessa Ice Nine Kills.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,627 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,629 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 9 | [Nothing from This World \- Radio Edit](https://open.spotify.com/track/1PBIVkS3Jp6wtdTLiop2m0) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [Nothing from This World \(Radio Edit\)](https://open.spotify.com/album/2JRcUb8SkJnXPjsuoX0oXw) | 4:13 |
 | 10 | [Rockin' Horse](https://open.spotify.com/track/7HitV67b15bfRfrECtDZ7J) | [Michael Monroe](https://open.spotify.com/artist/5Ul6r5lUSOraWUidNnsILZ) | [Rockin' Horse](https://open.spotify.com/album/4ed2C8dpNH1NGawDzOkrSh) | 2:34 |
 | 11 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 |
-| 12 | [Cold \- 2025 VERSION](https://open.spotify.com/track/3iJD97o04av0fRPMmciboH) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [](https://open.spotify.com/album/null) | 3:46 |
+| 12 | [Cold \- 2025 VERSION](https://open.spotify.com/track/3iJD97o04av0fRPMmciboH) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [BEST OF \(Volume 2\)](https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU) | 3:46 |
 | 13 | [Still Waiting](https://open.spotify.com/track/4omQCDK1Q3ypzkKHZmQaPt) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [FRANK ZUMMO](https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz) | [Still Waiting](https://open.spotify.com/album/0Ha1jsS1Y0BZwiOK1mgWOc) | 2:40 |
-| 14 | [Stone Cold Lover](https://open.spotify.com/track/3x3Tp1p9vT8AuC10pEUgeh) | [Shiraz Lane](https://open.spotify.com/artist/0TTu3zbvW4iFfls1GDbyGk) | [](https://open.spotify.com/album/null) | 3:38 |
+| 14 | [Stone Cold Lover](https://open.spotify.com/track/3x3Tp1p9vT8AuC10pEUgeh) | [Shiraz Lane](https://open.spotify.com/artist/0TTu3zbvW4iFfls1GDbyGk) | [In Vertigo](https://open.spotify.com/album/16BSkSdXrF1FzNRAjOK01B) | 3:38 |
 | 15 | [Nothing Else Matters](https://open.spotify.com/track/0nLiqZ6A27jJri2VCalIUs) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 6:28 |
 | 16 | [Even In Arcadia](https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:28 |
 | 17 | [Master Of Thunder](https://open.spotify.com/track/0JbUpnX2WC3dI8o43Oo9a1) | [Reckless Love](https://open.spotify.com/artist/0Nkyv1Zj8Xh7Lux3KzIQCl) | [Master Of Thunder](https://open.spotify.com/album/2Hq5uDZcgG0Dn9pdOzFDXB) | 2:51 |

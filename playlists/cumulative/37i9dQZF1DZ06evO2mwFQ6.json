@@ -311,6 +311,42 @@
     },
     {
       "album": {
+        "name": "Built For Speed",
+        "url": "https://open.spotify.com/album/3lHKHRM23ctBS8tJjISrJZ"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253613,
+      "name": "Dirt Racer",
+      "url": "https://open.spotify.com/track/2EIlEFGjGOOO47769Fv5Uk"
+    },
+    {
+      "album": {
+        "name": "Adam Brand (Special Bonus Tour Edition)",
+        "url": "https://open.spotify.com/album/6gbQrmthnmtDT6soaOitlD"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173840,
+      "name": "Dirt Track Cowboys",
+      "url": "https://open.spotify.com/track/0kqfqRf0Sfpej2PWkagoAq"
+    },
+    {
+      "album": {
         "name": "Adam Brand",
         "url": "https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK"
       },
@@ -322,7 +358,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 173840,
       "name": "Dirt Track Cowboys",
       "url": "https://open.spotify.com/track/6h6lmoL3DyP2oujHiV02CI"
@@ -616,6 +652,24 @@
     {
       "album": {
         "name": "Get Loud",
+        "url": "https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234853,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/5TKo8UAKiCZdRsBzYfV89G"
+    },
+    {
+      "album": {
+        "name": "Get Loud",
         "url": "https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51"
       },
       "artists": [
@@ -626,7 +680,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 234853,
       "name": "Get Loud",
       "url": "https://open.spotify.com/track/5eJCHC6NaH5pXHqSu6Kdrk"
@@ -857,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Adam Brand (Special Bonus Tour Edition)",
+        "url": "https://open.spotify.com/album/6gbQrmthnmtDT6soaOitlD"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203840,
+      "name": "Grandpa's Piano",
+      "url": "https://open.spotify.com/track/1g11wqJpt5T3TpDlgreQvj"
+    },
+    {
+      "album": {
         "name": "Adam Brand",
         "url": "https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK"
       },
@@ -868,7 +940,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 203840,
       "name": "Grandpa's Piano",
       "url": "https://open.spotify.com/track/6NWWyD73Tb728WqsWQz9eg"
@@ -1262,7 +1334,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 262360,
       "name": "Little Girl",
       "url": "https://open.spotify.com/track/6jra5ua5h7zALCx3PkAz2m"
@@ -1338,7 +1410,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 218133,
       "name": "Love Away The Night - with Adam Brand",
       "url": "https://open.spotify.com/track/5nhyF9rPoP0tjqXNd7BRtj"
@@ -1516,7 +1588,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 237933,
       "name": "Never Live Without You",
       "url": "https://open.spotify.com/track/2quoZq5GjF0JUVvVIBITTB"
@@ -1704,10 +1776,28 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 235773,
       "name": "Ready For Love",
       "url": "https://open.spotify.com/track/3YSl4i3tefmSES68EHJNpV"
+    },
+    {
+      "album": {
+        "name": "Get Loud",
+        "url": "https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "She's Country",
+      "url": "https://open.spotify.com/track/5OWMPMZNh6W0AEBUFUQD1h"
     },
     {
       "album": {
@@ -1722,7 +1812,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 222493,
       "name": "She's Country",
       "url": "https://open.spotify.com/track/6RsEU2x1ufggklj11Xg1Mt"
@@ -2254,7 +2344,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 186200,
       "name": "Working Class Man",
       "url": "https://open.spotify.com/track/3Q1PITIQJbmwxxOiZmCxeE"

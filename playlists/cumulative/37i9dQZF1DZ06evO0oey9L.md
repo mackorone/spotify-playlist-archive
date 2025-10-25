@@ -4,7 +4,7 @@
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-118 songs - 5 hr 51 min
+119 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Estilo Militar](https://open.spotify.com/track/5YzIk26HIxTcchwGwWQ5p9) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Los De La Villa](https://open.spotify.com/artist/4k0T7XGZDSFv5fnAnZUNHl) | [Estilo Militar](https://open.spotify.com/album/5e51uEalSKB8Rb6PChOkCQ) | 2:55 | 2023-04-04 | 2024-01-30 |
 | [Fino El Porteson](https://open.spotify.com/track/0Kkw5A0E9THKHiZwpqY78h) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq) | 2:27 | 2022-07-23 | 2022-08-11 |
 | [Fino El Porteson](https://open.spotify.com/track/6QqbWrnaAFOKI9jv0nbAkf) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:27 | 2022-08-10 |  |
-| [Gabbana Es El Porte](https://open.spotify.com/track/4KSo7rlreDnU5TuilX7vLi) | [Ismael CM](https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Gabbana Es El Porte](https://open.spotify.com/album/3BJkR82p0ArgHkjaZLyAld) | 2:31 | 2023-07-15 |  |
+| [Gabbana Es El Porte](https://open.spotify.com/track/4KSo7rlreDnU5TuilX7vLi) | [Ismael CM](https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Gabbana Es El Porte](https://open.spotify.com/album/3BJkR82p0ArgHkjaZLyAld) | 2:31 | 2023-07-15 | 2025-10-25 |
 | [Galil Rameado](https://open.spotify.com/track/7mTQYSdS2N4Fb9T2ieH7dl) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Galil Rameado](https://open.spotify.com/album/1QLEQpE84nhDO17QuAmyzT) | 3:16 | 2022-06-01 | 2023-03-22 |
 | [Gerardo V1](https://open.spotify.com/track/3iFeFrtR3ubraz7cbKwzWX) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:34 | 2022-08-09 | 2023-01-18 |
 | [Gerardo V1](https://open.spotify.com/track/5vVHHD6VOh5KRn3gzju0Sk) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq) | 2:34 | 2022-07-23 | 2022-08-10 |
@@ -75,6 +75,7 @@
 | [La Noche Anterior](https://open.spotify.com/track/0eDNOhglSxYP2r4jelyE1a) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [La Noche Anterior](https://open.spotify.com/album/1fz4sp1j66qf159oNik9zv) | 3:33 | 2022-06-01 | 2023-06-06 |
 | [Lo Que Me Distingue](https://open.spotify.com/track/2evqVdCxI2wKa5G0fjnEgB) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 3:16 | 2022-06-01 |  |
 | [Loco Malandro](https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:41 | 2022-06-01 |  |
+| [Los 3 De Siempre](https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Los 3 De Siempre](https://open.spotify.com/album/2WsYk6pBguIwdPjU0At9DE) | 2:55 | 2025-10-25 |  |
 | [Los de La Casa](https://open.spotify.com/track/6vpPBRAI1dTKIjH4SfGdBe) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.2](https://open.spotify.com/album/7mWhnBQvUXA3CSSMCMt9xg) | 4:01 | 2024-08-24 |  |
 | [Me Destapo Un Bote](https://open.spotify.com/track/5sKCVKfm9B7uWpIun0Ftwj) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Me Destapo Un Bote](https://open.spotify.com/album/3HvE0DyvODw0JzVCdWdVYF) | 3:00 | 2025-04-28 | 2025-08-14 |
 | [Me Dicen Rana y Brinco](https://open.spotify.com/track/3VJHjovNyzkOw4CUdXOp6Y) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Job Gallegos](https://open.spotify.com/artist/76lYBIbMnUBukvLlYZFGrH), [Cuadra Distante](https://open.spotify.com/artist/18YbbzNXbzfAYvguEzcQ5D) | [Me Dicen Rana y Brinco](https://open.spotify.com/album/3ecvio5Id4s2NCOHMWKFbf) | 3:08 | 2024-03-21 | 2024-09-17 |

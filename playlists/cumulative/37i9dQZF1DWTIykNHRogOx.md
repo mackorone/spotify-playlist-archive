@@ -4,7 +4,7 @@
 
 > Les  meilleures nouveautés de la chanson française avec Benjamin Biolay
 
-241 songs - 13 hr 19 min
+241 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [mes nuits à toi](https://open.spotify.com/track/2yCPDgKuOtM0KQcktQocb5) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [dans ma maison](https://open.spotify.com/album/5sa26UmvekC0g0AeJsxArm) | 2:52 | 2025-07-17 | 2025-09-27 |
 | [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 | 2025-07-31 |  |
 | [Mode d'emploi](https://open.spotify.com/track/3EsRNFcFTVtCyHYtVhMa4P) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Mode d'emploi](https://open.spotify.com/album/1WxJGF9ruFXR0wroN8DWHN) | 3:30 | 2024-06-27 | 2024-11-08 |
+| [Mon amour](https://open.spotify.com/track/1VQPARXZ68Zxptzvmi4ZvJ) | [Carla De Coignac](https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B) | [Confession](https://open.spotify.com/album/2thXDAJEb9XlzTpi8JN0h6) | 4:08 | 2025-10-23 |  |
 | [Mon épaule](https://open.spotify.com/track/20uMoMNEt8BxWdOP7m19hj) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 2:43 | 2024-11-21 | 2025-04-11 |
 | [Mon épaule](https://open.spotify.com/track/5nzGstfDNJdV1LvN7rehAN) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Mon épaule](https://open.spotify.com/album/0Durz9Xr5OHJJG7P8NT67b) | 2:43 | 2024-06-27 | 2024-10-25 |
 | [Mélancolie](https://open.spotify.com/track/3PuQhT22z1XrSwdmGankTn) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Grand piano](https://open.spotify.com/album/45AWJFkNR4ZWoMNiauQFUd) | 3:04 | 2025-01-16 | 2025-06-13 |
@@ -224,7 +225,6 @@
 | [Tout dit](https://open.spotify.com/track/5rgGCPU9u78iGV0yIdextZ) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout dit](https://open.spotify.com/album/5D7Egi9aJlMcIBbwNAga1e) | 2:31 | 2024-11-07 | 2025-03-21 |
 | [Tout fait pour](https://open.spotify.com/track/5GibkKOKTC3MHSuGVMrwUj) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout fait pour](https://open.spotify.com/album/55unj2AEwXhyHcesIt55jx) | 3:26 | 2025-10-23 |  |
 | [Tout sera pardonné](https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Tout sera pardonné](https://open.spotify.com/album/6Y10RjV0HW6UfRk29lY6Mg) | 4:12 | 2025-01-16 | 2025-06-13 |
-| [Track 5](https://open.spotify.com/track/1VQPARXZ68Zxptzvmi4ZvJ) | [Carla De Coignac](https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [Tu danses](https://open.spotify.com/track/7gJewKyWLZAGy6HkpG9rSu) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [La Réplique](https://open.spotify.com/album/5qvcGUrVESxTiDyHpstjYL) | 2:57 | 2024-07-25 | 2025-01-10 |
 | [tu dis que tu m'aimes \- piano version](https://open.spotify.com/track/4DiQIu33YyFtAf6713AsIw) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S), [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [tu dis que tu m'aimes \(piano version\)](https://open.spotify.com/album/5gVjadxwoN3dbwiZiZNsHz) | 3:00 | 2024-11-28 | 2025-04-18 |
 | [tu m'as dit que tu m'aimais](https://open.spotify.com/track/2pwXypfanqsYaTyoGE0yPk) | [jenna](https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs) | [tu m'as dit que tu m'aimais](https://open.spotify.com/album/4cPiATyN905GjIHqkusfdc) | 2:40 | 2025-03-06 | 2025-07-11 |

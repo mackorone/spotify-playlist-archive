@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 22 | [poltergeist](https://open.spotify.com/track/3vp3r5tiCAHDNHtqhBk6rv) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:33 |
 | 23 | [Cool 4 U](https://open.spotify.com/track/2E1Esh3QgFWafXkJDfREPV) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cool 4 U](https://open.spotify.com/album/1ADKl4iKK2T5Cx0yzNost7) | 2:19 |
 | 24 | [American in Paris](https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb) | 2:44 |
-| 25 | [Who Not to Love](https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v) | 3:03 |
+| 25 | [Who Not to Love](https://open.spotify.com/track/0p69ggdl6UOeBnSf4dn8o8) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/5y0KsMeMor5EGBOtsVIfzw) | 3:05 |
 | 26 | [DO YOU LIKE ME?](https://open.spotify.com/track/3apkBldyjHqAn57yzVtYGH) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:57 |
 
-Snapshot ID: `aPgegAAAAADtnRCvxodCkZa9Iuvc3c3F`
+Snapshot ID: `aPlwAAAAAACJm7d14DYFW+1yOAQ43Q+7`

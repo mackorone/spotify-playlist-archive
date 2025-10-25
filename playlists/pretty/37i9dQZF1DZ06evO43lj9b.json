@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 16421,
+  "num_followers": 16429,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAACTY2LpGexnP1mQzN/MHmd3",
+  "snapshot_id": "aPlwAAAAAAAZJ5bPYRp9J5OXwyA5T2kY",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Sylvia Cox",
+          "url": "https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl"
+        }
+      ],
+      "duration_ms": 286533,
+      "name": "Liquid Love",
+      "url": "https://open.spotify.com/track/1uOgZkPPwGgya04nRoM1wy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Instrumentals JID009",
         "url": "https://open.spotify.com/album/6bQDhnnJqR0QZlYy2dMh09"
       },
@@ -103,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Sylvia Cox",
-          "url": "https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl"
-        }
-      ],
-      "duration_ms": 286533,
-      "name": "Liquid Love",
-      "url": "https://open.spotify.com/track/1uOgZkPPwGgya04nRoM1wy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Brighter Day",
         "url": "https://open.spotify.com/album/6OPYx8TIsbGLZQAvCddKNh"
       },
@@ -139,22 +139,6 @@
       "duration_ms": 253933,
       "name": "Mystic Voyage",
       "url": "https://open.spotify.com/track/6eGghCgGqV7xo7FrU0hjcB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Roy Ayers",
-        "url": "https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/3KLYkhq8QGEuKRkKj6E694"
     },
     {
       "added_at": null,
@@ -179,6 +163,22 @@
       "duration_ms": 376066,
       "name": "Rise",
       "url": "https://open.spotify.com/track/0MaQuFkyOav01SbKFARhQF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Roy Ayers",
+        "url": "https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/3KLYkhq8QGEuKRkKj6E694"
     },
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Roy Ayers",
-        "url": "https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Mystic Voyage",
-      "url": "https://open.spotify.com/track/7jFpUEw5rRjSfoUBC6kwWw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coffy",
         "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
       },
@@ -247,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roy Ayers Delfonic Reworked #1",
-        "url": "https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy"
+        "name": "The Best Of Roy Ayers",
+        "url": "https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp"
       },
       "artists": [
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Delfonic",
-          "url": "https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP"
         }
       ],
-      "duration_ms": 241133,
-      "name": "Green and Gold - Delfonic Rework",
-      "url": "https://open.spotify.com/track/42NO5tmaYgn8trdgg6UnhC"
+      "duration_ms": 222000,
+      "name": "Mystic Voyage",
+      "url": "https://open.spotify.com/track/7jFpUEw5rRjSfoUBC6kwWw"
     },
     {
       "added_at": null,
@@ -291,18 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Send Me",
-        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
+        "name": "Roy Ayers Delfonic Reworked #1",
+        "url": "https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy"
       },
       "artists": [
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Delfonic",
+          "url": "https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP"
         }
       ],
-      "duration_ms": 508186,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/4EbIIWf305n1WOJAWEb8cc"
+      "duration_ms": 241133,
+      "name": "Green and Gold - Delfonic Rework",
+      "url": "https://open.spotify.com/track/42NO5tmaYgn8trdgg6UnhC"
     },
     {
       "added_at": null,
@@ -319,6 +303,22 @@
       "duration_ms": 175213,
       "name": "Aragon - From The \"Coffy\" Soundtrack",
       "url": "https://open.spotify.com/track/6pxqP6XNBLbKVozvtgTH08"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Send Me",
+        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 508186,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/4EbIIWf305n1WOJAWEb8cc"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Send Me",
-        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "And Don't You Say No",
-      "url": "https://open.spotify.com/track/5CMjTh5RhPt5WkvcDvCaqw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Virgin Ubiquity II",
         "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
       },
@@ -407,26 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roy Ayers JID002",
-        "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
+        "name": "You Send Me",
+        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
       },
       "artists": [
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
         }
       ],
-      "duration_ms": 142127,
-      "name": "Hey Lover",
-      "url": "https://open.spotify.com/track/0zE96LJrCv81I6N1zRaJSO"
+      "duration_ms": 203760,
+      "name": "And Don't You Say No",
+      "url": "https://open.spotify.com/track/5CMjTh5RhPt5WkvcDvCaqw"
     },
     {
       "added_at": null,
@@ -451,6 +427,30 @@
       "duration_ms": 235973,
       "name": "In the Mood (feat. Kanye West & Roy Ayers)",
       "url": "https://open.spotify.com/track/4v3AYUgQvwdbO9FY8tJBCo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roy Ayers JID002",
+        "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "duration_ms": 142127,
+      "name": "Hey Lover",
+      "url": "https://open.spotify.com/track/0zE96LJrCv81I6N1zRaJSO"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 515840,
-      "name": "I Am Your Mind (Part 2)",
-      "url": "https://open.spotify.com/track/5BeYu3uJAMVZ5oyReLFupf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -611,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red, Black & Green",
-        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
       },
       "artists": [
         {
@@ -620,9 +604,9 @@
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 280466,
-      "name": "Red, Black & Green",
-      "url": "https://open.spotify.com/track/5EnsDu3iwxCIGhCFkDUlkY"
+      "duration_ms": 515840,
+      "name": "I Am Your Mind (Part 2)",
+      "url": "https://open.spotify.com/track/5BeYu3uJAMVZ5oyReLFupf"
     },
     {
       "added_at": null,
@@ -643,6 +627,22 @@
       "duration_ms": 305800,
       "name": "Searching",
       "url": "https://open.spotify.com/track/432fHKBQfXMMgU7yyEtRvz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red, Black & Green",
+        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 280466,
+      "name": "Red, Black & Green",
+      "url": "https://open.spotify.com/track/5EnsDu3iwxCIGhCFkDUlkY"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 300280,
-      "name": "Sunshine - Demo",
-      "url": "https://open.spotify.com/track/3MD8QD5aVUjE7DsE5eBg7t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -723,6 +707,46 @@
       "duration_ms": 211977,
       "name": "Synchronize Vibration",
       "url": "https://open.spotify.com/track/7FLT4dXxZMaapLcNn4SgBc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 300280,
+      "name": "Sunshine - Demo",
+      "url": "https://open.spotify.com/track/3MD8QD5aVUjE7DsE5eBg7t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Instrumentals JID009",
+        "url": "https://open.spotify.com/album/6bQDhnnJqR0QZlYy2dMh09"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 206523,
+      "name": "Gravity - Instrumental",
+      "url": "https://open.spotify.com/track/0dCbGiiBc3Cf1QVtWgcdqE"
     },
     {
       "added_at": null,
@@ -755,46 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Instrumentals JID009",
-        "url": "https://open.spotify.com/album/6bQDhnnJqR0QZlYy2dMh09"
-      },
-      "artists": [
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 206523,
-      "name": "Gravity - Instrumental",
-      "url": "https://open.spotify.com/track/0dCbGiiBc3Cf1QVtWgcdqE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Red, Black & Green",
-        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Day Dreaming",
-      "url": "https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 181756,
       "name": "Sunflowers",
       "url": "https://open.spotify.com/track/7ihSVr02gw15lcxPgpWClk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red, Black & Green",
+        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Day Dreaming",
+      "url": "https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8"
     },
     {
       "added_at": null,
@@ -863,30 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Time",
-        "url": "https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E"
-      },
-      "artists": [
-        {
-          "name": "Richard Earnshaw",
-          "url": "https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra"
-        },
-        {
-          "name": "Erik Dillard",
-          "url": "https://open.spotify.com/artist/1Zepv2yyM4iZMjIKoMmvnH"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 523840,
-      "name": "In Time",
-      "url": "https://open.spotify.com/track/6MXfEaPHJQEig5Saz4ew8I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -907,6 +883,30 @@
       "duration_ms": 219989,
       "name": "Shadows of The East",
       "url": "https://open.spotify.com/track/5lZKoCghq9BWOU2i0qX7wk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Time",
+        "url": "https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E"
+      },
+      "artists": [
+        {
+          "name": "Richard Earnshaw",
+          "url": "https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra"
+        },
+        {
+          "name": "Erik Dillard",
+          "url": "https://open.spotify.com/artist/1Zepv2yyM4iZMjIKoMmvnH"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 523840,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/6MXfEaPHJQEig5Saz4ew8I"
     },
     {
       "added_at": null,
@@ -943,22 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evolution: The Polydor Anthology",
-        "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "For Real",
-      "url": "https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red, Black & Green",
         "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 380546,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/3K4oV3E9NVN4NZBVnWBPRI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evolution: The Polydor Anthology",
+        "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB"
     },
     {
       "added_at": null,

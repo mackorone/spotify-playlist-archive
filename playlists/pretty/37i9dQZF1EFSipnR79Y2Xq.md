@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 11 | [¿Qué Se Siente?](https://open.spotify.com/track/5GeiTIvCQosrG3bbDhQMAX) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Yo Te Extrañaré](https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20) | 2:56 |
 | 12 | [Agua y Jabón](https://open.spotify.com/track/0R7VmO41DcNk0nKYWc7Q2G) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Agua y Jabón + Play Mode](https://open.spotify.com/album/3VS0fKzz7D1bP18ono6VZ4) | 3:11 |
 | 13 | [Así \- En Vivo](https://open.spotify.com/track/42VytKp0lKpe2r8Yc9AQ4A) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Así \(En Vivo\)](https://open.spotify.com/album/0PZeRC7Xtc9n29XEzKbsFx) | 2:26 |
-| 14 | [Aquí Ya Nadie Te Extraña](https://open.spotify.com/track/47lwcc0mcmD2Ro1u0ctGaR) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:27 |
-| 15 | [El Curioso](https://open.spotify.com/track/0X4cL61mUXjCGXUM0YNHRu) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:22 |
+| 14 | [El Curioso](https://open.spotify.com/track/0X4cL61mUXjCGXUM0YNHRu) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:22 |
+| 15 | [Aquí Ya Nadie Te Extraña](https://open.spotify.com/track/47lwcc0mcmD2Ro1u0ctGaR) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:27 |
 | 16 | [La Escalera](https://open.spotify.com/track/1o2S7Qw3J44kSAO9dfhAiR) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:40 |
 | 17 | [Así las Cosas](https://open.spotify.com/track/526NOmILzrs7f47mHXDrFm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:37 |
 | 18 | [Primero Tu](https://open.spotify.com/track/1Ia0J3DtOitPrvYVnjT4Ob) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [XVII ANIVERSARIO](https://open.spotify.com/album/4cnDNI7pytSivupozFsMi7) | 3:06 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 89 | [Modo Incognito](https://open.spotify.com/track/3Wbb2nniFlZ7Ve7F3G8jsk) | [Conjunto Luz Oficial](https://open.spotify.com/artist/7qddpEEqfSmLgGxpPjwXEs) | [Modo Incognito](https://open.spotify.com/album/0nyOIjBG8V9jZMdTCLtV0j) | 4:02 |
 | 90 | [Vestidito Rojo](https://open.spotify.com/track/3lciIL09CUXIJIIYICafn7) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Vestidito Rojo](https://open.spotify.com/album/1z2IHPGKZUPQ0mubjgGNnJ) | 3:12 |
 
-Snapshot ID: `Ab/qhgAAAAAJ9QQGSALHYJEeKAO76qwP`
+Snapshot ID: `Ab/wJgAAAAC7aOsOMC6nFIv+K565sT39`

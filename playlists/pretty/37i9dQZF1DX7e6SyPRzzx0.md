@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > The home of rage rap\. Cover: Destroy Lonely
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,709 likes - 65 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,800 likes - 65 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 17 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/7nCgpOjCZWL7hKFqmCSyXo) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Sugar Honey Iced Tea](https://open.spotify.com/album/4Qsc4at71izsrBdiJv3Kds) | 3:12 |
 | 18 | [Flex N Finesse](https://open.spotify.com/track/6UfFd3NzPIsJrCVPjZb3pj) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Grit & Grace](https://open.spotify.com/album/2V3mfZot5KgRs2lZoEzkPO) | 1:33 |
 | 19 | [Enter The Dragon](https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Enter The Dragon / TEKTIME](https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg) | 1:51 |
-| 20 | [FROM YO HANDS](https://open.spotify.com/track/5xjtqhWynyBiOgEEGAFCtO) | [Pat](https://open.spotify.com/artist/2r1ggfwCYWOhNGERNev4yK) | [FROM YO HANDS](https://open.spotify.com/album/1LXoE2zVe2gVLmShMBoto1) | 2:02 |
+| 20 | [FROM YO HANDS](https://open.spotify.com/track/5xjtqhWynyBiOgEEGAFCtO) | [CantStopPat](https://open.spotify.com/artist/2r1ggfwCYWOhNGERNev4yK) | [FROM YO HANDS](https://open.spotify.com/album/1LXoE2zVe2gVLmShMBoto1) | 2:02 |
 | 21 | [BA$$](https://open.spotify.com/track/51OiK90giWwDI0RedEYBcg) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [REST IN BASS](https://open.spotify.com/album/67A39lP2d2oyDkRukYYm4F) | 2:33 |
 | 22 | [stressed](https://open.spotify.com/track/4jAf0mRh0eUvgZzAEb5Xmp) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [gone too soon](https://open.spotify.com/album/6Yk3cd3sShQh79Rfug8OQ4) | 1:45 |
 | 23 | [LOVE HURTS](https://open.spotify.com/track/4wXb2K1fSCzl83qSpFELno) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [LOVE LASTS FOREVER](https://open.spotify.com/album/11ZryCurodmqJCHvj9AA6U) | 4:34 |

@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Of Monsters and Men
+> The best in folk & acoustic today featuring music from Silvana Estrada
 
-779 songs - 1 day 23 hr 56 min
+780 songs - 2 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [First High](https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [First High](https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs) | 3:07 | 2022-06-17 | 2023-02-11 |
 | [First Light](https://open.spotify.com/track/6R61u47uaYnWrHu8OBKyZx) | [Down Like Silver](https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps), [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V), [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [First Light](https://open.spotify.com/album/0WoFpsBhfUZ0XzVogStjqC) | 3:28 | 2023-01-06 | 2023-12-02 |
 | [First Time Feeling](https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro) | 3:06 | 2021-12-10 | 2022-02-05 |
+| [Flores](https://open.spotify.com/track/7AG0fbggzFP7e7W2j7fUva) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna) | 4:43 | 2025-10-24 |  |
 | [Flowers](https://open.spotify.com/track/1VO8Kwv6w3Yk1O1NMwNlba) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Flowers](https://open.spotify.com/album/0ymCOKHMKGzUS0Pv0MLpgv) | 4:00 | 2025-02-28 |  |
 | [Fluorescent Light](https://open.spotify.com/track/1bhOhI3xUf89gDYoHMd5WX) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [Fluorescent Light + Boars](https://open.spotify.com/album/2Cr6Ys4sCsknBXqQZ1G9pB) | 3:14 | 2025-10-17 |  |
 | [Fly Right](https://open.spotify.com/track/1lpGZsdPKVTwAKJKn8ajRj) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Fly Right](https://open.spotify.com/album/4cFAgPwZ1nq7T7mBcfv1bJ) | 3:23 | 2021-12-10 | 2022-02-12 |

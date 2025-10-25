@@ -4,7 +4,7 @@
 
 > Chloe Qisha is always in the hot tub at a party
 
-2,577 songs - 5 day 9 hr 31 min
+2,581 songs - 5 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Better People to Leave on Read](https://open.spotify.com/track/6Qzocyx8YIExWGSpoggwQ7) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Better People to Leave on Read](https://open.spotify.com/album/5maJrI1vqMONcKCh3sHn8B) | 2:11 | 2022-01-28 | 2022-08-20 |
 | [Better Than That](https://open.spotify.com/track/38LEW9GivIvjz80cFmuYR3) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Better Than That](https://open.spotify.com/album/4YGf3T8dHgwcq3C2IMq6Y8) | 2:35 | 2025-04-18 | 2025-06-28 |
 | [Better Together](https://open.spotify.com/track/6VHLa2Ov2NnnekRjLpAgdv) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Running Touch](https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE) | [Better Together](https://open.spotify.com/album/39QzdXBRzmQG6NJh9mPeYh) | 3:56 | 2019-05-26\* | 2019-08-13 |
+| [Betty](https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Betty](https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu) | 3:02 | 2025-10-24 |  |
 | [Bicycle](https://open.spotify.com/track/6je24EioclOnquVFZzQa81) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Bicycle](https://open.spotify.com/album/60QH27LQtqQ11jZaDYodg7) | 2:27 | 2023-02-03 | 2023-02-12 |
 | [Bicycle \(feat\. klei\)](https://open.spotify.com/track/2HNfxD7Vfb0sw4BnWGNVwN) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [klei](https://open.spotify.com/artist/04Tq9kLCxG1auw8xfUD4Mp) | [Bicycle \(feat\. klei\)](https://open.spotify.com/album/1RAVwMmxjwlboGmBoK3fR6) | 3:19 | 2019-05-26\* | 2019-08-13 |
 | [BIG](https://open.spotify.com/track/2jKeQXeZ8tdT9zYebSmRgn) | [HANA](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [BIG](https://open.spotify.com/album/2YTFullXEM5DlxeFdn9qMg) | 2:47 | 2025-07-11 |  |
@@ -787,6 +788,7 @@
 | [Flying](https://open.spotify.com/track/28IEay5ppQw0PtZiBAkfUK) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Flying](https://open.spotify.com/album/6MAUGRgUwKMzw55LI6JXcQ) | 3:18 | 2022-08-19 | 2022-09-24 |
 | [FMF!](https://open.spotify.com/track/2Zfz6a8l5kVFevqnJ7p0nN) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Everything I Wish I Told You](https://open.spotify.com/album/4f1Qlmf19NGCYXxYR7kACp) | 3:01 | 2021-02-27 | 2021-11-05 |
 | [Focus](https://open.spotify.com/track/0s3oOo43gTBnU1lUOfXnd9) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Focus](https://open.spotify.com/album/0bPD3raLMo6oDb7en7D4Sp) | 3:24 | 2020-04-15 | 2021-11-08 |
+| [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 | 2025-10-24 |  |
 | [Fool](https://open.spotify.com/track/5QgGskSF5QeTPl99cg9KFz) | [Dava](https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu) | [Fool](https://open.spotify.com/album/3qVqJaNTwXt7wKfoiodAif) | 2:34 | 2023-01-06 | 2023-02-04 |
 | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 | 2021-04-10 | 2022-06-09 |
 | [For My Friends](https://open.spotify.com/track/6vs83ufnw4IVbotV0qv6C8) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [For My Friends](https://open.spotify.com/album/7hfIFmFhdPoLzeeDGPaYAw) | 3:35 | 2022-03-18 | 2022-06-07 |
@@ -810,6 +812,7 @@
 | [FRIENDS TO LOVERS](https://open.spotify.com/track/6BGbxglZ4nWeqUtmLuQZg2) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FRIENDS TO LOVERS](https://open.spotify.com/album/0hnXx0j9GASz5azvD7QdgK) | 2:27 | 2025-06-06 | 2025-08-18 |
 | [frown](https://open.spotify.com/track/0P2CBPHJsD0BgdsqHedugp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE) | 2:19 | 2022-05-20 | 2022-09-17 |
 | [Fruity](https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Fruity](https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz) | 3:13 | 2022-08-19 | 2022-09-17 |
+| [FU & UF](https://open.spotify.com/track/2UfNSV1Fwz4gGJf42ZX1Pu) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [SE9 Part 1](https://open.spotify.com/album/4Wz7yb00TiEUqMrd3gzVtz) | 2:39 | 2025-10-24 |  |
 | [FU In My Head](https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [FU In My Head](https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT) | 2:47 | 2022-02-11 | 2024-09-14 |
 | [Fuck Friday](https://open.spotify.com/track/42S8a0eCTdw2qYuK8oXB4Z) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Fuck Friday](https://open.spotify.com/album/7f3vjO34MfUj4o0WPuIpz1) | 3:08 | 2022-07-08 | 2022-07-27 |
 | [fuck, i luv my friends \(with Curtis Waters\) \- reimagined](https://open.spotify.com/track/6uA3l7SKpGUvc7zUsTuOmn) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [fuck, i luv my friends \(with Curtis Waters\) \[reimagined\]](https://open.spotify.com/album/3dLr7k3mSh1B6o0gniUSS3) | 3:04 | 2021-01-27 | 2021-04-10 |
@@ -1268,6 +1271,7 @@
 | [Killing Time](https://open.spotify.com/track/4vh38GmJU71vgNgOTwss2j) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Killing Time](https://open.spotify.com/album/74wbYbvJFwGIuFw5BNuzCQ) | 3:42 | 2024-01-19 | 2024-06-13 |
 | [Kinda Famous](https://open.spotify.com/track/4YwpoXjq8jy5aWLU2cP4uU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Manic Dream Pixie](https://open.spotify.com/album/37v0q6s1IB9jSCPMIpFwFN) | 2:54 | 2023-04-28 | 2023-06-03 |
 | [Kinda Hate U Kinda Love U](https://open.spotify.com/track/6y4A9PmtRYhK0wtldpb1Wo) | [Alex Sloane](https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha) | [Kinda Hate U Kinda Love U](https://open.spotify.com/album/7KM2iRC5ZkdERil3MHJq9y) | 3:13 | 2021-11-26 | 2022-02-09 |
+| [Kiss](https://open.spotify.com/track/4OwxTsR3IPjFCX0sii5vtP) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Kiss](https://open.spotify.com/album/0d0LjZgArvtjtzX6SnDulV) | 2:48 | 2025-10-24 |  |
 | [Kiss Face](https://open.spotify.com/track/41dnfaWIa5at38F5ANOZr3) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Kiss Face](https://open.spotify.com/album/6fAWKIRjxt4NTIdENraWci) | 2:35 | 2022-08-12 | 2022-09-17 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-20 | 2022-01-08 |
 | [Kiss Me Right Now](https://open.spotify.com/track/6YgSKX15auxiOAkCSpbdX8) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/7DTsjf0nnG22p9P7pZLrfI) | 4:00 | 2022-05-06 | 2022-07-29 |

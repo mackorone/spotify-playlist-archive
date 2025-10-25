@@ -4,7 +4,7 @@
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Stephanie Poetri
 
-508 songs - 1 day 5 hr 38 min
+510 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 | 2024-11-15 | 2025-08-08 |
 | [crimson lullaby](https://open.spotify.com/track/7aiB318eJa5FlvCudSNjPq) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [crimson lullaby](https://open.spotify.com/album/55fOMHbP3P9EWSoceHIkpo) | 3:25 | 2025-01-17 |  |
 | [Crown](https://open.spotify.com/track/1zMB9Lc5euKQWMUjPHghcv) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Evolve](https://open.spotify.com/album/6MtNCqErxlSmfuGiEuTwpj) | 2:56 | 2024-11-21 | 2025-09-30 |
+| [crown \- Extended version](https://open.spotify.com/track/747NwXzJbzxokNvuBTISIF) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [crown \(Extended version\)](https://open.spotify.com/album/26hmmNJYwMY5RvjNPhPdpk) | 4:19 | 2025-10-24 |  |
 | [Daisies](https://open.spotify.com/track/6HXZZMhKZfEPBwvT5COP6g) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [Daisies](https://open.spotify.com/album/6Ez5TxGJT6ylmhM7Q2iHUb) | 4:07 | 2025-01-23 | 2025-04-18 |
 | [Dancing On The Edge](https://open.spotify.com/track/0yrYaevAu2jOtjwUX7Pmxx) | [JUNJI](https://open.spotify.com/artist/6mjeFtDhVUlJ7pR2ZoJTET) | [Daydreams](https://open.spotify.com/album/2jjWb7XY4trmaRRP8rtMbK) | 4:05 | 2024-10-10 | 2024-11-29 |
 | [Desire](https://open.spotify.com/track/6jAUDZNyKTbMCLMflUzRXA) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ) | [Desire](https://open.spotify.com/album/2d7DX8CHBMjkyjpq502DTJ) | 3:14 | 2025-02-13 |  |
@@ -125,6 +126,7 @@
 | [Don't You Dare Hesitate](https://open.spotify.com/track/7vNn4RT0zRxrb3KQQQ4j05) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 2:23 | 2024-06-27 | 2025-01-18 |
 | [Dont You Forget About Me](https://open.spotify.com/track/1RXPiPo2mhZOdcxcOflPzL) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Sorry for Everything Goodbye Forever](https://open.spotify.com/album/3bk7YFSrS1PAMIb8Lyp0dI) | 4:25 | 2024-06-27 | 2024-08-10 |
 | [Dream Girl](https://open.spotify.com/track/2y990bGSyAdyoqflOOW0Ni) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Dream Girl](https://open.spotify.com/album/11K3wztTjLdOChvFITyvvy) | 2:58 | 2025-02-20 | 2025-05-30 |
+| [DREAMS](https://open.spotify.com/track/6dAi7ZPHaPtJ0BNSNAZMLG) | [Liquid Silva](https://open.spotify.com/artist/7zUOkZejry0Y8RHtbQrVoG) | [DREAMS](https://open.spotify.com/album/1KCNkWw8ccZZVnjK9dMEi7) | 2:48 | 2025-10-23 |  |
 | [Dreamscape](https://open.spotify.com/track/7iQ5HEi9HHzlQTZHvF7lM2) | [Peonies](https://open.spotify.com/artist/7AwVFAfR7FOu8r4oZ8vwOp) | [Dreamscape](https://open.spotify.com/album/0dejROLfRMDRahNLvpB57E) | 4:28 | 2024-09-19 | 2024-11-29 |
 | [Drunk & Hazy](https://open.spotify.com/track/4OpkUZHdW9G5wNmeuRLo9Q) | [Anggun Dae](https://open.spotify.com/artist/59VJhih06fQKi3Sw7ukh9J) | [Drunk & Hazy](https://open.spotify.com/album/6sA6ERqMJCT3ihYwpVHo8S) | 3:22 | 2025-04-17 | 2025-05-30 |
 | [Dry](https://open.spotify.com/track/4vayL0oPgB79sPQAAkZDX6) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn), [Rekti Yoewono](https://open.spotify.com/artist/5wg7167xaH0ILxlcDymFlM) | [Dry](https://open.spotify.com/album/2YFv8DqUWhTASzYvwoPNWa) | 4:14 | 2025-01-23 |  |
@@ -422,7 +424,7 @@
 | [Sour Candy](https://open.spotify.com/track/4EnQxvppOihfeLqRQGgnDQ) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Sour Candy](https://open.spotify.com/album/6AST0741qWPUcJAr2HfsCp) | 3:24 | 2025-07-10 | 2025-10-04 |
 | [Space & Time](https://open.spotify.com/track/7u4q2L9ralNz0A6J9P4ihL) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O) | [Space & Time](https://open.spotify.com/album/3XExdzq3IxgpNLkSSLjA8s) | 3:46 | 2025-01-23 | 2025-03-14 |
 | [Space & Time](https://open.spotify.com/track/18QQ9VWkuxEMU7gWSuVaLU) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Tommy Pratomo](https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ) | [Space & Time](https://open.spotify.com/album/6QLBLw5ACRI0tII9hDr9Ir) | 2:53 | 2025-01-23 | 2025-04-11 |
-| [Speak Of Flames](https://open.spotify.com/track/76hET7hfrplSsQvUxrMu7e) | [Alfred](https://open.spotify.com/artist/1ne7R7BJBBXhttCELXUjvW) | [Speak of Flames](https://open.spotify.com/album/24rL7DtY3GT14ITPm3a4jU) | 4:53 | 2025-10-23 |  |
+| [Speak Of Flames](https://open.spotify.com/track/76hET7hfrplSsQvUxrMu7e) | [ALFRED](https://open.spotify.com/artist/2zsYdYIawqVd6sFYuwR9RE) | [Speak of Flames](https://open.spotify.com/album/24rL7DtY3GT14ITPm3a4jU) | 4:53 | 2025-10-23 |  |
 | [Special Kind \(YOU\)](https://open.spotify.com/track/3OCwU4Lj0jLFhGxHW9zthj) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [Special Kind \(YOU\)](https://open.spotify.com/album/7rsovGJzVONLVbeBjELz51) | 2:20 | 2025-04-24 | 2025-05-30 |
 | [special wishes 3](https://open.spotify.com/track/4n2F4nUFAEZwYNJ5dFQ8CU) | [Kareem Soenharjo](https://open.spotify.com/artist/3a8I3dOLEe0Mliys7Jaxdp) | [special wishes 3](https://open.spotify.com/album/2hVfef0fTfby543LtGPmgP) | 2:38 | 2024-12-12 | 2025-07-18 |
 | [SPLIT](https://open.spotify.com/track/2IfF66ZKFHsyoqBI1llkyx) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [SPLIT](https://open.spotify.com/album/0cjjgDrwEWPxrc5GyqNhZz) | 3:13 | 2024-06-27 | 2024-08-02 |

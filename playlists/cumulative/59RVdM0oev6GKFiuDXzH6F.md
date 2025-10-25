@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,003 songs - 2 day 3 hr 18 min
+1,004 songs - 2 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -832,6 +832,7 @@
 | [Take Me Higher](https://open.spotify.com/track/67XJUKj8k8hKyjjn0sG8xA) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [DES3ETT](https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN), [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [Take Me Higher](https://open.spotify.com/album/0ZcoPTlFVu4qjJuDtwFeIg) | 2:22 | 2023-03-31 | 2023-12-23 |
 | [Take Me Home \(feat\. Jess Ball\)](https://open.spotify.com/track/5iX6vuK0LxrNUtuTjj4kpq) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Take Me Home \(feat\. Jess Ball\)](https://open.spotify.com/album/1vd47POdgb0JOJ09y9kWHl) | 3:05 | 2024-12-05 | 2025-03-14 |
 | [Take Me Up](https://open.spotify.com/track/4TFAJcfrpSI0rxtpnZFapq) | [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf) | [Take Me Up](https://open.spotify.com/album/0B7J9NOizvdbYdJBAEAq84) | 3:07 | 2025-06-27 |  |
+| [Take Over Control \(feat\. Eva Simons\) \[Matt Sassari Remix\]](https://open.spotify.com/track/3vEjnhXApqkwci11kJZFHE) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA), [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Take Over Control \(feat\. Eva Simons\) \[The Remixes 2025\]](https://open.spotify.com/album/14VdCnLPNi0tVYCrPPlvF8) | 2:59 | 2025-10-24 |  |
 | [Take U](https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Take U](https://open.spotify.com/album/1BsEalQCwpuAbqQloCDY9u) | 2:42 | 2023-12-01 | 2025-01-09 |
 | [Take You There](https://open.spotify.com/track/7t7X4jD3T3zUhM8xmGQjaj) | [Patrick Whale](https://open.spotify.com/artist/5HPKe8B0YzqNGrpmYqSNeW) | [Take You There EP](https://open.spotify.com/album/3u52zcaTB9naGJcKKSyFCq) | 2:52 | 2024-09-18 | 2024-10-25 |
 | [Taking The Lead](https://open.spotify.com/track/0zVM0ZoanmvbigiKcqJmcc) | [ZEZART](https://open.spotify.com/artist/4hOjMwZbhnhHmL9CoYmCBK) | [Taking The Lead](https://open.spotify.com/album/7xEu87Hg2vAoi5E9delp97) | 3:20 | 2023-11-24 | 2025-01-09 |

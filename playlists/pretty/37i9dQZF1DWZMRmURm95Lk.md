@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Moder in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,860 likes - 145 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,865 likes - 145 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Notte Blu II \(feat\. Gemitaiz\)](https://open.spotify.com/track/7w5rrPfl0zH0vwTHeMHa2J) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Frank Siciliano](https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [60 Hz II](https://open.spotify.com/album/5dizu3zJPc4fhPMjarEhIM) | 2:55 |
 | 2 | [Panico](https://open.spotify.com/track/0q8XaTJ1MzlEb9q7YdStT1) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Guerra E Pace](https://open.spotify.com/album/3p3zyxP3IBd0KNYNopjXBE) | 4:13 |
-| 3 | [Track 7](https://open.spotify.com/track/0N9qDDpB8Pd0q07VpunhlV) | [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [Settembre](https://open.spotify.com/track/0N9qDDpB8Pd0q07VpunhlV) | [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Poco dopo mezzanotte](https://open.spotify.com/album/1uopB5lFeCi2xsPukEnLPZ) | 2:47 |
 | 4 | [Blue Sky](https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Kepler](https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog) | 3:07 |
 | 5 | [Verso Altri Lidi](https://open.spotify.com/track/4ns5QMZm4Nw96OmzuySsT1) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Mentre Los Angeles Brucia](https://open.spotify.com/album/2O1iWxwf8rcqR6SYksKSb1) | 3:21 |
 | 6 | [Io sono il viaggio](https://open.spotify.com/track/4nUnPDsuHiXjOLkhaDkrvc) | [Caparezza](https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB) | [Io sono il viaggio](https://open.spotify.com/album/5DNvhVGDMUSfZ5uXnfPbiq) | 5:33 |

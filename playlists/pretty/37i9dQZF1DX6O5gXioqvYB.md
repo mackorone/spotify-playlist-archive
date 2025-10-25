@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui 👀 Cover: Marco Castello
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,281 likes - 132 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,300 likes - 132 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Editto Dal Sottoscoglio](https://open.spotify.com/track/2gxOjXkQSlOo8qPfFF97PH) | [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [Editto Dal Sottoscoglio](https://open.spotify.com/album/1NhEbC11WBZrAHU8V2Bqt7) | 3:26 |
 | 2 | [Pugili impazziti](https://open.spotify.com/track/3t97iVAQuGsP0TrtxJOn5C) | [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi), [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [Pugili impazziti](https://open.spotify.com/album/0QPqwp1DpjD5a14pa5Anpd) | 3:37 |
 | 3 | [OCCHIAIE](https://open.spotify.com/track/1raoPjIsysUxxINP4QB2ZA) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [OCCHIAIE](https://open.spotify.com/album/46IQNcVUpKaKW25X6CL5fN) | 2:53 |
-| 4 | [Voglia](https://open.spotify.com/track/6bHmaVeCclWfcAgsW9Woct) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [](https://open.spotify.com/album/null) | 2:33 |
-| 5 | [Track 7](https://open.spotify.com/track/1K4DOAiklUwaABIuKi7HNg) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [](https://open.spotify.com/album/null) | 0:00 |
+| 4 | [Voglia](https://open.spotify.com/track/6bHmaVeCclWfcAgsW9Woct) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Tempo](https://open.spotify.com/album/0VGPQdeIhFg1BqfKqKW0b4) | 2:33 |
+| 5 | [TERAPIA](https://open.spotify.com/track/1K4DOAiklUwaABIuKi7HNg) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [DISCORDIA, ARMONIA E ALTRI STATI D'ANIMO](https://open.spotify.com/album/44w3s0STY96UbKK7wFhWQL) | 3:14 |
 | 6 | [Cara Allegria \(feat\. MILLE\)](https://open.spotify.com/track/53BapHDV764jmkXhG8GF8r) | [Giulia Mei](https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2), [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Cara Allegria \(feat\. MILLE\)](https://open.spotify.com/album/45ojBW52ZyahwPeTiGCQKA) | 3:29 |
 | 7 | [Perdersi](https://open.spotify.com/track/4C6cyMMC2hpHdotMcFrEEQ) | [Bouganville](https://open.spotify.com/artist/5wcaCE2ZVnSUamt3lzm3uI) | [Non esattamente a fuoco](https://open.spotify.com/album/55MkmEjagoQI5hjK5T0cnx) | 4:16 |
 | 8 | [di malva](https://open.spotify.com/track/07cG69CgL3B0Ndi8inXaCU) | [juni](https://open.spotify.com/artist/3AKqJ5gNjU2hp8Xm8Mywvb) | [di malva](https://open.spotify.com/album/1wKtY8GO7Cywa3FhIzNDFk) | 2:30 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 13 | [Niente di particolare](https://open.spotify.com/track/3azkH8zt6JVM0ckeww7r3i) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Niente di particolare](https://open.spotify.com/album/6Aw1yTEFMFyLOhQGAMCvKk) | 2:54 |
 | 14 | ['Nu veleno amaro](https://open.spotify.com/track/0F20papsE96g2fpQcFcIIA) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | ['Nu veleno amaro](https://open.spotify.com/album/6JG17W5iVXgaUgDfnl3GJE) | 2:47 |
 | 15 | [Goodbye](https://open.spotify.com/track/5JIkgWVpYLmEYcNEr9Co57) | [Vanarin](https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb) | [Goodbye](https://open.spotify.com/album/6z0qJbzmhGHOkCoZuNa5Va) | 3:26 |
-| 16 | [Briciole](https://open.spotify.com/track/4aJvcKyKlB9plU78kLzgJ4) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [](https://open.spotify.com/album/null) | 2:56 |
-| 17 | [Mille volte sì](https://open.spotify.com/track/4wODEKsw7yFrh29ICbgWlH) | [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ) | [](https://open.spotify.com/album/null) | 3:41 |
+| 16 | [Briciole](https://open.spotify.com/track/4aJvcKyKlB9plU78kLzgJ4) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [Preda dei venti](https://open.spotify.com/album/7B0UiGsUxljGcZd3qKLsDA) | 2:56 |
+| 17 | [Mille volte sì](https://open.spotify.com/track/4wODEKsw7yFrh29ICbgWlH) | [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ) | [Sono morto x 15 giorni ma sono tornato perché l'amore è](https://open.spotify.com/album/3AwYTs7PpE9Vgk4Z2UmIj8) | 3:41 |
 | 18 | [Umana](https://open.spotify.com/track/5qMn6DoAwzIWOiMSSTtulJ) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg) | [UMANA](https://open.spotify.com/album/1L4yFkXxYGMS9IEDzZvfez) | 3:43 |
 | 19 | [Abbracci da via Casilina](https://open.spotify.com/track/4VKv5lhSUPsYGV2ckbqe53) | [Montegro](https://open.spotify.com/artist/5v1UjZScoWD3jkrn7RKDSZ) | [Vita Bellissima](https://open.spotify.com/album/1jXtX5qt1U5DCvzLkhPDAv) | 2:41 |
 | 20 | [Fedeli alla linea](https://open.spotify.com/track/4iRmunsZWfIcd204V8Aw2p) | [MIGLIO](https://open.spotify.com/artist/3hlMj1IgrGj38QOpyDVSj6) | [Traumfabrik Again](https://open.spotify.com/album/7j4tDQ8RZe3Qv57c37lEEr) | 3:20 |

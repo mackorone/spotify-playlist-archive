@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Niemand",
+        "url": "https://open.spotify.com/album/0dwDG1ALroQL9nw2ieSlLZ"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229779,
+      "name": "Niemand",
+      "url": "https://open.spotify.com/track/2ZodgwtywVovNUNIcKDpbD"
+    },
+    {
+      "album": {
         "name": "Gedeeld Door Ons",
         "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists<br/>Cover: Tejas
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,704 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,705 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 49 | [I Love You Baby, I Love You Doll](https://open.spotify.com/track/1uC8CoidgacQzx9f01n73h) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Ocean](https://open.spotify.com/album/3Go4qMxReIx9sTKGYMLakO) | 2:49 |
 | 50 | [ghost](https://open.spotify.com/track/77mRIH0iEMSDycL7JwgPRz) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME), [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [ghost](https://open.spotify.com/album/6GGzNzRrPyIuXTp5yvwAHI) | 3:40 |
 
-Snapshot ID: `AAAAAG7NLZ5wBdbayfrltZO46EG6wsa7`
+Snapshot ID: `AAAAALN35t9CIt1YhjzqyA1oD0cbr8CE`

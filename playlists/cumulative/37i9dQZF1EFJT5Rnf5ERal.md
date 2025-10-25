@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-322 songs - 15 hr 29 min
+323 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Go Far \(with Tay Keith & Hunxho\)](https://open.spotify.com/track/6eymUYP5hyXy4y8n2iM32Y) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:42 | 2024-06-11 | 2025-05-27 |
 | [Go Stupid](https://open.spotify.com/track/4PklAHGXT5ityno3IA8SKd) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:45 | 2024-06-11 |  |
 | [Got It](https://open.spotify.com/track/2gCZzizzCdcWHqksfvJbpN) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 1:16 | 2024-06-11 |  |
-| [GOTCHO BITCH](https://open.spotify.com/track/44RlSCumu7t2Hj5CcIASVE) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:52 | 2025-08-06 | 2025-08-29 |
+| [GOTCHO BITCH](https://open.spotify.com/track/44RlSCumu7t2Hj5CcIASVE) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:52 | 2025-08-06 |  |
 | [Gucci Flow](https://open.spotify.com/track/46flHVUXDhQQKkGOPrjNo5) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [So Icy Boyz: The Finale](https://open.spotify.com/album/5Rb7JdsT1IEITEMgUqcWq2) | 2:11 | 2024-06-11 |  |
 | [Hasta La Vista](https://open.spotify.com/track/2LZTj14T3XQaODkrtJhDHk) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter V \(Deluxe\)](https://open.spotify.com/album/4ljsev5vUnwB2BUFAMvwwy) | 2:51 | 2024-06-11 |  |
 | [Head In My Lap](https://open.spotify.com/track/6umjcG2GhdKOTlry4u8Eui) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [I Am Me](https://open.spotify.com/album/4pAz6zuQCyAXFGpVE1yhi6) | 2:56 | 2024-06-11 |  |
@@ -287,6 +287,7 @@
 | [TaKe oNe](https://open.spotify.com/track/1r1CbOrfAaiYQiDfk7lssT) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Foolhardy](https://open.spotify.com/album/0uXgNssRMoB2clRboMKeM8) | 2:22 | 2024-06-11 |  |
 | [Tay Keith](https://open.spotify.com/track/6sSmh6H1tMZDmREz3ev6c3) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [First Quarter](https://open.spotify.com/album/4LAiL2z5jIvFRvNSzzFBVG) | 2:00 | 2024-06-11 |  |
 | [Teamo](https://open.spotify.com/track/0uzsFjCDC7T0E5F4hDcoGf) | [FTO Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Life of a SlimeCrook](https://open.spotify.com/album/3dYWvEeuKRCht48uU9DQjD) | 2:44 | 2024-06-26 |  |
+| [Temptation](https://open.spotify.com/track/2gXOzCwbVXACCaYRj4Qrep) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:47 | 2025-10-24 |  |
 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 | 2025-05-26 |  |
 | [That’s Him \(with Tay Keith\)](https://open.spotify.com/track/6PpLYEioOcGe67driLklfo) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:45 | 2024-06-11 | 2025-05-27 |
 | [There Go Shawty](https://open.spotify.com/track/5o76HTMtavTjPU8HJQ3qQY) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [There Go Shawty](https://open.spotify.com/album/1uAd7mB64dZicb5I4tUHA2) | 2:41 | 2024-08-18 |  |

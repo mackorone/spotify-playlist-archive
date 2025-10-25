@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Samantha Fish
 
-382 songs - 1 day 0 hr 48 min
+383 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Burn It To The Ground](https://open.spotify.com/track/4bTWoBaKtlCV94JmMc6bLh) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4), [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Burn It To The Ground](https://open.spotify.com/album/6DdxhWkMIIoBv6ZnEYXK3l) | 3:04 | 2025-09-05 | 2025-10-11 |
 | [Call It Stormy Monday](https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:07 | 2024-05-24 | 2024-07-06 |
 | [Can Ya Handle The Heat?](https://open.spotify.com/track/7bQsyY4627F3Xg05RtvzgP) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Can Ya Handle The Heat?](https://open.spotify.com/album/1OVvAY4Xa0sAIPVtej7K8S) | 2:54 | 2025-04-04 | 2025-04-26 |
-| [Can't Go Back](https://open.spotify.com/track/1UakN2FvjlCtktr5C7eKTU) | [Eric Steckel](https://open.spotify.com/artist/1Nszrfn8SpD5v19xCpaVbk) | [Polyphonic Prayer](https://open.spotify.com/album/1UDIrNUj89EZLk6sxDMQEo) | 4:55 | 2020-10-16 |  |
+| [Can't Go Back](https://open.spotify.com/track/1UakN2FvjlCtktr5C7eKTU) | [Eric Steckel](https://open.spotify.com/artist/1Nszrfn8SpD5v19xCpaVbk) | [Polyphonic Prayer](https://open.spotify.com/album/1UDIrNUj89EZLk6sxDMQEo) | 4:55 | 2020-10-16 | 2025-10-25 |
 | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/track/2Q7MG9T0kCEEJmDpaKP4be) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Chris Robertson](https://open.spotify.com/artist/1GdMYXxQLiGQCdZZd153HL) | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/album/52SxUXwHjJNNBLvSlmbBjC) | 3:32 | 2021-07-16 | 2024-03-09 |
 | [Cause We've Ended as Lovers](https://open.spotify.com/track/4zoQ3EqopTIGmK2c2rPV5t) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Blow By Blow](https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u) | 5:42 | 2024-05-24 | 2024-07-06 |
 | [Chevrolet](https://open.spotify.com/track/4icURV4pUCDz0C3T5n4fzk) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Chevrolet](https://open.spotify.com/album/50AUhOEi0tTqeVGBuW9VMh) | 2:29 | 2022-05-20 | 2022-06-11 |
@@ -390,5 +390,6 @@
 | [You Give Me Something](https://open.spotify.com/track/3rPv5WnpW2rfiNubXzjBXn) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Out Of My Head](https://open.spotify.com/album/4XNh7oEb8RuzjV18HnILR4) | 3:52 | 2020-10-16 | 2024-04-19 |
 | [You Give Me Something](https://open.spotify.com/track/5bSHyDR9VHcFUVUdh3cITx) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Out of My Head](https://open.spotify.com/album/539FA4h32bDJBDO88ruwXV) | 3:52 | 2020-10-16 | 2025-03-29 |
 | [You Pushed Me](https://open.spotify.com/track/01tmrXbE6UPvMLpxMBlmiY) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [You Pushed Me](https://open.spotify.com/album/4N20MOAxyJDC6LIlbySax6) | 3:21 | 2023-06-02 |  |
+| [YOUNG BLOOD](https://open.spotify.com/track/5wMtnzKuIyhPFD8VvGpAyN) | [True Strays](https://open.spotify.com/artist/2arsJQ0bB5uQyDJoR3MbOq) | [YOUNG BLOOD](https://open.spotify.com/album/1PjUSENItjT102cQZDZYer) | 3:22 | 2025-10-24 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

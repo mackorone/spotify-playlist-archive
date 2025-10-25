@@ -2,9 +2,9 @@
 
 ### [RAP 91 Malayalam](https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c)
 
-> Best of Malayalam Hip\-Hop! <br/>Cover :  M.H.R
+> Best of Malayalam Hip\-Hop! <br/>Cover :  ThirumaLi and ThudWiser
 
-488 songs - 1 day 0 hr 57 min
+489 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Kotha Raja](https://open.spotify.com/track/10Ve2mQ4hTWtgqR6MbmJyf) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Resmi Sateesh](https://open.spotify.com/artist/3Fj6TOcW3jdLmiHGaXLMAX) | [King of Kotha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44fj4q4kFinawqSkHAebkZ) | 4:33 | 2023-08-24 | 2025-03-01 |
 | [Kottikeru](https://open.spotify.com/track/3OvgmRBM0so5y2bNrimBXN) | [Dittuu](https://open.spotify.com/artist/6tjncMzj8mFKvc1npavFo3), [Anaswar Djz](https://open.spotify.com/artist/7aWGjYMaMlUYJkLsJ5IA0A) | [Kottikeru](https://open.spotify.com/album/1ySmIbiBXtTcuPHwIM3yWn) | 2:57 | 2025-10-09 |  |
 | [KozhiPunk](https://open.spotify.com/track/5HKtzrNTEKpNM8H6p1LvV1) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [Sekhar Menon](https://open.spotify.com/artist/1cpwQb4p8o8eFSWCfzGlYw) | [KozhiPunk](https://open.spotify.com/album/7KYW2WsHpFRD5pk0rmbuHQ) | 4:14 | 2022-10-25 | 2023-09-19 |
+| [Kulasthree](https://open.spotify.com/track/578WOWpCtKkbowPTyB4jJd) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Kulasthree](https://open.spotify.com/album/7KH8U9NwaR7QLqv0A2hY4I) | 3:19 | 2025-10-24 |  |
 | [Kurukku](https://open.spotify.com/track/36Hs2lez8pd7Sque4gfHzg) | [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [Kadakan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RbTDWxfixXPRfTCvph14P) | 2:52 | 2024-03-19 | 2024-05-22 |
 | [KUSHUMBADI](https://open.spotify.com/track/63GNHWXifvQHRAF9dDxHiF) | [GOOKUU](https://open.spotify.com/artist/3JSqj6LLbuZtXSoLMXS3lj), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [KUSHUMBADI](https://open.spotify.com/album/0XaQv8oD9V2qdnweB4slim) | 2:42 | 2025-05-22 | 2025-08-14 |
 | [Kusumathi](https://open.spotify.com/track/4Ughcg2C6cVnoC9B7PBtGc) | [Muthu](https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q), [Kondottykaran Bapputty](https://open.spotify.com/artist/2ovDl6EmHG3cjIproFRyWu), [Kael Produced](https://open.spotify.com/artist/0WjHPYFnjOh4QzuFvyb6Ni) | [Kusumathi](https://open.spotify.com/album/431WvZZ2DN1xi9Qv855lal) | 3:09 | 2025-04-08 | 2025-05-24 |

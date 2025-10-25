@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 | 14 | [cocteau twinks \- episode 59 \(there was no trade at the anti\-immigration protest\)](https://open.spotify.com/episode/1noOjsoQiHzEoacp9F06Rz) | [cocteau twinks](https://open.spotify.com/show/7AHA1JA2j9hBUzesiFsTS6) | [cocteau twinks](https://open.spotify.com/album/7AHA1JA2j9hBUzesiFsTS6) | 1:17:30 |
 | 15 | [The world burns, billionaires get married\. Where to now?](https://open.spotify.com/episode/3TFftQZ7LjAuwSlbsNgBEC) | [From The Diving Board](https://open.spotify.com/show/3x5s7DATP1LXAndFl8rt4i) | [From The Diving Board](https://open.spotify.com/album/3x5s7DATP1LXAndFl8rt4i) | 30:05 |
 
-Snapshot ID: `AAAAAM2Xza5MwYptRavAHvUuaNCIMh1c`
+Snapshot ID: `AAAAABO2DVVBZFUY5ZXrClfrAp23v/RV`

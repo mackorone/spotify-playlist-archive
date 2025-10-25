@@ -4,7 +4,7 @@
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Aziz Hedra, Julia Wu
 
-519 songs - 1 day 9 hr 48 min
+520 songs - 1 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Cinta Takkan Usai](https://open.spotify.com/track/2znqSI4yjhozKqBuAPdKmx) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Mutia Ayu](https://open.spotify.com/artist/79OLLTbSJiF902xNECCrV6) | [Cinta Takkan Usai](https://open.spotify.com/album/1lni0LznmjMWpBp9em36Wa) | 4:21 | 2025-04-10 | 2025-06-13 |
 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 | 2024-11-15 | 2024-12-13 |
 | [Crown](https://open.spotify.com/track/1zMB9Lc5euKQWMUjPHghcv) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Evolve](https://open.spotify.com/album/6MtNCqErxlSmfuGiEuTwpj) | 2:56 | 2024-11-21 | 2024-12-13 |
+| [crown \- Extended version](https://open.spotify.com/track/747NwXzJbzxokNvuBTISIF) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [crown \(Extended version\)](https://open.spotify.com/album/26hmmNJYwMY5RvjNPhPdpk) | 4:19 | 2025-10-24 |  |
 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 | 2024-01-26 | 2024-03-22 |
 | [Cukup Dewasa](https://open.spotify.com/track/1XW9zp8BY4DJbpiQhJYKc6) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Cukup Dewasa](https://open.spotify.com/album/56yIPEP86mvgwosDxhx3di) | 3:56 | 2025-04-24 | 2025-10-17 |
 | [Cukup Sudah](https://open.spotify.com/track/7p0oydlzqHhi8ioLpCoUFc) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Cukup Sudah](https://open.spotify.com/album/6c5nRXhcFxc2YinPtePuao) | 3:33 | 2025-10-02 |  |
@@ -212,7 +213,7 @@
 | [Kapan?](https://open.spotify.com/track/6MKBKvgRLMHul5QP4Ch9h7) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [TEATER NESTAPA](https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf) | 3:40 | 2025-02-25 | 2025-05-16 |
 | [Karena Kamu \(Love Recalls Version\)](https://open.spotify.com/track/5B7qLPqBd0DxhDuK7VCPch) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Karena Kamu \(Love Recalls Version\)](https://open.spotify.com/album/2Pi4XOJlOvbhNjd6Omnr2h) | 3:58 | 2024-01-26 | 2024-05-24 |
 | [Kasih Aba Aba](https://open.spotify.com/track/5rhwXZP0luMucnEPnYJpbI) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq), [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [Kasih Aba Aba](https://open.spotify.com/album/7epsFufhjXWBTRp8i4IkmM) | 2:56 | 2025-07-24 |  |
-| [Kasih Tau Mama \(Malam Minggu\)](https://open.spotify.com/track/3egqzae8XAs7VXIb1ikB4I) | [Rombongan Bodonk Koplo](https://open.spotify.com/artist/4lMaxyOo5D7cOWzv2wiRZs) | [Kasih Tau Mama \(Malam Minggu\)](https://open.spotify.com/album/4VFwqb1N4CvkB00X2noeup) | 3:26 | 2025-09-25 |  |
+| [Kasih Tau Mama \(Malam Minggu\)](https://open.spotify.com/track/3egqzae8XAs7VXIb1ikB4I) | [Rombongan Bodonk Koplo](https://open.spotify.com/artist/4lMaxyOo5D7cOWzv2wiRZs) | [Kasih Tau Mama \(Malam Minggu\)](https://open.spotify.com/album/4VFwqb1N4CvkB00X2noeup) | 3:26 | 2025-09-25 | 2025-10-25 |
 | [Kasmaran](https://open.spotify.com/track/5MkEW02j6Lu7uMxaieHxVZ) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Kasmaran](https://open.spotify.com/album/0JCLBNTCR1M1e8zSTxE0S5) | 4:21 | 2024-11-07 | 2025-01-24 |
 | [Kata](https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kata](https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ) | 3:40 | 2024-02-01 | 2024-05-03 |
 | [Kata Kata](https://open.spotify.com/track/2AzoifKBHrbzI3WCrdEhZo) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Merangkai](https://open.spotify.com/album/4qAa6aWYwW1do7TQyBMz7z) | 3:39 | 2025-05-08 | 2025-09-26 |

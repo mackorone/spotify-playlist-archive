@@ -1,12 +1,12 @@
 {
   "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
-  "num_followers": 78003,
+  "num_followers": 78008,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAACcXF+TL641oeQxXK4axuOd",
+  "snapshot_id": "aPlwAAAAAADzjJZ7R8gI+LUXN6po7Rj0",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 153320,
-      "name": "Bbydhyonchord",
-      "url": "https://open.spotify.com/track/0lLCH4mtQQYp6ASyJqhzgN"
+      "duration_ms": 143880,
+      "name": "Jynweythek",
+      "url": "https://open.spotify.com/track/3I0rWmF86CwQpajoZjkXtG"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 143880,
-      "name": "Jynweythek",
-      "url": "https://open.spotify.com/track/3I0rWmF86CwQpajoZjkXtG"
+      "duration_ms": 153320,
+      "name": "Bbydhyonchord",
+      "url": "https://open.spotify.com/track/0lLCH4mtQQYp6ASyJqhzgN"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selected Ambient Works Volume II (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 255333,
-      "name": "#21",
-      "url": "https://open.spotify.com/track/56wLenDrpunq4jPiMMissg"
+      "duration_ms": 231413,
+      "name": "Mookid",
+      "url": "https://open.spotify.com/track/75Ml44CCprAbusMbPZuHEr"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...I Care Because You Do",
-        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+        "name": "Selected Ambient Works Volume II (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 231413,
-      "name": "Mookid",
-      "url": "https://open.spotify.com/track/75Ml44CCprAbusMbPZuHEr"
+      "duration_ms": 255333,
+      "name": "#21",
+      "url": "https://open.spotify.com/track/56wLenDrpunq4jPiMMissg"
     },
     {
       "added_at": null,

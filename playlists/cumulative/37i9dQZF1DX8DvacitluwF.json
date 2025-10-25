@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: Sishii",
+  "description": "The best in South African and international R&B. Cover: KashCPT",
   "name": "R&Beats",
   "tracks": [
     {
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 149503,
       "name": "Bed of Roses",
       "url": "https://open.spotify.com/track/4hTBcHQ5DjYH9dbroi91if"
@@ -4191,6 +4191,24 @@
     },
     {
       "album": {
+        "name": "He's Not Me",
+        "url": "https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207762,
+      "name": "He's Not Me",
+      "url": "https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE"
+    },
+    {
+      "album": {
         "name": "Head in a Jar",
         "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
       },
@@ -5236,6 +5254,32 @@
       "duration_ms": 271875,
       "name": "It Depends (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
+    },
+    {
+      "album": {
+        "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
+        "url": "https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294816,
+      "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
+      "url": "https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB"
     },
     {
       "album": {
@@ -6560,7 +6604,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 255529,
       "name": "MBALI.",
       "url": "https://open.spotify.com/track/6bPQdN0lFhrhaWKbq8wuSw"
@@ -6632,7 +6676,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 199401,
       "name": "me u & pride",
       "url": "https://open.spotify.com/track/0H0Zs9VdBSKqRIJGBpLbY4"
@@ -7468,6 +7512,24 @@
       "duration_ms": 171663,
       "name": "On it",
       "url": "https://open.spotify.com/track/0tx9XxpGK0tPusehiixbMd"
+    },
+    {
+      "album": {
+        "name": "On Me",
+        "url": "https://open.spotify.com/album/2wGL1ouz96YwyKn1mq27h2"
+      },
+      "artists": [
+        {
+          "name": "Kashcpt",
+          "url": "https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/4oEmdTE3XVGQA7TMzUHDWf"
     },
     {
       "album": {

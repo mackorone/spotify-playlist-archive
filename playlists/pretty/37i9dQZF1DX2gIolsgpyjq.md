@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: ILMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,066 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,101 likes - 99 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [THE WAKE](https://open.spotify.com/track/6eVtzfDyur0ascFAEWxMMI) | [ILMA](https://open.spotify.com/artist/28HUvCNgo5vgvf8Sm6wxfs) | [THE WAKE](https://open.spotify.com/album/6omssKbLCsZvBthz9G9pEA) | 3:30 |
-| 2 | [Forcefed Serenity](https://open.spotify.com/track/7dOKUA3dk7cCG6BVv8RAuE) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z), [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg) | [](https://open.spotify.com/album/null) | 2:36 |
+| 2 | [Forcefed Serenity](https://open.spotify.com/track/7dOKUA3dk7cCG6BVv8RAuE) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z), [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg) | [Forcefed Serenity](https://open.spotify.com/album/5gW4SSCvyvPC36IQsu1icB) | 2:36 |
 | 3 | [Fifteen](https://open.spotify.com/track/5erOyZkmVeldhopoUSlg9k) | [Ziggy Maxwell](https://open.spotify.com/artist/6CU3o4SjJwW3qdEI6VDDiE) | [Fifteen](https://open.spotify.com/album/7zsy5qkxbNn4sbG4LxfM9h) | 3:53 |
 | 4 | [Falling](https://open.spotify.com/track/4KDBVFSN4psfJnA14QMyTu) | [JOSSY](https://open.spotify.com/artist/20SOO8oF6xTqnAAAb4CmUn) | [Falling](https://open.spotify.com/album/1OuU3FUkb4hmLcrg7tK4TE) | 2:32 |
 | 5 | [EVERYTHING AT ONCE](https://open.spotify.com/track/7M9xRZm1gXwgkdKJLpaQ13) | [DEEJADE](https://open.spotify.com/artist/2SNdikRXdwh6utMvQ3LxPK) | [CAMO](https://open.spotify.com/album/6PeaRXu0PdCh6sPpWxEEE1) | 2:38 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 12 | [A Big World](https://open.spotify.com/track/2JfaMXGWkDGQ6fCdszPJU4) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi) | [A Big World](https://open.spotify.com/album/4BfUPtG1r1r4ZfgHePdSzW) | 3:50 |
 | 13 | [Break The Wave](https://open.spotify.com/track/22tRvyxG55vSjyBjTwxJ6z) | [Parasto Sazvar](https://open.spotify.com/artist/1HWUNhdWnDLdvnWIRlWitI) | [Break The Wave](https://open.spotify.com/album/7pj8065F4DyuS54hqM9fan) | 3:45 |
 | 14 | [Bully](https://open.spotify.com/track/7hhofXZVulCPtTtDH27e0o) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Bully](https://open.spotify.com/album/0CwKc5bjnFIXAccYdq6Wjp) | 3:33 |
-| 15 | [forever, for a while](https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [](https://open.spotify.com/album/null) | 2:13 |
+| 15 | [forever, for a while](https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Laminar Flow](https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42) | 2:13 |
 | 16 | [Benjamin Reichwald](https://open.spotify.com/track/1qf6F29t4c2eqr7oByU6Vr) | [Fred Soila](https://open.spotify.com/artist/7ngrF0C7lWTaTI8Ei0ja8E) | [Benjamin Reichwald](https://open.spotify.com/album/4d3pZ5Un4DeTVSQB4HTsGz) | 3:46 |
 | 17 | [stealing cars](https://open.spotify.com/track/4kilas9NE61w8elwg826VN) | [Luke Alvin](https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc) | [stealing cars](https://open.spotify.com/album/2YQuhwFjscEgSmjZqeIzgg) | 2:53 |
 | 18 | [Supernatural](https://open.spotify.com/track/3q0IdZJinV2b3tiTPcMZ9N) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Supernatural](https://open.spotify.com/album/5UBUBrAte5AwoW3aBZRqmN) | 3:02 |

@@ -1611,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "Eu Vou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0dZnuPgRHF7sGF5ttPVghh"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Zoe",
+          "url": "https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 685714,
+      "name": "Eu Vou - Ao Vivo",
+      "url": "https://open.spotify.com/track/4YAoTTQIiaMc37309bOjtX"
+    },
+    {
+      "album": {
         "name": "Eu Vou Correr",
         "url": "https://open.spotify.com/album/5SG58E8VnndS1SkrpGn3X8"
       },
@@ -2224,7 +2242,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 310312,
       "name": "Me Ensina a Viver",
       "url": "https://open.spotify.com/track/0S5t0T4YV3pHs4LH0mtasp"

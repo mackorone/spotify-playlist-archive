@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Joe Armon\-Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,340 likes - 82 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,344 likes - 82 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 2 | [Over \(feat\. Yebba\)](https://open.spotify.com/track/2tGruyXi5FsyP9c5yGh9gz) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Keys To The City Volume One](https://open.spotify.com/album/32GpVPWX3xM7wvTDoNugiU) | 5:01 |
 | 3 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 |
 | 4 | [THE FALL](https://open.spotify.com/track/26Zg7dZQtAMYIpEHD3SYci) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [THE FALL](https://open.spotify.com/album/1QgFO7rwG1CZafxysAP6zP) | 3:20 |
-| 5 | [eyes wide open \(noema\)](https://open.spotify.com/track/3qOaqv0ohk5t5LHQorLNqL) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Natureboy Flako](https://open.spotify.com/artist/41gy1E3ZlSK5KOjiDiqgmH), [Dirg Gerner](https://open.spotify.com/artist/50tYM3PrjzqoNUWfQoZSRi) | [](https://open.spotify.com/album/null) | 3:20 |
+| 5 | [eyes wide open \(noema\)](https://open.spotify.com/track/3qOaqv0ohk5t5LHQorLNqL) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Natureboy Flako](https://open.spotify.com/artist/41gy1E3ZlSK5KOjiDiqgmH), [Dirg Gerner](https://open.spotify.com/artist/50tYM3PrjzqoNUWfQoZSRi) | [Dream Manifest \(Deluxe\)](https://open.spotify.com/album/2uDCxHtu7bhQpShfCYKFVs) | 3:20 |
 | 6 | [my friend](https://open.spotify.com/track/3uWcSECdnlt0KkOWGFJY9x) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Sector 202](https://open.spotify.com/artist/4wZcgsw8OsO3gxRkbSQ5dP) | [my friend](https://open.spotify.com/album/06f11n0nawAhdN7Tuy3KFQ) | 4:04 |
 | 7 | [Always Be \(feat\. Kaya Thomas\-Dyke\)](https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Roulette](https://open.spotify.com/album/3ri9BvsRSttcqo5i4ofKME) | 3:28 |
 | 8 | [Free Your Mind](https://open.spotify.com/track/2JxNw8pTcHjDUrzY68hWPO) | [The Love Experiment](https://open.spotify.com/artist/77mMrOLtzvOecW4MGbKwRG), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [Velvet](https://open.spotify.com/album/7FqGSLyRJgVCmcgloVGCXz) | 4:43 |

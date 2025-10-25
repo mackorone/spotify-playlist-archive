@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Julia Vitória, Nívea Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,526 likes - 80 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,549 likes - 80 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 79 | [Sonda\-me Usa\-me \- Ao Vivo](https://open.spotify.com/track/0Gw6MjldfM8Yhq6Joxp0o8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos Na Casa \(Ao Vivo\)](https://open.spotify.com/album/15qEQ0gH57j9rh4CfV1aPu) | 6:07 |
 | 80 | [Era Eu](https://open.spotify.com/track/7JbL2DMky0vamZhYvlAzVA) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol.2\)](https://open.spotify.com/album/0WeIm6VLCQgXjBnCQq3juH) | 5:37 |
 
-Snapshot ID: `AAAAALdXeYg8Uljo9ERx+0aHoiZWunJE`
+Snapshot ID: `AAAAAKzXzKUHNYPM32onNEcHmqnSXweW`

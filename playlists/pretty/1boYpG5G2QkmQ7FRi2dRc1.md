@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 282,625 likes - 49 songs - 2 hr 58 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 282,595 likes - 49 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ain't Letting You Down](https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Ain't Letting You Down](https://open.spotify.com/album/6Gihz6RXvLYLFxHPMJC7nf) | 4:20 |
+| 1 | [Ain't Letting You Down](https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Ain't Letting You Down](https://open.spotify.com/album/6Gihz6RXvLYLFxHPMJC7nf) | 4:21 |
 | 2 | [⁠⁠Butterflies](https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Butterflies](https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S) | 3:47 |
 | 3 | [Warehouse](https://open.spotify.com/track/0TH77vpxcIxMIND1gnne68) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Warehouse](https://open.spotify.com/album/5cguVMkWcQVYde2ZucBdNR) | 2:19 |
 | 4 | [Anyway](https://open.spotify.com/track/6vNs3dzBtzLec8eZJOWYhS) | [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB), [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p) | [Anyway](https://open.spotify.com/album/5BTornzfofZqUyBcN2HdhW) | 2:37 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 422958,
+  "num_followers": 423011,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAACIvy6WWbfwQfwA2BczigF9",
+  "snapshot_id": "aPlwAAAAAAChcLqi2HhCuEeWFZDk/P66",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 224186,
-      "name": "Picture of My Life",
-      "url": "https://open.spotify.com/track/0JSinz03ZGQxKtCH3yBg6W"
+      "duration_ms": 300226,
+      "name": "(Don't) Give Hate a Chance",
+      "url": "https://open.spotify.com/track/2IJk5fQC6Qiu2gRrCR2977"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 300226,
-      "name": "(Don't) Give Hate a Chance",
-      "url": "https://open.spotify.com/track/2IJk5fQC6Qiu2gRrCR2977"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Funk Odyssey",
         "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
       },
@@ -424,9 +408,25 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 338960,
-      "name": "Corner of the Earth",
-      "url": "https://open.spotify.com/track/3jmbIhguc5uxiOdZ7ak8H3"
+      "duration_ms": 224186,
+      "name": "Picture of My Life",
+      "url": "https://open.spotify.com/track/0JSinz03ZGQxKtCH3yBg6W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 301733,
+      "name": "Time Won't Wait",
+      "url": "https://open.spotify.com/track/4wX8INH5GiFoH1EeHupY0x"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 301733,
-      "name": "Time Won't Wait",
-      "url": "https://open.spotify.com/track/4wX8INH5GiFoH1EeHupY0x"
+      "duration_ms": 338960,
+      "name": "Corner of the Earth",
+      "url": "https://open.spotify.com/track/3jmbIhguc5uxiOdZ7ak8H3"
     },
     {
       "added_at": null,

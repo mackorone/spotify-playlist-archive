@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Rim'K
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,762 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,768 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ainsi va la rue](https://open.spotify.com/track/0wTi7XDIPqOi0cBv7JGb70) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Saïf](https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL) | [](https://open.spotify.com/album/null) | 2:38 |
+| 1 | [Ainsi va la rue](https://open.spotify.com/track/0wTi7XDIPqOi0cBv7JGb70) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Saïf](https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL) | [RUN Evolution](https://open.spotify.com/album/74FebIYWI8nzxEG0EPAsG4) | 2:38 |
 | 2 | [Ce qui restera](https://open.spotify.com/track/453CZ5QOvjjiP2C9mMGfEh) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP) | [Dieu Donne, J’utilise part.1](https://open.spotify.com/album/2d7lwWCSsSZU62EuuJulKg) | 2:56 |
 | 3 | [L'usine](https://open.spotify.com/track/6SxhEpfC7K1A7d48QdXxNj) | [Frs taga](https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy) | [L'usine](https://open.spotify.com/album/3wXVPlj7mpDK2wf8GobWMD) | 3:32 |
 | 4 | [J'attends](https://open.spotify.com/track/2bniQFXQRtmHcEx35GJTsN) | [Antes & Madzes](https://open.spotify.com/artist/7Admld0N9GuvBOpoDpje6s) | [J'attends](https://open.spotify.com/album/15YnmEYwfWffBHeRjMqDTR) | 3:31 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 8 | [H22](https://open.spotify.com/track/2ARNUVQzaTpKQkktRFcX7g) | [Heykel](https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL) | [H22](https://open.spotify.com/album/4lhZAdvSHziOksFAacslXx) | 6:04 |
 | 9 | [Incendie](https://open.spotify.com/track/1iMjA2Wef6Dd3bRZmv7ffT) | [Kamilou](https://open.spotify.com/artist/2AGWEzhXzD8JhIYQdYRtr5) | [Pour toujours et à jamais](https://open.spotify.com/album/7EM29MAE3YRh2l37TWOoLV) | 2:50 |
 | 10 | [Ne pas m'aimer](https://open.spotify.com/track/08L1ePVF6FfAuw3C8b07iy) | [Oxmo Puccino](https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O), [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [LA HAUTEUR DE LA LUNE](https://open.spotify.com/album/6rv2HuS4hmqDktFV04TeBU) | 2:57 |
-| 11 | [Cités de France](https://open.spotify.com/track/27JUw94xwdU969i6hkf21s) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D) | [](https://open.spotify.com/album/null) | 2:32 |
+| 11 | [Cités de France](https://open.spotify.com/track/27JUw94xwdU969i6hkf21s) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D) | [RUN Evolution](https://open.spotify.com/album/74FebIYWI8nzxEG0EPAsG4) | 2:32 |
 | 12 | [Fin de ce monde](https://open.spotify.com/track/2UWO657TjAWYy1E75r0sZf) | [ISHA](https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo), [Limsa d'Aulnay](https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5) | [Fin de ce monde](https://open.spotify.com/album/5nQdkGXFBOrlnP4RJbxi4g) | 2:58 |
 | 13 | [DIEU EST GRANDE](https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [DIEU EST GRANDE](https://open.spotify.com/album/75akm23oaHhtzextLCN2zz) | 2:56 |
 | 14 | [Logo Doré](https://open.spotify.com/track/5DBRavHrwKbLD1r7MXyYAI) | [Keroué](https://open.spotify.com/artist/5BmYHHk3xzJxkmrHVkq4y8), [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT) | [Logo Doré](https://open.spotify.com/album/5NQCAGEMvvE1Ko4VYGvRZa) | 3:53 |

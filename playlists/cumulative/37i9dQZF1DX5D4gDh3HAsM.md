@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-163 songs - 9 hr 36 min
+164 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Christmas Time is Here](https://open.spotify.com/track/6L33ji3tovMzS8zUoXV2GB) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Christmas in the Rockies](https://open.spotify.com/album/0NWplaqdsAibLPSPYV6AdV) | 3:46 | 2021-11-12 | 2022-07-29 |
 | [Christmas Wish](https://open.spotify.com/track/6WARQvk8lSlBv7HTWpFpFv) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Christmas Wish](https://open.spotify.com/album/1HfHKTJRTvwjvSRi865iNv) | 3:54 | 2023-10-13 |  |
 | [Cool Yule](https://open.spotify.com/track/0KIbWpeVKKl2XVLzTWVIA9) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Blue Christmas](https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM) | 3:30 | 2021-11-12 |  |
+| [cozy you \(christmas\) \(feat\. Hohnen Ford\)](https://open.spotify.com/track/3Oe541ImMxBs9REZXDNouY) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg), [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [a cozy christmas](https://open.spotify.com/album/7rA2UGd6OBHpGkyNdMezhF) | 2:17 | 2025-10-24 |  |
 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Holidays](https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK) | 1:44 | 2023-12-08 |  |
 | [Dech The Hall Boughs Of Holly](https://open.spotify.com/track/1FGO7AYk1tg2jEgfptla6O) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/1qnpNMKpPzIC0eXrzVSh6K) | 3:42 | 2021-11-12 | 2024-11-23 |
 | [Dech The Hall Boughs Of Holly](https://open.spotify.com/track/1ckWK9gPj5z6Ikb5gi6Xhh) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/0t0LMIRhBLD6xWPc6MEKxX) | 3:42 | 2021-11-12 | 2024-04-19 |
@@ -61,7 +62,7 @@
 | [Greensleeves](https://open.spotify.com/track/6qEZ3wkUF7nY1DBbD7DHoN) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:29 | 2021-11-12 |  |
 | [Have a Holly Jolly Christmas](https://open.spotify.com/track/2Lb9nBoZ8V5GNtMOgcaF8o) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 4:03 | 2021-11-12 | 2024-04-19 |
 | [Have a Holly Jolly Christmas](https://open.spotify.com/track/3DY7RPevRunOOtUEvGfMdF) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK) | 4:03 | 2021-11-12 |  |
-| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3AezIDa97X6FdMzORsujNE) | [Christian Sands](https://open.spotify.com/artist/1OVmnAhTevnwsr902sVIjU) | [Christmas Stories](https://open.spotify.com/album/2wMYTG2NDzVnYjQvBJpYDT) | 4:48 | 2024-11-22 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3AezIDa97X6FdMzORsujNE) | [Christian Sands](https://open.spotify.com/artist/1OVmnAhTevnwsr902sVIjU) | [Christmas Stories](https://open.spotify.com/album/2wMYTG2NDzVnYjQvBJpYDT) | 4:48 | 2024-11-22 | 2025-10-25 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1g6YL7uQluPt6dSIROKBhB) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Have Yourself A Merry Little Christmas / Marshmallow World](https://open.spotify.com/album/50TrLFhQ6l7bDC73Ktr7jh) | 2:52 | 2022-11-18 | 2023-11-11 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag) | 4:16 | 2022-10-07 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1jNPo7xE3lf5kEamRmQemB) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/5b8kLtDCLWYKyJFemtmu73) | 3:45 | 2023-09-29 | 2024-11-23 |

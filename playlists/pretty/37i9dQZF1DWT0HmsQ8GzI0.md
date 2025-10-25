@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Szlimmy
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,615 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,623 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 79 | [Autopilot](https://open.spotify.com/track/2HKnUWRcZeg9NwSQRWdLVk) | [Ivan & The Parazol](https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8) | [Belle Époque](https://open.spotify.com/album/0wR9qtqzXFLCwxcK2hhmQ9) | 3:18 |
 | 80 | [Boldog dalok, morbid viccek](https://open.spotify.com/track/4bIQoFVMAF8tuDYsgw7Skm) | [Fiúk](https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7) | [Boldog dalok, morbid viccek](https://open.spotify.com/album/3FAwO96EjgVHpOmSy7VSIB) | 4:22 |
 
-Snapshot ID: `AAAAAKuiucyWv7qjv60ycuG7lWrxXnCi`
+Snapshot ID: `AAAAAL1PQzyX5WpBRNjNxMqJOpK8IOO+`

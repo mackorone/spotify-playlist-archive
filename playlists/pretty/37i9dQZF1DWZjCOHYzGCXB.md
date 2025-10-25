@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 
 > no old maiden type of shoes here 🐬💛🎀🏝️🛍️🩵🩰
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,457 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,425 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 79 | [play](https://open.spotify.com/track/43HLGa3iry3gOahaTUGcIM) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [play](https://open.spotify.com/album/4qeSsS64ItU3Jk7NZukO1M) | 2:52 |
 | 80 | [CUNTISSIMO](https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUNTISSIMO](https://open.spotify.com/album/0Y25OO4Whcw7FLJkhdJSKq) | 4:00 |
 
-Snapshot ID: `AAAAAFmFxaSk6keiE2ZO0Rl2t7PZM3GW`
+Snapshot ID: `AAAAAAXbPMKPltZFFh7rz3n/2fnjf/Ri`

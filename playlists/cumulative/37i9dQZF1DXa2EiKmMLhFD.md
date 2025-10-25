@@ -2,7 +2,7 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari Taylor Swift, Rizky Febian, Adrian Khalif serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari Aku Jeje, Rizky Febian, Adrian Khalif serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
 351 songs - 21 hr 46 min
 

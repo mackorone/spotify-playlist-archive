@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: Daniel Caesar
 
-1,132 songs - 2 day 16 hr 58 min
+1,132 songs - 2 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -747,6 +747,7 @@
 | [One Is Always Heading Somewhere](https://open.spotify.com/track/6AxuCveEWY0qTRwCypqeza) | [Womb](https://open.spotify.com/artist/58DUChzwD72FKOw6Bpjx1s) | [One Is Always Heading Somewhere](https://open.spotify.com/album/1ra43s0CnV3v5TzD888a0M) | 2:42 | 2025-03-13 | 2025-04-11 |
 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 | 2025-02-06 | 2025-02-28 |
 | [One of the Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One of the Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 | 2025-09-25 |  |
+| [One Step Off The Pace](https://open.spotify.com/track/1txgc19GYBfpziML86jyXb) | [BANFF](https://open.spotify.com/artist/1HXutqlj4mgfiRmeJSUN2f) | [Bleed Out](https://open.spotify.com/album/1YS33gVZMc999xwUzFtYic) | 3:36 | 2025-10-23 |  |
 | [One Sugar](https://open.spotify.com/track/0i3h0cgoRs6klKV7jXEPty) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [One Sugar](https://open.spotify.com/album/0FMYfjQBq1OL899N3tphBc) | 2:22 | 2025-05-29 | 2025-07-25 |
 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-05-15 | 2025-07-18 |
 | [One Way or the Other](https://open.spotify.com/track/6bX80hmB6BJQgHGeCn41OU) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [In Breech](https://open.spotify.com/album/0PsNN3eGsmrzfB1R2QRkfC) | 3:57 | 2024-12-05 | 2025-02-07 |
@@ -826,7 +827,7 @@
 | [Road Rage](https://open.spotify.com/track/2oqS42cUvvGe6RyLcxPzOl) | [Alex the Astronaut](https://open.spotify.com/artist/42NjRVKqEGe2DkGvlUd5qM) | [Road Rage](https://open.spotify.com/album/11X46xn7c7uoPDQyIHR1pk) | 3:30 | 2024-11-07 | 2024-11-29 |
 | [Rocketship](https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Rocketship](https://open.spotify.com/album/5rn2NONdzN8MELCoz81Ryj) | 1:56 | 2025-01-09 | 2025-02-28 |
 | [Rodeo](https://open.spotify.com/track/4lA2t93lXgoe1NAzgP2b6u) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Rodeo](https://open.spotify.com/album/26tjiIfV5xBjTbTHbX8XFP) | 3:19 | 2025-04-03 | 2025-04-25 |
-| [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [](https://open.spotify.com/album/null) | 4:25 | 2025-10-23 |  |
+| [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 | 2025-10-23 |  |
 | [Roses](https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Roses](https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu) | 3:35 | 2024-08-15 | 2024-09-20 |
 | [Ruin A Good Thing](https://open.spotify.com/track/1WBCT1X3icl0ElsOXxxg25) | [Lottie McLeod](https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9) | [Bug](https://open.spotify.com/album/2cMqGu1camh7KGSPLUhO5w) | 3:19 | 2025-06-12 | 2025-08-01 |
 | [Run It Back](https://open.spotify.com/track/2gSVKq4fs4rYE6ukeKnVWi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/3CLGTVOXKLB8W4eyLJO85A) | 2:27 | 2024-06-27 | 2024-08-02 |
@@ -1040,7 +1041,6 @@
 | [Touch](https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd) | [JESS REISS](https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8) | [Touch](https://open.spotify.com/album/3v5qojWFCDUdR5VCvGXj9I) | 3:15 | 2025-02-20 | 2025-05-23 |
 | [Touching and Talking](https://open.spotify.com/track/6gHoCgosSQzDgZngAAIbmk) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Touching and Talking](https://open.spotify.com/album/63nBX7FKEB6e9j5NyFu2yF) | 3:16 | 2024-07-11 | 2024-08-09 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 |  |
-| [Track 6](https://open.spotify.com/track/1txgc19GYBfpziML86jyXb) | [BANFF](https://open.spotify.com/artist/1HXutqlj4mgfiRmeJSUN2f) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [Tractor Beams](https://open.spotify.com/track/5F8SZeipQ3cEN2gZ8BxSpO) | [Tutara Peak](https://open.spotify.com/artist/6GqQziMdX3FNMhEx9zd3NX), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Tractor Beams](https://open.spotify.com/album/43DvYfPb4cbuQr2wnBhdh9) | 3:18 | 2024-08-01 | 2024-09-06 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-22 | 2025-07-25 |
 | [Trinidad](https://open.spotify.com/track/0dklIrKepdHzKMo7ViDpyI) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Trinidad](https://open.spotify.com/album/2F5SSX6eyJQv3OJIUV1Y6x) | 3:44 | 2025-07-31 | 2025-08-22 |

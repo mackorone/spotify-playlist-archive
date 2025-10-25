@@ -4277,6 +4277,28 @@
     },
     {
       "album": {
+        "name": "Dourado",
+        "url": "https://open.spotify.com/album/33OzOauUa1DNkkW666lUHr"
+      },
+      "artists": [
+        {
+          "name": "Mundo Video",
+          "url": "https://open.spotify.com/artist/7eug6OaQ8rKdvSCTT6B9ty"
+        },
+        {
+          "name": "dad\u00e1 Jo\u00e3ozinho",
+          "url": "https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122323,
+      "name": "Dourado",
+      "url": "https://open.spotify.com/track/1qNhXGupY9uSGdSk1cBQNA"
+    },
+    {
+      "album": {
         "name": "DTF",
         "url": "https://open.spotify.com/album/4DsH9H8vpgwLpDLXY1NL9e"
       },
@@ -11318,7 +11340,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 149000,
       "name": "Quase Amor",
       "url": "https://open.spotify.com/track/4WezryS3J97JnF35wlB86D"

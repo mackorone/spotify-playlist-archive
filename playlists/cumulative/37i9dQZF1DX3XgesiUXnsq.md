@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this?
 
-779 songs - 1 day 19 hr 19 min
+780 songs - 1 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [Power Steering](https://open.spotify.com/track/1uT59swjpPqahDlbdOMoGb) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [The Course of the Inevitable 2](https://open.spotify.com/album/0nVduuZY4WnGnXXyZptmnf) | 3:40 | 2022-07-15 | 2022-09-17 |
 | [Premium Leather](https://open.spotify.com/track/4Q3jWNJwkqOx7PhbQdakz4) | [Sheldon Sabastian](https://open.spotify.com/artist/3TVN22ppuxvrMtVOIGFYYn) | [The Empty Seven 2](https://open.spotify.com/album/77KlcxdbWhCSD0sn9lFFJm) | 1:53 | 2022-10-21 | 2023-04-01 |
 | [PRESSURE](https://open.spotify.com/track/47M8dvlkQQcSV7IbjvK31V) | [TARiiiQ](https://open.spotify.com/artist/2ALwFi4e5UaTvVMddicA4g) | [PRESSURE](https://open.spotify.com/album/2T1Fegtgpa1rrve60p4s1Y) | 3:28 | 2024-04-05 | 2024-05-18 |
+| [PrimeMagic.](https://open.spotify.com/track/33K5MfsvaF4X01YyhzreKb) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [FromTheMud.](https://open.spotify.com/album/51yAjAHupbv08hFJm4VgpY) | 3:27 | 2025-10-24 |  |
 | [Problems \(feat\. Pusha T\) \- Triangle Park Mix](https://open.spotify.com/track/75AoC7T5bVnXweBDzDCkAJ) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Problems \(feat\. Pusha T\)](https://open.spotify.com/album/4cM7zQFczDyOJSNIr97e1j) | 4:05 | 2024-02-23 |  |
 | [Proceed](https://open.spotify.com/track/41Ta2RtJux73U0xxE8oS93) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Graymatter](https://open.spotify.com/artist/79sVZ1pbm24IZ9GbbCWlLv) | [World Class Trouble Solvers](https://open.spotify.com/album/2XdJ8pSuKFgaxUTmjaAh8d) | 2:03 | 2023-06-02 | 2023-07-08 |
 | [PROUD OF ME\. \(feat\. Fridayy\)](https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 4:42 | 2023-05-05 | 2023-09-16 |
@@ -741,7 +742,7 @@
 | [Wake Me Up \(feat\. Lil' Kim\)](https://open.spotify.com/track/3GvaQp4dS3htsegKXq7tUp) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Wake Me Up \(feat\. Lil' Kim\)](https://open.spotify.com/album/0XTHiKLB8tj842LgI7osWR) | 3:47 | 2023-11-17 | 2024-06-15 |
 | [Walk Wit My Shadow](https://open.spotify.com/track/4ypkfIEKxbpUMxzALYsvo1) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [Walk Wit My Shadow](https://open.spotify.com/album/1uFn12B0j2qqQAYSqNUqjs) | 2:16 | 2022-05-06 | 2022-05-20 |
 | [Walkin](https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Walkin](https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO) | 4:40 | 2022-04-29 | 2022-10-15 |
-| [Wat's Wrong \(feat\. Zacari & Kendrick Lamar\)](https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 5:30 | 2023-09-22 |  |
+| [Wat's Wrong \(feat\. Zacari & Kendrick Lamar\)](https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 5:30 | 2023-09-22 | 2025-10-25 |
 | [Watch Out Now](https://open.spotify.com/track/1n6pgjMma0nsl4jyMzmjxQ) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX) | [A Musical Massacre \(Explicit\)](https://open.spotify.com/album/0SguYFOyDWomwiGSUMwe5X) | 2:54 | 2024-04-19 | 2024-08-24 |
 | [Watch Out Now](https://open.spotify.com/track/6sWZn6kTuTrBkbOEQFoB3a) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX) | [A Musical Massacre](https://open.spotify.com/album/1eLbbQa8xpbZdp4DtjMB66) | 2:54 | 2023-12-08 | 2024-04-19 |
 | [Watch Your Mouth](https://open.spotify.com/track/6bF3ILAvyZXvla7usFLYjr) | [Locksmith](https://open.spotify.com/artist/0OGWDaYrjhn6v1Lq1rqrWa), [Snak The Ripper](https://open.spotify.com/artist/2MG7NjBnZsaiKekJ0Q2z89), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [Watch Your Mouth](https://open.spotify.com/album/5ATGoa3gwhajTJR6ZE26o6) | 3:21 | 2023-11-17 | 2024-03-23 |

@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Polo G
 
-1,350 songs - 2 day 19 hr 41 min
+1,351 songs - 2 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -691,6 +691,7 @@
 | [lOvE LeTtEr \(feat\. Don Toliver\)](https://open.spotify.com/track/6uff47vGupqiJHswiEiIW3) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [In Silly We Trust](https://open.spotify.com/album/1BuAXWfCXHeQVRDYiUDCUg) | 3:02 | 2024-10-17 | 2024-11-08 |
 | [Love Me Enough \(feat\. Monica & Keyshia Cole\)](https://open.spotify.com/track/10EIAinXUmcRQFdmTVeupA) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Pink Friday 2 \(Gag City PLUTO Edition\)](https://open.spotify.com/album/2lbQSK3qnWtWVYwjZiyvbM) | 3:50 | 2024-01-25 | 2024-07-19 |
 | [Love On The Brain \(feat\. Hunxho\)](https://open.spotify.com/track/45QkbTDuk2TfCXb2Nu7j4F) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Season 4: I Need You](https://open.spotify.com/album/73J0FU0wZ6rGOR6zxwPwmR) | 2:37 | 2025-01-30 | 2025-02-21 |
+| [LOVER GIRL](https://open.spotify.com/track/6Uy0ruV1XvX59WmvgZJhMb) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [LOVER GIRL](https://open.spotify.com/album/3eOaWZKDZNaSJ8Mp4xR1fU) | 4:24 | 2025-10-24 |  |
 | [LOVERS OR FRIENDS](https://open.spotify.com/track/3maNWrDSF4ZpBH5lLg0PyF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [LOVERS OR FRIENDS](https://open.spotify.com/album/5PHSTHZQzYZXqMfs02zZje) | 2:59 | 2025-07-31 |  |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-09 | 2024-03-16 |
 | [LUXURY LIFE \(feat\. Coi Leray\)](https://open.spotify.com/track/1v4trJXb9eBsIewxan0TBP) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [LUXURY LIFE \(feat\. Coi Leray\)](https://open.spotify.com/album/4juZyT9LN9kiBGRlkL5w2a) | 2:18 | 2023-09-07 | 2023-11-11 |

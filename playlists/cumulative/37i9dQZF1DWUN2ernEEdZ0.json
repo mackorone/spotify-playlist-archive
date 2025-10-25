@@ -1719,6 +1719,36 @@
     },
     {
       "album": {
+        "name": "Max Bruch: Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
+        "url": "https://open.spotify.com/album/2YXaizJfZTb15hcuIyUi2X"
+      },
+      "artists": [
+        {
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+        },
+        {
+          "name": "Johan Dalene",
+          "url": "https://open.spotify.com/artist/6bzcYpT0W1fheZys2ApYBz"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        },
+        {
+          "name": "Gemma New",
+          "url": "https://open.spotify.com/artist/4ykyo3tYKuavow1VyVsDrM"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459626,
+      "name": "III. Finale. Allegro energico",
+      "url": "https://open.spotify.com/track/1iNYoz2r5BygRpOZco1Y1t"
+    },
+    {
+      "album": {
         "name": "Jasmine",
         "url": "https://open.spotify.com/album/4tVjwFeG1tOas8WmMqZjxP"
       },
@@ -4961,7 +4991,7 @@
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 182875,
+      "duration_ms": 182874,
       "name": "Wiegala (Arr. for Violin and String Quintet by Esther Abrami)",
       "url": "https://open.spotify.com/track/047hDThUrQfxqye3s4zahb"
     },

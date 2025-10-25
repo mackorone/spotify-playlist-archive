@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: Gabriel Jacoby
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,530 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,574 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 99 | [Best For Us](https://open.spotify.com/track/1ZExgSbVQ0Ku5gjryLeKpQ) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Best For Us](https://open.spotify.com/album/0VkuiyMbYzeSKuRmyWvRzk) | 3:40 |
 | 100 | [Love Goes](https://open.spotify.com/track/7lt6KKaSXku9ExpG8EaqwV) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Love Goes](https://open.spotify.com/album/2z1sSMgDKfQXnfi71Ro1LZ) | 2:46 |
 
-Snapshot ID: `AAAAAGcKiPeU+KWD60ukDpYSyqpjYJZv`
+Snapshot ID: `AAAAAMhcat2We+ZdDuyW/m53MpqmykT/`

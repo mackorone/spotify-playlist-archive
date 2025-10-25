@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Miki \(du titre \#1 au \#16\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,800 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,793 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 6 | [MIMI](https://open.spotify.com/track/4RfVtka58I93lEnPsLlBEZ) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [GAUSSIAN](https://open.spotify.com/album/3fW9gKjP50cSIocjBT7qR0) | 3:27 |
 | 7 | [Soleil Mort](https://open.spotify.com/track/7ziSNSAMNDvWBHuSqbGy08) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Pyrale](https://open.spotify.com/album/3fiBUejWxczE7f8ITf4ad1) | 3:15 |
 | 8 | [Summer set](https://open.spotify.com/track/2DY0AKCD2iA4P73fTckvzy) | [09PEAS](https://open.spotify.com/artist/7bSsvbf8OA54fnPkmFxCCR) | [Summer set](https://open.spotify.com/album/2mO4V1vRYqlf3Fxy92npFP) | 2:48 |
-| 9 | [Numéro Inconnu](https://open.spotify.com/track/2nEaG6jaY04T2IvdRmGgHN) | [Whisper](https://open.spotify.com/artist/3VSRmHKVwL8poAI8cxpm6f) | [Après le Chaos](https://open.spotify.com/album/7EVl1DcqNrKLbZvy20Uq0V) | 2:37 |
+| 9 | [Numéro Inconnu](https://open.spotify.com/track/2nEaG6jaY04T2IvdRmGgHN) | [Whisper](https://open.spotify.com/artist/3VSRmHKVwL8poAI8cxpm6f) | [Après le Chaos](https://open.spotify.com/album/7EVl1DcqNrKLbZvy20Uq0V) | 2:39 |
 | 10 | [Passing Ships](https://open.spotify.com/track/3Sl0J2fCvA3doSWwVmFKZ1) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [The Burden of Fever Dreams](https://open.spotify.com/album/5uLDLgEEZgACeR6JiCeg9H) | 3:26 |
 | 11 | [The First Wave \- Birth Of Venus](https://open.spotify.com/track/6wG4izwDQdTxkpBEB6CRlk) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:04 |
 | 12 | [T'en va pas](https://open.spotify.com/track/6JCIbXPH5LIawW4NRLvYE8) | [Elsa](https://open.spotify.com/artist/4Uk5eLOfWucThb2X4QLcX1) | [L'essentiel](https://open.spotify.com/album/0jfDIK7wBs6kp2RbEy3iym) | 5:28 |

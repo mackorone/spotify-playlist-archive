@@ -5355,6 +5355,28 @@
     },
     {
       "album": {
+        "name": "I Got You Flowers",
+        "url": "https://open.spotify.com/album/0ALk2ITmWuEC98tflWgRYJ"
+      },
+      "artists": [
+        {
+          "name": "Neon Dreams",
+          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
+        },
+        {
+          "name": "Tatum Tides",
+          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "I Got You Flowers",
+      "url": "https://open.spotify.com/track/6ri6AyjDTSLBkEijwq9uxE"
+    },
+    {
+      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
       },

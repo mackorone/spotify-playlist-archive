@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 2209,
+  "num_followers": 2211,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAkEFRPOP/pjvt2XT4z0dsz",
+  "snapshot_id": "aPlwAAAAAACCQWzWxGmaW2beyors/5gJ",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Absent Minded",
+        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 163440,
+      "name": "Another Fall, Another Spring",
+      "url": "https://open.spotify.com/track/3In8znUcyeunAVkfuD6ppM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Or\u00edensa",
+        "url": "https://open.spotify.com/album/2lFHLdQwLpGeDJZm0WHtRM"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 143189,
+      "name": "Or\u00edensa",
+      "url": "https://open.spotify.com/track/467rzaIMT7UEmkMGlJM8ho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Works",
+        "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 165514,
+      "name": "Birta",
+      "url": "https://open.spotify.com/track/70HOjaRDOxL86922aqzy12"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Polar",
         "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
       },
@@ -428,41 +476,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 163440,
-      "name": "Another Fall, Another Spring",
-      "url": "https://open.spotify.com/track/3In8znUcyeunAVkfuD6ppM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piano Works",
-        "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 165514,
-      "name": "Birta",
-      "url": "https://open.spotify.com/track/70HOjaRDOxL86922aqzy12"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Or\u00edensa",
-        "url": "https://open.spotify.com/album/2lFHLdQwLpGeDJZm0WHtRM"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 143189,
-      "name": "Or\u00edensa",
-      "url": "https://open.spotify.com/track/467rzaIMT7UEmkMGlJM8ho"
+      "duration_ms": 181613,
+      "name": "Droplets",
+      "url": "https://open.spotify.com/track/1NjiI6iwfCZw8x54aBhsSr"
     },
     {
       "added_at": null,
@@ -483,22 +499,6 @@
       "duration_ms": 157397,
       "name": "Fantas\u00eda",
       "url": "https://open.spotify.com/track/1efYB2i1q8Mg6gLNZj92jV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Absent Minded",
-        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "Droplets",
-      "url": "https://open.spotify.com/track/1NjiI6iwfCZw8x54aBhsSr"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lullabies for Piano and Cello",
-        "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 212415,
-      "name": "Draumheimar",
-      "url": "https://open.spotify.com/track/0dAPZAKj30bBP1dx9OPaXC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Absent Minded",
         "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 198946,
       "name": "Filma",
       "url": "https://open.spotify.com/track/3dXWzjmmYSHwWQKSGhy9gQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lullabies for Piano and Cello",
+        "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 212415,
+      "name": "Draumheimar",
+      "url": "https://open.spotify.com/track/0dAPZAKj30bBP1dx9OPaXC"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Absent Minded",
+        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "B\u00e1ra",
+      "url": "https://open.spotify.com/track/4FLhnp7v0eRGdaBxiUSuBR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lullabies for Piano and Cello",
         "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
       },
@@ -623,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absent Minded",
-        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
+        "name": "Whales at Dusk",
+        "url": "https://open.spotify.com/album/4mjvmugHULMyaD8J6v7FV7"
       },
       "artists": [
         {
@@ -632,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 273800,
-      "name": "B\u00e1ra",
-      "url": "https://open.spotify.com/track/4FLhnp7v0eRGdaBxiUSuBR"
+      "duration_ms": 143523,
+      "name": "Whales at Dusk",
+      "url": "https://open.spotify.com/track/14M73gHqUYEayKdGQenYmZ"
     },
     {
       "added_at": null,
@@ -655,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whales at Dusk",
-        "url": "https://open.spotify.com/album/4mjvmugHULMyaD8J6v7FV7"
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
       },
       "artists": [
         {
@@ -664,9 +680,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 143523,
-      "name": "Whales at Dusk",
-      "url": "https://open.spotify.com/track/14M73gHqUYEayKdGQenYmZ"
+      "duration_ms": 241131,
+      "name": "The Winds",
+      "url": "https://open.spotify.com/track/1ekC0Et4hZTIq1a93Fxjfj"
     },
     {
       "added_at": null,
@@ -687,22 +703,6 @@
       "duration_ms": 173730,
       "name": "S\u00e1lmur",
       "url": "https://open.spotify.com/track/4JVn0lzH3nc7lp9pVRVfaf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 241131,
-      "name": "The Winds",
-      "url": "https://open.spotify.com/track/1ekC0Et4hZTIq1a93Fxjfj"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 232617,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/5qoHDfPRYh5K6scKLkm7xh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lullabies for Piano and Cello",
         "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 183240,
       "name": "V\u00edsa",
       "url": "https://open.spotify.com/track/3gTPuppNx1qfT0q8GcG6sC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 232617,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/5qoHDfPRYh5K6scKLkm7xh"
     },
     {
       "added_at": null,
@@ -800,25 +800,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 60202,
-      "name": "Permafrost II",
-      "url": "https://open.spotify.com/track/0ezup8npToPujZFJQNg6rL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hind / Aska (Harpa Sessions)",
-        "url": "https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Hind / Aska - Harpa Sessions",
-      "url": "https://open.spotify.com/track/3xAXkaB8vlhYa41vuM5RNM"
+      "duration_ms": 115364,
+      "name": "Ocean Variation II",
+      "url": "https://open.spotify.com/track/1ql9vbXw8QSYvJfudDpmuj"
     },
     {
       "added_at": null,
@@ -835,6 +819,22 @@
       "duration_ms": 278298,
       "name": "The Waves",
       "url": "https://open.spotify.com/track/4MlRPfn6fTD1RIr3Auvh4r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hind / Aska (Harpa Sessions)",
+        "url": "https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Hind / Aska - Harpa Sessions",
+      "url": "https://open.spotify.com/track/3xAXkaB8vlhYa41vuM5RNM"
     },
     {
       "added_at": null,

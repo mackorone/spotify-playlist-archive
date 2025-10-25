@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,326,813 likes - 100 songs - 4 hr 47 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,326,734 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 99 | [Hey DJ](https://open.spotify.com/track/2AthrfD1o1v3wIYIdJSJwi) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Another Friday Night](https://open.spotify.com/album/7mtOGMtwr9QpnkYaS1UuTh) | 2:37 |
 | 100 | [Waiting For Tonight](https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Waiting For Tonight](https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe) | 3:18 |
 
-Snapshot ID: `AAAREol31FVtjZVemI2Sa+0xN6XCvlcT`
+Snapshot ID: `AAARFOQ0+ksy+1iKWuEhYB1cQrylK3bg`

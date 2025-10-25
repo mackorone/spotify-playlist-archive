@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,381 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,391 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 99 | [O Come All Ye Faithful](https://open.spotify.com/track/1UvZ54idvsgA7PyubRFjRl) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Faithful Christmas](https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX) | 3:37 |
 | 100 | [My Only Christmas Wish](https://open.spotify.com/track/1wHzxntsy0HjTLGvTuFi5a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Christmas 3 Pack](https://open.spotify.com/album/3rcdvBsHJlAUrEMWzRpOS2) | 3:33 |
 
-Snapshot ID: `AAAAAMhSzi9GdzfsKKMeNm2ArAC9N0RD`
+Snapshot ID: `AAAAACt3T60MpP5g5+/ptLiSlpHObSsq`

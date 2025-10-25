@@ -1,13 +1,73 @@
 {
-  "description": "New music from your favorite women.  Cover: Muni Long",
-  "num_followers": 226684,
+  "description": "New music from your favorite women.  Cover: Queen Naija",
+  "num_followers": 226702,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOOj2tfbBfOYRst+Bp/JNNNOmXcW",
+  "snapshot_id": "AAAAAFt/QLrA1ZrZuN/ltDl0vZAkOPIy",
   "tracks": [
+    {
+      "added_at": "2025-10-24 04:00:29",
+      "album": {
+        "name": "30.",
+        "url": "https://open.spotify.com/album/3XAOKZb6n3bx6j9OvDSPvc"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 148146,
+      "name": "my man... (feat. Mariah The Scientist)",
+      "url": "https://open.spotify.com/track/1aXJeavB4ztnMd6eGvhl0y"
+    },
+    {
+      "added_at": "2025-10-24 04:00:29",
+      "album": {
+        "name": "love?... or something like it",
+        "url": "https://open.spotify.com/album/25zj1hLmeA7012yPvjstNy"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 241507,
+      "name": "know about me (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6ThcmoM9ZXYyNDm7AqtGTY"
+    },
+    {
+      "added_at": "2025-10-24 04:00:29",
+      "album": {
+        "name": "Folded Homage Pack",
+        "url": "https://open.spotify.com/album/0ERSLETUQi9BIfH0evmmjm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 259463,
+      "name": "Folded (Remix) [feat. Brandy]",
+      "url": "https://open.spotify.com/track/4Mn0tbmlOsYFSWoo4rJbnI"
+    },
     {
       "added_at": "2025-10-17 05:15:13",
       "album": {
@@ -25,6 +85,22 @@
       "url": "https://open.spotify.com/track/2BwdUAnoBIJpRPgs8vHg6K"
     },
     {
+      "added_at": "2025-10-24 04:00:29",
+      "album": {
+        "name": "Under The Moon",
+        "url": "https://open.spotify.com/album/5htwDF4DJFuae9rE5LDQiV"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 206681,
+      "name": "Under The Moon",
+      "url": "https://open.spotify.com/track/7ey9jmePIXngNcEZ0p7fqk"
+    },
+    {
       "added_at": "2025-10-10 07:33:06",
       "album": {
         "name": "The Art of Loving",
@@ -39,22 +115,6 @@
       "duration_ms": 209000,
       "name": "Lady Lady",
       "url": "https://open.spotify.com/track/2dmBAIjIfisvCG7G9YEh0g"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Folded",
-        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Folded",
-      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
       "added_at": "2025-10-03 04:03:31",
@@ -129,6 +189,22 @@
       "url": "https://open.spotify.com/track/5OPjAIP9JeWQ7z15FCxAcv"
     },
     {
+      "added_at": "2025-10-24 04:00:29",
+      "album": {
+        "name": "Emergency",
+        "url": "https://open.spotify.com/album/463NSKRGKqug4qqKofhDoC"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 181895,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/3nlq6ALlXjM9Ph3ohP1s4m"
+    },
+    {
       "added_at": "2025-09-19 16:39:00",
       "album": {
         "name": "HEARTS SOLD SEPARATELY",
@@ -145,20 +221,24 @@
       "url": "https://open.spotify.com/track/3mkRf3aCGR47rOxtJJiv9u"
     },
     {
-      "added_at": "2025-10-03 04:03:31",
+      "added_at": "2025-10-24 04:00:29",
       "album": {
-        "name": "Vacancy",
-        "url": "https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/3XM4YnOEeSoyTnucc5U0Jp"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 183489,
-      "name": "Vacancy",
-      "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"
+      "duration_ms": 208626,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/3Y1aIQRbvcXc7ZxcDC4rvs"
     },
     {
       "added_at": "2025-09-26 04:27:04",
@@ -293,24 +373,36 @@
       "url": "https://open.spotify.com/track/2IBeAHumOwj6gN0Ws3QyN6"
     },
     {
-      "added_at": "2025-09-19 16:39:00",
+      "added_at": "2025-10-24 04:00:29",
       "album": {
-        "name": "CAM GIRL",
-        "url": "https://open.spotify.com/album/2UDItWXKVZ4hhrsjMR3xks"
+        "name": "Sticky Situation",
+        "url": "https://open.spotify.com/album/3ctrcjfWHqOwznaFMW2VsM"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
         }
       ],
-      "duration_ms": 180333,
-      "name": "CAM GIRL",
-      "url": "https://open.spotify.com/track/0b7fhIHDFwmzwOcVCQvB2Y"
+      "duration_ms": 180312,
+      "name": "Sticky Situation",
+      "url": "https://open.spotify.com/track/7qlcQJxJHg9qC1Trq93rPA"
+    },
+    {
+      "added_at": "2025-10-24 04:00:29",
+      "album": {
+        "name": "Want This To Happen",
+        "url": "https://open.spotify.com/album/2SqJTjTEjaOQlbnE5WiXzG"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "duration_ms": 149268,
+      "name": "Want This To Happen",
+      "url": "https://open.spotify.com/track/4uhXhiL0HXTqcaDo8coW18"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -361,6 +453,22 @@
       "url": "https://open.spotify.com/track/0ForNGLm6YvbidK5EPLy1H"
     },
     {
+      "added_at": "2025-10-24 04:00:29",
+      "album": {
+        "name": "30.",
+        "url": "https://open.spotify.com/album/3XAOKZb6n3bx6j9OvDSPvc"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "duration_ms": 115862,
+      "name": "i deserve...",
+      "url": "https://open.spotify.com/track/4QQlCyjgWKrUhSeKNeaaQR"
+    },
+    {
       "added_at": "2025-09-26 04:27:04",
       "album": {
         "name": "Move feat. H.E.R.",
@@ -397,6 +505,54 @@
       "url": "https://open.spotify.com/track/20mEy3uJz5iXawPy8RncV0"
     },
     {
+      "added_at": "2025-10-03 04:03:31",
+      "album": {
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 183489,
+      "name": "Vacancy",
+      "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"
+    },
+    {
+      "added_at": "2025-10-24 04:00:29",
+      "album": {
+        "name": "Down Payment",
+        "url": "https://open.spotify.com/album/45zDzQHqEbSfWUbWvMffiU"
+      },
+      "artists": [
+        {
+          "name": "Storm Ford",
+          "url": "https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Crutch on Me",
+      "url": "https://open.spotify.com/track/4z5YYKyexnNgnTF29GZSDj"
+    },
+    {
+      "added_at": "2025-10-24 04:00:29",
+      "album": {
+        "name": "Teal Dreams",
+        "url": "https://open.spotify.com/album/2AzTf9LVZzgJ7DoN1nE7uQ"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Longest Way Round",
+      "url": "https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h"
+    },
+    {
       "added_at": "2025-10-10 07:33:06",
       "album": {
         "name": "Magnify",
@@ -427,22 +583,6 @@
       "duration_ms": 158674,
       "name": "TOUCH ME",
       "url": "https://open.spotify.com/track/5iJJvvVUVumJNoM5yIPlLk"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "WE NEED TO TALK : DRAMA",
-        "url": "https://open.spotify.com/album/4I4je4xJo10gcEK7LlIXG6"
-      },
-      "artists": [
-        {
-          "name": "Keri Hilson",
-          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
-        }
-      ],
-      "duration_ms": 224486,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/1kXkSTv8sCwI4vLbLLBstW"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -561,22 +701,6 @@
       "url": "https://open.spotify.com/track/1GHTYjolrAJBkFrQJUkBui"
     },
     {
-      "added_at": "2025-10-10 07:33:06",
-      "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/5K1kLLnLzYbojhXOZaWEZp"
-      },
-      "artists": [
-        {
-          "name": "Demae",
-          "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
-        }
-      ],
-      "duration_ms": 229583,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/5Mlitki4j9rXjKEapw0lUJ"
-    },
-    {
       "added_at": "2025-10-17 05:15:13",
       "album": {
         "name": "Feels Like Love",
@@ -647,26 +771,6 @@
       "duration_ms": 158446,
       "name": "Pum Pum Jump (feat. Jill Scott & Tyla)",
       "url": "https://open.spotify.com/track/6slFpFRzS8WJPbr25ega3p"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/79wXLaskxKX6Nh5rs3yMO9"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        },
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        }
-      ],
-      "duration_ms": 241603,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/5GzaOxdfGG93a5K9g12GZY"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -1113,22 +1217,6 @@
       "url": "https://open.spotify.com/track/1wgp8ywKsyg2p1axFfnN7X"
     },
     {
-      "added_at": "2025-10-10 07:33:06",
-      "album": {
-        "name": "NO DEMO LEFT UNHEARD VOL. 2",
-        "url": "https://open.spotify.com/album/3q0fG9AvxFUdvQtu9GtQwe"
-      },
-      "artists": [
-        {
-          "name": "Jordyn Simone",
-          "url": "https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb"
-        }
-      ],
-      "duration_ms": 203810,
-      "name": "say u luv me",
-      "url": "https://open.spotify.com/track/6NqLRDzX36JxqNOKpJWEWF"
-    },
-    {
       "added_at": "2025-09-19 16:39:00",
       "album": {
         "name": "stupid prizes",
@@ -1161,26 +1249,6 @@
       "url": "https://open.spotify.com/track/2UJV3mMuthhYHRa4KgeMBo"
     },
     {
-      "added_at": "2025-09-26 04:27:04",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/775f99vvSk9KnPqFmyxhuB"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 147326,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o"
-    },
-    {
       "added_at": "2025-09-19 16:39:00",
       "album": {
         "name": "All That and More (with Maverick Sabre)",
@@ -1199,22 +1267,6 @@
       "duration_ms": 196017,
       "name": "All That and More (with Maverick Sabre)",
       "url": "https://open.spotify.com/track/6lmqmPp3EnwUi0AkrVXEcl"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Shoot Your Shot",
-        "url": "https://open.spotify.com/album/68qd36m2ebLJ3bbCsRMwdQ"
-      },
-      "artists": [
-        {
-          "name": "Bee-B",
-          "url": "https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc"
-        }
-      ],
-      "duration_ms": 110561,
-      "name": "Shoot Your Shot",
-      "url": "https://open.spotify.com/track/4Tq3jQJq8ib51eqMc2nLyP"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -1263,26 +1315,6 @@
       "duration_ms": 166451,
       "name": "Pull Up (Drop)",
       "url": "https://open.spotify.com/track/59cGnThfcTHmqHRBJKCrjA"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Can We Talk?",
-        "url": "https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "Can We Talk?",
-      "url": "https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -1367,22 +1399,6 @@
     {
       "added_at": "2025-09-19 16:39:00",
       "album": {
-        "name": "Red Flags (Acoustic)",
-        "url": "https://open.spotify.com/album/2eYXshIxECS3p2VJiGvE4R"
-      },
-      "artists": [
-        {
-          "name": "Perri Jones",
-          "url": "https://open.spotify.com/artist/0v7n7KWfzG0Gg4grOnHdg4"
-        }
-      ],
-      "duration_ms": 139121,
-      "name": "Red Flags - Acoustic",
-      "url": "https://open.spotify.com/track/1PULS6rIUtHeoTDnQvQQfG"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
         "name": "with all due respect",
         "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 282000,
       "name": "Comeback",
       "url": "https://open.spotify.com/track/1ns5o3vQ9MfB6Q52VZpmz1"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Cover Girl",
-        "url": "https://open.spotify.com/album/1lIWNnzCSuLisjkiZaDI69"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 215585,
-      "name": "Cover Girl",
-      "url": "https://open.spotify.com/track/60gTszvshnuyG0jsfjTOs8"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-09-19 16:39:00",
       "album": {
-        "name": "Crossfaded",
-        "url": "https://open.spotify.com/album/3oTgCAHMTZs9Nu298dAj8S"
-      },
-      "artists": [
-        {
-          "name": "Nali",
-          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
-        }
-      ],
-      "duration_ms": 128399,
-      "name": "Crossfaded",
-      "url": "https://open.spotify.com/track/6IZ9zRj9hKmQQGaYkRxioA"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
         "name": "FLUX",
         "url": "https://open.spotify.com/album/6BMlVeL026upB5ad22ztJ9"
       },
@@ -1615,22 +1599,6 @@
       "duration_ms": 125893,
       "name": "Phuckups (Hold Me)",
       "url": "https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "It's Complicated",
-        "url": "https://open.spotify.com/album/3FnLFYRObSLrdMm5Hp9mOo"
-      },
-      "artists": [
-        {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
-        }
-      ],
-      "duration_ms": 160476,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/2TICM2PjHWW5JrMhsxvv2x"
     },
     {
       "added_at": "2025-09-19 16:39:00",

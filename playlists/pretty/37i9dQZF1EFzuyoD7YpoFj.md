@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 473 likes - 391 songs - 20 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 474 likes - 391 songs - 20 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -383,8 +383,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 373 | [A Little Rumba Numba \- From the Musical ''Let's Face It''](https://open.spotify.com/track/50ZihVZ3plSTqSkqok1Pev) | [Hildegarde](https://open.spotify.com/artist/2rRbq8hkrtbwE1tDbbWXlq) | [Let's Face It \(From the Musical ''Let's Face It''\)](https://open.spotify.com/album/1NHxATXTjt8ySrOR4Vh54G) | 3:00 |
 | 374 | [Greek to You](https://open.spotify.com/track/6nntTpYSdMWb43kEH0OQYX) | [Kristina Koller](https://open.spotify.com/artist/0LLHqxIcjTmJelxTatKor0) | [Get Out of Town](https://open.spotify.com/album/4H09sl1Yi7MofONad4ZQei) | 3:58 |
 | 375 | [You're Too Far Away](https://open.spotify.com/track/2kgfqPDxQAt6xBKoqf1xfz) | [Muzzy Marcellino](https://open.spotify.com/artist/7uRhymmIttUu5cbYlOeX4C), [Ted Fio Rito & His Orchestra](https://open.spotify.com/artist/7DIWTRQhlpxu8KwizRVpu1) | [We Call It Jazz!, Vol\. 55](https://open.spotify.com/album/3MTcw3us3uqlwZ3WOgaiut) | 2:54 |
-| 376 | [Gigolo](https://open.spotify.com/track/2Ar4duALNV2YzlyqXrXKTv) | [Courtney Kenny](https://open.spotify.com/artist/4n35oaVa9XMujvcvhdT1OU) | [American Cabaret Songs, 1950\-2000](https://open.spotify.com/album/4Mo8QFsHZvL68i5tAfyK4Z) | 2:02 |
-| 377 | [Apache Dance](https://open.spotify.com/track/3Bv1DeH5wKAzE1L6WFBo69) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Dolores Van Diene](https://open.spotify.com/artist/40VMqUWRUZfYUcKzcHt3hU), [Mel Cunningham](https://open.spotify.com/artist/2xeQhsFczvCePVOhmCdlzt), [Gerry Levy](https://open.spotify.com/artist/5jX7fV5QQ3oOCDIiGOhMLD), [Regent Theatre Chorus and Orchestra](https://open.spotify.com/artist/1juBei7heWZ0h3gtnzuRic) | [Can Can](https://open.spotify.com/album/3XMIuCx1rzLPeHQcusAv7Q) | 2:22 |
+| 376 | [Apache Dance](https://open.spotify.com/track/3Bv1DeH5wKAzE1L6WFBo69) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Dolores Van Diene](https://open.spotify.com/artist/40VMqUWRUZfYUcKzcHt3hU), [Mel Cunningham](https://open.spotify.com/artist/2xeQhsFczvCePVOhmCdlzt), [Gerry Levy](https://open.spotify.com/artist/5jX7fV5QQ3oOCDIiGOhMLD), [Regent Theatre Chorus and Orchestra](https://open.spotify.com/artist/1juBei7heWZ0h3gtnzuRic) | [Can Can](https://open.spotify.com/album/3XMIuCx1rzLPeHQcusAv7Q) | 2:22 |
+| 377 | [Gigolo](https://open.spotify.com/track/2Ar4duALNV2YzlyqXrXKTv) | [Courtney Kenny](https://open.spotify.com/artist/4n35oaVa9XMujvcvhdT1OU) | [American Cabaret Songs, 1950\-2000](https://open.spotify.com/album/4Mo8QFsHZvL68i5tAfyK4Z) | 2:02 |
 | 378 | [C'est si facile de vous aimer \(Easy to Love\)](https://open.spotify.com/track/6sPAZooZny9UycKZt7Vgkl) | [Marc Fosset Trio](https://open.spotify.com/artist/2XJm4YgjpQdlnbVcj14I5L) | [I Want to Be Happy](https://open.spotify.com/album/0I52fHQ0GcrlTVIuDWQHJf) | 3:44 |
 | 379 | [Porter / Orch\. Klickmann, Spialek, Russell Bennett & De Paeckh: Fifty Million Frenchmen: Overture](https://open.spotify.com/track/3anTizdPA3D58ynOdbEbzi) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [London Sinfonietta](https://open.spotify.com/artist/68kuKZp7yrgzZpoh5m6dWA), [John McGlinn](https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK) | [Porter: Overtures & Within the Quota](https://open.spotify.com/album/453quw75TPiFDwhNYYg7oh) | 3:44 |
 | 380 | [Du bist Schuld daran](https://open.spotify.com/track/188X6WD8Bu0Sb7U4AsW4Vc) | [Caroline Kiesewetter](https://open.spotify.com/artist/72Rbr2DX6hUSA5KuyILAxd) | [Mal laut, mal leise](https://open.spotify.com/album/08EDCfCpdlA6uuafwGpJLk) | 3:08 |
@@ -400,4 +400,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 390 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 391 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `Ab/qhgAAAADqucFtkwEw9YLDFxY0U6JW`
+Snapshot ID: `Ab/wJgAAAAA/RhFnAaX36yHCkcgcEIrX`

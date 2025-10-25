@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,461 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,542 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 49 | [Urvashi](https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Urvashi](https://open.spotify.com/album/7gXEynlmX5QMPN4ZgyxMso) | 3:35 |
 | 50 | [Khalibali](https://open.spotify.com/track/3JT0mVof65rIHpRZITwRx1) | [Shivam Pathak](https://open.spotify.com/artist/39nPl2OnVXyxuBApjXkGmj), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC), [A.M\. Turaz](https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9), [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp) | [Padmaavat](https://open.spotify.com/album/7mZB5aUcjoHfDKSQtDRXrf) | 4:18 |
 
-Snapshot ID: `AAAAAFCfUSIaRDWPIiiSeLAxA5XnVqK+`
+Snapshot ID: `AAAAADFbBgr5TArF1R8hati9llOCcLOP`

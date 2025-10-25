@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: LEX, Kepler Is Free
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,745 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,758 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 10 | [PATEK](https://open.spotify.com/track/4hP3SgO11Vn5ZPW2UfK73q) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Omar](https://open.spotify.com/artist/2BdbmgQDvk6Sk8mRH1B47g) | [PATEK](https://open.spotify.com/album/0FWFzZwAFVmfyuev4tv0Km) | 2:35 |
 | 11 | [Dance](https://open.spotify.com/track/2C4Qgol8F4Zp8yrVXnqpzl) | [Lil Koni](https://open.spotify.com/artist/4md2OwykkDpAVx2keVXBBV), [Echo](https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD) | [Dance](https://open.spotify.com/album/74XiO4it9hWnOCR2lIFW9J) | 2:10 |
 | 12 | [EUROSHARK](https://open.spotify.com/track/7JRewNHAApiynU6ep0FBt8) | [SOTT](https://open.spotify.com/artist/4iusgX5y3xsAn824nywHVI), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou) | [EUROSHARK](https://open.spotify.com/album/40dQziKXhl1W6LzhnFCpmW) | 2:58 |
-| 13 | [PARE DOSE](https://open.spotify.com/track/3gTqUQql07sL6Eutx82ZQV) | [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [](https://open.spotify.com/album/null) | 2:45 |
+| 13 | [PARE DOSE](https://open.spotify.com/track/3gTqUQql07sL6Eutx82ZQV) | [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [YUNG BOYZ](https://open.spotify.com/album/140bvwWzlwvEZxMW5PtkVw) | 2:45 |
 | 14 | [PISTOLERO](https://open.spotify.com/track/4pZKsvyZmJUXNOzyACE1lV) | [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [PISTOLERO](https://open.spotify.com/album/7dipSRTVdkPA6myKjYOmPy) | 1:57 |
 | 15 | [GANGO FREESTYLE](https://open.spotify.com/track/1iTFJX6an3woR8NRDuOBrW) | [Sadam](https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq), [Beats Pliz](https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E) | [GANGO FREESTYLE](https://open.spotify.com/album/7sTjFK8YBz5V0FFXUWmsgp) | 2:12 |
 | 16 | [ABRA KADABRA](https://open.spotify.com/track/36dCG87rdMiCuZO1sT7R31) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [ABRA KADABRA](https://open.spotify.com/album/6TNh0ivTNyysXuqOUqRnpr) | 2:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,729 songs - 19 day 23 hr 11 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,730 songs - 19 day 23 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7737,5 +7737,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7727 | [BALD! REMIX](https://open.spotify.com/track/5wv9OEeC3N0oWqLMATSoSK) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [EP!](https://open.spotify.com/album/1uULaqGNfDrWb8pxKcxB9i) | 2:33 |
 | 7728 | [EL TORO COMBO MEAL \(feat\. Mavi\)](https://open.spotify.com/track/4PBRfiwBQiFkZVZED0ktV7) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [FEET OF CLAY](https://open.spotify.com/album/0N0EFoE8csbKxl5lxT1ylm) | 2:31 |
 | 7729 | [Fuck Kd](https://open.spotify.com/track/1baagmboW3o1VPGJeFuNXl) | [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [Hoop Life](https://open.spotify.com/album/7fP1DdLng8DwEQZB2srvl0) | 3:41 |
+| 7730 | [光\-HIKARI\-](https://open.spotify.com/track/5Vmha5gd1H4CinvlwkHX7J) | [Vivid](https://open.spotify.com/artist/0YL9iarD6vecICF3Yt3eOd) | [THE PENDULUM](https://open.spotify.com/album/0egSzChl5AQorTmlt6j7qz) | 4:08 |
 
-Snapshot ID: `AAAJPClER4UQHYnVcc7kX/kL4+sbHNmw`
+Snapshot ID: `AAAJPYDHo4cHcWRROrjpd/hafWnQSxFS`

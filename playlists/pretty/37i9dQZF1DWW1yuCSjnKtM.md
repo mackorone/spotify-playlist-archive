@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 
 > hand\-picked and hot right now 📈 cover: PinkPantheress & Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,111 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,095 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
-| 2 | [Wish \- Audiomack Trap Symphony Version](https://open.spotify.com/track/3STIi4I7eGMJJJhGRIfVli) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Wish \(Audiomack Trap Symphony Version\)](https://open.spotify.com/album/2nnbbGH98X1gyvbCaCmz3a) | 3:00 |
+| 2 | [Wish \- Audiomack Trap Symphony Version](https://open.spotify.com/track/3STIi4I7eGMJJJhGRIfVli) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Wish \(Audiomack Trap Symphony Version\)](https://open.spotify.com/album/2nnbbGH98X1gyvbCaCmz3a) | 3:00 |
 | 3 | [Die On This Hill](https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC) | 3:37 |
 | 4 | [Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:25 |
 | 5 | [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 |

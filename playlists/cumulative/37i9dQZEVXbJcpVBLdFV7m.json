@@ -3452,7 +3452,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 161086,
       "name": "Bende Katilime A\u015f\u0131kt\u0131m",
       "url": "https://open.spotify.com/track/5dOsHFII8HF05Cq6BoZDOa"
@@ -4522,7 +4522,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 262893,
       "name": "Brown Sugar",
       "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
@@ -6767,6 +6767,28 @@
     },
     {
       "album": {
+        "name": "Cure (VIVINOS - ALNST Original Soundtrack Part.7)",
+        "url": "https://open.spotify.com/album/4dLW62kTXGOTpmFoHIDULe"
+      },
+      "artists": [
+        {
+          "name": "AKUGETSU",
+          "url": "https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp"
+        },
+        {
+          "name": "PARK BYEONG HOON",
+          "url": "https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247941,
+      "name": "Cure (VIVINOS - ALNST Original Soundtrack Part.7)",
+      "url": "https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF"
+    },
+    {
+      "album": {
         "name": "CUTE DEPRESSED",
         "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
       },
@@ -7316,7 +7338,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 181498,
       "name": "DEPUTATI",
       "url": "https://open.spotify.com/track/5LTuvpF2WOXEQCenVZiPuP"
@@ -9710,6 +9732,24 @@
       "duration_ms": 263693,
       "name": "Eusexua",
       "url": "https://open.spotify.com/track/6TeKbncyK62smlAvPy1dNa"
+    },
+    {
+      "album": {
+        "name": "Everything is romantic (fall in love again and again)",
+        "url": "https://open.spotify.com/album/5i2JGfpM2JemC4jVE5hG3N"
+      },
+      "artists": [
+        {
+          "name": "aurelia",
+          "url": "https://open.spotify.com/artist/31Z6pYHEGH6ceO0kxLqG5t"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93288,
+      "name": "Everything is romantic (fall in love again and again)",
+      "url": "https://open.spotify.com/track/0OYNpQ7xiLyZkksalUuko1"
     },
     {
       "album": {
@@ -18056,7 +18096,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-07",
+      "date_removed": null,
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
@@ -30840,7 +30880,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 416194,
       "name": "Three Seconds To Goodbye",
       "url": "https://open.spotify.com/track/28sZ97rHdGqvfJePnH82mL"
@@ -32126,7 +32166,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 430800,
       "name": "Untitled (How Does It Feel)",
       "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
@@ -34064,6 +34104,10 @@
         {
           "name": "Trippie Redd",
           "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         }
       ],
       "date_added": "2025-10-07",

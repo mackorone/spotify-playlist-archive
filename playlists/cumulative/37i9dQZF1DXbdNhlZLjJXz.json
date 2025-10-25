@@ -5581,6 +5581,24 @@
     },
     {
       "album": {
+        "name": "SUPERLAME",
+        "url": "https://open.spotify.com/album/30Xx1oiQTcXCTx2uGOZJ4e"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162652,
+      "name": "TEEN ANGST",
+      "url": "https://open.spotify.com/track/2wVxFUGTFbN1WYNdba8mLj"
+    },
+    {
+      "album": {
         "name": "Tell Ur Girlfriend",
         "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
       },
@@ -6284,7 +6302,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 120015,
       "name": "You Wish",
       "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"

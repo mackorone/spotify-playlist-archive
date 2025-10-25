@@ -2,9 +2,9 @@
 
 ### [Pop Latin Hits 2025](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Shakira, Rauw Alejandro  Shakira, and more!!! Cover: Reik
+> The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Shakira, Rauw Alejandro  Shakira, and more!!! Cover: Shakira
 
-924 songs - 2 day 1 hr 10 min
+926 songs - 2 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 | 2023-11-03 | 2025-09-12 |
 | [La\_Playlist.mpeg](https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La\_Playlist.mpeg](https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4) | 2:29 | 2024-06-20 |  |
 | [LACONE](https://open.spotify.com/track/4Rjq1TZbF0bDstOs6SiI6J) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LACONE](https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2) | 4:20 | 2022-11-25 | 2023-06-08 |
+| [Laguaira](https://open.spotify.com/track/5KvNhkT5A9NgqqOFlVGr41) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Laguaira](https://open.spotify.com/album/0h4vfGz23WR5qRROSe629E) | 2:48 | 2025-10-24 |  |
 | [Lao' a Lao'](https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Lao' a Lao'](https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9) | 3:04 | 2022-02-02 | 2023-05-26 |
 | [Las Morras](https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Morras](https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE) | 2:35 | 2023-04-06 | 2023-06-01 |
 | [Las Nenas \(feat\. La Duraca\)](https://open.spotify.com/track/2KTCXvWUbqfiinbFe7PJKP) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [La Duraca](https://open.spotify.com/artist/7x7vfF89MqM94K8wvK3Omq) | [Las Nenas \(feat\. La Duraca\)](https://open.spotify.com/album/46To3XT2EvHUnLPF08E8SI) | 3:44 | 2022-02-02 | 2023-05-26 |
@@ -525,6 +526,7 @@
 | [Me Siento Bien](https://open.spotify.com/track/1NHnuko5D0e6SBGP5Mw2xC) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Multimillo, Vol\. 1](https://open.spotify.com/album/2pfBdekMfDRVf1MfDnwTSv) | 4:16 | 2022-11-25 | 2023-05-26 |
 | [mE vALe maDRE :\)](https://open.spotify.com/track/0ktTd6UI2vktUtieujvgU8) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE vALe maDRE :\)](https://open.spotify.com/album/2NU9IGazkM2S6l0C0i1EaP) | 2:30 | 2023-06-07 | 2023-06-27 |
 | [Mejor Que Te Acostumbres](https://open.spotify.com/track/0hM4CHl1Nu00XZXRkGfmsZ) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Mejor Que Te Acostumbres](https://open.spotify.com/album/3Yp8JkCeLI5bvrO2x6bjua) | 3:13 | 2022-04-22 | 2023-05-26 |
+| [Melancolía](https://open.spotify.com/track/5r9xrWqBtkiSFeEBk4VibB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:50 | 2025-10-24 |  |
 | [Melancólico](https://open.spotify.com/track/2h20jZvxaF4qcJUiOatO2W) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Melancólico](https://open.spotify.com/album/4NBQW40rKJhYHAVjMuVanS) | 2:58 | 2025-10-17 |  |
 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 | 2023-01-31 | 2024-07-03 |
 | [MERCHO REMIX](https://open.spotify.com/track/1vRkS74lAQEucagUBmUryC) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO REMIX](https://open.spotify.com/album/2Y8A4aFDGPXqQpmJbLOuzK) | 3:21 | 2023-06-30 | 2024-07-03 |

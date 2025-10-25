@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-219 songs - 9 hr 45 min
+220 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [59 Ford](https://open.spotify.com/track/08m7pwirwY6h90JE8dZ3D3) | [The Firebirds](https://open.spotify.com/artist/0nhl9XQYR0RLk6PWCvGd75) | [Too Hot to Handle](https://open.spotify.com/album/0LUOLIMXEqzJ8Bt3ulTd6H) | 2:06 | 2022-05-06 |  |
 | [A\-V8 Boogie](https://open.spotify.com/track/40Cm3xxLnHUK8y2TVF4Jyp) | [Jack Baymoore & The Bandits](https://open.spotify.com/artist/0UR8v6ibhNS162hr1f7VVQ) | [Let's Drag](https://open.spotify.com/album/34SpKbAmjmBJzDejIcto0Q) | 2:24 | 2022-05-06 | 2022-07-29 |
 | [American Dream](https://open.spotify.com/track/5Hdw9VRMMXO6ZtUrQCt0BX) | [AT's Roots & Ramblin'](https://open.spotify.com/artist/3FnRBegmzhj8yb0emWQq6O) | [American Dream](https://open.spotify.com/album/4Nb3y9rqVzYXPZ6ufvUFT6) | 2:45 | 2025-01-30 | 2025-04-11 |
-| [American Music](https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [The Blasters](https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B) | 2:07 | 2022-05-06 |  |
+| [American Music](https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [The Blasters](https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B) | 2:07 | 2022-05-06 | 2025-10-25 |
 | [Another Sunday Morning](https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0) | [Black Raven](https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784) | [Rock In Threes!](https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD) | 2:40 | 2022-05-06 |  |
 | [At The Hop](https://open.spotify.com/track/6vkuJbGjyjnSQReeaCh8wT) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [Rock 'n' Roll](https://open.spotify.com/album/1xf6bK6YKmBPP6F4tn0UYm) | 2:29 | 2022-05-06 | 2022-07-29 |
 | [At The Hop](https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [Rockin' With Danny And The Juniors \(Expanded Edition\)](https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq) | 2:30 | 2022-07-05 | 2024-04-19 |
@@ -190,6 +190,7 @@
 | [Rocky Road Blues](https://open.spotify.com/track/3BnAAC5tXSJgv2FnQdB0Fx) | [The Lennerockers](https://open.spotify.com/artist/4vc23SWZ3Lws9afk9sJun9), [Freddie Fingers Lee](https://open.spotify.com/artist/0zbAwBACoFK4620DPiqRnz) | [The Lennerockers and Friends](https://open.spotify.com/album/5isCgworJE2qqtIyx4K4Vr) | 3:27 | 2022-07-05 | 2023-06-30 |
 | [Rocky Road Blues](https://open.spotify.com/track/42hJcIKQ1OEeriwE9ERDJr) | [The Lennerockers](https://open.spotify.com/artist/4vc23SWZ3Lws9afk9sJun9), [Freddie Fingers Lee](https://open.spotify.com/artist/0zbAwBACoFK4620DPiqRnz) | [The Lennerockers and Friends](https://open.spotify.com/album/7xv9TdxQWJLyx8wDpcyAAf) | 3:27 | 2022-05-06 | 2022-07-29 |
 | [Sag, Drag And Fall](https://open.spotify.com/track/46VlhIMRKTBJS8mcgfLgms) | [Sid King & The Five Strings](https://open.spotify.com/artist/30iave5q5TpH869k7ySE3e) | [Ain't I'm A Dog: 25 Rockabilly Rave\-Ups!!](https://open.spotify.com/album/4ixjQWh3P04X0PCh9ECqRk) | 2:17 | 2022-05-06 | 2022-06-05 |
+| [Stampede](https://open.spotify.com/track/3D5OjJhgLnkG9UJlbvLqwO) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Stampede / Teenage Heaven](https://open.spotify.com/album/0mQtVXP1ijnqPDILM2Z3Uo) | 2:42 | 2025-10-24 |  |
 | [Stranger Things](https://open.spotify.com/track/1AMaHNFRYbI6ydRgmDszjP) | [High Noon](https://open.spotify.com/artist/6YEbfOzgzfHhu9AH8s9Pot) | [Stranger Things](https://open.spotify.com/album/1ZJ9X8pLhu9K5zga3xxHBC) | 2:16 | 2022-05-06 | 2022-05-22 |
 | [Stray Cat Strut](https://open.spotify.com/track/6prmiVokCCQB1VAYhq5TGJ) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Stray Cats](https://open.spotify.com/album/1EKPvDwIw66YEBF2TjOQn8) | 3:15 | 2022-05-06 |  |
 | [Stray Cat Strut](https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Built For Speed](https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1) | 3:18 | 2022-07-05 | 2024-04-19 |

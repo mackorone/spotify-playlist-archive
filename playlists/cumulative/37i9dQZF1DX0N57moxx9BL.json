@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover:  Demon Hunter",
+  "description": "Listen to the recent hits of Christian Rock.  Cover:  Art of Dying",
   "name": "Top Christian Rock",
   "tracks": [
+    {
+      "album": {
+        "name": "A HOLY MESS",
+        "url": "https://open.spotify.com/album/1A2MbKMJBqtU6OI3NsuD0I"
+      },
+      "artists": [
+        {
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245424,
+      "name": "A HOLY MESS",
+      "url": "https://open.spotify.com/track/0tY7GdyvPaZOnqSuNKqpiu"
+    },
     {
       "album": {
         "name": "Hurricane",
@@ -257,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/4Qv4y9GQAmp4Gmkw2PhdjL"
+      },
+      "artists": [
+        {
+          "name": "J Bumi",
+          "url": "https://open.spotify.com/artist/04KukyCGwGzV7OphBeN5qa"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219989,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/1oASD0qwbdirb4zragkrIJ"
+    },
+    {
+      "album": {
         "name": "Real Emotion",
         "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
       },
@@ -376,7 +412,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 253684,
       "name": "Bet My Life",
       "url": "https://open.spotify.com/track/7pvm23EK5fHFp0HrgoTwyf"
@@ -1225,6 +1261,42 @@
     },
     {
       "album": {
+        "name": "dwell in death",
+        "url": "https://open.spotify.com/album/2AsdgyW5ftPtp5KW64ApSU"
+      },
+      "artists": [
+        {
+          "name": "CHANGETHEWXRLD",
+          "url": "https://open.spotify.com/artist/2EoePmwsrpFvAgaJa5Soxe"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310526,
+      "name": "dwell in death",
+      "url": "https://open.spotify.com/track/3lEZRCXbt45qfL0dkB26ki"
+    },
+    {
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/1BsxgPBJY5uEhTRArgsrgO"
+      },
+      "artists": [
+        {
+          "name": "Wonderstate",
+          "url": "https://open.spotify.com/artist/2xOK3RqDm2UQv4cFIOXUS9"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175800,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/640VdPw2sCaTOB3pcwyIm5"
+    },
+    {
+      "album": {
         "name": "End of Days",
         "url": "https://open.spotify.com/album/4K5N1UTXyYcrFPmRwM9wqc"
       },
@@ -1334,7 +1406,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 210618,
       "name": "Eternal - Rerecorded",
       "url": "https://open.spotify.com/track/51MiPUN7frWF7aobcZU6BP"
@@ -1414,7 +1486,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 260499,
       "name": "False Teacher",
       "url": "https://open.spotify.com/track/60mBBoz2oZPMaCyuhxVPSy"
@@ -1726,6 +1798,24 @@
       "duration_ms": 271946,
       "name": "Flickering Flame",
       "url": "https://open.spotify.com/track/3Xvq1r2UPGxuJbOlJantA1"
+    },
+    {
+      "album": {
+        "name": "Flood Gates",
+        "url": "https://open.spotify.com/album/1jSB2iZdH6cz7zGMGU4wUn"
+      },
+      "artists": [
+        {
+          "name": "Art Of Dying",
+          "url": "https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196954,
+      "name": "Flood Gates",
+      "url": "https://open.spotify.com/track/7LVNggFXYN1q5DGkzZwF9l"
     },
     {
       "album": {
@@ -2585,6 +2675,24 @@
     },
     {
       "album": {
+        "name": "Make It Make Sense",
+        "url": "https://open.spotify.com/album/4pIeesqv5STA59vY2QANXZ"
+      },
+      "artists": [
+        {
+          "name": "Natural State",
+          "url": "https://open.spotify.com/artist/0EpCi97ecBbnLyBlmLaLM1"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159590,
+      "name": "Make It Make Sense",
+      "url": "https://open.spotify.com/track/2HAOAEBZA8XGUMbV9iJykC"
+    },
+    {
+      "album": {
         "name": "Skeleton Psalms (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ZoGRhrtfEksvamNtvB52y"
       },
@@ -2632,7 +2740,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 189137,
       "name": "Metanoia",
       "url": "https://open.spotify.com/track/6gNTFlkp51sr8PD6xj1zP9"
@@ -3105,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "Everything You Ever Wanted",
+        "url": "https://open.spotify.com/album/4PL5z2EnY7YY93IP64v1zf"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217197,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4MwDtHxtQw3IW1luonVIs0"
+    },
+    {
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/4OK9yH5JyZttlWxvzgRg0G"
       },
@@ -3325,6 +3451,24 @@
     },
     {
       "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/5j3IED9rKSCzf7T2JgCU77"
+      },
+      "artists": [
+        {
+          "name": "Glory in the Ruins",
+          "url": "https://open.spotify.com/artist/6clJ1baTREjSAxrsec1bTo"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163399,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/30DoqK6rLbkFOXpJDzljBj"
+    },
+    {
+      "album": {
         "name": "When We Were Kings",
         "url": "https://open.spotify.com/album/5QDA6HSkfTo6VK2sidCHUZ"
       },
@@ -3503,7 +3647,7 @@
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 261714,
+      "duration_ms": 261713,
       "name": "SEVENS",
       "url": "https://open.spotify.com/track/2sglTkwKcBpufhmTX2X9YZ"
     },
@@ -4264,6 +4408,24 @@
       "duration_ms": 265164,
       "name": "Transgressor",
       "url": "https://open.spotify.com/track/7wcLpVs8r53wwNyHsoGIpH"
+    },
+    {
+      "album": {
+        "name": "ON A BENDER",
+        "url": "https://open.spotify.com/album/6CRIJy2HPnsLm0jRJ4qAXp"
+      },
+      "artists": [
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191764,
+      "name": "UNCONDITIONAL",
+      "url": "https://open.spotify.com/track/6WqQjssSAQa4Goj8B728dn"
     },
     {
       "album": {

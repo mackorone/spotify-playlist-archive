@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Flerte Flamingo
 
-799 songs - 1 day 21 hr 27 min
+800 songs - 1 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Dona da Minha Cabeça](https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Dona da Minha Cabeça](https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil) | 3:55 | 2023-11-17 | 2024-06-08 |
 | [Door](https://open.spotify.com/track/5YkZTtb0htLlo2F1Um6knO) | [Gato de Rua](https://open.spotify.com/artist/2q9BBqImQUlzKzpj1k2KqH) | [Door](https://open.spotify.com/album/0ypjYPdOJBi7Ed3njS6dSu) | 2:12 | 2022-07-22 | 2022-08-13 |
 | [Dores no Varal](https://open.spotify.com/track/1O5QLe2KpkGRjeasjjEQV1) | [Papisa](https://open.spotify.com/artist/0DvW5foWWFUfe8xHEtPtNE) | [Dores no Varal](https://open.spotify.com/album/3g0PamUjm8c2PTPVRBqG0t) | 3:37 | 2024-01-19 | 2024-08-10 |
+| [Dourado](https://open.spotify.com/track/1qNhXGupY9uSGdSk1cBQNA) | [Mundo Video](https://open.spotify.com/artist/7eug6OaQ8rKdvSCTT6B9ty), [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X) | [Dourado](https://open.spotify.com/album/33OzOauUa1DNkkW666lUHr) | 2:02 | 2025-10-24 |  |
 | [DTF](https://open.spotify.com/track/1QyBY8GvGDGhibm9VMlP4f) | [TUM](https://open.spotify.com/artist/3qnpaRwMVL3dQtpd8R4xOR) | [DTF](https://open.spotify.com/album/4DsH9H8vpgwLpDLXY1NL9e) | 4:55 | 2023-05-26 | 2023-09-23 |
 | [Dóidóidói](https://open.spotify.com/track/4oSVbS2wVr62tRypCHHiQY) | [Labaq](https://open.spotify.com/artist/3lYrvAJgDMVswjcn0Zi0La) | [Dóidóidói](https://open.spotify.com/album/5ORpzqsldrjpCGMBlhSUQA) | 2:46 | 2022-04-01 | 2022-04-29 |
 | [e ai, a.i](https://open.spotify.com/track/6F8d3BhStZpnrX6yceMkdp) | [perdido](https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp) | [e ai, a.i](https://open.spotify.com/album/2eg97Cdq5J9DYzMCZE36Vv) | 1:36 | 2024-05-10 | 2024-06-22 |
@@ -587,7 +588,7 @@
 | [Quando você sabe, você sabe...](https://open.spotify.com/track/5l11puxvF7Qp0HuSWkMWLF) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45), [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Quando você sabe, você sabe...](https://open.spotify.com/album/6680CGDaHuVF0NRTt5lxWS) | 2:59 | 2025-06-20 |  |
 | [Quarta Obra](https://open.spotify.com/track/5rqGTsecw0HNMwOC3j3yCb) | [Saskia](https://open.spotify.com/artist/2kcQw1XkWgIMzF2sArt6NT) | [Quartas](https://open.spotify.com/album/0CJn9AMkYslFvMEWM9W4x1) | 3:55 | 2022-04-29 | 2022-05-14 |
 | [Quarto Sem Janela](https://open.spotify.com/track/2CNpYIScasnONCyhsxV1KJ) | [Revna](https://open.spotify.com/artist/5euRHFqQ2U4fCCctRKkpf0) | [Quarto Sem Janela](https://open.spotify.com/album/00oztNjsDIsSItMlifZWrK) | 3:04 | 2022-01-14 | 2022-02-26 |
-| [Quase Amor](https://open.spotify.com/track/4WezryS3J97JnF35wlB86D) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [Quase Amor](https://open.spotify.com/album/23j1WAYPdF0ipw01VgoBY2) | 2:29 | 2025-01-24 |  |
+| [Quase Amor](https://open.spotify.com/track/4WezryS3J97JnF35wlB86D) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [Quase Amor](https://open.spotify.com/album/23j1WAYPdF0ipw01VgoBY2) | 2:29 | 2025-01-24 | 2025-10-25 |
 | [Quase Sertão](https://open.spotify.com/track/71QiMGqg27teVr2rMeQhHm) | [Bemti](https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW), [Haroldo Bontempo](https://open.spotify.com/artist/37Jxddw5IgpNlQz5e1GoJ9) | [Quase Sertão](https://open.spotify.com/album/0XpCXg4ulPypQKTt4DCHFb) | 3:23 | 2024-12-13 |  |
 | [Quem Me Dera](https://open.spotify.com/track/4Wbupcobm9ryFXY5M3Hwoa) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Quem Me Dera](https://open.spotify.com/album/6xyftajgJC0tmzaKgyLINz) | 2:26 | 2022-11-18 | 2023-01-14 |
 | [Quem Será?](https://open.spotify.com/track/00BK2exmvdM76fULBDrAvf) | [Colibri](https://open.spotify.com/artist/3R9wxOS0XWvgNBJZxtXi4y), [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r) | [Quem Será?](https://open.spotify.com/album/1ANOn0G6F1e2PyXyDgkjNS) | 6:16 | 2023-08-04 | 2023-10-24 |

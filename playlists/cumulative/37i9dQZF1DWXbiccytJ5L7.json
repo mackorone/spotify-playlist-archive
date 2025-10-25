@@ -3089,6 +3089,24 @@
     },
     {
       "album": {
+        "name": "The Other Way",
+        "url": "https://open.spotify.com/album/1D7aYLkuMym2H7W5ODtjz5"
+      },
+      "artists": [
+        {
+          "name": "Norman North",
+          "url": "https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133783,
+      "name": "The Other Way",
+      "url": "https://open.spotify.com/track/2ZFOySo5MVIqlZy0RQmvSn"
+    },
+    {
+      "album": {
         "name": "Pocket Kings",
         "url": "https://open.spotify.com/album/3sO7gvIxQoa6PhuDd4B6HM"
       },

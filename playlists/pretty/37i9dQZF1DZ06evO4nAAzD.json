@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4383,
+  "num_followers": 4384,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAhlambhFFn/Ik6AoKzSi49",
+  "snapshot_id": "aPlwAAAAAACdyT/O1NcjiOafl+XDpTqA",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reca\u00edda",
+        "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 188976,
+      "name": "Reca\u00edda",
+      "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seu Desejo",
         "url": "https://open.spotify.com/album/3adNSP3xdQtHLXDiKt7AMU"
       },
@@ -355,30 +379,6 @@
       "duration_ms": 234545,
       "name": "Seu Desejo",
       "url": "https://open.spotify.com/track/2YcIs0ze3MeObnD9zXTifZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reca\u00edda",
-        "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 188976,
-      "name": "Reca\u00edda",
-      "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
     },
     {
       "added_at": null,
@@ -676,17 +676,17 @@
           "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
         },
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
         },
         {
           "name": "JP Diazz",
           "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
         }
       ],
-      "duration_ms": 274285,
-      "name": "DESILUS\u00c3O",
-      "url": "https://open.spotify.com/track/4ofLB6yok8YB72Cvq30beL"
+      "duration_ms": 160000,
+      "name": "ONDE C\u00ca T\u00c1?",
+      "url": "https://open.spotify.com/track/09xpGWT55yGVYrPBWg3FD4"
     },
     {
       "added_at": null,
@@ -772,17 +772,17 @@
           "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
         },
         {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
           "name": "JP Diazz",
           "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
         }
       ],
-      "duration_ms": 160000,
-      "name": "ONDE C\u00ca T\u00c1?",
-      "url": "https://open.spotify.com/track/09xpGWT55yGVYrPBWg3FD4"
+      "duration_ms": 274285,
+      "name": "DESILUS\u00c3O",
+      "url": "https://open.spotify.com/track/4ofLB6yok8YB72Cvq30beL"
     },
     {
       "added_at": null,
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
         }
       ],
-      "duration_ms": 187826,
-      "name": "GAROTAS N\u00c3O NAMOREM RAPPERS",
-      "url": "https://open.spotify.com/track/5RSyuZOrIwDhe2cKRVTOiJ"
+      "duration_ms": 172950,
+      "name": "MELHOR DE MIM",
+      "url": "https://open.spotify.com/track/0IyNFRdJOqcEij32FGPhpD"
     },
     {
       "added_at": null,
@@ -1032,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
         }
       ],
-      "duration_ms": 172950,
-      "name": "MELHOR DE MIM",
-      "url": "https://open.spotify.com/track/0IyNFRdJOqcEij32FGPhpD"
+      "duration_ms": 187826,
+      "name": "GAROTAS N\u00c3O NAMOREM RAPPERS",
+      "url": "https://open.spotify.com/track/5RSyuZOrIwDhe2cKRVTOiJ"
     },
     {
       "added_at": null,
@@ -1175,6 +1175,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quer Ibope",
+        "url": "https://open.spotify.com/album/3d3XuKBeJDcqXJlwzxBr9x"
+      },
+      "artists": [
+        {
+          "name": "MARIAH",
+          "url": "https://open.spotify.com/artist/30Fmcbg4I8jHYVbPyXdhRo"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 223218,
+      "name": "Quer Ibope",
+      "url": "https://open.spotify.com/track/24vi6EYIoHqAlAQmPdmfdU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Festa na Piscina",
         "url": "https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO"
       },
@@ -1199,30 +1223,6 @@
       "duration_ms": 268085,
       "name": "Festa na Piscina",
       "url": "https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quer Ibope",
-        "url": "https://open.spotify.com/album/3d3XuKBeJDcqXJlwzxBr9x"
-      },
-      "artists": [
-        {
-          "name": "MARIAH",
-          "url": "https://open.spotify.com/artist/30Fmcbg4I8jHYVbPyXdhRo"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 223218,
-      "name": "Quer Ibope",
-      "url": "https://open.spotify.com/track/24vi6EYIoHqAlAQmPdmfdU"
     },
     {
       "added_at": null,

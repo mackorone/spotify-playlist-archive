@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Pallaso
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,483 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,492 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 6 | [Chikicha](https://open.spotify.com/track/14BZpV8OgaPsWkX1NtEbCt) | [Gloria Bugie](https://open.spotify.com/artist/73fzrko85oNtIAE0jTTnuY), [B2c](https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4) | [Chikicha](https://open.spotify.com/album/3wul9VitsMDaAhSvFCpbNY) | 3:31 |
 | 7 | [Nina Anjagala](https://open.spotify.com/track/4dk1WxucD7abERh4ocTJCL) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6) | [Nina Anjagala](https://open.spotify.com/album/3xK0euMYLHUXcY4kH5f8kH) | 2:52 |
 | 8 | [Woman in My Life](https://open.spotify.com/track/4MVNh79x52KiTNFLtUvfWX) | [Dokta Brain](https://open.spotify.com/artist/5QhpwiUuVwrOYGVSVflJeY) | [Woman in My Life](https://open.spotify.com/album/6KaryKdZd2Pw9TgiDixQjc) | 2:34 |
-| 9 | [Pretty Girls](https://open.spotify.com/track/6aO0r4j8XzHVQ2wEAGCO8t) | [B2c](https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4), [Dj Harold](https://open.spotify.com/artist/0t94qXQLOExk6iZ3ErjNcw) | [](https://open.spotify.com/album/null) | 2:34 |
+| 9 | [Pretty Girls](https://open.spotify.com/track/6aO0r4j8XzHVQ2wEAGCO8t) | [B2c](https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4), [Dj Harold](https://open.spotify.com/artist/0t94qXQLOExk6iZ3ErjNcw) | [Love In Kampala](https://open.spotify.com/album/5IXgKolGGK4BJz3FEkJbWO) | 2:34 |
 | 10 | [Easy](https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Easy](https://open.spotify.com/album/775f99vvSk9KnPqFmyxhuB) | 2:27 |
 | 11 | [Cashmere](https://open.spotify.com/track/76a86qKvu0AOlsPkY4bEEb) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Cashmere](https://open.spotify.com/album/6d3vky3CklWPy6Bi0TOlVn) | 3:07 |
 | 12 | [Mummy Yo](https://open.spotify.com/track/4ICBQ0SyH00WHiuQ3RbUPG) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Laika](https://open.spotify.com/artist/3bUcjrDYke1YzdN5ncdQJ7) | [African Buoy](https://open.spotify.com/album/4ZzsWY2WUETPUEZc4kNmkl) | 3:12 |

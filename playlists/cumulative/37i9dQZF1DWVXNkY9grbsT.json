@@ -4099,6 +4099,24 @@
     },
     {
       "album": {
+        "name": "tra",
+        "url": "https://open.spotify.com/album/5NjEozBiYuMnRz49cuM66T"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131253,
+      "name": "For Residue",
+      "url": "https://open.spotify.com/track/1FfSb6xviPGiWYn8SC9Yk3"
+    },
+    {
+      "album": {
         "name": "Forgive | Forget",
         "url": "https://open.spotify.com/album/0tdpgomn8HxnjUDYWbeeAH"
       },
@@ -5830,7 +5848,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 264155,
       "name": "Mexican Helium",
       "url": "https://open.spotify.com/track/6JSfZeeU5uG9GjRXE8H9ua"

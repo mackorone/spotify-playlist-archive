@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Ed Sheeran & Karan Aujla, Diljit Dosanjh and more. ",
+  "description": "Latest music from Darshan Raval & Yashraj & Badshah and more. ",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -4836,7 +4836,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 379071,
       "name": "Bichadna",
       "url": "https://open.spotify.com/track/30HPcTpMEEbTaR79T9zLmn"
@@ -5598,7 +5598,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 157135,
       "name": "Chadeya",
       "url": "https://open.spotify.com/track/37fiG26LiujOezzUOHgHoN"
@@ -6638,6 +6638,28 @@
       "duration_ms": 174915,
       "name": "Daayre",
       "url": "https://open.spotify.com/track/0cqu6axkhu8BMZuAs6afD6"
+    },
+    {
+      "album": {
+        "name": "DAF",
+        "url": "https://open.spotify.com/album/3bh31iLM60oBDpL8hbfPQG"
+      },
+      "artists": [
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185155,
+      "name": "DAF",
+      "url": "https://open.spotify.com/track/5EKEFHtqsOW0lTxqh8BhlI"
     },
     {
       "album": {
@@ -15303,6 +15325,24 @@
     },
     {
       "album": {
+        "name": "I Loved You",
+        "url": "https://open.spotify.com/album/6KcMl3ybHw5HdBTrS43zoq"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Jiyaa",
+      "url": "https://open.spotify.com/track/3zeoa4xhudPrJ2trQarPB5"
+    },
+    {
+      "album": {
         "name": "Jo Haal Dil Ka",
         "url": "https://open.spotify.com/album/0DzqKy7zDaNJDVWOirShMg"
       },
@@ -19768,7 +19808,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 260000,
       "name": "Maaru Mann",
       "url": "https://open.spotify.com/track/6oJtWlEujmUHwMu7ANBm0p"
@@ -22738,6 +22778,24 @@
       "duration_ms": 206181,
       "name": "Nadi",
       "url": "https://open.spotify.com/track/2sIRICa5N0L4UUvf2RHlmQ"
+    },
+    {
+      "album": {
+        "name": "I Loved You",
+        "url": "https://open.spotify.com/album/6KcMl3ybHw5HdBTrS43zoq"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214264,
+      "name": "Nafrat",
+      "url": "https://open.spotify.com/track/0NLOLiHF6Ti0QtX5P7gziI"
     },
     {
       "album": {
@@ -32064,7 +32122,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 180248,
       "name": "Thodi Si Daaru",
       "url": "https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj"
@@ -33577,6 +33635,32 @@
     },
     {
       "album": {
+        "name": "Tu Te Sharab",
+        "url": "https://open.spotify.com/album/4uaTvCZavh7LYbCsSFe2AT"
+      },
+      "artists": [
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        },
+        {
+          "name": "Bismil",
+          "url": "https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227317,
+      "name": "Tu Te Sharab",
+      "url": "https://open.spotify.com/track/2evJXd91G0qY062c2lxBEO"
+    },
+    {
+      "album": {
         "name": "Tu Zaroori",
         "url": "https://open.spotify.com/album/5d0iN7UdhsI3pBAxLPARyF"
       },
@@ -34130,6 +34214,24 @@
       "duration_ms": 252110,
       "name": "Tum Kab Aaoge",
       "url": "https://open.spotify.com/track/2u4OBNW9IFrxW8Outa1TnQ"
+    },
+    {
+      "album": {
+        "name": "Tum Kal Aao",
+        "url": "https://open.spotify.com/album/56bgseNwW3B6GbC6eYSP9B"
+      },
+      "artists": [
+        {
+          "name": "TUSHAR JOSHI",
+          "url": "https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146052,
+      "name": "Tum Kal Aao",
+      "url": "https://open.spotify.com/track/2MzhdcKn3rq7erIDqUoOIQ"
     },
     {
       "album": {
@@ -35728,7 +35830,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 176888,
       "name": "Yeh Zindagi Hai",
       "url": "https://open.spotify.com/track/4HesGCORky6hKWswrwodiD"

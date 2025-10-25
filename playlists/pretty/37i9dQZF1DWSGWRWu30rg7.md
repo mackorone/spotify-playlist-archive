@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: yowha
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,313 likes - 117 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,317 likes - 117 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 4 | [Jingga](https://open.spotify.com/track/33Kralks3jBv8La0TCovzG) | [Canti](https://open.spotify.com/artist/58T2knDTjuxgJkxHH0mllQ) | [Jingga](https://open.spotify.com/album/237IrTNJpJOcVjAPcCIcFo) | 3:05 |
 | 5 | [Masa](https://open.spotify.com/track/60TWbsciunCRNZGwbtWYxI) | [Made Dien](https://open.spotify.com/artist/2FA2axlDjD33BuE58c0AqW) | [Grateful](https://open.spotify.com/album/3GzFTCZ609OLOZ6cF3JX1U) | 3:15 |
 | 6 | [Exit](https://open.spotify.com/track/5keoB0hhpOIn8EoPZANcjd) | [Sun D](https://open.spotify.com/artist/24J2rPxnR6It1aBDVsJnPE) | [Exit](https://open.spotify.com/album/1PSI0mBG8gteSeScfeTmkw) | 2:08 |
-| 7 | [Speak Of Flames](https://open.spotify.com/track/76hET7hfrplSsQvUxrMu7e) | [Alfred](https://open.spotify.com/artist/1ne7R7BJBBXhttCELXUjvW) | [Speak of Flames](https://open.spotify.com/album/24rL7DtY3GT14ITPm3a4jU) | 4:53 |
+| 7 | [Speak Of Flames](https://open.spotify.com/track/76hET7hfrplSsQvUxrMu7e) | [ALFRED](https://open.spotify.com/artist/2zsYdYIawqVd6sFYuwR9RE) | [Speak of Flames](https://open.spotify.com/album/24rL7DtY3GT14ITPm3a4jU) | 4:53 |
 | 8 | [Regret](https://open.spotify.com/track/4agohq4gXxIT5ZuJYWgq9y) | [Comatra](https://open.spotify.com/artist/0wQG0wMIyif5vczfspwiE6) | [Regret](https://open.spotify.com/album/7Hroty9MCvq3NvzhfiOnsU) | 4:23 |
 | 9 | [Ghostmans](https://open.spotify.com/track/3kHTZ2edbEcuNtcBiHHNlL) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Ghostmans](https://open.spotify.com/album/14sOXlofmJKZ3F0gOKxmcZ) | 1:56 |
 | 10 | [LAB \(Lanjut Atau Berhenti\) \- Duri\-Duri Version](https://open.spotify.com/track/6ElQZgRiKpWzf8HWDsiwzC) | [DNDY](https://open.spotify.com/artist/1CcuT7tBgWnAwqdWqUGQez), [Jebung](https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z) | [LAB \(Lanjut Atau Berhenti\) \[Duri\-Duri Version\]](https://open.spotify.com/album/1hdZRip55s9r0r7xXx8uy9) | 3:55 |

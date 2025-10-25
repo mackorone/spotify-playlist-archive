@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Regaz indie qui sono benvenut\* 💘 Cover: Baustelle e Tananai
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,078 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,068 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 27 | [2minuti](https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 3:34 |
 | 28 | [Fiore mio](https://open.spotify.com/track/0pGMLMTqQJueMth6JgUSwE) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [Uomo Donna](https://open.spotify.com/album/24tYWl6w4vTjGfgH4Bn3ie) | 3:53 |
 | 29 | [colpo di tosse](https://open.spotify.com/track/2npEqmXQJIjNXi1OvpJaFJ) | [i cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP) | [post mortem](https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p) | 3:09 |
-| 30 | [Voglia](https://open.spotify.com/track/6bHmaVeCclWfcAgsW9Woct) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [](https://open.spotify.com/album/null) | 2:33 |
+| 30 | [Voglia](https://open.spotify.com/track/6bHmaVeCclWfcAgsW9Woct) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Tempo](https://open.spotify.com/album/0VGPQdeIhFg1BqfKqKW0b4) | 2:33 |
 | 31 | [404 \(una canzone de I Cani\)](https://open.spotify.com/track/2H1aptUgSbdwO6GqjQNX8E) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [404 \(una canzone de I Cani\)](https://open.spotify.com/album/09q0QkrQv4UloCkBPCSb2D) | 2:58 |
 | 32 | [Sentirsi Soli \(con Calcutta\)](https://open.spotify.com/track/7avHfK0CfHjOoZG8UWlVIn) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 3:05 |
 | 33 | [Ti penso](https://open.spotify.com/track/3dffFDUu2lOiOfsEhAiIdi) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD) | [Ti penso](https://open.spotify.com/album/7fWSuZhKMmKcZhpbKF0S2B) | 2:51 |

@@ -1,13 +1,29 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: John Summit",
-  "num_followers": 344651,
+  "description": "The hottest new pop with all the drops. Cover: INJI",
+  "num_followers": 346071,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF/yh2vUbaHLsilfJMRUogwgrGn+",
+  "snapshot_id": "AAAAAI+yVUk+EvDQ4dIvTsfhI0p3EJ/Q",
   "tracks": [
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "SUPERLAME",
+        "url": "https://open.spotify.com/album/30Xx1oiQTcXCTx2uGOZJ4e"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 162652,
+      "name": "TEEN ANGST",
+      "url": "https://open.spotify.com/track/2wVxFUGTFbN1WYNdba8mLj"
+    },
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
@@ -27,6 +43,142 @@
       "duration_ms": 163478,
       "name": "I Wanna Go - John Summit Remix",
       "url": "https://open.spotify.com/track/7J3YKBt70o8iB3UXGtUiho"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Radio Baby",
+        "url": "https://open.spotify.com/album/46OD1SlPvr8wRAVIzhipRN"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "Radio Baby",
+      "url": "https://open.spotify.com/track/1tz1f4sgl1Ux3Dn1xr4ShN"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "HERE 4 U",
+        "url": "https://open.spotify.com/album/7zPpf1e9sDTWqBxz69yZ3b"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        }
+      ],
+      "duration_ms": 177034,
+      "name": "HERE 4 U",
+      "url": "https://open.spotify.com/track/2mDeViKKUN1JnrH4492gmw"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Lay It On Me",
+        "url": "https://open.spotify.com/album/29hAhhtAYAh8kzkWl5DqTK"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 143863,
+      "name": "Lay It On Me",
+      "url": "https://open.spotify.com/track/6Eefj9syzUuCVCvv6dsFft"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "4 Minutes",
+        "url": "https://open.spotify.com/album/5WXtVoRYAe0i28dQV1KEKy"
+      },
+      "artists": [
+        {
+          "name": "Danell Arma",
+          "url": "https://open.spotify.com/artist/3xksDFio6oCdauPR6UE4Aj"
+        }
+      ],
+      "duration_ms": 164747,
+      "name": "4 Minutes",
+      "url": "https://open.spotify.com/track/3GPNxZDz7VnzGwuJCxQAKY"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "AM to PM (feat. Zoe Wees)",
+        "url": "https://open.spotify.com/album/1o9rbjKjVBu7VQq0hzAJK1"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "AM to PM (feat. Zoe Wees)",
+      "url": "https://open.spotify.com/track/2LRNDfHieq4ctBuE02zeW9"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/26UUDkAk8TuBAj2xSs0ftn"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "duration_ms": 123446,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4rG7VqNRA9NxXoGD0FKnzD"
     },
     {
       "added_at": "2025-10-10 04:00:39",
@@ -872,7 +1024,7 @@
           "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         }
       ],
-      "duration_ms": 173452,
+      "duration_ms": 173316,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5"
     },
@@ -1007,22 +1159,6 @@
       "duration_ms": 146222,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/13dr6hf8qLjh7SIDEetQZZ"
-    },
-    {
-      "added_at": "2025-09-12 04:00:20",
-      "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/665ddrCgPJLmhnGjWJmmRj"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 212386,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/2mpoTHp955e9ojKaA2Yb9b"
     },
     {
       "added_at": "2025-09-19 04:00:25",
@@ -1235,22 +1371,6 @@
     {
       "added_at": "2025-09-12 04:00:20",
       "album": {
-        "name": "IN A MOOD",
-        "url": "https://open.spotify.com/album/5mW9cSLIMRs3QLz41HSGU8"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 170270,
-      "name": "IN A MOOD",
-      "url": "https://open.spotify.com/track/7jq2d4lyn2WvP6m5v2Q4fD"
-    },
-    {
-      "added_at": "2025-09-12 04:00:20",
-      "album": {
         "name": "Ain't Nobody",
         "url": "https://open.spotify.com/album/3AfZApPiVNmPESFq3J9R9Q"
       },
@@ -1287,26 +1407,6 @@
       "duration_ms": 182222,
       "name": "Love is You",
       "url": "https://open.spotify.com/track/0WHEKqZVlekhcbRYrCiSkR"
-    },
-    {
-      "added_at": "2025-09-05 04:00:14",
-      "album": {
-        "name": "UH OH!",
-        "url": "https://open.spotify.com/album/3szo1Pgvq1SIJccaADZuSQ"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 143439,
-      "name": "UH OH!",
-      "url": "https://open.spotify.com/track/0qFJaAtOXhT94nwgRxPVpI"
     },
     {
       "added_at": "2025-09-05 04:00:14",
@@ -1509,26 +1609,6 @@
       "url": "https://open.spotify.com/track/4rabNjkDVahFaNnwDlz6v4"
     },
     {
-      "added_at": "2025-08-22 04:00:29",
-      "album": {
-        "name": "BANG BANG",
-        "url": "https://open.spotify.com/album/7eE2cLGRCyAMeCgzycZ2s2"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        }
-      ],
-      "duration_ms": 138611,
-      "name": "BANG BANG",
-      "url": "https://open.spotify.com/track/0eJSm2G0t3XX4SUuU1aSaH"
-    },
-    {
       "added_at": "2025-08-29 04:00:40",
       "album": {
         "name": "Obsession",
@@ -1655,22 +1735,6 @@
     {
       "added_at": "2025-08-22 04:00:29",
       "album": {
-        "name": "The Awakening (Deluxe)",
-        "url": "https://open.spotify.com/album/6qipiDPyKBwBqLYWMgzecJ"
-      },
-      "artists": [
-        {
-          "name": "Iniko",
-          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/1ackDcyVmlGBc1ojLguMXt"
-    },
-    {
-      "added_at": "2025-08-22 04:00:29",
-      "album": {
         "name": "Light That Leads Me (with Bebe Rexha)",
         "url": "https://open.spotify.com/album/4rDHRIyHr7ixE7IBtUaHtm"
       },
@@ -1707,66 +1771,6 @@
       "duration_ms": 155859,
       "name": "Everything I Wanted",
       "url": "https://open.spotify.com/track/1wZbHTKhnHGuxAen2xwRpn"
-    },
-    {
-      "added_at": "2025-08-22 04:00:29",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/6vJINmyqW0bqkFodTBHB7B"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "PEACH MARTINE",
-          "url": "https://open.spotify.com/artist/4xX9jZuIg4O1Cc59vjt0EP"
-        },
-        {
-          "name": "secs on the beach",
-          "url": "https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM"
-        }
-      ],
-      "duration_ms": 145502,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/4XIZ4mlqK6HGwbZETHImR6"
-    },
-    {
-      "added_at": "2025-08-15 04:00:21",
-      "album": {
-        "name": "7 in the club",
-        "url": "https://open.spotify.com/album/78rtOqcMLFCvPPrswgcm6h"
-      },
-      "artists": [
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        },
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 130124,
-      "name": "7 in the club",
-      "url": "https://open.spotify.com/track/1qqKKdqTQlOFiDYDxVlem3"
-    },
-    {
-      "added_at": "2025-08-15 04:00:21",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 177118,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
     },
     {
       "added_at": "2025-08-08 04:00:40",

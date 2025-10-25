@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,623 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,607 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 |
 | 100 | [Nagata Lights](https://open.spotify.com/track/3tI6ByTenOTqT0fIj5digf) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Nagata Lights](https://open.spotify.com/album/44QQQMiFBKkV5aVpbIhKUf) | 2:02 |
 
-Snapshot ID: `AAAAAG0mDr5RnP0NdplH9EjWR/DgXDeM`
+Snapshot ID: `AAAAAA0kvylI8KON5+y4+blMGm2E4Srh`

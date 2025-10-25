@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : James Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,225 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,268 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 11 | [LES FRAMBOISES](https://open.spotify.com/track/4WL4dfBOxheHyOcgPtyaZF) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [TÇPÇ!](https://open.spotify.com/album/2deUjrM2eyy0UQuImPJJlq) | 2:40 |
 | 12 | [Mon cœur kiffé](https://open.spotify.com/track/6oKiuFOlrQ4rqS085TmCxC) | [HORLA](https://open.spotify.com/artist/3rroBIgezFxcKXYw0MugUQ) | [Mon cœur kiffé](https://open.spotify.com/album/0mjd6eD8Y2Yl1eHq5nYQz6) | 2:41 |
 | 13 | [JE NE SERAI JAMAIS.](https://open.spotify.com/track/7vdBAYpq0yZlntJ3zcWWHK) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [JE NE SERAI JAMAIS.](https://open.spotify.com/album/7jhFTnyEI0HlSu1cztxbW5) | 4:06 |
-| 14 | [Mythique](https://open.spotify.com/track/1lRMPEt5awlduYQwRXy5Kw) | [TOMASI](https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5) | [](https://open.spotify.com/album/null) | 3:12 |
+| 14 | [Mythique](https://open.spotify.com/track/1lRMPEt5awlduYQwRXy5Kw) | [TOMASI](https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5) | [Celui qui fait tout pour les autres](https://open.spotify.com/album/2ebymbeuRfo5wl6j5y8CjQ) | 3:12 |
 | 15 | [c'est toi qui me dis](https://open.spotify.com/track/2q6lAeFiPnzkRIbmYI0Xzl) | [kissed](https://open.spotify.com/artist/6tkcFCnXVayNKi5OWeVpoi), [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [c'est toi qui me dis](https://open.spotify.com/album/6g3UezgW6sV2Qa6Uj0LuBH) | 3:11 |
 | 16 | [Hardcore](https://open.spotify.com/track/6yY37qebXqwV4IsgNn0ARw) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Hardcore](https://open.spotify.com/album/2zuRI4MJgvQulgZUkdnwBJ) | 2:59 |
 | 17 | [je dirai rien](https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [je dirai rien](https://open.spotify.com/album/3568QRUYByhWX8ERUy1mA1) | 3:07 |

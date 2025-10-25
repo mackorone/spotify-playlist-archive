@@ -4,12 +4,12 @@
 
 > This is Skindred\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 0 min
+68 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alive](https://open.spotify.com/track/6wMnoiVacP8zT6jXgeJfQY) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:21 | 2024-09-17 |  |
-| [Alright](https://open.spotify.com/track/3K6Aip6jVle4E8yCFKHYlW) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 3:09 | 2025-10-22 |  |
+| [Alright](https://open.spotify.com/track/3K6Aip6jVle4E8yCFKHYlW) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 3:09 | 2025-10-22 | 2025-10-25 |
 | [Bad Man Ah Bad Man](https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:30 | 2024-09-17 |  |
 | [Big Tings](https://open.spotify.com/track/3ddLVqFzW2KVnfOenMXsGS) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:34 | 2024-09-17 |  |
 | [Bruises](https://open.spotify.com/track/1N3m5G3ho2toLQCjAWZfes) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 2:42 | 2024-09-17 |  |
@@ -23,6 +23,7 @@
 | [Days Like These](https://open.spotify.com/track/2vFcKhwJmEEV1uTCGzzXXo) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId) | 3:36 | 2024-09-17 | 2025-10-22 |
 | [Days Like These](https://open.spotify.com/track/5XdFU7eQHlD2nqv2VnncVP) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:36 | 2025-10-22 |  |
 | [Destroy the Dancefloor](https://open.spotify.com/track/142uKVnCJ3rgODPUIq1V0X) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn) | 3:44 | 2024-09-17 | 2025-10-22 |
+| [Destroy the Dancefloor](https://open.spotify.com/track/16IZ1JwVXyqMyQq5DkX9N9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 3:44 | 2025-10-25 |  |
 | [Doom Riff](https://open.spotify.com/track/1bFpr9RuXPpIw7dbFAlLgC) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:48 | 2024-09-17 |  |
 | [Electric Avenue](https://open.spotify.com/track/1YxE1cKYJztCvSfpPYS85G) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId) | 3:10 | 2024-09-17 | 2025-10-23 |
 | [Electric Avenue](https://open.spotify.com/track/7LzgkKN9Bl2YqfwTHeSfgY) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:10 | 2025-10-23 |  |

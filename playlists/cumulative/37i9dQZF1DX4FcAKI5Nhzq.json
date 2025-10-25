@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: BABYMONSTER)",
+  "description": "Future K-Pop hits! (Cover: WOODZ)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -1122,6 +1122,24 @@
       "duration_ms": 218840,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/34U33Fr2hM6wWkjvdpiwS6"
+    },
+    {
+      "album": {
+        "name": "Would You Marry Me?, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3e0NITSJiihYA6qacKOK09"
+      },
+      "artists": [
+        {
+          "name": "Lee Hae Ri",
+          "url": "https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Any Day, With You (Would You Marry Me? : Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/4wKfJXklNXrtKP5fuA6f1J"
     },
     {
       "album": {
@@ -3712,7 +3730,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 268000,
       "name": "Bye Bye (Feat. LEE MU JIN)",
       "url": "https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv"
@@ -3788,7 +3806,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 219000,
       "name": "Bye, Summer",
       "url": "https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I"
@@ -4222,7 +4240,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 181000,
       "name": "CHAN-RAN",
       "url": "https://open.spotify.com/track/0UoxcThas4J2ijiJ6Yivb6"
@@ -7863,6 +7881,28 @@
     },
     {
       "album": {
+        "name": "Falling (Feat. Young K (DAY6))",
+        "url": "https://open.spotify.com/album/5acxpHJujhst5CfRUXjQBA"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        },
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Falling (Feat. Young K (DAY6))",
+      "url": "https://open.spotify.com/track/0UBzmHMIjiPCVpoe6gtvfw"
+    },
+    {
+      "album": {
         "name": "ME TIME",
         "url": "https://open.spotify.com/album/35yOKT2x4cwAPm0CQ8DF6s"
       },
@@ -8956,6 +8996,24 @@
       "duration_ms": 188013,
       "name": "FRIEND THE END",
       "url": "https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb"
+    },
+    {
+      "album": {
+        "name": "From (2018)",
+        "url": "https://open.spotify.com/album/6QkDwRFFoZ3LMFdTvdyfTQ"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "From (2018)",
+      "url": "https://open.spotify.com/track/2Vz3vio26NGctvwnRgURsy"
     },
     {
       "album": {
@@ -12169,6 +12227,24 @@
     },
     {
       "album": {
+        "name": "LXVE to DEATH",
+        "url": "https://open.spotify.com/album/04WcDHoLelHf9ajNp6HXkD"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241560,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/62PSBExsOYElVd7LLRbAyS"
+    },
+    {
+      "album": {
         "name": "ICY BBY",
         "url": "https://open.spotify.com/album/58G2sRHq3C0Z1srLSRzwuV"
       },
@@ -12458,7 +12534,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 180880,
       "name": "INSIDE OUT",
       "url": "https://open.spotify.com/track/29lXkyQjeQGU3auxcbtgV1"
@@ -14778,7 +14854,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 190000,
       "name": "Love Your Flower",
       "url": "https://open.spotify.com/track/3YCSEjFJTceJXxzC4gdKei"
@@ -18228,6 +18304,24 @@
       "duration_ms": 198080,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
+    },
+    {
+      "album": {
+        "name": "SPAGHETTI",
+        "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "Pearlies (My oyster is the world)",
+      "url": "https://open.spotify.com/track/7ldkzy9SvEqx7AcevBADdt"
     },
     {
       "album": {

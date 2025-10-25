@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX82pCGH5USnM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX82pCGH5USnM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX82pCGH5USnM)
 
-### [Lounge Soft House](https://open.spotify.com/playlist/37i9dQZF1DX82pCGH5USnM)
+### [Soft Lounge](https://open.spotify.com/playlist/37i9dQZF1DX82pCGH5USnM)
 
 > Soft house music for your laidback moments.
 

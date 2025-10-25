@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: JayaHadADream
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,826 likes - 259 songs - 13 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,829 likes - 259 songs - 13 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 8](https://open.spotify.com/track/05G7mFAM1ABmSUIuTt6G54) | [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [If It Ain't](https://open.spotify.com/track/05G7mFAM1ABmSUIuTt6G54) | [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo), [Coops](https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR) | [Happiness From Agony](https://open.spotify.com/album/6k55aAff183ZJ37d5yrrYq) | 2:54 |
 | 2 | [YOU KNOW I LOVE YOU](https://open.spotify.com/track/1HKKY18ecG113bvpdnylfP) | [samxemma](https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y) | [YOU KNOW I LOVE YOU](https://open.spotify.com/album/2OKd0EqIVRjqEPB40FZd79) | 2:19 |
 | 3 | [Who's To Blame?](https://open.spotify.com/track/5ulkr0vGr2u9O1WC2ZsHwW) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [Long Story Short](https://open.spotify.com/album/7b49arVIF7QxfxhkCNl9UN) | 2:47 |
 | 4 | [Wicked & Crisp](https://open.spotify.com/track/5Jbvdqlo0feBp4uwB88yPW) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Wicked & Crisp](https://open.spotify.com/album/6gOj7SCGjeLMSfK3g6aNtf) | 2:59 |

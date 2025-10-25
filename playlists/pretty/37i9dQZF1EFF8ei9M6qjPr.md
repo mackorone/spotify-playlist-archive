@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358 likes - 168 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 359 likes - 168 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 105 | [growing pains](https://open.spotify.com/track/5DCla4SclRwZhGRlI9Gq4J) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:42 |
 | 106 | [Cop A Truck \(with Brantley Gilbert\)](https://open.spotify.com/track/4tlcnOZbBJMxjj1UbLd10S) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 2:25 |
 | 107 | [Good Bad & Ugly](https://open.spotify.com/track/5lrIBgTRHWlQj2LZdUYIwA) | [JaeyBxrd](https://open.spotify.com/artist/4rBpyETZEnrBQB7Xc4oRfa) | [Good Bad & Ugly](https://open.spotify.com/album/4V8iHTf70CbUtPmPre6WJl) | 2:01 |
-| 108 | [viisine](https://open.spotify.com/track/3eBj5qFyvabjmyJV1bTm2h) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 9](https://open.spotify.com/album/0mRfxUrN7BUkxOv0ms0wdj) | 2:19 |
-| 109 | [Namin’ Names](https://open.spotify.com/track/2UgxbSfjmBmx9TxtTd1EeG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD) | 2:43 |
+| 108 | [Namin’ Names](https://open.spotify.com/track/2UgxbSfjmBmx9TxtTd1EeG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD) | 2:43 |
+| 109 | [viisine](https://open.spotify.com/track/3eBj5qFyvabjmyJV1bTm2h) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 9](https://open.spotify.com/album/0mRfxUrN7BUkxOv0ms0wdj) | 2:19 |
 | 110 | [Company](https://open.spotify.com/track/55kYJ7B56iDV7jDgA6vKCJ) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [Company](https://open.spotify.com/album/75YVWxYcBLnetgaM4GdU2g) | 3:43 |
 | 111 | [Julian, king of manhattan](https://open.spotify.com/track/5TrtrNlAvPJ4Rqh1UOb3HE) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:08 |
 | 112 | [Dumb \(Good Ol' Time\)](https://open.spotify.com/track/6Vv1swjSxWPCDmvoMglwlJ) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Dumb \(Good Ol' Time\)](https://open.spotify.com/album/4HP3WVJsQNAHDtZEOPzWBW) | 1:55 |
@@ -159,8 +159,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 149 | [Haunt Me](https://open.spotify.com/track/2TuTlcE2yrwZGFlowFYwIZ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Dear Ella,](https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7) | 3:06 |
 | 150 | [let you down \(feat\. Jake Bugg\)](https://open.spotify.com/track/0KZYmzV0OHhPu4aTMO2zjm) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:27 |
 | 151 | [BMW X5](https://open.spotify.com/track/5l2eU16Ruz6W73u0yESsuC) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [BMW X5](https://open.spotify.com/album/7BBbjxLMCcp3bseNfYgRPD) | 2:47 |
-| 152 | [Nightlight](https://open.spotify.com/track/2plkDAkfLGShUrvdimPNIb) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Arcade](https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N) | 3:06 |
-| 153 | [HOME IS CHANGING](https://open.spotify.com/track/2nEEe6VgN3mBwsx0CHS9N5) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 3:57 |
+| 152 | [HOME IS CHANGING](https://open.spotify.com/track/2nEEe6VgN3mBwsx0CHS9N5) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 3:57 |
+| 153 | [Nightlight](https://open.spotify.com/track/2plkDAkfLGShUrvdimPNIb) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Arcade](https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N) | 3:06 |
 | 154 | [supernatural](https://open.spotify.com/track/3noi9RTSfFwoRCxGPR1giy) | [Kazi](https://open.spotify.com/artist/5AS6c56mjqwIGujc81FTVh) | [too good to be true](https://open.spotify.com/album/1E6DxaWMpjQx9O5qe0EYP9) | 2:14 |
 | 155 | [Daddy](https://open.spotify.com/track/1Bqot3X5SUjFTZOnICSXd3) | [Jesse Perez](https://open.spotify.com/artist/28tbqi7xhIZs8RRGdeCy8d) | [Daddy](https://open.spotify.com/album/5YUSX87t6diKWFZ9bYLH3U) | 3:17 |
 | 156 | [Drifting](https://open.spotify.com/track/2j9Pf1DEfRxTJaDRptIRJs) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Tyler Shaw](https://open.spotify.com/album/2sQbk1P48X1EcjnKfPODuC) | 2:54 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 167 | [Go!](https://open.spotify.com/track/5RHXCRZwXTIt5uYdKmu9jk) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [SINK OR SWIM](https://open.spotify.com/album/4Bdc1txexdBh1j5h17BVIs) | 2:08 |
 | 168 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 
-Snapshot ID: `Ab/qXgAAAAAIIDbqbkvveFd3bFO19t2f`
+Snapshot ID: `Ab/wJgAAAADDrqfkNi/HNFDB7rYoMi8d`

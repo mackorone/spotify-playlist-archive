@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-1,341 songs - 3 day 8 hr 39 min
+1,342 songs - 3 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [GAY 4 ME \(Spotify Singles\)](https://open.spotify.com/track/4s3DBRFQkzpwBCEea4aQ3T) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Spotify Singles](https://open.spotify.com/album/6EaUb1MYoaFWB3TiiSvJ61) | 4:44 | 2023-10-02 | 2024-04-19 |
 | [GAY 4 ME \- Spotify Singles \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/4E1QNVcaLYlqyfjklxvwOK) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Spotify Singles](https://open.spotify.com/album/5T0dKiFf28USkwX1hGFzT8) | 4:44 | 2022-07-05 |  |
 | [Genesarets sjö \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/67HngDDAFoe2pQ82nPi1Vz) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Spotify Singles](https://open.spotify.com/album/4lwzXL6TSlTcMUNkdfFUyr) | 4:05 | 2025-02-13 |  |
+| [Genie In A Bottle \- Spotify Singles](https://open.spotify.com/track/1XhTyKFFySgEHONZYsZcdT) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Genie In A Bottle \- Spotify Singles](https://open.spotify.com/album/6LmGzRqpz6W0XV7fysHXuG) | 3:11 | 2025-10-24 |  |
 | [Genom Eld & Vatten \- Spotify Singles](https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Genom Eld & Vatten \- Spotify Singles](https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq) | 3:06 | 2025-02-13 |  |
 | [Genom eld \- Spotify Singles](https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [Genom eld \(Spotify Singles\)](https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n) | 2:46 | 2025-02-13 |  |
 | [Get Here \- Recorded At RAK Studios, London](https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 2:49 | 2022-01-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTaROQntB36.md) - [plain]
 
 > Laissez vous emporter par la magie des plus grandes voix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,996 likes - 39 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,004 likes - 39 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTaROQntB36.md) - [plain]
 | 38 | [Où je vais](https://open.spotify.com/track/1ZFH8eV5Dh8E6N8bipV8vT) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Où je vais](https://open.spotify.com/album/0zt7jtu5rhlg5ywnUJxbJn) | 4:30 |
 | 39 | [Earned It \(Fifty Shades Of Grey\) \- From The "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/2PIvq1pGrUjY007X5y1UpM) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Earned It \(Fifty Shades Of Grey\) \[From The "Fifty Shades Of Grey" Soundtrack\]](https://open.spotify.com/album/61Ba3txRZWfiX6ZTEZlFCV) | 4:12 |
 
-Snapshot ID: `AAAAACa3xYEwVTOBaPD8TDu44FnW8+lA`
+Snapshot ID: `AAAAAEOINr/ySdmE34k1iaogBf9U9dvm`

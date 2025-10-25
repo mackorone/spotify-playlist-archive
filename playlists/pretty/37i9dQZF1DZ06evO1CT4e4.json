@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 9893,
+  "num_followers": 9904,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAD+qZ+EDt2lkQGECS3kgQgP",
+  "snapshot_id": "aPlwAAAAAACfoAcHKr2N+7RxHinf9PPl",
   "tracks": [
     {
       "added_at": null,
@@ -255,34 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: In Principio",
-        "url": "https://open.spotify.com/album/5u4qMT1veM8e7AT1Kbx8YM"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Estonian Philharmonic Chamber Choir",
-          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
-        },
-        {
-          "name": "Tallinn Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 293306,
-      "name": "Da Pacem Domine",
-      "url": "https://open.spotify.com/track/4fahbTGB4AG0G2aoAnSFbe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: Adam's Lament",
         "url": "https://open.spotify.com/album/1n2ZaaFJU2b1cbmDYWHb8v"
       },
@@ -307,6 +279,34 @@
       "duration_ms": 128053,
       "name": "Estonian Lullaby (Version for Female Choir & Strings)",
       "url": "https://open.spotify.com/track/6biheP4A6BoSbXV6J3sFtB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: In Principio",
+        "url": "https://open.spotify.com/album/5u4qMT1veM8e7AT1Kbx8YM"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        },
+        {
+          "name": "Tallinn Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 293306,
+      "name": "Da Pacem Domine",
+      "url": "https://open.spotify.com/track/4fahbTGB4AG0G2aoAnSFbe"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: Mommy\u2019s Kiss",
-        "url": "https://open.spotify.com/album/4p0C4LlhbMZuxolzE0e9W4"
+        "name": "Arvo P\u00e4rt: Tractus",
+        "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
       },
       "artists": [
         {
@@ -712,13 +712,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+          "name": "Tallinn Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 71613,
-      "name": "Mommy\u2019s Kiss",
-      "url": "https://open.spotify.com/track/2jlfF9g0EXsJqTIkPeswFo"
+      "duration_ms": 238520,
+      "name": "Sequentia",
+      "url": "https://open.spotify.com/track/6qiehLuElgUdQlxN0CGgYv"
     },
     {
       "added_at": null,
@@ -743,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Tractus",
-        "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
+        "name": "P\u00e4rt: Mommy\u2019s Kiss",
+        "url": "https://open.spotify.com/album/4p0C4LlhbMZuxolzE0e9W4"
       },
       "artists": [
         {
@@ -752,17 +756,13 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Tallinn Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
         }
       ],
-      "duration_ms": 238520,
-      "name": "Sequentia",
-      "url": "https://open.spotify.com/track/6qiehLuElgUdQlxN0CGgYv"
+      "duration_ms": 71613,
+      "name": "Mommy\u2019s Kiss",
+      "url": "https://open.spotify.com/track/2jlfF9g0EXsJqTIkPeswFo"
     },
     {
       "added_at": null,

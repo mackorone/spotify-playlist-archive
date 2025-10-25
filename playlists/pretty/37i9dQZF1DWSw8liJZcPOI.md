@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,132 likes - 247 songs - 14 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,207 likes - 247 songs - 14 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -256,4 +256,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 246 | [The Darkest Descent \- Edit](https://open.spotify.com/track/1bYqDhtK08QT3f0CjHqgwi) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [The Darkest Descent](https://open.spotify.com/album/7L1yrZdw2FYUx3HkThnjDz) | 4:36 |
 | 247 | [Chasing the Present](https://open.spotify.com/track/0XJq2OGUGCNXq3FfAFL4dw) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Chasing the Present](https://open.spotify.com/album/3R25Xn9w8ohRxZBfKMtfVe) | 3:02 |
 
-Snapshot ID: `AAAAABLMj/n4bzaXcKAFpQBbP5raoMGg`
+Snapshot ID: `AAAAADpjMz/Vre1hW3HjC0fEhgDfUu+y`

@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-170 songs - 9 hr 1 min
+171 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Teenage Dream 2 \(with Lil Uzi Vert\)](https://open.spotify.com/track/1P9JOrLMizchG5imSTQqrI) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Teenage Dream 2 \(with Lil Uzi Vert\)](https://open.spotify.com/album/462FYqbPKtgQrdP390TKuA) | 2:58 | 2023-03-17 | 2023-08-21 |
 | [Tell It to the Bottle \(feat\. Crucifix\)](https://open.spotify.com/track/5fk1AIw7aq6KrFiVw9cLXP) | [Outlaw](https://open.spotify.com/artist/2pJGajElsjl8qbfsd17uED), [CRUCIFIX](https://open.spotify.com/artist/3TZlqrpMAxc0nR7jKggeyh) | [Backwoods Badass](https://open.spotify.com/album/2qR2tuNdy15hqhhP7BUCh9) | 4:41 | 2023-03-17 |  |
 | [Ten Sleep](https://open.spotify.com/track/0QQ0NWRSs03KP9TFoWkM8A) | [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [Ten Sleep](https://open.spotify.com/album/2AWfriEhdXaip2awdaGaS4) | 3:09 | 2025-02-21 |  |
+| [The Other Way](https://open.spotify.com/track/2ZFOySo5MVIqlZy0RQmvSn) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [The Other Way](https://open.spotify.com/album/1D7aYLkuMym2H7W5ODtjz5) | 2:13 | 2025-10-24 |  |
 | [The Way It Be](https://open.spotify.com/track/4e3N4yM3sL7CbemhAWt6j4) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Kingery](https://open.spotify.com/artist/1JxGsfhLNmFYxZXvrtJ3VP) | [Pocket Kings](https://open.spotify.com/album/3sO7gvIxQoa6PhuDd4B6HM) | 4:09 | 2023-06-30 | 2025-05-03 |
 | [Times We Had](https://open.spotify.com/track/07BnMSbUANs8DDRZ1HDoy8) | [Taylor Ray Holbrook](https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Times We Had](https://open.spotify.com/album/2MOK1PsjU663gPeJi0IK1N) | 3:20 | 2023-03-17 |  |
 | [Times We Had](https://open.spotify.com/track/6JITlNQO7IwT45L9YafIUy) | [Taylor Ray Holbrook](https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Times We Had](https://open.spotify.com/album/2isLQ6NrJbpowKoobF9XMc) | 3:20 | 2023-04-21 | 2024-04-19 |

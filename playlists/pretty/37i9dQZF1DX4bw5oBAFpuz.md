@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 
 > Ideale muziek voor de werkdag
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,598 likes - 250 songs - 13 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,603 likes - 250 songs - 13 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

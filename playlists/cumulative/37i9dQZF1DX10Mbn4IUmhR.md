@@ -4,7 +4,7 @@
 
 > Your frequency for today's hottest pop tracks via ZA\. Cover: Teagan
 
-697 songs - 1 day 12 hr 56 min
+698 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-07-11 | 2024-09-13 |
 | [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 | 2025-04-29 | 2025-06-09 |
 | [I Don’t Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 4:05 | 2025-04-17 | 2025-04-25 |
+| [I Got You Flowers](https://open.spotify.com/track/6ri6AyjDTSLBkEijwq9uxE) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT), [Tatum Tides](https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY) | [I Got You Flowers](https://open.spotify.com/album/0ALk2ITmWuEC98tflWgRYJ) | 3:38 | 2025-10-23 |  |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2025-03-20 | 2025-04-30 |
 | [I Hate That I Care](https://open.spotify.com/track/2PQSqRFBhbPtQ39sHRbZkE) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [I Hate That I Care](https://open.spotify.com/album/76PLp48INGRaOBffDFT5t3) | 2:46 | 2024-06-27 | 2024-07-12 |
 | [I hope U](https://open.spotify.com/track/5EpWvse1Sa8xt3iKQEFPyO) | [Wellyn](https://open.spotify.com/artist/50rF4Hh00h6fQlMQaPLsuR) | [I hope U](https://open.spotify.com/album/6WxgVBVEtCVFjydrM1BpLS) | 2:24 | 2025-08-21 | 2025-08-30 |

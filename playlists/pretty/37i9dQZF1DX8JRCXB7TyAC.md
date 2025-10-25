@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,182 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,224 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Pehlwan](https://open.spotify.com/track/1SnFnbxHkldx3dZxgv7RVw) | [Rahul Dhandlaniya](https://open.spotify.com/artist/3uIl3S4LSdiqMj19bqlDBX), [Vishvajeet Choudhary](https://open.spotify.com/artist/1mfAGblExpLNFZtiv88m9D), [Yogesh Jakhodiya](https://open.spotify.com/artist/36MYlNNUlZ9cZqLJMqxJVA) | [Pehlwan](https://open.spotify.com/album/42YOUQe0aQBmprIsQzvKiJ) | 2:32 |
 | 50 | [Dead Lift \(feat\. Neeraj Goyat & Raja Yadav\)](https://open.spotify.com/track/2PnmxUT3UT8EIChBeWR9RG) | [Branded Fouji](https://open.spotify.com/artist/6sbBZPIY51iHNT9Ydt7IMs), [Dopevibe](https://open.spotify.com/artist/16FUi8xdvWrsJH08z9bKKr), [Neeraj Goyat](https://open.spotify.com/artist/23EVnGZSG0LzdeEXJvefda), [Raja Yadav](https://open.spotify.com/artist/1jdSs5vlSStODzBAi30Z6V) | [Dead Lift \(feat\. Neeraj Goyat & Raja Yadav\)](https://open.spotify.com/album/0em397h6R74n2y5v5JhJyc) | 3:23 |
 
-Snapshot ID: `AAAAABpfdiVBiEtjOzqPYH9Z9kW88Kw3`
+Snapshot ID: `AAAAAJXeTGdOFSsnh0WKg+Vd4v2E0Bee`

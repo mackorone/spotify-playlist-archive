@@ -2,9 +2,9 @@
 
 ### [O Melhor da MPB](https://open.spotify.com/playlist/37i9dQZF1DX9FSYmdU9mbT)
 
-> Os grandes artistas da MPB\. Foto: Caetano & Bethânia
+> Os grandes artistas da MPB\. Foto: Gal Costa
 
-170 songs - 10 hr 45 min
+171 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Back in Bahia \- Ao vivo](https://open.spotify.com/track/42XOOCltwfAiy8AdUHA4MT) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Dois Amigos, Um Século de Música: Multishow Live](https://open.spotify.com/album/5wkh8zB5DgWzdbyrjWwN8r) | 2:24 | 2022-06-24 | 2024-04-19 |
 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 | 2022-06-24 |  |
 | [Bom\-Senso](https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Racional \(Vol 1\)](https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj) | 5:05 | 2021-12-31 |  |
+| [Brasil \- Ao Vivo no Coala Festival](https://open.spotify.com/track/7IeaNWQPnqgUhsdDdmXCs8) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [As Várias Pontas de uma Estrela \(Ao Vivo no Coala Festival\)](https://open.spotify.com/album/72ZE9c4C3akkC7g1flS0A1) | 3:38 | 2025-10-25 |  |
 | [Brasil Pandeiro](https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:55 | 2021-12-31 |  |
 | [Cajuína \- Remixed Original Album](https://open.spotify.com/track/7cEfPAbju7glmdAgT4e1AU) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Cinema Transcendental](https://open.spotify.com/album/64JvR5shy7j04mTiX0wfNp) | 2:19 | 2024-12-06 |  |
 | [Canta Canta, Minha Gente \(Minha Gente, Canta Canta\)](https://open.spotify.com/track/2zqT92v0e1lvs5paCOfxwm) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Violões e Cavaquinhos](https://open.spotify.com/album/4kjig7c8AIa2fdt6syvbRh) | 3:11 | 2024-05-17 |  |
@@ -135,7 +136,7 @@
 | [Paisagem da Janela \- Ao Vivo](https://open.spotify.com/track/4e25SCOxAWPs7uiDOXT6Zu) | [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT) | [Tênis + Clube \- Ao Vivo No Circo Voador](https://open.spotify.com/album/5oYcMJgLk78W4BveRGzcMQ) | 3:12 | 2021-12-31 |  |
 | [Planos do Céu](https://open.spotify.com/track/7cw9ocbl12GVol9IZFDjRT) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [Planos do Céu](https://open.spotify.com/album/1x9Nsd4WRdCtvuRWwk075V) | 4:07 | 2024-07-26 | 2024-12-10 |
 | [Pote D'Água](https://open.spotify.com/track/6nHJYUXxgzUzqbrak7donA) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Lourimbau](https://open.spotify.com/artist/2DADvBzRBVfGLburXTOb7y), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Pote D'Água](https://open.spotify.com/album/2hf5j7Y5mt0cE37GsEwfdg) | 3:28 | 2025-01-17 | 2025-02-01 |
-| [Prazer De Viver \(Barra\)](https://open.spotify.com/track/59m7uvS0rKWgJw8x3Z8Pw3) | [Paulinho Boca De Cantor](https://open.spotify.com/artist/2CMkJfPBOkw1hQSi8EWLbU) | [Prazer De Viver](https://open.spotify.com/album/31X7O3CHeltLrDAz0P9AOS) | 3:45 | 2025-03-07 |  |
+| [Prazer De Viver \(Barra\)](https://open.spotify.com/track/59m7uvS0rKWgJw8x3Z8Pw3) | [Paulinho Boca De Cantor](https://open.spotify.com/artist/2CMkJfPBOkw1hQSi8EWLbU) | [Prazer De Viver](https://open.spotify.com/album/31X7O3CHeltLrDAz0P9AOS) | 3:45 | 2025-03-07 | 2025-10-25 |
 | [Preciso Me Encontrar](https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:59 | 2021-12-31 |  |
 | [Preta Pretinha](https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 6:37 | 2021-12-31 |  |
 | [Pérola Negra \- Ao Vivo](https://open.spotify.com/track/0l9BjXMUwxN8QHmD8n7hFF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Estratosférica Ao Vivo](https://open.spotify.com/album/7eSEnOlFor4HMoblLfwLXz) | 5:00 | 2021-12-31 |  |

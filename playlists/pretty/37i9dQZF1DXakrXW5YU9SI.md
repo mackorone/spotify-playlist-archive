@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Jesień  z błogimi dźwiękami 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,554 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,573 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 9 | [morze dalej zimne](https://open.spotify.com/track/13dtlYx0QRQn91gcoRn76Q) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [morze dalej zimne](https://open.spotify.com/album/6E9cmfQBcmqN7MGTV1TiT9) | 2:56 |
 | 10 | [Remedium \(Wsiąść do pociągu\)](https://open.spotify.com/track/6ZXESlOLiryfEWxqpC37oi) | [Maryla Rodowicz](https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Remedium \(Wsiąść do pociągu\)](https://open.spotify.com/album/5CCQqMLlqI2eXP5o0FAcU3) | 4:51 |
 | 11 | [Echo](https://open.spotify.com/track/2TQbqVGgh4k4BRke9nTv69) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx), [Kuba Galiński](https://open.spotify.com/artist/2oR9K6tG6QppRoYYkDBpDo) | [Echo](https://open.spotify.com/album/63fwdj3hHiMj26o1DHvEza) | 2:55 |
-| 12 | [Track 3](https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [](https://open.spotify.com/album/null) | 0:00 |
+| 12 | [Younger Days](https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Bungalow](https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6) | 3:31 |
 | 13 | [Nie mam się już czego bać](https://open.spotify.com/track/2fwA89EScmFJkVkDSeC2G3) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Nie mam się już czego bać](https://open.spotify.com/album/2JMpOaxEftQzS8okGgDcbo) | 3:18 |
 | 14 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
-| 15 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [](https://open.spotify.com/album/null) | 4:25 |
+| 15 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
 | 16 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 |
 | 17 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 | 18 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |

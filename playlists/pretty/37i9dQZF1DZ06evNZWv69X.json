@@ -1,12 +1,12 @@
 {
   "description": "This is Mar de Copas. The essential tracks, all in one playlist.",
-  "num_followers": 8508,
+  "num_followers": 8509,
   "original_name": "This Is Mar de Copas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAB5XYtsuupYwhSf1flEjYPR",
+  "snapshot_id": "aPlwAAAAAADCdjV70ByEgK1h8yXdjFeg",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Tierra",
-        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Serenata",
-      "url": "https://open.spotify.com/track/11gKlJ9aLymaSPdhJ6kbnJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 227653,
       "name": "Al Pasar de las Horas",
       "url": "https://open.spotify.com/track/0SENuKLsa754MHOogcYawc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Tierra",
+        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Serenata",
+      "url": "https://open.spotify.com/track/11gKlJ9aLymaSPdhJ6kbnJ"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Soundtrack de una Vida",
-        "url": "https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 201453,
-      "name": "El Dolor del Amor",
-      "url": "https://open.spotify.com/track/0dbg6Rzu2hhXrvn6bwT39n"
+      "duration_ms": 163173,
+      "name": "A Dios",
+      "url": "https://open.spotify.com/track/7tcimL9ijjO5XFoH74eskd"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
+        "name": "El Soundtrack de una Vida",
+        "url": "https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 163173,
-      "name": "A Dios",
-      "url": "https://open.spotify.com/track/7tcimL9ijjO5XFoH74eskd"
+      "duration_ms": 201453,
+      "name": "El Dolor del Amor",
+      "url": "https://open.spotify.com/track/0dbg6Rzu2hhXrvn6bwT39n"
     },
     {
       "added_at": null,

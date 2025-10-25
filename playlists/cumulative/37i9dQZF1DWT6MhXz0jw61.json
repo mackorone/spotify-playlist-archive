@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "175 Months",
+      "url": "https://open.spotify.com/track/7HkOwm4wmvTsKbe405RhE3"
+    },
+    {
+      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/5ZqVzbaifdjMAYbIRDfFGy"
       },
@@ -2043,6 +2061,28 @@
     },
     {
       "album": {
+        "name": "GOLDFISH",
+        "url": "https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197009,
+      "name": "Ask For Me",
+      "url": "https://open.spotify.com/track/2l5GgaVJGdaXbxYcdXqM81"
+    },
+    {
+      "album": {
         "name": "askofme",
         "url": "https://open.spotify.com/album/68qeSCyig2I2g1Fhh2CiKQ"
       },
@@ -3208,7 +3248,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 262440,
       "name": "Biscuits",
       "url": "https://open.spotify.com/track/2qLLWBtZgRdUCkD52EYIw9"
@@ -3432,7 +3472,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 190638,
       "name": "Blanco",
       "url": "https://open.spotify.com/track/1mS6WBo2ZH9TXnjMEIOTcW"
@@ -4454,10 +4494,28 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 242242,
       "name": "CA$HMERE TEAR$",
       "url": "https://open.spotify.com/track/5WvywljeMsfYjcCSrZguav"
+    },
+    {
+      "album": {
+        "name": "GO:OD AM (10th Anniversary)",
+        "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283226,
+      "name": "Cable Box",
+      "url": "https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe"
     },
     {
       "album": {
@@ -4734,6 +4792,24 @@
       "duration_ms": 241582,
       "name": "Carefree (with Femdot & Mick Jenkins)",
       "url": "https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS"
+    },
+    {
+      "album": {
+        "name": "GO:OD AM (10th Anniversary)",
+        "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225240,
+      "name": "Carpe Diem",
+      "url": "https://open.spotify.com/track/0qZqbfudgogv0mFQOJ9TrB"
     },
     {
       "album": {
@@ -6578,7 +6654,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 167894,
       "name": "DeadStock",
       "url": "https://open.spotify.com/track/69xH7PCfjipUSctvJj8c8C"
@@ -10255,6 +10331,32 @@
     },
     {
       "album": {
+        "name": "WELCOME HOME",
+        "url": "https://open.spotify.com/album/2qIhMc7ZaIOCavfAbPuedc"
+      },
+      "artists": [
+        {
+          "name": "Reuben Vincent",
+          "url": "https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167472,
+      "name": "GET IT GIRL",
+      "url": "https://open.spotify.com/track/3nIY1qfbRd0dJFjxmqbUq2"
+    },
+    {
+      "album": {
         "name": "PANIC",
         "url": "https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ"
       },
@@ -10530,6 +10632,32 @@
       "duration_ms": 149495,
       "name": "God Send",
       "url": "https://open.spotify.com/track/2PMVWZLddY4ARiHSBWOx8b"
+    },
+    {
+      "album": {
+        "name": "WELCOME HOME",
+        "url": "https://open.spotify.com/album/2qIhMc7ZaIOCavfAbPuedc"
+      },
+      "artists": [
+        {
+          "name": "Reuben Vincent",
+          "url": "https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251491,
+      "name": "GOD'S CHILDREN",
+      "url": "https://open.spotify.com/track/2Qgz3Fz7u2O0mA6S0piS91"
     },
     {
       "album": {
@@ -10887,6 +11015,42 @@
     },
     {
       "album": {
+        "name": "It's Gotta Be More / The High",
+        "url": "https://open.spotify.com/album/4hVEti1TGzSfR9CFMvNJcQ"
+      },
+      "artists": [
+        {
+          "name": "Deante' Hitchcock",
+          "url": "https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166783,
+      "name": "Gotta Be More",
+      "url": "https://open.spotify.com/track/0zbyzW0Pc2WxRTSVY1bCGM"
+    },
+    {
+      "album": {
+        "name": "Gotta Do It",
+        "url": "https://open.spotify.com/album/4IkZxOCPA6Ci66YnVjZRGK"
+      },
+      "artists": [
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160130,
+      "name": "Gotta Do It",
+      "url": "https://open.spotify.com/track/3gQ8korqUrKnP0BMrl0Xbm"
+    },
+    {
+      "album": {
         "name": "From The District To The World",
         "url": "https://open.spotify.com/album/03q8PTeivBkbtmpm1GkYtS"
       },
@@ -11212,7 +11376,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 181394,
       "name": "Hanging Tree",
       "url": "https://open.spotify.com/track/6R8tTcaNCdPIO9uZQLCU8F"
@@ -11820,7 +11984,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 235432,
       "name": "High Note (feat. Luv Moore)",
       "url": "https://open.spotify.com/track/41Z9lE5UD4SW09lpHiY358"
@@ -12123,6 +12287,28 @@
     },
     {
       "album": {
+        "name": "GOLDFISH",
+        "url": "https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243664,
+      "name": "Home Improvement",
+      "url": "https://open.spotify.com/track/2d43GqzAv02VspjBnsOJ4y"
+    },
+    {
+      "album": {
         "name": "I Love You Again (Extended)",
         "url": "https://open.spotify.com/album/52byopOwUnZnKRbxKWg2pZ"
       },
@@ -12160,7 +12346,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 181150,
       "name": "HOMECOMING",
       "url": "https://open.spotify.com/track/0jUnF9dN0XSwly9MmYojrP"
@@ -12744,7 +12930,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 134781,
       "name": "I Hate You. I Love You",
       "url": "https://open.spotify.com/track/5ZsqqGuSlJ6l4YUIihDFbo"
@@ -13070,6 +13256,28 @@
       "duration_ms": 192562,
       "name": "Ickey Woods",
       "url": "https://open.spotify.com/track/1AATl3v50aBjpIYg61wee5"
+    },
+    {
+      "album": {
+        "name": "Idols & Rivals_BLUE",
+        "url": "https://open.spotify.com/album/5RB7bAa5ySBzM0PmW9IlXB"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "Kai Ca$h",
+          "url": "https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Idols & Rivals_BLUE",
+      "url": "https://open.spotify.com/track/0exUriNPARHkRY9s3xlpl5"
     },
     {
       "album": {
@@ -15768,7 +15976,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 331953,
       "name": "Lulwodie!!!! (feat. Pink Siifu)",
       "url": "https://open.spotify.com/track/7qaBtBqVaV8TEtlVL1T9bA"
@@ -16860,7 +17068,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 179029,
       "name": "morcilla",
       "url": "https://open.spotify.com/track/2yPjtIsOUrUTW8uRm59a7O"
@@ -16952,6 +17160,24 @@
       "duration_ms": 192395,
       "name": "More To Life",
       "url": "https://open.spotify.com/track/0hFrmp87FvmGmmvjWNfX38"
+    },
+    {
+      "album": {
+        "name": "The War Within",
+        "url": "https://open.spotify.com/album/7qiaFG4ivSlPM9PiSRSRUx"
+      },
+      "artists": [
+        {
+          "name": "Katori Walker",
+          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183773,
+      "name": "Morse Code",
+      "url": "https://open.spotify.com/track/45Hz2nVjOAIIIFWQwnaaKv"
     },
     {
       "album": {
@@ -17706,7 +17932,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 166956,
       "name": "No Blemishes",
       "url": "https://open.spotify.com/track/43bRvhfCFnGBX6Dk8v41wz"
@@ -19920,7 +20146,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 180878,
       "name": "pop n olive",
       "url": "https://open.spotify.com/track/7mx3o5H3YzWolHZe0Wtbam"
@@ -21373,6 +21599,32 @@
     },
     {
       "album": {
+        "name": "LOADING...",
+        "url": "https://open.spotify.com/album/3TiHfUIEWKH4yXb9VL84IR"
+      },
+      "artists": [
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        },
+        {
+          "name": "UHMEER",
+          "url": "https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd"
+        },
+        {
+          "name": "Dayne Jordan",
+          "url": "https://open.spotify.com/artist/3ryEOBMCxD6GPLBOL7Wzmr"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207258,
+      "name": "ROOM OF SMILES (feat. Uhmeer & Dayne Jordan)",
+      "url": "https://open.spotify.com/track/1IGsipdqanheKcO7iauH4u"
+    },
+    {
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6S2IDBMVq7CfAozkN9zio5"
       },
@@ -21556,6 +21808,28 @@
       "duration_ms": 248761,
       "name": "Sacrifices (feat. Fridayy)",
       "url": "https://open.spotify.com/track/3jSGgwZMCfdEOOIxP8JkC2"
+    },
+    {
+      "album": {
+        "name": "SAD CITY",
+        "url": "https://open.spotify.com/album/5WUnseEaTQ43N0xdkc70Ul"
+      },
+      "artists": [
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        },
+        {
+          "name": "Dj Gutta Butta",
+          "url": "https://open.spotify.com/artist/4z4fau4MH9Ul0mS8MFsmjZ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174649,
+      "name": "SAD CITY",
+      "url": "https://open.spotify.com/track/4KnkCsZeEZSCisKCV3V57T"
     },
     {
       "album": {
@@ -24332,7 +24606,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 168573,
       "name": "Summer Drop (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn"
@@ -27239,6 +27513,24 @@
     },
     {
       "album": {
+        "name": "vitamins n minerals",
+        "url": "https://open.spotify.com/album/5cg0UpSJLtYi9Ehy49tzy0"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150312,
+      "name": "vitamins n minerals",
+      "url": "https://open.spotify.com/track/67Z4kW9iuiiSIl5UnodaKr"
+    },
+    {
+      "album": {
         "name": "Waffle House",
         "url": "https://open.spotify.com/album/6sytxaodVoEenPlPsZbaBz"
       },
@@ -28056,7 +28348,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 184492,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/1D4qUYEH0cs7zNcUXVw6IX"

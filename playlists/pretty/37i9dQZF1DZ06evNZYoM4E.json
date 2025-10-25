@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 107460,
+  "num_followers": 107459,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAACZiPbQFuCsvS1tPQ4rhROa",
+  "snapshot_id": "aPlwAAAAAADrfrqtEdHnGNa6PDofgcte",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
+        "name": "Jij Bent Alles",
+        "url": "https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 244106,
-      "name": "Al Jouw Woorden Zijn Teveel",
-      "url": "https://open.spotify.com/track/6AmRofHZG72v4ATIsD8Rj1"
+      "duration_ms": 199466,
+      "name": "Rotzooi? Je Zegt 'T Maar",
+      "url": "https://open.spotify.com/track/7b7UWhdR0WwW5fnp0vUkhZ"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jij Bent Alles",
-        "url": "https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH"
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 199466,
-      "name": "Rotzooi? Je Zegt 'T Maar",
-      "url": "https://open.spotify.com/track/7b7UWhdR0WwW5fnp0vUkhZ"
+      "duration_ms": 244106,
+      "name": "Al Jouw Woorden Zijn Teveel",
+      "url": "https://open.spotify.com/track/6AmRofHZG72v4ATIsD8Rj1"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Ja Dat Ben Jij",
+      "url": "https://open.spotify.com/track/1eTC7896aTd7Cl8qXho4M5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zonder Zorgen",
         "url": "https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 181813,
       "name": "Jij Bent Het Leven Voor Mij",
       "url": "https://open.spotify.com/track/1es7Ebp9ALgRNFAA8GU2dl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Ja Dat Ben Jij",
-      "url": "https://open.spotify.com/track/1eTC7896aTd7Cl8qXho4M5"
     },
     {
       "added_at": null,

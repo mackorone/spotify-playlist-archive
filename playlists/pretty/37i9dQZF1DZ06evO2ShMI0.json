@@ -1,12 +1,12 @@
 {
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
-  "num_followers": 204795,
+  "num_followers": 204811,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAABTYPPucmVZEOSFilWBtyul",
+  "snapshot_id": "aPlwAAAAAADOhl+DY6aFc2tqukJfmpbd",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 266826,
+      "name": "Guitarras Blancas",
+      "url": "https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Guerra Gaucha",
         "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 173373,
       "name": "Eterna Soledad",
       "url": "https://open.spotify.com/track/2SWSDlNAMZC3ILXZoKEKVs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carrousel",
-        "url": "https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 266746,
-      "name": "Guitarras Blancas",
-      "url": "https://open.spotify.com/track/4g6BF5KhQDIpwJuevv7bFa"
     },
     {
       "added_at": null,

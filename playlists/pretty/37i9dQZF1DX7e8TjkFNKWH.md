@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e8TjkFNKWH.md) - [plain]
 
 > The biggest party hits of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,384,049 likes - 150 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,384,616 likes - 150 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

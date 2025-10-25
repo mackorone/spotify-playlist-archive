@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,768 likes - 150 songs - 12 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,876 likes - 150 songs - 12 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 149 | [Blue Window](https://open.spotify.com/track/2pYUcvzuzdGc4joj0KYX84) | [The Reflectionist](https://open.spotify.com/artist/3FWqZF8m9XAImKhKHM4TLE) | [Blue Window](https://open.spotify.com/album/5zfa586cmW4HGRZFTtmbGu) | 2:34 |
 | 150 | [Pordeno Me](https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [Pordeno Me](https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju) | 2:29 |
 
-Snapshot ID: `AAAAADRvGw2CRroiKikQQ0G9qVOt2j1o`
+Snapshot ID: `AAAAAORlFdC8DJOH7n5jd4ucNSHSleJi`

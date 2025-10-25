@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Mr Eazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,716 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,128 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 8 | [Believe](https://open.spotify.com/track/16ilarx3v35s8fwqrIp01v) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Believe](https://open.spotify.com/album/7w4K2sfwhVBFGfmJAiQJf2) | 2:48 |
 | 9 | [Sang](https://open.spotify.com/track/6AvvCpDQ5vi8FKVRtdrf61) | [Babi Tape](https://open.spotify.com/artist/5BRT2SPDAaQKvZCVpbIZ2J), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [BABI TAPE Vol.1](https://open.spotify.com/album/2U7lnGy6lvqtL4v5prqaPZ) | 3:29 |
 | 10 | [Pay Day](https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:11 |
-| 11 | [Bobo](https://open.spotify.com/track/2pYxZGULbCFoAfq15FDS20) | [Waïv](https://open.spotify.com/artist/7tauqq4m9yTjOSAed9kHux) | [Bobo](https://open.spotify.com/album/7hDluTna2DqFMHyHjDydys) | 2:39 |
+| 11 | [BOBO](https://open.spotify.com/track/2pYxZGULbCFoAfq15FDS20) | [Waïv](https://open.spotify.com/artist/7tauqq4m9yTjOSAed9kHux) | [BOBO](https://open.spotify.com/album/7hDluTna2DqFMHyHjDydys) | 2:39 |
 | 12 | [Dive In](https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Dive In](https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos) | 3:15 |
 | 13 | [After Hours](https://open.spotify.com/track/3is6Q8mrAvLC1gF2TFnYDq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Shana / After Hours](https://open.spotify.com/album/0cQk9my70QfKEYMJuAr9UQ) | 2:32 |
 | 14 | [Ta femme t'a pas dit](https://open.spotify.com/track/3qgqAmhXR6ETPmsIQ3cmSh) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Ta femme t'a pas dit](https://open.spotify.com/album/1u50hBEowKYUZRkSa4BiDE) | 2:44 |

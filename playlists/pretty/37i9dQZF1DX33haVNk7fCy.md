@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,752 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,867 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 7 | [Lut Gaye](https://open.spotify.com/track/2ufLEVbzvEcJ3subW8jBUp) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Lut Gaye](https://open.spotify.com/album/2IgqTqUjGQsmahYITOCdBX) | 3:48 |
 | 8 | [Dooron Dooron](https://open.spotify.com/track/0q5e5KtUOhYQujmhLP0pKd) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Shiv Tandan](https://open.spotify.com/artist/74wYoI5DV3XZGJri7l9cOP), [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda) | [Dooron Dooron](https://open.spotify.com/album/1wGfxu2U33P3c9fAmJbUe6) | 3:35 |
 | 9 | [Filhaal2 Mohabbat](https://open.spotify.com/track/576v1keY82NOPITMNu0wD2) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Akshay Kumar](https://open.spotify.com/artist/0w0mlcvl7QH28Cs28O6waY), [Nupur Sanon](https://open.spotify.com/artist/2vCsnF6h4c2b1csudqJiV5), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Filhaal2 Mohabbat](https://open.spotify.com/album/7p6qCp3ddSDJatDUtBtgxp) | 5:00 |
-| 10 | [Dard](https://open.spotify.com/track/6bXrlIITUgU0qnmmTnzrXW) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Love19](https://open.spotify.com/album/3uovRrWC0V8zckaZAbPoSK) | 2:45 |
+| 10 | [Dard](https://open.spotify.com/track/6bXrlIITUgU0qnmmTnzrXW) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Akash Rajput](https://open.spotify.com/artist/5NCf8mhYVsHtJhk59yYQud) | [Love19](https://open.spotify.com/album/3uovRrWC0V8zckaZAbPoSK) | 2:45 |
 | 11 | [Haara](https://open.spotify.com/track/3HW9WKTpCqjgtESauc9D0Z) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [I Loved You](https://open.spotify.com/album/6KcMl3ybHw5HdBTrS43zoq) | 3:55 |
 | 12 | [Chidiya](https://open.spotify.com/track/0aoN9BQostK81IFddJn8Ej) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Chidiya](https://open.spotify.com/album/6xecxwI17jdNrGKvHPIqVc) | 4:13 |
 | 13 | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/track/5QVHNa0ppJUOoqSd36ovQS) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/album/3Ptq3ARmJ8iTLBb7M7Bho0) | 3:46 |

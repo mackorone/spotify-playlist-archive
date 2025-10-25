@@ -4,7 +4,7 @@
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Alahad, Shinjoko
 
-430 songs - 1 day 3 hr 28 min
+431 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Melati](https://open.spotify.com/track/62l2nQqggtXIiljDHLaeEb) | [Frasa](https://open.spotify.com/artist/7yZ9jH9hNvBrVhe7ZANmGh) | [Melati](https://open.spotify.com/album/1EIiz9IOjNshQZ3HAz2ARN) | 2:55 | 2025-10-16 |  |
 | [Memento Mori](https://open.spotify.com/track/6iXifePsg3sAghgVgcQT7z) | [Duara](https://open.spotify.com/artist/1XOfH1UedJEI98CfjiDlyF) | [Memento Mori](https://open.spotify.com/album/7blLbc1p2xhSBeR6uEdc2D) | 2:56 | 2025-08-21 | 2025-10-24 |
 | [Menangkapnya](https://open.spotify.com/track/4mDUemYFleBBui4BRn6zMH) | [Anggun Priambodo](https://open.spotify.com/artist/77kyYpqO5DJuFfo08h4pDr) | [Menangkapnya](https://open.spotify.com/album/3282OAEwwjOuivGd86Ib57) | 1:33 | 2025-03-14 | 2025-04-26 |
+| [Mencari \- 2009 Mix](https://open.spotify.com/track/4OCiNolqVzkMY3lsuRsmvF) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Mencari \(2009 Mix\)](https://open.spotify.com/album/5Hkt5Yopx1bVPbXiS4Q1pK) | 3:31 | 2025-10-24 |  |
 | [Menggila](https://open.spotify.com/track/4ydaXOetyo0LnNrfLpvZnc) | [William Sihombing](https://open.spotify.com/artist/1HXxCMWL1jyKHQ2odKWR3j) | [Menggila](https://open.spotify.com/album/4r2uDt8qlzHfCsjSlEDeEl) | 3:33 | 2024-10-18 | 2025-03-15 |
 | [Menit Tambahan](https://open.spotify.com/track/2y5QvggKQs5iauTD9Bc8Oa) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Menit Tambahan](https://open.spotify.com/album/0V3gnXRk85cwiz9xvV7Nu6) | 4:05 | 2024-06-27 | 2025-05-17 |
 | [Menua Bersama](https://open.spotify.com/track/18aodtWZRR9Kddxf5vMiYp) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Menua Bersama](https://open.spotify.com/album/0bUlaofr3obJbEWSFl4Hgf) | 3:39 | 2024-11-28 | 2025-10-24 |

@@ -2181,6 +2181,28 @@
     },
     {
       "album": {
+        "name": "Feels",
+        "url": "https://open.spotify.com/album/6J4aQ4uEXy2OIsvLBYvXh9"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196052,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/38qDWOA8xACTloqAyvP1M6"
+    },
+    {
+      "album": {
         "name": "Flexin",
         "url": "https://open.spotify.com/album/5XTBYcoHkyzS4ygbcbEMoG"
       },
@@ -3565,6 +3587,24 @@
     },
     {
       "album": {
+        "name": "KI HAAL AA",
+        "url": "https://open.spotify.com/album/7573uBv6gwUul2QoS94G2J"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155172,
+      "name": "KI HAAL AA",
+      "url": "https://open.spotify.com/track/6pO0mc6cJ4WucFd84PoJ5z"
+    },
+    {
+      "album": {
         "name": "Kikli",
         "url": "https://open.spotify.com/album/16BiNUvVT8zdnr9QitdteN"
       },
@@ -4808,7 +4848,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 120923,
       "name": "Pols",
       "url": "https://open.spotify.com/track/4EpKRtkdwOQGmX1YCDsq1d"
@@ -5456,7 +5496,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 249163,
       "name": "Sawaal Puchdi (Feat. Bohemia)",
       "url": "https://open.spotify.com/track/0W7oY8NwwVkEeUVsAwF19Z"

@@ -2,7 +2,7 @@
 
 ### [Mutima ](https://open.spotify.com/playlist/37i9dQZF1DXbmINI7suDts)
 
-> Get your spirits up and manage your mood any time of the day\. Cover: Joshua Baraka & Jaz Karis
+> Get your spirits up and manage your mood any time of the day\. Cover: Kofee Bean
 
 169 songs - 9 hr 25 min
 

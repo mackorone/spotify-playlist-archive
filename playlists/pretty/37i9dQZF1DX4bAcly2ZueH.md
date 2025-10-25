@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,812 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,817 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Shine](https://open.spotify.com/track/5SgkueQ89lqtDZOlZ31ssy) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [LaVida](https://open.spotify.com/album/2iIDFxLxV185KAwDUByb4w) | 2:11 |
 | 100 | [Like I Do](https://open.spotify.com/track/2LXH4mOxhtBxC5yOFKr87J) | [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [Up](https://open.spotify.com/album/0uKwiWRcJYAQdIUM6PbU6L) | 2:19 |
 
-Snapshot ID: `AAAAAJOm8CkWrdpNXHewhvHIY1512h8g`
+Snapshot ID: `AAAAAGFgYKtKAmGfCOzoH0dQ90TlZF94`

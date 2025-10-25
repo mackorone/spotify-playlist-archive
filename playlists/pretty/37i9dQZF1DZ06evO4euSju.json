@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAACTNo2xD4ysnVfubVtpWhQP",
+  "snapshot_id": "aPlwAAAAAACn3ODQx62GxmC/qHbbf39d",
   "tracks": [
     {
       "added_at": null,
@@ -218,15 +218,11 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "Sister Void",
-          "url": "https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn"
         }
       ],
-      "duration_ms": 213863,
-      "name": "Wax Poetic",
-      "url": "https://open.spotify.com/track/5FOvWDm4PrPchyHMDOQiXs"
+      "duration_ms": 224214,
+      "name": "Cold Case",
+      "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
     },
     {
       "added_at": null,
@@ -286,11 +282,15 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Sister Void",
+          "url": "https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn"
         }
       ],
-      "duration_ms": 224214,
-      "name": "Cold Case",
-      "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
+      "duration_ms": 213863,
+      "name": "Wax Poetic",
+      "url": "https://open.spotify.com/track/5FOvWDm4PrPchyHMDOQiXs"
     },
     {
       "added_at": null,

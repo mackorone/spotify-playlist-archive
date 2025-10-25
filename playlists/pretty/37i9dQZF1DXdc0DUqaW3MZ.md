@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > where future beats meet timeless soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,220 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,252 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [Closer](https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Closer](https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma) | 2:49 |
 | 70 | [Crave](https://open.spotify.com/track/75ZvCtDorLfeaaTKyX7s1z) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Crave](https://open.spotify.com/album/6bC4wS1VnIVFhlks2Wx0XX) | 3:26 |
 
-Snapshot ID: `AAAAAM9wj4qPOSnJybTqe4yg4YH9czm7`
+Snapshot ID: `AAAAABjqf0RxFQe5PzfIqhiP/8fTQFFo`

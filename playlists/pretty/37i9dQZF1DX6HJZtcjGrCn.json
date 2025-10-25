@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: MARO",
-  "num_followers": 36621,
+  "num_followers": 36693,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADUufvETux3ZDJyD87+JkS9bQrcu",
+  "snapshot_id": "AAAAAN4JWQHhMN4XMd5Z7j8+IRw3m/mb",
   "tracks": [
     {
       "added_at": "2025-10-23 23:00:24",
@@ -321,6 +321,22 @@
       "url": "https://open.spotify.com/track/0JHdDFIPfNYTnG2FmAOUV9"
     },
     {
+      "added_at": "2025-10-24 08:31:33",
+      "album": {
+        "name": "O Vencedor / Len\u00e7o Enxuto",
+        "url": "https://open.spotify.com/album/0UXbU421haff2rxik4amal"
+      },
+      "artists": [
+        {
+          "name": "Luca Argel",
+          "url": "https://open.spotify.com/artist/2ZDNfNtWDgHegtoD5yvHjt"
+        }
+      ],
+      "duration_ms": 220106,
+      "name": "O Vencedor",
+      "url": "https://open.spotify.com/track/1hrcAFYNTC26aohEIfRc6H"
+    },
+    {
       "added_at": "2025-10-23 23:00:24",
       "album": {
         "name": "Sorry",
@@ -335,22 +351,6 @@
       "duration_ms": 197703,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"
-    },
-    {
-      "added_at": "2025-10-23 23:00:24",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
       "added_at": "2025-10-23 23:00:24",
@@ -371,18 +371,18 @@
     {
       "added_at": "2025-10-23 23:00:24",
       "album": {
-        "name": "I quit (deluxe)",
-        "url": "https://open.spotify.com/album/3KspmBolf6H0PpEPwN1dyu"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 143560,
-      "name": "The story of us",
-      "url": "https://open.spotify.com/track/5EvcD5Z5xSw1llxOdYVl2n"
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
       "added_at": "2025-10-23 23:00:24",
@@ -467,26 +467,6 @@
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
-    },
-    {
-      "added_at": "2025-10-23 23:00:24",
-      "album": {
-        "name": "Volver a Despertar",
-        "url": "https://open.spotify.com/album/4cVRQMqVmhRchsIW2L6Y5H"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 ViaMonte",
-          "url": "https://open.spotify.com/artist/65vZkm7u2bw95yQ0bAZdct"
-        },
-        {
-          "name": "Mari Segura",
-          "url": "https://open.spotify.com/artist/2ih7yN0J7tvnUaX3h7xQjT"
-        }
-      ],
-      "duration_ms": 228913,
-      "name": "Volver a Despertar",
-      "url": "https://open.spotify.com/track/7hlIwL37UxEG5O3JbewohD"
     },
     {
       "added_at": "2025-10-23 23:00:24",
@@ -1379,6 +1359,22 @@
       "duration_ms": 497160,
       "name": "Fruit Bat",
       "url": "https://open.spotify.com/track/2hmo6Qz1zHKl7nGbVZSl8Z"
+    },
+    {
+      "added_at": "2025-10-23 23:00:24",
+      "album": {
+        "name": "Starry Eyed",
+        "url": "https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 136925,
+      "name": "Starry Eyed",
+      "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
     }
   ],
   "unique_name": "Cena Indie",

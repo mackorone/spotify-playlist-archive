@@ -551,6 +551,24 @@
     },
     {
       "album": {
+        "name": "ego",
+        "url": "https://open.spotify.com/album/3EQlX84VGFJcYuV4g9frFm"
+      },
+      "artists": [
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162318,
+      "name": "ego",
+      "url": "https://open.spotify.com/track/5PBTKRzy7645Er3nPxTWWK"
+    },
+    {
+      "album": {
         "name": "Electric High",
         "url": "https://open.spotify.com/album/676PjzaourdD3l6Nb3HpwO"
       },
@@ -2066,6 +2084,28 @@
       "duration_ms": 187031,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
+    },
+    {
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/3onzNjfLd2w7n3CcOCDspZ"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255510,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/3V8NtZAKzVhM6XexfKl0fq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,214 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,206 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 49 | [Dolly Destructiva](https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [Hotel Living](https://open.spotify.com/album/679EGqfIi13IxNcGwbyVP0) | 2:23 |
 | 50 | [Yosemite](https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Yosemite](https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d) | 4:26 |
 
-Snapshot ID: `AAAAAMBXejVNdt/iJFqHgwixYeOlM7di`
+Snapshot ID: `AAAAAOtZZ9mbCPihj03JI6z2Dh1Xm9IN`

@@ -747,6 +747,42 @@
     },
     {
       "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/33DOetiHfIm3wnuj8PpJBl"
+      },
+      "artists": [
+        {
+          "name": "Dawn Huntley",
+          "url": "https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182712,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/4izhHmhU8hmg2PskMDMzqo"
+    },
+    {
+      "album": {
+        "name": "Beggin'",
+        "url": "https://open.spotify.com/album/68kIm6dt4DG2RqCBEXhMcF"
+      },
+      "artists": [
+        {
+          "name": "Dawn Huntley",
+          "url": "https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178859,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/6mUC7YgPQsfRRh7hD3Su4e"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/2CJPmEHO5WizRLynmx3pN9"
       },
@@ -1122,10 +1158,28 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 197690,
       "name": "Californication",
       "url": "https://open.spotify.com/track/6KF0ASfUw7mzIIWOmRFI7z"
+    },
+    {
+      "album": {
+        "name": "Call Me Maybe",
+        "url": "https://open.spotify.com/album/6MR8YMftNEhtMzSvy8hGVa"
+      },
+      "artists": [
+        {
+          "name": "Kian Rhodes",
+          "url": "https://open.spotify.com/artist/6tDvpHpVEgxeHQFcesr1Ca"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169685,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/680gMnaHdKRQzb4TjH3pKM"
     },
     {
       "album": {
@@ -1270,6 +1324,42 @@
       "duration_ms": 180250,
       "name": "Ceilings",
       "url": "https://open.spotify.com/track/7aN6kodJ7XchFIhIBy7Zbr"
+    },
+    {
+      "album": {
+        "name": "Chandelier",
+        "url": "https://open.spotify.com/album/490NgRXSPCFItBHQQ5G8SW"
+      },
+      "artists": [
+        {
+          "name": "Beatrix Giqueaux",
+          "url": "https://open.spotify.com/artist/3UEtEXDx8OGY1uVeguhgPg"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191803,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/4oq608tJqgk2NMfUpvSxAP"
+    },
+    {
+      "album": {
+        "name": "Charlie Brown",
+        "url": "https://open.spotify.com/album/0jzdKm3YaUwnpn3rA0LBWt"
+      },
+      "artists": [
+        {
+          "name": "Walter Finn",
+          "url": "https://open.spotify.com/artist/7EDPwTACqHva4NyJ3DDRuZ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182364,
+      "name": "Charlie Brown",
+      "url": "https://open.spotify.com/track/7KluGrB2TTDOD8fRac1jGy"
     },
     {
       "album": {
@@ -1666,6 +1756,24 @@
       "duration_ms": 163784,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/12XFOelqiJscv38MPyMqjf"
+    },
+    {
+      "album": {
+        "name": "Don't you (forget about me)",
+        "url": "https://open.spotify.com/album/62AfSthGAMGooKPvTUuZm3"
+      },
+      "artists": [
+        {
+          "name": "Winston Brey",
+          "url": "https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206674,
+      "name": "Don't you (forget about me)",
+      "url": "https://open.spotify.com/track/047JoNpQUy32PBt10VwwQ8"
     },
     {
       "album": {
@@ -2440,7 +2548,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 158694,
       "name": "Golden Hour - Piano",
       "url": "https://open.spotify.com/track/6VfEhCxKzT7u1fW6lWtHV7"
@@ -2890,7 +2998,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 181565,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/5P0j2h3b7nDXO3FkEqJift"
@@ -2908,7 +3016,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 155000,
       "name": "Hold my hand",
       "url": "https://open.spotify.com/track/5UI1e8uQ6PYubk3n3PHtpS"
@@ -3815,6 +3923,24 @@
     },
     {
       "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/451lhJs64gAun31QpLHEAL"
+      },
+      "artists": [
+        {
+          "name": "Matthieu Corvan",
+          "url": "https://open.spotify.com/artist/6pplrp4ARtkKsB66tnHsid"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151995,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/2ie8Uhuav7i16rUHjzFsqS"
+    },
+    {
+      "album": {
         "name": "Leave The Door Open",
         "url": "https://open.spotify.com/album/2wYXx1QLit8JRC9LB7QbHv"
       },
@@ -4042,7 +4168,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 148000,
       "name": "Lift Me Up - Piano Version",
       "url": "https://open.spotify.com/track/0ZZzAPbwFZcAbSg4mZTmJL"
@@ -4528,7 +4654,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 206000,
       "name": "Moral Of The Story",
       "url": "https://open.spotify.com/track/6vb4cTyfOUuNUUNEaVICNj"
@@ -4546,7 +4672,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 184000,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/1L0jNfvlHUmlsZ9jZKQ16p"
@@ -5720,7 +5846,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 181755,
       "name": "Say You Won't Let Go",
       "url": "https://open.spotify.com/track/0TEAy0uFDmnOMAvilts9f7"
@@ -5835,6 +5961,24 @@
     },
     {
       "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/2VBp7gqZRjAEKgfJu0u3XJ"
+      },
+      "artists": [
+        {
+          "name": "Emile Dufresne",
+          "url": "https://open.spotify.com/artist/10dzYEl5JeUt14w8tlUyrv"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139978,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/4SwOiakLxdV06pg5xhNo8a"
+    },
+    {
+      "album": {
         "name": "Show Me Heaven",
         "url": "https://open.spotify.com/album/2MG6IXeavoPmwRuRVzqnnX"
       },
@@ -5940,6 +6084,24 @@
       "duration_ms": 218581,
       "name": "Someone like you",
       "url": "https://open.spotify.com/track/3f87rDjNZHW38Gf03IiiyG"
+    },
+    {
+      "album": {
+        "name": "Someone You Loved",
+        "url": "https://open.spotify.com/album/2br3S21HLQMsKsQfkGFfh3"
+      },
+      "artists": [
+        {
+          "name": "Bea Westphal",
+          "url": "https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187368,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/4X2bw3TSQqf9RTdPfCxvWY"
     },
     {
       "album": {
@@ -6393,6 +6555,24 @@
     },
     {
       "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/02YbvTvLhRTErrwwpeVGrX"
+      },
+      "artists": [
+        {
+          "name": "Oak & Honey",
+          "url": "https://open.spotify.com/artist/1uTw6urRN1eni0YP1wEGBb"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145963,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/0EjzkhduQCwaFxCo8qR0Fc"
+    },
+    {
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/6gTf9Fn2UixItSmFgWdfua"
       },
@@ -6440,7 +6620,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 235900,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/3fY5nbaqbwfqeuy9SBewCM"
@@ -7261,6 +7441,24 @@
     },
     {
       "album": {
+        "name": "We are the champions",
+        "url": "https://open.spotify.com/album/6AhXaVOpcCSKthrtYxXfxB"
+      },
+      "artists": [
+        {
+          "name": "Winston Brey",
+          "url": "https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "We are the champions",
+      "url": "https://open.spotify.com/track/6FBDkBwrGI4IpEgsGxEVtM"
+    },
+    {
+      "album": {
         "name": "A Thousand Miles",
         "url": "https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45"
       },
@@ -7834,7 +8032,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 171671,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/7pRga1oziatOo4hDxC8UvF"
@@ -7924,7 +8122,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 239026,
       "name": "You Are The Reason - Piano Version",
       "url": "https://open.spotify.com/track/2F05YYG6v1eYXMRlJrPBLX"

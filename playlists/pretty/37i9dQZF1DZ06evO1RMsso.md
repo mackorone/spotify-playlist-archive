@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,285 likes - 44 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,310 likes - 44 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 26 | [Gilderoy Lockhart](https://open.spotify.com/track/4Fproek7uXgqMyUgCFJcWt) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 2:05 |
 | 27 | [The Chairman's Waltz](https://open.spotify.com/track/67EOtoy4dasPCapvD0aycg) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Memoirs of a Geisha \(Remastered\)](https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C) | 2:39 |
 | 28 | [Anakin vs\. Obi\-Wan](https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 3:56 |
-| 29 | [Main Theme \(From "Schindler's List"\)](https://open.spotify.com/track/6uDHjpkyezYfIlSwW6HfkG) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Nicola Benedetti](https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW), [Bournemouth Symphony Orchestra](https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB), [Kirill Karabits](https://open.spotify.com/artist/4R3RDYAysOS0Joet8zTxc7) | [The Silver Violin](https://open.spotify.com/album/47VlUP2jxeitw3MaAtIPQn) | 3:48 |
+| 29 | [Obi\-Wan](https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Obi\-Wan Kenobi \(Original Soundtrack\)](https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma) | 4:06 |
 | 30 | [Knockturn Alley](https://open.spotify.com/track/717XC5okeGGuLAXCzcWZLS) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 1:47 |
-| 31 | [Obi\-Wan](https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Obi\-Wan Kenobi \(Original Soundtrack\)](https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma) | 4:06 |
+| 31 | [Main Theme \(From "Schindler's List"\)](https://open.spotify.com/track/6uDHjpkyezYfIlSwW6HfkG) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Nicola Benedetti](https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW), [Bournemouth Symphony Orchestra](https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB), [Kirill Karabits](https://open.spotify.com/artist/4R3RDYAysOS0Joet8zTxc7) | [The Silver Violin](https://open.spotify.com/album/47VlUP2jxeitw3MaAtIPQn) | 3:48 |
 | 32 | [Cantina Band](https://open.spotify.com/track/5ZSAdkQb23NPIcUGt6exdm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 2:44 |
 | 33 | [Welcome To Jurassic Park](https://open.spotify.com/track/7MW1YzseA4CGfrZMBLqQWK) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jurassic Park](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) | 7:54 |
 | 34 | [Battle of the Heroes](https://open.spotify.com/track/1u3nu8fNWFua6mQjw4ReEt) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 3:42 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 43 | [I Could Have Done More](https://open.spotify.com/track/52PSKy15gHNoaidUT4i5vt) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Boston Symphony Orchestra](https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI) | [Schindler's List](https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8) | 5:52 |
 | 44 | [Theme from Superman \- Concert Version](https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Superman: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Hlfql6zSPcQGyZZ6TY5jO) | 4:24 |
 
-Snapshot ID: `aPgegAAAAABagMHT+oAMZClNFMkAjvDW`
+Snapshot ID: `aPlwAAAAAADDIs08Qo3c1vg7OQODcE7r`

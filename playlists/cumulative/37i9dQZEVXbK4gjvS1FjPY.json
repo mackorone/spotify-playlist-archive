@@ -3597,6 +3597,24 @@
     },
     {
       "album": {
+        "name": "Blue Valentine",
+        "url": "https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Blue Valentine",
+      "url": "https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh"
+    },
+    {
+      "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
       },
@@ -21106,7 +21124,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 110430,
       "name": "PIXELATED KISSES",
       "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
@@ -25792,7 +25810,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 166773,
       "name": "Strategy",
       "url": "https://open.spotify.com/track/2BkTPMr1v6Fr6JJwc4V7R5"
@@ -25854,7 +25872,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 166773,
       "name": "Strategy (from the Netflix film KPop Demon Hunters)",
       "url": "https://open.spotify.com/track/22fSzde77hjB052Vo155LF"
@@ -30648,7 +30666,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl"
@@ -30666,7 +30684,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z"

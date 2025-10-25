@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 
 > techno you can relax/study to
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,773 likes - 100 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,800 likes - 100 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

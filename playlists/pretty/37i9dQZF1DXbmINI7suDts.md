@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 ### [Mutima ](https://open.spotify.com/playlist/37i9dQZF1DXbmINI7suDts)
 
-> Get your spirits up and manage your mood any time of the day\. Cover: Joshua Baraka & Jaz Karis
+> Get your spirits up and manage your mood any time of the day\. Cover: Kofee Bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,323 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,338 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 59 | [Dream Girl](https://open.spotify.com/track/6HAAyksU8YpwwyW4RBgv2x) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny](https://open.spotify.com/artist/6vD7EUAHGIUGuToTc6SKaJ) | [Dream Girl](https://open.spotify.com/album/2bkg6XAiamz56VEELGehyd) | 2:31 |
 | 60 | [River Nile](https://open.spotify.com/track/6e1t9WWPexddWCd9hiwpsg) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [River Nile](https://open.spotify.com/album/1tUosBioWR9zjs2qRIR4gk) | 2:55 |
 
-Snapshot ID: `AAAAABfeZ0zvJFIPBlE12bhSr+MP1rD5`
+Snapshot ID: `AAAAAGFSbl91/44ON7nOi6P+W1flaUbU`

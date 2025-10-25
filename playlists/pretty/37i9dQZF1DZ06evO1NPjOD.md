@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,417 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,421 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 42 | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M) | 2:49 |
 | 43 | [Pastor \(Quavo, City Girls feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4awve4McsKOqVuOpAbg6BF) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:40 |
 | 44 | [Period \(We Live\)](https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:34 |
-| 45 | [Shisha](https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Shisha](https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl) | 2:54 |
-| 46 | [Three Point Stance \(feat\. City Girls & Megan Thee Stallion\)](https://open.spotify.com/track/5g7pNBb6ySnFUJknKiCkEE) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Three Point Stance \(feat\. City Girls & Megan Thee Stallion\)](https://open.spotify.com/album/3ul0AuKohmiolGCIKrEuly) | 3:22 |
+| 45 | [Three Point Stance \(feat\. City Girls & Megan Thee Stallion\)](https://open.spotify.com/track/5g7pNBb6ySnFUJknKiCkEE) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Three Point Stance \(feat\. City Girls & Megan Thee Stallion\)](https://open.spotify.com/album/3ul0AuKohmiolGCIKrEuly) | 3:22 |
+| 46 | [Shisha](https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Shisha](https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl) | 2:54 |
 | 47 | [4 Da Moment \(feat\. City Girls\)](https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:22 |
 | 48 | [Panties An Bra](https://open.spotify.com/track/5Pv2Mupc12dt63SbqkMEhP) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 1:54 |
 | 49 | [Money Fight](https://open.spotify.com/track/0eEEM1NNccG8BJpCC80Mlu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Bad Boys For Life Soundtrack](https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj) | 2:38 |
 | 50 | [I Need A Thug](https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [I Need A Thug](https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl) | 1:57 |
 
-Snapshot ID: `aPgegAAAAACMcXxDxmWauac6K71BvbqY`
+Snapshot ID: `aPlwAAAAAAARTBL11tKVsLwoq/l1xu2n`

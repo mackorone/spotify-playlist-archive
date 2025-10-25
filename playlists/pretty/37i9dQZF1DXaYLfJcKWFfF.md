@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Tessi Nandi
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,191 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,232 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 14 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
 | 15 | [Background](https://open.spotify.com/track/5M09sbohE6PzEuSqUIHoRl) | [Joshua Morris](https://open.spotify.com/artist/0fgysuyIdg2ZjnSePctoPn) | [Background](https://open.spotify.com/album/0f2ru6YP1uVc9rG082XFyi) | 5:22 |
 | 16 | [If I'm Honest](https://open.spotify.com/track/0tD9T9R7BiDk2kCTfQhhBm) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [If I'm Honest](https://open.spotify.com/album/0Ip4W5tgCDkTWkBJnDH41q) | 2:48 |
-| 17 | [Track 3](https://open.spotify.com/track/3IsTEeUvjblUnfHzuH88WO) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [](https://open.spotify.com/album/null) | 0:00 |
+| 17 | [Joyce Buyers Method](https://open.spotify.com/track/3IsTEeUvjblUnfHzuH88WO) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Gravity In Grief](https://open.spotify.com/album/3mSuIse2hJFrGkiJl7bmrE) | 3:56 |
 | 18 | [Mighty](https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Mighty](https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3) | 3:53 |
 | 19 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 |
-| 20 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [](https://open.spotify.com/album/null) | 3:21 |
+| 20 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [THOSE WHO ARE AGAINST US ALL THE TIME](https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK) | 3:21 |
 | 21 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
 | 22 | [Garden](https://open.spotify.com/track/08Xb8OzpczP9gpuxyzGsm3) | [Justin Prins](https://open.spotify.com/artist/7BxTlyY52WY7TaBkNOWP0C) | [Garden](https://open.spotify.com/album/0NSN6eSSvqdHsCpZOAQL5y) | 4:05 |
 | 23 | [Broda Kevwe](https://open.spotify.com/track/1C8JvIKdcn7J4JGFTIFTJ2) | [Ṣẹwà](https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK) | [Detox](https://open.spotify.com/album/2pgUrFWkbvvEqZKmpdri3z) | 4:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Benjamin Biolay
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,149 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,217 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 10 | [Comme je t'ai aimé](https://open.spotify.com/track/2Eek8Rh5baaDB3VBH2eqXR) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Comme je t'ai aimé](https://open.spotify.com/album/5Ntr7yJLHxJFq8FyyC5Gaz) | 5:13 |
 | 11 | [Aux enfants de demain](https://open.spotify.com/track/0FxvyCX5kTnEayJMYlkeCN) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Aux enfants de demain](https://open.spotify.com/album/1u4Nqs64gvChknGAcpsq0F) | 3:44 |
 | 12 | [Langage \- Orchestral](https://open.spotify.com/track/3GbpP0Se1XIcqtUWbFnfiP) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs \(Orchestral Odyssey\)](https://open.spotify.com/album/15FZlljjgimILw4hn7urFj) | 3:02 |
-| 13 | [Track 5](https://open.spotify.com/track/1VQPARXZ68Zxptzvmi4ZvJ) | [Carla De Coignac](https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B) | [](https://open.spotify.com/album/null) | 0:00 |
+| 13 | [Mon amour](https://open.spotify.com/track/1VQPARXZ68Zxptzvmi4ZvJ) | [Carla De Coignac](https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B) | [Confession](https://open.spotify.com/album/2thXDAJEb9XlzTpi8JN0h6) | 4:08 |
 | 14 | [Devant nous](https://open.spotify.com/track/7ubQv0YHkA16nAV71oYUs4) | [Constance Amiot](https://open.spotify.com/artist/57aTJRDQsVsP8fMuY7URiO) | [Devant nous](https://open.spotify.com/album/5dwOshnXhrbMlLaKkBwPCD) | 2:36 |
 | 15 | [la rosée](https://open.spotify.com/track/5WAUuCMhOvSUjSHfPYjEGU) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [la rosée](https://open.spotify.com/album/3C52FrCkUU0gKLekc9iEUo) | 2:32 |
 | 16 | [Thelma et Louise](https://open.spotify.com/track/4WabBsw8o8lgMmJeSNirUz) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Thelma et Louise](https://open.spotify.com/album/6ob1nfJYrRIGZbTD9hJ5ZJ) | 2:40 |

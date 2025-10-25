@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-11-02",
-  "description": "El que por su gusto muere, hasta la muerte la sabe. Las historias de nuestro M\u00e9xico con Alfredo Olivas \ud83d\udc80\ud83e\udea6\ud83d\udc90",
+  "description": "El que por su gusto muere, hasta la muerte la sabe. Las historias de nuestro M\u00e9xico con Eme MalaFe \ud83d\udc80\ud83e\udea6\ud83d\udc90",
   "name": "Corridos de la Muerte",
   "tracks": [
+    {
+      "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212418,
+      "name": "\"Vivo\"",
+      "url": "https://open.spotify.com/track/46Ddt3qamOYmedJ0t1TgUd"
+    },
     {
       "album": {
         "name": "100 Botellas",
@@ -248,7 +266,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 221543,
       "name": "El Dia Que Me Vaya - En Vivo",
       "url": "https://open.spotify.com/track/2rHDmTFBUhDoZiBND9XFbx"
@@ -390,7 +408,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 215125,
       "name": "En El Radio Un Cochinero (Remix)",
       "url": "https://open.spotify.com/track/78nK6LUy3FutFRJpRU9Guy"
@@ -488,6 +506,24 @@
       "duration_ms": 167373,
       "name": "La Gran Pachanga",
       "url": "https://open.spotify.com/track/3vXfJ9iAKPGLfy8G7es3bz"
+    },
+    {
+      "album": {
+        "name": "La Ley de la Vida",
+        "url": "https://open.spotify.com/album/6BWJ9kJxrgGeZFONzA3H5n"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175293,
+      "name": "La Ley de la Vida",
+      "url": "https://open.spotify.com/track/02EzmMdbDQwyRWcJsH2nSy"
     },
     {
       "album": {
@@ -738,6 +774,24 @@
       "duration_ms": 144640,
       "name": "Me Toc\u00f3 Morir",
       "url": "https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV"
+    },
+    {
+      "album": {
+        "name": "Mi Carnal",
+        "url": "https://open.spotify.com/album/4wTM8e9nVp1tlCA61dqnoo"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168679,
+      "name": "Mi Carnal",
+      "url": "https://open.spotify.com/track/6ukvOPkdVxkWSVQiRj2mzv"
     },
     {
       "album": {
@@ -1108,7 +1162,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 194353,
       "name": "Siempre Clave",
       "url": "https://open.spotify.com/track/02aS4O8n7k4UGLXqodbfSk"

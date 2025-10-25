@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,370 likes - 580 songs - 1 day 16 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,369 likes - 580 songs - 1 day 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 120 | [Some Kind of Miracle](https://open.spotify.com/track/5JeXyH905IWoIuRhTtaNQN) | [Puff Johnson](https://open.spotify.com/artist/4tZuiycQazMlEVhiPXuKLk) | [Miracle](https://open.spotify.com/album/7IMT7fNx7q3gqfecqKjF50) | 6:18 |
 | 121 | [The Time Alone With You](https://open.spotify.com/track/4qVzqyB11x7Rsk2hAs5dgj) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [BACKLASH](https://open.spotify.com/album/0AoG5TUFJKiWG8JNhOTIw0) | 4:40 |
 | 122 | [Don't Take Away My Heaven](https://open.spotify.com/track/1cn5Mwu4U4b7JFxIVFWlKj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Grand Tour](https://open.spotify.com/album/244kealm5K00bfuRFlolwF) | 4:40 |
-| 123 | [All I Want Is Forever](https://open.spotify.com/track/6lUfWjM1Gw4dWt5Ro2rHE0) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Stay With Me](https://open.spotify.com/album/3rQZT5l3PZVv100H8zH32U) | 4:31 |
-| 124 | [ANSWER YOUR PHONE](https://open.spotify.com/track/1exVyJr8vy1zslg9cFYmEs) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 |
+| 123 | [ANSWER YOUR PHONE](https://open.spotify.com/track/1exVyJr8vy1zslg9cFYmEs) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 |
+| 124 | [All I Want Is Forever](https://open.spotify.com/track/6lUfWjM1Gw4dWt5Ro2rHE0) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Stay With Me](https://open.spotify.com/album/3rQZT5l3PZVv100H8zH32U) | 4:31 |
 | 125 | [Bruised But Not Broken](https://open.spotify.com/track/5mxBzblbenmVm7C6wh5ulc) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Introducing Joss Stone](https://open.spotify.com/album/3VD9HPEpnbbNMIg05avkIk) | 4:15 |
 | 126 | [After Tonight](https://open.spotify.com/track/5nxuah08yYECil4UZuEE8N) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:14 |
 | 127 | [Rocket](https://open.spotify.com/track/36dvcjzeono5E1n2hqRJpZ) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:15 |
@@ -244,8 +244,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 234 | [Still Here](https://open.spotify.com/track/5hyHIDjxCGP0efNx6qwmu0) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/73xzYfVVYvkwYrhb5iUvjH) | 3:41 |
 | 235 | [The Change](https://open.spotify.com/track/2buUEhuN8I6tZ27kaWfqyh) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Change](https://open.spotify.com/album/1bZb08UfxnPsbz8MN2hhbF) | 3:35 |
 | 236 | [If I Don't Tell You Now](https://open.spotify.com/track/1eFZF1b1AW24Dp1ELQ53WX) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9) | 3:19 |
-| 237 | [Taken](https://open.spotify.com/track/758x5c6DtwpX1RuoRhr39i) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 2:48 |
-| 238 | [I Did It for You](https://open.spotify.com/track/1Km0EwfnZXSgNEZXphorwg) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Turnaround](https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO) | 3:31 |
+| 237 | [I Did It for You](https://open.spotify.com/track/1Km0EwfnZXSgNEZXphorwg) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Turnaround](https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO) | 3:31 |
+| 238 | [Taken](https://open.spotify.com/track/758x5c6DtwpX1RuoRhr39i) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 2:48 |
 | 239 | [\(We Are All\) Looking for Home](https://open.spotify.com/track/3wBl37DTfhitJpXfCXDGJt) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [\(We Are All\) Looking for Home](https://open.spotify.com/album/5XKMXzwRFAtOsJk1ChPce6) | 2:52 |
 | 240 | [The Truth Is In There](https://open.spotify.com/track/2AMjbQRrfoFw7J9GsyYeEz) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [The Truth Is In There](https://open.spotify.com/album/6kyvW9sfxdepzgmyfgr7F2) | 2:23 |
 | 241 | [I Count The Minutes](https://open.spotify.com/track/45xHOotYR3klNeJfiP3ixl) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:17 |
@@ -493,8 +493,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 483 | [Woman Up](https://open.spotify.com/track/0vfrSpF5CDzJwQd9mVtOPs) | [Tiffany Haddish](https://open.spotify.com/artist/0bfU48sSFFAhlaKCL05dTG) | [Woman Up](https://open.spotify.com/album/4ffdsTq7SUdO8I02yUxFsD) | 3:17 |
 | 484 | [Donne\-Moi Un Peu De Ta Peur](https://open.spotify.com/track/4OlrhtPFiyBhPZQtm0t5Dv) | [Martine Mai](https://open.spotify.com/artist/4QHbmOwEjkQj38G3ahoFjM) | [Voir Le Loup](https://open.spotify.com/album/06wgulZ9Uoxu2dAtWo2QuE) | 4:25 |
 | 485 | [Why Do We Hurt Each Other](https://open.spotify.com/track/5Fym0bTH1U8QysU2olEEEZ) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 5:59 |
-| 486 | [You Are My Home](https://open.spotify.com/track/6wopFHSnx7QXkMwpjhoRGN) | [Drivin Sneakers](https://open.spotify.com/artist/3CnWUiFLF9ctJW79n1SJkw) | [Throat of My Angel](https://open.spotify.com/album/2kFolRlik7x6gTx6YiM3m5) | 4:58 |
-| 487 | [Old Motown Music \(Radio,Radio\)](https://open.spotify.com/track/6N8ESjbiYSdxSL9TFhTO4P) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Midnight Man](https://open.spotify.com/album/0Zw3wxwgIaVhfqmcC1E2MM) | 3:58 |
+| 486 | [Old Motown Music \(Radio,Radio\)](https://open.spotify.com/track/6N8ESjbiYSdxSL9TFhTO4P) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Midnight Man](https://open.spotify.com/album/0Zw3wxwgIaVhfqmcC1E2MM) | 3:58 |
+| 487 | [You Are My Home](https://open.spotify.com/track/6wopFHSnx7QXkMwpjhoRGN) | [Drivin Sneakers](https://open.spotify.com/artist/3CnWUiFLF9ctJW79n1SJkw) | [Throat of My Angel](https://open.spotify.com/album/2kFolRlik7x6gTx6YiM3m5) | 4:58 |
 | 488 | [You Didn't Have to Hurt Me](https://open.spotify.com/track/3yWKP4fPa26IKOh4N3q2bP) | [Innosense](https://open.spotify.com/artist/2OaYYIqUbv6g6Q81vptEmW) | [So Together](https://open.spotify.com/album/4jbmIiX2zGMDOqYpVNsS5J) | 4:04 |
 | 489 | [Bitches Gotta Get Paid](https://open.spotify.com/track/4CiUatiN7HTtqRb9LjmOQ0) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [It Starts with Love](https://open.spotify.com/album/6gzrKLDkaYEyUknqeS4aFW) | 3:33 |
 | 490 | [Sempre Estarei Ai](https://open.spotify.com/track/4xMUHevynslj3eQ94Blpj9) | [Edilson Maia](https://open.spotify.com/artist/7IzGAGiDnAL0ivcZPquZew) | [Abra O Coração](https://open.spotify.com/album/6SgosvbIxHuasBJKe1ff6I) | 4:33 |
@@ -589,4 +589,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 579 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 580 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `Ab/qhgAAAAABvXrbNDwKiQzPyh67VovB`
+Snapshot ID: `Ab/wJgAAAACjBf+1nbY+WO0vyPNdZq8x`

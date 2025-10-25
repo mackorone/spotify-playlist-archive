@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > 💛 giovane pop\-Z  💛 Cover: ANTONIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,461 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,449 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 14 | [velo sugli occhi](https://open.spotify.com/track/5C2xHN8kdVt4isVqLFZM8z) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [caramé](https://open.spotify.com/album/2quUnR742DXfpRAEUiq6le) | 2:37 |
 | 15 | [Il brivido della vita](https://open.spotify.com/track/0P4wjuZdQvFkMYqDYiM9EF) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA \(SEMPRE\)](https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f) | 3:06 |
 | 16 | [Halo](https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [Halo](https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF) | 2:17 |
-| 17 | [DAY OFF](https://open.spotify.com/track/2rbIJOUIaqdUewNljfhT4v) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [](https://open.spotify.com/album/null) | 2:28 |
+| 17 | [DAY OFF](https://open.spotify.com/track/2rbIJOUIaqdUewNljfhT4v) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [DAY OFF](https://open.spotify.com/album/7o3rCkRFz85riXrjVaRnlU) | 2:28 |
 | 18 | [Una volta in più](https://open.spotify.com/track/5dqkc7ZnOfMiZezdh8i9ij) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [La bella confusione](https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO) | 3:01 |
 | 19 | [Per il panico](https://open.spotify.com/track/3lNVhyA1Q25EMX3oWXTJra) | [CARA](https://open.spotify.com/artist/5zB3Q6zAf7VWq0cfiHgzqf) | [Per il panico](https://open.spotify.com/album/6AUdje3pmdHAAOfRygn8gG) | 3:01 |
 | 20 | [Maledetta Rabbia](https://open.spotify.com/track/0GeIXUfthmnfMLfPRdDiVt) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Maledetta Rabbia](https://open.spotify.com/album/5hJ80aNRyLVqXoQhN4qMmy) | 2:35 |

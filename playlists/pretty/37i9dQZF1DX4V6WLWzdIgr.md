@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > "Aku pancen ora sempurna, gampang terluka..." 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,469 likes - 85 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,512 likes - 85 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

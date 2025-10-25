@@ -4,7 +4,7 @@
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-446 songs - 1 day 9 hr 50 min
+447 songs - 1 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Fast Life](https://open.spotify.com/track/4Qlyf2WcL6uq11MNP3BjqH) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk) | [Fast Life](https://open.spotify.com/album/29SzjciN1hhMafVQcZizOV) | 3:58 | 2023-09-29 | 2023-11-11 |
 | [Feel The Bern \- Alt Take](https://open.spotify.com/track/5GejWU6QiLcFJZ8Ix3S9cr) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Outtakes: 'Law of Attraction' Session](https://open.spotify.com/album/32CGaiQQg3wSczmFF3qcYo) | 2:00 | 2022-10-29 |  |
 | [Fight Harder](https://open.spotify.com/track/302NRQpcU7xP1GzXMn5zOV) | [Emanuel Harrold](https://open.spotify.com/artist/7BCEWQ7ebjQql2El4eAxOU), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Fight Harder](https://open.spotify.com/album/6xZUmkq57p0cWMVLnxIuJC) | 5:32 | 2022-11-18 | 2023-05-27 |
-| [Filibuster](https://open.spotify.com/track/6BWF4wtShcinQ1ikEwzkXl) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Filibuster](https://open.spotify.com/album/5uSG5x7Yu0hwFwn6AIvIpw) | 2:40 | 2024-07-12 |  |
+| [Filibuster](https://open.spotify.com/track/6BWF4wtShcinQ1ikEwzkXl) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Filibuster](https://open.spotify.com/album/5uSG5x7Yu0hwFwn6AIvIpw) | 2:40 | 2024-07-12 | 2025-10-25 |
 | [Fish Grease](https://open.spotify.com/track/4U67MTfdlwuBYwk5EoaX44) | [Jazz Funk Soul](https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED) | [Forecast](https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0) | 5:15 | 2022-08-12 |  |
 | [Fleet Streak](https://open.spotify.com/track/4NoeaUoJv9u8cuopFuVedF) | [Kerbside Collection](https://open.spotify.com/artist/6OOY4mJJDFE32QIWK171zh), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Fleet Streak](https://open.spotify.com/album/5vDEj1kU0gpIOw34y19iuj) | 3:57 | 2023-04-28 |  |
 | [For Horace](https://open.spotify.com/track/2zZS3p0MsOdYmS3EgcLctX) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [For Horace](https://open.spotify.com/album/73zM7vJshZxXvREGVVbo7Q) | 5:38 | 2023-04-14 |  |
@@ -184,6 +184,7 @@
 | [Kaleidoscopic Universe](https://open.spotify.com/track/5jzdsyf6pIIQHdBGFZ3eFQ) | [Mausiki Scales](https://open.spotify.com/artist/2YmibRHpqYtAHiaZodYL1N) | [Kaleidoscopic Universe](https://open.spotify.com/album/15maHD7fqNGtADY5vibczi) | 4:39 | 2020-10-09 |  |
 | [Kave Doz](https://open.spotify.com/track/4IEf4Fqsi524054vbBO7KR) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Kave Doz](https://open.spotify.com/album/063pPUdT3yUfGYpLtf0g8P) | 4:01 | 2022-04-08 | 2023-09-16 |
 | [Keep It Sexy](https://open.spotify.com/track/3Vghp0Dk0HDGKs54OM2Sfe) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Keep It Sexy](https://open.spotify.com/album/2P1f2vIxfFqHYOAvDYUNdp) | 4:39 | 2020-10-23 | 2022-08-06 |
+| [Keep On](https://open.spotify.com/track/51Qg3XRB5zTGpi3S49f2Ph) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Keep On](https://open.spotify.com/album/1aVzMhEYvdVDwvzLVtfKBe) | 4:00 | 2025-10-24 |  |
 | [Kinshasa FC](https://open.spotify.com/track/0F09o824fRsItjCHV48Kk2) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Aspects](https://open.spotify.com/album/7hkJZ6OcdqRRFotfnz0fWt) | 5:05 | 2021-03-26 | 2022-07-29 |
 | [La Fachada](https://open.spotify.com/track/7yFK4zvC06g7z9PZP1tYcc) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [Step Down / La Fachada](https://open.spotify.com/album/63xgskVnY0hG9fxtcj0gk1) | 3:19 | 2022-01-14 |  |
 | [Lazy Days \(feat\. Emma\-Jean Thackray\)](https://open.spotify.com/track/5yfojFTeq7UFGuuV3UT9O0) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Jean Paul "Bluey" Maunick](https://open.spotify.com/artist/5Tv7qX68u95zstak765YGM) | [STR4TASFEAR Remixes](https://open.spotify.com/album/3dCSbKuoc31g6ebi6I2XZL) | 6:31 | 2023-08-11 |  |

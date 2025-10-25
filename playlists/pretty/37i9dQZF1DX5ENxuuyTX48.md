@@ -2,30 +2,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 ### [OTW](https://open.spotify.com/playlist/37i9dQZF1DX5ENxuuyTX48)
 
-> wru? OTW!\. Cover: Fatin
+> wru? OTW!\. Cover: Dato' Sri Siti Nurhaliza, Lesti
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,707 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,707 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Red Flag](https://open.spotify.com/track/6CWFEuL0tr2cAEXKFF9cZZ) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Cerita Kita](https://open.spotify.com/album/1t5QgJytF9KWu4VVFgw23d) | 2:46 |
-| 2 | [Broken Promise](https://open.spotify.com/track/1ebHt77Ds3tNhKXHmE0RBn) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [The Art of Surrender](https://open.spotify.com/album/545qq83mkV2GTkPc0yZ1XL) | 3:14 |
-| 3 | [Cinta Seperti Aku](https://open.spotify.com/track/2OXQiECV3f0i6lM8uxWowG) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Edelweiss](https://open.spotify.com/album/1Uv9PoMo7VYvyLKVmmFG4u) | 4:08 |
-| 4 | [Elu\-elukan](https://open.spotify.com/track/7LQ9yw8sSdjmckKCK4CHSo) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Elu\-elukan](https://open.spotify.com/album/4TOeWC89ZQcQDLfUvqKaVm) | 4:03 |
-| 5 | [Blessing In Disguise](https://open.spotify.com/track/4nxVjVTJ5bXYRrYprebfpu) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Blessing In Disguise](https://open.spotify.com/album/6gCCMU08HProILDq9vUAwU) | 2:33 |
-| 6 | [Ada Untukmu](https://open.spotify.com/track/0mG2Sq4PnmHGSMLay75bDw) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Ada Untukmu](https://open.spotify.com/album/58BtkWNrfBXX8ishPFE3d9) | 4:17 |
-| 7 | [SENTIMENTAL](https://open.spotify.com/track/4xZVqquALHkTTJgWsXRbfD) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [SENTIMENTAL](https://open.spotify.com/album/2NgwZaCKmzJFjM8v6h2J95) | 3:17 |
-| 8 | [Lepas Kendali](https://open.spotify.com/track/4Mv3Eoz39mbrZCNrI2Ayl6) | [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Lepas Kendali](https://open.spotify.com/album/7rsgrqg8cLkBsAMjLpL39j) | 2:52 |
-| 9 | [Kembali Ke Aku](https://open.spotify.com/track/7w9uXR9ZDOK8afkmhWW4J5) | [Prinsa Mandagie](https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr) | [Kembali Ke Aku](https://open.spotify.com/album/43uKjfAyF0ZIbEWBeMq54c) | 3:25 |
-| 10 | [Always Will](https://open.spotify.com/track/48yxxt9sOxDfhsAcR2fKjg) | [Amira Othman](https://open.spotify.com/artist/31aRV0LJpJ88B7WX6PNspi) | [Always Will](https://open.spotify.com/album/3Ba8PEOzhT7yHXSE5heydr) | 3:59 |
-| 11 | [SELEK](https://open.spotify.com/track/1eidbGhE2kzcGxryRLPYeg) | [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SELEK](https://open.spotify.com/album/0HJ6oxmtVE0AqB4zBKjil7) | 2:02 |
-| 12 | [Cari](https://open.spotify.com/track/2Mw6tQcNyvdcieWTBGzwpt) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Cari](https://open.spotify.com/album/6WjIcxK3PneU3eze5r2hPP) | 2:55 |
-| 13 | [Raga](https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [centyl](https://open.spotify.com/album/0Pr2kArP3CrD7P32rZ9JMF) | 2:36 |
-| 14 | [Cinta Tak Berbatas \- From Novel "Bukan Sekadar Cinta"](https://open.spotify.com/track/5RhMduTz5sQIZ1hz650z6S) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Cinta Tak Berbatas \(From Novel "Bukan Sekadar Cinta"\)](https://open.spotify.com/album/0W08j84GtpWZ5qAffRJytQ) | 4:04 |
-| 15 | [Asal Kau Bahagia](https://open.spotify.com/track/1faglnLfyd7cMcr9rEIx4y) | [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh) | [Asal Kau Bahagia](https://open.spotify.com/album/4ywNGHwCDgdBIOd3ZoehcP) | 3:06 |
-| 16 | [Either Way](https://open.spotify.com/track/4wg1vffvKufwoe02eB6N10) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Either Way](https://open.spotify.com/album/5hEuteioYm1DYSQDFpzVXU) | 3:36 |
-| 17 | [Walk That Talk](https://open.spotify.com/track/4eKFfnl9svFt1HPR9Ef1Rj) | [O.V.A Official My](https://open.spotify.com/artist/2aap0qJeU1oqU5VJzkix23) | [Walk That Talk](https://open.spotify.com/album/3Eg2L4Eh3LGRGk2UOkoXMR) | 3:28 |
-| 18 | [Oi Pengantin](https://open.spotify.com/track/0UVYRxqEdiWgd7x21MRA3l) | [Sarkas](https://open.spotify.com/artist/0btUAYK5p1KQxH8C7Vtg3L) | [Oi Pengantin](https://open.spotify.com/album/1ohHeOqmjVcCIomcsL3TUa) | 4:43 |
+| 1 | [Kumbang Bunga](https://open.spotify.com/track/4SSlJ2gg67bxk2WzWosu3G) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU), [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Kumbang Bunga](https://open.spotify.com/album/00eF8Qvm43RcHxWPYUEhp8) | 3:29 |
+| 2 | [Menjadi Dewasa](https://open.spotify.com/track/4nhzCMML73Im5AAhWzAviK) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb) | [Menjadi Dewasa](https://open.spotify.com/album/1U1XHck0TGcN7cpPnlzOUd) | 4:15 |
+| 3 | [Obati Rinduku \- Acoustic](https://open.spotify.com/track/67cxYPcbVFaHZlrPrIGPE0) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Obati Rinduku \(Acoustic\)](https://open.spotify.com/album/5cXRZIwFeZwDvcfTxM4zt9) | 4:18 |
+| 4 | [swan song](https://open.spotify.com/track/5E9GFYeMdd6asHesvMflaT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [the blueprint](https://open.spotify.com/album/6rnEVluW1Z5CFiC3hDVDtV) | 3:25 |
+| 5 | [Too late](https://open.spotify.com/track/6EST5938544IpKZhFk5ESN) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Too late](https://open.spotify.com/album/4mpr8II2XoPL7HC83hxhNq) | 4:09 |
+| 6 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 |
+| 7 | [Bila Sampai Waktu](https://open.spotify.com/track/0zNhPqoJRcuayIzdi8ts6J) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk), [mimpi.](https://open.spotify.com/artist/2eeHSawIPcv45fDx6DJkKE) | [Bila Sampai Waktu](https://open.spotify.com/album/3XmZTY5NT6ThFDZe03AEO1) | 4:00 |
+| 8 | [Cerminan](https://open.spotify.com/track/25aNedx5QlJoDPA7SyerMd) | [Meet Uncle Hussain](https://open.spotify.com/artist/6DsEf5tVXFxGqG3on83Bm3), [Amir Jahari](https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu) | [Cerminan](https://open.spotify.com/album/4F3Apii1InZP5X1LTkCkPw) | 4:11 |
+| 9 | [Artificial Grass](https://open.spotify.com/track/3J5r1YebSC4fW4R14Zgf72) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Artificial Grass](https://open.spotify.com/album/6zrKX85vdTchx5H2oSMDhU) | 3:02 |
+| 10 | [Kalau Bukan Aku](https://open.spotify.com/track/3qYj0ehrBu0cbKw7tw4hHb) | [Khai Bahar](https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq) | [Kalau Bukan Aku](https://open.spotify.com/album/304YzbSwqFQoV1EFHMpucU) | 4:23 |
+| 11 | [Dalam Diam](https://open.spotify.com/track/2eGp0zNLHCMaCltJ7fKdZ8) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi), [Zamir Harith](https://open.spotify.com/artist/053dJUug3KoJGNH4q2B1Vu), [Mojack Hafiz](https://open.spotify.com/artist/6b7Sx8k12iNt7JGHURdR3E), [Bel Janni](https://open.spotify.com/artist/5l7c6Bfkb3sHeDOOojVqvB) | [Dalam Diam](https://open.spotify.com/album/6cJwxVhJ789g6G0YrLVSVk) | 3:43 |
+| 12 | [Segalanya Itu Kamu](https://open.spotify.com/track/3g8wJXQRebkJl1fMZzRqdj) | [David Bayu](https://open.spotify.com/artist/3jeN1xOULuoVF6284LDaQO) | [Segalanya Itu Kamu](https://open.spotify.com/album/6OX62qJnN2Nvr3BGulsZXC) | 3:55 |
+| 13 | [Bahagia Lagi](https://open.spotify.com/track/5tZaKZPJtiHh6teQfVEHB5) | [Piche Kota](https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM) | [Bahagia Lagi](https://open.spotify.com/album/5Dwl7DzGeKt0iSXXwefCIX) | 3:47 |
+| 14 | [Sebaris Lirik Cinta](https://open.spotify.com/track/6JVkCs91q7FYIfR9nuDlNL) | [Ruth Sahanaya](https://open.spotify.com/artist/2MoFaFNb7uknA3GxKqpMYz) | [Sebaris Lirik Cinta](https://open.spotify.com/album/2onUBFf4K7VDcVgwSG7Lwy) | 3:14 |
+| 15 | [FREEFALL](https://open.spotify.com/track/3HbCHPILR31b1riAxfEjmj) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Echoes from the Hills](https://open.spotify.com/album/3XZ2Y55Gt0c99bh0jKAAtB) | 2:52 |
+| 16 | [Masih Cinta](https://open.spotify.com/track/78rShDfdMgrsykP1eaD5jD) | [Idayu](https://open.spotify.com/artist/7suXbmosCjq93DMz9QO2rM), [Yuka Kharisma](https://open.spotify.com/artist/1rIJgdnQuJKKumgG4RQVBB) | [Masih Cinta](https://open.spotify.com/album/6r9PH09btQqKck7Q2dvbBp) | 3:14 |
+| 17 | [Pemula](https://open.spotify.com/track/0vAL8i68jrL5Y5L7jHgShZ) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [Pemula](https://open.spotify.com/album/2q8cHBvnDPg1x8xEvof4Lt) | 3:04 |
+| 18 | [Bujang](https://open.spotify.com/track/3KNeUaMsHJjLfIdIc49GoC) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [Bujang](https://open.spotify.com/album/1m0rCniLQrNH7RqSlAPCAx) | 3:23 |
 | 19 | [Alamak](https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Alamak](https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT) | 3:29 |
 | 20 | [bergema sampai selamanya](https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [bergema sampai selamanya](https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc) | 3:18 |
 | 21 | [mejikuhibiniu](https://open.spotify.com/track/278PwGlIm7MxVTZud18Rx4) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [mejikuhibiniu](https://open.spotify.com/album/1DZHkeHPjLkuclwTVtjIOK) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 49 | [jatuh cinta lagi](https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:08 |
 | 50 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 |
 
-Snapshot ID: `AAAAAFl9ARE2cPPdu1Z91UWUnGFEaWac`
+Snapshot ID: `AAAAAI34969do8W+kAyhO6EaqmPeVj+I`

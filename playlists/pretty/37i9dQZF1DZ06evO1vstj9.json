@@ -1,12 +1,12 @@
 {
   "description": "This is Elmiene. The essential tracks, all in one playlist.",
-  "num_followers": 6326,
+  "num_followers": 6334,
   "original_name": "This Is Elmiene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAiPKmBGM39PJItqA4RnaX1",
+  "snapshot_id": "aPlwAAAAAABWjGTPOIJSAOe2/MknV0E2",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/7p0qGzJYOpmXp18zjT8vo8"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 161529,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/5nV3xjY5nlQwAgpuSeinNG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heat The Streets",
         "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 150048,
       "name": "Damage Control",
       "url": "https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/7p0qGzJYOpmXp18zjT8vo8"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 161529,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/5nV3xjY5nlQwAgpuSeinNG"
     },
     {
       "added_at": null,
@@ -95,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heat The Streets",
+        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 201408,
+      "name": "Miss Hot July",
+      "url": "https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sweetness (feat. Leon Thomas)",
         "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 251326,
       "name": "Sweetness (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heat The Streets",
-        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 201408,
-      "name": "Miss Hot July",
-      "url": "https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD"
     },
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heat The Streets",
+        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 165431,
+      "name": "Different Too",
+      "url": "https://open.spotify.com/track/4A69nC7B7l17CuO6lLVSC4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marking My Time (BADBADNOTGOOD Edit)",
         "url": "https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 252503,
       "name": "Marking My Time - BADBADNOTGOOD Edit",
       "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heat The Streets",
-        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 165431,
-      "name": "Different Too",
-      "url": "https://open.spotify.com/track/4A69nC7B7l17CuO6lLVSC4"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyway I Can",
-        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "TLC",
-      "url": "https://open.spotify.com/track/2qbSJynY7eXE7bsXd9pjr9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heat The Streets",
         "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 144672,
       "name": "Dull Jewellery",
       "url": "https://open.spotify.com/track/14dH3pJ865OU7LDKX3lbMd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyway I Can",
+        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "TLC",
+      "url": "https://open.spotify.com/track/2qbSJynY7eXE7bsXd9pjr9"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyway I Can",
-        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 247480,
-      "name": "Ode To Win",
-      "url": "https://open.spotify.com/track/65UWAyUkE0VWlvEMnrXBc6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heat The Streets",
         "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 51240,
       "name": "Days!",
       "url": "https://open.spotify.com/track/6VsOaeuFQ2F7Ux3kkvKDa5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyway I Can",
+        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 247480,
+      "name": "Ode To Win",
+      "url": "https://open.spotify.com/track/65UWAyUkE0VWlvEMnrXBc6"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyway I Can",
-        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 155986,
-      "name": "Until It's Dust",
-      "url": "https://open.spotify.com/track/616o0X9kcvy732UKKnL68j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heat The Streets",
         "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 222288,
       "name": "Capable",
       "url": "https://open.spotify.com/track/6EWoKC9WQ2acoHzZ1Tkb9t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyway I Can",
+        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 155986,
+      "name": "Until It's Dust",
+      "url": "https://open.spotify.com/track/616o0X9kcvy732UKKnL68j"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyway I Can",
-        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 115680,
-      "name": "Dark Out (Season of Thieves)",
-      "url": "https://open.spotify.com/track/1SPFL35pZpYPMKyelBR0tB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shame",
         "url": "https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 152610,
       "name": "Shame (with Elmiene)",
       "url": "https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyway I Can",
+        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 115680,
+      "name": "Dark Out (Season of Thieves)",
+      "url": "https://open.spotify.com/track/1SPFL35pZpYPMKyelBR0tB"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live From Brussels",
+        "url": "https://open.spotify.com/album/7ixr34j4QSL8AOKoglFfaU"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 64074,
+      "name": "Insecure - Live From Brussels",
+      "url": "https://open.spotify.com/track/5Xh9Nc74EfH17kcbgAW4hS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAROLD",
         "url": "https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0"
       },
@@ -731,6 +747,54 @@
       "duration_ms": 170333,
       "name": "Coraline - Live From 525",
       "url": "https://open.spotify.com/track/3K5n6dkpyYLlqWuEWiGz20"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From Brussels",
+        "url": "https://open.spotify.com/album/7ixr34j4QSL8AOKoglFfaU"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 113978,
+      "name": "So Into You - Live From Brussels",
+      "url": "https://open.spotify.com/track/6apr5EWxitEo8Kecwc9mCC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From Brussels",
+        "url": "https://open.spotify.com/album/7ixr34j4QSL8AOKoglFfaU"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 140929,
+      "name": "Ribbon In The Sky - Live From Brussels",
+      "url": "https://open.spotify.com/track/6xA1xHUaD3tNNsHWpYoPKg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From Brussels",
+        "url": "https://open.spotify.com/album/7ixr34j4QSL8AOKoglFfaU"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "Breaking Point - Live From Brussels",
+      "url": "https://open.spotify.com/track/5dWRG9Zv96UKVcOxVLlxZK"
     }
   ],
   "unique_name": "This Is Elmiene",

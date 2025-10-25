@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Cornelio Vega y Su Dinastía en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,577 likes - 120 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,693 likes - 120 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 119 | [Perro Con Rabia](https://open.spotify.com/track/66IZASNrkceisPQvc03DeG) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Perro Con Rabia](https://open.spotify.com/album/44ADQ0mkICMBUQqmz39wGT) | 3:18 |
 | 120 | [Disculpe Usted](https://open.spotify.com/track/6IN1EDGzgUtz3RA8CdP9qc) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Así O Más Vega Vol\. 2](https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG) | 3:21 |
 
-Snapshot ID: `AAAAAFENtSHaiLXRLbRTDpbyHIRmf7Kd`
+Snapshot ID: `AAAAAAYPXusJpYzrukyM+O0HeBlEZzDX`

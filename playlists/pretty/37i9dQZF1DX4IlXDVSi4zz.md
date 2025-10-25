@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 
 > Dance the night away and just blame it on Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,937 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,143 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 99 | [Falling](https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Chemistry](https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2) | 4:10 |
 | 100 | [Let's Go \(Magalenha\)](https://open.spotify.com/track/30Ca9XElifcBjngQrmg0yl) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [Let's Go \(Magalenha\)](https://open.spotify.com/album/4yIihHvohDQhwRV69DSFTU) | 2:43 |
 
-Snapshot ID: `AAAAAP0TlywyUL3rKH7pqU9rCp22hFRF`
+Snapshot ID: `AAAAAFmIZXMkB15Aapo05QGYDc+PyJeH`

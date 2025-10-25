@@ -1,13 +1,37 @@
 {
   "description": "Still yachting. Cover: Yacht Rock Revue",
-  "num_followers": 19464,
+  "num_followers": 19472,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGnHxUkrTo15RMF+4BlYA435n4JR",
+  "snapshot_id": "AAAAAOo4CRm1V+Y1mPO6JCrTeatOJvCV",
   "tracks": [
+    {
+      "added_at": "2025-10-24 04:00:03",
+      "album": {
+        "name": "Move Like Me",
+        "url": "https://open.spotify.com/album/0EAYUwuFre2IQZEl9T1fs5"
+      },
+      "artists": [
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Dan Caplen",
+          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
+        },
+        {
+          "name": "Triple H Horns",
+          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
+        }
+      ],
+      "duration_ms": 172374,
+      "name": "Move Like Me",
+      "url": "https://open.spotify.com/track/5bze6BREk5sk3lKlgGWXbu"
+    },
     {
       "added_at": "2025-09-19 04:00:34",
       "album": {
@@ -727,22 +751,6 @@
       "duration_ms": 240306,
       "name": "Out of My Life",
       "url": "https://open.spotify.com/track/3BCkdDIFlp7g8ZlvHVJv5p"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "One Way Out",
-        "url": "https://open.spotify.com/album/7GowjRTiHy1OtF0AQuqXVS"
-      },
-      "artists": [
-        {
-          "name": "Heir",
-          "url": "https://open.spotify.com/artist/2qFolZ0t9iDaOtgwvtMl2f"
-        }
-      ],
-      "duration_ms": 222040,
-      "name": "One Way Out",
-      "url": "https://open.spotify.com/track/6Rvvecvi5x26AYsqY518MY"
     },
     {
       "added_at": "2023-09-01 04:00:00",

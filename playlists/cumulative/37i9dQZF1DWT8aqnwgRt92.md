@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,255 songs - 5 day 19 hr 40 min
+2,256 songs - 5 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Actor](https://open.spotify.com/track/7u18NKxs2xpNAb0qIEBeuN) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Actor](https://open.spotify.com/album/54vQuJiZufsTdbyIt5I8zb) | 3:49 | 2025-10-11 |  |
 | [ADRENALIZED](https://open.spotify.com/track/5mLefApR6VCHdhCNSXDBog) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ADRENALIZED](https://open.spotify.com/album/3lyJjoXNBDHyk130hvSarp) | 3:41 | 2024-04-10 | 2024-05-29 |
 | [Afterglow](https://open.spotify.com/track/4DvRFPXSsTkxZqwrCZPGly) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Magie Magie](https://open.spotify.com/album/501DWHpafy1a3ycR6TW3q4) | 4:04 | 2023-10-10 | 2023-10-18 |
+| [afterschool](https://open.spotify.com/track/2xmgZcqsKLVAZvBtelyWcB) | [Soma Saito](https://open.spotify.com/artist/1O2VCqaEfk91iBO0Sgchvb) | [afterschool](https://open.spotify.com/album/3bDrfgf2Uip7TJh8NvV7wH) | 3:37 | 2025-10-21 |  |
 | [Ahatte Teppen'](https://open.spotify.com/track/1Ahd8RIuzNBZFwkH2AhYlR) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Ahatte Teppen’](https://open.spotify.com/album/44dpI1riKMZ1mSMFS8RWAA) | 3:29 | 2022-08-16 | 2022-10-05 |
 | [Ahatte Teppen' \- TV size](https://open.spotify.com/track/58uIXj0FV76d3g2h3UBZZC) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Ahatte Teppen' \(TV size\)](https://open.spotify.com/album/3qMx7JqolPCn74lz6rdmRD) | 1:30 | 2022-07-05 | 2022-07-29 |
 | [Aino Uta](https://open.spotify.com/track/24gmMth9MSSf7718wryKKz) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Aino Uta / Chantoshitahito Futekigousha / Nanimo Wasureru Wakejanai](https://open.spotify.com/album/2uNHuaMGc9IYA3MlzNIgDy) | 4:21 | 2023-03-28 | 2023-04-15 |

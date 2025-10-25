@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where roots meet what\u2019s next. Cover: Mon Rov\u00eea",
+  "description": "Where roots meet what\u2019s next. Cover: Brandi Carlile",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 242329,
       "name": "A War With Time",
       "url": "https://open.spotify.com/track/68BFqpvYMNQFtOw0C9zb2s"
@@ -891,7 +891,7 @@
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 244813,
+      "duration_ms": 244823,
       "name": "American Romance",
       "url": "https://open.spotify.com/track/6vS3l6JjTOp8LOZfDcKWDX"
     },
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 212168,
       "name": "Back At Your Door",
       "url": "https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb"
@@ -3269,6 +3269,24 @@
     },
     {
       "album": {
+        "name": "Further From the Country",
+        "url": "https://open.spotify.com/album/4hLnzIN6eYqCmitWi6TIPO"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314080,
+      "name": "Damn",
+      "url": "https://open.spotify.com/track/76eVLTmi0aYoXSwalZA1Fo"
+    },
+    {
+      "album": {
         "name": "Pagan Church",
         "url": "https://open.spotify.com/album/0oTreVJnC1akvkKpYxj9Ak"
       },
@@ -3820,6 +3838,28 @@
       "duration_ms": 218967,
       "name": "Don\u2019t Let Your Deal Go Down",
       "url": "https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Let \u2018Em (Get Inside of Your Head)",
+        "url": "https://open.spotify.com/album/6t5AGNTVsSIsAGWhichoba"
+      },
+      "artists": [
+        {
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
+        },
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203326,
+      "name": "Don\u2019t Let \u2018Em (Get Inside of Your Head)",
+      "url": "https://open.spotify.com/track/5Ji2fMtataaupfgg3SlLdS"
     },
     {
       "album": {
@@ -6935,6 +6975,24 @@
     },
     {
       "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260065,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq"
+    },
+    {
+      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60"
       },
@@ -7394,7 +7452,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 212011,
       "name": "If Whiskey Were Free",
       "url": "https://open.spotify.com/track/1Gp5tJL7BpCcICSbby1Tqa"
@@ -7774,7 +7832,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 313580,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/15xMqbuhYffcsjPfhRuWL0"
@@ -8584,7 +8642,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 190986,
       "name": "Look Up",
       "url": "https://open.spotify.com/track/5Snxe2isWXVShJuXCg5rCO"
@@ -11630,7 +11688,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 184599,
       "name": "Robin's Egg (feat. I'm With Her)",
       "url": "https://open.spotify.com/track/3okAzQRzCJrwpYtImGTBgM"
@@ -11870,6 +11928,24 @@
       "duration_ms": 180524,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac"
+    },
+    {
+      "album": {
+        "name": "Runnin' and Searchin'",
+        "url": "https://open.spotify.com/album/3eBwjqDE4nQ6MTcgCXh4nI"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186646,
+      "name": "Runnin' and Searchin'",
+      "url": "https://open.spotify.com/track/1WVXw5ovf3sTglDGnaSS91"
     },
     {
       "album": {
@@ -13297,6 +13373,24 @@
     },
     {
       "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203830,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt"
+    },
+    {
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/7A1UwmjsO4rTSgZym4sT2p"
       },
@@ -13674,7 +13768,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 189277,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/20k4xjW04YB2MnvlPGgsya"
@@ -15732,6 +15826,28 @@
       "duration_ms": 308258,
       "name": "When Country Came Back to Town",
       "url": "https://open.spotify.com/track/6ajGzRERrNWMa4zpB6ID8W"
+    },
+    {
+      "album": {
+        "name": "When It Snows In Texas",
+        "url": "https://open.spotify.com/album/7A9urqXlw6unu8iR8aYaEe"
+      },
+      "artists": [
+        {
+          "name": "Chaparelle",
+          "url": "https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "When It Snows In Texas",
+      "url": "https://open.spotify.com/track/5By307vqu6ZwxuLlkHpDRx"
     },
     {
       "album": {

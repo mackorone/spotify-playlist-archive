@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,483,964 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,483,906 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Seseragi](https://open.spotify.com/track/4ANIuRARV6NUZQ8funtPBA) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Seseragi](https://open.spotify.com/album/2JD5d2OCXxL5Cwt9x3jD6z) | 2:37 |
 | 80 | [White Tea](https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [dr\. nibbles](https://open.spotify.com/artist/0NAtU3NLFUmAHbEgdZqP1G) | [White Tea](https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ) | 1:28 |
 
-Snapshot ID: `AAAAAJkQQbWNCCTa5dhYpToJvWNVd2DV`
+Snapshot ID: `AAAAACZa1oWWJ6WscEl4qqtpvd9jEs1d`

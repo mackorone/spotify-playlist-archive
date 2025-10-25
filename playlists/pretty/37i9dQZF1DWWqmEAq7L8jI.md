@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 
 > Dale play y que la música te acompañe  📸 Babasónicos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,322 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,327 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 8 | [A Mi Nube](https://open.spotify.com/track/15g721ZXBap7ZOxECI4O2z) | [Lisa Maria](https://open.spotify.com/artist/0NfiDupjeBk5DerqqPs47D) | [A Mi Nube](https://open.spotify.com/album/4mqARE8GVtj9OFtKPhJ7nA) | 2:14 |
 | 9 | [Girar \- 2025](https://open.spotify.com/track/7gJlVu07ZmPITpMs0tOBME) | [Erreway](https://open.spotify.com/artist/0gcn3HLEtMkH06w4GUxzG3) | [Tiempo / Girar \(2025\)](https://open.spotify.com/album/3p6jRugNjWky0owhBSnzjP) | 3:10 |
 | 10 | [Aventura](https://open.spotify.com/track/1gCDdj2jmtSYmaZYKzFs41) | [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS) | [Aventura](https://open.spotify.com/album/0CFFkWAaulWLiSKskqVjB8) | 2:27 |
-| 11 | [Luis](https://open.spotify.com/track/3Wo0RfWcun0IcemZfKnmIN) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Luis](https://open.spotify.com/album/44BVovg1ixDk60xum72iji) | 2:00 |
+| 11 | [Vueltas](https://open.spotify.com/track/3NOh7776jasagqty3zVeNQ) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Luvi](https://open.spotify.com/artist/395SLIAX2XkMnxHTBwhOQH) | [Vueltas](https://open.spotify.com/album/5HcviOncbzoFlvhfyak5Pk) | 2:57 |
 | 12 | [Tu Cara de Culo](https://open.spotify.com/track/2o9zuk6ht1U9uRMPzhMGde) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Tu Cara de Culo](https://open.spotify.com/album/7tIDAzlOEMpKRVcI5ulfj9) | 3:51 |
-| 13 | [Avión a Madrid](https://open.spotify.com/track/3i4fuDPACqqQJkzoymalcu) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Avión a Madrid](https://open.spotify.com/album/27HCN7UHjsGX424Ev68llq) | 3:27 |
+| 13 | [Mejor](https://open.spotify.com/track/4P6510kL8JjOvo9Pwa4nK3) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg), [Suu](https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA) | [No quiero ser artista](https://open.spotify.com/album/5dOzWR82sAHR6kl522kKJf) | 2:19 |
 | 14 | [Nuestra Canción](https://open.spotify.com/track/47Cczta7ouUWzNES0px2Aa) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Nuestra Canción](https://open.spotify.com/album/6Fxb9J9UHZd9CjqoT9V12h) | 3:40 |
 | 15 | [Tesoro](https://open.spotify.com/track/2wFeqKMBrU4toeSqsLm31H) | [Homogénica](https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt), [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Tesoro](https://open.spotify.com/album/62DckjMHNPj18A3LECOUQX) | 2:12 |
 | 16 | [Esperaría Al Sol](https://open.spotify.com/track/2bWY2H78KeFkJRK0N80JG0) | [SER](https://open.spotify.com/artist/5Tk3cLiTSfgrMC4BxInpO9), [Piru Saez](https://open.spotify.com/artist/2qdl3OSZp8RVa0nCkHrDa9) | [Esperaría Al Sol](https://open.spotify.com/album/0inn5RinNhGSTFKXK06yoj) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 99 | [Golpes en el Corazón](https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Golpes en el Corazón](https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ) | 3:31 |
 | 100 | [Como Tú y Yo](https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Como Tú y Yo](https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT) | 3:12 |
 
-Snapshot ID: `AAAAAIXmJGAazLLdArQn7C0ich/0qwJc`
+Snapshot ID: `AAAAANziwZLOe57T4+iqL89oERtRJN3m`

@@ -132,7 +132,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 151399,
       "name": "at first",
       "url": "https://open.spotify.com/track/6ySPRb4en9GqyBJSNgxHDn"
@@ -1188,6 +1188,28 @@
       "duration_ms": 166504,
       "name": "Hotspot",
       "url": "https://open.spotify.com/track/1TZHxc3mBKD1DlQs0jiRFy"
+    },
+    {
+      "album": {
+        "name": "I Fall",
+        "url": "https://open.spotify.com/album/1YXxCxvgLLnejVcMXbHHup"
+      },
+      "artists": [
+        {
+          "name": "Gaston",
+          "url": "https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr"
+        },
+        {
+          "name": "Tabeia",
+          "url": "https://open.spotify.com/artist/6aBEJrQuxVju1RpGtaj5k7"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "I Fall",
+      "url": "https://open.spotify.com/track/39ffllrQQsR3ky4AwqOTnY"
     },
     {
       "album": {

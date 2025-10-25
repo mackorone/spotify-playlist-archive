@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 102400,
       "name": "auriga",
       "url": "https://open.spotify.com/track/1PgQNYorlhh0hDyCbR4KJf"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 153600,
       "name": "Between Thoughts",
       "url": "https://open.spotify.com/track/4SuRlSRgv5kqFn5YpDmWQV"
@@ -2178,7 +2178,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 133953,
       "name": "bloom",
       "url": "https://open.spotify.com/track/7ibOAuOTDY6mRVXRR8tnP6"
@@ -3068,7 +3068,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 110777,
       "name": "carry on",
       "url": "https://open.spotify.com/track/1kGMcgFH0VqGLgFvOFlhEg"
@@ -3565,28 +3565,6 @@
     },
     {
       "album": {
-        "name": "Concrete Lullaby",
-        "url": "https://open.spotify.com/album/3TObWQy4snzrIsytvhVCVW"
-      },
-      "artists": [
-        {
-          "name": "sloh rou",
-          "url": "https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j"
-        },
-        {
-          "name": "ron quixote",
-          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
-        }
-      ],
-      "date_added": "2025-10-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 120462,
-      "name": "Comcrete Lullaby",
-      "url": "https://open.spotify.com/track/2EPpbqhFNzBxnKv5rab7Dx"
-    },
-    {
-      "album": {
         "name": "nobuddy's buddies, vol. 1",
         "url": "https://open.spotify.com/album/1KoFHdiGlx3TBx2vcimbbF"
       },
@@ -3650,6 +3628,28 @@
       "duration_ms": 88615,
       "name": "conception",
       "url": "https://open.spotify.com/track/27zOCVOJTSy0ucXhNhyeM7"
+    },
+    {
+      "album": {
+        "name": "Concrete Lullaby",
+        "url": "https://open.spotify.com/album/3TObWQy4snzrIsytvhVCVW"
+      },
+      "artists": [
+        {
+          "name": "sloh rou",
+          "url": "https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j"
+        },
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120462,
+      "name": "Concrete Lullaby",
+      "url": "https://open.spotify.com/track/2EPpbqhFNzBxnKv5rab7Dx"
     },
     {
       "album": {
@@ -3762,6 +3762,28 @@
       "duration_ms": 114705,
       "name": "Cosmos",
       "url": "https://open.spotify.com/track/0iVzFXgZauIdADqoYfZQiV"
+    },
+    {
+      "album": {
+        "name": "Cotton Skies",
+        "url": "https://open.spotify.com/album/4ZtNqoEZc18tSpbdDEhE3w"
+      },
+      "artists": [
+        {
+          "name": "J.Kobee",
+          "url": "https://open.spotify.com/artist/4F3XA2w5ms8U6nzgAujrl1"
+        },
+        {
+          "name": "Gy\u00fbki",
+          "url": "https://open.spotify.com/artist/0f1wG4nrFzA7sc92lDeItL"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91004,
+      "name": "Cotton Skies",
+      "url": "https://open.spotify.com/track/0Xfs8ztoBXBMAPDistx1Ta"
     },
     {
       "album": {
@@ -5528,7 +5550,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 138461,
       "name": "evergreen",
       "url": "https://open.spotify.com/track/4dC7tVtIlzlXzSyBw2tsOZ"
@@ -5994,6 +6016,24 @@
       "duration_ms": 101754,
       "name": "Fields",
       "url": "https://open.spotify.com/track/1si2Oh33ihVdg7LyLWUG15"
+    },
+    {
+      "album": {
+        "name": "Fields",
+        "url": "https://open.spotify.com/album/5H2oHjZ0rrVt5rcpvtSnfU"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Fields",
+      "url": "https://open.spotify.com/track/6DGmI9u4RiSIbbSJOqMDKc"
     },
     {
       "album": {
@@ -6559,6 +6599,28 @@
     },
     {
       "album": {
+        "name": "Galore",
+        "url": "https://open.spotify.com/album/2IObwgTrpopYafdjKtZVlq"
+      },
+      "artists": [
+        {
+          "name": "Hazue",
+          "url": "https://open.spotify.com/artist/3YnVojTjzOoV0xMr7Am0EU"
+        },
+        {
+          "name": "nomar.wav",
+          "url": "https://open.spotify.com/artist/4Vzivc0fUec8FO2BxUuvcO"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96393,
+      "name": "Galore",
+      "url": "https://open.spotify.com/track/1qsKpilNHxkpakxrEN9u7s"
+    },
+    {
+      "album": {
         "name": "nobuddy's buddies, vol. 1",
         "url": "https://open.spotify.com/album/1KoFHdiGlx3TBx2vcimbbF"
       },
@@ -7088,6 +7150,24 @@
       "duration_ms": 117142,
       "name": "Grey",
       "url": "https://open.spotify.com/track/3n8NRHLcAPZVPegt0QkGFE"
+    },
+    {
+      "album": {
+        "name": "Growing Slow",
+        "url": "https://open.spotify.com/album/2n7UArAyLSTWd2fS6rXVem"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Growing Slow",
+      "url": "https://open.spotify.com/track/70ec4VZbRFBCXdN3K0E2ai"
     },
     {
       "album": {
@@ -7634,7 +7714,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 108493,
       "name": "home",
       "url": "https://open.spotify.com/track/20MAwDKxVzGWE290ZnMwY1"
@@ -8936,7 +9016,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 105600,
       "name": "In The Moment",
       "url": "https://open.spotify.com/track/54D21Adk10qvAMJGPSYDjX"
@@ -9601,6 +9681,24 @@
     },
     {
       "album": {
+        "name": "journal",
+        "url": "https://open.spotify.com/album/5lPWUQFZ4FAECmrDjMrLjM"
+      },
+      "artists": [
+        {
+          "name": "BROCKBEATS",
+          "url": "https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158125,
+      "name": "journal",
+      "url": "https://open.spotify.com/track/0i23hHBDJCjv5raxSxTjOO"
+    },
+    {
+      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/3gDEMtM956AcPAVOAm2ECJ"
       },
@@ -9786,7 +9884,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 120000,
       "name": "Keep Me",
       "url": "https://open.spotify.com/track/3ddgadwJAT0OncX9qJm6YU"
@@ -10500,7 +10598,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 139904,
       "name": "Light Changes",
       "url": "https://open.spotify.com/track/6lDu71XHCahhK2Gc5vb4gW"
@@ -10721,6 +10819,28 @@
     },
     {
       "album": {
+        "name": "little message",
+        "url": "https://open.spotify.com/album/32UQXeo6UIepGSmVtC2Vcm"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        },
+        {
+          "name": "Tibeauthetraveler",
+          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "little message",
+      "url": "https://open.spotify.com/track/5qOM6go1e8GShsT9ZXCfhM"
+    },
+    {
+      "album": {
         "name": "little sister",
         "url": "https://open.spotify.com/album/3iL8VIXmM5IviVIrERrFGy"
       },
@@ -10902,7 +11022,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 129705,
       "name": "Long Bus Ride",
       "url": "https://open.spotify.com/track/2ONZAucRBhE6da9CWRZrx3"
@@ -10974,7 +11094,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 97063,
       "name": "Longing",
       "url": "https://open.spotify.com/track/3NyuqhqwjezHjVpoFe8Xtq"
@@ -11424,7 +11544,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 103394,
       "name": "lovely morning",
       "url": "https://open.spotify.com/track/3mODe8MBd0StYKdkUs5npa"
@@ -11764,6 +11884,28 @@
       "duration_ms": 134437,
       "name": "Magic",
       "url": "https://open.spotify.com/track/36DiK1XrU3R53zrXCnG195"
+    },
+    {
+      "album": {
+        "name": "Magic Happens",
+        "url": "https://open.spotify.com/album/2PY8pDQ2bBtyp7se9Q3eqs"
+      },
+      "artists": [
+        {
+          "name": "B\u01b1BBLE",
+          "url": "https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk"
+        },
+        {
+          "name": "reOrder",
+          "url": "https://open.spotify.com/artist/1cAsz5HmLWJ2GWwinTnBG2"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114845,
+      "name": "Magic Happens",
+      "url": "https://open.spotify.com/track/2Dlx8LLVElyqBs5q07eudk"
     },
     {
       "album": {
@@ -16699,6 +16841,24 @@
     },
     {
       "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/0eV7EBiAbPbmdi8TqZ5SSv"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171891,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/2zdP31rqfFQlOZ7j0GgvJh"
+    },
+    {
+      "album": {
         "name": "Buena Vista",
         "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
       },
@@ -17075,6 +17235,28 @@
     },
     {
       "album": {
+        "name": "Secret city",
+        "url": "https://open.spotify.com/album/6Ne0MQtqmxU9sHABT9qfnm"
+      },
+      "artists": [
+        {
+          "name": "Gabb.",
+          "url": "https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG"
+        },
+        {
+          "name": "\u00d8NEMOR3",
+          "url": "https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113235,
+      "name": "Secret city",
+      "url": "https://open.spotify.com/track/0dQHScpc0vaNXFjAw0eVFm"
+    },
+    {
+      "album": {
         "name": "4 Am. Study Session",
         "url": "https://open.spotify.com/album/4glDpuXbaJl6SdpQGPKap4"
       },
@@ -17340,6 +17522,28 @@
       "duration_ms": 80666,
       "name": "She Share Story",
       "url": "https://open.spotify.com/track/52R7RgCUe091WWS1RUaElC"
+    },
+    {
+      "album": {
+        "name": "Primo Quarto",
+        "url": "https://open.spotify.com/album/6m7h8tyIhHzg6gNTa84pzH"
+      },
+      "artists": [
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        },
+        {
+          "name": "Yawuh",
+          "url": "https://open.spotify.com/artist/5dFzAFmO3MGNTFcAApR6UR"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138986,
+      "name": "She's Lonely",
+      "url": "https://open.spotify.com/track/0iZKLKVsYK4PDXJrZjRukx"
     },
     {
       "album": {
@@ -18580,6 +18784,24 @@
       "duration_ms": 122790,
       "name": "Sorry, I Like You",
       "url": "https://open.spotify.com/track/34MqDD3411uJQvXsqpZv3D"
+    },
+    {
+      "album": {
+        "name": "Soul Catcher",
+        "url": "https://open.spotify.com/album/1206V1nhWXjh2Yo6Pf6mX2"
+      },
+      "artists": [
+        {
+          "name": "Peace Attack",
+          "url": "https://open.spotify.com/artist/7HE5Ri9gkbRRQtRpmySeB5"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Soul Catcher",
+      "url": "https://open.spotify.com/track/23XhTl9iJI84CqNBp5gxYh"
     },
     {
       "album": {
@@ -19930,7 +20152,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 120972,
       "name": "Sunsettle",
       "url": "https://open.spotify.com/track/1VxSZywAairU30ARCgKh7z"
@@ -20196,6 +20418,28 @@
       "duration_ms": 100909,
       "name": "Talk Is Overrated",
       "url": "https://open.spotify.com/track/3CqbXr68uwPZBObwLlDv6O"
+    },
+    {
+      "album": {
+        "name": "Tarde Invernal",
+        "url": "https://open.spotify.com/album/6dA8kioLgf0NRxEnrSLhWb"
+      },
+      "artists": [
+        {
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
+        },
+        {
+          "name": "Fourth Dogma",
+          "url": "https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142004,
+      "name": "Tarde Invernal",
+      "url": "https://open.spotify.com/track/4son9tHQEmD5NK9JNGdtlf"
     },
     {
       "album": {
@@ -21208,7 +21452,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 95379,
       "name": "Traveling",
       "url": "https://open.spotify.com/track/5yeJjrvofPTROBJLYAxOAP"
@@ -21792,6 +22036,28 @@
       "duration_ms": 172307,
       "name": "Until Morning Comes",
       "url": "https://open.spotify.com/track/13vIPV9gmRakQ0yJk5S81g"
+    },
+    {
+      "album": {
+        "name": "until then",
+        "url": "https://open.spotify.com/album/41lr8HAIb8PvAKDeNHtCtS"
+      },
+      "artists": [
+        {
+          "name": "pete castle",
+          "url": "https://open.spotify.com/artist/30iN8zR9kklIfdH9dL8qOn"
+        },
+        {
+          "name": "AC",
+          "url": "https://open.spotify.com/artist/57wYqpfSos9R8uxfvfkMAG"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126545,
+      "name": "until then",
+      "url": "https://open.spotify.com/track/2xOMzF4DTGusVliCp5xzkK"
     },
     {
       "album": {
@@ -22768,6 +23034,24 @@
       "duration_ms": 104615,
       "name": "when it rains",
       "url": "https://open.spotify.com/track/1votJHjp3uX30QLSGYFOkn"
+    },
+    {
+      "album": {
+        "name": "when the leaves",
+        "url": "https://open.spotify.com/album/6dtMISjjExmxOq1mqcY3X6"
+      },
+      "artists": [
+        {
+          "name": "azayaka",
+          "url": "https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123333,
+      "name": "when the leaves",
+      "url": "https://open.spotify.com/track/627rDXLovcxPJRbarsYQxP"
     },
     {
       "album": {

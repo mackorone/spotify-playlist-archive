@@ -4,7 +4,7 @@
 
 > all cruise, no breaks
 
-157 songs - 9 hr 51 min
+158 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Escape From LA](https://open.spotify.com/track/1sOW4PuG5X3Ie3EXUhAopJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 5:55 | 2023-01-03 | 2023-09-06 |
 | [Exchange](https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:14 | 2023-09-05 |  |
 | [Eyes Without a Face](https://open.spotify.com/track/04YObtYkElo3sNcr9hUe1w) | [Marsheaux](https://open.spotify.com/artist/71kSWeYFioviuty6e3aj5k) | [E\-Bay Queen Is Dead](https://open.spotify.com/album/78xdXx85GxYUezK9kGO3yd) | 4:46 | 2022-05-05 | 2023-09-06 |
-| [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 | 2023-09-05 |  |
+| [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 | 2023-09-05 | 2025-10-25 |
 | [FEEDBACK](https://open.spotify.com/track/1e4cfNsYbGeMmsgl6VlFTK) | [Boy Deluxe](https://open.spotify.com/artist/742VMDRiRdlhMFfFn2qbpo) | [FEEDBACK](https://open.spotify.com/album/4VU4hhEVVttXYV8bJn6MJc) | 3:03 | 2025-04-04 | 2025-07-04 |
 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 | 2022-05-05 | 2023-09-06 |
 | [Figure](https://open.spotify.com/track/0VYxLT8xjoVQfYdSxNUDw9) | [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Figure](https://open.spotify.com/album/3LSP2OcYGw6HQ8uRoqJbP9) | 7:00 | 2022-05-05 | 2023-09-06 |
@@ -91,6 +91,7 @@
 | [lucid dreaming](https://open.spotify.com/track/5FtbSnllpWLkoDYYzl2Biw) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [lucid dreaming](https://open.spotify.com/album/28b8F7dZus7smK4RW67Heb) | 2:48 | 2025-08-08 | 2025-08-18 |
 | [MIA](https://open.spotify.com/track/435hrvKro7Lgs60sxE1Ps5) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [MIA](https://open.spotify.com/album/3TTs73XPopNMV7Sw7OWIGi) | 2:45 | 2024-05-31 | 2024-08-21 |
 | [Mile High \(feat\. Travis Scott & Metro Boomin\)](https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:13 | 2023-09-05 |  |
+| [MONSTRUO](https://open.spotify.com/track/2ToF4unFUMMKGfu7KYhy1j) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MONSTRUO](https://open.spotify.com/album/1zCc2EaQzif2IzspBCpwuG) | 3:33 | 2025-10-24 |  |
 | [Moving On](https://open.spotify.com/track/3Jl6WHQ5cXbSM1yZXay6XN) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Roosevelt](https://open.spotify.com/album/21h3nv4SJgMi9SQaFiFUFX) | 4:43 | 2022-05-05 | 2023-09-06 |
 | [Mr\. Rager](https://open.spotify.com/track/2ncLdwTd8qzkxiJjlbiOgC) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/0InO6eGRL47KErEYEoc2rP) | 4:54 | 2023-09-05 |  |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2023-09-05 |  |

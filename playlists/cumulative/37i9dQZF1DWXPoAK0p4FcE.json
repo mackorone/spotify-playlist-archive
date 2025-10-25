@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Moving and Cut",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Dept",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -408,6 +408,24 @@
       "duration_ms": 278000,
       "name": "Turning Back",
       "url": "https://open.spotify.com/track/1LZRt5SEfIxhxrZA6iqgb1"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e43\u0e2b\u0e49\u0e01\u0e2d\u0e14 (deserved)",
+        "url": "https://open.spotify.com/album/4bmOGGTtXBr5Iw4aeqKNNP"
+      },
+      "artists": [
+        {
+          "name": "Newery",
+          "url": "https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301578,
+      "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e43\u0e2b\u0e49\u0e01\u0e2d\u0e14 (deserved)",
+      "url": "https://open.spotify.com/track/306CSpkvZDDv5S4sqSDAn7"
     },
     {
       "album": {
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 261492,
       "name": "\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33",
       "url": "https://open.spotify.com/track/7D8eiRaPyZjdn32F6y9Zo3"
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 223625,
       "name": "\u0e22\u0e31\u0e07\u0e14\u0e35 (You)",
       "url": "https://open.spotify.com/track/0oZh9OKGPeyDPVzh1eJNaK"
@@ -1518,6 +1536,24 @@
       "duration_ms": 176000,
       "name": "\u0e22\u0e31\u0e07\u0e21\u0e35 | Better Next Day",
       "url": "https://open.spotify.com/track/6vzHVDu4OtkvXcGar8mDM2"
+    },
+    {
+      "album": {
+        "name": "\u0e22\u0e31\u0e07\u0e21\u0e35\u0e2b\u0e19\u0e49\u0e32\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32? (How Dare You?)",
+        "url": "https://open.spotify.com/album/5V9mD5CxFt0eWroOlYdWjM"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257500,
+      "name": "\u0e22\u0e31\u0e07\u0e21\u0e35\u0e2b\u0e19\u0e49\u0e32\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32? (How Dare You?)",
+      "url": "https://open.spotify.com/track/5GFhuaQZgF240TDr6VMfKZ"
     },
     {
       "album": {
@@ -1626,6 +1662,24 @@
       "duration_ms": 308531,
       "name": "\u0e25\u0e21\u0e23\u0e49\u0e2d\u0e19 (Blow Away)",
       "url": "https://open.spotify.com/track/0gMdJ0kK9vnG1ZL6AYe8SF"
+    },
+    {
+      "album": {
+        "name": "\u0e25\u0e30\u0e40\u0e21\u0e2d\u0e14\u0e32\u0e27 (Starry Night)",
+        "url": "https://open.spotify.com/album/2zG73XChEkI2PaoQnIrxdr"
+      },
+      "artists": [
+        {
+          "name": "SHERRY",
+          "url": "https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225440,
+      "name": "\u0e25\u0e30\u0e40\u0e21\u0e2d\u0e14\u0e32\u0e27 (Starry Night)",
+      "url": "https://open.spotify.com/track/6JpF08HpTe7I5IYH5nx7Rl"
     },
     {
       "album": {
@@ -1752,6 +1806,24 @@
       "duration_ms": 300972,
       "name": "\u0e2a\u0e32\u0e22\u0e23\u0e38\u0e49\u0e07\u0e2b\u0e25\u0e31\u0e07\u0e1d\u0e19\u0e42\u0e1b\u0e23\u0e22",
       "url": "https://open.spotify.com/track/6IAnRK7K3c6SZetYS7R3wY"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e34\u0e48\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 (I Wish Every Night)",
+        "url": "https://open.spotify.com/album/1MHUEhvO4u9sKKKVcUOVRy"
+      },
+      "artists": [
+        {
+          "name": "Whal & Dolph",
+          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239481,
+      "name": "\u0e2a\u0e34\u0e48\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 (I Wish Every Night)",
+      "url": "https://open.spotify.com/track/6pQp49ThiAsKwCl8OWcO4V"
     },
     {
       "album": {
@@ -1968,7 +2040,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 266024,
       "name": "\u0e40\u0e02\u0e47\u0e21",
       "url": "https://open.spotify.com/track/7jRbtDGBFgWI347793bC8i"
@@ -2336,7 +2408,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 257071,
       "name": "\u0e42\u0e25\u0e01\u0e22\u0e31\u0e07\u0e2b\u0e21\u0e38\u0e19\u0e44\u0e1b (Heart Echo)",
       "url": "https://open.spotify.com/track/09lWajRUw0LOLZCM72l7a8"

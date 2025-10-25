@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Mura Masa
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,825 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,827 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 45 | [The Way I'm Feeling](https://open.spotify.com/track/5UpvkE3KKwbjOR5cAyzeY4) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [The Way I'm Feeling](https://open.spotify.com/album/5PHXj0gL9HuEaBPMCIBpFT) | 4:17 |
 | 46 | [Kilimanjaro Sound](https://open.spotify.com/track/6vGEVjHqUW5c6nJPzb7WT4) | [Enzo Siragusa](https://open.spotify.com/artist/3tXRNjxWCFyWyJdjMwtaSX) | [Kilimanjaro Sound](https://open.spotify.com/album/06tlxlKIHJiaJRJcDiywHw) | 6:23 |
 | 47 | [Mutual Attraction](https://open.spotify.com/track/0NcXWme3XGFu34aMx0qfL0) | [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Mutual Attraction](https://open.spotify.com/album/5tdHSoNQCmuNgqoRL9Brz9) | 7:06 |
-| 48 | [Schlecker](https://open.spotify.com/track/2CxQhe3wPxwhYOtOybKDBP) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [](https://open.spotify.com/album/null) | 6:22 |
+| 48 | [Schlecker](https://open.spotify.com/track/2CxQhe3wPxwhYOtOybKDBP) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Love Is A Glitch \- EP](https://open.spotify.com/album/7rloS2RIHXo0MGmBqkeV6h) | 6:22 |
 | 49 | [Anti Conti](https://open.spotify.com/track/7mdwXG6DHKiNFMs5YucoWU) | [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Anti Conti](https://open.spotify.com/album/7n0yY5rgOZnJ6gUEEiEcF3) | 4:00 |
 | 50 | [Sort It Out](https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Clouds](https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim) | [Sort It Out](https://open.spotify.com/album/0frOHCo8ZfNdzs59oztxzK) | 4:31 |
 | 51 | [One Chance](https://open.spotify.com/track/0XnH6eXRTsSJoFQGUh0I6z) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Grace In Motion](https://open.spotify.com/album/2nwWZ9AxNZmGS1Bep29vzI) | 3:53 |

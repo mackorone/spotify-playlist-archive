@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 123509,
+  "num_followers": 123515,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAlqQALS0hGvC1SxaqJL/XS",
+  "snapshot_id": "aPlwAAAAAAABcoucG6qSdiK3FGKjzc+y",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 173693,
+      "name": "Trailerhood",
+      "url": "https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 3: DIFFTAPE",
         "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 224456,
       "name": "Ships That Don\u2019t Come In",
       "url": "https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 173693,
-      "name": "Trailerhood",
-      "url": "https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU"
     },
     {
       "added_at": null,
@@ -923,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peso in My Pocket",
-        "url": "https://open.spotify.com/album/18AunqcqOhcZYZewF5uQFQ"
+        "name": "Boomtown",
+        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 211609,
-      "name": "Oklahoma Breakdown",
-      "url": "https://open.spotify.com/track/7J1w5qpIoFFE6YA9BJC5sk"
+      "duration_ms": 221093,
+      "name": "Big Ol' Truck",
+      "url": "https://open.spotify.com/track/6eNCl3TFPlvO8n9I4CooTq"
     }
   ],
   "unique_name": "This Is Toby Keith",

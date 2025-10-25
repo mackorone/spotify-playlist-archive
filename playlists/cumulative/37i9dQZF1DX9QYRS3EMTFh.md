@@ -4,7 +4,7 @@
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Maureen
 
-697 songs - 1 day 6 hr 2 min
+697 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Clockwork \(feat\. Spice\)](https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clockwork \(feat\. Spice\)](https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8) | 2:32 | 2022-08-18 | 2023-02-17 |
 | [Closer](https://open.spotify.com/track/14KVzyw4gFhIv6r43dYHbt) | [Dj Quick](https://open.spotify.com/artist/4tjoob53d4b26AjGJ49kuF), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Closer](https://open.spotify.com/album/3A2wJyEUBdgwWAN6Bn1Xpi) | 2:52 | 2024-04-25 | 2024-07-19 |
 | [Coca\-Cola Mentos](https://open.spotify.com/track/7d5h2OAmrKHVFrvivayPzl) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Ozoror](https://open.spotify.com/album/6OPqZboiTNSYCKd3fSiSLX) | 2:35 | 2023-04-13 | 2023-09-01 |
+| [Cochoni](https://open.spotify.com/track/6HRN90IKTOLTxf7NW2Wi9U) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Queen](https://open.spotify.com/album/6dzjdYfWaGwfMZZaJXVlYJ) | 1:54 | 2025-10-23 |  |
 | [Coco Létan Zabrico](https://open.spotify.com/track/5HKdXF1Z3x4lyeRZ2krXbK) | [T\-Jy](https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta) | [Coco Létan Zabrico](https://open.spotify.com/album/1fNdxmKpbqaq0IqDjJbYmQ) | 1:40 | 2024-09-12 | 2024-12-20 |
 | [Coconut](https://open.spotify.com/track/51DwuwPiBHlxGQUixns7mh) | [Shaz](https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9), [Attachingboy](https://open.spotify.com/artist/6tB8V9mp5QW1yla5SVorpL), [Aknose](https://open.spotify.com/artist/1Lqc2Oqyciyq6uvTSNHlwg) | [Coconut](https://open.spotify.com/album/7L1PQoKOx0h63gY1yeL3Bp) | 2:16 | 2025-08-14 | 2025-10-03 |
 | [Code 97](https://open.spotify.com/track/756ErmT4AiOj7uQjFna3r6) | [Dj Quick](https://open.spotify.com/artist/4tjoob53d4b26AjGJ49kuF), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [CODE 97, Vol\. 1](https://open.spotify.com/album/5F7gMyMowj4xlt1cYvAJEf) | 2:48 | 2024-05-16 | 2024-11-08 |
@@ -205,6 +206,7 @@
 | [Ek c tou](https://open.spotify.com/track/6Ufsa246KudOlxKXRM2PgG) | [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s), [Shaydee's](https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5) | [Ek c tou](https://open.spotify.com/album/5lT2p0esBtqL6rtKnsg6uC) | 2:14 | 2022-11-24 | 2023-09-15 |
 | [Elle](https://open.spotify.com/track/3RHJUXBNxOHdfOG9xYSTt1) | [K\-Rosif](https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV) | [Elle](https://open.spotify.com/album/06ZzrqTvbYZhNQdPDvTaVp) | 2:26 | 2025-02-13 | 2025-03-07 |
 | [Elles veulent twerker !](https://open.spotify.com/track/40lonv25VaTFHGrY9AvmWT) | [DJ Mike One](https://open.spotify.com/artist/6iRCChjWCj187y6iBQVwhd), [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s), [T\-Matt](https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm) | [Elles veulent twerker !](https://open.spotify.com/album/7zVzecXPNXSm41yz0PT6tg) | 1:56 | 2025-02-06 | 2025-02-21 |
+| [Emoji Pêche](https://open.spotify.com/track/258OblSwifjdaXY6Br7vak) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Queen](https://open.spotify.com/album/6dzjdYfWaGwfMZZaJXVlYJ) | 2:18 | 2025-10-23 |  |
 | [En Balade](https://open.spotify.com/track/4B4RGlB0MZvMEC5I6NIHZ1) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [En Balade](https://open.spotify.com/album/6zt3ldUNs5rNg5LEm3glCd) | 3:31 | 2024-05-23 | 2025-02-21 |
 | [Endless Vibes](https://open.spotify.com/track/0s8EUdOerqXJZ4LgNcYA9O) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Endless Vibes](https://open.spotify.com/album/43PIeAeRBVzA8iE0MM7PJj) | 2:27 | 2024-07-25 | 2024-08-23 |
 | [Enticin](https://open.spotify.com/track/6qZKouYXciYShBNLXDrV8z) | [Albeezy](https://open.spotify.com/artist/09ESepNWzmarRA7RZO2SEs) | [Enticin](https://open.spotify.com/album/40V00ljeQ86zOvuzU2lDFk) | 3:16 | 2022-02-17 | 2022-06-03 |
@@ -643,8 +645,6 @@
 | [Tous Les Ken](https://open.spotify.com/track/1u3w1tpTUY108bIC4rLDvE) | [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa), [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s) | [Tous Les Ken](https://open.spotify.com/album/2PMQ5myw3W0f5lRA5aZDDK) | 2:41 | 2023-12-08 | 2024-01-05 |
 | [Tout Koté](https://open.spotify.com/track/5DLNMwPxp2kpgzT6RMyDLe) | [Cocotteland](https://open.spotify.com/artist/16KiWnLK09KYEBwztGTMF7), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5), [MJTX](https://open.spotify.com/artist/5oYrabnj98r8zzsTsD5PbP) | [Tout Koté](https://open.spotify.com/album/1h8jKCAibB11m46mbcFPCN) | 2:06 | 2025-08-28 | 2025-09-25 |
 | [Toxic](https://open.spotify.com/track/6ZSXbBz7FeFzxTKYCa18Rq) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Baby project](https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO) | 2:35 | 2023-06-08 | 2024-05-17 |
-| [Track 2](https://open.spotify.com/track/258OblSwifjdaXY6Br7vak) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
-| [Track 5](https://open.spotify.com/track/6HRN90IKTOLTxf7NW2Wi9U) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [Tremor](https://open.spotify.com/track/3PXtntjqL9xJxtW270fDQX) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Tremor](https://open.spotify.com/album/3rD9fNOvN2Pi90kgBnDPfU) | 2:06 | 2023-02-23 | 2023-05-26 |
 | [Tropics](https://open.spotify.com/track/4a2RUg8Jwp3bLl5eh7ZYJ0) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [P Skinna](https://open.spotify.com/artist/2vGSsUbRGtgfwCvGyJCJSV), [Liondub](https://open.spotify.com/artist/7HuGtUW71ocVHeaeasyFlB) | [Tropics](https://open.spotify.com/album/0Gi5mHgVkU5YKS48OMkriL) | 2:57 | 2022-01-06 | 2022-04-29 |
 | [Trouble](https://open.spotify.com/track/0V1QS3ISdTKr2zIashgVcO) | [Chinese Man](https://open.spotify.com/artist/6vgw0jwJkUnW2NR1rzsQU3), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Trouble](https://open.spotify.com/album/6wtD4C6KoazckwXVcUNquC) | 3:02 | 2024-02-01 | 2024-03-01 |

@@ -4,7 +4,7 @@
 
 > Silky sounds for the sheets.
 
-290 songs - 16 hr 33 min
+291 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [I Just Died](https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 3:29 | 2023-02-12 |  |
 | [I Need It \(feat\. Syd & Tank\)](https://open.spotify.com/track/0cqy3SDGmrYNND6Ej2Il0q) | [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [I Need It \(feat\. Syd & Tank\)](https://open.spotify.com/album/2rsp9SfNHnsTgdtBVfNXlG) | 3:44 | 2024-04-26 | 2024-08-24 |
 | [I Need You](https://open.spotify.com/track/5G39HqNTankm28Qo3JFWU8) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [I Need You](https://open.spotify.com/album/4YDxEOAH9hQjNMTPqWHcxk) | 3:02 | 2023-09-01 | 2023-09-19 |
-| [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 | 2023-02-02 |  |
+| [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 | 2023-02-02 | 2025-10-25 |
 | [In the Chair](https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:17 | 2025-07-13 |  |
 | [Invisible](https://open.spotify.com/track/1Ub3KfqVC03ePKa1Zr0BEr) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Invisible](https://open.spotify.com/album/7GX5Uk4qudzPAyKjsE20OG) | 3:48 | 2022-03-25 | 2022-10-01 |
 | [Invisible](https://open.spotify.com/track/2ialELOk7yrM8Nfo87sifD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Invisible](https://open.spotify.com/album/6d4uU5wOssH9hunnIOfbQZ) | 3:48 | 2021-08-13 | 2022-05-29 |
@@ -215,6 +215,7 @@
 | [Résumé](https://open.spotify.com/track/2K2kujL7erU8ItCd2Tv5lh) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 3:00 | 2022-03-25 | 2022-10-04 |
 | [SAME MISTAKE](https://open.spotify.com/track/2WFPw4XpswToe0t3MhzhCN) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 2:58 | 2025-02-14 |  |
 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 | 2022-10-03 |  |
+| [SAY IT](https://open.spotify.com/track/5U5UR88UmzOHBckl4wYAyT) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [HYDRAULIC](https://open.spotify.com/album/752bBMIsnk3VdV6ANDZTWd) | 2:52 | 2025-10-24 |  |
 | [Say It Again](https://open.spotify.com/track/5yamjs92dcayRVlNuY116G) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 2:52 | 2022-10-03 | 2023-02-04 |
 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 | 2023-02-03 |  |
 | [Say You Want Me \- Single Version](https://open.spotify.com/track/1xTYy3K3hiTcoZfoD7culn) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Say You Want Me](https://open.spotify.com/album/0jKDicrmgUCTSNGRYXffXm) | 3:16 | 2022-12-02 | 2025-02-15 |

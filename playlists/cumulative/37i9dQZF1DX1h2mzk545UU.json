@@ -2485,6 +2485,54 @@
     },
     {
       "album": {
+        "name": "La Bandita",
+        "url": "https://open.spotify.com/album/4RoQj979nXF7VYUxqIUd5w"
+      },
+      "artists": [
+        {
+          "name": "benjitalkapone",
+          "url": "https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4"
+        },
+        {
+          "name": "Diamante Ayala",
+          "url": "https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d"
+        },
+        {
+          "name": "Look DC",
+          "url": "https://open.spotify.com/artist/5i7omv4qeyFwx7kd4jYK9i"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "La Bandita",
+      "url": "https://open.spotify.com/track/7KtVZ3vkhcPEqTsA4Qkstd"
+    },
+    {
+      "album": {
+        "name": "La botella",
+        "url": "https://open.spotify.com/album/5txvBlFy2ssHbJK8siXapR"
+      },
+      "artists": [
+        {
+          "name": "mhtresuno",
+          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203988,
+      "name": "La botella",
+      "url": "https://open.spotify.com/track/41MTzwYKd7yqBgNmxX0yKg"
+    },
+    {
+      "album": {
         "name": "La Amante",
         "url": "https://open.spotify.com/album/5QkNCgBdG30U0yRRHOolPq"
       },
@@ -2722,7 +2770,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 177538,
       "name": "La Matraca (Remix)",
       "url": "https://open.spotify.com/track/1umDTlmpNfOjoG0EpS267S"
@@ -5100,7 +5148,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 161167,
       "name": "TENGO GANAS",
       "url": "https://open.spotify.com/track/2X3NWjkwnqCOfAS0TcUYOW"

@@ -4156,7 +4156,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 107339,
       "name": "BMW",
       "url": "https://open.spotify.com/track/0anUN5hO584TVu17CDRmLW"
@@ -5274,7 +5274,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
@@ -5778,7 +5778,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 116540,
       "name": "Chiquita",
       "url": "https://open.spotify.com/track/2ZzUhGrS7YrR9YVVxC4ZMg"
@@ -8798,7 +8798,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 146938,
       "name": "DEM BOW",
       "url": "https://open.spotify.com/track/2yKt89hsvRBp2mW8CA7OUk"
@@ -13447,6 +13447,24 @@
     },
     {
       "album": {
+        "name": "FIGHT",
+        "url": "https://open.spotify.com/album/2HA9VG3I4vYA1IvHFNJHUA"
+      },
+      "artists": [
+        {
+          "name": "Chikelu",
+          "url": "https://open.spotify.com/artist/5l4nL5X4XkYB6jzx5q0NqJ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133173,
+      "name": "FIGHT",
+      "url": "https://open.spotify.com/track/2Y0EBEl4QyJFOGGhRUZjUW"
+    },
+    {
+      "album": {
         "name": "Filling (feat. Goldy Boy)",
         "url": "https://open.spotify.com/album/68V112KSNj9gi6Y87UU5Dc"
       },
@@ -15096,7 +15114,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 132498,
       "name": "Hablamos Depues",
       "url": "https://open.spotify.com/track/6Zz5ksmtmU2zV6cppStbq7"
@@ -41078,7 +41096,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -41892,6 +41910,28 @@
       "duration_ms": 172881,
       "name": "Yo Quiero - Remix",
       "url": "https://open.spotify.com/track/311pP4jqBwK8VJRjEgkU2P"
+    },
+    {
+      "album": {
+        "name": "Yo s\u00e9",
+        "url": "https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "TORRRES",
+          "url": "https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129705,
+      "name": "Yo s\u00e9",
+      "url": "https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92"
     },
     {
       "album": {

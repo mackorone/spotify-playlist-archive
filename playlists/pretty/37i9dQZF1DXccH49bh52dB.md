@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,195 likes - 145 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,344 likes - 145 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 144 | [Here for You \(feat\. Ella Henderson\)](https://open.spotify.com/track/7vqUr6K2Js9Paq4kdNSOm6) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Here for You \(feat\. Ella Henderson\)](https://open.spotify.com/album/6HnspnDTGO0iGliX6OuCTd) | 4:04 |
 | 145 | [Stay \(feat\. Maty Noyes\)](https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:59 |
 
-Snapshot ID: `AAAAAGU2rpGoBEf1Hg0VzKl9rMJOdaQi`
+Snapshot ID: `AAAAAGHrI0JqWcJH6vfrm6g7RFJjveMP`

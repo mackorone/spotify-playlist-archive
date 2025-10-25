@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Battle Beast
 
-695 songs - 2 day 4 hr 47 min
+697 songs - 2 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,10 +96,11 @@
 | [Bulletproof](https://open.spotify.com/track/3fW5bM0HE0C6SjmATeMhOp) | [Enemy Inside](https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy) | [Seven](https://open.spotify.com/album/7BmZ8XbskH7qzoBux13TZb) | 3:42 | 2021-08-28 | 2022-04-02 |
 | [Burial](https://open.spotify.com/track/1VkhH0SytxPrHqBYWG2R7o) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Burial](https://open.spotify.com/album/6vqfy51SMG4lTk4TvXIGg8) | 6:04 | 2022-07-13 | 2022-07-29 |
 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2022-07-13 | 2022-07-30 |
-| [Call My Name](https://open.spotify.com/track/0dHrBbmoftbULEKvNawKSe) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Call My Name](https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO) | 4:21 | 2023-07-28 |  |
+| [Call My Name](https://open.spotify.com/track/0dHrBbmoftbULEKvNawKSe) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Call My Name](https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO) | 4:21 | 2023-07-28 | 2025-10-25 |
 | [Call My Name](https://open.spotify.com/track/3FkMke69v3NF3oufwhMygY) | [Sleeping Romance](https://open.spotify.com/artist/0ppFjJOvd6dhcpKktp6heM) | [Call My Name](https://open.spotify.com/album/69FOJK2zUuEdfdpLc3D7pl) | 4:27 | 2022-07-08 | 2023-04-16 |
 | [Call of the North](https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t) | 6:24 | 2022-12-16 | 2024-09-21 |
 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 | 2022-05-20 |  |
+| [Can You Hear Me](https://open.spotify.com/track/4sNfEL2D6Qgy370ajeldtJ) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf), [Asami](https://open.spotify.com/artist/5yItSTT0kJf72XXL9uG026) | [Can You Hear Me](https://open.spotify.com/album/1sPmGATnN4rdUUJyr7dLRT) | 4:10 | 2025-10-24 |  |
 | [Catalyst 2.0 \- Instrumental](https://open.spotify.com/track/4jXpPRxmokNuSFS5u3GWrM) | [IAMONE](https://open.spotify.com/artist/3fhSDZ3YSUfbYQGTzlolkx) | [Catalyst 2.0 \(Instrumental\)](https://open.spotify.com/album/2gKCHN1nWT0o6E26bqaZB0) | 5:24 | 2022-07-13 | 2022-07-28 |
 | [Celestial](https://open.spotify.com/track/6JmLarU3CA1ewRprzgqBdT) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Celestial](https://open.spotify.com/album/1pv35RTBxb3cAN3Bs3C6Q0) | 4:17 | 2022-07-13 | 2022-07-30 |
 | [Cerberus](https://open.spotify.com/track/4XXaIotNWYmoznmCyPzpzi) | [Ola Englund](https://open.spotify.com/artist/6ZwGUvmkFjPbaZLLfVWxlW) | [Master of the Universe](https://open.spotify.com/album/5HdkUk7tyuRmaK3teaPMsW) | 5:15 | 2022-07-13 | 2022-07-30 |
@@ -669,7 +670,7 @@
 | [We Come Alive](https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [We Come Alive](https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI) | 3:01 | 2024-02-05 |  |
 | [We Go To War](https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:19 | 2024-04-15 |  |
 | [We Shall Remain](https://open.spotify.com/track/4NE5lWvdpevNpziV5BUoOq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Shall Remain](https://open.spotify.com/album/2qowWVHf8S7hOkZ9utWmEG) | 4:20 | 2023-07-17 | 2025-01-13 |
-| [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 | 2025-05-02 |  |
+| [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 | 2025-05-02 | 2025-10-25 |
 | [We Stand United](https://open.spotify.com/track/36LRne9ykUjTPUAo64xGU5) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Stand United](https://open.spotify.com/album/5hcGB5bNE81iLGZM8srQka) | 4:42 | 2025-09-05 |  |
 | [We'll Be Free](https://open.spotify.com/track/4FH2bZ6mt6p8yuCaK8Eeg1) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Animus](https://open.spotify.com/album/6QqacKDn46CF147zU9AoqZ) | 4:02 | 2023-05-19 | 2024-04-19 |
 | [We'll Be Free](https://open.spotify.com/track/5eHDFd1y53Ui8i7rk6N9nx) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [We'll Be Free](https://open.spotify.com/album/5JE6mHj7OvwXBWHhN2DPIV) | 4:02 | 2022-01-14 | 2023-12-18 |
@@ -683,6 +684,7 @@
 | [Where Your Rotting Corpse Lie \(W.Y.R.C.L.\)](https://open.spotify.com/track/4FwwRLbH09s1v0vJT782mg) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Dancing in Hell](https://open.spotify.com/album/0T4ce8P9dnNoA1Nud6Krbq) | 5:55 | 2020-11-29\* | 2021-11-27 |
 | [Whiteworm](https://open.spotify.com/track/6iY9AS4wKGbUCDyxAjWICR) | [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Wall of Sound](https://open.spotify.com/album/0zLXtoeV4X9Pa70507bbFf) | 4:35 | 2022-07-13 | 2022-07-30 |
 | [Who Am I?](https://open.spotify.com/track/1LKatUdpTgcqWNfMm3XprZ) | [DAMPF](https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my) | [Who Am I?](https://open.spotify.com/album/6plpyLilJlVK607mkW5cJ3) | 3:53 | 2022-05-13 | 2023-04-15 |
+| [Wicked Game](https://open.spotify.com/track/2GSGkiNYLUL74QxQULIVU7) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Leah](https://open.spotify.com/artist/5JrVokmullzV1zq8M8iP69) | [Wicked Game](https://open.spotify.com/album/53MGY3VEcybgWzpB9aYEUP) | 4:42 | 2025-10-24 |  |
 | [Wings of Fire](https://open.spotify.com/track/6OWQLU8zkE7ph047jVwt1i) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Blood on Blood](https://open.spotify.com/album/1OLRjNNIkMhGXRsAa3VSDD) | 3:59 | 2021-10-29 | 2022-05-28 |
 | [Winter Is Coming](https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Winter Is Coming](https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN) | 4:37 | 2022-10-07 | 2025-08-20 |
 | [Winter Storm Vigilantes](https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Winter Storm Vigilantes](https://open.spotify.com/album/4JHwxd0eitIEtYQU3ffGPs) | 5:12 | 2024-06-24 | 2025-10-18 |

@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93701,
+  "num_followers": 93723,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -83,8 +83,8 @@
     {
       "added_at": "2025-10-23 22:00:31",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Vargm\u00e5ne (50 \u00e5r jubileums-utg\u00e5va)",
+        "url": "https://open.spotify.com/album/2TMY85CzleNNh8VpT7oWuT"
       },
       "artists": [
         {
@@ -92,8 +92,8 @@
           "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 12",
+      "duration_ms": 222066,
+      "name": "Stanna upp ett slag - Demo",
       "url": "https://open.spotify.com/track/3Yg0pRCZocNI0GgWLavuGF"
     },
     {
@@ -167,8 +167,8 @@
     {
       "added_at": "2025-10-23 22:00:31",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Nebraska '82: Expanded Edition",
+        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
       },
       "artists": [
         {
@@ -528,7 +528,7 @@
           "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
         }
       ],
-      "duration_ms": 270875,
+      "duration_ms": 270874,
       "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
       "url": "https://open.spotify.com/track/0BJotiVMsdxDSC7HfyitNP"
     },

@@ -4,7 +4,7 @@
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-164 songs - 9 hr 40 min
+165 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Argumento \- Spotify Singles](https://open.spotify.com/track/7mqKpp6FJBoE0jKkBfRFx2) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Argumento \- Spotify Singles](https://open.spotify.com/album/2XMNn5bkQO21DiVmwSFZ0w) | 3:23 | 2024-01-19 |  |
 | [As Rosas Não Falam](https://open.spotify.com/track/6J4gdn9L1im9uqzqBLhht6) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Cartola \(1976\)](https://open.spotify.com/album/7x7UYZtatkx5fnqBOhmx1b) | 2:53 | 2024-01-19 | 2025-01-05 |
 | [As Rosas Não Falam](https://open.spotify.com/track/0MMe6HyOCDo6GYBZZCwkyt) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:54 | 2023-04-28 | 2024-04-19 |
-| [Atraco](https://open.spotify.com/track/4P8u2XnaM64X8yKYAd5np4) | [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ), [Mari Tavares](https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR) | [Atraco](https://open.spotify.com/album/3WbHlIlEtgwCxIlCOwxOZm) | 3:25 | 2024-01-19 |  |
+| [Atraco](https://open.spotify.com/track/4P8u2XnaM64X8yKYAd5np4) | [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ), [Mari Tavares](https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR) | [Atraco](https://open.spotify.com/album/3WbHlIlEtgwCxIlCOwxOZm) | 3:25 | 2024-01-19 | 2025-10-25 |
 | [Atraco](https://open.spotify.com/track/6iSEEpOeVU0VdXdpq8O6CM) | [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ), [Mari Tavares](https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR) | [Pagode Novo](https://open.spotify.com/album/0s8D5BFXXSI6sxJuszFphf) | 3:25 | 2023-04-28 | 2024-04-19 |
 | [Até Depois do Fim](https://open.spotify.com/track/2r8pQbeeV4JBluUo1mlvoo) | [Cleverson Luiz](https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd) | [Até Depois do Fim](https://open.spotify.com/album/6NNBd6rbQFlqBbIReMBUHr) | 3:30 | 2023-08-04 |  |
 | [Balanço Zona Sul](https://open.spotify.com/track/3IcF9Ix8invTlg7kdsDfcv) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Baterista: Wilson Das Neves](https://open.spotify.com/album/7LC9GOB8XtVE5p2IVMi2oZ) | 2:14 | 2023-07-28 |  |
@@ -121,6 +121,7 @@
 | [Prova Dos Nove](https://open.spotify.com/track/5jsVbRJUzMTY8KCpPIVlg8) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 4:32 | 2023-04-28 | 2024-04-19 |
 | [Prova dos Nove](https://open.spotify.com/track/7KXjiSy1p54I0EIxW1zcwx) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/3hXXMdT2z0lunHoz5KalQY) | 4:32 | 2024-01-19 | 2024-09-28 |
 | [Pé do Meu Samba \- Ao Vivo](https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Mart'nália em Berlim \(Ao Vivo\)](https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG) | 4:16 | 2023-04-28 |  |
+| [Qualquer Lugar](https://open.spotify.com/track/0irFB9G2EDfiQQgNTpP1AG) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt) | [Passageiro do Bem \- LADO B](https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ) | 3:58 | 2025-10-24 |  |
 | [Que Pena \(Ele Já Não Gosta Mais De Mim\)](https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:34 | 2023-04-28 | 2024-04-19 |
 | [Que Pena \(Ele Já Não Gosta Mais De Mim\)](https://open.spotify.com/track/5ShyIBiFw4C1Lc4uYTnQLV) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5awK6pNdQFRLDTNV8c0Bi8) | 3:34 | 2024-01-19 |  |
 | [Retalhos De Cetim](https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp) | [Benito 80](https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i) | [Novo Samba Sempre Novo](https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf) | 3:57 | 2023-04-28 |  |

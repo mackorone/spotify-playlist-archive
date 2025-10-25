@@ -4,7 +4,7 @@
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: 盧廣仲 Crowd Lu
 
-250 songs - 16 hr 13 min
+251 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Jumping Machine \(跳楼机\)](https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [Jumping Machine \(跳楼机\)](https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM) | 3:21 | 2025-04-03 |  |
 | [Jumping Machine跳楼机 \- with Tyson Yoshi](https://open.spotify.com/track/0R3Gc2vLh5XFSWeU1r6wYY) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J), [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [Jumping Machine跳樓機 \(with Tyson Yoshi\)](https://open.spotify.com/album/1cDrpSotPL2IRtKAe4xHkO) | 3:25 | 2025-06-26 |  |
 | [Just Look Up \(From Don’t Look Up\)](https://open.spotify.com/track/3QPBocWfIcOCdFFvmqn60F) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Just Look Up \(From Don’t Look Up\)](https://open.spotify.com/album/1geA7d12ed5LXsBns7ONB4) | 3:21 | 2022-03-10 | 2023-02-03 |
+| [K歌之王 AIR \(Night Version\)](https://open.spotify.com/track/7BIviq53hh8sHIrA7kbJmh) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [K歌之王 AIR](https://open.spotify.com/album/7lux4ZGRIenxk1fKqsWXZs) | 3:39 | 2025-10-24 |  |
 | [Last One Standing \(feat\. Polo G, Mozzy & Eminem\) \- From Venom: Let There Be Carnage](https://open.spotify.com/track/5W8HXMOMLtXLz0RGKUtnlZ) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Last One Standing \(feat\. Polo G, Mozzy & Eminem\) \[From Venom: Let There Be Carnage\]](https://open.spotify.com/album/2ZaFqYD9a3U6qJhyS2LDRf) | 4:17 | 2022-03-10 | 2023-02-03 |
 | [My Dear（电视剧《难哄》重逢曲）](https://open.spotify.com/track/3Xmq8F4nfVBd0hgJWiBush) | [張洢豪](https://open.spotify.com/artist/5kzjeV6bqyVmLPQfx5kfL1) | [电视剧《难哄》影视原声带·只喜欢你Love Moments](https://open.spotify.com/album/7hcotSWQZpoxnAmA04vCOr) | 4:03 | 2025-04-03 | 2025-07-04 |
 | [my light](https://open.spotify.com/track/6Tz1omWIrOk7Ly9SOG69l3) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [my light](https://open.spotify.com/album/17VOoXeticR0qLGOoplBTz) | 3:18 | 2025-06-26 | 2025-08-15 |
@@ -150,7 +151,7 @@
 | [我天生 \- 有病版 \(電影《有病才會喜歡你》主題曲\)](https://open.spotify.com/track/7f1kAQ7fdKhUiziMDj24Um) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8), [詹懷雲](https://open.spotify.com/artist/7yixHfr6sPhfhTqZspU2UZ), [江齊](https://open.spotify.com/artist/2Ge99rYjgszVNVfvC3dPv0) | [我天生 \- 有病版](https://open.spotify.com/album/35mtqL9m3dw0A6ZBytN22q) | 4:40 | 2025-04-03 |  |
 | [我想把你手銬走](https://open.spotify.com/track/2c9Bk21JpXu5vBHbotLV5T) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [我想把你手銬走](https://open.spotify.com/album/6BMgJKLt0rzc4ykKfuEJXY) | 2:21 | 2025-04-03 | 2025-07-04 |
 | [我想要擁有你 \- Netflix影集《影后》插曲](https://open.spotify.com/track/3Xkh1A1o9ecexZDpspT9Va) | [小男孩樂團](https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5) | [我想要擁有你 \(Netflix影集《影后》插曲\)](https://open.spotify.com/album/5GIQZuQ2trxmbwPk0I1I1O) | 3:42 | 2025-04-03 | 2025-07-04 |
-| [我是真的相信過愛情](https://open.spotify.com/track/1jzf9hHC4ADMmQMWvKdhbg) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [我是真的相信過愛情](https://open.spotify.com/album/7cpBnzeIAjRomRz6QFpUbK) | 4:41 | 2025-04-03 |  |
+| [我是真的相信過愛情](https://open.spotify.com/track/1jzf9hHC4ADMmQMWvKdhbg) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [我是真的相信過愛情](https://open.spotify.com/album/7cpBnzeIAjRomRz6QFpUbK) | 4:41 | 2025-04-03 |  |
 | [我爱你但是我要回家](https://open.spotify.com/track/1zLpybgzhdG6KzgG9sRAwE) | [ET](https://open.spotify.com/artist/6L8uYIuAWEDljh6LxP5jMm), [Happer](https://open.spotify.com/artist/6Ljp6ps4Nt9w0WJA8jSTdc), [无面小生](https://open.spotify.com/artist/2Yftm8We3xQFKhndUtuXUr), [口古口古](https://open.spotify.com/artist/6XRGKV1jyYJ5wTJ5S7hxeh) | [我爱你但是我要回家](https://open.spotify.com/album/6MqJXDfjN3dpfS2hH5FeKF) | 3:14 | 2025-04-03 | 2025-08-15 |
 | [我看好的](https://open.spotify.com/track/5NPlmy6TQMNCwg4nPCDslh) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [我看好的](https://open.spotify.com/album/2FoEyVTB7TVO144Ig6cKAN) | 3:13 | 2025-05-29 |  |
 | [房間裡的大象](https://open.spotify.com/track/21Q7rYAfVkzW5ryhL6uQSz) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [有且](https://open.spotify.com/album/5KvOMc2has9jVkEl1n8QEf) | 4:26 | 2025-10-23 |  |

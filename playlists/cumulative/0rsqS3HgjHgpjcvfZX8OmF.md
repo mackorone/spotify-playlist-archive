@@ -2,9 +2,9 @@
 
 ### [New Rock Music](https://open.spotify.com/playlist/0rsqS3HgjHgpjcvfZX8OmF)
 
-> The best and latest rock and alternative\. Cover:  Sloan
+> The best and latest rock and alternative\. Cover:  The Trews
 
-300 songs - 17 hr 57 min
+303 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Call Me \(Whatever You Like\)](https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:00 | 2024-11-01 |  |
 | [can't slow down](https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [can't slow down](https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK) | 2:55 | 2024-06-01 |  |
 | [Capitol Cooler](https://open.spotify.com/track/3pAtk7FP1Pdk5pjIEvxkzb) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Based On The Best Seller](https://open.spotify.com/album/47DFJ8O9XhCz4hW0VO4ki8) | 3:13 | 2025-09-26 |  |
+| [Carolina](https://open.spotify.com/track/7cPCfnrAPQmk7wO64Alyln) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [The Bloody Light](https://open.spotify.com/album/4XT1WOAuGiooNwTWJIPNlv) | 4:32 | 2025-10-24 |  |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-11-03 | 2024-07-20 |
 | [Chewing Gum](https://open.spotify.com/track/1rJ19XvEgTpqwfOUdtJiSg) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Chewing Gum](https://open.spotify.com/album/3iTZBjVml1b3KzqzGa1Chg) | 3:20 | 2024-09-03 | 2024-09-28 |
 | [Chicago](https://open.spotify.com/track/2JqP0JgJ4tNzdoKSWln7oe) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Chicago](https://open.spotify.com/album/4jsJCJT16oUMgM9nHlmJQ1) | 3:58 | 2024-07-19 | 2025-01-20 |
@@ -80,6 +81,7 @@
 | [Dial Drunk](https://open.spotify.com/track/28iuT1dYxVCazkNrFoSahf) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/3aaVxygUPKEQMIpXPgAUrJ) | 3:33 | 2023-11-03 | 2024-02-03 |
 | [Dilemma](https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dilemma](https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk) | 3:18 | 2024-04-26 |  |
 | [do you think it was the last time?](https://open.spotify.com/track/0htfRkYdvFdjhZOz3YCp1A) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [do you think it was the last time?](https://open.spotify.com/album/5GF1z8ApTTX7CgBk9Q31O4) | 2:41 | 2023-11-03 | 2024-03-23 |
+| [Dog With A Gun](https://open.spotify.com/track/6UXxbsBlfREafW9nLMVmLM) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [The Rest Of The Story](https://open.spotify.com/album/7temZ6v1c69UOhyXHq6vOp) | 2:58 | 2025-10-24 |  |
 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-04-26 | 2024-11-02 |
 | [Dragon](https://open.spotify.com/track/52qhXwLTCCCkwUTlQYxNRR) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Dragon](https://open.spotify.com/album/4MUC8QXONbx7lkgp6MO3f5) | 9:44 | 2023-11-03 | 2024-05-18 |
 | [Dreams](https://open.spotify.com/track/7azQ8ywcwrdupUojmscy2o) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Dreams](https://open.spotify.com/album/3yI9NW1y3Fy6RnGtxnKOCo) | 3:34 | 2023-11-03 | 2023-11-25 |
@@ -172,6 +174,7 @@
 | [Never Fucked Up Once](https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 2:20 | 2023-11-03 | 2024-05-18 |
 | [Never Grow Up](https://open.spotify.com/track/6YmK7q2PqWk6Ekvb1liUuw) | [Said The Whale](https://open.spotify.com/artist/0QTnH6UEP2jbZEVO6g6Vfe) | [Never Grow Up](https://open.spotify.com/album/6Wfhrq49C4QfykFRRC9Oxe) | 3:03 | 2023-11-03 | 2024-01-27 |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-05-24 | 2024-06-29 |
+| [no cell phones in rehab](https://open.spotify.com/track/5pxTM2hj4HFV8q8YduAAR9) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [no cell phones in rehab](https://open.spotify.com/album/1beGhAPo6Me2t9BweRd49e) | 2:35 | 2025-10-24 |  |
 | [No Fruit](https://open.spotify.com/track/2xtE6zoQd7KIqClg7gBZOm) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Scratch It](https://open.spotify.com/album/3d8kBVaqQJoVsyko5bj0La) | 2:33 | 2025-06-20 |  |
 | [Nobody's Soldier](https://open.spotify.com/track/3rnAobCeh4uD1NfNpbNc2e) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3nXgYu1LTKBflY7ES8WEdo) | 3:57 | 2024-10-25 |  |
 | [Nod](https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nod](https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk) | 3:02 | 2025-01-24 |  |

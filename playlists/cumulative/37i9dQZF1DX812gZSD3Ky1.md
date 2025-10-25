@@ -2,7 +2,7 @@
 
 ### [Viral Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DX812gZSD3Ky1)
 
-> เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: Taylor Swift
+> เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: JISOO, ZAYN
 
 831 songs - 1 day 21 hr 4 min
 

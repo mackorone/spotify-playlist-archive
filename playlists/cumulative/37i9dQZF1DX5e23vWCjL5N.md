@@ -4,7 +4,7 @@
 
 > Punchline, storytelling, rap italiano\. Cover: Ele A
 
-314 songs - 16 hr 10 min
+316 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Angelina Jolie](https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Angelina Jolie](https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR) | 2:49 | 2022-04-15 | 2023-11-03 |
 | [ANTHEM](https://open.spotify.com/track/5RvYbjPoLlvFw60ZrSufCi) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 2:18 | 2023-11-02 | 2025-04-11 |
 | [Atlantide](https://open.spotify.com/track/1mP024sin4qRJS0C0VW7GX) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 3:04 | 2025-10-09 |  |
+| [Autoritratto](https://open.spotify.com/track/2WWzG3tZPmUQXCGHTblSku) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [La bella confusione](https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO) | 3:20 | 2025-10-24 |  |
 | [Baci À La Giapponese](https://open.spotify.com/track/2ByN1RkHhO3c9w0bD7qNW5) | [Lanz Khan](https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [Jack Di Quadri](https://open.spotify.com/album/7jRRQXVP5skHkGz9Z5hGkQ) | 2:59 | 2025-06-19 | 2025-08-01 |
 | [Bagagli \(Improvvisazione\)](https://open.spotify.com/track/0VbPsWeQgpyDw5sQNGkUVL) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 3:15 | 2023-06-01 | 2023-09-15 |
 | [Baggy](https://open.spotify.com/track/0xeJ32ajq1qEqHPqfv5InP) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [60 Hz II](https://open.spotify.com/album/5dizu3zJPc4fhPMjarEhIM) | 2:50 | 2025-06-26 |  |
@@ -292,6 +293,7 @@
 | [STORIA DI UN ARTISTA](https://open.spotify.com/track/74diHfmz6H9IrW5lOuzVtx) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [STORIA DI UN ARTISTA](https://open.spotify.com/album/6R39mixnnBezeTM7O2wxwe) | 3:14 | 2025-10-09 |  |
 | [Straniero \(feat\. Tedua\)](https://open.spotify.com/track/4nKyIs9RnHzRJSyM5x7BEU) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 2:56 | 2023-11-30 |  |
 | [Studiami](https://open.spotify.com/track/0xHd3TXS07MbfBFcfbwY0E) | [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa) | [Studiami](https://open.spotify.com/album/6t77lHYHboixVNrdEhx888) | 2:13 | 2023-05-04 | 2023-06-02 |
+| [Superstite](https://open.spotify.com/track/5WfBKsWx0hxCEsviZ5QVqk) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [La bella confusione](https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO) | 3:33 | 2025-10-24 |  |
 | [Tagli come Sorrisi](https://open.spotify.com/track/7JqVRBuz30XoBlmg1eY8SI) | [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Brava Gente](https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T) | [BRAVA GENTE](https://open.spotify.com/album/3LnhSMgyYiJ1P6fDeWXx6g) | 2:37 | 2023-06-01 | 2023-11-03 |
 | [Tanti Soldi \(feat\. Geolier\)](https://open.spotify.com/track/0omPQQDtT8c1UZ5n7cVNFS) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 3:33 | 2023-11-30 | 2024-01-12 |
 | [Top \(feat\. MadMan\)](https://open.spotify.com/track/2aH4Ec7vu87IeXFrtjtR17) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:11 | 2022-05-12 | 2023-12-01 |

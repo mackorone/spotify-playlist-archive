@@ -4,7 +4,7 @@
 
 > R&B and good vibe tracks for your current mood\. Cover: Aziz Hedra, Julia Wu
 
-1,429 songs - 3 day 4 hr 18 min
+1,430 songs - 3 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Fly Me To the Moon](https://open.spotify.com/track/5fDiwNZaDZWuSFEKTk7awb) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Wayne Bergeron](https://open.spotify.com/artist/2aHjcPkNOKNQabDdcJcdx9) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 2:30 | 2022-09-22 | 2022-10-08 |
 | [Focus on you](https://open.spotify.com/track/7arxVyOAqJPWI3PLaVzWkr) | [Jetter](https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M) | [Focus on you](https://open.spotify.com/album/3NPku2cEVb276XVWOs1OZo) | 3:12 | 2024-07-11 | 2024-10-04 |
 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-06-12 | 2025-10-17 |
+| [Folded \(Remix\) \[feat\. Brandy\]](https://open.spotify.com/track/4Mn0tbmlOsYFSWoo4rJbnI) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Folded Homage Pack](https://open.spotify.com/album/0ERSLETUQi9BIfH0evmmjm) | 4:19 | 2025-10-23 |  |
 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 | 2022-09-01 | 2024-02-09 |
 | [Fool 4 U](https://open.spotify.com/track/5D3q7yfCXqfCdICMBdVooM) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y5](https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB) | 2:59 | 2023-11-29 | 2024-01-05 |
 | [fool me twice](https://open.spotify.com/track/2pTiZDWLDQjucMaCqiJnTW) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [fool's gold](https://open.spotify.com/album/3h3J8rBM1fJmZasYyT9U2U) | 3:02 | 2025-05-22 | 2025-09-26 |
@@ -819,7 +820,7 @@
 | [My Love Will Remain](https://open.spotify.com/track/0xrn8inTNkXR8FGo6Z8OZY) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [My Love Will Remain](https://open.spotify.com/album/6i7JBA0K2QfeztrB7grOkt) | 3:52 | 2025-08-14 |  |
 | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ) | 2:32 | 2023-02-09 | 2024-01-05 |
 | [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 | 2024-06-06 | 2024-08-09 |
-| [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [](https://open.spotify.com/album/null) | 2:45 | 2025-10-23 |  |
+| [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 | 2025-10-23 |  |
 | [My only one \(feat\. yedira\)](https://open.spotify.com/track/1onBBb2OChizgSNKG79PcQ) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [My only one](https://open.spotify.com/album/64K4uBvhovyObizFJiqZpO) | 2:52 | 2024-07-11 | 2024-12-05 |
 | [My Soles Worn Out](https://open.spotify.com/track/6gMGYMp9S0sjNoCoFy3nsJ) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [My Soles Worn Out](https://open.spotify.com/album/3LC5izvPoH4ZpQo2K05u6r) | 3:27 | 2023-06-15 | 2023-06-23 |
 | [My World](https://open.spotify.com/track/4Jc7Ijwrk9vpQza9wy5eKR) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [HAVEN](https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC) | 3:34 | 2025-02-13 | 2025-06-07 |
@@ -1016,7 +1017,7 @@
 | [Romantica](https://open.spotify.com/track/39eZLeY7b5nYt76MivVP6M) | [Silly Silky](https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s) | [Début](https://open.spotify.com/album/6Zwn86SLvGk3cy4ic6rb0v) | 3:14 | 2024-11-28 | 2024-12-05 |
 | [romeo n juliet \(feat\. youra\)](https://open.spotify.com/track/0R4SiuGcwqpmsE9a7rm9ws) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [gimbap](https://open.spotify.com/album/2LPagny0OzjqFRiktjAfOp) | 3:21 | 2024-08-22 | 2024-08-30 |
 | [room 1: OTF](https://open.spotify.com/track/1I2UpNMJwCSLTnBavTwnrx) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [room 1: OTF](https://open.spotify.com/album/2EyFBidiMq8N7gA5fGSory) | 2:22 | 2025-09-18 |  |
-| [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [](https://open.spotify.com/album/null) | 4:25 | 2025-10-23 |  |
+| [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 | 2025-10-23 |  |
 | [Rose](https://open.spotify.com/track/2OOMy8bcLiVOquyAM8ONeb) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Rose](https://open.spotify.com/album/1RTmX2eJgfdBSEErVW0Jfm) | 2:37 | 2023-05-11 | 2023-06-09 |
 | [Roses](https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:48 | 2024-08-15 | 2024-11-08 |
 | [Round & Round](https://open.spotify.com/track/1nGzJFZ5nmG4zS7s8s0CuG) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Round & Round](https://open.spotify.com/album/4E9ZtOGnrNEjiVEPcepMBU) | 3:16 | 2023-03-09 | 2024-02-02 |
@@ -1179,6 +1180,7 @@
 | [Surf On \(Prod\. 2LSON\)](https://open.spotify.com/track/1OFnjepHEkLCH3S3Tpwzc4) | [COLESLAW](https://open.spotify.com/artist/3CKrhOBZ8cqULrPBwPwWIs) | [Surf On \(Prod\. 2LSON\)](https://open.spotify.com/album/5V3bSXd6v6uayhy73cYHW1) | 3:38 | 2022-07-14 | 2022-07-22 |
 | [Surprise](https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Surprise](https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb) | 2:35 | 2022-06-16 | 2022-07-22 |
 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 | 2023-10-19 | 2023-10-28 |
+| [swan song](https://open.spotify.com/track/5E9GFYeMdd6asHesvMflaT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [the blueprint](https://open.spotify.com/album/6rnEVluW1Z5CFiC3hDVDtV) | 3:25 | 2025-10-23 |  |
 | [Sway](https://open.spotify.com/track/72jcArK2XacBC3coCyqD53) | [tylo](https://open.spotify.com/artist/0vOXId0a8VxdS7AiUoSQwI), [Pseudo](https://open.spotify.com/artist/4HqIcgpeGKabzBYczmfFgZ) | [Sway](https://open.spotify.com/album/0Em41Gp1puLBGiVXh0BmxZ) | 3:14 | 2024-05-30 | 2024-08-09 |
 | [Sweet](https://open.spotify.com/track/7qiPEIyiABDUK2WAez5GC4) | [Abe Hoed](https://open.spotify.com/artist/3FGtrvyMWYYnEyCtityD8y) | [Sweet](https://open.spotify.com/album/3pcG25f5YmhBzQRCi7EuSS) | 3:09 | 2024-08-22 | 2024-08-30 |
 | [Sweet](https://open.spotify.com/track/5FAUwmHyCfhB04I4hhc7DV) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Sweet](https://open.spotify.com/album/4rjYcvl3RNOvcEXGWkmZGX) | 3:04 | 2023-02-23 | 2023-03-18 |
@@ -1280,7 +1282,6 @@
 | [Top Bop](https://open.spotify.com/track/2MYQdWKJS2OFWDYcsTKhvo) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Top Bop](https://open.spotify.com/album/1AlFUvBhjG8jF3SR3dDOg0) | 2:31 | 2023-04-27 | 2023-10-06 |
 | [Tough Love \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Good Morning Gorgeous \(Deluxe\)](https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6) | 4:33 | 2022-06-08 | 2022-06-10 |
 | [Toxic Games](https://open.spotify.com/track/3QQYtCycRomIXlzeCQo6rj) | [fredrik s](https://open.spotify.com/artist/16UPHme5BmhuhoQpeTGGGr) | [Toxic Games](https://open.spotify.com/album/6lHCGQUi4ygqAUH0GHjJhL) | 3:09 | 2024-11-14 | 2024-12-05 |
-| [Track 10](https://open.spotify.com/track/5E9GFYeMdd6asHesvMflaT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [TRACKSTAR](https://open.spotify.com/track/09TpTpWbD9axd31RT7Ga5f) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [BLONDE & BLUE](https://open.spotify.com/album/28o56S8zvYByZDg6MjGN9c) | 3:12 | 2025-10-09 |  |
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-24 | 2023-09-01 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2022-06-09 | 2022-06-24 |

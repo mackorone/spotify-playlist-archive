@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,067 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,035 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 74 | [Año Nuevo, Misma Soledad \- Live](https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Año Nuevo, Misma Soledad \(Live\)](https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh) | 3:33 |
 | 75 | [No Me Puedes Faltar \(Navidad\)](https://open.spotify.com/track/3c56nqMkeVdVnIxuflEJ5a) | [Charlie Zaa](https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl) | [No Me Puedes Faltar \(Navidad\)](https://open.spotify.com/album/6W6JtAT7c9Cgg73wheBQoP) | 3:28 |
 
-Snapshot ID: `AAAAAC3oyans3J7bA0wgah7W5/vza0Mo`
+Snapshot ID: `AAAAACuVjJfGPOOyRlznGY+xLPua7V0m`

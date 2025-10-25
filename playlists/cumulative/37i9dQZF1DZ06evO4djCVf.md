@@ -4,7 +4,7 @@
 
 > This is Suzan & Freek\. The essential tracks, all in one playlist.
 
-41 songs - 2 hr 10 min
+42 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Lichtje Branden](https://open.spotify.com/track/16VFlUdJfBnF2UoMgTJIDI) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 2:52 | 2025-07-20 |  |
 | [Liefde Gegeven \- uit Liefde Voor Muziek](https://open.spotify.com/track/2G2Vl8sDYYeXKyvPStUxeI) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:31 | 2025-07-20 |  |
 | [Mag Ik Daar Even Stil Bij Staan](https://open.spotify.com/track/3BNKqoRnHFyyfktrNpJgwW) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Gedeeld Door Ons](https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ) | 3:27 | 2025-07-20 |  |
+| [Niemand](https://open.spotify.com/track/2ZodgwtywVovNUNIcKDpbD) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Niemand](https://open.spotify.com/album/0dwDG1ALroQL9nw2ieSlLZ) | 3:49 | 2025-10-25 |  |
 | [Nog Even Dit](https://open.spotify.com/track/7aESh0sw6yPw7yTNgC4gwi) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Gedeeld Door Ons](https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ) | 2:53 | 2025-07-20 |  |
 | [Nooit Meer Regen](https://open.spotify.com/track/2XsFaDEaXhsFv2ZBQ2nXn2) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 3:20 | 2025-07-20 |  |
 | [Onder De Sterren \- uit Liefde Voor Muziek](https://open.spotify.com/track/71BNUHxvGAGVQiMho8Q5hh) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:32 | 2025-07-20 |  |

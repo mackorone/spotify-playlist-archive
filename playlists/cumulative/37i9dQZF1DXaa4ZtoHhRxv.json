@@ -2703,6 +2703,32 @@
     },
     {
       "album": {
+        "name": "Lay It On Me",
+        "url": "https://open.spotify.com/album/29hAhhtAYAh8kzkWl5DqTK"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143863,
+      "name": "Lay It On Me",
+      "url": "https://open.spotify.com/track/6Eefj9syzUuCVCvv6dsFft"
+    },
+    {
+      "album": {
         "name": "Lay Your Head",
         "url": "https://open.spotify.com/album/6T4BcZtJkdRtDENmaQTWdJ"
       },
@@ -3546,6 +3572,24 @@
       "duration_ms": 190588,
       "name": "One Big Country Song - RoadHouse Remix",
       "url": "https://open.spotify.com/track/7LQ3fdrgP5ZlkpSFIYFSYq"
+    },
+    {
+      "album": {
+        "name": "One More Day",
+        "url": "https://open.spotify.com/album/2lgQYfuYdlZV4VzzJxyvk6"
+      },
+      "artists": [
+        {
+          "name": "DJ Licious",
+          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159435,
+      "name": "One More Day",
+      "url": "https://open.spotify.com/track/2EB3UgVGHsaHurRRI4YHsH"
     },
     {
       "album": {
@@ -5280,6 +5324,28 @@
       "duration_ms": 155322,
       "name": "You Got It (Ryan Riback Remix)",
       "url": "https://open.spotify.com/track/3KUtdymNzYk5yA1so29RRl"
+    },
+    {
+      "album": {
+        "name": "You Take Me Home",
+        "url": "https://open.spotify.com/album/3JM8C4XlSk1EFLrk5Z23W8"
+      },
+      "artists": [
+        {
+          "name": "MC4D",
+          "url": "https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI"
+        },
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "You Take Me Home",
+      "url": "https://open.spotify.com/track/1XtQrATtfkmMt2g9PIFV5W"
     },
     {
       "album": {

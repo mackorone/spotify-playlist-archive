@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-773 songs - 1 day 21 hr 28 min
+776 songs - 1 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Abstract Of Expression](https://open.spotify.com/track/779isqr6HQU4eGWvL8Lt59) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Fidelity](https://open.spotify.com/album/05V4gFM4ZIkotmDJxAGLl9) | 7:20 | 2025-01-11 | 2025-03-02 |
 | [After the Farmer's Wife](https://open.spotify.com/track/3IAnFuQUscnMQdCwz0HS81) | [Benny Benji](https://open.spotify.com/artist/31Fp7TWqvWz0fnyCvOEfZP) | [Hitch Your Wagon to a Star](https://open.spotify.com/album/5UpLbFxtP5aWQhIfKZlvSQ) | 1:31 | 2024-03-20 | 2024-05-16 |
 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 | 2025-06-01 | 2025-07-04 |
+| [Again & Again](https://open.spotify.com/track/3Kh7jZ6QdVJJq63A3xRneN) | [the bird and the bee](https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD) | [the bird and the bee](https://open.spotify.com/album/6a0Cjn8ctxzj67VGrk96IH) | 2:45 | 2025-10-24 |  |
 | [Against All Odds \(Take a Look at Me Now\) \- 2016 Remaster](https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:26 | 2024-03-26 | 2024-05-16 |
 | [Ain't That A Kick](https://open.spotify.com/track/5JzjcUEDpVtK6fnsoX2Pxu) | [Peter Ivers](https://open.spotify.com/artist/55tLEUlrzGNtACuMVJZHNf) | [Becoming Peter Ivers](https://open.spotify.com/album/5jhapSTmOa3IfQj4WShMpQ) | 2:25 | 2025-04-20 | 2025-05-09 |
 | [AIR BY BUS](https://open.spotify.com/track/1xiVKpE9xkNLCjQS9EttM8) | [DOOPEES](https://open.spotify.com/artist/6S7MhIZberHR1iHRE6obUf) | [DOOPEE TIME](https://open.spotify.com/album/4ZrrsbXBe0byye7R0Spx1x) | 1:30 | 2024-01-31 | 2024-03-10 |
@@ -213,6 +214,7 @@
 | [Falling Down a Dam of Mashed Potatoes](https://open.spotify.com/track/5y69U1bw1dBixUL1nViDXr) | [Lawrence](https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI) | [Childish Music](https://open.spotify.com/album/6LABtUVPmwMWuRoQ8vg1Gp) | 3:43 | 2025-06-03 | 2025-07-04 |
 | [family and friends](https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [family and friends](https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR) | 2:56 | 2024-09-18 | 2024-11-14 |
 | [Far Away Chant](https://open.spotify.com/track/4CjW0aU1a6Q8SrnGfLJWGx) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [My Life In A Hole In The Ground](https://open.spotify.com/album/39ritWVnJCxRNhyj8mRSI8) | 4:04 | 2025-02-26 | 2025-03-03 |
+| [Father Lucifer \- 2016 Remaster](https://open.spotify.com/track/22lGkc95LBywIGwK0s7duD) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Boys for Pele \(Deluxe Edition\)](https://open.spotify.com/album/7vuSTl6tuWg0CQdmfphkFQ) | 3:42 | 2025-10-24 |  |
 | [Feeling Sad Tonight](https://open.spotify.com/track/3UKhzKdWIM8vd1qWPxLRkP) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:13 | 2024-11-13 | 2025-01-12 |
 | [Feisty](https://open.spotify.com/track/5b3yINi6jbTdURfGU4nKoC) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:40 | 2025-05-23 | 2025-07-04 |
 | [First Communication](https://open.spotify.com/track/5CevbpxOgTUNsPuJUTl6RZ) | [Agitation Free](https://open.spotify.com/artist/1fvjrL59qNJVJKNQB8RUg3) | [2Nd](https://open.spotify.com/album/154vxWniqBPvABso6BPRgH) | 8:10 | 2025-02-26 | 2025-03-02 |
@@ -687,6 +689,7 @@
 | [The Thoughts Of Mary Jane](https://open.spotify.com/track/3k5C3vlDqE5rOqiikOjJ10) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 3:18 | 2025-09-10 |  |
 | [The Underground Solution](https://open.spotify.com/track/4HgK9B850KCWFDL4y6posB) | [Primitive Radio Gods](https://open.spotify.com/artist/5wTpMQz4RtF6dFX9blvMDc) | [Still Electric](https://open.spotify.com/album/53AaCjLl4lnuu0gRDaacoN) | 3:43 | 2024-11-25 | 2025-01-12 |
 | [The Water Is Wide](https://open.spotify.com/track/46wDI2wGZgW2BrO37OUD5k) | [Fred Neil](https://open.spotify.com/artist/3xmUdkZUQbtMM62XP4nnb6) | [Bleecker And McDougal \(US Release\)](https://open.spotify.com/album/0udQYUvwWS8PC6XGaVAMi0) | 4:18 | 2025-02-26 | 2025-03-02 |
+| [The Way I Feel Inside](https://open.spotify.com/track/4LxeKPgKy1l37g2vTM77Mu) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/2tJfEX4O0mNPax2wR0q0DQ) | 1:51 | 2025-10-24 |  |
 | [The Whistling Song](https://open.spotify.com/track/6hsR1xniCFGjgYLMUlf67K) | [Soft Location](https://open.spotify.com/artist/5gGzQgygoCuJtht0pWG7Uk) | [Diamonds and Gems](https://open.spotify.com/album/1a7152fg0L3fKzgjQ7upaj) | 4:31 | 2025-04-02 | 2025-05-09 |
 | [There's That Grin](https://open.spotify.com/track/2rV6guDDixTkeYco2wJSST) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Breakup Song](https://open.spotify.com/album/5JunU3flt52yhYBKhmUnM1) | 3:18 | 2024-08-01 | 2024-09-08 |
 | [There's Your Trouble](https://open.spotify.com/track/69m9WDPBvemwujQwdONslk) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:13 | 2025-09-25 |  |

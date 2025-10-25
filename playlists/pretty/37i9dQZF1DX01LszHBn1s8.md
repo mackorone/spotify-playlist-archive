@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > gonna be, gonna be 💛⭐️👑⚜️ golden ⚜️👑⭐️💛
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,847 likes - 130 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,819 likes - 130 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 129 | [Girls](https://open.spotify.com/track/3Hxv2EYJcBjiN96yJi6djY) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/30wCOCKeicLp3ErOHhkBAb) | 1:59 |
 | 130 | [Vem är jag utan dig](https://open.spotify.com/track/7AsJ01kktOQwx6Ud1281TC) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [… men det gör jag egentligen](https://open.spotify.com/album/5DUG2p0EimhnktehrSfZZR) | 3:17 |
 
-Snapshot ID: `AAAAAJV/9+2akB5fff/ulUuXjQMesx4G`
+Snapshot ID: `AAAAAK55ip8xUdJI4mkpJEc75gTcBh4D`

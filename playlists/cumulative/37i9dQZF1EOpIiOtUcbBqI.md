@@ -4,13 +4,13 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-21 songs - 7 hr 12 min
+21 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Another Day](https://open.spotify.com/track/01UPzueYKNIRn4R9l5neB5) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 2:46 | 2020-11-27 |  |
 | [BLACKPINK Talks "Kill This Love", Coachella & How They Formed](https://open.spotify.com/episode/1ykpXcPeRhmkqUVtc8mer5) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 29:00 | 2020-11-27 |  |
-| [Can't Help Falling in Lauv \(the interview\)](https://open.spotify.com/episode/7knx5NKZHw29x0DumCviNI) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 33:24 | 2020-11-27 |  |
+| [Can't Help Falling in Lauv \(the interview\)](https://open.spotify.com/episode/7knx5NKZHw29x0DumCviNI) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 32:41 | 2020-11-27 |  |
 | [Changes](https://open.spotify.com/track/7cDpMO5wuWgvv3j4INRBeB) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:40 | 2020-11-27 |  |
 | [Cheating on You](https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Cheating on You](https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L) | 3:16 | 2020-11-27 |  |
 | [Day6 Talks The Book of Us: Gravity, Becoming a Band & Playing Live Instrument](https://open.spotify.com/episode/7mWhbmtOjumyYYyhEEUuVH) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 50:33 | 2020-11-27 |  |

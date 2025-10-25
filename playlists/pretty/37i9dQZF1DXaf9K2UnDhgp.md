@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree with Fall Out Boy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,249 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,265 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 99 | [Oh My Christmas Tree](https://open.spotify.com/track/4GARaubo2Crixv8UVOIAe7) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Happy Holiday!](https://open.spotify.com/album/3OM6XAmkfIl5mSmTnyekOO) | 4:12 |
 | 100 | [No Christmas While I'm Talking](https://open.spotify.com/track/29h1ZIoHfHxsU4Eyjpu8je) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [Bows + Arrows](https://open.spotify.com/album/0yI10WNFgAsBVShQIhFXW7) | 4:25 |
 
-Snapshot ID: `AAAAAMVtrSFXq6THj+xBOmurE0dF7wyb`
+Snapshot ID: `AAAAANhFrGRKyx4I6vtapnzuk87U4ZZy`

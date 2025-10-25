@@ -2,7 +2,7 @@
 
 ### [Hit Rap Italiane](https://open.spotify.com/playlist/37i9dQZF1DWSxF6XNtQ9Rg)
 
-> Solo hit rap da ascoltare in loop\. Cover: Lazza
+> Solo hit rap da ascoltare in loop\. Cover: Sfera Ebbasta
 
 257 songs - 14 hr 0 min
 

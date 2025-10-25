@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Dhinesh Nagarajan
 
-712 songs - 1 day 17 hr 50 min
+713 songs - 1 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Aval](https://open.spotify.com/track/310tzK5iTE7LtmVHg3h9ay) | [Sathya Narayanan](https://open.spotify.com/artist/7sKSSqwOU36u2OD4nt0jFt), [Abhilash](https://open.spotify.com/artist/4AaypyDB9tRqZAdMYzcbAq) | [Aval](https://open.spotify.com/album/2MVg5IPtREO28D9KKRO1UJ) | 2:36 | 2022-02-16 | 2022-08-06 |
 | [Aval Per Mazhai](https://open.spotify.com/track/1HtuPlbmISUXsQ6GvsXPxm) | [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O), [Mukundan Raman](https://open.spotify.com/artist/0NXMKxorYTyZjPhj4C4dkE) | [Aval Per Mazhai](https://open.spotify.com/album/7M8qgTeH0QHUtsrp6ntiLe) | 3:22 | 2024-01-19 | 2024-04-30 |
 | [Avalale Naan](https://open.spotify.com/track/1A7FsJYMA9MRPJoBZ3UGKz) | [Rathya](https://open.spotify.com/artist/1Yf7Q9jSJYFNk1jiRhMBPy) | [Avalale Naan](https://open.spotify.com/album/6o6d7kghb06UmFTe8hShDy) | 2:50 | 2023-02-23 | 2024-04-09 |
-| [AVAN AVAL](https://open.spotify.com/track/24IiIcvNr7ipqhJEgIOe34) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Ajesh](https://open.spotify.com/artist/7zneCNzf0wfXcjCOvirRlX) | [AVAN AVAL](https://open.spotify.com/album/2WyY4DQD80EEJH7460eScz) | 2:37 | 2025-01-30 |  |
+| [AVAN AVAL](https://open.spotify.com/track/24IiIcvNr7ipqhJEgIOe34) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Ajesh](https://open.spotify.com/artist/7zneCNzf0wfXcjCOvirRlX) | [AVAN AVAL](https://open.spotify.com/album/2WyY4DQD80EEJH7460eScz) | 2:37 | 2025-01-30 | 2025-10-25 |
 | [Aye Pulla \- From "Think Indie"](https://open.spotify.com/track/0F1Qx6kQmYRWWBfJlD43H0) | [Kiran Surath](https://open.spotify.com/artist/2T89YvLTTAhpXoN1cPdTcH), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Aye Pulla \(From "Think Indie"\)](https://open.spotify.com/album/07PaDk11ysuPYWDa1uK50R) | 3:26 | 2022-08-23 | 2022-10-14 |
 | [Ayyo Saami](https://open.spotify.com/track/7mgiW2UFOMEO08ZKNlDzPg) | [Windy Goonatillake](https://open.spotify.com/artist/5ZytAAlFTBsWXrqbve4qnt), [SANUKA](https://open.spotify.com/artist/6FD5oL7fAbrg43q0bcbWhe) | [Ayyo Saami](https://open.spotify.com/album/1F6XP6sxbNiSReKBiddNnL) | 3:22 | 2022-11-10 | 2023-01-11 |
 | [Azhaga Oru Ponna 1 Min Music](https://open.spotify.com/track/7wQP8pNqkPcDxRsKYfBXhe) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Azhaga Oru Ponna 1 Min Music](https://open.spotify.com/album/58U7twYNvQ5UIqAqJxPaXf) | 1:04 | 2023-02-17 | 2023-03-11 |
@@ -198,6 +198,7 @@
 | [Imaigalo](https://open.spotify.com/track/5LRODMeAbWjHEItSRLGZ3b) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy) | [Imaigalo](https://open.spotify.com/album/3hujPUBf31Y80dprCKF5gj) | 2:45 | 2023-04-03 | 2025-02-11 |
 | [Imaye \- From "Think Specials"](https://open.spotify.com/track/0Ung8cwAINVSXcIcSkZLIF) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q) | [Imaye \(From "Think Specials"\)](https://open.spotify.com/album/56m9UEPRLqXL6dMJJPtU3l) | 3:30 | 2022-09-23 | 2023-02-28 |
 | [In Her Wish](https://open.spotify.com/track/0Omi2iGlADD7gVJX8KUaIT) | [Ajayy K](https://open.spotify.com/artist/1PgASqMDJgiJA5incZF56n) | [In Her Wish](https://open.spotify.com/album/5mMCxKbUXIXS0qBLnivrEk) | 2:27 | 2024-12-05 | 2025-01-22 |
+| [Inayum Paadhaigal](https://open.spotify.com/track/5Q9EytmVjm1TFZ3hCfjdD3) | [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Prasanna Suresh](https://open.spotify.com/artist/4ajkARXXTfsW5M0SDlMamn), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Vinaita Sivakumar](https://open.spotify.com/artist/0dtzGDwccz8vDDPv57ljRe) | [Inayum Paadhaigal](https://open.spotify.com/album/3Jtm5SG8WAMQjRmh4KIbsO) | 3:21 | 2025-10-25 |  |
 | [INDHA KADHAL \- From "Flop"](https://open.spotify.com/track/4KjShESEoexD6Pc5PLndc4) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [4am](https://open.spotify.com/artist/6imO762d1x2VQkhgjeDKi3) | [INDHA KADHAL \- From "Flop"](https://open.spotify.com/album/4EBcOen6iqT9QLlO0o44N3) | 3:20 | 2024-09-19 | 2024-10-15 |
 | [Ini Thani](https://open.spotify.com/track/6HrKGKbkAPTN71WJ6QzcgE) | [Christo Daniel](https://open.spotify.com/artist/5f5FrBhf9BoH8pqpE0OsYq) | [Ini Thani](https://open.spotify.com/album/1UtuUFZlTekioqKELIghnP) | 5:40 | 2022-10-18 | 2022-11-25 |
 | [Inimel](https://open.spotify.com/track/6PxEQ1dXyhuZQtTClI6TiR) | [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6) | [Inimel](https://open.spotify.com/album/3VTNd5Fcti1lc9ASdEpiWz) | 4:00 | 2024-03-26 | 2024-08-17 |

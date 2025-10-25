@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,177,746 likes - 150 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,178,010 likes - 150 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 | 149 | [Your Love \- Diplo Remix](https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Your Love \(Diplo Remix\)](https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV) | 2:35 |
 | 150 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 |
 
-Snapshot ID: `AAAAAIyiGk8xXPHf6YtlX+y9xLuT7Wpj`
+Snapshot ID: `AAAAADOkLa9j7ph/1pRQ76IQI3uJQhn4`

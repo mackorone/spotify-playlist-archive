@@ -1,12 +1,12 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 5822,
+  "num_followers": 5824,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAADX2XbuYB3ACwELj99brDqg",
+  "snapshot_id": "aPlwAAAAAAD6Tq5Pht9E1XVIGUA7StkB",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Bohemio de Afici\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/4i0SFmcMd79sCXfnuFKqlf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BAJITA LA TENAZA",
         "url": "https://open.spotify.com/album/4snGTYPRvhdBiu7O1qXYXd"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 136642,
       "name": "Que Soy Un Malandro",
       "url": "https://open.spotify.com/track/0hFMcLsktrTFOoZIgljTDe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Bohemio de Afici\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/4i0SFmcMd79sCXfnuFKqlf"
     },
     {
       "added_at": null,
@@ -651,38 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 176953,
-      "name": "Cuando Me Faltaban",
-      "url": "https://open.spotify.com/track/3XVCdhJp0j1Xpl6En6WOwp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lujos y Libras",
-        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 187565,
-      "name": "Willy Checks",
-      "url": "https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aqui Nada Me Va Mal",
         "url": "https://open.spotify.com/album/3QfoLOlTy4yUlO7R1HWadb"
       },
@@ -703,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
+        "name": "Lujos y Libras",
+        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
       },
       "artists": [
         {
@@ -712,9 +680,25 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 183040,
-      "name": "Mujer Paseada - En Vivo",
-      "url": "https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS"
+      "duration_ms": 187565,
+      "name": "Willy Checks",
+      "url": "https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 176953,
+      "name": "Cuando Me Faltaban",
+      "url": "https://open.spotify.com/track/3XVCdhJp0j1Xpl6En6WOwp"
     },
     {
       "added_at": null,
@@ -731,6 +715,22 @@
       "duration_ms": 110682,
       "name": "Los 3 Del NM",
       "url": "https://open.spotify.com/track/3zufohszplV5IN3S7j6bTI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "Mujer Paseada - En Vivo",
+      "url": "https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "Mi Gusto Es - En Vivo",
-      "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J\u00e1lese Carnal",
         "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 165594,
       "name": "COMPTON",
       "url": "https://open.spotify.com/track/2hoOS2ABkC8JrcN69owHYE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "Mi Gusto Es - En Vivo",
+      "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Malandro",
-        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 182640,
-      "name": "Recordando La Sierra",
-      "url": "https://open.spotify.com/track/0dMeXStZXBSurWBhZlZtTV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J\u00e1lese Carnal",
         "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 156928,
       "name": "El Cimarron",
       "url": "https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loco Malandro",
+        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 182640,
+      "name": "Recordando La Sierra",
+      "url": "https://open.spotify.com/track/0dMeXStZXBSurWBhZlZtTV"
     },
     {
       "added_at": null,

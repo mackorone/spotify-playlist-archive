@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 174814,
+  "num_followers": 174884,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAABKP2c6Y7tCHwiA8pUnUfdZ",
+  "snapshot_id": "aPlwAAAAAAAmTi1apbzcmexNT0/BVx2t",
   "tracks": [
     {
       "added_at": null,
@@ -1003,26 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meneo",
-        "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 133359,
-      "name": "6 Veces",
-      "url": "https://open.spotify.com/track/75mW9Fe4XuLV3brqIcvhGK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV",
         "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 169758,
       "name": "M\u00e1s Perr\u00f3n Con los Balenciaga",
       "url": "https://open.spotify.com/track/0iTAeCd05itdDZFkIkwmq3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meneo",
+        "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 133359,
+      "name": "6 Veces",
+      "url": "https://open.spotify.com/track/75mW9Fe4XuLV3brqIcvhGK"
     }
   ],
   "unique_name": "This Is Gabito Ballesteros",

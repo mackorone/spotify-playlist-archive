@@ -1,13 +1,53 @@
 {
   "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Gracie's Corner",
-  "num_followers": 116324,
+  "num_followers": 116391,
   "original_name": "Hip-Hop & R&B for Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGeY9iY08HftJA/nni0Yy1JZHhVo",
+  "snapshot_id": "AAAAACC+e+EKogWEX3jlerrsGf9XONRG",
   "tracks": [
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Little Bird!",
+        "url": "https://open.spotify.com/album/6jPReyNmbGA8Y9dQw2yAHL"
+      },
+      "artists": [
+        {
+          "name": "Snuggle Bunch",
+          "url": "https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv"
+        }
+      ],
+      "duration_ms": 119801,
+      "name": "Little Bird!",
+      "url": "https://open.spotify.com/track/6aHbIDselnojx1BxnKIu56"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "SHADOWS",
+        "url": "https://open.spotify.com/album/2AWzBg2aG1OdcF6szNgwoe"
+      },
+      "artists": [
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        },
+        {
+          "name": "Magic Sword",
+          "url": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
+        },
+        {
+          "name": "GameboyJones",
+          "url": "https://open.spotify.com/artist/1FDAJKaPzIzRHJrl3Smitm"
+        }
+      ],
+      "duration_ms": 152569,
+      "name": "SHADOWS",
+      "url": "https://open.spotify.com/track/0sqDgtFy2YOAoVgj4Kg42s"
+    },
     {
       "added_at": "2025-08-08 04:00:43",
       "album": {
@@ -43,22 +83,6 @@
       "duration_ms": 183669,
       "name": "Chasing Rainbows",
       "url": "https://open.spotify.com/track/2KO5OTMeX9iTzwLpBNI8Nm"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
-        "name": "We Came to Have Fun!",
-        "url": "https://open.spotify.com/album/1ZQYJKkBiMkOHX6f7VkgjG"
-      },
-      "artists": [
-        {
-          "name": "Snuggle Bunch",
-          "url": "https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Pop! Goes the Weasel",
-      "url": "https://open.spotify.com/track/3q12MYGc4rv8QRogu3jmbX"
     },
     {
       "added_at": "2025-07-20 16:52:29",
@@ -139,22 +163,6 @@
     {
       "added_at": "2025-07-20 16:52:29",
       "album": {
-        "name": "If You're Happy And You Know It",
-        "url": "https://open.spotify.com/album/0pXaXHQ3hPKVoVMCDLhoNs"
-      },
-      "artists": [
-        {
-          "name": "Mega Ran",
-          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
-        }
-      ],
-      "duration_ms": 57431,
-      "name": "If You're Happy And You Know It",
-      "url": "https://open.spotify.com/track/5xwbzsP6pu5fsNRYKuqzjp"
-    },
-    {
-      "added_at": "2025-07-20 16:52:29",
-      "album": {
         "name": "ROBLOX FAMOUS",
         "url": "https://open.spotify.com/album/0P5paC5kQ0sNhNg1lopKSz"
       },
@@ -219,26 +227,6 @@
       "duration_ms": 117209,
       "name": "Big Kid Energy",
       "url": "https://open.spotify.com/track/0plhaGeJwkHKIyqWG2uIY2"
-    },
-    {
-      "added_at": "2025-07-20 16:52:29",
-      "album": {
-        "name": "Have a Great Time!",
-        "url": "https://open.spotify.com/album/5JtJBZJCk5qgkbQNCoHtwV"
-      },
-      "artists": [
-        {
-          "name": "Mega Ran",
-          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
-        },
-        {
-          "name": "Kymberly Stewart",
-          "url": "https://open.spotify.com/artist/6ZyiT23t4CIQS7trCGpV1f"
-        }
-      ],
-      "duration_ms": 147586,
-      "name": "Have a Great Time!",
-      "url": "https://open.spotify.com/track/6FsBFQkORCWcEf2K4mA0e0"
     },
     {
       "added_at": "2025-07-20 16:52:29",

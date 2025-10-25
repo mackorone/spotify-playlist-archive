@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Esther Durán, Chris Duran
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,932 likes - 85 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,938 likes - 85 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 14 | [Entre Milhões](https://open.spotify.com/track/2V4oWQWf6LKvEEsSskyM2j) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Margem Norte](https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1) | [Entre Milhões](https://open.spotify.com/album/24zbpVWJfdko6LTVjDHJhJ) | 4:11 |
 | 15 | [O Reino Vem](https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [O Reino Vem](https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8) | 3:18 |
 | 16 | [O Tempo Não Para](https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC) | [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9), [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [O Tempo Não Para](https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi) | 3:22 |
-| 17 | [Me Ensina a Viver](https://open.spotify.com/track/0S5t0T4YV3pHs4LH0mtasp) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Me Ensina a Viver](https://open.spotify.com/album/1sqdI1xPDGAJxlYLg2pI8w) | 5:10 |
-| 18 | [É Mais Que Uma Honra](https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [É Mais Que Uma Honra](https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94) | 4:56 |
+| 17 | [É Mais Que Uma Honra](https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [É Mais Que Uma Honra](https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94) | 4:56 |
+| 18 | [Eu Vou \- Ao Vivo](https://open.spotify.com/track/4YAoTTQIiaMc37309bOjtX) | [Ministério Zoe](https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU) | [Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/0dZnuPgRHF7sGF5ttPVghh) | 11:25 |
 | 19 | [Esperarei Com Paciência](https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [André Leono](https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Esperarei com Paciência](https://open.spotify.com/album/53C192EeqK9cTA0dohXePM) | 5:29 |
 | 20 | [A Melhor História](https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr) | [Coral Teen Cap](https://open.spotify.com/artist/3AgYtiBlqddSzuTny26Vwl), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Victoria Niza](https://open.spotify.com/artist/3iymnXB3f8cSOUrfk9CAZ6) | [A Melhor História](https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b) | 3:50 |
 | 21 | [Sonhar](https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T), [Filipe Lancaster](https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw) | [Sonhar](https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK) | 2:18 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 84 | [O Amor de Deus](https://open.spotify.com/track/6AwPTRmGAmVQi1Gz2JyByH) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Yuri DSR](https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B), [Jotta X](https://open.spotify.com/artist/3gMrLffCIkO3TWMKXvjEOl) | [O Amor de Deus](https://open.spotify.com/album/515oStHHdiKU8YVM7rZi9p) | 2:36 |
 | 85 | [Sinal de Aviso](https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Sinal de Aviso](https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI) | 3:15 |
 
-Snapshot ID: `AAAAAOW8jUUJmEM/XNUuFK+3+WVo0IlB`
+Snapshot ID: `AAAAAGb/tuFwdI7Nu9JDuGosC+isF0w9`

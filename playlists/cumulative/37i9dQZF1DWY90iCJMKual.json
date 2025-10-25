@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "PH vibin' cover: ALLMO$T",
+  "description": "PH vibin' cover: Jason Dhakal",
   "name": "Pinas Vibes ",
   "tracks": [
     {
@@ -172,6 +172,24 @@
       "duration_ms": 146000,
       "name": "4\u00fc",
       "url": "https://open.spotify.com/track/5vcP3MHEM8eImjGh43pYFB"
+    },
+    {
+      "album": {
+        "name": "65+4",
+        "url": "https://open.spotify.com/album/6tMuFlmWNE7WR2b8METRyA"
+      },
+      "artists": [
+        {
+          "name": "Elh\u00e9",
+          "url": "https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194380,
+      "name": "65+4",
+      "url": "https://open.spotify.com/track/0HUvsOqDzRmztTyvo3SK3K"
     },
     {
       "album": {
@@ -716,7 +734,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 153374,
       "name": "better than he does",
       "url": "https://open.spotify.com/track/68fzlFxU1uUeLTK68ICK3J"
@@ -764,7 +782,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 208299,
       "name": "Binabaliw",
       "url": "https://open.spotify.com/track/3t8qXX5EQlmdWzO9VvTGRk"
@@ -836,7 +854,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 293723,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/4067uAzJZUHJInwOo7X701"
@@ -1053,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/2hjrQmqKGiD2S69mTkNVR8"
+      },
+      "artists": [
+        {
+          "name": "Cliff",
+          "url": "https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197216,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/529drn8X80TyoPS3GdL3Le"
+    },
+    {
+      "album": {
         "name": "cherry soda",
         "url": "https://open.spotify.com/album/1T3Qwd52WDENjeUMxbysZg"
       },
@@ -1181,6 +1217,28 @@
     },
     {
       "album": {
+        "name": "CRUSHIE",
+        "url": "https://open.spotify.com/album/0OVbAJXFqY2dMeibCJkOPY"
+      },
+      "artists": [
+        {
+          "name": "Jepzie",
+          "url": "https://open.spotify.com/artist/1sSRTVXZ0Qbtp7aPtbe0Il"
+        },
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/4m8hsULyuiNkAqHweun8he"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150769,
+      "name": "CRUSHIE",
+      "url": "https://open.spotify.com/track/4VvTGRwrj05S31lKFTqSjQ"
+    },
+    {
+      "album": {
         "name": "D&C",
         "url": "https://open.spotify.com/album/7KiywL1LIwTqd1UgVZfMei"
       },
@@ -1196,6 +1254,42 @@
       "duration_ms": 206769,
       "name": "D&C",
       "url": "https://open.spotify.com/track/0zTjGbep4yFSFBnWpzgKw9"
+    },
+    {
+      "album": {
+        "name": "Dalawa",
+        "url": "https://open.spotify.com/album/2EW0Kwp3taQjsc9ZcUmYk1"
+      },
+      "artists": [
+        {
+          "name": "Jason Dhakal",
+          "url": "https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207573,
+      "name": "Dalawa",
+      "url": "https://open.spotify.com/track/2PPVwTRihaBQHirGqhBhdB"
+    },
+    {
+      "album": {
+        "name": "Dalawa",
+        "url": "https://open.spotify.com/album/09qZITZTq5U1xKeSPWnNkq"
+      },
+      "artists": [
+        {
+          "name": "Jose Miguel",
+          "url": "https://open.spotify.com/artist/745dl1DyHr2dvwhFGmJ1nf"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263013,
+      "name": "Dalawa",
+      "url": "https://open.spotify.com/track/1l16YlDQbEmq5aPw6kHHgq"
     },
     {
       "album": {
@@ -1768,7 +1862,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 195692,
       "name": "Dulo",
       "url": "https://open.spotify.com/track/422s4sn1hQclqci1rUl78a"
@@ -2022,7 +2116,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 218309,
       "name": "FYP LUV",
       "url": "https://open.spotify.com/track/7Hclwcxm8Ppba2x5fsdRCG"
@@ -2069,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "Get Dat",
+        "url": "https://open.spotify.com/album/1bsM1bf9DHxnFrnHO7tkun"
+      },
+      "artists": [
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Get Dat",
+      "url": "https://open.spotify.com/track/0tiTHNFceq3bd9oFv8w5fq"
+    },
+    {
+      "album": {
         "name": "get lost.",
         "url": "https://open.spotify.com/album/2u9fbDDi10hsJXfuwTOuKE"
       },
@@ -2080,7 +2192,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 166806,
       "name": "get lost.",
       "url": "https://open.spotify.com/track/0pSDzhQRvNWRw2w1mVkqlm"
@@ -2404,7 +2516,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 228879,
       "name": "Handa Ka Ba",
       "url": "https://open.spotify.com/track/6OiJpYVW6x6l1CZTI1Ah3a"
@@ -2646,7 +2758,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 202000,
       "name": "Hindi Na Nga",
       "url": "https://open.spotify.com/track/7jirOEqNXjzsT6kXo3Pxul"
@@ -3412,7 +3524,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 162000,
       "name": "is it over?",
       "url": "https://open.spotify.com/track/2WjlTJqg6suHqqce5EVXFL"
@@ -3568,7 +3680,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 189337,
       "name": "kaya kaya",
       "url": "https://open.spotify.com/track/2sN1luMYIaywC0IwaoZAtL"
@@ -3920,6 +4032,28 @@
       "duration_ms": 199714,
       "name": "LF: You (777)",
       "url": "https://open.spotify.com/track/6YAAE3M96dTLeBsXIoFLoN"
+    },
+    {
+      "album": {
+        "name": "libog",
+        "url": "https://open.spotify.com/album/447kTys6byNBg0N23VxNfv"
+      },
+      "artists": [
+        {
+          "name": "Dom Guyot",
+          "url": "https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0"
+        },
+        {
+          "name": "jikamarie",
+          "url": "https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156547,
+      "name": "libog",
+      "url": "https://open.spotify.com/track/791G8W6Fb03Rb71TdZIByU"
     },
     {
       "album": {
@@ -4550,7 +4684,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 157692,
       "name": "Marilag",
       "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
@@ -4892,7 +5026,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 186460,
       "name": "nasarO",
       "url": "https://open.spotify.com/track/3CjH71FatCQXLASp5VDoOD"
@@ -4994,7 +5128,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 168000,
       "name": "No Strings",
       "url": "https://open.spotify.com/track/1xo8TBulHlTaP1YJIXFu5z"
@@ -5012,7 +5146,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 201903,
       "name": "now i'm with you",
       "url": "https://open.spotify.com/track/41uXETyxp0Tc3UB7ErfIrD"
@@ -6345,6 +6479,32 @@
     },
     {
       "album": {
+        "name": "Sana Tumawag",
+        "url": "https://open.spotify.com/album/3E4bbKeMTtno0hd0HKHAQF"
+      },
+      "artists": [
+        {
+          "name": "Sica",
+          "url": "https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B"
+        },
+        {
+          "name": "Jim P",
+          "url": "https://open.spotify.com/artist/6jdiX8imaOsKaITCkZIPEZ"
+        },
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173254,
+      "name": "Sana Tumawag",
+      "url": "https://open.spotify.com/track/5Va1J12DGNdFqN1oN7Scra"
+    },
+    {
+      "album": {
         "name": "Sandal",
         "url": "https://open.spotify.com/album/5BpZBtcQWxONxQzHHYzsDC"
       },
@@ -6418,6 +6578,24 @@
       "duration_ms": 182769,
       "name": "sayang",
       "url": "https://open.spotify.com/track/4gE0JIwmVMJM2cIdgL0joY"
+    },
+    {
+      "album": {
+        "name": "Sayo",
+        "url": "https://open.spotify.com/album/3nlJpk1BYKsKLC1j4xD7rU"
+      },
+      "artists": [
+        {
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162894,
+      "name": "Sayo",
+      "url": "https://open.spotify.com/track/50yqnqZJcev2GoGeWnWC9B"
     },
     {
       "album": {
@@ -6764,7 +6942,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 154838,
       "name": "Slowjamz",
       "url": "https://open.spotify.com/track/7jgqRlXROXl7B59Z5zd6lD"
@@ -6888,7 +7066,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 156363,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/2vFWFoKYCZnayFsPKuqz86"
@@ -7048,7 +7226,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 159250,
       "name": "sweet nothings",
       "url": "https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip"
@@ -7146,6 +7324,24 @@
       "duration_ms": 144807,
       "name": "TALK",
       "url": "https://open.spotify.com/track/2F5Qkb1wJNnmQFQ3Edrzfb"
+    },
+    {
+      "album": {
+        "name": "Tayahin",
+        "url": "https://open.spotify.com/album/4rAPXuXGCXqcHk0loI9OZN"
+      },
+      "artists": [
+        {
+          "name": "Erik Villanueva",
+          "url": "https://open.spotify.com/artist/4cWuxVZWKH9jPX74eYip2E"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "Tayahin",
+      "url": "https://open.spotify.com/track/1iztHmVLlcDFusDJXN3l2M"
     },
     {
       "album": {
@@ -7630,7 +7826,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 192000,
       "name": "Wag Lang Ganon",
       "url": "https://open.spotify.com/track/2JeXX2pbuyc5X5OUdhLi1Z"
@@ -7652,6 +7848,28 @@
       "duration_ms": 241798,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3aVN1nyimXo5waQ8M6o8j2"
+    },
+    {
+      "album": {
+        "name": "Wala Ng Dahilan",
+        "url": "https://open.spotify.com/album/4HgpvBok0OHcqtT4pGX1Wx"
+      },
+      "artists": [
+        {
+          "name": "Saintvvi",
+          "url": "https://open.spotify.com/artist/0apBeGgTlunmoj2y846P22"
+        },
+        {
+          "name": "Cozyivy",
+          "url": "https://open.spotify.com/artist/3x8luodoKaUDBXV4xnXWdS"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178633,
+      "name": "Wala Ng Dahilan",
+      "url": "https://open.spotify.com/track/77yAlOniNHAitiEsmfiFrF"
     },
     {
       "album": {
@@ -7750,7 +7968,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 146323,
       "name": "West",
       "url": "https://open.spotify.com/track/1CxebQctjzYLp4D9oylEZy"
@@ -7808,6 +8026,24 @@
       "duration_ms": 231139,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/4v0gAyFjpWihZwbT8A48BR"
+    },
+    {
+      "album": {
+        "name": "With you",
+        "url": "https://open.spotify.com/album/4FdUyGGpyhxvz4JtV5OCvM"
+      },
+      "artists": [
+        {
+          "name": "Jom",
+          "url": "https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196908,
+      "name": "With you",
+      "url": "https://open.spotify.com/track/2ptEhHVJaMUxXUd1fc3uT7"
     },
     {
       "album": {
@@ -7942,6 +8178,24 @@
       "duration_ms": 172879,
       "name": "you know where home is",
       "url": "https://open.spotify.com/track/3j8CJkM8Qp7b8gBPha4hnP"
+    },
+    {
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/09xwz7U4Ho2qNALirus13F"
+      },
+      "artists": [
+        {
+          "name": "Justin Vasquez",
+          "url": "https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/096GsV4auvK0bXfBjQzbpt"
     },
     {
       "album": {

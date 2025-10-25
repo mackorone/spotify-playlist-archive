@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 59251,
+  "num_followers": 59271,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAIWVRu0gPnlhHenXvf3RzI",
+  "snapshot_id": "aPlwAAAAAACCmdfxh3KOxz7X/TnX59K/",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The King Is Still The King",
-        "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
       },
       "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        },
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 299459,
-      "name": "He Has Done Great Things",
-      "url": "https://open.spotify.com/track/7CvI6gPRlOwsdeRXYjgVUV"
+      "duration_ms": 241946,
+      "name": "It's Always Been You",
+      "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
     },
     {
       "added_at": null,
@@ -511,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+        "name": "The King Is Still The King",
+        "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
       },
       "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 241946,
-      "name": "It's Always Been You",
-      "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
+      "duration_ms": 299459,
+      "name": "He Has Done Great Things",
+      "url": "https://open.spotify.com/track/7CvI6gPRlOwsdeRXYjgVUV"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 344200,
+      "name": "1,000 Names",
+      "url": "https://open.spotify.com/track/3R5BU2DhDoAo1vzI2poV6R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Worthy of My Song (Worthy of It All)",
         "url": "https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 506796,
       "name": "Worthy of My Song (Worthy of It All)",
       "url": "https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 344200,
-      "name": "1,000 Names",
-      "url": "https://open.spotify.com/track/3R5BU2DhDoAo1vzI2poV6R"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
       "duration_ms": 240266,
       "name": "Till I Found You",
       "url": "https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fear Has No Power",
+        "url": "https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "Fear Has No Power",
+      "url": "https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46"
     },
     {
       "added_at": null,

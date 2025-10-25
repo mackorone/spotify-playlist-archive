@@ -4,7 +4,7 @@
 
 > Sit back, thand rakho te Chill Karlo with Yo Yo Honey Singh
 
-50 songs - 2 hr 21 min
+51 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Dior](https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:19 | 2025-10-17 |  |
 | [Gandasa](https://open.spotify.com/track/6GG4lSyFgj1i2OO9AVgsd7) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [Gandasa](https://open.spotify.com/album/0KWSoiZauWkXFzIyikODKF) | 2:28 | 2025-10-17 |  |
 | [God Damn](https://open.spotify.com/track/209QxKVJzh2FLUmZHpYs4m) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:47 | 2025-10-17 |  |
-| [Goriye](https://open.spotify.com/track/1FOPiw2HXNHmxg76vFfN4I) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Goriye](https://open.spotify.com/album/0QNTv6Cq8t4LaFRqDxfMVD) | 3:05 | 2025-10-17 |  |
+| [Goriye](https://open.spotify.com/track/1FOPiw2HXNHmxg76vFfN4I) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Goriye](https://open.spotify.com/album/0QNTv6Cq8t4LaFRqDxfMVD) | 3:05 | 2025-10-17 | 2025-10-25 |
 | [Gustakhiyan \(From"Madhaniyan"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1Ogj157TMEJugMZchWKscQ) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [Gustakhiyan \(From"Madhaniyan"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4rjHEHa2D2sIxaya1ciyxl) | 2:43 | 2025-10-17 |  |
 | [Hero \(From "Badnaam"\)](https://open.spotify.com/track/0jF77Ini9zPCMMs7lmfogV) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Hero \(From "Badnaam"\)](https://open.spotify.com/album/6WZJofCfrV15hdQX7AyfeL) | 3:33 | 2025-10-17 |  |
 | [HIM.](https://open.spotify.com/track/2TQy6HAI99JYNw2cKGYAE8) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:11 | 2025-10-17 |  |
@@ -33,6 +33,7 @@
 | [Into You](https://open.spotify.com/track/455OjhLhU9JCNYKKoUOFwr) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Into You](https://open.spotify.com/album/64vhuaHJxjSZrOwMUqGJ85) | 2:54 | 2025-10-17 |  |
 | [Jatt Mehkma](https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:15 | 2025-10-17 |  |
 | [Jinniyan](https://open.spotify.com/track/46TlSsFIAtUmaNKpPUQaIE) | [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Pranay Parti](https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy) | [Jinniyan](https://open.spotify.com/album/7pJ7siqSx1vj04RZqv9gaz) | 3:18 | 2025-10-17 |  |
+| [KI HAAL AA](https://open.spotify.com/track/6pO0mc6cJ4WucFd84PoJ5z) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [KI HAAL AA](https://open.spotify.com/album/7573uBv6gwUul2QoS94G2J) | 2:35 | 2025-10-24 |  |
 | [Kina Chir](https://open.spotify.com/track/2jrKt7TeBeDtmLBZ3grQQj) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [The Lifestyle](https://open.spotify.com/album/5NItYzWWEkAU380h80suCw) | 3:36 | 2025-10-17 |  |
 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 | 2025-10-17 |  |
 | [Kufar](https://open.spotify.com/track/7oODxqLHmajTXnGK0hWfj1) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:38 | 2025-10-17 |  |

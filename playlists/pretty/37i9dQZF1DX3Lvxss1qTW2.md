@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,405 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,504 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 37 | [Tenner](https://open.spotify.com/track/2XQIhPALkOY06FrmirfYIg) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Tenner](https://open.spotify.com/album/1KSmOfVBlPziey4VpNKCyQ) | 2:36 |
 | 38 | [Money Moves](https://open.spotify.com/track/1KVlMyl1o2U5sxSK8wsDYR) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Olayemi](https://open.spotify.com/album/4wIqqlZlsh8cTmyMT2qycY) | 2:43 |
 | 39 | [FLAKO](https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [FLAKO](https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX) | 2:54 |
-| 40 | [Spaghetti](https://open.spotify.com/track/53ZPK0Ltgi5mQAHGm8dqWt) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Spaghetti](https://open.spotify.com/album/1pZ1HTqqaNNC312zmgpaBx) | 2:08 |
+| 40 | [Spaghetti](https://open.spotify.com/track/53ZPK0Ltgi5mQAHGm8dqWt) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Spaghetti](https://open.spotify.com/album/1pZ1HTqqaNNC312zmgpaBx) | 2:18 |
 | 41 | [What You Want](https://open.spotify.com/track/5HqJICWJomytoiIFnAsw0A) | [Uche B](https://open.spotify.com/artist/31pQP1G762IF86wGrd2f3v), [Mangodance](https://open.spotify.com/artist/4ZHLtUjqMxXhA05qiDgnH1) | [What You Want](https://open.spotify.com/album/3gUojms7owZ051gB5AWlTG) | 3:10 |
 | 42 | [Soyaiya](https://open.spotify.com/track/1lC0Ezh2f3NrddIrURhzXw) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh) | [Soyaiya](https://open.spotify.com/album/455cwBlTEdol2whwOFRY5j) | 2:22 |
 | 43 | [Dead Flowers](https://open.spotify.com/track/3GWRi1nidQuwXcoP3zB7u9) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Dead Flowers](https://open.spotify.com/album/5UnD4luhw0cDGhPvQabsnJ) | 3:01 |

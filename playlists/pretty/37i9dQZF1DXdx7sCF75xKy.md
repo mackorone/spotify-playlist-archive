@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women at full volume\. Cover: Boon Hui Lu
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,767 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,769 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 6 | [3am](https://open.spotify.com/track/6oNC0dZwthd4Gbof71UYMJ) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [3am](https://open.spotify.com/album/0CxaGou0ebafxSU63mwpIW) | 4:17 |
 | 7 | [Sesaat](https://open.spotify.com/track/71AETshF1rNpsVYVZNC5Ka) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Sesaat](https://open.spotify.com/album/6J0FS9xHsVquBalfDRiSYm) | 3:36 |
 | 8 | [LOUISE](https://open.spotify.com/track/2655P8CSEQwCD15seGnXCR) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ), [Louise](https://open.spotify.com/artist/2XLfZRlfVmawUCkRa1q87m) | [LOUISE](https://open.spotify.com/album/4OO22X34I5LwN4cofHvlK0) | 3:02 |
-| 9 | [天使借的溫柔](https://open.spotify.com/track/3ITUmRLMjxf3ZqCPSDD2gk) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [天使借的溫柔](https://open.spotify.com/album/12zyWwLiTBobJgGvPw462K) | 3:28 |
+| 9 | [天使借的溫柔](https://open.spotify.com/track/3ITUmRLMjxf3ZqCPSDD2gk) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [天使借的溫柔](https://open.spotify.com/album/12zyWwLiTBobJgGvPw462K) | 3:28 |
 | 10 | [Sebentar](https://open.spotify.com/track/66w8C98MDYCSvn6JQTh0gB) | [Adira Suhaimi](https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF) | [Sebentar](https://open.spotify.com/album/08EtFXDrgD0lQNvFqWrKTG) | 3:06 |
 | 11 | [Cham](https://open.spotify.com/track/4mp83ZaDrATKDkE3EDFFea) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Cham](https://open.spotify.com/album/1esARCRsqpmwxUIdXP8uKA) | 3:35 |
 | 12 | [Cak Cak Cekuk](https://open.spotify.com/track/5ynphprbUJNGcYMGCo9L2z) | [Wani Kayrie](https://open.spotify.com/artist/623y6Eo7aOEpYo9LSZCQ1M) | [Cak Cak Cekuk](https://open.spotify.com/album/5VcZD9boBUwkyS3qf6FiW6) | 2:44 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 33 | [Oh Kekanda](https://open.spotify.com/track/3qhR1dnYozozfYK0bJHKqW) | [Qistina Khaled](https://open.spotify.com/artist/3tQw3p15FEL7y5WbNPcgMG) | [Oh Kekanda](https://open.spotify.com/album/7k6XIGLntbbO3rEUO8xzop) | 3:41 |
 | 34 | [love u](https://open.spotify.com/track/4pxBGvdDoLLYtzs2Z8AC6e) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [days to morning glory](https://open.spotify.com/album/6sYWO4IATLL7LZtgkwm2eU) | 3:30 |
 | 35 | [still your girl](https://open.spotify.com/track/3iWLGmBSMbMRaxAP8bFjl7) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [it's not you, it's me](https://open.spotify.com/album/3hyy2rryF1YFtfd0O9NcVw) | 3:11 |
-| 36 | [不愛就不愛](https://open.spotify.com/track/3ZILOOFldKtW2C7sD3MYXi) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [當大人](https://open.spotify.com/album/3lqvMjKlg3nzO32DWGzwpV) | 3:14 |
+| 36 | [不愛就不愛](https://open.spotify.com/track/3ZILOOFldKtW2C7sD3MYXi) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [當大人](https://open.spotify.com/album/3lqvMjKlg3nzO32DWGzwpV) | 3:14 |
 | 37 | [Serius Ah](https://open.spotify.com/track/5TCSTiFM7gHJ7Dqz8mMAJP) | [Wani Kayrie](https://open.spotify.com/artist/623y6Eo7aOEpYo9LSZCQ1M) | [W2K](https://open.spotify.com/album/5r8AkSBDtc7apMGoyH0fDc) | 3:21 |
 | 38 | [Janji](https://open.spotify.com/track/4vOqnFFqiUgC7aT0qpBKru) | [Hullera](https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH) | [Janji](https://open.spotify.com/album/5NFgsULHHg49ESI6q0rLY7) | 3:16 |
 | 39 | [buy buy buy](https://open.spotify.com/track/53Kh78Aps8qqAwVuTWzKGi) | [Elva Suyan](https://open.spotify.com/artist/17JWdzcGVZD4mrh9qkIkqg) | [buy buy buy](https://open.spotify.com/album/22TJcjIIwE0XZAHRksF31s) | 2:54 |

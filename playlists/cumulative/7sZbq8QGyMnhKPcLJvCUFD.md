@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-778 songs - 1 day 14 hr 58 min
+779 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Mere Blip In Your Timeline](https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [A Mere Blip In Your Timeline](https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb) | 3:26 | 2023-03-06 | 2023-08-10 |
 | [A&B](https://open.spotify.com/track/5sM48Id41SNoq8zCz34UXH) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [ETikka](https://open.spotify.com/artist/1t7Nxks2dmfdKs8glkgDqt) | [A&B](https://open.spotify.com/album/0VRbQuoZhwN35U6SlTkLMc) | 2:56 | 2023-04-26 | 2023-08-10 |
 | [About Me](https://open.spotify.com/track/3OgRWuUOktuBGTING1oPld) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About Me](https://open.spotify.com/album/3c1nWchd1tZcxdaamK3Q7D) | 2:34 | 2022-06-23 | 2023-12-14 |
+| [Adrenaline](https://open.spotify.com/track/5FRDVLfLOLTYNlHojCBmPq) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Adrenaline](https://open.spotify.com/album/6GpObLu9wOkf8LZTlRlAtE) | 2:53 | 2025-10-24 |  |
 | [After The End](https://open.spotify.com/track/1STIii62ufTfUgSuWrOe3F) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL) | [After The End](https://open.spotify.com/album/6ylRW2MYVHPJjP94U6ftn2) | 3:00 | 2025-01-03 |  |
 | [AI](https://open.spotify.com/track/72URNFUYBZg3JHf6J6rD2l) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [AI](https://open.spotify.com/album/10YXQqv5CYLQqkPlCvXgLQ) | 3:09 | 2024-03-21 | 2024-09-29 |
 | [AIN'T MISS A CALL](https://open.spotify.com/track/0r3WvXuModSLGH7f1Mq7WQ) | [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [AIN'T MISS A CALL](https://open.spotify.com/album/16KaW5D0MBBI6GJpTVaiGU) | 2:34 | 2024-08-22 |  |

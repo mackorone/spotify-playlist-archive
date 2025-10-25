@@ -4,7 +4,7 @@
 
 > Playlist
 
-614 songs - 1 day 12 hr 21 min
+616 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Growing Cold](https://open.spotify.com/track/4AkD9gq5EejhNKZe0yuycC) | [Joe Ghatt](https://open.spotify.com/artist/2YiwZQDl2NHiYXTggmtDZ3) | [Banana Sludge](https://open.spotify.com/album/1UukPqBYfdN54f5RSvSxt0) | 2:54 | 2023-10-25 |  |
 | [Grubz](https://open.spotify.com/track/1Fx6qPkZy3Ks5gqBsp49V0) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Grubz](https://open.spotify.com/album/4IpiBhmhkxPf7xgHYAgBys) | 3:11 | 2023-10-25 |  |
 | [Guai](https://open.spotify.com/track/1yqUJG7V04tLnAPOT8wjTz) | [The Quincey](https://open.spotify.com/artist/5NJG2qOVlhuXWTH9nQgGd3) | [Guai](https://open.spotify.com/album/3XdjBjTSoJ7ibOz9UmU6N4) | 3:42 | 2023-10-25 |  |
+| [Gum Head](https://open.spotify.com/track/2X7VGyu4tZdFWookIoQoDA) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7) | [Gum Head](https://open.spotify.com/album/0tF77q8FyG4ZHF76r69ELK) | 2:24 | 2025-10-24 |  |
 | [Hai Van Dub](https://open.spotify.com/track/2yQFuWQjbE1qaLVonscgCM) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Selva Y Mar](https://open.spotify.com/album/1Mw3piVMb5yMP5bu8Bu4Is) | 5:01 | 2023-10-25 |  |
 | [Halcyon Days](https://open.spotify.com/track/7sFg1mQSgQMicsQtDNvjhD) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Halcyon Days](https://open.spotify.com/album/2hlMvvoBnaXybXY2qxxx8k) | 3:08 | 2023-10-25 |  |
 | [Happily Depressed](https://open.spotify.com/track/1dqWCT93lt1LEAfIC3LyGI) | [Lzr](https://open.spotify.com/artist/0jh42W5DKhfcwIvubk9fzd) | [Happily Depressed](https://open.spotify.com/album/67vPoP3JN3BVOjAEnk4XcF) | 2:31 | 2023-10-25 |  |
@@ -281,6 +282,7 @@
 | [Ivy](https://open.spotify.com/track/4JuMuDWA9zwAGQP9kb4Zxg) | [Butter Bath](https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Reprise Vol\. 1](https://open.spotify.com/album/2cQwGuRwSG5XBP9OTXhSYt) | 3:58 | 2023-10-25 |  |
 | [J'y peux rien](https://open.spotify.com/track/0eXIlXgGQTD6hezaxdl3wO) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 3:01 | 2023-10-25 |  |
 | [Je T’appelle](https://open.spotify.com/track/5LS6l15r1QFAccHbxsb1IV) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tout Autour De Nous](https://open.spotify.com/album/32JXrOWx2ebrYtB1isz11n) | 3:53 | 2023-10-25 |  |
+| [Jenny Said](https://open.spotify.com/track/1hNlmDOQCvD6VU3CI6Xycr) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Jenny Said](https://open.spotify.com/album/5YfPNo20uWuGgAoTMLWCza) | 3:52 | 2025-10-24 |  |
 | [Jerusalem](https://open.spotify.com/track/0teO03bTviZ8W6zVfj3Jzj) | [Mikali](https://open.spotify.com/artist/12TZR9iuhyNK9x001MLW0B) | [Jerusalem](https://open.spotify.com/album/2rS2wCBAu2bqK6c5SHH4fI) | 3:24 | 2023-10-25 |  |
 | [Jusqu’à L’aube](https://open.spotify.com/track/6dKscoTCdjlEBoqWMchimV) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tout Autour De Nous](https://open.spotify.com/album/32JXrOWx2ebrYtB1isz11n) | 3:43 | 2023-10-25 |  |
 | [Just A Dream](https://open.spotify.com/track/1SfCLFcSYptvSU1XStGFOD) | [Cool Sounds](https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU) | [Just A Dream](https://open.spotify.com/album/7BuOtWZTnbpp0BHDcvfsQf) | 4:04 | 2025-04-04 |  |

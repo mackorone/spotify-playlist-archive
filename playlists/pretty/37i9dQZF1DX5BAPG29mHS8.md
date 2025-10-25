@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 
 > Los hits de ahora en la playlist más grande de México\. Belinda en portada .
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,098,082 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,097,918 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,17 +24,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 | 14 | [CHROME HEARTS](https://open.spotify.com/track/1VwgoKvj7L1PkQTFeFfS6F) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Ya No Se Llevan Serenatas \(Deluxe\)](https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO) | 3:16 |
 | 15 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
 | 16 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 |
-| 17 | [PLAYBOY](https://open.spotify.com/track/29njYrJqsr7TjooshA1BB5) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [PLAYBOY](https://open.spotify.com/album/0ZtiyNJlh8znaF6Yq5Pi8W) | 2:50 |
-| 18 | [no lo ves](https://open.spotify.com/track/7qCMCckflYXyt518lLIWbb) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [no lo ves](https://open.spotify.com/album/7hpcGYh5e59jKEu5bby13Q) | 2:29 |
-| 19 | [Perlas Negras](https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:23 |
-| 20 | [La Ciudad del Sol](https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [La Ciudad del Sol](https://open.spotify.com/album/49pJTurTujrSQA2I5QWRMC) | 3:25 |
-| 21 | [Cartier](https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cartier](https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB) | 3:06 |
-| 22 | [Enamórate de Mí](https://open.spotify.com/track/5EwWE1dReiNPEJ9xpUL0ZS) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 2:50 |
-| 23 | [Azul](https://open.spotify.com/track/43uVCdofMSLIGOaWWakkO0) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Azul](https://open.spotify.com/album/1UhzWnFPrhn178PkkD5Cbf) | 3:53 |
-| 24 | [Flores](https://open.spotify.com/track/7AG0fbggzFP7e7W2j7fUva) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna) | 4:43 |
-| 25 | [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 |
-| 26 | [OJITOS MENTIROSOS](https://open.spotify.com/track/1MPs1qa830QkHuyAOnaRqe) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [CRISTIAN](https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F) | 2:48 |
-| 27 | [Tusinelli](https://open.spotify.com/track/6rLuprn1IerY7zUfY8T0vn) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Angel Almaguer](https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr) | [Tusinelli](https://open.spotify.com/album/39ew6fy2e4DRYsjuAJHVn5) | 3:08 |
+| 17 | [Hips Don't Lie \- Spotify Anniversary Version](https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:28 |
+| 18 | [PLAYBOY](https://open.spotify.com/track/29njYrJqsr7TjooshA1BB5) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [PLAYBOY](https://open.spotify.com/album/0ZtiyNJlh8znaF6Yq5Pi8W) | 2:50 |
+| 19 | [no lo ves](https://open.spotify.com/track/7qCMCckflYXyt518lLIWbb) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [no lo ves](https://open.spotify.com/album/7hpcGYh5e59jKEu5bby13Q) | 2:29 |
+| 20 | [Perlas Negras](https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:23 |
+| 21 | [La Ciudad del Sol](https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [La Ciudad del Sol](https://open.spotify.com/album/49pJTurTujrSQA2I5QWRMC) | 3:25 |
+| 22 | [Cartier](https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cartier](https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB) | 3:06 |
+| 23 | [Enamórate de Mí](https://open.spotify.com/track/5EwWE1dReiNPEJ9xpUL0ZS) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 2:50 |
+| 24 | [Azul](https://open.spotify.com/track/43uVCdofMSLIGOaWWakkO0) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Azul](https://open.spotify.com/album/1UhzWnFPrhn178PkkD5Cbf) | 3:53 |
+| 25 | [Flores](https://open.spotify.com/track/7AG0fbggzFP7e7W2j7fUva) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna) | 4:43 |
+| 26 | [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 |
+| 27 | [OJITOS MENTIROSOS](https://open.spotify.com/track/1MPs1qa830QkHuyAOnaRqe) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [CRISTIAN](https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F) | 2:48 |
 | 28 | [King of Watches](https://open.spotify.com/track/3QJXJACwdZ3EaIqdF5ZiXh) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Tutankamon](https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz) | 2:27 |
 | 29 | [Pasta](https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Pasta](https://open.spotify.com/album/0EOkVu6Sp54EakQ5B0af0P) | 3:14 |
 | 30 | [Vice City](https://open.spotify.com/track/4BhC4JAAAkI5VV5KEMVP6k) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Vice City](https://open.spotify.com/album/2Mi0UQhynmysuUvzwTLNV7) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 | 49 | [Marlboro Rojo](https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 3:04 |
 | 50 | [CHAMPAGNE](https://open.spotify.com/track/0mfemgLsr0ucLSOBOc4xJ0) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [CHAMPAGNE](https://open.spotify.com/album/7EHBvCmhU7R8aN0w1AdtS1) | 3:15 |
 
-Snapshot ID: `AAAAAIjU7QFBfPHRrWWV8oaUaqeVs/jA`
+Snapshot ID: `AAAAAHn6GQfZsS0nrGck/IJOwCHrVurS`

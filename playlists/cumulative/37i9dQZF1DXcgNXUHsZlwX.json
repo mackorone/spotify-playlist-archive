@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 124960,
       "name": "_dec carte de no\u00ebl",
       "url": "https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1"
@@ -948,7 +948,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 179773,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
@@ -1677,6 +1677,28 @@
     },
     {
       "album": {
+        "name": "Demain \u00e7a ira",
+        "url": "https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU"
+      },
+      "artists": [
+        {
+          "name": "Mah\u00e9ja",
+          "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163374,
+      "name": "Demain \u00e7a ira",
+      "url": "https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE"
+    },
+    {
+      "album": {
         "name": "Hiboux",
         "url": "https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ"
       },
@@ -2096,7 +2118,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 158986,
       "name": "Endormi",
       "url": "https://open.spotify.com/track/4vRsjs1ghb4gAX53TNWDGr"
@@ -2424,7 +2446,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 195000,
       "name": "Feu de paille",
       "url": "https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe"
@@ -3042,6 +3064,24 @@
       "duration_ms": 178823,
       "name": "I Came Here to Leave You",
       "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
+    },
+    {
+      "album": {
+        "name": "At Least There Was Sun",
+        "url": "https://open.spotify.com/album/1zXmCKIvv5xFaocmUzOxkf"
+      },
+      "artists": [
+        {
+          "name": "Bennett Sobel",
+          "url": "https://open.spotify.com/artist/10xsha6upLn5rjO5ubnLCX"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191537,
+      "name": "I Can't Say No",
+      "url": "https://open.spotify.com/track/3EIuvIdROGqSO17ZmLS9gZ"
     },
     {
       "album": {
@@ -3988,6 +4028,24 @@
       "duration_ms": 189000,
       "name": "La cascade",
       "url": "https://open.spotify.com/track/2E9Tg1mtfo0JIOnca3JWm6"
+    },
+    {
+      "album": {
+        "name": "La Chute",
+        "url": "https://open.spotify.com/album/51P1ac3pkDzLc4GrkpVqJK"
+      },
+      "artists": [
+        {
+          "name": "La Fuite",
+          "url": "https://open.spotify.com/artist/4ZiHDCHZb5rGAmIzJTUAFS"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187026,
+      "name": "La Chute",
+      "url": "https://open.spotify.com/track/374jcJaBX089EaTo5qm8Qp"
     },
     {
       "album": {
@@ -5112,7 +5170,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 192461,
       "name": "Looking At Me",
       "url": "https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD"
@@ -5188,7 +5246,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 175746,
       "name": "Lost River",
       "url": "https://open.spotify.com/track/7lNvSd4Tmx7UBfXljzsDhY"
@@ -6522,7 +6580,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 242653,
       "name": "Pain",
       "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
@@ -7733,6 +7791,24 @@
     },
     {
       "album": {
+        "name": "Sauver les meubles",
+        "url": "https://open.spotify.com/album/0TJFSzQc9qquAM11aPfbbT"
+      },
+      "artists": [
+        {
+          "name": "Catherine Dagenais",
+          "url": "https://open.spotify.com/artist/5Jp5qU8P2cPohe5qVShPaq"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279466,
+      "name": "Sauver les meubles",
+      "url": "https://open.spotify.com/track/2T4JNScUoYDhRSDe1auC5L"
+    },
+    {
+      "album": {
         "name": "Goodnight Summerland",
         "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
       },
@@ -7766,6 +7842,28 @@
       "duration_ms": 193173,
       "name": "Si jamais",
       "url": "https://open.spotify.com/track/6NxtWlb6CoJIJfdfz8VesK"
+    },
+    {
+      "album": {
+        "name": "Si je r\u00eave ce n'est pas \u00e0 demain / Distance",
+        "url": "https://open.spotify.com/album/2WPZVqNQW1dvzWA2FPwcv9"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Desjardins",
+          "url": "https://open.spotify.com/artist/6qnTBolPgwqC1ylnpQMnjK"
+        },
+        {
+          "name": "\u00c9l\u00e9onore Dessureault",
+          "url": "https://open.spotify.com/artist/6FAPdpJY0Uut3d6B6BIXO3"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163092,
+      "name": "Si je r\u00eave ce n'est pas \u00e0 demain",
+      "url": "https://open.spotify.com/track/6vMdjYHtBnCMA9m86VigBg"
     },
     {
       "album": {
@@ -7940,6 +8038,28 @@
       "duration_ms": 175217,
       "name": "Souffle court",
       "url": "https://open.spotify.com/track/6hMZvq2jUNbxQNicH92fNu"
+    },
+    {
+      "album": {
+        "name": "Southern Star (feat. AURORA)",
+        "url": "https://open.spotify.com/album/09ffeND0KDUNaU5UvzHioj"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304760,
+      "name": "Southern Star (feat. AURORA)",
+      "url": "https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II"
     },
     {
       "album": {
@@ -8640,7 +8760,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 197320,
       "name": "Tu danses, condessa",
       "url": "https://open.spotify.com/track/2kM47CzCvo48ZaPGO6LFu2"
@@ -9175,6 +9295,24 @@
     },
     {
       "album": {
+        "name": "Onirique",
+        "url": "https://open.spotify.com/album/7pubw1Jps2gxvxj6ZkqLvi"
+      },
+      "artists": [
+        {
+          "name": "Racasse",
+          "url": "https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Villa",
+      "url": "https://open.spotify.com/track/0xnbHstMQpxYJwMBF0okSx"
+    },
+    {
+      "album": {
         "name": "Vis sans regret",
         "url": "https://open.spotify.com/album/2M4IwXtuXpXUqlMbEEM2dY"
       },
@@ -9418,6 +9556,24 @@
       "duration_ms": 197413,
       "name": "\u00c0 l\u2019ammoniaque / Mon dieu",
       "url": "https://open.spotify.com/track/6sfTa15xpNajQL1Mb1asik"
+    },
+    {
+      "album": {
+        "name": "\u00c0 toi",
+        "url": "https://open.spotify.com/album/1y3Jp3o9MA6k1wpWX2vQV1"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "\u00c0 toi",
+      "url": "https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd"
     },
     {
       "album": {

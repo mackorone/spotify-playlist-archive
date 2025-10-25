@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 24971,
+  "num_followers": 24972,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAD043BiwYhH1OJ9jqjhW2FW",
+  "snapshot_id": "aPlwAAAAAAC4Efe5eWOF7LOO86sd1Ipf",
   "tracks": [
     {
       "added_at": null,
@@ -79,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Slim Dusty Heritage Album",
-        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+        "name": "A Piece of Australia (Remastered)",
+        "url": "https://open.spotify.com/album/3CK418yRkaVxaLHsp8XRLB"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 188333,
-      "name": "Waltzing Matilda",
-      "url": "https://open.spotify.com/track/3ES9dBjha6huNi9vHAsQAo"
+      "duration_ms": 132093,
+      "name": "Cunnamulla Fella - 1998 Remaster",
+      "url": "https://open.spotify.com/track/002TGKi4LBwxYodlfWoaN0"
     },
     {
       "added_at": null,
@@ -111,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Piece of Australia (Remastered)",
-        "url": "https://open.spotify.com/album/3CK418yRkaVxaLHsp8XRLB"
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
       },
       "artists": [
         {
@@ -120,25 +120,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 132093,
-      "name": "Cunnamulla Fella - 1998 Remaster",
-      "url": "https://open.spotify.com/track/002TGKi4LBwxYodlfWoaN0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ringer From The Top End",
-        "url": "https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Charleville",
-      "url": "https://open.spotify.com/track/610yqiTu1JHursSimKCMyX"
+      "duration_ms": 188333,
+      "name": "Waltzing Matilda",
+      "url": "https://open.spotify.com/track/3ES9dBjha6huNi9vHAsQAo"
     },
     {
       "added_at": null,
@@ -159,6 +143,22 @@
       "duration_ms": 190826,
       "name": "G'Day G'Day",
       "url": "https://open.spotify.com/track/7s8eyRDMj04XXszU0QUVXs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ringer From The Top End",
+        "url": "https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Charleville",
+      "url": "https://open.spotify.com/track/610yqiTu1JHursSimKCMyX"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Whom It May Concern",
-        "url": "https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 169666,
-      "name": "Highway Fever - 1992 Digital Remaster",
-      "url": "https://open.spotify.com/track/3nSNkGNsZtI7CrVKxK5GCg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lights On The Hill (Remastered)",
         "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 174466,
       "name": "Pushin' Time",
       "url": "https://open.spotify.com/track/3H9nKLdJjaJLcOj4ChOcVQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To Whom It May Concern",
+        "url": "https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 169666,
+      "name": "Highway Fever - 1992 Digital Remaster",
+      "url": "https://open.spotify.com/track/3nSNkGNsZtI7CrVKxK5GCg"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "Angel Of Goulburn Hill",
-      "url": "https://open.spotify.com/track/5JaysecwBApfjwOKKWlzlg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Looking Forward Looking Back",
         "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 156800,
       "name": "A Bad Day's Fishin'",
       "url": "https://open.spotify.com/track/3PwrVREh5ak8dpX7rqYZ0N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me The Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "Angel Of Goulburn Hill",
+      "url": "https://open.spotify.com/track/5JaysecwBApfjwOKKWlzlg"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "The Bloke Who Serves The Beer",
+      "url": "https://open.spotify.com/track/6S88P3r3HlpyrAEn8yBjOP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Slim Dusty Heritage Album",
         "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
       },
@@ -463,26 +479,6 @@
       "duration_ms": 174773,
       "name": "Old Time Country Halls",
       "url": "https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Looking Forward Looking Back",
-        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        },
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Matilda No More",
-      "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
     },
     {
       "added_at": null,
@@ -519,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Matilda No More",
+      "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Give Me The Road (Remastered)",
         "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Looking Forward Looking Back",
-        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "The Bloke Who Serves The Beer",
-      "url": "https://open.spotify.com/track/6S88P3r3HlpyrAEn8yBjOP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truck Songs",
         "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
       },
@@ -563,22 +563,6 @@
       "duration_ms": 191693,
       "name": "Gotta Keep Moving",
       "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "Boomaroo Flyer",
-      "url": "https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "Boomaroo Flyer",
+      "url": "https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Very Best Of Slim Dusty (Remastered)",
         "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 193533,
       "name": "Plains Of Peppimenarti - 1998 Remaster",
       "url": "https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 162026,
-      "name": "Haulin' For The Double 'T'",
-      "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
     },
     {
       "added_at": null,
@@ -671,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "'99",
-        "url": "https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "Abalinga Mail",
-      "url": "https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'll Take Mine Country Style",
         "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
       },
@@ -699,6 +667,38 @@
       "duration_ms": 112133,
       "name": "Along The Road To Gundagai - Remaster 1995",
       "url": "https://open.spotify.com/track/7lTT3wNt9aK42uqJGDNgVC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 162026,
+      "name": "Haulin' For The Double 'T'",
+      "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "'99",
+        "url": "https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 183760,
+      "name": "Abalinga Mail",
+      "url": "https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Time Drover's Lament",
-        "url": "https://open.spotify.com/album/45DB0DhkzwyoMs2ff9P480"
+        "name": "I'll Take Mine Country Style",
+        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 209560,
-      "name": "Trumby - 1994 Remaster",
-      "url": "https://open.spotify.com/track/1KOaUT8dWrBaD9XxXGbLNl"
+      "duration_ms": 131093,
+      "name": "Cunnamulla Feller - Remaster 1995",
+      "url": "https://open.spotify.com/track/1HMf9KUJDJvphsme4RiG6B"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'll Take Mine Country Style",
-        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
+        "name": "Old Time Drover's Lament",
+        "url": "https://open.spotify.com/album/45DB0DhkzwyoMs2ff9P480"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 131093,
-      "name": "Cunnamulla Feller - Remaster 1995",
-      "url": "https://open.spotify.com/track/1HMf9KUJDJvphsme4RiG6B"
+      "duration_ms": 209560,
+      "name": "Trumby - 1994 Remaster",
+      "url": "https://open.spotify.com/track/1KOaUT8dWrBaD9XxXGbLNl"
     },
     {
       "added_at": null,

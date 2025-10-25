@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Waka Juju",
+        "url": "https://open.spotify.com/album/30gLt6nQcs5kTTU1n9zoZh"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387440,
+      "name": "Douala Serenade",
+      "url": "https://open.spotify.com/track/4bWXN4eM8Oh25PxWtPGrmw"
+    },
+    {
+      "album": {
         "name": "Afro-Soul Machine",
         "url": "https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4"
       },
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 354000,
       "name": "Emma (feat. Salif Keita)",
       "url": "https://open.spotify.com/track/1ltlkrZ2qV3JlCbdXNUa3N"

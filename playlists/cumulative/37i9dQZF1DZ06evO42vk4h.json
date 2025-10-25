@@ -103,6 +103,40 @@
     },
     {
       "album": {
+        "name": "Legend Live",
+        "url": "https://open.spotify.com/album/1LRXEDXI9ZsN1baHblE8ja"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Ze2",
+          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
+        },
+        {
+          "name": "Mashudu",
+          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
+        },
+        {
+          "name": "Jessica LM",
+          "url": "https://open.spotify.com/artist/3Q259wuL2vRuisWyvYcebg"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484297,
+      "name": "Amalunde - Club Mix",
+      "url": "https://open.spotify.com/track/32lCjQc0DH3jnYSYnvTquV"
+    },
+    {
+      "album": {
         "name": "Amandla (Radio Edit)",
         "url": "https://open.spotify.com/album/5ExndlCHFqj3xJj3NFVewQ"
       },
@@ -1610,7 +1644,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 343404,
       "name": "Sabela - Club Mix",
       "url": "https://open.spotify.com/track/4NyrfFyJnQWmjjc7Xc4q1n"

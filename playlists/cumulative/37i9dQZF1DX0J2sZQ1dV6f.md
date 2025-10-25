@@ -4,7 +4,7 @@
 
 > Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Esau Otriz
 
-531 songs - 1 day 3 hr 9 min
+532 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Melo](https://open.spotify.com/track/4ebqXIKgRTn0z0h1rTnBc8) | [Bebo & Deluxx](https://open.spotify.com/artist/0zooY90x77JepDmoCJriwQ) | [Melo](https://open.spotify.com/album/1KhTTrm1rRmxSuKPb5tKcn) | 2:43 | 2022-07-08 | 2022-07-22 |
 | [Mercedes Cuadrada](https://open.spotify.com/track/1gufxXlSBds5zb9UW755Id) | [El Primo](https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Mercedes Cuadrada](https://open.spotify.com/album/6h6zBzkLZALqUYY9J4SbA8) | 3:01 | 2024-03-01 | 2024-08-08 |
 | [Mi Credo](https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Mi Credo](https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY) | 2:07 | 2025-01-17 |  |
+| [Mi Cuernito](https://open.spotify.com/track/40t8KIooUPZuaZanTgPIcB) | [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Mi Cuernito](https://open.spotify.com/album/31dSkzoXxdgF04j2pfvM4r) | 2:55 | 2025-10-24 |  |
 | [MI EXXX](https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [MI EXXX](https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC) | 3:14 | 2023-05-25 | 2023-12-07 |
 | [Mi Gata \- Remix](https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mi Gata \(Remix\)](https://open.spotify.com/album/49nXirxfEoHGlEkrzCp2tE) | 4:06 | 2023-05-25 | 2023-12-07 |
 | [Mi Peor Error](https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Mi Peor Error](https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF) | 3:03 | 2022-09-16 | 2023-05-26 |

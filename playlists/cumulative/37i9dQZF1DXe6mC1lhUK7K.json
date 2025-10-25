@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Final Girl",
+        "url": "https://open.spotify.com/album/0iuT0lgZ7hzwIENcggBOj4"
+      },
+      "artists": [
+        {
+          "name": "Lazygirl",
+          "url": "https://open.spotify.com/artist/1YV0K79qt0uLTxtGflXTH9"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "Final Girl",
+      "url": "https://open.spotify.com/track/3fok9plswB5ajvSFNZYQX1"
+    },
+    {
+      "album": {
         "name": "Where Have All The Merrymakers Gone?",
         "url": "https://open.spotify.com/album/554gpRastI7dbOcir9eAkL"
       },

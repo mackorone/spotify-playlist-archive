@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Lila\-May
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,232 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,254 likes - 60 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 8 | [Big Band Boogie \(feat\. Kenny G\)](https://open.spotify.com/track/48W2JnDmP6n5pfqxZkpeOM) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Big Band Boogie \(feat\. Kenny G\)](https://open.spotify.com/album/29K3BX7ekSHA1ivCcCozr6) | 3:05 |
 | 9 | [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 |
 | 10 | [That's Life](https://open.spotify.com/track/5LsONMtTM5mUvPBoo0Ayl0) | [The Getdown](https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ), [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh) | [The Getdown](https://open.spotify.com/album/0Mc1HIpKFoQVEaYVV0PiOF) | 2:55 |
-| 11 | [Track 14](https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [](https://open.spotify.com/album/null) | 0:00 |
+| 11 | [Longest Way Round](https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Teal Dreams](https://open.spotify.com/album/2AzTf9LVZzgJ7DoN1nE7uQ) | 3:42 |
 | 12 | [The Playful Listener](https://open.spotify.com/track/1O8upChPtS2EYyK3krjqy0) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Everyday Superheroes](https://open.spotify.com/album/0t29Q1FASaChkVGRq3C8QF) | 3:56 |
 | 13 | [deja vu \(feat\. Joe la panic\)](https://open.spotify.com/track/7ME2fa1efBC5wro6jF58fD) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg), [Joe la panic](https://open.spotify.com/artist/0WrQRK1aus4QQQlPTGOcat) | [deja vu](https://open.spotify.com/album/6ubPusS1bjeVnXteMzh4qE) | 2:43 |
 | 14 | [One of these nights](https://open.spotify.com/track/4mwrX6jMDm10eaSj3YbDvC) | [Lady Linn](https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL) | [Midnight Sun](https://open.spotify.com/album/1zdTR2TZsWcMFulVjg5OUu) | 3:54 |

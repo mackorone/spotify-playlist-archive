@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,180 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,192 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vivir Mi Vida](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:12 |
 | 2 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
 | 3 | [Traicionera](https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx) | [Vallenatos Nativos](https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok) | [Latin Vallenatos](https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D) | 3:34 |
-| 4 | [Santa Claus Llegó a La Ciudad](https://open.spotify.com/track/6xus3uyJwiaGDTnAjU10oa) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Holy Moly Christmas](https://open.spotify.com/album/67mt3JPGbDT4J2tptkiIIk) | 3:02 |
-| 5 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 4:28 |
-| 6 | [Me Voy A Regalar](https://open.spotify.com/track/3zgmOyM7uUT1xdEXU9r8Bl) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 5:25 |
+| 4 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 4:28 |
+| 5 | [CANTARES DE NAVIDAD](https://open.spotify.com/track/2Iv6YBslkxslMJQsxshZh5) | [Trio Vegabajeño](https://open.spotify.com/artist/5TphiK6LsT4X5NOZxq3NJB) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:19 |
+| 6 | [Santa Claus Llegó a La Ciudad](https://open.spotify.com/track/6xus3uyJwiaGDTnAjU10oa) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Holy Moly Christmas](https://open.spotify.com/album/67mt3JPGbDT4J2tptkiIIk) | 3:02 |
 | 7 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
-| 8 | [CANTARES DE NAVIDAD](https://open.spotify.com/track/2Iv6YBslkxslMJQsxshZh5) | [Trio Vegabajeño](https://open.spotify.com/artist/5TphiK6LsT4X5NOZxq3NJB) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:19 |
+| 8 | [Me Voy A Regalar](https://open.spotify.com/track/3zgmOyM7uUT1xdEXU9r8Bl) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 5:25 |
 | 9 | [El Año Viejo](https://open.spotify.com/track/5PZlMcW7VUlti8IRdApRIn) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [El Año Viejo](https://open.spotify.com/album/71sqz38xfGvclndbAzc4Gc) | 3:05 |
 | 10 | [Amparito](https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Éxitos Maracaibo 15](https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5) | 3:12 |
 | 11 | [Sorbito De Champagne](https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 99 | [Gaita es Gaita](https://open.spotify.com/track/4KMwOrUZ2L4g7CXpjHhA2f) | [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y), [Neguito Borjas](https://open.spotify.com/artist/6rs8uM2E2JKbIHk4oTgdVC) | [C4 Suena a Navidad](https://open.spotify.com/album/2rRbC5Ti8ji2BoEYU28tva) | 3:57 |
 | 100 | [El Aguinaldo de Doña Elena](https://open.spotify.com/track/3rQIGx2oxTI9DUFHTjRGTG) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Navidad a Mi Estilo](https://open.spotify.com/album/1VUH7FLhnfscPhy36p8m8H) | 4:14 |
 
-Snapshot ID: `AAAAALJPltAq0tELvohcQr9s/hHLW73j`
+Snapshot ID: `AAAAAG9lsd9lcOM4pYfK86UzDBXGCjhQ`

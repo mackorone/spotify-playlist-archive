@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Outlines",
+        "url": "https://open.spotify.com/album/0UoWAr3JIqpaCI27ojbhI8"
+      },
+      "artists": [
+        {
+          "name": "Katy for Kings",
+          "url": "https://open.spotify.com/artist/2AofFktDEQuzk1LKKEQ9Ox"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215605,
+      "name": "Harsh Truth",
+      "url": "https://open.spotify.com/track/0I62G9pXVf2UomZSlTzlYI"
+    },
+    {
+      "album": {
         "name": "Nobody Wants This Season 2: The Soundtrack",
         "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
       },

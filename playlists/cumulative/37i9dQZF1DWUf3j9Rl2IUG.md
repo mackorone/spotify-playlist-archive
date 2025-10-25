@@ -2,9 +2,9 @@
 
 ### [Gbedu](https://open.spotify.com/playlist/37i9dQZF1DWUf3j9Rl2IUG)
 
-> Afrobeats' hottest singles\. Cover: Ayra Starr
+> Afrobeats' hottest singles\. Cover: Mavo
 
-569 songs - 1 day 2 hr 52 min
+570 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [For Daddy](https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [For Daddy](https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf) | 2:33 | 2023-05-04 | 2023-12-02 |
 | [For Days](https://open.spotify.com/track/1a4F4Gb0jQ4QsAYv4nMBoD) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [AYOMIPO](https://open.spotify.com/artist/5TN7mfvPehlALb4YJ4I7x3) | [For Days](https://open.spotify.com/album/5vbe78H3h0GzVhwp4djYaq) | 3:27 | 2025-08-01 | 2025-08-29 |
 | [For Where?](https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [For Where?](https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK) | 1:53 | 2024-11-29 | 2025-02-25 |
-| [FOR YOU](https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [FOR YOU](https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV) | 2:28 | 2025-03-31 |  |
+| [FOR YOU](https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [FOR YOU](https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV) | 2:28 | 2025-03-31 | 2025-10-25 |
 | [Formula](https://open.spotify.com/track/4LBLe7bFvaXy2JCEDqrcnC) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Formula](https://open.spotify.com/album/4fdqH5RYucjH0vlQkiINeQ) | 2:42 | 2024-07-19 | 2024-07-27 |
 | [Free of Charge](https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Viva Lavida](https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w) | 2:53 | 2025-03-28 | 2025-07-18 |
 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 | 2024-10-14 |  |
@@ -476,6 +476,7 @@
 | [shadow](https://open.spotify.com/track/6Jllvxl97ni5T2bW3zEDGi) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [shadow](https://open.spotify.com/album/2IFdqPlm98pTA57pt9iTdU) | 2:40 | 2024-04-12 | 2024-04-19 |
 | [Shagara](https://open.spotify.com/track/0yxmn9m8srZL6Ood6LVXfl) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Shagara](https://open.spotify.com/album/40blKlB4Hlfh19dHcoSoai) | 3:21 | 2024-09-13 | 2024-10-18 |
 | [Shakabulizzy](https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shakabulizzy](https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s) | 2:45 | 2025-09-19 |  |
+| [Shakabulizzy \- Remix](https://open.spotify.com/track/3yzs58LteW16AjEb4J5vvi) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Shakabulizzy \(Remix\)](https://open.spotify.com/album/7ASL5WnVt8QkEB0QvwtIjM) | 2:55 | 2025-10-24 |  |
 | [Shake](https://open.spotify.com/track/2Tnj5scf4WyR54SNu3pb9T) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Peace by Piece](https://open.spotify.com/album/06dCmbV7kTlPBXLhGEEgqQ) | 2:21 | 2025-09-26 | 2025-10-17 |
 | [SHAOLIN](https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:20 | 2025-02-24 |  |
 | [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-20 | 2024-05-07 |

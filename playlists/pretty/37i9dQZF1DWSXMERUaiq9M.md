@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > The sound of a new generation\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,826 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,011 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 4 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
 | 5 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
 | 6 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 |
-| 7 | [Track 3](https://open.spotify.com/track/3V8NtZAKzVhM6XexfKl0fq) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [](https://open.spotify.com/album/null) | 0:00 |
+| 7 | [Turn It Up](https://open.spotify.com/track/3V8NtZAKzVhM6XexfKl0fq) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [All Yours](https://open.spotify.com/album/3onzNjfLd2w7n3CcOCDspZ) | 4:15 |
 | 8 | [Pool \- Gravagerz Version](https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc), [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Pool \(Gravagerz Version\)](https://open.spotify.com/album/2LGm9ZhmyFb1h8Du7hV9O9) | 2:05 |
 | 9 | [tell you straight \- Sped Up](https://open.spotify.com/track/4zWWGFmM2LhtnMAVrTmYBg) | [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH), [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT) | [tell you straight \(Speed Garage\)](https://open.spotify.com/album/7k9LXSIhJe0FDIPZJh1VGn) | 1:34 |
 | 10 | [Dernière danse \- Techno Mix](https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Dernière danse \(Techno Mix\)](https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q) | 3:17 |

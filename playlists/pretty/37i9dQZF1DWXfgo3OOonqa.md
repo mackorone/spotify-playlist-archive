@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,264 likes - 159 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,262 likes - 159 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Offline](https://open.spotify.com/track/6LQSHYiDKmkehXiDELsyE1) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM), [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [Offline](https://open.spotify.com/album/6lnTWUT8fc608HdV66fpBl) | 2:02 |
-| 2 | [X](https://open.spotify.com/track/7DYvcwCrtckSM5bidztQhj) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [](https://open.spotify.com/album/null) | 2:42 |
+| 2 | [X](https://open.spotify.com/track/7DYvcwCrtckSM5bidztQhj) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [YEMAYA II](https://open.spotify.com/album/6xqiRAirHxigWJD1nHiXUj) | 2:42 |
 | 3 | [Narco Corrido](https://open.spotify.com/track/5PqJODSNsHfTtdpQyAYud2) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Narco Corrido](https://open.spotify.com/album/7GtkZHbsUyn5HQ5ssEtYfI) | 1:53 |
-| 4 | [INGEN VARNING](https://open.spotify.com/track/2QA2D3koTkPELwqgUqaFww) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [](https://open.spotify.com/album/null) | 2:45 |
+| 4 | [INGEN VARNING](https://open.spotify.com/track/2QA2D3koTkPELwqgUqaFww) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [SKITZOFRENIA](https://open.spotify.com/album/2oE0Zzk4NFiuQZT8Vsqybo) | 2:45 |
 | 5 | [Content](https://open.spotify.com/track/1vXsEIE4S8wsRGm2V8YO1L) | [Shacki](https://open.spotify.com/artist/2PuGN7y0Lvx9ItrBKyutPU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Content](https://open.spotify.com/album/37Kh4LJdPQl3gwqk3V5klw) | 2:20 |
 | 6 | [MURDA TOWN](https://open.spotify.com/track/4e5R2JMhJ7v6U3KAxwk4uC) | [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y) | [MURDA TOWN](https://open.spotify.com/album/5v0S0iwX2oCmjIEJiY3aaT) | 1:52 |
-| 7 | [25](https://open.spotify.com/track/1QdUmwck1w9lK503YJErFy) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [](https://open.spotify.com/album/null) | 2:32 |
+| 7 | [25](https://open.spotify.com/track/1QdUmwck1w9lK503YJErFy) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [YEMAYA II](https://open.spotify.com/album/6xqiRAirHxigWJD1nHiXUj) | 2:32 |
 | 8 | [TRAFIKERA](https://open.spotify.com/track/5m7EUgH8J2iiDvCM7FE5Fl) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [TRAFIKERA](https://open.spotify.com/album/16xKDjWnDIhvUrUWD3PONZ) | 2:03 |
 | 9 | [EURO & KRONOR](https://open.spotify.com/track/0L37clseWYmcdXsAvuCAb1) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [EURO & KRONOR](https://open.spotify.com/album/4dTsPKpxGRtnkuOAdSenfe) | 2:05 |
 | 10 | [SANTA](https://open.spotify.com/track/7s7viVLB8ydWFoeKa8p5pF) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [SANTA](https://open.spotify.com/album/3RAx4RXxOvgi4TPzkXWXpc) | 2:41 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,001 likes - 78 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,001 likes - 78 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [](https://open.spotify.com/album/null) | 2:45 |
+| 1 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 |
 | 2 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 3 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 |
 | 4 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 9 | [Always](https://open.spotify.com/track/3Y1aIQRbvcXc7ZxcDC4rvs) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Always](https://open.spotify.com/album/3XM4YnOEeSoyTnucc5U0Jp) | 3:28 |
 | 10 | [Play This Song \(feat\. Anderson .Paak\)](https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:44 |
 | 11 | [Too Much](https://open.spotify.com/track/0mhlIcF2UReFGIl6XvKzB4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Too Much](https://open.spotify.com/album/7AywMcUIGhC5MePplTL80A) | 2:46 |
-| 12 | [Track 14](https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [](https://open.spotify.com/album/null) | 0:00 |
+| 12 | [Longest Way Round](https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Teal Dreams](https://open.spotify.com/album/2AzTf9LVZzgJ7DoN1nE7uQ) | 3:42 |
 | 13 | [404:LOVE NOT FOUND](https://open.spotify.com/track/3QvrwJXyS59m30VB8Qzv8N) | [日野健太](https://open.spotify.com/artist/24HtvComPU5kD1X2RbDTZt) | [Confluxion](https://open.spotify.com/album/0BocQqRnvtKClIQ5J2KzVv) | 4:11 |
 | 14 | [Find My Love](https://open.spotify.com/track/3BkkIdPVSl1vQu6lrzsg3l) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Find My Love](https://open.spotify.com/album/5y5BaqS5OvqYO1nXWEVd8m) | 3:41 |
 | 15 | [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 |

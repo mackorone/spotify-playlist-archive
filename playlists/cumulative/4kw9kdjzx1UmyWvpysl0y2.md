@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,100 songs - 2 day 13 hr 28 min
+1,101 songs - 2 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,6 +557,7 @@
 | [Lights](https://open.spotify.com/track/1bI70ChgVQeRFWPlcf8Mjz) | [Melchi](https://open.spotify.com/artist/7LG5EbBmbQORP6SG9BDzSA) | [Lights](https://open.spotify.com/album/29OJjQm5SnnJqguRFVVvwi) | 3:51 | 2022-06-03 | 2022-08-13 |
 | [Lights Out](https://open.spotify.com/track/75QDpUx2auLj2WBmq4D4DO) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Lights Out](https://open.spotify.com/album/1O3Pne76S6foaWI0eLw3BJ) | 2:55 | 2022-04-04 | 2022-06-15 |
 | [LIGHTSHOW](https://open.spotify.com/track/4adPSM4awRZkMR24DmZ3gj) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [LIGHTSHOW](https://open.spotify.com/album/79ZaRE4ev6xGaY1p4Tl5sn) | 2:25 | 2025-05-20 | 2025-08-16 |
+| [Lightweight](https://open.spotify.com/track/3tao5fIRVOmNroDmagFwTs) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Lightweight](https://open.spotify.com/album/3xCfH06zHPBX1Hj930l2bF) | 9:29 | 2025-10-24 |  |
 | [Lily Garden](https://open.spotify.com/track/7wRqT3udwo3luOmcQhYpzB) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi), [Oliver River](https://open.spotify.com/artist/38xDMgRyJXkmnsp3Q4Q9wv) | [Lily Garden](https://open.spotify.com/album/5tplUNgqHpTQkv086mPPIm) | 3:18 | 2024-08-13 | 2024-11-05 |
 | [Liminal](https://open.spotify.com/track/10tif34C0hcgqdDgsvQLQG) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Convexity](https://open.spotify.com/artist/5yyqKaR2sQiuMm2gC83f31) | [Liminal](https://open.spotify.com/album/5aQuFD0k2AvweTvB4NWsL7) | 3:38 | 2024-01-19 | 2024-04-10 |
 | [Limitless](https://open.spotify.com/track/2zpxKZdSjm0J2VRIn8PpgH) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:48 | 2022-11-16 | 2023-02-09 |

@@ -4,7 +4,7 @@
 
 > Introducing the hottest classical music of 2025🔥
 
-201 songs - 13 hr 37 min
+202 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Icarus](https://open.spotify.com/track/16M1d6DBt5G5xKcKiGNULe) | [Alex Kozobolis](https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO) | [Icarus](https://open.spotify.com/album/6NQac6RUcvHDESG7MoVewZ) | 3:47 | 2025-02-21 |  |
 | [ICARUS \- Orchestral Version](https://open.spotify.com/track/65EGyXq1ZSEQ47vOWdIkMC) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN), [ARKAI](https://open.spotify.com/artist/7dnUOUzgamqskX6F9yV7B1) | [ICARUS \(Orchestral Version\)](https://open.spotify.com/album/7hvINzZ3iT0iBtqCwhpOyg) | 2:50 | 2025-01-24 |  |
 | [Idea 10](https://open.spotify.com/track/1lb3H41lbvAN28N7yqRNL9) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 10](https://open.spotify.com/album/537DpzZYvcwyR7Fvl3QnXE) | 2:08 | 2025-09-19 |  |
+| [III\. Finale\. Allegro energico](https://open.spotify.com/track/1iNYoz2r5BygRpOZco1Y1t) | [Max Bruch](https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5), [Johan Dalene](https://open.spotify.com/artist/6bzcYpT0W1fheZys2ApYBz), [Swedish Radio Symphony Orchestra](https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS), [Gemma New](https://open.spotify.com/artist/4ykyo3tYKuavow1VyVsDrM) | [Max Bruch: Violin Concerto No\. 1 in G Minor, Op\. 26: III\. Finale\. Allegro energico](https://open.spotify.com/album/2YXaizJfZTb15hcuIyUi2X) | 7:39 | 2025-10-24 |  |
 | [Jasmine](https://open.spotify.com/track/5rbbq5uwbmTFeyVWUjIZaX) | [Julian Lloyd Webber](https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Jasmine](https://open.spotify.com/album/4tVjwFeG1tOas8WmMqZjxP) | 2:39 | 2025-01-24 |  |
 | [Jazz Suite No\. 2: VI\. Waltz 2](https://open.spotify.com/track/0pjCsB0XNSyqM9UazlTODC) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Russian State Symphony Orchestra](https://open.spotify.com/artist/0DJZPK3nRWESIS0yexi6Qi), [Dmitry Yablonsky](https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb) | [Shostakovich: Jazz Suites Nos\. 1 \- 2 / The Bolt / Tahiti Trot](https://open.spotify.com/album/7K4HfPLJ2JwvXBF02SAiXx) | 3:13 | 2025-09-19 |  |
 | [Jenůfa \(Její pastorkyňa\), JW I/4, Act III Scene 1: Prelude](https://open.spotify.com/track/2xuyyzPiDlUPZH9kJyVeO3) | [Leoš Janáček](https://open.spotify.com/artist/46xXzoOdtD7SL2PTRq5irp), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Janáček: Jenůfa \(Její pastorkyňa\), JW I/4, Act III Scene 1: Prelude](https://open.spotify.com/album/2pACZH9nLzJVyBVkxvcJG6) | 1:43 | 2025-04-11 |  |

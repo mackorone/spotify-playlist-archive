@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Charlie Charles, Papa V , Capo Plaza, Mecna, Carla Hero e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,439 likes - 105 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,465 likes - 105 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Una volta in più](https://open.spotify.com/track/5dqkc7ZnOfMiZezdh8i9ij) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [La bella confusione](https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO) | 3:01 |
 | 2 | [Tu Mi Piaci \(feat\. Artie 5ive\)](https://open.spotify.com/track/6aJgQaUFTLYYW3uYdhYn9P) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Tu Mi Piaci \(feat\. Artie 5ive\)](https://open.spotify.com/album/2XXP6qcJeqgSVKXaYHD4y3) | 2:25 |
 | 3 | [Caramel](https://open.spotify.com/track/1qd3VDzfheygZf4m7lygoV) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Caramel](https://open.spotify.com/album/4dVaqGJejR0tcnwIgdaWpJ) | 3:00 |
-| 4 | [Track 7](https://open.spotify.com/track/1K4DOAiklUwaABIuKi7HNg) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [](https://open.spotify.com/album/null) | 0:00 |
+| 4 | [TERAPIA](https://open.spotify.com/track/1K4DOAiklUwaABIuKi7HNg) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [DISCORDIA, ARMONIA E ALTRI STATI D'ANIMO](https://open.spotify.com/album/44w3s0STY96UbKK7wFhWQL) | 3:14 |
 | 5 | [Superstite](https://open.spotify.com/track/5WfBKsWx0hxCEsviZ5QVqk) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [La bella confusione](https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO) | 3:33 |
 | 6 | [CAMBIARE VITA](https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [QUARTA DIMENSIONE](https://open.spotify.com/album/3SIcscGSZtXx88OlAVborN) | 2:01 |
 | 7 | [Posto di merda](https://open.spotify.com/track/0beDjkv7eFvey5fY1VkZxI) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Posto di merda](https://open.spotify.com/album/0m2Mb7PyPleJsLB4kJmSLf) | 2:08 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 25 | [Felicità 2](https://open.spotify.com/track/0RIUPuefusjS3MWDLvhP8c) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Felicità 2](https://open.spotify.com/album/3AH2rrreD1bv10NB7pSbx9) | 2:52 |
 | 26 | [a me piace \#249 \(feat\. LILCR\)](https://open.spotify.com/track/78Wk5K5YOrpyaRxgWmh7qN) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [TORINO SANGUINA](https://open.spotify.com/album/38dpyXQ8dnqHjKNxOqst2S) | 2:31 |
 | 27 | [Sesso in strada](https://open.spotify.com/track/5WmYJj386xh0yOzXcGet8v) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Sesso in strada](https://open.spotify.com/album/61AWtimOGE15zMTrIDtkrZ) | 2:32 |
-| 28 | [Track 7](https://open.spotify.com/track/0N9qDDpB8Pd0q07VpunhlV) | [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ) | [](https://open.spotify.com/album/null) | 0:00 |
+| 28 | [Settembre](https://open.spotify.com/track/0N9qDDpB8Pd0q07VpunhlV) | [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Poco dopo mezzanotte](https://open.spotify.com/album/1uopB5lFeCi2xsPukEnLPZ) | 2:47 |
 | 29 | [IncrEdible Freestyle, pt\. IV](https://open.spotify.com/track/6VrZppoTt3YJ847GZYg1Iv) | [W.edy Wonders](https://open.spotify.com/artist/3MRErInSm7swUFxG3Re6LR), [DJ Fastcut](https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw), [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [IncrEdible Freestyle, pt\. IV](https://open.spotify.com/album/4mGjbNDpPafcMP0ijaqFrD) | 1:13 |
 | 30 | [Mollami](https://open.spotify.com/track/61nvdx8fAPqk90C8v0Pncm) | [Due G](https://open.spotify.com/artist/7ICNoOv4dBRG72UaFP5Aba) | [Mollami](https://open.spotify.com/album/4CtqlMpuiMgKi4IrEOrP3f) | 2:58 |
 | 31 | [WTF](https://open.spotify.com/track/0muX94SererNrLKUDmup59) | [Peter Napo](https://open.spotify.com/artist/78gBgd0qhvqdG79UAS3mj4) | [WTF](https://open.spotify.com/album/4YdsAucOMiYCJVDsAeJCFE) | 2:58 |

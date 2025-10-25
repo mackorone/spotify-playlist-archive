@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Paris Paloma
 
-541 songs - 1 day 6 hr 40 min
+545 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Hundred Mile High](https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hundred Mile High](https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr) | 2:52 | 2025-01-31 |  |
 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 | 2023-09-22 | 2024-08-03 |
 | [I Don't Deserve It](https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [I Don't Deserve It](https://open.spotify.com/album/1DHgLR9HwTeITN8oNL96Q8) | 3:46 | 2022-03-12 | 2022-11-13 |
+| [I Don't Need to Know How This Ends](https://open.spotify.com/track/5y0oplBzk3wfWfTkQiStiG) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [I Don't Need to Know How This Ends](https://open.spotify.com/album/2hLDuGtgdzuVQQ3m2Nskt4) | 2:43 | 2025-10-24 |  |
 | [I Don't Really Care For You](https://open.spotify.com/track/5heU7rc2joRWgV7zz9N0Ll) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [I Don't Really Care For You](https://open.spotify.com/album/2WVqGcJwbqBQxJCeytGbvx) | 4:03 | 2021-11-12 | 2022-07-28 |
 | [I Don't Really Care for You](https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:04 | 2022-10-14 | 2024-03-30 |
 | [I Don't Really Care for You](https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead](https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw) | 4:04 | 2022-03-12 | 2022-10-13 |
@@ -283,6 +284,7 @@
 | [L\-Train](https://open.spotify.com/track/5uDxY7uEOSHI8OOqYphnr4) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [L\-Train](https://open.spotify.com/album/3HqA2mPPC5Uadvdt9AU0HO) | 3:47 | 2022-08-19 | 2022-10-06 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-09-22 |  |
 | [Landmine](https://open.spotify.com/track/4YjTwBC1T231kB5AEOK8vf) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/4wiL1pYcgXSvhbaGuM1Xxo) | 3:04 | 2023-07-28 | 2025-06-21 |
+| [Last Flight Out](https://open.spotify.com/track/4ua6aPbpQwfsR27GtL7OpP) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Last Flight Out](https://open.spotify.com/album/1p0ku7lZCa66cJJG1AxrqR) | 3:54 | 2025-10-24 |  |
 | [Late Texts](https://open.spotify.com/track/36RPbRMFf8h79OUpEyjveD) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Late Texts](https://open.spotify.com/album/1PTPDyzku0kwaY55kZJLW0) | 3:21 | 2024-09-20 |  |
 | [Leave](https://open.spotify.com/track/0Z375dvneNK9D6Bc5JnjhF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Leave](https://open.spotify.com/album/2zwQsQOUckjqeOZ8Id2hVL) | 3:22 | 2024-01-19 | 2024-04-19 |
 | [Leave It Better Than You Found It](https://open.spotify.com/track/73OY8N8vCvK9iKuPoEtSNG) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Leave It Better Than You Found It](https://open.spotify.com/album/5rGQr2kYqMdISOjXQJkul8) | 4:45 | 2023-12-15 | 2025-04-12 |
@@ -416,6 +418,7 @@
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-03-22 | 2025-07-26 |
 | [So Long, London](https://open.spotify.com/track/0mWVScJbxO3tbXuiZOxYZE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT) | 4:22 | 2024-04-19 | 2024-05-18 |
 | [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-03-29 | 2025-08-16 |
+| [Sold The Boat](https://open.spotify.com/track/6DuwktffnT5js6LMBYpTuk) | [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Wither](https://open.spotify.com/album/6nZohz3sIRY813vfwdtmAr) | 3:33 | 2025-10-24 |  |
 | [Solo](https://open.spotify.com/track/0zcCGdrTZqUVfWOOgPYLLB) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 3:19 | 2024-03-29 | 2024-08-24 |
 | [Some Kind Of Love](https://open.spotify.com/track/4UkpYAxwW1ccMWAhNiyeaW) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Some Kind Of Love](https://open.spotify.com/album/1bH8H3VIEETtPH1pPzIysT) | 3:48 | 2022-03-12 | 2022-12-28 |
 | [Somebody Nobody Gets Over](https://open.spotify.com/track/4mgHSgglAVlr7i7vPKJmSo) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Somebody Nobody Gets Over](https://open.spotify.com/album/49xvRotzBI9ef94BJ5WhHf) | 2:47 | 2025-08-01 |  |
@@ -457,6 +460,7 @@
 | [The Only Thing Left](https://open.spotify.com/track/5rOkv636e3XHJmjLHvjLPT) | [Vincent Lima](https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX) | [Versions of Uncertainty](https://open.spotify.com/album/3s0BEYs9blTh9wpgsSH3wm) | 3:27 | 2024-07-19 |  |
 | [The Other Side](https://open.spotify.com/track/5ASXKBcnFeouRbWSkSgwkg) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [The Other Side](https://open.spotify.com/album/6Bf4Ppas9nS1Puv4J5hkNH) | 2:44 | 2023-12-27 | 2024-12-14 |
 | [The Other Side](https://open.spotify.com/track/7hVZJGsh5fxFtwaqgJq1nf) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [The Other Side](https://open.spotify.com/album/5hJtcqGwi9lmFElCqPRnlS) | 2:44 | 2023-12-27 | 2024-04-19 |
+| [The Pines](https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Pines](https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm) | 3:05 | 2025-10-24 |  |
 | [The Player](https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [The Player](https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg) | 2:48 | 2024-08-23 | 2025-04-26 |
 | [The Reaper](https://open.spotify.com/track/1h1cFLBjXf4SgoCxbrcrLC) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Reaper](https://open.spotify.com/album/56quvGXHpGk8v1UoAirScb) | 3:08 | 2025-03-07 |  |
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-07-07 | 2025-04-12 |

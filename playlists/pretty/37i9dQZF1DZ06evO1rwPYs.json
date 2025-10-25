@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 106390,
+  "num_followers": 106401,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAB8i3e8j691RgvFhSIGN971",
+  "snapshot_id": "aPlwAAAAAAAgcYJFAubSmjbr6ZTXTewG",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siempre Vivir\u00e9",
+        "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "Celia's Oye Como Va (Oye Como Va)",
+      "url": "https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 342173,
       "name": "Toro Mata",
       "url": "https://open.spotify.com/track/0lXxj5T6jeovmtd460qrFN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siempre Vivir\u00e9",
-        "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "Celia's Oye Como Va (Oye Como Va)",
-      "url": "https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celia & Johnny",
-        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 331466,
-      "name": "Canto A La Habana",
-      "url": "https://open.spotify.com/track/04ntstVQkinXmizGA5RWDR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuba's Queen Of Rhythm",
         "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 347666,
       "name": "Por Si Acaso No Regreso",
       "url": "https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 331466,
+      "name": "Canto A La Habana",
+      "url": "https://open.spotify.com/track/04ntstVQkinXmizGA5RWDR"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Tierna, Conmovedora, Bamboleadora",
-        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Desvelo De Amor",
-      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuba's Queen Of Rhythm",
         "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 186106,
       "name": "Pa La Paloma",
       "url": "https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Tierna, Conmovedora, Bamboleadora",
+        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Desvelo De Amor",
+      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
     },
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "No Encuentro Palabras",
-      "url": "https://open.spotify.com/track/43T1DZEtE6edC62ojuU5Dw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viva la Reina de la Salsa",
         "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 224293,
       "name": "Cao Cao Man\u00ed Picao",
       "url": "https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "No Encuentro Palabras",
+      "url": "https://open.spotify.com/track/43T1DZEtE6edC62ojuU5Dw"
     },
     {
       "added_at": null,
@@ -999,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celia Cruz Centennial",
-        "url": "https://open.spotify.com/album/4UWhyS8tzlwpbkEm7DyNR1"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 272251,
-      "name": "Oye C\u00f3mo Va",
-      "url": "https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Guarachas De La Guarachera",
         "url": "https://open.spotify.com/album/0tEngAyPWimFTRtVrbbvGB"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 166200,
       "name": "Juancito Trucupey",
       "url": "https://open.spotify.com/track/2QPG2p6h37YhkJCzceqrrP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celia Cruz Centennial",
+        "url": "https://open.spotify.com/album/4UWhyS8tzlwpbkEm7DyNR1"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 272251,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr"
     },
     {
       "added_at": null,

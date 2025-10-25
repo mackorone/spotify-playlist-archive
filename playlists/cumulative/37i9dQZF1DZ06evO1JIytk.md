@@ -4,7 +4,7 @@
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-123 songs - 5 hr 39 min
+124 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/2fPKdiqwKvEdhtytC0kDED) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/album/16zuCh6AvPoS058XshhseX) | 3:36 | 2022-10-07 | 2023-05-10 |
 | [Mumia's Song](https://open.spotify.com/track/1rGA7S3uo32WJqgtbmA0OP) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Mobilize](https://open.spotify.com/album/2qFZdRj2TtLPI36n7XQK9I) | 2:24 | 2025-03-13 | 2025-05-10 |
 | [No Allegiance To A Flag](https://open.spotify.com/track/798wYM5enzA8WSIIpLdtlw) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Division](https://open.spotify.com/album/3thDALJX9mvXyJVNSqHwd7) | 2:01 | 2022-09-16 | 2023-04-20 |
-| [No Apology](https://open.spotify.com/track/7yDhbySqtQtoCgrH3uI9FM) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:17 | 2024-03-13 |  |
+| [No Apology](https://open.spotify.com/track/7yDhbySqtQtoCgrH3uI9FM) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:17 | 2024-03-13 | 2025-10-25 |
 | [NVREVR \(feat\. Stacey Dee of Bad Cop/Bad Cop\)](https://open.spotify.com/track/4vQ8s5KjX2xUuGwPQt5ySu) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Stacey Dee](https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 4:40 | 2023-05-16 |  |
 | [NVREVR \(feat\. Stacey Dee of Bad Cop/Bad Cop\)](https://open.spotify.com/track/5i0eynynsGbrYn3i9MP7LV) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Stacey Dee](https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T) | [NVREVR \(feat\. Stacey Dee of Bad Cop/Bad Cop\)](https://open.spotify.com/album/5av6EgtQOT323PZhk2E8lU) | 4:40 | 2022-11-04 | 2023-05-17 |
 | [ONLY IN MY HEAD](https://open.spotify.com/track/6U5w3f9d7VfLIBWazU9dw1) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ) | 2:45 | 2023-01-08 | 2023-01-10 |
@@ -110,6 +110,7 @@
 | [This Is the New Sound](https://open.spotify.com/track/4t98qp03cHX5oau9jsxE0M) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 2:45 | 2023-01-02 |  |
 | [This Machine Kills Fascists](https://open.spotify.com/track/1ZFpMCNOL0IMqNRcOHE5e9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg) | 1:38 | 2022-09-16 | 2023-09-16 |
 | [Throw It Away](https://open.spotify.com/track/5G9WBRnU2CVOfRtykUk8XQ) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 2:49 | 2022-09-16 | 2022-12-24 |
+| [Trouble Follows Me](https://open.spotify.com/track/4jEXDF30dXZM6bVGkHkdQk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 3:09 | 2025-10-25 |  |
 | [Trouble Follows Me](https://open.spotify.com/track/5INOUHACgzsc79cRSdpRIN) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 3:09 | 2022-09-20 | 2022-10-12 |
 | [Turn a Blind Eye](https://open.spotify.com/track/7qQozeAd8GtiiQgisLoRKc) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 1:19 | 2024-01-21 | 2025-03-01 |
 | [Turn Your Back With Anti\-Flag](https://open.spotify.com/track/4hnR3vkREdoAIk5AMIp1E8) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg), [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Turn Your Back With Anti\-Flag](https://open.spotify.com/album/7td1jC31dkN3AEfY2dosxZ) | 3:24 | 2022-09-16 | 2024-02-25 |

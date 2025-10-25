@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-124 songs - 9 hr 15 min
+126 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Birabiroye](https://open.spotify.com/track/63CHnczvavEof74GIzfmp5) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:49 | 2020-07-21 |  |
 | [Bob Marly](https://open.spotify.com/track/0zGOvZFRuKSe3SasV1TFue) | [Natti Haile](https://open.spotify.com/artist/7wqwO7cnVqGdHenEADW9k2) | [Nahom Favorite, Vol\. 14 \(Best Collections\)](https://open.spotify.com/album/3M5gXrIX9VhqPfsvfOHI51) | 4:55 | 2018-10-04 | 2023-06-24 |
 | [Brana \(Intro\)](https://open.spotify.com/track/4fFWPrxIv2Jdcu0R8WCUdF) | [Ebne Hakim](https://open.spotify.com/artist/3g3l6KISY37B2AsBheD3vW) | [Brana \(Intro\)](https://open.spotify.com/album/41obugVIRWBPHzr7jODXrO) | 1:34 | 2024-04-19 |  |
-| [Chall Zendero](https://open.spotify.com/track/7K7n8T0Ozc1EquLicWRs9r) | [Dawit Tsige](https://open.spotify.com/artist/0er7UYZjJL3ack3JOGzq5q) | [Yene Zema](https://open.spotify.com/album/7ENDKOE0sFneQCIXLwNyjf) | 3:52 | 2020-06-05 |  |
+| [Chall Zendero](https://open.spotify.com/track/7K7n8T0Ozc1EquLicWRs9r) | [Dawit Tsige](https://open.spotify.com/artist/0er7UYZjJL3ack3JOGzq5q) | [Yene Zema](https://open.spotify.com/album/7ENDKOE0sFneQCIXLwNyjf) | 3:52 | 2020-06-05 | 2025-10-25 |
 | [Chaw Tilina](https://open.spotify.com/track/5imDrGjz7SeqJadNh8Iryl) | [Esubalew Yetayew](https://open.spotify.com/artist/0GYW8GPX3VKpRxJ8ZYUE4O) | [Chaw Tilina](https://open.spotify.com/album/2lN05SxdWxOx6sfhP0vTDQ) | 3:31 | 2023-03-17 |  |
 | [Checheho](https://open.spotify.com/track/3B3YUcoMB8CmXOuKT3z1WD) | [Aster Aweke](https://open.spotify.com/artist/6oCxgUP6Vdx3YIJb59Ia0L) | [Checheho](https://open.spotify.com/album/3hbNRs65PT6F0HoTIF1Ziv) | 6:09 | 2018-10-04 | 2023-03-18 |
 | [Chicken On Bike](https://open.spotify.com/track/27mpiouzsM2nVeEzM5Y4uI) | [Olana](https://open.spotify.com/artist/5RSYUHJZOGckUL0J4w9kYy), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Chicken On Bike](https://open.spotify.com/album/4QERVU1WH5ZQXnJuPx33Wn) | 2:27 | 2025-03-14 |  |
@@ -48,7 +48,7 @@
 | [Dèra](https://open.spotify.com/track/2IIb271RwaISQdftWsD7HT) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv) | 6:23 | 2018-10-04 | 2024-12-07 |
 | [Dèra](https://open.spotify.com/track/5Ib3C5Pwn5vVGjONPEjlJg) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/7hRfo6CmgWCk8ekWnG2zpR) | 6:23 | 2018-10-04 | 2024-04-19 |
 | [Ena](https://open.spotify.com/track/3lDh5FFo45l6iPMQ223yn0) | [Muluken Dawit](https://open.spotify.com/artist/2zUgHt41Ctg8PSdKvqBRwV) | [Mengedegna](https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3) | 4:42 | 2018-10-04 | 2023-09-15 |
-| [Endet Lichal](https://open.spotify.com/track/1o7uMGTxPvKVsS8H5g8kEw) | [Dawit Mellesse](https://open.spotify.com/artist/6iGBGaxHab6voJ9yrhPR0V) | [Andiken](https://open.spotify.com/album/4uj9CkcVsJMJYLTVWGKeAf) | 5:29 | 2018-10-04 |  |
+| [Endet Lichal](https://open.spotify.com/track/1o7uMGTxPvKVsS8H5g8kEw) | [Dawit Mellesse](https://open.spotify.com/artist/6iGBGaxHab6voJ9yrhPR0V) | [Andiken](https://open.spotify.com/album/4uj9CkcVsJMJYLTVWGKeAf) | 5:29 | 2018-10-04 | 2025-10-25 |
 | [Endih New](https://open.spotify.com/track/0lDT7fv4lMLLhX7aNVC8bX) | [Yohana](https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG), [Salemia](https://open.spotify.com/artist/6zdmJdwFeYz8EVqDoE3uWX) | [Hallo](https://open.spotify.com/album/7tBDzvxhtXBJ6e7ZPq1rVq) | 3:45 | 2025-02-07 |  |
 | [Eregnaye](https://open.spotify.com/track/6Iki5Wkf0HQDsWCyo4c5u8) | [Rahel Getu](https://open.spotify.com/artist/6KbkfWzDjN1R46Dt3usSwZ), [Girma Tefera](https://open.spotify.com/artist/1dmAk6wk38badxBpqhLfM6) | [Eregnaye](https://open.spotify.com/album/4bb71Vk2GN2UM3gb2hR2DI) | 5:09 | 2023-08-14 | 2024-01-12 |
 | [Eregnaye](https://open.spotify.com/track/7ypVDpwS7wfIss9W8F3kZK) | [Rahel Getu](https://open.spotify.com/artist/6KbkfWzDjN1R46Dt3usSwZ), [Girma Tefera](https://open.spotify.com/artist/1dmAk6wk38badxBpqhLfM6) | [Eregnaye](https://open.spotify.com/album/5txMikXdaVUvDjzmOAuMe9) | 5:09 | 2023-03-17 | 2024-03-09 |
@@ -115,6 +115,7 @@
 | [Tizita](https://open.spotify.com/track/784q54gDzR98Mfd56z56OF) | [Buzuayew Demissie](https://open.spotify.com/artist/2Wm17zcM0MLD7TQBS1lgPq) | [Nahiom Favorites, Vol\. 19](https://open.spotify.com/album/4DfZwvE1S6ZimCJ7dEYwXg) | 5:56 | 2018-10-04 | 2024-10-12 |
 | [Tsehaye](https://open.spotify.com/track/3yfaNVTyG1uGeXCS8T76Gk) | [Ebne Hakim](https://open.spotify.com/artist/3g3l6KISY37B2AsBheD3vW) | [Tsehaye](https://open.spotify.com/album/1s3biOskkUZ3JS28U9emXq) | 4:08 | 2025-08-15 |  |
 | [Twek](https://open.spotify.com/track/3OADWQ0NN2leWsq7nWOcdi) | [Nhatty Man](https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1) | [Vol\. ፪](https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf) | 5:10 | 2018-10-04 | 2023-10-14 |
+| [VORTEX አዙሪት \(feat\. Esy Tadesse\)](https://open.spotify.com/track/3O9Kt2Y3UW1zIENxCaxRvv) | [Kibrom Birhane](https://open.spotify.com/artist/7eG0pR6GgkebbzK18hfF7o), [Esy Tadesse](https://open.spotify.com/artist/1SS0lBA5W3WHyExjauIeiT) | [LISANÉ BAHIR](https://open.spotify.com/album/7t6ND5D7kdnnEmajsFgYgM) | 3:20 | 2025-10-24 |  |
 | [Waste My Time](https://open.spotify.com/track/40kRaQPqDy44Ez8u7vM8vo) | [jasmine bellé](https://open.spotify.com/artist/0UcIIFcB47UaSOH9I4bKd8) | [Waste My Time](https://open.spotify.com/album/3rIDIWRGE8XMJutRXi5Ckm) | 2:43 | 2024-10-04 |  |
 | [Web Alem](https://open.spotify.com/track/5trOza7zXZEddQgwX2Cu4L) | [KUTU](https://open.spotify.com/artist/4ELJpRf923CpualWnE17LJ), [Théo Ceccaldi](https://open.spotify.com/artist/4mz08nmtjVH6ITqxBEmzHY), [Hewan Gebrewold](https://open.spotify.com/artist/60fiWbQASuQ0otDUr7mBSE) | [Web Alem](https://open.spotify.com/album/5SSeoww2Lt36bXi7g0HnRz) | 3:19 | 2024-10-11 |  |
 | [Welday Weni](https://open.spotify.com/track/7hFZoxd3fHB6kn3M2fZbgz) | [Liham Melody](https://open.spotify.com/artist/4mgP2hXsnULBqWou6ld9rQ) | [Welday Weni](https://open.spotify.com/album/2KbxKjKmOB2IPUsDdGBb8z) | 4:25 | 2020-06-05 | 2023-07-27 |
@@ -131,6 +132,7 @@
 | [Ykomal Woy](https://open.spotify.com/track/3cREJgXBNWJUh86DXq8T1M) | [Nhatty Man](https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1) | [Vol\. ፪](https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf) | 4:20 | 2018-10-04 |  |
 | [YOU GOT ME LIKE](https://open.spotify.com/track/33irahuIeYwrWIwdB515O9) | [Nadlyn](https://open.spotify.com/artist/1pRMorsV4ogEE770hp6N0X) | [YOU GOT ME LIKE](https://open.spotify.com/album/61ocn0mmY1LmggaCxqq89M) | 2:53 | 2023-03-17 |  |
 | [Zemenay Mariye](https://open.spotify.com/track/5pCITb1hiPJhRAGlh42hIC) | [Lij Michael](https://open.spotify.com/artist/0HLyF2eZjPgqtyMp3pwxce) | [Zaray Yehun Nege](https://open.spotify.com/album/18uNT4E2ZaHcx5tLOoX1EH) | 3:40 | 2018-10-04 | 2022-12-13 |
+| [እሮጣለሁ](https://open.spotify.com/track/7vrWamaeBNCy7GT2sTUXE9) | [Tamagn Muluneh](https://open.spotify.com/artist/2vm3HFXnQpwHLtUpczT4mU) | [እሮጣለሁ](https://open.spotify.com/album/4z08CRR2SXeywheO0v0lKR) | 5:26 | 2025-10-24 |  |
 | [ይሽሩን ሆይ](https://open.spotify.com/track/7c7iaVbQKElvOFPDrGs1aa) | [Tamagn Muluneh](https://open.spotify.com/artist/2vm3HFXnQpwHLtUpczT4mU) | [ይሽሩን ሆይ](https://open.spotify.com/album/2rRIKYqenIlpAl6JTw7vvM) | 8:02 | 2025-09-05 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

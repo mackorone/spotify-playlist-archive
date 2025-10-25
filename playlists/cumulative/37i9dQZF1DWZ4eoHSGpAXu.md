@@ -4,7 +4,7 @@
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-144 songs - 13 hr 51 min
+145 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Abundantly More \(feat\. Seth Condrey\)](https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Abundantly More](https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke) | 4:01 | 2019-11-27 | 2024-04-19 |
 | [Alive & Breathing \(feat\. Elle Limebear\)](https://open.spotify.com/track/1nmspIOQLdmBhGfT747dEJ) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Alive & Breathing Vol\. 2](https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk) | 4:01 | 2019-11-27 |  |
 | [All I Want](https://open.spotify.com/track/7zRdwKs0va8DDj11CB6DwG) | [Mountain Top Worship](https://open.spotify.com/artist/2fhxlZD5exHPj27vgaLxrj) | [All I Want](https://open.spotify.com/album/4bxmYsDGCMqKMsd468QTyR) | 4:32 | 2019-11-27 | 2024-06-23 |
-| [All Praise \- Live](https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [All Of Us \(All Praise\) \[Live\]](https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q) | 6:26 | 2019-11-27 |  |
+| [All Praise \- Live](https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [All Of Us \(All Praise\) \[Live\]](https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q) | 6:26 | 2019-11-27 | 2025-10-25 |
 | [As You Find Me \- Live](https://open.spotify.com/track/11lQoddQLgFzWByvUjKaE9) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [People \(Live\)](https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg) | 8:42 | 2019-11-27 | 2024-06-23 |
 | [Because Of Christ](https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [TEN](https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU) | 5:10 | 2024-06-23 |  |
 | [Before We Put Our Trust In Human Kings / Exalted \- Live](https://open.spotify.com/track/0cYZliKx3JNe2YIounQPvy) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz), [Charrise Barron](https://open.spotify.com/artist/6605K7pp3GA4NxliiVPret) | [Before We Put Our Trust In Human Kings / Exalted \(Live\)](https://open.spotify.com/album/2Y9vpMNj8F3pHdIEMmfcRZ) | 7:09 | 2025-07-25 |  |
@@ -81,6 +81,7 @@
 | [Insatiable](https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Insatiable](https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan) | 4:26 | 2019-11-27 |  |
 | [It Is So](https://open.spotify.com/track/4A7X1OObKEp7KAZOYrcPnr) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [At Midnight \- EP](https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu) | 5:50 | 2019-11-27 | 2024-04-19 |
 | [It Is So](https://open.spotify.com/track/7rVrwI6qusX75vKxGK2dyv) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [At Midnight \- EP](https://open.spotify.com/album/0TBqCB0ewjzi2eYmCJuFpq) | 5:50 | 2019-11-27 | 2024-06-23 |
+| [Jesus Be The Name \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/50irUgP4UUg2s90ULqMGxe) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Jesus Be The Name](https://open.spotify.com/album/21G0r4XKJfMmOSvpzaZ38T) | 8:59 | 2025-10-24 |  |
 | [King Of Kings](https://open.spotify.com/track/6kmhapLx51lmwhIIDFsUQU) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings](https://open.spotify.com/album/30RfU2mnzbrCsnZA4TSCcY) | 4:25 | 2019-11-27 |  |
 | [Kingdom Come](https://open.spotify.com/track/5WLq3CFNEAbm8ug9ZptuCi) | [Southview Worship](https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK) | [Kingdom Come](https://open.spotify.com/album/7oHfVPErazDps9nHifkDIB) | 3:36 | 2019-11-27 | 2024-06-23 |
 | [Know Your Heart \- Live](https://open.spotify.com/track/1Qg789HbL8o71thGTjMS7X) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Know Your Heart \(Live\)](https://open.spotify.com/album/2E6QSq8TDOCZ5od0VT7OHS) | 3:48 | 2019-11-27 | 2024-06-23 |

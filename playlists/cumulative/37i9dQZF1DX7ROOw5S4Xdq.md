@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isaias Saad
 
-2,854 songs - 10 day 0 hr 50 min
+2,854 songs - 10 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1894,6 +1894,7 @@
 | [Pai](https://open.spotify.com/track/5WL0yDm2V2t8CWd5UoIYVf) | [Lázaro e Eduardo](https://open.spotify.com/artist/6Hsz3V67jWpX7tqCNH0NQF), [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Pai](https://open.spotify.com/album/3FAIMCX4Ry3eOHEEd0PD9p) | 4:52 | 2025-07-19 | 2025-08-01 |
 | [Pai de Amor](https://open.spotify.com/track/3TM82i8yLGyWcSAJazpqzi) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ), [Aline Irineu](https://open.spotify.com/artist/25cyBt9N6k3IaRvxF8gP4y), [Samuel Silva](https://open.spotify.com/artist/2V50FkQY9Arw9iQbEm8wuB) | [Pai de Amor](https://open.spotify.com/album/6EtTVEWqjAM53Ajwa8RzaQ) | 3:16 | 2024-07-05 | 2024-07-19 |
 | [Pai de Amor \(Heavenly Father I Appreciate You\) \- Ao Vivo](https://open.spotify.com/track/4y0lpqcs5nauOwJdP5Is9N) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Pai de Amor \(Heavenly Father I Appreciate You\) \[Ao Vivo\]](https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4) | 4:05 | 2023-08-18 | 2023-09-16 |
+| [Pai Nosso](https://open.spotify.com/track/6oO5fas3mot10lwR2zHn3b) | [Fernanda Tomadon](https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl) | [Fernanda Tomadon Ao Vivo Na Igreja](https://open.spotify.com/album/5JsNE5xCh8qjWqPYB1Jkb6) | 3:58 | 2025-10-24 |  |
 | [Pai Nosso](https://open.spotify.com/track/0ypD8024nIOZFyK4HPalyC) | [Fernanda tomadon](https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl), [Vitória Souza](https://open.spotify.com/artist/2aoezbNDRi2zb7HXtVBWCI) | [Pai Nosso](https://open.spotify.com/album/3fRNqos9HtLL4kTet1ayXQ) | 6:34 | 2024-06-21 | 2024-07-06 |
 | [Pai Nosso](https://open.spotify.com/track/7b9JZsO934Msc6fAgSCp4Y) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 25](https://open.spotify.com/album/3FltHQNeaI2CKTvwwFv2JK) | 4:37 | 2024-11-29 | 2024-12-14 |
 | [Pai Perfeito](https://open.spotify.com/track/2clOLqLUQz21e0tUe12B4Z) | [Tribo](https://open.spotify.com/artist/5RWqQf8eQXFjsCEXY2MRxt), [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh), [Juninho Rosa](https://open.spotify.com/artist/6IqCaBopyrbOzT0clRDgzG) | [Pai Perfeito](https://open.spotify.com/album/5XZFaPJjcpXQcMZ9WYJWvQ) | 4:52 | 2025-09-19 | 2025-10-03 |
@@ -2522,7 +2523,6 @@
 | [Toma o Teu Lugar \- Ao Vivo](https://open.spotify.com/track/3LoRbNWwkxHNEVkoLCUyzw) | [AC Music](https://open.spotify.com/artist/64BteyaH9QwIRgW5hNSseP) | [Toma o Teu Lugar \(Ao Vivo\)](https://open.spotify.com/album/5oZPXlM2A5k78kmB48oPXi) | 7:41 | 2023-07-07 | 2023-07-15 |
 | [Toma o Teu Lugar \- Ao Vivo](https://open.spotify.com/track/11orEuMlG892JoAEe8AO7O) | [Davi Silva](https://open.spotify.com/artist/37MmnavknAY8Z2ICERRshR), [Calebe Silva](https://open.spotify.com/artist/3xNrTtlY538coY4laqBfd9) | [Toma o Teu Lugar \(Ao Vivo\)](https://open.spotify.com/album/2wtJ4lJkXdoZ5HVEXN5biS) | 5:33 | 2025-04-25 | 2025-05-10 |
 | [Trabalho Duro \- Deluxe](https://open.spotify.com/track/4GmyRRbamtB2G39PK7jhk7) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Trabalho Duro \- Deluxe](https://open.spotify.com/album/0JTucnGKKHiCUlUF1c3W9T) | 3:26 | 2024-08-30 | 2024-09-07 |
-| [Track 10](https://open.spotify.com/track/6oO5fas3mot10lwR2zHn3b) | [Fernanda Tomadon](https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-24 |  |
 | [Tragam Suas Vasilhas \- Ao vivo](https://open.spotify.com/track/4ixDVetdu4PkAHQuojumDM) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [Tragam Suas Vasilhas \(Ao Vivo\)](https://open.spotify.com/album/7IISqDRueMy006SHDOFWIO) | 7:19 | 2024-06-14 | 2024-06-29 |
 | [TRAIÇÃO NA MESA](https://open.spotify.com/track/5klH9yQ6VRFvfdP654eIg4) | [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [TRAIÇÃO NA MESA](https://open.spotify.com/album/0Eqbeu7lWpuIW2Kgsy3MOo) | 3:03 | 2025-09-05 | 2025-09-26 |
 | [Trajeto de Uma Oração](https://open.spotify.com/track/4oFTo955xdpdewPdkQUbh6) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Trajeto de Uma Oração](https://open.spotify.com/album/2KbS1m4cfGgPnolOC6KK7x) | 4:50 | 2024-09-27 | 2024-10-12 |

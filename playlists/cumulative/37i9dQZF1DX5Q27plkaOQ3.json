@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with LYNY",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with BARELY ALIVE",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -596,7 +596,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 219428,
       "name": "Alert",
       "url": "https://open.spotify.com/track/1uitYjxI2ADkWm8vUWzU9i"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 177428,
       "name": "ALL4U",
       "url": "https://open.spotify.com/track/1Z5rv5e7vc5OTIJlkpwDJ0"
@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 152571,
       "name": "BAD4U",
       "url": "https://open.spotify.com/track/10TDa5eJxZ79C9UsE7CIGp"
@@ -2412,7 +2412,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 198400,
       "name": "Belong To Me",
       "url": "https://open.spotify.com/track/3vyUvAoODWmnHlbytG7KTY"
@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 169877,
       "name": "BLOCK",
       "url": "https://open.spotify.com/track/0lLslYeLGXRsvZGrNNuVEi"
@@ -9463,6 +9463,28 @@
     },
     {
       "album": {
+        "name": "Fuze",
+        "url": "https://open.spotify.com/album/4VDKQrc3Pmzz2jAIK9Ndj2"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Fuze",
+      "url": "https://open.spotify.com/track/5UZIVxzI4UyrSbg3ZLTGTH"
+    },
+    {
+      "album": {
         "name": "GALACTICAL",
         "url": "https://open.spotify.com/album/5jcrnkIRwz5yx6dodjzUTa"
       },
@@ -10360,6 +10382,24 @@
       "duration_ms": 193718,
       "name": "Hammer Time",
       "url": "https://open.spotify.com/track/1N94c7T72slyq4tl2DjDqE"
+    },
+    {
+      "album": {
+        "name": "HANDS UP",
+        "url": "https://open.spotify.com/album/0gWWB0LsdpSpHcac4BaLfh"
+      },
+      "artists": [
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "HANDS UP",
+      "url": "https://open.spotify.com/track/2X6eWOiT8dKSeDqWSma45S"
     },
     {
       "album": {
@@ -11821,6 +11861,28 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/6XZKHUAvUSxpFNhWo3DFR2"
+      },
+      "artists": [
+        {
+          "name": "AG",
+          "url": "https://open.spotify.com/artist/3HKUrC0erAdewcUeSKLzT8"
+        },
+        {
+          "name": "Seth David",
+          "url": "https://open.spotify.com/artist/1wfOprPxy1C22S9zV8tK3b"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/0QoV2hOKoPl9MG1RUySwBc"
+    },
+    {
+      "album": {
         "name": "In My Soul",
         "url": "https://open.spotify.com/album/3uKNbJePIfbIBFWlbQ4Hdk"
       },
@@ -12514,7 +12576,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 153600,
       "name": "JUMP ROPE",
       "url": "https://open.spotify.com/track/6Gqwvd4dxycoKWSJlDtqtz"
@@ -16502,7 +16564,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 165808,
       "name": "Outta Space",
       "url": "https://open.spotify.com/track/3u0gOB4GJhTsBFkQci6HWh"
@@ -17021,6 +17083,28 @@
     },
     {
       "album": {
+        "name": "PONDA",
+        "url": "https://open.spotify.com/album/4Xjb1nVdgZNZ3yw0O5izD8"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "MAAD WEST",
+          "url": "https://open.spotify.com/artist/5isGhqrVP1gZt373QsyHPT"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152147,
+      "name": "PONDA",
+      "url": "https://open.spotify.com/track/2MAVzueQH0kZZm331wHwjD"
+    },
+    {
+      "album": {
         "name": "POP DAT",
         "url": "https://open.spotify.com/album/1rPYKy7MvAeEPOmNc2OZvF"
       },
@@ -17304,6 +17388,24 @@
       "duration_ms": 178800,
       "name": "PRESSURE",
       "url": "https://open.spotify.com/track/66DHk2u2skPCoKT6N3oe8b"
+    },
+    {
+      "album": {
+        "name": "HOTFIX",
+        "url": "https://open.spotify.com/album/1P8X0ymmj8kfLMmxMSfWhB"
+      },
+      "artists": [
+        {
+          "name": "Jiqui",
+          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221597,
+      "name": "PRESSURE POINT",
+      "url": "https://open.spotify.com/track/5fier3NP9cYWlvwjpXv9bZ"
     },
     {
       "album": {
@@ -19225,6 +19327,28 @@
     },
     {
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/0CynI5NfrzuzNT7JHnXddI"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196790,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4MgH7JjZQAPgIBf0lrdbie"
+    },
+    {
+      "album": {
         "name": "WRATH OF THE WICKED",
         "url": "https://open.spotify.com/album/0QfcUPY2N5G1uJk0714XCb"
       },
@@ -19439,6 +19563,32 @@
     },
     {
       "album": {
+        "name": "Sell My Soul (VIP)",
+        "url": "https://open.spotify.com/album/0i1uC1hcfO2iAZELFriz5N"
+      },
+      "artists": [
+        {
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
+        },
+        {
+          "name": "Justin Hawkes",
+          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
+        },
+        {
+          "name": "Kumarion",
+          "url": "https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Sell My Soul - VIP",
+      "url": "https://open.spotify.com/track/4KrFmNJ0QThBfcsda3HOnx"
+    },
+    {
+      "album": {
         "name": "SENSATION",
         "url": "https://open.spotify.com/album/73ld8UKbwhBZraFB4uMWWL"
       },
@@ -19546,6 +19696,28 @@
       "duration_ms": 166285,
       "name": "set me free",
       "url": "https://open.spotify.com/track/5mAQRfPhcawxAwSVcVJOP8"
+    },
+    {
+      "album": {
+        "name": "Sexy Back",
+        "url": "https://open.spotify.com/album/4SRxUGrPY896CW2EjuuPkg"
+      },
+      "artists": [
+        {
+          "name": "Heyz",
+          "url": "https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh"
+        },
+        {
+          "name": "Wodd",
+          "url": "https://open.spotify.com/artist/3TFrAhV5T8qgFOhpaQlUHG"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Sexy Back",
+      "url": "https://open.spotify.com/track/2roAveTN9kFAfzrTbgMWZb"
     },
     {
       "album": {
@@ -21288,7 +21460,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 185142,
       "name": "Still Into You",
       "url": "https://open.spotify.com/track/5VIi4tVFzOVZIiXhaAzY6v"
@@ -22588,7 +22760,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 213333,
       "name": "The M.F.",
       "url": "https://open.spotify.com/track/515qwaRkRuqC33kRDi7Vbs"
@@ -24882,7 +25054,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 171428,
       "name": "Way Back When",
       "url": "https://open.spotify.com/track/7apK76b48hQ5ZDceVlgLOM"

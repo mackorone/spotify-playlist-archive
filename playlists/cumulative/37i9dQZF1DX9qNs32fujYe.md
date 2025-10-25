@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
+> Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Megadeth
 
-1,154 songs - 3 day 12 hr 3 min
+1,156 songs - 3 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [California](https://open.spotify.com/track/5hs7EN2e47VSzJhIiSGR9j) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Clear Cold Beyond](https://open.spotify.com/album/5udxJVHVFuD35pKn9Oh2X3) | 4:25 | 2024-03-08 | 2024-11-28 |
 | [Call of the Night](https://open.spotify.com/track/57QjQeKO0GqG004JoqZyTZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Call of the Night](https://open.spotify.com/album/7e7XJxVyMLTYPjQlnLOLMM) | 3:34 | 2025-01-10 | 2025-02-15 |
 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:48 | 2022-08-19 | 2023-02-11 |
+| [Can You Hear Me](https://open.spotify.com/track/4sNfEL2D6Qgy370ajeldtJ) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf), [Asami](https://open.spotify.com/artist/5yItSTT0kJf72XXL9uG026) | [Can You Hear Me](https://open.spotify.com/album/1sPmGATnN4rdUUJyr7dLRT) | 4:10 | 2025-10-24 |  |
 | [Cancelled](https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Cancelled](https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK) | 4:47 | 2024-11-04 |  |
 | [Captain Goat](https://open.spotify.com/track/4qWhupNTHvRUkY47f6HP4d) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Captain Goat](https://open.spotify.com/album/6k401HU0tFAKeOwEb5OMMi) | 4:29 | 2025-05-30 | 2025-08-30 |
 | [Carnivore](https://open.spotify.com/track/06vavIMqqrQgz9gcdgmuoY) | [Wolfheart](https://open.spotify.com/artist/11EAP8MX0cfrW9lzkK424H) | [Carnivore](https://open.spotify.com/album/4hmTl50zJt2g592Whs5qiI) | 4:34 | 2025-08-15 |  |
@@ -218,6 +219,7 @@
 | [Dad’Algorhythm](https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Dad’Algorhythm](https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj) | 2:38 | 2023-06-09 | 2024-05-18 |
 | [Damnation Flame](https://open.spotify.com/track/5x7t8dWhM47kvErscgZnhE) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Damnation Flame](https://open.spotify.com/album/55jGYMXqdsvmtW7R8cXOgw) | 3:32 | 2023-06-30 | 2023-12-07 |
 | [Dance with the Devil](https://open.spotify.com/track/0x4rHQ1Syor8YChasHuRJg) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [Dance with the Devil](https://open.spotify.com/album/0prKZd93okYXYYIxrYTtzQ) | 4:26 | 2021-12-17 | 2022-07-24 |
+| [Dance With The Devil](https://open.spotify.com/track/3nYX9MSz50E45Vgiwgd5Dt) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Dance With The Devil](https://open.spotify.com/album/6HeHYKs3GSZ3Vsd6XgM9x5) | 4:25 | 2025-10-24 |  |
 | [Dancing Shadow](https://open.spotify.com/track/2yp3vlZi440JXxX1Mz2W4h) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Dancing Shadow](https://open.spotify.com/album/5CoNRYYHILmFu0pmgA6YED) | 4:58 | 2025-08-15 | 2025-09-27 |
 | [Dangerous Ground](https://open.spotify.com/track/0eeH8SFeeaIv0lQz61cyL2) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Dangerous Ground](https://open.spotify.com/album/5ghPmOARm9W1mA04erYQfW) | 4:06 | 2021-12-17 | 2022-07-29 |
 | [Dangerous Ground](https://open.spotify.com/track/5nBqdZlIRLfgUIACfFVHlj) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [H.e.a.t II](https://open.spotify.com/album/0NEPDWFsJHcRIF6fKEiSHZ) | 4:06 | 2022-07-08 | 2022-09-24 |
@@ -322,7 +324,7 @@
 | [Eye of the Storm](https://open.spotify.com/track/4ngbdRQfneBbVGU4V7jjDg) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Eye of the Storm](https://open.spotify.com/album/4FFOt7eAbO95LO3DpunmMb) | 4:26 | 2021-12-17 | 2022-07-29 |
 | [Eye of the Storm](https://open.spotify.com/track/5GKkwG5vl13DHxcUxFBSTm) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Circus Of Doom](https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C) | 4:26 | 2022-07-08 | 2023-03-11 |
 | [Eye to Eye](https://open.spotify.com/track/3ojlZUEkinb7XA4tZuvx3y) | [Mystic Prophecy](https://open.spotify.com/artist/5kUzPpkPyNpxRYd66c8nYG) | [Eye to Eye](https://open.spotify.com/album/1qzFtzzRawXfGTKHCgaCBG) | 4:15 | 2021-12-17 | 2022-07-29 |
-| [Eyes On Six](https://open.spotify.com/track/0Z9CGuKtGy0eF79lAFTiGU) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [Eyes On Six](https://open.spotify.com/album/6qMN9ETlfgvBj746O6q0Ng) | 3:20 | 2025-08-23 |  |
+| [Eyes On Six](https://open.spotify.com/track/0Z9CGuKtGy0eF79lAFTiGU) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [Eyes On Six](https://open.spotify.com/album/6qMN9ETlfgvBj746O6q0Ng) | 3:20 | 2025-08-23 | 2025-10-25 |
 | [Eyes Wide Open](https://open.spotify.com/track/3W5VyYUtZtQKCYfeJtbO20) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Eyes Wide Open](https://open.spotify.com/album/6J8NO4P9dHdKmYzw24nmKp) | 3:53 | 2024-03-08 | 2024-07-27 |
 | [Face of a Stranger](https://open.spotify.com/track/5YAsSHVStxtvvwV00I5YS1) | [Dirkschneider & The Old Gang](https://open.spotify.com/artist/73DIu6RIaKNp8t620RoMmX), [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [Face of a Stranger](https://open.spotify.com/album/2dCDKEr7baSxy6M8ougCDx) | 4:57 | 2021-12-17 | 2022-07-27 |
 | [Fall In Line](https://open.spotify.com/track/7ftpyir5ygZkv92mbZMFqi) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [Fall in Line](https://open.spotify.com/album/7ru1OonrDxyPDGx3zi6MqT) | 4:44 | 2024-06-21 | 2025-05-01 |
@@ -404,7 +406,7 @@
 | [Hammer Of Dawn](https://open.spotify.com/track/4CSGVziAkUelYOIlOPNu6G) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hammer Of Dawn](https://open.spotify.com/album/7ABUtIO7hLB17LftkAUml0) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [Hammer of Dawn](https://open.spotify.com/track/6shAaOP9wwqJfiLHRqv4UV) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hammer of Dawn](https://open.spotify.com/album/2nTZtQxxBz0XiwEktLO0MM) | 4:02 | 2022-07-08 | 2022-10-22 |
 | [Hammer Smashed Face](https://open.spotify.com/track/4pFC6tuWErxbO61oFFq3BQ) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Tomb Of The Mutilated](https://open.spotify.com/album/2yPAe2RJCfrfV97c8FKKjb) | 4:02 | 2022-08-19 | 2023-03-11 |
-| [Hands of Sin](https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Hands of Sin](https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW) | 4:02 | 2024-06-21 |  |
+| [Hands of Sin](https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Hands of Sin](https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW) | 4:02 | 2024-06-21 | 2025-10-25 |
 | [Hangman's Night \(feat\. Dominum\)](https://open.spotify.com/track/4OEqIh1lLFUXvmnzLPpSfO) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E), [DOMINUM](https://open.spotify.com/artist/4Nm9FxM65RZa6EgFV2z8S9) | [Hangman's Night](https://open.spotify.com/album/0hJn68LUWohM7Sj7bgtiHV) | 3:48 | 2025-07-04 | 2025-08-09 |
 | [Hard Habit](https://open.spotify.com/track/6TCPTqQTI2PHbOe2mUFDu6) | [Texas Hippie Coalition](https://open.spotify.com/artist/6LG6fIvh2XpjqHUuR7NRtt) | [The Name Lives On](https://open.spotify.com/album/4GklZdIbTbc8ArDurfTCT6) | 3:40 | 2023-05-05 | 2023-10-07 |
 | [Hardcore](https://open.spotify.com/track/1kKzLv3w7I5NXzEtWkSzi4) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Dark Connection](https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux) | 3:34 | 2021-12-17 | 2023-03-11 |

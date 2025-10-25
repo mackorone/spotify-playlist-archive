@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,254 likes - 51 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,263 likes - 51 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 | 50 | [Mutante \- Gui Boratto Rework](https://open.spotify.com/track/6pfGxlp0yBwaydQft6qvCr) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Rita Lee & Roberto – Classix Remix Vol\. l](https://open.spotify.com/album/1dmsWqBXFAODlZHUyDCFZm) | 8:19 |
 | 51 | [Rose Quartz](https://open.spotify.com/track/4zhQpcdgO2OFUMRzcgSJu1) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything in Return](https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq) | 4:13 |
 
-Snapshot ID: `AAAAAI/0fyDgmFXV4uKvTlW5Q9mqhvya`
+Snapshot ID: `AAAAAKEvHswDgHfNqq2x+SNcohm+8LHL`

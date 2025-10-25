@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 
 > The \#1 Destination for the best melodies in the world\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,616 likes - 69 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,557 likes - 69 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 | 4 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 |
 | 5 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go \(with Tyla\)](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 6 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
-| 7 | [Confidence](https://open.spotify.com/track/7vQmu5FTPgnLeJDi14oJ9U) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [](https://open.spotify.com/album/null) | 2:00 |
+| 7 | [Confidence](https://open.spotify.com/track/7vQmu5FTPgnLeJDi14oJ9U) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [FEELUH](https://open.spotify.com/album/0aR1lBG77LniGEnLJWfR5S) | 2:00 |
 | 8 | [Play This Song \(feat\. Anderson .Paak\)](https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:44 |
 | 9 | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd) | 2:51 |
-| 10 | [my man..\. \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/0G51OwKyOALByffrY9ygXJ) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [](https://open.spotify.com/album/null) | 2:28 |
+| 10 | [my man..\. \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/0G51OwKyOALByffrY9ygXJ) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [30.](https://open.spotify.com/album/1dnguPomwT1qqryeSRoxxe) | 2:28 |
 | 11 | [Delulu](https://open.spotify.com/track/2BwdUAnoBIJpRPgs8vHg6K) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Delulu](https://open.spotify.com/album/0t336jkNxk7wOJwh3Kq0os) | 4:19 |
 | 12 | [so i can feel again \(feat\. Chlöe\)](https://open.spotify.com/track/6GeBTwuDueDVXIUvsrlXex) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [love?..\. or something like it](https://open.spotify.com/album/25zj1hLmeA7012yPvjstNy) | 2:27 |
 | 13 | [Easy](https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Easy](https://open.spotify.com/album/775f99vvSk9KnPqFmyxhuB) | 2:27 |

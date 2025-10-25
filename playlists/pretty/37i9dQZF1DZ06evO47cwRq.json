@@ -1,12 +1,12 @@
 {
   "description": "This is Linkin Park. The essential tracks, all in one playlist.",
-  "num_followers": 2974558,
+  "num_followers": 2975025,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAACXsYp9O/9fJfkV2EnmmukV",
+  "snapshot_id": "aPlwAAAAAABjdnFREqQ0CLeM5GxomAHb",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+        "name": "LIVING THINGS",
+        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 183973,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5"
+      "duration_ms": 205120,
+      "name": "LOST IN THE ECHO",
+      "url": "https://open.spotify.com/track/2oNYsdCasRRlz1shXFAz7D"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIVING THINGS",
-        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 205120,
-      "name": "LOST IN THE ECHO",
-      "url": "https://open.spotify.com/track/2oNYsdCasRRlz1shXFAz7D"
+      "duration_ms": 183973,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 140915,
-      "name": "Casualty",
-      "url": "https://open.spotify.com/track/7iMsm86etNshj6IUgMnpuO"
+      "duration_ms": 211027,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/2Yh356WJoVcWleiWRFoLUa"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
       "duration_ms": 296560,
       "name": "Iridescent",
       "url": "https://open.spotify.com/track/69ZEgPX0hxWXJIqkTlYz41"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Zero (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 140915,
+      "name": "Casualty",
+      "url": "https://open.spotify.com/track/7iMsm86etNshj6IUgMnpuO"
     },
     {
       "added_at": null,

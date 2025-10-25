@@ -4,7 +4,7 @@
 
 > The songs you love, in ways you’ve never heard before\. Cover: Lennon Stella
 
-445 songs - 1 day 3 hr 33 min
+446 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Friend Of The Devil \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2IS9tN9jucJpiZvl3MreGb) | [Allan Rayman](https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk) | [Spotify Singles](https://open.spotify.com/album/2uQ8dFoSxstQvGqn0OF5Ah) | 2:59 | 2021-09-24 | 2022-07-15 |
 | [Friends \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3jb6ByvjXfeM1p0ISGN584) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7) | 3:00 | 2021-09-24 | 2022-07-29 |
 | [Frontin' \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6PXs5P69Ab5cSxWaE6Y6wd) | [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Spotify Singles](https://open.spotify.com/album/0bRsCrUAjvQeQZGLrDFesT) | 4:18 | 2021-09-24 | 2022-07-24 |
+| [Genie In A Bottle \- Spotify Singles](https://open.spotify.com/track/1XhTyKFFySgEHONZYsZcdT) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Genie In A Bottle \- Spotify Singles](https://open.spotify.com/album/6LmGzRqpz6W0XV7fysHXuG) | 3:11 | 2025-10-24 |  |
 | [Get Here \- Recorded At RAK Studios, London](https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 2:49 | 2021-09-24 |  |
 | [Get You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6YZQx90VEuzf0lRY9TYh7j) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Spotify Singles](https://open.spotify.com/album/3fUHDbd0oujqAerhHZjdsj) | 3:46 | 2022-03-24 |  |
 | [Gettin' in The Way \- Spotify Singles](https://open.spotify.com/track/10ZTivgDHI1CALM6jeW0IZ) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Gettin' in The Way \- Spotify Singles](https://open.spotify.com/album/4QfiL5vhb5B662mPJRko5d) | 3:12 | 2025-04-30 |  |
@@ -321,7 +322,7 @@
 | [Say It Ain't So \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce) | [Calpurnia](https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5) | [Spotify Singles](https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo) | 4:03 | 2022-06-07 | 2024-04-19 |
 | [Say My Name \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE) | 4:27 | 2021-09-24 |  |
 | [Say Something \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/track/7sXPuvRWsaOoUzno4NHXtt) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Say Something \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/album/3ysOkwf6EyopPKqxGaj9Ls) | 3:34 | 2024-07-31 |  |
-| [Sending My Love \- Spotify Singles](https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Spotify Singles](https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2) | 2:53 | 2021-09-24 |  |
+| [Sending My Love \- Spotify Singles](https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Spotify Singles](https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2) | 2:53 | 2021-09-24 | 2025-10-25 |
 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 | 2021-09-24 |  |
 | [Seven Spanish Angels \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Spotify Singles](https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D) | 4:10 | 2023-05-03 |  |
 | [Sexual \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7zqLBFKCBkk5IfbgKgH4VZ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Spotify Singles](https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC) | 3:09 | 2021-09-24 |  |

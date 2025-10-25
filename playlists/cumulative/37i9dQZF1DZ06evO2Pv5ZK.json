@@ -290,6 +290,10 @@
         {
           "name": "London Symphony Orchestra",
           "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
       "date_added": "2025-09-29",
@@ -726,6 +730,10 @@
         {
           "name": "London Symphony Orchestra",
           "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
       "date_added": "2025-09-20",
@@ -1676,7 +1684,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 297666,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/6o3wjXTROS51upZkU9Fk07"

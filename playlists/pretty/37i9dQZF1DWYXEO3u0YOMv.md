@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > <a href="http://www.mappa.co.jp/">MAPPA</a>が紡いできたアニメーションの世界を音楽で辿るプレイリスト。心に残る名曲たちを集めました。<br/>A playlist that traces the animated worlds created by <a href="http://www.mappa.co.jp/">MAPPA</a> through music, featuring a collection of memorable songs that remain in the heart\. © 2025 MAPPA／チェンソーマンプロジェクト ©藤本タツキ／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,071 likes - 172 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,085 likes - 172 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 171 | [ぬふっとてーきゅうポトラッチ](https://open.spotify.com/track/4b97JiQwit48h8Vn2psTkL) | [Naive](https://open.spotify.com/artist/6mzWUjHwPOYQdKNMQTQmDz) | [てーきゅうBEST](https://open.spotify.com/album/19OuaVZecS5k2SUHwiRDVs) | 3:23 |
 | 172 | [坂道のメロディ](https://open.spotify.com/track/2LHxO6kg6LJrnqcEgaCbkf) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [プレイボール/坂道のメロディ](https://open.spotify.com/album/58aZzjcq1YjDcwTbjHTEii) | 4:43 |
 
-Snapshot ID: `AAAAAEg+B35YpK7emJvAUAVOveKK5Msw`
+Snapshot ID: `AAAAAABqUN7AM4qGSu0jrSyGY4ua/aMD`

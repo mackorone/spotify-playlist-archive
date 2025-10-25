@@ -351,6 +351,32 @@
     },
     {
       "album": {
+        "name": "EVITA",
+        "url": "https://open.spotify.com/album/6V0YxZgJfbiJJhAfyvuOWN"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Bella Brown",
+          "url": "https://open.spotify.com/artist/6n5DWZza1nZk6TCFDXYGYZ"
+        },
+        {
+          "name": "Diego Andres Rodriguez",
+          "url": "https://open.spotify.com/artist/4cMuBfFAzJjMV4kyMIGON4"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184987,
+      "name": "Another Suitcase In Another Hall",
+      "url": "https://open.spotify.com/track/5Kyv5m2uTeh1sd6mhIXRJe"
+    },
+    {
+      "album": {
         "name": "Anything Goes (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL"
       },
@@ -454,7 +480,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 306760,
       "name": "Being Alive",
       "url": "https://open.spotify.com/track/4GDSnxxtmIyVS4Twl7Y7UB"
@@ -1370,7 +1396,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 275669,
       "name": "Heaven On Their Minds (From \"Jesus Christ Superstar\")",
       "url": "https://open.spotify.com/track/6r4lOUxdfgYO9MjJsiXwzP"
@@ -3303,6 +3329,28 @@
     },
     {
       "album": {
+        "name": "EVITA",
+        "url": "https://open.spotify.com/album/6V0YxZgJfbiJJhAfyvuOWN"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162891,
+      "name": "Rainbow High",
+      "url": "https://open.spotify.com/track/4WMr1P0xlQW0wKaHvm0d9P"
+    },
+    {
+      "album": {
         "name": "Kinky Boots (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/0VfNZpKsykX5WPuyEdBilR"
       },
@@ -3748,6 +3796,28 @@
       "duration_ms": 409720,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/6olJrYB94NqdARj9tWRplO"
+    },
+    {
+      "album": {
+        "name": "Splish Splash",
+        "url": "https://open.spotify.com/album/3efJxEtOZkEKX2vHlSNnA0"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Original Broadway Cast of Just In Time",
+          "url": "https://open.spotify.com/artist/3mjvQw6QJSp0X2cIHn6QnG"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164146,
+      "name": "Splish Splash",
+      "url": "https://open.spotify.com/track/71Efa4RB8YjaQEj5kvh9v5"
     },
     {
       "album": {
@@ -4332,7 +4402,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 218663,
       "name": "Together, Wherever We Go",
       "url": "https://open.spotify.com/track/4F8bLCBX09gQ4gJ0QwCVYw"

@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 251300,
+  "num_followers": 251314,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAB/ueqK1HLTDG/miQLuQ3hM",
+  "snapshot_id": "aPlwAAAAAACiUSnYhYCwQrcydn9dzUTE",
   "tracks": [
     {
       "added_at": null,
@@ -671,38 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 219693,
-      "name": "Black Eyes, Blue Tears",
-      "url": "https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up!",
-        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 240533,
-      "name": "Thank You Baby! (For Makin' Someday Come So Soon) - Red Version",
-      "url": "https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encontros Pelo Caminho",
         "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
       },
@@ -723,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock This Country",
-        "url": "https://open.spotify.com/album/50U6VmuhDLN5s3bOWnkdU9"
+        "name": "Up!",
+        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
       },
       "artists": [
         {
@@ -732,9 +700,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 210333,
-      "name": "I Ain't No Quitter - Greatest Hits Version",
-      "url": "https://open.spotify.com/track/2DzmwmdLOaexPrwfEpfypK"
+      "duration_ms": 240533,
+      "name": "Thank You Baby! (For Makin' Someday Come So Soon) - Red Version",
+      "url": "https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW"
     },
     {
       "added_at": null,
@@ -748,15 +716,15 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 228826,
-      "name": "Whatever You Do! Don't!",
-      "url": "https://open.spotify.com/track/1oDey7MWmrKRCSM0tgEoU8"
+      "duration_ms": 219693,
+      "name": "Black Eyes, Blue Tears",
+      "url": "https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Up!",
-        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
+        "name": "Rock This Country",
+        "url": "https://open.spotify.com/album/50U6VmuhDLN5s3bOWnkdU9"
       },
       "artists": [
         {
@@ -764,9 +732,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 196720,
-      "name": "In My Car (I'll Be The Driver) - Red Version",
-      "url": "https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru"
+      "duration_ms": 210333,
+      "name": "I Ain't No Quitter - Greatest Hits Version",
+      "url": "https://open.spotify.com/track/2DzmwmdLOaexPrwfEpfypK"
     },
     {
       "added_at": null,
@@ -791,6 +759,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up!",
+        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 196720,
+      "name": "In My Car (I'll Be The Driver) - Red Version",
+      "url": "https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 228826,
+      "name": "Whatever You Do! Don't!",
+      "url": "https://open.spotify.com/track/1oDey7MWmrKRCSM0tgEoU8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Not Just A Girl (The Highlights)",
         "url": "https://open.spotify.com/album/1Gqoca4RxsEZCIAgx6PsTS"
       },
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+        "name": "Queen Of Me",
+        "url": "https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 243948,
-      "name": "If You Wanna Touch Her, Ask!",
-      "url": "https://open.spotify.com/track/7uQTbTiCf9p2v0ceOWkXli"
+      "duration_ms": 159382,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/7o8JK3VT39xu90cTJTV2uT"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Of Me",
-        "url": "https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 159382,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/7o8JK3VT39xu90cTJTV2uT"
+      "duration_ms": 243948,
+      "name": "If You Wanna Touch Her, Ask!",
+      "url": "https://open.spotify.com/track/7uQTbTiCf9p2v0ceOWkXli"
     }
   ],
   "unique_name": "This Is Shania Twain",

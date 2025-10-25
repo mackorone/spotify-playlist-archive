@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Hey, Kodak\nthat's DOPE!",
+  "description": "Hey, Dave & Tems\nthat's DOPE!",
   "name": "DOPE.",
   "tracks": [
     {
@@ -889,7 +889,7 @@
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 192000,
+      "duration_ms": 192266,
       "name": "Blick Sum (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
     },
@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 217969,
       "name": "fakebreaker",
       "url": "https://open.spotify.com/track/5YE3a3b0WeQyw4zATSVeR4"
@@ -2770,7 +2770,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 215594,
       "name": "Free",
       "url": "https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh"
@@ -2788,7 +2788,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 119285,
       "name": "Free Mr. Banks",
       "url": "https://open.spotify.com/track/0Prv7tKONwFjjoJ2KswCoR"
@@ -4851,6 +4851,28 @@
     },
     {
       "album": {
+        "name": "Mirroronnabenz",
+        "url": "https://open.spotify.com/album/38mqpaec0dbvLDMiX6Jjox"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142784,
+      "name": "Mirroronnabenz (with BNYX\u00ae)",
+      "url": "https://open.spotify.com/track/5Vip1MOeAfQ5weKGYBXpI0"
+    },
+    {
+      "album": {
         "name": "MISAWA )",
         "url": "https://open.spotify.com/album/6bbs4aTcWo5P5a4jvbAQZT"
       },
@@ -6406,6 +6428,28 @@
       "duration_ms": 191598,
       "name": "Rain Snow",
       "url": "https://open.spotify.com/track/3HdS2u68EgyAxUokwbY2r7"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
       "album": {

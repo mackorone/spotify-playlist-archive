@@ -1,13 +1,61 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Ruel",
-  "num_followers": 1822219,
+  "description": "Sit back and relax to the chillest pop.  Cover: Noah Rinker",
+  "num_followers": 1822118,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJzj0A5nCHRyW7w72wFfO1dYMFDK",
+  "snapshot_id": "AAAAAKe6wOvrU1ypE+RzKTQHLMDGRgP1",
   "tracks": [
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "The Pines",
+        "url": "https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "The Pines",
+      "url": "https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7"
+    },
+    {
+      "added_at": "2025-10-17 04:00:51",
+      "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a"
+    },
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 182713,
+      "name": "Betty",
+      "url": "https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM"
+    },
     {
       "added_at": "2025-10-17 04:00:51",
       "album": {
@@ -41,6 +89,38 @@
       "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
     },
     {
+      "added_at": "2025-10-10 04:00:38",
+      "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 183803,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo"
+    },
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "What's The Big Deal?",
+        "url": "https://open.spotify.com/album/45N6nzLhG6Ec6mzQXaIDlB"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "duration_ms": 157226,
+      "name": "What's The Big Deal?",
+      "url": "https://open.spotify.com/track/7ApMCHf0F02nJ44scfiQQm"
+    },
+    {
       "added_at": "2025-10-17 04:00:51",
       "album": {
         "name": "Changes",
@@ -55,6 +135,26 @@
       "duration_ms": 184133,
       "name": "Changes",
       "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
+    },
+    {
+      "added_at": "2025-10-10 04:00:38",
+      "album": {
+        "name": "Don't Remind Me (with Anderson .Paak)",
+        "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 218472,
+      "name": "Don't Remind Me (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
     },
     {
       "added_at": "2025-09-26 04:00:31",
@@ -73,36 +173,52 @@
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
-      "added_at": "2025-10-10 04:00:38",
+      "added_at": "2025-10-24 04:00:21",
       "album": {
-        "name": "Soft",
-        "url": "https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k"
+        "name": "Nobody Wants This Season 2: The Soundtrack",
+        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
       },
       "artists": [
         {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 183803,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo"
+      "duration_ms": 232771,
+      "name": "If The World Burns Down",
+      "url": "https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9"
     },
     {
-      "added_at": "2025-10-17 04:00:51",
+      "added_at": "2025-09-05 07:50:16",
       "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC"
+        "name": "A COLD PLAY",
+        "url": "https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS"
       },
       "artists": [
         {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a"
+      "duration_ms": 179817,
+      "name": "A COLD PLAY",
+      "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
+    },
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "Double Date",
+        "url": "https://open.spotify.com/album/5ofZGLKXLj5RaTNasbBB8O"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Double Date",
+      "url": "https://open.spotify.com/track/4CyevrMYaqn6cvODOldS6m"
     },
     {
       "added_at": "2025-10-10 04:00:38",
@@ -157,6 +273,22 @@
       "url": "https://open.spotify.com/track/6mE8xGsznYSnsKA33FbHUu"
     },
     {
+      "added_at": "2025-09-05 07:50:16",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 192124,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6"
+    },
+    {
       "added_at": "2025-09-19 04:00:24",
       "album": {
         "name": "The Dream",
@@ -195,26 +327,6 @@
       "duration_ms": 214706,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/243NHDpKPqm0VqS1cxctbl"
-    },
-    {
-      "added_at": "2025-10-10 04:00:38",
-      "album": {
-        "name": "Don't Remind Me (with Anderson .Paak)",
-        "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 218472,
-      "name": "Don't Remind Me (with Anderson .Paak)",
-      "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
     },
     {
       "added_at": "2025-10-17 04:00:51",
@@ -281,22 +393,6 @@
       "url": "https://open.spotify.com/track/0YuAog2t6aOgioIXKboKDQ"
     },
     {
-      "added_at": "2025-09-05 07:50:16",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R"
-      },
-      "artists": [
-        {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
-        }
-      ],
-      "duration_ms": 192124,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6"
-    },
-    {
       "added_at": "2025-09-19 04:00:24",
       "album": {
         "name": "Something Beautiful (Deluxe)",
@@ -321,20 +417,20 @@
       "url": "https://open.spotify.com/track/37u2vfn3zgAz98uTZM7KeZ"
     },
     {
-      "added_at": "2025-09-05 07:50:16",
+      "added_at": "2025-10-24 04:00:21",
       "album": {
-        "name": "A COLD PLAY",
-        "url": "https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS"
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/36HBYHgPwpRA8zimQ6xFvB"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
         }
       ],
-      "duration_ms": 179817,
-      "name": "A COLD PLAY",
-      "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
+      "duration_ms": 188037,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/3cM0vtbtg4vcgxXELIvAQI"
     },
     {
       "added_at": "2025-10-17 04:00:51",
@@ -493,20 +589,20 @@
       "url": "https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V"
     },
     {
-      "added_at": "2025-10-03 04:00:57",
+      "added_at": "2025-10-24 04:00:21",
       "album": {
-        "name": "Not For Lack Of Trying",
-        "url": "https://open.spotify.com/album/6ogKuILl7vFFCahzxHvFOi"
+        "name": "Anna Karenina",
+        "url": "https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 217819,
-      "name": "Tall Kids",
-      "url": "https://open.spotify.com/track/7cU1KmxXP6f6GCxQ54IFTB"
+      "duration_ms": 315000,
+      "name": "Anna Karenina",
+      "url": "https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg"
     },
     {
       "added_at": "2025-10-03 04:00:57",
@@ -579,38 +675,6 @@
       "duration_ms": 194805,
       "name": "Wild, Love",
       "url": "https://open.spotify.com/track/5Pq4bwoBblDt07xEomEI6f"
-    },
-    {
-      "added_at": "2025-09-26 04:00:31",
-      "album": {
-        "name": "Born Blue",
-        "url": "https://open.spotify.com/album/6E4GlRSGCJOYQZo9yg614K"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 205286,
-      "name": "Cigarette Smoke In My Eyes",
-      "url": "https://open.spotify.com/track/2AWu7GjebA7IMKvD7t0XFO"
-    },
-    {
-      "added_at": "2025-10-17 04:00:51",
-      "album": {
-        "name": "After EP 2",
-        "url": "https://open.spotify.com/album/4wrJJTECEgSMnwHeoBzoGz"
-      },
-      "artists": [
-        {
-          "name": "After",
-          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
-        }
-      ],
-      "duration_ms": 208386,
-      "name": "The Field",
-      "url": "https://open.spotify.com/track/07lAcpDgwODHa2tQsSGZfL"
     },
     {
       "added_at": "2025-05-30 04:00:31",
@@ -941,22 +1005,6 @@
       "url": "https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6"
     },
     {
-      "added_at": "2025-09-26 04:00:31",
-      "album": {
-        "name": "go to hell",
-        "url": "https://open.spotify.com/album/3rK7UbpPl0baqan7EwLSnH"
-      },
-      "artists": [
-        {
-          "name": "joel",
-          "url": "https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR"
-        }
-      ],
-      "duration_ms": 207428,
-      "name": "go to hell",
-      "url": "https://open.spotify.com/track/7kPslfcxPGGd5a2i2F1T8r"
-    },
-    {
       "added_at": "2025-09-12 04:00:29",
       "album": {
         "name": "Small Talk",
@@ -1035,22 +1083,6 @@
       "duration_ms": 240308,
       "name": "Headphones On",
       "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
-    },
-    {
-      "added_at": "2025-09-05 07:50:16",
-      "album": {
-        "name": "Matches & Gasoline",
-        "url": "https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm"
-      },
-      "artists": [
-        {
-          "name": "Noah Rinker",
-          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
-        }
-      ],
-      "duration_ms": 287063,
-      "name": "Matches & Gasoline",
-      "url": "https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp"
     },
     {
       "added_at": "2025-09-12 04:00:29",
@@ -1281,26 +1313,6 @@
       "url": "https://open.spotify.com/track/2IAmKxh24ZiPTDI4kL8yrl"
     },
     {
-      "added_at": "2025-08-01 04:00:27",
-      "album": {
-        "name": "L.O.V.E.U (feat. hannah bahng)",
-        "url": "https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        },
-        {
-          "name": "hannah bahng",
-          "url": "https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9"
-        }
-      ],
-      "duration_ms": 199923,
-      "name": "L.O.V.E.U (feat. hannah bahng)",
-      "url": "https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ"
-    },
-    {
       "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "puffette",
@@ -1415,22 +1427,6 @@
       "duration_ms": 155409,
       "name": "Members Only",
       "url": "https://open.spotify.com/track/0gxkhOg66cr6ZckoVwOoa8"
-    },
-    {
-      "added_at": "2025-08-01 04:00:27",
-      "album": {
-        "name": "How To Live",
-        "url": "https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 240043,
-      "name": "How To Live",
-      "url": "https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D"
     },
     {
       "added_at": "2025-03-21 04:46:31",

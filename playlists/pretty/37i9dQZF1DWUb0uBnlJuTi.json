@@ -1,13 +1,29 @@
 {
   "description": "Jazz, but make it funky. Cover: Skinny Hightower",
-  "num_followers": 398690,
+  "num_followers": 398778,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIg1XM4xfV/2gc7b1f/j96oCeimF",
+  "snapshot_id": "AAAAACMuPh+6bz2QrfzpA/INvnyvPcR/",
   "tracks": [
+    {
+      "added_at": "2025-10-24 04:00:02",
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/1aVzMhEYvdVDwvzLVtfKBe"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 240630,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/51Qg3XRB5zTGpi3S49f2Ph"
+    },
     {
       "added_at": "2025-08-22 04:00:12",
       "album": {
@@ -515,22 +531,6 @@
       "duration_ms": 438793,
       "name": "Why",
       "url": "https://open.spotify.com/track/7tlyMqKsd5fbx0zzovhPxM"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Filibuster",
-        "url": "https://open.spotify.com/album/5uSG5x7Yu0hwFwn6AIvIpw"
-      },
-      "artists": [
-        {
-          "name": "The Du-Rites",
-          "url": "https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw"
-        }
-      ],
-      "duration_ms": 160929,
-      "name": "Filibuster",
-      "url": "https://open.spotify.com/track/6BWF4wtShcinQ1ikEwzkXl"
     },
     {
       "added_at": "2024-05-24 04:00:00",

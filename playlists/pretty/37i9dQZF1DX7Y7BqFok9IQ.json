@@ -1,13 +1,29 @@
 {
   "description": "The best of modern blues rock. Cover: Samantha Fish",
-  "num_followers": 248427,
+  "num_followers": 248547,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExrqyqXgtPgG71r7uFn8yK50gIg",
+  "snapshot_id": "AAAAAHeejhYzms9rDMafFgG07J6huSvN",
   "tracks": [
+    {
+      "added_at": "2025-10-24 04:00:05",
+      "album": {
+        "name": "YOUNG BLOOD",
+        "url": "https://open.spotify.com/album/1PjUSENItjT102cQZDZYer"
+      },
+      "artists": [
+        {
+          "name": "True Strays",
+          "url": "https://open.spotify.com/artist/2arsJQ0bB5uQyDJoR3MbOq"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "YOUNG BLOOD",
+      "url": "https://open.spotify.com/track/5wMtnzKuIyhPFD8VvGpAyN"
+    },
     {
       "added_at": "2025-10-10 04:00:23",
       "album": {
@@ -1935,22 +1951,6 @@
       "duration_ms": 201586,
       "name": "Make Your Move",
       "url": "https://open.spotify.com/track/5uXlBb9vZ3ltzVpbVXAH5N"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Polyphonic Prayer",
-        "url": "https://open.spotify.com/album/1UDIrNUj89EZLk6sxDMQEo"
-      },
-      "artists": [
-        {
-          "name": "Eric Steckel",
-          "url": "https://open.spotify.com/artist/1Nszrfn8SpD5v19xCpaVbk"
-        }
-      ],
-      "duration_ms": 295064,
-      "name": "Can't Go Back",
-      "url": "https://open.spotify.com/track/1UakN2FvjlCtktr5C7eKTU"
     },
     {
       "added_at": "2023-04-14 04:01:00",

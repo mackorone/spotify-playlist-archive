@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Metallica
 
-459 songs - 1 day 8 hr 31 min
+460 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Sacrilegious Pain](https://open.spotify.com/track/7sYEZU5f02dITKOEgSo6TM) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Sacrilegious Pain](https://open.spotify.com/album/3DFD5UOgUynlN4mZ3LRL1u) | 3:53 | 2021-12-17 |  |
 | [Sadistic Magician](https://open.spotify.com/track/5szz2njh6khJU22vh4dAz0) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Art of Partying](https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h) | 2:09 | 2021-12-17 |  |
 | [Sea Savage](https://open.spotify.com/track/3Gwcz0OK7mFE87P7CjVG0W) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Sea Savage](https://open.spotify.com/album/3Yu6Zmjf6pqtg7BAKHlyCM) | 3:57 | 2021-12-17 | 2022-07-28 |
+| [Seek & Destroy](https://open.spotify.com/track/0YpQy96LlfTKcaKM8M9E0J) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Seek & Destroy](https://open.spotify.com/album/1HGpNVvKDpSUu8dbnItK47) | 6:54 | 2025-10-24 |  |
 | [Semtex Revolution](https://open.spotify.com/track/6ZpcI3ZJtbbONbJ6LQm1XO) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Mental Vortex](https://open.spotify.com/album/56gqMPiLXiyHNUCPnVeoX9) | 5:30 | 2023-06-27 | 2024-04-19 |
 | [Semtex Revolution](https://open.spotify.com/track/7mTceRxYae4a5xkEhTgdqq) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Mental Vortex](https://open.spotify.com/album/0qbld4MsN4rUa4uyEm1juQ) | 5:30 | 2022-07-13 | 2023-11-04 |
 | [Seven Serpents](https://open.spotify.com/track/0Ymzr5Fo4i10IaUQz5R0eO) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Seven Serpents](https://open.spotify.com/album/5Fa32KpztTDuW2wuq30LRX) | 4:39 | 2025-09-26 |  |
@@ -461,7 +462,7 @@
 | [World in a World](https://open.spotify.com/track/5nJixh1Yoax0OX03cIfUDQ) | [Crisix](https://open.spotify.com/artist/3xGTWSIlxvBUSaKs8hCA9s) | [Crisix Session \# 1: American Thrash](https://open.spotify.com/album/6kUbRggyg1IbfV8bL6Beaf) | 4:16 | 2021-12-17 |  |
 | [Wrath \(Bring Fire\)](https://open.spotify.com/track/3BWtsGjISgoXVesKCpEA8Q) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [Wrath \(Bring Fire\)](https://open.spotify.com/album/2ZzijYl8kDv92rHYPXu1dc) | 3:33 | 2025-05-02 |  |
 | [Wrecking Crew](https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [Taking Over](https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N) | 4:32 | 2022-07-13 |  |
-| [WWIII](https://open.spotify.com/track/0XnV89hrJWQxPkddqWtIln) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Titans of Creation](https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK) | 4:48 | 2021-12-17 |  |
+| [WWIII](https://open.spotify.com/track/0XnV89hrJWQxPkddqWtIln) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Titans of Creation](https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK) | 4:48 | 2021-12-17 | 2025-10-25 |
 | [Year of the Goat](https://open.spotify.com/track/7D0wXdVm5aMwOgArdzBMcQ) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Year of the Goat](https://open.spotify.com/album/3vcSAW1Y7YNi9isFfRCWyb) | 3:26 | 2024-01-12 | 2024-04-29 |
 | [Ympyrä sulkeutuu](https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB) | [Myrsky](https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1) | 3:30 | 2024-03-08 |  |
 | [You Can't Bring Me Down](https://open.spotify.com/track/203xxdlledLFnkqrUleD72) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Lights...Camera...Revolution](https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT) | 5:48 | 2022-12-15 |  |

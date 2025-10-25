@@ -4,7 +4,7 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-804 songs - 1 day 21 hr 10 min
+805 songs - 1 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,6 +422,7 @@
 | [latenight](https://open.spotify.com/track/1a5JGx5dbSPHC4jqNtcqiX) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [latenight](https://open.spotify.com/album/5mo7fGpUrPSUt424yuPJdO) | 3:01 | 2023-01-27 | 2023-09-25 |
 | [Lavender](https://open.spotify.com/track/5DwHVuWlB7SlZbmF0Yn12z) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Lavender](https://open.spotify.com/album/2vaoGOKgCVLmgv5KilbsoU) | 3:31 | 2021-06-19 | 2021-10-12 |
 | [Lego House](https://open.spotify.com/track/5ubHAQtKuFfiG4FXfLP804) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 3:05 | 2021-06-19 | 2021-06-26 |
+| [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 | 2025-10-24 |  |
 | [Let's Get It Right \- Edit](https://open.spotify.com/track/7LTpwZbsZYnK0xnFSfnfxc) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Let's Get It Right](https://open.spotify.com/album/2ddb06dZsTW898KP4SKhXd) | 3:19 | 2022-07-29 | 2022-09-19 |
 | [Liberation](https://open.spotify.com/track/63HeOmi0Cav15rLsktJq8W) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Liberation](https://open.spotify.com/album/2ikZVKHUow5r1VdlVaFBnZ) | 2:38 | 2022-01-14 | 2022-04-17 |
 | [Libre](https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 2:44 | 2021-12-04 | 2023-02-11 |
@@ -592,7 +593,7 @@
 | [Revelation](https://open.spotify.com/track/7o29hf3iAHPK3Mi9FGjsWD) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Revelation](https://open.spotify.com/album/4qkHP13vvLt5vO48MpLjiY) | 4:13 | 2025-01-31 | 2025-06-07 |
 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2021-06-19 | 2021-07-17 |
 | [ride home](https://open.spotify.com/track/0FcC5OWqZ77FDBgzgq50tW) | [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK) | [inner monologue](https://open.spotify.com/album/34QvOwMN3lWQOD2D1eeTnZ) | 3:08 | 2024-08-30 | 2024-11-26 |
-| [Ride Or Die](https://open.spotify.com/track/7A6BREshRrCXX6nWgGLSan) | [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Ride Or Die](https://open.spotify.com/album/40WL9iL1HCYnppQLDbRuGJ) | 2:44 | 2025-07-18 |  |
+| [Ride Or Die](https://open.spotify.com/track/7A6BREshRrCXX6nWgGLSan) | [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Ride Or Die](https://open.spotify.com/album/40WL9iL1HCYnppQLDbRuGJ) | 2:44 | 2025-07-18 | 2025-10-25 |
 | [Ripped Up T\-Shirts](https://open.spotify.com/track/2CK4P116Q5fc1QlvZTM4D3) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl) | [Ripped Up T\-Shirts](https://open.spotify.com/album/3lbqV25ud1OAok1D5dIR4E) | 2:45 | 2022-06-24 | 2022-07-19 |
 | [Roses](https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Roses](https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC) | 3:46 | 2021-06-26 | 2021-07-17 |
 | [Rude Girl](https://open.spotify.com/track/4aaFbuneAqTpAxSDzlwf5g) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [The Duality In Me](https://open.spotify.com/album/2yFvAXTjCAsfQ5PRZIrAZR) | 3:04 | 2022-05-13 | 2022-07-28 |

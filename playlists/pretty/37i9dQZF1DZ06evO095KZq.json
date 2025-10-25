@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 446042,
+  "num_followers": 446071,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAADwRwMcCKjvWowHC7youMMx",
+  "snapshot_id": "aPlwAAAAAAD76doldGiReOhw5eGeYCa6",
   "tracks": [
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don Mayo",
-        "url": "https://open.spotify.com/album/61n5k372HW6UrPqiv9m7g5"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 191202,
-      "name": "Don Mayo",
-      "url": "https://open.spotify.com/track/7m6bPXQpytQk3Iyf5w1tbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chavo",
         "url": "https://open.spotify.com/album/5f3DQfWQRC3he3Cx6sFUGb"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 226101,
       "name": "El Chavo",
       "url": "https://open.spotify.com/track/4BBQZ0tRBZPlP5ornyo3di"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don Mayo",
+        "url": "https://open.spotify.com/album/61n5k372HW6UrPqiv9m7g5"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 191202,
+      "name": "Don Mayo",
+      "url": "https://open.spotify.com/track/7m6bPXQpytQk3Iyf5w1tbQ"
     },
     {
       "added_at": null,

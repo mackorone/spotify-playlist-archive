@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 35196,
+  "num_followers": 35200,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAA7YThILClN8d1DXxj74FDW",
+  "snapshot_id": "aPlwAAAAAABSgzbRvp3BqujvSZ4OEj1n",
   "tracks": [
     {
       "added_at": null,
@@ -31,26 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Let The Future Begin",
-        "url": "https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 339493,
-      "name": "In Christ Alone - Live",
-      "url": "https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Here For You (Live)",
         "url": "https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O"
       },
@@ -67,6 +47,26 @@
       "duration_ms": 274814,
       "name": "Lord, I Need You - Live",
       "url": "https://open.spotify.com/track/0xGXCPSjxkHxElgi7kC5SZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Let The Future Begin",
+        "url": "https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 339493,
+      "name": "In Christ Alone - Live",
+      "url": "https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs That Changed The Church - Worship",
-        "url": "https://open.spotify.com/album/2UeKzgjz3ioCawbhaR4rjr"
+        "name": "Passion: A Generation United For His Renown",
+        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
       },
       "artists": [
         {
@@ -720,13 +720,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 252733,
-      "name": "Breathe - Live",
-      "url": "https://open.spotify.com/track/1NUMrYjwOu7FHB2PgMZb97"
+      "duration_ms": 284386,
+      "name": "We Fall Down - Live",
+      "url": "https://open.spotify.com/track/0gYiQHM2wHEncP8PE4HRJ4"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: A Generation United For His Renown",
-        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
+        "name": "Songs That Changed The Church - Worship",
+        "url": "https://open.spotify.com/album/2UeKzgjz3ioCawbhaR4rjr"
       },
       "artists": [
         {
@@ -760,13 +760,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
         }
       ],
-      "duration_ms": 284386,
-      "name": "We Fall Down - Live",
-      "url": "https://open.spotify.com/track/0gYiQHM2wHEncP8PE4HRJ4"
+      "duration_ms": 252733,
+      "name": "Breathe - Live",
+      "url": "https://open.spotify.com/track/1NUMrYjwOu7FHB2PgMZb97"
     },
     {
       "added_at": null,
@@ -1007,6 +1007,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Glorioso D\u00eda",
+        "url": "https://open.spotify.com/album/4Xe7CGMiMfH2QG0folDw1i"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 260306,
+      "name": "Buen Padre",
+      "url": "https://open.spotify.com/track/2CmidRjwtCBIvxUfNAv4Ye"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Passion: The Essential Collection (Live)",
         "url": "https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 249013,
       "name": "King Of Glory - Live",
       "url": "https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glorioso D\u00eda",
-        "url": "https://open.spotify.com/album/4Xe7CGMiMfH2QG0folDw1i"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 260306,
-      "name": "Buen Padre",
-      "url": "https://open.spotify.com/track/2CmidRjwtCBIvxUfNAv4Ye"
     }
   ],
   "unique_name": "This Is Passion",

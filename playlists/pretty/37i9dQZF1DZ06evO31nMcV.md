@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 
 > This is Alexis Ffrench\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,519 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,521 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 | 10 | [Dreamland \- Solo Piano Version](https://open.spotify.com/track/6IWbqyzwXOcZfL2OCxvfph) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Solo Piano Collection](https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK) | 2:41 |
 | 11 | [Last Song](https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Secret Piano](https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA) | 1:55 |
 | 12 | [Chasing Yesterdays](https://open.spotify.com/track/6WvRiJeHUddJnkQuZTMdDG) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:38 |
-| 13 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 2:56 |
-| 14 | [Waterfalls](https://open.spotify.com/track/2mRzR5As98D4UWLIH3v5Rl) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 4:05 |
+| 13 | [Waterfalls](https://open.spotify.com/track/2mRzR5As98D4UWLIH3v5Rl) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 4:05 |
+| 14 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 2:56 |
 | 15 | [Rivers \- Solo Piano Version](https://open.spotify.com/track/5Rwivn8wMEQ6TP6XshXhZq) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Solo Piano Collection](https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK) | 2:16 |
 | 16 | [The Way It Was](https://open.spotify.com/track/0Ou52Ie17Xe557e0rCDdgG) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:20 |
 | 17 | [Miracles](https://open.spotify.com/track/1YeIOEwRR1F7fYy4rqBYPs) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Memories](https://open.spotify.com/album/4vmESFAVyHzzBSzA6CjQMj) | 3:23 |
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 | 21 | [Killing Me Softly With His Song](https://open.spotify.com/track/1RaD3ilt4NTRHwJGvMy2L0) | [Norman Gimbel](https://open.spotify.com/artist/5Ixk3FBu30Vqyk61bjGuuM), [Charles Fox](https://open.spotify.com/artist/3XA4LLL4CW8h4VWRY1EVbB), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 1:03 |
 | 22 | [Where Worlds Collide](https://open.spotify.com/track/04F2CVACUouSEWkaApQnmf) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 4:02 |
 | 23 | [Music Box](https://open.spotify.com/track/6sRMsgGmxXH8bawlSQtS3M) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 4:28 |
-| 24 | [Last Trip Around the Sun](https://open.spotify.com/track/2X2bsPfqB3ih1iS8KSqU1c) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Last Trip Around the Sun](https://open.spotify.com/album/0VbwQNe0djQ6n5I1cKtPX8) | 2:46 |
-| 25 | [Story of You](https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:36 |
-| 26 | [Returning To You](https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:21 |
+| 24 | [Story of You](https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:36 |
+| 25 | [Returning To You](https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:21 |
+| 26 | [Last Trip Around the Sun](https://open.spotify.com/track/2X2bsPfqB3ih1iS8KSqU1c) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Last Trip Around the Sun](https://open.spotify.com/album/0VbwQNe0djQ6n5I1cKtPX8) | 2:46 |
 | 27 | [September Song](https://open.spotify.com/track/0KesN9hSEucAYpvwaGMfsb) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 3:57 |
 | 28 | [Reborn](https://open.spotify.com/track/2zlfbhaKlYE45y5LyJawmh) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 3:31 |
-| 29 | [Did I Ever Tell You](https://open.spotify.com/track/3q3bjcd4SHSRNoafyK4MMl) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1 \- The Solo Piano Collection](https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F) | 4:35 |
-| 30 | [Together Without You](https://open.spotify.com/track/0OoXjNW8NfQwvajvjX84VF) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:27 |
+| 29 | [Together Without You](https://open.spotify.com/track/0OoXjNW8NfQwvajvjX84VF) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:27 |
+| 30 | [Did I Ever Tell You](https://open.spotify.com/track/3q3bjcd4SHSRNoafyK4MMl) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1 \- The Solo Piano Collection](https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F) | 4:35 |
 | 31 | [When the Bells Ring](https://open.spotify.com/track/7nXepAp45r8vUP8MB7WEZu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 2:18 |
 | 32 | [Exhale](https://open.spotify.com/track/6bpsmIyYGFBkNYooj595ji) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 2:48 |
 | 33 | [Carousel](https://open.spotify.com/track/7qUR44mhbatVB3p4OPw3Qd) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Escape](https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 | 49 | [Evermore](https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 2:50 |
 | 50 | [Forever Song](https://open.spotify.com/track/3QT8S7ZBD5kfQX3aJ7Nb5Y) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV), [Rob Derbyshire](https://open.spotify.com/artist/3cH6jwySd6wMM0OxMTh5CP), [Tim Garland](https://open.spotify.com/artist/7atdKYaPCT9zvJW2OTedhz) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:28 |
 
-Snapshot ID: `aPgegAAAAACcZ54GKu2IboFdXhMzo0wm`
+Snapshot ID: `aPlwAAAAAAD3bo8MlijU5AaLFNGO8gtf`

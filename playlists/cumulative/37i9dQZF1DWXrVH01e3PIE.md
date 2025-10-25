@@ -4,7 +4,7 @@
 
 > C.R.O\. en la casa del Trap Argentino.
 
-554 songs - 1 day 2 hr 58 min
+555 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Cypher MND \#18 v.1: Neo Pistea, Obie Wanshot & CNO](https://open.spotify.com/track/6NemFvDNVbQgKyArKaZCFn) | [Mundialista Crew](https://open.spotify.com/artist/6EcQO0oH1Bk27HMRlRNwYv), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [CNO Kingteam](https://open.spotify.com/artist/7KGCGu8VphRwOg7I9b7Mqy) | [Cypher MND \#18: Neo Pistea, Obie Wanshot & CNO](https://open.spotify.com/album/1eF1nsMyY0LfwNOqeTrnVt) | 2:34 | 2024-07-12 | 2024-08-14 |
 | [Cómo Le Digo](https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Cómo Le Digo](https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c) | 3:46 | 2025-04-11 | 2025-04-22 |
 | [DAKAR](https://open.spotify.com/track/0Go1oLj9k4wo1GqmKrSYFz) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo) | [DAKAR](https://open.spotify.com/album/10qhWnLbVyuQgcdv4DxYaP) | 3:34 | 2024-06-07 | 2024-10-26 |
+| [DALE NINO](https://open.spotify.com/track/4bBU0rQFzMxhn6Y7zZCCaH) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [DALE NINO](https://open.spotify.com/album/37cKFWOzIb0z4DzkkzSNcc) | 3:50 | 2025-10-24 |  |
 | [Dalí](https://open.spotify.com/track/5W9sfme2wRkcgx2RSkqGsp) | [MARCOS YTZ](https://open.spotify.com/artist/6cYga5r2iZY7SCrT56FUWj) | [Dalí](https://open.spotify.com/album/0f7lJFC5UgF55NI6Y5Loyv) | 3:05 | 2024-08-13 |  |
 | [Dame La Verde](https://open.spotify.com/track/6onnX1hYWcqP2dXgfvExNG) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Dame La Verde](https://open.spotify.com/album/4nEyemOG5BK5GpUknH5Zm1) | 3:35 | 2025-04-11 | 2025-04-22 |
 | [De las Shox a las Scorch](https://open.spotify.com/track/2i6PWZFkF8gnz668hT4sVX) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [PPP](https://open.spotify.com/album/1lsa2UwevjmI1Ud8JxvYPa) | 3:26 | 2024-01-12 | 2024-06-29 |

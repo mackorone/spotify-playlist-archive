@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 
 > 偷練不是罪、抖音無所謂、最新曲目讓你全台包廂任意走跳！
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,263 likes - 65 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,280 likes - 65 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 37 | [大展鴻圖\(Blueprint Supreme\)](https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI), [AR刘夫阳](https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45) | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 3:31 |
 | 38 | [或许](https://open.spotify.com/track/6YUN7NkILBuFEvzMTLnMek) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [或许](https://open.spotify.com/album/5A4YnDuKMxAiDr8ijgCCOo) | 3:41 |
 | 39 | [我是真的愛上你](https://open.spotify.com/track/2oPu3cNSBLfOwr07Vv27DK) | [Dave Wang](https://open.spotify.com/artist/5XMnJOQbE6OuOvcV8fn3Wg) | [不孤單](https://open.spotify.com/album/7cUf8srIhyB8wsRFUo36aT) | 5:02 |
-| 40 | [不確定未來只確定想愛](https://open.spotify.com/track/26K8qhGQ7lcyyq6wvCOfox) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [當大人](https://open.spotify.com/album/3lqvMjKlg3nzO32DWGzwpV) | 3:32 |
+| 40 | [不確定未來只確定想愛](https://open.spotify.com/track/26K8qhGQ7lcyyq6wvCOfox) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [當大人](https://open.spotify.com/album/3lqvMjKlg3nzO32DWGzwpV) | 3:32 |
 | 41 | [家家酒](https://open.spotify.com/track/6mO5fCJKvB9tr5RAFvBO7z) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [還是想念](https://open.spotify.com/album/4Bay19OUdTjD1eB7NOF4dP) | 4:33 |
 | 42 | [乖乖啊，今天的你也辛苦了](https://open.spotify.com/track/3VvGqetVmfcCaW6L6144Eq) | [承桓](https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI) | [乖乖啊，今天的你也辛苦了](https://open.spotify.com/album/3CPfBIDarMvZtJWItXKOey) | 3:15 |
 | 43 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |

@@ -4,7 +4,7 @@
 
 > This is Felicity Urquhart\. The essential tracks, all in one playlist.
 
-100 songs - 6 hr 7 min
+101 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [This Is Life](https://open.spotify.com/track/3kFjXyELd3JVdqHS14h0t0) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 4:51 | 2023-06-17 |  |
 | [Til the Rivers All Run Dry](https://open.spotify.com/track/33ayQ0Ef5zPfjAaSxnegzp) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 4:55 | 2024-05-17 | 2025-08-27 |
 | [Time for a Change](https://open.spotify.com/track/2KSbySbhDmJw6kROu7oSb1) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 3:43 | 2023-06-17 | 2025-08-25 |
-| [Too Many Drawers](https://open.spotify.com/track/0TL2E8eIIMcrBdChK8xwJz) | [Michael Waugh](https://open.spotify.com/artist/41gBcY9vHBzmVzf3D7enJJ), [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [The Cast](https://open.spotify.com/album/4FCGUFSRw9pn2RnCSfRS2u) | 4:30 | 2024-08-03 |  |
+| [Too Many Drawers](https://open.spotify.com/track/0TL2E8eIIMcrBdChK8xwJz) | [Michael Waugh](https://open.spotify.com/artist/41gBcY9vHBzmVzf3D7enJJ), [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [The Cast](https://open.spotify.com/album/4FCGUFSRw9pn2RnCSfRS2u) | 4:30 | 2024-08-03 | 2025-10-25 |
+| [Too Many Drawers](https://open.spotify.com/track/1SbsGO2klPqbfiTju8csUM) | [Michael Waugh](https://open.spotify.com/artist/41gBcY9vHBzmVzf3D7enJJ), [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [The Cast](https://open.spotify.com/album/5jjYptXOsQ1SaJDwLETwrp) | 4:30 | 2025-10-25 |  |
 | [Too Many Secrets](https://open.spotify.com/track/55GAlB5vrAuTYDZ9ml1pcu) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:11 | 2023-06-17 |  |
 | [Tropical Fever](https://open.spotify.com/track/7h0GNlpLMYxRW78zFdRoIo) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:50 | 2023-06-28 |  |
 | [Turn out the Light](https://open.spotify.com/track/2nPF1OqoEf149o7JKop0SX) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:13 | 2023-06-22 | 2025-10-24 |

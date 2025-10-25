@@ -152,8 +152,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 142 | [Nerves](https://open.spotify.com/track/75QYZC0KgNZ2Kt7CZTtSsB) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/67NWJ3RuWpPohz3zvJmmOb) | 3:20 |
 | 143 | [Everybody Knows](https://open.spotify.com/track/2vNIaQssHuCb3ZetSoVcRG) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 4:13 |
 | 144 | [Reminds Me Of You](https://open.spotify.com/track/2RTJW4LGOiz0pboM8LJWkp) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Japanese Edition\)](https://open.spotify.com/album/5N2cKMFxO89SjxJgDWmsQ5) | 3:14 |
-| 145 | [Candy Talk](https://open.spotify.com/track/2Bo0ZRNAhLm7BBbMNrAvk0) | [October](https://open.spotify.com/artist/6LHsMejRitRuzmfafX0F59) | [Ultra Red](https://open.spotify.com/album/6HrhskF1YKVHHj5OBwt1os) | 3:27 |
-| 146 | [Sugarpills](https://open.spotify.com/track/3w0DRBcknOR9HeT8LE1KmW) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:08 |
+| 145 | [Sugarpills](https://open.spotify.com/track/3w0DRBcknOR9HeT8LE1KmW) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:08 |
+| 146 | [Candy Talk](https://open.spotify.com/track/2Bo0ZRNAhLm7BBbMNrAvk0) | [October](https://open.spotify.com/artist/6LHsMejRitRuzmfafX0F59) | [Ultra Red](https://open.spotify.com/album/6HrhskF1YKVHHj5OBwt1os) | 3:27 |
 | 147 | [AYO \(That's What I Like\)](https://open.spotify.com/track/7C00Nu91xbJQAvMwBhwsYz) | [Timomatic](https://open.spotify.com/artist/3jEg5HvT2cuJQDjwjZxTb0) | [Timomatic](https://open.spotify.com/album/2tbVb2SlU8ovbP2sx7CsSF) | 3:17 |
 | 148 | [San Fran](https://open.spotify.com/track/6cjxIBKlxTIMLFdOf601YC) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:31 |
 | 149 | [Serpent Queen Pt 2](https://open.spotify.com/track/2xnP1PTC9lFwitBt3wy3p7) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 2:53 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 174 | [Stay](https://open.spotify.com/track/7l8HiGTHMix5788jAiekrb) | [indi](https://open.spotify.com/artist/1m7azj0LWTDGWAPvgvGPGa) | [Stay](https://open.spotify.com/album/5j0FgJxARSQd91znRQrVkd) | 4:09 |
 | 175 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/4JlnIhyQLH7733f8AH4OhZ) | [Layla Evans](https://open.spotify.com/artist/62f3DqAKO4ub6FtBchPUsI), [Mario Best](https://open.spotify.com/artist/1WycnPFicBoKKr7wWpDTns) | [Best of Pop Hits Today](https://open.spotify.com/album/1l629hKJwRUOlVP7MtqHDE) | 3:11 |
 
-Snapshot ID: `Ab/qXgAAAAAHNStbfxYjqXRQVbcLY/MZ`
+Snapshot ID: `Ab/wJgAAAAADa7DV7SUWOP0X6F2PE10B`

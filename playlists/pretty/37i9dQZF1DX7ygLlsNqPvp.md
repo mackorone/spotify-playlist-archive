@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  O'Kenneth
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,109 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,131 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [Fantasy](https://open.spotify.com/track/3KUHvjCyXJpFvd2Hf29aGa) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Fantasy](https://open.spotify.com/album/4dKWS95i2zv2Y2O9EBfQoI) | 2:27 |
 | 50 | [Sa Me](https://open.spotify.com/track/0JHLFj7g5S6PVL0sBl7mxR) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/02D9f4yJWVjTViNDyXzgMj) | 2:48 |
 
-Snapshot ID: `AAAAAPALPoCv1ma/czYfK5L+eRP8qa4w`
+Snapshot ID: `AAAAACdkWuRfPAZQvbt9r2tlSfn0APG4`

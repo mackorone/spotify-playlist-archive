@@ -2,7 +2,7 @@
 
 ### [Hot Hits UAE](https://open.spotify.com/playlist/37i9dQZF1DXcJUwMZo8Ss1)
 
-> The hottest tracks trending in the UAE ❤️‍🔥  Cover: Taylor Swift
+> The hottest tracks trending in the UAE ❤️‍🔥  Cover: JISOO & ZAYN
 
 208 songs - 11 hr 40 min
 

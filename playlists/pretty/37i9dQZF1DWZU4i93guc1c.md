@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > Xіти та проривні новинки незалежної місцевої музики\. Обкладинка: Monokate
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,444 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,438 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Нас несе](https://open.spotify.com/track/6bnanlwJjOJ8mn5aAHujSB) | [Monokate](https://open.spotify.com/artist/2a34noMhBNoTjXAWD5aJeF), [паліндром](https://open.spotify.com/artist/3kM7MT7h1sQm1PMiCxkkSX) | [](https://open.spotify.com/album/null) | 4:54 |
+| 1 | [Нас несе](https://open.spotify.com/track/6bnanlwJjOJ8mn5aAHujSB) | [Monokate](https://open.spotify.com/artist/2a34noMhBNoTjXAWD5aJeF), [паліндром](https://open.spotify.com/artist/3kM7MT7h1sQm1PMiCxkkSX) | [Половина мене](https://open.spotify.com/album/313ajnJOcZPIfIoe35zGIh) | 4:54 |
 | 2 | [Вже вільна](https://open.spotify.com/track/67hZYh1R3ELz3OtryeG9qo) | [анастимоза](https://open.spotify.com/artist/387gWxnXhGdDQFO7Ld3mLZ) | [Відносність](https://open.spotify.com/album/7qG2R062qmrllnZ70uDTLF) | 2:50 |
 | 3 | [Наше місто просинається](https://open.spotify.com/track/5wXvPcW6kkgbkwBXQD09UL) | [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he) | [Наше місто просинається](https://open.spotify.com/album/6mxUQ87MACkyrBZibqQk4O) | 2:21 |
 | 4 | [Твій Сміх](https://open.spotify.com/track/4pD8GIxWDAOeA819786Ny7) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3) | [Твій Сміх](https://open.spotify.com/album/3ENa9mw7tNiMX7f3Az0fZC) | 3:22 |

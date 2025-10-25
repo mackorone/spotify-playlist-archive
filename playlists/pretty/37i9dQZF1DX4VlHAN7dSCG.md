@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 傻子與白痴 \(Fool And Idiot\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,535 likes - 69 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,540 likes - 69 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 4 | [在你和天空之間 \- 滾石撞樂隊2 \(原唱:趙之璧\)](https://open.spotify.com/track/786Lg6E2BvmOdlXs1WCY2L) | [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX) | [滾石撞樂隊2 \- 在你和天空之間](https://open.spotify.com/album/0Rkfkmv8JpJWnjVzKVzxDS) | 4:42 |
 | 5 | [紙花 feat.張芳瑜 \(音樂劇《釧兒》宣傳曲\)](https://open.spotify.com/track/64azmSjjDNc6M4iYNm0Rc7) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI), [張芳瑜](https://open.spotify.com/artist/6RTA48DWVlys9zrbOcMDsC) | [紙花 feat.張芳瑜 \(音樂劇《釧兒》宣傳曲\)](https://open.spotify.com/album/0VqY6xRVcfu94kgJiAk5sr) | 4:39 |
 | 6 | [世界的懷疑](https://open.spotify.com/track/4XV1EjtMwYqSPGdy5UAL15) | [The Freshman](https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y) | [在 · 這裡](https://open.spotify.com/album/7E42tTIJPHLpxIfAl3JU0y) | 3:33 |
-| 7 | [越過這座橋](https://open.spotify.com/track/3QrK1gsDl449YPtZ7mNreC) | [Who Cares 胡凱兒](https://open.spotify.com/artist/0AiFba38vwZy2L1SJGX4mW) | [](https://open.spotify.com/album/null) | 4:44 |
+| 7 | [越過這座橋](https://open.spotify.com/track/3QrK1gsDl449YPtZ7mNreC) | [Who Cares 胡凱兒](https://open.spotify.com/artist/0AiFba38vwZy2L1SJGX4mW) | [越過這座橋](https://open.spotify.com/album/2hqGTpduxYpH8JHsAMZJPK) | 4:44 |
 | 8 | [27 \- DEMO](https://open.spotify.com/track/42Jvl22uN10xmAl4OyaqgV) | [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI), [\#asskidindahood](https://open.spotify.com/artist/3E0PqQ0ZQQaWE72E76ht3s) | [27 \(DEMO\)](https://open.spotify.com/album/06OTU6DUYYxQiRKnzhn5i1) | 1:33 |
 | 9 | [練習](https://open.spotify.com/track/4BRJr06XrfvqGyozozXueh) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [練習](https://open.spotify.com/album/77PjqPZZkHMo5AXsXXhzjL) | 3:37 |
 | 10 | [La fin 再會](https://open.spotify.com/track/7BgWJMlklwKiasBryKdvWo) | [Schoolgirl Byebye](https://open.spotify.com/artist/6kfcndVsu8F9Y5gL5xc717) | [La fin 再會](https://open.spotify.com/album/3g0RtAhdy4MpvN2MxdfZGc) | 2:49 |

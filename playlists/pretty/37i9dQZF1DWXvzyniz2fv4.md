@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,265 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,264 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 59 | [Bem Vindx à Lyra](https://open.spotify.com/track/2qQpfNUbSknXrr3p467tRj) | [Iuri Mesan](https://open.spotify.com/artist/7fLP8QqaHMqvAenq3PrvGP), [Isadora Vilela](https://open.spotify.com/artist/7pBFXpm3z5suv9hCELSMnU), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR), [Sagita'](https://open.spotify.com/artist/1zXaS6knKG0RnEdnTuIyg3) | [Bem Vindx à Lyra](https://open.spotify.com/album/11zJh3b4sbGY49SyRkJ0If) | 3:48 |
 | 60 | [Nossas Mídias](https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA) | [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6), [Simøn](https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA) | [Nossas Mídias](https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt) | 3:26 |
 
-Snapshot ID: `AAAAAFL1sGrzJ45eSkjKdipMgqLZ444B`
+Snapshot ID: `AAAAAAjK1i+MuEXtnkVzSXkO1aeGSUcx`

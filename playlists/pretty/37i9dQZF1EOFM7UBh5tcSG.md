@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOFM7UBh5tcSG.md) - [plain]
 | 11 | [Rare](https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:40 |
 | 12 | [Selena Gomez Talks New Music, Mental Health, and Finding Happiness](https://open.spotify.com/episode/4rExuEytJinOwXavkeAr4k) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 40:48 |
 | 13 | [Confident](https://open.spotify.com/track/0Mn3amMRMoabaoTf1Publ4) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/3HV3ecmJJ2GmHM93vVVKXF) | 3:25 |
-| 14 | [Demi Lovato is Not Sorry](https://open.spotify.com/episode/1u8LZkvizAkmqdExv1oWOO) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 36:31 |
+| 14 | [Demi Lovato is Not Sorry](https://open.spotify.com/episode/1u8LZkvizAkmqdExv1oWOO) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 36:44 |
 | 15 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 |
 
 Snapshot ID: `AZiurgAAAAD9J0S4NSedWHBHiXTM77UX`

@@ -5323,6 +5323,28 @@
     },
     {
       "album": {
+        "name": "La bella confusione",
+        "url": "https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO"
+      },
+      "artists": [
+        {
+          "name": "Charlie Charles",
+          "url": "https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim"
+        },
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213125,
+      "name": "Superstite",
+      "url": "https://open.spotify.com/track/5WfBKsWx0hxCEsviZ5QVqk"
+    },
+    {
+      "album": {
         "name": "ORO BLU",
         "url": "https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U"
       },

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Epic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,491 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,485 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hanging Out In My Head](https://open.spotify.com/track/1xhaaznvVPI1MPqGf6zXmp) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [](https://open.spotify.com/album/null) | 2:49 |
+| 1 | [Hanging Out In My Head](https://open.spotify.com/track/1xhaaznvVPI1MPqGf6zXmp) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Burning Bridges Into Dust](https://open.spotify.com/album/6RMqbIJ7ffwBsUqJ3vXTV5) | 2:49 |
 | 2 | [Back to the Wind](https://open.spotify.com/track/3PppWqmsD5jpwWBfOM4YNM) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Back to the Wind](https://open.spotify.com/album/3sBwfhCWBnVzbY5qynudYT) | 3:20 |
 | 3 | [Give Me All Your Love](https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6) | 3:20 |
 | 4 | [White Horses](https://open.spotify.com/track/0FyvJvyPa8uBPvz4camMhe) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/3QGtV6BMgF31PYEy3I4Epn) | 4:29 |

@@ -2545,6 +2545,24 @@
     },
     {
       "album": {
+        "name": "Genie In A Bottle - Spotify Singles",
+        "url": "https://open.spotify.com/album/6LmGzRqpz6W0XV7fysHXuG"
+      },
+      "artists": [
+        {
+          "name": "ANTONIA",
+          "url": "https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191242,
+      "name": "Genie In A Bottle - Spotify Singles",
+      "url": "https://open.spotify.com/track/1XhTyKFFySgEHONZYsZcdT"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
       },
@@ -5782,7 +5800,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 173206,
       "name": "Sending My Love - Spotify Singles",
       "url": "https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf"

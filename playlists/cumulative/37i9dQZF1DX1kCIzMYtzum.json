@@ -403,6 +403,32 @@
     },
     {
       "album": {
+        "name": "Ain't Letting You Down",
+        "url": "https://open.spotify.com/album/6Gihz6RXvLYLFxHPMJC7nf"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Saksham",
+          "url": "https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF"
+        },
+        {
+          "name": "Scott Quinn",
+          "url": "https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261958,
+      "name": "Ain't Letting You Down",
+      "url": "https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB"
+    },
+    {
+      "album": {
         "name": "Air (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/025rWUi7mzNNBbECHvCm0j"
       },
@@ -2757,7 +2783,7 @@
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 180091,
+      "duration_ms": 180532,
       "name": "Chasing Paradise",
       "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
     },
@@ -5624,7 +5650,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 214784,
       "name": "Follow Your Heart",
       "url": "https://open.spotify.com/track/6WV3aI7MZ2olmOj8E4Ff25"
@@ -7217,6 +7243,28 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204593,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
+    },
+    {
+      "album": {
         "name": "Hold On (Club Mix)",
         "url": "https://open.spotify.com/album/53X7MSCwuZh1dtDvqtV2wF"
       },
@@ -7836,7 +7884,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 240000,
       "name": "I Remember - John Summit Remix",
       "url": "https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz"
@@ -15044,7 +15092,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 189176,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/1tIYTeCrLtHTbZwmKXh625"
@@ -16186,6 +16234,24 @@
       "duration_ms": 211406,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK"
+    },
+    {
+      "album": {
+        "name": "Stay Awake",
+        "url": "https://open.spotify.com/album/5Ev62f2XpQUWw9XdSsYuDL"
+      },
+      "artists": [
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208107,
+      "name": "Stay Awake",
+      "url": "https://open.spotify.com/track/7f71BTXWubBCTIlbEqKeUi"
     },
     {
       "album": {

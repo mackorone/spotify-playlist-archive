@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-520 songs - 1 day 11 hr 0 min
+521 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Ain't No Cure Like The Blues](https://open.spotify.com/track/2i1EsHwA5GhttL6GPQUCje) | [Justine Blazer](https://open.spotify.com/artist/1yLt8nmhDz17SVp6yWrsDq), [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Ain't No Cure Like The Blues](https://open.spotify.com/album/2FyBb2zYjEMfpYbKxhCCg5) | 3:32 | 2024-05-24 |  |
 | [Ain't That A Man](https://open.spotify.com/track/5K1zCqvd3rcvAEMdGgJjeg) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Ain't That A Man](https://open.spotify.com/album/0Avhru66QhXAyP9N8xfP30) | 4:58 | 2024-03-15 | 2024-04-27 |
 | [Ain't That Lovin' You](https://open.spotify.com/track/1x2Xc6lGnIouQyclbttjC6) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Ain't That Lovin' You](https://open.spotify.com/album/6hRhku9LbgLHLrQPa4Uv6A) | 2:19 | 2022-03-11 | 2022-04-23 |
+| [Ain’t That A Trip \[Feat\. Van Morrison\]](https://open.spotify.com/track/2n4pXSD97ATMzGzoLrgmS6) | [The James Hunter Six](https://open.spotify.com/artist/0Fn28eidAZsxHQhTzY3gKp), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Ain’t That A Trip \[Feat\. Van Morrison\]](https://open.spotify.com/album/5hBxD18qmcUTLj47jbHrDh) | 3:29 | 2025-10-24 |  |
 | [Alive](https://open.spotify.com/track/1J4MnbBNUcjI6XzgYQsSLd) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Alive](https://open.spotify.com/album/6yMn7EMp3ASkFC8K3n7RVP) | 4:54 | 2025-09-05 | 2025-09-20 |
 | [All My Dues Are Paid](https://open.spotify.com/track/3znhGwwxf4qFynHf6tnNwD) | [Frank Bey](https://open.spotify.com/artist/0na4KYz5VSu44CvyPGVzKE) | [All My Dues Are Paid](https://open.spotify.com/album/6txO0ubyiIe50vVGyUAUyg) | 4:11 | 2020-12-14 | 2022-02-26 |
 | [All My Life](https://open.spotify.com/track/0VDUH9ExYWe5XGRmqu3VHk) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [The Invisible Man](https://open.spotify.com/album/75jZ7YB5g4bwiA5XAFSMX0) | 3:09 | 2024-11-08 |  |
@@ -183,7 +184,7 @@
 | [Heavy Soul](https://open.spotify.com/track/3aZtRvQ7PvcquxVGjNYJDZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Heavy Soul](https://open.spotify.com/album/3ErX87cvZzUDipGiJsoepu) | 5:08 | 2024-02-16 | 2024-04-13 |
 | [Hello, it's the Blues](https://open.spotify.com/track/4l4ds95dBXqtgkRw05FHes) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Hello, it's the Blues](https://open.spotify.com/album/63AimE0DtK9RSDDm8ylU2H) | 6:46 | 2022-12-02 | 2023-01-14 |
 | [Help Me](https://open.spotify.com/track/2tKvPt023QVMNkkNqmTDap) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Help Me](https://open.spotify.com/album/5fQEUm0GyrU0TDezWAR2sL) | 3:30 | 2023-10-06 | 2025-09-20 |
-| [Help Yourself](https://open.spotify.com/track/6i2EOHluVZewHGo1WivSnA) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Help Yourself](https://open.spotify.com/album/3dRkh2xDogXlODckUjdnCF) | 4:04 | 2023-12-01 |  |
+| [Help Yourself](https://open.spotify.com/track/6i2EOHluVZewHGo1WivSnA) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Help Yourself](https://open.spotify.com/album/3dRkh2xDogXlODckUjdnCF) | 4:04 | 2023-12-01 | 2025-10-25 |
 | [Here I'm Is](https://open.spotify.com/track/45DxmdLBAjYelavuazYJhg) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Here I'm Is](https://open.spotify.com/album/2FwkQp2elO2xN3MOs2XJL9) | 2:27 | 2022-03-18 | 2024-05-04 |
 | [Hey Baby \(What Are We Gonna Do\)](https://open.spotify.com/track/4mahrABVv4bWz89pQCvURX) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Hey Baby \(What Are We Gonna Do\)](https://open.spotify.com/album/03eSdbYiHt5sLyFDa4GlL0) | 3:58 | 2025-02-21 | 2025-03-22 |
 | [Hey Sweet Mama](https://open.spotify.com/track/1MOMr9SOh60lG2LH2Q6KcR) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Hey Sweet Mama](https://open.spotify.com/album/0jWYluOK8PM8cF33IwooLo) | 3:36 | 2023-02-10 | 2024-02-10 |

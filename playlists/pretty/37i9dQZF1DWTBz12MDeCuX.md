@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Tkandz
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,721 likes - 98 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,674 likes - 98 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 29 | [Fancy $hit](https://open.spotify.com/track/6Ar3apWGoJLPZ3zy6Eb94F) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Fancy $hit](https://open.spotify.com/album/178hg0pgag9NoDE2WLabZP) | 2:48 |
 | 30 | [denk drüber nach](https://open.spotify.com/track/4WFNFa8uTTM16IxAZmTgbf) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [denk drüber nach](https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW) | 2:28 |
 | 31 | [other boys are boring](https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [other boys are boring](https://open.spotify.com/album/64pyxehnihFcz81L645ezR) | 2:20 |
-| 32 | [Track 12](https://open.spotify.com/track/4ESsuXS5VN1vTzSTy0zJUk) | [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [](https://open.spotify.com/album/null) | 0:00 |
+| 32 | [Immer wenn du da bist](https://open.spotify.com/track/4ESsuXS5VN1vTzSTy0zJUk) | [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [RIP Hyperpop DE 2022\-2025](https://open.spotify.com/album/3FD3BtMgO2kJz4ejZtYzGC) | 2:40 |
 | 33 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
 | 34 | [ANGST>LIEBE](https://open.spotify.com/track/6KiPf8zHwaBK7VMHZZ1ReL) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [ANGST>LIEBE](https://open.spotify.com/album/6MXxm5A1n2rI3n0sGBrnF3) | 2:59 |
 | 35 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 |

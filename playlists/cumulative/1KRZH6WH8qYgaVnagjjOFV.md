@@ -4,7 +4,7 @@
 
 > Top Christian Hits 2025 \| Latest and greatest Christian songs of 2025\. NEW CHRISTIAN MUSIC!  New Music Friday! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>\. Cover: <a href="https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2?si=QHxGAhkxR5CxBJUba7VwdA">Josiah Queen</a>
 
-146 songs - 9 hr 53 min
+149 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Mighty Name of Jesus \- Live](https://open.spotify.com/track/25KMQpquMxNuI91NGguYSu) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Eden \(Live\)](https://open.spotify.com/album/5N1WJL82K9qV5tXTk79v8Y) | 8:02 | 2025-02-28 |  |
 | [Miracle](https://open.spotify.com/track/0fdiF0ExYPhvQkjTXc34zf) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Miracle](https://open.spotify.com/album/7xBjfEcq2Fx5hoBhPwimsL) | 3:39 | 2025-01-31 | 2025-09-20 |
 | [moonflower](https://open.spotify.com/track/4V1r4ZQ5me5c1hRD0n5j7o) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [pure](https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0) | 3:46 | 2025-01-31 |  |
+| [More Like Jesus](https://open.spotify.com/track/7kenskKd40JQxmPNLq94a9) | [Canaan Baca](https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q) | [More Like Jesus](https://open.spotify.com/album/3vgRfHoJeDUcwOQvSJ7TJw) | 4:17 | 2025-10-24 |  |
 | [My Bad Part II](https://open.spotify.com/track/092ma5x9TwMidISolstbr3) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [My Bad Part II](https://open.spotify.com/album/5hkYGn50bs9bGn34JT6fJW) | 2:22 | 2025-03-14 | 2025-09-20 |
 | [My Jesus](https://open.spotify.com/track/7ETprIldSufrqcGF8MSBCZ) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:37 | 2024-05-24 |  |
 | [No One Like The Lord \(We Crown You\) \- Live](https://open.spotify.com/track/2bc8dK2VSBuLHMkqDfT8k1) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y) | [No One Like The Lord \(We Crown You\) \[Live\]](https://open.spotify.com/album/4Kdfe6DKx6mIpvlSHAaVzQ) | 6:01 | 2025-01-31 |  |
@@ -144,6 +145,7 @@
 | [Up To Something \- Live](https://open.spotify.com/track/6pnb65z7OWEpKtm9kRnRk6) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Rudy Villarreal](https://open.spotify.com/artist/7Jm4MrGvgZh86tUe0GrEB2), [Skylar Dayne](https://open.spotify.com/artist/6g747a2Ku43i2nlRfV2Tkg) | [Up To Something \(Live\)](https://open.spotify.com/album/0jJkeMIcLYiqMWKstNEXMg) | 7:40 | 2025-01-31 |  |
 | [wannabe](https://open.spotify.com/track/4D7RnTd7BfhdI81RodpDC6) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [wannabe](https://open.spotify.com/album/16oGWzZ8ggmwxUmlFrfc4e) | 3:19 | 2025-01-31 |  |
 | [Watch Your Mouth](https://open.spotify.com/track/1AbSedPxXMKs3mALPjiNfM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:42 | 2025-08-22 |  |
+| [WELCOME TO THE CLUB](https://open.spotify.com/track/1Hhx6Ue9QblFzhEfsIt1YI) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt) | [FINE BY ME](https://open.spotify.com/album/1mIZcEaoDUnHwQKrCMjMYX) | 1:31 | 2025-10-24 |  |
 | [Whatever It Takes](https://open.spotify.com/track/4EwaM0IOIzHAJqyoJd5nj6) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Divided Frame Of Mind](https://open.spotify.com/album/4QFDKgHuOrhiYYDhCy2cWy) | 3:30 | 2025-01-31 |  |
 | [Who Else \- Live](https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50) | [Crowns Down \(Live\)](https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre) | 4:50 | 2025-08-15 |  |
 | [Who Else \- Live at Gateway Conference](https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Who Else \(Live\)](https://open.spotify.com/album/4PB1BxZTtyxqkihYYYK3pd) | 5:31 | 2025-01-31 |  |
@@ -154,5 +156,6 @@
 | [Yahweh](https://open.spotify.com/track/0qkLFsVuhzlSkSvTpT09nP) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Yahweh](https://open.spotify.com/album/0pgMrzO9PsuT9SRhmOdY0x) | 2:50 | 2025-01-31 | 2025-09-20 |
 | [Yesterday Is Dead](https://open.spotify.com/track/2MB2pKgf2fWBGKcewyUBUS) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Yesterday Is Dead](https://open.spotify.com/album/3sWqUGiqcOrQbQa4N5F9l3) | 2:45 | 2025-03-14 |  |
 | [You Are My King \(Amazing Love\) \- Spotify Singles](https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [You Are My King \(Amazing Love\) \[Spotify Singles\]](https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl) | 4:14 | 2025-04-17 |  |
+| [You Can't Take My Song](https://open.spotify.com/track/4qaIk1oubKaR6rD1G7GTX7) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [You Can't Take My Song](https://open.spotify.com/album/2JCOYf1pNuxtUwtXio4TMA) | 2:59 | 2025-10-24 |  |
 
 \*This playlist was first scraped on 2025-09-13. Prior content cannot be recovered.

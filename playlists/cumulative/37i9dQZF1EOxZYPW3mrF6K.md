@@ -4,7 +4,7 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-20 songs - 5 hr 56 min
+20 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Change Your Life \(feat\. Jhené Aiko\)](https://open.spotify.com/track/1YqXXJDSlDHrp66g9as4uo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 3:11 | 2020-11-27 |  |
 | [Clocks](https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:07 | 2020-11-27 |  |
 | [Coldplay](https://open.spotify.com/episode/5yynYrNxDj6x6gXpoXXIrG) | [Good Music Podcast](https://open.spotify.com/show/0hf8KoAvJZiiHuuZ6HQPkj) | [Good Music Podcast](https://open.spotify.com/album/0hf8KoAvJZiiHuuZ6HQPkj) | 59:07 | 2020-11-27 |  |
-| [Drake vs Drake](https://open.spotify.com/episode/0AhU9dUyG0Hi9VoI0WPFQO) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 41:49 | 2020-11-27 |  |
+| [Drake vs Drake](https://open.spotify.com/episode/0AhU9dUyG0Hi9VoI0WPFQO) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 43:05 | 2020-11-27 |  |
 | [Es Muy Tarde](https://open.spotify.com/track/2FQcRWaBiHFCQWiFjdO9sL) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ALTER EGO](https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p) | 3:35 | 2020-11-27 |  |
 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2020-11-27 |  |
 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/2J4P46vCFm1rPkNkp9pZWX) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/album/2VBb4LRcRSACOfJWRUgVZl) | 2:55 | 2020-11-27 |  |

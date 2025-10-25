@@ -1,12 +1,12 @@
 {
   "description": "The best in romantic tunes from Tamil cinema.\nCover : Thalaivan Thalaivii",
-  "num_followers": 601082,
+  "num_followers": 601196,
   "original_name": "Tamil Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMAtNtlrwghM07wikJ1nmA6ZE4wK",
+  "snapshot_id": "AAAAADLm5F+8PChoRb422ClRhtr8wzaR",
   "tracks": [
     {
       "added_at": "2025-07-28 05:41:29",
@@ -81,6 +81,50 @@
       "url": "https://open.spotify.com/track/0nrJ7jsUFR0pDHV6NvKJje"
     },
     {
+      "added_at": "2025-10-24 11:04:50",
+      "album": {
+        "name": "Madharaasi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ravi G",
+          "url": "https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 240845,
+      "name": "Thangapoovey",
+      "url": "https://open.spotify.com/track/4YuK8in0FTkqZCDPCOjVa5"
+    },
+    {
+      "added_at": "2025-06-04 14:34:01",
+      "album": {
+        "name": "Retro [TAMIL]",
+        "url": "https://open.spotify.com/album/5G6wOndtXdAygfFXSy1f7q"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 261049,
+      "name": "Kannadi Poove",
+      "url": "https://open.spotify.com/track/3MELuNUntwMZwsNK9zNxJi"
+    },
+    {
       "added_at": "2025-05-20 13:11:11",
       "album": {
         "name": "Aadhavan (Original Motion Picture Soundtrack)",
@@ -111,50 +155,6 @@
       "duration_ms": 316680,
       "name": "Vaarayo Vaarayo",
       "url": "https://open.spotify.com/track/13wIQbwSuQ4YFvDvtQgSVc"
-    },
-    {
-      "added_at": "2025-06-04 14:34:01",
-      "album": {
-        "name": "Retro [TAMIL]",
-        "url": "https://open.spotify.com/album/5G6wOndtXdAygfFXSy1f7q"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        }
-      ],
-      "duration_ms": 261049,
-      "name": "Kannadi Poove",
-      "url": "https://open.spotify.com/track/3MELuNUntwMZwsNK9zNxJi"
-    },
-    {
-      "added_at": "2025-01-18 00:42:16",
-      "album": {
-        "name": "3 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ajesh",
-          "url": "https://open.spotify.com/artist/7zneCNzf0wfXcjCOvirRlX"
-        },
-        {
-          "name": "Aishwarya R Dhanush",
-          "url": "https://open.spotify.com/artist/2Lf8VFHZFVMnQnUYTuroBM"
-        }
-      ],
-      "duration_ms": 204866,
-      "name": "Idhazhin Oram - The Innocence of Love",
-      "url": "https://open.spotify.com/track/6NwEpX2JUWHVKWfDDfcqC4"
     },
     {
       "added_at": "2022-03-11 09:36:10",
@@ -213,6 +213,30 @@
       "url": "https://open.spotify.com/track/6EB454nVg2u6sbeCvWAPej"
     },
     {
+      "added_at": "2025-01-18 00:42:16",
+      "album": {
+        "name": "3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ajesh",
+          "url": "https://open.spotify.com/artist/7zneCNzf0wfXcjCOvirRlX"
+        },
+        {
+          "name": "Aishwarya R Dhanush",
+          "url": "https://open.spotify.com/artist/2Lf8VFHZFVMnQnUYTuroBM"
+        }
+      ],
+      "duration_ms": 204866,
+      "name": "Idhazhin Oram - The Innocence of Love",
+      "url": "https://open.spotify.com/track/6NwEpX2JUWHVKWfDDfcqC4"
+    },
+    {
       "added_at": "2022-03-11 09:36:10",
       "album": {
         "name": "Kanaa (Original Motion Picture Soundtrack)",
@@ -265,34 +289,6 @@
       "url": "https://open.spotify.com/track/3IpEJ86hrMfUcoXCk9U4h3"
     },
     {
-      "added_at": "2022-03-11 09:36:10",
-      "album": {
-        "name": "3 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vijay Yesudas",
-          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        },
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        }
-      ],
-      "duration_ms": 264506,
-      "name": "Nee Paartha Vizhigal - The Touch of Love",
-      "url": "https://open.spotify.com/track/0xttqqTj7ZAGyVkfOYxQ4F"
-    },
-    {
       "added_at": "2024-10-09 08:08:08",
       "album": {
         "name": "Hey Minnale (From \"Amaran\") (Tamil)",
@@ -343,6 +339,34 @@
       "duration_ms": 215456,
       "name": "Kannala Kannala - The Melting Point of Love",
       "url": "https://open.spotify.com/track/4nSwWiwtieiNmRAjy9fEXN"
+    },
+    {
+      "added_at": "2022-03-11 09:36:10",
+      "album": {
+        "name": "3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        }
+      ],
+      "duration_ms": 264506,
+      "name": "Nee Paartha Vizhigal - The Touch of Love",
+      "url": "https://open.spotify.com/track/0xttqqTj7ZAGyVkfOYxQ4F"
     },
     {
       "added_at": "2022-03-11 09:36:10",
@@ -411,30 +435,6 @@
     {
       "added_at": "2025-01-18 00:42:16",
       "album": {
-        "name": "3 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        },
-        {
-          "name": "Shruti Haasan",
-          "url": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Kannazhaga - The Kiss of Love",
-      "url": "https://open.spotify.com/track/2MwCoo4GeXpi8soWn9EiPo"
-    },
-    {
-      "added_at": "2025-01-18 00:42:16",
-      "album": {
         "name": "Railin Oligal (From \"Blue Star\")",
         "url": "https://open.spotify.com/album/6SgtjBVtmhTI84jWMyQlFC"
       },
@@ -455,6 +455,30 @@
       "duration_ms": 157650,
       "name": "Railin Oligal - From \"Blue Star\"",
       "url": "https://open.spotify.com/track/5Y7Y315vZkOZbesJ22jXkK"
+    },
+    {
+      "added_at": "2025-01-18 00:42:16",
+      "album": {
+        "name": "3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        },
+        {
+          "name": "Shruti Haasan",
+          "url": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Kannazhaga - The Kiss of Love",
+      "url": "https://open.spotify.com/track/2MwCoo4GeXpi8soWn9EiPo"
     },
     {
       "added_at": "2022-03-11 09:36:10",
@@ -747,22 +771,6 @@
       "duration_ms": 273606,
       "name": "Vaaya moodi summa iru da",
       "url": "https://open.spotify.com/track/2CQJcnC0XCRFcxKJNgLZmo"
-    },
-    {
-      "added_at": "2025-01-18 00:42:16",
-      "album": {
-        "name": "Dheema (From \"Love Insurance Kompany\")",
-        "url": "https://open.spotify.com/album/5eqQtQhwXiBhZEzrbdDOXQ"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 235102,
-      "name": "Dheema (From \"Love Insurance Kompany\")",
-      "url": "https://open.spotify.com/track/6CvW7N8JjBHmwEfGz2Yxhk"
     },
     {
       "added_at": "2025-01-30 07:10:26",
@@ -1427,42 +1435,6 @@
     {
       "added_at": "2022-03-11 09:36:10",
       "album": {
-        "name": "High On Love (From \"Pyaar Prema Kaadhal\" Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2qfJM2g8OTCB9CGzwKb6kT"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja,Sid Sriram",
-          "url": "https://open.spotify.com/artist/6Evs1xNlpWtRw45FmPQ2DV"
-        }
-      ],
-      "duration_ms": 240169,
-      "name": "High On Love",
-      "url": "https://open.spotify.com/track/6kekHWEQ4SyMe5EjYAlveP"
-    },
-    {
-      "added_at": "2022-03-11 09:36:10",
-      "album": {
-        "name": "Yaar Azhaippadhu (From \"Maara\")",
-        "url": "https://open.spotify.com/album/6fzTq7MV4KcGditF41bsWe"
-      },
-      "artists": [
-        {
-          "name": "Ghibran",
-          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 250325,
-      "name": "Yaar Azhaippadhu - From \"Maara\"",
-      "url": "https://open.spotify.com/track/5kByOzRm7KpgFUOeClZbek"
-    },
-    {
-      "added_at": "2022-03-11 09:36:10",
-      "album": {
         "name": "Silunu Oru Kadhal",
         "url": "https://open.spotify.com/album/2V66QirokxORBvsvLCkX75"
       },
@@ -1483,6 +1455,26 @@
       "duration_ms": 356941,
       "name": "Munbe Vaa",
       "url": "https://open.spotify.com/track/6vZj02bcQqLTYRAi4jRkw7"
+    },
+    {
+      "added_at": "2022-03-11 09:36:10",
+      "album": {
+        "name": "Yaar Azhaippadhu (From \"Maara\")",
+        "url": "https://open.spotify.com/album/6fzTq7MV4KcGditF41bsWe"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 250325,
+      "name": "Yaar Azhaippadhu - From \"Maara\"",
+      "url": "https://open.spotify.com/track/5kByOzRm7KpgFUOeClZbek"
     },
     {
       "added_at": "2022-03-11 09:36:10",
@@ -1621,32 +1613,20 @@
       "url": "https://open.spotify.com/track/0fHPR4JZNbqs7OsFdYaLja"
     },
     {
-      "added_at": "2022-03-11 09:36:10",
+      "added_at": "2025-01-18 00:42:16",
       "album": {
-        "name": "Ethir Neechal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg"
+        "name": "Dheema (From \"Love Insurance Kompany\")",
+        "url": "https://open.spotify.com/album/5eqQtQhwXiBhZEzrbdDOXQ"
       },
       "artists": [
         {
           "name": "Anirudh Ravichander",
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        },
-        {
-          "name": "Vaali",
-          "url": "https://open.spotify.com/artist/7m3MZA0qYo7ZHvsDONlc5r"
         }
       ],
-      "duration_ms": 312280,
-      "name": "Velicha Poove",
-      "url": "https://open.spotify.com/track/3ywjIbXWgG5Vjom6zhA2aP"
+      "duration_ms": 235102,
+      "name": "Dheema (From \"Love Insurance Kompany\")",
+      "url": "https://open.spotify.com/track/6CvW7N8JjBHmwEfGz2Yxhk"
     },
     {
       "added_at": "2025-04-17 11:03:07",
@@ -1727,6 +1707,26 @@
       "duration_ms": 223326,
       "name": "Po Indru Neeyaga",
       "url": "https://open.spotify.com/track/7fttjqzmvgvpRQoOzyYng3"
+    },
+    {
+      "added_at": "2025-01-18 00:42:16",
+      "album": {
+        "name": "Vaathi",
+        "url": "https://open.spotify.com/album/2weBs8ybMyW4WkUDQN1EC8"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "duration_ms": 225380,
+      "name": "Vaa Vaathi",
+      "url": "https://open.spotify.com/track/2cpUvniCAhrcbVteDWeiTG"
     }
   ],
   "unique_name": "Tamil Romance",

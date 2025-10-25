@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Ledisi
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,511 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,540 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [In The Slow Lane](https://open.spotify.com/track/3WVpOydbLHu7ln6Bk2EQTd) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [In The Slow Lane](https://open.spotify.com/album/78BxuOxltovqhD0qXQhXkK) | 4:47 |
-| 2 | [If I Never Get To Heaven](https://open.spotify.com/track/4uqMVAe76Y0UBQXn0KCXLh) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [For Dinah](https://open.spotify.com/album/7jH6j03bgQIOsVG3Haw5kZ) | 6:05 |
-| 3 | [It’s Raining](https://open.spotify.com/track/6p4LriYiQ7aNJWEsmc8EPq) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Detour](https://open.spotify.com/album/74OROuWbzN8h9ZB3tCtLea) | 4:28 |
-| 4 | [Until You Come Back to Me \(That's What I'm Gonna Do\)](https://open.spotify.com/track/3szDBSwPivM4Q29HNwSTAO) | [Brandon Sanders](https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD), [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM) | [Until You Come Back to Me \(That's What I'm Gonna Do\)](https://open.spotify.com/album/76jwk22JUBkk7E6vsuOHQa) | 4:20 |
+| 1 | [Our Love Is Here to Stay](https://open.spotify.com/track/3WhovG1qE9Vi60bbm6ot9r) | [Brandon Sanders](https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD), [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM) | [Our Love Is Here to Stay](https://open.spotify.com/album/6VCxDrD0Cms6BZqdVDrpnK) | 6:21 |
+| 2 | [In The Slow Lane](https://open.spotify.com/track/3WVpOydbLHu7ln6Bk2EQTd) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [In The Slow Lane](https://open.spotify.com/album/78BxuOxltovqhD0qXQhXkK) | 4:47 |
+| 3 | [If I Never Get To Heaven](https://open.spotify.com/track/4uqMVAe76Y0UBQXn0KCXLh) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [For Dinah](https://open.spotify.com/album/7jH6j03bgQIOsVG3Haw5kZ) | 6:05 |
+| 4 | [It’s Raining](https://open.spotify.com/track/6p4LriYiQ7aNJWEsmc8EPq) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Detour](https://open.spotify.com/album/74OROuWbzN8h9ZB3tCtLea) | 4:28 |
 | 5 | [Purple](https://open.spotify.com/track/5KFe3NMgHSHLGZ6bYhP7iE) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5), [Dezron Douglas](https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Purple](https://open.spotify.com/album/4m4PdoGeXSukoI50zUlbOu) | 5:08 |
 | 6 | [Three Little Words](https://open.spotify.com/track/3smU34X0GvXYM6YcKO2Bwd) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Three Little Words](https://open.spotify.com/album/20nAIJBVs6bItCdqyXzxI5) | 4:50 |
 | 7 | [Take this stone \(feat\. June McDoom & Kate Davis\)](https://open.spotify.com/track/5njraCJH3kezunxuBGpKf1) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn), [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV), [Kate Davis](https://open.spotify.com/artist/4jXKRg7GZPm3mKGgKwUEco) | [Oh Snap](https://open.spotify.com/album/7uiAPDnBrbgujLp0p9E32Z) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Pendulum](https://open.spotify.com/track/3Y5onKZN1Im4FxoTUMnEzb) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9) | [Embraceable](https://open.spotify.com/album/4WA2EdR41dqzbluBGjIGEt) | 2:49 |
 | 100 | [Wonder in the Waiting](https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...Winter](https://open.spotify.com/album/5qHocH0PxAZIXtT4fBmjUg) | 4:40 |
 
-Snapshot ID: `AAAAAFnTKzxd+pYE/PHct8E7NKL4zpFi`
+Snapshot ID: `AAAAAGJ8LQCiLLiu+FMP2Qfey7iVRC3K`

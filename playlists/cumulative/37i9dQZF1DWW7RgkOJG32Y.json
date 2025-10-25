@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Top trending country tracks from the last few months. Cover: Waylon Wyatt",
+  "description": "Trending for a reason - the home of country's future monster hits. Cover: Waylon Wyatt",
   "name": "Breakout Country",
   "tracks": [
     {
@@ -1661,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "album": {
         "name": "Close to You",
         "url": "https://open.spotify.com/album/40cbsi8Xa1QwomJacJR8EQ"
       },
@@ -2708,7 +2726,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 174473,
       "name": "Dyin' Flame",
       "url": "https://open.spotify.com/track/1DNG22ZpedEFqCkJoj4Ibs"
@@ -3084,7 +3102,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 165826,
       "name": "Forget Tonight (ft. Tyler Hubbard)",
       "url": "https://open.spotify.com/track/31dKu1hasoYuOq0ycWL0QF"
@@ -3428,7 +3446,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 184706,
       "name": "girl you're taking home",
       "url": "https://open.spotify.com/track/13TtTCE6v8vwTSgWJPjwLl"
@@ -3642,6 +3660,24 @@
       "duration_ms": 185773,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli"
+    },
+    {
+      "album": {
+        "name": "Graveyard Whistling",
+        "url": "https://open.spotify.com/album/7b3A1mZPmO9P7zHWAgr1U3"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244247,
+      "name": "Graveyard Whistling",
+      "url": "https://open.spotify.com/track/7kLC499Jj7W8kZUfvZsq5S"
     },
     {
       "album": {
@@ -4518,7 +4554,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 204963,
       "name": "I Got Better",
       "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
@@ -7077,6 +7113,28 @@
     },
     {
       "album": {
+        "name": "About A Woman (Deluxe)",
+        "url": "https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185708,
+      "name": "Old Tricks",
+      "url": "https://open.spotify.com/track/4BUsbMXXNuLa9XpxdgxVkP"
+    },
+    {
+      "album": {
         "name": "One Day Tonight",
         "url": "https://open.spotify.com/album/2MphzYOblUXTBfdWzYxtbl"
       },
@@ -7330,7 +7388,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 191555,
       "name": "Painted You Pretty",
       "url": "https://open.spotify.com/track/1b7M6dFwKxbnHs4PB8TgSH"
@@ -7486,6 +7544,24 @@
       "duration_ms": 218160,
       "name": "Pretty Little Poison",
       "url": "https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8"
+    },
+    {
+      "album": {
+        "name": "Pretty Privilege",
+        "url": "https://open.spotify.com/album/4BjixWe9nwgc8cDcuJlzVy"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Pretty Privilege",
+      "url": "https://open.spotify.com/track/1kp5sCsdZVCu1dgaLqWyl9"
     },
     {
       "album": {
@@ -10224,7 +10300,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 211863,
       "name": "What Could Go Right (feat. Lanie Gardner)",
       "url": "https://open.spotify.com/track/2iMX5bHSf125ZHBIysZ9na"

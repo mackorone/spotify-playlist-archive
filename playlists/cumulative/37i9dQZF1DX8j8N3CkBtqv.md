@@ -2,9 +2,9 @@
 
 ### [Naya Indiestan](https://open.spotify.com/playlist/37i9dQZF1DX8j8N3CkBtqv)
 
-> Naye Indie gaano ka khazana, featuring Garvit\-Priyansh, Dikshant and other exciting artists.
+> Naye Indie gaano ka khazana, featuring Shashwat Bulusu, Piyush Ambhore and other exciting artists.
 
-1,199 songs - 2 day 17 hr 25 min
+1,200 songs - 2 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,6 +659,7 @@
 | [Listen](https://open.spotify.com/track/4heuLQuyeST64cfOXQpxL9) | [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6) | [Listen](https://open.spotify.com/album/2cMDOueosDY7NUegSENIN6) | 3:21 | 2023-07-07 | 2023-08-05 |
 | [little things](https://open.spotify.com/track/2rfHzzJly9NRjFLc3eBGMh) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Shariva Parulkar](https://open.spotify.com/artist/24mPm1zXXsdJBQc4lok9Jc) | [little things](https://open.spotify.com/album/5EuOEycZWVKFOUfjhsBouu) | 2:50 | 2025-10-10 | 2025-10-17 |
 | [Long To Be](https://open.spotify.com/track/3PHGkNX8caEkn31C63u3Bl) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Long To Be](https://open.spotify.com/album/08nya3WQcReGtynYWaH7Tu) | 4:30 | 2024-06-28 | 2024-07-27 |
+| [Lost You](https://open.spotify.com/track/1TZnTjX5nOrQLCGa1K21Nw) | [Piyush Ambhore](https://open.spotify.com/artist/3JTWKX8xftNT53zfFRyn2s), [DEVM](https://open.spotify.com/artist/63pRfyoFG1zPRQsASFo2dr) | [Lost You](https://open.spotify.com/album/0q1JgMQUVAWFttYY5A51lB) | 3:35 | 2025-10-24 |  |
 | [Love & Limerence](https://open.spotify.com/track/2d83P9vmxC8Mc39vv7RtWY) | [Rudy](https://open.spotify.com/artist/5u5YWSbUXrkan2dIMVPyV5), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Love & Limerence](https://open.spotify.com/album/13PKuzINirCBhssbAslKp9) | 3:12 | 2025-09-12 | 2025-09-28 |
 | [Love Is Not A Fucking Game](https://open.spotify.com/track/0cj465OG5QJUhPJfF9Oxjg) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Love Is Not A Fucking Game](https://open.spotify.com/album/1aa2y3XAePhsxfvaiPl83v) | 3:30 | 2024-02-23 | 2024-03-30 |
 | [Love or a Lesson](https://open.spotify.com/track/0SmgJN5AfKvvl0A32SrAd0) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Love or a Lesson](https://open.spotify.com/album/6SCtFFbWiWMgbq2zJsPelB) | 2:15 | 2025-10-17 |  |
@@ -844,7 +845,7 @@
 | [Poori Tarah Se Nahin](https://open.spotify.com/track/0WU4TBvwpoKS2Hg5CBO5pv) | [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Poori Tarah Se Nahin](https://open.spotify.com/album/2axk7Thggv0Z1qcrWYX0J8) | 2:49 | 2025-01-24 | 2025-03-15 |
 | [Promises](https://open.spotify.com/track/1M8sf6fVgEgOY1vuEU0CoR) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Promises](https://open.spotify.com/album/53HV0iLl1zb4G9CKMZutv8) | 2:49 | 2025-10-10 |  |
 | [Pyaar Hai Tujhse](https://open.spotify.com/track/4AE5zWQU2e8lDo3FiL5Kcg) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo) | [Pyaar Hai Tujhse](https://open.spotify.com/album/5u2pTQiNE91Rao9kMFAsY9) | 2:06 | 2023-08-25 | 2023-09-30 |
-| [Pyaar Kaafi Nahi](https://open.spotify.com/track/0emdpRC3rftireFUN9c00x) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Pyaar Kaafi Nahi](https://open.spotify.com/album/5MBflElWpnYpm6ZJOhm6Ok) | 2:55 | 2025-10-03 |  |
+| [Pyaar Kaafi Nahi](https://open.spotify.com/track/0emdpRC3rftireFUN9c00x) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Pyaar Kaafi Nahi](https://open.spotify.com/album/5MBflElWpnYpm6ZJOhm6Ok) | 2:55 | 2025-10-03 | 2025-10-25 |
 | [Pyaar Ki Seedhi](https://open.spotify.com/track/4tj9i9H6lsM5Kx8RjmlRL4) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Pyaar Ki Seedhi](https://open.spotify.com/album/2W1oZTelut5sBQ1BNh8YgC) | 2:08 | 2024-06-14 | 2024-07-27 |
 | [pyaar mein padna koi badi baat to nahi](https://open.spotify.com/track/3Phkp6CnzSgnmPBmEcYcMX) | [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [pyaar mein padna koi badi baat to nahi](https://open.spotify.com/album/6RbzyaZgmvaKiGFnzzA5GC) | 2:56 | 2024-12-06 | 2025-01-11 |
 | [Pyaar Wale Gaane](https://open.spotify.com/track/2wRPPR4LLjQIVWkUmHBZMP) | [Nivé](https://open.spotify.com/artist/2U3AOqcp3IctBlVOPDZ69p), [Shreya Sharma](https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5) | [Pyaar Wale gaane](https://open.spotify.com/album/3ToZcx5zDzvM7CyTwWCiCm) | 2:57 | 2024-04-19 | 2024-05-18 |

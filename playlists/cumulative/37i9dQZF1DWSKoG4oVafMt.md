@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,148 songs - 2 day 13 hr 50 min
+1,149 songs - 2 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Bura Haal \("Carry On Jatta 3"\)](https://open.spotify.com/track/2fURDfplA6g5i7ET3q5DJZ) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Bura Haal \("Carry On Jatta 3"\)](https://open.spotify.com/album/2iNKppIzwl8uHhWYjFVirK) | 3:40 | 2023-06-21 | 2024-02-08 |
 | [Busy Jatt](https://open.spotify.com/track/4s82Rnb5fSVAdxE9v26JZc) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [High Five](https://open.spotify.com/album/7m5ojAK9XNWYdXTpsxyMm4) | 2:57 | 2022-07-18 | 2022-08-18 |
 | [Butterflies](https://open.spotify.com/track/30cdthGmCUtEHTlsEexhpK) | [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Harpreet Sran](https://open.spotify.com/artist/2UmqKUzlHmjjY8fv6yvGOv) | [Intense \(Deluxe Edition\)](https://open.spotify.com/album/6pVwv7THPN2KGH6sKd0lwJ) | 2:59 | 2025-08-12 | 2025-08-29 |
+| [By My Side](https://open.spotify.com/track/2mt3QHYbKBMdSTIfzSFsYH) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [By My Side](https://open.spotify.com/album/4EUcKOcd9grLl1kOoauO7s) | 2:56 | 2025-10-24 |  |
 | [Call](https://open.spotify.com/track/716L2mMFOYLI11YVso9L1Y) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Call](https://open.spotify.com/album/3mRBypKGWRi4zwDxvRZbVd) | 2:47 | 2022-06-27 | 2023-02-04 |
 | [Callin](https://open.spotify.com/track/1dKZCOJ6qCCBbuNCgXqcUH) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Callin](https://open.spotify.com/album/6bRjoBTTNgRbEU5vcKT30P) | 2:48 | 2024-11-08 | 2024-12-05 |
 | [Canada Gedi](https://open.spotify.com/track/5s3FYjSnHtDliFAHyxm5OJ) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Canada Gedi](https://open.spotify.com/album/6f3CNQimdTynLCqSTFhD9G) | 3:59 | 2022-06-13 | 2022-08-18 |
@@ -962,7 +963,7 @@
 | [Sukoon](https://open.spotify.com/track/3MsYW2rHLwdxEYyg8QQlaw) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Sukoon](https://open.spotify.com/album/45Iu7k4XRZFvFFF7Vfd8y7) | 3:16 | 2025-04-14 | 2025-05-05 |
 | [Sunakhiye](https://open.spotify.com/track/2bijf3ImHViOhMmJQa8WM1) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Nvjot](https://open.spotify.com/artist/0BMNh8oG3eRoHJe1XSsghj) | [From The Streets](https://open.spotify.com/album/5tQkmGEKfc0rvGnKzqj8XE) | 3:04 | 2025-08-13 | 2025-10-17 |
 | [Sunakhiye](https://open.spotify.com/track/3stEAEHyom7xAppdfemWDm) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Nvjot](https://open.spotify.com/artist/0BMNh8oG3eRoHJe1XSsghj) | [Sunakhiye](https://open.spotify.com/album/4RT6YxqYxK77fIEEskwdRW) | 3:04 | 2025-06-14 | 2025-07-05 |
-| [Sundaa Ravaan](https://open.spotify.com/track/1Jd3SdqcKG5AYamPee7c1J) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Karan Malhotra](https://open.spotify.com/artist/77tAOnDaIyO7H70yxk3bMF), [Amar Jalal](https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03) | [Sundaa Ravaan](https://open.spotify.com/album/1aZ8hQ5hIR9y2HGeSGb8zr) | 2:34 | 2025-10-07 |  |
+| [Sundaa Ravaan](https://open.spotify.com/track/1Jd3SdqcKG5AYamPee7c1J) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Karan Malhotra](https://open.spotify.com/artist/77tAOnDaIyO7H70yxk3bMF), [Amar Jalal](https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03) | [Sundaa Ravaan](https://open.spotify.com/album/1aZ8hQ5hIR9y2HGeSGb8zr) | 2:34 | 2025-10-07 | 2025-10-25 |
 | [Suniyan Suniyan](https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Suniyan Suniyan](https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR) | 3:17 | 2024-05-27 | 2025-01-17 |
 | [Sunne Sunne](https://open.spotify.com/track/746fRWJEgWvvRdhB7ympjw) | [G Noor](https://open.spotify.com/artist/3oCuewGts8hB4pGDkG5Lo8) | [Sunne Sunne](https://open.spotify.com/album/5B5NSoy499WpmUEWQHtXZw) | 3:04 | 2022-05-26 | 2022-07-06 |
 | [Sunset](https://open.spotify.com/track/708ATCPhF2aagzUo8A9Dgo) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Sunset](https://open.spotify.com/album/2CHwDNJ5Kbv05I385dVFKG) | 3:08 | 2022-03-31 | 2022-04-06 |

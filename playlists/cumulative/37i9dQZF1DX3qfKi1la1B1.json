@@ -2127,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "Disarray",
+        "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310853,
+      "name": "Disarray",
+      "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
+    },
+    {
+      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2"
       },
@@ -2290,6 +2308,24 @@
       "duration_ms": 209426,
       "name": "Echo",
       "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208291,
+      "name": "Elizabeth Taylor",
+      "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
     },
     {
       "album": {
@@ -3880,7 +3916,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 156880,
       "name": "IS THIS LOVE (Piano Ver.)",
       "url": "https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR"
@@ -5500,6 +5536,32 @@
       "duration_ms": 261638,
       "name": "Origami Song",
       "url": "https://open.spotify.com/track/20jLunM1GMasrScNWN45mP"
+    },
+    {
+      "album": {
+        "name": "Ostentatious",
+        "url": "https://open.spotify.com/album/0Y0OQfgW9cFQHrKpZvicX2"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Ostentatious",
+      "url": "https://open.spotify.com/track/0buN3nIjGOmj2boRh7zNrz"
     },
     {
       "album": {
@@ -8458,7 +8520,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
@@ -8882,7 +8944,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 203846,
       "name": "\u30cd\u30aa\u30f3\u3092\u6d88\u3057\u3066",
       "url": "https://open.spotify.com/track/1KnBBZEqJA2EtHuYKKBB50"

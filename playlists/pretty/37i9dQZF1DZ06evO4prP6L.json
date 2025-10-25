@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 17783,
+  "num_followers": 17789,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAACxK8b0URTdvazW1nd15RzS",
+  "snapshot_id": "aPlwAAAAAACjVJ/E8ydV+T5oGxkkQ4VS",
   "tracks": [
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary Album",
-        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 240834,
-      "name": "Outback Club Reunion",
-      "url": "https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP"
+      "duration_ms": 193146,
+      "name": "Something in the Water - Remastered 2017",
+      "url": "https://open.spotify.com/track/3OAlhNE78NOBd6c3wEqiGD"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Rodeo",
-        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 193146,
-      "name": "Something in the Water - Remastered 2017",
-      "url": "https://open.spotify.com/track/3OAlhNE78NOBd6c3wEqiGD"
+      "duration_ms": 240834,
+      "name": "Outback Club Reunion",
+      "url": "https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backroad Nation",
-        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 169433,
-      "name": "Let There Be Cowgirls",
-      "url": "https://open.spotify.com/track/73x2EeabuTdaNx8jkLLamg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Noise",
         "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 190346,
       "name": "It's Only Country",
       "url": "https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backroad Nation",
+        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 169433,
+      "name": "Let There Be Cowgirls",
+      "url": "https://open.spotify.com/track/73x2EeabuTdaNx8jkLLamg"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Rodeo",
-        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 260426,
-      "name": "Electric Rodeo - Remastered 2017",
-      "url": "https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1959",
         "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "Electric Rodeo - Remastered 2017",
+      "url": "https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hat Town",
         "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 188960,
       "name": "Cowgirls Do - Remastered 2017",
       "url": "https://open.spotify.com/track/7iMhxEoTkfsdGJeJv9xG3b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three Chain Road",
-        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "'Cause I'm Country - Remastered 2017",
-      "url": "https://open.spotify.com/track/4k5I0M6pRoyY8113r5yMKW"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 234400,
       "name": "Country Crowd - Remastered 2017",
       "url": "https://open.spotify.com/track/11zQvjFccpnImml13XWNdS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "'Cause I'm Country - Remastered 2017",
+      "url": "https://open.spotify.com/track/4k5I0M6pRoyY8113r5yMKW"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The New Bush",
+        "url": "https://open.spotify.com/album/77sAOoJegr423FoQPpLJ4M"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Listen to the Radio - Remastered 2017",
+      "url": "https://open.spotify.com/track/0FqHsYbCL25ppr7PyHajbL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spirit of the Anzacs",
         "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 212720,
       "name": "When the First Bombs Fell",
       "url": "https://open.spotify.com/track/3oZGkQgQ97j6ZC696485x5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Planet Country",
-        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "Dirt - Remastered 2017",
-      "url": "https://open.spotify.com/track/6OOSAy1vCO08b3m5MjfHxo"
     }
   ],
   "unique_name": "This Is Lee Kernaghan",

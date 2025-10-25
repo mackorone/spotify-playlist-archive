@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Slimane
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,909 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,970 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mieux que moi](https://open.spotify.com/track/582fzdZiGTRxGigvLVZ7V7) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mieux que moi](https://open.spotify.com/album/31qQHs1Y0ZL3McKKTQdA6S) | 3:35 |
-| 2 | [Viens on s'aime](https://open.spotify.com/track/138obimywddp5O6o3Tceg3) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [](https://open.spotify.com/album/null) | 3:22 |
+| 2 | [Viens on s'aime](https://open.spotify.com/track/138obimywddp5O6o3Tceg3) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Oxygène](https://open.spotify.com/album/21ykfEipigcGgtUQFRcjkJ) | 3:22 |
 | 3 | [En boucle](https://open.spotify.com/track/7DnucB1OzPCM8qP7dziWbC) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [En boucle](https://open.spotify.com/album/5flNY5V3mKeP4WFoqsjGRA) | 4:06 |
 | 4 | [L'année prochaine](https://open.spotify.com/track/79OwFPC1StV7OVi6CSd1ww) | [Ulysse](https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ) | [L'année prochaine](https://open.spotify.com/album/5BKnx3bdqtiX3feRhAoBbx) | 2:18 |
 | 5 | [Dis\-moi oui](https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Dis\-moi oui](https://open.spotify.com/album/4ilcO4GREDzxE7UPW6oIpe) | 3:56 |

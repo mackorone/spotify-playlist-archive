@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,361 likes - 33 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,365 likes - 33 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 | 32 | [Racing Towards A Red Light \- Live](https://open.spotify.com/track/3gDekUyuYKGXTvpGkpiU8i) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f) | 3:10 |
 | 33 | [Hometown Feeling \- Live](https://open.spotify.com/track/24F7IKeSQuKr47xr5BsI1F) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f) | 0:38 |
 
-Snapshot ID: `aPgegAAAAACuHJxMIG9Um4vOAZgWCrF8`
+Snapshot ID: `aPlwAAAAAADthrWIQB8H/lyaMVQxwVzI`

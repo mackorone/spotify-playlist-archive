@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,636 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,651 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 85 | [Argumento \- Spotify Singles](https://open.spotify.com/track/7mqKpp6FJBoE0jKkBfRFx2) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Argumento \- Spotify Singles](https://open.spotify.com/album/2XMNn5bkQO21DiVmwSFZ0w) | 3:23 |
 | 86 | [Enquanto Você Não Chega](https://open.spotify.com/track/2C2Y5LuGMxklegoSOc54fC) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Voo Longe](https://open.spotify.com/album/3JPhFJD014NCB2JreVEcuv) | 3:07 |
 | 87 | [Que Pena \(Ele Já Não Gosta Mais De Mim\)](https://open.spotify.com/track/5ShyIBiFw4C1Lc4uYTnQLV) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5awK6pNdQFRLDTNV8c0Bi8) | 3:34 |
-| 88 | [Atraco](https://open.spotify.com/track/4P8u2XnaM64X8yKYAd5np4) | [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ), [Mari Tavares](https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR) | [Atraco](https://open.spotify.com/album/3WbHlIlEtgwCxIlCOwxOZm) | 3:25 |
-| 89 | [Samba De Um Minuto](https://open.spotify.com/track/4GwuvVBaYtO7UwQgKMVoTh) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Belo E Estranho Dia Pra Se Ter Alegria](https://open.spotify.com/album/2MqIA0xrVH7qubLhN4JEdZ) | 4:33 |
+| 88 | [Samba De Um Minuto](https://open.spotify.com/track/4GwuvVBaYtO7UwQgKMVoTh) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Belo E Estranho Dia Pra Se Ter Alegria](https://open.spotify.com/album/2MqIA0xrVH7qubLhN4JEdZ) | 4:33 |
+| 89 | [Qualquer Lugar](https://open.spotify.com/track/0irFB9G2EDfiQQgNTpP1AG) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt) | [Passageiro do Bem \- LADO B](https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ) | 3:58 |
 | 90 | [Elegante Amanhecer](https://open.spotify.com/track/5fchvll1M0q0GWroKnCVDU) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y) | 3:40 |
 | 91 | [Último Carnaval](https://open.spotify.com/track/1UzgM2NiEYwUIqzdxIx6YW) | [Bruno Capinan](https://open.spotify.com/artist/1BBIHguUeo7dz6dpHA6ThV) | [Leão Alado Sem Juba](https://open.spotify.com/album/0HCSoiMhqBVE30O9Zh5WQU) | 2:37 |
 | 92 | [Espiral de Ilusão](https://open.spotify.com/track/64bUoPrhXQYwSECqVRCLci) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/61W8s1ybEMeJEhmEnMkZwY) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 99 | [Eu Sambo Mesmo](https://open.spotify.com/track/0klPaP1eBcBa8xiyJlFxyu) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Braseiro](https://open.spotify.com/album/68gOVD4JqF8KTtYF2SfZsr) | 3:18 |
 | 100 | [Se Me Chamar, O Sorte!](https://open.spotify.com/track/1AkkRumTuA3MbfXMsmwEE7) | [Wilson Das Neves](https://open.spotify.com/artist/0dDz30ZxGRurnghF0Q6Oxn), [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Se Me Chamar, Ô Sorte](https://open.spotify.com/album/6tRtjhV934RrMZw4hkqXbN) | 3:38 |
 
-Snapshot ID: `AAAAAMptJnSGUEBQpN+q7jPNtKmu69D7`
+Snapshot ID: `AAAAAAlkgUxXMyrOTkRf3QlGyH2E/NYg`

@@ -4,7 +4,7 @@
 
 > soundtrack long, dark days with warm favourites
 
-170 songs - 10 hr 42 min
+173 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [LOVE IN THE DARK](https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:59 | 2024-02-09 |  |
 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 | 2024-01-12 | 2024-01-20 |
 | [Lover's Spit](https://open.spotify.com/track/3Cl35xMXJUEhpPaYBeNUQR) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 6:22 | 2024-02-02 | 2024-04-19 |
+| [Luther](https://open.spotify.com/track/6zv0lTlnSWeYdjCDIYPAeL) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [Luther](https://open.spotify.com/album/1wfs4vGzWOLyeiLvHv7VUP) | 3:18 | 2025-10-24 |  |
 | [Manitoba](https://open.spotify.com/track/1iUJz7uPzc6XCexBg8pEZr) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Lover, or Whatever](https://open.spotify.com/album/7zLulhRz6oSw5CLvXHB3J7) | 1:58 | 2024-01-12 | 2024-10-05 |
 | [Motel 6](https://open.spotify.com/track/6hUTzxvNiJ1c0lYqgoOTBW) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Kindness, A Rebel](https://open.spotify.com/album/1RNcYrqXqFyb3R6jjQrwT7) | 3:15 | 2024-01-12 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2024-01-12 |  |
@@ -113,6 +114,7 @@
 | [Obstruction](https://open.spotify.com/track/6uHzaxcCXhpAdYrAgZMmtJ) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Obstruction](https://open.spotify.com/album/40x4bMBFOkIa7e7osQKZor) | 2:36 | 2024-01-19 | 2024-01-27 |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2024-01-12 |  |
 | [Ohio](https://open.spotify.com/track/1OtDzhNCSiQsbihPA1SOni) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Ohio](https://open.spotify.com/album/3YoKNEBFmFbirIYtdKeUCw) | 2:41 | 2024-11-23 |  |
+| [orchid](https://open.spotify.com/track/4Z3jhAN6t2UsWIvp42FwTK) | [livingthing](https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt) | [orchid](https://open.spotify.com/album/4vKZzhLdxN2df0L2M8lLHE) | 2:20 | 2025-10-24 |  |
 | [Palace](https://open.spotify.com/track/1M0OaY35F0s91TrSfs6geP) | [Elissa Mielke](https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw) | [Finally](https://open.spotify.com/album/7nsRylh1CaetI2wm40CTxV) | 2:57 | 2025-01-24 |  |
 | [paper thin](https://open.spotify.com/track/4NevvmFYtCLxRvhAcNVhOB) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [eleven achers](https://open.spotify.com/album/5D2AToXPxIC5cBdbdOXHsM) | 3:06 | 2024-04-12 |  |
 | [Pines](https://open.spotify.com/track/7qFLFQOYcytDd4hejiREzk) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 3:42 | 2024-01-12 |  |
@@ -135,7 +137,7 @@
 | [Snowshoes](https://open.spotify.com/track/69BWKQ0qeTnPHdk4lxuLcD) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 3:24 | 2024-01-12 |  |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2024-01-12 |  |
 | [Someone Forever](https://open.spotify.com/track/77j4vUvjFLHaUO2XaBI1It) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [I Must Be In A Good Place Now](https://open.spotify.com/album/4ojESaUfQYhwU0O3Kz5wDJ) | 3:42 | 2024-02-23 | 2024-10-05 |
-| [Somewhere in Chicago](https://open.spotify.com/track/30VJ9BJK3XcsjhCdpvqmvw) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [In Heaven](https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d) | 3:05 | 2025-01-31 |  |
+| [Somewhere in Chicago](https://open.spotify.com/track/30VJ9BJK3XcsjhCdpvqmvw) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [In Heaven](https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d) | 3:05 | 2025-01-31 | 2025-10-25 |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2024-01-12 |  |
 | [Special](https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:38 | 2024-01-12 |  |
 | [Spin The Block](https://open.spotify.com/track/28iI7pOj51BlKlEwhmplaT) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Spin The Block](https://open.spotify.com/album/7AjozjGfrhjIgdgWvd7pg2) | 4:12 | 2024-02-23 | 2025-01-25 |
@@ -144,7 +146,7 @@
 | [Streetcar](https://open.spotify.com/track/7Cu2COdH93MnuireuKNiS3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Pilgrim's Paradise](https://open.spotify.com/album/4uP43hIpmEEDuW7aOfiU2C) | 4:06 | 2024-01-12 | 2025-06-29 |
 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 | 2024-01-19 | 2024-01-27 |
 | [Sunset Boulevard Expedition](https://open.spotify.com/track/64SZmjw3aY5bZigPevDCHw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 8:19 | 2025-01-24 |  |
-| [The Beachland Ballroom](https://open.spotify.com/track/6kPGjAjso3mAm3nZ2VzhDY) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [The Beachland Ballroom](https://open.spotify.com/album/2N5OAV10wnJNZ0QBGMhY4p) | 4:00 | 2024-01-12 |  |
+| [The Beachland Ballroom](https://open.spotify.com/track/6kPGjAjso3mAm3nZ2VzhDY) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [The Beachland Ballroom](https://open.spotify.com/album/2N5OAV10wnJNZ0QBGMhY4p) | 4:00 | 2024-01-12 | 2025-10-25 |
 | [The Efferusphere](https://open.spotify.com/track/410Dyzp3pMS7ubsGugH5oC) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 2:48 | 2024-05-08 | 2024-12-14 |
 | [The Good Side](https://open.spotify.com/track/4qAHuJq5T4Q97EQZG47H0P) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 4:28 | 2024-01-12 |  |
 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 | 2024-01-12 |  |
@@ -166,6 +168,7 @@
 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 | 2024-01-12 |  |
 | [Where I Left Us](https://open.spotify.com/track/1PDYz26hNBW45hvl5R1xC4) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [More Than Science](https://open.spotify.com/album/2maJcz0mDNMy5HGeEAnyQo) | 3:03 | 2025-01-24 |  |
 | [White Limo Stuck in The Snow](https://open.spotify.com/track/59HszsyMeo4qNtLnoPObH0) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [White Limo Stuck In The Snow](https://open.spotify.com/album/73gnvlOHq9e2IbEQC3H8fu) | 4:03 | 2024-01-12 | 2024-01-20 |
+| [Whose face am I](https://open.spotify.com/track/7hdSVanm1ob3fY8JPDMrMF) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Whose face am I](https://open.spotify.com/album/5rAXZIxcvg96yLLT9M5atx) | 2:15 | 2025-10-24 |  |
 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 | 2024-01-12 |  |
 | [Wish on an Eyelash](https://open.spotify.com/track/3vLByi1CdmNJPpTtOdKqAQ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 0:58 | 2024-01-12 |  |
 | [Within You, Within Me \- Stripped](https://open.spotify.com/track/2arVb84ogbOKUombRV6frA) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Within You, Within Me \(Stripped\)](https://open.spotify.com/album/5JCR9hamDOshLa7oyee0bn) | 3:22 | 2024-04-05 | 2025-01-18 |
@@ -175,7 +178,7 @@
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2024-01-12 | 2024-01-20 |
 | [You Can Have It All](https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:36 | 2024-01-12 | 2024-04-19 |
 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 | 2024-01-12 |  |
-| [Your Ex\-Lover Is Dead](https://open.spotify.com/track/43xk2HGO76L9CTsfmMO8Od) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Set Yourself On Fire](https://open.spotify.com/album/7yMj4j66GYb00KkKHC7hAR) | 4:16 | 2025-01-31 |  |
+| [Your Ex\-Lover Is Dead](https://open.spotify.com/track/43xk2HGO76L9CTsfmMO8Od) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Set Yourself On Fire](https://open.spotify.com/album/7yMj4j66GYb00KkKHC7hAR) | 4:16 | 2025-01-31 | 2025-10-25 |
 | [Your Rocky Spine](https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Ongiara](https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI) | 3:36 | 2024-01-12 |  |
 | [‘It's A Good Life If You Don't Weaken’ \- Live From ‘No Dress Rehearsal’](https://open.spotify.com/track/3e3n50pd0H0E0JsvDgSeqQ) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [‘It's A Good Life If You Don't Weaken’ \(Live From ‘No Dress Rehearsal’\)](https://open.spotify.com/album/33V5tVXf7kOU6kzFtIYRAJ) | 4:20 | 2024-12-13 | 2024-12-21 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,933 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,936 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 | 49 | [A Primeira Vez](https://open.spotify.com/track/0td3SDQhtP0RXXKPzlFpYQ) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Coisa Mais Linda](https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX) | 1:52 |
 | 50 | [María Ninguém](https://open.spotify.com/track/2YdI6iN91I4KmnUnjrR3VW) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(Deluxe Edition\)](https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH) | 2:23 |
 
-Snapshot ID: `aPgegAAAAACr5ELR15EShUvjNnsb2D5E`
+Snapshot ID: `aPlwAAAAAABdNTrnZqIxImui/9PnsNnv`

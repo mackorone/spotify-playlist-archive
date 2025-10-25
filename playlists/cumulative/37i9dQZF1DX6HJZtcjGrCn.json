@@ -4495,6 +4495,24 @@
     },
     {
       "album": {
+        "name": "O Vencedor / Len\u00e7o Enxuto",
+        "url": "https://open.spotify.com/album/0UXbU421haff2rxik4amal"
+      },
+      "artists": [
+        {
+          "name": "Luca Argel",
+          "url": "https://open.spotify.com/artist/2ZDNfNtWDgHegtoD5yvHjt"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220106,
+      "name": "O Vencedor",
+      "url": "https://open.spotify.com/track/1hrcAFYNTC26aohEIfRc6H"
+    },
+    {
+      "album": {
         "name": "O Vento e o Mar",
         "url": "https://open.spotify.com/album/2tjc8lSrbACuaYbptPa8Dx"
       },
@@ -5598,7 +5616,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-20",
+      "date_removed": null,
       "duration_ms": 136925,
       "name": "Starry Eyed",
       "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
@@ -6098,7 +6116,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 143560,
       "name": "The story of us",
       "url": "https://open.spotify.com/track/5EvcD5Z5xSw1llxOdYVl2n"
@@ -6704,7 +6722,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 228913,
       "name": "Volver a Despertar",
       "url": "https://open.spotify.com/track/7hlIwL37UxEG5O3JbewohD"

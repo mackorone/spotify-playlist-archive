@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,550 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,613 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [Our Love Is Here To Stay](https://open.spotify.com/track/1BuHbtYFgSaV99PFPBZEkW) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Unforgettable: With Love](https://open.spotify.com/album/78qajwwkI8eOt1DrnUOtuL) | 3:29 |
 | 100 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/3WKcw4BjJjHxQlXXc9Izgn) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Tenderly](https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J) | 3:26 |
 
-Snapshot ID: `AAAAAJQ8S3ZsVKoqmkwrMxnUQrpTZxZX`
+Snapshot ID: `AAAAAAwgeWcFr6EED+rSoLPJUga/balI`

@@ -2,9 +2,9 @@
 
 ### [Umami](https://open.spotify.com/playlist/37i9dQZF1DWVUxkQFrGCkK)
 
-> IBZ season 25' officially over, ADE next up!
+> ADE 25 week!!
 
-1,118 songs - 3 day 6 hr 1 min
+1,119 songs - 3 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1054,6 +1054,7 @@
 | [W4U \(feat\. Jen\)](https://open.spotify.com/track/28ZPocYJHiEE6Y9B55jmuJ) | [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [JEN](https://open.spotify.com/artist/7DTAVlZQzjCtuB8npp11nE) | [W4U \(feat\. Jen\)](https://open.spotify.com/album/39syP387YYwH46TnrvcpbP) | 3:59 | 2024-12-05 |  |
 | [Wait For You](https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Wait For You](https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt) | 2:56 | 2024-11-28 | 2025-08-01 |
 | [Wait So Long \(Why Do I Have To\) \- REMIND Remix](https://open.spotify.com/track/0yZjFgJYHJwnMMBhzEBP7J) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [RE\\MIND](https://open.spotify.com/artist/3V9dIUKIoVArPUrt30P4XX) | [Wait So Long \(Why Do I Have To\) \[REMIND Remix\]](https://open.spotify.com/album/26xNafbC2ESdSmzYMsr0S0) | 4:49 | 2025-07-22 |  |
+| [Waitin'](https://open.spotify.com/track/0bruK7CIEhyQO8tzeRTnjg) | [HotLap](https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg) | [Waitin'](https://open.spotify.com/album/06N9nd3RaU5EwoiO9PyMtN) | 3:44 | 2025-10-24 |  |
 | [WAKANDA](https://open.spotify.com/track/3WCODje7CHd3YiPkZy7iSf) | [Khaney](https://open.spotify.com/artist/0PxPREVwFHTaFJaKWbmxgY) | [WAKANDA](https://open.spotify.com/album/0vlS2624lIYXOJnNXSbpQK) | 6:55 | 2025-06-12 |  |
 | [Wale Wale](https://open.spotify.com/track/5rwJB5FQDo1zRrxYmpwSPy) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wale Wale](https://open.spotify.com/album/6ZKlN58OPBHwzAL8BBV6N1) | 5:17 | 2025-02-06 |  |
 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 | 2023-12-08 | 2025-01-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,868 likes - 125 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,982 likes - 125 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 81 | [Pans Of Death](https://open.spotify.com/track/7xcyrOG8Hx9qHbf7JRx31T) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [AD02: Pans Of Death / Rounds](https://open.spotify.com/album/4d74veTXh1r6jtpLaH1fNL) | 5:20 |
 | 82 | [Try](https://open.spotify.com/track/2PkcJdAVlbQCnqoZjYo8JC) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Try](https://open.spotify.com/album/78gnHm6vFBc1JoJABAtOeD) | 3:44 |
 | 83 | [Je t'attends](https://open.spotify.com/track/70rsrMZ6vCKv4rpT4kHm9l) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT), [Shahin Shantiaei](https://open.spotify.com/artist/2uMU6guzncNxQIWf2ROaHL) | [Je t'attends](https://open.spotify.com/album/75lBb0SaANAjcQqdChQJEE) | 3:20 |
-| 84 | [Malaika](https://open.spotify.com/track/6OLsNF93NAkdaWJXQev6Xi) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mugisho](https://open.spotify.com/artist/3KRCoMtReqUVKI38p5aWHw) | [Malaika](https://open.spotify.com/album/7lL6Y1meW33YLH60oSaaoN) | 2:34 |
+| 84 | [Malaika](https://open.spotify.com/track/6OLsNF93NAkdaWJXQev6Xi) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mugisho](https://open.spotify.com/artist/3KRCoMtReqUVKI38p5aWHw) | [Malaika](https://open.spotify.com/album/7lL6Y1meW33YLH60oSaaoN) | 2:33 |
 | 85 | [Magic](https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Astrø](https://open.spotify.com/artist/31anju77mwSChYTKZYLxbZ), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Finding Home](https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk) | 5:00 |
 | 86 | [El Youm](https://open.spotify.com/track/0mjDJiXyG83w6EdKUWU867) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [El Youm](https://open.spotify.com/album/5AVlQTQdIN8aoDBYGP3lAV) | 3:01 |
 | 87 | [Take It Easy on Me](https://open.spotify.com/track/62aj6pzjrfimmXIMWHMYiU) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Take It Easy on Me](https://open.spotify.com/album/61t1NrQrjIvnOozh9h212U) | 2:39 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 124 | [Rintintin](https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Rintintin](https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73) | 2:43 |
 | 125 | [God Gave Me Feet For Dancing \(Tasty Or Not Remix\)](https://open.spotify.com/track/5R7UMNIdotlpPC4HiAsVA1) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg), [Tasty Or Not](https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad) | [God Gave Me Feet For Dancing \(Tasty Or Not Remix\)](https://open.spotify.com/album/75ZImLT7SMKG0mNQwL7IU8) | 4:02 |
 
-Snapshot ID: `AAAAAJgCw4aTYy9LjfMnIi9L/h7+euej`
+Snapshot ID: `AAAAAA6QjAs9WSxQDC2gl/txJh9nYOVj`

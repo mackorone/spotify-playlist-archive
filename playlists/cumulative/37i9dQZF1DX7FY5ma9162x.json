@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The tracks you can put on repeat all day. Cover: PARTYNEXTDOOR",
+  "description": "The tracks you can put on repeat all day. Cover: Odeal",
   "name": "R&B Favourites",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 231489,
       "name": "'Flawless' Do It Well Pt. 3 (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/6Ok5DivyUJjsLVUUWLzz6o"
+    },
+    {
+      "album": {
+        "name": "PAID IN MEMORIES",
+        "url": "https://open.spotify.com/album/5L3z1dICHHIS9FWewUhvu9"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182722,
+      "name": "**CUDN\u2019T B ME**",
+      "url": "https://open.spotify.com/track/2MEwzbnd94ru6DkUR9pxA7"
     },
     {
       "album": {
@@ -2162,7 +2180,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 125039,
       "name": "Ciao!",
       "url": "https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ"
@@ -5693,6 +5711,24 @@
     },
     {
       "album": {
+        "name": "BELOVED",
+        "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195869,
+      "name": "I CAN TELL",
+      "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
+    },
+    {
+      "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
       },
@@ -6244,6 +6280,24 @@
       "duration_ms": 217394,
       "name": "Just For Me (with SZA) - Space Jam: A New Legacy",
       "url": "https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa"
+    },
+    {
+      "album": {
+        "name": "Just How You Are",
+        "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194247,
+      "name": "Just How You Are",
+      "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
     },
     {
       "album": {
@@ -7459,6 +7513,28 @@
     },
     {
       "album": {
+        "name": "Miami (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/0mhTypXZWjlqrSrcRkerLf"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216493,
+      "name": "Miami (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/1gXHmNzTj1fwxPWMOZ9Frn"
+    },
+    {
+      "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
       },
@@ -7892,7 +7968,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 235689,
       "name": "Needle (feat. Drake)",
       "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
@@ -9722,7 +9798,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 159680,
       "name": "Reckless & Sweet",
       "url": "https://open.spotify.com/track/6gQrm0rwg6hok8IxzysD8m"
@@ -12684,7 +12760,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 205400,
       "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
       "url": "https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9"

@@ -423,6 +423,28 @@
     },
     {
       "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/6dzjdYfWaGwfMZZaJXVlYJ"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135578,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/7royjNIb46zGAkCvSdpWz2"
+    },
+    {
+      "album": {
         "name": "AMOR\u00c9",
         "url": "https://open.spotify.com/album/42Pgf1jr36NyHSSEnDfiQW"
       },
@@ -7692,24 +7714,6 @@
       "duration_ms": 178266,
       "name": "TP",
       "url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
-        }
-      ],
-      "date_added": "2025-10-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/7royjNIb46zGAkCvSdpWz2"
     },
     {
       "album": {

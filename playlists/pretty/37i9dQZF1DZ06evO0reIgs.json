@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81970,
+  "num_followers": 81968,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAADTj/z9nYmroBHkdi/nms/1",
+  "snapshot_id": "aPlwAAAAAABeqPoV90AjhC8cJAX+9pH6",
   "tracks": [
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Que Voc\u00ea Faz",
+        "url": "https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "O Que Voc\u00ea Faz",
+      "url": "https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diferent\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 209298,
       "name": "Esquece de Mim (Rap) - Ao Vivo",
       "url": "https://open.spotify.com/track/4EyYjb6RGev9qvgh2Eld00"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Que Voc\u00ea Faz",
-        "url": "https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "O Que Voc\u00ea Faz",
-      "url": "https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e"
     },
     {
       "added_at": null,
@@ -903,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Efeito Violeta",
+        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 239166,
+      "name": "Efeito Violeta",
+      "url": "https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "viciado em mim",
         "url": "https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 194760,
       "name": "viciado em mim",
       "url": "https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Efeito Violeta",
-        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 239166,
-      "name": "Efeito Violeta",
-      "url": "https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj"
     },
     {
       "added_at": null,
@@ -1015,26 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pode Sair / Pode Ficar",
-        "url": "https://open.spotify.com/album/3DGdy9CvatHGlNjFSlsFiS"
-      },
-      "artists": [
-        {
-          "name": "Math Basso",
-          "url": "https://open.spotify.com/artist/39vofNTfJCZegFfSljqxhZ"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 173042,
-      "name": "Pode Sair / Pode Ficar",
-      "url": "https://open.spotify.com/track/7aDbe2Ga5ptrXhJ5oRReaR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Efeito Violeta",
         "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 177800,
       "name": "Vai Partir",
       "url": "https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pode Sair / Pode Ficar",
+        "url": "https://open.spotify.com/album/3DGdy9CvatHGlNjFSlsFiS"
+      },
+      "artists": [
+        {
+          "name": "Math Basso",
+          "url": "https://open.spotify.com/artist/39vofNTfJCZegFfSljqxhZ"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 173042,
+      "name": "Pode Sair / Pode Ficar",
+      "url": "https://open.spotify.com/track/7aDbe2Ga5ptrXhJ5oRReaR"
     },
     {
       "added_at": null,
@@ -1099,26 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teoria do Ciclo da \u00c1gua",
-        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Alaska, Pt. 2",
-      "url": "https://open.spotify.com/track/4GX3rgGpnofCyMdLzILs09"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sol",
         "url": "https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 183708,
       "name": "Eu Penso",
       "url": "https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teoria do Ciclo da \u00c1gua",
+        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "Alaska, Pt. 2",
+      "url": "https://open.spotify.com/track/4GX3rgGpnofCyMdLzILs09"
     },
     {
       "added_at": null,
@@ -1203,6 +1203,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desmoronar",
+        "url": "https://open.spotify.com/album/7DsJeTsbZrDzkgdMMTx6uv"
+      },
+      "artists": [
+        {
+          "name": "Pedro Qualy",
+          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "Desmoronar",
+      "url": "https://open.spotify.com/track/7f24oT0v5BiURjxYVjfZD0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Minissaia",
         "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 211363,
       "name": "Sos",
       "url": "https://open.spotify.com/track/0D0GflJErwCQiH3P3kQ8I5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desmoronar",
-        "url": "https://open.spotify.com/album/7DsJeTsbZrDzkgdMMTx6uv"
-      },
-      "artists": [
-        {
-          "name": "Pedro Qualy",
-          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 211935,
-      "name": "Desmoronar",
-      "url": "https://open.spotify.com/track/7f24oT0v5BiURjxYVjfZD0"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

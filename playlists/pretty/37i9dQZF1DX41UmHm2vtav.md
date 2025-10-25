@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,630 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,700 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 66 | [Summertime Sadness](https://open.spotify.com/track/1AlCvRJFF2Ze5FX54uHZqb) | [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Blackout](https://open.spotify.com/artist/6VN4DY2DHy8LuJapmtI0HA), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Summertime Sadness](https://open.spotify.com/album/68FOiKlSQI0SKc8exqAtVM) | 2:59 |
 | 67 | [Que Dia](https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H) | [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Que Dia](https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl) | 2:55 |
 | 68 | [Perdição \(feat\. L7NNON\) \- Remix](https://open.spotify.com/track/2z7cpHZy0D2sEoy7n7uiVD) | [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Perdição \(feat\. L7NNON\) \[Remix\]](https://open.spotify.com/album/7nJHxArjVPTY0Kb0U94qTZ) | 3:39 |
-| 69 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |
-| 70 | [Imprevisível \- Overdriver Duo e Guz Zanotto Remix](https://open.spotify.com/track/3z51kAmAca2StfedNebGNe) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Overdriver Duo](https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18), [Guz Zanotto](https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI) | [Imprevisível \(Overdriver Duo e Guz Zanotto Remix\)](https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW) | 3:35 |
+| 69 | [Trovão](https://open.spotify.com/track/5OZT5cotLxLMBYONtioAZ4) | [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Trovão](https://open.spotify.com/album/55V5KmUeLWxWAyOF50seSS) | 3:18 |
+| 70 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |
 
-Snapshot ID: `AAAAANNDAl0KshdlEji7R0nUDaCYvuAg`
+Snapshot ID: `AAAAAN9f5vmvFhIPGS+kHo74T5ivEfJE`

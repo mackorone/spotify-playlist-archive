@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,297 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,278 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [](https://open.spotify.com/album/null) | 4:25 |
+| 1 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
 | 2 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 |
-| 3 | [Relapse](https://open.spotify.com/track/2CqK5vwJHSe0ZHXryUAElT) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [](https://open.spotify.com/album/null) | 4:23 |
+| 3 | [Relapse](https://open.spotify.com/track/2CqK5vwJHSe0ZHXryUAElT) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 4:23 |
 | 4 | [Cumulus / Memory](https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Cumulus / Memory](https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN) | 6:47 |
 | 5 | [⁠The Ghost of Her Smile](https://open.spotify.com/track/56Q8UTxYRhMu1YaF3wW9GG) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Julie Dawson](https://open.spotify.com/artist/1TzJp2tHjwJG5CZKPWGBIL) | [The Ghost of Her Smile](https://open.spotify.com/album/1eqB2GZ3j5ElZdXHUctKOB) | 3:40 |
 | 6 | [Hollow Noon](https://open.spotify.com/track/2OYoQkTfbPP40cJWA8Ixch) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Speak Daggers](https://open.spotify.com/album/6ChvcmOKQHcUMaktvmBhPG) | 3:23 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 8 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 |
 | 9 | [Human Happens](https://open.spotify.com/track/40ATtBjYoYuJxKGfrqJwJl) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Human Happens / Paint Me A Picture](https://open.spotify.com/album/4cvjkU5iJWhAJUWELB05l1) | 4:03 |
 | 10 | [All About Me](https://open.spotify.com/track/60mXzhxdo3dtKYz1MNBLFD) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [All About Me](https://open.spotify.com/album/6zprXAlQbVyY4bokzeemmr) | 4:23 |
-| 11 | [Track 14](https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [](https://open.spotify.com/album/null) | 0:00 |
+| 11 | [Longest Way Round](https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Teal Dreams](https://open.spotify.com/album/2AzTf9LVZzgJ7DoN1nE7uQ) | 3:42 |
 | 12 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
 | 13 | [White Lighter](https://open.spotify.com/track/1BVulvTYmkPUPmEjdfm4qh) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [White Lighter](https://open.spotify.com/album/1CJcaw2pUIVh9y4fI9SS6W) | 2:51 |
 | 14 | [Get Back](https://open.spotify.com/track/6VzhkhV5hv1FSfPtTNRJRw) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Get Back](https://open.spotify.com/album/48RdAlViFWSDGLcFQOphCT) | 4:05 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 21 | [The Manifesto \(feat\. Trueno and Proof\)](https://open.spotify.com/track/1pgl5ntthebzHaqJVI1n6B) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Proof](https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE) | [The Manifesto \(feat\. Trueno and Proof\)](https://open.spotify.com/album/5XT5XzzSOys3UnnQ4jBNwo) | 7:19 |
 | 22 | [Tell Me](https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Tell Me](https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP) | 2:49 |
 | 23 | [The Coward Forgets His Nightmare](https://open.spotify.com/track/4x6ZZ97Ze9K8IoaHFkxJWb) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [The Coward Forgets His Nightmare](https://open.spotify.com/album/792UORpgms3EOVSbVtSD0A) | 3:32 |
-| 24 | [Track 4](https://open.spotify.com/track/2HPJLXIgTcNLw0KpThbyB6) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [](https://open.spotify.com/album/null) | 0:00 |
+| 24 | [Loud Thoughts \(feat\. Samba Jean\-Baptiste\)](https://open.spotify.com/track/2HPJLXIgTcNLw0KpThbyB6) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ), [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [Slower Than Sound](https://open.spotify.com/album/6C5KmVqyZQE2AvFiztEyE4) | 3:02 |
 | 25 | [Honey, Undress Me](https://open.spotify.com/track/408DL2w4i3Mqk10b4K8ptN) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [Honey, Undress Me](https://open.spotify.com/album/25Wlm8rwnLklTTjuukreCU) | 3:10 |
 | 26 | [yes](https://open.spotify.com/track/59avyplAj0yMOOzVR4OdZk) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [yes](https://open.spotify.com/album/7mzqYoHp9RUcGPKIOjjbgd) | 3:38 |
 | 27 | [Prada Boo](https://open.spotify.com/track/493StZUc3moeLSbY60CLZl) | [Korby](https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH) | [Prada Boo](https://open.spotify.com/album/4P68ccoHnsZNH1paDPjIcp) | 2:33 |

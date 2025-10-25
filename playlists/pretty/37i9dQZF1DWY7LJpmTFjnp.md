@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Meme del Real en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 985,701 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 985,650 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 99 | [Chale](https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn) | [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [Maria Barracuda](https://open.spotify.com/album/1bhUnlxM5e8p9jkvHDGGu9) | 3:21 |
 | 100 | [Sugga Daddy](https://open.spotify.com/track/0cCkuPpfY5Q9q33q8eTxiR) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Sugga Daddy](https://open.spotify.com/album/6acL9wY61WYtDYuEhRfopQ) | 2:44 |
 
-Snapshot ID: `AAAAAPent0dC9j5RnVsvdJD9lsi6d/nJ`
+Snapshot ID: `AAAAAKqHqjYONdrXzPJ9t1JdmtqwMLsK`

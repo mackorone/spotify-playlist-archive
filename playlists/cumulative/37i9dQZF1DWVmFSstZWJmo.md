@@ -4,7 +4,7 @@
 
 > Fcukers on the cover bby
 
-273 songs - 16 hr 57 min
+274 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Oceans Niagara](https://open.spotify.com/track/2hFlY5xuAXrjY24v3a1mpZ) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Oceans Niagara](https://open.spotify.com/album/05lNHHSVcb58JiL1d0kPIr) | 4:31 | 2023-01-13 | 2023-03-02 |
 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 | 2023-05-17 | 2024-04-19 |
 | [Okay Cupid](https://open.spotify.com/track/5w8QBFpRxdcMGX1TLqrHEp) | [Kitty](https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV) | [haha, i'm sorry](https://open.spotify.com/album/65v11vBPwKXOtGNbw5F5Lh) | 2:47 | 2023-04-14 | 2023-04-27 |
-| [one more](https://open.spotify.com/track/1S499avHKKW1ycbMIFd0HL) | [Casual Affairs](https://open.spotify.com/artist/5EESQeFhNh3C79v3mLKe2W) | [one more](https://open.spotify.com/album/3HTS25aTQgzWbAkD4Hys7J) | 2:20 | 2025-10-10 |  |
+| [one more](https://open.spotify.com/track/1S499avHKKW1ycbMIFd0HL) | [Casual Affairs](https://open.spotify.com/artist/5EESQeFhNh3C79v3mLKe2W) | [one more](https://open.spotify.com/album/3HTS25aTQgzWbAkD4Hys7J) | 2:20 | 2025-10-10 | 2025-10-25 |
 | [Ooh La La](https://open.spotify.com/track/3E0gVkirGK2ouGHPuOO9cN) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/3vtZKHDljhjJORS14a4qKx) | 3:24 | 2023-09-05 | 2024-04-19 |
 | [Ooh La La](https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f) | 3:24 | 2022-11-10 | 2023-11-04 |
 | [Out There \- The Dare Version](https://open.spotify.com/track/3nenhYDvVKIM7xTwpRdSr0) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0), [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Crushed By Everyone](https://open.spotify.com/album/7eZiMrZzSi2oktv44Or1MU) | 3:13 | 2023-11-17 | 2024-10-04 |
@@ -252,6 +252,7 @@
 | [Using You](https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [Using You](https://open.spotify.com/album/7B2LAN3VRvXFBX8EgSotfo) | 3:28 | 2023-11-17 |  |
 | [Vanished](https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:02 | 2022-11-10 | 2023-12-23 |
 | [Vanished](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 4:02 | 2023-09-05 | 2024-04-19 |
+| [video](https://open.spotify.com/track/6OwdKf7VRc4zpLNMzWlUL3) | [dance arts center](https://open.spotify.com/artist/3W9ojW2wag9ir2xBwia9QP) | [dance arts center presents](https://open.spotify.com/album/0FRFxu0vsfD02VbhdcoheD) | 3:06 | 2025-10-24 |  |
 | [Walking Away from My Demons \- Wet Leg Remix](https://open.spotify.com/track/30dZW6UD1rqjHjvFdLYMt0) | [Faux Real](https://open.spotify.com/artist/0853SMh8o0PpHpSTDHttsO), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Walking Away from My Demons \(Wet Leg Remix\)](https://open.spotify.com/album/0FkCxzvvC5H3P4hkipruuB) | 3:42 | 2025-03-25 | 2025-03-30 |
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2022-11-10 |  |
 | [Warp 1.9 \(feat\. Steve Aoki\)](https://open.spotify.com/track/0HIruANJzlQkYwlpvh8cn6) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [ROMBORAMA](https://open.spotify.com/album/0trChN5eN92UYTUqOIMQRe) | 3:23 | 2023-09-05 | 2024-04-19 |

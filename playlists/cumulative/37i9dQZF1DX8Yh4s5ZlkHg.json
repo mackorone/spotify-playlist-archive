@@ -396,7 +396,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 210673,
       "name": "Cheap Hotel",
       "url": "https://open.spotify.com/track/6OI6VQxrwqTydvfgQ9bIAC"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 144474,
       "name": "gin and wine - Remix",
       "url": "https://open.spotify.com/track/1iiHhZQ6TVLG5ETjoUnZhs"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-20",
+      "date_removed": null,
       "duration_ms": 193031,
       "name": "Moves",
       "url": "https://open.spotify.com/track/6TT7B4MigCJCc0tqKYEpZC"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 185694,
       "name": "Never Tear Us Apart",
       "url": "https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1"
@@ -1537,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB"
+      },
+      "artists": [
+        {
+          "name": "Not for Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212336,
+      "name": "Slip",
+      "url": "https://open.spotify.com/track/3bUUZznrg3tbLYSM0vMXRo"
+    },
+    {
+      "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 246761,
       "name": "Summer Sweat",
       "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"

@@ -4,7 +4,7 @@
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: MARO
 
-369 songs - 21 hr 57 min
+370 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Não Posso Afinal](https://open.spotify.com/track/0C7gp95lUxyDB1qchmNYXU) | [Inês Marques Lucas](https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn) | [Não Posso Afinal](https://open.spotify.com/album/2UyjC7jhWZSjnq7o283fBh) | 3:03 | 2025-10-09 | 2025-10-24 |
 | [O Assunto](https://open.spotify.com/track/3lxoADUhrYN6T2Ah7MdFtZ) | [Márcia](https://open.spotify.com/artist/5XT50tciP6Abur6y9JEN0r) | [O Assunto](https://open.spotify.com/album/5AdcDTBYy991LIdD7XurYh) | 6:20 | 2025-03-14 | 2025-03-28 |
 | [O Que Esta Gente Quer](https://open.spotify.com/track/77tjQEZESDFz33XQEpPja6) | [Cara de Espelho](https://open.spotify.com/artist/7LsBb6YXqYf3UJvsjpRHxF) | [O Que Esta Gente Quer](https://open.spotify.com/album/5qQTnm5af4Tkwd6KYDqKYS) | 3:16 | 2025-06-05 | 2025-07-11 |
+| [O Vencedor](https://open.spotify.com/track/1hrcAFYNTC26aohEIfRc6H) | [Luca Argel](https://open.spotify.com/artist/2ZDNfNtWDgHegtoD5yvHjt) | [O Vencedor / Lenço Enxuto](https://open.spotify.com/album/0UXbU421haff2rxik4amal) | 3:40 | 2025-10-24 |  |
 | [O Vento e o Mar](https://open.spotify.com/track/7pVALuou51vVKI4Chhf8eq) | [Amor Perdido](https://open.spotify.com/artist/7b29iPYABQwrw9x4WDT7zs) | [O Vento e o Mar](https://open.spotify.com/album/2tjc8lSrbACuaYbptPa8Dx) | 2:31 | 2025-08-01 | 2025-08-23 |
 | [Off Guard](https://open.spotify.com/track/4vXbgOoOD7svV1A7f8Levf) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Off Guard](https://open.spotify.com/album/4osiR8Cp4GfsUfnPmSzvXX) | 2:51 | 2024-10-03 | 2024-11-15 |
 | [Oji é Oji](https://open.spotify.com/track/0PzceIWCT1ybZTkrn67E4N) | [Pedro da Linha](https://open.spotify.com/artist/4vRdcYRuZQC84SzNnxSNLh), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Oji é Oji](https://open.spotify.com/album/0DKT9xaRe0hniEsTX1nDlV) | 3:03 | 2024-06-20 | 2024-07-05 |
@@ -305,7 +306,7 @@
 | [SPIDERS](https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [SPIDERS](https://open.spotify.com/album/1PndzdLW2Ykd36TDbkKuNF) | 4:27 | 2025-09-04 |  |
 | [Split Screen](https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Split Screen](https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR) | 5:03 | 2024-06-20 | 2024-07-22 |
 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 | 2024-06-20 | 2025-01-10 |
-| [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 | 2025-03-21 | 2025-10-20 |
+| [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 | 2025-03-21 |  |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2024-06-20 |  |
 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2024-12-06 | 2025-05-23 |
 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2024-06-20 | 2025-09-05 |
@@ -331,7 +332,7 @@
 | [The Little Mess You Made](https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Little Mess You Made](https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH) | 3:21 | 2025-06-05 |  |
 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-06-20 | 2025-09-12 |
 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 | 2025-09-04 |  |
-| [The story of us](https://open.spotify.com/track/5EvcD5Z5xSw1llxOdYVl2n) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit \(deluxe\)](https://open.spotify.com/album/3KspmBolf6H0PpEPwN1dyu) | 2:23 | 2025-10-16 |  |
+| [The story of us](https://open.spotify.com/track/5EvcD5Z5xSw1llxOdYVl2n) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit \(deluxe\)](https://open.spotify.com/album/3KspmBolf6H0PpEPwN1dyu) | 2:23 | 2025-10-16 | 2025-10-25 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-01 |  |
 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 | 2024-08-08 | 2024-11-14 |
 | [The World Above](https://open.spotify.com/track/2IHOfg0T2tEO3iQ1aYvZA1) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The World Above](https://open.spotify.com/album/7e4uwIr9ceGWZH1HtE9NCO) | 3:32 | 2024-07-25 | 2024-08-16 |
@@ -362,7 +363,7 @@
 | [Vice Versa](https://open.spotify.com/track/32zpZSucRBESNL2nqgBYDC) | [Ganso](https://open.spotify.com/artist/4wpd66S5iheFM5GJqauV4E) | [Vice Versa](https://open.spotify.com/album/4A4kuj5F6KE1Snoj3AYYfr) | 3:12 | 2024-10-14 | 2024-10-25 |
 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 | 2025-08-28 |  |
 | [Volkswagen \- 2025](https://open.spotify.com/track/1SCeOcDKbcJpWoCTUIMDWh) | [Benjamim](https://open.spotify.com/artist/1Il7ZCAkjBtdsg9skLwlOc) | [Volkswagen \(2025\)](https://open.spotify.com/album/3R4WYuE1gEq12GbwBbFuX8) | 4:02 | 2025-01-24 | 2025-02-07 |
-| [Volver a Despertar](https://open.spotify.com/track/7hlIwL37UxEG5O3JbewohD) | [André ViaMonte](https://open.spotify.com/artist/65vZkm7u2bw95yQ0bAZdct), [Mari Segura](https://open.spotify.com/artist/2ih7yN0J7tvnUaX3h7xQjT) | [Volver a Despertar](https://open.spotify.com/album/4cVRQMqVmhRchsIW2L6Y5H) | 3:48 | 2025-10-09 |  |
+| [Volver a Despertar](https://open.spotify.com/track/7hlIwL37UxEG5O3JbewohD) | [André ViaMonte](https://open.spotify.com/artist/65vZkm7u2bw95yQ0bAZdct), [Mari Segura](https://open.spotify.com/artist/2ih7yN0J7tvnUaX3h7xQjT) | [Volver a Despertar](https://open.spotify.com/album/4cVRQMqVmhRchsIW2L6Y5H) | 3:48 | 2025-10-09 | 2025-10-25 |
 | [Way Way](https://open.spotify.com/track/65IasAWzN38LlomtFJti9W) | [Vaiapraia](https://open.spotify.com/artist/7dFjIbyiueRNzTR2w9FA6R) | [Alegria Terminal](https://open.spotify.com/album/44svjXI1B4D7nCnVF7eU36) | 2:07 | 2025-05-22 | 2025-05-30 |
 | [we can be our own ruin](https://open.spotify.com/track/7nb0gyY7EpbLg9cXEFWqm1) | [Mariana Tereso](https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu) | [we can be our own ruin](https://open.spotify.com/album/11Z7Oi55Nd8EeKbM5S99Gw) | 2:49 | 2024-11-29 | 2024-12-21 |
 | [WE COULD BE](https://open.spotify.com/track/6JntRmlslnLYjbgGbrngkG) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [WE COULD BE](https://open.spotify.com/album/0P6GQcT3XIPg4ZWyA45n3V) | 3:15 | 2024-06-20 | 2024-07-19 |

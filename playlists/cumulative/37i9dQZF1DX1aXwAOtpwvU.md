@@ -4,7 +4,7 @@
 
 > Odkryj nowych ulubionych artystów! Cover:  <a href="spotify:artist:0B4TTzKvNuF5Jcmbe5uQ1T">Pola Maj</a>
 
-384 songs - 19 hr 7 min
+385 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [nic\(i\)](https://open.spotify.com/track/7CYz7FGYsxJWeF94lqsbFc) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nic\(i\)](https://open.spotify.com/album/6x9tlX5hDXDCWQchmqSgt4) | 2:18 | 2024-06-18 | 2024-08-31 |
 | [Nie bolało](https://open.spotify.com/track/1RJfHolln7fiPAOBWleNFL) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Nie bolało](https://open.spotify.com/album/6iWtrne7gJQfcsmbtcmuPL) | 2:48 | 2025-07-29 | 2025-09-20 |
 | [Nie Dzwoń Do Mnie](https://open.spotify.com/track/0lJla6PQ8xhzAH5azBDTnk) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Nie Dzwoń Do Mnie](https://open.spotify.com/album/6Qb5R0OCZqV7OoUc4eLdB6) | 2:36 | 2024-07-15 | 2024-12-10 |
+| [Nie mam się już czego bać](https://open.spotify.com/track/2fwA89EScmFJkVkDSeC2G3) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Nie mam się już czego bać](https://open.spotify.com/album/2JMpOaxEftQzS8okGgDcbo) | 3:18 | 2025-10-24 |  |
 | [Nie mów](https://open.spotify.com/track/3YrA6qcUeMp4g405dTPtLo) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5), [eryq](https://open.spotify.com/artist/2qjZpl1aigwfxoXjUzyGa6) | [Nie mów](https://open.spotify.com/album/1GdKtEdoqMfqyiz8nNADkF) | 2:42 | 2024-08-22 | 2024-11-19 |
 | [Nie pozwolę Ci wyjść](https://open.spotify.com/track/1wHhHMk0hutBAULKaC3G3U) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Nie pozwolę Ci wyjść](https://open.spotify.com/album/1ERBMG7BItkG9tFx13JHYd) | 2:41 | 2025-09-19 |  |
 | [Nie płacz za mną zbyt często!](https://open.spotify.com/track/2f6UPHuNkMeYEXCCTT56XM) | [Krzyk Mody](https://open.spotify.com/artist/1agF5GG699g32QKbI46t4X), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Nie płacz za mną zbyt często!](https://open.spotify.com/album/2Xb1h8uZBqXjUescM4L4Me) | 3:07 | 2025-09-19 |  |

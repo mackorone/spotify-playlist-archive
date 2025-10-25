@@ -1081,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "Cats & Dogs",
+        "url": "https://open.spotify.com/album/3BNsRryF2TQlOp9V367aP8"
+      },
+      "artists": [
+        {
+          "name": "Mackenzy Mackay",
+          "url": "https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165725,
+      "name": "Cats & Dogs",
+      "url": "https://open.spotify.com/track/4QZMcoAggngJc5qSbUqnin"
+    },
+    {
+      "album": {
         "name": "Chariot - Stripped",
         "url": "https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI"
       },
@@ -1906,6 +1924,24 @@
       "duration_ms": 263573,
       "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
+    },
+    {
+      "album": {
+        "name": "SE9 Part 1",
+        "url": "https://open.spotify.com/album/6KwW5AwZbyHJD3KyZuuyM1"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159399,
+      "name": "FU & UF",
+      "url": "https://open.spotify.com/track/6EmVYBTauOBjejUU5n9GyF"
     },
     {
       "album": {
@@ -3242,7 +3278,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 223846,
       "name": "Lights Down Low",
       "url": "https://open.spotify.com/track/1sYSP7gKa5kdKIfhANfori"
@@ -4094,7 +4130,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 250573,
       "name": "Nervous - Acoustic",
       "url": "https://open.spotify.com/track/3ZAbCtTT1qSmJFSilUjhpr"

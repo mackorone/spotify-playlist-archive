@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,973 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,995 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 59 | [Enchanté](https://open.spotify.com/track/10wbN21d8FXT0cFIaCw1yV) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Enchanté](https://open.spotify.com/album/563FrJ2AfhKQj1nqYCISaM) | 2:42 |
 | 60 | [Eden \(feat\. Cordae, DJ Jazzy Jeff\)](https://open.spotify.com/track/2ICVrUIyL20gOkhbx6umcB) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [Gen](https://open.spotify.com/album/1s9TxbeBWAbz939OHhl3ch) | 3:41 |
 
-Snapshot ID: `AAAAANiFLQvpX/A4KN9PovYg1AVa4BSn`
+Snapshot ID: `AAAAALn1jorgb9LE+tOx/tGfgn2QVZLK`

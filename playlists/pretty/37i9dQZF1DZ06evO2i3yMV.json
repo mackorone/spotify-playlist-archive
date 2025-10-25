@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAABvJ0tgE+9J0qRweZeXmzoD",
+  "snapshot_id": "aPlwAAAAAACoZukuguHpX6zvUD1bFMBu",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINGOS DESERT",
-        "url": "https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL"
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
       },
       "artists": [
         {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
         }
       ],
-      "duration_ms": 198567,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF"
+      "duration_ms": 309145,
+      "name": "Darkest (Dim)",
+      "url": "https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8"
     },
     {
       "added_at": null,
@@ -179,22 +179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creature Dreams",
-        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+        "name": "RINGOS DESERT",
+        "url": "https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL"
       },
       "artists": [
         {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
         },
         {
-          "name": "Gavin Turek",
-          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 309145,
-      "name": "Darkest (Dim)",
-      "url": "https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8"
+      "duration_ms": 198567,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 169786,
-      "name": "For My Eternal, Oh Dream My Treasure",
-      "url": "https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lune Rouge",
         "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 266643,
       "name": "I Wish I Could (feat. Selah Sue)",
       "url": "https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 169786,
+      "name": "For My Eternal, Oh Dream My Treasure",
+      "url": "https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG"
     },
     {
       "added_at": null,

@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "1991",
+        "url": "https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227391,
+      "name": "1991",
+      "url": "https://open.spotify.com/track/3voShTcaRtbYVSPGuCLAzw"
+    },
+    {
+      "album": {
         "name": "99 Steps",
         "url": "https://open.spotify.com/album/1B57GqqYDv7nSHsiymJzv0"
       },
@@ -658,7 +676,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 248653,
       "name": "CITRUS",
       "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
@@ -1745,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/2hTHXj7Y8adzK3Z49kKqbr"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246668,
+      "name": "I",
+      "url": "https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV"
+    },
+    {
+      "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
       },
@@ -2749,6 +2785,24 @@
     },
     {
       "album": {
+        "name": "My Body",
+        "url": "https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203296,
+      "name": "My Body",
+      "url": "https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs"
+    },
+    {
+      "album": {
         "name": "I'll Be Cute When You See Me",
         "url": "https://open.spotify.com/album/73gLuSuMKY13uGbfcvkseg"
       },
@@ -2984,7 +3038,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 154966,
       "name": "Numbers Ur Zone",
       "url": "https://open.spotify.com/track/4gKyKGU7VdyE1ZhFhfg6J0"
@@ -3832,6 +3886,24 @@
       "duration_ms": 238986,
       "name": "SPECIALZ",
       "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
+    },
+    {
+      "album": {
+        "name": "Stare In Wonder",
+        "url": "https://open.spotify.com/album/34Y0UOwoUZNrGlafpg7d4D"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197853,
+      "name": "Stare In Wonder",
+      "url": "https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM"
     },
     {
       "album": {
@@ -5140,7 +5212,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 267549,
       "name": "\u3072\u3089\u304f",
       "url": "https://open.spotify.com/track/6fJEKpVd2PwWXQOiQ6vvHB"
@@ -6864,7 +6936,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 276918,
       "name": "\u5e7e\u5104\u5149\u5e74",
       "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"

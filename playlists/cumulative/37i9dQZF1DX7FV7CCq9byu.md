@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,242 songs - 2 day 15 hr 23 min
+1,243 songs - 2 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Friends](https://open.spotify.com/track/3MZSuu8bD15Ha7LtRWyMQg) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Friends](https://open.spotify.com/album/2simPoFMlXOgstLyQQYomC) | 2:34 | 2024-08-21 | 2024-09-27 |
 | [Fruängen](https://open.spotify.com/track/5foc3SckhG8CWzTq3JQ7w1) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Molly från Fruängen](https://open.spotify.com/album/2vQc4MLIdCDZzkSNdSwvB7) | 3:48 | 2024-09-26 | 2024-11-23 |
 | [Från & med nu](https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Som i en dröm](https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM) | 2:25 | 2025-05-22 | 2025-06-27 |
+| [FU & UF](https://open.spotify.com/track/6vcMLDXzAHtw4fg2mI6veW) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [FU & UF](https://open.spotify.com/album/6jcsn9AMkfslPTT3BVKQT1) | 2:39 | 2025-10-24 |  |
 | [Fuck ditt liv](https://open.spotify.com/track/29w6XkR2SlXSd6avlHvejW) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Fuck ditt liv](https://open.spotify.com/album/2PUu9XBFuCzLw8lY2ZChq0) | 2:42 | 2024-08-15 | 2024-10-11 |
 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/7hWESP9salkKYucipe5W99) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [FUFN \(Fuck You For Now\)](https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq) | 3:35 | 2025-03-17 | 2025-04-18 |
 | [Full Attention](https://open.spotify.com/track/6Yhzabh1wK19kniAJOz1G2) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Full Attention](https://open.spotify.com/album/25Gn5IvV9ykJTPDGigx452) | 3:04 | 2025-05-12 | 2025-06-13 |
@@ -522,7 +523,7 @@
 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 | 2024-12-11 | 2025-02-28 |
 | [Ingen garanti](https://open.spotify.com/track/3USDJqWIstDheez4sJDODG) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Ingen garanti](https://open.spotify.com/album/59DbW4BL5Yo0etEUE8QqJR) | 2:42 | 2025-05-29 | 2025-07-04 |
 | [Ingen vet](https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Ingen vet](https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r) | 2:40 | 2025-08-21 | 2025-10-03 |
-| [Ingen Vet...](https://open.spotify.com/track/53vPl8xKjPc6AaCLD1XlpH) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [](https://open.spotify.com/album/null) | 3:46 | 2025-10-23 |  |
+| [Ingen Vet...](https://open.spotify.com/track/53vPl8xKjPc6AaCLD1XlpH) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [I Rymden Finns Inga Tårar](https://open.spotify.com/album/53vNOMnb7XNn6cM0dyKi3Z) | 3:46 | 2025-10-23 |  |
 | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/track/4iiMwRdEFIbSpxYGYBd8tR) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/album/7zbhWU2UiQ46184cVsWYat) | 2:28 | 2025-01-17 | 2025-03-07 |
 | [Inget som ändras](https://open.spotify.com/track/6LiZ1HFli2pMZTtWT7JDl9) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Inget som ändras](https://open.spotify.com/album/0T7S5nRJfHdV4i0yYULoi2) | 2:17 | 2025-01-30 | 2025-03-14 |
 | [Inte bra i grupp](https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Inte bra i grupp](https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV) | 2:49 | 2025-04-24 | 2025-06-13 |
@@ -564,7 +565,7 @@
 | [kanske lika bra att vi lägger av när vi ligger bra](https://open.spotify.com/track/3VtnMvL2Tpq56AmitlTFYh) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [kanske lika bra att vi lägger av när vi ligger bra](https://open.spotify.com/album/3SNoO3phfgMtYdnWCzR7OF) | 3:05 | 2025-04-24 | 2025-06-06 |
 | [Kaprifol](https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Kaprifol](https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP) | 3:55 | 2025-01-09 | 2025-03-14 |
 | [Keep Møving](https://open.spotify.com/track/01P4zWU44Rsk4XIME4hsTd) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Keep Møving](https://open.spotify.com/album/72kPRMbCSy6mcaz88F2Vzm) | 3:22 | 2025-03-20 | 2025-04-25 |
-| [KEY TO THE CASTLE](https://open.spotify.com/track/3Low5wYPYQGcwDHvSQRw9H) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [](https://open.spotify.com/album/null) | 2:48 | 2025-10-23 |  |
+| [KEY TO THE CASTLE](https://open.spotify.com/track/3Low5wYPYQGcwDHvSQRw9H) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [PRINCESS OF POWER \(DELUXE\)](https://open.spotify.com/album/7KKQfFKPruJ3lHVVtwGuo7) | 2:48 | 2025-10-23 |  |
 | [Kill You Off](https://open.spotify.com/track/3Z66u0yqHKVX8NwZuWsg3B) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [PRESSURE](https://open.spotify.com/album/4vIzHHL3D8TacHTRQzYIYe) | 2:13 | 2025-05-22 | 2025-06-27 |
 | [Killing Time](https://open.spotify.com/track/1CFghfU1Gomjb70HUoVlSp) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Still Hide](https://open.spotify.com/album/0alHmJAANap6kwhm1BMZvc) | 3:33 | 2024-11-22 | 2025-02-28 |
 | [King's Garden](https://open.spotify.com/track/4aUPb0DZj1saaUJFDjoahk) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [King's Garden](https://open.spotify.com/album/6zsXmJ5est3sAXA9cb15xV) | 2:47 | 2024-08-01 | 2024-09-06 |
@@ -596,7 +597,7 @@
 | [Lemonade](https://open.spotify.com/track/5wW92RgvtGIsbmX6CUlLHy) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Lemonade](https://open.spotify.com/album/5qbWcmomWqrrCRxdXydX9g) | 2:39 | 2025-10-02 |  |
 | [lemons](https://open.spotify.com/track/4RAcbzQKnivPzbLcYkQNQn) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [lemons](https://open.spotify.com/album/1QTp2ZyRYYbVnpoxZMpek2) | 3:14 | 2025-02-21 | 2025-04-18 |
 | [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 | 2025-08-28 | 2025-10-03 |
-| [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [](https://open.spotify.com/album/null) | 3:03 | 2025-10-23 |  |
+| [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 | 2025-10-23 |  |
 | [Let's Ride Away](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 2:53 | 2025-05-16 | 2025-07-04 |
 | [Level Up](https://open.spotify.com/track/1oJJQpxFMz0A0h4MngHQi1) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Level Up](https://open.spotify.com/album/60Kb7iVoNXoC84HnTMcqzj) | 3:22 | 2025-06-12 | 2025-08-08 |
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-04 | 2024-08-23 |
@@ -851,7 +852,7 @@
 | [Push Back My Alarm](https://open.spotify.com/track/50r9KXsXIlmea4s6D33r5o) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Push Back My Alarm](https://open.spotify.com/album/4x0XHoXRE1cbZHcyqrPlox) | 3:28 | 2025-05-22 | 2025-06-27 |
 | [push me over](https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Intermission](https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c) | 3:36 | 2024-08-01 | 2024-09-06 |
 | [push pull](https://open.spotify.com/track/6AXpmgRXqBrLeUkGapr90Y) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [push pull](https://open.spotify.com/album/7LPVKOK3v4fbhfnJwLez8O) | 2:27 | 2025-01-09 | 2025-02-28 |
-| [Pussy Palace](https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [](https://open.spotify.com/album/null) | 4:01 | 2025-10-23 |  |
+| [Pussy Palace](https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 4:01 | 2025-10-23 |  |
 | [På Dig](https://open.spotify.com/track/3TSSHkhMjsRHIJCsdElQAb) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [På Dig](https://open.spotify.com/album/6yCsYhO9QmpJbByBQiVq8p) | 2:48 | 2025-06-05 | 2025-08-08 |
 | [På Måndag](https://open.spotify.com/track/4TnoZMlHYaYVCVB8BXMVj9) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Livet, döden, skiten däremellan](https://open.spotify.com/album/1yCaTHv9EDvzA8hIDKIAB9) | 2:58 | 2024-10-10 | 2025-01-10 |
 | [Queen Almighty](https://open.spotify.com/track/02lbmeB6aYDG280IiTQ8gq) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen Almighty](https://open.spotify.com/album/5NoLKUYUKQQBOTf26E6U0K) | 2:46 | 2025-09-25 |  |
@@ -1131,7 +1132,7 @@
 | [Turn Back Time](https://open.spotify.com/track/7obICqf7aulekVSLLxSub5) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Turn Back Time](https://open.spotify.com/album/0xT0uCQ4nxKrUZv5RRZkfo) | 3:01 | 2025-02-13 | 2025-03-14 |
 | [Tusen spänn](https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tusen spänn](https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL) | 3:10 | 2025-05-08 | 2025-07-18 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 | 2025-05-23 |
-| [Two of a Kind](https://open.spotify.com/track/6vdnVjogTPRTt2rJa1r0CR) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [](https://open.spotify.com/album/null) | 3:27 | 2025-10-23 |  |
+| [Two of a Kind](https://open.spotify.com/track/6vdnVjogTPRTt2rJa1r0CR) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Two of a Kind](https://open.spotify.com/album/4B3dX9V7VZJl9VeMC7XBT3) | 3:27 | 2025-10-23 |  |
 | [Two Years](https://open.spotify.com/track/2a9A4x3SfWSztDTMaUkNAG) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Two Years](https://open.spotify.com/album/7vU5EsVxO1ermbSGIRifkn) | 2:52 | 2025-09-25 |  |
 | [Tysta Leken](https://open.spotify.com/track/6RdS1iX4Hcw5YAjjeCfeB9) | [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [Tysta Leken](https://open.spotify.com/album/1bRVrtj926Vp6Zdysyif1p) | 3:08 | 2024-06-27 | 2024-08-09 |
 | [Tänker på dig \(men bara ibland\)](https://open.spotify.com/track/0iVXGPDVUsurN9OpzKBHCD) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Tänker på dig \(men bara ibland\)](https://open.spotify.com/album/4A7L8E2alIz01G780Kt2kC) | 2:56 | 2025-04-17 | 2025-05-23 |

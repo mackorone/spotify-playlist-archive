@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste knive i dansk musik  📸  Dos Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,097 likes - 69 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,099 likes - 69 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 5](https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Ender Altid Hos Dig](https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [4CANTOS](https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw) | 2:20 |
 | 2 | [Gode Dage Venter](https://open.spotify.com/track/6qRcNR61C16q4sSplRwe24) | [Malte August](https://open.spotify.com/artist/0jXOczqKCZPeNfF0vtEvm6) | [Gode Dage Venter](https://open.spotify.com/album/331nvnmllDG5iYUsEvbsS6) | 3:25 |
 | 3 | [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/track/4kjOoHroifGNB1BhQEdyce) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/album/0gzv3FnS7GWcmP2cTT4WrW) | 2:37 |
 | 4 | [kendt mig en uge](https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [kendt mig en uge](https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd) | 3:06 |

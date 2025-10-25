@@ -4,7 +4,7 @@
 
 > 🤝
 
-187 songs - 8 hr 45 min
+188 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [fairytale](https://open.spotify.com/track/31hPMfO7V6NNkIGnnqZbD1) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [fairytale](https://open.spotify.com/album/0GhZQH23THeKz9bXubBEyv) | 2:29 | 2025-09-04 |  |
 | [Feel This Way](https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Feel This Way](https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU) | 2:27 | 2024-06-27 | 2024-10-08 |
 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 | 2024-06-27 | 2025-09-19 |
+| [Frakken Min](https://open.spotify.com/track/0ug1J9H9tC5zalF1H0jwFB) | [Victor Fly](https://open.spotify.com/artist/4eegcumJTVowZcbmO8qQxn) | [Frakken Min](https://open.spotify.com/album/3Fu8QPITJ5i2SmmNOy414m) | 2:26 | 2025-10-24 |  |
 | [Fredagsbarn](https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Fredagsbarn](https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr) | 3:10 | 2025-05-08 |  |
 | [Fy faen du e deili](https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tobias Sten](https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH) | 3:35 | 2025-06-12 |  |
 | [Få det på](https://open.spotify.com/track/7b2BJHw0HsBBHdojXWe4fA) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Få det på](https://open.spotify.com/album/3Uo9CGyJAC7gjPRRY0zJGN) | 3:19 | 2025-01-30 |  |
@@ -141,7 +142,7 @@
 | [Røde Rubin](https://open.spotify.com/track/0Pdi9usvND947TMv869DmN) | [Plaza](https://open.spotify.com/artist/00Pw5UR1M3PTfsr0S7nhUQ) | [Røde Rubin](https://open.spotify.com/album/6Yrm9gEwrSFWgsIDgr7YbI) | 2:36 | 2024-06-27 | 2024-09-24 |
 | [SAHBI \- Remix](https://open.spotify.com/track/5zUjQeVLRZqLyEGsc56VTG) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [SAHBI \(Remix\)](https://open.spotify.com/album/2jNGBfhHe5C5CtHUqHEKy0) | 2:49 | 2024-11-07 | 2024-12-20 |
 | [Sakte Film](https://open.spotify.com/track/3UPjsBEaPTGE82x9Gqe3JG) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Sakte Film](https://open.spotify.com/album/3BgXNYkT0dJsg0at6P84Fa) | 2:37 | 2025-08-07 | 2025-09-28 |
-| [Samma det](https://open.spotify.com/track/3wsLovP5LHvUL4fqqjX0xh) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Samma det](https://open.spotify.com/album/7MKCQPH6Z9o5uSdIlvK0tp) | 2:34 | 2025-05-01 |  |
+| [Samma det](https://open.spotify.com/track/3wsLovP5LHvUL4fqqjX0xh) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Samma det](https://open.spotify.com/album/7MKCQPH6Z9o5uSdIlvK0tp) | 2:34 | 2025-05-01 | 2025-10-25 |
 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 | 2024-06-27 | 2025-09-19 |
 | [Se På Meg](https://open.spotify.com/track/5ZoZDdZUCvSSzMDZYrK9EH) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Se På Meg](https://open.spotify.com/album/5WaoMzn9JLXkxar2AYt656) | 2:39 | 2025-10-09 |  |
 | [Se på meg](https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Se på meg](https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv) | 2:23 | 2024-06-27 |  |

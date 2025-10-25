@@ -4,7 +4,7 @@
 
 > Enjoy music & episodes of "SPY×FAMILY"! ©遠藤達哉／集英社・SPY×FAMILY製作委員会
 
-224 songs - 15 hr 37 min
+225 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [woolly](https://open.spotify.com/track/5I5Dewrr5GutKLJ3pMFgGi) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ『SPY×FAMILY』オリジナル・サウンドトラック](https://open.spotify.com/album/6FdkOskSEFVPG4va7UuSJN) | 1:43 | 2023-12-27 |  |
 | [『劇場版 SPY×FAMILY CODE: White』スペシャルメッセージ！](https://open.spotify.com/track/6HujhRfSJqGnJ1cG3Gi7xb) | [『劇場版 SPY×FAMILY CODE: White』](https://open.spotify.com/artist/16AwjLUzJT8iLBo6LDLCse) | [『劇場版 SPY×FAMILY CODE: White』スペシャルメッセージ！](https://open.spotify.com/album/06Rq1cHo2LJxitn2h629qN) | 0:26 | 2023-12-13 | 2025-10-05 |
 | [【Season２】\#20…Podcast Season2も今回でラスト！「●●●みたいだった…最終回のPodcast」](https://open.spotify.com/episode/5PkNLlN9SaaL8WdaSh4xzX) | [SPY×FAMILY オペレーション〈ポッドキャスト〉 Season 2](https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri) | [SPY×FAMILY オペレーション〈ポッドキャスト〉 Season 2](https://open.spotify.com/album/5vSDpbHdx2YaXQPWzLSFri) | 30:58 | 2024-02-19 |  |
+| [オペレーション〈ポッドキャスト〉Season 3 \#3　出演：江口拓也、種﨑敦美](https://open.spotify.com/episode/1EbUOvkzgc9se1v187weR1) | [TVアニメ『SPY×FAMILY』オペレーション〈ポッドキャスト〉Season 3](https://open.spotify.com/show/0UbkIsQGHB3e0WdLfATYJk) | [TVアニメ『SPY×FAMILY』オペレーション〈ポッドキャスト〉Season 3](https://open.spotify.com/album/0UbkIsQGHB3e0WdLfATYJk) | 30:46 | 2025-10-24 |  |
 | [クラクラ](https://open.spotify.com/track/1430GkKh9OD6jtKNV7pu0Q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [クラクラ](https://open.spotify.com/album/55K68hk6VS7YBZj2sQkXhW) | 3:11 | 2023-12-27 |  |
 | [クラクラ](https://open.spotify.com/track/7lcXrOj9HdsHFQfNNBR4XS) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:11 | 2023-12-27 | 2024-04-19 |
 | [トドメの一撃](https://open.spotify.com/track/7sd09c4dFK5dLHRsySex9L) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:10 | 2023-10-14 | 2024-04-19 |

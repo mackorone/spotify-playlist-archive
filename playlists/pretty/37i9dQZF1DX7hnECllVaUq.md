@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 
 ### [Country Worldwide](https://open.spotify.com/playlist/37i9dQZF1DX7hnECllVaUq)
 
-> The biggest hits from country artists around the globe\. Cover: Brad Cox
+> The biggest hits from country artists around the globe\. Cover: James Johnston
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,264 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,337 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |
 | 2 | [Quitter](https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz) | 2:41 |
-| 3 | [Kickin' Stones](https://open.spotify.com/track/3WPvPjDakz0hoE4VASyr6z) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Endemic Intelligence in Multiple Dimensions](https://open.spotify.com/album/1N2LHCJgUEy8GzXItAuNKg) | 3:07 |
+| 3 | [ONE MORE](https://open.spotify.com/track/6NSoFwlKHCQV0yKfcEQxDj) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [WHERE YOU'LL FIND ME](https://open.spotify.com/album/3XYF72bBKt5XbmIoqjWhbb) | 2:49 |
 | 4 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
 | 5 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 |
-| 6 | [One Beer Away](https://open.spotify.com/track/509iAaGTjgOuCnmYfSr9jk) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [One Beer Away](https://open.spotify.com/album/4PrVEVTs11WAhVm1k4Q7pd) | 3:38 |
+| 6 | [Kickin' Stones](https://open.spotify.com/track/3WPvPjDakz0hoE4VASyr6z) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Endemic Intelligence in Multiple Dimensions](https://open.spotify.com/album/1N2LHCJgUEy8GzXItAuNKg) | 3:07 |
 | 7 | [Single Again](https://open.spotify.com/track/5nstSbJfHjqAJE7mdWwSXQ) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:59 |
 | 8 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
 | 9 | [Keith](https://open.spotify.com/track/7pcekwb2T8L4MIc29f9GXB) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Keith](https://open.spotify.com/album/7dWCUs7VGjsopOEB6VoQYv) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 99 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 |
 | 100 | [House Again](https://open.spotify.com/track/16MeIVoFWTq2E0r6DwIek5) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [House Again](https://open.spotify.com/album/4LP7dD3panB9oryXnMBqJW) | 3:23 |
 
-Snapshot ID: `AAAAAEpFrqOzPD1Vb+OMHAdBIJb6QYZV`
+Snapshot ID: `AAAAADkfnXKUfh3MrswgAOScC/ex2HIn`

@@ -2949,6 +2949,32 @@
     },
     {
       "album": {
+        "name": "Malwain",
+        "url": "https://open.spotify.com/album/6gBOVi9Pn6lFcbKiaKgQzd"
+      },
+      "artists": [
+        {
+          "name": "Tej SherGill",
+          "url": "https://open.spotify.com/artist/5fp2srMSCNbMRtihonQxIJ"
+        },
+        {
+          "name": "Romey Maan",
+          "url": "https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg"
+        },
+        {
+          "name": "Sulfa",
+          "url": "https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151822,
+      "name": "Me",
+      "url": "https://open.spotify.com/track/0avnM5yD5CcsnTGiWHugzO"
+    },
+    {
+      "album": {
         "name": "Mexican",
         "url": "https://open.spotify.com/album/7c16dgVaxSd21gbEmJNbAk"
       },
@@ -3322,7 +3348,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 151165,
       "name": "Nawe Rivaaz",
       "url": "https://open.spotify.com/track/0ZInUKQpOd8IuKnMOrtFpc"

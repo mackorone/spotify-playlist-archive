@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Frank Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,653 likes - 98 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,765 likes - 98 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 13 | [Higher](https://open.spotify.com/track/17HFFGjJxiTl99h1iEnpuL) | [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [Higher](https://open.spotify.com/album/6Q1JwMoQxeaAmtM0r09Qs8) | 3:58 |
 | 14 | [Thank You Jesus](https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Thank You Jesus](https://open.spotify.com/album/5d24oqk9uXXaC6ePJkv8E4) | 9:22 |
 | 15 | [Dj Jazzy D the Groovemaster \- I Fell in Love with You](https://open.spotify.com/track/5RLMOJGi9FyhBlMLgtTU3q) | [Dj Jazzy D The GrooveMaster](https://open.spotify.com/artist/6V1ha8RjdizvYR0QCPe6k5) | [I Fell in Love with You](https://open.spotify.com/album/0na4OgOZsaxKrexnxddVLD) | 4:05 |
-| 16 | [Ke Nale Modisa \- Remix](https://open.spotify.com/track/1sTIGlXxkxnnIAwpoWktEK) | [Duduza Serenade](https://open.spotify.com/artist/4TgyqHirthyfGBduIaUXwI), [Hamilton Motaung](https://open.spotify.com/artist/6y6Yj9bXPhoVogqOGaTMlm), [Black Gee](https://open.spotify.com/artist/7mdB1RJv9PBUBzRSud0iUL), [Thabiso Mkhwanazi](https://open.spotify.com/artist/3NvxLxwAXqhHp0bsbXMU6U) | [Ke Nale Modisa \(Remix\)](https://open.spotify.com/album/15M8iluF41uCswp7efYdYj) | 5:24 |
+| 16 | [Ke Nale Modisa \- Remix](https://open.spotify.com/track/1sTIGlXxkxnnIAwpoWktEK) | [Duduza Serenade](https://open.spotify.com/artist/4TgyqHirthyfGBduIaUXwI), [Hamilton Motloung](https://open.spotify.com/artist/0dmAn6BG8K1a7EI5bvPTZs), [Black Gee](https://open.spotify.com/artist/7mdB1RJv9PBUBzRSud0iUL), [Thabiso Mkhwanazi](https://open.spotify.com/artist/3NvxLxwAXqhHp0bsbXMU6U) | [Ke Nale Modisa \(Remix\)](https://open.spotify.com/album/15M8iluF41uCswp7efYdYj) | 5:24 |
 | 17 | [Soul](https://open.spotify.com/track/1wqLqn1y8nrmm97RZdYlCL) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [JustOG](https://open.spotify.com/artist/6sVnlgchiVPQOsqMkNlQvV), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [Soul](https://open.spotify.com/album/553RUHvkweFtnFVeaV8SX4) | 2:24 |
 | 18 | [You Are the Lamb Upon the Throne Glory, Glory, Glory to the Lamb](https://open.spotify.com/track/00HKT4i6x5FEKcu50R4Ag8) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [You Are the Lamb Upon the Throne Glory, Glory, Glory to the Lamb](https://open.spotify.com/album/3YpxViKNnA6cLczpeP41pj) | 9:02 |
 | 19 | [My Thanksgiving \(Mowadupe\)](https://open.spotify.com/track/4PLZyuPZB3Nxe5LsMUjAI1) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [My Thanksgiving \(Mowadupe\)](https://open.spotify.com/album/1tuCNPr1PewkXDZNe5eVMv) | 5:27 |

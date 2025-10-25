@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oPFwE7aF2p4FfqMByg3k8">Em Walcott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-55 songs - 2 hr 28 min
+57 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Bad Thing](https://open.spotify.com/track/4iQz6o1dEA3dZY81d3DiJm) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9) | [Bad Thing](https://open.spotify.com/album/0QY0A6aKhw0f2D1RfpCYk7) | 3:33 | 2024-03-22 |  |
 | [Blåögd](https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv) | 3:35 | 2025-10-02 | 2025-10-20 |
 | [Blåögd](https://open.spotify.com/track/7mpBXaF68UdXcsBdfRKLA5) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S) | 3:35 | 2025-10-19 |  |
+| [Bredvid dig](https://open.spotify.com/track/0MmxbZFkElphjb7UZT8lAj) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S) | 3:02 | 2025-10-24 |  |
 | [Broken Healing](https://open.spotify.com/track/2Ro5XPGnWXQz2MdL0ZRthK) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Broken Healing](https://open.spotify.com/album/7v4EOQybwO4NYQCWNzVoyD) | 2:58 | 2024-03-22 |  |
 | [Butterflies](https://open.spotify.com/track/41wU3rrHdHoQlNlGqy2tzX) | [Gyeongree](https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj) | [Eternal Bloom](https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC) | 2:38 | 2024-12-11 |  |
 | [Celebration Weight](https://open.spotify.com/track/0ADUPaCIp2KEmN4gt6GkkV) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Celebration Weight](https://open.spotify.com/album/1D1fXwTwOExxyv2GUOw8oC) | 2:08 | 2024-03-22 | 2024-07-15 |
@@ -42,6 +43,7 @@
 | [Paid In Pleasure](https://open.spotify.com/track/0aixSIaFcj3Ba0VDACOV62) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/76yGR9gMIP6BdHuWsb7Iun) | 1:46 | 2024-03-22 |  |
 | [Practice \(feat\. A$AP Ferg & HARV\)](https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [HARV](https://open.spotify.com/artist/30wdrkW0hVWYdLxmUaIYZp) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:23 | 2024-03-22 |  |
 | [Puppy Luv <3](https://open.spotify.com/track/1U2WEn5UmD3si27l6XO5WI) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [RAT](https://open.spotify.com/album/60gp59djqb5KOfCxWytU7o) | 2:21 | 2024-03-22 |  |
+| [radar](https://open.spotify.com/track/6V7ITByqDVsW7LUI2xf6pu) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [radar](https://open.spotify.com/album/4ephbTdUL4J4na51zhS8ns) | 3:09 | 2025-10-24 |  |
 | [Ripples](https://open.spotify.com/track/5SdKSYnJIgppelAHCIEQVJ) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 1:03 | 2025-07-02 |  |
 | [Rock This Smoove](https://open.spotify.com/track/2ZCxvRA0YuI1Y7a0UOTRcX) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Good Burger 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7bJbc9Qnr5z8OBPGwSc88q) | 2:09 | 2024-03-22 |  |
 | [Slösa din tid](https://open.spotify.com/track/0o9g7RkLi6KgoBOj7yhKKL) | [L4baby](https://open.spotify.com/artist/6ys0L4WvzuKY1lCRuNDjpX) | [Slösa din tid](https://open.spotify.com/album/6voTr5oLmoPGejsEYQ29mw) | 2:34 | 2024-12-11 |  |

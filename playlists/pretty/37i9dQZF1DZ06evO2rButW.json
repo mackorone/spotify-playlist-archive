@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 755645,
+  "num_followers": 755760,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAA2VFez7YCXTzK5/ygyg3Ks",
+  "snapshot_id": "aPlwAAAAAADNzayTEDYqrNhnNWZBtT7u",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palmar",
-        "url": "https://open.spotify.com/album/4yLAjcAidjMfi621CSBJTY"
+        "name": "Inv\u00e9ntame",
+        "url": "https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq"
       },
       "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 192200,
-      "name": "Palmar",
-      "url": "https://open.spotify.com/track/06FhHrnpYCmIxIxIGUehxQ"
+      "duration_ms": 205800,
+      "name": "Inv\u00e9ntame",
+      "url": "https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1"
     },
     {
       "added_at": null,
@@ -327,18 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inv\u00e9ntame",
-        "url": "https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq"
+        "name": "Palmar",
+        "url": "https://open.spotify.com/album/4yLAjcAidjMfi621CSBJTY"
       },
       "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 205800,
-      "name": "Inv\u00e9ntame",
-      "url": "https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1"
+      "duration_ms": 192200,
+      "name": "Palmar",
+      "url": "https://open.spotify.com/track/06FhHrnpYCmIxIxIGUehxQ"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 219413,
-      "name": "Placer Hollywood",
-      "url": "https://open.spotify.com/track/6A4bRnkCUD8DzcV3z2aHtn"
+      "duration_ms": 215813,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/171EYIdP4psxhF44HtjlLk"
     },
     {
       "added_at": null,
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 215813,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/171EYIdP4psxhF44HtjlLk"
+      "duration_ms": 219413,
+      "name": "Placer Hollywood",
+      "url": "https://open.spotify.com/track/6A4bRnkCUD8DzcV3z2aHtn"
     },
     {
       "added_at": null,

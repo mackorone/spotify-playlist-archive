@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jake Worthington
 
-714 songs - 1 day 18 hr 29 min
+715 songs - 1 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Get A Dog](https://open.spotify.com/track/4ojft2o33N13eHRlci1G4Z) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [Get A Dog](https://open.spotify.com/album/27GYFiztdGdz4Mh1zNiVgD) | 3:18 | 2022-08-26 | 2023-01-27 |
 | [Get It Right](https://open.spotify.com/track/0ve68szQnWDaBxmXcW9JgY) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Get It Right](https://open.spotify.com/album/08WN5lGg3mobJaIzFCDoTQ) | 3:32 | 2021-12-17 | 2022-07-29 |
 | [Get to Work Whiskey](https://open.spotify.com/track/3RuwbSq7PdzItMwTXYnTT0) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Black Cats and Crows](https://open.spotify.com/album/5b8gsFVIGK4PqrCerkrXSP) | 2:51 | 2021-12-17 | 2022-05-28 |
-| [Getter Back Song](https://open.spotify.com/track/6jMpqkLNcXlmECPqbKh6g6) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Getter Back Song](https://open.spotify.com/album/0wuyy8Le3WZagNuf0tSEaL) | 3:07 | 2025-06-18 |  |
+| [Getter Back Song](https://open.spotify.com/track/6jMpqkLNcXlmECPqbKh6g6) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Getter Back Song](https://open.spotify.com/album/0wuyy8Le3WZagNuf0tSEaL) | 3:07 | 2025-06-18 | 2025-10-25 |
 | [Gettin' By](https://open.spotify.com/track/2cpwCl4uQlyub8HOqkh5sl) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:06 | 2022-01-21 | 2023-09-02 |
 | [Gettin’ By](https://open.spotify.com/track/55QeY7A9H3ioVq1XcBIpBQ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Gettin’ By](https://open.spotify.com/album/4Tsf7EtiMsYZyPwAoXK7co) | 3:59 | 2022-04-08 | 2022-07-09 |
 | [Girl from Oklahoma](https://open.spotify.com/track/6mNWosdjTtMrzqhit3h5cz) | [Darrin Morris Band](https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf) | [Girl from Oklahoma](https://open.spotify.com/album/3Oobv5KUzcKbzjrG0iSzV3) | 3:13 | 2023-01-13 | 2023-07-29 |
@@ -535,6 +535,7 @@
 | [Something Wrong](https://open.spotify.com/track/6iiieW9Az0k3dqytcwQaGV) | [Cameron Sacky Band](https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0) | [Quicksand](https://open.spotify.com/album/71c9E1RjHBacjk9hY8titl) | 3:10 | 2025-01-17 | 2025-04-24 |
 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 | 2023-04-14 |  |
 | [Sometimes I Do](https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [Sometimes I Do](https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn) | 3:21 | 2023-05-19 | 2023-09-07 |
+| [Somewhere Else](https://open.spotify.com/track/6FGUiI0OdnZvV1e7hFJ4RH) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [The Going](https://open.spotify.com/album/4E2Zev3ljGSNMBMNsOoNel) | 3:34 | 2025-10-24 |  |
 | [Somewhere in the Sun](https://open.spotify.com/track/7bcOIHdpOCJo3tzhdZmBQ8) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Somewhere in the Sun](https://open.spotify.com/album/4VyXe0br7H7CWt4QU3AOfS) | 3:01 | 2022-03-11 | 2022-07-23 |
 | [Sound Of Missing You](https://open.spotify.com/track/4CDTIEtvz4DOEQyvTUN1E7) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [Sound Of Missing You](https://open.spotify.com/album/2fzSL2prvp7ZxmoKaapK6E) | 3:49 | 2024-01-12 | 2025-08-09 |
 | [Sound of Rain](https://open.spotify.com/track/1i63IAjJXD2HsFozWGfU8e) | [Mason Lively](https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs) | [Sound of Rain](https://open.spotify.com/album/26lISXeKn8Lh59mPRQ2wDY) | 3:17 | 2022-10-21 | 2023-01-09 |

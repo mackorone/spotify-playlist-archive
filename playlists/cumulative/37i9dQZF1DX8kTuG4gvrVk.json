@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 146857,
       "name": "el ingeniero",
       "url": "https://open.spotify.com/track/6TT5rB0Rwneb6ZaopHQir4"
@@ -2607,6 +2607,28 @@
     },
     {
       "album": {
+        "name": "Los M\u00e1gicos",
+        "url": "https://open.spotify.com/album/1qQmiMijIXD2v7WIEekNLb"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "La Bebesita",
+      "url": "https://open.spotify.com/track/76J6PzCdlLkWBPmSPZiSbL"
+    },
+    {
+      "album": {
         "name": "La Botella",
         "url": "https://open.spotify.com/album/3Z2crjuGy29QAQtKzz7Rvo"
       },
@@ -3120,10 +3142,28 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
+    },
+    {
+      "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187160,
+      "name": "M U S A E L E V \u00c1",
+      "url": "https://open.spotify.com/track/7vPsviPvbWsFd9VuftF5JT"
     },
     {
       "album": {

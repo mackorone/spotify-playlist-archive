@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,314,582 likes - 150 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,314,542 likes - 150 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 149 | [Forbidden Doors](https://open.spotify.com/track/397MnnXkJ3TTlqey1oWM51) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Pollen](https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU) | 3:54 |
 | 150 | [They Don't Know Your Name](https://open.spotify.com/track/482uoS6QmO8B3ZOb7bUDDh) | [Andrey Azizov](https://open.spotify.com/artist/2hGxtbozs9MLpSHE11XOOC), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq), [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [They Don't Know Your Name](https://open.spotify.com/album/1MOblqJ3ylSDJEAxP2kiGW) | 3:08 |
 
-Snapshot ID: `AAAAAK6jCO+ZFDDYgqVfUOysephn96eU`
+Snapshot ID: `AAAAAKUZEf286mqaJVLKuA/A8XC2f6op`

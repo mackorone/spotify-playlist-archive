@@ -2,9 +2,9 @@
 
 ### [Chill Indie Music](https://open.spotify.com/playlist/1khS5Pll0YEduwuZdciEbe)
 
-> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Babygirl
+> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Bahamas
 
-279 songs - 16 hr 52 min
+280 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Everyone Out](https://open.spotify.com/track/5zoVhJ5O5PFmPsnHIIkq5f) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Everyone Out](https://open.spotify.com/album/59L5XRlV5kXjmutbYGV8xj) | 4:52 | 2024-03-29 | 2024-04-27 |
 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 | 2023-12-01 | 2024-02-10 |
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2024-10-25 | 2025-03-01 |
+| [Feels So Good](https://open.spotify.com/track/26DeYXH95xA9DdcPfPZ8fS) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [My Second Last Album](https://open.spotify.com/album/1lNhmIl6F1c3G7svc0n2SG) | 3:34 | 2025-10-24 |  |
 | [Final Days](https://open.spotify.com/track/74ue3r7ClSh6QRWqcPJdGl) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Lucius](https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN) | 4:42 | 2025-05-02 |  |
 | [Find New Ways](https://open.spotify.com/track/50R66SbAPkP167uxr90Ewq) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Find New Ways](https://open.spotify.com/album/59oJQtxm3xF9TOI9nfGPwc) | 3:33 | 2024-04-19 | 2024-08-03 |
 | [Fly](https://open.spotify.com/track/4nJABCg1GAbrmnUHyiXFGb) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Fly](https://open.spotify.com/album/7eWnEj17GFuDUwzBMdcy2d) | 3:10 | 2025-02-21 |  |

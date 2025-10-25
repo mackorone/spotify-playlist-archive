@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t?si=zwSiOBQ8T\-GlcY0bXH\-XJw"> FEYI</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,289 likes - 530 songs - 1 day 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,338 likes - 530 songs - 1 day 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

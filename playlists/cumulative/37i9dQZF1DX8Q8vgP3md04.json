@@ -530,7 +530,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 232275,
       "name": "Chall Zendero",
       "url": "https://open.spotify.com/track/7K7n8T0Ozc1EquLicWRs9r"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 329720,
       "name": "Endet Lichal",
       "url": "https://open.spotify.com/track/1o7uMGTxPvKVsS8H5g8kEw"
@@ -2019,6 +2019,28 @@
     },
     {
       "album": {
+        "name": "LISAN\u00c9 BAHIR",
+        "url": "https://open.spotify.com/album/7t6ND5D7kdnnEmajsFgYgM"
+      },
+      "artists": [
+        {
+          "name": "Kibrom Birhane",
+          "url": "https://open.spotify.com/artist/7eG0pR6GgkebbzK18hfF7o"
+        },
+        {
+          "name": "Esy Tadesse",
+          "url": "https://open.spotify.com/artist/1SS0lBA5W3WHyExjauIeiT"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200560,
+      "name": "VORTEX \u12a0\u12d9\u122a\u1275 (feat. Esy Tadesse)",
+      "url": "https://open.spotify.com/track/3O9Kt2Y3UW1zIENxCaxRvv"
+    },
+    {
+      "album": {
         "name": "Waste My Time",
         "url": "https://open.spotify.com/album/3rIDIWRGE8XMJutRXi5Ckm"
       },
@@ -2316,6 +2338,24 @@
       "duration_ms": 220746,
       "name": "Zemenay Mariye",
       "url": "https://open.spotify.com/track/5pCITb1hiPJhRAGlh42hIC"
+    },
+    {
+      "album": {
+        "name": "\u12a5\u122e\u1323\u1208\u1201",
+        "url": "https://open.spotify.com/album/4z08CRR2SXeywheO0v0lKR"
+      },
+      "artists": [
+        {
+          "name": "Tamagn Muluneh",
+          "url": "https://open.spotify.com/artist/2vm3HFXnQpwHLtUpczT4mU"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326666,
+      "name": "\u12a5\u122e\u1323\u1208\u1201",
+      "url": "https://open.spotify.com/track/7vrWamaeBNCy7GT2sTUXE9"
     },
     {
       "album": {

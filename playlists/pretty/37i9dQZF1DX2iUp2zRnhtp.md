@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 
 > vi leker ikke hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,960 likes - 176 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,959 likes - 176 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,7 +182,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 | 172 | [Ta meg med](https://open.spotify.com/track/5pf6hLdo2MOoaZ57prW0fh) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Sansesafari](https://open.spotify.com/artist/73gvcFTCtekkSKodmPlAZ3) | [Ta meg med](https://open.spotify.com/album/2nnmxYjfjS6gNlhFRGMtEm) | 4:01 |
 | 173 | [Hush Baby, Hurry Slowly](https://open.spotify.com/track/20fkA1ahV9WxHTt03calHi) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [There’s Always More That I Could Say](https://open.spotify.com/album/3lWtOvOTvEWxEjkVCbWyir) | 2:44 |
 | 174 | [10 av 10](https://open.spotify.com/track/2kG7398S7yH749tICTl4Oq) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [10 av 10](https://open.spotify.com/album/30yDYaPRI3Wxi3lmv5tirL) | 2:43 |
-| 175 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [](https://open.spotify.com/album/null) | 3:38 |
-| 176 | [DEPRESSED \(feat\. Lauren Spencer\-Smith\)](https://open.spotify.com/track/0nNNeXIcPpTydVjcqqjsnU) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [DEPRESSED \(feat\. Lauren Spencer\-Smith\)](https://open.spotify.com/album/4ekqyZgR8jXUgT42PlQUJ6) | 2:18 |
+| 175 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 |
+| 176 | [DEPRESSED \(feat\. Lauren Spencer Smith\)](https://open.spotify.com/track/0nNNeXIcPpTydVjcqqjsnU) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [DEPRESSED \(feat\. Lauren Spencer Smith\)](https://open.spotify.com/album/4ekqyZgR8jXUgT42PlQUJ6) | 2:18 |
 
 Snapshot ID: `AAAAABMcrjRhQT4jRgANqx20KTzu0twB`

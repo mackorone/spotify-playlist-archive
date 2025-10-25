@@ -4,7 +4,7 @@
 
 > My name is pink
 
-167 songs - 8 hr 33 min
+168 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-07-19 |  |
 | [Achoo!](https://open.spotify.com/track/5otkWRY8FzQIE2IdIZQzU9) | [ChiChi](https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9), [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [Achoo!](https://open.spotify.com/album/1UExUKJ4h6YvTSd6O3yUr3) | 2:21 | 2025-08-29 |  |
 | [ALL NIGHT](https://open.spotify.com/track/7JUNheFeoB0wTzBcq9BvF8) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [QUEEN DEGENERATE](https://open.spotify.com/album/4ZDAY6ZwhHKpy3W7e6Yo4g) | 2:56 | 2023-10-16 | 2023-10-21 |
-| [AMERICAN GIRL](https://open.spotify.com/track/7CaVwjjBhkLp3c0scMKdPj) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [AMERICAN GIRL](https://open.spotify.com/album/5WK8EB5SH5cvQG4RKtcyev) | 2:56 | 2025-09-22 |  |
+| [AMERICAN GIRL](https://open.spotify.com/track/7CaVwjjBhkLp3c0scMKdPj) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [AMERICAN GIRL](https://open.spotify.com/album/5WK8EB5SH5cvQG4RKtcyev) | 2:56 | 2025-09-22 | 2025-10-25 |
 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-06-15 |  |
 | [Baby My Phone](https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Baby My Phone](https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq) | 3:35 | 2023-06-13 | 2023-08-08 |
 | [BAHAMA](https://open.spotify.com/track/1dY5W7IZHUSpvTuCUWeXNE) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:10 | 2024-06-07 | 2024-09-22 |
@@ -134,6 +134,7 @@
 | [Sexy](https://open.spotify.com/track/2fawtioCymOM7qRH6SCHE7) | [Avantika](https://open.spotify.com/artist/7gjaWWHUIi54lepyZd1WIP) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/0WSPg07gRVxFdY1esBAIOc) | 3:03 | 2024-01-12 | 2024-01-25 |
 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2024-01-12 |  |
 | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:37 | 2023-06-13 |  |
+| [SPAGHETTI \(Member ver.\)](https://open.spotify.com/track/5F7PjvRJWpaougysCAyN3n) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:17 | 2025-10-24 |  |
 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-07-07 |  |
 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 | 2023-07-25 |  |
 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 | 2024-06-10 | 2025-07-19 |

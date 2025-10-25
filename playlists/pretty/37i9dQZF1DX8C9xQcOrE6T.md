@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Lilo & Stitch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,618,999 likes - 135 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,619,475 likes - 135 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 | 134 | [Chim Chim Cher\-ee \- From "Mary Poppins"/Soundtrack Version](https://open.spotify.com/track/2Bl4ZuWiMoffCXzj11s0oR) | [Dick Van Dyke](https://open.spotify.com/artist/6XIT5sGHOtxVgqtSnMCYZ6), [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO), [Karen Dotrice](https://open.spotify.com/artist/2vHx2wi7daCLxHL0jKOZiz), [Matthew Garber](https://open.spotify.com/artist/3YDM76Dml4Pyo8H7JSfafZ) | [Saving Mr\. Banks \(Original Motion Picture Soundtrack \[Deluxe Edition\]\)](https://open.spotify.com/album/1cuE3waPR1CDFUpYd6fX12) | 2:46 |
 | 135 | [A Spoonful of Sugar \- From "Mary Poppins" / Soundtrack Version](https://open.spotify.com/track/29bQPrp6BT0w3kaXTqIo8A) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO) | [Mary Poppins](https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d) | 4:09 |
 
-Snapshot ID: `AAAAANRIxYL4iBApxLRgvt6KUtAjS1HX`
+Snapshot ID: `AAAAAFd0DAAx/iyvJm/MiU07GswWmV56`

@@ -4,7 +4,7 @@
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 46 min
+59 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Sideways \(feat\. Meg Smith\)](https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Nosebleeds: Encore](https://open.spotify.com/album/0BfJWxBZsAU0LVGeK1HM36) | 2:44 | 2025-08-24 |  |
 | [Sideways \(feat\. Meg Smith\)](https://open.spotify.com/track/5XnHGjcnDMw0KWe4lJzqSD) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Nosebleeds: Encore](https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ) | 2:44 | 2024-07-27 | 2025-08-24 |
 | [Wake Me up When My 20's End](https://open.spotify.com/track/1Un2pcWyuv5cbQpPX1mu8X) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Wake Me up When My 20's End](https://open.spotify.com/album/7cNEaCkk9aR3DeTXxyYgID) | 3:14 | 2024-01-10 | 2024-08-22 |
-| [Who Not to Love](https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v) | 3:03 | 2024-01-10 |  |
+| [Who Not to Love](https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v) | 3:03 | 2024-01-10 | 2025-10-25 |
+| [Who Not to Love](https://open.spotify.com/track/0p69ggdl6UOeBnSf4dn8o8) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/5y0KsMeMor5EGBOtsVIfzw) | 3:05 | 2025-10-25 |  |
 | [Why Do I Keep Playing It](https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx) | 2:45 | 2024-01-10 |  |
 | [Winner](https://open.spotify.com/track/32Fi0ERaMduzL4QsiCenk1) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Winner](https://open.spotify.com/album/1yDIgEYCqnXgNRfPcd2isc) | 2:46 | 2025-10-05 |  |
 | [you fake your british accent](https://open.spotify.com/track/5Jb3MSibBv8ioC1Q5OrGmR) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [you fake your british accent](https://open.spotify.com/album/68TfQ3tnoUR6MwkO3658it) | 3:08 | 2024-08-18 | 2024-12-07 |

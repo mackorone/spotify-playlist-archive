@@ -262,7 +262,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 183386,
       "name": "A 150",
       "url": "https://open.spotify.com/track/4uK3NcTfDQzePn8ixG6w8V"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 221220,
       "name": "Amantes",
       "url": "https://open.spotify.com/track/2c4gYuETFB1Uf6gEwblpl5"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 133421,
       "name": "Au",
       "url": "https://open.spotify.com/track/5KSaFynbMoGkXfCQ6Fbp3f"
@@ -1343,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/56rLL5cv5T6JAHZ0jvSgNH"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7zKT05qeYBUEuHQJP4gtsa"
+    },
+    {
+      "album": {
         "name": "azul",
         "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
       },
@@ -1376,7 +1394,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 222871,
       "name": "Baby",
       "url": "https://open.spotify.com/track/44o4tDW0hGnrNOM180kM6K"
@@ -1606,6 +1624,24 @@
       "duration_ms": 150697,
       "name": "balearico",
       "url": "https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh"
+    },
+    {
+      "album": {
+        "name": "bandOlerO",
+        "url": "https://open.spotify.com/album/4ci6a270otpgbQ0J1sWGi9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Berg",
+          "url": "https://open.spotify.com/artist/7jJ4OfX2RBNl7dK4MG5JZv"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196034,
+      "name": "bandOlerO",
+      "url": "https://open.spotify.com/track/6fzvTjGv5I65Waaam5UTVv"
     },
     {
       "album": {
@@ -3084,7 +3120,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 190084,
       "name": "ColdS3x",
       "url": "https://open.spotify.com/track/7uiCWibg26j4fe51KUa0ZZ"
@@ -3226,7 +3262,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 187468,
       "name": "CONFUNDIDO",
       "url": "https://open.spotify.com/track/5235QfuvV4YSSuWQLxiXaD"
@@ -4074,7 +4110,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 212080,
       "name": "DE NOTA EN NOTA",
       "url": "https://open.spotify.com/track/6zrY9YRsHZLtL4C1VSTnFt"
@@ -4898,7 +4934,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Durmiendo",
       "url": "https://open.spotify.com/track/4owkQ4569f24b5CmVdr3jt"
@@ -4938,6 +4974,24 @@
       "duration_ms": 142724,
       "name": "D\u00f3nde Est\u00e1s!",
       "url": "https://open.spotify.com/track/42hWyKlSWHMLPcvl8nkrfC"
+    },
+    {
+      "album": {
+        "name": "easy",
+        "url": "https://open.spotify.com/album/2ZWMTsczHijfCRhQeWvANu"
+      },
+      "artists": [
+        {
+          "name": "RIZA",
+          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221969,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/7J2CMvoaigQxVVRE6a1bOF"
     },
     {
       "album": {
@@ -5282,7 +5336,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 247043,
       "name": "el tiempo pasa r\u00e1pido",
       "url": "https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1"
@@ -5304,7 +5358,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 180132,
       "name": "el vino y el tiempo (feat. Willy Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/2g7KRmUgE964Xrzv3g7yeP"
@@ -5614,7 +5668,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-29",
+      "date_removed": null,
       "duration_ms": 171272,
       "name": "Escudo",
       "url": "https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ"
@@ -6722,7 +6776,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 144240,
       "name": "Green Love",
       "url": "https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp"
@@ -7999,6 +8053,24 @@
     },
     {
       "album": {
+        "name": "Kinty",
+        "url": "https://open.spotify.com/album/20Vm7T21fZGrurz22ozvay"
+      },
+      "artists": [
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Kinty",
+      "url": "https://open.spotify.com/track/4EcMu2j76LF90JCpFRp883"
+    },
+    {
+      "album": {
         "name": "Kitipun",
         "url": "https://open.spotify.com/album/7Hp43M9ZedO6dhIOa3O3fN"
       },
@@ -8216,7 +8288,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 270250,
       "name": "La Espiral",
       "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
@@ -8710,7 +8782,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 181573,
       "name": "Life Is A Movie",
       "url": "https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P"
@@ -12287,6 +12359,24 @@
     },
     {
       "album": {
+        "name": "Only A Dream",
+        "url": "https://open.spotify.com/album/5dcXpnLc2tOZCIgUBsMHMu"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241290,
+      "name": "Only A Dream",
+      "url": "https://open.spotify.com/track/28Z2OxIisSLEPQqpPwOXRU"
+    },
+    {
+      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/0PGUfPHlpE3MeYZgRsbWhw"
       },
@@ -13318,7 +13408,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 204976,
       "name": "PRISIONERO PERFECTO",
       "url": "https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE"
@@ -13514,7 +13604,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 223910,
       "name": "Q.I.S - feat. maye",
       "url": "https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt"
@@ -16166,7 +16256,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 158920,
       "name": "Tengo Una Nota",
       "url": "https://open.spotify.com/track/4JuwOGVCbYwoA9qWerWs5g"
@@ -16576,6 +16666,24 @@
       "duration_ms": 202093,
       "name": "Top",
       "url": "https://open.spotify.com/track/2OncTcSo3mojsFNgYQUwRF"
+    },
+    {
+      "album": {
+        "name": "tqm <3",
+        "url": "https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ"
+      },
+      "artists": [
+        {
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156426,
+      "name": "tqm <3",
+      "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
     },
     {
       "album": {
@@ -17372,7 +17480,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 169375,
       "name": "Vida Nueva",
       "url": "https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK"
@@ -17938,7 +18046,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 192942,
       "name": "Y Yo Que Pensaba",
       "url": "https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ"

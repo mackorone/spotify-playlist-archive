@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Na9FTYame5.md) - [plain]
 
 > Deutschrap für die emotions\. Cover: PA Sports, Kauta
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,906 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,877 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

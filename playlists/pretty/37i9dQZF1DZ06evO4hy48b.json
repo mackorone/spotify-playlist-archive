@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 227854,
+  "num_followers": 227926,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAiSNq+fMjajaUMbs5bNra8",
+  "snapshot_id": "aPlwAAAAAACcuW5wku0c0r2EbQu9Vq34",
   "tracks": [
     {
       "added_at": null,
@@ -338,15 +338,11 @@
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 181426,
-      "name": "AQYNE",
-      "url": "https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1"
+      "duration_ms": 167920,
+      "name": "24 Rosas",
+      "url": "https://open.spotify.com/track/3HDYqfUZN3vToDnhqNsb6J"
     },
     {
       "added_at": null,
@@ -406,11 +402,15 @@
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 167920,
-      "name": "24 Rosas",
-      "url": "https://open.spotify.com/track/3HDYqfUZN3vToDnhqNsb6J"
+      "duration_ms": 181426,
+      "name": "AQYNE",
+      "url": "https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Foto Del DNI",
+        "url": "https://open.spotify.com/album/3NJKXmNaDC83yJhGX76Uc8"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "Tu Foto Del DNI",
+      "url": "https://open.spotify.com/track/1eWWdO6oIBdJT8SCXaYCYV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En El Coche",
         "url": "https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 235160,
       "name": "La Electricidad",
       "url": "https://open.spotify.com/track/0E3qf8HoJc2I7637mxgXjA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Foto Del DNI",
-        "url": "https://open.spotify.com/album/3NJKXmNaDC83yJhGX76Uc8"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "Tu Foto Del DNI",
-      "url": "https://open.spotify.com/track/1eWWdO6oIBdJT8SCXaYCYV"
     },
     {
       "added_at": null,

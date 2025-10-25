@@ -4,7 +4,7 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-166 songs - 8 hr 16 min
+167 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Somebody Needs Jesus](https://open.spotify.com/track/6814OBIGcgQOKA0mx52p70) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [The Rosettes](https://open.spotify.com/artist/41AAQ12p0hQJzH0ze5ANVD), [Sam Price Trio](https://open.spotify.com/artist/2RWOiWqyH0TkExmKSjZ9sd) | [Blessed Assurance \(Expanded Edition\)](https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc) | 2:27 | 2022-05-29 |  |
 | [Stand By Me](https://open.spotify.com/track/6wNOmArJVUaztEClcF2r4D) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 1](https://open.spotify.com/album/4KNYUWaNkzdOHQQ2xWlRwD) | 2:51 | 2022-08-09 | 2022-10-11 |
 | [Stand by Me](https://open.spotify.com/track/2MWYCAWmPLl5ILNgwDhL60) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:53 | 2023-12-19 | 2024-08-23 |
-| [Stand by Me](https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Original Soul Sister](https://open.spotify.com/album/6O3zPjpqUdG4dg9i9ZLANF) | 3:34 | 2022-05-25 |  |
+| [Stand by Me](https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Original Soul Sister](https://open.spotify.com/album/6O3zPjpqUdG4dg9i9ZLANF) | 3:34 | 2022-05-25 | 2025-10-25 |
 | [Stand by Me \- Remastered](https://open.spotify.com/track/7ap282geVp4sKzLn93iYG2) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Godmather of Rock'n'roll \- a Bluesy Twist on Gospel Music \(Remastered\)](https://open.spotify.com/album/02M2XVAfZLvasD7eTJ3V4z) | 2:54 | 2023-05-11 | 2023-09-03 |
 | [Strange Things Are Happening](https://open.spotify.com/track/53RPjPo21M6JzNDZd0HQ2N) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Singing In My Soul](https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw) | 3:21 | 2022-05-25 |  |
 | [Strange Things Happening Every Day](https://open.spotify.com/track/2cXqQ0RT3zCKQ8yIVk7siF) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Trouble in Mind](https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG) | 2:47 | 2025-05-07 | 2025-07-02 |
@@ -157,6 +157,7 @@
 | [This Is A Mean Old World To Live In](https://open.spotify.com/track/2KBFYYiNCW7cKogYmWopbw) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Truth: All New! Her Greatest Gospel Hits](https://open.spotify.com/album/3qwLiCPnFuFL7KY6wLEoWa) | 3:07 | 2022-05-25 | 2025-01-04 |
 | [This Train](https://open.spotify.com/track/4FgwdqCbpfv2AX17vbF8KN) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Authorized Sister Rosetta Tharpe Collection](https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr) | 4:42 | 2022-05-25 |  |
 | [This Train](https://open.spotify.com/track/3qXUmemjpyPPEMCSiYnhf6) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Presenting Sister Rosetta Tharpe](https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm) | 4:42 | 2023-06-09 | 2023-09-16 |
+| [Travelin' Shoes](https://open.spotify.com/track/7u0xtYAnMsqrhz4dfhM90m) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sing Sister Sing](https://open.spotify.com/album/37eAippKdaKLfGT1Qo91br) | 1:41 | 2025-10-25 |  |
 | [Travelin' Shoes](https://open.spotify.com/track/7zQEQqQ2i37570JJhHqfpL) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Authorized Sister Rosetta Tharpe Collection](https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr) | 1:46 | 2022-09-20 | 2023-05-04 |
 | [Up Above My Head](https://open.spotify.com/track/4HhfG0tUfWTsyKgiCWk0SE) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [American Epic: The Soundtrack](https://open.spotify.com/album/21Sm8niJI2UqXfD3slifFQ) | 2:58 | 2022-05-25 |  |
 | [Up Above My Head I Hear Music In The Air](https://open.spotify.com/track/020Jue4CBDS0qn9gXVeouQ) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Up Above My Head](https://open.spotify.com/album/4I8sQwxcyWI979ZcYGPMf5) | 2:32 | 2022-05-25 | 2022-08-09 |

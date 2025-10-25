@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[超棒的企鹅](https://open.spotify.com/user/megustager) - 730 likes - 505 songs - 1 day 11 hr 3 min
+[超棒的企鹅](https://open.spotify.com/user/megustager) - 731 likes - 521 songs - 1 day 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -513,5 +513,21 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 503 | [IGNITE](https://open.spotify.com/track/4Db7S2wX2niEZ8aIoqkzhy) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [IGNITE](https://open.spotify.com/album/5DFjJ4r8PbfXp6R9XsWmLS) | 2:36 |
 | 504 | [I Hate You](https://open.spotify.com/track/3aJnQtCcxsbwDgPkhrvz1O) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [I Hate You](https://open.spotify.com/album/4dQEgdmJK9kMuDLu71m9G3) | 4:01 |
 | 505 | [OUTRAGE](https://open.spotify.com/track/4aAsD63PKtdr5J14QoCube) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [OUTRAGE](https://open.spotify.com/album/12LBeDvalrCAdyvvxdphyO) | 2:40 |
+| 506 | [Death End Crysis](https://open.spotify.com/track/3ZbQjdGgE5UouArZel3Qe9) | [pocotan](https://open.spotify.com/artist/46CrX7GTEcWgCRHPRMCILk) | [IRREPARABLE HARDCORE IS BACK 2 鳳雷蘖華 ～ホウライゲッカ～](https://open.spotify.com/album/4lrzI4S5ghiPY8tWYni66C) | 4:18 |
+| 507 | [Abyss of Pleasure](https://open.spotify.com/track/6RXdDPgSZlyOWMnDzSd0LR) | [pocotan](https://open.spotify.com/artist/46CrX7GTEcWgCRHPRMCILk), [nayuta](https://open.spotify.com/artist/5A9lXbSd5VDeTz1eSi5dCj) | [Invitation to the Fallen](https://open.spotify.com/album/3nMIykEoDIgjCN0pfcdKmH) | 5:24 |
+| 508 | [Ange\_Noiz.](https://open.spotify.com/track/18TMzttuoauDUKRI2ZcHbY) | [kanoryo](https://open.spotify.com/artist/6nFyBgKgu44RIgJEzLxWwr) | [Invitation to the Fallen](https://open.spotify.com/album/3nMIykEoDIgjCN0pfcdKmH) | 4:07 |
+| 509 | [Scars](https://open.spotify.com/track/2GVyvqokZqwd7zjQhkbWuO) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb) | [Japanese Stream Hardcore Vol.8](https://open.spotify.com/album/4B5EDWIZpxmE0UXi76bJZE) | 4:44 |
+| 510 | [Ithaqua](https://open.spotify.com/track/4zxmLVHTpVqEmBGUI7Wwen) | [FALCHiON](https://open.spotify.com/artist/0AVwoTqXBWS5ONMgqfuxmT) | [Cruel Wounds](https://open.spotify.com/album/5eMgD9hxqA37sV6OJHl6QK) | 4:35 |
+| 511 | [Let's Rock](https://open.spotify.com/track/1tLvplYKtejBpXIT9mt0pK) | [ikaruga\_nex](https://open.spotify.com/artist/7APbCMokJLK8dQjm2fK6Vp), [FALCHiON](https://open.spotify.com/artist/0AVwoTqXBWS5ONMgqfuxmT) | [IRREPARABLE HARDCORE IS BACK 2 鳳雷蘖華 ～ホウライゲッカ～](https://open.spotify.com/album/4lrzI4S5ghiPY8tWYni66C) | 3:41 |
+| 512 | [Daddy's Big Drum](https://open.spotify.com/track/6JMYmgdP4yh1yBvu0uh8Yj) | [Noizenecio](https://open.spotify.com/artist/6nnVxZM26xhcsPxc0uEGuU) | [Tempocop](https://open.spotify.com/album/42E6sCgcqtSVBxbAMIQzwY) | 4:21 |
+| 513 | [Pixel Blaster II](https://open.spotify.com/track/7mmW78tOG48PMstSHPwBYL) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb) | [exPERIMENT](https://open.spotify.com/album/6ywKar62lXikMSJSMSQ6RN) | 3:54 |
+| 514 | [Irish Titan](https://open.spotify.com/track/7A4YandzQZmrlh6XKZQlaw) | [Floxytek](https://open.spotify.com/artist/1v2lA2moEBT9UFfnRd6Pkx), [Tanukichi](https://open.spotify.com/artist/23vallNaMILMOgxcCYcuGP), [6th](https://open.spotify.com/artist/1OC1dqSbe6zNiv0NBtODX1) | [Irish Titan](https://open.spotify.com/album/6KqhXnxbfnsdpgdeZD8IQf) | 3:21 |
+| 515 | [Vodka](https://open.spotify.com/track/5EDjPjfoto88I7lSDY6PUC) | [Mat Weasel Busters](https://open.spotify.com/artist/4OAC3olGybn9D0DJtzBsYa), [Tanukichi](https://open.spotify.com/artist/23vallNaMILMOgxcCYcuGP) | [Vodka](https://open.spotify.com/album/3ZYS0gQvYFdmwe8CdCTTZN) | 3:16 |
+| 516 | [Balkancore](https://open.spotify.com/track/5XeLWMOWG31EweovTyL7qB) | [Tanukichi](https://open.spotify.com/artist/23vallNaMILMOgxcCYcuGP), [E\-Coli](https://open.spotify.com/artist/2MPy1k969lurKeHRzB5ljY) | [Balkan Madness EP](https://open.spotify.com/album/5kTQd4qy0oE3hp2yYUrcLS) | 3:48 |
+| 517 | [All In My Head](https://open.spotify.com/track/0kgGMrMxfFg1aLybm1QHJp) | [6th](https://open.spotify.com/artist/1OC1dqSbe6zNiv0NBtODX1) | [All In My Head](https://open.spotify.com/album/51XW4yvuSpFpaqhib3t3FX) | 2:54 |
+| 518 | [Iceborn](https://open.spotify.com/track/220D9qgVbmzl6GajhZKiyj) | [Aoi Sumito](https://open.spotify.com/artist/1LYxLNWGFFHFsV2022FIgi) | [Cruel Wounds](https://open.spotify.com/album/5eMgD9hxqA37sV6OJHl6QK) | 5:15 |
+| 519 | [Tempted by the Darkside](https://open.spotify.com/track/1lWd105EGrmS8LTOPwamkj) | [Aoi Sumito](https://open.spotify.com/artist/1LYxLNWGFFHFsV2022FIgi) | [Invitation to the Fallen](https://open.spotify.com/album/3nMIykEoDIgjCN0pfcdKmH) | 4:23 |
+| 520 | [Deus Ex Machina](https://open.spotify.com/track/2HhFqOIzuqtOWc9m4faTOr) | [Hommarju](https://open.spotify.com/artist/76V0LQ9DlR2N5tcn0ZworW) | [The Gothic](https://open.spotify.com/album/5c91CcmUF2Jd3PgC1eYUPc) | 3:01 |
+| 521 | [WCBTH](https://open.spotify.com/track/75nHY2t28llqsULJ5ufYMN) | [QUIL](https://open.spotify.com/artist/3Q6X5VDF0Zfu1hGHTEARSR) | [IRREPARABLE HARDCORE IS BACK 2 鳳雷蘖華 ～ホウライゲッカ～](https://open.spotify.com/album/4lrzI4S5ghiPY8tWYni66C) | 2:56 |
 
-Snapshot ID: `AAACV+Ywdbo3VPhlxR2hSrFkT2ft9xUf`
+Snapshot ID: `AAACZ5eC73AisT+GoexCqolWRcun6mz1`

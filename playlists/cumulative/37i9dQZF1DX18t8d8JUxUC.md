@@ -4,7 +4,7 @@
 
 > This is what folk sounds like en español\. Cover: Andrea Bejar
 
-172 songs - 10 hr 12 min
+174 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Feliz contigo](https://open.spotify.com/track/5HhAiPpvK192VzV0c43z9i) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W), [Carolina Alabau](https://open.spotify.com/artist/2EP1w9tN8KUQNsCl8u8DFc) | [Feliz contigo](https://open.spotify.com/album/3sRPrPaHsGAiUOH0wynHQQ) | 3:17 | 2024-06-21 | 2024-07-19 |
 | [Ficción](https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [OTRX](https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly) | 2:55 | 2024-04-11 |  |
 | [Flaco](https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:16 | 2023-02-24 |  |
+| [Flores](https://open.spotify.com/track/2xN77uzvD2MI7YAsloyLfX) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Flores](https://open.spotify.com/album/3dbyvlMLXxaAtvZLKRSiJz) | 4:43 | 2025-10-24 |  |
 | [Flores Muertas](https://open.spotify.com/track/2WeVVJCmTfR2kFomtxRHsz) | [Tavo Guarneros](https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q) | [Flores Muertas](https://open.spotify.com/album/73c1nObVrUEtZwmY89VnEC) | 5:28 | 2025-01-24 |  |
 | [Found Love](https://open.spotify.com/track/06bP5fBUljQLN6GPEMpiFr) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [Violet](https://open.spotify.com/album/5hUBJd7VEVWEbsugJLTU9G) | 3:16 | 2023-02-24 |  |
 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 | 2023-02-24 |  |
@@ -105,7 +106,7 @@
 | [Mi Niña](https://open.spotify.com/track/3Gl6n3cLCPPwlgWXGy7KOT) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mi Niña](https://open.spotify.com/album/1ah8BEG2gPDU2JnQ38Fu2m) | 3:57 | 2024-06-14 |  |
 | [Mi otra mitad](https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi otra mitad](https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB) | 3:49 | 2023-02-24 | 2024-12-07 |
 | [Mi Viejo \(Soundtrack de la Película "EL HALCÓN"\)](https://open.spotify.com/track/326nCnHzA2BttJWhuJIan9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Mi Viejo \(Soundtrack de la Película "EL HALCÓN"\)](https://open.spotify.com/album/3lwkgOmgl8pe5RWveTRCxR) | 5:03 | 2024-03-01 | 2024-12-14 |
-| [Milagro y Desastre](https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Milagro y Desastre](https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe) | 4:05 | 2023-06-02 |  |
+| [Milagro y Desastre](https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Milagro y Desastre](https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe) | 4:05 | 2023-06-02 | 2025-10-25 |
 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 | 2023-07-07 |  |
 | [Miénteme](https://open.spotify.com/track/2u79bMbsXBvNxh4rlAfB7L) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Bu Cuaron](https://open.spotify.com/artist/436VIztZC1jpD8Pzo5rvUj) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 3:10 | 2024-05-10 | 2024-10-24 |
 | [My Best Self](https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [My Best Self](https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl) | 3:05 | 2023-08-18 |  |
@@ -135,7 +136,7 @@
 | [Querida Rosa](https://open.spotify.com/track/6wBrZZ1LyiBxytLnpgnlhf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Rosa](https://open.spotify.com/album/1ricDoCdrqzaqrLmz64N4G) | 2:56 | 2023-02-24 |  |
 | [Quiero Sentirlo Todo](https://open.spotify.com/track/4nM3NRbtpF2gQwI1pl7Y2T) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Balboa](https://open.spotify.com/album/5Tpwq4dowN61wcGVAbO79I) | 3:40 | 2023-02-24 |  |
 | [Qué bonito fue](https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Sin Final Feliz](https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH) | 2:24 | 2023-03-24 |  |
-| [Qué Problema](https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Qué Problema](https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp) | 3:24 | 2023-10-27 |  |
+| [Qué Problema](https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Qué Problema](https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp) | 3:24 | 2023-10-27 | 2025-10-25 |
 | [Qué Tal](https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Qué Tal](https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7) | 2:44 | 2023-02-24 |  |
 | [Recuerdo](https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Uno De Nosotros](https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N) | 3:29 | 2023-07-28 |  |
 | [Remedios](https://open.spotify.com/track/6eBpT9aFPfbScHKnhD9PoC) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Sustancia](https://open.spotify.com/album/2vBjII9ynrhuvVbR0mJYiw) | 4:55 | 2024-01-04 |  |
@@ -164,6 +165,7 @@
 | [Tu Fantasma](https://open.spotify.com/track/3RdxaQyDTWu6QmDakA7uTd) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Tu Fantasma](https://open.spotify.com/album/0cFzIQagqP392WScfEooRw) | 3:11 | 2025-06-27 |  |
 | [Tu mirar](https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd) | [Sara Sístole](https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8) | [Tu mirar](https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae) | 2:42 | 2025-05-06 | 2025-08-07 |
 | [Un ratito más](https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:51 | 2023-07-07 |  |
+| [Un Rayo de Luz](https://open.spotify.com/track/50N28N6qdKjK9Z6XmRpuso) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna) | 4:37 | 2025-10-24 |  |
 | [Un Solo Vientre](https://open.spotify.com/track/652EkO5aFAC08No1JV0zqs) | [Japonica](https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD) | [Un Solo Vientre](https://open.spotify.com/album/4klUqNMjFqtTdR0Zzajow6) | 3:38 | 2023-07-28 | 2023-10-27 |
 | [Una Fecha En El Calendario](https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 3:58 | 2023-02-24 | 2023-11-07 |
 | [Una historia que contar](https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Una historia que contar](https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk) | 3:06 | 2023-10-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Fito y Fitipaldis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,462 likes - 120 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,563 likes - 120 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 9 | [Los cuervos se lo pasan bien](https://open.spotify.com/track/7ykP7h9XCmeGda3dtiw88n) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Los cuervos se lo pasan bien](https://open.spotify.com/album/0RLPT7vtjGo9CRwKRrNZd4) | 4:25 |
 | 10 | [El lado oscuro](https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp) | 4:48 |
 | 11 | [Lustre y lumbre](https://open.spotify.com/track/5yr9kxKSRb8iHewLWCpjHz) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Lustre y lumbre](https://open.spotify.com/album/5bZm9cUHTzwYpoQzYbzGTv) | 4:05 |
-| 12 | [Marea imparable](https://open.spotify.com/track/44h2x6co8xmZZHJj4cIZU7) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [](https://open.spotify.com/album/null) | 3:46 |
+| 12 | [Marea imparable](https://open.spotify.com/track/44h2x6co8xmZZHJj4cIZU7) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [El monte de los aullidos](https://open.spotify.com/album/6V4kLiUC505wnvGWqfnys1) | 3:46 |
 | 13 | [Fuimos Felices Aquí](https://open.spotify.com/track/3OPLIc4ivg0ccEV8KXLSE7) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [Hecho En Tiempos De Paz](https://open.spotify.com/album/4exNBd0XUQ8bgkRf8G4awo) | 2:43 |
 | 14 | [Cadillac solitario \(feat\. Bunbury\)](https://open.spotify.com/track/6Bw1tgFEB8dVbtsa5F2kBt) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Cadillac solitario \(feat\. Bunbury\)](https://open.spotify.com/album/6ZN5a9Q0t6FXKS97oe0qe0) | 5:01 |
 | 15 | [Aquellas Cosas Que Solíamos Hacer](https://open.spotify.com/track/1CrN92KYQTOePdubueHipL) | [Benito Kamelas](https://open.spotify.com/artist/6pds73TcYgdgd1UOBWHRqn) | [Sin Trampa Ni Cartón](https://open.spotify.com/album/26gSAMOb4jxhoDqYOYgvGR) | 4:49 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 17 | [Nada que perder](https://open.spotify.com/track/1N3wsfRTJrzibsiMyJo4e0) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Nada que perder](https://open.spotify.com/album/4PsfkuF6YOYrwD1Zn18RRG) | 6:10 |
 | 18 | [Como Yo Te Amo](https://open.spotify.com/track/04QjvVle2nGGNMNH43pLrJ) | [Da Igual](https://open.spotify.com/artist/4321W7imSCftQ5Dnoq3LKe) | [Como Yo Te Amo](https://open.spotify.com/album/4RzQY8KwH0IoZnhdZc1ggX) | 4:17 |
 | 19 | [Caída Libre \(feat\. Robe\)](https://open.spotify.com/track/72srxlWIL6dDou3Po23Fw2) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Caída Libre \(feat\. Robe\)](https://open.spotify.com/album/2ChN0TP75AcjsIBP5x5tQs) | 3:31 |
-| 20 | [Una maldita suerte](https://open.spotify.com/track/2TMCQqANU7yJz9ieUfiVXz) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [](https://open.spotify.com/album/null) | 3:15 |
+| 20 | [Una maldita suerte](https://open.spotify.com/track/2TMCQqANU7yJz9ieUfiVXz) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [El monte de los aullidos](https://open.spotify.com/album/6V4kLiUC505wnvGWqfnys1) | 3:15 |
 | 21 | [Con las Fuerzas Que No Tienes](https://open.spotify.com/track/4Q09LHOwHxVNO4Z0nohLpQ) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M), [Josele Santiago](https://open.spotify.com/artist/74lCVodenQEIwr8yKf7CAB) | [Con las Fuerzas Que No Tienes](https://open.spotify.com/album/03PCCS4AG9BAvuIX9rMOqI) | 3:00 |
 | 22 | [1.9.82.](https://open.spotify.com/track/22xYHv2QEdKYKQO7jSAPM1) | [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U) | [1.9.82.](https://open.spotify.com/album/2d7pP3kHwVYLJR3mmMgXWe) | 4:06 |
 | 23 | [Si te vas...](https://open.spotify.com/track/2x59pa3xDf8hHZ4N3f5fGQ) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Material defectuoso](https://open.spotify.com/album/3JFryzZ2dByJ7Z2Ik2fVua) | 8:36 |

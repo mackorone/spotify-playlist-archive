@@ -4,7 +4,7 @@
 
 > Los éxitos del Dembow\. Portada: Arlene MC
 
-399 songs - 19 hr 5 min
+400 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [ALÓ ALÓ](https://open.spotify.com/track/6ReFi3vfEoFCg5HnRlmOZR) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv) | [ALÓ ALÓ](https://open.spotify.com/album/15dVINVh9730rBXttt5smv) | 2:56 | 2022-03-18 | 2022-07-16 |
 | [AQUI TA SMOKE](https://open.spotify.com/track/3SK0dEKhmkhx6EHjZRHm1r) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [EL REY DEL DEMBOW](https://open.spotify.com/album/6JPOiUKS6Ei5Aq43PBQ1El) | 2:54 | 2023-11-23 | 2023-11-29 |
 | [Arete](https://open.spotify.com/track/2p5LVvY7ja8NQKJoSaqJL4) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD) | [Reencarnaciòn](https://open.spotify.com/album/7sPE3bH9YnLraUfpREGcvr) | 2:16 | 2023-02-09 | 2023-06-23 |
+| [Atra De Eso](https://open.spotify.com/track/7Ejd7CEfNoNLgwL73yqwtP) | [Chapo 240](https://open.spotify.com/artist/1mjgxCCu7fUaLC8WlOnOu0), [Relambio240](https://open.spotify.com/artist/2fdPzzA0poQW2ray5t3mgE), [Herido no muerto](https://open.spotify.com/artist/72d2wiRTQCxoIENVvdb7xc) | [Modo Jazz](https://open.spotify.com/album/2lykadTcC9ls93Y4W572My) | 1:42 | 2025-10-24 |  |
 | [AY LILY](https://open.spotify.com/track/0n0JzQMRHIRyzzQa1NNcsh) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [AY LILY](https://open.spotify.com/album/2wOzDb7LoRztDK25KmPbqH) | 1:22 | 2024-03-14 | 2025-10-10 |
 | [Ay Si Ñiño \(Remix\)](https://open.spotify.com/track/33QRkn2HK18QZA7jZRKWou) | [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk), [Mafeo 13](https://open.spotify.com/artist/6qgOVc7H8dqguJGtvpzeiP), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Ay Si Ñiño \(Remix\)](https://open.spotify.com/album/48IOGtllrXRIdfZdYEfPq3) | 2:22 | 2023-05-26 | 2023-08-04 |
 | [Bagre](https://open.spotify.com/track/12wW9cNLX11umS3lh10xsE) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3) | [Bagre](https://open.spotify.com/album/6xONvAcQS1GBqrMH3O85lU) | 2:40 | 2022-07-22 | 2023-05-27 |
@@ -379,7 +380,7 @@
 | [Tuwi Tuwi](https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Tuwi Tuwi](https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY) | 2:15 | 2024-01-04 |  |
 | [Ubicacion y Foto](https://open.spotify.com/track/04NOkdNPJx9l134EmPEC8a) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [Ubicacion y Foto](https://open.spotify.com/album/5oi02uruQUZdOgAYbiMiQ8) | 2:03 | 2023-05-26 | 2023-12-14 |
 | [Un Chin](https://open.spotify.com/track/0QFoUwvgLa81F9yFZh6ZWI) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Un Chin](https://open.spotify.com/album/4G0utAp4MeAOWrgJPkMXrz) | 2:25 | 2023-02-09 | 2023-08-04 |
-| [Un Día Tu](https://open.spotify.com/track/1l9BSiIstD2Dtsq9IdAOph) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To), [La Makulada](https://open.spotify.com/artist/0Ag9ysvWMLaQ6XEe0FMpNI), [Recio DC](https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd) | [Un Día Tu](https://open.spotify.com/album/2BwzTUBmFvOQbJhbIpiKqu) | 2:14 | 2025-10-03 |  |
+| [Un Día Tu](https://open.spotify.com/track/1l9BSiIstD2Dtsq9IdAOph) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To), [La Makulada](https://open.spotify.com/artist/0Ag9ysvWMLaQ6XEe0FMpNI), [Recio DC](https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd) | [Un Día Tu](https://open.spotify.com/album/2BwzTUBmFvOQbJhbIpiKqu) | 2:14 | 2025-10-03 | 2025-10-25 |
 | [Un Malo y Medio](https://open.spotify.com/track/00nY6dEt6R0zGDTFt7FlBO) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [La Demente](https://open.spotify.com/artist/7C56RAv2RXvLeRc8r9Yz7o) | [Un Malo y Medio](https://open.spotify.com/album/224agsHVN6UcIBDwkg1p3f) | 1:51 | 2022-06-23 | 2024-04-12 |
 | [Un Selfie Con 3 Millones](https://open.spotify.com/track/4Buu9Uu1wcv3aqXvrn3igC) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [SAGITARIO](https://open.spotify.com/album/10mdLipMzwfbpgJMu69Ln4) | 3:10 | 2023-02-09 | 2023-03-11 |
 | [UN VOLAO](https://open.spotify.com/track/1QBrDmUZ28brJz8vdvxzxI) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [UN VOLAO](https://open.spotify.com/album/2CCXpPq2goAscTXwNXgev8) | 1:39 | 2024-02-08 | 2025-08-15 |

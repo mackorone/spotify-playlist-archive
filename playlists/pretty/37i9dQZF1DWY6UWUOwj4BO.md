@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,633 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,715 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 49 | [Carry Me \- Acoustic Version](https://open.spotify.com/track/0KXhbwmPLhECjqhGkhYpic) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:24 |
 | 50 | [I Don't Wanna Wait \- Acoustic](https://open.spotify.com/track/3kZ2KSpxRmbdiAL7IOjawQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait \(Acoustic\)](https://open.spotify.com/album/3ICGn2SlvLwgYDN8i7bWR0) | 2:32 |
 
-Snapshot ID: `AAAAAOcYrTv0IhxkHkX09di4nf1GOVyx`
+Snapshot ID: `AAAAADAQoaDC7EiQ62oGUtmsI/ZpFXLK`

@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 172597,
       "name": "Active",
       "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
@@ -8418,7 +8418,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 147266,
       "name": "Don\u2019t Change For Us",
       "url": "https://open.spotify.com/track/6A0iJyhFlWio9GcVuXQMnb"
@@ -13000,7 +13000,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 141760,
       "name": "HARD WAY (feat. Becky G)",
       "url": "https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE"
@@ -14844,7 +14844,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 193225,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/2CQiih0Q6sLtJLFRjsopBK"
@@ -18011,6 +18011,24 @@
     },
     {
       "album": {
+        "name": "LOVER GIRL",
+        "url": "https://open.spotify.com/album/5919KmtJqUR1VqkXJEH2US"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264669,
+      "name": "LOVER GIRL",
+      "url": "https://open.spotify.com/track/3t6kNqWEd1CPE2nPz6wcQg"
+    },
+    {
+      "album": {
         "name": "LOVERS OR FRIENDS",
         "url": "https://open.spotify.com/album/5PHSTHZQzYZXqMfs02zZje"
       },
@@ -20086,6 +20104,24 @@
       "duration_ms": 195453,
       "name": "My Lil Shit",
       "url": "https://open.spotify.com/track/5Y5B4dGlIW8Z4P0fO3zclj"
+    },
+    {
+      "album": {
+        "name": "PHOLKS",
+        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165599,
+      "name": "My Muse",
+      "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
     },
     {
       "album": {
@@ -24622,6 +24658,28 @@
       "duration_ms": 233106,
       "name": "Rain Down (feat. PnB Rock & Latto)",
       "url": "https://open.spotify.com/track/3j2c4L32wU4LkILIkDzqse"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
       "album": {
@@ -32936,6 +32994,28 @@
       "duration_ms": 209299,
       "name": "Voice of the Heroes",
       "url": "https://open.spotify.com/track/7eO7rOwH5qVD3UWpO97qTI"
+    },
+    {
+      "album": {
+        "name": "Voicemail (feat. Rod Wave)",
+        "url": "https://open.spotify.com/album/1lxBTSaU3PS7NqFuN5cIA6"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272785,
+      "name": "Voicemail (feat. Rod Wave)",
+      "url": "https://open.spotify.com/track/4ROfJ7JAeConXVWe6S3Iyv"
     },
     {
       "album": {

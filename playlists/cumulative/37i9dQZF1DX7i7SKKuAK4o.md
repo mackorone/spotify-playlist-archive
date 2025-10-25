@@ -4,7 +4,7 @@
 
 > Kumpulan lagu populer dari dalam negeri dan mancanegara\. Cover: Ariana Grande
 
-236 songs - 14 hr 34 min
+237 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Angels Like You](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 | 2024-02-23 | 2024-11-15 |
 | [Angin Kencang](https://open.spotify.com/track/2GWzRdezjEFyYrwldE7iCl) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Angin Kencang](https://open.spotify.com/album/3YLxuvVaEjjWzk6ISlZPVf) | 3:57 | 2025-01-10 | 2025-03-22 |
 | [Animals](https://open.spotify.com/track/3h4T9Bg8OVSUYa6danHeH5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V \(Asia Tour Edition\)](https://open.spotify.com/album/6LtzdMGhOCh9s6sssWrpuD) | 3:51 | 2025-02-07 | 2025-03-12 |
-| [Anugerah Terindah](https://open.spotify.com/track/1nc4oXLc3slDMDgl3DMRtJ) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Anugerah Terindah](https://open.spotify.com/album/35IqtcK73WJLJsU6L6GTOu) | 4:42 | 2025-04-11 |  |
+| [Anugerah Terindah](https://open.spotify.com/track/1nc4oXLc3slDMDgl3DMRtJ) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Anugerah Terindah](https://open.spotify.com/album/35IqtcK73WJLJsU6L6GTOu) | 4:42 | 2025-04-11 | 2025-10-25 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2025-01-31 |  |
 | [Armageddon](https://open.spotify.com/track/5eWcGfUCrVFMoYskyfkEPE) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK) | 3:16 | 2024-07-04 | 2024-07-19 |
 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 | 2024-08-28 | 2025-01-11 |
@@ -47,7 +47,7 @@
 | [Cincin](https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX) | 4:26 | 2025-01-09 | 2025-07-25 |
 | [Cinta Pertama Dan Terakhir](https://open.spotify.com/track/4TomVy5zx50p9boc8FqYnT) | [Sherina Munaf](https://open.spotify.com/artist/3UUS2j9dYbI6MB5ee8d0jp) | [Gemini](https://open.spotify.com/album/5UUq5EZYAvCFD0ZMNankvF) | 4:35 | 2024-07-05 | 2024-08-29 |
 | [Cinta Terakhir](https://open.spotify.com/track/7gB98EWp4p9VKxOToaqrhM) | [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr) | [Selalu Ada](https://open.spotify.com/album/1WuTbzN9znyO2Bs0HpeaDq) | 3:57 | 2024-01-22 | 2024-06-06 |
-| [Cinta Yang Diam](https://open.spotify.com/track/3cHIAY5xBlLC1R5RbpXTyc) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV), [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Cinta Yang Diam](https://open.spotify.com/album/0e8V1CfAtCpruJBfPko2Kf) | 3:53 | 2025-03-17 |  |
+| [Cinta Yang Diam](https://open.spotify.com/track/3cHIAY5xBlLC1R5RbpXTyc) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV), [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Cinta Yang Diam](https://open.spotify.com/album/0e8V1CfAtCpruJBfPko2Kf) | 3:53 | 2025-03-17 | 2025-10-25 |
 | [Cintanya Aku](https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Cintanya Aku](https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4) | 3:54 | 2023-05-25 | 2024-02-01 |
 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 | 2023-03-22 | 2024-10-02 |
 | [Closer](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Closer](https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE) | 4:04 | 2023-03-22 |  |
@@ -177,6 +177,7 @@
 | [Sang Dewi](https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sang Dewi](https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I) | 4:07 | 2023-06-15 | 2023-07-07 |
 | [say i'm sorry](https://open.spotify.com/track/1fZOLWE0Oy4mZ6lOx65mXt) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Wallflower](https://open.spotify.com/album/5LFH7fj2hCEPCGh7Ojsne3) | 2:55 | 2023-03-22 | 2023-05-19 |
 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 | 2023-03-22 | 2025-10-06 |
+| [Scott and Zelda](https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 3:13 | 2025-10-24 |  |
 | [Seandainya](https://open.spotify.com/track/5NmjnghJGJRFg34KGGx8O0) | [Vierra](https://open.spotify.com/artist/1WX2v0BiEW19Vw7xmznLdZ) | [My First Love](https://open.spotify.com/album/3zzIZJAYdeMttVROyFSUfN) | 4:23 | 2024-10-07 | 2025-01-10 |
 | [Seandainya](https://open.spotify.com/track/4zDsTPzY7Nm7rYKvszjKYL) | [Vierra](https://open.spotify.com/artist/1WX2v0BiEW19Vw7xmznLdZ) | [My First Love](https://open.spotify.com/album/7uPbMJWPcITRuvfcllfQ5O) | 4:23 | 2024-08-30 | 2025-01-24 |
 | [Sedih Tak Berujung](https://open.spotify.com/track/6xMUMMK64AUpstGjlDvoNn) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9) | 3:48 | 2024-03-21 | 2024-05-03 |
@@ -184,7 +185,7 @@
 | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f), [Audy](https://open.spotify.com/artist/611ajYp7fMbkU5CYF08tje) | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd) | 5:13 | 2024-03-05 | 2024-11-15 |
 | [Separuh Aku](https://open.spotify.com/track/0OVcoOK5WVvE6D9CXkopa9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/4zQgXju45dVJACZosujFtw) | 4:26 | 2023-07-27 | 2023-08-23 |
 | [Separuh Aku](https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL) | 4:26 | 2023-08-18 | 2024-02-24 |
-| [Serana](https://open.spotify.com/track/0PtJbtW50jcvvswNPn3QGd) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Perayaan Patah Hati \- Babak 1](https://open.spotify.com/album/6E4sl58YgjMqfUBNGOfAUa) | 4:10 | 2025-01-31 | 2025-06-27 |
+| [Serana](https://open.spotify.com/track/0PtJbtW50jcvvswNPn3QGd) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Perayaan Patah Hati \- Babak 1](https://open.spotify.com/album/6E4sl58YgjMqfUBNGOfAUa) | 4:10 | 2025-01-31 |  |
 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 | 2023-03-22 | 2023-07-17 |
 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 | 2023-03-22 |  |
 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 | 2024-07-04 | 2024-08-09 |

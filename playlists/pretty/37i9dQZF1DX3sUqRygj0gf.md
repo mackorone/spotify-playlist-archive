@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,111 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,112 likes - 45 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 44 | [Christmas Quiet](https://open.spotify.com/track/46wRMshoe8TYgAIxHhwrnw) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Christmas Quiet](https://open.spotify.com/album/4e5pVhI621lKlUNSr9bPPn) | 2:28 |
 | 45 | [have yourself a merry little christmas](https://open.spotify.com/track/6Ivm9TotXcJtAsSbTTU2RZ) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [have yourself a merry little christmas](https://open.spotify.com/album/4sdZfDb229xiMDU4oLlqTl) | 3:54 |
 
-Snapshot ID: `AAAAADmkYrrY78i3qGr12BEa/FojodvY`
+Snapshot ID: `AAAAAKv18kmdL4/fsBuK1rQecZHLbd4n`

@@ -4,7 +4,7 @@
 
 > Music to take the pain of homework away.
 
-795 songs - 1 day 18 hr 59 min
+796 songs - 1 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 | 2022-09-09 | 2025-03-26 |
 | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 | 2024-08-09 | 2024-10-21 |
 | [Bruises](https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:40 | 2022-07-08 | 2023-07-01 |
+| [buttons](https://open.spotify.com/track/41vSliETlsQOzukEfCjjSh) | [natalie jinju](https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu) | [buttons](https://open.spotify.com/album/1oTiL3l8dFVgiLcZ0rGkSx) | 3:36 | 2025-10-24 |  |
 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 | 2023-08-04 | 2023-08-19 |
 | [Call Me Yours](https://open.spotify.com/track/0BhdrTIB5flACZyaLjdzp4) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Call Me Yours](https://open.spotify.com/album/4T7MQ3hv0M7lJoO4uONsoh) | 2:31 | 2024-04-16 | 2024-04-27 |
 | [Called You Out](https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Called You Out](https://open.spotify.com/album/50rX4SnIONzFzZD9kh94JL) | 2:35 | 2022-04-14 | 2022-04-21 |
@@ -789,7 +790,7 @@
 | [Yellow \- Spotify Singles](https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Yellow \- Spotify Singles](https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0) | 4:29 | 2024-04-16 | 2024-05-18 |
 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2022-04-14 | 2022-12-17 |
 | [You & I](https://open.spotify.com/track/2afCBiru10AFckfOa49wIa) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:57 | 2022-04-14 | 2023-07-01 |
-| [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2022-04-14 |  |
+| [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2022-04-14 | 2025-10-25 |
 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 | 2024-01-18 | 2024-04-19 |
 | [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 | 2023-09-08 | 2023-10-14 |
 | [You Don't Know Me](https://open.spotify.com/track/19czqg2sES22uiWenXX9dk) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [You Don't Know Me](https://open.spotify.com/album/4qpABeC0btP6FVajSTteYa) | 2:52 | 2022-04-14 | 2022-04-21 |

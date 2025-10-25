@@ -1063,6 +1063,24 @@
     },
     {
       "album": {
+        "name": "BOSS UP",
+        "url": "https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151320,
+      "name": "BOSS UP",
+      "url": "https://open.spotify.com/track/458u353fkPaERY2SoOGPl3"
+    },
+    {
+      "album": {
         "name": "You Signed Up For This",
         "url": "https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86"
       },
@@ -10206,7 +10224,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 187994,
       "name": "Vendetta",
       "url": "https://open.spotify.com/track/5TNyJaau0GUrcdsbq4UqfJ"

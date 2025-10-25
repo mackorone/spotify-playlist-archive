@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Q052.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,046 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,041 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 29 | [Details](https://open.spotify.com/track/2Gi3dEsWxEetMnTJKHnRYb) | [Violent Ground](https://open.spotify.com/artist/4NggpgL0QyEmrdYQTrXUdy) | [Disarranged](https://open.spotify.com/album/5Ghx9Dq3zuuP0uzwohDtUs) | 2:48 |
 | 30 | [GET 'EM](https://open.spotify.com/track/7l8gsaruC2a9A73fYUQacj) | [Wendego](https://open.spotify.com/artist/1NU8ZVBJCACNVihDvL3PWN), [Hantiks](https://open.spotify.com/artist/63hwZCvoNxCOUJpEwVHoIz) | [GET 'EM](https://open.spotify.com/album/6RRkVfrkRyssHGIjKrNzBQ) | 2:05 |
 
-Snapshot ID: `AAAAAPe0ohJdLCOn5l3uyhgcCTtAL9vo`
+Snapshot ID: `AAAAAGUR0vE56LOCmr7QhwZPD+ouiEXq`

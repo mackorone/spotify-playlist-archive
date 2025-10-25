@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 ### [Indie's Top 50](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> A delicious mix of new songs in high rotation\. Cover: Geese
+> A delicious mix of new songs in high rotation\. Cover: Not for Radio \(María Zardoya\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,945,550 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,945,483 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 49 | [Hey You](https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Hey You](https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2) | 3:31 |
 | 50 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
 
-Snapshot ID: `AAAAAExUgZQuCmNjpbn1sTyyJ0S7M8ln`
+Snapshot ID: `AAAAAFquZldA+zXX/hiby5weEjPTBM5F`

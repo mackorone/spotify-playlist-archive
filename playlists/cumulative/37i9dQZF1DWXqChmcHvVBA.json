@@ -295,6 +295,28 @@
     },
     {
       "album": {
+        "name": "Alokate",
+        "url": "https://open.spotify.com/album/2xXz6AzkXytnDm5kqxUKqq"
+      },
+      "artists": [
+        {
+          "name": "Luz Eluney",
+          "url": "https://open.spotify.com/artist/4BnDpIPclX4yzei6j1C1Dr"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116510,
+      "name": "Alokate",
+      "url": "https://open.spotify.com/track/7EOR8DYU9bzkt78nXlTg0O"
+    },
+    {
+      "album": {
         "name": "Alta Gama",
         "url": "https://open.spotify.com/album/7nz02Iu8lvbwhVVxSENlma"
       },
@@ -4808,7 +4830,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 182155,
       "name": "SAN TURRONA REMIX",
       "url": "https://open.spotify.com/track/59aD6M6ZIZF5sYRDqymT32"
@@ -6105,6 +6127,28 @@
     },
     {
       "album": {
+        "name": "TURRA L\u00c1TIGO",
+        "url": "https://open.spotify.com/album/6jOSTaEPyy1rSGh7yTnEm5"
+      },
+      "artists": [
+        {
+          "name": "HELLOLOLA",
+          "url": "https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7"
+        },
+        {
+          "name": "La Chenny",
+          "url": "https://open.spotify.com/artist/3vimAWFu5z6cASy59YugPy"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105882,
+      "name": "TURRA L\u00c1TIGO",
+      "url": "https://open.spotify.com/track/3KyTziu6E6wk6KhRpsD6cK"
+    },
+    {
+      "album": {
         "name": "Turro",
         "url": "https://open.spotify.com/album/7gdlWroAiyBT9N70ZxnXG2"
       },
@@ -6180,7 +6224,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 178860,
       "name": "Turro Nea",
       "url": "https://open.spotify.com/track/7qz3H6yJ5u2fADTjOh7LiT"

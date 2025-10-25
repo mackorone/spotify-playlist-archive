@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "A collection of music from voice actors/ actresses in Japan. Cover: Yui Ogura",
-  "name": "Sing Like Talking",
+  "description": "\u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002A collection of music from voice actors/ actresses in Japan. Cover: \u5e1d\u4e43\u4e09\u59c9\u59b9\u3068\u512a  (\u30a2\u30cb\u30e1\u300e\u5e1d\u4e43\u4e09\u59c9\u59b9\u306f\u6848\u5916\u3001\u30c1\u30e7\u30ed\u3044\u3002\u300f) Cover:\u00a9\u3072\u3089\u304b\u308f\u3042\u3084\uff0f\u5c0f\u5b66\u9928\uff0f\u30a2\u30cb\u30d7\u30ec\u30c3\u30af\u30b9",
+  "name": "\u58f0\u512a\u3001\u6b4c\u3046 Sing Like Talking",
   "tracks": [
     {
       "album": {
@@ -442,6 +442,24 @@
       "duration_ms": 215826,
       "name": "Another Self",
       "url": "https://open.spotify.com/track/7gz4Eo94PvX01geJuH8xDx"
+    },
+    {
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/0VN22nXaT5LlwS1cjOX8CC"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274093,
+      "name": "any if",
+      "url": "https://open.spotify.com/track/0SiJLBIj4wVkD78MqBmCZW"
     },
     {
       "album": {
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 197142,
       "name": "Hightail it",
       "url": "https://open.spotify.com/track/5nQRKu1jjYW9iSswDbieQG"
@@ -3505,6 +3523,24 @@
     },
     {
       "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/3JFmDgeLE2atP9al6QzisW"
+      },
+      "artists": [
+        {
+          "name": "Mamoru Miyano",
+          "url": "https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173076,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/2V6aSVVarckm4utqYNFVEk"
+    },
+    {
+      "album": {
         "name": "Momoiro Kataomoi - From CrosSing",
         "url": "https://open.spotify.com/album/5vAJTeQLsiaYLWCzaoVW1D"
       },
@@ -3570,7 +3606,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 222973,
       "name": "mo\u221eent",
       "url": "https://open.spotify.com/track/5rlKnPUg9Fm9AjkoJYKpV2"
@@ -5636,7 +5672,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 248026,
       "name": "Wish for you",
       "url": "https://open.spotify.com/track/289hT7uDy22Pcvw7Fza98I"
@@ -6047,6 +6083,24 @@
     },
     {
       "album": {
+        "name": "\u305d\u3053\u306b\u6709\u308b\u706f\u308a",
+        "url": "https://open.spotify.com/album/2xaomLtOYGwnUkFmBFQIae"
+      },
+      "artists": [
+        {
+          "name": "\u53e4\u5ddd \u614e",
+          "url": "https://open.spotify.com/artist/7cqs65sOpEfqF5T0XFnAWc"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256105,
+      "name": "\u305d\u3053\u306b\u6709\u308b\u706f\u308a",
+      "url": "https://open.spotify.com/track/3PVQ7SJlrLOkwdelLzgFBs"
+    },
+    {
+      "album": {
         "name": "\u305d\u308c\u3092\u50d5\u306f\u5f37\u3055\u3068\u547c\u3073\u305f\u3044",
         "url": "https://open.spotify.com/album/49SiuOsDwbRBCuFotey0pO"
       },
@@ -6188,6 +6242,24 @@
       "duration_ms": 202480,
       "name": "\u3064\u3088\u304c\u308a\u30de\u30a4\u30da\u30fc\u30b9",
       "url": "https://open.spotify.com/track/0A6zWP3VZfYczicQFc84DP"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u304b\u304f\u308a\u3088\u306e\u5bbf\u98ef \u5f10\u300d\u3068\u304a\u308a\u3083\u3093\u305b/\u6d99\u306e\u30ec\u30b7\u30d4",
+        "url": "https://open.spotify.com/album/4swqz5dvRj0xT3AxNcla6g"
+      },
+      "artists": [
+        {
+          "name": "Nao Toyama",
+          "url": "https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "\u3068\u304a\u308a\u3083\u3093\u305b",
+      "url": "https://open.spotify.com/track/1wAyLHIWTPbx6k9SPsxec1"
     },
     {
       "album": {
@@ -6762,7 +6834,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 261906,
       "name": "\u30a4\u30eb\u30df\u30cd\u30a4\u30c8",
       "url": "https://open.spotify.com/track/5dVMqpeSDyNJczw40sBM5p"
@@ -7324,7 +7396,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 170423,
       "name": "\u30b8\u30e3\u30f3\u30d7\u3057\u3066\u307f\u3066",
       "url": "https://open.spotify.com/track/0aQOYkXKm4kUF8Zj9bAxL1"
@@ -8160,6 +8232,24 @@
       "duration_ms": 265733,
       "name": "\u4e00\u751f\u5206\u306e\u661f\u3068\u9003\u3052\u308b",
       "url": "https://open.spotify.com/track/1UiveK8YP1LKYWth0EFOcu"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u5668\u7528\u306b \u541b\u306e\u3068\u306a\u308a",
+        "url": "https://open.spotify.com/album/76nH5Qt0QlJOf5unTc8pBZ"
+      },
+      "artists": [
+        {
+          "name": "\u524d\u5cf6\u4e9c\u7f8e",
+          "url": "https://open.spotify.com/artist/61aT3A72eeItBBYdH9kIUP"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229771,
+      "name": "\u4e0d\u5668\u7528\u306b \u541b\u306e\u3068\u306a\u308a",
+      "url": "https://open.spotify.com/track/47uYk5wuKW62xryZzDXe8Q"
     },
     {
       "album": {

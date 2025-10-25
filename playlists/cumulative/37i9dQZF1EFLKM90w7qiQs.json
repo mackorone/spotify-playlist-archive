@@ -877,6 +877,28 @@
     },
     {
       "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/7IYdKvQYX8lzDPKKwldfkW"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157056,
+      "name": "LUV? (feat. Anne-Marie)",
+      "url": "https://open.spotify.com/track/7ajBoRIDCavZAG8RojAVpb"
+    },
+    {
+      "album": {
         "name": "TREAT MYSELF (DELUXE)",
         "url": "https://open.spotify.com/album/745q70iMPQHWqjGzHeseBp"
       },

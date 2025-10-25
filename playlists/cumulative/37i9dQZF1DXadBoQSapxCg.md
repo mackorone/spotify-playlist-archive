@@ -4,7 +4,7 @@
 
 > Apaga a luz e deixa rolar.
 
-104 songs - 5 hr 35 min
+105 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Apelação](https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW), [Chibatinha](https://open.spotify.com/artist/1ugAp6InWzuA4mPxWz3Pkt) | [Apelação](https://open.spotify.com/album/1dFNG3V6K51mOWtwZAPO4v) | 2:17 | 2023-06-16 | 2025-09-29 |
 | [Bandida](https://open.spotify.com/track/4Diwn4chKkEFT1c7XifxSl) | [Bruna Griphao](https://open.spotify.com/artist/3zBh63FeLXKl7X4M7Axqjo) | [Bandida](https://open.spotify.com/album/3Bv66xBV6gxCjKFGl32aOJ) | 2:20 | 2023-06-16 | 2025-02-22 |
 | [Beija\-Fruta \(O Sexo\)](https://open.spotify.com/track/30D1XeU3BrcXqL6uPO0CjP) | [Gavi](https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw), [Gabriela Brown](https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f) | [Beija\-Fruta \(O Sexo\)](https://open.spotify.com/album/1F8q1m1rRbWEi0cvSoNpih) | 4:33 | 2025-06-13 | 2025-10-11 |
-| [Blues](https://open.spotify.com/track/2ruShEBiopKBFINEu2Vo1C) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Blues](https://open.spotify.com/album/18WNVbLIVw09redTOkfpO0) | 3:13 | 2024-03-08 |  |
+| [Blues](https://open.spotify.com/track/2ruShEBiopKBFINEu2Vo1C) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Blues](https://open.spotify.com/album/18WNVbLIVw09redTOkfpO0) | 3:13 | 2024-03-08 | 2025-10-25 |
 | [Bonita](https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH) | [Me Espera](https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof) | 3:14 | 2023-06-16 |  |
 | [Braille](https://open.spotify.com/track/2hAcX39Tm3XRuxioc86hNq) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97), [Dinho](https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p) | [Dolores Dala Guardião do Alívio](https://open.spotify.com/album/5hEHhvlgbM3PmNflPbmoZg) | 3:49 | 2023-06-16 | 2024-04-19 |
 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 | 2025-09-19 |  |
@@ -98,6 +98,7 @@
 | [Tara](https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Tara](https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV) | 2:46 | 2023-06-16 |  |
 | [temporal](https://open.spotify.com/track/70ZUKqDSk9tD2VqMbz0bhO) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc) | [temporal](https://open.spotify.com/album/2wMqM1vI4ScRjs60n9Z7Kw) | 3:36 | 2024-09-27 | 2025-09-26 |
 | [Tenho Você](https://open.spotify.com/track/2FJrDD1ZvsUg9klCy4LjCj) | [Davi Sabbag](https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8) | [Tenho Você](https://open.spotify.com/album/29PFiWp9zAiwoiIx4gyApm) | 3:05 | 2023-06-16 | 2025-09-13 |
+| [todo lugar \- faixa bônus](https://open.spotify.com/track/4j9KOMG49WEL8qY9hs5jpa) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Trinidad Cardona](https://open.spotify.com/artist/2SgLODaTxJskGWHX8TbxtQ) | [Busco Romance Love Show \(Deluxe\)](https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT) | 3:15 | 2025-10-24 |  |
 | [Toque Na Pele](https://open.spotify.com/track/2mGcVoOXeVHwwACz9GulPB) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Toque Na Pele](https://open.spotify.com/album/2Jxq9gOEEVxCHjDQKwmz0H) | 2:41 | 2024-03-08 | 2025-10-13 |
 | [Um Dia Qualquer](https://open.spotify.com/track/3eQGPLAGqZWrJ7Xk51bVXp) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Um Dia Qualquer](https://open.spotify.com/album/2zz4INOhhY4YbXpIrcoaIr) | 3:09 | 2024-03-08 | 2024-04-19 |
 | [Um Dia Qualquer](https://open.spotify.com/track/5yuENyM88tUfheNVoBoMo3) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Talismã](https://open.spotify.com/album/7mX006mcnDcQgyT1VwbgVd) | 3:09 | 2023-06-16 | 2024-04-21 |

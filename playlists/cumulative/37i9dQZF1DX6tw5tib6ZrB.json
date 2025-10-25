@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-19",
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from Young Thug, Sexxy Red, ODUMODUBLVCK  and more",
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from Polo G, Monaleo, Mac Miller  and more",
   "name": "JumpOff",
   "tracks": [
     {
@@ -1075,7 +1075,7 @@
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 192000,
+      "duration_ms": 192266,
       "name": "Blick Sum (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
     },
@@ -1432,6 +1432,24 @@
       "duration_ms": 165066,
       "name": "Bubbly (with Drake & Travis Scott)",
       "url": "https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui"
+    },
+    {
+      "album": {
+        "name": "GO:OD AM (10th Anniversary)",
+        "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283226,
+      "name": "Cable Box",
+      "url": "https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe"
     },
     {
       "album": {
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 139867,
       "name": "Different Sorts",
       "url": "https://open.spotify.com/track/0XXTLG5NfNcFHPOJoSTcAb"
@@ -2506,7 +2524,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 128409,
       "name": "Dope Boy Phone (with Takeoff)",
       "url": "https://open.spotify.com/track/3QuxakJMdpWDvu30D5I1hH"
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 215524,
       "name": "For The Money",
       "url": "https://open.spotify.com/track/5G0GzyNU6VALmOenzBNtVA"
@@ -5267,6 +5285,24 @@
     },
     {
       "album": {
+        "name": "LOVER GIRL",
+        "url": "https://open.spotify.com/album/5919KmtJqUR1VqkXJEH2US"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264669,
+      "name": "LOVER GIRL",
+      "url": "https://open.spotify.com/track/3t6kNqWEd1CPE2nPz6wcQg"
+    },
+    {
+      "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
@@ -7198,6 +7234,42 @@
       "duration_ms": 209543,
       "name": "Put Your Hands Up",
       "url": "https://open.spotify.com/track/6od2XO9Tr80jHwNwXSNLR6"
+    },
+    {
+      "album": {
+        "name": "Who Did The Body",
+        "url": "https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179476,
+      "name": "Putting Ya Dine",
+      "url": "https://open.spotify.com/track/57TSLzWfZdQroiwtIFX97X"
+    },
+    {
+      "album": {
+        "name": "Quality Over Quantity",
+        "url": "https://open.spotify.com/album/4OZ9Lrp14C5Bu2OkT3ZLl9"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Quality Over Quantity",
+      "url": "https://open.spotify.com/track/2XKYiFSIZWFX1dZxFvqn4w"
     },
     {
       "album": {
@@ -9426,7 +9498,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 124137,
       "name": "Typa",
       "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"

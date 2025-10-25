@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-05",
-  "description": "New and trending hip-hop from around the world. Cover: Tkandz \ud83c\uddec\ud83c\udde7",
+  "description": "New and trending hip-hop from around the world. Cover: Dave \ud83c\uddec\ud83c\udde7",
   "name": "Global Hip-Hop",
   "tracks": [
     {
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 170666,
       "name": "ANDO XXIL",
       "url": "https://open.spotify.com/track/0LxKI4Y1yMuJZzdJKcttU0"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 333765,
       "name": "ASIAN STATE OF MIND",
       "url": "https://open.spotify.com/track/11bFXOKzUz5XBK9JSkRs0S"
@@ -2349,6 +2349,28 @@
     },
     {
       "album": {
+        "name": "BIG FLEX - Les Ultimes Marches de l'Empereur #2",
+        "url": "https://open.spotify.com/album/5JWYkmYX8MDcBDdKzIXeAL"
+      },
+      "artists": [
+        {
+          "name": "Alkpote",
+          "url": "https://open.spotify.com/artist/0QcZD8V0Ug1KINWBSyG0dB"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172682,
+      "name": "BIG FLEX - Les Ultimes Marches de l'Empereur #2",
+      "url": "https://open.spotify.com/track/5lTl62QdAsMRpr7oawZ2S6"
+    },
+    {
+      "album": {
         "name": "Afrikan Alien",
         "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
       },
@@ -2799,7 +2821,7 @@
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 183729,
+      "duration_ms": 183788,
       "name": "BORN SPINNER",
       "url": "https://open.spotify.com/track/3yAc2aiDRHPDusNQgJ1YQE"
     },
@@ -2952,7 +2974,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 182008,
       "name": "Bring mich nach Haus",
       "url": "https://open.spotify.com/track/07NDaezeYAJ2FoXxoE8GUC"
@@ -5272,7 +5294,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 159000,
       "name": "D\u00c9SOL\u00c9E",
       "url": "https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS"
@@ -8022,6 +8044,28 @@
       "duration_ms": 124791,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/1jrjUPWrfMw8RBbZ9PlX0W"
+    },
+    {
+      "album": {
+        "name": "HIM",
+        "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202547,
+      "name": "HIM (feat. Gunna)",
+      "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
     },
     {
       "album": {
@@ -11562,7 +11606,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 171579,
       "name": "Mom & Dad",
       "url": "https://open.spotify.com/track/2iqnWaABeoHev1hcKP5BzL"
@@ -12327,6 +12371,28 @@
     },
     {
       "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198256,
+      "name": "No Weapons (feat. Jim Legxacy)",
+      "url": "https://open.spotify.com/track/064NMVv1SUTN1e2fbG4MKt"
+    },
+    {
+      "album": {
         "name": "SANTANA MONEY GANG",
         "url": "https://open.spotify.com/album/71agI93AilqukvHURp6tGy"
       },
@@ -13083,6 +13149,28 @@
     },
     {
       "album": {
+        "name": "Outlaws",
+        "url": "https://open.spotify.com/album/7iYYptv1qtRE0Bdsar9ctf"
+      },
+      "artists": [
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        },
+        {
+          "name": "M1llionz",
+          "url": "https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127701,
+      "name": "Outlaws",
+      "url": "https://open.spotify.com/track/2x2PXuahcMGUCUwKF3OH1W"
+    },
+    {
+      "album": {
         "name": "LOCURA",
         "url": "https://open.spotify.com/album/1QqHc2RPq59exIRKRolI1O"
       },
@@ -13508,6 +13596,28 @@
       "duration_ms": 113737,
       "name": "Petit Fou Fou (feat. ANNA)",
       "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
+    },
+    {
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109759,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
     },
     {
       "album": {

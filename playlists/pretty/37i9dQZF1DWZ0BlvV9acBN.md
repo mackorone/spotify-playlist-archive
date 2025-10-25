@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Rosa de Saron
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,560 likes - 70 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,567 likes - 70 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 64 | [Eu Tô no Culto \- Ao Vivo](https://open.spotify.com/track/0JEdfnPZka9zL7GRWAzqvK) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Eu Tô no Culto \(Ao Vivo\)](https://open.spotify.com/album/5wX58MxHM3hqNi3iGyFkbO) | 5:17 |
 | 65 | [Sobre as Águas](https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d) | [Hugo Santos](https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb) | [Exílio](https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed) | 4:39 |
 | 66 | [Fui Encontrado](https://open.spotify.com/track/5xt4nQwR2shCsbUr0HQN8T) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Fui Encontrado](https://open.spotify.com/album/6PYsM3wcToQVTtmORA8Flu) | 3:13 |
-| 67 | [João 1 \- VEC](https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP) | 4:18 |
+| 67 | [A Maior Certeza \- Ao Vivo](https://open.spotify.com/track/5oTBJ6Pt17MvQEunGE2CJS) | [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L), [NOVO CANTO](https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB), [NOVA](https://open.spotify.com/artist/0ckNfMo73lHTOKQLAtw2oM) | [A Maior Certeza \(Ao Vivo\)](https://open.spotify.com/album/3T7SizuAmTC0ltM7I1GGn8) | 4:54 |
 | 68 | [Espelhos Mágicos / Naves Imperiais \- Ao Vivo](https://open.spotify.com/track/6iqjwjQhW9YbfwsTKHX9Iq) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Espelhos Mágicos / Naves Imperiais \(Ao Vivo\)](https://open.spotify.com/album/5Hh5x7bBLA0qbijaTI9Gky) | 4:25 |
 | 69 | [Te Seguirei](https://open.spotify.com/track/0szN6cDZWAFBeilX3d06Zj) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5) | [Te Seguirei](https://open.spotify.com/album/3jsYtCFMSPUFjJ8qoknREt) | 4:50 |
 | 70 | [Eu Quero é Deus / Celebrai a Cristo / Aquele Que Está Feliz \- Ao Vivo](https://open.spotify.com/track/2pUNI9iRqs8ssumEV80N0k) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Eu Quero É Deus / Celebrai a Cristo / Aquele Que Está Feliz \(Ao Vivo\)](https://open.spotify.com/album/27G71rRH7SWUCLz4Kg7Xc0) | 4:43 |
 
-Snapshot ID: `AAAAAIvO36EnqfUe/zRHpkDQVzWspNwH`
+Snapshot ID: `AAAAAJyzFCwgoyxiCfB5Lhoz0dRM/400`

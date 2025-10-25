@@ -4,7 +4,7 @@
 
 > This is Phil Wickham\. The essential tracks, all in one playlist.
 
-78 songs - 6 hr 6 min
+79 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Divine / Sailing / Time / Hymn \- Acoustic](https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 7:44 | 2024-05-24 |  |
 | [Divine Romance](https://open.spotify.com/track/7xUbUfwaCfaAlYxfkIIZnc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Phil Wickham](https://open.spotify.com/album/6CXyOL41BnuvHMMhF8O9wv) | 4:58 | 2024-10-02 | 2025-09-16 |
 | [Doxology//Amen](https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:39 | 2024-12-18 | 2025-09-29 |
+| [Fear Has No Power](https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Fear Has No Power](https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo) | 4:17 | 2025-10-25 |  |
 | [Flowers](https://open.spotify.com/track/5P7veaw4BSq113uSBzjXbJ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 4:37 | 2025-09-16 |  |
 | [God Is Good](https://open.spotify.com/track/00bSuPKmdXWlhdaYgyPta3) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 4:00 | 2025-09-16 |  |
 | [Great Things](https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:50 | 2024-05-24 |  |

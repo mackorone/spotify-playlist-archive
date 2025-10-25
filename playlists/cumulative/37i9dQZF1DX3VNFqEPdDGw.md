@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Ranjit Bawa
 
-362 songs - 18 hr 35 min
+363 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Jatt Marda](https://open.spotify.com/track/530IGu6aEjnmbAZ0EPA0f4) | [Amrit Nagi](https://open.spotify.com/artist/4vbMONtcUDqbM1zHyUv65S) | [Jatt Marda](https://open.spotify.com/album/6MKRAoY8rPnOzBrgr0h9y2) | 3:12 | 2025-04-30 | 2025-05-03 |
 | [Jatt Te Jawani](https://open.spotify.com/track/5K1qTme8mUcrIj9tEM5L5K) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Jatt Te Jawani](https://open.spotify.com/album/7hliO5qgI5W2KFYzS9JRHc) | 4:00 | 2021-12-18 | 2025-01-09 |
 | [Jatt Zindabad](https://open.spotify.com/track/4myOU3eWvJzwowuWmjJpop) | [K.S Makhan](https://open.spotify.com/artist/0O35NR0LgBXsui6L5VOOq3), [Manpreet Hans](https://open.spotify.com/artist/0EL0VMv1reqwgvfBSrxWmT), [Laddi Gill](https://open.spotify.com/artist/37TJmJvVHDSI9Ach5Zvs31) | [Jatt Zindabad](https://open.spotify.com/album/7f2gQgBhjK8VVQFLqtm3Fy) | 3:35 | 2024-11-08 | 2025-01-09 |
+| [Jatta Love You](https://open.spotify.com/track/55c85QgQGXubWcaPeJbWF8) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Jatta Love You](https://open.spotify.com/album/2xCyOsRj6ZEFeKPFcAijp2) | 3:51 | 2025-10-24 |  |
 | [Jatta Ve \(From "Sarbala Ji"\)](https://open.spotify.com/track/3YhcBorz9N2U46ChMNmmvt) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Jatta Ve \(From "Sarbala Ji"\)](https://open.spotify.com/album/4z0l3yw6jnLnKzVD0eu4JU) | 3:05 | 2025-06-19 | 2025-09-23 |
 | [Jatti Bae](https://open.spotify.com/track/6o2ch5JQkaLDbDp45kXG7A) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Jatti Bae](https://open.spotify.com/album/1mD3ho2AJpivs3CyKNdcMY) | 2:37 | 2025-01-08 | 2025-03-25 |
 | [Jattiye Ni](https://open.spotify.com/track/24KWB5VT9fWqtj5bUyPnoq) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jattiye Ni](https://open.spotify.com/album/4sISXOYpISfwZI6RmGWfJA) | 3:01 | 2025-01-08 |  |
@@ -220,7 +221,7 @@
 | [MALAYI WARGI](https://open.spotify.com/track/04f2KFYjBARqShVTvG4htv) | [Deep Bajwa](https://open.spotify.com/artist/13U2oRt6izgyRfuSBbeMTo), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Prithvi Missile](https://open.spotify.com/album/2OS2Tw88npn817gUub8Qxx) | 3:03 | 2025-01-08 |  |
 | [Malwa Block](https://open.spotify.com/track/4d3tiblcaqGdji7XvPGHiq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:59 | 2021-12-18 | 2025-02-26 |
 | [Mandeer](https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:10 | 2021-12-18 | 2025-02-20 |
-| [Maroon Maroon](https://open.spotify.com/track/48Ocih6gAv9L7ubcRhqzK5) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Agaazz](https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX) | [Maroon Maroon](https://open.spotify.com/album/5V3rsvYypCRaHP8OK3Mm6T) | 3:47 | 2025-05-08 |  |
+| [Maroon Maroon](https://open.spotify.com/track/48Ocih6gAv9L7ubcRhqzK5) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Agaazz](https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX) | [Maroon Maroon](https://open.spotify.com/album/5V3rsvYypCRaHP8OK3Mm6T) | 3:47 | 2025-05-08 | 2025-10-25 |
 | [Maruye Da Boota](https://open.spotify.com/track/5JBakgUfXMtHBkqVyX2QBH) | [Surjit Bhullar](https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Maruye Da Boota](https://open.spotify.com/album/4rJFeBJmdC1my6SZWCwJPS) | 3:03 | 2025-07-18 | 2025-09-10 |
 | [Me and My Girlfriend](https://open.spotify.com/track/1cQQk3EyZsWrbIzRBz68P9) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:23 | 2021-12-18 | 2022-01-11 |
 | [Medicine](https://open.spotify.com/track/2QbFuHbPKNWgpqIFQYsUwS) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Medicine](https://open.spotify.com/album/5bxIO37XtNj4k4PW5vMlUJ) | 3:56 | 2025-01-08 |  |

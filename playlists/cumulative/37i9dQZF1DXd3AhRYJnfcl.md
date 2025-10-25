@@ -2,9 +2,9 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: توو ليت
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: تامر عاشور
 
-401 songs - 23 hr 21 min
+402 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Mabahrbsh](https://open.spotify.com/track/5HSq2VMchKdVRXR9B1jpgr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mabahrbsh](https://open.spotify.com/album/4T7NjcvE00AM4tNqYpIYu5) | 4:05 | 2022-04-13 | 2022-06-29 |
 | [Mabalash](https://open.spotify.com/track/40BMID1JwcJZYeTS1t6stp) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Omroh Ma Yeghib](https://open.spotify.com/album/3U6oFvwXd6i8LFbbhqmKQq) | 4:08 | 2023-05-05 | 2023-08-09 |
 | [Makrehtosh](https://open.spotify.com/track/01O9Ijz8tcyllso5VJ6w75) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/4ovMza1WebamIyWDRupshi) | 3:32 | 2025-03-19 |  |
+| [Makrehtosh](https://open.spotify.com/track/6ETTz69AD0SQzjxiCipq7g) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR) | 3:32 | 2025-10-24 |  |
 | [Malek El Fabraka](https://open.spotify.com/track/6DdXM6uwl9XuGIVwP7bXOx) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Malek El Fabraka](https://open.spotify.com/album/2T3oPO96g0IUsYb9uD2ULT) | 3:23 | 2022-06-28 | 2023-03-18 |
 | [Maleket El Helwen](https://open.spotify.com/track/4y00bqXve4lCihGkIhXd20) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Maleket El Helwen](https://open.spotify.com/album/34e97XGQaJKS80MfqFS1y7) | 3:38 | 2022-04-13 | 2022-06-29 |
 | [Maleket Gamal El Kon](https://open.spotify.com/track/2UaswhFiFjhWfIBpiVSfEt) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Maleket Gamal El Kon](https://open.spotify.com/album/2o3FieURTMsE0wPBPqFogl) | 2:53 | 2025-05-30 |  |
@@ -323,7 +324,7 @@
 | [خليني أشوفك](https://open.spotify.com/track/5wFGQw4SWEtId68rnnE7An) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/3xjnY2ScY6agVQ0jBXIp7e) | 3:12 | 2024-04-24 | 2024-05-01 |
 | [دلعنا كتير](https://open.spotify.com/track/6zNFUlt8E8NcT2ljRqK5GM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [دلعنا كتير](https://open.spotify.com/album/4fXbai8cyBy3BdHgVMTGu1) | 2:52 | 2023-09-01 | 2023-10-04 |
 | [ده قلبي ده](https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ده قلبي ده](https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl) | 2:58 | 2023-10-03 | 2024-04-24 |
-| [روقان](https://open.spotify.com/track/6bltDO0jvqd9OQqhtR4Hjf) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [روقان](https://open.spotify.com/album/4A2j98zoNqWWBTUp9sygjs) | 2:42 | 2024-05-07 |  |
+| [روقان](https://open.spotify.com/track/6bltDO0jvqd9OQqhtR4Hjf) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [روقان](https://open.spotify.com/album/4A2j98zoNqWWBTUp9sygjs) | 2:42 | 2024-05-07 | 2025-10-25 |
 | [زمان و جبر](https://open.spotify.com/track/1L2lFIpliOVvLjNcxqiWtD) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [زمان و جبر](https://open.spotify.com/album/38T6E0kvxCHnt34wtc5DCk) | 3:54 | 2024-10-02 | 2024-11-08 |
 | [زماني صابني عيار](https://open.spotify.com/track/0zyAjQxKKcs5UAdctKc0xR) | [Magdy El Zahar](https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [زماني صابني عيار](https://open.spotify.com/album/49BPIEHw4Maf9tDihzYwgb) | 3:09 | 2024-05-07 | 2024-06-14 |
 | [ستو أنا](https://open.spotify.com/track/0BCEJXmemL21JvNNoOB5TT) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb), [Hanady Mehanna](https://open.spotify.com/artist/5v3hMjviVKzTsRKjiUFiGT) | [مكتوب عليا \(أغاني المسلسل التلفزيوني الأصلي\)](https://open.spotify.com/album/7CNSRnoyRE1QhSWksa8OFs) | 2:21 | 2022-05-19 | 2023-01-03 |

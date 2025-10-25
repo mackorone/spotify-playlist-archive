@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\n\uac1c\ucf54, \uc18c\uc5f0 (SOYEON), RIEHATA, Takanori Iwata)",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\nhyeminsong)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -7700,7 +7700,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 251456,
       "name": "DGRM",
       "url": "https://open.spotify.com/track/1Ixgsm7Tkjbv1vwMmpG4eC"
@@ -9145,6 +9145,36 @@
     },
     {
       "album": {
+        "name": "[WAH]",
+        "url": "https://open.spotify.com/album/2aASvtpaiCOjhNazLg4Etb"
+      },
+      "artists": [
+        {
+          "name": "hyeminsong",
+          "url": "https://open.spotify.com/artist/4gwWGwahyZnvnSp75bWg82"
+        },
+        {
+          "name": "HEO DANIEL",
+          "url": "https://open.spotify.com/artist/7rm9HHTVczNfUIXiKdLK8m"
+        },
+        {
+          "name": "renko",
+          "url": "https://open.spotify.com/artist/51V4K79oU8jmIFPfj0iMB0"
+        },
+        {
+          "name": "YOGI",
+          "url": "https://open.spotify.com/artist/5BOOimuycmGF9JZuledmQf"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207996,
+      "name": "EASIER",
+      "url": "https://open.spotify.com/track/6pbrXEMrM1OUCRJMN086AB"
+    },
+    {
+      "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1bKEk8d6NlO1twrcneMvw5"
       },
@@ -9254,7 +9284,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 158120,
       "name": "Eh freestyle",
       "url": "https://open.spotify.com/track/4XbPK3sYAamzpttCcI7Xrd"
@@ -9280,7 +9310,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 186532,
       "name": "EKO EKO",
       "url": "https://open.spotify.com/track/2QE61cQ0tyWWDMNkWFtHeX"
@@ -19751,6 +19781,40 @@
     },
     {
       "album": {
+        "name": "[WAH]",
+        "url": "https://open.spotify.com/album/2aASvtpaiCOjhNazLg4Etb"
+      },
+      "artists": [
+        {
+          "name": "hyeminsong",
+          "url": "https://open.spotify.com/artist/4gwWGwahyZnvnSp75bWg82"
+        },
+        {
+          "name": "HEO DANIEL",
+          "url": "https://open.spotify.com/artist/7rm9HHTVczNfUIXiKdLK8m"
+        },
+        {
+          "name": "renko",
+          "url": "https://open.spotify.com/artist/51V4K79oU8jmIFPfj0iMB0"
+        },
+        {
+          "name": "VINXEN",
+          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
+        },
+        {
+          "name": "k4ton",
+          "url": "https://open.spotify.com/artist/5eXE9X8DTpWsL5mbkz7mAn"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236842,
+      "name": "MAGAZINE",
+      "url": "https://open.spotify.com/track/6AgWe89e29CEpiaqI3ks2Y"
+    },
+    {
+      "album": {
         "name": "MAGIC",
         "url": "https://open.spotify.com/album/4R6JJEwoyqf7737pEdR0iK"
       },
@@ -27835,6 +27899,28 @@
     },
     {
       "album": {
+        "name": "Jbfm",
+        "url": "https://open.spotify.com/album/75abKZ895sjG7Lyp1no40Q"
+      },
+      "artists": [
+        {
+          "name": "JINBO the SuperFreak",
+          "url": "https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265898,
+      "name": "Same Breed",
+      "url": "https://open.spotify.com/track/2t6V3C2YW7GkrmN5lvUjmg"
+    },
+    {
+      "album": {
         "name": "<3",
         "url": "https://open.spotify.com/album/05RwG1scYOeeovch817MRu"
       },
@@ -32116,7 +32202,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 174013,
       "name": "The Quiett",
       "url": "https://open.spotify.com/track/3HC8n2oPye2Co2wuHH0tcw"

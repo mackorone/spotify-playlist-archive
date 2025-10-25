@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,970 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,973 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 4 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 |
 | 5 | [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/track/4kjOoHroifGNB1BhQEdyce) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/album/0gzv3FnS7GWcmP2cTT4WrW) | 2:37 |
 | 6 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
-| 7 | [Syg af følelser](https://open.spotify.com/track/26xQNPL2NfgQEzwezhcOml) | [VILMA](https://open.spotify.com/artist/5b1UUYvy8FEX9SRgMnAJaK) | [](https://open.spotify.com/album/null) | 2:51 |
+| 7 | [Syg af følelser](https://open.spotify.com/track/26xQNPL2NfgQEzwezhcOml) | [VILMA](https://open.spotify.com/artist/5b1UUYvy8FEX9SRgMnAJaK) | [Sikkert syg af følelser](https://open.spotify.com/album/20fZqsijpjF3PbufuepQbD) | 2:51 |
 | 8 | [Den nye pige](https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Den nye pige](https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa) | 2:49 |
 | 9 | [Unsteady](https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:17 |
 | 10 | [Gode Dage Venter](https://open.spotify.com/track/6qRcNR61C16q4sSplRwe24) | [Malte August](https://open.spotify.com/artist/0jXOczqKCZPeNfF0vtEvm6) | [Gode Dage Venter](https://open.spotify.com/album/331nvnmllDG5iYUsEvbsS6) | 3:25 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 16 | [Gjort Hvad Jeg Kan](https://open.spotify.com/track/7nKXclXnCjbZiXv2yo8twY) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Gjort Hvad Jeg Kan](https://open.spotify.com/album/2RfVIgXe5IJNwh4yVlym7k) | 3:23 |
 | 17 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 |
 | 18 | [Orbit](https://open.spotify.com/track/4x7YiQYxBpt6RemIT6372c) | [Sophia Fredskild](https://open.spotify.com/artist/15edqA39JeSpGB7skxqcNz) | [Orbit](https://open.spotify.com/album/25qf6Zr2SvpWVMK8MJTXb1) | 3:01 |
-| 19 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [](https://open.spotify.com/album/null) | 3:03 |
+| 19 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 |
 | 20 | [You've Got Another Thing Coming \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You've Got Another Thing Coming \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s) | 2:59 |
 | 21 | [Tristan & Isolde](https://open.spotify.com/track/361guhUskLY7XA6X178aEk) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Honey](https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf) | 4:50 |
 | 22 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 |

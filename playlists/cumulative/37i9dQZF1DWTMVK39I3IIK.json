@@ -1563,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "4CANTOS",
+        "url": "https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140676,
+      "name": "Ender Altid Hos Dig",
+      "url": "https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv"
+    },
+    {
+      "album": {
         "name": "ENDORFINER (JEG VIL IKKE VIDE DU FINDES)",
         "url": "https://open.spotify.com/album/2Hq70DHdUVp1Y5jsx4rGyg"
       },
@@ -5360,24 +5378,6 @@
       "duration_ms": 224175,
       "name": "Til Solen Er Sort",
       "url": "https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
-        }
-      ],
-      "date_added": "2025-10-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 67426,
+  "num_followers": 67439,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAD3W8jwW+jbdX+cLUuDrAeY",
+  "snapshot_id": "aPlwAAAAAAAOUv4D8X6BW3k90xMWHwJm",
   "tracks": [
     {
       "added_at": null,
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n",
-      "url": "https://open.spotify.com/track/1oystWhvsBVxFmDeXiY0Az"
+      "duration_ms": 129226,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/15wuN0eAzGzwLZk5AD9ptF"
     },
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 129226,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/15wuN0eAzGzwLZk5AD9ptF"
+      "duration_ms": 178000,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n",
+      "url": "https://open.spotify.com/track/1oystWhvsBVxFmDeXiY0Az"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Casita De Adobe",
-        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Me Regalo Contigo",
-      "url": "https://open.spotify.com/track/7pdWEE81ttyaExmwjKEwgt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rey de Mil Coronas",
         "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 178373,
       "name": "De Nada Sirvi\u00f3",
       "url": "https://open.spotify.com/track/26utHjizl63E8fLaTYtWf5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Casita De Adobe",
+        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Me Regalo Contigo",
+      "url": "https://open.spotify.com/track/7pdWEE81ttyaExmwjKEwgt"
     },
     {
       "added_at": null,

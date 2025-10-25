@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,679 likes - 44 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,680 likes - 44 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 2 | [The Captain](https://open.spotify.com/track/1njWYdD28YORBUTF6vshxc) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 4:32 |
 | 3 | [Rattlin' Bones](https://open.spotify.com/track/7M6oKJS7dCDQYgaViybJh9) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 3:42 |
 | 4 | [Pony](https://open.spotify.com/track/78xEO4qUV8ZgMA5TqYbF0L) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:42 |
-| 5 | [Barricades And Brickwalls](https://open.spotify.com/track/0LxWErAb5oxhdSO8wTJE1u) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 3:12 |
+| 5 | [Walk a Country Mile](https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 3:46 |
 | 6 | [We're All Gonna Die Someday](https://open.spotify.com/track/4Yzt8bQMvDk2YfKamGLAxR) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 2:09 |
-| 7 | [Walk a Country Mile](https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 3:46 |
+| 7 | [Barricades And Brickwalls](https://open.spotify.com/track/0LxWErAb5oxhdSO8wTJE1u) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 3:12 |
 | 8 | [Bittersweet](https://open.spotify.com/track/0XeJjBlJ5RLoUkFutyN2K9) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Bittersweet](https://open.spotify.com/album/1myXD7yWPc0SXYhm7luUcj) | 4:00 |
 | 9 | [Matilda No More](https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 3:41 |
 | 10 | [This Flower](https://open.spotify.com/track/2rzPn4z4u7vtOqGwExY4Sq) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 2:50 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 39 | [Beautiful Mess](https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 3:14 |
 | 40 | [Saturated](https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:00 |
 | 41 | [A Love Like Springsteen](https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:40 |
-| 42 | [Black Bess](https://open.spotify.com/track/73X9kXbVeHzKtWnWLaGSHI) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [Cannot Buy My Soul: The Songs Of Kev Carmody \(2020 Edition\)](https://open.spotify.com/album/4dN2UoUgVj9oIq0VSFkHEZ) | 3:49 |
+| 42 | [F U Cancer](https://open.spotify.com/track/31LIWxlhD7bnCBBRk7oITh) | [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Beccy Cole](https://open.spotify.com/artist/5ed39W9I1i3LRpNa6Jk1bG), [Lyn Bowtell](https://open.spotify.com/artist/25rD775DJJ1JuBZfYYPxKK), [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH), [Wesley Dean](https://open.spotify.com/artist/4KvLfhBh83ARBAQ8Ynm5HI), [Wendy Matthews](https://open.spotify.com/artist/67PiUcvCvLFNUNBiKagzQm) | [F U Cancer](https://open.spotify.com/album/5ho3Zka2kZ3gDnoR8RvZcA) | 2:50 |
 | 43 | [Arlo](https://open.spotify.com/track/2pNblSXrSYzkhecsaDl7hq) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:25 |
 | 44 | [A New Day Has Come](https://open.spotify.com/track/5OKOAdVF5dI77baGK4U4H6) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 5:22 |
 
-Snapshot ID: `aPgegAAAAABDDOS3vTZLVKurm60gNMzP`
+Snapshot ID: `aPlwAAAAAAAvLHoVXoW10isNxHZC2wX9`

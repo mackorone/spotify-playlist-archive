@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening ",
-  "num_followers": 20478,
+  "num_followers": 20477,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAArB6JaWDf6tMZRwPnZX+5bGeHmjRzM",
+  "snapshot_id": "AAArDVnEJdxVHYIX9dqi8CIQcItu+Wry",
   "tracks": [
     {
       "added_at": "2025-10-10 15:21:06",
@@ -29,20 +29,20 @@
       "url": "https://open.spotify.com/track/7uM6anPIQpJdxt4v2Dis81"
     },
     {
-      "added_at": "2025-10-20 14:26:34",
+      "added_at": "2025-10-25 00:10:00",
       "album": {
-        "name": "You & Me",
-        "url": "https://open.spotify.com/album/4SvqWdh1i0UceZLnCzg8m2"
+        "name": "Dat Boi",
+        "url": "https://open.spotify.com/album/3dkPRY4x3yoMLhfdN1k8DR"
       },
       "artists": [
         {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+          "name": "Polar Youth",
+          "url": "https://open.spotify.com/artist/48EUMg2SS1VgOyLRzOhwjQ"
         }
       ],
-      "duration_ms": 214488,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/6atTrGB6eK8NOT6nniI237"
+      "duration_ms": 208698,
+      "name": "Dat Boi",
+      "url": "https://open.spotify.com/track/3ZdhzuJ1ar90QR5SUWXVAy"
     },
     {
       "added_at": "2025-10-10 15:22:01",
@@ -151,6 +151,22 @@
       "duration_ms": 195428,
       "name": "eye2eye",
       "url": "https://open.spotify.com/track/4MvAYkzdJjzZnmmgTBXeai"
+    },
+    {
+      "added_at": "2025-10-25 00:09:36",
+      "album": {
+        "name": "LIKEILOVEU",
+        "url": "https://open.spotify.com/album/38kyz5GDMihuNsuVJKc4P6"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        }
+      ],
+      "duration_ms": 168214,
+      "name": "LIKEILOVEU",
+      "url": "https://open.spotify.com/track/4uwJ95va4CCEdfH9IKAL6Z"
     },
     {
       "added_at": "2025-10-10 15:21:44",
@@ -287,6 +303,22 @@
       "duration_ms": 204675,
       "name": "Falling (with Njomza & Daniel Allan)",
       "url": "https://open.spotify.com/track/6hDdCDnxu7omTDIKC1BICK"
+    },
+    {
+      "added_at": "2025-10-20 14:26:34",
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/4SvqWdh1i0UceZLnCzg8m2"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 214488,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6atTrGB6eK8NOT6nniI237"
     },
     {
       "added_at": "2025-10-10 21:54:20",
@@ -1375,6 +1407,30 @@
       "duration_ms": 179557,
       "name": "LIMERENCE",
       "url": "https://open.spotify.com/track/5nITzteXAc5fXDtiQmhIBI"
+    },
+    {
+      "added_at": "2025-10-25 00:10:57",
+      "album": {
+        "name": "It's Strange (feat. K.Flay) [10th Anniversary Edition]",
+        "url": "https://open.spotify.com/album/5SipI7btNPTGmV2ZPUBOcS"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        },
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "duration_ms": 173093,
+      "name": "It's Strange (feat. K.Flay) - jigitz Remix",
+      "url": "https://open.spotify.com/track/1AONUJWKH8RufJKrN1p6Mr"
     }
   ],
   "unique_name": "Moving Castle Monthly",

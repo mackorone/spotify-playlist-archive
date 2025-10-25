@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "From Zero (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211027,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/2Yh356WJoVcWleiWRFoLUa"
+    },
+    {
+      "album": {
         "name": "From Zero",
         "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
       },

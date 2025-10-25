@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Fear Has No Power",
+        "url": "https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257266,
+      "name": "Fear Has No Power",
+      "url": "https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46"
+    },
+    {
+      "album": {
         "name": "Song Of The Saints",
         "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
       },

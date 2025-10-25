@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover:林俊傑 \(JJ Lin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,395 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,431 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 21 | [想和你看五月的晚霞：夏日續章](https://open.spotify.com/track/3fQoQdLwIQIppmJDqbT5Qf) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [想和你看五月的晚霞：夏日續章](https://open.spotify.com/album/2xoHCgfvARjd54c3jxO27I) | 2:47 |
 | 22 | [Burn Me Into The Light \- Netflix影集《回魂計》宣傳曲](https://open.spotify.com/track/1EPblgeFgaq6erWiJ7ZHWN) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [SHUHUA](https://open.spotify.com/artist/6B4wUWFGKv5XXBkqNBlIyE) | [Burn Me Into The Light \(Netflix影集《回魂計》宣傳曲\)](https://open.spotify.com/album/6G0MRb645o3euo9wGm3OBd) | 3:28 |
 | 23 | [刪了](https://open.spotify.com/track/1lqWsPvpHKjbhX59QBUoVc) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [刪了](https://open.spotify.com/album/5As6k7EkH3cTa5VxmXUhZT) | 4:11 |
-| 24 | [天使借的溫柔](https://open.spotify.com/track/3ITUmRLMjxf3ZqCPSDD2gk) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [天使借的溫柔](https://open.spotify.com/album/12zyWwLiTBobJgGvPw462K) | 3:28 |
+| 24 | [天使借的溫柔](https://open.spotify.com/track/3ITUmRLMjxf3ZqCPSDD2gk) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [天使借的溫柔](https://open.spotify.com/album/12zyWwLiTBobJgGvPw462K) | 3:28 |
 | 25 | [一切都好](https://open.spotify.com/track/5jTtpJEcjsFfmapn2qAjSz) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [許我耀眼 影視原聲帶](https://open.spotify.com/album/0ukXCOvwWjYvfmkNE8YobU) | 4:01 |
 | 26 | [座位](https://open.spotify.com/track/1kZGWL9K5CRdNloI1R1yZ6) | [姚晓棠](https://open.spotify.com/artist/011UpPnnyUWchmKVyFFByL) | [座位](https://open.spotify.com/album/6YgwuNXUvboMIuArSy1hq1) | 4:05 |
 | 27 | [Somnium Chamber](https://open.spotify.com/track/7BrLWuUlJo0NOe66XVFjPf) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Somnium Chamber](https://open.spotify.com/album/2P0vdydUw6dasijMXgQUR5) | 3:11 |

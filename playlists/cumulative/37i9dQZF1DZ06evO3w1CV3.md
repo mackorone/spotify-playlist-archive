@@ -4,7 +4,7 @@
 
 > This is Joy Crookes\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 36 min
+48 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Anyone But Me](https://open.spotify.com/track/40KxHanilxLVRq4DY5pnm7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Anyone But Me](https://open.spotify.com/album/6DDUgkyC6tDXlSa3w4ua3q) | 3:02 | 2023-05-02 |  |
 | [Bad Feeling](https://open.spotify.com/track/5L3rFG7ttfr4OK87dbUfle) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:26 | 2023-05-02 |  |
 | [Brave](https://open.spotify.com/track/288HSFmURcl6yxx4c5tFdr) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:54 | 2025-09-21 |  |
-| [Carmen](https://open.spotify.com/track/0eKAQzI3n37Dy727dTGPZ3) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:02 | 2025-09-30 |  |
+| [Carmen](https://open.spotify.com/track/0eKAQzI3n37Dy727dTGPZ3) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:02 | 2025-09-30 | 2025-10-25 |
 | [Carmen](https://open.spotify.com/track/2Len4tBitFcIf0sAp2zBOT) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Carmen](https://open.spotify.com/album/2X9F4vOl0e6K7qGyLqZoz2) | 3:02 | 2025-05-18 | 2025-09-30 |
 | [Darkest Hour](https://open.spotify.com/track/44gBofMgplbG0f1XQwTraO) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Perception EP](https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4) | 3:36 | 2023-05-02 |  |
 | [Don't Let Me Down \- Demo](https://open.spotify.com/track/1VwPTHAfPvcL1ZubK6qabL) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Don't Let Me Down \(Demo\)](https://open.spotify.com/album/7GWow8Uxx2X9Moop7GD3KR) | 3:15 | 2023-05-02 |  |
@@ -47,7 +47,8 @@
 | [Sinatra](https://open.spotify.com/track/7B7oncgJZ6AvkmKg6IZwpE) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:03 | 2023-05-02 |  |
 | [Since I Left You \- Demo](https://open.spotify.com/track/1W5ZEYctMAWShvwKEPNbbu) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Since I Left You \(Demo\)](https://open.spotify.com/album/7Mz7zqY2K51W7tyKl2G7rv) | 3:27 | 2023-05-02 |  |
 | [Skin](https://open.spotify.com/track/7k8b5u5fisGTDNahrJK6dw) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 2:58 | 2023-05-02 |  |
-| [Somebody To You](https://open.spotify.com/track/7oBgMg32SnVnS3IIbqf8AE) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Somebody To You](https://open.spotify.com/album/7Eg9y2rEHezE1vaK57eULG) | 2:57 | 2025-08-16 |  |
+| [Somebody To You](https://open.spotify.com/track/3sw5tuedQH6XDfwis22AVs) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 2:57 | 2025-10-25 |  |
+| [Somebody To You](https://open.spotify.com/track/7oBgMg32SnVnS3IIbqf8AE) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Somebody To You](https://open.spotify.com/album/7Eg9y2rEHezE1vaK57eULG) | 2:57 | 2025-08-16 | 2025-10-25 |
 | [Strength \(R U Ready\) \[feat\. Joy Crookes\]](https://open.spotify.com/track/1sVWTkfmfSjcip9unXt1Wz) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:21 | 2024-10-20 |  |
 | [Trouble](https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:04 | 2023-05-02 |  |
 | [Two Nights](https://open.spotify.com/track/5BeS2mGbdYVfS53Q6bVinG) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:06 | 2023-05-02 |  |

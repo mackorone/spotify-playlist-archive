@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: pOd",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: on/no",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Ep.24",
+        "url": "https://open.spotify.com/album/1t4euKRHtkxQTMrv8SvacB"
+      },
+      "artists": [
+        {
+          "name": "on/no",
+          "url": "https://open.spotify.com/artist/76w5A8cWkupod7k32aUSEa"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227045,
+      "name": "Ep.24",
+      "url": "https://open.spotify.com/track/0Sj6zTHZjMAwpeP19h9JNs"
+    },
+    {
+      "album": {
         "name": "From Now On",
         "url": "https://open.spotify.com/album/1RhnfelKFOeXpfGoTScAZm"
       },
@@ -266,7 +284,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 231376,
       "name": "From Now On",
       "url": "https://open.spotify.com/track/2CGjGKiz7HdaqOKLR4jE75"
@@ -1612,7 +1630,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 174230,
       "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e40\u0e23\u0e32\u0e04\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32 (Lesson)",
       "url": "https://open.spotify.com/track/3ZlNahS3geFOK4eW3D66eg"
@@ -2116,7 +2134,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 244000,
       "name": "\u0e19\u0e31\u0e48\u0e07\u0e42\u0e07\u0e48\u0e46",
       "url": "https://open.spotify.com/track/6KRDKL2T6rZWzKbwMrzr5o"
@@ -4221,6 +4239,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e41\u0e15\u0e48\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e39\u0e48",
+        "url": "https://open.spotify.com/album/0oA93Za5kiaxZAB4NtXxc5"
+      },
+      "artists": [
+        {
+          "name": "Chili sauce with mackerel",
+          "url": "https://open.spotify.com/artist/4HYi53mjmSBq5dUk3hdFCh"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259337,
+      "name": "\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e41\u0e15\u0e48\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e39\u0e48",
+      "url": "https://open.spotify.com/track/1XGFVfMc25U3YoK2rsOuxR"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e08\u0e33\u0e25\u0e2d\u0e07",
         "url": "https://open.spotify.com/album/4TuRZs92az7w4wmdkIV2kJ"
       },
@@ -4456,6 +4492,24 @@
       "duration_ms": 249732,
       "name": "\u0e41\u0e1b\u0e23\u0e07\u0e1f\u0e31\u0e19",
       "url": "https://open.spotify.com/track/23rueOXtXSoenSxTaL16zo"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e2d\u0e19\u0e42\u0e14\u0e23\u0e40\u0e21\u0e14\u0e32 (Andromeda)",
+        "url": "https://open.spotify.com/album/2NsBhNSA8bpzhehDPmQRXP"
+      },
+      "artists": [
+        {
+          "name": "Wednesday Calling",
+          "url": "https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392857,
+      "name": "\u0e41\u0e2d\u0e19\u0e42\u0e14\u0e23\u0e40\u0e21\u0e14\u0e32 (Andromeda)",
+      "url": "https://open.spotify.com/track/5dNz0aGH8q6C8m5RV2aIgm"
     },
     {
       "album": {

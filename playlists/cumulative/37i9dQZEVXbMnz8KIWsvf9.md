@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-1,228 songs - 3 day 0 hr 4 min
+1,229 songs - 3 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,7 +556,7 @@
 | [Promethazine](https://open.spotify.com/track/25n8diXqpb6LKyL0Dwzwoy) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [Pondering](https://open.spotify.com/artist/5vzCTzMec4uL6JCNkOFcZ2) | [Promethazine](https://open.spotify.com/album/6dqm5VRm3sUZotTnEbIV6D) | 3:02 | 2024-05-20 | 2025-03-24 |
 | [Promise You](https://open.spotify.com/track/5LuX3XQmdRG327lafv1p50) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:31 | 2021-09-19 | 2021-09-20 |
 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 | 2024-07-13 | 2024-11-13 |
-| [Proud](https://open.spotify.com/track/4jyfcb5s4H3hKl0CJXjYei) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [PROUD](https://open.spotify.com/album/1h8V3w6OBa9rc2bXmEwKB2) | 3:45 | 2024-11-12 |  |
+| [Proud](https://open.spotify.com/track/4jyfcb5s4H3hKl0CJXjYei) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [PROUD](https://open.spotify.com/album/1h8V3w6OBa9rc2bXmEwKB2) | 3:45 | 2024-11-12 | 2025-10-25 |
 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 | 2022-03-05 | 2022-05-17 |
 | [PYTHON](https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:31 | 2025-01-21 | 2025-02-03 |
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-08-18 | 2021-10-07 |
@@ -780,7 +780,7 @@
 | [Waves](https://open.spotify.com/track/5COfrWRxEpBOUmnQvbk3SL) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [STUNNER \- The 2nd Mini Album](https://open.spotify.com/album/0Q0FQVj4Npz4MmQuNaHh8u) | 2:55 | 2025-03-25 | 2025-04-10 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-03-11 | 2024-06-08 |
 | [WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:06 | 2025-10-18 | 2025-10-23 |
-| [WE GO UP](https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK) | 3:06 | 2025-10-11 |  |
+| [WE GO UP](https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK) | 3:06 | 2025-10-11 | 2025-10-25 |
 | [Weekend](https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Weekend](https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy) | 3:53 | 2021-07-08 | 2021-09-06 |
 | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/track/6qVqWJxIpsabUKBILG7d6N) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [nævis](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/album/2o35lokKrBVG73xWFDEVsX) | 3:26 | 2023-05-03 | 2023-05-12 |
 | [What if…](https://open.spotify.com/track/1fNwwml8UcKvhfM6YEVIRh) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:16 | 2022-07-16 | 2022-07-19 |
@@ -881,7 +881,7 @@
 | [ง้อ \(ALRIGHT\)](https://open.spotify.com/track/7ykcQ6Jx9Q6JbLGAazWuKS) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [ง้อ \(ALRIGHT\) \- Single](https://open.spotify.com/album/6IsszUhBvsoqnBIQeDwE3w) | 3:05 | 2024-08-24 | 2024-09-20 |
 | [จดจำ](https://open.spotify.com/track/2CjNvED1BSLPG1jYENA0QS) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [จดจำ \- Single](https://open.spotify.com/album/60XMexQBFQjM99UfV0QdoR) | 5:34 | 2024-01-25 | 2025-02-03 |
 | [จดจำ](https://open.spotify.com/track/40Sxfuw7BqILV8JYMcj2oi) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [จดจำ](https://open.spotify.com/album/1KrbNyUB1rnu00d9QSMLPi) | 5:34 | 2025-02-02 | 2025-04-13 |
-| [จดจำ](https://open.spotify.com/track/4kvBebTWC2UmFevtoG0BXy) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [Hotel Room 302](https://open.spotify.com/album/1BOeIQN7MNNVhtgRlUvHKZ) | 5:34 | 2025-04-12 | 2025-10-20 |
+| [จดจำ](https://open.spotify.com/track/4kvBebTWC2UmFevtoG0BXy) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [Hotel Room 302](https://open.spotify.com/album/1BOeIQN7MNNVhtgRlUvHKZ) | 5:34 | 2025-04-12 |  |
 | [จดหมาย](https://open.spotify.com/track/2wgGM5bNyPTVI2d7KHmmRw) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [I Beg Your Pardon](https://open.spotify.com/album/2lTMsDMjTYFFp2NVAMDgtf) | 3:03 | 2023-03-14 | 2024-08-24 |
 | [จะกลับไปดีกับเขาก็บอก](https://open.spotify.com/track/0uSPq0GNlfrIeaBDc2574f) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [จะกลับไปดีกับเขาก็บอก](https://open.spotify.com/album/5kEtuZ1KxY8xJRFZ25Xn4H) | 3:20 | 2021-07-21 | 2021-10-29 |
 | [จะมอบความรัก](https://open.spotify.com/track/4fAI0wdVepOCi4xRwj40z9) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [nothing is unfamiliar and strange](https://open.spotify.com/album/2IvPx9GJETnCKtoO7jqq2J) | 5:06 | 2024-09-23 | 2024-09-25 |
@@ -915,6 +915,7 @@
 | [ช่วยไม่ได้](https://open.spotify.com/track/4GGNl8jiANylTJj4hfzqP7) | [UrboyTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:17 | 2021-03-27\* | 2022-02-02 |
 | [ช่างมัน](https://open.spotify.com/track/3sKlbOuJnyz5g019B8jTk8) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [Cocktail](https://open.spotify.com/album/5O7LfIjeadyAOW4k2swGUp) | 4:41 | 2025-04-03 | 2025-04-11 |
 | [ซับ](https://open.spotify.com/track/0Qk8RUwooCGKghG9yClG3O) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [ว่าน วันวาน](https://open.spotify.com/artist/0QScRPnsnAmEpN7w3p1Joo) | [ซับ](https://open.spotify.com/album/1c96H5AfNuK1rbtQ54PjR7) | 4:46 | 2021-03-27\* | 2021-09-12 |
+| [ซาโยนาระ](https://open.spotify.com/track/1MkgN3lRBf5mXbxY6CWU9s) | [Mild](https://open.spotify.com/artist/2fLbT474RKQfdWHLw8Bf0G) | [MI4D](https://open.spotify.com/album/6EdwUD0kwZz0rVuXz5ed40) | 4:53 | 2025-10-24 |  |
 | [ซึมซับ \(DOUBTLESS\)](https://open.spotify.com/track/6NDNXuo2bGX7aFGA0jndEn) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [ซึมซับ \(DOUBTLESS\)](https://open.spotify.com/album/4nXAcObYOJHopK1CpkE5OI) | 3:33 | 2025-03-20 | 2025-04-07 |
 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 | 2022-05-25 | 2024-01-09 |
 | [ซ่อน\(ไม่\)หา](https://open.spotify.com/track/5nvdbRKg9fOixXotcZIQuF) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:54 | 2024-02-09 | 2025-02-18 |

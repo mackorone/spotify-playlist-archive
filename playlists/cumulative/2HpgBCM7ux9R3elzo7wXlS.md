@@ -4,7 +4,7 @@
 
 > All of it
 
-1,035 songs - 2 day 15 hr 40 min
+1,038 songs - 2 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -667,6 +667,7 @@
 | [Parfum d'étoiles](https://open.spotify.com/track/1LBtQ5Ce1Oo3UHdfMEQ72n) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 2:52 | 2025-06-02 |  |
 | [Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:58 | 2025-10-07 |  |
 | [Peaceful Easy Feeling \- 2013 Remaster](https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:17 | 2025-06-02 |  |
+| [Pearlies \(My oyster is the world\)](https://open.spotify.com/track/2CfVDYfw0B4WUHaWxyjsU3) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 3:07 | 2025-10-24 |  |
 | [Pearls](https://open.spotify.com/track/57R1nBluakXaayH9EzgwZa) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:33 | 2025-06-02 |  |
 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2025-06-02 |  |
 | [Pez Dorado](https://open.spotify.com/track/3egp2XXVJqXsUDXCitx4Tf) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd) | 4:56 | 2025-06-22 |  |
@@ -809,6 +810,7 @@
 | [Sour Grapes](https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:16 | 2025-06-02 |  |
 | [Space Oddity](https://open.spotify.com/track/3gl8UEsyIXrMnPjEAr0hhZ) | [Lady Heroine](https://open.spotify.com/artist/59POfoqauOGtNtpV52bval) | [When We Were Drunk](https://open.spotify.com/album/6mPfOBBAzLrWEpWzRwEsjK) | 5:13 | 2025-06-02 |  |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2025-06-02 |  |
+| [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 | 2025-10-24 |  |
 | [Spanish Castle Magic](https://open.spotify.com/track/2KFE98Iw0X23sf4vJYcbLH) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:03 | 2025-08-27 |  |
 | [SPEED IS LIFE](https://open.spotify.com/track/3YmhbpVrcl3mhVPOQWNJU8) | [lykia](https://open.spotify.com/artist/4ZIERQTvWH2EbE5kyQmQTy) | [SPEED IS LIFE](https://open.spotify.com/album/6uuRDbClnDrChvBAxl7VtJ) | 1:23 | 2025-06-02 |  |
 | [Spell of Absurdity](https://open.spotify.com/track/43zXfMVPAWCCXh9UfXbfgJ) | [Chuck Salamone](https://open.spotify.com/artist/1FMH8oRVo9NPn2rDzhRW2Z), [Diane Aragona](https://open.spotify.com/artist/14VL9c5tSsMRRURrS0Ywkv) | [Absent Moon, A Hylics Song Cycle](https://open.spotify.com/album/5K0ItWsPb3xMrGExPBsevy) | 4:52 | 2025-06-02 |  |
@@ -1035,6 +1037,7 @@
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2025-06-02 |  |
 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 | 2025-06-02 |  |
 | [『82.99 F.M』](https://open.spotify.com/track/76YGvWy36ftupwff9SCl7J) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [A Millions Miles Away](https://open.spotify.com/album/5IrjPvqdC4Wxse4oKSwaQe) | 2:30 | 2025-06-02 |  |
+| [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 | 2025-10-25 |  |
 | [ジュエリー \(Prod\. imase\)](https://open.spotify.com/track/1PeBPKbOCc370rnLKploBL) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ジュエリー \(Prod\. imase\)](https://open.spotify.com/album/6mw2LvoVp9MP0jMv0ZuJla) | 2:43 | 2025-06-02 |  |
 | [ダンシング・ヒーロー（Eat You Up）](https://open.spotify.com/track/4uedOJajNogY115gktPcvI) | [Yoko Oginome](https://open.spotify.com/artist/6yqXW1ZKNeDm04DguLHoJk) | [ダンシング・ヒーロー \-ALL EAT YOU UP\-](https://open.spotify.com/album/5erkicpBG8mwa3YqMPJcv0) | 3:47 | 2025-06-02 |  |
 | [メズマライザー \(feat\. 初音ミク&重音テト\)](https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ) | [32ki](https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [メズマライザー](https://open.spotify.com/album/3DkZ625ZGRV80f5aFnlPCL) | 2:36 | 2025-06-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,457 likes - 66 songs - 3 hr 42 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,462 likes - 69 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,5 +74,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 64 | [Golden Fall](https://open.spotify.com/track/1MxBaWWTu4RRh7edgHExVb) | [Ooberman](https://open.spotify.com/artist/0QEF9qRSTtRUV6leWVPhQt) | [Shorley Wall](https://open.spotify.com/album/24V0ER59SFtczhNhoqOYMq) | 4:55 |
 | 65 | [Stars](https://open.spotify.com/track/7AD1EjsHB0ynpJ1LCkcz2X) | [Lisa Germano](https://open.spotify.com/artist/5TZqjmYL8p9HtJsBKXCxgE) | [Geek the Girl](https://open.spotify.com/album/1yZ4bCBoDk01rxjefcoUzq) | 2:31 |
 | 66 | [Love To Know](https://open.spotify.com/track/2eJW10wl70KQ7zLazlSEMW) | [Marine Girls](https://open.spotify.com/artist/06U3HB7kYW3D8AORt54Xp8) | [Lazy Ways/Beach Party](https://open.spotify.com/album/1mcPuNWDmqpSpm86qyHD8l) | 2:51 |
+| 67 | [Father Lucifer \- 2016 Remaster](https://open.spotify.com/track/22lGkc95LBywIGwK0s7duD) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Boys for Pele \(Deluxe Edition\)](https://open.spotify.com/album/7vuSTl6tuWg0CQdmfphkFQ) | 3:42 |
+| 68 | [The Way I Feel Inside](https://open.spotify.com/track/4LxeKPgKy1l37g2vTM77Mu) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/2tJfEX4O0mNPax2wR0q0DQ) | 1:51 |
+| 69 | [Again & Again](https://open.spotify.com/track/3Kh7jZ6QdVJJq63A3xRneN) | [the bird and the bee](https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD) | [the bird and the bee](https://open.spotify.com/album/6a0Cjn8ctxzj67VGrk96IH) | 2:45 |
 
-Snapshot ID: `AAANTDBPz48El6Idb1SY7t7NY3R1qQnm`
+Snapshot ID: `AAANTytfEbpUFA3K74LBryTJajcO2BbC`

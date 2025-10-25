@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 
 > Songs that will make you and your kids laugh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,810 likes - 50 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,808 likes - 50 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

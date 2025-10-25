@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: Angelina Mango
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,087 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,126 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 16 | [Halo](https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [Halo](https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF) | 2:17 |
 | 17 | [Hooligan](https://open.spotify.com/track/1EHgSsxhARHChEt4mbHDS6) | [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Hooligan](https://open.spotify.com/album/2nAA78saQypIBDktWAHfXV) | 2:49 |
 | 18 | [Attacchi di panico](https://open.spotify.com/track/6kcW7rUXA5zL4RlnrwJp0P) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [La bella confusione](https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO) | 3:32 |
-| 19 | [Voglia](https://open.spotify.com/track/6bHmaVeCclWfcAgsW9Woct) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [](https://open.spotify.com/album/null) | 2:33 |
+| 19 | [Voglia](https://open.spotify.com/track/6bHmaVeCclWfcAgsW9Woct) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Tempo](https://open.spotify.com/album/0VGPQdeIhFg1BqfKqKW0b4) | 2:33 |
 | 20 | [Genie In A Bottle \- Spotify Singles](https://open.spotify.com/track/1XhTyKFFySgEHONZYsZcdT) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Genie In A Bottle \- Spotify Singles](https://open.spotify.com/album/6LmGzRqpz6W0XV7fysHXuG) | 3:11 |
 | 21 | [aiaiai](https://open.spotify.com/track/6MkVCaKKi7DWDUTQovpw6a) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [caramé](https://open.spotify.com/album/2quUnR742DXfpRAEUiq6le) | 3:29 |
 | 22 | [Mai \(feat\. Gaia\)](https://open.spotify.com/track/5IO3qAvRiUlnKjC2oI0vec) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 2:39 |

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Unmissable emerging pop 💫 Skye Newman on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,078 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,077 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FU & UF](https://open.spotify.com/track/2UfNSV1Fwz4gGJf42ZX1Pu) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [](https://open.spotify.com/album/null) | 2:39 |
+| 1 | [FU & UF](https://open.spotify.com/track/2UfNSV1Fwz4gGJf42ZX1Pu) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [SE9 Part 1](https://open.spotify.com/album/4Wz7yb00TiEUqMrd3gzVtz) | 2:39 |
 | 2 | [So Sad So Hot](https://open.spotify.com/track/3IenzL5TT65zeB1K7940JY) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [So Sad So Hot](https://open.spotify.com/album/1s2QItOpAFagmxy1vMEDzA) | 2:51 |
-| 3 | [Bracing For Impact](https://open.spotify.com/track/4AcdJoArcqN1FRV7W1SJ1I) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [](https://open.spotify.com/album/null) | 3:14 |
-| 4 | [Miracle](https://open.spotify.com/track/22UXcHkB8wArgD6H8Si4Ui) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [](https://open.spotify.com/album/null) | 3:28 |
+| 3 | [Bracing For Impact](https://open.spotify.com/track/4AcdJoArcqN1FRV7W1SJ1I) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Bracing For Impact](https://open.spotify.com/album/6yQAIt35n1JPwzIfvCxZrI) | 3:14 |
+| 4 | [Miracle](https://open.spotify.com/track/22UXcHkB8wArgD6H8Si4Ui) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Miracle](https://open.spotify.com/album/4GCl2J72Hzykrt4Ajv0rJU) | 3:28 |
 | 5 | [Die On This Hill](https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC) | 3:37 |
 | 6 | [The Fault Is Mine](https://open.spotify.com/track/52guz6B9Tmho2QTpwVO6gC) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [The Fault Is Mine](https://open.spotify.com/album/7860RQWSgFaI72aF81Qqgu) | 3:33 |
 | 7 | [Cats & Dogs](https://open.spotify.com/track/4QZMcoAggngJc5qSbUqnin) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Cats & Dogs](https://open.spotify.com/album/3BNsRryF2TQlOp9V367aP8) | 2:45 |
 | 8 | [18 Again](https://open.spotify.com/track/3mJeZKzGkOwhyfBQoNUlph) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Nighttime Religion](https://open.spotify.com/album/08Si3b7WpgvlphZPQ5ihtY) | 2:59 |
 | 9 | [bad bitch in love](https://open.spotify.com/track/5sa0E3yJBobRTGCyYqrb6U) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [bad bitch in love](https://open.spotify.com/album/00Y6uQdwKVMqlgXHGQqz3G) | 2:41 |
-| 10 | [Obvious](https://open.spotify.com/track/72gpBYA9m8aDCcYvMDm3fv) | [Jack Kane](https://open.spotify.com/artist/5c6qUocQoL2xgqwBpolpMi) | [](https://open.spotify.com/album/null) | 3:39 |
+| 10 | [Obvious](https://open.spotify.com/track/72gpBYA9m8aDCcYvMDm3fv) | [Jack Kane](https://open.spotify.com/artist/5c6qUocQoL2xgqwBpolpMi) | [Obvious](https://open.spotify.com/album/7C1q5JKQw0rmt76TBPetmX) | 3:39 |
 | 11 | [MACHINE GHOST](https://open.spotify.com/track/2V81aHl0iP9DYsqP3YzoLI) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [MACHINE GHOST](https://open.spotify.com/album/3TkmekJyEsvoyiKLWjNfz6) | 3:44 |
 | 12 | [Peace Sign](https://open.spotify.com/track/3bfvR3bnPJuTSjnHu8nPGG) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Peace Sign](https://open.spotify.com/album/1yV1cfCfYK6wfD4cBW7Ai2) | 3:05 |
 | 13 | [YOU KNOW I LOVE YOU](https://open.spotify.com/track/1HKKY18ecG113bvpdnylfP) | [samxemma](https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y) | [YOU KNOW I LOVE YOU](https://open.spotify.com/album/2OKd0EqIVRjqEPB40FZd79) | 2:19 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 22 | [Sugarloaf](https://open.spotify.com/track/2GPm0LMrCQrmIunuEOViqf) | [anna leah](https://open.spotify.com/artist/5e9KbGgdnBvD8H1marauXz) | [Sugarloaf](https://open.spotify.com/album/3VGA1pcA9EJCr0HvbgCiL0) | 3:32 |
 | 23 | [Final Girl](https://open.spotify.com/track/3fok9plswB5ajvSFNZYQX1) | [Lazygirl](https://open.spotify.com/artist/1YV0K79qt0uLTxtGflXTH9) | [Final Girl](https://open.spotify.com/album/0iuT0lgZ7hzwIENcggBOj4) | 2:34 |
 | 24 | [SWEETEST STAR](https://open.spotify.com/track/3yofgNbCx5BgQvIKrDYTqm) | [Renao](https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2) | [STILL LIFE](https://open.spotify.com/album/365n5oKpXvLf8lMPq8vWgN) | 2:22 |
-| 25 | [East Coast](https://open.spotify.com/track/4JoQ1zoTNFxr1aWmDxcRdL) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [](https://open.spotify.com/album/null) | 2:54 |
-| 26 | [All The Lies](https://open.spotify.com/track/11l1dwUIkoCpRTrP2amR0l) | [Isabel](https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN) | [](https://open.spotify.com/album/null) | 3:17 |
+| 25 | [East Coast](https://open.spotify.com/track/4JoQ1zoTNFxr1aWmDxcRdL) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [East Coast EP](https://open.spotify.com/album/0LC6rKWuEBQ1Z27R6oW4RU) | 2:54 |
+| 26 | [All The Lies](https://open.spotify.com/track/11l1dwUIkoCpRTrP2amR0l) | [Isabel](https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN) | [It Is That Deep](https://open.spotify.com/album/4NHoI9WuFFurxpeNTiPVpA) | 3:17 |
 | 27 | [tender](https://open.spotify.com/track/4P73kLFUn1QluY3HVZ5kkb) | [DONT MAKE THIS WEIRD](https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p) | [tender](https://open.spotify.com/album/0Zl8GqlbdlNM3xzalz8WEe) | 2:18 |
 | 28 | [Death of the Party](https://open.spotify.com/track/4dPuLlDTnZ7dpMSkS2BpPG) | [Maisy Kay](https://open.spotify.com/artist/1O9EVVcpg2FOQ0vAQ7LqiT) | [Death of the Party](https://open.spotify.com/album/0xwOFGHgQNYcEKLK2KLlmX) | 3:10 |
 | 29 | [Away With The Fairies](https://open.spotify.com/track/6staIFmNdDUqWQrclOwFSo) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Away With The Fairies](https://open.spotify.com/album/0gXVAWIrgAtZAyQm1kLkyX) | 3:29 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 69 | [Save Yourself](https://open.spotify.com/track/4IK2SDnLvxrT6mu4KKPoZP) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Save Yourself](https://open.spotify.com/album/75lJDWxHSP5gmOgFfD8Tds) | 2:16 |
 | 70 | [this is what dreams are made of](https://open.spotify.com/track/30SHnh4Juq7dvGMg6rtMQU) | [Emma Bradley](https://open.spotify.com/artist/5xYIRSJkHjlWgZidBISyzk) | [this is what dreams are made of](https://open.spotify.com/album/6Iihb0VfgzpR55jQGS39ra) | 3:00 |
 
-Snapshot ID: `AAAAAGi5dp+GwaItG52aDbsYXRhQF6KR`
+Snapshot ID: `AAAAAJR3D9fbb7u1cXhoGksSo7jmULmi`

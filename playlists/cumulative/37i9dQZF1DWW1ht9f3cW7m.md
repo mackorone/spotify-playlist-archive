@@ -4,7 +4,7 @@
 
 > peach is an indie pop playlist 🥤 cover: Audrey Hobert
 
-428 songs - 23 hr 7 min
+428 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All I Ever Dream About](https://open.spotify.com/track/3wxG6mf4sbIg5i8hnCcMnG) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [All I Ever Dream About](https://open.spotify.com/album/6ChtPY348jHDmASn1U6FlZ) | 3:04 | 2024-08-21 | 2025-04-13 |
 | [All I Ever Dream About](https://open.spotify.com/track/4Qwp34CisVMC3T8EXBxccl) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [daydreamers](https://open.spotify.com/album/6kI23aXCspP0OQen2qiFyG) | 3:05 | 2025-04-12 | 2025-05-04 |
 | [All I Need](https://open.spotify.com/track/3gsfYvtbR1R2ojiUzkYowD) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [All I Need](https://open.spotify.com/album/06YmDXLSHitod7weK09KGO) | 3:29 | 2025-08-28 |  |
+| [ALL I WANNA DO IS SCREAM I LOVE YOU](https://open.spotify.com/track/2aebp0uaeIpTtstoPmtyYE) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [HEATED!](https://open.spotify.com/album/1Ei5f3KtZShemJu7oUnCZl) | 3:34 | 2025-10-23 |  |
 | [All My Life](https://open.spotify.com/track/25Lf4qYSRw3uy8mca4qZ3a) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [All My Life](https://open.spotify.com/album/4oPC3WfDoFPATlsHOKe2Bg) | 2:01 | 2025-09-11 |  |
 | [All that !](https://open.spotify.com/track/3BqygYyah5UVTl9ZioclGu) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [All that !](https://open.spotify.com/album/0FVhNOU9SkNAb41HmkFff8) | 3:24 | 2025-05-01 | 2025-06-13 |
 | [Allegedly](https://open.spotify.com/track/7FuKEJqJTH3G86vZyqcwM4) | [Lauren Wallace](https://open.spotify.com/artist/6kQlU9z8SfhsepmwhQhQCu) | [Allegedly](https://open.spotify.com/album/5yFMiV3EyqQtoCzRduZowR) | 2:48 | 2025-06-12 | 2025-07-11 |
@@ -113,7 +114,7 @@
 | [crying in chanel](https://open.spotify.com/track/0vrZ7IPhmPflJv57GWB5gh) | [ENNA](https://open.spotify.com/artist/1TbnLBzj5rSZeoM522CwhS) | [crying in chanel](https://open.spotify.com/album/0oXGHpzA98ax17AznYBCMO) | 2:29 | 2025-05-01 | 2025-05-13 |
 | [Daisy](https://open.spotify.com/track/5kAH1wvro8j2S2GPczmGlI) | [Leona Rue](https://open.spotify.com/artist/7FrJbMXCyvdwO9WeALL1oe) | [Daisy](https://open.spotify.com/album/4ckNbXTzlhv3EE1xfOQGWv) | 3:15 | 2025-05-22 | 2025-10-03 |
 | [dead to me](https://open.spotify.com/track/2LCZb9kZzIGbhg8sRYXrlS) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [dead to me](https://open.spotify.com/album/0N6PhfAFdjw0BV2qTt7tdN) | 2:44 | 2025-09-01 |  |
-| [Deep End](https://open.spotify.com/track/5Z5ZclhsY2GxlaWbBMPkbP) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [](https://open.spotify.com/album/null) | 4:22 | 2025-10-23 |  |
+| [Deep End](https://open.spotify.com/track/5Z5ZclhsY2GxlaWbBMPkbP) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Twinkly Depression](https://open.spotify.com/album/084ZjyrSmQFFqjQ12mby1A) | 4:22 | 2025-10-23 |  |
 | [Deeply Still In Love](https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Deeply Still In Love](https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN) | 4:02 | 2024-06-14 | 2024-12-06 |
 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 | 2025-05-01 | 2025-08-08 |
 | [Delete Ya](https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:23 | 2025-04-12 | 2025-06-13 |
@@ -258,7 +259,7 @@
 | [May I Have This Dance?](https://open.spotify.com/track/0pAcGeokyNP8jsxgJPvZLF) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [May I Have This Dance?](https://open.spotify.com/album/5ruqDtNkEKfArLkcIob3DC) | 3:03 | 2025-05-01 | 2025-06-13 |
 | [Meet Cute](https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Meet Cute](https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp) | 2:46 | 2024-08-21 | 2025-01-24 |
 | [Mega Circuit](https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Mega Circuit](https://open.spotify.com/album/1hWuBWREfpHifHWl73XraS) | 3:04 | 2025-02-14 | 2025-06-06 |
-| [Middle Man](https://open.spotify.com/track/0zPWBQTSVyn7dS2OXU7Ng9) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [](https://open.spotify.com/album/null) | 4:48 | 2025-10-23 |  |
+| [Middle Man](https://open.spotify.com/track/0zPWBQTSVyn7dS2OXU7Ng9) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [The Closest We'll Get](https://open.spotify.com/album/527BKGronR7ZCm9lHLmP8K) | 4:48 | 2025-10-23 |  |
 | [Midnight Butterflies](https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy) | 3:28 | 2024-06-14 | 2025-01-24 |
 | [Million Dollar Baby](https://open.spotify.com/track/72B6qv2BQsyM4Mds3iiIyU) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C) | 3:21 | 2024-06-14 | 2025-01-24 |
 | [Mindless Creatures](https://open.spotify.com/track/5lzZuwEPInxJRwYUQFqIlH) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Dayglow](https://open.spotify.com/album/6dc1gFl6kyF8LqZ9IGfaYx) | 4:38 | 2024-09-20 | 2025-01-24 |
@@ -388,7 +389,6 @@
 | [to be free](https://open.spotify.com/track/2f526wBHCGx6u6HsbF0uAE) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [to be free](https://open.spotify.com/album/12i8HQPqFmEO1cBqhF26fI) | 3:50 | 2025-01-24 | 2025-05-16 |
 | [Too Far Gone](https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Too Far Gone](https://open.spotify.com/album/2KCorvQcuU6SwQcQVcV7kk) | 3:05 | 2025-01-24 | 2025-05-02 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-06-27 |
-| [Track 5](https://open.spotify.com/track/2aebp0uaeIpTtstoPmtyYE) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [trouble](https://open.spotify.com/track/4tRUbPTB8CpQqPPW4zVs1P) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [trouble](https://open.spotify.com/album/2iEZpstaXItfUJTlaXTWNE) | 3:08 | 2024-06-14 | 2024-07-13 |
 | [Tulips](https://open.spotify.com/track/2mBbN7mMoWJXduE6T9xuZB) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Tulips](https://open.spotify.com/album/6EXK2krpifmLZZhJVlEgbv) | 3:18 | 2024-06-14 | 2024-07-13 |
 | [TV Show](https://open.spotify.com/track/1z7bP3RDABUmcONZNAnxN3) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [TV Show](https://open.spotify.com/album/758tMDw0wXQKLlhmbTErqI) | 3:17 | 2025-06-12 | 2025-08-15 |

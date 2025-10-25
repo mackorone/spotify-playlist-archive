@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The newest and best Hip-Hop tracks, updated weekly! Cover: Drake",
+  "description": "The newest and best Hip-Hop tracks, updated weekly! Cover: Dave",
   "name": "Hip-Hop Pulse",
   "tracks": [
     {
@@ -2496,7 +2496,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 301428,
       "name": "Enjoy The Show (feat. Future)",
       "url": "https://open.spotify.com/track/637oNhilCI9UlkWkUW4Grt"
@@ -2722,6 +2722,28 @@
       "duration_ms": 237840,
       "name": "Feeling Myself",
       "url": "https://open.spotify.com/track/5fyIGoaaKelzdyW8ELhYJZ"
+    },
+    {
+      "album": {
+        "name": "Feet On Land",
+        "url": "https://open.spotify.com/album/1liqhZLxTPYloAgky8FjuJ"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152658,
+      "name": "Feet On Land",
+      "url": "https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO"
     },
     {
       "album": {
@@ -5273,6 +5295,28 @@
     },
     {
       "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198256,
+      "name": "No Weapons (feat. Jim Legxacy)",
+      "url": "https://open.spotify.com/track/064NMVv1SUTN1e2fbG4MKt"
+    },
+    {
+      "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
@@ -6892,7 +6936,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 110302,
       "name": "SMOKING IN THE RAIN (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/6lislq9SZH4CTFXq6opVwh"
@@ -6928,7 +6972,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 138082,
       "name": "So Not Sorry",
       "url": "https://open.spotify.com/track/29wQKVGS415sTQmoeJ4gFg"
@@ -7052,7 +7096,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 157992,
       "name": "squabble up",
       "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
@@ -7118,6 +7162,28 @@
       "duration_ms": 270586,
       "name": "Still D.R.E.",
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+    },
+    {
+      "album": {
+        "name": "Still Get Chanel (feat. Chance The Rapper)",
+        "url": "https://open.spotify.com/album/0eVHBtiX6G7wMWErRoa9cW"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199431,
+      "name": "Still Get Chanel (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/6saKboIoQgXKIHfQJVwv5i"
     },
     {
       "album": {
@@ -7506,6 +7572,24 @@
       "duration_ms": 164897,
       "name": "The Bell",
       "url": "https://open.spotify.com/track/3p1wCo1LLu41XK83rHO4K8"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277765,
+      "name": "The Boy Who Played the Harp",
+      "url": "https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN"
     },
     {
       "album": {

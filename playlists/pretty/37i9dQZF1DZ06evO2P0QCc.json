@@ -1,29 +1,13 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 120858,
+  "num_followers": 120895,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAACSCocmncGt04mZ1QiNWT3p",
+  "snapshot_id": "aPlwAAAAAACs3V8K5sLwLqSVaFQgItLl",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Estoy Enamorando (Sonando desde el Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/7uOVn6vtCUGhz89nvD9nL4"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Me Estoy Enamorando - Sonando desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/7HXcDZtdxoG2MwH8mJ03gh"
-    },
     {
       "added_at": null,
       "album": {
@@ -59,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unidad, Cerveza y Ska",
         "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
       },
@@ -71,22 +71,6 @@
       "duration_ms": 249906,
       "name": "No Piensa En Ti",
       "url": "https://open.spotify.com/track/6zc3skkzxwCJXVywiv7JvM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb"
     },
     {
       "added_at": null,
@@ -123,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pero Qu\u00e9 Necesidad",
         "url": "https://open.spotify.com/album/2vaIJEvfeaTJpEemwKFcpC"
       },
@@ -143,26 +143,6 @@
       "duration_ms": 188394,
       "name": "Pero Qu\u00e9 Necesidad",
       "url": "https://open.spotify.com/track/2DfpEIi9o9a8IixpU0JDou"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Tony Hern\u00e1ndez El Gran Silencio",
-          "url": "https://open.spotify.com/artist/2xyRb0bM3w9pGtRVYFjiS6"
-        }
-      ],
-      "duration_ms": 246100,
-      "name": "Osito Dormil\u00f3n (feat. Tony Hernandez El Gran Silencio)",
-      "url": "https://open.spotify.com/track/0AisSsUIcNNDPBFUuShQxr"
     },
     {
       "added_at": null,
@@ -199,6 +179,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Tony Hern\u00e1ndez El Gran Silencio",
+          "url": "https://open.spotify.com/artist/2xyRb0bM3w9pGtRVYFjiS6"
+        }
+      ],
+      "duration_ms": 246100,
+      "name": "Osito Dormil\u00f3n (feat. Tony Hernandez El Gran Silencio)",
+      "url": "https://open.spotify.com/track/0AisSsUIcNNDPBFUuShQxr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inspecci\u00f3n Retroac\u00fastica",
         "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
       },
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amar o Morir",
-        "url": "https://open.spotify.com/album/2q4m9TbU7rnvsC3thQ004u"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 252266,
-      "name": "Brindo por ti",
-      "url": "https://open.spotify.com/track/4T2O4SWChk3uKN8Tvyxzic"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 232253,
       "name": "Sin Rencor",
       "url": "https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amar o Morir",
+        "url": "https://open.spotify.com/album/2q4m9TbU7rnvsC3thQ004u"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 252266,
+      "name": "Brindo por ti",
+      "url": "https://open.spotify.com/track/4T2O4SWChk3uKN8Tvyxzic"
     },
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 223146,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 245146,
       "name": "Las Tijeras",
       "url": "https://open.spotify.com/track/3Rn0rPrhtQmEJlljjanuc9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 223146,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1ginas en Blanco",
-        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 240189,
-      "name": "P\u00e1nico",
-      "url": "https://open.spotify.com/track/3dgYZb17HvfXHL3pmdF4v8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 194893,
       "name": "Cara De Chango",
       "url": "https://open.spotify.com/track/4lMHkTJe2Kcx4yJXfBaTyj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e1ginas en Blanco",
+        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 240189,
+      "name": "P\u00e1nico",
+      "url": "https://open.spotify.com/track/3dgYZb17HvfXHL3pmdF4v8"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Serpientes Y Escaleras",
+      "url": "https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A La Larga Te Acostumbras",
         "url": "https://open.spotify.com/album/1bp7ROjR99ipXFrSuRGhvM"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 186613,
       "name": "Tengo Un Amor",
       "url": "https://open.spotify.com/track/7jpqYcKRXHfGl0pP32h0xZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Serpientes Y Escaleras",
-      "url": "https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Convaleciente",
-        "url": "https://open.spotify.com/album/5ugPUCZNcNtYJZuczE83Th"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 206694,
-      "name": "Convaleciente",
-      "url": "https://open.spotify.com/track/4O0sPAqzasrIPPuDDrlM3r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serpientes Y Escaleras",
         "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 224666,
       "name": "Grita",
       "url": "https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Convaleciente",
+        "url": "https://open.spotify.com/album/5ugPUCZNcNtYJZuczE83Th"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 206694,
+      "name": "Convaleciente",
+      "url": "https://open.spotify.com/track/4O0sPAqzasrIPPuDDrlM3r"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspecci\u00f3n Retroac\u00fastica",
-        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "El Dejado",
-      "url": "https://open.spotify.com/track/2CImSOkWBJb7aX15imss53"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serpientes Y Escaleras",
         "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 224000,
       "name": "El Amargado",
       "url": "https://open.spotify.com/track/6MxqbiUTPF5FmNPJfIkwAH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inspecci\u00f3n Retroac\u00fastica",
+        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "El Dejado",
+      "url": "https://open.spotify.com/track/2CImSOkWBJb7aX15imss53"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspecci\u00f3n Retroac\u00fastica",
-        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 209793,
-      "name": "Volvamos a Ser Novios",
-      "url": "https://open.spotify.com/track/1TaxeNJAmzQ91dh9zF5701"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna (Sonando Desde El Auditorio Nacional)",
         "url": "https://open.spotify.com/album/554mV2o4xXe18Z8WPvNQnW"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 321493,
       "name": "Luna - Sonando Desde El Auditorio Nacional",
       "url": "https://open.spotify.com/track/301p7RYR4Bg9a16m80XWnY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inspecci\u00f3n Retroac\u00fastica",
+        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 209793,
+      "name": "Volvamos a Ser Novios",
+      "url": "https://open.spotify.com/track/1TaxeNJAmzQ91dh9zF5701"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "El A\u00f1o Viejo (feat. Celso Pi\u00f1a)",
-      "url": "https://open.spotify.com/track/4vTtvXQ1ZsQ01OBFDB0CuP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
         "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
@@ -863,6 +843,22 @@
       "duration_ms": 239333,
       "name": "Desatinos",
       "url": "https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "Esta Vez",
+      "url": "https://open.spotify.com/track/0zPQsH6ocbEQoiVU5kEJL8"
     }
   ],
   "unique_name": "This Is Inspector",

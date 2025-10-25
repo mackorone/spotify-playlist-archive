@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,912 likes - 110 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,906 likes - 110 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 79 | [離不開你是我最錯的決定](https://open.spotify.com/track/1g2XkHVcNsIbkzi7wVonL1) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [離不開你是我最錯的決定](https://open.spotify.com/album/36Zze8j2nahsXihsY4WNKO) | 3:31 |
 | 80 | [東京還在下雨嗎](https://open.spotify.com/track/0CnaKcukf4tFM8BusDl4mz) | [BAYA 小林航](https://open.spotify.com/artist/3dGFpvCz9475wfH587Myyb) | [東京還在下雨嗎](https://open.spotify.com/album/38AUyNHi46dRWy5h3lKmxy) | 3:35 |
 | 81 | [假装没什么 \(《入青云》影视剧唯爱缚情曲\)](https://open.spotify.com/track/56wlvCfNPo7vCTTn9WkSUj) | [王靖雯](https://open.spotify.com/artist/4lQ2LwNj8DlXSM3UntsbGc) | [假装没什么 \(《入青云》影视剧唯爱缚情曲\)](https://open.spotify.com/album/6rTQLw3lQBv5MAOiFsKxBg) | 4:26 |
-| 82 | [我是真的相信過愛情](https://open.spotify.com/track/1jzf9hHC4ADMmQMWvKdhbg) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [我是真的相信過愛情](https://open.spotify.com/album/7cpBnzeIAjRomRz6QFpUbK) | 4:41 |
+| 82 | [我是真的相信過愛情](https://open.spotify.com/track/1jzf9hHC4ADMmQMWvKdhbg) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [我是真的相信過愛情](https://open.spotify.com/album/7cpBnzeIAjRomRz6QFpUbK) | 4:41 |
 | 83 | [末日擁抱](https://open.spotify.com/track/3t8zDLQg4orQ7FvYSHHbs8) | [Xinz](https://open.spotify.com/artist/7ECCgxHrOUNqurrG8q3CJA) | [bye.](https://open.spotify.com/album/0FLBlLDe1w3BuzZIpVCUXZ) | 2:55 |
 | 84 | [你還在（Back to December）](https://open.spotify.com/track/64rxkm225enYGb8hAPXsbi) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e) | [你還在（Back to December）](https://open.spotify.com/album/6Ha5JYiUzSrrdaZeEADw9W) | 3:30 |
 | 85 | [最後一次擁抱](https://open.spotify.com/track/6V5ICRsPO9NBtLApkKRouw) | [顧于安](https://open.spotify.com/artist/40BZviKYLv51xc0Rrwij7m) | [最後一次擁抱](https://open.spotify.com/album/1718YcI9ukip4fTft3F41M) | 3:23 |

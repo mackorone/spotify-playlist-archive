@@ -153,6 +153,28 @@
     },
     {
       "album": {
+        "name": "A Song To Sing",
+        "url": "https://open.spotify.com/album/4iqnGca3K2uMJiDSrNbpfd"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179928,
+      "name": "A Song To Sing",
+      "url": "https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX"
+    },
+    {
+      "album": {
         "name": "Heartache Medication",
         "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
       },
@@ -6046,7 +6068,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 162586,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/3CC2sCo30DhwOwGI4NN30I"

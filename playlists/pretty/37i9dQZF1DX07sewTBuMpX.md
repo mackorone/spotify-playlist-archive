@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 
 > De beste tunes op repeat\. Cover: Jonna Fraser & Lil Kleine
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,269 likes - 90 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,259 likes - 90 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 | 89 | [Sweety Darling](https://open.spotify.com/track/1pT2D94nmsih5N9gqoV5bJ) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Sweety Darling](https://open.spotify.com/album/2NtImoM1XD9dQefEpeQx9S) | 3:07 |
 | 90 | [MARADONA](https://open.spotify.com/track/6DQP9PApwO1ytBaOOec8ap) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [MARADONA](https://open.spotify.com/album/5tKM7AJK4KbZfvjULZWqBL) | 2:25 |
 
-Snapshot ID: `AAAAAMH+tS0lmceiDVoGs+wyEHJ80L23`
+Snapshot ID: `AAAAAGIagEUdWr7bR20tJobc9fPXN9Ea`

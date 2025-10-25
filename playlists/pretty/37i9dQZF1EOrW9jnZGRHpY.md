@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOrW9jnZGRHpY.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 17 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 17 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOrW9jnZGRHpY.md) - [plain]
 | 2 | [Ponle](https://open.spotify.com/track/28O1p0bQXH2F6Qn8jBZZR4) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Ponle](https://open.spotify.com/album/55Wnt6L8wZHQKQLC6qQe8k) | 2:44 |
 | 3 | [J Balvin](https://open.spotify.com/episode/5n1zXQ5aXvmXqxBG6qCFW9) | [¡Viva Latino!](https://open.spotify.com/show/4KipqK7RBwdIhYmqGvCrEu) | [¡Viva Latino!](https://open.spotify.com/album/4KipqK7RBwdIhYmqGvCrEu) | 25:32 |
 | 4 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 |
-| 5 | [Drake vs Drake](https://open.spotify.com/episode/0AhU9dUyG0Hi9VoI0WPFQO) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 41:49 |
+| 5 | [Drake vs Drake](https://open.spotify.com/episode/0AhU9dUyG0Hi9VoI0WPFQO) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 43:05 |
 | 6 | [Vete](https://open.spotify.com/track/2n7ohqg1s68ToAHh4u9mcW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:12 |
 | 7 | [Slide \(Remix\) \(feat\. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown\) \(feat\. Pop Smoke\)](https://open.spotify.com/track/6MO2bfLHKykUgCChFdw91H) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Slide \(Remix\) \(feat\. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown\) \(feat\. Pop Smoke\)](https://open.spotify.com/album/7LMJKPGcBZjZf6AEnTBS2t) | 4:56 |
 | 8 | [EP2 \| Chris Brown \- "Undecided"](https://open.spotify.com/episode/7twhRsJY0x8wupCXm0lOoe) | [The Sample](https://open.spotify.com/show/33QZUMjL7CgttNWL1gs3or) | [The Sample](https://open.spotify.com/album/33QZUMjL7CgttNWL1gs3or) | 11:33 |

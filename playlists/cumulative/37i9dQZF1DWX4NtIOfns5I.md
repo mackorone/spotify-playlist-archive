@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> haley heynderickx on the cover🍃
+> alice phoebe lou on the cover🍃
 
-642 songs - 1 day 14 hr 38 min
+647 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Believer](https://open.spotify.com/track/6gLOkCljeiC4m4bJj6BT8l) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 6:02 | 2025-06-13 |  |
 | [Best Guess](https://open.spotify.com/track/6b3VHyOfkhi6RnzDJuqceh) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Talk](https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36) | 4:00 | 2025-03-18 | 2025-05-31 |
 | [better off](https://open.spotify.com/track/3XrlBRs4Kz1dFHZ7PfNehy) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [better off](https://open.spotify.com/album/5iX6joje4V2KmLlLUgjMfT) | 3:58 | 2024-11-22 | 2025-03-13 |
+| [Betty](https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Betty](https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu) | 3:02 | 2025-10-24 |  |
 | [Bindi in the Dirt](https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH) | [Mikayla Pasterfield](https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA) | [Bindi in the Dirt](https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm) | 3:51 | 2023-10-06 | 2024-08-17 |
 | [Bird cage blue and yellow](https://open.spotify.com/track/3qhyW08FypET71F65dYZZc) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Songs of Origin](https://open.spotify.com/album/2l9etGpqZ3uyqa5I2xozjv) | 3:14 | 2024-10-01 | 2025-02-22 |
 | [Birdseye](https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Water's Here In You](https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri) | 2:31 | 2024-10-11 | 2025-05-10 |
@@ -222,6 +223,7 @@
 | [green](https://open.spotify.com/track/08q9oymzN5ozNuE8q4YzrG) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [green](https://open.spotify.com/album/3wtbk8hyZN77OqkubXcAtc) | 3:06 | 2024-04-12 | 2025-01-18 |
 | [Greenbow Jenny](https://open.spotify.com/track/5gRScFypH5zMciid4EAQfM) | [Mei Jun](https://open.spotify.com/artist/3cx46GdmHvTI5CvJCPRKZc) | [Greenbow Jenny](https://open.spotify.com/album/5NO0zrXTKKFYwO4k2bS2Jy) | 5:07 | 2023-12-22 | 2024-03-02 |
 | [Grieving](https://open.spotify.com/track/284nns1osTQ4MWtZuCidtd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Grieving](https://open.spotify.com/album/4SuTiRXMQeSQG6VhlPI3at) | 3:16 | 2025-05-02 |  |
+| [Groupie](https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Groupie](https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV) | 2:52 | 2025-10-24 |  |
 | [gut health](https://open.spotify.com/track/6sDD5wCAJIGjCqPlPwSOck) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [gut health](https://open.spotify.com/album/0fHoOMkM8YOuSlPWNOvjnP) | 4:03 | 2024-06-07 | 2024-07-27 |
 | [Habits \- Demo](https://open.spotify.com/track/7jDTKmm8fUDvpqtevRDrsn) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits \(Demo\)](https://open.spotify.com/album/0M696kjDtdAb8gsU3B9kWh) | 3:41 | 2025-02-26 | 2025-07-19 |
 | [Half of forever](https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Half of forever](https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc) | 2:33 | 2024-01-05 | 2024-07-27 |
@@ -349,6 +351,7 @@
 | [Might](https://open.spotify.com/track/55ZwLTMAr2gGDawefZAUdN) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Might](https://open.spotify.com/album/0Zun8lMQQRIiPA6iD38vFr) | 4:20 | 2025-06-20 |  |
 | [Milk Town / Mr\. Carter](https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 1:17 | 2024-03-29 | 2024-09-14 |
 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 | 2023-10-06 | 2024-07-13 |
+| [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 | 2025-10-24 |  |
 | [Mine / Yours](https://open.spotify.com/track/7lw4DkSEskhvXl0LdPOfXQ) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Mammalian Sighing Reflex](https://open.spotify.com/album/31KiskR7q89oowARNCmSMG) | 3:06 | 2023-12-15 | 2024-03-16 |
 | [mirage](https://open.spotify.com/track/4ATeJw3PCPQxw6KDMjZ9Bs) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [mirage](https://open.spotify.com/album/0GSUSjqkI0VFRE8bqEysC4) | 3:03 | 2025-05-02 | 2025-09-13 |
 | [mistake](https://open.spotify.com/track/2VkcrRCSaTORydPZVBv4i1) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [mistake](https://open.spotify.com/album/1cA2MMkwjTl4XsWlc5A8PF) | 2:36 | 2024-11-15 | 2025-03-13 |
@@ -415,6 +418,7 @@
 | [Over Your Head](https://open.spotify.com/track/6HD34sKAz0z31qdqmhy6RQ) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Over Your Head](https://open.spotify.com/album/4iOmd8wfRPNALHQS8VSjEI) | 3:16 | 2024-10-18 | 2025-05-14 |
 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue) | 2:53 | 2024-04-05 | 2024-07-27 |
 | [Pain Is Cold Water \- Live From Fenway Park](https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Live From Fenway Park](https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6) | 2:20 | 2024-08-30 | 2025-04-05 |
+| [Pale Song](https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 2:45 | 2025-10-24 |  |
 | [paper doll](https://open.spotify.com/track/6bNg1NJzBC8HErlyiCJCYV) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [paper doll](https://open.spotify.com/album/10F8JH1StBCcOea8iSJwhS) | 3:15 | 2025-05-30 |  |
 | [Peach Sky](https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Peach Sky](https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x) | 3:01 | 2025-02-28 | 2025-09-27 |
 | [People Always Change](https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:16 | 2024-05-24 | 2025-03-13 |
@@ -603,6 +607,7 @@
 | [Vortex](https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 5:43 | 2024-04-12 | 2024-05-25 |
 | [Voyager](https://open.spotify.com/track/6Xl18Edf3v9Z2FLw1H69cr) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:48 | 2023-10-17 | 2023-12-16 |
 | [Wait It Out](https://open.spotify.com/track/1spTBzSbtiU74A9vqBXclU) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Wait It Out](https://open.spotify.com/album/1Brd1h0NaNZy8wLUVXTBpy) | 2:45 | 2024-11-15 | 2025-03-15 |
+| [Waiting](https://open.spotify.com/track/6fgGUaT6f1hmfLSSsAjuKM) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6), [Roy Nathanson](https://open.spotify.com/artist/3amr1OnN76azwuK5gwyGFi) | [Waiting](https://open.spotify.com/album/2g0njTN5mrtRk9R6e6xrLB) | 4:48 | 2025-10-24 |  |
 | [Waiting Room](https://open.spotify.com/track/5FwnAR5TCxuHP25lKV5ghW) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Waiting Room](https://open.spotify.com/album/4VSqLBuUg74P5P6LVeQir0) | 3:44 | 2025-04-04 | 2025-08-09 |
 | [Watch Me Go](https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The Cosmic Selector Vol\. 1](https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp) | 3:06 | 2025-07-18 |  |
 | [Watercress](https://open.spotify.com/track/5I7ga76O3qTWF1PZRtAi4Y) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/73jezCj2wZDwJTZLBpCmZM) | 3:48 | 2025-08-29 |  |

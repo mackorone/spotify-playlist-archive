@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTj8mmxDwyIM.md) - [plain]
 
 ### [Hazbin Hotel Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWTj8mmxDwyIM)
 
-> Listen to the music from Hazbin Hotel, now streaming on Prime Video.
+> Listen to music from Hazbin Hotel\. New season coming soon to Prime Video!
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,854 likes - 19 songs - 46 min 48 sec
+[Spotify](https://open.spotify.com/user/spotify) - 456,989 likes - 19 songs - 46 min 48 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTj8mmxDwyIM.md) - [plain]
 | 18 | [More Than Anything \- Reprise](https://open.spotify.com/track/0Kq2P8gDwYTc2OdiHknX7F) | [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 1:00 |
 | 19 | [Finale](https://open.spotify.com/track/6dss2WRbaDVKw4vpZlNxSv) | [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Amir Talai](https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Christian Borle](https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG), [Joel Perez](https://open.spotify.com/artist/1OFyMXmkzPqt8a5MZ1ue5h), [Kimiko Glenn](https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA), [Krystina Alabado](https://open.spotify.com/artist/4xL2eFX2i8uGTzi2tT3b3u), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 3:50 |
 
-Snapshot ID: `AAAAAHTDmAOT9xpZU6uoxCmx+Ek6p8sm`
+Snapshot ID: `AAAAAF6qVqZgjcGbwTsIrfn2KnXHEB3r`

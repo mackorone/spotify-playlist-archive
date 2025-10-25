@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Nomadismo sonoro para quienes aman la m\u00fasica de todos los rincones del planeta. Mon Laferte, NATHY PELUSO en portada.",
+  "description": "Nomadismo sonoro para quienes aman la m\u00fasica de todos los rincones del planeta. Hispana en portada.",
   "name": "Trotamundos",
   "tracks": [
     {
@@ -1010,6 +1010,24 @@
       "duration_ms": 264920,
       "name": "Azucar de Ca\u00f1a",
       "url": "https://open.spotify.com/track/6R4JzgsMOuhPmuZteakOag"
+    },
+    {
+      "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/1UhzWnFPrhn178PkkD5Cbf"
+      },
+      "artists": [
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233545,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/43uVCdofMSLIGOaWWakkO0"
     },
     {
       "album": {
@@ -3041,6 +3059,28 @@
     },
     {
       "album": {
+        "name": "MEXA",
+        "url": "https://open.spotify.com/album/1ANqKYjxTjlBW2muzJCsgE"
+      },
+      "artists": [
+        {
+          "name": "Hispana",
+          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
+        },
+        {
+          "name": "Noble Esquivel",
+          "url": "https://open.spotify.com/artist/7D5IffmyeJQpQ2532utYIQ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203341,
+      "name": "Cumbiancheros",
+      "url": "https://open.spotify.com/track/6VLW4p4O4GlSiPYF8WRjNK"
+    },
+    {
+      "album": {
         "name": "R\u00edo Arriba",
         "url": "https://open.spotify.com/album/64YiuDZw5jozMxQHSldAej"
       },
@@ -4048,6 +4088,24 @@
       "duration_ms": 182933,
       "name": "English Women",
       "url": "https://open.spotify.com/track/6L1XzXeDVtrSUV3kASghEg"
+    },
+    {
+      "album": {
+        "name": "Enhierbado/Estrellas",
+        "url": "https://open.spotify.com/album/0PFBqJKm7ZLtryteE0PPxw"
+      },
+      "artists": [
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114124,
+      "name": "Enhierbado",
+      "url": "https://open.spotify.com/track/1WYJ7vr7z2QNjV2dPprnce"
     },
     {
       "album": {
@@ -8368,7 +8426,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 221194,
       "name": "Ova Dweet",
       "url": "https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt"
@@ -10562,7 +10620,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 498986,
       "name": "Suite Caleta",
       "url": "https://open.spotify.com/track/3fY1MTQLY1FG1GAT5b6ZwU"
@@ -10638,7 +10696,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 238363,
       "name": "Swngn",
       "url": "https://open.spotify.com/track/7t66NbI41mt7olD3Vb6Nzf"
@@ -11664,6 +11722,24 @@
       "duration_ms": 201413,
       "name": "Tres Hermanos",
       "url": "https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap"
+    },
+    {
+      "album": {
+        "name": "Triste Canci\u00f3n",
+        "url": "https://open.spotify.com/album/4CxhTdM89g1l7eT8IgexxD"
+      },
+      "artists": [
+        {
+          "name": "Memo Pimiento",
+          "url": "https://open.spotify.com/artist/75rGLdO27FtfQhaHxOacV0"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275495,
+      "name": "Triste Canci\u00f3n",
+      "url": "https://open.spotify.com/track/1YqlVVQp0v5Ps0eCMt6Oh6"
     },
     {
       "album": {

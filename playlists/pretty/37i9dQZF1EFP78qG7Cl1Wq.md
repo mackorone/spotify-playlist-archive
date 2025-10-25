@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,120 likes - 243 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,119 likes - 243 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 101 | [Better Man](https://open.spotify.com/track/2BHbnX2TI08CyUa9gWFeqK) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 2:52 |
 | 102 | [overshare](https://open.spotify.com/track/7exnPa3Da17WUEVuZwO3xp) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:50 |
 | 103 | [Slow Clap \(with Saweetie\)](https://open.spotify.com/track/0xLf1SbCnuFfBRbDNauT5b) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Slow Clap \(with Saweetie\)](https://open.spotify.com/album/32I12RuItIkrLV7a3qGIPh) | 3:11 |
-| 104 | [Honey](https://open.spotify.com/track/4T3nfbJ0G6uwNOdhygapfu) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:21 |
-| 105 | [MEEEEEE \(NAYEON\)](https://open.spotify.com/track/4fj3ZKe3p2f5BdZgMdsQe5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:46 |
+| 104 | [MEEEEEE \(NAYEON\)](https://open.spotify.com/track/4fj3ZKe3p2f5BdZgMdsQe5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:46 |
+| 105 | [Honey](https://open.spotify.com/track/4T3nfbJ0G6uwNOdhygapfu) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:21 |
 | 106 | [December Back 2 June](https://open.spotify.com/track/05DCz0eIhcGAb6YpNiwdbv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Santa Baby](https://open.spotify.com/album/5ichhxPbZc7s1azvGRrNsO) | 2:43 |
 | 107 | [Nervous System](https://open.spotify.com/track/6L4gFqY2OumTh17xbnsUnu) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [The Sun](https://open.spotify.com/album/2tUCz7FgWO4Z9Gob0qumxg) | 2:37 |
 | 108 | [Asleep](https://open.spotify.com/track/0dMf8FEScSs8ieHPFlunxn) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [The Space Between](https://open.spotify.com/album/6tHcEzChizk2IXd5Kxl5hs) | 3:49 |
@@ -223,8 +223,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 213 | [Break My Heart](https://open.spotify.com/track/0YwVv5OCbuCoc1Qyso1Ree) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:43 |
 | 214 | [Jeffrey](https://open.spotify.com/track/264ukRrqfqyc8aumMKCyUY) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:39 |
 | 215 | [Mood](https://open.spotify.com/track/7sYqaQ8AlDtOay9KcjEYql) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 4:03 |
-| 216 | [What's Hannin'](https://open.spotify.com/track/1Bt5SsyEoWBCYEszpiv0cY) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 1](https://open.spotify.com/album/64wWGauCcGFiuXr9RkjgHd) | 2:34 |
-| 217 | [Ripples](https://open.spotify.com/track/5SdKSYnJIgppelAHCIEQVJ) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 1:03 |
+| 216 | [Ripples](https://open.spotify.com/track/5SdKSYnJIgppelAHCIEQVJ) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 1:03 |
+| 217 | [What's Hannin'](https://open.spotify.com/track/1Bt5SsyEoWBCYEszpiv0cY) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 1](https://open.spotify.com/album/64wWGauCcGFiuXr9RkjgHd) | 2:34 |
 | 218 | [Road Trip](https://open.spotify.com/track/4DiTzj5a3YAnDOjx7srHki) | [Hyomin](https://open.spotify.com/artist/1K8kkeM8j0BL8sQ4aR7Vh6) | [Sketch](https://open.spotify.com/album/6pTgLbKoE6GYtVZUvIhwE4) | 3:44 |
 | 219 | [Standing Up To The Wind](https://open.spotify.com/track/5LDZR1EgPtlaAEUDPt90yq) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:18 |
 | 220 | [Celebration Weight](https://open.spotify.com/track/7MC6izvYsq545k7jDsYTOO) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:08 |
@@ -252,4 +252,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 242 | [Intro](https://open.spotify.com/track/5O8Qhglfsza40ImevHVURy) | [Soul Point](https://open.spotify.com/artist/1Ept3gLGpmaMqUB5nEFmTj) | [Blue Gum St\. 3](https://open.spotify.com/album/3Z69aT615d7CRCE6WdE7zy) | 1:58 |
 | 243 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `Ab/qaAAAAAALyMWPiW+9ZDkFnCFyry4s`
+Snapshot ID: `Ab/v/gAAAACf4l+UFm8VAGrROqYzovkU`

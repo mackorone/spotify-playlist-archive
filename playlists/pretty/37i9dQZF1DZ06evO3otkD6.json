@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 87349,
+  "num_followers": 87418,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAACQ0XZjI4gKMfyNC3q2WHHE",
+  "snapshot_id": "aPlwAAAAAADg4zRFM/0kGWEKk02hzA2D",
   "tracks": [
     {
       "added_at": null,
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "En La Obscuridad",
+      "url": "https://open.spotify.com/track/1BYfviBeZuGy7SCFg4mBt9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Estamos Tan Locos",
         "url": "https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 206354,
       "name": "No Estamos Tan Locos",
       "url": "https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "En La Obscuridad",
-      "url": "https://open.spotify.com/track/1BYfviBeZuGy7SCFg4mBt9"
     },
     {
       "added_at": null,

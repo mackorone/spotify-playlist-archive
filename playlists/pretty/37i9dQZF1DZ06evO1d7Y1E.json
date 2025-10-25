@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 118360,
+  "num_followers": 118357,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAADkZe8BK4+lUNYAw2884Gzz",
+  "snapshot_id": "aPlwAAAAAACRk5iWxsmr31lAFxBFmibQ",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eu Era Rico e N\u00e3o Sabia",
+        "url": "https://open.spotify.com/album/0aGMKR6Xg3vti7NIjg79sJ"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Matteuzin",
+          "url": "https://open.spotify.com/artist/1G5PyzlCfVieDXFuUhZ1vc"
+        },
+        {
+          "name": "$CAM",
+          "url": "https://open.spotify.com/artist/4Jv7ETgeBkcRMkuK6x2eei"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Eu Era Rico e N\u00e3o Sabia",
+      "url": "https://open.spotify.com/track/6ndahq1h9Pu1zm1sLcKcQL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desabafo",
         "url": "https://open.spotify.com/album/5glFkBO45WBRpvp4dMWPrm"
       },
@@ -563,30 +587,6 @@
       "duration_ms": 150508,
       "name": "Desabafo",
       "url": "https://open.spotify.com/track/37LWZe5mdHIKuXBh8GuwlH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu Era Rico e N\u00e3o Sabia",
-        "url": "https://open.spotify.com/album/0aGMKR6Xg3vti7NIjg79sJ"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Matteuzin",
-          "url": "https://open.spotify.com/artist/1G5PyzlCfVieDXFuUhZ1vc"
-        },
-        {
-          "name": "$CAM",
-          "url": "https://open.spotify.com/artist/4Jv7ETgeBkcRMkuK6x2eei"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Eu Era Rico e N\u00e3o Sabia",
-      "url": "https://open.spotify.com/track/6ndahq1h9Pu1zm1sLcKcQL"
     },
     {
       "added_at": null,
@@ -827,38 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
-        "url": "https://open.spotify.com/album/6oMk1qAJIZC9a02hgQ9Wsv"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        }
-      ],
-      "duration_ms": 300689,
-      "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
-      "url": "https://open.spotify.com/track/3fSxnkjdgPucRCskjmAlgx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cara do Crime 2 (Cansou de Playboy)",
         "url": "https://open.spotify.com/album/40CPfMR1GrVD0KHUBqpKD0"
       },
@@ -891,6 +859,38 @@
       "duration_ms": 265411,
       "name": "A Cara do Crime 2 (Cansou de Playboy)",
       "url": "https://open.spotify.com/track/7KPhwNko8V9vYBIN653hSO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
+        "url": "https://open.spotify.com/album/6oMk1qAJIZC9a02hgQ9Wsv"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        }
+      ],
+      "duration_ms": 300689,
+      "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
+      "url": "https://open.spotify.com/track/3fSxnkjdgPucRCskjmAlgx"
     },
     {
       "added_at": null,
@@ -1083,38 +1083,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Assault (Joias no Pulso)",
-        "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        }
-      ],
-      "duration_ms": 274015,
-      "name": "Assault (Joias no Pulso)",
-      "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toma Jack",
         "url": "https://open.spotify.com/album/2RtehDMWnoR1NIKmS1oAJ7"
       },
@@ -1151,6 +1119,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Assault (Joias no Pulso)",
+        "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        }
+      ],
+      "duration_ms": 274015,
+      "name": "Assault (Joias no Pulso)",
+      "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To Voando Alto",
         "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
       },
@@ -1167,26 +1167,6 @@
       "duration_ms": 137430,
       "name": "To Voando Alto",
       "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me D\u00e1 Sua M\u00e3o",
-        "url": "https://open.spotify.com/album/2TPngKT3Xh3JMDpwcPrwqB"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 162413,
-      "name": "Me D\u00e1 Sua M\u00e3o",
-      "url": "https://open.spotify.com/track/3by89k8zGClgmQgz9SbtKp"
     },
     {
       "added_at": null,
@@ -1215,6 +1195,26 @@
       "duration_ms": 177230,
       "name": "Recome\u00e7o",
       "url": "https://open.spotify.com/track/7cOZisYC7MaDLfavfq86Ed"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me D\u00e1 Sua M\u00e3o",
+        "url": "https://open.spotify.com/album/2TPngKT3Xh3JMDpwcPrwqB"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "Me D\u00e1 Sua M\u00e3o",
+      "url": "https://open.spotify.com/track/3by89k8zGClgmQgz9SbtKp"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,833 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,887 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 11 | [Save Me](https://open.spotify.com/track/1GaDH1dJfouYubhkaS2gy5) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Save Me](https://open.spotify.com/album/4Bq9sY0d1IogWKXnR9JUte) | 3:32 |
 | 12 | [Unravel](https://open.spotify.com/track/7MZRkWQJ5xngon98IOU7Pa) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Unravel](https://open.spotify.com/album/4xFAec0DK7ZFuaGyEjXug8) | 3:48 |
 | 13 | [Solace](https://open.spotify.com/track/4BNe5zr3vPLB8hgT5cwKKY) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Solace](https://open.spotify.com/album/10TASq1hI0uDw6T8A3bohM) | 3:11 |
-| 14 | [Loving You](https://open.spotify.com/track/2CkuSuRqD4tqc0CmudDbg4) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [](https://open.spotify.com/album/null) | 4:14 |
+| 14 | [Loving You](https://open.spotify.com/track/2CkuSuRqD4tqc0CmudDbg4) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Loving You](https://open.spotify.com/album/1z0C4eiRS94cs3Q7j9nswA) | 4:14 |
 | 15 | [See You Again](https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [See You Again](https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x) | 4:31 |
 | 16 | [My Love \(2024\)](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(2024\)](https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3) | 3:04 |
 | 17 | [Oh My](https://open.spotify.com/track/0uqew5SZsE86I2iJxJZ2qN) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70), [Nattica](https://open.spotify.com/artist/4xW2QOiEHzED1DK4YWtzp3) | [Oh My](https://open.spotify.com/album/6jO4RTMmT0xkaH9azhuEAA) | 5:28 |

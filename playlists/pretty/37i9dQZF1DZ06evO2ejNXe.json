@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 1622,
+  "num_followers": 1623,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAD7yC+pKldX757kTQPxLW8R",
+  "snapshot_id": "aPlwAAAAAADsdjqO4TyrL9A0bRjDWuIx",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TODO MUNDO A BAILAR",
-        "url": "https://open.spotify.com/album/2ViInMyOmHTS2QPK83Vkwv"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "TODO MUNDO A BAILAR",
-      "url": "https://open.spotify.com/track/0KGOKIeuWlL3TCRRECdS21"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mas Caliente Que Nunca",
         "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 186760,
       "name": "Mas Caliente",
       "url": "https://open.spotify.com/track/1alUoNNyA38hr8yWI8Qow2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TODO MUNDO A BAILAR",
+        "url": "https://open.spotify.com/album/2ViInMyOmHTS2QPK83Vkwv"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "TODO MUNDO A BAILAR",
+      "url": "https://open.spotify.com/track/0KGOKIeuWlL3TCRRECdS21"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 200373,
-      "name": "Mil cartas.",
-      "url": "https://open.spotify.com/track/3DCS7PRExYp8s1xPD2GdwD"
+      "duration_ms": 206933,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Pachanga",
-        "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 149493,
-      "name": "El Loco Bailar\u00edn",
-      "url": "https://open.spotify.com/track/2r2DOim3Av355zPCaeTHmx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Reloj De Mi Corazon",
         "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
       },
@@ -475,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pura Pachanga",
+        "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 149493,
+      "name": "El Loco Bailar\u00edn",
+      "url": "https://open.spotify.com/track/2r2DOim3Av355zPCaeTHmx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mas Caliente Que Nunca",
         "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 206933,
-      "name": "Locamente Enamorado",
-      "url": "https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O"
+      "duration_ms": 200373,
+      "name": "Mil cartas.",
+      "url": "https://open.spotify.com/track/3DCS7PRExYp8s1xPD2GdwD"
     },
     {
       "added_at": null,
@@ -507,30 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Popurr\u00ed",
-        "url": "https://open.spotify.com/album/6oFY7iqrjHUg8lzyNYORyC"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        },
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        },
-        {
-          "name": "Roberto Junior Y Su Bande\u00f1o",
-          "url": "https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb"
-        }
-      ],
-      "duration_ms": 645067,
-      "name": "Popurr\u00ed",
-      "url": "https://open.spotify.com/track/64ffk6yPKFyOGOsKWHXuzy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Reloj De Mi Corazon",
         "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
       },
@@ -543,6 +519,22 @@
       "duration_ms": 257266,
       "name": "El Reloj De Mi Corazon",
       "url": "https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Se Ha Dado Cuenta",
+        "url": "https://open.spotify.com/album/2mFDVZnKDOqSTSDQZW1k4r"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 142440,
+      "name": "No Se Ha Dado Cuenta",
+      "url": "https://open.spotify.com/track/0kYQ3U7fpG84IbMkUhegHM"
     },
     {
       "added_at": null,
@@ -579,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Se Ha Dado Cuenta",
-        "url": "https://open.spotify.com/album/2mFDVZnKDOqSTSDQZW1k4r"
+        "name": "Es La Primera Vez",
+        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
       },
       "artists": [
         {
@@ -588,9 +580,33 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 142440,
-      "name": "No Se Ha Dado Cuenta",
-      "url": "https://open.spotify.com/track/0kYQ3U7fpG84IbMkUhegHM"
+      "duration_ms": 218466,
+      "name": "Claridad",
+      "url": "https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Popurr\u00ed",
+        "url": "https://open.spotify.com/album/6oFY7iqrjHUg8lzyNYORyC"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        },
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        },
+        {
+          "name": "Roberto Junior Y Su Bande\u00f1o",
+          "url": "https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb"
+        }
+      ],
+      "duration_ms": 645067,
+      "name": "Popurr\u00ed",
+      "url": "https://open.spotify.com/track/64ffk6yPKFyOGOsKWHXuzy"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
       "duration_ms": 247720,
       "name": "Por Ella",
       "url": "https://open.spotify.com/track/3yoRAxitLXuzk0zisgllrM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es La Primera Vez",
-        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Claridad",
-      "url": "https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Muevelo Bien",
-      "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Only Fans",
         "url": "https://open.spotify.com/album/1i9ej2a75hQvIrqOod5cP6"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 161053,
       "name": "Only Fans",
       "url": "https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Muevelo Bien",
+      "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
     },
     {
       "added_at": null,

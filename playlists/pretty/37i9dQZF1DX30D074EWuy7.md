@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > La playlist del jazz italiano, passato e presente\. Cover: Il Mago del Gelato 🍉
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,397 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,408 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 99 | [How Far Can You Fly? \(Ladder\) \- Original Version](https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t) | [Luca Flores](https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O) | [For Those I Never Knew](https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2) | 4:29 |
 | 100 | [That Old Black Magic](https://open.spotify.com/track/6u1M0I5QpMequyfFxna5fL) | [Roberta Gambarini](https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS) | [So In Love](https://open.spotify.com/album/3XXHWtBulLdFVGD8zW0oO2) | 3:28 |
 
-Snapshot ID: `AAAAACdfHuB2POYgaa1j0QOYS/3c5dFE`
+Snapshot ID: `AAAAAPUT5MXhuEJ650Mly1zAVN7sOPOh`

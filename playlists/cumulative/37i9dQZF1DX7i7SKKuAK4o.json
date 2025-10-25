@@ -298,7 +298,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 282200,
       "name": "Anugerah Terindah",
       "url": "https://open.spotify.com/track/1nc4oXLc3slDMDgl3DMRtJ"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 233499,
       "name": "Cinta Yang Diam",
       "url": "https://open.spotify.com/track/3cHIAY5xBlLC1R5RbpXTyc"
@@ -3183,6 +3183,24 @@
     },
     {
       "album": {
+        "name": "EVE: ROMANCE",
+        "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193040,
+      "name": "Scott and Zelda",
+      "url": "https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL"
+    },
+    {
+      "album": {
         "name": "My First Love",
         "url": "https://open.spotify.com/album/3zzIZJAYdeMttVROyFSUfN"
       },
@@ -3324,7 +3342,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "Serana",
       "url": "https://open.spotify.com/track/0PtJbtW50jcvvswNPn3QGd"

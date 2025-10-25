@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,569,585 likes - 70 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,570,021 likes - 70 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 69 | [Resenha do Arrocha](https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn) | [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [Alef Donk](https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I) | [Resenha do Arrocha](https://open.spotify.com/album/6GvpJLmtqRLBoxbslhZNPt) | 5:54 |
 | 70 | [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
 
-Snapshot ID: `AAAAAHXh+Rj3y3WdVBQLuF7NT3LBtgyS`
+Snapshot ID: `AAAAANmgEEi6bGuszZNOdvDBok+QhOeg`

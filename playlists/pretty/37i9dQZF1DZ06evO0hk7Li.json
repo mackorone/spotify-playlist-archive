@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 39840,
+  "num_followers": 39843,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAB+rWbdg4iLY7sLPdaqHTBC",
+  "snapshot_id": "aPlwAAAAAABEej0TNcz9EFb/H1Ivel/1",
   "tracks": [
     {
       "added_at": null,
@@ -387,18 +387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like You'll Never See Me Again",
-        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
+        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
       },
       "artists": [
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
         }
       ],
-      "duration_ms": 238033,
-      "name": "Like You'll Never See Me Again",
-      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
+      "duration_ms": 219626,
+      "name": "Diddy Bop (x Louis The Child)",
+      "url": "https://open.spotify.com/track/2KZybiXVEQExXm2vtAcP8f"
     },
     {
       "added_at": null,
@@ -427,22 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
+        "name": "Like You'll Never See Me Again",
+        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
       },
       "artists": [
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
         }
       ],
-      "duration_ms": 219626,
-      "name": "Diddy Bop (x Louis The Child)",
-      "url": "https://open.spotify.com/track/2KZybiXVEQExXm2vtAcP8f"
+      "duration_ms": 238033,
+      "name": "Like You'll Never See Me Again",
+      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creed II (Score & Music from the Original Motion Picture)",
-        "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 147386,
-      "name": "You Might Find Me",
-      "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monster 2.0",
         "url": "https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 217440,
       "name": "Monster 2.0",
       "url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creed II (Score & Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 147386,
+      "name": "You Might Find Me",
+      "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yonder",
-        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "You Like It I Love It",
-      "url": "https://open.spotify.com/track/78sI81RifcXgUp2YBiZb2q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Monologue",
         "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
@@ -687,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 158124,
-      "name": "Black N White",
-      "url": "https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Paradox",
         "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
       },
@@ -715,6 +683,38 @@
       "duration_ms": 276605,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "You Like It I Love It",
+      "url": "https://open.spotify.com/track/78sI81RifcXgUp2YBiZb2q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 158124,
+      "name": "Black N White",
+      "url": "https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395"
     },
     {
       "added_at": null,

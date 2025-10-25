@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZDMxPJhrYOE.md) - [plain]
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,709 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,718 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZDMxPJhrYOE.md) - [plain]
 | 4 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 5 | [HUGORM NEDLÆGGER FORSVARET \(feat\. Peter Sommer\)](https://open.spotify.com/track/2BcCtKjAaHfsYhSLWVUvx8) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2), [Peter Sommer](https://open.spotify.com/artist/5EXeUuYgGRA1RnXHqALLDL) | [HUGORM NEDLÆGGER FORSVARET \(feat\. Peter Sommer\)](https://open.spotify.com/album/0GrDLoKKmuz4ZRQrFzhHUf) | 3:29 |
 | 6 | [Just Talk](https://open.spotify.com/track/0ad6KxOEjAKkLSSGvi00Mo) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Just Talk](https://open.spotify.com/album/4yqF4B5az6rYOvpF5lfpbU) | 2:42 |
-| 7 | [Track 5](https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [](https://open.spotify.com/album/null) | 0:00 |
+| 7 | [Ender Altid Hos Dig](https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [4CANTOS](https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw) | 2:20 |
 | 8 | [Hush Baby, Hurry Slowly](https://open.spotify.com/track/20fkA1ahV9WxHTt03calHi) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [There’s Always More That I Could Say](https://open.spotify.com/album/3lWtOvOTvEWxEjkVCbWyir) | 2:44 |
 | 9 | [In The Dark](https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:05 |
 | 10 | [hader ik mig selv sammen med dig](https://open.spotify.com/track/5CYWgu8UYb1grKysywHf6y) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [hader ik mig selv sammen med dig](https://open.spotify.com/album/7iPtCmPqy9ZoBRkqaMuJCR) | 2:18 |
 | 11 | [Heineken](https://open.spotify.com/track/6Mlam9p3Rr2y4Mueinw8Tq) | [Elias Boussnina](https://open.spotify.com/artist/3VBjLrfRolCjRRPN5y5XIU) | [Det Her Er Et Mixtape](https://open.spotify.com/album/4pcxUXXZnmSEdCesxYa1Vu) | 3:35 |
-| 12 | [Facilita](https://open.spotify.com/track/2VZ0ncmWdOyrsVKfc8fwa4) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54), [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1) | [Facilita](https://open.spotify.com/album/3WmLwaeaQ07qodXo5Cmel0) | 4:17 |
+| 12 | [Facilita](https://open.spotify.com/track/2VZ0ncmWdOyrsVKfc8fwa4) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54), [Menor Teteu](https://open.spotify.com/artist/3uxTvUjeRTQDfrB59A1zWb) | [Facilita](https://open.spotify.com/album/3WmLwaeaQ07qodXo5Cmel0) | 4:17 |
 | 13 | [Regner med i morgen](https://open.spotify.com/track/4CrI9DDQhs2r0Mwqo4fuSH) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [kh kh kh](https://open.spotify.com/album/7Ci8zGzBpTU42ZYe2A0BqM) | 3:06 |
 | 14 | [Yârimsin](https://open.spotify.com/track/0FiwTjUtrcWjRG85s3qtrX) | [AySay](https://open.spotify.com/artist/5Py5TK2D6YiXZeivaPkRhE) | [Yârimsin](https://open.spotify.com/album/1tPFZmztNqBLtmnV4n1tFU) | 4:47 |
 | 15 | [2 sekunder](https://open.spotify.com/track/731yHyGZZ9kB8kd3PMRjoq) | [Freja Kirk](https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG) | [2 sekunder](https://open.spotify.com/album/5gS7wq84FF3838L48h6Asr) | 2:52 |

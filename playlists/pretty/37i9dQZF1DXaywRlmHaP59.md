@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 
 > Discover the best hits of Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,679 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,734 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 39 | [Hobbak Metl Beirut](https://open.spotify.com/track/2DYIRwjjr3oJ0LMoOsIlrs) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Hobbak Metl Beirut](https://open.spotify.com/album/43M4mL9yhmnSK0C8P4FhSS) | 4:03 |
 | 40 | [Shou Helou](https://open.spotify.com/track/5tlP8y3s1iMDKOoDlN1xQT) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Shou Helou](https://open.spotify.com/album/2WKCgrvvYrEoxrmvdZPebP) | 3:31 |
 
-Snapshot ID: `AAAAAMqQnhZB8QDKbwGoXmCYpbNk8giL`
+Snapshot ID: `AAAAADqOwE6cS1OGuujB+FmBB8q36ij4`

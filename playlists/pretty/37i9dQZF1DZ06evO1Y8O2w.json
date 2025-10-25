@@ -1,12 +1,12 @@
 {
   "description": "This is Phyllis Hyman. The essential tracks, all in one playlist.",
-  "num_followers": 8192,
+  "num_followers": 8194,
   "original_name": "This Is Phyllis Hyman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAADsmFY153GMM3qnns7ozOZf",
+  "snapshot_id": "aPlwAAAAAABqWH+gyjQvTBRDpv/Uj4zw",
   "tracks": [
     {
       "added_at": null,
@@ -202,6 +202,74 @@
         {
           "name": "Phyllis Hyman",
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 254240,
+      "name": "You Just Don't Know",
+      "url": "https://open.spotify.com/track/1UtIQ6BxB9GyfrweUAj1YR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prime Of My Life",
+        "url": "https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 404333,
+      "name": "Meet Me On The Moon",
+      "url": "https://open.spotify.com/track/3oJh3bfR18qSOb9ss4uVHm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phyllis Hyman (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 328373,
+      "name": "I Don't Want to Lose You",
+      "url": "https://open.spotify.com/track/0anlJjyEo8JQTtOyhawl9G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Will Find a Way (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0orhXwlJ4LCfDwMYVAXsdW"
+      },
+      "artists": [
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        },
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 308986,
+      "name": "As You Are (feat. Phyllis Hyman)",
+      "url": "https://open.spotify.com/track/4szHa9dRhiy3tJ1Jf5jz2V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living All Alone",
+        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         },
         {
           "name": "Nick Martinelli",
@@ -231,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phyllis Hyman (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 328373,
-      "name": "I Don't Want to Lose You",
-      "url": "https://open.spotify.com/track/0anlJjyEo8JQTtOyhawl9G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever with You",
         "url": "https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR"
       },
@@ -259,58 +311,6 @@
       "duration_ms": 262413,
       "name": "Hurry up This Way Again",
       "url": "https://open.spotify.com/track/0ZO2hnswG8lteyIf6G4FFn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Living All Alone",
-        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 254240,
-      "name": "You Just Don't Know",
-      "url": "https://open.spotify.com/track/1UtIQ6BxB9GyfrweUAj1YR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prime Of My Life",
-        "url": "https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 404333,
-      "name": "Meet Me On The Moon",
-      "url": "https://open.spotify.com/track/3oJh3bfR18qSOb9ss4uVHm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Will Find a Way (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0orhXwlJ4LCfDwMYVAXsdW"
-      },
-      "artists": [
-        {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
-        },
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 308986,
-      "name": "As You Are (feat. Phyllis Hyman)",
-      "url": "https://open.spotify.com/track/4szHa9dRhiy3tJ1Jf5jz2V"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't We Fall In Love Again (Expanded Edition)",
-        "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "The Love Too Good to Last",
-      "url": "https://open.spotify.com/track/2iZo4T7xDFIJhGELrd3wyX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phyllis Hyman (Expanded Edition)",
         "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 231413,
       "name": "Baby (I'm Gonna Love You) - 7\" Version",
       "url": "https://open.spotify.com/track/5TnLtfz0X6Z1Sou7UiJrWJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't We Fall In Love Again (Expanded Edition)",
+        "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "The Love Too Good to Last",
+      "url": "https://open.spotify.com/track/2iZo4T7xDFIJhGELrd3wyX"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Know How to Love Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 244880,
-      "name": "Give a Little More",
-      "url": "https://open.spotify.com/track/2kgfnVggBSdoz1XKmHNB1w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goddess of Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY"
       },
@@ -623,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Know How to Love Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 244880,
+      "name": "Give a Little More",
+      "url": "https://open.spotify.com/track/2kgfnVggBSdoz1XKmHNB1w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't We Fall In Love Again (Expanded Edition)",
         "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 350520,
       "name": "Just Another Face In the Crowd",
       "url": "https://open.spotify.com/track/4PbatvH2aKPvZ8cF15892v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever with You",
-        "url": "https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 277040,
-      "name": "Come Right or Not at All",
-      "url": "https://open.spotify.com/track/0Rf1w4aSyzSwZyRh5PTKmR"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forever with You",
+        "url": "https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 277040,
+      "name": "Come Right or Not at All",
+      "url": "https://open.spotify.com/track/0Rf1w4aSyzSwZyRh5PTKmR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't We Fall In Love Again (Expanded Edition)",
         "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
       },
@@ -703,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phyllis Hyman (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
+        "name": "Slingshot",
+        "url": "https://open.spotify.com/album/4ZTtXdTxQFaHLJrJPxUt3x"
       },
       "artists": [
+        {
+          "name": "Michael Henderson",
+          "url": "https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K"
+        },
         {
           "name": "Phyllis Hyman",
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 450306,
-      "name": "Loving You - Losing You",
-      "url": "https://open.spotify.com/track/1hacpWgUcC3QghqblcVSDT"
+      "duration_ms": 224226,
+      "name": "Can't We Fall in Love Again",
+      "url": "https://open.spotify.com/track/7LoUpAYekcUxAnBC8Cv27p"
     },
     {
       "added_at": null,
@@ -751,22 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slingshot",
-        "url": "https://open.spotify.com/album/4ZTtXdTxQFaHLJrJPxUt3x"
+        "name": "Phyllis Hyman (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
       },
       "artists": [
-        {
-          "name": "Michael Henderson",
-          "url": "https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K"
-        },
         {
           "name": "Phyllis Hyman",
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 224226,
-      "name": "Can't We Fall in Love Again",
-      "url": "https://open.spotify.com/track/7LoUpAYekcUxAnBC8Cv27p"
+      "duration_ms": 450306,
+      "name": "Loving You - Losing You",
+      "url": "https://open.spotify.com/track/1hacpWgUcC3QghqblcVSDT"
     },
     {
       "added_at": null,

@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: JISOO, ZAYN
+> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: PUN
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,700 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,705 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
-| 2 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
-| 3 | [ล้มแชมป์ \(Only You Can\)](https://open.spotify.com/track/3dKiS7M3Rkqtj9dsOkvzW6) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [ล้มแชมป์ \(Only You Can\) \- Single](https://open.spotify.com/album/3iTtuuLmUWLN8nZ9GBkhhk) | 3:28 |
+| 1 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
+| 2 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
+| 3 | [หล่น \(Faded\)](https://open.spotify.com/track/4c17U06F2ngjTOF5z70Yyy) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [หล่น \(Faded\)](https://open.spotify.com/album/1fAuGPKljtvREJTpeGwCfx) | 3:13 |
 | 4 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
-| 5 | [นับหนึ่ง \(From now on\)](https://open.spotify.com/track/0hWzDHF10kCJFQ2hMg6FYX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [นับหนึ่ง \(From now on\)](https://open.spotify.com/album/3uaKrwbP5XZOEBPFYzDoLY) | 3:48 |
+| 5 | [ล้มแชมป์ \(Only You Can\)](https://open.spotify.com/track/3dKiS7M3Rkqtj9dsOkvzW6) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [ล้มแชมป์ \(Only You Can\) \- Single](https://open.spotify.com/album/3iTtuuLmUWLN8nZ9GBkhhk) | 3:28 |
 | 6 | [ดาวตก \(Wish\) \[feat\. Z9\]](https://open.spotify.com/track/4YkPsxVBXkM4jBgMTAxtFz) | [WANYAi](https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ดาวตก \(Wish\) \[feat\. Z9\]](https://open.spotify.com/album/1n6smSBWNrb9p3L0vFAilq) | 4:01 |
-| 7 | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv) | 3:26 |
-| 8 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
-| 9 | [ยอมอยู่แล้ว \(feat\. ปั๊บ Potato\)](https://open.spotify.com/track/4WqM7sGHLOdZasaunLPzLG) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A), [ปั๊บ Potato](https://open.spotify.com/artist/3XbhlGKpFyzOgGtbkmp9UQ) | [Hotel Room 302](https://open.spotify.com/album/1BOeIQN7MNNVhtgRlUvHKZ) | 4:20 |
-| 10 | [สักวันฉันจะหายดี](https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สักวันฉันจะหายดี](https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U) | 3:48 |
-| 11 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
-| 12 | [หล่น \(Faded\)](https://open.spotify.com/track/4c17U06F2ngjTOF5z70Yyy) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [หล่น \(Faded\)](https://open.spotify.com/album/1fAuGPKljtvREJTpeGwCfx) | 3:13 |
+| 7 | [นับหนึ่ง \(From now on\)](https://open.spotify.com/track/0hWzDHF10kCJFQ2hMg6FYX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [นับหนึ่ง \(From now on\)](https://open.spotify.com/album/3uaKrwbP5XZOEBPFYzDoLY) | 3:48 |
+| 8 | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv) | 3:26 |
+| 9 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
+| 10 | [ยอมอยู่แล้ว \(feat\. ปั๊บ Potato\)](https://open.spotify.com/track/4WqM7sGHLOdZasaunLPzLG) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A), [ปั๊บ Potato](https://open.spotify.com/artist/3XbhlGKpFyzOgGtbkmp9UQ) | [Hotel Room 302](https://open.spotify.com/album/1BOeIQN7MNNVhtgRlUvHKZ) | 4:20 |
+| 11 | [สักวันฉันจะหายดี](https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สักวันฉันจะหายดี](https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U) | 3:48 |
+| 12 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
 | 13 | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/album/6OmpOdG7zGiZPv1KF9n7WU) | 3:34 |
 | 14 | [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/track/6kUGR3mPqLwcnobMQA557r) | [Jigsaw Story](https://open.spotify.com/artist/42Q1POTb6v0GuRPQOk85rv), [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/album/6R6wGeqTE7snGX2qR0ckHs) | 3:33 |
 | 15 | [Opalite](https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 | 49 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 |
 | 50 | [รออยู่อย่างนั้น](https://open.spotify.com/track/24wXz2WuaF02y0mrKNPMsN) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [SIMON](https://open.spotify.com/artist/6gL6AwaRQKqK9VGBqi5zDo) | [รออยู่อย่างนั้น](https://open.spotify.com/album/1pZSegpCKVMmIrPUtYcWQq) | 3:52 |
 
-Snapshot ID: `AAAAAPDedJdg4KapDac3mrySFfuOVMKr`
+Snapshot ID: `AAAAAOi9UnT63HZ6WYwACcAX2qnPhRhd`

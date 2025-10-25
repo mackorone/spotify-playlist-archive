@@ -4,7 +4,7 @@
 
 > The most exciting new music on our radar, featuring Leon Thomas
 
-1,185 songs - 2 day 13 hr 56 min
+1,186 songs - 2 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,7 +441,7 @@
 | [Happy Face](https://open.spotify.com/track/7KvZLaYFqBqoADTelAsWWO) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Happy Face](https://open.spotify.com/album/3WkZ84AAJDPimDKV1FH3pI) | 3:22 | 2024-10-01 | 2024-12-05 |
 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 | 2024-07-01 | 2024-08-02 |
 | [Hate Being In Love](https://open.spotify.com/track/5mZaMaqNcfT0sPZ6V4gk8W) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Hate Being In Love](https://open.spotify.com/album/7A6IIgYWomVVrGjNEwzdMf) | 3:00 | 2022-04-08 | 2022-05-18 |
-| [Havana Bounce](https://open.spotify.com/track/3yDlsbUiSWvViojyF0244u) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Havana Bounce](https://open.spotify.com/album/78f1sQGjkzuQbS7boCVv8w) | 4:31 | 2025-09-01 |  |
+| [Havana Bounce](https://open.spotify.com/track/3yDlsbUiSWvViojyF0244u) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Havana Bounce](https://open.spotify.com/album/78f1sQGjkzuQbS7boCVv8w) | 4:31 | 2025-09-01 | 2025-10-25 |
 | [Have Your Way](https://open.spotify.com/track/27wpOVposNwYnFAQ8c4mSo) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Honest Conversations](https://open.spotify.com/album/3qGiq0le8CJHSjclrv7TW0) | 3:02 | 2025-09-01 |  |
 | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5) | 3:41 | 2024-05-29 | 2024-08-02 |
 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 | 2025-05-01 | 2025-08-02 |
@@ -695,6 +695,7 @@
 | [My God Can](https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jesus Changed My Life \(Deluxe Edition\)](https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo) | 3:13 | 2024-12-04 | 2025-01-18 |
 | [My God Can](https://open.spotify.com/track/66FyOjreSvM26FWvVvsjOP) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [My God Can](https://open.spotify.com/album/2EsJkUcFBmJxhwhFU6dZnI) | 3:13 | 2024-02-12 | 2024-04-13 |
 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 | 2023-08-30 | 2024-02-13 |
+| [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 | 2025-10-24 |  |
 | [My People](https://open.spotify.com/track/7LI7D9mKjw5nadfq41LkRr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [My People](https://open.spotify.com/album/4vy5JvUyxYs2O0X8dzxfBe) | 3:12 | 2022-11-14 | 2023-01-05 |
 | [N.E.T.R.](https://open.spotify.com/track/3Zl5FsE1OwGtiQbSodMoSB) | [Pebbles&TamTam](https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of) | [Sleepover! the mixtape :P](https://open.spotify.com/album/1Pnytm0gNpMySvKJTDRM0e) | 2:48 | 2025-06-01 | 2025-09-02 |
 | [na na eh oh](https://open.spotify.com/track/64A3IHMcMbD9JB3eDDXvQU) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [na na eh oh](https://open.spotify.com/album/6tmZjUhTS98AtqbSQQ9tWX) | 4:24 | 2025-01-17 | 2025-03-02 |
@@ -735,7 +736,7 @@
 | [Nobody Like You](https://open.spotify.com/track/10HqYPk8krVdDYQCgYh3z7) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [When I Close My Eyes](https://open.spotify.com/album/2Hlkq5I3ntvKGPJq130yzF) | 2:03 | 2022-05-17 | 2022-06-15 |
 | [Noche Fría](https://open.spotify.com/track/6oCXKOBPwCE98zaHtbTMqD) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Noche Fría](https://open.spotify.com/album/4KPnrkrm3vDGwQ5HxroO4W) | 2:40 | 2023-01-04 | 2023-04-01 |
 | [NOT ALONE](https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [NOT ALONE](https://open.spotify.com/album/06osQucbdoBctWgXgdFblC) | 3:03 | 2023-03-31 | 2023-05-09 |
-| [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 | 2025-10-01 |  |
+| [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 | 2025-10-01 | 2025-10-25 |
 | [Not Ideal](https://open.spotify.com/track/6WclB5qGbvCgcFH0MZ1EQy) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Not Ideal](https://open.spotify.com/album/11P1h67I1jUbh3ZXUy6uJc) | 3:23 | 2022-11-14 | 2023-01-05 |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 2:50 | 2024-12-04 | 2025-01-18 |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2024-02-12 | 2024-04-13 |

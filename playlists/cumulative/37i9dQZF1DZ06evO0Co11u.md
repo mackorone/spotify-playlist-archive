@@ -4,7 +4,7 @@
 
 > This is Louis Armstrong\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 25 min
+58 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,8 +53,9 @@
 | [Summertime](https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 4:58 | 2025-07-20 |  |
 | [That Old Feeling](https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Louis Armstrong Meets Oscar Peterson \(Expanded Edition\)](https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0) | 2:43 | 2025-07-20 |  |
 | [The Frim Fram Sauce](https://open.spotify.com/track/0uWKUvPVyxWT6NOmRoDyzf) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Decca Singles 1935\-1946](https://open.spotify.com/album/7FGPCE2hkcKrlGIpfnOSdW) | 3:10 | 2025-07-20 |  |
-| [The Home Fire](https://open.spotify.com/track/0ctsFiWScfDEQqpH03tTrh) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:18 | 2025-07-20 |  |
+| [The Home Fire](https://open.spotify.com/track/0ctsFiWScfDEQqpH03tTrh) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:18 | 2025-07-20 | 2025-10-25 |
 | [The Nearness Of You](https://open.spotify.com/track/75LI0OCqjssEzuhEv42jYn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE) | 5:42 | 2025-07-20 |  |
+| [The Skeleton In The Closet \- Single Version](https://open.spotify.com/track/16VhRXGPiqsHgnw4KgKkuU) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Volume 2: Heart Full Of Rhythm \(1936\-38\)](https://open.spotify.com/album/6YlPSTWp7bq3Q01L9EcaGG) | 3:11 | 2025-10-25 |  |
 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/5s9tKuZkMiDxY1b6WIzHtL) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 7:36 | 2025-07-20 |  |
 | [They Can't Take That Away From Me](https://open.spotify.com/track/2U3ENhffoGzWcoYoR0U4Lm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE) | 4:39 | 2025-07-20 |  |
 | [We Have All The Time In The World \- From “On Her Majesty’s Secret Service” Soundtrack / Remastered 2003](https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 3:15 | 2025-07-20 |  |

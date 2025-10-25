@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain](/playlists/plain/37i9dQZF1DX82pCGH5USnM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX82pCGH5USnM)
 
-### [Lounge Soft House](https://open.spotify.com/playlist/37i9dQZF1DX82pCGH5USnM)
+### [Soft Lounge](https://open.spotify.com/playlist/37i9dQZF1DX82pCGH5USnM)
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,377,505 likes - 210 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,377,693 likes - 210 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 209 | [Wherever You Go](https://open.spotify.com/track/2Rc175pRb0yVu01JiZJzrZ) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Wherever You Go](https://open.spotify.com/album/0T2MGza5JfyzA16P6HAR3K) | 2:37 |
 | 210 | [Coffee On The Balcony](https://open.spotify.com/track/7kQQkhYxeKRlfwgbUEb8H9) | [Mr Rawlings](https://open.spotify.com/artist/5IjVKmCZM7Sy41wQISlmRI) | [Coffee On The Balcony](https://open.spotify.com/album/3ONy0OqFsq1M80BPh60t3g) | 2:40 |
 
-Snapshot ID: `AAAAAGoEt1ShuYVMxAz4/uurbMcXDNFo`
+Snapshot ID: `AAAAAAuyEb586zofj0O0fMdV6vgKCMbA`

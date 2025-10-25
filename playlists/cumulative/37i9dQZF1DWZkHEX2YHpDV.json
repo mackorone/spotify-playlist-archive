@@ -6046,7 +6046,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 271112,
       "name": "Different (feat. Alex Gaskarth)",
       "url": "https://open.spotify.com/track/7DW93g5FY4SAPCq7jUsgWF"
@@ -11317,6 +11317,24 @@
     },
     {
       "album": {
+        "name": "I Can't Look For You",
+        "url": "https://open.spotify.com/album/4HNHkY2rtWxQNUGFjNyCYO"
+      },
+      "artists": [
+        {
+          "name": "Bad Neighbour",
+          "url": "https://open.spotify.com/artist/1Lg2j8CzYY32r5sDiuVW8B"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242007,
+      "name": "I Can't Look For You",
+      "url": "https://open.spotify.com/track/3OjfVuqoq0yrNqUSWo6lEP"
+    },
+    {
+      "album": {
         "name": "The Breakfast Club",
         "url": "https://open.spotify.com/album/2nGlHs1tylkU5Wv8SgVZv9"
       },
@@ -16304,7 +16322,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 182234,
       "name": "nosebleeds",
       "url": "https://open.spotify.com/track/0SMRtXWXIn7Xxr2FyNpyOt"
@@ -21720,6 +21738,28 @@
       "duration_ms": 140903,
       "name": "Sucks to Be Yuh",
       "url": "https://open.spotify.com/track/09t8P8t232bmdvkasH15XO"
+    },
+    {
+      "album": {
+        "name": "THERE GOES THE NEIGHBORHOOD",
+        "url": "https://open.spotify.com/album/6onXyi6tZfYoBOWKbKpThm"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        },
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167797,
+      "name": "SUGAR IN THE GAS TANK (feat. KennyHoopla)",
+      "url": "https://open.spotify.com/track/6WRFZiEc7ygA8rATAqJ1zo"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
-  "description": "Current favorites and exciting new music. Cover: Taylor Swift",
-  "num_followers": 2951785,
+  "description": "Current favorites and exciting new music. Cover: Demi Lovato",
+  "num_followers": 2951809,
   "original_name": "just hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADQb/gTGz6Xtz/cGqF6+1caARYol",
+  "snapshot_id": "AAAAAJzIFN0rj6Z4assCRzcAfYWPILzc",
   "tracks": [
+    {
+      "added_at": "2025-10-24 04:00:20",
+      "album": {
+        "name": "It\u2019s Not That Deep",
+        "url": "https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 183247,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O"
+    },
     {
       "added_at": "2025-10-10 04:00:46",
       "album": {
@@ -267,6 +283,26 @@
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
+    },
+    {
+      "added_at": "2025-10-24 04:00:20",
+      "album": {
+        "name": "Blink (feat. TZUYU)",
+        "url": "https://open.spotify.com/album/2IRzuqfgRW9UojuEaDPZoB"
+      },
+      "artists": [
+        {
+          "name": "Corbyn Besson",
+          "url": "https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj"
+        },
+        {
+          "name": "TZUYU",
+          "url": "https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK"
+        }
+      ],
+      "duration_ms": 162092,
+      "name": "Blink (feat. TZUYU)",
+      "url": "https://open.spotify.com/track/25qp5LiSuet6rvl950jrGD"
     },
     {
       "added_at": "2025-08-01 04:00:38",
@@ -788,7 +824,7 @@
           "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 180091,
+      "duration_ms": 180532,
       "name": "Chasing Paradise",
       "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
     },
@@ -1348,7 +1384,7 @@
           "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 173193,
+      "duration_ms": 173044,
       "name": "Looking For Love",
       "url": "https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS"
     },
@@ -1811,54 +1847,6 @@
       "duration_ms": 212994,
       "name": "One Eye Open",
       "url": "https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        },
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        }
-      ],
-      "duration_ms": 147973,
-      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "Confessions (feat. HEESEUNG & JAKE of ENHYPEN x Paul Russell)",
-        "url": "https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        },
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        }
-      ],
-      "duration_ms": 158490,
-      "name": "Confessions (feat. HEESEUNG & JAKE of ENHYPEN x Paul Russell)",
-      "url": "https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz"
     },
     {
       "added_at": "2025-03-21 04:00:48",

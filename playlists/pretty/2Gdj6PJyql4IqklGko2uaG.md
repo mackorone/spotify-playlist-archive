@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Gdj6PJyql4IqklGko2uaG.md) - [plain]
 
 > A playlist of Rammstein classics covered by other artists.
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 1,187 likes - 20 songs - 1 hr 23 min
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 1,186 likes - 20 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

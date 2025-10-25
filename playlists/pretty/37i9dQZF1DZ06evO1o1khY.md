@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,854 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,871 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 33 | [Never Need \(feat\. GloRilla & KARRAHBOOO\)](https://open.spotify.com/track/2G2uOM1Jex8jtjt4Skqr2c) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Never Need \(feat\. GloRilla & KARRAHBOOO\)](https://open.spotify.com/album/00rWgbD4zkoJ9i9TOMcBAr) | 2:59 |
 | 34 | [Blessed](https://open.spotify.com/track/2PlPqt4Jm809dxUo91i5di) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:36 |
 | 35 | [Leave My Baby Tonight \(feat\. GloRilla\)](https://open.spotify.com/track/79Az2dOKvoR2hfVEIRZd1D) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:16 |
-| 36 | [Cowboy \(with GloRilla\) \- GloRilla Remix](https://open.spotify.com/track/0OXYEWAt2zwWjJJsASxY2A) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:43 |
-| 37 | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4) | 3:12 |
+| 36 | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4) | 3:12 |
+| 37 | [Cowboy \(with GloRilla\) \- GloRilla Remix](https://open.spotify.com/track/0OXYEWAt2zwWjJJsASxY2A) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:43 |
 | 38 | [No Bih](https://open.spotify.com/track/3WnxnjGIwQ7rJ7igCOu93l) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:59 |
 | 39 | [Mama \(with Skilla Baby feat\. GloRilla\) \(Remix\)](https://open.spotify.com/track/62Vzyj4Nyy7DeBF2q21dYG) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Mama \(with Skilla Baby feat\. GloRilla\) \(Remix\)](https://open.spotify.com/album/7LK4ohmEO3Arm7oXyd1eVk) | 2:59 |
 | 40 | [Pop It \(GloRilla, Mike WiLL Made\-It\)](https://open.spotify.com/track/3VkbedA7YHCAraNe872O5B) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Pop It \(GloRilla, Mike WiLL Made\-It\)](https://open.spotify.com/album/3fAQgitvHde56qGPrq0rMj) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 49 | [Internet Trolls \(feat\. Hitkidd\)](https://open.spotify.com/track/7KA9GDEQiMeiuBKunBdwNk) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf) | [Internet Trolls \(feat\. Hitkidd\)](https://open.spotify.com/album/34wQFCaqldXSuCIaYp6dt3) | 2:20 |
 | 50 | [Nut Quick](https://open.spotify.com/track/5HlRNODfFSmMcKJkO3zJzv) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:38 |
 
-Snapshot ID: `aPgegAAAAADGAYzXYxoJWmDNuZrRFZ/m`
+Snapshot ID: `aPlwAAAAAABRAW2OqD3Cqzwi8sK4QOsj`

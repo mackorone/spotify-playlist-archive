@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > peach is an indie pop playlist 🥤 cover: Audrey Hobert
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,405 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,422 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,15 +16,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 6 | [Eden](https://open.spotify.com/track/6aebLwbd7scZd4Gdc9O1uE) | [Dalia](https://open.spotify.com/artist/17orQCuVzTd15lJ8JNR98p) | [Eden](https://open.spotify.com/album/2wKBuqPEGIObLW0KLigcgo) | 3:17 |
 | 7 | [Beyond](https://open.spotify.com/track/5hpM0KveD4v4cTSz1PtVT9) | [goose princess](https://open.spotify.com/artist/6urenpCLwU9v0YEJuEwsvT) | [Beyond](https://open.spotify.com/album/08gXobTYYCfpW9dal8GuoF) | 3:08 |
 | 8 | [Best Joke](https://open.spotify.com/track/7ICHGwp1a1cqf7jAB18gF4) | [Gabrielle Grace](https://open.spotify.com/artist/04I7vAN53FF1W4I3c0kdnS) | [Best Joke](https://open.spotify.com/album/2GfMh0ELlVLSiFQPc9X0Rv) | 3:23 |
-| 9 | [Deep End](https://open.spotify.com/track/5Z5ZclhsY2GxlaWbBMPkbP) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [](https://open.spotify.com/album/null) | 4:22 |
+| 9 | [Deep End](https://open.spotify.com/track/5Z5ZclhsY2GxlaWbBMPkbP) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Twinkly Depression](https://open.spotify.com/album/084ZjyrSmQFFqjQ12mby1A) | 4:22 |
 | 10 | [Move](https://open.spotify.com/track/3JwqPnEhD8X3c28XxQqJgK) | [Sylvie Hallam](https://open.spotify.com/artist/61YmVC7AZdALYFPh6wuqiV) | [Move](https://open.spotify.com/album/2ssP9SFBaJPxRSW7QPKbbt) | 3:54 |
 | 11 | [Permanently](https://open.spotify.com/track/5dJZVF3Vl759eSsYJyBqAV) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Permanently](https://open.spotify.com/album/5iNbO9DX8So9FEUxp6tx5x) | 3:05 |
-| 12 | [Middle Man](https://open.spotify.com/track/0zPWBQTSVyn7dS2OXU7Ng9) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [](https://open.spotify.com/album/null) | 4:48 |
+| 12 | [Middle Man](https://open.spotify.com/track/0zPWBQTSVyn7dS2OXU7Ng9) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [The Closest We'll Get](https://open.spotify.com/album/527BKGronR7ZCm9lHLmP8K) | 4:48 |
 | 13 | [Not That Bad](https://open.spotify.com/track/1LbRznfgudwSZrfSsXLbZ9) | [NO PHOTOS](https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c) | [Not That Bad](https://open.spotify.com/album/1mN2r4sHJcGGFGybBbM0Ze) | 2:52 |
 | 14 | [Bleach](https://open.spotify.com/track/12YibkL8VUHPdUcYA2CE5w) | [yingge](https://open.spotify.com/artist/6c43vY2QsLufWbOa4Vc7Dg) | [Bleach](https://open.spotify.com/album/6ehtsAvuZNLaSClEvNJVDt) | 3:33 |
 | 15 | [Groupie](https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Groupie](https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV) | 2:52 |
 | 16 | [guts](https://open.spotify.com/track/3NFcPBY2NuaHR38b74dfgn) | [Absolutely Anytime](https://open.spotify.com/artist/2uWyIaqP9JHq1NuDayXVMe) | [fall apart together](https://open.spotify.com/album/0t3FMPqCjnoWG1z45KNgvM) | 3:16 |
-| 17 | [Track 5](https://open.spotify.com/track/2aebp0uaeIpTtstoPmtyYE) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [](https://open.spotify.com/album/null) | 0:00 |
+| 17 | [ALL I WANNA DO IS SCREAM I LOVE YOU](https://open.spotify.com/track/2aebp0uaeIpTtstoPmtyYE) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [HEATED!](https://open.spotify.com/album/1Ei5f3KtZShemJu7oUnCZl) | 3:34 |
 | 18 | [Bully](https://open.spotify.com/track/7hhofXZVulCPtTtDH27e0o) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Bully](https://open.spotify.com/album/0CwKc5bjnFIXAccYdq6Wjp) | 3:33 |
 | 19 | [Are You Dreaming?](https://open.spotify.com/track/1MK0zITr3SZeOK8DvFUeQj) | [She's In Parties](https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY) | [Are You Dreaming?](https://open.spotify.com/album/34ymdPL7Qh0Om8fe4LI5N4) | 3:20 |
 | 20 | [use me!!!!!!!](https://open.spotify.com/track/5Kq49f1Yae96EXQgWKUbMM) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/74mjAz7XKkyRB8CAdLQngJ) | 2:04 |

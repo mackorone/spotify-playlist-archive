@@ -4,7 +4,7 @@
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-212 songs - 12 hr 45 min
+213 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Morte de um Deus de Sal](https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy) | [BeBossa](https://open.spotify.com/artist/2DTavIw1X532MxFRMCOgH2), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Matias Correa](https://open.spotify.com/artist/6Sa9JYx0h5j4i8PhAcd5mX), [Marcelo Saboya](https://open.spotify.com/artist/3wZh426oV0fV3qDr2QpfWR), [Zeca Rodrigues](https://open.spotify.com/artist/6q39rdJq2YtJzdgsgG1qfW), [Tom Andrade](https://open.spotify.com/artist/0r1BywD2QhdoQLtr06zPtq) | [A Morte de um Deus de Sal](https://open.spotify.com/album/019T33OgzsIGyamxapvv6V) | 3:23 | 2024-03-08 |  |
 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 | 2022-08-19 |  |
 | [A Paz \- Ao Vivo](https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Paz \(Ao Vivo\)](https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv) | 4:34 | 2025-05-26 |  |
-| [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 | 2023-05-12 |  |
+| [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 | 2023-05-12 | 2025-10-25 |
 | [Abrigo](https://open.spotify.com/track/5xl9IXMENlBNwAbs7Y8z2W) | [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX) | [Abrigo](https://open.spotify.com/album/3IcpMI2WjS8OHrbsHuh6pL) | 3:52 | 2022-08-19 | 2022-10-02 |
 | [Acender as Velas](https://open.spotify.com/track/4EeEwcqSLV8QmguC33sxE6) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Negra Ópera](https://open.spotify.com/album/12ruJLnnZM4RlCAlxPSq6f) | 4:27 | 2023-05-12 | 2023-06-09 |
 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 | 2022-08-19 |  |
@@ -183,6 +183,7 @@
 | [Sons de Amor](https://open.spotify.com/track/1m8qkyl5sHDEvZQslKOwJC) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Mariana Nolasco](https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr) | 3:04 | 2023-10-20 | 2024-04-19 |
 | [Sozinho](https://open.spotify.com/track/72mUA93xzlV2ovVCK44EO8) | [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8) | [Marcas](https://open.spotify.com/album/0w2m39XsqwjuNdhDRsdKDM) | 3:23 | 2022-08-19 | 2024-08-10 |
 | [Sozinho \- Ao Vivo](https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Bloco Do Silva \#2 \(Ao Vivo\)](https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK) | 3:55 | 2024-03-18 | 2024-03-22 |
+| [Sua Onda](https://open.spotify.com/track/0aRDSJHPIyPBGfOqxkLyTE) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Sua Onda](https://open.spotify.com/album/2aQRL0B3OTraPeCftGgK4I) | 3:36 | 2025-10-25 |  |
 | [Só Hoje \- Acústico](https://open.spotify.com/track/3dQlFoNRi1mjKBPVXXEjYt) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Acústico Jota Quest](https://open.spotify.com/album/5op3qEsyQ81iVROB97nWd9) | 5:07 | 2022-08-19 |  |
 | [Só Louco](https://open.spotify.com/track/1733B1kOllykeA4kFffXqm) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Só Louco](https://open.spotify.com/album/1qYZNLNDWuY7tJjwAVGiB0) | 3:56 | 2022-11-09 | 2022-12-02 |
 | [Talismã](https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Talismã](https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz) | 3:49 | 2025-02-07 |  |

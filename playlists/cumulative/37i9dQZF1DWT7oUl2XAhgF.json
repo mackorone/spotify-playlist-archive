@@ -224,7 +224,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 274387,
       "name": "All In The Game",
       "url": "https://open.spotify.com/track/5XjeZusgXUaGvsou2Y9Aba"
@@ -4120,7 +4120,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 185570,
       "name": "IDGAF (but I care)",
       "url": "https://open.spotify.com/track/17Fg2PKD5iipVst2gm5fJ3"
@@ -7205,6 +7205,28 @@
     },
     {
       "album": {
+        "name": "Now Is The Time",
+        "url": "https://open.spotify.com/album/1G9yVYce5RgAqtbAAb6nsG"
+      },
+      "artists": [
+        {
+          "name": "Wanda Felicia",
+          "url": "https://open.spotify.com/artist/1d4bky74FjfJpMmFyl0NQm"
+        },
+        {
+          "name": "Cold Diamond & Mink",
+          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251318,
+      "name": "Reflections Of Love",
+      "url": "https://open.spotify.com/track/0kIeUknNIN6vEn6Q1vRQgy"
+    },
+    {
+      "album": {
         "name": "Big Crown Vaults Vol. 1 - Lee Fields & The Expressions",
         "url": "https://open.spotify.com/album/2uKHclIQ4IphYCgJyKfSCe"
       },
@@ -9170,6 +9192,24 @@
       "duration_ms": 216913,
       "name": "Thee Only One",
       "url": "https://open.spotify.com/track/3T7nX7qDSC7LDPC18lWOku"
+    },
+    {
+      "album": {
+        "name": "Things Gotta Change",
+        "url": "https://open.spotify.com/album/3PfPnsS5YuLWENdvNg2QyO"
+      },
+      "artists": [
+        {
+          "name": "Sladek",
+          "url": "https://open.spotify.com/artist/23HWMd1bp9eo2D8ChMuq57"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183874,
+      "name": "Things Gotta Change",
+      "url": "https://open.spotify.com/track/5aOeaLKF1v0CEDv7GRxsJv"
     },
     {
       "album": {

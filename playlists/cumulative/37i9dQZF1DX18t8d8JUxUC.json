@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/3dbyvlMLXxaAtvZLKRSiJz"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283370,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/2xN77uzvD2MI7YAsloyLfX"
+    },
+    {
+      "album": {
         "name": "Flores Muertas",
         "url": "https://open.spotify.com/album/73c1nObVrUEtZwmY89VnEC"
       },
@@ -1870,7 +1888,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 245672,
       "name": "Milagro y Desastre",
       "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
@@ -2430,7 +2448,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 204735,
       "name": "Qu\u00e9 Problema",
       "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
@@ -2954,6 +2972,24 @@
       "duration_ms": 231604,
       "name": "Un ratito m\u00e1s",
       "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
+    },
+    {
+      "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias",
+        "url": "https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277486,
+      "name": "Un Rayo de Luz",
+      "url": "https://open.spotify.com/track/50N28N6qdKjK9Z6XmRpuso"
     },
     {
       "album": {

@@ -148,7 +148,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 194638,
       "name": "Asi Fue (Todos los Cumbieros con las manos en el aire)",
       "url": "https://open.spotify.com/track/1TqVbvwPmESLvgkueeJI4V"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 247000,
       "name": "El Hombre Que Yo Amo",
       "url": "https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf"
@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 196360,
       "name": "Eres",
       "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-06",
+      "date_removed": null,
       "duration_ms": 288560,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg"
@@ -1399,6 +1399,32 @@
     },
     {
       "album": {
+        "name": "La Camisa Negra (Versi\u00f3n Cumbia)",
+        "url": "https://open.spotify.com/album/0qFbOPF8edLe0DIvwHKhPF"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "Un Poco de Ruido",
+          "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
+        },
+        {
+          "name": "Pinky SD",
+          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228260,
+      "name": "La Camisa Negra - Versi\u00f3n Cumbia",
+      "url": "https://open.spotify.com/track/7nXmPi9xuGa1yR6vPKTCNG"
+    },
+    {
+      "album": {
         "name": "La Cumbia Une a Latinoam\u00e9rica",
         "url": "https://open.spotify.com/album/0kKxw7rpN8Z0jjTIHWN2GO"
       },
@@ -1620,6 +1646,32 @@
       "duration_ms": 189387,
       "name": "La Pava Congona",
       "url": "https://open.spotify.com/track/0HceRYOs31IFICIrELU5Ei"
+    },
+    {
+      "album": {
+        "name": "La peligrosa",
+        "url": "https://open.spotify.com/album/754IpHbtZecj6NdTFf8eat"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267102,
+      "name": "La peligrosa",
+      "url": "https://open.spotify.com/track/75TMYFaYiBf70VvfHicrzL"
     },
     {
       "album": {
@@ -1920,7 +1972,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 165773,
       "name": "Me Acostumbr\u00e9 a Ti",
       "url": "https://open.spotify.com/track/5NxO2nU8UnfUrQPFiIaJsj"
@@ -2562,7 +2614,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 220618,
       "name": "Otra Como Tu",
       "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"

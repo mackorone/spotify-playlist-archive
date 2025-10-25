@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Hohnen Ford
 
-955 songs - 2 day 3 hr 17 min
+957 songs - 2 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Bloodline](https://open.spotify.com/track/2nOYVXe2AVBLWDjMJPur3O) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Me And My Past](https://open.spotify.com/album/6PGKiegqtNByX3zPzgsBeG) | 3:01 | 2023-11-10 | 2024-02-10 |
 | [Bluebird](https://open.spotify.com/track/73k5rySilKqE1DRJ0VoNSi) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Bluebird](https://open.spotify.com/album/4bh2nuVjY6wuFaCGmsUCRb) | 3:31 | 2025-03-07 | 2025-07-26 |
 | [Bluebird](https://open.spotify.com/track/3UZQKylw0fLvlEqP18M99A) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Waves](https://open.spotify.com/album/36H0aED0yPq0gvQxdg6G99) | 2:45 | 2022-01-14 | 2022-02-12 |
-| [Blurry](https://open.spotify.com/track/20v9Q8HXtnMFXJ0PsXz1N2) | [Karis Taylor](https://open.spotify.com/artist/4DkCeWLigLWQeefMEQ5Iq1) | [Blurry](https://open.spotify.com/album/0Q2MqgMmcEsx3eyThzSbzH) | 3:18 | 2025-08-08 |  |
+| [Blurry](https://open.spotify.com/track/20v9Q8HXtnMFXJ0PsXz1N2) | [Karis Taylor](https://open.spotify.com/artist/4DkCeWLigLWQeefMEQ5Iq1) | [Blurry](https://open.spotify.com/album/0Q2MqgMmcEsx3eyThzSbzH) | 3:18 | 2025-08-08 | 2025-10-25 |
 | [Book of Memories](https://open.spotify.com/track/5DR6USTGyxwdUKAiULZGYs) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Catching Rabbits](https://open.spotify.com/album/2OZngTNbmegPhnUPITvkTy) | 2:58 | 2023-04-07 | 2023-10-01 |
 | [boring](https://open.spotify.com/track/6SSC7khdu8qXT1PRQrNpmT) | [kate gill](https://open.spotify.com/artist/33xEE8UWA6WNNAev0Ctn6Y) | [boring](https://open.spotify.com/album/2BKfJ6r1T6uVHHlHgN80X2) | 3:40 | 2023-06-16 | 2023-11-11 |
 | [Bottle of Advil](https://open.spotify.com/track/5BTOOI9Cesm2UungR9HiWj) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Girls In Purgatory \(Full Moon Edition\)](https://open.spotify.com/album/08hQYW3XbwAhtHO0lA69Ia) | 3:08 | 2022-01-14 | 2022-02-12 |
@@ -333,6 +333,7 @@
 | [Great White Sharks](https://open.spotify.com/track/1ILOpSQ9QqKGY8ISNueZou) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Great White Sharks](https://open.spotify.com/album/6SvD1F9Gey9kY9GVaJkhbm) | 3:19 | 2025-05-09 | 2025-06-28 |
 | [Greek Street](https://open.spotify.com/track/3FOMG322NEExR04jEubVTW) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Greek Street](https://open.spotify.com/album/4LBia6KZZJg2K4qlJyYC22) | 2:42 | 2023-02-24 | 2023-08-19 |
 | [Green](https://open.spotify.com/track/1cNA86HqElqyeD2GMonlpl) | [Avonlea](https://open.spotify.com/artist/30Ddlk9YPm030og6lClMou) | [Green](https://open.spotify.com/album/2dCjM7gJaLq5hdihS9u1wx) | 3:24 | 2022-11-18 | 2023-02-25 |
+| [Groupie](https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Groupie](https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV) | 2:52 | 2025-10-24 |  |
 | [Grow Out Of It](https://open.spotify.com/track/58CUtwjF3a0YrYR5Akh3cn) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Grow Out Of It](https://open.spotify.com/album/6IWfby0SmSyiU2SSktO7E7) | 2:31 | 2023-01-27 | 2023-05-27 |
 | [Grow Out Of You](https://open.spotify.com/track/4KtGZhFHKyJTI8yEStENZt) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Grow Out Of You](https://open.spotify.com/album/7KP890EZNkVqO039GbIJ0X) | 3:33 | 2025-10-10 |  |
 | [growing up sucks](https://open.spotify.com/track/0nzz3rwziKZ3JRD53veIY7) | [Taylor Mecca](https://open.spotify.com/artist/4ghJVwRz768E9qiSzQACGe) | [growing up sucks](https://open.spotify.com/album/0ZDMxXFxduw6IBjL3wn8XA) | 3:33 | 2023-07-28 | 2023-12-14 |
@@ -689,6 +690,7 @@
 | [Remember me Happy](https://open.spotify.com/track/6LmgJRJKksk4FlSWBBLWpw) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Remember me Happy](https://open.spotify.com/album/1mtobYhOLhqQzk9V5zSxKj) | 2:21 | 2022-01-14 | 2022-09-03 |
 | [remind me](https://open.spotify.com/track/1pEqRNNm1wqEOVKpXe5Am8) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [remind me](https://open.spotify.com/album/0SPF8x1JgBFsfxO64ARLKC) | 2:17 | 2023-04-07 | 2023-05-20 |
 | [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 | 2022-05-20 | 2022-10-08 |
+| [Restless Eyes](https://open.spotify.com/track/6xDeYK7kBYz5pk7HaNcf1H) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Pines](https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm) | 3:51 | 2025-10-24 |  |
 | [REVOLVER](https://open.spotify.com/track/3NPjlK42SzChR7v69DLstZ) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [WOMEN WHO LOVE TOO MUCH](https://open.spotify.com/album/1YZUMkkGvXSBd821jlnB2V) | 3:34 | 2025-09-26 |  |
 | [Ride Or Die](https://open.spotify.com/track/1ly4juuAEfCQbkfioOL8v0) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9), [Griffin Lancaster](https://open.spotify.com/artist/2EsnUC4uKX3AV7CGyBClmy) | [Ride Or Die](https://open.spotify.com/album/1ZhAKhbixWHAHiZDrNLyI7) | 3:19 | 2022-01-14 | 2022-08-20 |
 | [Right Person Right Time](https://open.spotify.com/track/5OkOmrLsbr8Lg5wj89LOUb) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Right Person Right Time](https://open.spotify.com/album/2VFni6wfmAnqDS7OWnBUt6) | 2:58 | 2022-09-16 | 2022-12-24 |
@@ -799,7 +801,7 @@
 | [Surround Me](https://open.spotify.com/track/2VpT2mgMMGOgWsLve3FXQI) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Surround Me](https://open.spotify.com/album/7coxHNA9sfn6xEkTF1IbxW) | 3:37 | 2022-03-18 | 2022-04-16 |
 | [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 | 2025-05-30 | 2025-09-27 |
 | [Sweet Emotion](https://open.spotify.com/track/1D6wWuhDf19IsCFDOR9rlP) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [Sweet Emotion](https://open.spotify.com/album/2lEKDGHS0zidrlmckGqmB0) | 3:08 | 2024-07-26 | 2024-12-21 |
-| [Sweet Satin Boy](https://open.spotify.com/track/2XRieO4EqaCRzUIxvbQfdZ) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [Sweet Satin Boy](https://open.spotify.com/album/30JilV14nAFQI9TyL8Tlka) | 3:05 | 2025-07-11 |  |
+| [Sweet Satin Boy](https://open.spotify.com/track/2XRieO4EqaCRzUIxvbQfdZ) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [Sweet Satin Boy](https://open.spotify.com/album/30JilV14nAFQI9TyL8Tlka) | 3:05 | 2025-07-11 | 2025-10-25 |
 | [Sweetheart](https://open.spotify.com/track/5XSBmZKP9J3ZRdqwygm2ee) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Sweetheart](https://open.spotify.com/album/5YRCEVDf3R3TLwPJsKdctz) | 3:35 | 2025-07-18 |  |
 | [T\-Shirt](https://open.spotify.com/track/14t5xsqdGQXdMhRkeCMZaN) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [T\-Shirt](https://open.spotify.com/album/4DBkNAsMfMLqZ86H8FUc6O) | 2:38 | 2025-06-06 | 2025-09-27 |
 | [table for two](https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [table for two](https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL) | 1:51 | 2025-05-09 | 2025-09-20 |

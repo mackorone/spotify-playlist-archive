@@ -18261,6 +18261,36 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        },
+        {
+          "name": "Rivaldo",
+          "url": "https://open.spotify.com/artist/2G1ivj7Cjg9J0b5crt4SgZ"
+        },
+        {
+          "name": "Tripper",
+          "url": "https://open.spotify.com/artist/47JmCbGoXha8wHfWFqEg9q"
+        },
+        {
+          "name": "Maury",
+          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147954,
+      "name": "Quitar La Ropa",
+      "url": "https://open.spotify.com/track/7AcKNrVoQPLKzUtcfHDx1e"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Es Eso",
         "url": "https://open.spotify.com/album/0jn2AIvoUxvNXGOJdJhYGC"
       },

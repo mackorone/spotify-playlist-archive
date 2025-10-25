@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists from UK&IE\. Cover: JayaHadADream
 
-335 songs - 17 hr 54 min
+335 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [I Must Apologise](https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [I must apologise](https://open.spotify.com/album/0m1wwIx9Eoa7fWb9KYh7pt) | 1:48 | 2022-02-18 |  |
 | [I Need You To Hate Me](https://open.spotify.com/track/1zY6ekSJ8VI6tZ6nBqoo7g) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [I Need You To Hate Me](https://open.spotify.com/album/1iTfzcKZxr2SEgNCIDyhol) | 2:37 | 2022-02-18 |  |
 | [I'm Insecure](https://open.spotify.com/track/6kHnHk0jlAdYWktT0FQrSN) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [I’m Insecure](https://open.spotify.com/album/0DyvaVIRS4rdXtTcIu5QQi) | 3:42 | 2022-06-02 |  |
+| [If It Ain't](https://open.spotify.com/track/05G7mFAM1ABmSUIuTt6G54) | [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo), [Coops](https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR) | [Happiness From Agony](https://open.spotify.com/album/6k55aAff183ZJ37d5yrrYq) | 2:54 | 2025-10-23 |  |
 | [If U Leave Me](https://open.spotify.com/track/0bHmHNgoovJqwIeEQDQHr0) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [If U Leave Me](https://open.spotify.com/album/64cNAPlLpI5W4YWv3J2aKh) | 2:27 | 2024-11-22 |  |
 | [if you called me today, i would come back tomorrow](https://open.spotify.com/track/0ZhcTOA3jY10bgme6qpptW) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [if you called me today, i would come back tomorrow](https://open.spotify.com/album/7860oA85u1By2IkqmpXiAi) | 4:02 | 2023-03-03 |  |
 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 | 2022-07-07 |  |
@@ -316,7 +317,6 @@
 | [Too Far Gone](https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Too Far Gone](https://open.spotify.com/album/2KCorvQcuU6SwQcQVcV7kk) | 3:05 | 2025-01-24 |  |
 | [too much tv](https://open.spotify.com/track/5ZhW39tJKPDZRphsTknUHR) | [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [too much tv](https://open.spotify.com/album/3to4TxLLUr4iQ3uOyW6XLW) | 3:13 | 2024-08-29 |  |
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 |  |
-| [Track 8](https://open.spotify.com/track/05G7mFAM1ABmSUIuTt6G54) | [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [Trouble](https://open.spotify.com/track/0LdhrpQQXy9t2jwidxgOwL) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [The Butterfly Club](https://open.spotify.com/album/0RIR5ufR003FyTIywzPMCB) | 4:28 | 2022-02-18 |  |
 | [TRUTH](https://open.spotify.com/track/4C9BuBuYgYlOvLh6QzMpqb) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [TRUTH](https://open.spotify.com/album/514vLGRIoCZV3WFoo61QIl) | 2:03 | 2025-06-26 |  |
 | [Use You](https://open.spotify.com/track/7LHdg8zRyjdwiV2RpBKL8x) | [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [cry.baby](https://open.spotify.com/album/4cPb0Ej857PhMEXh0YmrCM) | 2:54 | 2022-02-18 |  |

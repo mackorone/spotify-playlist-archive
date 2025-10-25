@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-562 songs - 1 day 12 hr 48 min
+563 songs - 1 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [die.](https://open.spotify.com/track/08ChSalJt4JPWBdgaYXrOv) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [IKARUS](https://open.spotify.com/album/5uxcK6vD7C7VhA94J3jnmT) | 2:58 | 2022-12-15 | 2022-12-24 |
 | [Dream All Summer](https://open.spotify.com/track/2NjBvSSL8v3m3vxlgX7of8) | [Lu Han](https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO) | [Dream All Summer](https://open.spotify.com/album/5cjJFLqNgJWZOA7JWaZG0L) | 3:02 | 2024-07-11 | 2024-08-09 |
 | [Dying In The Sun](https://open.spotify.com/track/60HzoRhVNP9mPVnwebBIE9) | [陳一發兒](https://open.spotify.com/artist/10xtjTRMlKZ7aFx6VBQlSj) | [Dying In The Sun](https://open.spotify.com/album/5YRyPRXgNDJVpilQYmgy0F) | 3:31 | 2022-06-10 | 2022-06-15 |
+| [Fall for you \(爱上你\)](https://open.spotify.com/track/4eAbT67FCUbvNMNWu9XkRo) | [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [Harin](https://open.spotify.com/artist/1k5u6Rxiv1jHA7LqPrCrW1) | [Fall for you \(爱上你\)](https://open.spotify.com/album/3tTdg8DzSv8Hg69vQTBGWU) | 3:09 | 2025-10-23 |  |
 | [feathers](https://open.spotify.com/track/6KWVd1BKgMN4dryCWFEbRA) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [brb](https://open.spotify.com/album/2Lp5MWiBLQToFpGw51PRii) | 2:50 | 2024-12-12 | 2025-01-03 |
 | [First Line Of The Poem \- Drama "Gold Leaf" Interlude Song](https://open.spotify.com/track/3c4wRhdKdqz9JVohaxtlrJ) | [Julia Peng](https://open.spotify.com/artist/7B4GBM2vQJvwyghdsvEV77) | [First Line Of The Poem \(Drama "Gold Leaf" Interlude Song\)](https://open.spotify.com/album/1DFsZyg7tE097RWIRnmMJK) | 3:24 | 2022-06-30 | 2022-07-18 |
 | [floaty shit](https://open.spotify.com/track/3UEETfeyusWAR18Ezx9XtW) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [floaty shit](https://open.spotify.com/album/3KG2Ff8KlXORaMfz8GjrGk) | 3:00 | 2022-06-16 | 2022-06-18 |

@@ -2864,7 +2864,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 102860,
       "name": "Give It To Me - Full Vocal Mix",
       "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
@@ -3093,6 +3093,28 @@
     },
     {
       "album": {
+        "name": "Brooklyn Sessions 10",
+        "url": "https://open.spotify.com/album/6dSpcF9i17D4nlxVIiH1ns"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        },
+        {
+          "name": "Cicely Parnas",
+          "url": "https://open.spotify.com/artist/1Ryfe8gwXWGgKNRWKsYkpk"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271490,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/1F6P3SmrBw9k5rBZ2U70ws"
+    },
+    {
+      "album": {
         "name": "Doll Domination (Deluxe)",
         "url": "https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5"
       },
@@ -3104,7 +3126,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 324253,
       "name": "Halo",
       "url": "https://open.spotify.com/track/1V1vdxs1Yk9q8L76eb47rv"

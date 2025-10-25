@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: TyriqueOrDie
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,694 likes - 125 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,705 likes - 125 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 124 | [Soundboy](https://open.spotify.com/track/58U3P9ZuOGwcJnz7L0RUw6) | [Kitone](https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Soundboy](https://open.spotify.com/album/4i3Jyd8XH7EEU42JId6awO) | 2:31 |
 | 125 | [Don't Be Fooled](https://open.spotify.com/track/2Mjim603j5TvUX3uB3YOzv) | [Stirling](https://open.spotify.com/artist/5ENeTFArq0YgcBS9A1iGGG) | [Don't Be Fooled](https://open.spotify.com/album/5RxVZoXHLOBK6UlgFp0JGI) | 3:03 |
 
-Snapshot ID: `AAAAAJYWtGAqyJKQyGVecw0xBQSCXpRK`
+Snapshot ID: `AAAAAGA2A85DuNvwUWVSVBeUPgn3Lkj/`

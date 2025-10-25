@@ -4,7 +4,7 @@
 
 > but listened to this instead
 
-70 songs - 3 hr 41 min
+71 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,11 +67,12 @@
 | [Space Song \- Piano Version](https://open.spotify.com/track/1SBo9qvXe85LUwrrIsDEWr) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Piano Cover Collection \(Vol.3\)](https://open.spotify.com/album/4UjatSTl3ifWztP8eJzdDm) | 2:57 | 2025-02-20 |  |
 | [STAY \- Piano Cover](https://open.spotify.com/track/1CmppZTbQicdsK3Wvf1pZh) | [Milo Grande](https://open.spotify.com/artist/182Ff74ykrt6AQ716FsefI) | [Small Parts of big Parts](https://open.spotify.com/album/2kw5VPT7h3LHWAj6Dafq9t) | 2:08 | 2025-02-20 | 2025-05-03 |
 | [Summertime Sadness](https://open.spotify.com/track/2YryAeTzc3Ka8FDQlCEWF2) | [Marc Ventus](https://open.spotify.com/artist/5QpVRIIbhz7b7DSghK0aTH) | [As It Goes](https://open.spotify.com/album/59Y3FjjAAV4P9U4ZrldQth) | 2:43 | 2025-02-20 | 2025-05-17 |
-| [Sunflower](https://open.spotify.com/track/0Q3UrvVVAPzv72nTWLzTRv) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Sunflower](https://open.spotify.com/album/5jOXGrdg6dzNWAc2YmpPfm) | 3:10 | 2025-02-20 |  |
+| [Sunflower](https://open.spotify.com/track/0Q3UrvVVAPzv72nTWLzTRv) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Sunflower](https://open.spotify.com/album/5jOXGrdg6dzNWAc2YmpPfm) | 3:10 | 2025-02-20 | 2025-10-25 |
 | [Taste](https://open.spotify.com/track/17y22f5dFjcSMkjsA4OjwJ) | [Ellery Hughes](https://open.spotify.com/artist/5py7utGDgkOSj26N1boPUc) | [Taste](https://open.spotify.com/album/0orAB0e58uiyyrRMGmxQMX) | 3:32 | 2025-04-07 |  |
 | [Texas Hold EM](https://open.spotify.com/track/3KjegNTJ84MxLDXpoHWWcg) | [Marc Ventus](https://open.spotify.com/artist/5QpVRIIbhz7b7DSghK0aTH) | [As It Goes](https://open.spotify.com/album/59Y3FjjAAV4P9U4ZrldQth) | 3:23 | 2025-02-20 |  |
 | [That's So True](https://open.spotify.com/track/3wfQvxeJREWqSMceBL40Fc) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [That's So True](https://open.spotify.com/album/4pVfyoenHrnYwSRlJalQ4H) | 3:34 | 2025-05-02 |  |
 | [Too Good At Goodbyes](https://open.spotify.com/track/0YDllquMDrYKSeH34vGODj) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Magnus Eriksson](https://open.spotify.com/artist/5Y92W0Mxk53w1ozspH7zZb) | [Pop Piano Covers Vol\. 1](https://open.spotify.com/album/0Y0oYVkTYrJ1UzEkhmnXjt) | 2:15 | 2025-02-20 | 2025-03-11 |
+| [undressed](https://open.spotify.com/track/2uFX1GSnsRjlA7w5lSm1rK) | [Olavi Heed](https://open.spotify.com/artist/5SPqbJUyrKqG0sWvYDecAa) | [Undressed](https://open.spotify.com/album/3GSZx67ipMHB5k3HK93rAL) | 2:20 | 2025-10-24 |  |
 | [undressed \- Piano Instrumental](https://open.spotify.com/track/0iTJdkp6fOP9Ut4t5V4F7y) | [Marcus Chow](https://open.spotify.com/artist/7w2L1GIo649U1ioe0mnH23) | [undressed \(Piano Instrumental\)](https://open.spotify.com/album/5XAZzHROU1hb5hD7lZPwUh) | 3:09 | 2025-09-26 |  |
 | [We Don't Talk Anymore](https://open.spotify.com/track/4OgNKXz4YMu9tDm8giWkwy) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [We Don't Talk Anymore](https://open.spotify.com/album/4DWAGQ8cHUTFLZKbl1geK9) | 3:43 | 2025-02-20 |  |
 | [What Was I Made For? \- Piano Version](https://open.spotify.com/track/6Nce1UKzpjE1BB88uAVbsK) | [Flying Fingers](https://open.spotify.com/artist/1jUIOsS9vK91Nc9qYvpEab) | [What Was I Made For? \(Piano Version\)](https://open.spotify.com/album/6jiYjhX0iTyHGzaJYkCU44) | 4:03 | 2025-02-20 | 2025-07-05 |

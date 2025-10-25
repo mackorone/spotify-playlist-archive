@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-409 songs - 23 hr 17 min
+410 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 | 2025-06-28 |  |
 | [Find a Way](https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Love Movement](https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2) | 3:23 | 2022-01-14 |  |
 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 | 2023-09-01 |  |
+| [float 2.0](https://open.spotify.com/track/1nPuPXBojDHIsoY0DCXDxm) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [float 2.0](https://open.spotify.com/album/1r4QvO5mB5VncnRaIKcBQA) | 1:50 | 2025-10-24 |  |
 | [Flossin'](https://open.spotify.com/track/7ancvwiSHq5uQSUCxW6IFY) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Flossin'](https://open.spotify.com/album/0W3XpjZWbYHhOyMs756EIs) | 2:48 | 2023-10-29 | 2023-11-25 |
 | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/5SzQj9rNCNbXcp1jyr9LWb) | 2:48 | 2022-02-04 | 2023-10-24 |
 | [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 | 2023-08-11 |  |
@@ -206,7 +207,7 @@
 | [Jumpin Out The Face](https://open.spotify.com/track/4YIC82vyZpWPc87MUK472B) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Jumpin Out The Face](https://open.spotify.com/album/0VVV8k3utS3P1PJlIVK0aj) | 2:50 | 2022-01-14 | 2022-07-02 |
 | [Kaiju](https://open.spotify.com/track/1yz2ll2Xi1ycXhkwxtsdQ3) | [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [DJ Scratch](https://open.spotify.com/artist/4vBBOm1tR7WToK4DZmDZAd) | [Saturday Afternoon Kung Fu Theater](https://open.spotify.com/album/2B1vfij3XHohiv36HUHhr1) | 3:03 | 2022-03-04 | 2022-04-08 |
 | [Kool Aid & Frozen Pizza](https://open.spotify.com/track/0SwxuVBPfjqR2kCnpDDnqp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 2:37 | 2023-04-21 | 2024-04-19 |
-| [Kool Aid and Frozen Pizza](https://open.spotify.com/track/3VmrLy4WZLHDgTXENCIz2p) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Kool Aid and Frozen Pizza](https://open.spotify.com/album/7xHyZoZLGHVUCdZwG16Zd3) | 2:37 | 2022-01-14 |  |
+| [Kool Aid and Frozen Pizza](https://open.spotify.com/track/3VmrLy4WZLHDgTXENCIz2p) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Kool Aid and Frozen Pizza](https://open.spotify.com/album/7xHyZoZLGHVUCdZwG16Zd3) | 2:37 | 2022-01-14 | 2025-10-25 |
 | [Lane](https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Lane](https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH) | 2:42 | 2022-04-29 | 2022-08-13 |
 | [late at night](https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [late at night](https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u) | 2:54 | 2022-01-14 | 2025-01-18 |
 | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9) | 3:22 | 2022-01-14 | 2023-03-03 |

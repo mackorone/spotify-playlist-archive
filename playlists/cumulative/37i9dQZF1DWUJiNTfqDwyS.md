@@ -2,9 +2,9 @@
 
 ### [Metal Covers](https://open.spotify.com/playlist/37i9dQZF1DWUJiNTfqDwyS)
 
-> A collection of the best Metal covers out there\. Cover: Lamb of God
+> A collection of the best Metal covers out there\. Cover: Metallica
 
-214 songs - 14 hr 58 min
+215 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Losing My Religion](https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Losing My Religion](https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR) | 4:41 | 2023-02-19 | 2025-07-19 |
 | [Lovely \(feat\. Charlotte Buchholz\)](https://open.spotify.com/track/73lnNys5DP9GOM2YKqNkQz) | [Time, The Valuator](https://open.spotify.com/artist/5XMVfR85CUqujqUkN9c9VQ), [Charlotte Buchholz](https://open.spotify.com/artist/6wkvIFk3Ao7Rjr2cUdJ8Kc) | [Lovely \(feat\. Charlotte Buchholz\)](https://open.spotify.com/album/2zXwjDE1op3goWSzN31I4G) | 3:58 | 2022-06-13 | 2023-02-20 |
 | [Mambo No\. 5 \- Cover](https://open.spotify.com/track/6zVPxBtCzKMewKLC9OOfcx) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Mambo No\. 5 \(Cover\)](https://open.spotify.com/album/5Ng9lsJwo1waGpQhSOMBSn) | 3:30 | 2022-05-25 | 2023-02-14 |
-| [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 | 2022-05-25 |  |
+| [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 | 2022-05-25 | 2025-10-25 |
 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 | 2024-08-30 |  |
 | [Mein Herz brennt](https://open.spotify.com/track/2LcFM0W0vrNtpJB9GcQphU) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Mein Herz brennt](https://open.spotify.com/album/7LTkkXUFpOIbFPUUki9bUu) | 4:41 | 2022-05-25 | 2023-02-20 |
 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 | 2022-05-25 | 2025-09-20 |
@@ -158,6 +158,7 @@
 | [Roundabout](https://open.spotify.com/track/2dDlRT8gT5jCBm5m5qkneI) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Roundabout](https://open.spotify.com/album/7LNKPAcxvswG7jpbH4gkf6) | 8:20 | 2022-05-25 | 2023-02-20 |
 | [Sad But True](https://open.spotify.com/track/48iUr7K2jRxpNIDcSftKZY) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Sad But True](https://open.spotify.com/album/6UjB1VbxPSKasTeHkAE5mV) | 5:32 | 2022-05-25 | 2023-02-20 |
 | [Sail](https://open.spotify.com/track/2QusYlHgyVRNu05c36wWlJ) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Winter Kills \(Deluxe Version\)](https://open.spotify.com/album/2rotrtFHZXM3QkZIiAMk5P) | 4:06 | 2023-06-22 |  |
+| [Seek & Destroy](https://open.spotify.com/track/0YpQy96LlfTKcaKM8M9E0J) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Seek & Destroy](https://open.spotify.com/album/1HGpNVvKDpSUu8dbnItK47) | 6:54 | 2025-10-24 |  |
 | [Shallow](https://open.spotify.com/track/1jRJ6mZwtu6mBU0FK2LfjH) | [Quor](https://open.spotify.com/artist/2t9O48sGKL9akw6mG879D5) | [Shallow](https://open.spotify.com/album/0lCdXI5pUEQSiUWzzxFczG) | 4:03 | 2022-05-25 | 2022-07-14 |
 | [Shape of You](https://open.spotify.com/track/54SMw8TnDcuieolVRXBmni) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Shape of You](https://open.spotify.com/album/4eYjV7ET5e8iOtyxg5CLNq) | 3:56 | 2023-02-19 |  |
 | [SHATTERED DREAMS](https://open.spotify.com/track/5dOfJ0XfW7hTt6VsvUKc4s) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [SHATTERED DREAMS](https://open.spotify.com/album/3etzv8GvwFdVG4ijCk7EFo) | 4:09 | 2025-08-29 |  |

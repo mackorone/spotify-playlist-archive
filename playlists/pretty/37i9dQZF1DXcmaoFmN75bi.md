@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmaoFmN75bi.md) - [plain]
 
 > Os hits do rock internacional e nacional estão reunidos nesta playlist\. Foto: Scorpions
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,178,189 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,178,271 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmaoFmN75bi.md) - [plain]
 | 99 | [Hardwired \- Live In São Paulo, Brazil \- March 25th, 2017](https://open.spotify.com/track/3Pj6JshAvbzZeg1xdidsGA) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Live In Brazil \(1993 – 2017\)](https://open.spotify.com/album/2zhgGiT3sNBK2rbrC7JcRW) | 3:53 |
 | 100 | [Love, Reign O'er Me](https://open.spotify.com/track/5ZfsG6AXxJBSaiAyKuTSgy) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Love, Reign O'er Me](https://open.spotify.com/album/1cZTDwipkedFb85qMbYTr1) | 5:32 |
 
-Snapshot ID: `AAAAAI+vcsIFzF8BYqq32KYc4DowK3lZ`
+Snapshot ID: `AAAAAE6Q2lM6froJiV2GP1/woANvtSf9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Electronic music from AUS + NZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,269 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,280 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 99 | [Like That](https://open.spotify.com/track/5qqVN5D69aOkN0lf8OIQ2b) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Like That](https://open.spotify.com/album/4FQ3HXhwVOTaMKVdDhYxER) | 2:30 |
 | 100 | [Skin & Bones \(feat\. Winona Oak\)](https://open.spotify.com/track/0kisDgW1eYNqJhyvkKeyxJ) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Skin & Bones](https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK) | 2:30 |
 
-Snapshot ID: `AAAAAE6h0YCzAAqN1gttGZrpNsYV/yrH`
+Snapshot ID: `AAAAAJChMLEjzulGc0B36aDuLUOzaKVk`

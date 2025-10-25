@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 82 | [Set You Free](https://open.spotify.com/track/1kwRo02wdqiv1qEIlHMZcF) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Set You Free](https://open.spotify.com/album/5HFGUJW2d6XtDF2AFziY51) | 2:50 |
 | 83 | [You've Let Yourself Down](https://open.spotify.com/track/3ilLCZ64M9t4828QK5EpDE) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Choices](https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5) | 2:58 |
 | 84 | [Together](https://open.spotify.com/track/03akDaEjjNtl4o4Rb702IW) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [You Got It All](https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q) | 3:03 |
-| 85 | [Oxygen](https://open.spotify.com/track/1TyOikNjNxgLY1xRa5an3Z) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Oxygen](https://open.spotify.com/album/7irVDSjaTPjKzCIKnqBe2n) | 2:57 |
-| 86 | [Save Me From Myself](https://open.spotify.com/track/5w3yOrJubytZAWTPCaejJB) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Step Back EP](https://open.spotify.com/album/0jjxVahwxOj0x4o8LYyOUT) | 3:28 |
-| 87 | [One More Drink](https://open.spotify.com/track/1hVDx7jZdR0re5I0hxZheO) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:13 |
-| 88 | [Mad](https://open.spotify.com/track/2OVGuGN4Ia77OJz3CFgiG6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:10 |
-| 89 | [Lose Myself](https://open.spotify.com/track/6xLR0LNVqenF9ihWoXMhKW) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:44 |
+| 85 | [Mad](https://open.spotify.com/track/2OVGuGN4Ia77OJz3CFgiG6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:10 |
+| 86 | [One More Drink](https://open.spotify.com/track/1hVDx7jZdR0re5I0hxZheO) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:13 |
+| 87 | [Oxygen](https://open.spotify.com/track/1TyOikNjNxgLY1xRa5an3Z) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Oxygen](https://open.spotify.com/album/7irVDSjaTPjKzCIKnqBe2n) | 2:57 |
+| 88 | [Lose Myself](https://open.spotify.com/track/6xLR0LNVqenF9ihWoXMhKW) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:44 |
+| 89 | [Save Me From Myself](https://open.spotify.com/track/5w3yOrJubytZAWTPCaejJB) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Step Back EP](https://open.spotify.com/album/0jjxVahwxOj0x4o8LYyOUT) | 3:28 |
 | 90 | [Cadillac](https://open.spotify.com/track/27vTsuK5jVQaYOnCp6egkc) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq) | [3](https://open.spotify.com/album/2Esif7qCtdu8GaxVeLbMqN) | 2:56 |
 | 91 | [Only Love](https://open.spotify.com/track/6yGS34pX74150JW2AT0lSu) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:30 |
 | 92 | [Being with You](https://open.spotify.com/track/3vup8i9EeA4bdyKa47dTKu) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:57 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 103 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
 | 104 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `Ab/qXgAAAABetqyqsqPZY6QIgK9OCpfI`
+Snapshot ID: `Ab/wHAAAAAAHmtt+Wc8TcZVXWNhpE5ju`

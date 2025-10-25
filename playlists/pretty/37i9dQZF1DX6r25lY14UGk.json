@@ -1,13 +1,105 @@
 {
   "description": "New releases for the kids. Cover: Gabby's Dollhouse",
-  "num_followers": 75026,
+  "num_followers": 75145,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEOegtZfnM7BYkK8Y2z1hskogE03",
+  "snapshot_id": "AAAAAKq3xQ3DB/5J4GExtvn1tqYI763E",
   "tracks": [
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "Moo-moo MOOOsic (Caring Fun Farm)",
+        "url": "https://open.spotify.com/album/4HoBXqlupPph65JSywDvTl"
+      },
+      "artists": [
+        {
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 73740,
+      "name": "Fine Farm Day",
+      "url": "https://open.spotify.com/track/01b9sAPnSGxUa3xozlS1ti"
+    },
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "ABC Democracy",
+        "url": "https://open.spotify.com/album/0QhMktdOacbHQynL52OzDV"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        },
+        {
+          "name": "Good Lovelies",
+          "url": "https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S"
+        }
+      ],
+      "duration_ms": 138832,
+      "name": "ABC Democracy",
+      "url": "https://open.spotify.com/track/5XwnyK8vOHt7Nsc8kPHyKh"
+    },
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "Ope (DJ Mad Mardigan Remix)",
+        "url": "https://open.spotify.com/album/3piKv8abSFfpAGJKDnkH3u"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        },
+        {
+          "name": "DJ Mad Mardigan",
+          "url": "https://open.spotify.com/artist/6iPQGIvxewQirQtd9hyW7S"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "Ope (DJ Mad Mardigan Remix)",
+      "url": "https://open.spotify.com/track/0jpy67SG8McrAWqSVWQwxj"
+    },
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/7E5Z9WjMZLHU0R16flCaT5"
+      },
+      "artists": [
+        {
+          "name": "The Okee Dokee Brothers",
+          "url": "https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe"
+        }
+      ],
+      "duration_ms": 136306,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/00tbaXxwJl4wUFMvtT4ePX"
+    },
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "Little Bird!",
+        "url": "https://open.spotify.com/album/6jPReyNmbGA8Y9dQw2yAHL"
+      },
+      "artists": [
+        {
+          "name": "Snuggle Bunch",
+          "url": "https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv"
+        }
+      ],
+      "duration_ms": 119801,
+      "name": "Little Bird!",
+      "url": "https://open.spotify.com/track/6aHbIDselnojx1BxnKIu56"
+    },
     {
       "added_at": "2025-10-17 04:00:47",
       "album": {

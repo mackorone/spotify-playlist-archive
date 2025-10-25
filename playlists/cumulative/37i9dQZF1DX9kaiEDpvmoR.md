@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-457 songs - 1 day 2 hr 39 min
+457 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Living La Vida](https://open.spotify.com/track/2e1qKKgn66K9Yf4GZLtjrX) | [Andreas Lundstedt](https://open.spotify.com/artist/5vPfSurUhT1t4PmLkAuARc) | [Så Mycket Bättre 2024 \- Tolkningarna](https://open.spotify.com/album/5fzaDwfgQ8wa3sq6Bwy2ww) | 2:59 | 2025-01-02 | 2025-05-16 |
 | [Ljusare moln](https://open.spotify.com/track/2TvvVfjKB66mdJYI7CCXXA) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe), [Linus Wahlgren](https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q) | [Ljusare moln](https://open.spotify.com/album/4vcTwhMZ0INwetdSlTHWWt) | 3:58 | 2024-08-29 | 2025-04-11 |
 | [Looking Back, Looking Out](https://open.spotify.com/track/1pSWXfVAsJfT0eM5wmuwuB) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [Looking Back, Looking Out](https://open.spotify.com/album/4R5CfXhjC0NCkMntkBekAn) | 3:24 | 2024-06-27 | 2024-08-09 |
-| [Losin' Kind \- Nebraska Outtakes](https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [](https://open.spotify.com/album/null) | 5:00 | 2025-10-23 |  |
+| [Losin' Kind \- Nebraska Outtakes](https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska '82: Expanded Edition](https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM) | 5:00 | 2025-10-23 |  |
 | [Love / Luck](https://open.spotify.com/track/2dEkU2gOq5XhWdmB472K2X) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw), [Johanna Söderberg](https://open.spotify.com/artist/5rdooMl2nQgTmhpklY2PVL) | [A Moment Longer / Love / Luck](https://open.spotify.com/album/6R4nipm3Fr9OTFLjRbYcPp) | 4:08 | 2025-06-05 | 2025-07-11 |
 | [Love Is Everywhere](https://open.spotify.com/track/0NRT9PQ5zQtGKPQqXAVbMb) | [Weeping Willows](https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj) | [Goodwill](https://open.spotify.com/album/0HegWmmtx1ptOmFGDCvL7G) | 5:16 | 2025-05-22 |  |
 | [Love vs\. The World](https://open.spotify.com/track/1dJ0YjXLjbBpnosumLsdgo) | [Sivert Høyem](https://open.spotify.com/artist/2xMBy2SwN1OMgSSCKmX3IG) | [Love vs\. The World](https://open.spotify.com/album/47PnCVscxYlXZoH772Y13G) | 3:53 | 2025-01-09 | 2025-03-10 |
@@ -368,6 +368,7 @@
 | [Spin The Bottle](https://open.spotify.com/track/1W0AJZWfVldNrgNDoaqRkY) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Spin The Bottle](https://open.spotify.com/album/2PhwRImFoeE9HvSMsyrjfz) | 3:06 | 2025-05-01 | 2025-08-08 |
 | [Springer ikapp](https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Springer Ikapp](https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk) | 3:34 | 2025-07-17 |  |
 | [Stanna tiden](https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm) | [Casanovas](https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT) | [Stanna tiden](https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK) | 3:12 | 2025-10-09 |  |
+| [Stanna upp ett slag \- Demo](https://open.spotify.com/track/3Yg0pRCZocNI0GgWLavuGF) | [Ulf Lundell](https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A) | [Vargmåne \(50 år jubileums\-utgåva\)](https://open.spotify.com/album/2TMY85CzleNNh8VpT7oWuT) | 3:42 | 2025-10-23 |  |
 | [Stillhet](https://open.spotify.com/track/09Xt3KWgGT25MdaNJqv8wJ) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Ärligt misstag](https://open.spotify.com/album/0Ar1oOGOq7FSZDuilbUjoW) | 4:23 | 2025-09-04 | 2025-10-24 |
 | [Stjärnorna](https://open.spotify.com/track/6d11hYN6PUR07rk1YIXqem) | [crescenterna](https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh) | [Stjärnorna](https://open.spotify.com/album/08LEQYxN0BBdBPpn9qCsxS) | 4:20 | 2025-09-18 |  |
 | [Stjärnorna](https://open.spotify.com/track/3LMOtdKFkGrz3rHycZntPm) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Stjärnorna](https://open.spotify.com/album/4MyRVj71HgtDonhDzJyFq3) | 4:14 | 2024-12-05 | 2025-01-03 |
@@ -400,7 +401,6 @@
 | [Tiden försvinner](https://open.spotify.com/track/3THkpuPm9r1eu2Y2YXsHjb) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Tiden försvinner](https://open.spotify.com/album/5zWmdawhCC0ijjNQrL4mDM) | 3:26 | 2024-09-12 | 2024-10-05 |
 | [Til the music starts again](https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1) | [Banna Sona Band](https://open.spotify.com/artist/2VzA8vhIIS0wa7Jw1eemPL), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW) | [Til the music starts again](https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK) | 3:28 | 2025-05-26 |  |
 | [Tillbaka](https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Tillbaka](https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs) | 3:31 | 2025-09-18 |  |
-| [Track 12](https://open.spotify.com/track/3Yg0pRCZocNI0GgWLavuGF) | [Ulf Lundell](https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [Tro](https://open.spotify.com/track/6s0GL6SGcyHKSzZwMmdCGL) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Hemland](https://open.spotify.com/album/7Mwl7nb4iMLxfsDOoqqbPw) | 4:39 | 2025-09-25 |  |
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 | 2025-04-25 |
 | [Truck Still Works](https://open.spotify.com/track/07EpoAJrwp3GuJBCkRNVxN) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Truck Still Works](https://open.spotify.com/album/7nlO9Em1FkP8c5IHynQafE) | 3:32 | 2024-09-26 | 2025-04-25 |

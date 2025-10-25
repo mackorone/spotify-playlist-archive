@@ -4,7 +4,7 @@
 
 > Música groovera, for the true Funk Soldiers!
 
-167 songs - 10 hr 49 min
+168 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Afromama Jams](https://open.spotify.com/track/1tf8i6ceZQkUSi5LhNXG2q) | [Afromama](https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN), [Low97](https://open.spotify.com/artist/2y0suU2ggVXoogAbliPZD7) | [Afromama Jams](https://open.spotify.com/album/5eLwYeM4bFzNhPiIPC4FiC) | 3:03 | 2023-02-17 |  |
 | [Agitando](https://open.spotify.com/track/6cZ0HOx7jElFdcfARajfnd) | [Halks](https://open.spotify.com/artist/1ppSnWLPr4wR5aPoMh1aTo), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [El Reino](https://open.spotify.com/album/6n1MzVCGv5bsBOYl3HH02m) | 3:35 | 2023-12-08 | 2024-11-29 |
 | [Ahora](https://open.spotify.com/track/5fJf0XNVVyCXZDkkIhTkfI) | [Florencia Andrada](https://open.spotify.com/artist/3Yn6NUVSA13dcEZpw79Vd2) | [A Pesar de la Tormenta](https://open.spotify.com/album/4CMImKp9OiSozGXqoN6EdW) | 2:55 | 2023-02-17 | 2024-04-19 |
-| [Aire](https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Aire](https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR) | 3:10 | 2023-02-17 |  |
+| [Aire](https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Aire](https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR) | 3:10 | 2023-02-17 | 2025-10-25 |
 | [Al Otro Lado](https://open.spotify.com/track/3z4qhzZR43nyO2iyJvr8ZR) | [Milhojas](https://open.spotify.com/artist/5SYSiqQnMA3kKiIe1BzQdb) | [Inmunidad](https://open.spotify.com/album/3SJ7gTxtIxHXZ1e2xnJ6TG) | 3:31 | 2023-12-08 | 2025-05-31 |
 | [Alergica](https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG) | [Los Funktasticos Genitales](https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2) | [Los Funktasticos Genitales](https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b) | 3:56 | 2023-02-17 |  |
 | [Ameba](https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 7:25 | 2023-02-17 |  |
@@ -123,6 +123,7 @@
 | [Papi ¿Dónde Está El Funk?](https://open.spotify.com/track/2xsAvvob9qFtBiEI1SK76p) | [Los Tetas](https://open.spotify.com/artist/4yjiCh3gayolGLTCVpHojS) | [Latin Funk All\-Stars](https://open.spotify.com/album/1O5LoF8u5HvjPf54M9RS6A) | 5:50 | 2023-02-17 | 2024-04-19 |
 | [Papi ¿Dónde Está El Funk?](https://open.spotify.com/track/3QPXyIxIQaPejnwkaIlJCO) | [Los Tetas](https://open.spotify.com/artist/4yjiCh3gayolGLTCVpHojS) | [La Medicina](https://open.spotify.com/album/4XbyZQ7n5TzqlS1uWpwwXE) | 5:52 | 2024-03-29 |  |
 | [Para Ernesto](https://open.spotify.com/track/5EpbaJs8fHwiVHag4ZHX8K) | [Marcelo Soler](https://open.spotify.com/artist/6RyrFvHJPFymCOzrfIyPdR), [Miguel Narvaez](https://open.spotify.com/artist/09lMweiqZ7U5McT0VqnLnO), [Nico Vera](https://open.spotify.com/artist/4P2ggHnAJsFCmzph1XpAL7) | [Para Ernesto](https://open.spotify.com/album/4tZc2ALthrdQKbO09arrs1) | 3:33 | 2023-02-17 | 2023-10-28 |
+| [Pensando en Ella](https://open.spotify.com/track/0xKip9rjYsEWRdBYlJ0G3K) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Pensando en Ella](https://open.spotify.com/album/3bnsZ3LTSKoCTVAE0TjxM5) | 3:24 | 2025-10-24 |  |
 | [Pertenecer](https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Pertenecer](https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T) | 3:27 | 2024-03-29 |  |
 | [Picante](https://open.spotify.com/track/1hhD04AfEtZWt1MG4IyhJw) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH), [San Juan Project](https://open.spotify.com/artist/0OvRTd6sJc06xSW6ZkESFi) | [Picante](https://open.spotify.com/album/5D5k6gpm85kIQJ5eumduv4) | 3:43 | 2023-10-06 | 2025-06-12 |
 | [Pick Up On Your Line](https://open.spotify.com/track/2dM7ASP6qqUlDvAKnQSEgr) | [Jurassik Funk](https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0) | [Jurassik Funk](https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8) | 4:46 | 2023-02-17 |  |

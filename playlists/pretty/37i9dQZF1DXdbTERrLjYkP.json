@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Hohnen Ford",
-  "num_followers": 219209,
+  "num_followers": 219206,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH+lnQUJrEn5TJLkPF6i0RhtQ5Ck",
+  "snapshot_id": "AAAAALHaQ0ABGSaM3FmU9BTgbFG/wrFd",
   "tracks": [
     {
       "added_at": "2025-10-03 04:00:31",
@@ -23,6 +23,38 @@
       "duration_ms": 200964,
       "name": "Tomorrow's Tomorrow",
       "url": "https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU"
+    },
+    {
+      "added_at": "2025-10-24 04:00:29",
+      "album": {
+        "name": "Groupie",
+        "url": "https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        }
+      ],
+      "duration_ms": 172415,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM"
+    },
+    {
+      "added_at": "2025-10-24 04:00:29",
+      "album": {
+        "name": "The Pines",
+        "url": "https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Restless Eyes",
+      "url": "https://open.spotify.com/track/6xDeYK7kBYz5pk7HaNcf1H"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -713,22 +745,6 @@
       "url": "https://open.spotify.com/track/55ejPEgt8rxP9NQcAR7tZu"
     },
     {
-      "added_at": "2025-07-11 04:00:17",
-      "album": {
-        "name": "Sweet Satin Boy",
-        "url": "https://open.spotify.com/album/30JilV14nAFQI9TyL8Tlka"
-      },
-      "artists": [
-        {
-          "name": "hannah bahng",
-          "url": "https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "Sweet Satin Boy",
-      "url": "https://open.spotify.com/track/2XRieO4EqaCRzUIxvbQfdZ"
-    },
-    {
       "added_at": "2025-07-25 04:00:58",
       "album": {
         "name": "Memories",
@@ -743,22 +759,6 @@
       "duration_ms": 195651,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2GXkfq4zMW42QbwATAIeiJ"
-    },
-    {
-      "added_at": "2025-08-08 04:00:36",
-      "album": {
-        "name": "Blurry",
-        "url": "https://open.spotify.com/album/0Q2MqgMmcEsx3eyThzSbzH"
-      },
-      "artists": [
-        {
-          "name": "Karis Taylor",
-          "url": "https://open.spotify.com/artist/4DkCeWLigLWQeefMEQ5Iq1"
-        }
-      ],
-      "duration_ms": 198763,
-      "name": "Blurry",
-      "url": "https://open.spotify.com/track/20v9Q8HXtnMFXJ0PsXz1N2"
     },
     {
       "added_at": "2025-07-11 04:00:17",

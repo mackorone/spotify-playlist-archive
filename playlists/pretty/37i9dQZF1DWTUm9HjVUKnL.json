@@ -1,13 +1,29 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Damiano David",
-  "num_followers": 239081,
+  "num_followers": 239096,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPLqWj/cVHqtSNgavA1Qsq8V6G4w",
+  "snapshot_id": "AAAAAIeOFUQAGVDpr1oZ37AuWQWekWjq",
   "tracks": [
+    {
+      "added_at": "2025-10-24 14:59:15",
+      "album": {
+        "name": "Genie In A Bottle - Spotify Singles",
+        "url": "https://open.spotify.com/album/6LmGzRqpz6W0XV7fysHXuG"
+      },
+      "artists": [
+        {
+          "name": "ANTONIA",
+          "url": "https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0"
+        }
+      ],
+      "duration_ms": 191242,
+      "name": "Genie In A Bottle - Spotify Singles",
+      "url": "https://open.spotify.com/track/1XhTyKFFySgEHONZYsZcdT"
+    },
     {
       "added_at": "2025-10-15 14:06:03",
       "album": {

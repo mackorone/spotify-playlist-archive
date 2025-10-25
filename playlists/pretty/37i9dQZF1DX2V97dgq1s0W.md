@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > The best voices in R&B\. Cover: Tiana Major9
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,998 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,060 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Always](https://open.spotify.com/track/3Y1aIQRbvcXc7ZxcDC4rvs) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Always](https://open.spotify.com/album/3XM4YnOEeSoyTnucc5U0Jp) | 3:28 |
 | 2 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
 | 3 | [Damage Control](https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:30 |
-| 4 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [](https://open.spotify.com/album/null) | 2:45 |
+| 4 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 |
 | 5 | [Vacancy](https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U) | 3:03 |
 | 6 | [Boo Thang Bootcamp](https://open.spotify.com/track/0ForNGLm6YvbidK5EPLy1H) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Boo Thang Bootcamp](https://open.spotify.com/album/1bmRCIIeSUxMzbmJsArs2o) | 2:55 |
 | 7 | [Disarray](https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Disarray](https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW) | 5:10 |
-| 8 | [Rain Down \(Feat\. Sampha\)](https://open.spotify.com/track/41QBVReXFSAIXWnyChAJCH) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [](https://open.spotify.com/album/null) | 3:07 |
+| 8 | [Rain Down \(Feat\. Sampha\)](https://open.spotify.com/track/41QBVReXFSAIXWnyChAJCH) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Son Of Spergy](https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ) | 3:07 |
 | 9 | [Delulu](https://open.spotify.com/track/2BwdUAnoBIJpRPgs8vHg6K) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Delulu](https://open.spotify.com/album/0t336jkNxk7wOJwh3Kq0os) | 4:19 |
 | 10 | [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 |
 | 11 | [Is It a Crime](https://open.spotify.com/track/31Oh4pwZWjBTuRmzNtxj10) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [HEARTS SOLD SEPARATELY](https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP) | 3:01 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 14 | [CRASH OUT \(feat\. FLO\)](https://open.spotify.com/track/2zdtD5GCrveirY80k2C9gm) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [HYDRAULIC](https://open.spotify.com/album/752bBMIsnk3VdV6ANDZTWd) | 2:50 |
 | 15 | [Cumulus / Memory](https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Cumulus / Memory](https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN) | 6:47 |
 | 16 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
-| 17 | [Work2Hard](https://open.spotify.com/track/7FdmFE83HwBNH6vmjODdi1) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [](https://open.spotify.com/album/null) | 2:29 |
+| 17 | [Work2Hard](https://open.spotify.com/track/7FdmFE83HwBNH6vmjODdi1) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Loud in the Water](https://open.spotify.com/album/7laxvOQfMrGbUzp9rMIke2) | 2:29 |
 | 18 | [When In Rome](https://open.spotify.com/track/6gMQzn0SHgN2TKDwkJWShl) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [When In Rome](https://open.spotify.com/album/7MRkwU9BQrDoHYCLmbckKh) | 3:08 |
 | 19 | [Alright](https://open.spotify.com/track/2IBeAHumOwj6gN0Ws3QyN6) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Alright](https://open.spotify.com/album/42sV9yX0hOAGickkrH77WS) | 2:24 |
 | 20 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Konstantinos Argiros
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,255 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,281 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 6 | [Latrevo](https://open.spotify.com/track/3yJuSIK0GLferUz3GyYayA) | [Konstantinos Christoforou](https://open.spotify.com/artist/3JvrdmyJFLyf1KdOuyY39H), [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [Latrevo](https://open.spotify.com/album/5pLJFSBB8Sm9U87ResB3AB) | 3:31 |
 | 7 | [Pros To Paron](https://open.spotify.com/track/0Gppi7bYjmxwovvnqRKc1n) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Pros To Paron](https://open.spotify.com/album/15IOPCi4iTsg9G6lenc11f) | 3:16 |
 | 8 | [Panáthemáse](https://open.spotify.com/track/4lVl4fjJt4bVbCgbBq958s) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Panáthemáse](https://open.spotify.com/album/5B3iYTaxcQ06LEgcqydROU) | 2:42 |
-| 9 | [Den Kano Ego Gia Spiti](https://open.spotify.com/track/0ZcakqLusdcGn9vmmCUdnD) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [](https://open.spotify.com/album/null) | 3:01 |
+| 9 | [Den Kano Ego Gia Spiti](https://open.spotify.com/track/0ZcakqLusdcGn9vmmCUdnD) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Hybrid](https://open.spotify.com/album/4My7whJTE7G98ey208Neit) | 3:01 |
 | 10 | [KONTEVW](https://open.spotify.com/track/4hSKkLxvckNq8iEz32ojGW) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [Kid Young](https://open.spotify.com/artist/6VuPL5ClnBVIo5HLo7nBtz), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [XWRA TOU POTE](https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs) | 3:26 |
 | 11 | [Diamond Baby](https://open.spotify.com/track/49iAHAHWqjUi7IlRfb7PPw) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Peproméno \(Deluxe\)](https://open.spotify.com/album/2ygB0UYWAZAo3tsUInSHw4) | 2:23 |
 | 12 | [Etsi Eimai Ego](https://open.spotify.com/track/3hKzxwuHuAt4vUTJIFYBy8) | [Papazó](https://open.spotify.com/artist/31z8duLz87iJxfXN5PoltZ), [Billie Kark](https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc) | [Etsi Eimai Ego](https://open.spotify.com/album/1LX8tlGm8TGYQn5sa8MQW4) | 2:42 |
 | 13 | [OOH AHH](https://open.spotify.com/track/4myl74vHJYTlDxwWnudejJ) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [OOH AHH](https://open.spotify.com/album/62n0BTJr8prTACfVMLHzw1) | 3:02 |
 | 14 | [Fever Ride](https://open.spotify.com/track/1dPVYAPcVWVnL2RX8uTtMu) | [VASSIŁINA](https://open.spotify.com/artist/5n3Evsf1GxkqPeD78wziZ9), [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [Fever Ride](https://open.spotify.com/album/6Xdl0TE2q44rboTo1BTNXE) | 2:44 |
-| 15 | [Xronia Polla](https://open.spotify.com/track/2S9GRnNXYaISgIO3Lru7BH) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [](https://open.spotify.com/album/null) | 3:07 |
+| 15 | [Xronia Polla](https://open.spotify.com/track/2S9GRnNXYaISgIO3Lru7BH) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Hybrid](https://open.spotify.com/album/4My7whJTE7G98ey208Neit) | 3:07 |
 | 16 | [Asteromata \- Playmen & Valeron Remix](https://open.spotify.com/track/7nATmzzvbhxLeMgkXHONld) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [Playmen](https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c), [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Asteromata](https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y) | 4:16 |
 | 17 | [Auto Pou Thes](https://open.spotify.com/track/06uAAjzOcbp1ZDrLTE5bZL) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Auto Pou Thes](https://open.spotify.com/album/10zUlVAi0dnrhEuv57mt7V) | 2:55 |
 | 18 | [ROMA](https://open.spotify.com/track/74Gt1U2UctOiLxrKE6SPhX) | [Greg](https://open.spotify.com/artist/3uBNVjDel3HFDLBmNt4ork), [Stathis Xenos](https://open.spotify.com/artist/5FeKhXptHU77W3PaUiehYf), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [ROMA](https://open.spotify.com/album/1JQORly2cO3lAsfr4oslYI) | 2:35 |

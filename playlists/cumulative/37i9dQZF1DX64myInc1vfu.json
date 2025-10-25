@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Escarlata",
+  "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: iLe",
   "name": "boleritos",
   "tracks": [
     {
@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "El Verdugo",
+        "url": "https://open.spotify.com/album/7pL9pdUY8j7CnTSJlppQ2m"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "El Verdugo",
+      "url": "https://open.spotify.com/track/5LOPIEbkLGsgmn4KfLuNAq"
+    },
+    {
+      "album": {
         "name": "Embrujo",
         "url": "https://open.spotify.com/album/51k6mLimFAmnXcRbpyHbHP"
       },
@@ -1649,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Tiza",
+        "url": "https://open.spotify.com/album/6x4sQOXwYw8JdEdMCfXvjs"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165642,
+      "name": "Muy Agradecido",
+      "url": "https://open.spotify.com/track/7aQGORkdFvIqmMCYyFVK1X"
+    },
+    {
+      "album": {
         "name": "L\u00e1grimas",
         "url": "https://open.spotify.com/album/3PTFecBLHp4dV9NZo6SSmT"
       },
@@ -1812,7 +1848,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 144300,
       "name": "Pajaritos",
       "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
@@ -2606,7 +2642,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 202105,
       "name": "Tengo Todo Contigo",
       "url": "https://open.spotify.com/track/5Kqs49o8gpjm08E3EAr6sD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non servium
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,045 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,069 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 99 | [Así Es la Vida](https://open.spotify.com/track/12obLt5jLRqJTWwbV7HywQ) | [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh) | [Vulnerable](https://open.spotify.com/album/7hL5n61zepkS2WQ1MCTpCI) | 3:53 |
 | 100 | [Por ti](https://open.spotify.com/track/7tbmPVO7BOZ3uBTkQ4lwFV) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Escapa!](https://open.spotify.com/album/6MQUQgI1RKD4wHu2Qc16iU) | 2:43 |
 
-Snapshot ID: `AAAAAAfj7lYyNmsazGHwI2tlyYzHmLFs`
+Snapshot ID: `AAAAAM/fD0I7lDw9pfmeOShWfSrZNJCT`

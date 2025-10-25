@@ -2,7 +2,7 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Low G
 
 318 songs - 18 hr 39 min
 

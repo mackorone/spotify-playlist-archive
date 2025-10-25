@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2077378,
+  "num_followers": 2077538,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAACUgIB4a/idaIcnJWfX+GYl",
+  "snapshot_id": "aPlwAAAAAAAL4/6Nd4Zf4Tu5J2eQVI0D",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 331560,
       "name": "Enter Sandman - Remastered 2021",
       "url": "https://open.spotify.com/track/3DwQ7AH3xGD9h65ezslm6q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 466586,
+      "name": "The Unforgiven III",
+      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
     },
     {
       "added_at": null,
@@ -59,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Master Of Puppets (Remastered)",
-        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 515386,
-      "name": "Master Of Puppets",
-      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Metallica (Remastered Deluxe Box Set)",
         "url": "https://open.spotify.com/album/7h5xn0Olvx2p0eQcSt1Osy"
       },
@@ -87,6 +87,22 @@
       "duration_ms": 388733,
       "name": "Nothing Else Matters - Remastered 2021",
       "url": "https://open.spotify.com/track/6QAsrXPnMSXIbV0yEJHlEX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master Of Puppets",
+      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
     },
     {
       "added_at": null,
@@ -123,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride The Lightning (Deluxe / Remastered)",
-        "url": "https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 309973,
-      "name": "For Whom The Bell Tolls - Remastered",
-      "url": "https://open.spotify.com/track/3LpHzQU2CZzZJGdUWV79SI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Metallica (Remastered Deluxe Box Set)",
         "url": "https://open.spotify.com/album/7h5xn0Olvx2p0eQcSt1Osy"
       },
@@ -151,6 +151,22 @@
       "duration_ms": 324600,
       "name": "Sad But True - Remastered 2021",
       "url": "https://open.spotify.com/track/5ltXoDLlI0rFZAmOXbAp5T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ride The Lightning (Deluxe / Remastered)",
+        "url": "https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 309973,
+      "name": "For Whom The Bell Tolls - Remastered",
+      "url": "https://open.spotify.com/track/3LpHzQU2CZzZJGdUWV79SI"
     },
     {
       "added_at": null,
@@ -187,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride The Lightning (Deluxe / Remastered)",
-        "url": "https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 417226,
-      "name": "Fade To Black - Remastered",
-      "url": "https://open.spotify.com/track/5nekfiTN45vlxG0eNJQQye"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Load (Remastered Deluxe Box Set)",
         "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
       },
@@ -215,6 +215,22 @@
       "duration_ms": 269560,
       "name": "Until It Sleeps - Remastered",
       "url": "https://open.spotify.com/track/1L8c08ueO8ag3vBQFXwbjc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ride The Lightning (Deluxe / Remastered)",
+        "url": "https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 417226,
+      "name": "Fade To Black - Remastered",
+      "url": "https://open.spotify.com/track/5nekfiTN45vlxG0eNJQQye"
     },
     {
       "added_at": null,
@@ -427,22 +443,6 @@
       "duration_ms": 261706,
       "name": "Hero of the Day - Remastered",
       "url": "https://open.spotify.com/track/0nB11Yb0wGnGcoQ26cyoc4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 466586,
-      "name": "The Unforgiven III",
-      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
     },
     {
       "added_at": null,

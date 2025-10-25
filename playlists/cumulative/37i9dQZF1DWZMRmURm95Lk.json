@@ -11245,6 +11245,28 @@
     },
     {
       "album": {
+        "name": "Poco dopo mezzanotte",
+        "url": "https://open.spotify.com/album/1uopB5lFeCi2xsPukEnLPZ"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167961,
+      "name": "Settembre",
+      "url": "https://open.spotify.com/track/0N9qDDpB8Pd0q07VpunhlV"
+    },
+    {
+      "album": {
         "name": "SFIGA",
         "url": "https://open.spotify.com/album/4dIsIgbAgNPt2v1VmBBOLE"
       },
@@ -12514,24 +12536,6 @@
       "duration_ms": 230526,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/3j3woTPzyCtMANeff1VEe1"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        }
-      ],
-      "date_added": "2025-10-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/0N9qDDpB8Pd0q07VpunhlV"
     },
     {
       "album": {

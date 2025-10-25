@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: CADU
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,525 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,532 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 74 | [23:40](https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:02 |
 | 75 | [Liga Quando A Festa Acabar](https://open.spotify.com/track/58e7qocOqK9P3V78CAy38L) | [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Liga Quando A Festa Acabar](https://open.spotify.com/album/0dxvk23gepW1r9YaiRMj2G) | 3:09 |
 
-Snapshot ID: `AAAAAPlFg1UO2VceMB2mty57xC4CdnYp`
+Snapshot ID: `AAAAAN0wXQ53IAcC7xy+XoEN1kKL4AtV`

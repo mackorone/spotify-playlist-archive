@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Cigarettes After Sex
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,229 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,278 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Crystal Ship](https://open.spotify.com/track/0vYdtKJFWHGmyTtai6JDDn) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Anna Karenina](https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO) | 3:00 |
 | 2 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 |
 | 3 | [Private](https://open.spotify.com/track/1735xgk2J8CHCGY2LS1HM6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Private](https://open.spotify.com/album/3ZHB2EDswWPDigqKXI59CL) | 3:49 |
-| 4 | [Slippin In](https://open.spotify.com/track/0dn0qZHVXr644FfvAdb7pU) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [](https://open.spotify.com/album/null) | 2:20 |
+| 4 | [Slippin In](https://open.spotify.com/track/0dn0qZHVXr644FfvAdb7pU) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Good Company \(Deluxe\)](https://open.spotify.com/album/1zmNQrPSuRoQfCBj2qUUMr) | 2:20 |
 | 5 | [head, shoulders, knees and ankles](https://open.spotify.com/track/7sDf2g3AxsuAQKqghO8Ubg) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [head, shoulders, knees and ankles](https://open.spotify.com/album/2q3cjxX6rCpaYJSPaiTGpN) | 3:12 |
 | 6 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
 | 7 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 9 | [Anna Karenina](https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Anna Karenina](https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO) | 5:15 |
 | 10 | [Tell Me](https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Tell Me](https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP) | 2:49 |
 | 11 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 |
-| 12 | [Track 3](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [](https://open.spotify.com/album/null) | 0:00 |
+| 12 | [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 |
 | 13 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
 | 14 | [Dear Grandpa](https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Dear Grandpa](https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3) | 2:58 |
 | 15 | [if you said](https://open.spotify.com/track/65s4isesdbWbt2iCD00Mjs) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [if you said](https://open.spotify.com/album/769lndtsL7j4NxaulJEoMD) | 4:06 |

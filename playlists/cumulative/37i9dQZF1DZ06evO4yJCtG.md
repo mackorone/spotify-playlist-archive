@@ -4,7 +4,7 @@
 
 > This is Ella Mai\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 0 min
+53 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Not Another Love Song](https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Not Another Love Song](https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p) | 3:37 | 2025-08-02 |  |
 | [Old Dog, New Bitch](https://open.spotify.com/track/6Bh16kDql5jGWA8WhinbdR) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Time](https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu) | 1:29 | 2025-08-02 |  |
 | [One and Only \(feat\. Ella Mai\)](https://open.spotify.com/track/0PjtIvwCFQMkWoFTVWsCsi) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Big Conspiracy](https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn) | 3:26 | 2025-08-02 |  |
-| [One Bad Decision \- feat\. Ella Mai & Roddy Ricch](https://open.spotify.com/track/1dId0BBASxqAz45lE0201A) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Faith Of A Mustard Seed](https://open.spotify.com/album/2l5Nx7nlsDzNR2LTN1aiy2) | 3:46 | 2025-08-02 |  |
+| [One Bad Decision \- feat\. Ella Mai & Roddy Ricch](https://open.spotify.com/track/1dId0BBASxqAz45lE0201A) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Faith Of A Mustard Seed](https://open.spotify.com/album/2l5Nx7nlsDzNR2LTN1aiy2) | 3:46 | 2025-08-02 | 2025-10-25 |
 | [One Day](https://open.spotify.com/track/0SZwTcyp6qcICqdRVOpbPy) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Time](https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu) | 3:11 | 2025-08-02 |  |
 | [One Of These](https://open.spotify.com/track/3SX7xiRjM8X2t5SmIU3aPQ) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 3:44 | 2025-08-02 |  |
 | [Our Song](https://open.spotify.com/track/0yRitNCPCHtBwOuHh88rzf) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs) | 3:19 | 2025-08-02 |  |
@@ -60,5 +60,6 @@
 | [Trying](https://open.spotify.com/track/2EHaJElgdxeZG2bzCMVmMN) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:17 | 2025-08-02 |  |
 | [What You Did \(feat\. Ella Mai\)](https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:26 | 2025-08-02 |  |
 | [Whatchamacallit \(feat\. Chris Brown\)](https://open.spotify.com/track/1YLfaRr3QIW1fF3nvDO0gX) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 2:59 | 2025-08-02 |  |
+| [Who Knew](https://open.spotify.com/track/4vshJnpU7XbiGNzrwSeX6h) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [CHANGE](https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb) | 3:43 | 2025-10-25 |  |
 
 \*This playlist was first scraped on 2025-08-02. Prior content cannot be recovered.

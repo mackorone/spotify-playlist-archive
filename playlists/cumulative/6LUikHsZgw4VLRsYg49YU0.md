@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-278 songs - 16 hr 2 min
+279 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [BOW AND ARROW](https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOW AND ARROW](https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh) | 2:55 | 2025-01-31 |  |
 | [BREAK LAW](https://open.spotify.com/track/223t7TwvWm5PuE1IuWpRZM) | [Dog Blood](https://open.spotify.com/artist/2amyu5pkgYMYdNQZmB3GgY), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Turn Off The Lights](https://open.spotify.com/album/1Pg5Ot24fhSbQbxqV5OTZS) | 4:02 | 2022-02-18 | 2022-12-10 |
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-12 |  |
+| [Butterfly Effect](https://open.spotify.com/track/0hBePBf2fdBee6w85kwYvU) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\) Pre\-release](https://open.spotify.com/album/2JDOEM4vXHorX6kJLf2p8K) | 3:28 | 2025-10-24 |  |
 | [C.H.E.E.R\. \- from "My Hero Academia: Vigilantes"](https://open.spotify.com/track/0xvBZuITYfPxyiMqxjBnoV) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [CC Cheerleaders](https://open.spotify.com/artist/1THJKXFV8Oq3TmVBnG5lsp) | [C.H.E.E.R\. \(from "My Hero Academia: Vigilantes"\)](https://open.spotify.com/album/77vS1623pBvjyCJJkKlc8i) | 1:19 | 2025-05-30 |  |
 | [Call You Mine \(feat\. Bebe Rexha\) \- Asketa & Natan Chaim Remix](https://open.spotify.com/track/5EdYlCWou17k0N1PADLKfO) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Asketa & Natan Chaim](https://open.spotify.com/artist/7HMpxXbzJOXYZyRiV0hvZn) | [Call You Mine \(Remixes\)](https://open.spotify.com/album/1nqYsOef1yKKuGOVchbsk6) | 3:03 | 2022-02-18 | 2022-12-10 |
 | [Can't Help Loving You \- from "My Hero Academia: Vigilantes"](https://open.spotify.com/track/4r8gn0eiQkgGVdIvyOf2Cq) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [The Little Sisters](https://open.spotify.com/artist/4cIJYu7BnsVN3difEOHOMi) | [Can't Help Loving You \(from "My Hero Academia: Vigilantes"\)](https://open.spotify.com/album/4jE9XFdSgvzwg6QnhDTewi) | 1:35 | 2025-07-04 |  |

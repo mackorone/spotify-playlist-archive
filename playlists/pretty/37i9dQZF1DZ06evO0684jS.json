@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 890824,
+  "num_followers": 890851,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAap0LMK41kzkwCnQn7xVgG",
+  "snapshot_id": "aPlwAAAAAADm4F5oWl3AbiZzzW81OzJv",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Chun-Li",
-      "url": "https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Princess Diana (with Nicki Minaj)",
         "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Chun-Li",
+      "url": "https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J"
     },
     {
       "added_at": null,
@@ -910,15 +910,11 @@
         {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 180869,
-      "name": "Everybody (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
+      "duration_ms": 166299,
+      "name": "Pink Friday Girls",
+      "url": "https://open.spotify.com/track/44L2bY93uD65CEHWbozpx4"
     },
     {
       "added_at": null,
@@ -986,11 +982,15 @@
         {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 166299,
-      "name": "Pink Friday Girls",
-      "url": "https://open.spotify.com/track/44L2bY93uD65CEHWbozpx4"
+      "duration_ms": 180869,
+      "name": "Everybody (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
     },
     {
       "added_at": null,
@@ -1039,22 +1039,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "X (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
       },
       "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
         {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 189706,
-      "name": "Love More (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/2MDueMvPkUTpU6Xkmeinln"
+      "duration_ms": 199400,
+      "name": "Good Form",
+      "url": "https://open.spotify.com/track/19Fcrc0nJiwMKom00gS9SW"
     }
   ],
   "unique_name": "This Is Nicki Minaj",

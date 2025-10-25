@@ -4,7 +4,7 @@
 
 > It's giving coastal grandmother, it's giving Diane Keaton, it's giving apple pies.
 
-122 songs - 7 hr 1 min
+123 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,8 +98,9 @@
 | [Right Back Where We Started From](https://open.spotify.com/track/0Ar1ynkK5zEqFsw2vgez4w) | [Maxine Nightingale](https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi) | [Lost Hits Of The 70's \(All Original Artists & Versions\)](https://open.spotify.com/album/3AcwJqNT1LgZdTttHkoaZ0) | 3:18 | 2022-05-13 | 2022-07-20 |
 | [Riptide](https://open.spotify.com/track/1KqlVt63Q4bl1VdSlymr5C) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Riptide](https://open.spotify.com/album/2rn4ILhjtOrEnyYlHTUDVz) | 3:24 | 2022-06-21 |  |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2022-07-26 | 2024-04-19 |
+| [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-10-24 |  |
 | [Somethin' Stupid](https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [The World We Knew](https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO) | 2:42 | 2022-05-13 |  |
-| [Stay](https://open.spotify.com/track/16ov7zgIXo9muo7SwQQPhN) | [Maurice Williams](https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D), [The Zodiacs](https://open.spotify.com/artist/1HCE0pbqGLSvWaz5q4TeDd) | [Dirty Dancing: Anniversary Edition](https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM) | 1:35 | 2022-05-13 |  |
+| [Stay](https://open.spotify.com/track/16ov7zgIXo9muo7SwQQPhN) | [Maurice Williams](https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D), [Zodiacs](https://open.spotify.com/artist/2zNVfYS1CR05iqfnTqwswJ) | [Dirty Dancing: Anniversary Edition](https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM) | 1:35 | 2022-05-13 |  |
 | [Stop, Look, Listen \(To Your Heart\)](https://open.spotify.com/track/0kKpGcvoXroKo1iNO5cDhi) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 2:57 | 2022-05-13 | 2022-06-09 |
 | [Sunday Morning](https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:04 | 2022-07-19 |  |
 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 | 2022-07-18 |  |
@@ -118,7 +119,7 @@
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-06-21 |  |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-07-19 |  |
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2022-10-14 | 2024-04-19 |
-| [We Have all The Time in the World](https://open.spotify.com/track/5hCGkB74F2AC6bJSGoney3) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [We Have All the Time in the World](https://open.spotify.com/album/0DbvKeLkdiN5XjUJinjF0s) | 3:12 | 2022-06-21 |  |
+| [We Have all The Time in the World](https://open.spotify.com/track/5hCGkB74F2AC6bJSGoney3) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [We Have All the Time in the World](https://open.spotify.com/album/0DbvKeLkdiN5XjUJinjF0s) | 3:12 | 2022-06-21 | 2025-10-25 |
 | [We Have All The Time In The World \(feat\. The Duke Ellington Orchestra\)](https://open.spotify.com/track/03qBsFKs6aD6SFk8RqpHm9) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Pisnicky, ktere Karel miloval](https://open.spotify.com/album/7DtH75CC7NpoenTvu8A0Av) | 3:13 | 2023-09-02 | 2023-09-21 |
 | [What the World Needs Now \(Is Love\)](https://open.spotify.com/track/6QhJngmKqelOcCc3bUiKYY) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Here Where There Is Love](https://open.spotify.com/album/1I5H0kXxePgiHJMFNhJws3) | 3:11 | 2022-05-13 | 2022-06-27 |
 | [Wind Beneath My Wings](https://open.spotify.com/track/2Pxqs0WmxxHTV5QaTdmt3Q) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Beaches \(Original Soundtrack Recording\)](https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9) | 4:53 | 2022-07-19 |  |

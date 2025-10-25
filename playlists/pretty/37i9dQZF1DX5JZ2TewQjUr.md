@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Tr33
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,546 likes - 135 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,557 likes - 135 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 134 | [路人潛能100](https://open.spotify.com/track/1fy2ujSdEHyMbACQLT2VxV) | [SULIS](https://open.spotify.com/artist/341jDjLcWdN0Xt9TCkhsv3) | [路人潛能100](https://open.spotify.com/album/5OMsrBxs7UEK33wTrARqJR) | 3:41 |
 | 135 | [FASHION](https://open.spotify.com/track/3CiiEGvgEoq31zPMY93Z4A) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [BALLOONS & BUBBLES](https://open.spotify.com/album/6m4m0bomFQOpBMgkDbRDwT) | 3:27 |
 
-Snapshot ID: `AAAAAFWVvaWhL7Qonx2treejMU+SJJ5f`
+Snapshot ID: `AAAAAPGQGxS/FN5a8T/oaVOzi2tZn+eH`

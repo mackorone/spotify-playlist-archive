@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Mariana Pereira
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,205 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,240 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 23 | [Oh Clementina](https://open.spotify.com/track/51T5wIUz2kB0qRGOnGxtco) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb), [Luís Fialho](https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8), [Marotos Da Concertina](https://open.spotify.com/artist/5PWAecNmjF2Fsp3dt4WWXX) | [Oh Clementina](https://open.spotify.com/album/2YTc5SE94y5bRxrh1odTMm) | 2:55 |
 | 24 | [Respirar](https://open.spotify.com/track/3Fwap1UvFz66uQUPfUqvZq) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA) | [Respirar](https://open.spotify.com/album/5ufqNkX3GmQuODOMFADd0H) | 4:14 |
 | 25 | [Por ti Amor](https://open.spotify.com/track/2ZrBQjL7BS9y1zXUgWSf4U) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2), [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Por ti Amor](https://open.spotify.com/album/3YVyoehZPAYBgr5q4GtCnu) | 3:08 |
-| 26 | [Give Me All](https://open.spotify.com/track/56uetQSeOmm7afx8sKrOyq) | [Noble](https://open.spotify.com/artist/32W3C6bE5nWdRdC22xZBNy) | [](https://open.spotify.com/album/null) | 3:34 |
+| 26 | [Give Me All](https://open.spotify.com/track/56uetQSeOmm7afx8sKrOyq) | [Noble](https://open.spotify.com/artist/32W3C6bE5nWdRdC22xZBNy) | [For The Broken\-Hearted](https://open.spotify.com/album/3CuloWCtToU89U6iyBYS2Z) | 3:34 |
 | 27 | [casa](https://open.spotify.com/track/3UQ5rLaounAewIDVVEgStb) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [casa](https://open.spotify.com/album/3Q4U8Tl0939jvEWYBi2Zwn) | 3:26 |
 | 28 | [Castelo de Cartas](https://open.spotify.com/track/62xeHoENK0PawhDUYct28N) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Castelo de Cartas](https://open.spotify.com/album/6ojRYc1j9BARLjVFC5dYVs) | 2:58 |
 | 29 | [Garota \(feat\. Marisa Liz\)](https://open.spotify.com/track/3YsnklkstFoHWUNw6Oqici) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr), [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Garota \(feat\. Marisa Liz\)](https://open.spotify.com/album/7siXX6r4UDDEoAecVwqAPc) | 3:36 |

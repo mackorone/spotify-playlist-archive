@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p?si=qSgYDzOCSyqt8\_\-ZdbhLCQ>Dumi Mkokstad</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,625 likes - 108 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,737 likes - 108 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 14 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 |
 | 15 | [Ungukuphila](https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:56 |
 | 16 | [Esphambanweni](https://open.spotify.com/track/77DmEnGFpPvTDq6XHV2p3E) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Esphambanweni](https://open.spotify.com/album/5Giv7dJdtqayyyhAxTtEVC) | 6:23 |
-| 17 | [Ke Nale Modisa \- Remix](https://open.spotify.com/track/1sTIGlXxkxnnIAwpoWktEK) | [Duduza Serenade](https://open.spotify.com/artist/4TgyqHirthyfGBduIaUXwI), [Hamilton Motaung](https://open.spotify.com/artist/6y6Yj9bXPhoVogqOGaTMlm), [Black Gee](https://open.spotify.com/artist/7mdB1RJv9PBUBzRSud0iUL), [Thabiso Mkhwanazi](https://open.spotify.com/artist/3NvxLxwAXqhHp0bsbXMU6U) | [Ke Nale Modisa \(Remix\)](https://open.spotify.com/album/15M8iluF41uCswp7efYdYj) | 5:24 |
+| 17 | [Ke Nale Modisa \- Remix](https://open.spotify.com/track/1sTIGlXxkxnnIAwpoWktEK) | [Duduza Serenade](https://open.spotify.com/artist/4TgyqHirthyfGBduIaUXwI), [Hamilton Motloung](https://open.spotify.com/artist/0dmAn6BG8K1a7EI5bvPTZs), [Black Gee](https://open.spotify.com/artist/7mdB1RJv9PBUBzRSud0iUL), [Thabiso Mkhwanazi](https://open.spotify.com/artist/3NvxLxwAXqhHp0bsbXMU6U) | [Ke Nale Modisa \(Remix\)](https://open.spotify.com/album/15M8iluF41uCswp7efYdYj) | 5:24 |
 | 18 | [Banaka Nako Ea Me E Haufi](https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Motlhang Ke Kolobetswa 'Die Poppe Sal Dans'](https://open.spotify.com/album/6OIg6NwgtsE7kfcPH3PL23) | 5:28 |
 | 19 | [That's What You Do](https://open.spotify.com/track/3LmoUZyMBnZxCaCuc3QZaK) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4Love \(Live at CRC, Pretoria, 2025\)](https://open.spotify.com/album/0g3BcSfCAuRn5bXAhFT7CI) | 6:23 |
 | 20 | [Amandla \- Live](https://open.spotify.com/track/1aouk0cuImwh43TboSr12l) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Sesi Rhoda](https://open.spotify.com/artist/5QGDLCb92eloRXUmd9UIGq) | [Amandla \(Live\)](https://open.spotify.com/album/3OoMombUZCPzfif0JtaRPD) | 8:54 |

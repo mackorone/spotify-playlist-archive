@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Jonathan McReynolds
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,289 likes - 200 songs - 12 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,357 likes - 200 songs - 12 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 10 | [The Manger \(with Josh Turner\)](https://open.spotify.com/track/7aKm5vWuizayEDJJSp0OiW) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [The Manger](https://open.spotify.com/album/07eR5Q7zlJXjotNfqekAjH) | 3:49 |
 | 11 | [O Come, O Come Emmanuel \- \(LIVE\)](https://open.spotify.com/track/1JTeFxmkEddzZEphSzJJzF) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas \(LIVE\) \[The Cinematic Concert Album\]](https://open.spotify.com/album/21WSbTkFweBSY9F6rCblFd) | 4:10 |
 | 12 | [Hope Has Come \(Behold Him\)](https://open.spotify.com/track/14js1KdzK6dBLb9iW9Kd7x) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Hope Has Come \(Behold Him\)](https://open.spotify.com/album/7KqhvzyLBG4gpJvcaOZuTx) | 4:41 |
-| 13 | [There Came A Light / O Holy Night](https://open.spotify.com/track/0I6EVjdooFsWZ5pO3prUJm) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Christmas In The Midwest EP](https://open.spotify.com/album/2In4og6Mtb3bExPHlEHPzy) | 4:32 |
+| 13 | [There Came A Light / O Holy Night](https://open.spotify.com/track/0I6EVjdooFsWZ5pO3prUJm) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Christmas In The Midwest EP](https://open.spotify.com/album/2In4og6Mtb3bExPHlEHPzy) | 4:33 |
 | 14 | [Behold \(feat\. Anne Wilson\)](https://open.spotify.com/track/2fy4fzUaoBurQu9IpFmdRG) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Behold \(feat\. Anne Wilson\)](https://open.spotify.com/album/2Tm2tryR4iBqwcfy8xtJyQ) | 4:24 |
 | 15 | [The First Noel](https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [The First Noel](https://open.spotify.com/album/3cszSYyCFlDPrCdcuN2nSe) | 3:23 |
 | 16 | [Hope Has A Name](https://open.spotify.com/track/5beWUJJQZUBgunstmXk6Ge) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Hope Has A Name](https://open.spotify.com/album/33GHItPpQKdgbwPn3oYEGY) | 4:04 |

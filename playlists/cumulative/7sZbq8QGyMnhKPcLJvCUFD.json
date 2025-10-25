@@ -173,6 +173,28 @@
     },
     {
       "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/6GpObLu9wOkf8LZTlRlAtE"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "Zeli",
+          "url": "https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173076,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/5FRDVLfLOLTYNlHojCBmPq"
+    },
+    {
+      "album": {
         "name": "After The End",
         "url": "https://open.spotify.com/album/6ylRW2MYVHPJjP94U6ftn2"
       },

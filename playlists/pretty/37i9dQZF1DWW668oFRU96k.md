@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,771 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,815 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ain't Letting You Down](https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Ain't Letting You Down](https://open.spotify.com/album/6Gihz6RXvLYLFxHPMJC7nf) | 4:20 |
+| 1 | [Ain't Letting You Down](https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Ain't Letting You Down](https://open.spotify.com/album/6Gihz6RXvLYLFxHPMJC7nf) | 4:21 |
 | 2 | [AM to PM \(feat\. Zoe Wees\)](https://open.spotify.com/track/2LRNDfHieq4ctBuE02zeW9) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [AM to PM \(feat\. Zoe Wees\)](https://open.spotify.com/album/1o9rbjKjVBu7VQq0hzAJK1) | 2:44 |
-| 3 | [Veins](https://open.spotify.com/track/2YWM5VD6467jKZR67ffnLJ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [](https://open.spotify.com/album/null) | 3:33 |
+| 3 | [Veins](https://open.spotify.com/track/2YWM5VD6467jKZR67ffnLJ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:33 |
 | 4 | [Hold On](https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Hold On](https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv) | 3:24 |
 | 5 | [Radio Baby](https://open.spotify.com/track/1tz1f4sgl1Ux3Dn1xr4ShN) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Radio Baby](https://open.spotify.com/album/46OD1SlPvr8wRAVIzhipRN) | 2:46 |
 | 6 | [The Moment](https://open.spotify.com/track/25XA7l8OJIirmdvhstQP5G) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT) | [The Moment](https://open.spotify.com/album/7uyWbwLsdB3QLwvIDlBNW7) | 3:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Dotan
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,032 likes - 88 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,040 likes - 88 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 3 | [Bones](https://open.spotify.com/track/55KnFJZVQEsS9aEKni2XQ0) | [Josua Peter](https://open.spotify.com/artist/1cOAQlxoO4hLqaCHeJEDFt) | [Bones](https://open.spotify.com/album/2MtGjWXXG2Dr7fRlhxNgrv) | 2:51 |
 | 4 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
 | 5 | [Better Or Worse](https://open.spotify.com/track/5c09miCbkmZviJyPEmxdxy) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Better Or Worse](https://open.spotify.com/album/5U3pZ4BfzGzs5d4kql49QU) | 2:50 |
-| 6 | [Track 1](https://open.spotify.com/track/0qNnAU811gL8qaeNZY6Vqh) | [Denzel Chain](https://open.spotify.com/artist/1OcgVkMH2tgrwIjhrsCqT0) | [](https://open.spotify.com/album/null) | 0:00 |
+| 6 | [Down & Low](https://open.spotify.com/track/0qNnAU811gL8qaeNZY6Vqh) | [Denzel Chain](https://open.spotify.com/artist/1OcgVkMH2tgrwIjhrsCqT0) | [Down & Low](https://open.spotify.com/album/6EzOrBHp4Kjwnpisi6Sry3) | 2:49 |
 | 7 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
 | 8 | [the flood](https://open.spotify.com/track/21WumT4Uxlp1br3wodH9BW) | [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [the flood](https://open.spotify.com/album/7jrAor72rAD5pYUqM88mmw) | 3:27 |
-| 9 | [Know You Forever](https://open.spotify.com/track/5l9u3FymQxGg9vdRXI7tLQ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [](https://open.spotify.com/album/null) | 3:12 |
-| 10 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [](https://open.spotify.com/album/null) | 3:03 |
+| 9 | [Know You Forever](https://open.spotify.com/track/5l9u3FymQxGg9vdRXI7tLQ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Early Twenties Torture](https://open.spotify.com/album/6HNDL6my8XFprSf8KRwaf8) | 3:12 |
+| 10 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 |
 | 11 | [HOME](https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [HOME](https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D) | 2:39 |
 | 12 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 |
 | 13 | [Die On This Hill](https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC) | 3:37 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 87 | [Unconditional](https://open.spotify.com/track/2mpoTHp955e9ojKaA2Yb9b) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Unconditional](https://open.spotify.com/album/665ddrCgPJLmhnGjWJmmRj) | 3:32 |
 | 88 | [First And Last](https://open.spotify.com/track/031LyFUhBoUHMZfCIZNQns) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [First And Last](https://open.spotify.com/album/6FPWvl23Upnc7vj5Sh0J2N) | 2:58 |
 
-Snapshot ID: `AAAAAP3WzQDyJ3HP3Y+BFv6IvAEHKyeY`
+Snapshot ID: `AAAAAG7/EG/33ueTPR8lU8m7Kc/sQLGE`

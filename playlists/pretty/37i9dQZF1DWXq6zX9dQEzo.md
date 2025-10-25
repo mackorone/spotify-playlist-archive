@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,289 likes - 150 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,394 likes - 150 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

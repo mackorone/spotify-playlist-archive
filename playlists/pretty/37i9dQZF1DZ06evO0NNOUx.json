@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 160488,
+  "num_followers": 160792,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAD9YaqqjlByYmP3Zggi4+bw",
+  "snapshot_id": "aPlwAAAAAADgbwg8GYi1Hr5/qdqM8YBr",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II (BACK TO BACK)",
-        "url": "https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI"
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/4JxaMl4zCyktWBBMPW2vod"
       },
       "artists": [
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 230197,
-      "name": "MISUNDERSTOOD",
-      "url": "https://open.spotify.com/track/1uUNLURuVaDpCbhlTM2IDz"
+      "duration_ms": 144568,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh"
     },
     {
       "added_at": null,
@@ -499,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/4JxaMl4zCyktWBBMPW2vod"
+        "name": "CHILD OF GOD II (BACK TO BACK)",
+        "url": "https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI"
       },
       "artists": [
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 144568,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh"
+      "duration_ms": 230197,
+      "name": "MISUNDERSTOOD",
+      "url": "https://open.spotify.com/track/1uUNLURuVaDpCbhlTM2IDz"
     },
     {
       "added_at": null,

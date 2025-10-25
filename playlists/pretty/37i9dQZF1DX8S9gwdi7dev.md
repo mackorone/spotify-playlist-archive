@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S9gwdi7dev.md) - [plain]
 
 > Fun tracks for your Halloween festivities!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,315,942 likes - 95 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,320,526 likes - 95 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

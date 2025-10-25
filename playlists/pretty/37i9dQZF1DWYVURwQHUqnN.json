@@ -1,6 +1,6 @@
 {
   "description": "Photo : Soolking",
-  "num_followers": 1162452,
+  "num_followers": 1162474,
   "original_name": "Best Life",
   "owner": {
     "name": "Spotify",
@@ -299,17 +299,21 @@
     {
       "added_at": "2025-10-23 22:00:31",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/6dzjdYfWaGwfMZZaJXVlYJ"
       },
       "artists": [
         {
           "name": "Maureen",
           "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 9",
+      "duration_ms": 135578,
+      "name": "Allo",
       "url": "https://open.spotify.com/track/7royjNIb46zGAkCvSdpWz2"
     },
     {

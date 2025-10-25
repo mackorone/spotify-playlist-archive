@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 139192,
+  "num_followers": 139219,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAADmzmUnMvIL0/6Ck74M2no4",
+  "snapshot_id": "aPlwAAAAAABFUENlGBD1tRNhwQn4kljR",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 213265,
+      "name": "Lo Que Pudo Ser",
+      "url": "https://open.spotify.com/track/3BONaN9ZGSecM2fJX8CVds"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Verdad",
         "url": "https://open.spotify.com/album/1ZbvuFVcUq5P15TqmYuVBA"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 141105,
       "name": "La Verdad",
       "url": "https://open.spotify.com/track/5XrRfnVqGtEhGjMqr9JtrQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 213265,
-      "name": "Lo Que Pudo Ser",
-      "url": "https://open.spotify.com/track/3BONaN9ZGSecM2fJX8CVds"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Va Pa' Largo",
-        "url": "https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Hacendado",
-          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 164925,
-      "name": "Cupcake Factory",
-      "url": "https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Line Up",
         "url": "https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 157909,
       "name": "De La Calle (Remix)",
       "url": "https://open.spotify.com/track/3ZOZnG7Xt4IupK4buRguwU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Va Pa' Largo",
+        "url": "https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hacendado",
+          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 164925,
+      "name": "Cupcake Factory",
+      "url": "https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U"
     },
     {
       "added_at": null,
@@ -720,45 +720,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 185866,
-      "name": "En El Laboratorio",
-      "url": "https://open.spotify.com/track/3JV1vCdoRnyVSMle9pFkfB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Line Up",
-        "url": "https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU"
-      },
-      "artists": [
-        {
-          "name": "Grupo TMB",
-          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 188481,
-      "name": "Vara Alta",
-      "url": "https://open.spotify.com/track/6IPni1a6mvyZrG1JR7Au22"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 268527,
-      "name": "Fabi",
-      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
+      "duration_ms": 180256,
+      "name": "Gelatti",
+      "url": "https://open.spotify.com/track/1R1Qreuyg0MzfrHvShfCby"
     },
     {
       "added_at": null,
@@ -787,6 +751,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 268527,
+      "name": "Fabi",
+      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Line Up",
+        "url": "https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU"
+      },
+      "artists": [
+        {
+          "name": "Grupo TMB",
+          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 188481,
+      "name": "Vara Alta",
+      "url": "https://open.spotify.com/track/6IPni1a6mvyZrG1JR7Au22"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HP Everything",
         "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
       },
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 180256,
-      "name": "Gelatti",
-      "url": "https://open.spotify.com/track/1R1Qreuyg0MzfrHvShfCby"
+      "duration_ms": 185866,
+      "name": "En El Laboratorio",
+      "url": "https://open.spotify.com/track/3JV1vCdoRnyVSMle9pFkfB"
     },
     {
       "added_at": null,

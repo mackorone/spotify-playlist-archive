@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAABtt8gOS1HU3Y/BtQVrMxFw",
+  "snapshot_id": "aPlwAAAAAAC1N6hJztmJs37Nc8ESOtBi",
   "tracks": [
     {
       "added_at": null,
@@ -127,34 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabotage 50",
-        "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
-      },
-      "artists": [
-        {
-          "name": "Sabotage",
-          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Xis",
-          "url": "https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 222351,
-      "name": "No Brooklin - Sabotage 50",
-      "url": "https://open.spotify.com/track/7qe83eUTv4IbvMYCYCOAbu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alvinegro Praiano",
         "url": "https://open.spotify.com/album/35qVvVRuTpudHAmjXoF4Ru"
       },
@@ -183,6 +155,34 @@
       "duration_ms": 238080,
       "name": "Alvinegro Praiano",
       "url": "https://open.spotify.com/track/06koM9lsbR0OEdbv8GgL4j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sabotage 50",
+        "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
+      },
+      "artists": [
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Xis",
+          "url": "https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 222351,
+      "name": "No Brooklin - Sabotage 50",
+      "url": "https://open.spotify.com/track/7qe83eUTv4IbvMYCYCOAbu"
     },
     {
       "added_at": null,
@@ -555,42 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origens",
-        "url": "https://open.spotify.com/album/5HZSxTHV1Okqedi83jpnbG"
-      },
-      "artists": [
-        {
-          "name": "Edi Rock",
-          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 195097,
-      "name": "Pense Bem",
-      "url": "https://open.spotify.com/track/0LjgRlaDaXcdinRJyGkpIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bivolt",
-        "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Me Salva",
-      "url": "https://open.spotify.com/track/52zfI6y5NF7mnxu7wg9gmv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chave",
         "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
       },
@@ -619,22 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verdade Ou Consequ\u00eancia",
-        "url": "https://open.spotify.com/album/3GZP7Jg4KRiH64vMnsIM0a"
+        "name": "Bivolt",
+        "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
       },
       "artists": [
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        },
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Verdade Ou Consequ\u00eancia",
-      "url": "https://open.spotify.com/track/1gu0krGFrPjz4LV0IiiIYJ"
+      "duration_ms": 206000,
+      "name": "Me Salva",
+      "url": "https://open.spotify.com/track/52zfI6y5NF7mnxu7wg9gmv"
     },
     {
       "added_at": null,
@@ -659,6 +619,46 @@
       "duration_ms": 184000,
       "name": "Senta Aqui",
       "url": "https://open.spotify.com/track/4oRfkAIaLWCpdGnbPAywPE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Verdade Ou Consequ\u00eancia",
+        "url": "https://open.spotify.com/album/3GZP7Jg4KRiH64vMnsIM0a"
+      },
+      "artists": [
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Verdade Ou Consequ\u00eancia",
+      "url": "https://open.spotify.com/track/1gu0krGFrPjz4LV0IiiIYJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origens",
+        "url": "https://open.spotify.com/album/5HZSxTHV1Okqedi83jpnbG"
+      },
+      "artists": [
+        {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 195097,
+      "name": "Pense Bem",
+      "url": "https://open.spotify.com/track/0LjgRlaDaXcdinRJyGkpIS"
     },
     {
       "added_at": null,
@@ -1039,6 +1039,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tira Uma Foto",
+        "url": "https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 129440,
+      "name": "Tira Uma Foto",
+      "url": "https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ela",
         "url": "https://open.spotify.com/album/6hgMAiw5faQUZgStrv3EDg"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 160687,
       "name": "Ela",
       "url": "https://open.spotify.com/track/1xFt2EA1GMkU4vJfac124M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tira Uma Foto",
-        "url": "https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 129440,
-      "name": "Tira Uma Foto",
-      "url": "https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7"
     },
     {
       "added_at": null,
@@ -1187,30 +1187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dose Dupla",
-        "url": "https://open.spotify.com/album/1Y8ohMLIYUy5Vr0SlxFX5N"
-      },
-      "artists": [
-        {
-          "name": "Fanieh",
-          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 194413,
-      "name": "Dose Dupla",
-      "url": "https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Papo Reto",
         "url": "https://open.spotify.com/album/323GovvaPEsIuGCqTEc21B"
       },
@@ -1231,18 +1207,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vista Loka",
-        "url": "https://open.spotify.com/album/3lPDSgCpGJNJrQLKQ5VkFs"
+        "name": "Ta\u00e7as",
+        "url": "https://open.spotify.com/album/20QFe1QqXSOCoJGzo27rRn"
       },
       "artists": [
+        {
+          "name": "Guxta",
+          "url": "https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy"
+        },
+        {
+          "name": "LOUD",
+          "url": "https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 156353,
+      "name": "Ta\u00e7as",
+      "url": "https://open.spotify.com/track/76JB7GfUO9vDuFra3IHlka"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dose Dupla",
+        "url": "https://open.spotify.com/album/1Y8ohMLIYUy5Vr0SlxFX5N"
+      },
+      "artists": [
+        {
+          "name": "Fanieh",
+          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         }
       ],
-      "duration_ms": 208747,
-      "name": "Vista Loka",
-      "url": "https://open.spotify.com/track/1AU9m2wkxMbaZpzIqd6Gr8"
+      "duration_ms": 194413,
+      "name": "Dose Dupla",
+      "url": "https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d"
     }
   ],
   "unique_name": "This Is Bivolt",

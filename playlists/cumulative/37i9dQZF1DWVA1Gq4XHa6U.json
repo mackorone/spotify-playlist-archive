@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Taking it way back! When hip-hop meets jazz. Fusion and samples. Cover: Outkast",
+  "description": "Taking it way back! Cover: Outkast",
   "name": "Gold School",
   "tracks": [
     {
@@ -894,6 +894,32 @@
       "duration_ms": 217666,
       "name": "Black and Yellow",
       "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
+    },
+    {
+      "album": {
+        "name": "Free TC (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5nIgDHf42VCFVfBY9BG2fr"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285233,
+      "name": "Blas\u00e9 (feat. Future & Rae Sremmurd)",
+      "url": "https://open.spotify.com/track/4rNSn4YUlLNdt4htUKtl55"
     },
     {
       "album": {

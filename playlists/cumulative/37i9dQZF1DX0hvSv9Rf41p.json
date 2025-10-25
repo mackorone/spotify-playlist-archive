@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Jkyl & Hyde",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Skrillex & ISOxo",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 161142,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/2TASDAqrUcwyyl8nNlls8G"
@@ -3489,6 +3489,28 @@
     },
     {
       "album": {
+        "name": "Hardest D Style EP",
+        "url": "https://open.spotify.com/album/5YFiSrfcDYSvf8TRkTNabS"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "DJ Aligator",
+          "url": "https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201293,
+      "name": "Blow My Whistle",
+      "url": "https://open.spotify.com/track/0ZOZjnnMWMb1tlz1dOqEPF"
+    },
+    {
+      "album": {
         "name": "Blow My Whistle",
         "url": "https://open.spotify.com/album/5teBisQ7BFhfDpn33neh2w"
       },
@@ -3504,7 +3526,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 201293,
       "name": "Blow My Whistle",
       "url": "https://open.spotify.com/track/6NBGFq4IKPFrNdyTuRdMe0"
@@ -6644,7 +6666,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 179500,
       "name": "Danger",
       "url": "https://open.spotify.com/track/0KKP66XVq3KxciJpfvd6ti"
@@ -7054,7 +7076,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 199651,
       "name": "Deep Clear Water",
       "url": "https://open.spotify.com/track/10jXicWLj7TM7Ny7eTZgdP"
@@ -9192,6 +9214,28 @@
       "duration_ms": 222426,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Stush",
+          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212671,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev"
     },
     {
       "album": {
@@ -11695,6 +11739,24 @@
     },
     {
       "album": {
+        "name": "Funk You Up!",
+        "url": "https://open.spotify.com/album/0tSAbEmzEXoWrKBoUEai7W"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Funk You Up!",
+      "url": "https://open.spotify.com/track/1Ca7IBRiNfOJT5STMI7suU"
+    },
+    {
+      "album": {
         "name": "FUNKONAUT",
         "url": "https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ"
       },
@@ -11728,10 +11790,32 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 131076,
       "name": "Future Sip",
       "url": "https://open.spotify.com/track/0G5h3r3ExF7qBSOUPT7Tg9"
+    },
+    {
+      "album": {
+        "name": "Fuze",
+        "url": "https://open.spotify.com/album/4VDKQrc3Pmzz2jAIK9Ndj2"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Fuze",
+      "url": "https://open.spotify.com/track/5UZIVxzI4UyrSbg3ZLTGTH"
     },
     {
       "album": {
@@ -13090,6 +13174,24 @@
       "duration_ms": 193718,
       "name": "Hammer Time",
       "url": "https://open.spotify.com/track/1N94c7T72slyq4tl2DjDqE"
+    },
+    {
+      "album": {
+        "name": "HANDS UP",
+        "url": "https://open.spotify.com/album/0gWWB0LsdpSpHcac4BaLfh"
+      },
+      "artists": [
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "HANDS UP",
+      "url": "https://open.spotify.com/track/2X6eWOiT8dKSeDqWSma45S"
     },
     {
       "album": {
@@ -14740,7 +14842,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 303911,
       "name": "I Can't Stop - Flux's Version",
       "url": "https://open.spotify.com/track/5ePaWNlFfr77EoOshAWdim"
@@ -15080,6 +15182,24 @@
       "duration_ms": 179144,
       "name": "IJUSTWANNA",
       "url": "https://open.spotify.com/track/7a0YkuVvfsSeJm8OaYUqRQ"
+    },
+    {
+      "album": {
+        "name": "Illuminate",
+        "url": "https://open.spotify.com/album/4SggX25v6AokkYpwDKN9mr"
+      },
+      "artists": [
+        {
+          "name": "Champagne Drip",
+          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206664,
+      "name": "Illuminate",
+      "url": "https://open.spotify.com/track/6hLEJ1YLR1lyAK0QFQpkN0"
     },
     {
       "album": {
@@ -16510,7 +16630,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 212244,
       "name": "LA NOCHE",
       "url": "https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM"
@@ -17686,7 +17806,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 220108,
       "name": "LOOK4MYLOVE",
       "url": "https://open.spotify.com/track/3NVBJRH0UiPvqAf0ItonHt"
@@ -18202,6 +18322,24 @@
       "duration_ms": 168000,
       "name": "Machine",
       "url": "https://open.spotify.com/track/4yDWW2wokaaPrFBAE1qUAx"
+    },
+    {
+      "album": {
+        "name": "THE_BIG_TRIP",
+        "url": "https://open.spotify.com/album/5fJwIK2omIRULAM93wapMk"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196053,
+      "name": "machine_age",
+      "url": "https://open.spotify.com/track/55fKc3ex9q7lEQUgPzPyLy"
     },
     {
       "album": {
@@ -22745,6 +22883,28 @@
     },
     {
       "album": {
+        "name": "PONDA",
+        "url": "https://open.spotify.com/album/4Xjb1nVdgZNZ3yw0O5izD8"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "MAAD WEST",
+          "url": "https://open.spotify.com/artist/5isGhqrVP1gZt373QsyHPT"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152147,
+      "name": "PONDA",
+      "url": "https://open.spotify.com/track/2MAVzueQH0kZZm331wHwjD"
+    },
+    {
+      "album": {
         "name": "Pop, Lock & Drop It",
         "url": "https://open.spotify.com/album/38Ekud22i84S9aKovvGeNo"
       },
@@ -22888,7 +23048,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 165517,
       "name": "Power",
       "url": "https://open.spotify.com/track/5dMrMCZoVQ6Rv9YzFFlh77"
@@ -25206,7 +25366,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 160333,
       "name": "sans. - Tokyo Machine Remix",
       "url": "https://open.spotify.com/track/5aEAfolOxYJjqvNlbqIOqT"
@@ -25236,6 +25396,28 @@
       "duration_ms": 205241,
       "name": "Satellite - Wooli Remix",
       "url": "https://open.spotify.com/track/3tiC6D3N07kUIJXKNDRHjy"
+    },
+    {
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/0CynI5NfrzuzNT7JHnXddI"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196790,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4MgH7JjZQAPgIBf0lrdbie"
     },
     {
       "album": {
@@ -28023,6 +28205,28 @@
     },
     {
       "album": {
+        "name": "Across The Burning Sky",
+        "url": "https://open.spotify.com/album/2ch9RpEsodADrVHQE8wrPv"
+      },
+      "artists": [
+        {
+          "name": "Daily Bread",
+          "url": "https://open.spotify.com/artist/4IsiG6RpDyRq6Frd2CvddW"
+        },
+        {
+          "name": "Obeah",
+          "url": "https://open.spotify.com/artist/4pOlzzdlozWIiF36rgVPee"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211952,
+      "name": "Strike A Match",
+      "url": "https://open.spotify.com/track/3JFRdrSDG1N10S6D3Xyift"
+    },
+    {
+      "album": {
         "name": "Style",
         "url": "https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf"
       },
@@ -30255,6 +30459,28 @@
     },
     {
       "album": {
+        "name": "Second Self",
+        "url": "https://open.spotify.com/album/5CwOMFZ4ss057biZKdHBY6"
+      },
+      "artists": [
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        },
+        {
+          "name": "Nathalie Blue",
+          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/62yoC1CtvCigAoLgybU2ub"
+    },
+    {
+      "album": {
         "name": "Torch",
         "url": "https://open.spotify.com/album/1MYRKX0bxL5FIXIqTakkNX"
       },
@@ -30358,7 +30584,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 160853,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/2LLm7ZsplIrL6nPkGC87dU"

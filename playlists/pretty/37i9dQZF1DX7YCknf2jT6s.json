@@ -1,13 +1,129 @@
 {
-  "description": "New jazz for open minds. Cover: Charles Lloyd Delta Trio",
-  "num_followers": 950142,
+  "description": "New jazz for open minds. Cover: Theo Croker",
+  "num_followers": 950161,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOK0kgZR9+AOoooQVVt6gg1e3gFU",
+  "snapshot_id": "AAAAAFPxnGU7bScwa7KgEMHFm+eNqIkh",
   "tracks": [
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "Dream Manifest (Deluxe)",
+        "url": "https://open.spotify.com/album/2uDCxHtu7bhQpShfCYKFVs"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Natureboy Flako",
+          "url": "https://open.spotify.com/artist/41gy1E3ZlSK5KOjiDiqgmH"
+        },
+        {
+          "name": "Dirg Gerner",
+          "url": "https://open.spotify.com/artist/50tYM3PrjzqoNUWfQoZSRi"
+        }
+      ],
+      "duration_ms": 200662,
+      "name": "eyes wide open (noema)",
+      "url": "https://open.spotify.com/track/3qOaqv0ohk5t5LHQorLNqL"
+    },
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "Little River",
+        "url": "https://open.spotify.com/album/5SYtJ3WCN5c2nEinWR9csr"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "duration_ms": 411996,
+      "name": "Little River",
+      "url": "https://open.spotify.com/track/1kmKV67WowGUUR9KpklaMT"
+    },
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "Brothers In Arms",
+        "url": "https://open.spotify.com/album/27O3u4OuvC8oz3YZEBKe8T"
+      },
+      "artists": [
+        {
+          "name": "Out Of/Into",
+          "url": "https://open.spotify.com/artist/59COS6dQZSpIn9uz7BPgVT"
+        },
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Kendrick Scott",
+          "url": "https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux"
+        },
+        {
+          "name": "Matt Brewer",
+          "url": "https://open.spotify.com/artist/2lbkXLlMyaHxra7bczgRqU"
+        }
+      ],
+      "duration_ms": 472693,
+      "name": "Brothers In Arms",
+      "url": "https://open.spotify.com/track/758ZxqKonvx3EBva5h2xmD"
+    },
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "For Maxwell",
+        "url": "https://open.spotify.com/album/1u0v7hmWYxa2lQuWMjYzpq"
+      },
+      "artists": [
+        {
+          "name": "Lafayette Harris, Jr.",
+          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
+        },
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "For Maxwell",
+      "url": "https://open.spotify.com/track/33q0xisDdB5YyjFcllFoQv"
+    },
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "Meant to Be",
+        "url": "https://open.spotify.com/album/5Y0Mk06Pp9uo9doyYsaZ96"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Dave Holland",
+          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
+        }
+      ],
+      "duration_ms": 391495,
+      "name": "Meant to Be",
+      "url": "https://open.spotify.com/track/63QbpLYMlwNdOaMKw2QHn9"
+    },
     {
       "added_at": "2025-10-17 04:01:00",
       "album": {
@@ -45,7 +161,7 @@
         }
       ],
       "duration_ms": 401568,
-      "name": "Seuss Pants",
+      "name": "SEUSS PANTS",
       "url": "https://open.spotify.com/track/2vD9cvmBGOn3r6tNFuxrwG"
     },
     {
@@ -227,46 +343,6 @@
       "duration_ms": 230044,
       "name": "HOURS:AFTER",
       "url": "https://open.spotify.com/track/2efKpdGah3AVLf8qjtJ7NE"
-    },
-    {
-      "added_at": "2025-10-03 04:00:47",
-      "album": {
-        "name": "For Mar\u00eda Jos\u00e9",
-        "url": "https://open.spotify.com/album/0K10SUnHnwWjpmBBbzeDwU"
-      },
-      "artists": [
-        {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
-        }
-      ],
-      "duration_ms": 294504,
-      "name": "For Mar\u00eda Jos\u00e9",
-      "url": "https://open.spotify.com/track/4zZ48K58R61teDDRJsPTPb"
-    },
-    {
-      "added_at": "2025-09-26 04:00:07",
-      "album": {
-        "name": "sound(e)scape",
-        "url": "https://open.spotify.com/album/1fNFPuDxS5XOle4dkBHZZE"
-      },
-      "artists": [
-        {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
-        },
-        {
-          "name": "Theophilus London",
-          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
-        },
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        }
-      ],
-      "duration_ms": 161763,
-      "name": "sound(e)scape",
-      "url": "https://open.spotify.com/track/4VyC4YNRxOCHH0RGAFbuin"
     },
     {
       "added_at": "2025-09-19 04:16:20",
@@ -1521,50 +1597,6 @@
       "url": "https://open.spotify.com/track/56s77gCsfmyzy3yFnQuJza"
     },
     {
-      "added_at": "2025-04-04 04:00:20",
-      "album": {
-        "name": "Conceptions",
-        "url": "https://open.spotify.com/album/2Y9hxcp2xlm3HZIgqWhH8w"
-      },
-      "artists": [
-        {
-          "name": "Geoffrey Dean",
-          "url": "https://open.spotify.com/artist/0nQ0ewyoymNbuOpW9HecWE"
-        }
-      ],
-      "duration_ms": 228245,
-      "name": "Song for Hannah",
-      "url": "https://open.spotify.com/track/2jhqhlkzSMX0hZcm6E0JE4"
-    },
-    {
-      "added_at": "2025-04-25 04:00:55",
-      "album": {
-        "name": "Nolite Opus",
-        "url": "https://open.spotify.com/album/5XKHoExW15vm1Jr4WdAOtJ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Prasad",
-          "url": "https://open.spotify.com/artist/2s1FC3t4KRatwMqBrrTkjo"
-        },
-        {
-          "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG"
-        },
-        {
-          "name": "Rejoicer",
-          "url": "https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk"
-        },
-        {
-          "name": "Jimi Prasad Orchestra",
-          "url": "https://open.spotify.com/artist/6liLn1iLVDGnyE3Cprb97m"
-        }
-      ],
-      "duration_ms": 588375,
-      "name": "Nolite Opus",
-      "url": "https://open.spotify.com/track/0omSk7lD4y2dRS3slBe5Kq"
-    },
-    {
       "added_at": "2025-05-16 04:00:24",
       "album": {
         "name": "Gen",
@@ -1847,30 +1879,6 @@
       "duration_ms": 401851,
       "name": "One Flight Down",
       "url": "https://open.spotify.com/track/6MSjTb94GT8FHLNLwVjaT2"
-    },
-    {
-      "added_at": "2025-04-04 04:00:20",
-      "album": {
-        "name": "Like an actor",
-        "url": "https://open.spotify.com/album/4xsFMelF4oyEaIGBaeZW4M"
-      },
-      "artists": [
-        {
-          "name": "Paolo Di Sabatino",
-          "url": "https://open.spotify.com/artist/4Jg2c59WAqnm44FUmdiCMx"
-        },
-        {
-          "name": "Christian Galvez",
-          "url": "https://open.spotify.com/artist/0K0pTv2a2pbNPRt7XOUnG9"
-        },
-        {
-          "name": "Dennis Chambers",
-          "url": "https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn"
-        }
-      ],
-      "duration_ms": 265918,
-      "name": "Like an actor",
-      "url": "https://open.spotify.com/track/1qfqNHVIM8fqyIqhNaWmBu"
     },
     {
       "added_at": "2025-05-16 04:00:24",

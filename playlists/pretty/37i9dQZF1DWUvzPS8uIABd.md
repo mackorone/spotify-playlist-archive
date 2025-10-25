@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Minttu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,650 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,653 likes - 66 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 11 | [Yks yö](https://open.spotify.com/track/1HovJONUfhVAOpVk5lBzAy) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Yks yö](https://open.spotify.com/album/5S8G0cvb0pnLTOj6ZWWYqk) | 2:46 |
 | 12 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
 | 13 | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/track/0qhInLAWcI38LnFEcKa2FV) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/album/49KPpjc1firTCQNTJAGn1i) | 2:44 |
-| 14 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [](https://open.spotify.com/album/null) | 3:17 |
+| 14 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 |
 | 15 | [Karaoke](https://open.spotify.com/track/4mTMMF9JVZhYavoETEFTH9) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Karaoke](https://open.spotify.com/album/0VDR3UCbi9usVYcZiv5pPv) | 2:43 |
-| 16 | [Susta löysin kodin](https://open.spotify.com/track/3TNTIJjB4CxaXOk9eLrj9z) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [](https://open.spotify.com/album/null) | 3:15 |
+| 16 | [Susta löysin kodin](https://open.spotify.com/track/3TNTIJjB4CxaXOk9eLrj9z) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Pieni ikuisuus](https://open.spotify.com/album/25pLeQtsnxTAOMA5IURPrp) | 3:15 |
 | 17 | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/track/14WphbjwdiMZNkT0YhcnkW) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/album/36m9kmhRSZLRp1N9AwdqYz) | 2:30 |
 | 18 | [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 |
 | 19 | [Bensaa tulipaloon](https://open.spotify.com/track/1FCjidFdL7qwloCUnzQkoD) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Bensaa tulipaloon](https://open.spotify.com/album/3VSTPC1rNLN2YPDMOwejoe) | 3:01 |
@@ -67,11 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 57 | [Suudelmat ei pysty valehtelee](https://open.spotify.com/track/61b0NDjyAEPIGR6QgH9Dfj) | [Sana](https://open.spotify.com/artist/4QofvyRFuC4c4XXrQhcmog), [TINA](https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm) | [Suudelmat ei pysty valehtelee](https://open.spotify.com/album/1so0ATwOmOoKgdANPmJhb0) | 3:07 |
 | 58 | [Turvallista sotaa \(Vain elämää kausi 16\)](https://open.spotify.com/track/2PWOzqxS9dYDqT5BunN24H) | [Mikki Kauste](https://open.spotify.com/artist/6Zvt6lXGUh6xVlTAl1ezwo) | [Turvallista sotaa \(Vain elämää kausi 16\)](https://open.spotify.com/album/00PtKRzFq0DyBVUm8HKJYo) | 4:00 |
 | 59 | [Parempi mies](https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Parempi mies](https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a) | 2:57 |
-| 60 | [Mitä vaan](https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Mitä vaan / Syytä tätä iltaa](https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD) | 2:27 |
-| 61 | [Toyboy](https://open.spotify.com/track/7MVEmgMAip0fGfOgNaRjlI) | [Herrat](https://open.spotify.com/artist/2HGPd1n5wmvFCJccRPRJ9k) | [Toyboy](https://open.spotify.com/album/5m3yIBuAo3v75o0NgSIAMT) | 3:19 |
-| 62 | [Mitä mul ei oo \(feat\. Mirella\)](https://open.spotify.com/track/5bQUx5zYTuZnMRlpIk1V6x) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Mitä mul ei oo \(feat\. Mirella\)](https://open.spotify.com/album/6cdvpSeqA8b1bqMvoDAjPP) | 2:41 |
-| 63 | [Ohi on](https://open.spotify.com/track/0pFOmP152iHYZTzo4xzLlM) | [Rosi](https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6) | [Ohi on](https://open.spotify.com/album/5LBpS72bQQnRpJ34K1FkxG) | 2:56 |
-| 64 | [NRO1 BÄMÄ](https://open.spotify.com/track/6cNFoKcRDKFs2j2aUKxYtt) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [NRO1 BÄMÄ](https://open.spotify.com/album/4Qw9aHxTzjFkWxZsGiwK8z) | 2:34 |
-| 65 | [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 |
+| 60 | [Tuntemattomii](https://open.spotify.com/track/4KMp8KSlZzrl9FNB9H8t8M) | [Raama](https://open.spotify.com/artist/20kmSFD8zNsPmiKMfGgIWb) | [Tuntemattomii](https://open.spotify.com/album/3wAbMSJFsGs6EIhWecpQh8) | 2:45 |
+| 61 | [Mitä vaan](https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Mitä vaan / Syytä tätä iltaa](https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD) | 2:27 |
+| 62 | [Toyboy](https://open.spotify.com/track/7MVEmgMAip0fGfOgNaRjlI) | [Herrat](https://open.spotify.com/artist/2HGPd1n5wmvFCJccRPRJ9k) | [Toyboy](https://open.spotify.com/album/5m3yIBuAo3v75o0NgSIAMT) | 3:19 |
+| 63 | [Mitä mul ei oo \(feat\. Mirella\)](https://open.spotify.com/track/5bQUx5zYTuZnMRlpIk1V6x) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Mitä mul ei oo \(feat\. Mirella\)](https://open.spotify.com/album/6cdvpSeqA8b1bqMvoDAjPP) | 2:41 |
+| 64 | [Ohi on](https://open.spotify.com/track/0pFOmP152iHYZTzo4xzLlM) | [Rosi](https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6) | [Ohi on](https://open.spotify.com/album/5LBpS72bQQnRpJ34K1FkxG) | 2:56 |
+| 65 | [NRO1 BÄMÄ](https://open.spotify.com/track/6cNFoKcRDKFs2j2aUKxYtt) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [NRO1 BÄMÄ](https://open.spotify.com/album/4Qw9aHxTzjFkWxZsGiwK8z) | 2:34 |
+| 66 | [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 |
 
-Snapshot ID: `AAAAAE14zwte2kUVOWTH8dnHjO/jtvfK`
+Snapshot ID: `AAAAABQfsiMNqRNWzRAqgBZukMssV2if`

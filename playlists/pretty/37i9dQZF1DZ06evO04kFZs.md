@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 
 > This is Pop Smoke\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,045 likes - 47 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,077 likes - 47 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 | 13 | [Get Back](https://open.spotify.com/track/3DWjFSDEQ9IWz1mj449fB7) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 1:48 |
 | 14 | [Imperfections \(Interlude\)](https://open.spotify.com/track/42er1na9BHF1ERol51wg8M) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 1:48 |
 | 15 | [The Woo \(feat\. 50 Cent & Roddy Ricch\)](https://open.spotify.com/track/1H7KnK26kc1YyellpbINEn) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:21 |
-| 16 | [Slide \(Remix\) \(feat\. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown\) \(feat\. Pop Smoke\)](https://open.spotify.com/track/6MO2bfLHKykUgCChFdw91H) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Slide \(Remix\) \(feat\. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown\) \(feat\. Pop Smoke\)](https://open.spotify.com/album/7LMJKPGcBZjZf6AEnTBS2t) | 4:56 |
-| 17 | [Merci Beaucoup](https://open.spotify.com/track/6mPZVis3gEGSSR2rhxlehT) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:55 |
+| 16 | [Merci Beaucoup](https://open.spotify.com/track/6mPZVis3gEGSSR2rhxlehT) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:55 |
+| 17 | [Slide \(Remix\) \(feat\. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown\) \(feat\. Pop Smoke\)](https://open.spotify.com/track/6MO2bfLHKykUgCChFdw91H) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Slide \(Remix\) \(feat\. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown\) \(feat\. Pop Smoke\)](https://open.spotify.com/album/7LMJKPGcBZjZf6AEnTBS2t) | 4:56 |
 | 18 | [Hotel Lobby](https://open.spotify.com/track/5xKXcU8tpSYz7C7wrMMYec) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 2:31 |
 | 19 | [Got It On Me](https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:44 |
 | 20 | [Hawk Em](https://open.spotify.com/track/2ZRdQMMKtmPLdYp9aP5cK5) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 1:58 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 | 46 | [Don't Know Em \(feat\. Rah Swish\)](https://open.spotify.com/track/0kjIeKhqH933ppKUK6gOCE) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 1:51 |
 | 47 | [More Time](https://open.spotify.com/track/2wzionesqIt3x5Sglb4n91) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:00 |
 
-Snapshot ID: `aPgegAAAAAC9yGjYeBvVVsrM7BHbAiTN`
+Snapshot ID: `aPlwAAAAAAA6iVbDeRbUpVsMIjKW73su`

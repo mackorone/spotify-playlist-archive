@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks and classics\. Cover: Behemoth
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,928 likes - 150 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,918 likes - 150 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

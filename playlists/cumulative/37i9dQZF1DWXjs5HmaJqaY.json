@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 210911,
       "name": "Das Omen",
       "url": "https://open.spotify.com/track/0QSonqlm6e1Rvjl44D4DOL"
@@ -4443,6 +4443,24 @@
     },
     {
       "album": {
+        "name": "Sturm und Drang",
+        "url": "https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK"
+      },
+      "artists": [
+        {
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224698,
+      "name": "Pain in my Heart",
+      "url": "https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs"
+    },
+    {
+      "album": {
         "name": "Club Vibes Part 06",
         "url": "https://open.spotify.com/album/7fhF1Tyb4nblRBJSH6fIbo"
       },
@@ -4566,6 +4584,24 @@
       "duration_ms": 262291,
       "name": "Philophobia",
       "url": "https://open.spotify.com/track/0kEUW8rGtl1WQ2x86T8wVG"
+    },
+    {
+      "album": {
+        "name": "Pick Your Poison",
+        "url": "https://open.spotify.com/album/0TxKnk4GN0XmhvO8q5iWYH"
+      },
+      "artists": [
+        {
+          "name": "Frieder & Jakob",
+          "url": "https://open.spotify.com/artist/0rngZQF9IoOPgAXhJmF35V"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157320,
+      "name": "Pick Your Poison",
+      "url": "https://open.spotify.com/track/203X2JbnIszM6F21pkxkoE"
     },
     {
       "album": {

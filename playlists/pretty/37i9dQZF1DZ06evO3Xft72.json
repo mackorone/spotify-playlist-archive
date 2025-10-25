@@ -1,12 +1,12 @@
 {
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
-  "num_followers": 287145,
+  "num_followers": 287160,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAABGtkC4AIqTfk08rmNIOQja",
+  "snapshot_id": "aPlwAAAAAADeDNm5S/vEDFb4fVYkjV7Q",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Through The Night",
-        "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 188819,
-      "name": "Rock Brigade",
-      "url": "https://open.spotify.com/track/3d3xx7YIqxTqizaeL5tDUX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamond Star Halos",
         "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 222506,
       "name": "Kick",
       "url": "https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On Through The Night",
+        "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 188819,
+      "name": "Rock Brigade",
+      "url": "https://open.spotify.com/track/3d3xx7YIqxTqizaeL5tDUX"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Def Leppard",
-        "url": "https://open.spotify.com/album/68zsPqS53fVtv9jUU2GZPz"
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 206680,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/5RdVA7oxXNG08TIPAJrDic"
+      "duration_ms": 217799,
+      "name": "Tear It Down",
+      "url": "https://open.spotify.com/track/3pH9Vu1LNBXMUptZbmipFF"
     }
   ],
   "unique_name": "This Is Def Leppard",

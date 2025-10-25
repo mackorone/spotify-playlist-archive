@@ -2,9 +2,9 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover:  Pino
+> late night vibes – notifications off\. cover:  Maz B
 
-275 songs - 12 hr 43 min
+277 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [roll da dice](https://open.spotify.com/track/1zV2mbt3vg6yVr6Sb1PFjz) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [roll da dice](https://open.spotify.com/album/0tOKRPGHYTIqOmWQQUFtFh) | 3:10 | 2024-09-27 | 2025-09-20 |
 | [S t u c k I n M y W a y s](https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:59 | 2024-04-26 | 2025-09-20 |
 | [SAVIOR](https://open.spotify.com/track/1AdFpWand1DPxlprhkOxPy) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [SAVIOR](https://open.spotify.com/album/6SZGguUQ3ddoyJgusvfPXl) | 3:01 | 2024-08-30 |  |
+| [Scene 2](https://open.spotify.com/track/24RXVWpfzaAyWgm4Estifw) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Scene 2](https://open.spotify.com/album/5ncjT7Skxpg5qKSB89PBye) | 4:15 | 2025-10-24 |  |
 | [SEARCHING](https://open.spotify.com/track/4G0bpzDl8vZ8yzB6ePI38w) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [SEARCHING](https://open.spotify.com/album/5Brn5xm94sbj03mp8tvSnX) | 2:30 | 2025-03-28 |  |
 | [seeing red](https://open.spotify.com/track/4Ju7XGhJWfA3a9CkoUBVwA) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [seeing red](https://open.spotify.com/album/0dOSRsraRPHIz9L26N7Kez) | 2:38 | 2025-10-03 |  |
 | [Selfie](https://open.spotify.com/track/1eFptQumbRt3F1mRjsRgwH) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Selfie](https://open.spotify.com/album/4S7MbbcAuQRFBqIKhFNbeK) | 2:44 | 2024-08-02 |  |
@@ -232,6 +233,7 @@
 | [SUNRISE](https://open.spotify.com/track/2P6rt3bjK89diw8482QQt5) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [NIVA](https://open.spotify.com/album/1VUKae81QX1lng1x78e8yp) | 1:53 | 2025-04-25 |  |
 | [Superficial](https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Superficial](https://open.spotify.com/album/1kuIqGJ1FD8GF8oJgTI2zK) | 2:14 | 2024-02-02 | 2025-03-08 |
 | [sweet nothings](https://open.spotify.com/track/3rH8TjGLB7bOEF6tjrn0Yb) | [Destiny Briona](https://open.spotify.com/artist/5cDpxYNTOjkL0osMji7Zqs), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [i'm not crying, u are](https://open.spotify.com/album/5XT2LoElBao7oO2l3bcJK5) | 3:55 | 2025-08-15 |  |
+| [T.M.T](https://open.spotify.com/track/2qbiXVVCJ1xnDTUy2wvS9f) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS) | [T.M.T](https://open.spotify.com/album/3lctvMujFWicHfqCMgg68b) | 2:54 | 2025-10-24 |  |
 | [Talk To Me The Same](https://open.spotify.com/track/1izzvkVNFvyFZkmEP4IQAX) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [Talk To Me The Same](https://open.spotify.com/album/1ms0sdyuNVH6eyYoe85X6I) | 2:56 | 2025-06-06 |  |
 | [tell em](https://open.spotify.com/track/2gtkWGSTSsB2KcUsff6t5A) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [tell em / time flies](https://open.spotify.com/album/5ZNxP2stKHm1YvNz7ONQC4) | 2:38 | 2025-01-24 | 2025-06-07 |
 | [tell em](https://open.spotify.com/track/5bO0JH6KIaALYxvzPkrKKY) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [TWENTY TWENTY TYDE](https://open.spotify.com/album/3ES7lXUgaCTijTgNlspi5s) | 2:38 | 2025-04-25 |  |

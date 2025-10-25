@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa. Cover: Rowlene",
+  "description": "The best dance hits in South Africa. Cover: CIZA",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -466,6 +466,32 @@
       "duration_ms": 452455,
       "name": "Abangifuni",
       "url": "https://open.spotify.com/track/6UTWHvcKICoVo2OuD78Wxq"
+    },
+    {
+      "album": {
+        "name": "Abantu",
+        "url": "https://open.spotify.com/album/0w29YVnUIsgtPKFl7CAyXY"
+      },
+      "artists": [
+        {
+          "name": "CIZA",
+          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
+        },
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "Mthunzi",
+          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309552,
+      "name": "Abantu",
+      "url": "https://open.spotify.com/track/6hVC8HTAsehbyNsbg1SMZo"
     },
     {
       "album": {
@@ -1766,7 +1792,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 308400,
       "name": "Amalanga",
       "url": "https://open.spotify.com/track/1HrNfmHud8ymX3iDl92WN4"
@@ -2518,6 +2544,24 @@
       "duration_ms": 220838,
       "name": "Assumptions",
       "url": "https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d"
+    },
+    {
+      "album": {
+        "name": "at last",
+        "url": "https://open.spotify.com/album/117SWnwbzEWxmEtJDmUfRN"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130208,
+      "name": "at last",
+      "url": "https://open.spotify.com/track/75ZbD6maRlSx46nM89ekF6"
     },
     {
       "album": {
@@ -9534,7 +9578,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 345923,
       "name": "Gijima",
       "url": "https://open.spotify.com/track/0Yn17keRIfE92ybjvCAajo"
@@ -19342,7 +19386,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 578571,
       "name": "Ngibolekeni (feat. Seun1401, LeeMcKrazy, Blxckie, Pcee, Madumane & Kabelo Sings)",
       "url": "https://open.spotify.com/track/4QdFYz1hjkDVDTqAKmIdOx"
@@ -28840,6 +28884,28 @@
       "duration_ms": 593898,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/71fkBzR8YuOZxbwKWWazj5"
+    },
+    {
+      "album": {
+        "name": "Ungalele",
+        "url": "https://open.spotify.com/album/59zTF5bZHhA7yA1VHvNR02"
+      },
+      "artists": [
+        {
+          "name": "Kenza",
+          "url": "https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi"
+        },
+        {
+          "name": "Essa Kay",
+          "url": "https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266445,
+      "name": "Ungalele",
+      "url": "https://open.spotify.com/track/3hnWwc3W3woWayX1ZrIY4S"
     },
     {
       "album": {

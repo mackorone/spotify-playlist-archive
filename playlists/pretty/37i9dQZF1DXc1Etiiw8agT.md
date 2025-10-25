@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1Etiiw8agT.md) - [plain]
 
 > 12 Hours of brown noise to sleep longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,570 likes - 200 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,630 likes - 200 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

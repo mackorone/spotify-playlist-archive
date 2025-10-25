@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with DJ Seinfeld & Confidence Man",
+  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with oskar med k",
   "name": "Dance Rising",
   "tracks": [
     {
@@ -104,7 +104,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 197760,
       "name": "+100",
       "url": "https://open.spotify.com/track/6ViQUdwjd96UevIV14MGDm"
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 124545,
       "name": "Afters",
       "url": "https://open.spotify.com/track/3zBgyblLVca62srEQa1RPC"
@@ -3072,7 +3072,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 174908,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/5ryjcOp0ZyAwzcHCnyofVR"
@@ -8527,6 +8527,28 @@
     },
     {
       "album": {
+        "name": "Bleak",
+        "url": "https://open.spotify.com/album/12qRVlqbfh6ZL877VQTGGX"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "A Girl Named Sue",
+          "url": "https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228444,
+      "name": "Bleak",
+      "url": "https://open.spotify.com/track/1ft92cdKiLMSGkfobE1oXX"
+    },
+    {
+      "album": {
         "name": "Bless Me (with Discrete)",
         "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
       },
@@ -8765,6 +8787,28 @@
     },
     {
       "album": {
+        "name": "Hardest D Style EP",
+        "url": "https://open.spotify.com/album/5YFiSrfcDYSvf8TRkTNabS"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "DJ Aligator",
+          "url": "https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201293,
+      "name": "Blow My Whistle",
+      "url": "https://open.spotify.com/track/0ZOZjnnMWMb1tlz1dOqEPF"
+    },
+    {
+      "album": {
         "name": "Blow My Whistle",
         "url": "https://open.spotify.com/album/5teBisQ7BFhfDpn33neh2w"
       },
@@ -8780,7 +8824,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 201293,
       "name": "Blow My Whistle",
       "url": "https://open.spotify.com/track/6NBGFq4IKPFrNdyTuRdMe0"
@@ -30584,7 +30628,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 241061,
       "name": "Hold On, Let Go",
       "url": "https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF"
@@ -31736,6 +31780,28 @@
       "duration_ms": 256721,
       "name": "Hyperreal",
       "url": "https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ"
+    },
+    {
+      "album": {
+        "name": "Hypersilent",
+        "url": "https://open.spotify.com/album/0dUwtvMnpFyiUq7CO5hWBb"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "J.J. Fad",
+          "url": "https://open.spotify.com/artist/2eynOGnZLqDuEJwbRHlHN1"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354461,
+      "name": "Hypersilent",
+      "url": "https://open.spotify.com/track/76SlQsZB2uZxW7ATfr3lpl"
     },
     {
       "album": {
@@ -36566,6 +36632,24 @@
       "duration_ms": 192937,
       "name": "Just Stay The Night",
       "url": "https://open.spotify.com/track/13oxbWMd3hJsV0VyOnyR5u"
+    },
+    {
+      "album": {
+        "name": "Just Talk",
+        "url": "https://open.spotify.com/album/4yqF4B5az6rYOvpF5lfpbU"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162711,
+      "name": "Just Talk",
+      "url": "https://open.spotify.com/track/0ad6KxOEjAKkLSSGvi00Mo"
     },
     {
       "album": {
@@ -41876,6 +41960,24 @@
       "duration_ms": 188671,
       "name": "Love Me Right",
       "url": "https://open.spotify.com/track/3SfytvcxqoQWgITH0r9QY0"
+    },
+    {
+      "album": {
+        "name": "LOVE ON ME",
+        "url": "https://open.spotify.com/album/29QSS0FS77NYUOPoidnViy"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138702,
+      "name": "LOVE ON ME",
+      "url": "https://open.spotify.com/track/1TTBz20UzrRV9KevTfutvd"
     },
     {
       "album": {
@@ -50892,7 +50994,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 239823,
       "name": "Ooo",
       "url": "https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu"
@@ -57273,6 +57375,24 @@
     },
     {
       "album": {
+        "name": "Ruffneck",
+        "url": "https://open.spotify.com/album/3nnn4yroKr9rGvfdENFDIA"
+      },
+      "artists": [
+        {
+          "name": "Jordan Peak",
+          "url": "https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158797,
+      "name": "Ruffneck",
+      "url": "https://open.spotify.com/track/3h50ktmY1T2ZaXo8BPB5mX"
+    },
+    {
+      "album": {
         "name": "Rule The World (Everybody) [Ti\u00ebsto with Tears For Fears, NIIKO X SWAE and GUDFELLA]",
         "url": "https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ"
       },
@@ -57570,6 +57690,24 @@
       "duration_ms": 153671,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1tGp9fmzBiKO2gd6t9Z10u"
+    },
+    {
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/2614C9Zlno0BXCSO0KokfL"
+      },
+      "artists": [
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/6cl01mVeSioV2jTHRcGe0l"
     },
     {
       "album": {
@@ -62844,6 +62982,24 @@
       "duration_ms": 402593,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/0EcvbNYvQdFiKn1LSiD1ub"
+    },
+    {
+      "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137790,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T"
     },
     {
       "album": {
@@ -74964,7 +75120,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 148047,
       "name": "What's a Girl to Do in '25",
       "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
@@ -78070,7 +78226,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 182189,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/2crEwjCQ4DMwvKEjIDslkj"

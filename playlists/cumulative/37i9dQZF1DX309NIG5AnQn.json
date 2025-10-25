@@ -288,7 +288,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 215281,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/4S2WsYzOnCpuXFTFP6vs8i"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 171807,
       "name": "Anita",
       "url": "https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO"
@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Folkl\u00f3rica",
+        "url": "https://open.spotify.com/album/7xEXxtJy8pr2ReW9JpqQTn"
+      },
+      "artists": [
+        {
+          "name": "Marina Fages",
+          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Bot\u00e1nica",
+      "url": "https://open.spotify.com/track/2BPaYhHT0v76voNWmOUGaa"
+    },
+    {
+      "album": {
         "name": "PAOLETTI... En la ruta del \u00e1rbol, en busca de la canci\u00f3n perfecta... VERSIONES",
         "url": "https://open.spotify.com/album/3fw0qnrZlKJeg6Mco0LPCC"
       },
@@ -776,7 +794,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 187500,
       "name": "Chica Gotika",
       "url": "https://open.spotify.com/track/68y3JRBvaHyXLt826P5mx7"
@@ -1082,7 +1100,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 143895,
       "name": "Creer en M\u00ed Otra Vez",
       "url": "https://open.spotify.com/track/57VKnbRY9PSOHIZtOJ2v1L"
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 349747,
       "name": "D.I.E (Dance In Ecstasy)",
       "url": "https://open.spotify.com/track/03y9Y3WXf2A4RvNl7c4FN2"
@@ -1880,10 +1898,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 165209,
       "name": "El Viaje",
       "url": "https://open.spotify.com/track/4CZzNgqOqB8nvcJz1sG3AE"
+    },
+    {
+      "album": {
+        "name": "El \u00c1lbum Rosa",
+        "url": "https://open.spotify.com/album/6pWIDvtGtVzrjS66OJ1F8O"
+      },
+      "artists": [
+        {
+          "name": "Las Tussi",
+          "url": "https://open.spotify.com/artist/5Zc1hvy8HoaA0vymJgcx6Q"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145310,
+      "name": "El \u00daltimo D\u00eda De Verano",
+      "url": "https://open.spotify.com/track/4XX9lbW0GQgjQdMDAv7mke"
     },
     {
       "album": {
@@ -2180,7 +2216,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 213000,
       "name": "febrero",
       "url": "https://open.spotify.com/track/48htFaGFraVtzHSv3YeB4O"
@@ -2198,7 +2234,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 111989,
       "name": "GENERA-VIT",
       "url": "https://open.spotify.com/track/2ogBuIpn7gakuffUdj31hd"
@@ -2234,7 +2270,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 205653,
       "name": "Hasta Siempre Amigo",
       "url": "https://open.spotify.com/track/2OhfXrj1TUxx6APfMwqHdN"
@@ -2444,7 +2480,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 250770,
       "name": "Igual",
       "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
@@ -3044,7 +3080,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 166190,
       "name": "Mentiroso Miente",
       "url": "https://open.spotify.com/track/3mCiPbSvvOgkhwfunAqmxL"
@@ -3721,6 +3757,24 @@
     },
     {
       "album": {
+        "name": "POST POP",
+        "url": "https://open.spotify.com/album/70IzpQpAhKr7QaGEPA1Fvp"
+      },
+      "artists": [
+        {
+          "name": "Homog\u00e9nica",
+          "url": "https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135064,
+      "name": "Pide M\u00e1s",
+      "url": "https://open.spotify.com/track/5SFCNtQT09D6sNTuB8rnl5"
+    },
+    {
+      "album": {
         "name": "Piedra del \u00c1guila",
         "url": "https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ"
       },
@@ -3732,7 +3786,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 194470,
       "name": "Piedra del \u00c1guila",
       "url": "https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1"
@@ -3916,7 +3970,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 146668,
       "name": "Pulso",
       "url": "https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U"
@@ -4580,7 +4634,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 224040,
       "name": "Tr\u00e1fico",
       "url": "https://open.spotify.com/track/0l2HLImZnyZqDydcgD6pDf"
@@ -4912,7 +4966,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 233115,
       "name": "Y no me digan nada",
       "url": "https://open.spotify.com/track/5l9geiaathmbeLRXzhVidT"
@@ -5042,7 +5096,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 196951,
       "name": "\u00c9xodo Mental",
       "url": "https://open.spotify.com/track/0kjtwZybKdX5uXK1qCHojD"

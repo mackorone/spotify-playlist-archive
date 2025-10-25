@@ -2,7 +2,7 @@
 
 ### [voltage](https://open.spotify.com/playlist/37i9dQZF1DXdJqnaw1s7iq)
 
-> electronic nostalgia ⚡️ Cover: James Blake
+> electronic nostalgia ⚡️ Cover: The xx
 
 152 songs - 10 hr 48 min
 

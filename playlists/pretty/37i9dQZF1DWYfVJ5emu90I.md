@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,162 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,176 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 9 | [力をくれ](https://open.spotify.com/track/35FFFojzUUlFAwKIXCPvNi) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [力をくれ](https://open.spotify.com/album/7qu1zz3XI91cCz99mhHg33) | 3:16 |
 | 10 | [Katsushika](https://open.spotify.com/track/3trjhda0OoKKmEVnVQ8Gnf) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX), [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [Katsushika](https://open.spotify.com/album/51zBaQpAdiAWxRP0pA1R0f) | 2:11 |
 | 11 | [GILA GILA](https://open.spotify.com/track/3LSALxSMhVUQoGN2zwxy1n) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [GILA GILA](https://open.spotify.com/album/5v5FfoofCu2Ouflu1GusIN) | 4:11 |
-| 12 | [DOSHABURI \- Remix](https://open.spotify.com/track/30iyDoqghH5gs3I7bAFT4a) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [DOSHABURI \(Remix\)](https://open.spotify.com/album/1944sAOFXg8lgrYznJUKmD) | 4:00 |
+| 12 | [DOSHABURI \(feat\. JUMADIBA & ralph\) \- Remix](https://open.spotify.com/track/30iyDoqghH5gs3I7bAFT4a) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [DOSHABURI \(Remix\)](https://open.spotify.com/album/1944sAOFXg8lgrYznJUKmD) | 4:00 |
 | 13 | [Sightseeing](https://open.spotify.com/track/5oSs5VhEdfF51dclcnxxq7) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Sightseeing](https://open.spotify.com/album/1wd7y9qh1gjk2S0yHZ0oBt) | 2:34 |
 | 14 | [MORIAGE](https://open.spotify.com/track/0bL8mRYXWsoUz4XJwoebf1) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [MORIAGE](https://open.spotify.com/album/1LQxQn7UrFPcv1yfUoVpeU) | 4:10 |
 | 15 | [B.G.P](https://open.spotify.com/track/2MF3lWVhYZ7BH3E3fVqUXs) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Magna Scale](https://open.spotify.com/album/5lVZIHBiqpK53vc7s2RnCL) | 2:21 |

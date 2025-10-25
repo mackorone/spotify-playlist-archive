@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! Joaquina en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,961 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,966 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 74 | [¿Qué vas a saber?](https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [¿Qué vas a saber?](https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l) | 4:11 |
 | 75 | [¿Cómo Te Explico?](https://open.spotify.com/track/2pS5D2KqOw73apT7vjPyrQ) | [Dimitri y las brujas](https://open.spotify.com/artist/1k3U6CLxJlkGEL29oGctSr) | [¿Cómo Te Explico?](https://open.spotify.com/album/7xwB5SWmLE7U1OiJj2G4ZK) | 2:38 |
 
-Snapshot ID: `AAAAAMPvl4ATnjDMgOXoKr4r7xo4U2WB`
+Snapshot ID: `AAAAABfw6O6L+ZnEXTJQm+nD0Bo17evg`

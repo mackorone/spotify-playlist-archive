@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > En samling av de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,106 likes - 109 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,123 likes - 109 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 2 | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 |
 | 3 | [lose control](https://open.spotify.com/track/0gPT9v8KyzHZ1MiH2yY9QE) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [kanske lika bra att vi lägger av när vi ligger bra](https://open.spotify.com/album/4VPYO2mrgxJkSs6LC4zOm4) | 3:02 |
 | 4 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
-| 5 | [Ingen Vet...](https://open.spotify.com/track/53vPl8xKjPc6AaCLD1XlpH) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [](https://open.spotify.com/album/null) | 3:46 |
+| 5 | [Ingen Vet...](https://open.spotify.com/track/53vPl8xKjPc6AaCLD1XlpH) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [I Rymden Finns Inga Tårar](https://open.spotify.com/album/53vNOMnb7XNn6cM0dyKi3Z) | 3:46 |
 | 6 | [Tusen spänn](https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tusen spänn](https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL) | 3:10 |
 | 7 | [Crazy](https://open.spotify.com/track/0hbHIyjHstT9nXy1frfdoM) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Crazy](https://open.spotify.com/album/7IP8sUzagDg6erM28zt11h) | 2:55 |
 | 8 | [Blåögd](https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv) | 3:35 |

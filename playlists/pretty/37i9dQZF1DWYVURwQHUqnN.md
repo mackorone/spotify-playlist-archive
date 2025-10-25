@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Soolking
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,452 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,474 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 13 | [C'est Fort](https://open.spotify.com/track/4VSR4ZWtfYgJwldRcNNFC3) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [C'est Fort](https://open.spotify.com/album/7n64v5dvmdTNLTvM1NzUdS) | 2:39 |
 | 14 | [On Va Taper ÇA](https://open.spotify.com/track/51rFwalR3noTQYC7os1ySQ) | [BSF](https://open.spotify.com/artist/1t9UFK5cJL4JP0jndHqmon) | [On Va Taper ÇA](https://open.spotify.com/album/58hVE9Cu4LN31dXStuq6xr) | 2:24 |
 | 15 | [Les Limites](https://open.spotify.com/track/1XwMuEs2XEqunpyWZ7APh7) | [Siaka](https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz), [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Les Limites](https://open.spotify.com/album/6hm1vJ1d5B5d3SXFVc63uK) | 2:30 |
-| 16 | [Track 9](https://open.spotify.com/track/7royjNIb46zGAkCvSdpWz2) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [](https://open.spotify.com/album/null) | 0:00 |
+| 16 | [Allo](https://open.spotify.com/track/7royjNIb46zGAkCvSdpWz2) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Queen](https://open.spotify.com/album/6dzjdYfWaGwfMZZaJXVlYJ) | 2:15 |
 | 17 | [DD](https://open.spotify.com/track/6tnyd1pEIaWc3cDGZqA64R) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Benash](https://open.spotify.com/artist/53loJtHWjCG1TyKarW2mzk) | [DD](https://open.spotify.com/album/1gAnfqSKoaIxcoZZ72ISSh) | 2:50 |
 | 18 | [Brouncha](https://open.spotify.com/track/7eKCe1BJJneUcu2y0skZV4) | [Graya](https://open.spotify.com/artist/6AmKZ6kQdFR64iIiUsRMHT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Brouncha](https://open.spotify.com/album/5grIMR7xl9JBPvcHKruHLF) | 2:52 |
 | 19 | [Tema Love](https://open.spotify.com/track/0TWQ4ggFChalDzWuQswo9z) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Émancipation \- Freedom Pt\. II](https://open.spotify.com/album/2VLNv6YSiqAILqulORG1kQ) | 2:58 |

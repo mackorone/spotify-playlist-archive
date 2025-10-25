@@ -775,8 +775,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "LOVERCORE",
+        "url": "https://open.spotify.com/album/75FM00r9Lgdi0YHv7vvzzB"
       },
       "artists": [
         {
@@ -1309,8 +1309,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Bracing For Impact",
+        "url": "https://open.spotify.com/album/6yQAIt35n1JPwzIfvCxZrI"
       },
       "artists": [
         {
@@ -3182,6 +3182,24 @@
       "duration_ms": 122065,
       "name": "for a minute",
       "url": "https://open.spotify.com/track/5bzev9C3DqRciIqGUyPIr5"
+    },
+    {
+      "album": {
+        "name": "The Fault Is Mine",
+        "url": "https://open.spotify.com/album/44fChYO2kcJq8iXFHH7CVW"
+      },
+      "artists": [
+        {
+          "name": "Cameron Hayes",
+          "url": "https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Forgive Forget, Pt. 1",
+      "url": "https://open.spotify.com/track/5hwQW2iEICCaPaNThDYEbQ"
     },
     {
       "album": {
@@ -8904,24 +8922,6 @@
       "duration_ms": 173333,
       "name": "Touch You",
       "url": "https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Cameron Hayes",
-          "url": "https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX"
-        }
-      ],
-      "date_added": "2025-10-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/5hwQW2iEICCaPaNThDYEbQ"
     },
     {
       "album": {

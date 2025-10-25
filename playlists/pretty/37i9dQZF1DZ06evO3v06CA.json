@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 203397,
+  "num_followers": 203407,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAADkYUrhytZGD5yRnS/QHVB9",
+  "snapshot_id": "aPlwAAAAAAAYmG2ML04sKM86eqyuubg0",
   "tracks": [
     {
       "added_at": null,
@@ -59,26 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Beer For My Horses",
-      "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waylon & Willie",
         "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
       },
@@ -95,6 +75,26 @@
       "duration_ms": 152866,
       "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
       "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Beer For My Horses",
+      "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
     },
     {
       "added_at": null,
@@ -1231,6 +1231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/7iyd0aOJ2J54hENgLeGxCk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -1276,15 +1292,15 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 203746,
+      "duration_ms": 204929,
       "name": "Coconut Tree (with Willie Nelson) (with Willie Nelson)",
       "url": "https://open.spotify.com/track/0VGb5Vy75Hkb5DKBHvuJJg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
       },
       "artists": [
         {
@@ -1292,29 +1308,9 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 230933,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/7iyd0aOJ2J54hENgLeGxCk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viva Tu",
-        "url": "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 125379,
-      "name": "Heaven's Bad Day",
-      "url": "https://open.spotify.com/track/5LPo4MHNYtWdh8FWIIkixD"
+      "duration_ms": 185409,
+      "name": "Funny How Time Slips Away",
+      "url": "https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA"
     }
   ],
   "unique_name": "This Is Willie Nelson",

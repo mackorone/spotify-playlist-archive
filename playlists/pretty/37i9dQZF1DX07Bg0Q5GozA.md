@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: David Bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,434 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,385 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 3 | [Treat Yourself](https://open.spotify.com/track/55yBtybjHTl4criqkcwdZf) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Treat Yourself](https://open.spotify.com/album/5TKfzVDjwXFBEQCbD3F81I) | 3:04 |
 | 4 | [Boundary Rider](https://open.spotify.com/track/5w9XvpOBv2FviDF7lSV5Kb) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Paul Banks](https://open.spotify.com/artist/6h7Y3QR7IjzAD05Qw5QYO4) | [Boundary Rider](https://open.spotify.com/album/5acfdsTeybq9WNzMStHK3g) | 3:44 |
 | 5 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
-| 6 | [Herbs & Wine](https://open.spotify.com/track/2jqOdhAQIFJseY4FnnphGX) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk) | [](https://open.spotify.com/album/null) | 4:05 |
+| 6 | [Herbs & Wine](https://open.spotify.com/track/2jqOdhAQIFJseY4FnnphGX) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk) | [Velvet Seas](https://open.spotify.com/album/0MZqGkVl2NJpjEkoPUD8cQ) | 4:05 |
 | 7 | [Telephone Games](https://open.spotify.com/track/6vyw66bRBPxQxHCKFQSyI5) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Telephone Games](https://open.spotify.com/album/1RdRnkN2bYAXsLOUIkAz3D) | 3:26 |
 | 8 | [WOKE UP IN BERLIN](https://open.spotify.com/track/4alS3bds3c54wARRY0tQDC) | [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [WOKE UP IN BERLIN](https://open.spotify.com/album/4KCX8fnfJx3xtIPy7tBtC4) | 1:52 |
 | 9 | [Strange People](https://open.spotify.com/track/52pJ8X8qEmVfzn6VCBUe9n) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Strange People](https://open.spotify.com/album/5uhIcBNfZsjwbsQp3Js9AV) | 3:04 |

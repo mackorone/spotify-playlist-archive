@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Tessi Nandi
 
-344 songs - 20 hr 2 min
+344 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [How Dare You](https://open.spotify.com/track/3NxnFgg4YKQkqzNPQqAKRX) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [How Dare You](https://open.spotify.com/album/5m3yTfB7TPF4ZEH45jEkL4) | 3:39 | 2025-10-16 |  |
 | [How is Summer Over?](https://open.spotify.com/track/52SjgHZpjJtAxy867ZT3NK) | [Nasrene](https://open.spotify.com/artist/1OnltwuE09tqRxUgAK4UHB) | [How is Summer Over?](https://open.spotify.com/album/7L1LfkPke0zvF5gRRJAzB1) | 2:59 | 2024-10-04 | 2025-04-11 |
 | [HURTING](https://open.spotify.com/track/3V2qkG0MbPwwMHUJNsxcuR) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [HURTING](https://open.spotify.com/album/4xpvcoxHFtD7JjRs0FyJ42) | 2:38 | 2023-05-26 | 2023-06-09 |
-| [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [](https://open.spotify.com/album/null) | 3:21 | 2025-10-23 |  |
+| [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [THOSE WHO ARE AGAINST US ALL THE TIME](https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK) | 3:21 | 2025-10-23 |  |
 | [Ibaasi](https://open.spotify.com/track/4FFAIsIjrbkA8W7lP64v2y) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Ibaasi](https://open.spotify.com/album/47BT0AkQNjqq5YExNikw43) | 4:33 | 2023-10-27 | 2024-10-05 |
 | [If God is Real...](https://open.spotify.com/track/1UESXVQOzyl4gepZOPMqMa) | [Kid in Flight](https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT) | [Kid in Flight](https://open.spotify.com/album/3eTVF06H4gP6gwmMVBYZ6M) | 1:58 | 2025-08-28 | 2025-09-13 |
 | [If I'm Honest](https://open.spotify.com/track/0tD9T9R7BiDk2kCTfQhhBm) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [If I'm Honest](https://open.spotify.com/album/0Ip4W5tgCDkTWkBJnDH41q) | 2:48 | 2025-09-19 |  |
@@ -142,6 +142,7 @@
 | [Japa Japa](https://open.spotify.com/track/3LohrjLiSAKdLxta3Y7sp5) | [BANTU](https://open.spotify.com/artist/2FIlpbCgw3KsywBZzuPU1H) | [What Is Your Breaking Point?](https://open.spotify.com/album/5BNEYB2U96GLnTo2CjG9qd) | 4:50 | 2023-06-08 | 2024-04-26 |
 | [Jellyfish](https://open.spotify.com/track/5ocBo0wYEEkonAuvhBU2j8) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Jellyfish](https://open.spotify.com/album/66jybmyf9i4NelFuzOkJYz) | 2:04 | 2025-08-28 |  |
 | [JI](https://open.spotify.com/track/05Z7zjFNdexq8adjFibaU3) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [JI](https://open.spotify.com/album/54tBFtklctJSt9ZUC9WtFa) | 2:29 | 2023-04-14 | 2024-03-22 |
+| [Joyce Buyers Method](https://open.spotify.com/track/3IsTEeUvjblUnfHzuH88WO) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Gravity In Grief](https://open.spotify.com/album/3mSuIse2hJFrGkiJl7bmrE) | 3:56 | 2025-10-23 |  |
 | [Jungle](https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Jungle](https://open.spotify.com/album/7M0apWqmNtMxPhT9DWa7mx) | 3:24 | 2021-10-22 | 2023-03-04 |
 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 | 2023-05-11 | 2024-03-22 |
 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 | 2025-08-28 |  |
@@ -307,7 +308,6 @@
 | [Too Late for Mama](https://open.spotify.com/track/6xfGoZlwaIuBkDtTQV8lSX) | [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8) | [Too Late for Mama](https://open.spotify.com/album/1mlmOZ5TQjexDf1wIO4h9y) | 4:07 | 2021-09-30 | 2023-09-15 |
 | [Too Many Bags \- Kaidi's Remix](https://open.spotify.com/track/66lnFWtNlxv3MQbF7QNQoy) | [Nyamekye Junction](https://open.spotify.com/artist/5PJMSOd80lQy16KzHyNfTi), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Too Many Bags \(Kaidi's Remix\)](https://open.spotify.com/album/4HahgyW7u9bosBKyyV8PfZ) | 6:29 | 2023-03-30 | 2023-10-13 |
 | [Too Young To Go](https://open.spotify.com/track/3WaMdVfPf5vsjRQTpyiVHz) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Too Young To Go](https://open.spotify.com/album/4TsZGn6aEpy14f2dufhmbI) | 3:00 | 2024-02-16 | 2025-06-20 |
-| [Track 3](https://open.spotify.com/track/3IsTEeUvjblUnfHzuH88WO) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 | 2022-02-03 | 2024-02-02 |
 | [TWO SIDES](https://open.spotify.com/track/4c72MWImuljP18Pb4y5JFm) | [OIEE](https://open.spotify.com/artist/2ns47ulOmmJQtO0HMIIMUY), [Sena](https://open.spotify.com/artist/1erBTcAMRYO1WTjsdv0Dma), [O'SULLIVAN](https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT) | [TWO SIDES](https://open.spotify.com/album/44JrrSJ9mBE9MxJhCSDIt1) | 3:10 | 2023-04-20 | 2023-04-28 |
 | [uBhubesi](https://open.spotify.com/track/5lMPmfeVPO8JBrVZN3qERJ) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [uBhubesi](https://open.spotify.com/album/0RhEwNHQ4TI1iZnKLeNrjf) | 3:37 | 2025-08-28 | 2025-09-26 |

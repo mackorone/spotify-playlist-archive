@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Camille Yembe
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,613 likes - 65 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,610 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 14 | [In The Shadow](https://open.spotify.com/track/7ylweQjCPCtMvyM21Jqas1) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Over & Over](https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp) | 3:34 |
 | 15 | [Contre\-cœur](https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Contre\-cœur](https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR) | 3:21 |
 | 16 | [Zendaya](https://open.spotify.com/track/5GoYPbTlQbdXPoUWTsrLoK) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [Zendaya / Ligne 9](https://open.spotify.com/album/7lYkPiBwYXF8xRdSVWNhPl) | 2:30 |
-| 17 | [Encré](https://open.spotify.com/track/4xl5kvh4Nnc7pvC1bmDi8a) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Emma'a Part.II](https://open.spotify.com/album/6djrJmDDCtvnpIz5VxxKmb) | 3:29 |
+| 17 | [Encré](https://open.spotify.com/track/4xl5kvh4Nnc7pvC1bmDi8a) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Emma'a Part.II](https://open.spotify.com/album/6djrJmDDCtvnpIz5VxxKmb) | 3:30 |
 | 18 | [UNDER THE SUN](https://open.spotify.com/track/5ccP5He1bggKx0xBKPy1Zx) | [Jeune Lion](https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb) | [UNDER THE SUN](https://open.spotify.com/album/6qxe7qF6qRLjGLIRWhNIO8) | 3:00 |
 | 19 | [fou](https://open.spotify.com/track/0tH5JUbzvZYKk3CciyUlTy) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [un million de petits chocs](https://open.spotify.com/album/2IC2gH3S0XVQvug7M3rFjS) | 2:48 |
 | 20 | [BARA](https://open.spotify.com/track/0w4Sq93I6HyUHihEtp0Nut) | [Yvnnis](https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb) | [BARA](https://open.spotify.com/album/4DwQC08KIxlOidHamE3cnG) | 3:07 |

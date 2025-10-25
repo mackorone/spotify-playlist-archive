@@ -4,7 +4,7 @@
 
 > The hottest and recent Ghana party starters\. Cover: Wendy Shay
 
-567 songs - 1 day 5 hr 14 min
+567 songs - 1 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [BAYIN'YAA \(Mad Dog\)](https://open.spotify.com/track/2XXZpGsijSDPEh5opFFvvX) | [Fancy Gadam](https://open.spotify.com/artist/3uDHTGGaPazfBhlfXtQyzc) | [BAYIN'YAA \(Mad Dog\)](https://open.spotify.com/album/3PwhfGA64MMYAZjdqnDzsJ) | 3:40 | 2022-12-18 | 2023-01-13 |
 | [Beautiful](https://open.spotify.com/track/4ccPHOzBCiCoBxilT5b00V) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Beautiful](https://open.spotify.com/album/3CkYnVyY3U8ALa3aBUtNST) | 3:07 | 2023-03-02 | 2023-06-03 |
 | [Because of Money](https://open.spotify.com/track/5kHiZGMCGtNFYOzHNXALcU) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Because of Money](https://open.spotify.com/album/3crewNeNq67trTPOYc4bPw) | 2:54 | 2023-08-17 | 2023-09-01 |
-| [Bedroom Bully](https://open.spotify.com/track/1NjedAHuo81qjOWOa28KXT) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Larusso](https://open.spotify.com/artist/07sMHU0vu01xrz1gnNrNry) | [Bedroom Bully](https://open.spotify.com/album/4kgf853i8hbgxtLmJP0fmX) | 2:46 | 2025-10-24 |  |
+| [Bedroom Bully](https://open.spotify.com/track/1NjedAHuo81qjOWOa28KXT) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Bedroom Bully](https://open.spotify.com/album/4kgf853i8hbgxtLmJP0fmX) | 2:46 | 2025-10-24 |  |
 | [Been A Fool For You](https://open.spotify.com/track/0KL0cCn54gGCggbKFtT3Sb) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Been A Fool For You](https://open.spotify.com/album/22abtC7wk76NHDS3fdhopN) | 4:28 | 2023-12-08 | 2023-12-15 |
 | [BEFORE YOU GO \(feat\. Mix Master Garzy\)](https://open.spotify.com/track/3bNmUIUeT3nZjUD3FhQUdC) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Mix Master Garzy](https://open.spotify.com/artist/4daEluk44yipMYsuYqZBXX) | [BEFORE YOU GO \(feat\. Mix Master Garzy\)](https://open.spotify.com/album/2acZ8qqNKBUe0fwgNcVx8S) | 2:46 | 2024-10-25 | 2024-11-29 |
 | [Behind \(with Joshua Baraka\)](https://open.spotify.com/track/64YJeGo9tXmfvRTPcv9rcP) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [131 \(EP\)](https://open.spotify.com/album/1x9kTzzq1OHHjKA8KzI8sO) | 3:02 | 2025-03-28 | 2025-07-11 |
@@ -130,6 +130,7 @@
 | [Chemistry](https://open.spotify.com/track/1odYuNwkJ51VtGyfR8DiVl) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l) | [Chemistry](https://open.spotify.com/album/7kPLCFzzaPgJzCOCBFZ3ag) | 3:41 | 2024-02-15 | 2024-10-13 |
 | [Chop Life](https://open.spotify.com/track/64j2xnJweYeCQvycBGBmLR) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Chop Life](https://open.spotify.com/album/4vxbBbvegnEZ8wMiH7Y6lh) | 3:00 | 2023-04-20 | 2023-08-11 |
 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 | 2022-11-04 | 2023-03-03 |
+| [Cocoa Butter](https://open.spotify.com/track/0SvCtbierkiv1H1eBqCWtv) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Defy All Odds](https://open.spotify.com/album/7uQleWb5HutX2vUIU3YPWp) | 2:50 | 2025-10-24 |  |
 | [COME INSIDE](https://open.spotify.com/track/4QVLG1VExEIihi86ezgkld) | [AD DJ](https://open.spotify.com/artist/3qqyOm81TZ82DtIMyDbAAf), [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [COME INSIDE](https://open.spotify.com/album/5SKSPekuTzFx4iuNfpTZy3) | 3:02 | 2024-05-31 | 2024-08-30 |
 | [Come My Way](https://open.spotify.com/track/2jdSMlaKrW0lnMAqrHz4TU) | [Juic3Boy](https://open.spotify.com/artist/5wb69ju4N9tnD2Po57xNs5) | [Come My Way](https://open.spotify.com/album/70htfJhneMnge2Po7Bwx6a) | 3:40 | 2023-04-20 | 2023-06-03 |
 | [Commando](https://open.spotify.com/track/7Ih9QFeuk543iGa2kl7OVS) | [Fancy Gadam](https://open.spotify.com/artist/3uDHTGGaPazfBhlfXtQyzc) | [Commando](https://open.spotify.com/album/3X1BdyHOtJLJWRUMo5bIaR) | 3:34 | 2023-03-17 | 2023-03-25 |
@@ -520,7 +521,6 @@
 | [Too Late](https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Too Late](https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR) | 3:14 | 2024-11-08 |  |
 | [Tornado](https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Tornado](https://open.spotify.com/album/339rnWvetNqZTAZzxrlv35) | 2:38 | 2023-04-27 | 2023-05-20 |
 | [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Touch It](https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c) | 2:45 | 2022-11-04 | 2023-08-18 |
-| [Track 4](https://open.spotify.com/track/0SvCtbierkiv1H1eBqCWtv) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-24 |  |
 | [Try Again](https://open.spotify.com/track/37VzqohsKYJMTN9yS5iSt1) | [Banzy Banero](https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN) | [Try Again](https://open.spotify.com/album/4vGY5krrhuhWRNbO1Fd3Xd) | 3:23 | 2023-11-17 | 2024-10-26 |
 | [Tupac](https://open.spotify.com/track/2WA0ROd9Vxjb83hTFah5CK) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Tupac](https://open.spotify.com/album/1uLVlQFylIj6Fl2zi6r4Hs) | 3:34 | 2023-12-01 | 2024-02-03 |
 | [unconditional](https://open.spotify.com/track/5AdS5p0hYS4dlKbJz0tMwj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Unconditional](https://open.spotify.com/album/3Xhu2pzTBMZeX89QTMx8eX) | 2:51 | 2025-07-11 |  |

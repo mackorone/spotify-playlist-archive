@@ -2,7 +2,7 @@
 
 ### [Hazbin Hotel Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWTj8mmxDwyIM)
 
-> Listen to the music from Hazbin Hotel, now streaming on Prime Video.
+> Listen to music from Hazbin Hotel\. New season coming soon to Prime Video!
 
 31 songs - 1 hr 15 min
 

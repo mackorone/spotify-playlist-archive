@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Eugenia León🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,198 likes - 96 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,189 likes - 96 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

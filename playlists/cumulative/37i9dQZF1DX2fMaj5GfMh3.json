@@ -4925,6 +4925,24 @@
     },
     {
       "album": {
+        "name": "Down & Low",
+        "url": "https://open.spotify.com/album/6EzOrBHp4Kjwnpisi6Sry3"
+      },
+      "artists": [
+        {
+          "name": "Denzel Chain",
+          "url": "https://open.spotify.com/artist/1OcgVkMH2tgrwIjhrsCqT0"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Down & Low",
+      "url": "https://open.spotify.com/track/0qNnAU811gL8qaeNZY6Vqh"
+    },
+    {
+      "album": {
         "name": "Dream Boy",
         "url": "https://open.spotify.com/album/0V7yLI80TezN9BNhpoUPW1"
       },
@@ -10707,8 +10725,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Early Twenties Torture",
+        "url": "https://open.spotify.com/album/6HNDL6my8XFprSf8KRwaf8"
       },
       "artists": [
         {
@@ -10977,8 +10995,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "It\u2019s Not That Deep",
+        "url": "https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc"
       },
       "artists": [
         {
@@ -19484,24 +19502,6 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Denzel Chain",
-          "url": "https://open.spotify.com/artist/1OcgVkMH2tgrwIjhrsCqT0"
-        }
-      ],
-      "date_added": "2025-10-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/0qNnAU811gL8qaeNZY6Vqh"
     },
     {
       "album": {

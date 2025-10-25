@@ -6,40 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAIXcnUIJrcpA0/2Dyn2i9l",
+  "snapshot_id": "aPlwAAAAAACnQby08uRisPDDzzMetYBI",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "UFO",
-        "url": "https://open.spotify.com/album/09YQF72oh6MHqCuuXx8F5C"
-      },
-      "artists": [
-        {
-          "name": "UFOs",
-          "url": "https://open.spotify.com/artist/0kw2GuzHR64XkVjWNpVjvd"
-        },
-        {
-          "name": "Braxe + Falcon",
-          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
-        },
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        },
-        {
-          "name": "Alan Braxe",
-          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
-        },
-        {
-          "name": "DJ Falcon",
-          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
-        }
-      ],
-      "duration_ms": 273971,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx"
-    },
     {
       "added_at": null,
       "album": {
@@ -99,18 +67,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/09YQF72oh6MHqCuuXx8F5C"
       },
       "artists": [
         {
+          "name": "UFOs",
+          "url": "https://open.spotify.com/artist/0kw2GuzHR64XkVjWNpVjvd"
+        },
+        {
+          "name": "Braxe + Falcon",
+          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
+        },
+        {
           "name": "Phoenix",
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "DJ Falcon",
+          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
         }
       ],
-      "duration_ms": 228133,
-      "name": "Trying To Be Cool",
-      "url": "https://open.spotify.com/track/3adprsGoZuParw5pyhhLCc"
+      "duration_ms": 273971,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx"
     },
     {
       "added_at": null,
@@ -127,6 +111,38 @@
       "duration_ms": 241640,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/4esUVfYnFcCCVHntx9FQCb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "Trying To Be Cool",
+      "url": "https://open.spotify.com/track/3adprsGoZuParw5pyhhLCc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 197973,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB"
     },
     {
       "added_at": null,
@@ -151,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1"
       },
       "artists": [
         {
@@ -160,9 +176,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 197973,
-      "name": "Too Young",
-      "url": "https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB"
+      "duration_ms": 224973,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/4N7159SXtxwObOFhimCLGW"
     },
     {
       "added_at": null,
@@ -179,22 +195,6 @@
       "duration_ms": 219973,
       "name": "Entertainment",
       "url": "https://open.spotify.com/track/3kTVKRzfYb7zqz56thbKrj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 224973,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/4N7159SXtxwObOFhimCLGW"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 244813,
-      "name": "Chloroform",
-      "url": "https://open.spotify.com/track/0LucKGxWYkj2d0SHdx2WBh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 167840,
       "name": "Lasso",
       "url": "https://open.spotify.com/track/3LENMSJJU0LLqcdVgf4JVW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 244813,
+      "name": "Chloroform",
+      "url": "https://open.spotify.com/track/0LucKGxWYkj2d0SHdx2WBh"
     },
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/6Z8I9zzJb5WCAJkz6qBo7k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tonight (feat. Ezra Koenig)",
         "url": "https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 246706,
       "name": "Tonight (feat. Ezra Koenig)",
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/6Z8I9zzJb5WCAJkz6qBo7k"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ti Amo",
-        "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Telefono",
-      "url": "https://open.spotify.com/track/3zZG1QOxR9IACi01cxtPRY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 185106,
       "name": "Armistice",
       "url": "https://open.spotify.com/track/49hvfrBDG4ig00wPmXLJRg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Telefono",
+      "url": "https://open.spotify.com/track/3zZG1QOxR9IACi01cxtPRY"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Lorna Shore
 
-740 songs - 1 day 23 hr 27 min
+741 songs - 1 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Darkbloom](https://open.spotify.com/track/5eqB8FjyujwxBGfdibWEuL) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Darkbloom](https://open.spotify.com/album/5HiOzuBPohbCkMl7vidboI) | 3:44 | 2022-04-22 |  |
 | [Dead End Utopia](https://open.spotify.com/track/6YYSmZKkvXeo90u6kHrYoT) | [Walking Dead On Broadway](https://open.spotify.com/artist/3kpSjBJ7SSuQ4rzdieCWSb) | [Dead End Utopia](https://open.spotify.com/album/45PMDZU0rB2jKNs7X8jV34) | 4:06 | 2021-12-17 | 2022-07-13 |
 | [Dead Eyes Replete](https://open.spotify.com/track/1Y3fQd3tAsN6Hmkmo7zi05) | [Cryptopsy](https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN) | [Dead Eyes Replete](https://open.spotify.com/album/012HSJB7jyoUnKmj59UsD7) | 3:57 | 2025-06-13 | 2025-08-10 |
-| [Dead Man's Diary](https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Dead Man's Diary](https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn) | 4:39 | 2021-12-17 |  |
+| [Dead Man's Diary](https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Dead Man's Diary](https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn) | 4:39 | 2021-12-17 | 2025-10-25 |
 | [Dead Message](https://open.spotify.com/track/3CGRgtPsC3t5z4Wp28U0YQ) | [As Paradise Falls](https://open.spotify.com/artist/7BXFOz3QxY07FGTsI4er8J) | [Digital Ritual](https://open.spotify.com/album/4qENlJAWof4eiV9G0Iuaj4) | 3:20 | 2022-01-21 | 2022-01-26 |
 | [Dead Pacifist](https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb) | [Tactosa](https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI) | [Exit Wounds](https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB) | 3:11 | 2023-01-20 |  |
 | [Dead Rabbit](https://open.spotify.com/track/3YQHk5o9uDDIBvTQ5tEKVl) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Dead Rabbit](https://open.spotify.com/album/3pR1R0B0l1WVieIcjzBIz0) | 3:11 | 2023-02-24 | 2025-03-15 |
@@ -403,6 +403,7 @@
 | [Lamb to the Slaughter](https://open.spotify.com/track/2PmKN9dJVJEwDuO9LI7AOs) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Lamb to the Slaughter](https://open.spotify.com/album/7G7lc2qjk47fMXGAYiec2n) | 3:50 | 2021-12-17 | 2025-05-21 |
 | [Left in the Wake](https://open.spotify.com/track/6lg5kxB52nm8w0Tq3C1iEi) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB) | [Left In The Wake](https://open.spotify.com/album/5QobPMRtyvAwC9GxkrcSzC) | 2:39 | 2023-06-16 | 2024-06-30 |
 | [Legends Never Die](https://open.spotify.com/track/7pvj0VmFmVN7vHA1b0Zc1V) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Legends Never Die](https://open.spotify.com/album/0MA84UyLUN8K07GhqAh0G0) | 4:29 | 2021-12-17 | 2022-07-29 |
+| [Let Me Sleep](https://open.spotify.com/track/5kBPE6xOdCQ3QkPUIzKGlT) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Let Me Sleep](https://open.spotify.com/album/5l00NBOKGWZAghjNDq1MVF) | 2:39 | 2025-10-24 |  |
 | [Lifeblood](https://open.spotify.com/track/7FEWI4TMXlzNIqvREwIhHd) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Lifeblood](https://open.spotify.com/album/0HKMrwsbf7v7IHHXhSHylS) | 4:17 | 2021-12-17 | 2022-12-13 |
 | [Lifeblood](https://open.spotify.com/track/2o1kCaUvxMcBDgb2DZ38aD) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Lifeblood](https://open.spotify.com/album/4ZaNUD70SBKIIspB7Iz7Qq) | 4:17 | 2021-12-17 |  |
 | [Lifelike](https://open.spotify.com/track/6U3d3PYg1hRR5vmkrtguIV) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH) | [Lifelike](https://open.spotify.com/album/6aWem45BzsHX6FMZabt6BO) | 4:00 | 2021-12-17 | 2022-02-08 |

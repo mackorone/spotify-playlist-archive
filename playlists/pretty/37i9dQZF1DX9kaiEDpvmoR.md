@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 
 > Aktuell musik med etablerade och intressanta artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,701 likes - 89 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,723 likes - 89 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 2 | [There’s a Field \(That’s Only Yours\)](https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 2:04 |
 | 3 | [About Nothing](https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [About Nothing](https://open.spotify.com/album/69JvVDyuNFI6dPONVjlW7z) | 3:13 |
 | 4 | [Lachryma](https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Lachryma](https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev) | 4:36 |
-| 5 | [Track 12](https://open.spotify.com/track/3Yg0pRCZocNI0GgWLavuGF) | [Ulf Lundell](https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [Stanna upp ett slag \- Demo](https://open.spotify.com/track/3Yg0pRCZocNI0GgWLavuGF) | [Ulf Lundell](https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A) | [Vargmåne \(50 år jubileums\-utgåva\)](https://open.spotify.com/album/2TMY85CzleNNh8VpT7oWuT) | 3:42 |
 | 6 | [På Måndag](https://open.spotify.com/track/4TnoZMlHYaYVCVB8BXMVj9) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Livet, döden, skiten däremellan](https://open.spotify.com/album/1yCaTHv9EDvzA8hIDKIAB9) | 2:58 |
 | 7 | [Så många mil, så många år..\. \- Live](https://open.spotify.com/track/5tycUfeumfrwkEVP7FEZo3) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Så många mil, så många år..\. \(Live\)](https://open.spotify.com/album/62D6Cbd858YofuKgOpiu8q) | 5:58 |
 | 8 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 |
 | 9 | [På egna ben \(feat\. Carola\)](https://open.spotify.com/track/6hZlxqZfxucXVRs3lZRhju) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4), [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [På egna ben \(feat\. Carola\)](https://open.spotify.com/album/3JbjxrypmK5nXtxo5Qco3U) | 3:22 |
-| 10 | [Losin' Kind \- Nebraska Outtakes](https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [](https://open.spotify.com/album/null) | 5:00 |
+| 10 | [Losin' Kind \- Nebraska Outtakes](https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska '82: Expanded Edition](https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM) | 5:00 |
 | 11 | [Human \(feat\. Jesse & Joy\)](https://open.spotify.com/track/4MH2gZVOQMUo9CcKIzJsiR) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Human \(feat\. Jesse & Joy\)](https://open.spotify.com/album/37DEtkcmpXDSgFqJuy7eOU) | 4:03 |
 | 12 | [Svindlande höjder](https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Svindlande höjder](https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp) | 4:15 |
 | 13 | [Tillbaka](https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Tillbaka](https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs) | 3:31 |

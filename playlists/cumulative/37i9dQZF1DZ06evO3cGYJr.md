@@ -4,7 +4,7 @@
 
 > This is Learke\. The essential tracks, all in one playlist.
 
-128 songs - 6 hr 29 min
+129 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Alright](https://open.spotify.com/track/5YIVy6HdCamdQkzTPhRrQj) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 3:06 | 2024-12-14 | 2025-06-10 |
 | [Alright](https://open.spotify.com/track/093kQYdOiuVxAeFzyrtXf6) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP), [Leon Walker](https://open.spotify.com/artist/0ljquJdetWvOosXTCIFgXY) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:06 | 2025-06-10 |  |
 | [An Introduction](https://open.spotify.com/track/3NXSkfqQ6ASC588TuWkqTe) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 1:54 | 2024-12-14 | 2025-08-01 |
-| [An Introduction](https://open.spotify.com/track/7mvNEzP42conWXjEP9k4bG) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 1:54 | 2025-08-13 |  |
+| [An Introduction](https://open.spotify.com/track/7mvNEzP42conWXjEP9k4bG) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 1:54 | 2025-08-13 | 2025-10-25 |
 | [better than i was](https://open.spotify.com/track/07sn5SwgSMxhj2PJxK5i6s) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 3:24 | 2025-08-03 |  |
 | [better than i was](https://open.spotify.com/track/0HLs9ktjeINGigUq6i1hAP) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [better than i was](https://open.spotify.com/album/2JpRnpearfI5QTXvhHCrsX) | 3:24 | 2025-07-10 | 2025-08-07 |
 | [better than i was](https://open.spotify.com/track/0JQkCncxcmSROtUx48oEPb) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [better than i was](https://open.spotify.com/album/35FKhwMBDOty1ocIqwfU1y) | 3:24 | 2024-12-25 | 2025-07-10 |
@@ -102,6 +102,7 @@
 | [Out of stock \(Do what you gotta!\)](https://open.spotify.com/track/5uEPsTNTphBctaYyTPGeQm) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP), [Leon Walker](https://open.spotify.com/artist/0ljquJdetWvOosXTCIFgXY) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 2:44 | 2025-06-11 | 2025-10-11 |
 | [Outlaw \- 2021 Version](https://open.spotify.com/track/3mXHDTc9NAkNcsi6KFWzUh) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:40 | 2025-01-10 | 2025-10-23 |
 | [Racing](https://open.spotify.com/track/4NUrUFTFvLZj0BmsdAp4d2) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:39 | 2025-01-07 | 2025-08-06 |
+| [Racing](https://open.spotify.com/track/4SaFfwKQ3ulyg9YfMnxATB) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 3:39 | 2025-10-25 |  |
 | [Racing](https://open.spotify.com/track/6TkXn1xvss49UOIWT5MTRG) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [ALTERED FUTURE: HALCYON PT.I](https://open.spotify.com/album/5LQdUz31WT8U1BfajznbHg) | 3:39 | 2024-12-14 | 2025-01-07 |
 | [Ramblings of the Lost Man \- 2021 Version](https://open.spotify.com/track/1nFMcGlbCsw6yqz7pSDyzh) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:05 | 2025-01-06 | 2025-10-24 |
 | [Re:Start \- 2021 Version](https://open.spotify.com/track/3TJ2wxqp3kShbKczbVc2D0) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 2:26 | 2024-12-14 |  |

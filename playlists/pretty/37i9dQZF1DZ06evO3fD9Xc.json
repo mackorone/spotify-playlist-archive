@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAByXcuNSnRUlVURD4JoRS2j",
+  "snapshot_id": "aPlwAAAAAAAQjTNgISYGxWabSh4mvjwV",
   "tracks": [
     {
       "added_at": null,
@@ -551,22 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Soy Tu Prioridad",
-        "url": "https://open.spotify.com/album/35RISOHlq7naiyMdH2AMUU"
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
       },
       "artists": [
-        {
-          "name": "Diferente Nivel",
-          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
-        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 204274,
-      "name": "No Soy Tu Prioridad",
-      "url": "https://open.spotify.com/track/3j6WUJuUYrJolzauQSWl3l"
+      "duration_ms": 242091,
+      "name": "Tengo Que Colgar",
+      "url": "https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD"
     },
     {
       "added_at": null,
@@ -619,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 2",
-        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
+        "name": "No Soy Tu Prioridad",
+        "url": "https://open.spotify.com/album/35RISOHlq7naiyMdH2AMUU"
       },
       "artists": [
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 242091,
-      "name": "Tengo Que Colgar",
-      "url": "https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD"
+      "duration_ms": 204274,
+      "name": "No Soy Tu Prioridad",
+      "url": "https://open.spotify.com/track/3j6WUJuUYrJolzauQSWl3l"
     },
     {
       "added_at": null,

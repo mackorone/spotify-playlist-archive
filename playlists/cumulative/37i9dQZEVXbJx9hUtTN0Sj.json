@@ -28282,7 +28282,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 156021,
       "name": "No Type",
       "url": "https://open.spotify.com/track/0u66zPJ2e2QDiuwwdyFDIG"
@@ -38522,7 +38522,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 150420,
       "name": "The Last Airbender (VIP)",
       "url": "https://open.spotify.com/track/56kwLMu6fi4WxztnHRRAUk"
@@ -38912,7 +38912,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 196186,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp"
@@ -38930,7 +38930,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
@@ -40798,7 +40798,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 430800,
       "name": "Untitled (How Does It Feel)",
       "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
@@ -43026,10 +43026,36 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 171167,
       "name": "Where Have You Been (Orchestra)",
       "url": "https://open.spotify.com/track/2aLkTZI6OeNOPASp7rZO7k"
+    },
+    {
+      "album": {
+        "name": "Where Have You Been (Orchestra)",
+        "url": "https://open.spotify.com/album/4wXdHhPW0NnBV2lNkDmGET"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3qEhZ01Vx3Xk4LBYgguKbm"
+        },
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171264,
+      "name": "Where Have You Been (Orchestra)",
+      "url": "https://open.spotify.com/track/6GlgCzISvxIG4UQyngPxmU"
     },
     {
       "album": {
@@ -43496,6 +43522,10 @@
         {
           "name": "Trippie Redd",
           "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         }
       ],
       "date_added": "2025-10-07",
@@ -44410,7 +44440,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-20",
+      "date_removed": null,
       "duration_ms": 207190,
       "name": "You Stole The Show",
       "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"

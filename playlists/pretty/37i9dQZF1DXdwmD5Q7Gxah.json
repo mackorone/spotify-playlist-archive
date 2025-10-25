@@ -1,13 +1,45 @@
 {
-  "description": "<a href=\"https://loremandfriends.substack.com/p/this-year-the-fall-season-is-in-bloom\">October newsletter is live \ud83e\udebf</a> ft Elias R\u00f8nnenfelt",
-  "num_followers": 1187793,
+  "description": "<a href=\"https://loremandfriends.substack.com/p/this-year-the-fall-season-is-in-bloom\">October newsletter w/ Audrey Hobert is live \ud83e\udebf</a> Cover: Daniel Caesar",
+  "num_followers": 1187767,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACpl7nlnmsADawR8B9a+FswqUjKo",
+  "snapshot_id": "AAAAAMBRVlx1nzYcPZzOJxCaDQmktXNI",
   "tracks": [
+    {
+      "added_at": "2025-10-24 04:00:31",
+      "album": {
+        "name": "Pale Song / Love Is",
+        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 188271,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
+    },
+    {
+      "added_at": "2025-10-24 04:00:31",
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Root of all Evil",
+      "url": "https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I"
+    },
     {
       "added_at": "2025-10-17 04:01:01",
       "album": {
@@ -23,6 +55,38 @@
       "duration_ms": 210400,
       "name": "Time Time Time (I'm in the Palm of Your Hand)",
       "url": "https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD"
+    },
+    {
+      "added_at": "2025-10-17 04:01:01",
+      "album": {
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB"
+      },
+      "artists": [
+        {
+          "name": "Not for Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+        }
+      ],
+      "duration_ms": 274712,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/2AkJfhzKOTqgb3RxqyPMeU"
+    },
+    {
+      "added_at": "2025-10-24 04:00:31",
+      "album": {
+        "name": "Normal Today",
+        "url": "https://open.spotify.com/album/26q3rNHs0qM9khbGaiWTcd"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 193046,
+      "name": "Normal Today",
+      "url": "https://open.spotify.com/track/31Nc6gzU9XQ2N424Ox8RDk"
     },
     {
       "added_at": "2025-10-17 04:01:01",
@@ -45,20 +109,52 @@
       "url": "https://open.spotify.com/track/6afDGn5RO7QvV88C6dESzg"
     },
     {
-      "added_at": "2025-10-17 04:01:01",
+      "added_at": "2025-10-03 04:00:48",
       "album": {
-        "name": "Melt",
-        "url": "https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB"
+        "name": "Who's the Clown?",
+        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
       },
       "artists": [
         {
-          "name": "Not for Radio",
-          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
         }
       ],
-      "duration_ms": 274712,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/2AkJfhzKOTqgb3RxqyPMeU"
+      "duration_ms": 154840,
+      "name": "Bowling alley",
+      "url": "https://open.spotify.com/track/6TMz966mUk7TOOGO4l182X"
+    },
+    {
+      "added_at": "2025-10-17 04:01:01",
+      "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/0Lav96JqaZmqMCbryXUPgE"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 128982,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/6arjfkXcKsLhvEtb9gKLc1"
+    },
+    {
+      "added_at": "2025-09-26 04:00:24",
+      "album": {
+        "name": "portals//polarities",
+        "url": "https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 256480,
+      "name": "leave it all behind, Mike",
+      "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
     },
     {
       "added_at": "2025-10-10 04:00:19",
@@ -97,22 +193,6 @@
       "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
     },
     {
-      "added_at": "2025-10-17 04:01:01",
-      "album": {
-        "name": "Cherry",
-        "url": "https://open.spotify.com/album/0Lav96JqaZmqMCbryXUPgE"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 128982,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/6arjfkXcKsLhvEtb9gKLc1"
-    },
-    {
       "added_at": "2025-09-26 04:00:24",
       "album": {
         "name": "hang on the wall what you kill",
@@ -127,6 +207,54 @@
       "duration_ms": 147348,
       "name": "hang on the wall what you kill",
       "url": "https://open.spotify.com/track/3ThXubZEb1x9U8AgfYCq8c"
+    },
+    {
+      "added_at": "2025-10-17 04:01:01",
+      "album": {
+        "name": "After EP 2",
+        "url": "https://open.spotify.com/album/4wrJJTECEgSMnwHeoBzoGz"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "duration_ms": 208386,
+      "name": "The Field",
+      "url": "https://open.spotify.com/track/07lAcpDgwODHa2tQsSGZfL"
+    },
+    {
+      "added_at": "2025-10-10 04:00:19",
+      "album": {
+        "name": "Images of Love",
+        "url": "https://open.spotify.com/album/6IMqlvUqKnLU9DT9yTAwHf"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 233221,
+      "name": "Images of Love",
+      "url": "https://open.spotify.com/track/3hwcyPxCMgnYwhgAPJye4r"
+    },
+    {
+      "added_at": "2025-10-24 04:00:31",
+      "album": {
+        "name": "Play the Song",
+        "url": "https://open.spotify.com/album/4MvVQTV2JEvEXE5d1EOAc7"
+      },
+      "artists": [
+        {
+          "name": "Dutch Interior",
+          "url": "https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn"
+        }
+      ],
+      "duration_ms": 247826,
+      "name": "Play the Song",
+      "url": "https://open.spotify.com/track/3haKlwIqE6QTKDerK7ZDLY"
     },
     {
       "added_at": "2025-10-17 04:01:01",
@@ -147,18 +275,18 @@
     {
       "added_at": "2025-10-17 04:01:01",
       "album": {
-        "name": "After EP 2",
-        "url": "https://open.spotify.com/album/4wrJJTECEgSMnwHeoBzoGz"
+        "name": "Sleeping Away My Prime",
+        "url": "https://open.spotify.com/album/15XvORWwKNSEi6V5ojg5RK"
       },
       "artists": [
         {
-          "name": "After",
-          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+          "name": "DellaXOZ",
+          "url": "https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e"
         }
       ],
-      "duration_ms": 208386,
-      "name": "The Field",
-      "url": "https://open.spotify.com/track/07lAcpDgwODHa2tQsSGZfL"
+      "duration_ms": 153802,
+      "name": "Sleeping Away My Prime",
+      "url": "https://open.spotify.com/track/56FzCuIZBTssi5o8nWR7bn"
     },
     {
       "added_at": "2025-10-17 04:01:01",
@@ -175,6 +303,38 @@
       "duration_ms": 92883,
       "name": "Name the Band",
       "url": "https://open.spotify.com/track/4Lw1vRz87nTpJ3Pb9RpQvN"
+    },
+    {
+      "added_at": "2025-10-24 04:00:31",
+      "album": {
+        "name": "Kurayami/Get used to it",
+        "url": "https://open.spotify.com/album/3mOFUx8wl2HKNQ5GAg2854"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 218933,
+      "name": "Kurayami",
+      "url": "https://open.spotify.com/track/0Sxq0LWeaTFraveN6P8Vne"
+    },
+    {
+      "added_at": "2025-10-10 04:00:19",
+      "album": {
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB"
+      },
+      "artists": [
+        {
+          "name": "Not for Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+        }
+      ],
+      "duration_ms": 251601,
+      "name": "Swan",
+      "url": "https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI"
     },
     {
       "added_at": "2025-09-26 04:00:24",
@@ -245,22 +405,6 @@
       "url": "https://open.spotify.com/track/2x23h454OSMdlbw4TxmXrQ"
     },
     {
-      "added_at": "2025-09-26 04:00:24",
-      "album": {
-        "name": "portals//polarities",
-        "url": "https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 256480,
-      "name": "leave it all behind, Mike",
-      "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
-    },
-    {
       "added_at": "2025-10-17 04:01:01",
       "album": {
         "name": "The Ghost of Her Smile",
@@ -299,22 +443,6 @@
     {
       "added_at": "2025-10-17 04:01:01",
       "album": {
-        "name": "Sleeping Away My Prime",
-        "url": "https://open.spotify.com/album/15XvORWwKNSEi6V5ojg5RK"
-      },
-      "artists": [
-        {
-          "name": "DellaXOZ",
-          "url": "https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e"
-        }
-      ],
-      "duration_ms": 153802,
-      "name": "Sleeping Away My Prime",
-      "url": "https://open.spotify.com/track/56FzCuIZBTssi5o8nWR7bn"
-    },
-    {
-      "added_at": "2025-10-17 04:01:01",
-      "album": {
         "name": "Love by November",
         "url": "https://open.spotify.com/album/271PpHys7PbmSZITpzUwZM"
       },
@@ -343,22 +471,6 @@
       "duration_ms": 197000,
       "name": "Baby Steps",
       "url": "https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P"
-    },
-    {
-      "added_at": "2025-10-10 04:00:19",
-      "album": {
-        "name": "Images of Love",
-        "url": "https://open.spotify.com/album/6IMqlvUqKnLU9DT9yTAwHf"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 233221,
-      "name": "Images of Love",
-      "url": "https://open.spotify.com/track/3hwcyPxCMgnYwhgAPJye4r"
     },
     {
       "added_at": "2025-10-07 15:32:55",
@@ -395,22 +507,6 @@
       "duration_ms": 173200,
       "name": "Ver\u00f3nica",
       "url": "https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D"
-    },
-    {
-      "added_at": "2025-10-10 04:00:19",
-      "album": {
-        "name": "Melt",
-        "url": "https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB"
-      },
-      "artists": [
-        {
-          "name": "Not for Radio",
-          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
-        }
-      ],
-      "duration_ms": 251601,
-      "name": "Swan",
-      "url": "https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI"
     },
     {
       "added_at": "2025-10-07 15:32:55",
@@ -463,22 +559,6 @@
       "duration_ms": 146379,
       "name": "Nice to Know You + Sega Bodega",
       "url": "https://open.spotify.com/track/7b2QNwTvP4QDP1MBn887AW"
-    },
-    {
-      "added_at": "2025-10-03 04:00:48",
-      "album": {
-        "name": "Who's the Clown?",
-        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
-        }
-      ],
-      "duration_ms": 154840,
-      "name": "Bowling alley",
-      "url": "https://open.spotify.com/track/6TMz966mUk7TOOGO4l182X"
     },
     {
       "added_at": "2025-10-03 04:00:48",
@@ -1861,22 +1941,6 @@
       "url": "https://open.spotify.com/track/2R1GNetV5KogQx7h1b8tgg"
     },
     {
-      "added_at": "2025-07-25 04:01:24",
-      "album": {
-        "name": "Wet Hair",
-        "url": "https://open.spotify.com/album/25Y5fgIAftGWw3W0ghPNTK"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Wet Hair",
-      "url": "https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn"
-    },
-    {
       "added_at": "2025-07-11 04:00:24",
       "album": {
         "name": "moisturizer",
@@ -2847,22 +2911,6 @@
     {
       "added_at": "2025-05-09 04:00:06",
       "album": {
-        "name": "Sincerely,",
-        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 356146,
-      "name": "Lose My Cool,",
-      "url": "https://open.spotify.com/track/54Z2Nr6JA67vqyNAWVYlBD"
-    },
-    {
-      "added_at": "2025-05-09 04:00:06",
-      "album": {
         "name": "MiCHOU's DREAM",
         "url": "https://open.spotify.com/album/3RZGNX7jhnxeZTw5JHLaWf"
       },
@@ -3231,22 +3279,6 @@
     {
       "added_at": "2025-03-21 17:10:45",
       "album": {
-        "name": "Fourth Street",
-        "url": "https://open.spotify.com/album/79vV88LYJy0OLT3n5RIYAl"
-      },
-      "artists": [
-        {
-          "name": "Dutch Interior",
-          "url": "https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn"
-        }
-      ],
-      "duration_ms": 252360,
-      "name": "Fourth Street",
-      "url": "https://open.spotify.com/track/7cTXYDY95vfhwUXQuPgPTB"
-    },
-    {
-      "added_at": "2025-03-21 17:10:45",
-      "album": {
         "name": "SAYA",
         "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
       },
@@ -3275,22 +3307,6 @@
       "duration_ms": 229656,
       "name": "Love & Money",
       "url": "https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP"
-    },
-    {
-      "added_at": "2025-02-07 05:00:46",
-      "album": {
-        "name": "Basspunk 2",
-        "url": "https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r"
-      },
-      "artists": [
-        {
-          "name": "Bassvictim",
-          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
-        }
-      ],
-      "duration_ms": 145625,
-      "name": "Forever salty",
-      "url": "https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG"
     }
   ],
   "unique_name": "Lorem",

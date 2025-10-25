@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124860,
+  "num_followers": 124854,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUvEsn0gUqRE+2zlaaOTqIZYv3btAr",
+  "snapshot_id": "AAAUve1jh6ZV+qsaPQMBfc2mkCZzUpaA",
   "tracks": [
+    {
+      "added_at": "2025-10-24 14:04:41",
+      "album": {
+        "name": "Lightweight",
+        "url": "https://open.spotify.com/album/3xCfH06zHPBX1Hj930l2bF"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "duration_ms": 569379,
+      "name": "Lightweight",
+      "url": "https://open.spotify.com/track/3tao5fIRVOmNroDmagFwTs"
+    },
     {
       "added_at": "2025-10-23 14:09:45",
       "album": {

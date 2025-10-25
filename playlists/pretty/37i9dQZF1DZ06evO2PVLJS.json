@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1102531,
+  "num_followers": 1102665,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAW+T2D3VqdL0c5i9JISQzX",
+  "snapshot_id": "aPlwAAAAAAArfHXF4KL0UEU90GyqBEGh",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "Las Botas de Charro",
+      "url": "https://open.spotify.com/track/34kQHwL2DxM1fBmq1N1lQC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 174400,
       "name": "Esa Pared (feat. Vicente Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/2h9MKyF7PmWr99TeuoI8Xt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Tahur",
-        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "Las Botas de Charro",
-      "url": "https://open.spotify.com/track/34kQHwL2DxM1fBmq1N1lQC"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El N\u00famero Uno",
-        "url": "https://open.spotify.com/album/36KRW7yc5rVeDpEzcBt8KN"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 191066,
-      "name": "Yo Quiero Saber de Ti",
-      "url": "https://open.spotify.com/track/2BF35PjVtpRDyFYldHnxMt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Hijo Del Pueblo",
         "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
       },
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Pesar De Todo",
-        "url": "https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso"
+        "name": "El N\u00famero Uno",
+        "url": "https://open.spotify.com/album/36KRW7yc5rVeDpEzcBt8KN"
       },
       "artists": [
         {
@@ -652,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 203306,
-      "name": "Miraron Llorar a un Hombre",
-      "url": "https://open.spotify.com/track/2FkpqyehpuEhvkEMsOEg69"
+      "duration_ms": 191066,
+      "name": "Yo Quiero Saber de Ti",
+      "url": "https://open.spotify.com/track/2BF35PjVtpRDyFYldHnxMt"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
       "duration_ms": 213160,
       "name": "El Moro de Cumpas",
       "url": "https://open.spotify.com/track/7y9mmxLvi8HnZVMdVgs1CS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Pesar De Todo",
+        "url": "https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 203306,
+      "name": "Miraron Llorar a un Hombre",
+      "url": "https://open.spotify.com/track/2FkpqyehpuEhvkEMsOEg69"
     },
     {
       "added_at": null,

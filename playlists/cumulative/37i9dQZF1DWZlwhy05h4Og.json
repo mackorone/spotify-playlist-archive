@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-23",
-  "description": "The sweetest bops. Cover: XG",
+  "description": "The sweetest bops. Cover: Hearts2Hearts",
   "name": "SUGAR",
   "tracks": [
     {
@@ -1613,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "FOCUS - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177052,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
+    },
+    {
+      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh"
       },
@@ -1952,7 +1970,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 188702,
       "name": "HOWLING",
       "url": "https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW"
@@ -2215,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "In Another World",
+        "url": "https://open.spotify.com/album/2PKwr5WeVaZlX6coR33aQ3"
+      },
+      "artists": [
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175531,
+      "name": "In Another World",
+      "url": "https://open.spotify.com/track/2TTTiaXJZJn7y4ZC6YGXlv"
+    },
+    {
+      "album": {
         "name": "in my bag",
         "url": "https://open.spotify.com/album/55bpPR804d4conpkaB1myb"
       },
@@ -2226,7 +2262,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 155454,
       "name": "in my bag",
       "url": "https://open.spotify.com/track/2anphMUvFBgj9KVWcmo1kq"
@@ -3438,7 +3474,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 188266,
       "name": "REBEL HEART",
       "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
@@ -3760,6 +3796,28 @@
       "duration_ms": 173053,
       "name": "So\u00f1ar (Breaker)",
       "url": "https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq"
+    },
+    {
+      "album": {
+        "name": "SPAGHETTI",
+        "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171226,
+      "name": "SPAGHETTI (English ver.)",
+      "url": "https://open.spotify.com/track/6xndk83L8mJQ4sKdGfP4ie"
     },
     {
       "album": {

@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZJWBxAfzpO.md) - [plain]
 | 9 | [K's Drama S3E25: Becoming a Better Filipino with Kulas \(And His Netflix Docu!\)](https://open.spotify.com/episode/4te1uD7QT9ihDIzmXYS2sD) | [K's Drama](https://open.spotify.com/show/71lx8xSpslbjlYJGVCoieI) | [K's Drama](https://open.spotify.com/album/71lx8xSpslbjlYJGVCoieI) | 19:32 |
 | 10 | [basic bitch reviews EXPLAINED?](https://open.spotify.com/episode/4DnmnfCDlK23YhlyKuuIzm) | [yani’s room](https://open.spotify.com/show/4X9zEtsaAuEvicwvj2MGFD) | [yani’s room](https://open.spotify.com/album/4X9zEtsaAuEvicwvj2MGFD) | 32:17 |
 
-Snapshot ID: `AAAAADb8eqg8jikPrwXS1jTkaQWM2dXS`
+Snapshot ID: `AAAAAEgOOVax+bclH4B0NEDabMNkU+2H`

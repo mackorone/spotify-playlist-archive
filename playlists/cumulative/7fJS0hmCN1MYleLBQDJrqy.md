@@ -4,7 +4,7 @@
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
 
-89 songs - 3 hr 52 min
+90 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Hotel](https://open.spotify.com/track/3pN1lUACckD0PTkFzpxEpu) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Hotel](https://open.spotify.com/album/1itgz2wQPxbMnMhdsdWVnj) | 2:49 | 2025-07-18 |  |
 | [Huisfeestje](https://open.spotify.com/track/6HfzAzEWhwo19n2jrJnM7k) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Huisfeestje](https://open.spotify.com/album/7Ida3KTJ3zMQ9lchjH3BnF) | 2:29 | 2025-07-18 |  |
 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 | 2025-07-18 | 2025-09-13 |
-| [Hyperventilatie](https://open.spotify.com/track/3yHt2DUM0AhAs1olpPcm7s) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Nacht Is Van Ons](https://open.spotify.com/album/5jbKfYGJeY4KmqIurYhb9u) | 2:18 | 2025-07-18 |  |
+| [Hyperventilatie](https://open.spotify.com/track/3yHt2DUM0AhAs1olpPcm7s) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Nacht Is Van Ons](https://open.spotify.com/album/5jbKfYGJeY4KmqIurYhb9u) | 2:18 | 2025-07-18 | 2025-10-25 |
 | [Iconisch](https://open.spotify.com/track/3cRns9obH2lGJ4fpInVxut) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Iconisch](https://open.spotify.com/album/1gfcL8Tie2oJUhC0Y0ELCW) | 2:21 | 2025-07-18 |  |
 | [If I tell you](https://open.spotify.com/track/547CS3a05csbbZLDIEkWVS) | [René le Blanc](https://open.spotify.com/artist/44pNYV200BTCAtGuaA8bY8) | [If I tell you](https://open.spotify.com/album/4g3f4iBv0Vus7eOFe9zqu3) | 3:11 | 2025-08-15 |  |
 | [iK bEpAaL](https://open.spotify.com/track/6lmi0bh5sDtotBrxnFisI9) | [Lucky](https://open.spotify.com/artist/1FQPIdgxuXaEIYuCbWjTcF), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [iK bEpAaL](https://open.spotify.com/album/36nq9ytLZx0BiFtf9zRp6U) | 2:58 | 2025-08-08 |  |
@@ -85,6 +85,7 @@
 | [Solo](https://open.spotify.com/track/6ufY1t4NB1t1snaGOq4tWz) | [Harrie Snijders](https://open.spotify.com/artist/34FVUX7HgK45ek1hEXBX7S) | [Solo](https://open.spotify.com/album/5L3HIALVL4lTeintTAqN31) | 2:06 | 2025-09-26 |  |
 | [Studie Uit](https://open.spotify.com/track/5sHjRyfeGNwu5f2GV0960x) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Studie Uit](https://open.spotify.com/album/4SwDKB3YuJ1qJyqYLsYiBe) | 2:41 | 2025-07-18 |  |
 | [Sugardaddy](https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Sugardaddy](https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf) | 2:11 | 2025-07-18 |  |
+| [Superman](https://open.spotify.com/track/2QEPdAKf9AKhp6W5Atg4D5) | [Luca St](https://open.spotify.com/artist/0UUJ3EwkYGvjoIaVlnF6CN), [JAH](https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659) | [Superman](https://open.spotify.com/album/7f8QLkGiCPSRL3asvjOQGO) | 2:12 | 2025-10-24 |  |
 | [Tijdmachine](https://open.spotify.com/track/3DMcsloRh5Rbf0oMBeMOhY) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 2:15 | 2025-07-18 |  |
 | [Uitstelgedrag](https://open.spotify.com/track/6c4OQkxuJkE7bOBIK6fRa0) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm) | [Uitstelgedrag](https://open.spotify.com/album/0gWvSIPNEYs1cv6R7aFAzT) | 2:32 | 2025-09-05 |  |
 | [Ushuaia](https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Ushuaia](https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6) | 2:37 | 2025-07-18 |  |

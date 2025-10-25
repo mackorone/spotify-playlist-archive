@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "New and approved indie pop. Cover: NoSo",
+  "description": "New and approved indie pop. Cover: Hannah Jadagu",
   "name": "Indie Pop",
   "tracks": [
     {
@@ -1760,6 +1760,24 @@
       "duration_ms": 238346,
       "name": "Alonica",
       "url": "https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp"
+    },
+    {
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/6UHRAPgRbUMxCnzskPlSus"
+      },
+      "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193013,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/5BFY1PDKOZuu75tx5iPpee"
     },
     {
       "album": {
@@ -4840,6 +4858,24 @@
       "duration_ms": 172626,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/6XwtI61NZnkhmclCwC4hbu"
+    },
+    {
+      "album": {
+        "name": "Half-Nelson",
+        "url": "https://open.spotify.com/album/6cPsjvVs2XdGPZMwJ89C3F"
+      },
+      "artists": [
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/5UlFWR77V8IaJaa16Tz5Gd"
     },
     {
       "album": {
@@ -12380,6 +12416,24 @@
     {
       "album": {
         "name": "Far Away",
+        "url": "https://open.spotify.com/album/5vg8nniuBXJ9A0caf8751a"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175039,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/0KTsduet7BBIDMxVLzzS2q"
+    },
+    {
+      "album": {
+        "name": "Far Away",
         "url": "https://open.spotify.com/album/6ebG7C6aLeVRnhWfFxdZHi"
       },
       "artists": [
@@ -13452,7 +13506,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 364800,
       "name": "Fuck Me Eyes",
       "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
@@ -18527,6 +18581,24 @@
     },
     {
       "album": {
+        "name": "if you said",
+        "url": "https://open.spotify.com/album/769lndtsL7j4NxaulJEoMD"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246543,
+      "name": "if you said",
+      "url": "https://open.spotify.com/track/65s4isesdbWbt2iCD00Mjs"
+    },
+    {
+      "album": {
         "name": "Cheap Queen",
         "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
       },
@@ -23028,7 +23100,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 170318,
       "name": "Marigolds",
       "url": "https://open.spotify.com/track/4cWbKUGBCvMaNlQElQrUvD"
@@ -25831,6 +25903,24 @@
     },
     {
       "album": {
+        "name": "Normal Today",
+        "url": "https://open.spotify.com/album/26q3rNHs0qM9khbGaiWTcd"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193046,
+      "name": "Normal Today",
+      "url": "https://open.spotify.com/track/31Nc6gzU9XQ2N424Ox8RDk"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/4oU7ZVhl83heRjeobpGFIN"
       },
@@ -26116,7 +26206,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 304346,
       "name": "Now That You're Gone",
       "url": "https://open.spotify.com/track/5oooQqwuBpqBsh6lEissKS"
@@ -28278,7 +28368,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 172748,
       "name": "play",
       "url": "https://open.spotify.com/track/43HLGa3iry3gOahaTUGcIM"
@@ -29404,7 +29494,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 142333,
       "name": "Rainbow Gal",
       "url": "https://open.spotify.com/track/7FZxZL2arm9wNi5G8owCgo"
@@ -33152,7 +33242,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 197703,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"
@@ -35992,7 +36082,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 208008,
       "name": "The Bellboy (One Last Crush)",
       "url": "https://open.spotify.com/track/3zP0fq3Hv4DyEaLGBpQuln"
@@ -36158,6 +36248,24 @@
       "duration_ms": 179791,
       "name": "The Eviction Song",
       "url": "https://open.spotify.com/track/6oQiyu9WMFDSKn2my0k7p7"
+    },
+    {
+      "album": {
+        "name": "After EP 2",
+        "url": "https://open.spotify.com/album/4wrJJTECEgSMnwHeoBzoGz"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208386,
+      "name": "The Field",
+      "url": "https://open.spotify.com/track/07lAcpDgwODHa2tQsSGZfL"
     },
     {
       "album": {
@@ -36534,6 +36642,24 @@
       "duration_ms": 252066,
       "name": "The Things We Do",
       "url": "https://open.spotify.com/track/4nYb6EZpeRI3ZM1O0UquQ5"
+    },
+    {
+      "album": {
+        "name": "Tongass National Forest",
+        "url": "https://open.spotify.com/album/0Cwv0rbs9Qjdsy8Y5l5hWh"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271664,
+      "name": "The Tongass",
+      "url": "https://open.spotify.com/track/3EU3gA50dnCzreFKqiu1WN"
     },
     {
       "album": {

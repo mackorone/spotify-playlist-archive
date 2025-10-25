@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9236,
+  "num_followers": 9235,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAY0l3QWU7C+TxBpj+qNcIX",
+  "snapshot_id": "aPlwAAAAAABWGoStoRhuMrt96klIQATy",
   "tracks": [
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Tomorrow (Give It Up)",
-        "url": "https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS"
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 266406,
-      "name": "No Tomorrow (Give It Up)",
-      "url": "https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy"
+      "duration_ms": 220800,
+      "name": "WILD ANGEL",
+      "url": "https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+        "name": "No Tomorrow (Give It Up)",
+        "url": "https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 220800,
-      "name": "WILD ANGEL",
-      "url": "https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM"
+      "duration_ms": 266406,
+      "name": "No Tomorrow (Give It Up)",
+      "url": "https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vim",
-        "url": "https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 314282,
-      "name": "Vim",
-      "url": "https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VIVA LA MUSICA",
         "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 266900,
       "name": "THE SWEETEST TABOO",
       "url": "https://open.spotify.com/track/554GjmgJLkRvxvovKMMpbb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vim",
+        "url": "https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 314282,
+      "name": "Vim",
+      "url": "https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALI",
-        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 284433,
-      "name": "BONNIE",
-      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VIVA LA MUSICA",
         "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 180766,
       "name": "I Want A Chance For Romance",
       "url": "https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALI",
+        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 284433,
+      "name": "BONNIE",
+      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "GABBA GABBA HEY HEY",
+      "url": "https://open.spotify.com/track/3XlHHnZSpjLwGAkhosJIbw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SHOW TIME",
         "url": "https://open.spotify.com/album/24yJA2oiDwau8NsrcqH2lw"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 284200,
       "name": "SHOW TIME",
       "url": "https://open.spotify.com/track/5eOOnFQHQdb5DpJvZRPS2l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "GABBA GABBA HEY HEY",
-      "url": "https://open.spotify.com/track/3XlHHnZSpjLwGAkhosJIbw"
     },
     {
       "added_at": null,
@@ -907,22 +907,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONELY LONELY",
-        "url": "https://open.spotify.com/album/34Q9DMv5RDZhMuNPByXufh"
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "age",
-          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
         }
       ],
-      "duration_ms": 386933,
-      "name": "LONELY LONELY -ULTRA HEAVEN REMIX by ALI\u00d7\u92ed\u5150-",
-      "url": "https://open.spotify.com/track/57CUn3paq7FpjozT9ZXSHX"
+      "duration_ms": 316833,
+      "name": "Funky Nassau",
+      "url": "https://open.spotify.com/track/4BDfJFLVXQhYI5ruXkrvVe"
     }
   ],
   "unique_name": "This Is ALI",

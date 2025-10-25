@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Trannos",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Eleni Foureira",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -508,7 +508,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 214000,
       "name": "ALEPOU",
       "url": "https://open.spotify.com/track/6tVxDRTL0EnSL4ITFbv97R"
@@ -1786,6 +1786,28 @@
       "duration_ms": 192026,
       "name": "DEMON II",
       "url": "https://open.spotify.com/track/1Dq9yztl0OSwtNMIytx1xP"
+    },
+    {
+      "album": {
+        "name": "Hybrid",
+        "url": "https://open.spotify.com/album/4My7whJTE7G98ey208Neit"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        },
+        {
+          "name": "ARCADE",
+          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181052,
+      "name": "Den Kano Ego Gia Spiti",
+      "url": "https://open.spotify.com/track/0ZcakqLusdcGn9vmmCUdnD"
     },
     {
       "album": {
@@ -3323,6 +3345,36 @@
     },
     {
       "album": {
+        "name": "Hezbollah",
+        "url": "https://open.spotify.com/album/0bzblmdLm0i3kbOY8ZFudY"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "DJ Waif",
+          "url": "https://open.spotify.com/artist/34E7XSYuJQGWpBlVQS0jkv"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255733,
+      "name": "Hezbollah",
+      "url": "https://open.spotify.com/track/2c6RgHZYCQ4bnQ3aZCjkm6"
+    },
+    {
+      "album": {
         "name": "Hotel California",
         "url": "https://open.spotify.com/album/4XshJnG1OCaUYbYuWlJCCB"
       },
@@ -4771,6 +4823,28 @@
     },
     {
       "album": {
+        "name": "MOTO GP",
+        "url": "https://open.spotify.com/album/7CtOaUbro8U7p6rlTDaU9y"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116250,
+      "name": "MOTO GP",
+      "url": "https://open.spotify.com/track/362mzHiBYNjkMasbA4HZKJ"
+    },
+    {
+      "album": {
         "name": "ILEGAL",
         "url": "https://open.spotify.com/album/0XIVH728KNI7KdI19fHeaF"
       },
@@ -5356,7 +5430,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 230750,
       "name": "Paidia Tou Feggariou",
       "url": "https://open.spotify.com/track/6DprMwVs2mHbGN2U6qenzQ"
@@ -6731,6 +6805,28 @@
     },
     {
       "album": {
+        "name": "Spasmeni Fleva",
+        "url": "https://open.spotify.com/album/5MEf69SWdJqgd2kiu4wpv0"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Kepler Is Free",
+          "url": "https://open.spotify.com/artist/47qtSCZnmoPGZVhXDUqcmB"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240930,
+      "name": "Spasmeni Fleva",
+      "url": "https://open.spotify.com/track/5OBGB0w41ecJacqcdSop5B"
+    },
+    {
+      "album": {
         "name": "SPEEDEX",
         "url": "https://open.spotify.com/album/5nH4bF6V4gg7YAd3TDQUGG"
       },
@@ -7366,7 +7462,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 171042,
       "name": "To Glenti - Matia Mou Kai Go Gia Sena Exo",
       "url": "https://open.spotify.com/track/6153saBJWv9QHvxQsdGryv"

@@ -1,12 +1,12 @@
 {
   "description": "This is Gondwana. The essential tracks, all in one playlist.",
-  "num_followers": 89043,
+  "num_followers": 89050,
   "original_name": "This Is Gondwana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAADHP6BBRS/36oR1Qu7awVSz",
+  "snapshot_id": "aPlwAAAAAADqVPVDfB1XG9H0REu4FceJ",
   "tracks": [
     {
       "added_at": null,
@@ -59,30 +59,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pericos & Friends",
-        "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
+        "name": "Crece",
+        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
           "name": "Gondwana",
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Tito Fuentes",
-          "url": "https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo"
         }
       ],
-      "duration_ms": 249916,
-      "name": "Sin Cadenas",
-      "url": "https://open.spotify.com/track/42PvpvCg7eaXJy89at6u8s"
+      "duration_ms": 263999,
+      "name": "Mi Princesa",
+      "url": "https://open.spotify.com/track/6qwIv4W6tUPxt2jLz84tlo"
     },
     {
       "added_at": null,
@@ -119,18 +107,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crece",
-        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
+        "name": "Pericos & Friends",
+        "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
       },
       "artists": [
         {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
           "name": "Gondwana",
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Tito Fuentes",
+          "url": "https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo"
         }
       ],
-      "duration_ms": 263999,
-      "name": "Mi Princesa",
-      "url": "https://open.spotify.com/track/6qwIv4W6tUPxt2jLz84tlo"
+      "duration_ms": 249916,
+      "name": "Sin Cadenas",
+      "url": "https://open.spotify.com/track/42PvpvCg7eaXJy89at6u8s"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reggae N Roll",
-        "url": "https://open.spotify.com/album/0xvEOmEMONX0ohVCUcudb5"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Mucho Verso",
-      "url": "https://open.spotify.com/track/1pTDULhEDv0n8W6Aqnw5ro"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 259283,
       "name": "Quemando Tu Pecho",
       "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reggae N Roll",
+        "url": "https://open.spotify.com/album/0xvEOmEMONX0ohVCUcudb5"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Mucho Verso",
+      "url": "https://open.spotify.com/track/1pTDULhEDv0n8W6Aqnw5ro"
     },
     {
       "added_at": null,

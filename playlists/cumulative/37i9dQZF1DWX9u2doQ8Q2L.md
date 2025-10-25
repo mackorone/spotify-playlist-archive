@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,681 songs - 4 day 5 hr 32 min
+1,682 songs - 4 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [Goodbye, Gulliver](https://open.spotify.com/track/2OnElkD2m8ccLMisDcE9Qw) | [TonyGumbo](https://open.spotify.com/artist/4LuzCe2a1kjq7ADvoq4tcD) | [Goodbye, Gulliver](https://open.spotify.com/album/0avhq9VfNPB7JV5DpPsy8F) | 3:20 | 2023-12-05 | 2023-12-13 |
 | [grace](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [grace](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) | 4:49 | 2022-10-11 | 2023-02-08 |
 | [Gradate](https://open.spotify.com/track/04GV8JLkGPs2AOSrJjiOCX) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [issei](https://open.spotify.com/artist/2qdOqduF7xgqSVd4153NdZ) | [Gradate](https://open.spotify.com/album/1LY3jOgcsqqu0cRFnWSMvj) | 3:49 | 2022-08-13 | 2022-09-30 |
-| [GRATEFUL](https://open.spotify.com/track/7ti9lfY536LdvElWMuWSxL) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [TENDRE](https://open.spotify.com/album/6EhbAajq6RvT2xhqIckw84) | 3:29 | 2025-10-10 |  |
+| [GRATEFUL](https://open.spotify.com/track/7ti9lfY536LdvElWMuWSxL) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [TENDRE](https://open.spotify.com/album/6EhbAajq6RvT2xhqIckw84) | 3:29 | 2025-10-10 | 2025-10-25 |
 | [GRID](https://open.spotify.com/track/5LSbE6Avzu5D7c3JELofP2) | [MIDICRONICA](https://open.spotify.com/artist/2v4xE9iGRGIKGxxCku3HWy), [1Co.INR](https://open.spotify.com/artist/13OKLLncWlV84TyMUEgq4m) | [GRID](https://open.spotify.com/album/1x7b842f1YSVOwz2SEE56Y) | 3:01 | 2023-10-31 | 2023-11-08 |
 | [GRID](https://open.spotify.com/track/70LeAfudzGENZhf3kgJSsx) | [MIDICRONICA](https://open.spotify.com/artist/2v4xE9iGRGIKGxxCku3HWy), [1Co.INR](https://open.spotify.com/artist/13OKLLncWlV84TyMUEgq4m) | [GRID](https://open.spotify.com/album/7nxc6TpKNEJIRAqYFmJTpp) | 3:01 | 2023-10-31 | 2023-11-02 |
 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 | 2023-06-29 | 2024-11-13 |
@@ -1430,6 +1430,7 @@
 | [ピント](https://open.spotify.com/track/2BUaLRp0NsvfWOWtqnJrYe) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [ピント](https://open.spotify.com/album/4CDlpPToQl8dlAYsvYriko) | 4:44 | 2022-10-18 | 2022-11-21 |
 | [ファジーサマー](https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [ファジーサマー](https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd) | 2:56 | 2022-07-12 | 2022-11-30 |
 | [ファミリイ・コンテンツ](https://open.spotify.com/track/67V5axrqkSQF6azx2GNAIj) | [ayU tokiO](https://open.spotify.com/artist/3hu4NDbJsdOALVe4K61lHE) | [ファミリイ・コンテンツ](https://open.spotify.com/album/7DWzRqtaOkiryJLcfVBo2m) | 3:17 | 2022-12-27 | 2023-01-20 |
+| [ファーストキス](https://open.spotify.com/track/4VI45tdu3hZw5eugs9c6AX) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [ファーストキス](https://open.spotify.com/album/5BAI5YNxwWN8HgIy3iN6f6) | 4:11 | 2025-10-24 |  |
 | [フェイバリットボーイ](https://open.spotify.com/track/4S5zxn5xMQsNjnDNLGIWuD) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 4:29 | 2023-02-04 | 2023-02-15 |
 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 | 2023-04-04 | 2023-06-21 |
 | [フーリッシュサマー](https://open.spotify.com/track/6TqYBVT4sytzhEyiujcqjM) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [フーリッシュサマー](https://open.spotify.com/album/4xLSbMXqkmxhaY3mJKKXDh) | 4:27 | 2022-06-30 | 2022-08-03 |

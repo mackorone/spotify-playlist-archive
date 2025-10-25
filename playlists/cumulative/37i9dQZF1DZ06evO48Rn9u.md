@@ -4,7 +4,7 @@
 
 > This is Kacey Musgraves\. The essential tracks, all in one playlist.
 
-90 songs - 5 hr 7 min
+91 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,12 +47,13 @@
 | [I Don't Wanna Party Anymore \(Feat\. Kacey Musgraves\)](https://open.spotify.com/track/616pKgs2dHcWAygreRapKM) | [Vlad Holiday](https://open.spotify.com/artist/4kzBapiIVMxwhJLsTm28Gc), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [I Don't Wanna Party Anymore \(Feat\. Kacey Musgraves\)](https://open.spotify.com/album/6cSRavtBLkklc8TjWTi91S) | 2:52 | 2024-08-22 | 2024-12-25 |
 | [I Don’t Wanna Party Anymore \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4lYXGLDwvjIqqY45B4RvDT) | [Vlad Holiday](https://open.spotify.com/artist/4kzBapiIVMxwhJLsTm28Gc), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [My Favorite Drug](https://open.spotify.com/album/2bwXf8iGZAzb1NmFr2F6tK) | 2:52 | 2025-04-11 | 2025-04-22 |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2024-03-09 |  |
+| [If The World Burns Down](https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:52 | 2025-10-25 |  |
 | [Irish Goodbye](https://open.spotify.com/track/4o5pcDRVUdkMeyq5l5dWh7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 2:19 | 2024-08-24 |  |
 | [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 | 2024-07-27 | 2024-08-24 |
 | [Jade Green](https://open.spotify.com/track/6TAWZcOSkPouh9Tusxv0On) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:58 | 2024-03-17 | 2024-04-05 |
 | [justified](https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:00 | 2024-03-09 |  |
 | [Keep It To Yourself](https://open.spotify.com/track/2fG23IIy7rYN8eMNbAHcS2) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:16 | 2024-03-09 |  |
-| [keep lookin’ up](https://open.spotify.com/track/06tKb2aBA9sma7Sftu7kSw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:46 | 2024-03-09 |  |
+| [keep lookin’ up](https://open.spotify.com/track/06tKb2aBA9sma7Sftu7kSw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:46 | 2024-03-09 | 2025-10-25 |
 | [Late To The Party](https://open.spotify.com/track/0E5ZrgbRKXwGvNhwzRaDGL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:37 | 2025-05-21 |  |
 | [Late To The Party](https://open.spotify.com/track/1uXUAE4lmnGCufaAh6n2D5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/16OVlXWsTKjUkhkPxkgUVa) | 3:37 | 2024-09-28 | 2025-05-21 |
 | [Little Sister](https://open.spotify.com/track/6LoSblZKAcCpfybQPVjqWA) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:03 | 2024-08-06 | 2024-08-31 |

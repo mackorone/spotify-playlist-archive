@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAABCP4ZL4XN71dAGOay7l29T",
+  "snapshot_id": "aPlwAAAAAACIthj5PKKxY2+AZ4BpWtdT",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Senti",
-        "url": "https://open.spotify.com/album/68WgGqVSEBVEDZJ7x9HMg4"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "DESI TRILL",
-          "url": "https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ"
-        }
-      ],
-      "duration_ms": 173222,
-      "name": "Senti",
-      "url": "https://open.spotify.com/track/6xaOFO19zFLxW4KUFz28qa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gulzar",
         "url": "https://open.spotify.com/album/6hN4c25T3ZWXjpjNjwW5iD"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 189426,
       "name": "Gulzar",
       "url": "https://open.spotify.com/track/0qkXvj4p0hZ3ETGl1r8ULV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Senti",
+        "url": "https://open.spotify.com/album/68WgGqVSEBVEDZJ7x9HMg4"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "DESI TRILL",
+          "url": "https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ"
+        }
+      ],
+      "duration_ms": 173222,
+      "name": "Senti",
+      "url": "https://open.spotify.com/track/6xaOFO19zFLxW4KUFz28qa"
     },
     {
       "added_at": null,
@@ -467,6 +467,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/0WvjvqCSR2kLQPRm7q6lDw"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/0FY8cOuPMXEjys4gyapW1Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pick It Up",
+        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 144557,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/3B2iUvZKiXLBXhcl3JrY4l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Billo (feat. Natania)",
         "url": "https://open.spotify.com/album/7L6jLO3kkTkjUNPEDzDgAa"
       },
@@ -507,38 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/0WvjvqCSR2kLQPRm7q6lDw"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/0FY8cOuPMXEjys4gyapW1Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pick It Up",
-        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 144557,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/3B2iUvZKiXLBXhcl3JrY4l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Four More Shots Please! Season 2 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2VmahNskoUK0FWJKa1bUH8"
       },
@@ -550,11 +550,15 @@
         {
           "name": "Mikey McCleary",
           "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
+        },
+        {
+          "name": "Zoe Siddharth",
+          "url": "https://open.spotify.com/artist/3793OfyIVRlmqcAPUfUTDa"
         }
       ],
-      "duration_ms": 134800,
-      "name": "Killin It",
-      "url": "https://open.spotify.com/track/41FPK2hUs2P4fXBkifGFlo"
+      "duration_ms": 191538,
+      "name": "Warning Signs",
+      "url": "https://open.spotify.com/track/1eLwmw8qLHaZQaJ0Rp3ySy"
     },
     {
       "added_at": null,
@@ -587,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Muscle Memory",
+        "url": "https://open.spotify.com/album/0Fl07QjsJOeWNP6E9NCGNm"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 168979,
+      "name": "Muscle Memory",
+      "url": "https://open.spotify.com/track/7h9amwuFvQAqYZVaNHk6Gp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/32cglmsdgH5ifnHmjRFsxZ"
       },
@@ -607,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muscle Memory",
-        "url": "https://open.spotify.com/album/0Fl07QjsJOeWNP6E9NCGNm"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 168979,
-      "name": "Muscle Memory",
-      "url": "https://open.spotify.com/track/7h9amwuFvQAqYZVaNHk6Gp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Four More Shots Please! Season 2 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2VmahNskoUK0FWJKa1bUH8"
       },
@@ -634,31 +638,11 @@
         {
           "name": "Mikey McCleary",
           "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
-        },
-        {
-          "name": "Zoe Siddharth",
-          "url": "https://open.spotify.com/artist/3793OfyIVRlmqcAPUfUTDa"
         }
       ],
-      "duration_ms": 191538,
-      "name": "Warning Signs",
-      "url": "https://open.spotify.com/track/1eLwmw8qLHaZQaJ0Rp3ySy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Know It All",
-        "url": "https://open.spotify.com/album/7LNpTOGheoilpLN4ZwfLEU"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 263575,
-      "name": "Know It All",
-      "url": "https://open.spotify.com/track/3Cz2bZfizFW0U8cx6t1wvh"
+      "duration_ms": 134800,
+      "name": "Killin It",
+      "url": "https://open.spotify.com/track/41FPK2hUs2P4fXBkifGFlo"
     },
     {
       "added_at": null,
@@ -723,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking",
-        "url": "https://open.spotify.com/album/5GRJMxiasbJCbqANAKBlSY"
+        "name": "Know It All",
+        "url": "https://open.spotify.com/album/7LNpTOGheoilpLN4ZwfLEU"
       },
       "artists": [
         {
@@ -732,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 184080,
-      "name": "Talking",
-      "url": "https://open.spotify.com/track/7DH7GCOG8SKKKp6LKkKaYz"
+      "duration_ms": 263575,
+      "name": "Know It All",
+      "url": "https://open.spotify.com/track/3Cz2bZfizFW0U8cx6t1wvh"
     },
     {
       "added_at": null,
@@ -763,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
+        "name": "Talking",
+        "url": "https://open.spotify.com/album/5GRJMxiasbJCbqANAKBlSY"
       },
       "artists": [
         {
@@ -772,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 154983,
-      "name": "Jump To It",
-      "url": "https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs"
+      "duration_ms": 184080,
+      "name": "Talking",
+      "url": "https://open.spotify.com/track/7DH7GCOG8SKKKp6LKkKaYz"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 163232,
+      "name": "Get Dat",
+      "url": "https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pick It Up",
         "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
       },
@@ -804,9 +804,25 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 147967,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/6IHFvyAoX5nOOYXM4UgJw4"
+      "duration_ms": 156686,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/4koHShRkiVWXavKjkSyxXQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Team",
+        "url": "https://open.spotify.com/album/2QX2f0v9LlzAxvxTgQkdcU"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 221129,
+      "name": "Team",
+      "url": "https://open.spotify.com/track/5SpumGg7FWWSS2yB644e5l"
     },
     {
       "added_at": null,
@@ -847,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Team",
-        "url": "https://open.spotify.com/album/2QX2f0v9LlzAxvxTgQkdcU"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 221129,
-      "name": "Team",
-      "url": "https://open.spotify.com/track/5SpumGg7FWWSS2yB644e5l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pick It Up",
         "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
       },
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 156686,
-      "name": "Get Together",
-      "url": "https://open.spotify.com/track/4koHShRkiVWXavKjkSyxXQ"
+      "duration_ms": 147967,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/6IHFvyAoX5nOOYXM4UgJw4"
     },
     {
       "added_at": null,
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 163232,
-      "name": "Get Dat",
-      "url": "https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu"
+      "duration_ms": 154983,
+      "name": "Jump To It",
+      "url": "https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs"
     },
     {
       "added_at": null,

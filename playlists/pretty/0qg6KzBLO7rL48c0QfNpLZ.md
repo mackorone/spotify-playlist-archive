@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,519 likes - 108 songs - 4 hr 38 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,505 likes - 111 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,5 +116,8 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 106 | [I Want It That Way](https://open.spotify.com/track/1V13MmE2RHWM0fzFxc7cFX) | [MrRevillz](https://open.spotify.com/artist/5KhIhOD5xJP1dIzm8dpKvy) | [I Want It That Way](https://open.spotify.com/album/3l0GLiC3jNaKW8Uz8H6UcU) | 2:32 |
 | 107 | [Taking My Time](https://open.spotify.com/track/56m2BJy4AD0KFUeZiLWe1m) | [Atlantix](https://open.spotify.com/artist/6SAXEJBlURybBzKlejEU0m), [beinghonest.](https://open.spotify.com/artist/1GnrF1z7ZsNfDgdA58tk87) | [Taking My Time](https://open.spotify.com/album/3KPjCRmT9v95pTPff2Po0v) | 2:55 |
 | 108 | [Sinking Ship](https://open.spotify.com/track/4ETGd7Bqzhp4QP3qNS8TBF) | [Keen Champ](https://open.spotify.com/artist/7t2zhoxHv0k3ddI01x4TS1), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A) | [Sinking Ship](https://open.spotify.com/album/4U9so56DJg9rVIEGYURD8O) | 1:57 |
+| 109 | [Melody](https://open.spotify.com/track/2xviCV8vbtyTu3DwNxkQ7e) | [Timmy Commerford](https://open.spotify.com/artist/0Y0r9IKRjfC62MAYMDEMZO), [Garnic](https://open.spotify.com/artist/3MgJmPTPtbAPvxiFQHxEGi) | [Melody](https://open.spotify.com/album/4ueyGXzJAfHWLxCeDBj4P7) | 2:10 |
+| 110 | [Haven](https://open.spotify.com/track/3UIcBILSKwze021TGlanVo) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Haven](https://open.spotify.com/album/1GTPtU7LpCj4rJIwlwei7g) | 2:13 |
+| 111 | [Another Day In Paradise](https://open.spotify.com/track/1FdDXJPf0ksUPZNrg1LjNf) | [MrRevillz](https://open.spotify.com/artist/5KhIhOD5xJP1dIzm8dpKvy) | [Another Day In Paradise](https://open.spotify.com/album/3b3JP6ps6eTly0n1mFqG8g) | 2:32 |
 
-Snapshot ID: `AAAhwhJJDE+eLu5OvpNAXkvx7IINhv41`
+Snapshot ID: `AAAhxQXZ3i5PkEan93pSUIapFrH1x+zM`

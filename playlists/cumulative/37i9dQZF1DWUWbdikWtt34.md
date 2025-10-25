@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Afan
+> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
 
-271 songs - 21 hr 39 min
+272 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Nakal](https://open.spotify.com/track/3dUoIME5qIXtiYExd2934T) | [Trio Macan](https://open.spotify.com/artist/2AGgCwZcIbShC78asA0loE) | [Nakal](https://open.spotify.com/album/2jPHAgghQUcDta7JEhWerl) | 4:00 | 2024-04-04 | 2025-02-21 |
 | [Namamu Dalam Doa Ku](https://open.spotify.com/track/0LEqulRXwJ08riER5xVezH) | [Bella Syakilla](https://open.spotify.com/artist/10vIhDF3mkALSHSa64D9MJ) | [Namamu Dalam Doa Ku](https://open.spotify.com/album/6hLuPfLjeok11d5vxCH5Lg) | 5:02 | 2025-06-13 |  |
 | [Nostalgia](https://open.spotify.com/track/31JvGZJBhZWUijQvLBqwCG) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Nostalgia](https://open.spotify.com/album/5I3UANRadKoF3ZuXXwjFD0) | 4:19 | 2023-01-26 | 2023-09-15 |
+| [Obati Rinduku \- Acoustic](https://open.spotify.com/track/67cxYPcbVFaHZlrPrIGPE0) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Obati Rinduku \(Acoustic\)](https://open.spotify.com/album/5cXRZIwFeZwDvcfTxM4zt9) | 4:18 | 2025-10-24 |  |
 | [Ojo Dibandingke](https://open.spotify.com/track/2BIQGFkSLWl0SPRxaPR48Z) | [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Ojo Dibandingke](https://open.spotify.com/album/1R0NoljKSKaY6Pc025aRam) | 5:18 | 2022-10-13 | 2024-09-07 |
 | [Ojo Dumeh](https://open.spotify.com/track/5ZXe46rT8IRuuVsKlTPrtt) | [Ligea](https://open.spotify.com/artist/7hLgy5SoxWG2nYanRBiouX) | [Ojo Dumeh](https://open.spotify.com/album/0rEJIDYgNL6j5u7Or3omIC) | 3:31 | 2024-02-02 |  |
 | [Ora Masalah](https://open.spotify.com/track/6QltkHtHO3XSl4w78rD5yV) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Ora Masalah](https://open.spotify.com/album/3CIYsMMFhjmGiNNLm587F0) | 4:21 | 2021-08-23 | 2023-09-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 
 > ¡Estos son los hits de la electrónica en el 2025!
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,437 likes - 150 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,608 likes - 150 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

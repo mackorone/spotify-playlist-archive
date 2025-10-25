@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > Høsten er her! 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,034 likes - 85 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,040 likes - 85 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

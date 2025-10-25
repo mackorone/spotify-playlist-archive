@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,051,716 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,051,592 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 74 | [Too Much \- Ely Oaks Remix](https://open.spotify.com/track/09FAqeIjjeAWqo3nuazGZu) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Too Much \(Ely Oaks Remix\)](https://open.spotify.com/album/6r4SN9q8F3E2dLP3UUsHaq) | 2:21 |
 | 75 | [Players \- DJ Smallz 732 \- Jersey Club Remix](https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Players](https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH) | 1:57 |
 
-Snapshot ID: `AAAAAGiBPLAMupkbx5dxC57JRWNTkE31`
+Snapshot ID: `AAAAABNFXH2ID2yXsbQR6RCMLjxpGkfl`

@@ -4,7 +4,7 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-19 songs - 6 hr 23 min
+19 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [BEST ON EARTH \(feat\. BIA\) \- Bonus](https://open.spotify.com/track/0xKBkLcF71uUQeTA7FSu4A) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [SHAKE THE SNOW GLOBE](https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk) | 2:40 | 2020-11-27 |  |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2020-11-27 |  |
 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 | 2020-11-27 |  |
-| [Drake vs Drake](https://open.spotify.com/episode/0AhU9dUyG0Hi9VoI0WPFQO) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 41:49 | 2020-11-27 |  |
+| [Drake vs Drake](https://open.spotify.com/episode/0AhU9dUyG0Hi9VoI0WPFQO) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 43:05 | 2020-11-27 |  |
 | [EP 95 \- Freddie Gibbs \(Rapper/Business Man\) + Coming at Livingston aka Akademiks, Building A Luxury Brand, Kid Cudi's Upcoming Podcast & more](https://open.spotify.com/episode/4nzWFaurAf1DAQnKevBkB0) | [Cold As Ice with Ben Baller & JimmyBoi](https://open.spotify.com/show/6aNdkbamyMBZH0WbzhO0Kg) | [Cold As Ice with Ben Baller & JimmyBoi](https://open.spotify.com/album/6aNdkbamyMBZH0WbzhO0Kg) | 34:58 | 2020-11-27 |  |
 | [How Lil Wayne Became One of Hip\-Hop’s Most Durable Stars](https://open.spotify.com/episode/2jI3bCz7IiC6fytCFiL6Gl) | [Popcast](https://open.spotify.com/show/3ugDIELXIU7erW5Xp49tWp) | [Popcast](https://open.spotify.com/album/3ugDIELXIU7erW5Xp49tWp) | 1:23:44 | 2020-11-27 |  |
 | [Jungle](https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 5:20 | 2020-11-27 |  |

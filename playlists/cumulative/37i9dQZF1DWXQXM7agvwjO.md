@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: Yaelokre \(Philippines\)
 
-2,286 songs - 5 day 18 hr 20 min
+2,286 songs - 5 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1725,6 +1725,7 @@
 | [Supra](https://open.spotify.com/track/0MHXRs859cDbV4zXyu0Ahv) | [Heals](https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL) | [Emerald](https://open.spotify.com/album/4nVkJSfp4i0h5A906jvjb3) | 3:22 | 2023-11-12 | 2023-11-17 |
 | [Surel](https://open.spotify.com/track/28qaZVU6Wuk1cgA3MqkZKO) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Surel](https://open.spotify.com/album/0Cg5DfqjXLaJqWThh9lDmr) | 4:18 | 2023-04-27 | 2023-05-12 |
 | [Surga](https://open.spotify.com/track/25O01gstJe4vSICUA2wVmx) | [The Swinging Terror](https://open.spotify.com/artist/3Bz8K5WEeADKIrxRg208IV) | [Surga](https://open.spotify.com/album/0j1SrrUhHbtBvoWWKiNfGr) | 3:50 | 2022-07-14 | 2022-08-05 |
+| [swan song](https://open.spotify.com/track/5E9GFYeMdd6asHesvMflaT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [the blueprint](https://open.spotify.com/album/6rnEVluW1Z5CFiC3hDVDtV) | 3:25 | 2025-10-23 |  |
 | [Swans](https://open.spotify.com/track/5ke1JQCX4lPNTtorQJjdpm) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Swans](https://open.spotify.com/album/49PMC05GRlAApjxy2BhE4g) | 3:05 | 2023-12-14 | 2024-01-12 |
 | [Swapping Socks](https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Swapping Socks](https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5) | 3:38 | 2024-01-25 | 2024-02-26 |
 | [Sway](https://open.spotify.com/track/72jcArK2XacBC3coCyqD53) | [tylo](https://open.spotify.com/artist/0vOXId0a8VxdS7AiUoSQwI), [Pseudo](https://open.spotify.com/artist/4HqIcgpeGKabzBYczmfFgZ) | [Sway](https://open.spotify.com/album/0Em41Gp1puLBGiVXh0BmxZ) | 3:14 | 2024-05-30 | 2024-06-14 |
@@ -1852,7 +1853,6 @@
 | [touch/feelings](https://open.spotify.com/track/2RpyjZCrhMb9rdpOE1lXlk) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [touch/feelings](https://open.spotify.com/album/2SZLgFJyoHaExsSJEsfOXU) | 2:59 | 2022-11-24 | 2023-02-17 |
 | [Town](https://open.spotify.com/track/6gUN5zMyyUEYkoqbC7ildh) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Town](https://open.spotify.com/album/3CyudN7tuOl6p9VjNYMpWU) | 3:30 | 2024-07-11 | 2024-08-02 |
 | [Toxicated](https://open.spotify.com/track/0qB6ZydAb7ibLHNAf6mlRE) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [Toxicated](https://open.spotify.com/album/2SFr2FJjkU6sbkKUFtfBmr) | 2:37 | 2023-02-16 | 2023-04-14 |
-| [Track 10](https://open.spotify.com/track/5E9GFYeMdd6asHesvMflaT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 | 2023-09-01 | 2024-07-27 |
 | [Trouble Is An Enemy](https://open.spotify.com/track/2YrahDW9h5H2KfCj6foQKG) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK) | [Trouble Is An Enemy](https://open.spotify.com/album/4hsrYdTGo35Fqqf521php9) | 2:50 | 2022-09-09 | 2022-10-29 |
 | [Trust Me](https://open.spotify.com/track/6N9yWlPP4Ha96AfkXHgaqk) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Trust Me](https://open.spotify.com/album/0cCvsiXoR8TDNDdO38w05C) | 3:49 | 2024-07-25 | 2024-09-06 |

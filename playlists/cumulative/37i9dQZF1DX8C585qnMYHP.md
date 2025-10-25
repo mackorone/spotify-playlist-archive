@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists\. <a href="spotify:artist:7nfBxjb99prCqaT3wk87u5">Samba Jean\-Baptiste</a> on cover\. Artwork by Thami Nabil
 
-2,111 songs - 6 day 19 hr 47 min
+2,113 songs - 6 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [Dot](https://open.spotify.com/track/0f0c0GFBCoqLGbXLdO3wTD) | [dal:um](https://open.spotify.com/artist/4DE7afkjFxYier8CkuQUJb) | [Dot](https://open.spotify.com/album/6xvkmv9aiJ5FMEe9ASa9tE) | 3:58 | 2023-02-01 | 2023-03-23 |
 | [Dots Revisited](https://open.spotify.com/track/7eDDosKY7yPLdLudAru8ej) | [6zm](https://open.spotify.com/artist/7LB4wq9odJ0CzZXr0HYpIJ) | [Dots](https://open.spotify.com/album/37vqkrSRu7lMRzsRP1ka37) | 7:28 | 2024-09-11 | 2024-12-05 |
 | [Drangsville Drowns](https://open.spotify.com/track/0osIAWdFisbIUvKNvoI46q) | [Dubokaj](https://open.spotify.com/artist/4LpipxyhaUntlQyGXKmsQL) | [Daydreamflix](https://open.spotify.com/album/0lTJ1VWKgf6fhDiHvoQ7fq) | 5:06 | 2022-04-06 | 2022-06-30 |
+| [Dream Like That](https://open.spotify.com/track/7ryceVlnP9sDL48Gy6a2k6) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Just Wanna Live Some](https://open.spotify.com/album/0PGfRDzCPVoOjdVj8X22fB) | 2:28 | 2025-10-24 |  |
 | [Dream of a Bee](https://open.spotify.com/track/385cALQGkPx2cN9zNufayd) | [Dijit](https://open.spotify.com/artist/111svV0XajpGXS91vpByLF) | [The Room](https://open.spotify.com/album/2SlbPrS0ZP8JNOikttSwvl) | 4:40 | 2023-05-10 | 2023-08-17 |
 | [Dream Telepathy](https://open.spotify.com/track/4iXK42dVRO9VNRCPsnW595) | [Neukrapsio](https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa) | [Dream Telepathy](https://open.spotify.com/album/7vDF5EblbrQ9ju6ShS6j0t) | 2:48 | 2022-07-27 | 2022-09-01 |
 | [Dreams](https://open.spotify.com/track/5s3Aoo4sx0drUUScaxhyZM) | [Qur'an Shaheed](https://open.spotify.com/artist/6zYf3M745APT179QsjrlB4) | [Pulse](https://open.spotify.com/album/4oJhQh8Qgh0aEfGn4vdpQn) | 4:53 | 2025-09-05 |  |
@@ -1229,7 +1230,7 @@
 | [Naufragio](https://open.spotify.com/track/0iYtWrXwYf26zBDDS23TD3) | [Mav Nuhels](https://open.spotify.com/artist/5LUlTrxkftULCz2gKzMe00) | [Los Días Más Grises Son Todos](https://open.spotify.com/album/5euGIk2cAiplt06Ue5Bvrx) | 3:13 | 2023-05-10 | 2023-08-24 |
 | [Nebulosa di Orione](https://open.spotify.com/track/0DwbWhd5BzZI4P1xhrPzB0) | [Jack Sapienza](https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K) | [Nebulosa di Orione](https://open.spotify.com/album/2rPs0Gx8iuY0Yf6AopUUEq) | 2:58 | 2022-06-29 | 2022-08-11 |
 | [Nekt blankt](https://open.spotify.com/track/3NNWLMcZnFHv6qaerQkpJA) | [Cloroform](https://open.spotify.com/artist/2BPB6JGO9x7tAjfGAjNedu) | [Nekt Blankt](https://open.spotify.com/album/25X2ikrAS2en3q7s4uqb1F) | 1:26 | 2021-11-25 | 2021-12-02 |
-| [Nella regione della notte infinita](https://open.spotify.com/track/6ue9LNm3XGMtpR2Xprqc8y) | [Festa del Perdono](https://open.spotify.com/artist/0GXRolWpwHyGYUrclouuX5) | [Galactic Jazz Night Pt.1: Nella regione della notte infinita](https://open.spotify.com/album/054JUIRHDfoDZnCgSGQ8aD) | 2:32 | 2025-05-16 |  |
+| [Nella regione della notte infinita](https://open.spotify.com/track/6ue9LNm3XGMtpR2Xprqc8y) | [Festa del Perdono](https://open.spotify.com/artist/0GXRolWpwHyGYUrclouuX5) | [Galactic Jazz Night Pt.1: Nella regione della notte infinita](https://open.spotify.com/album/054JUIRHDfoDZnCgSGQ8aD) | 2:32 | 2025-05-16 | 2025-10-25 |
 | [Neo Blu](https://open.spotify.com/track/6kuH2iKoD1vIhTy7uoOC33) | [SSIEGE](https://open.spotify.com/artist/4m4ywwSd3EtlfquQLUHnyW) | [Paradisia, Vol\. 10](https://open.spotify.com/album/3aHzXnf97IVgxMHZEDMDMe) | 3:29 | 2024-03-06 | 2024-07-18 |
 | [Neptune Anteater](https://open.spotify.com/track/21G0z6uwYJ6ry6btg4H9uX) | [The Dwarfs of East Agouza](https://open.spotify.com/artist/4hOby8V5qAcpSDTMxKchiR) | [Neptune Anteater](https://open.spotify.com/album/4N23iLAHXRJ0uq4NL84kfU) | 3:58 | 2025-06-23 |  |
 | [Nervenheilanstalt](https://open.spotify.com/track/7yy7RGnwUHFYo1BfOoGnIp) | [Pisse](https://open.spotify.com/artist/5rtJUzDnPO5m2cDubKH5u3) | [Mit Schinken durch die Menopause](https://open.spotify.com/album/7DS04VL8tgQqEhGDfzphwh) | 3:17 | 2024-08-21 | 2024-10-09 |
@@ -1398,7 +1399,7 @@
 | [Potentials](https://open.spotify.com/track/2qRWeJMobkYAllXr9C0W0j) | [Zoë Mc Pherson](https://open.spotify.com/artist/0MVWdtgZhxX5VZFKoCMZjB) | [Potentials](https://open.spotify.com/album/2aLyjTjzAkJ9zri7aXVMRF) | 4:20 | 2023-02-01 | 2023-03-29 |
 | [Power I](https://open.spotify.com/track/0wksoXVbCp01AK2oT5koIg) | [Only Now](https://open.spotify.com/artist/5LMCGGDQ6ZtzjDJhd0HZ2C) | [Timeslave III](https://open.spotify.com/album/35ERf4dOFtwSzMzuJfNOXi) | 5:19 | 2025-06-05 | 2025-08-21 |
 | [Powers Out](https://open.spotify.com/track/3Ln2gSxZ0WUDUEUprF5RJa) | [Andrew CS](https://open.spotify.com/artist/7Fv7NaEJyV1PKy9PURdZFx) | [\*](https://open.spotify.com/album/3zGGjNdPQplOCQUyHgIQcq) | 1:57 | 2021-04-30 | 2021-06-24 |
-| [PP\#1](https://open.spotify.com/track/7wjPWOClyMeZuMWYEFn2Du) | [CATTANEO](https://open.spotify.com/artist/5P3fNSjAKAwWRPOYJ910KY) | [PP\#1](https://open.spotify.com/album/4jjvaOgG9QZ7adMyrUxCm3) | 4:19 | 2025-06-13 |  |
+| [PP\#1](https://open.spotify.com/track/7wjPWOClyMeZuMWYEFn2Du) | [CATTANEO](https://open.spotify.com/artist/5P3fNSjAKAwWRPOYJ910KY) | [PP\#1](https://open.spotify.com/album/4jjvaOgG9QZ7adMyrUxCm3) | 4:19 | 2025-06-13 | 2025-10-25 |
 | [Pray For Me](https://open.spotify.com/track/1TelNX4qCZJ9RukqQN35rD) | [Lava Gulls](https://open.spotify.com/artist/4tqc0XlRGaklwmzbfcH13t) | [Pray For Me](https://open.spotify.com/album/4uAMrL2VP2EYpDR16HTbyI) | 3:44 | 2024-10-02 | 2024-12-05 |
 | [Pray For Me](https://open.spotify.com/track/4Io27HxQeIRyLGDzAn228b) | [Lava Gulls](https://open.spotify.com/artist/4tqc0XlRGaklwmzbfcH13t) | [Lava Gulls](https://open.spotify.com/album/3M3Xffn5JvtpksooprFxGH) | 3:44 | 2024-12-04 | 2025-01-30 |
 | [Preamble](https://open.spotify.com/track/01yfkhRKnHPoUNGIN0VoLE) | [Giselle Gabrielle Garcia](https://open.spotify.com/artist/79UcfHNMN7uaLkPVQrdt86) | [Meditation on a Sequence](https://open.spotify.com/album/61mszSIWQ0fo4CdNtNZM20) | 2:53 | 2022-04-27 | 2022-07-28 |
@@ -1853,6 +1854,7 @@
 | [Too Many Colors To See At Once](https://open.spotify.com/track/4GnU4UTOoj3AtZrIUyvSgg) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Too Many Colors To See At Once](https://open.spotify.com/album/3xG2IFmFWPXLWsd8MFgZnG) | 4:45 | 2023-06-14 | 2023-06-28 |
 | [Toquei no Sol](https://open.spotify.com/track/5yzDkcVeP5kiYnVOfNt2sJ) | [Marlene Ribeiro](https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc) | [Toquei no Sol](https://open.spotify.com/album/0YRfD14jQxCxdiNF2naUJb) | 5:42 | 2023-02-01 | 2023-03-23 |
 | [Toska](https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv) | [Goya](https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc) | [Toska](https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer) | 5:42 | 2021-08-05 | 2022-03-10 |
+| [Tourist Mind](https://open.spotify.com/track/2RZ3tN0E2186fFbTIvMrdX) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Tourist Mind](https://open.spotify.com/album/1lHW23rMLAkz0ffH0fGm0f) | 4:46 | 2025-10-24 |  |
 | [Tous Ensemble](https://open.spotify.com/track/172OO0aGapGphSl7nPZVGa) | [Ouai Stéphane](https://open.spotify.com/artist/2PLiFvOw5jPlHoGoxjeeaf) | [Tous Ensemble](https://open.spotify.com/album/07qpnC6pCWz694yQnRM3HX) | 3:30 | 2023-02-01 | 2023-03-29 |
 | [Tous Ensemble](https://open.spotify.com/track/1MGE7HCWJq1uECxeLkdJds) | [Ouai Stéphane](https://open.spotify.com/artist/2PLiFvOw5jPlHoGoxjeeaf) | [Tous Ensemble](https://open.spotify.com/album/1wJoPP4bfL21RIJ1PUVjXv) | 3:30 | 2023-02-01 | 2023-02-27 |
 | [traces of a dream \- Jupi/ter Recycle](https://open.spotify.com/track/03wvhQGRuoMpZBBDt7aw6M) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25), [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [traces of a dream \(Jupi/ter Recycle\)](https://open.spotify.com/album/2yt7d3EtoMU62tcDpW2Bqd) | 4:45 | 2022-09-14 | 2022-09-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=Lz1l8CJQQ9O8usenEwIh5w>Moses Bliss</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,434 likes - 101 songs - 13 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,531 likes - 101 songs - 13 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 37 | [Maisha Yangu / Baba Yangu, Baba Yangu \- Live in Kenya](https://open.spotify.com/track/0FBvsqVV4egLLgn9NIH4xT) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu / Baba Yangu, Baba Yangu \(Live in Kenya\)](https://open.spotify.com/album/09oMzJiQ4rr6Q84fLXRFR7) | 9:02 |
 | 38 | [Okemmuo \- The Spirit of the Spirit](https://open.spotify.com/track/1sK5xKa8ewU1g6oPngoAeq) | [chioma Jesus](https://open.spotify.com/artist/1Ka4kGsLcvtlgJzp90HtDi), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okemmuo \(The Spirit of the Spirit\)](https://open.spotify.com/album/6BIkUGVK0K4LRoebCTGG6s) | 5:54 |
 | 39 | [Anointed](https://open.spotify.com/track/0DOc9cCC5j07CXIAC02onH) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Anointed](https://open.spotify.com/album/3Zk2GrpqEBsraDxXPp9aKH) | 7:06 |
-| 40 | [Ebezina \- Remix](https://open.spotify.com/track/4aeJUqWP7Sa1PKd8E0ZpDV) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Promise Effiong](https://open.spotify.com/artist/1I9z32ju9HEWHAZcEhKGqp) | [Ebezina \(Remix\)](https://open.spotify.com/album/0WCYtMFPpuBcdlLzeKfztd) | 4:54 |
+| 40 | [Ebezina \- Remix](https://open.spotify.com/track/4aeJUqWP7Sa1PKd8E0ZpDV) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [PROMISE EFFIONG](https://open.spotify.com/artist/427FC2Bm4pD6DM2CBt8A90) | [Ebezina \(Remix\)](https://open.spotify.com/album/0WCYtMFPpuBcdlLzeKfztd) | 4:54 |
 | 41 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 |
 | 42 | [You Remain God](https://open.spotify.com/track/0Xa1G3THEfQG0KHQjBdA72) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO) | [You Remain God](https://open.spotify.com/album/5ZOl6lBSHQxctJiMVB0lqH) | 9:35 |
 | 43 | [Fade Away](https://open.spotify.com/track/2EiWrz9GFeka1rdT8redKn) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Fade Away](https://open.spotify.com/album/6aJJ3GRPM2S8rfK1gNUUuT) | 8:27 |

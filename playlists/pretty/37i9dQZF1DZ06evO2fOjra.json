@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 550467,
+  "num_followers": 550577,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAABiydzk8j20ceVxiGgeszO3",
+  "snapshot_id": "aPlwAAAAAAAr53ig3D9GK2yp5tBnpmmd",
   "tracks": [
     {
       "added_at": null,
@@ -226,15 +226,11 @@
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Fred Durst",
-          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
         }
       ],
-      "duration_ms": 288973,
-      "name": "All In the Family (feat. Fred Durst)",
-      "url": "https://open.spotify.com/track/7yYvvOB7CuzdVldb6zOk1m"
+      "duration_ms": 269573,
+      "name": "It's On!",
+      "url": "https://open.spotify.com/track/0e06Zwd1027jFtmrRbXAjl"
     },
     {
       "added_at": null,
@@ -298,11 +294,15 @@
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Fred Durst",
+          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
         }
       ],
-      "duration_ms": 269573,
-      "name": "It's On!",
-      "url": "https://open.spotify.com/track/0e06Zwd1027jFtmrRbXAjl"
+      "duration_ms": 288973,
+      "name": "All In the Family (feat. Fred Durst)",
+      "url": "https://open.spotify.com/track/7yYvvOB7CuzdVldb6zOk1m"
     },
     {
       "added_at": null,

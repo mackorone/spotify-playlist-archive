@@ -978,7 +978,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 63442,
       "name": "Greater Purpose",
       "url": "https://open.spotify.com/track/6OjSyUp4cLDv9RYvVYYrQc"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 94877,
       "name": "Invited",
       "url": "https://open.spotify.com/track/1M9pbKaLoE8i1U5w4G2lHV"
@@ -1232,6 +1232,24 @@
     {
       "album": {
         "name": "Qhapaq \u00d1an",
+        "url": "https://open.spotify.com/album/5rFwK0uMpzhZh4l1RWrhjw"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202906,
+      "name": "La Noche Ya Es D\u00eda",
+      "url": "https://open.spotify.com/track/0BL1NoWM5pReYf3Gb3BiuJ"
+    },
+    {
+      "album": {
+        "name": "Qhapaq \u00d1an",
         "url": "https://open.spotify.com/album/7z2o3Kb9hCVB416isvUIce"
       },
       "artists": [
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 89173,
       "name": "La Partida",
       "url": "https://open.spotify.com/track/0XQchatEKAnLfN4E3YFfrX"

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOyGe4011iziL.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Welcome](https://open.spotify.com/track/5OyDrpEkADJhlSvnopHuQ8) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [On Record](https://open.spotify.com/album/6Tja0wl37TsdQx2o6Ev5zH) | 0:12 |
 | 2 | [Toosie Slide](https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Toosie Slide](https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J) | 4:07 |
-| 3 | [Drake vs Drake](https://open.spotify.com/episode/0AhU9dUyG0Hi9VoI0WPFQO) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 41:49 |
+| 3 | [Drake vs Drake](https://open.spotify.com/episode/0AhU9dUyG0Hi9VoI0WPFQO) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 43:05 |
 | 4 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 |
 | 5 | [Good News](https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:42 |
 | 6 | [The Life and Music of Mac Miller](https://open.spotify.com/episode/1q944Rc52ChfPj4QCaWJWM) | [Rolling Stone Music Now](https://open.spotify.com/show/0jCfnXfdYhwIM2I4x7SxZx) | [Rolling Stone Music Now](https://open.spotify.com/album/0jCfnXfdYhwIM2I4x7SxZx) | 41:33 |

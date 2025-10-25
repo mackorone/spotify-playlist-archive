@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 91469,
+  "num_followers": 91557,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAxjUpO3zbb+JdomWlsq/MM",
+  "snapshot_id": "aPlwAAAAAAB+hu4c9WhiXieSGqeh97On",
   "tracks": [
     {
       "added_at": null,
@@ -447,46 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 194478,
-      "name": "Amores, V\u00edcios e Obsess\u00f5es",
-      "url": "https://open.spotify.com/track/7DFIPUWRKwOB8RWky8ELq8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
-        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Paulo DK",
-          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
-        }
-      ],
-      "duration_ms": 153898,
-      "name": "Am\u00e9m, Am\u00e9m",
-      "url": "https://open.spotify.com/track/6j5CVn4EjYJxbmPollJxQA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica",
         "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
@@ -535,6 +495,46 @@
       "duration_ms": 682816,
       "name": "Poesia Ac\u00fastica #10 Recome\u00e7ar",
       "url": "https://open.spotify.com/track/2F2f4Bg37EB6vCoRIcyzCl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
+        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+        }
+      ],
+      "duration_ms": 153898,
+      "name": "Am\u00e9m, Am\u00e9m",
+      "url": "https://open.spotify.com/track/6j5CVn4EjYJxbmPollJxQA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 194478,
+      "name": "Amores, V\u00edcios e Obsess\u00f5es",
+      "url": "https://open.spotify.com/track/7DFIPUWRKwOB8RWky8ELq8"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 217044,
-      "name": "Pessoas",
-      "url": "https://open.spotify.com/track/6R92Hn1Zpy1FL5nrTQJxPu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 294314,
       "name": "Tit\u00e3s",
       "url": "https://open.spotify.com/track/3yMjo7k4tTly5iyYcvQM3S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 217044,
+      "name": "Pessoas",
+      "url": "https://open.spotify.com/track/6R92Hn1Zpy1FL5nrTQJxPu"
     },
     {
       "added_at": null,
@@ -1019,26 +1019,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um",
-        "url": "https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 225877,
-      "name": "O Que Quiser Fazer",
-      "url": "https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 148738,
       "name": "Deus do Furdun\u00e7o",
       "url": "https://open.spotify.com/track/4cdCTVjFGCOxwhIOBAgY6O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um",
+        "url": "https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 225877,
+      "name": "O Que Quiser Fazer",
+      "url": "https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj"
     },
     {
       "added_at": null,

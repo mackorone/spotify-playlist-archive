@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 39910,
+  "num_followers": 39959,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAnsyCffsjcR6N5uZKr6nUR",
+  "snapshot_id": "aPlwAAAAAACaiT+6iKoFNypIrkF9eecQ",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 154909,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4kdLYxqvPduwC5oAdXhMLh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Timileyin 2.0",
         "url": "https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 159346,
       "name": "Where I\u2019m from",
       "url": "https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 154909,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/4kdLYxqvPduwC5oAdXhMLh"
     },
     {
       "added_at": null,
@@ -167,6 +167,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6VX4hVDmDMfClxp6EwDNQP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -187,26 +207,6 @@
       "duration_ms": 211756,
       "name": "Free",
       "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 168406,
-      "name": "Bad Vibes (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/6VX4hVDmDMfClxp6EwDNQP"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 123333,
-      "name": "Different Pattern",
-      "url": "https://open.spotify.com/track/46oyXrPbCSbk0TLJ1f7w6K"
+      "duration_ms": 140000,
+      "name": "Cana",
+      "url": "https://open.spotify.com/track/6iHVLqSeDVj70pcVULZzGj"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Cana",
-      "url": "https://open.spotify.com/track/6iHVLqSeDVj70pcVULZzGj"
+      "duration_ms": 123333,
+      "name": "Different Pattern",
+      "url": "https://open.spotify.com/track/46oyXrPbCSbk0TLJ1f7w6K"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billion Dollar Baby",
-        "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 155846,
-      "name": "Bullion Van",
-      "url": "https://open.spotify.com/track/01Nc64zcDcXR0VFgrEldlH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goated",
         "url": "https://open.spotify.com/album/7nzHtsPsKBRqP1pr0P3Uy4"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 138997,
       "name": "Goated",
       "url": "https://open.spotify.com/track/33j3dZqaSkgIktA8geVsuL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Billion Dollar Baby",
+        "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 155846,
+      "name": "Bullion Van",
+      "url": "https://open.spotify.com/track/01Nc64zcDcXR0VFgrEldlH"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billion Dollar Baby",
-        "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 144927,
-      "name": "Billion Dollar",
-      "url": "https://open.spotify.com/track/4Wuqy79kCWtbvTSp0xiLYp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jiggy Forever",
         "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
@@ -795,6 +779,38 @@
       "duration_ms": 180530,
       "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
       "url": "https://open.spotify.com/track/0ww0GM0f5USzNZidkcoCVX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Billion Dollar Baby",
+        "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 144927,
+      "name": "Billion Dollar",
+      "url": "https://open.spotify.com/track/4Wuqy79kCWtbvTSp0xiLYp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "Shazam",
+      "url": "https://open.spotify.com/track/7h3lUXlCx5Wn7ac0fQriz3"
     },
     {
       "added_at": null,
@@ -823,38 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Shazam",
-      "url": "https://open.spotify.com/track/7h3lUXlCx5Wn7ac0fQriz3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Billion Dollar Baby",
-        "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 132179,
-      "name": "BD Baby",
-      "url": "https://open.spotify.com/track/4aXHVmtQgLSk9sQFTVm2g4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IRON BOY",
         "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 168138,
       "name": "Sin City",
       "url": "https://open.spotify.com/track/2Zju2Flw73tLPQNEfqu9gJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Billion Dollar Baby",
+        "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 132179,
+      "name": "BD Baby",
+      "url": "https://open.spotify.com/track/4aXHVmtQgLSk9sQFTVm2g4"
     },
     {
       "added_at": null,
@@ -907,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Billion Dollar Baby 2.0",
+        "url": "https://open.spotify.com/album/0nXjP0DNJ8Cwd0e5ytg81G"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 174358,
+      "name": "Kun Faya Kun (Be and it is)",
+      "url": "https://open.spotify.com/track/7qaEB6ReLMRHQjfXnjzRZ6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Billion Dollar Baby",
         "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 175621,
       "name": "Darling (feat. Simi)",
       "url": "https://open.spotify.com/track/4poZqVkmRcBoR04BZGnHEw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Billion Dollar Baby 2.0",
-        "url": "https://open.spotify.com/album/0nXjP0DNJ8Cwd0e5ytg81G"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 174358,
-      "name": "Kun Faya Kun (Be and it is)",
-      "url": "https://open.spotify.com/track/7qaEB6ReLMRHQjfXnjzRZ6"
     }
   ],
   "unique_name": "This Is Seyi Vibez",

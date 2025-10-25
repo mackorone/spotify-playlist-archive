@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Theo Croker
 
-441 songs - 1 day 2 hr 37 min
+442 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Brighton](https://open.spotify.com/track/6Xl0JyVz25vWDIFfLERYQz) | [Phil Spankler](https://open.spotify.com/artist/7H9nvRwzRw3cWKrAWoY6Pj), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Brighton](https://open.spotify.com/album/6R1oCkivYasjO8mmzZre9B) | 3:15 | 2021-09-03 | 2024-04-19 |
 | [Brighton](https://open.spotify.com/track/7CrqU9028RFFNCGvVLERWy) | [Phil Spankler](https://open.spotify.com/artist/7H9nvRwzRw3cWKrAWoY6Pj), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Brighton](https://open.spotify.com/album/5Gx1g7YcTlOzF9fEbbwCep) | 3:15 | 2021-08-27 |  |
 | [BUBBA](https://open.spotify.com/track/1Im7xmfGDJo1WpnSdJNHbr) | [Silvan Strauss](https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN) | [FACING](https://open.spotify.com/album/5vfsrL6HaXht2KP08gbxmk) | 2:02 | 2022-11-04 |  |
+| [Bubble Tea](https://open.spotify.com/track/7AITmTmsWKNhSHfEzFj0u2) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [BATIQ BABES](https://open.spotify.com/artist/7h0pQYA0kjWq5wBPPZEGYy) | [Round Two](https://open.spotify.com/album/7ishPIDroRbuu9SWO4cy5M) | 4:03 | 2025-10-24 |  |
 | [Bubblegum Dreams](https://open.spotify.com/track/2OQ7ETKkq9b11qNKzpBJR5) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Bubblegum Dreams](https://open.spotify.com/album/12Mlypu8Vj37LF8MNmTGeq) | 3:33 | 2023-05-26 | 2023-09-09 |
 | [Buckle Up](https://open.spotify.com/track/6B1TQPyyswTiskhWurN1Rs) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Soweto Kinch](https://open.spotify.com/artist/6Z37ofcWV3ZDEMbevEtoSk) | [Buckle Up](https://open.spotify.com/album/4mBCq5MffoxUYKJFx4aU1U) | 5:02 | 2021-01-29 | 2022-03-26 |
 | [Builder](https://open.spotify.com/track/10227FHuo66ztQWglQEGTp) | [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [Builder](https://open.spotify.com/album/2I39kyieeQPEshJZmxMdmh) | 2:31 | 2023-12-08 |  |
@@ -133,7 +134,7 @@
 | [DustyRhodes](https://open.spotify.com/track/0p86NW8fZx444PaWFtFiQz) | [Robot Orchestra](https://open.spotify.com/artist/69CjG40nknFw4W8vrmdgHV) | [Beats on Road Vol\. 1](https://open.spotify.com/album/3NDzzMLYecGbgFY4TRRgBX) | 2:51 | 2021-01-29 | 2022-02-27 |
 | [Earth Showers](https://open.spotify.com/track/7xxD9V5MQ7O9zQzMfqhJ32) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [Earth Showers](https://open.spotify.com/album/62FXIvjLMGISBVZmxcFc4P) | 2:15 | 2025-01-03 |  |
 | [Earthbound](https://open.spotify.com/track/7BxU2TjXBu8vsj8b65pZOx) | [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [9](https://open.spotify.com/album/0tFXAGYveNW9bQYRBXOwKO) | 6:49 | 2022-03-25 |  |
-| [Eating Stars](https://open.spotify.com/track/7euExgLs6Biwgay4LgXmAd) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [Eating Stars](https://open.spotify.com/album/4HWYpLapCz4IrxJqq3wvgW) | 2:55 | 2024-09-20 |  |
+| [Eating Stars](https://open.spotify.com/track/7euExgLs6Biwgay4LgXmAd) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [Eating Stars](https://open.spotify.com/album/4HWYpLapCz4IrxJqq3wvgW) | 2:55 | 2024-09-20 | 2025-10-25 |
 | [EAV \(Elia Bishara Remix\)](https://open.spotify.com/track/6NEr5gRrW3lD2o5Oi1yigG) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1), [Elia Bishara](https://open.spotify.com/artist/3xZoTrvQZKGDJERzVcjW5q) | [EAV \(Elia Bishara Remix\)](https://open.spotify.com/album/5eG9SYzeKrnU0TjwGMQgcR) | 3:14 | 2021-08-06 |  |
 | [Eclipse the Moon](https://open.spotify.com/track/0bvuAdxKXmf9FGA4vb37hK) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Eclipse the Moon](https://open.spotify.com/album/1HLQWCaeOjWfHfRYPmkoGu) | 3:27 | 2025-04-04 |  |
 | [EEEEEE](https://open.spotify.com/track/4cwZccylplyt4Q5dJP5HBR) | [cosmic collective](https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [EEEEEE](https://open.spotify.com/album/2dk4jep9MfQytEnNhepL2k) | 2:21 | 2024-10-11 | 2025-03-08 |

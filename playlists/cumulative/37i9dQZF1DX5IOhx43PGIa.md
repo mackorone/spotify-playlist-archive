@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: grentperez & HONNE
 
-1,252 songs - 2 day 17 hr 8 min
+1,253 songs - 2 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Butterfly](https://open.spotify.com/track/43Ch2eVId5xoG1PIGt0tr3) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Butterfly](https://open.spotify.com/album/7bxkAjxvdedCBCL1DSb5Hv) | 2:53 | 2022-10-28 | 2023-02-08 |
 | [BUTTERFLY 나비](https://open.spotify.com/track/4AT6shMJB9sHmw7hJJ0PI1) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [A PROPHECY](https://open.spotify.com/album/697xj44bX9XhpDsx2poKKg) | 2:28 | 2023-11-17 | 2024-04-27 |
 | [Buttons](https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Buttons](https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK) | 2:07 | 2024-10-25 | 2025-02-01 |
+| [buttons](https://open.spotify.com/track/41vSliETlsQOzukEfCjjSh) | [natalie jinju](https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu) | [buttons](https://open.spotify.com/album/1oTiL3l8dFVgiLcZ0rGkSx) | 3:36 | 2025-10-24 |  |
 | [buttons!](https://open.spotify.com/track/3PXb8ZLJiz59pSO5ZrJDx0) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [buttons!](https://open.spotify.com/album/1BNaZf2C1HMVCC2pCRdYsr) | 3:59 | 2023-10-06 | 2023-10-20 |
 | [buttons!](https://open.spotify.com/track/5ekfEEnkAHxrn2KNvyZg7E) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [buttons!](https://open.spotify.com/album/4LBaHD1RYaiZh4YGiLDyGo) | 3:59 | 2023-10-20 | 2023-12-04 |
 | [buttons! \(with Knock2\)](https://open.spotify.com/track/6lNYE1wSCTtBxFvcdUAymQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [This Mixtape is Fire TOO](https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD) | 3:59 | 2023-12-01 | 2024-02-24 |
@@ -878,7 +879,7 @@
 | [Regressa](https://open.spotify.com/track/33TpZOsFaBV09pXm15vBq6) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Regressa](https://open.spotify.com/album/13tIJgBaVDaP0wnPolXpN0) | 1:39 | 2023-04-14 | 2023-05-12 |
 | [Regressa](https://open.spotify.com/track/1dlOr60VqwO8DIGn9TLeeu) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [STAR ANISE](https://open.spotify.com/album/3ZH3NAs9F36n7ZjWBQ9peo) | 1:39 | 2023-05-05 | 2023-07-01 |
 | [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 | 2023-11-17 | 2024-03-23 |
-| [reminisce](https://open.spotify.com/track/1B7jjYYjRFUj0UbCNH0SNO) | [natalie jinju](https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu) | [reminisce](https://open.spotify.com/album/6N0dlBS5B3fC5gIlg9RMkB) | 3:25 | 2025-08-08 |  |
+| [reminisce](https://open.spotify.com/track/1B7jjYYjRFUj0UbCNH0SNO) | [natalie jinju](https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu) | [reminisce](https://open.spotify.com/album/6N0dlBS5B3fC5gIlg9RMkB) | 3:25 | 2025-08-08 | 2025-10-25 |
 | [Reminisce \(feat\. Yuna\)](https://open.spotify.com/track/0tT9RlzcD5Of5w05TPQKxk) | [PARADISE RISING](https://open.spotify.com/artist/0bGLIWZrNjcM3mIwPqxBNo), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [semilucent 2](https://open.spotify.com/album/4cUc4EWmcbzamsCXOlJ8ez) | 3:22 | 2022-05-27 | 2022-07-29 |
 | [Revenge Body](https://open.spotify.com/track/46TPA4mVzk1WE4eFItCLG6) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [PARAVI](https://open.spotify.com/album/27d1Ladlcuhf4E10k07EVR) | 2:53 | 2023-09-22 | 2024-04-19 |
 | [Rewind](https://open.spotify.com/track/50s3q6Z2a63x0R7L1eblSJ) | [XTINA GG](https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril) | [Rewind](https://open.spotify.com/album/2oT6F7bxEfz3ux45OxVV7m) | 2:58 | 2025-01-31 | 2025-03-22 |

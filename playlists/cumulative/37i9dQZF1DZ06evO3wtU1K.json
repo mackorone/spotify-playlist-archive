@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "All Authority (LIVE)",
+        "url": "https://open.spotify.com/album/5kYO5bBkw7crmqnI2feBXn"
+      },
+      "artists": [
+        {
+          "name": "Woman Evolve Worship",
+          "url": "https://open.spotify.com/artist/3WBfPh9zlMVP06nhky0VYN"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552287,
+      "name": "All Authority - LIVE",
+      "url": "https://open.spotify.com/track/7sr8oiWn2rhtA2rj06J89R"
+    },
+    {
+      "album": {
         "name": "Already Good (Tasha Slide)",
         "url": "https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF"
       },
@@ -178,7 +200,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 306159,
       "name": "Blessings on Blessings (Another Thing) (with Tasha Cobbs Leonard) - Live",
       "url": "https://open.spotify.com/track/67JYk0HjCsGhrY2rhwiYZM"

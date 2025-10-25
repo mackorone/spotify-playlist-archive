@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "BAILA",
+        "url": "https://open.spotify.com/album/5ntg8szxs7xsPSmWUiEV8i"
+      },
+      "artists": [
+        {
+          "name": "Sarodj",
+          "url": "https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212626,
+      "name": "BAILA",
+      "url": "https://open.spotify.com/track/5lsK3MdWJDJooBsAnZ2MAi"
+    },
+    {
+      "album": {
         "name": "BAILAR CONTIGO",
         "url": "https://open.spotify.com/album/0WzsZzwIw15yVvkBHx3XRG"
       },
@@ -446,7 +464,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 246061,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
@@ -3606,7 +3624,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 201000,
       "name": "PAM",
       "url": "https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn"
@@ -4746,6 +4764,24 @@
       "duration_ms": 236190,
       "name": "SIMPLY THE BEST",
       "url": "https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C"
+    },
+    {
+      "album": {
+        "name": "Sol y Arena",
+        "url": "https://open.spotify.com/album/5297qnCFS1XQ0gzFAb933d"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171970,
+      "name": "Sol y Arena",
+      "url": "https://open.spotify.com/track/3UfFeBvJ4Q69FpmkQFYO9n"
     },
     {
       "album": {

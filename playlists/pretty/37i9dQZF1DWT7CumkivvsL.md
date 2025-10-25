@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7CumkivvsL.md) - [plain]
 
 > Will love prove stronger than resentment? Listen to the official playlist for Culpa Mia, Culpa Tuya , and Culpa Nuestra, now streaming on Prime Video
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,358 likes - 58 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,815 likes - 58 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7CumkivvsL.md) - [plain]
 | 57 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 |
 | 58 | [Memory Lane](https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Memory Lane](https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk) | 2:34 |
 
-Snapshot ID: `AAAAAOoe+nR5QEYlwQDtt/s2geEF9dv9`
+Snapshot ID: `AAAAAO4lQuv2XauMslT62w8WeReOb6Bs`

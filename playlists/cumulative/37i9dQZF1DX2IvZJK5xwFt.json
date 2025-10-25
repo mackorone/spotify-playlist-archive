@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Only the best rock in the world. Cover: Linkin Park",
+  "description": "Only the best rock in the world. Cover: M\u00e5neskin",
   "name": "Just Rock!",
   "tracks": [
     {
@@ -677,6 +677,24 @@
     },
     {
       "album": {
+        "name": "ALL MY ANGELS",
+        "url": "https://open.spotify.com/album/6r1dO7jcuNo8xP4mESY0Er"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181012,
+      "name": "ALL MY ANGELS",
+      "url": "https://open.spotify.com/track/1U3UoJ4VxuTI8mlD4zOI8x"
+    },
+    {
+      "album": {
         "name": "All My Friends Are Turning Blue",
         "url": "https://open.spotify.com/album/3J3UxKYc8Nsp8p9ysbNlvO"
       },
@@ -924,7 +942,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 202073,
       "name": "Annihilate Me",
       "url": "https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy"
@@ -1058,6 +1076,24 @@
       "duration_ms": 254047,
       "name": "As The Night Coalesces",
       "url": "https://open.spotify.com/track/6rQbBPBwt8UBDLTrc4RoT3"
+    },
+    {
+      "album": {
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269433,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
     },
     {
       "album": {
@@ -4519,6 +4555,24 @@
     },
     {
       "album": {
+        "name": "Eggshell Tap Dancer",
+        "url": "https://open.spotify.com/album/6KhlAeMS2m3pCXpKcOH4f9"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227171,
+      "name": "Eggshell Tap Dancer",
+      "url": "https://open.spotify.com/track/2zzjpwG8wu3skr08m7rM6e"
+    },
+    {
+      "album": {
         "name": "Emergence",
         "url": "https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH"
       },
@@ -7334,7 +7388,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 221037,
       "name": "I Don\u2019t Work Here Anymore",
       "url": "https://open.spotify.com/track/0VmGgo6i8HOmrp5y8qqBxQ"
@@ -7428,6 +7482,28 @@
       "duration_ms": 173346,
       "name": "I WANNA BE YOUR SLAVE",
       "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
+    },
+    {
+      "album": {
+        "name": "Forever (Legendary Edition)",
+        "url": "https://open.spotify.com/album/2eWMDbh3Igz3si1aX4a7Wv"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205509,
+      "name": "I Wrote You A Song (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/4NfzPsD8owLf1tdIDbLb7c"
     },
     {
       "album": {
@@ -8110,7 +8186,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 197466,
       "name": "Kill Me Fast",
       "url": "https://open.spotify.com/track/7C7riddHoIPSCW8rhwFSYc"
@@ -8768,7 +8844,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 262195,
       "name": "Like A Woman Can",
       "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
@@ -10020,10 +10096,36 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 255818,
       "name": "My Only Angel",
       "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
+    },
+    {
+      "album": {
+        "name": "My Only Angel (Desert Road Version)",
+        "url": "https://open.spotify.com/album/2xPIwwyl8Mg9ESgYje7e95"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Steve Martin",
+          "url": "https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235772,
+      "name": "My Only Angel - Desert Road Version",
+      "url": "https://open.spotify.com/track/5GM9fl9rf7s4MIoxHOy2cn"
     },
     {
       "album": {
@@ -10360,6 +10462,24 @@
       "duration_ms": 361130,
       "name": "Night Terror - Radio Edit",
       "url": "https://open.spotify.com/track/69rXxY0Vbo9Z2BCYfKlWdF"
+    },
+    {
+      "album": {
+        "name": "no cell phones in rehab",
+        "url": "https://open.spotify.com/album/1beGhAPo6Me2t9BweRd49e"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155470,
+      "name": "no cell phones in rehab",
+      "url": "https://open.spotify.com/track/5pxTM2hj4HFV8q8YduAAR9"
     },
     {
       "album": {
@@ -11178,7 +11298,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 277400,
       "name": "Pale Horse",
       "url": "https://open.spotify.com/track/1dk1uBTlxYMQ6PSj5zskZg"
@@ -12405,6 +12525,24 @@
     },
     {
       "album": {
+        "name": "Dressed To Kill (50th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/04aIkLhIZW1QDcDzd7F1nP"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257369,
+      "name": "Rock And Roll All Nite - Live At RKO Orpheum Theatre, Davenport, Iowa, July 20, 1975 / Show 1",
+      "url": "https://open.spotify.com/track/2CHDWttzPjCzwfwJswGhjG"
+    },
+    {
+      "album": {
         "name": "Rock and Roll Party Cowboy",
         "url": "https://open.spotify.com/album/0aQH1taqzy20lXExTiCqMD"
       },
@@ -12954,6 +13092,32 @@
       "duration_ms": 229083,
       "name": "SCRIPTVRE",
       "url": "https://open.spotify.com/track/7FPVeszuwXH2ppPaU46Fjn"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough: A Tribute To Bad Company",
+        "url": "https://open.spotify.com/album/2iMjZ3bu3xYm0kuMlTMkir"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        },
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Paul Rodgers",
+          "url": "https://open.spotify.com/artist/2gaWNB3YrlTc0KRlHNqhol"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Seagull",
+      "url": "https://open.spotify.com/track/4n0eNyWYKr78hTlcO3Opbr"
     },
     {
       "album": {
@@ -14104,7 +14268,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 147400,
       "name": "SUNBURN IN THE SUMMER",
       "url": "https://open.spotify.com/track/07gwI3Ecg3hsa4oV9X2DQC"
@@ -16140,7 +16304,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 123950,
       "name": "Unhinged",
       "url": "https://open.spotify.com/track/6ESC79zhktiwcijTphwKLh"

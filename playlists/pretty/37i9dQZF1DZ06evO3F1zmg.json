@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 42266,
+  "num_followers": 42271,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAADjVDYvB/3oLyt1w5zbT699",
+  "snapshot_id": "aPlwAAAAAAAoEXDVkoJi7YlgPZU8p1kd",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE SINGLE LIFE",
-        "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 134760,
-      "name": "BO$$ CHICK",
-      "url": "https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Best",
         "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 121053,
       "name": "My Best",
       "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE SINGLE LIFE",
+        "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 134760,
+      "name": "BO$$ CHICK",
+      "url": "https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm"
     },
     {
       "added_at": null,
@@ -743,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "All She Wanna Do",
+        "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 195715,
+      "name": "All She Wanna Do (with Saweetie)",
+      "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Immaculate",
         "url": "https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 154400,
       "name": "Immaculate",
       "url": "https://open.spotify.com/track/21XJd63KiArnOgo39sJezL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All She Wanna Do",
-        "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 195715,
-      "name": "All She Wanna Do (with Saweetie)",
-      "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
     },
     {
       "added_at": null,
@@ -887,42 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That Girl (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/109kFKSHQurf4h5JZWgCLk"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 147386,
-      "name": "That Girl (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/0gYIDOQkA4DZQw3wboBiuP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HELLA PRESSURE",
-        "url": "https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 161952,
-      "name": "i need some inspo",
-      "url": "https://open.spotify.com/track/3aakGDVfwfVgUgT10ax7zE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Come First (feat. Saweetie)",
         "url": "https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0"
       },
@@ -943,6 +907,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "That Girl (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/109kFKSHQurf4h5JZWgCLk"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 147386,
+      "name": "That Girl (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/0gYIDOQkA4DZQw3wboBiuP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Certified Pop",
         "url": "https://open.spotify.com/album/2TzLHxrnjTNkOA53atXq8t"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 238940,
       "name": "IDGAF (feat. Saweetie)",
       "url": "https://open.spotify.com/track/0SJfn1uM23DejjkqqM3Xs6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HELLA PRESSURE",
+        "url": "https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 161952,
+      "name": "i need some inspo",
+      "url": "https://open.spotify.com/track/3aakGDVfwfVgUgT10ax7zE"
     },
     {
       "added_at": null,

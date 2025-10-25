@@ -1,13 +1,29 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 777703,
+  "num_followers": 777728,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAADggBznX6L9TnfSG5j+CSsy",
+  "snapshot_id": "aPlwAAAAAADmV/vdfFkGBYhNt4Tiu+Uo",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 200226,
+      "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
+      "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
+    },
     {
       "added_at": null,
       "album": {
@@ -140,9 +156,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 200226,
-      "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
-      "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
+      "duration_ms": 220720,
+      "name": "Build God, Then We'll Talk",
+      "url": "https://open.spotify.com/track/4rstj4vgkFq49R2VV0fbxX"
     },
     {
       "added_at": null,
@@ -204,9 +220,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 220720,
-      "name": "Build God, Then We'll Talk",
-      "url": "https://open.spotify.com/track/4rstj4vgkFq49R2VV0fbxX"
+      "duration_ms": 205752,
+      "name": "But It's Better If You Do",
+      "url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"
     },
     {
       "added_at": null,
@@ -268,9 +284,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 205752,
-      "name": "But It's Better If You Do",
-      "url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"
+      "duration_ms": 174866,
+      "name": "The Only Difference Between Martyrdom and Suicide Is Press Coverage",
+      "url": "https://open.spotify.com/track/4WdopfTdSd0nCLropjhsgH"
     },
     {
       "added_at": null,
@@ -311,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+        "name": "Live In Denver",
+        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
       },
       "artists": [
         {
@@ -320,9 +336,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 189186,
-      "name": "Say Amen (Saturday Night)",
-      "url": "https://open.spotify.com/track/76vMKwFtdDDCLcM6zXybjB"
+      "duration_ms": 205320,
+      "name": "Karma Police - Live In Denver",
+      "url": "https://open.spotify.com/track/6tRdywsu27GKJ70tqJhYxI"
     },
     {
       "added_at": null,
@@ -336,15 +352,15 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 174866,
-      "name": "The Only Difference Between Martyrdom and Suicide Is Press Coverage",
-      "url": "https://open.spotify.com/track/4WdopfTdSd0nCLropjhsgH"
+      "duration_ms": 202026,
+      "name": "Time to Dance",
+      "url": "https://open.spotify.com/track/4C2i4NymWRem1LOVEqwWV6"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Live In Denver",
-        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
       "artists": [
         {
@@ -352,9 +368,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 205320,
-      "name": "Karma Police - Live In Denver",
-      "url": "https://open.spotify.com/track/6tRdywsu27GKJ70tqJhYxI"
+      "duration_ms": 189186,
+      "name": "Say Amen (Saturday Night)",
+      "url": "https://open.spotify.com/track/76vMKwFtdDDCLcM6zXybjB"
     },
     {
       "added_at": null,
@@ -391,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Time to Dance",
-      "url": "https://open.spotify.com/track/4C2i4NymWRem1LOVEqwWV6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vices & Virtues",
         "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 189132,
       "name": "Into the Unknown - Panic! At The Disco Version",
       "url": "https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live In Denver",
+        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 246413,
+      "name": "Tonight, Tonight - Live In Denver",
+      "url": "https://open.spotify.com/track/3EUriaLkbmjzgedgY133T5"
     },
     {
       "added_at": null,
@@ -487,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live In Denver",
-        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 246413,
-      "name": "Tonight, Tonight - Live In Denver",
-      "url": "https://open.spotify.com/track/3EUriaLkbmjzgedgY133T5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretty. Odd.",
         "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live In Denver",
+        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 200333,
+      "name": "I Write Sins Not Tragedies - Live In Denver",
+      "url": "https://open.spotify.com/track/67w5xyfy0rOTbrlbbhnjc8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vices & Virtues",
         "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 256466,
       "name": "Nearly Witches (Ever Since We Met...)",
       "url": "https://open.spotify.com/track/2KA3lvDwQQiyvuJJvzifGL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 160746,
-      "name": "King of the Clouds",
-      "url": "https://open.spotify.com/track/50Hv5NZIM0puIUoBttjpfb"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live In Denver",
-        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 200333,
-      "name": "I Write Sins Not Tragedies - Live In Denver",
-      "url": "https://open.spotify.com/track/67w5xyfy0rOTbrlbbhnjc8"
+      "duration_ms": 160746,
+      "name": "King of the Clouds",
+      "url": "https://open.spotify.com/track/50Hv5NZIM0puIUoBttjpfb"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 244974,
+  "num_followers": 245001,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAABDD3ofHFnJq+D7PNb4wYE0",
+  "snapshot_id": "aPlwAAAAAACqgiOCjO4osgU7xqB3qkO5",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stilelibero",
+        "url": "https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 240893,
+      "name": "Fuoco nel fuoco",
+      "url": "https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dove c'\u00e8 musica",
         "url": "https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX"
       },
@@ -75,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 (Spanish Version)",
-        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 236586,
-      "name": "Una Emocion para Siempre",
-      "url": "https://open.spotify.com/track/32TxjkRcmXd3BNqBPIFMPN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Historias",
         "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
       },
@@ -103,6 +103,22 @@
       "duration_ms": 288986,
       "name": "Cosas De La Vida",
       "url": "https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9 (Spanish Version)",
+        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Una Emocion para Siempre",
+      "url": "https://open.spotify.com/track/32TxjkRcmXd3BNqBPIFMPN"
     },
     {
       "added_at": null,
@@ -135,22 +151,6 @@
       "duration_ms": 323866,
       "name": "Se bastasse una canzone",
       "url": "https://open.spotify.com/track/7dp45uA0Ws4TadWaMwdIRw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stilelibero",
-        "url": "https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 240893,
-      "name": "Fuoco nel fuoco",
-      "url": "https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 276920,
+      "name": "Un attimo di pace",
+      "url": "https://open.spotify.com/track/0LadgEv7wA33HaHEvuVcyd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 198320,
       "name": "La Media Vuelta",
       "url": "https://open.spotify.com/track/4YaWx75feX1fdZdMP9TLDO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Un attimo di pace",
-      "url": "https://open.spotify.com/track/0LadgEv7wA33HaHEvuVcyd"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musica \u00e8",
-        "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 241666,
-      "name": "Ti sposer\u00f2 perch\u00e9",
-      "url": "https://open.spotify.com/track/5ZODincIREhQ6RYnoJdXNd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 203026,
       "name": "Un \u00c1ngel Como El Sol T\u00fa Eres",
       "url": "https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musica \u00e8",
+        "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 241666,
+      "name": "Ti sposer\u00f2 perch\u00e9",
+      "url": "https://open.spotify.com/track/5ZODincIREhQ6RYnoJdXNd"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sogno",
-        "url": "https://open.spotify.com/album/3fKfyzmHnCsdCw4iD3xIch"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 223521,
-      "name": "Nel cuore lei",
-      "url": "https://open.spotify.com/track/7mlmpmwrkMKcU94jXRAaPy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dietro Le Apparenze",
         "url": "https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 234920,
       "name": "Inevitabile (feat. Eros Ramazzotti)",
       "url": "https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sogno",
+        "url": "https://open.spotify.com/album/3fKfyzmHnCsdCw4iD3xIch"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 223521,
+      "name": "Nel cuore lei",
+      "url": "https://open.spotify.com/track/7mlmpmwrkMKcU94jXRAaPy"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dove C'\u00e8 Musica",
+        "url": "https://open.spotify.com/album/7pDzIMRQxQHkMmCZIdWAok"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 281600,
+      "name": "Stella gemella",
+      "url": "https://open.spotify.com/track/5KghKF7Q8cqmOjoZIlyjhT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Ogni Senso",
         "url": "https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD"
       },
@@ -711,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dove C'\u00e8 Musica",
-        "url": "https://open.spotify.com/album/7pDzIMRQxQHkMmCZIdWAok"
+        "name": "9 (Spanish Version)",
+        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
       },
       "artists": [
         {
@@ -720,9 +736,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 281600,
-      "name": "Stella gemella",
-      "url": "https://open.spotify.com/track/5KghKF7Q8cqmOjoZIlyjhT"
+      "duration_ms": 276920,
+      "name": "Un Segundo de Paz",
+      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
       "duration_ms": 210626,
       "name": "Por Las Calles Las Canciones (feat. Luis Fonsi)",
       "url": "https://open.spotify.com/track/2XKbaUWZANGlB5ZmMTn8I9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "9 (Spanish Version)",
-        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Un Segundo de Paz",
-      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
     },
     {
       "added_at": null,

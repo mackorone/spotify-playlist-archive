@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-336 songs - 14 hr 41 min
+337 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Season Of The Witch](https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Season Of The Witch \(From The Motion Picture "Scary Stories To Tell In The Dark"\)](https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq) | 4:07 | 2021-09-10 | 2024-09-21 |
 | [Secret Santa](https://open.spotify.com/track/3J6ncTuaKmSpxjXOkUTJ0v) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq), [Ronnie Boy Kids](https://open.spotify.com/artist/1K3KWU6neb0IFYos3nJe38) | [Secret Santa](https://open.spotify.com/album/6oQpFXoIlFliKnIU3Mjjny) | 3:55 | 2024-11-29 | 2025-05-01 |
 | [Shake Them Skeleton Bones](https://open.spotify.com/track/6yyUXmHgVY3T0HjY9JjK8k) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Preschool Halloween Songs](https://open.spotify.com/album/43jz0Ysu62z2Zvi9NZJ3ti) | 2:20 | 2024-09-20 |  |
-| [Shake Your Bones](https://open.spotify.com/track/1Mew11one8wgUBsWt8EOGl) | [Marco Marinangeli](https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 2:41 | 2021-09-10 |  |
+| [Shake Your Bones](https://open.spotify.com/track/1Mew11one8wgUBsWt8EOGl) | [Marco Marinangeli](https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 2:41 | 2021-09-10 | 2025-10-25 |
 | [Sings Merry Christmas](https://open.spotify.com/track/3KxkW7JQ9NRKZSqlinw6wJ) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Sings Merry Christmas](https://open.spotify.com/album/0gzQolHXgVEeTTxBg7wvbE) | 3:24 | 2024-11-21 | 2025-05-01 |
 | [Skeleton Dance](https://open.spotify.com/track/24DMFHfbCmdGFKj06O2zpw) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Halloween Kids Party With Little Baby Bum](https://open.spotify.com/album/3w0ggqSNDMTURl4QUMOkbW) | 2:06 | 2021-09-24 | 2025-10-11 |
 | [Skeleton Inside!](https://open.spotify.com/track/5RYJpJXyhU4jxB5JPMKX7Q) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [Kooky Spooky..\. In Stereo!](https://open.spotify.com/album/1V2nJyNQSsEDRhP8xOOSDv) | 4:23 | 2021-09-10 |  |
@@ -246,6 +246,7 @@
 | [Somebody’s Watching Me](https://open.spotify.com/track/1kjOgPtsd6QPpa9LECfLK3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:47 | 2021-09-10 | 2023-10-03 |
 | [Somebody’s Watching Me](https://open.spotify.com/track/2jwMh6fBHaTF1mS8v0fJQ3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 3:47 | 2021-08-30 | 2024-09-21 |
 | [Spongebob Squarepants Theme](https://open.spotify.com/track/4cwAvEnJRST9QoKR2bGLIW) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [Bestest Kids Halloween Songs Ever](https://open.spotify.com/album/1xkWTua1mHxl3ZDP5E6VCm) | 0:46 | 2021-08-30 | 2024-09-21 |
+| [Spookidy Boo!](https://open.spotify.com/track/4NMgfI1P3ucmJnMS77IpRx) | [Plim Plim Kids Songs](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [Trick or Treat!](https://open.spotify.com/album/39lMSVGHc4EiyBEkvkjGKT) | 2:42 | 2025-10-24 |  |
 | [Spooky Halloween Sounds](https://open.spotify.com/track/0FfgMJRnYNODbeiDdGnOwu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 4:58 | 2021-08-30 | 2024-04-19 |
 | [Spooky Halloween Sounds](https://open.spotify.com/track/6YDdozyjB3omVQKL9NrBs6) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 4:58 | 2022-10-11 | 2022-11-14 |
 | [Spooky Night \(from A Really Haunted Loud House\)](https://open.spotify.com/track/2nfkkepFVzBviOk0wZSklX) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Spooky Night \(from A Really Haunted Loud House\)](https://open.spotify.com/album/4KOq2cmP4PahZHDrY9d6xW) | 2:53 | 2023-10-02 |  |

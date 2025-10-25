@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Moder in cover.
 
-590 songs - 1 day 9 hr 21 min
+590 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,6 +498,7 @@
 | [Senza paracadute](https://open.spotify.com/track/2u8HqIiG8EAsgZs0AanR90) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Disco Inverno](https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe) | 3:42 | 2024-04-25 | 2025-06-27 |
 | [Serpico](https://open.spotify.com/track/04tllYBGk8GGhkX2E6oB0V) | [Piotta](https://open.spotify.com/artist/1BOlQSV8XJgH0adrCt1wUx), [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5) | ['na notte infame](https://open.spotify.com/album/2e0nIVDc0PXBGRUmMmauZp) | 3:12 | 2024-02-29 | 2024-04-19 |
 | [SETE](https://open.spotify.com/track/3EovIrHKaYuj7BE42FCpZ5) | [Mezzosangue](https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB) | [SETE](https://open.spotify.com/album/7in7wi889gpL9KC4KGFl6K) | 1:59 | 2022-12-01 | 2023-04-27 |
+| [Settembre](https://open.spotify.com/track/0N9qDDpB8Pd0q07VpunhlV) | [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Poco dopo mezzanotte](https://open.spotify.com/album/1uopB5lFeCi2xsPukEnLPZ) | 2:47 | 2025-10-23 |  |
 | [SFIGA](https://open.spotify.com/track/5ajrfRBwHrOkozOl9hghr5) | [Grido](https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [SFIGA](https://open.spotify.com/album/4dIsIgbAgNPt2v1VmBBOLE) | 3:37 | 2022-06-16 | 2023-04-03 |
 | [Showtime](https://open.spotify.com/track/5XHYgaxM41DzLDdPDgQhiS) | [Giovane Feddini](https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u), [Ranabis](https://open.spotify.com/artist/6qWz2TxWVJIhpUjS5ZXCk3), [Ric de Large](https://open.spotify.com/artist/6It8QDcivbTwJ46Gk9WUvu), [Drimer](https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u) | [Showtime](https://open.spotify.com/album/2hYQsitPfWgTRazylMRTSO) | 2:29 | 2023-06-15 | 2023-07-14 |
 | [Siamo Diversi](https://open.spotify.com/track/5uNks9OOxit7aZEHiSlOjI) | [Fuckgize](https://open.spotify.com/artist/0ozkOT9TtjSuroh0f4fCvE) | [Siamo Diversi](https://open.spotify.com/album/33XdeMPheUi55edMa0qfbz) | 3:22 | 2025-01-09 | 2025-01-31 |
@@ -550,7 +551,6 @@
 | [Tiger Mask \- Se Acabo](https://open.spotify.com/track/5UVvbBbPmlBl6i7OAZRMpP) | [Jangy Leeon](https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7), [Wego FTS](https://open.spotify.com/artist/2PoxLmzjISQlPoZ7KLzOMf) | [Tiger Mask \(Se Acabo\)](https://open.spotify.com/album/60oDLiIshmfMvwYg3KX5SJ) | 3:10 | 2022-05-12 | 2022-06-23 |
 | [Tinta unita \(feat\. Danno\)](https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9) | [Lovegang126](https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Drone126](https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg) | [CRISTI E DIAVOLI](https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC) | 2:48 | 2023-04-20 |  |
 | [Titanic](https://open.spotify.com/track/3j3woTPzyCtMANeff1VEe1) | [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r) | [Titanic](https://open.spotify.com/album/2g5mdnKae0ZnGzI6nXyDko) | 3:50 | 2022-06-02 | 2022-08-02 |
-| [Track 7](https://open.spotify.com/track/0N9qDDpB8Pd0q07VpunhlV) | [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [Tranqi Funky](https://open.spotify.com/track/2ttUbhePgGQQKAe5vxQVG4) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe) | [Così Com' è](https://open.spotify.com/album/4qtNe5vJDsAYXFhMX81Gp2) | 3:23 | 2022-06-30 | 2024-03-15 |
 | [Treddepomeriggio](https://open.spotify.com/track/4rHpOyjCOminwSgwxdVVpP) | [Er Costa](https://open.spotify.com/artist/7zfnElBFcdWC87g9HANXQ1) | [Treddepomeriggio](https://open.spotify.com/album/6zyQlLxLYMpuxYSw4ABYCF) | 3:03 | 2022-05-12 | 2024-06-01 |
 | [TROPPAweed \(feat\. Noyz Narcos\)](https://open.spotify.com/track/3v088yIHQdsiyaPATMhAv9) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Canerandagio \- Parte 1](https://open.spotify.com/album/6KJJfteoBkSM7g9OUZMUDc) | 2:45 | 2025-04-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Franco Masciarelli y Sofia Macchi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,408 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,409 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 99 | [Salvaje](https://open.spotify.com/track/4Y8tIVK4IQOJP7rmRsbDS7) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Salvaje](https://open.spotify.com/album/7BtgGOTyrA2LBwxvZtvtZR) | 2:53 |
 | 100 | [2020](https://open.spotify.com/track/6TzKMyI4e0JT9tiVNS9v3b) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [2020](https://open.spotify.com/album/3lNiAuo6RZ845kJrwOnQTN) | 3:06 |
 
-Snapshot ID: `AAAAAI5OQosObIJ3FQDqMdgZtIIYPGuw`
+Snapshot ID: `AAAAAK46GdxKM7c88F1iZnqju8jpm4dT`

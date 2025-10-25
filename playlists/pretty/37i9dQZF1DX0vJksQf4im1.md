@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vJksQf4im1.md) - [plain]
 
 > Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: Henry Moodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,114 likes - 89 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,166 likes - 89 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [people pleaser](https://open.spotify.com/track/0UO8qysepsd0eppPu7bYp0) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [](https://open.spotify.com/album/null) | 2:56 |
-| 2 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [](https://open.spotify.com/album/null) | 4:25 |
+| 1 | [people pleaser](https://open.spotify.com/track/0UO8qysepsd0eppPu7bYp0) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [mood swings](https://open.spotify.com/album/2jvTYHZayLQaa6ZPz5qqJe) | 2:56 |
+| 2 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
 | 3 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 4 | [Can't Stop](https://open.spotify.com/track/0bhKpG1BqJnZiBPxPkKTkH) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Starkissed](https://open.spotify.com/album/6iPNWX9dibeWPMaVuhRKEw) | 2:24 |
-| 5 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [](https://open.spotify.com/album/null) | 3:38 |
+| 5 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 |
 | 6 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 |
 | 7 | [Boyband](https://open.spotify.com/track/5wPwqVdBFCVGcQKyFXZgcA) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Boyband](https://open.spotify.com/album/5BTKTmmNjQ2cQRhVhrOEFl) | 2:57 |
 | 8 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |

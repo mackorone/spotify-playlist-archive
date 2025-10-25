@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-855 songs - 2 day 7 hr 49 min
+857 songs - 2 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Balaclava](https://open.spotify.com/track/7w6TttBaxpBtN5xVBee0cs) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Infinite Falling Ground](https://open.spotify.com/album/72H8cpW6whqogljyw6ZFJA) | 3:17 | 2023-06-30 | 2024-04-19 |
 | [Ballad of the Ravenous](https://open.spotify.com/track/6hbcSe4pcw8I2vhDG4XnWt) | [Midnight Tyrannosaurus](https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ), [Stepps](https://open.spotify.com/artist/4oi1tAN4e3J3PnohTxiG96) | [Ballad of the Ravenous](https://open.spotify.com/album/47cURSR5K78UxX1zgzN9AO) | 4:11 | 2023-06-09 | 2024-10-01 |
 | [Banada](https://open.spotify.com/track/0ieeUcJFXbm3XqWKVeZxRQ) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Banada](https://open.spotify.com/album/0GX8LRuYKACQErKXtVfoyc) | 3:52 | 2022-11-04 | 2022-12-19 |
-| [BARRACUDA](https://open.spotify.com/track/0wLkTnJxJxSNs6pyf7jUw3) | [Hgods](https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA) | [BARRACUDA](https://open.spotify.com/album/1nOUV3MeyAiszAuMMjlEAY) | 2:58 | 2024-03-22 |  |
+| [BARRACUDA](https://open.spotify.com/track/0wLkTnJxJxSNs6pyf7jUw3) | [Hgods](https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA) | [BARRACUDA](https://open.spotify.com/album/1nOUV3MeyAiszAuMMjlEAY) | 2:58 | 2024-03-22 | 2025-10-25 |
 | [Bass B$tch](https://open.spotify.com/track/3OBUIW6j8f0u0WfXX48u1v) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Bass B$tch](https://open.spotify.com/album/6nrddbRAkUUqtwsiXteix7) | 2:48 | 2024-10-25 |  |
 | [Bass Drama](https://open.spotify.com/track/02xFanXMNa1oVWdDZicssi) | [Hubwar](https://open.spotify.com/artist/5nR6SzYpEXdbRHRAJIO4aZ) | [Creatures](https://open.spotify.com/album/5zoWlf4tcmtFGfFaOrXj4n) | 4:20 | 2022-02-17 | 2024-03-02 |
 | [Bassline](https://open.spotify.com/track/1ZIglHDIFjtMiFV2VItzPg) | [Super Future](https://open.spotify.com/artist/6Xri2X6xp5SDLr08hva6Bb), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Bassline](https://open.spotify.com/album/4NQardSGvLWdwHLJwSHZm3) | 4:14 | 2023-08-18 | 2024-08-24 |
@@ -238,6 +238,7 @@
 | [Enclave](https://open.spotify.com/track/2Y5yQ2iQMUfX7QNZV5JrNI) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Enclave](https://open.spotify.com/album/1cfqQahioFkRtitz6Et7qx) | 3:51 | 2024-02-09 | 2024-09-21 |
 | [End Times \(Esseks Remix\)](https://open.spotify.com/track/4VmW9Uw0JMxaaYpNmn3YWA) | [lespecial](https://open.spotify.com/artist/6sVQ8ichLi9P4Y3EFCchFB), [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ) | [End Times \(Esseks Remix\)](https://open.spotify.com/album/1RaTEI98LlQ7mYsj0eeEQc) | 2:09 | 2024-05-17 | 2024-09-23 |
 | [Endless](https://open.spotify.com/track/5b8YhVNrBfNupfUU0VE6Xm) | [Secret Recipe](https://open.spotify.com/artist/22eFyjzI4OqJzqUrYlF46I) | [Endless](https://open.spotify.com/album/0ov6yrn6Gocis6xju7Pb5I) | 2:15 | 2022-12-09 | 2023-06-14 |
+| [Energy](https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [Stush](https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT) | [Energy](https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU) | 3:32 | 2025-10-24 |  |
 | [Enlighten](https://open.spotify.com/track/5Ij9jpdHL1cqhHC3XndZHz) | [Tripp St.](https://open.spotify.com/artist/6IuIhkCK8SjoSJskiCZdp0) | [The Rose EP](https://open.spotify.com/album/2maYq0kspsmJkYjDkmgBDW) | 3:53 | 2023-07-14 |  |
 | [Enter The Machine](https://open.spotify.com/track/5R4hGpNiUxoDpKx1RLHvzL) | [Pantyraid](https://open.spotify.com/artist/2mdjjabTCK9Xknzl9hakW7) | [The Sauce](https://open.spotify.com/album/2Nw9bUOlJfxIc0gMKtO1yv) | 5:30 | 2022-02-17 | 2024-07-29 |
 | [Envy](https://open.spotify.com/track/5C3Ou5adqCoNtsQ9LoC2cQ) | [Kaiju](https://open.spotify.com/artist/4mbZ3bklPWXRNZs35sYdcR), [Ft Jack Gates](https://open.spotify.com/artist/4AW8ZTIPSuHYOPvvUdkn6a) | [Seven Sins](https://open.spotify.com/album/6txOSgBXe10dhZxj8WNT6z) | 4:20 | 2022-02-17 | 2022-07-29 |
@@ -354,7 +355,7 @@
 | [I Fear](https://open.spotify.com/track/2iyzSdi8pV0ouscty0d88y) | [Kermode](https://open.spotify.com/artist/4O4L8A3vvOe23k36O1eFfe) | [I Fear](https://open.spotify.com/album/70ADfmqWJgdcydCeVPniiW) | 3:36 | 2024-04-26 | 2024-11-03 |
 | [I Like It](https://open.spotify.com/track/5zfDQrkMPzzZgiOhyGgwLx) | [Thermal Junction](https://open.spotify.com/artist/0AcrSrhJmBpB6guPMP8Oiq) | [I Like It](https://open.spotify.com/album/4t9oPFTeDQKuKwBepIqLhV) | 2:39 | 2025-05-02 | 2025-09-13 |
 | [i need space.](https://open.spotify.com/track/7teay9xbL8sz21dwtaLsIN) | [LUMBERJVCK](https://open.spotify.com/artist/4KGyomagqa7oWswreOlh3T), [CHOMP](https://open.spotify.com/artist/2jUdhWcVMSiax6FqcWjcJC), [Auracle](https://open.spotify.com/artist/5InYuRwL85r4VQIsiLWE9y) | [i need space.](https://open.spotify.com/album/4AWrHuuHx2sJFmFriDf997) | 2:22 | 2024-10-25 |  |
-| [I'll Be Good](https://open.spotify.com/track/7z7KWEjCMJh0V6oenkmeqq) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby) | [I'll Be Good](https://open.spotify.com/album/72TVWYXcYfunh4HFLdKYt3) | 2:42 | 2024-05-10 |  |
+| [I'll Be Good](https://open.spotify.com/track/7z7KWEjCMJh0V6oenkmeqq) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby) | [I'll Be Good](https://open.spotify.com/album/72TVWYXcYfunh4HFLdKYt3) | 2:42 | 2024-05-10 | 2025-10-25 |
 | [Iceman](https://open.spotify.com/track/2DuF7NVvQ3fQUmYf23duAk) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Box / Iceman](https://open.spotify.com/album/0ubELWzRAf0kFxiMlo7mye) | 3:26 | 2022-02-17 | 2022-04-09 |
 | [If I Dub](https://open.spotify.com/track/62LkNiGHUPrn5NdB4Cj2Qe) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx), [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU) | [If I Dub](https://open.spotify.com/album/0RbHS36kmmdgna4JlT5DqI) | 5:01 | 2022-02-17 | 2022-07-30 |
 | [Ill Rest](https://open.spotify.com/track/6kwx9ruODRnGbH5NRwrB7T) | [Ebb](https://open.spotify.com/artist/4IawKApxht48ov22AEpzqH) | [Ill Rest](https://open.spotify.com/album/1EuWf6j9BQaYqNt0eivIp3) | 5:07 | 2022-04-29 | 2022-05-20 |
@@ -614,6 +615,7 @@
 | [Ripper](https://open.spotify.com/track/1PsWZXdjF9Wprodd5u4F6n) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC) | [Ripper](https://open.spotify.com/album/5D5kHZyrBy45ryggx31az3) | 3:30 | 2022-08-19 | 2025-08-30 |
 | [Rise](https://open.spotify.com/track/5ljP4kya9X4nHhcuhQ3A60) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu), [OkayJake](https://open.spotify.com/artist/1inEarlQOFZ2KWNnQDHqo3) | [Rise](https://open.spotify.com/album/0KEFZnJoHiHzywPl5bP71Y) | 2:24 | 2024-05-31 | 2024-10-06 |
 | [Ritual](https://open.spotify.com/track/1Ee7waaVp8SXUF7O6D3hvb) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Fragments of Us](https://open.spotify.com/album/3JFKnFilTV1xbFywi0Tfs7) | 3:44 | 2024-10-04 | 2024-12-04 |
+| [Roleplay](https://open.spotify.com/track/6oqYVUJjUst5BiVTv03jJ2) | [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb) | [Roleplay](https://open.spotify.com/album/2ZIK4eyUYkhQND86QFcI1C) | 2:40 | 2025-10-24 |  |
 | [Roots Dub](https://open.spotify.com/track/0yrcb1cwkgheJ7jEcTMwsh) | [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Roots \- EP](https://open.spotify.com/album/1wLirC220sMgkHxPrwN3M2) | 4:20 | 2022-02-17 | 2024-11-09 |
 | [Roots Music](https://open.spotify.com/track/47Q2U9ao1PdM1VAYz0eVUl) | [Dubbacle](https://open.spotify.com/artist/6XXAt80nWrZ5Dct2rRGwbu) | [Reflection](https://open.spotify.com/album/4NJkW6VbUmNqGTnSEATqJl) | 4:37 | 2022-02-17 | 2023-09-18 |
 | [ROUND AFTER ROUND](https://open.spotify.com/track/1C4kWP8ni5B043m2E0Sk1y) | [Hgods](https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA), [Cito Blick](https://open.spotify.com/artist/4DKs9UVIaSIUFEfNU6RIgL) | [ROUND AFTER ROUND](https://open.spotify.com/album/48ZwXZwNH5i3j43Ghu1b4S) | 2:00 | 2024-05-17 | 2024-09-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un drink in mano 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,725 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,717 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 37 | [Actually](https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 3:47 |
 | 38 | [Beauty Star](https://open.spotify.com/track/3C7il7dWDBrw98S67rSyBg) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Beauty Star](https://open.spotify.com/album/7JYCPIrgcjGoEFdyfyxV7Z) | 4:00 |
 | 39 | [Falling for You](https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Falling for You](https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA) | 3:10 |
-| 40 | [Keep It Exciting](https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Keep It Exciting](https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL) | 2:19 |
+| 40 | [Keep It Exciting](https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Keep It Exciting](https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL) | 2:18 |
 | 41 | [Keep the Fire Burning](https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [On My Way](https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9) | 5:44 |
 | 42 | [Roches blanches](https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj) | [Mizmo](https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV) | [Roches blanches](https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d) | 2:36 |
 | 43 | [Ubuhle \(feat\. Bukeka\)](https://open.spotify.com/track/63xAXgMQNh3RSG1wV1VS51) | [Whitney Mkok](https://open.spotify.com/artist/5U2I7kRpTglDqTHy5Uehmu), [Bukeka](https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV) | [Ubuhle \(feat\. Bukeka\)](https://open.spotify.com/album/4U7ETvlOj3fohJiJdkffey) | 4:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 99 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 |
 | 100 | [A Deeper Life](https://open.spotify.com/track/2BeFVOi5hh545rnHTmDmPF) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Isaac Aesili](https://open.spotify.com/artist/3zEfsUok55Gll9L0YN2YOE) | [A Deeper Life](https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F) | 8:04 |
 
-Snapshot ID: `AAAAAL35XHswA0q3ccq1aMdP9Jb8is6x`
+Snapshot ID: `AAAAAPq8jvZ/i3WoMgAUuD/NY2HrLFiR`

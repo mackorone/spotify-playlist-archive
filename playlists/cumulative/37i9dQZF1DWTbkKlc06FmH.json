@@ -247,6 +247,28 @@
     },
     {
       "album": {
+        "name": "5th Floor (10pm)",
+        "url": "https://open.spotify.com/album/2bnJPXUQBTIObI5yD1yyZv"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176288,
+      "name": "5th Floor (10pm)",
+      "url": "https://open.spotify.com/track/5Nf83SalLU851KZtTC0P6S"
+    },
+    {
+      "album": {
         "name": "9 years old",
         "url": "https://open.spotify.com/album/0NiaZ19b8CG62gtHOKxehs"
       },
@@ -2226,7 +2248,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 255408,
       "name": "Burning Friday Night",
       "url": "https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V"
@@ -5528,7 +5550,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 273394,
       "name": "Fever",
       "url": "https://open.spotify.com/track/1IDbSbx3oVWxJWMgfEvrVF"
@@ -5550,6 +5572,28 @@
       "duration_ms": 182000,
       "name": "FILTERING",
       "url": "https://open.spotify.com/track/3tcSgbghnjwgsXNFva4Cde"
+    },
+    {
+      "album": {
+        "name": "Find My Love",
+        "url": "https://open.spotify.com/album/5y5BaqS5OvqYO1nXWEVd8m"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "Find My Love",
+      "url": "https://open.spotify.com/track/3BkkIdPVSl1vQu6lrzsg3l"
     },
     {
       "album": {
@@ -6906,7 +6950,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 209249,
       "name": "GRATEFUL",
       "url": "https://open.spotify.com/track/7ti9lfY536LdvElWMuWSxL"
@@ -7330,7 +7374,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 189152,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2QOCRm9aRahoO1482RWZgt"
@@ -7842,7 +7886,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 234546,
       "name": "I",
       "url": "https://open.spotify.com/track/2xkFT4JuW4E1fg4vJKtsfB"
@@ -10828,7 +10872,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 193466,
       "name": "meguri",
       "url": "https://open.spotify.com/track/7wOKndjlwI1ncnmDjyvsq8"
@@ -11112,7 +11156,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 262335,
       "name": "Mine or Yours",
       "url": "https://open.spotify.com/track/71BFBz7Yc1Hq4MPXdn9ivo"
@@ -11595,6 +11639,24 @@
     },
     {
       "album": {
+        "name": "PHOLKS",
+        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165599,
+      "name": "My Muse",
+      "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
+    },
+    {
+      "album": {
         "name": "My Plan",
         "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
       },
@@ -11658,7 +11720,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 178586,
       "name": "Myself (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj"
@@ -13370,7 +13432,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 301576,
       "name": "Over (feat. Yebba)",
       "url": "https://open.spotify.com/track/2tGruyXi5FsyP9c5yGh9gz"
@@ -14748,6 +14810,24 @@
       "duration_ms": 222000,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/1S8IvwFCo2f8mWIXHwsXGz"
+    },
+    {
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Root of all Evil",
+      "url": "https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I"
     },
     {
       "album": {
@@ -16354,7 +16434,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 207241,
       "name": "Stand by side",
       "url": "https://open.spotify.com/track/0KkbO34LFk9lk8ccukJi6R"
@@ -17092,6 +17172,24 @@
       "duration_ms": 235328,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
+    },
+    {
+      "album": {
+        "name": "the blueprint",
+        "url": "https://open.spotify.com/album/6rnEVluW1Z5CFiC3hDVDtV"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "swan song",
+      "url": "https://open.spotify.com/track/5E9GFYeMdd6asHesvMflaT"
     },
     {
       "album": {
@@ -20756,7 +20854,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 189687,
       "name": "\u3068\u304d\u3081\u304d\u63a2\u5075",
       "url": "https://open.spotify.com/track/3Z27gNml8048d5NuyVaJkt"
@@ -20898,7 +20996,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 248056,
       "name": "\u307c\u3061\u307c\u3061\u3044\u304d\u307e\u3057\u3087\u3046",
       "url": "https://open.spotify.com/track/0Gd7MaQBrDh2hexjzdxz75"
@@ -21286,6 +21384,24 @@
       "duration_ms": 169295,
       "name": "\u30d5\u30a1\u30f3\u30c7\u30fc\u30b7\u30e7\u30f3\u306e\u524d\u306b",
       "url": "https://open.spotify.com/track/490KCtGnjNDhOJw3Tmn8Sy"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30ad\u30b9",
+        "url": "https://open.spotify.com/album/5BAI5YNxwWN8HgIy3iN6f6"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251537,
+      "name": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30ad\u30b9",
+      "url": "https://open.spotify.com/track/4VI45tdu3hZw5eugs9c6AX"
     },
     {
       "album": {

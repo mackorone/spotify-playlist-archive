@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Maureen
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,940 likes - 50 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,959 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 2](https://open.spotify.com/track/258OblSwifjdaXY6Br7vak) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Emoji Pêche](https://open.spotify.com/track/258OblSwifjdaXY6Br7vak) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Queen](https://open.spotify.com/album/6dzjdYfWaGwfMZZaJXVlYJ) | 2:18 |
 | 2 | [Many men](https://open.spotify.com/track/7zwNOwAg7mhUSidOudjsbc) | [Josh](https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Many men](https://open.spotify.com/album/4yjmENCAsHDxhF5fZbUAVt) | 2:39 |
 | 3 | [Coulie Coulie](https://open.spotify.com/track/1pHqBcdEpInREi0U2WVWOq) | [Aknose](https://open.spotify.com/artist/1Lqc2Oqyciyq6uvTSNHlwg), [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Magistral Beats](https://open.spotify.com/artist/2x2eEYuTVLBSCf0c1pPrEf) | [Coulie Coulie](https://open.spotify.com/album/71JjTOLduKpzIC2UHy76Gt) | 2:16 |
 | 4 | [Rude](https://open.spotify.com/track/2QSIcVyOxCcNp2navuicUi) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [How You Bad Suh](https://open.spotify.com/album/1uDXAiexuxvswn6f1iX61U) | 2:27 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 10 | [Quint It](https://open.spotify.com/track/5gdPDCKm6bMvopOjBrTBY8) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa) | [Quint It](https://open.spotify.com/album/68xBB8xbXUa3f3li27DvCi) | 2:43 |
 | 11 | [Tête à Tête](https://open.spotify.com/track/2K3hxWo7OQZVk6OtOhteNH) | [Lybro](https://open.spotify.com/artist/3uiTnIx5N6ZWAPkPb8GFC9), [Kamelon Officiel](https://open.spotify.com/artist/0k3C7u1fCchhNMHbcBy9xN), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Tête à Tête](https://open.spotify.com/album/7rgrW2BZcQCkueJbgzXL1X) | 2:20 |
 | 12 | [La Police](https://open.spotify.com/track/0N1g86AFnZYqVb8xdj8MM0) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa) | [La Police](https://open.spotify.com/album/5VqUJorpGVVOVFMHSXYinY) | 2:17 |
-| 13 | [Track 5](https://open.spotify.com/track/6HRN90IKTOLTxf7NW2Wi9U) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [](https://open.spotify.com/album/null) | 0:00 |
+| 13 | [Cochoni](https://open.spotify.com/track/6HRN90IKTOLTxf7NW2Wi9U) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Queen](https://open.spotify.com/album/6dzjdYfWaGwfMZZaJXVlYJ) | 1:54 |
 | 14 | [Mode avion](https://open.spotify.com/track/5m8Q6aKhrqmoF64xlPcZva) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Mode avion](https://open.spotify.com/album/1NdAgf1yROs0BrcFvb9Jzc) | 2:24 |
 | 15 | [READY](https://open.spotify.com/track/4rGBx3OtDj4waLtdaNT0i6) | [Capi](https://open.spotify.com/artist/7gAnXQ1dYZdtwCdFEvmUwi), [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [FASTLIFE](https://open.spotify.com/album/6kLERPO1TeAhKTR539Ncin) | 2:59 |
 | 16 | [KADDRYO](https://open.spotify.com/track/2GOfDqnHKoF0dLmTojvl69) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Sleazy Stereo](https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i) | [KADDRYO](https://open.spotify.com/album/7ch3uXOiA1xhP0poFTPOzS) | 2:30 |

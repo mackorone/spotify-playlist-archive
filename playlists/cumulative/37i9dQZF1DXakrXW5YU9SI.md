@@ -4,7 +4,7 @@
 
 > Jesień  z błogimi dźwiękami 🍂
 
-696 songs - 1 day 14 hr 52 min
+696 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,7 +498,7 @@
 | [Richardson \(feat\. Cassandra Jenkins\)](https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Richardson \(feat\. Cassandra Jenkins\)](https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp) | 3:44 | 2025-03-07 | 2025-03-29 |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-06-28 | 2024-08-21 |
 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 | 2024-07-25 | 2024-09-13 |
-| [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [](https://open.spotify.com/album/null) | 4:25 | 2025-10-23 |  |
+| [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 | 2025-10-23 |  |
 | [Rosa](https://open.spotify.com/track/4UITcoh4mQLg8tO7yaESei) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4), [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Rosa](https://open.spotify.com/album/5F5Ilkyfab6F7WTGu3BmX4) | 2:52 | 2025-04-25 | 2025-06-28 |
 | [Running/Planning](https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Running/Planning](https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2) | 4:26 | 2025-03-28 | 2025-06-01 |
 | [różowa kurtka](https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [różowa kurtka](https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB) | 2:21 | 2025-05-31 | 2025-06-06 |
@@ -610,7 +610,6 @@
 | [Topiel](https://open.spotify.com/track/0DtswFLxYeRvi1JUu4oAXQ) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Topiel](https://open.spotify.com/album/1mtOHVI3C3C3HT9OasFRAt) | 3:42 | 2024-11-21 | 2024-12-10 |
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-06-28 | 2024-08-21 |
 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 | 2024-06-28 | 2024-09-13 |
-| [Track 3](https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [Trucizna](https://open.spotify.com/track/3fAFgKBYLAX4M8C9lNxhTO) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Nic nie widać po mnie](https://open.spotify.com/album/1Cwn1kTBxqD2bshBV368cZ) | 3:08 | 2024-09-12 | 2024-09-21 |
 | [Trucizna](https://open.spotify.com/track/3wuZirKsS6ZXKDIUSV7jN4) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Trucizna](https://open.spotify.com/album/2enTHSbeI3bG1hvvOIoXeU) | 2:38 | 2024-09-20 | 2024-10-08 |
 | [Tsunami](https://open.spotify.com/track/1CN4xpeOZDn1Q1sdZjNHE6) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg), [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Tsunami](https://open.spotify.com/album/0noxWwMrDt0phcOdH3oYP1) | 3:22 | 2025-01-17 | 2025-02-22 |
@@ -678,6 +677,7 @@
 | [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [You \(Show Me Where My Days Went\)](https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs) | 2:47 | 2024-06-28 | 2024-07-14 |
 | [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 | 2024-09-12 | 2024-11-22 |
 | [You'll Get There in The End](https://open.spotify.com/track/38sEWCPwGb4scoqbwnAYOo) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [You'll Get There in The End](https://open.spotify.com/album/0YQFRtaYSgwfEb6pSAoY1n) | 3:06 | 2025-01-24 | 2025-02-22 |
+| [Younger Days](https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Bungalow](https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6) | 3:31 | 2025-10-23 |  |
 | [Your Villain](https://open.spotify.com/track/4wVC94cEh7rER1zuzFeOsx) | [Molly Millington](https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF) | [Your Villain](https://open.spotify.com/album/6tOuaYl7fi4PzgCq5ehTaJ) | 2:45 | 2025-07-10 | 2025-07-19 |
 | [Z KOŃCEM POCZĄTEK](https://open.spotify.com/track/17Uztzz0OebGNpaO2aAe9L) | [Grubson](https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Z KOŃCEM POCZĄTEK](https://open.spotify.com/album/3L1WaNyJBrZOnDeeiTvjqT) | 3:41 | 2025-04-04 | 2025-04-19 |
 | [Zabierz mnie](https://open.spotify.com/track/3l4SiHIrsbFqVW1xjWZk6W) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Szkic i kontury](https://open.spotify.com/album/55Uor5uEjfvg4XaGmelGrv) | 3:17 | 2025-09-26 | 2025-10-24 |

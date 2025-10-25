@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: Zuko SA
+> Proudly Southern African Afropop gems\. Cover: SIIBU
 
-719 songs - 2 day 3 hr 16 min
+720 songs - 2 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Ngiyathandaza](https://open.spotify.com/track/0MuZgvvbykSdfKPMgtLUx3) | [Mr\. Music](https://open.spotify.com/artist/1tl67Z3qyJYT9NilPduEgF) | [Ngiyathandaza](https://open.spotify.com/album/6u8xAVCZgRCcqEltfNl6id) | 5:17 | 2022-04-22 | 2022-05-13 |
 | [Ngiyatisola](https://open.spotify.com/track/28ct4TYD21H6TxGjPJwLFY) | [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN) | [Ngiyatisola](https://open.spotify.com/album/3AKvurqxhEhOhTuiM8VlNu) | 4:27 | 2023-08-31 | 2023-10-13 |
 | [Ngiyeza](https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Ngiyeza](https://open.spotify.com/album/5S4kyrm5mTa1PK4ur0BPIR) | 4:41 | 2023-01-19 | 2023-08-18 |
+| [Ngiyeza](https://open.spotify.com/track/3PLlRioGyfXbEY9Mlf4k8X) | [SIIBU](https://open.spotify.com/artist/2YUPgGlOpUW8MqoVBQICdd), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv) | [A Zulu Lover Girl](https://open.spotify.com/album/6quj8KJtq38WLpoyMOjIuL) | 3:25 | 2025-10-24 |  |
 | [Ngizmisele](https://open.spotify.com/track/0sSFSV3NiP2i9PzSk65BPa) | [Puleng Phoofolo](https://open.spotify.com/artist/4PV6IJwluKGjXmKLhKFa0E), [Phoka Ea Borwa](https://open.spotify.com/artist/2gTjDZTAufBXDydffPgkq3) | [Ngizmisele](https://open.spotify.com/album/3PQg91Te4i6mqvN3hzoZTH) | 3:45 | 2025-07-04 |  |
 | [Ngizohlala Nawe \(feat\. Princess Meloh\)](https://open.spotify.com/track/5lfeivPGO7gXCbMfxKGAlH) | [NKR](https://open.spotify.com/artist/3thrhTKemjuoEqfhGZu3i6), [Ayarhkay](https://open.spotify.com/artist/1MD4g1fBpnN0xXpQiQt8pf), [Olefied Khetha](https://open.spotify.com/artist/7encSKpRGCkRR4yF13Shr9), [Princess Meloh](https://open.spotify.com/artist/0KW7KKNYz8POQOtq6Ps6jj) | [Ngizohlala Nawe \(feat\. Princess Meloh\)](https://open.spotify.com/album/6xOYZWbIr7js9wii3B14fv) | 5:01 | 2025-07-25 |  |
 | [Ngizokthanda](https://open.spotify.com/track/4MRDfU114k3dd6jGHgEtva) | [Linda Gcwensa](https://open.spotify.com/artist/08vFZzvz5L5aP8Bk4PHeWv) | [Ngizokthanda](https://open.spotify.com/album/27db3O40tFLHEEo8bCRgiy) | 3:39 | 2022-09-29 | 2023-02-17 |

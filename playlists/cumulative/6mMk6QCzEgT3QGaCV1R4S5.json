@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Get moving on the dancefloor with some big room beats! Cover: Alok &amp; ILLENIUM",
+  "description": "Get moving on the dancefloor with some big room beats! Cover: Frank Walker, Josh Ross &amp; Norma Jean Martine. ",
   "name": "Dancefloor Beats",
   "tracks": [
     {
@@ -2813,6 +2813,32 @@
     },
     {
       "album": {
+        "name": "Lay It On Me",
+        "url": "https://open.spotify.com/album/29hAhhtAYAh8kzkWl5DqTK"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143863,
+      "name": "Lay It On Me",
+      "url": "https://open.spotify.com/track/6Eefj9syzUuCVCvv6dsFft"
+    },
+    {
+      "album": {
         "name": "Let It Be For Love",
         "url": "https://open.spotify.com/album/704JYDusykg51pfiFwgyB7"
       },
@@ -3650,7 +3676,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 178893,
       "name": "Need I Say More",
       "url": "https://open.spotify.com/track/2UkRAahf0a1wvwxyfqbcLl"
@@ -4062,7 +4088,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 151069,
       "name": "Over You - VIP Mix",
       "url": "https://open.spotify.com/track/6t3U9JuOGtVVTOo1TctUo3"
@@ -4937,7 +4963,7 @@
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 173452,
+      "duration_ms": 173316,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5"
     },
@@ -5241,6 +5267,24 @@
     },
     {
       "album": {
+        "name": "SUPERLAME",
+        "url": "https://open.spotify.com/album/30Xx1oiQTcXCTx2uGOZJ4e"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162652,
+      "name": "TEEN ANGST",
+      "url": "https://open.spotify.com/track/2wVxFUGTFbN1WYNdba8mLj"
+    },
+    {
+      "album": {
         "name": "Tell Me Where U Go",
         "url": "https://open.spotify.com/album/3DQS4gzD4RJMsarRUqiQrt"
       },
@@ -5264,6 +5308,24 @@
       "duration_ms": 182640,
       "name": "Tell Me Where U Go",
       "url": "https://open.spotify.com/track/4NuksWELZ9lBY9aazhZG16"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218440,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM"
     },
     {
       "album": {
@@ -5526,7 +5588,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 270927,
       "name": "Victorious (feat. Tia Wood)",
       "url": "https://open.spotify.com/track/41NSGbhbOsL7E20Vlc7yhx"

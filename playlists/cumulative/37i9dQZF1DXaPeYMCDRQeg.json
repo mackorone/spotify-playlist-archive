@@ -599,6 +599,28 @@
     },
     {
       "album": {
+        "name": "WARNING SHOT",
+        "url": "https://open.spotify.com/album/0b71YRhkucJcuODZV0ykOj"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198464,
+      "name": "ATTITUDE PROBLEMS",
+      "url": "https://open.spotify.com/track/0YlPXIacoFxiXzA0oril3D"
+    },
+    {
+      "album": {
         "name": "You, Me & The 90's",
         "url": "https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd"
       },

@@ -3181,6 +3181,24 @@
     },
     {
       "album": {
+        "name": "buttons",
+        "url": "https://open.spotify.com/album/1oTiL3l8dFVgiLcZ0rGkSx"
+      },
+      "artists": [
+        {
+          "name": "natalie jinju",
+          "url": "https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216195,
+      "name": "buttons",
+      "url": "https://open.spotify.com/track/41vSliETlsQOzukEfCjjSh"
+    },
+    {
+      "album": {
         "name": "buttons!",
         "url": "https://open.spotify.com/album/1BNaZf2C1HMVCC2pCRdYsr"
       },
@@ -16828,7 +16846,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 205050,
       "name": "reminisce",
       "url": "https://open.spotify.com/track/1B7jjYYjRFUj0UbCNH0SNO"

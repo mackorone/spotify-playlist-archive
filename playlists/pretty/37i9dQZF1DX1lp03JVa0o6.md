@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest dance hits! Cover: Alok & ILLENIUM
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,622 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,632 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 13 | [My Love \- Rework](https://open.spotify.com/track/6q6GR1UxIkyaVJuUNYtEjw) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [My Love \(Rework\)](https://open.spotify.com/album/5j6St6A4oQCXb8fbWJc8vA) | 3:30 |
 | 14 | [crystallized \(feat\. Inéz\)](https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [crystallized \(feat\. Inéz\)](https://open.spotify.com/album/5PnlLTo9MLkbd4noHgisk9) | 3:37 |
 | 15 | [Eraser](https://open.spotify.com/track/2CXpZvW1IKuBJ9MeHeFz1T) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Some Kind of Alchemy](https://open.spotify.com/album/4OOGYZfiKbOdWnu6lS78o3) | 3:29 |
-| 16 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [](https://open.spotify.com/album/null) | 3:38 |
+| 16 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 |
 | 17 | [LA NOCHE](https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ANITA B QUEEN](https://open.spotify.com/artist/2YcZup1n6AW4BxoikeUswf) | [LA NOCHE](https://open.spotify.com/album/3iBDg8qZiUWJy0kiZHI3Cv) | 3:32 |
 | 18 | [Galvanize \- Chris Lake Remix](https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Galvanize \(Chris Lake Remix\)](https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB) | 3:43 |
 | 19 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf) | 2:49 |

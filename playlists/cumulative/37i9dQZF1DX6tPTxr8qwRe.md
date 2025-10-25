@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: SKAAR
+> sweet\. sharp\. unbothered \- Claire Rosinkranz on the cover
 
-1,007 songs - 1 day 22 hr 29 min
+1,010 songs - 1 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Aimed to Kill](https://open.spotify.com/track/5Xx1X1rBk5fpxuhvvtt4th) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Aimed to Kill](https://open.spotify.com/album/1EYaxqjZ8sMfYprcW3XVij) | 3:22 | 2022-04-15 | 2022-07-29 |
 | [ALICE \- Red Queen Version](https://open.spotify.com/track/4yHwSwzHpsDSXf886P5Mlc) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh), [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [ALICE \(Red Queen Version\)](https://open.spotify.com/album/7tzDJQwW4WzJXSbSJpFqG2) | 2:28 | 2025-10-17 |  |
 | [Alien](https://open.spotify.com/track/2YdDd0WUsWLWZq0Puz0Ypo) | [Nico & Chelsea](https://open.spotify.com/artist/2D3SlrKnJAnNyxf2ty2a97), [Nico Collins](https://open.spotify.com/artist/1iGwHlKgQKtdrtzmlwZ71U), [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [Alien](https://open.spotify.com/album/23Id7uPv0luo4pJpzKYBAO) | 3:13 | 2023-12-22 | 2024-04-27 |
-| [Alive](https://open.spotify.com/track/1BolvPHesuoFdC8hSPp4IW) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Alive](https://open.spotify.com/album/779GE2JiWs969fsRY5P04G) | 4:00 | 2025-06-13 |  |
+| [Alive](https://open.spotify.com/track/1BolvPHesuoFdC8hSPp4IW) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Alive](https://open.spotify.com/album/779GE2JiWs969fsRY5P04G) | 4:00 | 2025-06-13 | 2025-10-25 |
 | [Alive and Unwell](https://open.spotify.com/track/7ffThXwGKRO4KRM1rVyXGJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/3LiuUi849agq0ZVwLBIup8) | 2:01 | 2022-10-28 | 2023-04-01 |
 | [ALL ABOUT ME](https://open.spotify.com/track/3EtksbbfZ5mNPwMVkLhWhL) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [ALL ABOUT ME](https://open.spotify.com/album/2VK0WXTW6jGf4BsryzurVP) | 1:37 | 2022-04-01 | 2022-07-09 |
 | [All Black Mansion](https://open.spotify.com/track/5Gj8WfSRNAxRsiJXYuwo1H) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [A Haunted House](https://open.spotify.com/album/0V5HTTrz4k7Ryiy4iOZJxF) | 3:06 | 2024-10-04 | 2025-01-25 |
@@ -114,6 +114,7 @@
 | [BLAH](https://open.spotify.com/track/212qRRJMxvpN3FNkW6g3rH) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [BLAH](https://open.spotify.com/album/6PZzsTjoax4776aLr6U4jh) | 2:54 | 2025-05-16 | 2025-07-12 |
 | [BLEACH](https://open.spotify.com/track/0Yb631ktGsxwsDFFlKZm6A) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [BLEACH](https://open.spotify.com/album/3uQYcHFnDBBo9K2BK5Ixj8) | 2:29 | 2023-12-08 | 2024-03-23 |
 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 | 2022-08-05 | 2022-11-19 |
+| [Blood Guts & Pixie Dust](https://open.spotify.com/track/36MkP16YXxjCjpz7NMdfyW) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Blood Guts & Pixie Dust](https://open.spotify.com/album/6mtR02tgYD4EsPimDQERY1) | 3:26 | 2025-10-24 |  |
 | [Bloodline](https://open.spotify.com/track/7k0CjQfqiS0vHpvxMECarP) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Bloodline](https://open.spotify.com/album/0ewvS55UVfLQPe9Ew7Xpre) | 2:34 | 2022-03-25 | 2022-07-23 |
 | [blue](https://open.spotify.com/track/78PzKHIuCAv8ve3VLIfCI8) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [blue](https://open.spotify.com/album/64Ezf43dKpmAsCXUPmO6Wr) | 2:48 | 2023-03-24 | 2023-08-05 |
 | [Blue Moon](https://open.spotify.com/track/6bCE0p7QX3Tx4rZGDyaJ1U) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Blue Moon](https://open.spotify.com/album/5Eg6oyQd5RJS7KuGooq5iJ) | 3:17 | 2024-11-11 | 2025-05-03 |
@@ -276,7 +277,7 @@
 | [EAT](https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [EAT / DIRT](https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu) | 2:17 | 2024-04-26 | 2024-06-29 |
 | [Ego Rush](https://open.spotify.com/track/6Et4i8p7URXpaUfIjCxild) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [When It's Over](https://open.spotify.com/album/2VIuQAHaJc8SRwmIuNElty) | 2:39 | 2024-08-16 | 2025-01-25 |
 | [EGO!](https://open.spotify.com/track/0laq7DfW9YtPdvQsePTveK) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [EGO!](https://open.spotify.com/album/7ISSf6pMnWSMrpF1AjZqpM) | 2:28 | 2024-04-26 | 2024-06-29 |
-| [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 | 2025-10-03 |  |
+| [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 | 2025-10-03 | 2025-10-25 |
 | [empty room](https://open.spotify.com/track/6TxCqjdGbTCNFgReTltmCx) | [ETHAN](https://open.spotify.com/artist/5oqtu58F4NZtVlCamsdmdq) | [empty room](https://open.spotify.com/album/39cMECZ4POl2B8b6inBnLL) | 3:00 | 2025-08-22 |  |
 | [End of an Era](https://open.spotify.com/track/2nQY9jprTEWOVMIAdN0o48) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4IUNO0oCCoM5DZ3va30wVc) | 2:13 | 2022-11-11 | 2023-04-01 |
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-07-01 | 2022-10-01 |
@@ -434,7 +435,7 @@
 | [hurt less](https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [overkill](https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH) | 2:45 | 2021-11-12 | 2022-03-18 |
 | [Hurting My Own Feelings](https://open.spotify.com/track/5icmPOyz0YQy7gF6hwNWKk) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Hot and Stupid](https://open.spotify.com/album/1xmvvsuA22peyMbHyq9atz) | 2:55 | 2025-04-18 | 2025-07-12 |
 | [HUSH](https://open.spotify.com/track/0Njbfdqov90zIfAXZl7hIf) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Fallen Angel](https://open.spotify.com/album/6zvckLWDs3GtRAll4b0Cvl) | 3:10 | 2022-10-07 | 2023-04-01 |
-| [HUSH](https://open.spotify.com/track/2ZsCDEyhieI5fBgtHlIRGC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [HUSH](https://open.spotify.com/album/6oDFuAJZf16fsLr6y26qsQ) | 2:22 | 2025-06-06 |  |
+| [HUSH](https://open.spotify.com/track/2ZsCDEyhieI5fBgtHlIRGC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [HUSH](https://open.spotify.com/album/6oDFuAJZf16fsLr6y26qsQ) | 2:22 | 2025-06-06 | 2025-10-25 |
 | [HUSH](https://open.spotify.com/track/7xbXxg6K0yQvrVlj9P8mvK) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [HUSH](https://open.spotify.com/album/6RyNlQCjmWiHOyY8775jeo) | 2:55 | 2024-04-24 | 2024-05-18 |
 | [Hush](https://open.spotify.com/track/04kybb0HCt1uaTBgYkSgwQ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hush](https://open.spotify.com/album/5r1bbn7yCvl1CrBjfGM6eq) | 3:01 | 2021-09-10 | 2022-04-09 |
 | [Hype Song](https://open.spotify.com/track/7dgRK8IwI02y7MiBNd5a1b) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Hype Song](https://open.spotify.com/album/1z6jjSoP7UC4Sb3AHkBS4v) | 3:27 | 2023-12-01 | 2024-04-27 |
@@ -512,6 +513,7 @@
 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 | 2021-10-29 | 2023-01-06 |
 | [Kind of Love](https://open.spotify.com/track/27q9snUZ3LptuVJyXgrHPk) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Kind of Love](https://open.spotify.com/album/68g8IaUYJTGfMnhTr661c0) | 3:38 | 2022-01-14 | 2022-04-29 |
 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 | 2024-02-16 | 2024-05-03 |
+| [Kiss](https://open.spotify.com/track/4OwxTsR3IPjFCX0sii5vtP) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Kiss](https://open.spotify.com/album/0d0LjZgArvtjtzX6SnDulV) | 2:48 | 2025-10-24 |  |
 | [Kiss And Tell](https://open.spotify.com/track/5Zi2tbxAaZQGkFWU8QdSqU) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Kiss And Tell](https://open.spotify.com/album/6iOn23WerrBcb3rSLRqMlT) | 2:32 | 2022-02-11 | 2022-03-30 |
 | [Kiss My \(Ah\)](https://open.spotify.com/track/5zgyVeHTCXBnLGI3xRvb0s) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Kiss My \(Ah\)](https://open.spotify.com/album/4LtELtq7yXRdE5A8jNIef0) | 2:18 | 2024-09-13 | 2024-11-16 |
 | [Kiss The Ground](https://open.spotify.com/track/4hXc50b59ywx8cdg9KlHCQ) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Turn Off All The Lights](https://open.spotify.com/album/4HE5bl6sodd4gAXj3COIeJ) | 2:35 | 2024-04-26 | 2024-09-21 |
@@ -972,6 +974,7 @@
 | [What You Need](https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [What You Need](https://open.spotify.com/album/2YWW63Kn9RPJehvYaXEUJV) | 3:16 | 2023-01-06 | 2023-04-29 |
 | [What's My Name \(Red Version\) \- From "Descendants: The Rise of Red"/Soundtrack Version](https://open.spotify.com/track/1duJTDSFuK3sB0NwNr0QRg) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [What's My Name \(Red Version\) \[From "Descendants: The Rise of Red"/Soundtrack Version\]](https://open.spotify.com/album/2UGytdqtYVoyPeBa5UTP7u) | 2:26 | 2024-04-26 | 2024-06-08 |
 | [Whatshisface](https://open.spotify.com/track/3VIpGWhJ4vFjqqGmABxMEs) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Whatshisface](https://open.spotify.com/album/2SisBph5Spa2QQgye7AeRX) | 2:41 | 2022-05-20 | 2022-09-24 |
+| [WHEN IT'S ALL HAPPENING](https://open.spotify.com/track/5J5nNJuC002ukgXvjDseA6) | [KANNER](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh) | [WHEN IT'S ALL HAPPENING](https://open.spotify.com/album/3mlKuxtJkPzW4ijNL6BTbf) | 2:38 | 2025-10-24 |  |
 | [WHEN THE PARTY'S OVER](https://open.spotify.com/track/0ycbYEcMjQ40iYsVnNiYJh) | [Cami Petyn](https://open.spotify.com/artist/6JqGJJoqtihzki7F0bbc39) | [WHEN THE PARTY'S OVER](https://open.spotify.com/album/0tG7VIxGjt3aDZW2tUGVUz) | 3:11 | 2023-04-28 | 2023-06-17 |
 | [When You Call](https://open.spotify.com/track/5Xhj8tYxc1LjfSSMw1jNvd) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [When You Call](https://open.spotify.com/album/4fsTGQy7aqZI8xGM1eEYnz) | 3:05 | 2024-03-29 | 2024-06-08 |
 | [When You Say My Name](https://open.spotify.com/track/3a8b6uo4vnQSJroGhaNhgG) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [When You Say My Name](https://open.spotify.com/album/4xoST8PDJr9fDe8OKhT0a5) | 2:28 | 2022-03-18 | 2022-12-24 |

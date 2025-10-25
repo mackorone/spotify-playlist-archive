@@ -1,13 +1,33 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 141453,
+  "num_followers": 141483,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFGmuH37cmn0gZlX/UKsKTbAlLW5",
+  "snapshot_id": "AAAAACgPIfibWZvwpBBDSNRFD7FLjawI",
   "tracks": [
+    {
+      "added_at": "2025-10-24 04:00:05",
+      "album": {
+        "name": "Ain\u2019t That A Trip [Feat. Van Morrison]",
+        "url": "https://open.spotify.com/album/5hBxD18qmcUTLj47jbHrDh"
+      },
+      "artists": [
+        {
+          "name": "The James Hunter Six",
+          "url": "https://open.spotify.com/artist/0Fn28eidAZsxHQhTzY3gKp"
+        },
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 209021,
+      "name": "Ain\u2019t That A Trip [Feat. Van Morrison]",
+      "url": "https://open.spotify.com/track/2n4pXSD97ATMzGzoLrgmS6"
+    },
     {
       "added_at": "2025-10-17 04:00:35",
       "album": {
@@ -388,7 +408,7 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 228167,
+      "duration_ms": 228173,
       "name": "Been There Done That",
       "url": "https://open.spotify.com/track/58fNv64oeBSZdAsYipR5pj"
     },
@@ -1811,22 +1831,6 @@
       "duration_ms": 267507,
       "name": "Death Letter Blues",
       "url": "https://open.spotify.com/track/4puWQaJshTiBkNMVmp9Aqa"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Help Yourself",
-        "url": "https://open.spotify.com/album/3dRkh2xDogXlODckUjdnCF"
-      },
-      "artists": [
-        {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
-        }
-      ],
-      "duration_ms": 244306,
-      "name": "Help Yourself",
-      "url": "https://open.spotify.com/track/6i2EOHluVZewHGo1WivSnA"
     }
   ],
   "unique_name": "Got Blues",

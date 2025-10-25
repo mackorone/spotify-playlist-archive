@@ -4,7 +4,7 @@
 
 > my alt/pop could mean anything ⚔️<br/>cover: 5 seconds of summer
 
-534 songs - 1 day 4 hr 44 min
+534 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Aperol Spritz](https://open.spotify.com/track/10V1mRpItQP4ZNCfEiOuF7) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl) | [Aperol Spritz](https://open.spotify.com/album/6WuSVFwTdlUGqq4Q5t6uR5) | 2:59 | 2025-06-19 | 2025-07-11 |
 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-07-12 | 2025-03-14 |
 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 | 2024-10-10 | 2025-03-21 |
-| [as i wave goodbye](https://open.spotify.com/track/3NsnczRs7xsd7gx89w5Ufo) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [](https://open.spotify.com/album/null) | 2:26 | 2025-10-23 |  |
+| [as i wave goodbye](https://open.spotify.com/track/3NsnczRs7xsd7gx89w5Ufo) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [LOVERCORE](https://open.spotify.com/album/75FM00r9Lgdi0YHv7vvzzB) | 2:26 | 2025-10-23 |  |
 | [As Scared As Can Be](https://open.spotify.com/track/1yjXEIowi1Rp64zlkYnxvn) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [As Scared As Can Be](https://open.spotify.com/album/719Eksotj9w0EwXLJ7Gj4A) | 2:07 | 2025-05-15 | 2025-08-29 |
 | [ASCETIC HEDONIST](https://open.spotify.com/track/01vg6oJXn3iwhlDhe2wF6p) | [NEO 10Y](https://open.spotify.com/artist/3G1V2jfTZO61Hs3dX7ilrA) | [ASCETIC HEDONIST](https://open.spotify.com/album/5hC4idUD8YDAtRNJitUB2C) | 3:08 | 2025-09-11 |  |
 | [AUX](https://open.spotify.com/track/3el0iIbfpM3a838tWxLuSO) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [AUX](https://open.spotify.com/album/4THxfUGkJIhtrlhBCWbgmZ) | 3:06 | 2025-03-07 | 2025-03-28 |
@@ -78,7 +78,7 @@
 | [borderline](https://open.spotify.com/track/3cfG7BZUKJuHjXZTpfsjNK) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [borderline](https://open.spotify.com/album/0G2chJn3DFh0FSjdDG9iyT) | 3:25 | 2025-03-28 | 2025-05-02 |
 | [Boyfriend](https://open.spotify.com/track/7r7RrAfvDiPYXm844DOSYT) | [Dirt Flirt](https://open.spotify.com/artist/3T4wXV4IkOAtdBXIJ2TpLE) | [Boyfriend](https://open.spotify.com/album/55HcEdFWzWzsWkhOH5fU8B) | 3:00 | 2025-03-21 | 2025-04-04 |
 | [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 | 2024-06-07 | 2025-03-14 |
-| [Bracing For Impact](https://open.spotify.com/track/4AcdJoArcqN1FRV7W1SJ1I) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [](https://open.spotify.com/album/null) | 3:14 | 2025-10-23 |  |
+| [Bracing For Impact](https://open.spotify.com/track/4AcdJoArcqN1FRV7W1SJ1I) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Bracing For Impact](https://open.spotify.com/album/6yQAIt35n1JPwzIfvCxZrI) | 3:14 | 2025-10-23 |  |
 | [Break the Girl](https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI) | 3:31 | 2025-09-04 |  |
 | [breath away](https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:46 | 2024-06-07 | 2025-03-08 |
 | [Broken Glass](https://open.spotify.com/track/6xCKXznjcHv2hZWDA0pRIe) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:14 | 2025-06-26 | 2025-07-11 |
@@ -180,6 +180,7 @@
 | [Flutter](https://open.spotify.com/track/2IDBj3mMUuwjE3tAhRjdMN) | [phonewifey](https://open.spotify.com/artist/3UrSRgbnWzDJsDNVFMaDP8), [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Flutter](https://open.spotify.com/album/16sYs1XXZugWWYdOzpcbBW) | 6:06 | 2025-03-21 | 2025-04-18 |
 | [fone sex](https://open.spotify.com/track/08TKXI6IiQ7t5YvzUHCdSh) | [Jessy Blakemore](https://open.spotify.com/artist/6Z2SXdkJgWDEMm6NANPVDu) | [fone sex](https://open.spotify.com/album/6iL6voNT0CPzmIoTazn30v) | 2:53 | 2025-07-31 | 2025-08-22 |
 | [for a minute](https://open.spotify.com/track/5bzev9C3DqRciIqGUyPIr5) | [lilheartbreak](https://open.spotify.com/artist/6LMdMAYI8JDAT0KASyl97P) | [for a minute](https://open.spotify.com/album/1KkPPB5NYWCLcQF4pkGpsC) | 2:02 | 2025-07-24 | 2025-09-12 |
+| [Forgive Forget, Pt\. 1](https://open.spotify.com/track/5hwQW2iEICCaPaNThDYEbQ) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [The Fault Is Mine](https://open.spotify.com/album/44fChYO2kcJq8iXFHH7CVW) | 2:51 | 2025-10-23 |  |
 | [four letter word](https://open.spotify.com/track/4E15J6efy16HF8pP4VZIji) | [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [four letter word](https://open.spotify.com/album/2sY5gG5TnV2Pi0WNhh8Tg9) | 2:22 | 2025-04-17 | 2025-05-31 |
 | [Free](https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Free](https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX) | 3:11 | 2024-07-12 | 2025-02-11 |
 | [front seat honey](https://open.spotify.com/track/5bwErSkWEn7erwob3o00d0) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Another Day In Paradise](https://open.spotify.com/album/6qkrUuqvTFKdLfJurM8jAJ) | 3:07 | 2025-03-21 | 2025-04-18 |
@@ -491,7 +492,6 @@
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-06-07 | 2025-03-08 |
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-06-07 | 2024-10-04 |
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 | 2025-07-25 |
-| [Track 6](https://open.spotify.com/track/5hwQW2iEICCaPaNThDYEbQ) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-07 | 2025-03-14 |
 | [True Believer](https://open.spotify.com/track/4G1ihdzBFpIwd9brtk0AF3) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [True Believer](https://open.spotify.com/album/59CWOYyzKcrts5u07Bs6jI) | 3:49 | 2025-08-15 | 2025-09-20 |
 | [Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Turn it up](https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0) | 2:27 | 2024-06-07 | 2025-03-14 |

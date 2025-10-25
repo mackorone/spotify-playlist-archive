@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the sounds of South African Jazz. Cover: Kujenga",
+  "description": "Journey through the sounds of South African Jazz. Cover: Mandisi Dyantyis",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -302,6 +302,24 @@
       "duration_ms": 186744,
       "name": "amen",
       "url": "https://open.spotify.com/track/0pVZIfRcoJdxOOrNfEAV6Z"
+    },
+    {
+      "album": {
+        "name": "Intlambululo: Ukuhlambulula",
+        "url": "https://open.spotify.com/album/2hxynae0xcceJMSPSjDuhg"
+      },
+      "artists": [
+        {
+          "name": "Mandisi Dyantyis",
+          "url": "https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354824,
+      "name": "Amyoli",
+      "url": "https://open.spotify.com/track/2oV2mK0Jui9PEhz9Dd1hmA"
     },
     {
       "album": {
@@ -898,7 +916,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 418730,
       "name": "Clarion Call",
       "url": "https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq"
@@ -2328,7 +2346,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 413864,
       "name": "Inkehli",
       "url": "https://open.spotify.com/track/2sCSm8uWxprJbkwqk4roTs"
@@ -2488,6 +2506,24 @@
       "duration_ms": 480000,
       "name": "Intlungu Nentlupheko",
       "url": "https://open.spotify.com/track/46IEMoR4xnawTn2mIGBPxz"
+    },
+    {
+      "album": {
+        "name": "Common Ground",
+        "url": "https://open.spotify.com/album/0CxcBTRqAXosN7Ux6aNqAw"
+      },
+      "artists": [
+        {
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398891,
+      "name": "Inveterate",
+      "url": "https://open.spotify.com/track/3rADL2yuY67rUBUs5o2Zib"
     },
     {
       "album": {
@@ -2906,6 +2942,24 @@
       "duration_ms": 221333,
       "name": "Kwa Thula",
       "url": "https://open.spotify.com/track/08Gj2NwZwtrhbwqiCEVSUb"
+    },
+    {
+      "album": {
+        "name": "ISIGQI (live at the bird's eye)",
+        "url": "https://open.spotify.com/album/7EUxCUZdyjSkcCHvCmtAdM"
+      },
+      "artists": [
+        {
+          "name": "Sibusiso Mash Mashiloane",
+          "url": "https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 602757,
+      "name": "KwaZulu (Live)",
+      "url": "https://open.spotify.com/track/67Tzj44OUju41V3LCMegSY"
     },
     {
       "album": {
@@ -3624,7 +3678,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 445413,
       "name": "Ndinethemba Uzobuya",
       "url": "https://open.spotify.com/track/2gwBglRtGHShv6sY8aNqwR"

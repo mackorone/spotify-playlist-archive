@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 165645,
+  "num_followers": 165664,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAH/0InqDwtYy+7m6Fr61Hp",
+  "snapshot_id": "aPlwAAAAAADQmvNAaRCfD9ZPcVuRBrlc",
   "tracks": [
     {
       "added_at": null,
@@ -559,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Alive",
-        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+        "name": "In Session",
+        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
       },
       "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 277306,
-      "name": "Willie The Wimp - Live",
-      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
+      "duration_ms": 537226,
+      "name": "Don't Lie To Me",
+      "url": "https://open.spotify.com/track/3S7qClovzdfoPxqVPcH8ma"
     },
     {
       "added_at": null,
@@ -643,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Session",
-        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
+        "name": "Live Alive",
+        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
       },
       "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 537226,
-      "name": "Don't Lie To Me",
-      "url": "https://open.spotify.com/track/3S7qClovzdfoPxqVPcH8ma"
+      "duration_ms": 277306,
+      "name": "Willie The Wimp - Live",
+      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Alive",
-        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 335160,
-      "name": "I'm Leaving You (Commit A Crime) - Live",
-      "url": "https://open.spotify.com/track/2z9BPNJ7YgANyqBEEU07ur"
+      "duration_ms": 228800,
+      "name": "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980",
+      "url": "https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "Live Alive",
+        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980",
-      "url": "https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe"
+      "duration_ms": 335160,
+      "name": "I'm Leaving You (Commit A Crime) - Live",
+      "url": "https://open.spotify.com/track/2z9BPNJ7YgANyqBEEU07ur"
     },
     {
       "added_at": null,

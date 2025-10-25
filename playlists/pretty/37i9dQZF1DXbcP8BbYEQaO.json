@@ -1,12 +1,12 @@
 {
   "description": "Pop for neon streets, rainy windows, and everything you still feel after dark.",
-  "num_followers": 277013,
+  "num_followers": 277024,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEN/DjyE3yMj6g9YaZupu8V8iQzw",
+  "snapshot_id": "AAAAAE1m9uVgFt+0FdAn9SYmficG7VOB",
   "tracks": [
     {
       "added_at": "2025-09-12 04:00:31",
@@ -59,6 +59,22 @@
       "duration_ms": 246469,
       "name": "I'm Not Going Anywhere",
       "url": "https://open.spotify.com/track/7xUYVXZTGsU45EQDaDcZbr"
+    },
+    {
+      "added_at": "2025-10-24 04:26:54",
+      "album": {
+        "name": "It\u2019s Not That Deep",
+        "url": "https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 183247,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O"
     },
     {
       "added_at": "2025-09-27 19:03:23",
@@ -641,22 +657,6 @@
       "url": "https://open.spotify.com/track/5YS94vzqRIexErw7hMbufA"
     },
     {
-      "added_at": "2025-07-18 04:00:32",
-      "album": {
-        "name": "Ride Or Die",
-        "url": "https://open.spotify.com/album/40WL9iL1HCYnppQLDbRuGJ"
-      },
-      "artists": [
-        {
-          "name": "PHEA",
-          "url": "https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL"
-        }
-      ],
-      "duration_ms": 164338,
-      "name": "Ride Or Die",
-      "url": "https://open.spotify.com/track/7A6BREshRrCXX6nWgGLSan"
-    },
-    {
       "added_at": "2025-07-11 04:00:19",
       "album": {
         "name": "Moonlight",
@@ -764,7 +764,7 @@
           "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
         }
       ],
-      "duration_ms": 240013,
+      "duration_ms": 240012,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1BolvPHesuoFdC8hSPp4IW"
     },

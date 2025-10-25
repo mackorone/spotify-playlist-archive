@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Tăng Duy Tân
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,230 likes - 52 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,240 likes - 52 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 51 | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Muộii \(Starry Night\)](https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8) | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo) | 3:28 |
 | 52 | [Từng Ngày Yêu Em](https://open.spotify.com/track/3Ids3RXurYBgySph53qWnB) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Từng Ngày Như Mãi Mãi](https://open.spotify.com/album/2DCbDdIBNRxx0SxLtgyd4D) | 3:45 |
 
-Snapshot ID: `AAAAANGeRfErX7JGCf6+kDVptAI0d4rj`
+Snapshot ID: `AAAAABuuKIKxyQa/3c+/jDtso6h6CAMT`

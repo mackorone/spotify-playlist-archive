@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,221 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,248 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [](https://open.spotify.com/album/null) | 4:25 |
+| 1 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
 | 2 | [Normal Today](https://open.spotify.com/track/31Nc6gzU9XQ2N424Ox8RDk) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Normal Today](https://open.spotify.com/album/26q3rNHs0qM9khbGaiWTcd) | 3:13 |
 | 3 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
 | 4 | [Fr3o](https://open.spotify.com/track/1CQhEJ1Eg6jqmU1qQH8uJ9) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Fr3o](https://open.spotify.com/album/2kn6CbVOHlyu4i82oIkpOK) | 3:27 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 16 | [Past Lives](https://open.spotify.com/track/6leeLmx8UArqFZtqTsoUN8) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Past Lives](https://open.spotify.com/album/5xYi9SNcnF8kvwhIhsx6nf) | 2:57 |
 | 17 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 |
 | 18 | [Sideways](https://open.spotify.com/track/6GCcY6dVDVGxo52OZq9HVW) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Portal](https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB) | 3:07 |
-| 19 | [Track 6](https://open.spotify.com/track/1txgc19GYBfpziML86jyXb) | [BANFF](https://open.spotify.com/artist/1HXutqlj4mgfiRmeJSUN2f) | [](https://open.spotify.com/album/null) | 0:00 |
+| 19 | [One Step Off The Pace](https://open.spotify.com/track/1txgc19GYBfpziML86jyXb) | [BANFF](https://open.spotify.com/artist/1HXutqlj4mgfiRmeJSUN2f) | [Bleed Out](https://open.spotify.com/album/1YS33gVZMc999xwUzFtYic) | 3:36 |
 | 20 | [The Coward Forgets His Nightmare](https://open.spotify.com/track/4x6ZZ97Ze9K8IoaHFkxJWb) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [The Coward Forgets His Nightmare](https://open.spotify.com/album/792UORpgms3EOVSbVtSD0A) | 3:32 |
 | 21 | [HEARTBREAK](https://open.spotify.com/track/1i6c5ZnIUB19sBhhKEmUjq) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [HEARTBREAK](https://open.spotify.com/album/3MLBJ0dE7gNUtDvxPL0T91) | 3:32 |
 | 22 | [Prove](https://open.spotify.com/track/3b0xNfVAT1xj3hRkl23PD6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO) | [It Starts Again](https://open.spotify.com/album/6Pgc6rfkN8tH7Di52bEXnQ) | 3:04 |

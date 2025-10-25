@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Steffany Gretzinger
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,671 likes - 74 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,684 likes - 74 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 73 | [Song Of My Life](https://open.spotify.com/track/7ySU8RI3SEj53a6WJugTvf) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [Song Of My Life](https://open.spotify.com/album/5PGIWSY5oDKxYGgauEl1Kx) | 4:25 |
 | 74 | [Koolaid](https://open.spotify.com/track/2VT2WRmWPN4Be318KrdFDo) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Koolaid](https://open.spotify.com/album/0di8Gum7drHw1FPmniZRvr) | 3:00 |
 
-Snapshot ID: `AAAAAC1Yc5RDIvuosHSwqvWAAiuaTnNF`
+Snapshot ID: `AAAAANMofV95cPO8TZ4wU5Xj6t6LCGBy`

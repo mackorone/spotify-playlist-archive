@@ -4,7 +4,7 @@
 
 > Bossa nova vibes for the hopeless romantic daydreamers\. Cover: Laufey
 
-172 songs - 8 hr 41 min
+173 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [boo hoo](https://open.spotify.com/track/42Dvo910Rj43IijSxDFQTy) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [boo hoo](https://open.spotify.com/album/6IbJjpmcM4ewdqYjiSHCJM) | 2:46 | 2024-06-21 | 2025-01-21 |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-26 |  |
 | [Brigadeiro \(the bing bong song\)](https://open.spotify.com/track/63WhiH2jsaEyFRvrnOgYvH) | [gabi belle](https://open.spotify.com/artist/35XGyNw5Q7bvcF8BWWXbom) | [Brigadeiro \(the bing bong song\)](https://open.spotify.com/album/3WkkPDzUhCICizxE6ZHeEE) | 2:32 | 2025-01-20 |  |
-| [But Not For Me](https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [But Not For Me](https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj) | 2:09 | 2024-12-13 |  |
+| [But Not For Me](https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [But Not For Me](https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj) | 2:09 | 2024-12-13 | 2025-10-25 |
 | [Butterflies \(feat\. Tim Bernardes\)](https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Flower of the soul](https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U) | 5:22 | 2024-06-28 |  |
+| [buttons](https://open.spotify.com/track/41vSliETlsQOzukEfCjjSh) | [natalie jinju](https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu) | [buttons](https://open.spotify.com/album/1oTiL3l8dFVgiLcZ0rGkSx) | 3:36 | 2025-10-24 |  |
 | [California Sober](https://open.spotify.com/track/0XyFRZsZj4VvcUknNAzrpY) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [California Sober](https://open.spotify.com/album/3KynhVtvF4X6uCVavqJaLm) | 2:42 | 2024-07-26 |  |
 | [Cantares](https://open.spotify.com/track/7tn64XRTYFqr2K7ujNLgTl) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Cantares](https://open.spotify.com/album/1UBBUboWIBuEYeYQy7QFCO) | 2:55 | 2023-01-06 | 2023-09-09 |
 | [Cariño](https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:18 | 2023-09-15 | 2024-04-19 |

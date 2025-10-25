@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Cigarettes After Sex
 
-2,457 songs - 6 day 3 hr 31 min
+2,457 songs - 6 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1345,6 +1345,7 @@
 | [mind control](https://open.spotify.com/track/5kRFzLfxG6C2tH3CSNp6pW) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [mind control](https://open.spotify.com/album/178U0vxnoRt9qhbgoGDBjL) | 2:55 | 2024-09-13 | 2024-10-19 |
 | [Mind is Light](https://open.spotify.com/track/4n5G4vTYpVOpgU1lQLnjSi) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Mind is Light](https://open.spotify.com/album/09xrm1F88FL1OI9kJ8pTkk) | 3:35 | 2023-07-06 | 2023-08-26 |
 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 | 2025-07-17 | 2025-10-04 |
+| [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 | 2025-10-23 |  |
 | [Mindless Creatures](https://open.spotify.com/track/5lzZuwEPInxJRwYUQFqIlH) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Dayglow](https://open.spotify.com/album/6dc1gFl6kyF8LqZ9IGfaYx) | 4:38 | 2024-09-13 | 2024-10-19 |
 | [Miracles](https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Miracles](https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW) | 3:44 | 2022-09-09 | 2022-12-06 |
 | [Mirror](https://open.spotify.com/track/0AXay1TwLmrkdWpVnHbmpl) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Mirror](https://open.spotify.com/album/2WqbgScsOiTs0ps64zytjZ) | 5:44 | 2023-10-20 | 2024-02-03 |
@@ -1870,7 +1871,7 @@
 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 | 2023-10-20 | 2024-02-09 |
 | [Sleeping On My Own](https://open.spotify.com/track/0zGSlVBKxnZM0lBZyBmjlP) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Bunny](https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V) | 2:42 | 2023-06-01 | 2023-07-07 |
 | [Sleepyhead 2025](https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Sleepyhead 2025](https://open.spotify.com/album/3Tq2PZjUqnJ5rJWlmku0Oc) | 4:05 | 2025-03-06 | 2025-03-28 |
-| [Slippin In](https://open.spotify.com/track/0dn0qZHVXr644FfvAdb7pU) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [](https://open.spotify.com/album/null) | 2:20 | 2025-10-23 |  |
+| [Slippin In](https://open.spotify.com/track/0dn0qZHVXr644FfvAdb7pU) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Good Company \(Deluxe\)](https://open.spotify.com/album/1zmNQrPSuRoQfCBj2qUUMr) | 2:20 | 2025-10-23 |  |
 | [Slow Dance](https://open.spotify.com/track/4L23bFa7UjkhRpj3BwY7hu) | [FOLK9](https://open.spotify.com/artist/4rZltXRJKOJfrMb94wvBbL) | [Slow Dance](https://open.spotify.com/album/1qFwIewiyPab9oEBQUuWP9) | 3:05 | 2022-03-31 | 2022-06-10 |
 | [Slugger](https://open.spotify.com/track/3NMXHkEhxF2ijm2KC0wHKU) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Slugger](https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z) | 3:00 | 2024-09-27 | 2024-11-23 |
 | [Slugs](https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Slugs](https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR) | 3:06 | 2023-06-30 | 2023-08-12 |
@@ -2212,7 +2213,6 @@
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 | 2023-09-01 |
 | [Towers](https://open.spotify.com/track/4rMzUBEVw3YaU7xelkCgYR) | [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [Towers](https://open.spotify.com/album/7gW79aYrfQFx0eAyh8Ag1e) | 4:59 | 2024-06-14 | 2024-07-12 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-19 |  |
-| [Track 3](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [Trance State](https://open.spotify.com/track/29gYlp6J0JdpainJfejuge) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Trance State](https://open.spotify.com/album/6jA72KxmV3zGZ54umCGzc6) | 4:23 | 2025-06-13 | 2025-09-05 |
 | [Transmuted Matter](https://open.spotify.com/track/5uC8IfgKCq9RJucC3hNkOM) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Instant Holograms On Metal Film](https://open.spotify.com/album/5nS7jRCPubnZF0OsXEM0D7) | 4:16 | 2025-05-29 | 2025-06-06 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-23 | 2025-06-06 |

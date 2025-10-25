@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Listen to the future\. Cover: karan
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,155 likes - 94 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,154 likes - 94 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FREEFALL](https://open.spotify.com/track/3HbCHPILR31b1riAxfEjmj) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [](https://open.spotify.com/album/null) | 2:52 |
+| 1 | [FREEFALL](https://open.spotify.com/track/3HbCHPILR31b1riAxfEjmj) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Echoes from the Hills](https://open.spotify.com/album/3XZ2Y55Gt0c99bh0jKAAtB) | 2:52 |
 | 2 | [Menjadi Dewasa](https://open.spotify.com/track/4nhzCMML73Im5AAhWzAviK) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb) | [Menjadi Dewasa](https://open.spotify.com/album/1U1XHck0TGcN7cpPnlzOUd) | 4:15 |
 | 3 | [Cari](https://open.spotify.com/track/2Mw6tQcNyvdcieWTBGzwpt) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Cari](https://open.spotify.com/album/6WjIcxK3PneU3eze5r2hPP) | 2:55 |
 | 4 | [ECHOES](https://open.spotify.com/track/3dkbzt0PpWHHq1hCRgbc7N) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [ECHOES](https://open.spotify.com/album/0yj6MHkeUuy7XwB3sOEsYi) | 3:18 |
 | 5 | [RICH](https://open.spotify.com/track/0APma3TkPygErSuwg8y9nn) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [RICH](https://open.spotify.com/album/5As5b3LJnMumsTkQM00x7h) | 2:50 |
 | 6 | [Dendam](https://open.spotify.com/track/24Ooyj1Dci9rluOg1DZ37K) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Dendam](https://open.spotify.com/album/5mFzLpmF4Bvsng3wyx40Bn) | 3:39 |
-| 7 | [THE HILLS](https://open.spotify.com/track/7ekI4xr14wQ0dxuxtR82em) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [](https://open.spotify.com/album/null) | 2:15 |
+| 7 | [THE HILLS](https://open.spotify.com/track/7ekI4xr14wQ0dxuxtR82em) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Echoes from the Hills](https://open.spotify.com/album/3XZ2Y55Gt0c99bh0jKAAtB) | 2:15 |
 | 8 | [KOPI](https://open.spotify.com/track/2EWtkQdW9o8PtIbw0OqNMw) | [NAZU](https://open.spotify.com/artist/37MgONBWvDKXtHSnIo59dk), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [KOPI](https://open.spotify.com/album/5bqruzmuQMjI8YZXIv589g) | 2:54 |
 | 9 | [FOOLED](https://open.spotify.com/track/1VHJJ9e9cYiYZ2vTeYJCWw) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [FOOLED](https://open.spotify.com/album/6XKnNZ3GHLBXdHxD9NNpwW) | 3:38 |
 | 10 | [Lepas Pegangan](https://open.spotify.com/track/6HlPJ9EhmA6CgBD4Ke5AeG) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb), [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Lepas Pegangan](https://open.spotify.com/album/5WOKeopcxaXQPkEjUJrX6q) | 3:15 |

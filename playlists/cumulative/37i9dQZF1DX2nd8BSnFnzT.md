@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Indigans
 
-565 songs - 1 day 7 hr 31 min
+566 songs - 1 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Open Mic Brasil \#3 \- Medley 2025](https://open.spotify.com/track/3En6q5zrmKjkmZY6BIuGR5) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1), [Tiankris](https://open.spotify.com/artist/0G1OtpH8DaTJVAhg8b6hhI) | [Open Mic Brasil \#3 \- Medley 2025](https://open.spotify.com/album/3MXKXYcPZQjdGboHnYyVHB) | 2:04 | 2025-10-03 |  |
 | [Oq Sou pra Vc?](https://open.spotify.com/track/1bbIDW4Q09GDQKufvIkHRm) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK) | [Plástico](https://open.spotify.com/album/6yW0G6JODPeXJf7QXiVP2S) | 2:59 | 2023-07-28 |  |
 | [Os Calo](https://open.spotify.com/track/24K3sHL1SMhwT4p9rslFI4) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Os Calo](https://open.spotify.com/album/3pfquBrYpyL8pLDLnX4E8g) | 3:33 | 2025-02-14 | 2025-06-21 |
+| [Os Calo](https://open.spotify.com/track/6S71HoKuRv0DkUseOwBWwl) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [XXX](https://open.spotify.com/album/7hblqnTE9JBown6OuvVJNh) | 3:33 | 2025-10-24 |  |
 | [ousadia](https://open.spotify.com/track/515xHX1Jv1hMDc9XdWp1Hv) | [Odeon](https://open.spotify.com/artist/4sQ0rhuhy3NbmADbXEFmIt) | [ousadia](https://open.spotify.com/album/7cvBGkj0PeuIMmJco8zu7J) | 3:09 | 2022-03-11 | 2022-04-02 |
 | [Outono](https://open.spotify.com/track/0oD08rD3TriDPXQYFOISKt) | [LAZÚLI](https://open.spotify.com/artist/5IilR9x7kwVvC9MkAnprVP), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Outono](https://open.spotify.com/album/4cm6Omv3PJEVPQmQmjrNfz) | 4:15 | 2022-01-14 | 2022-11-12 |
 | [Outro Lugar \(feat\. Badauí\) \- Ao Vivo](https://open.spotify.com/track/4bsZ1px2MlpkIviocF4qFv) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [20 Anos \- Acústico](https://open.spotify.com/album/16okUPvniGJp4tXjeLBgLw) | 4:14 | 2023-09-15 |  |
@@ -437,7 +438,7 @@
 | [Queda Livre](https://open.spotify.com/track/6bbJfRj9tp9BN2FTqqKzIB) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt\. 2](https://open.spotify.com/album/6o0zg6G1XY9KqwyTPmZCsV) | 3:40 | 2022-07-08 | 2022-09-03 |
 | [Queima!](https://open.spotify.com/track/0pF769SkaUcmdqoZysvcAY) | [Inocentes](https://open.spotify.com/artist/5PFAm9rM4jrm1X2jPX95E2) | [Queima!](https://open.spotify.com/album/0y1eK5Qgz9md8R9SambB6h) | 2:30 | 2022-07-29 | 2022-08-02 |
 | [QUEM NUNCA??](https://open.spotify.com/track/3LhSiMorC6IntBm252H00W) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Egypcio](https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6) | [QUEM NUNCA??](https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV) | 3:36 | 2023-11-10 |  |
-| [quero MAIS](https://open.spotify.com/track/6RKOKsO0CjpzzKrIOuRSum) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [quero MAIS](https://open.spotify.com/album/0bYca4gn3JGd723cTqNeQJ) | 2:55 | 2025-03-24 |  |
+| [quero MAIS](https://open.spotify.com/track/6RKOKsO0CjpzzKrIOuRSum) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [quero MAIS](https://open.spotify.com/album/0bYca4gn3JGd723cTqNeQJ) | 2:55 | 2025-03-24 | 2025-10-25 |
 | [Quero Ser Eu Mesmo](https://open.spotify.com/track/4KRdoq2lJw8dKg9QvJkx07) | [The Kira Justice](https://open.spotify.com/artist/0h00Bh6AN0E9SOnMVInpcN), [Samurai Ghile](https://open.spotify.com/artist/3kSm6WL86cVmLKLTFS3G6N) | [Quero Ser Eu Mesmo](https://open.spotify.com/album/04YbltMjXDT4Kmv07nbxXO) | 3:26 | 2022-01-14 | 2022-04-16 |
 | [Quimera](https://open.spotify.com/track/2bQSvx3K75nqX53Z2AZdmB) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Quimera](https://open.spotify.com/album/6e8pBVUdIRsZOKNIjgyuKj) | 3:34 | 2025-05-30 | 2025-07-12 |
 | [Quintal de Ilusões](https://open.spotify.com/track/1rtbQCSZnoqekCaYzFrgFT) | [kamposcomk](https://open.spotify.com/artist/5v7FspAp61fDlTWCdbdWmE) | [Quintal de Ilusões](https://open.spotify.com/album/6SItZTMqdkxqoUWIbNnxAt) | 3:06 | 2024-02-23 | 2024-05-03 |

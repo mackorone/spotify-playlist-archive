@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: Tagne
+> Cover: Shaw, Hassa1
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,814 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,901 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Boca X2](https://open.spotify.com/track/3r7RFeDHm1VZDVZpmpRCz8) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Boca X2](https://open.spotify.com/album/3ruYtS9atWFc9NrHTMKKT6) | 2:16 |
-| 2 | [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 |
-| 3 | [DRAHEM](https://open.spotify.com/track/25h9K4A81FK9sCZqdAxxQK) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [DRAHEM](https://open.spotify.com/album/1m5LKzxwpOORztQjbAJe7r) | 2:41 |
+| 1 | [DRAHEM](https://open.spotify.com/track/25h9K4A81FK9sCZqdAxxQK) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [DRAHEM](https://open.spotify.com/album/1m5LKzxwpOORztQjbAJe7r) | 2:41 |
+| 2 | [Boca X2](https://open.spotify.com/track/3r7RFeDHm1VZDVZpmpRCz8) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Boca X2](https://open.spotify.com/album/3ruYtS9atWFc9NrHTMKKT6) | 2:16 |
+| 3 | [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 |
 | 4 | [Souvenir](https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 3:14 |
 | 5 | [MOON](https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:29 |
 | 6 | [BOOM](https://open.spotify.com/track/61HBQ151SsOvfYq383oK7T) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [BOOM](https://open.spotify.com/album/7InGVZYEVFzVHMVKaKXWlw) | 2:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Medical](https://open.spotify.com/track/0jA7YjPRVkCI3pHQXwiecN) | [salvh](https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Medical](https://open.spotify.com/album/7718Pguh1bHXGkzMLDwIBA) | 3:44 |
 | 50 | [GALÈRE](https://open.spotify.com/track/5CCjNFx5hkx3GfRdux4DDQ) | [Nouvo](https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [GALÈRE](https://open.spotify.com/album/3wmwLmLOPGjhyRmPPDJ5Hd) | 3:17 |
 
-Snapshot ID: `AAAAACSbGnhhxu+ji4PeQA5KD9zMnhwH`
+Snapshot ID: `AAAAAOEOGa94om+cjt9TIMDpllWSDLeh`

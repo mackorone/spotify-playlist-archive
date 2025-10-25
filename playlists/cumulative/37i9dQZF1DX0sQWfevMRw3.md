@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,476 songs - 2 day 13 hr 14 min
+1,477 songs - 2 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -827,6 +827,7 @@
 | [Längtan till landet \(Vintern rasat\)](https://open.spotify.com/track/0hJLWZoQuxeEQD3PXuJ0DN) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [DJ BERIT](https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI), [LUREBUS](https://open.spotify.com/artist/0wiMDZudqaqFP5O5FQEPWy) | [Längtan till landet \(Vintern rasat\)](https://open.spotify.com/album/033WPiku5oSIManSRTJqeW) | 1:43 | 2024-12-12 | 2025-01-03 |
 | [LÄPPGLANS FRÅN DIOR](https://open.spotify.com/track/3QoNMeLryCwlkvEbHPX0DM) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [LÄPPGLANS FRÅN DIOR](https://open.spotify.com/album/3jRXUkNegdStJM17jm6MlI) | 2:12 | 2023-10-05 | 2024-02-16 |
 | [LÄPPGLANS FRÅN DIOR \- EPA SATAN & GRETA TUBORG REMIX](https://open.spotify.com/track/04xFlIdZ0HoKIJQsPQ68Bj) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [EPA SATAN](https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA), [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ) | [LÄPPGLANS FRÅN DIOR \(EPA SATAN & GRETA TUBORG REMIX\)](https://open.spotify.com/album/0ncmCdtYBNHVyTRcPs4QVI) | 2:20 | 2023-10-05 | 2024-03-15 |
+| [LÄTTAR](https://open.spotify.com/track/0haBpxAKNDWImmQf91NPdF) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [LÄTTAR](https://open.spotify.com/album/6WvdffDFUri9uyYv4VznKR) | 2:02 | 2025-10-24 |  |
 | [LÅNGA BURKAR](https://open.spotify.com/track/3VWZKHoyolXpBUz4RCzntj) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd), [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [LÅNGA BURKAR](https://open.spotify.com/album/2T5pUpS8czGWYk5F210F3S) | 2:54 | 2025-02-20 | 2025-05-29 |
 | [LÅNGKALSONG](https://open.spotify.com/track/7BXRbf4PuqxAWI1AXVv91f) | [FLÄDERPOJKARNA](https://open.spotify.com/artist/6kVG7vRsL7U7UuATIAyPtd), [RAGATAN](https://open.spotify.com/artist/2uWYyl8j1P60ZXIz3hP1sx) | [LÅNGKALSONG](https://open.spotify.com/album/4Ca06HiAHtIvwLKPx9FvB9) | 2:24 | 2023-09-28 | 2023-10-27 |
 | [Lördag hela veckan](https://open.spotify.com/track/6TYMsHDg0k82HmBfN3foub) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [Lördag hela veckan](https://open.spotify.com/album/6lpQq3LpNN4XKOJRgoIHPe) | 2:03 | 2023-02-16 | 2023-03-03 |
@@ -1358,7 +1359,7 @@
 | [UNG OCH TRÖG](https://open.spotify.com/track/03kKT8ExrGNmqzhcFSaGO9) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [FERDY](https://open.spotify.com/artist/208RE1Kcvc7w4N1dqnhJPw) | [UNG OCH TRÖG](https://open.spotify.com/album/05gQlkBISFHuFJ7PFzCGbF) | 2:10 | 2025-05-29 |  |
 | [UNGA & FRIA](https://open.spotify.com/track/2ArX0SzCSHXytmAg36BIev) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [UNGA & FRIA](https://open.spotify.com/album/07w87eimESXFgxpCI191vp) | 3:02 | 2024-02-13 | 2025-02-14 |
 | [UNGA & FRIA REMIX](https://open.spotify.com/track/1ahb93Op9pGIoAmtjMvPdT) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [UNGA & FRIA REMIX](https://open.spotify.com/album/2qy2vrpRkn1AAFHSEguCaX) | 3:04 | 2024-04-18 | 2024-10-18 |
-| [UNGA I KVÄLL](https://open.spotify.com/track/34k8eZfhDDXuNimjjiO0lA) | [Bakis Boyz](https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u) | [UNGA I KVÄLL](https://open.spotify.com/album/1TFpBPxP19jxDffaK0e3t0) | 2:20 | 2025-10-13 |  |
+| [UNGA I KVÄLL](https://open.spotify.com/track/34k8eZfhDDXuNimjjiO0lA) | [BAKI$](https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u) | [UNGA I KVÄLL](https://open.spotify.com/album/1TFpBPxP19jxDffaK0e3t0) | 2:20 | 2025-10-13 |  |
 | [Unga och dumma](https://open.spotify.com/track/53fU7VJqycVuJB5T849216) | [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro), [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [Unga och dumma](https://open.spotify.com/album/7u7VGTT7qMNAiieS9RBdTz) | 2:27 | 2025-05-15 |  |
 | [UNIDUNK](https://open.spotify.com/track/05flMhHC1if3YNdASWLNYs) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z) | [UNIDUNK](https://open.spotify.com/album/2G4qhLFJh1ryGtXli2Ts95) | 2:26 | 2023-11-09 | 2023-12-01 |
 | [Untz \- Zookeepers Remix](https://open.spotify.com/track/0K8lUzN2gLvo9wmY6wFSU8) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Miles Hi](https://open.spotify.com/artist/41Bz5o8M5l4QarFJfMJYsV), [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC) | [Untz \(Zookeepers Remix\)](https://open.spotify.com/album/5bGjKPjZg6JSwlznEY1aqL) | 2:10 | 2021-12-16 | 2022-04-22 |

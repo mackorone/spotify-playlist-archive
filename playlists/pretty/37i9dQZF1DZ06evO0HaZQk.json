@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 522363,
+  "num_followers": 522384,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAQRNEiB6Em1IKORXnU3Bzi",
+  "snapshot_id": "aPlwAAAAAADK2j7Ku8/a/vrtl7hFataE",
   "tracks": [
     {
       "added_at": null,
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
         }
       ],
-      "duration_ms": 244933,
-      "name": "T\u00fa S\u00ed Sabes Quererme (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/6p3yxt0uJJshAS3CT0znQg"
+      "duration_ms": 214546,
+      "name": "Soledad y el Mar (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/1Xtz05nIgJiEYdncfd1w8h"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
         }
       ],
-      "duration_ms": 214546,
-      "name": "Soledad y el Mar (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/1Xtz05nIgJiEYdncfd1w8h"
+      "duration_ms": 244933,
+      "name": "T\u00fa S\u00ed Sabes Quererme (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/6p3yxt0uJJshAS3CT0znQg"
     },
     {
       "added_at": null,
@@ -803,6 +803,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Luz de Luna (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/74dEpDBV7Lb5OJlhRPmRKw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "T\u00fa Ve",
         "url": "https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 233800,
       "name": "Mi manera de querer",
       "url": "https://open.spotify.com/track/2rT9arG3oKOPquWNik5l73"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
-        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Luz de Luna (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/74dEpDBV7Lb5OJlhRPmRKw"
     },
     {
       "added_at": null,

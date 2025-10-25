@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new electronic indie music\. Cover: Me Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,783 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,796 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 69 | [So Low](https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [So Low](https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV) | 2:45 |
 | 70 | [⁠The Ghost of Her Smile](https://open.spotify.com/track/56Q8UTxYRhMu1YaF3wW9GG) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Julie Dawson](https://open.spotify.com/artist/1TzJp2tHjwJG5CZKPWGBIL) | [The Ghost of Her Smile](https://open.spotify.com/album/1eqB2GZ3j5ElZdXHUctKOB) | 3:40 |
 
-Snapshot ID: `AAAAANpVp+nhfx04/MK/C9q0oDZE3aAb`
+Snapshot ID: `AAAAAGhT3Q0teX5m1LwE22rYvmIzGobo`

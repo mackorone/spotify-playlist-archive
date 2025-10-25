@@ -4,7 +4,7 @@
 
 > Only the best Tech House 🔥 Submit: tstack.app&\#x2F;bassline\-therapy
 
-882 songs - 1 day 22 hr 38 min
+884 songs - 1 day 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Dominator](https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Max Mylo](https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK), [Human Resource](https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t) | [Dominator](https://open.spotify.com/album/0d24GMCqZ7kyl5Q9xtJfaH) | 2:51 | 2024-06-23 | 2024-08-20 |
 | [Don't Hurt Em \(feat\. Dances With White Girls\)](https://open.spotify.com/track/2Y4okWAmSGuhwdE0iJxyFE) | [Factory Fresh](https://open.spotify.com/artist/68q7QtEIo2YcVKkTijVSrm), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [Don't Hurt Em](https://open.spotify.com/album/7Bypt6rLAm24Ojm4GCcl1i) | 3:08 | 2024-08-25 | 2024-10-14 |
 | [Don't Lose Your Head](https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Zion I](https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ) | [Don't Lose Your Head](https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI) | 2:41 | 2024-10-28 | 2025-01-13 |
+| [Don't Need Sleep](https://open.spotify.com/track/2ldSoBfc87pj2uY9zDINZH) | [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [\[QR\].D.297.TBFKB.25](https://open.spotify.com/album/3eav2kEcg7dH3a5L3EiYlt) | 5:07 | 2025-10-25 |  |
 | [Don't Stop \- Radio Edit](https://open.spotify.com/track/649MYbDCJrQd40H9oG4kFa) | [Chuck Shadow](https://open.spotify.com/artist/0plb6fI8MnpTQAM0UDamB3) | [Don't Stop](https://open.spotify.com/album/3I5KlNzvGE8zmmbGfFLze0) | 3:28 | 2023-12-31 | 2024-01-09 |
 | [Don't Touch](https://open.spotify.com/track/0o0gyBmKHpzibd45c4KmGR) | [HeyDoc!](https://open.spotify.com/artist/5EwW7fH1tpfaLhv54OgneB) | [Don't Touch](https://open.spotify.com/album/6CkdzZUFSS7TuhgbT1koT9) | 3:08 | 2024-11-17 | 2025-02-09 |
 | [Don't Wait Too Long](https://open.spotify.com/track/3cJK9Vl9NWgY0OK3JJ3cWF) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Don't Wait Too Long](https://open.spotify.com/album/25a3pmTDo1rqlImoCrXNk9) | 3:27 | 2024-12-21 | 2025-03-10 |
@@ -385,6 +386,7 @@
 | [I Like The Beat](https://open.spotify.com/track/7EEa4j3RTKc3d6fPQB65uB) | [SIDEQUEST](https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x) | [I Like The Beat](https://open.spotify.com/album/1wdVJeqr11pVba7sb3ztYH) | 2:25 | 2024-11-25 | 2025-02-17 |
 | [I Look Good](https://open.spotify.com/track/2nO5YCEAQLPYKLbza7N64Z) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [I Look Good](https://open.spotify.com/album/538gE7qZ8YA2vZeYO8jO36) | 2:44 | 2025-08-23 | 2025-10-07 |
 | [I Miss You](https://open.spotify.com/track/2ptFPGWY55B755rTJpPUpT) | [AL6](https://open.spotify.com/artist/42h9jbE5V1PjXHVgXVIXMx) | [I Miss You](https://open.spotify.com/album/56RNGyNbJ7jEnUWmI9dg2l) | 3:32 | 2025-03-30 | 2025-06-08 |
+| [I Need You](https://open.spotify.com/track/2EMj2j03BtJeAmbfl7TeEr) | [TWOFACED](https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392), [Nikita W.](https://open.spotify.com/artist/1UGrSAPCJMKgZq7mWsq9vm) | [I Need You](https://open.spotify.com/album/1poVWT8ZlwVbtu2ZvMTfm2) | 2:54 | 2025-10-24 |  |
 | [I Remember \- Tommy Phillips Remix](https://open.spotify.com/track/5qaBH4UBmWeidfGSQfnW51) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Tommy Phillips](https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW) | [I Remember \(Tommy Phillips Remix\)](https://open.spotify.com/album/0jkSuitxQSLXjXAkFOJacT) | 3:32 | 2025-04-05 | 2025-06-15 |
 | [I Wanna Be U](https://open.spotify.com/track/1WW6raNvbxQ3zqScGHr7Ym) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [I Wanna Be U](https://open.spotify.com/album/5DDLVW7ulqWjEI2biaX9PQ) | 2:22 | 2024-09-02 | 2024-10-29 |
 | [I Want Your Soul \- Mau P Remix](https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [I Want Your Soul \(Mau P Remix\)](https://open.spotify.com/album/0TmEMpGtt0nhpowS8B8qj3) | 3:30 | 2025-02-09 | 2025-04-20 |

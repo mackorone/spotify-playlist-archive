@@ -3161,6 +3161,24 @@
     },
     {
       "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/6dzjdYfWaGwfMZZaJXVlYJ"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114016,
+      "name": "Cochoni",
+      "url": "https://open.spotify.com/track/6HRN90IKTOLTxf7NW2Wi9U"
+    },
+    {
+      "album": {
         "name": "Coco L\u00e9tan Zabrico",
         "url": "https://open.spotify.com/album/1fNdxmKpbqaq0IqDjJbYmQ"
       },
@@ -4284,6 +4302,28 @@
       "duration_ms": 116234,
       "name": "Elles veulent twerker !",
       "url": "https://open.spotify.com/track/40lonv25VaTFHGrY9AvmWT"
+    },
+    {
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/6dzjdYfWaGwfMZZaJXVlYJ"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138486,
+      "name": "Emoji P\u00eache",
+      "url": "https://open.spotify.com/track/258OblSwifjdaXY6Br7vak"
     },
     {
       "album": {
@@ -13888,42 +13928,6 @@
       "duration_ms": 155064,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6ZSXbBz7FeFzxTKYCa18Rq"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
-        }
-      ],
-      "date_added": "2025-10-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/258OblSwifjdaXY6Br7vak"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
-        }
-      ],
-      "date_added": "2025-10-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/6HRN90IKTOLTxf7NW2Wi9U"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music.
 
-103 songs - 6 hr 35 min
+104 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Kawaikini](https://open.spotify.com/track/1a2UimgBeSAHzTECBo2iya) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kimie Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61) | [Kawaikini](https://open.spotify.com/album/1KBUkJGGdMwPRrRcO2FWs9) | 4:30 | 2023-09-01 | 2024-06-01 |
 | [Kawohikukapulani](https://open.spotify.com/track/169se8C2wnc9nSEspeNsag) | [Robi Kahakalau](https://open.spotify.com/artist/1qXPmO8voLWvytAkh7ffuP) | [Robi Calling](https://open.spotify.com/album/0TFTUwSIwkNZigONKD5ovm) | 2:36 | 2022-05-02 |  |
 | [Ke Kuko E Ka Manawa](https://open.spotify.com/track/0MmoH7CeEX43zEYfI2YHxd) | [Natalie Ai Kamauu](https://open.spotify.com/artist/2xNjvgxtzsBxo3iAyrxGux) | [Eia](https://open.spotify.com/album/3TVoC0p4iQP3aFSE4yaADG) | 3:22 | 2022-05-02 |  |
+| [Ko’olau ‘Ui](https://open.spotify.com/track/3fvJ3GdWV6ruuRgRjfMm09) | [Dennis Kamakahi](https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y) | [Slack Key Heaven](https://open.spotify.com/album/288856I7szQn9UAvAZJil6) | 3:31 | 2025-10-24 |  |
 | [Ku'u Lei Awapuhi](https://open.spotify.com/track/2l0zhAFbn7mELo8sCXbXcT) | [Hapa](https://open.spotify.com/artist/3w0M90LteiOnPZkklwQPqZ) | [HAPA](https://open.spotify.com/album/5WIrLJC5sC3AQvLzoMh1De) | 4:38 | 2022-05-02 |  |
 | [Ku'u Poli'ahu](https://open.spotify.com/track/2sfZQiHXz95HPaMX9hZ1bl) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 3:43 | 2022-05-02 |  |
 | [Lava](https://open.spotify.com/track/0wqeaDeaKq14IuQESPqBEJ) | [Kuana Torres Kahele](https://open.spotify.com/artist/7Eshpryyi2F9Jg0ixaysNn), [Napua Greig](https://open.spotify.com/artist/7ycscFAP7S0I6HGFaqmT4B), [James Ford Murphy](https://open.spotify.com/artist/60vk2VjuoktubJq0FFguLK) | [Lava \(From "Lava"\)](https://open.spotify.com/album/3ps9fwedIocKsm52J2zoX9) | 5:46 | 2022-05-02 |  |

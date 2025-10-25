@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 
 > Bossa nova vibes for the hopeless romantic daydreamers\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,219 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,265 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,22 +22,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 | 12 | [Peter Pan](https://open.spotify.com/track/5rJoqSZx6c9GfJ6cVZ1fhF) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Peter Pan](https://open.spotify.com/album/01GJbBtJUeuyGVbgq5lvqh) | 3:09 |
 | 13 | [Clockwork](https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:30 |
 | 14 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
-| 15 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 |
-| 16 | [table for two](https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [table for two](https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL) | 1:51 |
-| 17 | [valentine](https://open.spotify.com/track/1LTQ4OQMz6fys8uD2pHne2) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [valentine](https://open.spotify.com/album/0JYe4ASLKFJAqugCL783le) | 3:02 |
-| 18 | [COMO TÚ](https://open.spotify.com/track/4hEUp0JHJ0b20ICmvSebgI) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [I AM](https://open.spotify.com/album/1frNzkqZrkVTzil4tptBPv) | 3:14 |
-| 19 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 |
-| 20 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 |
-| 21 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 |
-| 22 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 |
-| 23 | [Brigadeiro \(the bing bong song\)](https://open.spotify.com/track/63WhiH2jsaEyFRvrnOgYvH) | [gabi belle](https://open.spotify.com/artist/35XGyNw5Q7bvcF8BWWXbom) | [Brigadeiro \(the bing bong song\)](https://open.spotify.com/album/3WkkPDzUhCICizxE6ZHeEE) | 2:32 |
-| 24 | [Wrong Side of Midnight](https://open.spotify.com/track/7LRPGJ7TZfoKB4wwARAUsA) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Wrong Side of Midnight](https://open.spotify.com/album/79xZg93Il2X9cs7WxnjbfK) | 3:40 |
-| 25 | [Lazy](https://open.spotify.com/track/6KthiBwozqytvwhxpJw9Sr) | [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Lazy](https://open.spotify.com/album/5iIYVQ0Yb6QoaMzBtAvugF) | 3:08 |
-| 26 | [When I See You Again](https://open.spotify.com/track/0iVovmCYGAhXxugHDNd5em) | [Kyle Cox](https://open.spotify.com/artist/0GHk0KwPVlIjFyhAbPNNI9), [Abigail Flowers](https://open.spotify.com/artist/0ACMx2Gtw6DrQZSaJypRY1) | [When I See You Again](https://open.spotify.com/album/7EGGarzn2CNhnWemRDXzHS) | 2:43 |
-| 27 | [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 |
-| 28 | [ROT](https://open.spotify.com/track/70zTbQd3yYeNwA75CF2fcd) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [WE GOOD](https://open.spotify.com/album/3I9SoNg5YQAPIE1VVSXdat) | 2:49 |
-| 29 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
-| 30 | [But Not For Me](https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [But Not For Me](https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj) | 2:09 |
+| 15 | [table for two](https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [table for two](https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL) | 1:51 |
+| 16 | [buttons](https://open.spotify.com/track/41vSliETlsQOzukEfCjjSh) | [natalie jinju](https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu) | [buttons](https://open.spotify.com/album/1oTiL3l8dFVgiLcZ0rGkSx) | 3:36 |
+| 17 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 |
+| 18 | [valentine](https://open.spotify.com/track/1LTQ4OQMz6fys8uD2pHne2) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [valentine](https://open.spotify.com/album/0JYe4ASLKFJAqugCL783le) | 3:02 |
+| 19 | [COMO TÚ](https://open.spotify.com/track/4hEUp0JHJ0b20ICmvSebgI) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [I AM](https://open.spotify.com/album/1frNzkqZrkVTzil4tptBPv) | 3:14 |
+| 20 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 |
+| 21 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 |
+| 22 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 |
+| 23 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 |
+| 24 | [Brigadeiro \(the bing bong song\)](https://open.spotify.com/track/63WhiH2jsaEyFRvrnOgYvH) | [gabi belle](https://open.spotify.com/artist/35XGyNw5Q7bvcF8BWWXbom) | [Brigadeiro \(the bing bong song\)](https://open.spotify.com/album/3WkkPDzUhCICizxE6ZHeEE) | 2:32 |
+| 25 | [Wrong Side of Midnight](https://open.spotify.com/track/7LRPGJ7TZfoKB4wwARAUsA) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Wrong Side of Midnight](https://open.spotify.com/album/79xZg93Il2X9cs7WxnjbfK) | 3:40 |
+| 26 | [Lazy](https://open.spotify.com/track/6KthiBwozqytvwhxpJw9Sr) | [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Lazy](https://open.spotify.com/album/5iIYVQ0Yb6QoaMzBtAvugF) | 3:08 |
+| 27 | [When I See You Again](https://open.spotify.com/track/0iVovmCYGAhXxugHDNd5em) | [Kyle Cox](https://open.spotify.com/artist/0GHk0KwPVlIjFyhAbPNNI9), [Abigail Flowers](https://open.spotify.com/artist/0ACMx2Gtw6DrQZSaJypRY1) | [When I See You Again](https://open.spotify.com/album/7EGGarzn2CNhnWemRDXzHS) | 2:43 |
+| 28 | [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 |
+| 29 | [ROT](https://open.spotify.com/track/70zTbQd3yYeNwA75CF2fcd) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [WE GOOD](https://open.spotify.com/album/3I9SoNg5YQAPIE1VVSXdat) | 2:49 |
+| 30 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
 | 31 | [pretty little thing](https://open.spotify.com/track/5ggLs5JiMn4xV449ZgQsTC) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [pretty little thing](https://open.spotify.com/album/5rEqccldKFTVMcgvm5bnrj) | 3:10 |
 | 32 | [Allergies \(feat\. Delaney Bailey\)](https://open.spotify.com/track/0QH4XjlKSY8Gdory7hG4ZN) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71), [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Allergies \(feat\. Delaney Bailey\)](https://open.spotify.com/album/2flxq9q7ZB2QNt3c6ZJhsz) | 3:24 |
 | 33 | [election year](https://open.spotify.com/track/79qTYKyxC3SAKTVoKrGifl) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [election year](https://open.spotify.com/album/76yJbscqVCSod2FKY6txAd) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 | 74 | [I Can't Get Over You](https://open.spotify.com/track/7tdFmz7aTM0MTssyzOSXta) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Can't Get Over You](https://open.spotify.com/album/3OCO1ebyxBC6CXsF99Xara) | 4:21 |
 | 75 | [MESS U MADE](https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS](https://open.spotify.com/album/0DNz0XsG6B1Vz1CcbuIsov) | 2:48 |
 
-Snapshot ID: `AAAAACtZoJHTedMFnlwP7tdH3doFaQ3d`
+Snapshot ID: `AAAAAHxyROQLXnhoZsPqdvRmR83hE3qA`

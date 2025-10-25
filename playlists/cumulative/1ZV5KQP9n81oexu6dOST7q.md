@@ -4,7 +4,7 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-100 songs - 5 hr 4 min
+102 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Doing Nothin'](https://open.spotify.com/track/6PAt6xtbwjpRwG4V3zKWaK) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Doing Nothin'](https://open.spotify.com/album/5u2FuIwuJwnkLtDnlAk3gs) | 3:06 | 2025-07-04 |  |
 | [Don't Wake Me Up](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Don't Wake Me Up](https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg) | 2:34 | 2025-07-04 |  |
 | [Don’t Leave \(Kylie\)](https://open.spotify.com/track/3rZYXD5bAaKOpJvOyEqSJr) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Don’t Leave \(Kylie\)](https://open.spotify.com/album/5pDOrPKuOlkwVwiYWaENFy) | 3:08 | 2025-07-25 |  |
+| [ego](https://open.spotify.com/track/5PBTKRzy7645Er3nPxTWWK) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [ego](https://open.spotify.com/album/3EQlX84VGFJcYuV4g9frFm) | 2:42 | 2025-10-24 |  |
 | [Electric High](https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Electric High](https://open.spotify.com/album/676PjzaourdD3l6Nb3HpwO) | 2:24 | 2025-07-04 |  |
 | [End Of Summer](https://open.spotify.com/track/5R4P7dPtVQalJ7DrRwLVXv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 7:12 | 2025-10-10 |  |
 | [Exhilaration](https://open.spotify.com/track/7B8MbvpzBhbhYf3xvzHbba) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Freakquencies: Volume 1](https://open.spotify.com/album/4gaNqy701TUFmsUtIFLfeD) | 3:27 | 2025-08-22 | 2025-09-13 |
@@ -100,6 +101,7 @@
 | [This Is The Moment \(ft\. Nile Rodgers\)](https://open.spotify.com/track/6Va6xYjGNwbZs6tRE3cCYI) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [This Is The Moment \(ft\. Nile Rodgers\)](https://open.spotify.com/album/4pKUbAVt6sF3cqjc3nM8Gp) | 3:28 | 2025-07-04 | 2025-09-13 |
 | [TN's](https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [TN's](https://open.spotify.com/album/6re07313Esj1OipNfjjUdh) | 3:16 | 2025-07-18 |  |
 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 | 2025-07-04 |  |
+| [Turn It Up](https://open.spotify.com/track/3V8NtZAKzVhM6XexfKl0fq) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [All Yours](https://open.spotify.com/album/3onzNjfLd2w7n3CcOCDspZ) | 4:15 | 2025-10-24 |  |
 | [voor alles bang](https://open.spotify.com/track/0lC1IUZXQ6ukTQfSVqCJa3) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [voor alles bang / h\-e\-l\-p](https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW) | 3:02 | 2025-07-04 |  |
 | [Voorzichtig \- NOA Remix](https://open.spotify.com/track/68PPa5NyspKttmFMhMLS4o) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [NOA](https://open.spotify.com/artist/63bmzsKlelsGQepln0VuO1) | [Voorzichtig \(NOA Remix\)](https://open.spotify.com/album/1FoUSldpUmTp2KhMrJ9UVa) | 3:07 | 2025-07-04 | 2025-09-12 |
 | [Waka](https://open.spotify.com/track/1h3NOjMsuH3ij4rF5TeQTX) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Waka](https://open.spotify.com/album/1rZmQSUcTYNOFOGwwt2hkJ) | 2:40 | 2025-07-04 | 2025-09-12 |

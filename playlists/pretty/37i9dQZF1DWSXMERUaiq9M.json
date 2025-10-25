@@ -1,6 +1,6 @@
 {
   "description": "The sound of a new generation. Cover: KI/KI",
-  "num_followers": 344826,
+  "num_followers": 345011,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -119,17 +119,21 @@
     {
       "added_at": "2025-10-23 22:00:35",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/3onzNjfLd2w7n3CcOCDspZ"
       },
       "artists": [
         {
           "name": "Marlon Hoffstadt",
           "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 255510,
+      "name": "Turn It Up",
       "url": "https://open.spotify.com/track/3V8NtZAKzVhM6XexfKl0fq"
     },
     {
@@ -1368,7 +1372,7 @@
           "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
         }
       ],
-      "duration_ms": 211893,
+      "duration_ms": 211862,
       "name": "One Night Of Love",
       "url": "https://open.spotify.com/track/0yKN9B3jYONUyvqrGkNUPX"
     },

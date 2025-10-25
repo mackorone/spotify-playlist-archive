@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-466 songs - 1 day 3 hr 27 min
+467 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Estrada](https://open.spotify.com/track/6BbtZyTCkYL81wEETzM3B4) | [Bruno Addax](https://open.spotify.com/artist/2eLcfHcwcWB84a7ebdTAux) | [Cuidar & Colher](https://open.spotify.com/album/58GSyk2Ed80ABaoMTA4Yn2) | 2:34 | 2021-12-24 | 2022-07-11 |
 | [Estrelas](https://open.spotify.com/track/1hPSpQqJaN416LtfTHvl1k) | [Leo Bomeny](https://open.spotify.com/artist/0H9Aeerg6h7o6XU4dob0p0) | [Estrelas](https://open.spotify.com/album/5XFMZNRMYKDyTWLQPxqn2t) | 3:41 | 2022-03-25 | 2022-06-28 |
 | [eu e você](https://open.spotify.com/track/5ISf8VHJdipHYcFwKDqVYA) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1) | [eu e você](https://open.spotify.com/album/23wxiAL2q423z0IdsK1h3D) | 4:25 | 2022-01-21 | 2022-07-22 |
+| [Eu Nasci Pra Você](https://open.spotify.com/track/06vVPyS7i9LBu6eoBgCBqf) | [Teago Oliveira](https://open.spotify.com/artist/02MYQC9MXXfOcrIwvc4dIS) | [Canções do Velho Mundo](https://open.spotify.com/album/7p7mpxc8y8SWZFDuXhoENq) | 3:36 | 2025-10-25 |  |
 | [Eu Sou Sentimental](https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Capítulo 1](https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR) | 2:57 | 2021-12-24 |  |
 | [EU TE AMO](https://open.spotify.com/track/3mhDxeYWwVUfxDNc51nOD4) | [CATTO](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [EU TE AMO](https://open.spotify.com/album/6lvxovwkQGcaTjWpBjS2GV) | 3:28 | 2025-05-02 | 2025-06-06 |
 | [Eu Te Amo Demais](https://open.spotify.com/track/3irykMj55KGyq0Y0ESPsnz) | [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6), [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG), [Rodrigo Carazo](https://open.spotify.com/artist/0zuCB4mpzbAyPiU4PzuTYv) | [Eu Te Amo Demais](https://open.spotify.com/album/2RwxaLaJ4mHbjrFc2zoskp) | 2:20 | 2021-12-24 | 2022-07-28 |
@@ -470,7 +471,7 @@
 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 | 2021-12-24 |  |
 | [You Ain't Gonna Lose Me](https://open.spotify.com/track/0mwZ8SovvNhoTcJHPZ0aWX) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Mallu Magalhães](https://open.spotify.com/album/1R6xtuomthQlX5TDLvzQcm) | 3:00 | 2022-03-25 | 2022-04-21 |
 | [Zo](https://open.spotify.com/track/79vygpoQcNQCp0NjZ4IPzl) | [Ivo Vargas](https://open.spotify.com/artist/44RkIqWXdkc9K60ZGDggae) | [Zo](https://open.spotify.com/album/5IKnhxYwFlH39AbVyZjQSc) | 3:47 | 2021-12-24 | 2022-07-23 |
-| [Águas do Teu Mar](https://open.spotify.com/track/4P2sNrma2uZhZR1ohth4VU) | [Erick Roza](https://open.spotify.com/artist/47JFoPclff1d4gHsR7lQG3) | [Águas do Teu Mar](https://open.spotify.com/album/3W1DLnpz0egsPFHcJdnoEB) | 2:28 | 2021-12-24 |  |
+| [Águas do Teu Mar](https://open.spotify.com/track/4P2sNrma2uZhZR1ohth4VU) | [Erick Roza](https://open.spotify.com/artist/47JFoPclff1d4gHsR7lQG3) | [Águas do Teu Mar](https://open.spotify.com/album/3W1DLnpz0egsPFHcJdnoEB) | 2:28 | 2021-12-24 | 2025-10-25 |
 | [Éramos Nós](https://open.spotify.com/track/73YSZS3cTpaa3PwD01vmdA) | [Rafael Stonne](https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj) | [Éramos Nós](https://open.spotify.com/album/23w9TRvLeK6E2QUQt7KjZH) | 3:37 | 2021-12-24 | 2022-07-24 |
 | [Ímpar](https://open.spotify.com/track/3vXKSy1vWDvl6DeKUxxpaG) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Amores E Flores](https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne) | 3:30 | 2021-12-24 |  |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2022-03-25 | 2025-02-22 |

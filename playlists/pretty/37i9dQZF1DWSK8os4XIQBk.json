@@ -1,12 +1,12 @@
 {
   "description": "Luke Combs and the biggest hits in country music.",
-  "num_followers": 560695,
+  "num_followers": 560682,
   "original_name": "All About Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADwYyBqB5+Gsi+5Es0Uiht7En3ms",
+  "snapshot_id": "AAAAAO5lvDPp/ZweQzSCD37U3z0hnSSw",
   "tracks": [
     {
       "added_at": "2025-08-22 02:03:20",
@@ -23,6 +23,26 @@
       "duration_ms": 213062,
       "name": "Back in the Saddle",
       "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
+    },
+    {
+      "added_at": "2025-10-02 21:58:14",
+      "album": {
+        "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
+        "url": "https://open.spotify.com/album/5gXncoYdko6hXM08RQKgsB"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        },
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
+      "url": "https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q"
     },
     {
       "added_at": "2025-10-02 21:58:14",
@@ -93,20 +113,20 @@
       "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
     },
     {
-      "added_at": "2025-07-31 19:57:56",
+      "added_at": "2025-07-04 04:00:19",
       "album": {
-        "name": "Later Tonight",
-        "url": "https://open.spotify.com/album/05TVIc1IFYdlBur7QIqMBx"
+        "name": "Somebody I Know",
+        "url": "https://open.spotify.com/album/2u0tcHfJFHaxudbFcuz23e"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
         }
       ],
-      "duration_ms": 162333,
-      "name": "Later Tonight",
-      "url": "https://open.spotify.com/track/0y1ck7CTQGlC2pLz8GM0S7"
+      "duration_ms": 180633,
+      "name": "Somebody I Know",
+      "url": "https://open.spotify.com/track/6T9BLDu6WMTplsum4NfoXv"
     },
     {
       "added_at": "2025-07-04 04:00:19",
@@ -123,58 +143,6 @@
       "duration_ms": 193666,
       "name": "weren't for the wind",
       "url": "https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM"
-    },
-    {
-      "added_at": "2025-10-02 21:58:14",
-      "album": {
-        "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
-        "url": "https://open.spotify.com/album/5gXncoYdko6hXM08RQKgsB"
-      },
-      "artists": [
-        {
-          "name": "Scotty McCreery",
-          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
-        },
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
-      "url": "https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q"
-    },
-    {
-      "added_at": "2025-07-18 04:01:06",
-      "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 199209,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
-    },
-    {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
-        "name": "Somebody I Know",
-        "url": "https://open.spotify.com/album/2u0tcHfJFHaxudbFcuz23e"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 180633,
-      "name": "Somebody I Know",
-      "url": "https://open.spotify.com/track/6T9BLDu6WMTplsum4NfoXv"
     },
     {
       "added_at": "2025-07-11 04:01:06",
@@ -209,6 +177,22 @@
       "url": "https://open.spotify.com/track/6PUQOqhQVjchu5iqsMTVEX"
     },
     {
+      "added_at": "2025-10-24 02:10:14",
+      "album": {
+        "name": "Taillight This Town",
+        "url": "https://open.spotify.com/album/7hxiN7d6lCpcwPgLRSWpoH"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 186003,
+      "name": "Taillight This Town",
+      "url": "https://open.spotify.com/track/1n1NjVpPDdpn8BMQOL7lGY"
+    },
+    {
       "added_at": "2025-07-04 04:00:19",
       "album": {
         "name": "Backup Plan (feat. Luke Combs)",
@@ -227,6 +211,26 @@
       "duration_ms": 181518,
       "name": "Backup Plan (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
+    },
+    {
+      "added_at": "2025-07-31 19:57:56",
+      "album": {
+        "name": "Backfire",
+        "url": "https://open.spotify.com/album/6D8fqhOXVPJAC521jMWSIM"
+      },
+      "artists": [
+        {
+          "name": "Nate Haller",
+          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
+        },
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 215701,
+      "name": "Backfire",
+      "url": "https://open.spotify.com/track/48kjeOLcEMg9yRUqcBj4h0"
     },
     {
       "added_at": "2025-07-04 04:00:19",
@@ -261,24 +265,36 @@
       "url": "https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i"
     },
     {
-      "added_at": "2025-07-31 19:57:56",
+      "added_at": "2025-07-18 04:01:06",
       "album": {
-        "name": "Backfire",
-        "url": "https://open.spotify.com/album/6D8fqhOXVPJAC521jMWSIM"
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
       },
       "artists": [
         {
-          "name": "Nate Haller",
-          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
-        },
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 215701,
-      "name": "Backfire",
-      "url": "https://open.spotify.com/track/48kjeOLcEMg9yRUqcBj4h0"
+      "duration_ms": 199209,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
+    },
+    {
+      "added_at": "2025-07-31 19:57:56",
+      "album": {
+        "name": "Later Tonight",
+        "url": "https://open.spotify.com/album/05TVIc1IFYdlBur7QIqMBx"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 162333,
+      "name": "Later Tonight",
+      "url": "https://open.spotify.com/track/0y1ck7CTQGlC2pLz8GM0S7"
     },
     {
       "added_at": "2025-07-04 04:00:19",
@@ -585,22 +601,6 @@
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     },
     {
-      "added_at": "2025-07-11 04:01:06",
-      "album": {
-        "name": "Streets of London",
-        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 261601,
-      "name": "River Washed Hair",
-      "url": "https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf"
-    },
-    {
       "added_at": "2025-07-04 04:00:19",
       "album": {
         "name": "Last One To Know",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-07-18 04:01:06",
       "album": {
-        "name": "What Kinda Man",
-        "url": "https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 259022,
-      "name": "What Kinda Man",
-      "url": "https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8"
-    },
-    {
-      "added_at": "2025-07-18 04:01:06",
-      "album": {
         "name": "Beautifully Broken",
         "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
       },
@@ -769,22 +753,6 @@
       "url": "https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM"
     },
     {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
-        "name": "Good Times & Tan Lines",
-        "url": "https://open.spotify.com/album/1DZO09ac5XmLpt0Utimknk"
-      },
-      "artists": [
-        {
-          "name": "Zach Top",
-          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
-        }
-      ],
-      "duration_ms": 160635,
-      "name": "Good Times & Tan Lines",
-      "url": "https://open.spotify.com/track/5ZBxXBh0h4QuwXb3tNj91d"
-    },
-    {
       "added_at": "2025-07-18 04:01:06",
       "album": {
         "name": "Just In Case",
@@ -815,22 +783,6 @@
       "duration_ms": 150138,
       "name": "Crushin' Cans",
       "url": "https://open.spotify.com/track/6AZdHnCPvDw8ePLHVDY9o4"
-    },
-    {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
-        "name": "Man or the Song",
-        "url": "https://open.spotify.com/album/6iWEpoVDABRdVmyMrjySfT"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 169949,
-      "name": "Man or the Song",
-      "url": "https://open.spotify.com/track/1RVqZGMIByPikzt72b5lrj"
     },
     {
       "added_at": "2025-07-04 04:00:19",
@@ -871,22 +823,6 @@
     {
       "added_at": "2025-07-04 04:00:19",
       "album": {
-        "name": "Ends of the Earth",
-        "url": "https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ"
-      },
-      "artists": [
-        {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
-        }
-      ],
-      "duration_ms": 269830,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS"
-    },
-    {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
         "name": "Be Your Man",
         "url": "https://open.spotify.com/album/4y0kalZtaXrYjUxkqG6wu7"
       },
@@ -899,26 +835,6 @@
       "duration_ms": 193194,
       "name": "Be Your Man",
       "url": "https://open.spotify.com/track/7v8UTNAwAE5eb85FGKVl4N"
-    },
-    {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
-        "name": "High Road (feat. Jessie Murph)",
-        "url": "https://open.spotify.com/album/62NSHNGNQC2hXZKNuvF6pi"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        },
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 179413,
-      "name": "High Road (feat. Jessie Murph)",
-      "url": "https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04"
     },
     {
       "added_at": "2025-07-04 04:00:19",

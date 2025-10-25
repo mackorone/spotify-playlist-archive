@@ -4,7 +4,7 @@
 
 > Tutte le migliori nuove uscite indie sono qui 👀 Cover: Marco Castello
 
-1,013 songs - 2 day 3 hr 44 min
+1,013 songs - 2 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Boreale](https://open.spotify.com/track/6wVn5OSM5I6vk0iTKtOskI) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Boreale](https://open.spotify.com/album/2ysGxpE2JN6QtKGduR9qUM) | 2:44 | 2025-02-27 | 2025-05-09 |
 | [Botte](https://open.spotify.com/track/0CTRjNW6rxOvxiLLKKSVSN) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Botte](https://open.spotify.com/album/45aAVeEMh2fHoc1vC5c4mh) | 2:19 | 2024-12-17 | 2025-01-24 |
 | [briciole](https://open.spotify.com/track/6ZUA0vagSBdfAzFVP0c6t2) | [solorenato](https://open.spotify.com/artist/1I7hu94KSgNxrURvDazsty) | [briciole](https://open.spotify.com/album/3unClkAAU6fJsTwBSusy3e) | 2:33 | 2024-12-17 | 2025-03-08 |
-| [Briciole](https://open.spotify.com/track/4aJvcKyKlB9plU78kLzgJ4) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [](https://open.spotify.com/album/null) | 2:56 | 2025-10-23 |  |
+| [Briciole](https://open.spotify.com/track/4aJvcKyKlB9plU78kLzgJ4) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [Preda dei venti](https://open.spotify.com/album/7B0UiGsUxljGcZd3qKLsDA) | 2:56 | 2025-10-23 |  |
 | [brivido](https://open.spotify.com/track/7ogFh2buoHssnAQ3q52aYg) | [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs) | [brivido](https://open.spotify.com/album/0U8J17oNzBHqc7uCCWRqcT) | 2:38 | 2024-12-05 | 2025-03-08 |
 | [BRONCIO](https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [BRONCIO](https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5) | 2:19 | 2024-09-26 | 2024-12-18 |
 | [Brutto modo di morire](https://open.spotify.com/track/48Z8BEpZWkvGui023qOzAW) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Principianti](https://open.spotify.com/album/75hz7qVeWNXbhhd0IDAxqh) | 3:11 | 2025-03-13 | 2025-06-27 |
@@ -568,7 +568,7 @@
 | [Milano ad Agosto](https://open.spotify.com/track/67R8ZjmvZPbJeS0xVzaH9v) | [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk), [I Melodrama](https://open.spotify.com/artist/59fYCgvaHksiQjZqKuidks) | [Milano ad Agosto](https://open.spotify.com/album/6z9FY2DfLruOZsiJIQil4l) | 3:40 | 2024-08-06 | 2024-10-28 |
 | [Mille Risse](https://open.spotify.com/track/0HyP021OfM03b5cPn2Ql3m) | [Seltsam](https://open.spotify.com/artist/0stiPQBq14QBNQ1Uc8778V) | [Mille Risse](https://open.spotify.com/album/7swYsL0AYLgkSyCpXGIQ4K) | 2:42 | 2025-03-20 | 2025-07-04 |
 | [mille volte](https://open.spotify.com/track/25SiCsC78X1wc3pd9snYdv) | [EMSAISI](https://open.spotify.com/artist/2eTMp0eYaCw62RedR7SBci) | [mille volte](https://open.spotify.com/album/0Fe66SxgFLTMYwbAcSSR7d) | 3:17 | 2025-01-30 | 2025-05-09 |
-| [Mille volte sì](https://open.spotify.com/track/4wODEKsw7yFrh29ICbgWlH) | [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ) | [](https://open.spotify.com/album/null) | 3:41 | 2025-10-23 |  |
+| [Mille volte sì](https://open.spotify.com/track/4wODEKsw7yFrh29ICbgWlH) | [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ) | [Sono morto x 15 giorni ma sono tornato perché l'amore è](https://open.spotify.com/album/3AwYTs7PpE9Vgk4Z2UmIj8) | 3:41 | 2025-10-23 |  |
 | [Milàno](https://open.spotify.com/track/5rU4FSTxoKYZqA80JOqvyi) | [Alèri](https://open.spotify.com/artist/5Ll02Bn6BhfYpu25kiJelP) | [Quasi Dipinto](https://open.spotify.com/album/5U3E8hiMHeEPzk9WQmkIpX) | 4:13 | 2025-09-11 | 2025-10-03 |
 | [Miss Oklahoma](https://open.spotify.com/track/59j1Z2zL2sKR492wdFFLqi) | [Simonetta](https://open.spotify.com/artist/0Au89T7jKeOnhX5xXbvzm1), [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [Miss Oklahoma](https://open.spotify.com/album/6T6oXrGH6zE9WVf6N5wfga) | 2:59 | 2025-09-25 | 2025-10-24 |
 | [mmh mmh](https://open.spotify.com/track/74uokchFULacP4yGgnpuma) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [mmh mmh](https://open.spotify.com/album/19cTOnSBzyizgCcEKRumCT) | 2:23 | 2025-05-29 | 2025-07-11 |
@@ -899,6 +899,7 @@
 | [tegole](https://open.spotify.com/track/7L2NJbIy3XV4AyRVnGua3a) | [Skoob](https://open.spotify.com/artist/36ojtDb5leDwle768reQzM) | [tegole](https://open.spotify.com/album/1rQ3XrzvtT2GOzIythVswZ) | 2:43 | 2025-09-18 | 2025-10-17 |
 | [Tempi Duri](https://open.spotify.com/track/4p4me8MMy4EtS1fEb2Ks2E) | [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk) | [Tempi Duri](https://open.spotify.com/album/2LTE1Xv8dqkc9S7TKIRVoC) | 2:42 | 2025-05-01 | 2025-06-27 |
 | [temporale](https://open.spotify.com/track/2GuzXPKvxMIWvghTeUSeZI) | [Neverbh](https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN) | [temporale](https://open.spotify.com/album/24oXNujZs5H0WxHplyXeVb) | 2:44 | 2024-12-17 | 2025-01-31 |
+| [TERAPIA](https://open.spotify.com/track/1K4DOAiklUwaABIuKi7HNg) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [DISCORDIA, ARMONIA E ALTRI STATI D'ANIMO](https://open.spotify.com/album/44w3s0STY96UbKK7wFhWQL) | 3:14 | 2025-10-23 |  |
 | [Terra Promessa](https://open.spotify.com/track/7zXVRY8P0o2NmYxNQ7CxgK) | [Fiori di Cadillac](https://open.spotify.com/artist/7MX0HjZPITk7J6eOFSjtOu) | [Terra Promessa](https://open.spotify.com/album/2GTlsoI6zoUHXLsMlWYIcf) | 2:55 | 2024-06-27 | 2024-07-05 |
 | [They Don't Know](https://open.spotify.com/track/5PwTybFbsl5vByJBSrQb9o) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [They Don't Know](https://open.spotify.com/album/6OCajRJf1WIMNsZJYhrHJ7) | 3:24 | 2025-08-07 | 2025-09-19 |
 | [ti amo](https://open.spotify.com/track/6DcjeQjrg5zhGxiIZJsVbK) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [ti amo](https://open.spotify.com/album/0Xh1rWxeQHKFkpi7MrJdps) | 2:18 | 2024-11-14 | 2025-01-31 |
@@ -913,7 +914,6 @@
 | [TORRE DI BABELE](https://open.spotify.com/track/77E6NrYw1wBVmHBiNQyoR0) | [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [TORRE DI BABELE](https://open.spotify.com/album/1du37TKZC30wcFBJ1SQYwP) | 3:02 | 2025-07-10 | 2025-09-05 |
 | [TOTALE](https://open.spotify.com/track/6sTNI8mbeqDgf5GuMjcmYE) | [CRETA](https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS), [CELESTIALE](https://open.spotify.com/artist/0TZXw5ARnLJjN18OJ2aiMJ) | [TOTALE](https://open.spotify.com/album/6L6z1wI8n7dgG7H0IC1d43) | 2:43 | 2025-07-03 | 2025-08-08 |
 | [Tra il cielo e le strade](https://open.spotify.com/track/09K7Ac7StT4knd88GVzQoM) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Tra il cielo e le strade](https://open.spotify.com/album/1bDTbS6anSQaUC6SxCuEUX) | 3:43 | 2025-03-07 | 2025-05-09 |
-| [Track 7](https://open.spotify.com/track/1K4DOAiklUwaABIuKi7HNg) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [tranquillo](https://open.spotify.com/track/39H2HXOZKUXaEe8HWpnn91) | [Pietro Motta](https://open.spotify.com/artist/4lA1XzmKtms1zw2iSnurDR) | [tranquillo](https://open.spotify.com/album/7KuilzwYnBWVUjkBiIyL5g) | 3:08 | 2025-10-16 |  |
 | [Trentasette denti](https://open.spotify.com/track/3SHAVr1ZV5UCDtdPDEcRTb) | [PUGNI](https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa) | [TUFFO](https://open.spotify.com/album/04lXMprxBDiuRTCkewUZvS) | 3:34 | 2024-10-10 | 2025-01-24 |
 | [Tribale](https://open.spotify.com/track/2tbNCOfkHmKhCoz8WuqBBO) | [DEN](https://open.spotify.com/artist/3oWSB5GjD00qyMzxQLRkNs) | [Tribale](https://open.spotify.com/album/6cVecPpW14mhrqD8YywRRL) | 2:44 | 2024-11-14 | 2024-11-22 |
@@ -996,7 +996,7 @@
 | [Vivere tanto per vivere](https://open.spotify.com/track/0q6MFHtDKmhtNzfQDtY6Wh) | [Novamerica](https://open.spotify.com/artist/5jahvLO6L8sa94LsNxQQdy) | [Vivere tanto per vivere](https://open.spotify.com/album/5feGSRPMTuEUWm9sbxUXvA) | 3:33 | 2025-09-11 | 2025-10-03 |
 | [VIVO](https://open.spotify.com/track/6c8V6VOqQ60rSz5z34BBCh) | [NOVE](https://open.spotify.com/artist/3XIYJmJjLZKAXy9soJQHBo) | [VIVO](https://open.spotify.com/album/3Zn2Ml9XyocrpqRs33BQUy) | 3:04 | 2025-08-28 | 2025-09-26 |
 | [Vocine](https://open.spotify.com/track/0dNUYG4ezeg2GDQaXmU9aq) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Vocine](https://open.spotify.com/album/3wXKsxgrzIKk0u9Sl3Au0B) | 3:04 | 2024-07-11 | 2024-10-04 |
-| [Voglia](https://open.spotify.com/track/6bHmaVeCclWfcAgsW9Woct) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [](https://open.spotify.com/album/null) | 2:33 | 2025-10-23 |  |
+| [Voglia](https://open.spotify.com/track/6bHmaVeCclWfcAgsW9Woct) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Tempo](https://open.spotify.com/album/0VGPQdeIhFg1BqfKqKW0b4) | 2:33 | 2025-10-23 |  |
 | [Voglia 'E Turnà](https://open.spotify.com/track/1m4ToLe6HU0B6zehZy17ih) | [Napoleone](https://open.spotify.com/artist/4nQ1upAEMpLOBRRajwOoaG), [Teresa De Sio](https://open.spotify.com/artist/65Eqk4W8UjMAOfYDGg5vvB) | [Voglia 'E Turnà](https://open.spotify.com/album/1GB7kzWAYYsfiKsrLy4PxQ) | 3:32 | 2024-11-21 | 2025-02-07 |
 | [VOGLIO FARMI NOTARE](https://open.spotify.com/track/0FDd90Ci5tmI2yBXbrHfBq) | [Gobbi](https://open.spotify.com/artist/5ujn0tcd0uOU44C5CDhbPd) | [VOGLIO FARMI NOTARE](https://open.spotify.com/album/7txyiat2BNhWVgoOgSqeda) | 2:43 | 2025-02-27 | 2025-04-11 |
 | [Volevo portarti lontano](https://open.spotify.com/track/5GuOd2JcpwhTRiN7DKAgcn) | [moha111](https://open.spotify.com/artist/0zInhyakN9jMdmXwCLRUyW) | [Volevo portarti lontano](https://open.spotify.com/album/4KkQCNVRaRW6eMqKsYiuyC) | 1:40 | 2025-03-27 | 2025-04-18 |

@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Charlie Charles, Papa V , Capo Plaza, Mecna, Carla Hero e molti altri.
 
-6,282 songs - 11 day 14 hr 46 min
+6,282 songs - 11 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5124,6 +5124,7 @@
 | [setiva](https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [setiva](https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy) | 2:17 | 2022-12-09 | 2023-01-06 |
 | [SETTEMBRE](https://open.spotify.com/track/3orIAOBdATjYpuzHc7H60R) | [Capo](https://open.spotify.com/artist/6HXHgAFc1EszRCOyFZ348T), [VDN](https://open.spotify.com/artist/4aINMnSbwDnkR44YPqGqHx) | [SETTEMBRE](https://open.spotify.com/album/075Po4qZBn0mEnydlZ13m5) | 2:06 | 2022-09-15 | 2022-09-30 |
 | [Settembre](https://open.spotify.com/track/4hUS2xbkB22ErKwVi8PyCg) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [Settembre](https://open.spotify.com/album/1W06j6H9EF3HEMxX6yEr3J) | 2:16 | 2022-10-27 | 2022-11-18 |
+| [Settembre](https://open.spotify.com/track/0N9qDDpB8Pd0q07VpunhlV) | [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Poco dopo mezzanotte](https://open.spotify.com/album/1uopB5lFeCi2xsPukEnLPZ) | 2:47 | 2025-10-23 |  |
 | [Settimo Cielo](https://open.spotify.com/track/1bvLAnzh0EUv5cm2OKTqHP) | [Taizal](https://open.spotify.com/artist/6AMEEJtkHSBmiemI3yEhNT), [Exynos](https://open.spotify.com/artist/5XRz1xKClFKxJNyjRgwi5s) | [Settimo Cielo](https://open.spotify.com/album/6cj7OFYHrA4e1K6TKGPqwx) | 3:09 | 2025-04-24 | 2025-05-16 |
 | [SeVilla](https://open.spotify.com/track/0jUKFgZqtTyqGONRe6Ysm3) | [PACOSKI](https://open.spotify.com/artist/6JYRBnw3eN2qidujSRnuN6) | [SeVilla](https://open.spotify.com/album/0Qb4Lk69KfWRSpEmFzmugT) | 3:15 | 2023-05-25 | 2023-06-16 |
 | [SEX](https://open.spotify.com/track/55t8VgnxOJw77rKjOcdVG5) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6), [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm) | [SEX](https://open.spotify.com/album/0wXDWSCOpNw29eDQPSRoDg) | 2:33 | 2023-05-18 | 2023-06-02 |
@@ -5615,6 +5616,7 @@
 | [Tennis Club](https://open.spotify.com/track/3rV4Ua58IkgiGQjsywxckx) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Tennis Club](https://open.spotify.com/album/6MFUD5C7RZlANVsGdOmDZI) | 2:46 | 2023-08-01 | 2023-09-01 |
 | [Tequila](https://open.spotify.com/track/0GA3Q6sDJKFyFTuOD08fOn) | [Matt Kush](https://open.spotify.com/artist/5B9ZPuAybSaWKxW5Ehf4iP), [Ayo Tyno](https://open.spotify.com/artist/2OjbBWyCK2DBjhxkTNvS0N) | [Tequila](https://open.spotify.com/album/52VHqcYCHd3V8Ei8QYA2Cs) | 2:34 | 2025-06-19 | 2025-07-18 |
 | [TEQUILA](https://open.spotify.com/track/5DeEpnHNqbisWk6ZcRX1PU) | [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE), [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [TEQUILA](https://open.spotify.com/album/0huNZ6Cs6FZaeHNZmqIoud) | 2:18 | 2025-07-10 | 2025-08-01 |
+| [TERAPIA](https://open.spotify.com/track/1K4DOAiklUwaABIuKi7HNg) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [DISCORDIA, ARMONIA E ALTRI STATI D'ANIMO](https://open.spotify.com/album/44w3s0STY96UbKK7wFhWQL) | 3:14 | 2025-10-23 |  |
 | [Teresa](https://open.spotify.com/track/0M0EuG8TOaZPE4tv9SMrrh) | [Black Emme](https://open.spotify.com/artist/0WRl37adNM64cIFdt5T07I) | [Teresa](https://open.spotify.com/album/2Lkdsmz4Pn3A69Z7x6LRNo) | 2:19 | 2024-03-14 | 2024-03-22 |
 | [Tergicristalli](https://open.spotify.com/track/1HpJOgQzkHBa4l8Ct6oLGB) | [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ), [Duna](https://open.spotify.com/artist/1eZx75fGVjN3BvdzMT92k6), [KD\-ONE](https://open.spotify.com/artist/0bXzQ96tE5uWMDUnw6xeQr) | [Tergicristalli](https://open.spotify.com/album/7wSYzyI4vKbsU4DGfzxXH3) | 3:17 | 2022-05-19 | 2022-06-03 |
 | [Tergicristalli](https://open.spotify.com/track/0PooqfBPgOQeqL7dfw9UPN) | [MURWI](https://open.spotify.com/artist/74Xc17AXn5iG9hWakDfZ4d), [JWar](https://open.spotify.com/artist/0qAbbuu4T1Kq9r3gweW2ZC) | [Tergicristalli](https://open.spotify.com/album/0fi3kUG3826wCN7bjq1qXE) | 2:40 | 2022-05-19 | 2022-05-31 |
@@ -5725,8 +5727,6 @@
 | [Tra me e te \(feat\. 8blevrai\)](https://open.spotify.com/track/4kiqhvWcwNRsVqVvJgRnMw) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Tra me e te \(feat\. 8blevrai\)](https://open.spotify.com/album/5PFZTJevhf66nTd6R1Pewz) | 2:44 | 2023-11-09 | 2023-11-24 |
 | [Tra mille persone](https://open.spotify.com/track/2Gantu0FQ1kyP5OHvYJkKc) | [Delli](https://open.spotify.com/artist/5vQaJMLa7BBGVaXifSZMOK) | [Tra mille persone](https://open.spotify.com/album/6G3fdSuABfdDBkNzTRgjBN) | 1:44 | 2024-03-28 | 2024-04-12 |
 | [TRACCIA COMMERCIALE](https://open.spotify.com/track/08eFX7mEvVLquXy65TyhR0) | [loui](https://open.spotify.com/artist/6KfMKEEQUwrKn3l4hZh4uA) | [TRACCIA COMMERCIALE](https://open.spotify.com/album/0K0W1s7p3YdSmiaWy7gDeO) | 2:41 | 2025-07-03 | 2025-07-25 |
-| [Track 7](https://open.spotify.com/track/1K4DOAiklUwaABIuKi7HNg) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
-| [Track 7](https://open.spotify.com/track/0N9qDDpB8Pd0q07VpunhlV) | [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [Trafficant](https://open.spotify.com/track/4bXx7IeSbih5tNcyegNjSp) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [Youngotti](https://open.spotify.com/artist/1HUUj26tHxXxB0wSedYfFH) | [Trafficant](https://open.spotify.com/album/2tVfIlCQK5k7y3kjSvCmJ7) | 2:23 | 2024-10-17 | 2024-11-08 |
 | [Trafficante](https://open.spotify.com/track/6XItzqTzt8AXRvFn37uzDS) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [Trafficante](https://open.spotify.com/album/7nBtCdKOWuFZctyMUosLGs) | 2:05 | 2024-07-26 | 2024-09-06 |
 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 | 2022-09-22 | 2022-10-25 |

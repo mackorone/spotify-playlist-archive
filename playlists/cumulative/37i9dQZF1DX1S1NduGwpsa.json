@@ -9181,6 +9181,24 @@
     },
     {
       "album": {
+        "name": "Teal Dreams",
+        "url": "https://open.spotify.com/album/2AzTf9LVZzgJ7DoN1nE7uQ"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222973,
+      "name": "Longest Way Round",
+      "url": "https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h"
+    },
+    {
+      "album": {
         "name": "Lookin' Up",
         "url": "https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk"
       },
@@ -16088,24 +16106,6 @@
       "duration_ms": 166124,
       "name": "Top Hat, White Tie and Tails - Live",
       "url": "https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "date_added": "2025-10-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 14",
-      "url": "https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h"
     },
     {
       "album": {

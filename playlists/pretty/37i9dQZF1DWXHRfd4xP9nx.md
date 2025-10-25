@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,836 likes - 275 songs - 12 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,859 likes - 275 songs - 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

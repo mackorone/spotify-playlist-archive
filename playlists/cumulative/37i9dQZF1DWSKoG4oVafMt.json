@@ -2523,6 +2523,28 @@
     },
     {
       "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/4EUcKOcd9grLl1kOoauO7s"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Shinda Kahlon",
+          "url": "https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176184,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/2mt3QHYbKBMdSTIfzSFsYH"
+    },
+    {
+      "album": {
         "name": "Call",
         "url": "https://open.spotify.com/album/3mRBypKGWRi4zwDxvRZbVd"
       },
@@ -20244,7 +20266,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 154903,
       "name": "Sundaa Ravaan",
       "url": "https://open.spotify.com/track/1Jd3SdqcKG5AYamPee7c1J"

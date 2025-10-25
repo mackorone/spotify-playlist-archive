@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 18761,
+  "num_followers": 18767,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAABVhHQvkQhjy+LerPKOwlqi",
+  "snapshot_id": "aPlwAAAAAAAVMW8d/5qfPmfy9SLKErn5",
   "tracks": [
     {
       "added_at": null,
@@ -370,11 +370,15 @@
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 110826,
-      "name": "Get Loud",
-      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
+      "duration_ms": 135253,
+      "name": "Make My Day (with David Guetta)",
+      "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
     },
     {
       "added_at": null,
@@ -446,15 +450,11 @@
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 135253,
-      "name": "Make My Day (with David Guetta)",
-      "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
+      "duration_ms": 110826,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
     },
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1738 (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 230293,
-      "name": "1738 (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lemon Cars",
         "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 157800,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1738 (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 230293,
+      "name": "1738 (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H"
     },
     {
       "added_at": null,
@@ -943,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The One (Sprite Limelight)",
+        "url": "https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 135733,
+      "name": "The One (Sprite Limelight)",
+      "url": "https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Not In The Store",
         "url": "https://open.spotify.com/album/4RgJLThZL96x5lhDt5VYPZ"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 189870,
       "name": "Not In The Store",
       "url": "https://open.spotify.com/track/0Yucu5issPtc4Et5eHDBRS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The One (Sprite Limelight)",
-        "url": "https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 135733,
-      "name": "The One (Sprite Limelight)",
-      "url": "https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW"
     },
     {
       "added_at": null,

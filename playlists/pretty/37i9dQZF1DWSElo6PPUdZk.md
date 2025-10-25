@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Simiran Kaur Dhadli
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,545 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,561 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 6 | [Bombshell](https://open.spotify.com/track/1lwIEn4LvceKySirb4olKh) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Bombshell](https://open.spotify.com/album/78RIGKdHOd2J4qAhxNdxlU) | 2:34 |
 | 7 | [Soohe Ve Cheere Waleya \- From "Soohe Ve Cheere Waleya"](https://open.spotify.com/track/3WawaDHSNhv7uv50HZkAeP) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Bir Singh](https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Soohe Ve Cheere Waleya \(From "Soohe Ve Cheere Waleya"\)](https://open.spotify.com/album/5591O5Zy1d8u9YKhrOpeFB) | 2:23 |
 | 8 | [Jattiyan Da Daur \(From "Phaphey Kuttniyan"\)](https://open.spotify.com/track/0aVmj0LCcpHcFOcA3rnv9Y) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Simar Nick](https://open.spotify.com/artist/37VJDT0hDpO6LKPkM0equc), [Arjan virk](https://open.spotify.com/artist/1RRpag2X9S30WTj1bZF9mX) | [Jattiyan Da Daur \(From "Phaphey Kuttniyan"\)](https://open.spotify.com/album/5HlDFt0WxeoN5jP1Va5abe) | 3:16 |
-| 9 | [Nawe Rivaaz](https://open.spotify.com/track/0ZInUKQpOd8IuKnMOrtFpc) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs) | [Nawe Rivaaz](https://open.spotify.com/album/4ghLiOyAllLjkiI8h4Ygvx) | 2:31 |
+| 9 | [Me](https://open.spotify.com/track/0avnM5yD5CcsnTGiWHugzO) | [Tej SherGill](https://open.spotify.com/artist/5fp2srMSCNbMRtihonQxIJ), [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [Malwain](https://open.spotify.com/album/6gBOVi9Pn6lFcbKiaKgQzd) | 2:31 |
 | 10 | [Putt Jatt Da](https://open.spotify.com/track/0xffKEAFkJB8ZWt0w38YAn) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Putt Jatt Da](https://open.spotify.com/album/5RuqCvnNgBn5VUzm05EtlD) | 2:35 |
 | 11 | [Rehle Mere Kol](https://open.spotify.com/track/4yS0ItJus3N0C0ijvNAvHl) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Rehle Mere Kol](https://open.spotify.com/album/4Vg5sPyw8xzeuOhc745A42) | 2:34 |
 | 12 | [Laagdaat](https://open.spotify.com/track/1EukMacxrj0ParRdjL387n) | [Harpi Gill](https://open.spotify.com/artist/2IAVxMMu1NjwNSLZ7YrXWu) | [Laagdaat](https://open.spotify.com/album/6rmfWuXRaENIdwC2gfY4mu) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [Gidha Kiwe Payida 2.0](https://open.spotify.com/track/4K4kGoqdM1XToFMtoOL1Gf) | [Ammie Papra](https://open.spotify.com/artist/3yi9bsstNojIMIDvCeBZMs) | [Gidha Kiwe Payida 2.0](https://open.spotify.com/album/6iQxUOMj3H7hyr5yVwnkYL) | 3:32 |
 | 50 | [Taur](https://open.spotify.com/track/7wk74Tjsm5TrWfiL2FMIWZ) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Life Mere Wargi](https://open.spotify.com/album/0dvqdE6NfoZB7FTFOpXReJ) | 2:23 |
 
-Snapshot ID: `AAAAAPR8pJHIXICKi7tDbAoJXfz2AeLn`
+Snapshot ID: `AAAAAEDWcAuFPR6DqgEzwbk7vk5sVlTi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,267 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,347 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 14 | [SINCÈRE](https://open.spotify.com/track/7sm5kT4As5vv8EAX2rR15i) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [SINCÈRE](https://open.spotify.com/album/3ckBcqsszYoZDV2zkYCvdn) | 2:28 |
 | 15 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
 | 16 | [Tu sais bien \(feat\. Joé Dwèt Filé\)](https://open.spotify.com/track/6LrTYqrf40l1S9KT54Gshs) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Tu sais bien \(feat\. Joé Dwèt Filé\)](https://open.spotify.com/album/10L1YNjJ40W3eedLMp0K9X) | 2:44 |
-| 17 | [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:40 |
+| 17 | [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 |
 | 18 | [BTRD](https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [BTRD](https://open.spotify.com/album/3W3X5NelHHpoxgoGg8V9CB) | 2:20 |
 | 19 | [With You \(feat\. Omah Lay\)](https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 |
 | 20 | [Ready](https://open.spotify.com/track/6H6vPaq7HfWqqflUhvmuz6) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Ready](https://open.spotify.com/album/7vid9BEk4cWnQWtv7tLGs6) | 2:31 |

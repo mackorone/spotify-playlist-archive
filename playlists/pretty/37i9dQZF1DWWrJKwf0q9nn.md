@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Armin van Buuren & KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,217 likes - 107 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,475 likes - 107 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 11 | [Wonderful](https://open.spotify.com/track/2KmH6Umerhr1VXqDNrUITM) | [Lasgo](https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp) | [Wonderful](https://open.spotify.com/album/6VELMJECXACmhQYJllZbNF) | 2:55 |
 | 12 | [Bachata](https://open.spotify.com/track/5g7qZi147gRPAESbYKpgQs) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Bachata](https://open.spotify.com/album/27GGNlHPIDEM2hWCnP278T) | 3:36 |
 | 13 | [AM to PM \(feat\. Zoe Wees\)](https://open.spotify.com/track/2LRNDfHieq4ctBuE02zeW9) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [AM to PM \(feat\. Zoe Wees\)](https://open.spotify.com/album/1o9rbjKjVBu7VQq0hzAJK1) | 2:44 |
-| 14 | [Ain't Letting You Down](https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Ain't Letting You Down](https://open.spotify.com/album/6Gihz6RXvLYLFxHPMJC7nf) | 4:20 |
+| 14 | [Ain't Letting You Down](https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Ain't Letting You Down](https://open.spotify.com/album/6Gihz6RXvLYLFxHPMJC7nf) | 4:21 |
 | 15 | [JUST A BEAT](https://open.spotify.com/track/0Ii2qImvnAB6eFNBHFIMk3) | [weirdtechnogirlfriend](https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC), [PAUL LE BÁY](https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn), [WTG & PLB](https://open.spotify.com/artist/6KtOZetajL2lUGSl60goQq) | [JUST A BEAT](https://open.spotify.com/album/3mfcOBJlCxcCiL1tnFAmkQ) | 3:43 |
 | 16 | [Gaana Modam](https://open.spotify.com/track/2au7L8zr6mMuXLPwGmPJBs) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Shanti People](https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt) | [Gaana Modam](https://open.spotify.com/album/4BUFnidsdwP7fH613sJXs4) | 3:33 |
 | 17 | [The Connection](https://open.spotify.com/track/5Wariiifxkc1QBGZ0xjRDB) | [Matt Stone](https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR) | [The Connection](https://open.spotify.com/album/1WU8j8f9qIQwhc6IM1ZQI8) | 3:14 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 31 | [Spellbound](https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Spellbound](https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX) | 2:17 |
 | 32 | [SAUDADE \(feat\. Nick Souza\)](https://open.spotify.com/track/3atbPNh9Ry6h4IKOyOKDUE) | [Johnny 500](https://open.spotify.com/artist/53phw2rwTqJEtpZ1LgsPgj), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [SAUDADE \(feat\. Nick Souza\)](https://open.spotify.com/album/07rkoPeZ4cgA9F20TeuF0t) | 2:31 |
 | 33 | [World On Fire](https://open.spotify.com/track/0ZMadpivvZrK3q88POgTpX) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [World On Fire](https://open.spotify.com/album/0hip6zVMbgqrbtyobAOuay) | 3:37 |
-| 34 | [Obsession](https://open.spotify.com/track/4TM4MUkUP9R3MSUKXggmCa) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [](https://open.spotify.com/album/null) | 3:47 |
+| 34 | [Obsession](https://open.spotify.com/track/4TM4MUkUP9R3MSUKXggmCa) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [Obsession](https://open.spotify.com/album/2h2pdgqbCAJYfhdBsUIJ2x) | 3:47 |
 | 35 | [Take Over Control \(feat\. Eva Simons\) \[Maddix Remix\]](https://open.spotify.com/track/11MH2tLS3KlEUaHbQWdSyP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Take Over Control \(feat\. Eva Simons\) \[Maddix Remix\]](https://open.spotify.com/album/08q8nOP5k4WMNdwA0PKPNx) | 3:06 |
 | 36 | [BADBOY](https://open.spotify.com/track/2sSCiuPyxUSbNhwElPqfNl) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [BADBOY](https://open.spotify.com/album/34Fgdlyoys9vOX4TcDcdqA) | 2:11 |
 | 37 | [No Sleep](https://open.spotify.com/track/6HDkeyKBhD0Q4WKDH7h3vA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [No Sleep](https://open.spotify.com/album/4POnL7gotVAGL4cHd86wBs) | 2:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Zlatan
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,587 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,679 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 11 | [Escaladizzy II](https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Escaladizzy II](https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu) | 3:33 |
 | 12 | [Rover](https://open.spotify.com/track/6z3msNjyaN5nY0kDt7XCgs) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Rover](https://open.spotify.com/album/4TcZrHap6VtZGDRs3gVlha) | 2:34 |
 | 13 | [MARIO KART](https://open.spotify.com/track/52ZxqHSe1HesJPwuuBiW4U) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:51 |
-| 14 | [Spaghetti](https://open.spotify.com/track/53ZPK0Ltgi5mQAHGm8dqWt) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Spaghetti](https://open.spotify.com/album/1pZ1HTqqaNNC312zmgpaBx) | 2:08 |
+| 14 | [Spaghetti](https://open.spotify.com/track/53ZPK0Ltgi5mQAHGm8dqWt) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Spaghetti](https://open.spotify.com/album/1pZ1HTqqaNNC312zmgpaBx) | 2:18 |
 | 15 | [who does that? \(feat\. Bella Shmurda\)](https://open.spotify.com/track/3ZR7IlqBPK8TrJyZYfFX9L) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [what a feeling](https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp) | 2:39 |
 | 16 | [Dangbana Riddim](https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Dangbana Riddim](https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D) | 2:40 |
 | 17 | [PAWON](https://open.spotify.com/track/5u3NyEPys96WH7JZRqVakY) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [PAWON](https://open.spotify.com/album/1GhQOWkePNuNvvTOOd2dSB) | 2:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 59 | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg) | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4) | 3:37 |
 | 60 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 |
 
-Snapshot ID: `AAAAAD84aRZf+4Y72tDOva+jKJy2MxIs`
+Snapshot ID: `AAAAAL6cW3pMOYX3lpfmVP7Ro+qexMA3`

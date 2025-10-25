@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 343548,
       "name": "Bunker Buster",
       "url": "https://open.spotify.com/track/4lJBjtEABOhrdv7NzBD0KW"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 307215,
       "name": "Do You Like It Fast?",
       "url": "https://open.spotify.com/track/7omTB2Z2lyHny4vQNFaUp7"
@@ -4555,6 +4555,36 @@
     },
     {
       "album": {
+        "name": "PULL THE TRIGGER",
+        "url": "https://open.spotify.com/album/3Tbwxw3wJTu1z2i5OjpZL8"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        },
+        {
+          "name": "MC D",
+          "url": "https://open.spotify.com/artist/3Bb6ED8kMd7DqRZcgZShL1"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161634,
+      "name": "PULL THE TRIGGER",
+      "url": "https://open.spotify.com/track/0X27H1lv1ams6VqJEip8LW"
+    },
+    {
+      "album": {
         "name": "Pulse",
         "url": "https://open.spotify.com/album/4tm7JzxqqnqzzjDwvf0jAj"
       },
@@ -5286,6 +5316,24 @@
       "duration_ms": 146080,
       "name": "Space Train",
       "url": "https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB"
+    },
+    {
+      "album": {
+        "name": "Split the G",
+        "url": "https://open.spotify.com/album/4uC45VI7LLkVfwb2pFG8rw"
+      },
+      "artists": [
+        {
+          "name": "Alt8",
+          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212586,
+      "name": "Split the G",
+      "url": "https://open.spotify.com/track/7ljQIZUFYvlqG6TDclQDXZ"
     },
     {
       "album": {

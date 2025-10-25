@@ -1683,6 +1683,28 @@
     },
     {
       "album": {
+        "name": "Luther",
+        "url": "https://open.spotify.com/album/1wfs4vGzWOLyeiLvHv7VUP"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "Ben Bridwell",
+          "url": "https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198160,
+      "name": "Luther",
+      "url": "https://open.spotify.com/track/6zv0lTlnSWeYdjCDIYPAeL"
+    },
+    {
+      "album": {
         "name": "Lover, or Whatever",
         "url": "https://open.spotify.com/album/7zLulhRz6oSw5CLvXHB3J7"
       },
@@ -1936,6 +1958,24 @@
       "duration_ms": 161098,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/1OtDzhNCSiQsbihPA1SOni"
+    },
+    {
+      "album": {
+        "name": "orchid",
+        "url": "https://open.spotify.com/album/4vKZzhLdxN2df0L2M8lLHE"
+      },
+      "artists": [
+        {
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "orchid",
+      "url": "https://open.spotify.com/track/4Z3jhAN6t2UsWIvp42FwTK"
     },
     {
       "album": {
@@ -2370,7 +2410,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 185901,
       "name": "Somewhere in Chicago",
       "url": "https://open.spotify.com/track/30VJ9BJK3XcsjhCdpvqmvw"
@@ -2532,7 +2572,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 240973,
       "name": "The Beachland Ballroom",
       "url": "https://open.spotify.com/track/6kPGjAjso3mAm3nZ2VzhDY"
@@ -2941,6 +2981,24 @@
     },
     {
       "album": {
+        "name": "Whose face am I",
+        "url": "https://open.spotify.com/album/5rAXZIxcvg96yLLT9M5atx"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135642,
+      "name": "Whose face am I",
+      "url": "https://open.spotify.com/track/7hdSVanm1ob3fY8JPDMrMF"
+    },
+    {
+      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -3114,7 +3172,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 256053,
       "name": "Your Ex-Lover Is Dead",
       "url": "https://open.spotify.com/track/43xk2HGO76L9CTsfmMO8Od"

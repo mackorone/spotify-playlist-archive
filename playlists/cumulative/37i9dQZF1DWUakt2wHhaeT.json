@@ -1337,6 +1337,28 @@
     },
     {
       "album": {
+        "name": "Pirates! The Penzance Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/5YzCqgIfgJs9dvyPmefenA"
+      },
+      "artists": [
+        {
+          "name": "David Hyde Pierce",
+          "url": "https://open.spotify.com/artist/3mQy6KS8nlt1YTZBqyslIe"
+        },
+        {
+          "name": "The Pirates of Penzance Original Broadway Company",
+          "url": "https://open.spotify.com/artist/5Q3kpfuQjTPGNhMxWjhjW5"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209386,
+      "name": "I am the very model of a modern Major-General",
+      "url": "https://open.spotify.com/track/5gyUct7wk9c3v0qjkuIlrK"
+    },
+    {
+      "album": {
         "name": "The Book Of Mormon (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/5yauUuXppqUj2ulor38hvI"
       },
@@ -2890,7 +2912,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 162891,
       "name": "Rainbow High (From \"Evita\")",
       "url": "https://open.spotify.com/track/1M2nwhG1C9MygUGocblmKu"

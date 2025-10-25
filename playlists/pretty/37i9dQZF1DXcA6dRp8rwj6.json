@@ -1,6 +1,6 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: DAVE)",
-  "num_followers": 454216,
+  "num_followers": 454262,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
@@ -44,7 +44,7 @@
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 220127,
+      "duration_ms": 202547,
       "name": "HIM (feat. Gunna)",
       "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
     },
@@ -103,6 +103,26 @@
     {
       "added_at": "2025-10-23 23:00:23",
       "album": {
+        "name": "GOLDFISH",
+        "url": "https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 164713,
+      "name": "Doing My Best",
+      "url": "https://open.spotify.com/track/6uqwaI2tY9QZGyxacHXZ0R"
+    },
+    {
+      "added_at": "2025-10-23 23:00:23",
+      "album": {
         "name": "TUNE",
         "url": "https://open.spotify.com/album/3mLkcFbi2NdMolyo0TpPtC"
       },
@@ -151,8 +171,8 @@
     {
       "added_at": "2025-10-23 23:00:23",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "WELCOME HOME",
+        "url": "https://open.spotify.com/album/2qIhMc7ZaIOCavfAbPuedc"
       },
       "artists": [
         {
@@ -228,9 +248,29 @@
           "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
         }
       ],
-      "duration_ms": 195360,
+      "duration_ms": 192181,
       "name": "Pop Yo Shit",
       "url": "https://open.spotify.com/track/2JgLe7DD0kkeWddkTxVipY"
+    },
+    {
+      "added_at": "2025-10-23 23:00:23",
+      "album": {
+        "name": "Voicemail (feat. Rod Wave)",
+        "url": "https://open.spotify.com/album/1lxBTSaU3PS7NqFuN5cIA6"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 272785,
+      "name": "Voicemail (feat. Rod Wave)",
+      "url": "https://open.spotify.com/track/4ROfJ7JAeConXVWe6S3Iyv"
     },
     {
       "added_at": "2025-10-23 23:00:23",

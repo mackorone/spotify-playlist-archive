@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 230719,
+  "num_followers": 230740,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAABcAOsAnocSgEpmRJ6klQ38",
+  "snapshot_id": "aPlwAAAAAAD7KV92+xKF6zCEU7+LWoPC",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Icon Is Love",
-        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 349506,
-      "name": "Come On",
-      "url": "https://open.spotify.com/track/6aX6HU06LTnZIGjFznUchm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barry White - The Collection",
         "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 199866,
       "name": "Don't Make Me Wait Too Long",
       "url": "https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Icon Is Love",
+        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 349506,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/6aX6HU06LTnZIGjFznUchm"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Another Way To Say I Love You",
-        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 302493,
-      "name": "Heavenly, That's What You Are To Me",
-      "url": "https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sheet Music",
         "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 299066,
       "name": "Love Makin' Music",
       "url": "https://open.spotify.com/track/07w7uThpms6ei8LrcE4son"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Another Way To Say I Love You",
+        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 302493,
+      "name": "Heavenly, That's What You Are To Me",
+      "url": "https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ"
     },
     {
       "added_at": null,
@@ -543,6 +543,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "Honey Please, Can't Ya See",
+      "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Oh Love, Well We Finally Made It",
+      "url": "https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
@@ -575,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+        "name": "The Icon Is Love",
+        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
       },
       "artists": [
         {
@@ -584,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Oh Love, Well We Finally Made It",
-      "url": "https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm"
+      "duration_ms": 301440,
+      "name": "I Only Want To Be With You",
+      "url": "https://open.spotify.com/track/550wW69MCbtYYEAbKIwEnu"
     },
     {
       "added_at": null,
@@ -600,25 +632,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 194173,
-      "name": "Honey Please, Can't Ya See",
-      "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Icon Is Love",
-        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 301440,
-      "name": "I Only Want To Be With You",
-      "url": "https://open.spotify.com/track/550wW69MCbtYYEAbKIwEnu"
+      "duration_ms": 220493,
+      "name": "I've Found Someone",
+      "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
     },
     {
       "added_at": null,
@@ -659,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White's Greatest Hits",
-        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "I've Found Someone",
-      "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barry White Sings For Someone You Love",
         "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 467640,
       "name": "You Turned My Whole World Around",
       "url": "https://open.spotify.com/track/1CHYcb0rNFrqf4dWsVmI82"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "I've Got So Much To Give",
+      "url": "https://open.spotify.com/track/30BIQMWprmAlVae1W4BRBw"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
       "duration_ms": 342360,
       "name": "Which Way is Up",
       "url": "https://open.spotify.com/track/0OM2jBDnZ8tkGh3GYTw2KE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barry White's Greatest Hits",
-        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "I've Got So Much To Give",
-      "url": "https://open.spotify.com/track/30BIQMWprmAlVae1W4BRBw"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "The Right Night",
-      "url": "https://open.spotify.com/track/7w0DK3J2jPP6g7sZ3kPYPU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pavarotti - The Greatest Hits",
         "url": "https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 267106,
       "name": "You're The First, The Last, My Everything - Live in Modena, 2001",
       "url": "https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "The Right Night",
+      "url": "https://open.spotify.com/track/7w0DK3J2jPP6g7sZ3kPYPU"
     },
     {
       "added_at": null,

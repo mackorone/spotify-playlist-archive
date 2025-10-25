@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 
 > Enhance your focus with classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,495 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,387 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 | 99 | [Symphony No\. 1 in C Major, "Die 4 Weltalter" \(the 4 Ages of the World\): I\. Larghetto](https://open.spotify.com/track/2rDBgkiueKILUcTSBGhSFs) | [Carl Ditters von Dittersdorf](https://open.spotify.com/artist/0Wgs2IKNSvS2ysab5XOfkN), [Budapest Failoni Chamber Orchestra](https://open.spotify.com/artist/7w6HlJdHl67FIA8WGHCoNX), [Hanspeter Gmür](https://open.spotify.com/artist/5puI1fA1scKpVBerYf0PI3) | [Dittersdorf: Sinfonias On Ovid's Metamorphoses, Nos\. 1 \- 3](https://open.spotify.com/album/7aymM8KHDUWfGS3kz5K7Yv) | 4:15 |
 | 100 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 |
 
-Snapshot ID: `AAAAAPuOjjdVUwqeZtRu5qe52fv0s7U2`
+Snapshot ID: `AAAAADWcd1n97wUNIfKYP6kP6KH/PjHa`

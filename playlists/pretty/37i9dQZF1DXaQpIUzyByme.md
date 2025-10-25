@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,949 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,969 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 69 | [Droomland](https://open.spotify.com/track/3hiURl5d4M3ihHWW8ZdvPS) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:28 |
 | 70 | [Vlieg Met Me Mee \- Live](https://open.spotify.com/track/46SS7vgm5bQ9wBfu1o5LjC) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Van U Wil Ik Zingen](https://open.spotify.com/album/5tIHLBGIpPwvSmjLvZWqfo) | 5:11 |
 
-Snapshot ID: `AAAAAHSbpSkPuftxBqNb69nzA9zWXxcC`
+Snapshot ID: `AAAAAEnqx6NixhaUBYjgLkGZz3EeCJRl`

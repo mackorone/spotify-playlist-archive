@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,257 likes - 150 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,253 likes - 150 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 149 | [Eggin](https://open.spotify.com/track/3X1ESRtZOrGiB5r3gobKZA) | [Masuyu](https://open.spotify.com/artist/6m6GTttiO1qLImlyNeXoz0) | [Eggin](https://open.spotify.com/album/7yHrYH37amcjPBuu2NxHwN) | 1:58 |
 | 150 | [Overlord](https://open.spotify.com/track/0kX0jZQieja8m7twj3LqYp) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Extras Extras](https://open.spotify.com/album/389hJo8QkrYFRDpAfSr2br) | 2:13 |
 
-Snapshot ID: `AAAAAO+SVCs7vmij1ott2ahbRoyjeZON`
+Snapshot ID: `AAAAACDG1DwlUXVOlX4CA1ScRaYZBlPd`

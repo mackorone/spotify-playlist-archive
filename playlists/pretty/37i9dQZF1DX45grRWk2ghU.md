@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 
 > My name is pink
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,463 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,578 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
-| 2 | [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 |
+| 2 | [SPAGHETTI \(Member ver.\)](https://open.spotify.com/track/5F7PjvRJWpaougysCAyN3n) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:17 |
 | 3 | [BOY CRAZY.](https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [BOY CRAZY.](https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc) | 2:28 |
-| 4 | [booboo2](https://open.spotify.com/track/3FmjoFY4SfTVLs3hhCxHCM) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [booboo2](https://open.spotify.com/album/1IsFIHJqTpK5M5ibPdbCEF) | 3:39 |
-| 5 | [AMERICAN GIRL](https://open.spotify.com/track/7CaVwjjBhkLp3c0scMKdPj) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [AMERICAN GIRL](https://open.spotify.com/album/5WK8EB5SH5cvQG4RKtcyev) | 2:56 |
+| 4 | [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 |
+| 5 | [booboo2](https://open.spotify.com/track/3FmjoFY4SfTVLs3hhCxHCM) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [booboo2](https://open.spotify.com/album/1IsFIHJqTpK5M5ibPdbCEF) | 3:39 |
 | 6 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 7 | [LIKE U](https://open.spotify.com/track/78e6hprIgJm3rMWjOmeXbA) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [LIKE U](https://open.spotify.com/album/4BME1fpCdQrJeeKu8dD1np) | 2:25 |
 | 8 | [HOT BOYS MAKE HOT MUSIC](https://open.spotify.com/track/6YG2dmPEqcOA9ctHqhFbd4) | [samxemma](https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y) | [HOT PEOPLE MAKE HOT MUSIC](https://open.spotify.com/album/5XXUWs8q10wMrfpQle0f2W) | 3:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 74 | [Want U Back](https://open.spotify.com/track/6E11E0lT5Zy7yb6iT3y8DN) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sticks & Stones](https://open.spotify.com/album/16liSbjaxbH0oamsQlqJ4Z) | 3:34 |
 | 75 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 |
 
-Snapshot ID: `AAAAAAMuLl+acgpspHAzDkC3nVkmBvK1`
+Snapshot ID: `AAAAAN458ley0K60UA1bywtpbC3nPgfl`

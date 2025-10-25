@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Halloween at home with these fun tracks",
-  "num_followers": 70875,
+  "num_followers": 70902,
   "original_name": "Trick or Treat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD7EQxbqyncqoN9ycEDkRBoo+nao",
+  "snapshot_id": "AAAAAJPQPIuumpXLVH4pe+4OJpumcuer",
   "tracks": [
     {
       "added_at": "2025-10-03 04:00:44",
@@ -179,6 +179,22 @@
       "duration_ms": 177029,
       "name": "The Witch And The Frog",
       "url": "https://open.spotify.com/track/4Zdchmi3frs9wwIrpGD4OB"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Trick or Treat!",
+        "url": "https://open.spotify.com/album/39lMSVGHc4EiyBEkvkjGKT"
+      },
+      "artists": [
+        {
+          "name": "Plim Plim Kids Songs",
+          "url": "https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8"
+        }
+      ],
+      "duration_ms": 162750,
+      "name": "Spookidy Boo!",
+      "url": "https://open.spotify.com/track/4NMgfI1P3ucmJnMS77IpRx"
     },
     {
       "added_at": "2025-09-29 19:41:03",
@@ -1271,22 +1287,6 @@
       "duration_ms": 142536,
       "name": "A Haunted House on Halloween Night",
       "url": "https://open.spotify.com/track/2RAGtit059yqjKXWI7c0hh"
-    },
-    {
-      "added_at": "2025-09-29 19:41:03",
-      "album": {
-        "name": "Songs and Story: Mickey's Spooky Night",
-        "url": "https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr"
-      },
-      "artists": [
-        {
-          "name": "Marco Marinangeli",
-          "url": "https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Shake Your Bones",
-      "url": "https://open.spotify.com/track/1Mew11one8wgUBsWt8EOGl"
     }
   ],
   "unique_name": "Trick or Treat",

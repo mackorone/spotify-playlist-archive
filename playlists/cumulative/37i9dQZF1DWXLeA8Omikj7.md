@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,133 songs - 3 day 10 hr 27 min
+1,134 songs - 3 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Gemini](https://open.spotify.com/track/7De25QZjlGdOYMB8bdBi3e) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Stereosonic Festival Anthems 2015](https://open.spotify.com/album/2eiNxpNhOdk2IPu9UMhDB3) | 4:30 | 2019-06-21 | 2020-10-19 |
 | [gems pop like berries in my mouth](https://open.spotify.com/track/4sW84TLkvAurk7yfmEiFNT) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [clean dreams](https://open.spotify.com/album/6LTRKvYkK03ig1KjNLIdiW) | 2:50 | 2024-10-07 | 2024-11-15 |
 | [Gendèr](https://open.spotify.com/track/73J0XZfBhvGgCloBnkXVCP) | [Makoto San](https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr) | [Gendèr](https://open.spotify.com/album/3eO8EkqnVpLj4C8nlM0QBa) | 3:58 | 2020-04-22 | 2025-07-06 |
-| [Gentle Hum](https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Gentle Hum](https://open.spotify.com/album/2OWosnN4z6RW16UdNnbFPO) | 2:40 | 2024-12-13 |  |
+| [Gentle Hum](https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Gentle Hum](https://open.spotify.com/album/2OWosnN4z6RW16UdNnbFPO) | 2:40 | 2024-12-13 | 2025-10-25 |
 | [Ghomrassen](https://open.spotify.com/track/3KLlLHrAQsDUryZc3fMx7P) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Star Wars Headspace](https://open.spotify.com/album/6oJnwRad77TohXQ683Rlw6) | 5:10 | 2019-06-23 | 2022-04-21 |
 | [Ghost](https://open.spotify.com/track/7AQjYCNDaxvnLzajPn6tmd) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Ghost](https://open.spotify.com/album/6obE8PUQth0vzbAH5IeQnp) | 3:47 | 2019-05-26\* | 2020-08-26 |
 | [Ghost Plant](https://open.spotify.com/track/0l5yzyUkyFbGcFPPdRGLOl) | [High Math](https://open.spotify.com/artist/71fMNJGcp7GFz0ZxBvohtt) | [Ghost Plant](https://open.spotify.com/album/3pUXaUfatJq2Whvk6ECeRp) | 1:16 | 2019-07-26 | 2020-08-26 |
@@ -552,6 +552,7 @@
 | [Left Behind](https://open.spotify.com/track/0mkR9v0jfXU7uf7sednDbm) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Left Behind](https://open.spotify.com/album/0YIXc0vszubi1lt09JKRZb) | 2:31 | 2024-04-19 |  |
 | [Leftovers](https://open.spotify.com/track/5KDcDThWtlOOcEncBmseAw) | [Akın Sevgör](https://open.spotify.com/artist/586eJg9tmYDLSahAhozZBo) | [Reveries](https://open.spotify.com/album/3lcsRejIVqC2ZzgohbS9X1) | 3:01 | 2024-04-19 |  |
 | [Lemuria Shore Party](https://open.spotify.com/track/3aunCnZrxBJUMls5bcfgGz) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Sphinx Nouvelle](https://open.spotify.com/album/265JDS98akgIybfFtVe0ez) | 4:45 | 2024-11-01 | 2024-12-05 |
+| [Let Me Go](https://open.spotify.com/track/2CqfRRNlyeMGHvy3CIwj3W) | [stay vaag](https://open.spotify.com/artist/1osrsyP1mntNcORXPBUr4G) | [Let Me Go](https://open.spotify.com/album/4U5TfBSm4EiW0pcX63CNC6) | 4:32 | 2025-10-24 |  |
 | [Let You](https://open.spotify.com/track/3mZUPucA0LcSKoZbLHRhyY) | [Autumn Glow](https://open.spotify.com/artist/4VlqUkFSCfcGj6CpDMPd0b) | [Let You](https://open.spotify.com/album/2KupnIXyKS0Mprddu9on23) | 3:26 | 2021-09-10 | 2025-05-19 |
 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Let You In \(feat\. East Forest\)](https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T) | 5:56 | 2023-05-09 | 2023-05-27 |
 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/4i1blcUTYgdbgz9dRbzgtG) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Intentions](https://open.spotify.com/album/5shEy0r5JuKQR5QVFigHCV) | 5:56 | 2023-05-26 |  |

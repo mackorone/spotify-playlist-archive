@@ -4,7 +4,7 @@
 
 > Todo o calor latino está aqui! 🔥  foto: Mau y Rick, Luísa Sonza, Big One
 
-526 songs - 1 day 3 hr 14 min
+527 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Heroina](https://open.spotify.com/track/4YQPwIuHm3OAQrNbLF5Qrq) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Heroina](https://open.spotify.com/album/3EF4FDNvaA9bW5fp9YdGHQ) | 2:23 | 2025-05-13 | 2025-05-17 |
 | [Hey Siri](https://open.spotify.com/track/5ohqJK8ieHOGIUsbw2oZqQ) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Hey Siri](https://open.spotify.com/album/26PSRzfCh69uiTBWg2eIZO) | 2:27 | 2022-04-08 | 2022-05-07 |
 | [HIBIKI](https://open.spotify.com/track/4qSEvFGCpde73gqIuq3sho) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:28 | 2023-10-13 | 2024-05-03 |
+| [Hips Don't Lie \- Spotify Anniversary Version](https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:28 | 2025-10-24 |  |
 | [How We Do It \(feat\. Pia Mia\)](https://open.spotify.com/track/1G2J5KdJxNH6Sd0wEclV0P) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [How We Do It](https://open.spotify.com/album/0LDEvwg9giVP8tKQiyIuij) | 3:02 | 2022-03-16 | 2022-03-23 |
 | [HOY ME PORTO MAL](https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [HOY ME PORTO MAL](https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ) | 2:13 | 2023-09-08 | 2024-03-09 |
 | [Hoy no me siento bien](https://open.spotify.com/track/5xKUXB7fsIEpDYc6mBfSwT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Hoy no me siento bien](https://open.spotify.com/album/10x06vQjH3rh2JGETxzRZD) | 2:33 | 2025-01-24 | 2025-03-15 |
@@ -287,7 +288,7 @@
 | [MALOKERA](https://open.spotify.com/track/0vfbs9Cpuj4x8VKK33ib4z) | [LEOA](https://open.spotify.com/artist/7CsVgmYd9DmB7PiCm93Ccb) | [MALOKERA](https://open.spotify.com/album/6lgU7vdqKuZEYdQKqJalYH) | 2:28 | 2025-03-21 | 2025-05-14 |
 | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX) | 2:32 | 2022-12-23 | 2023-02-25 |
 | [Mamacita](https://open.spotify.com/track/53Cwb4EiUfbmdOdNLILo1Z) | [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Mamacita](https://open.spotify.com/album/0ZFfNGe1r9cF23gmqpWr8H) | 3:04 | 2023-01-20 | 2023-01-28 |
-| [Mamasota](https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mamasota](https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel) | 3:36 | 2024-02-23 |  |
+| [Mamasota](https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mamasota](https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel) | 3:36 | 2024-02-23 | 2025-10-25 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-02-11 |  |
 | [Mania](https://open.spotify.com/track/0bbU8BfR7SeS1qE5Xpxzid) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs) | [MANIA](https://open.spotify.com/album/2ZM8QgaXp3mMhYo6T9FvWA) | 3:04 | 2024-11-29 | 2025-02-01 |
 | [Marca um 10](https://open.spotify.com/track/5OYRXhrvZWYlqgTN4oAbzj) | [Linndy](https://open.spotify.com/artist/6oMCLo1hgtep9LaO4KOwTr), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Marca um 10](https://open.spotify.com/album/2QvDgCrtbBZT1DHW0Wih51) | 2:24 | 2022-05-20 | 2022-06-04 |

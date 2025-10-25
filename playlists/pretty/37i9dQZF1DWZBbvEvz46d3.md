@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,516 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,522 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 74 | [Chodź, pomaluj mój świat](https://open.spotify.com/track/4ugeq72uzChJZAgvqwD9ub) | [2 + 1](https://open.spotify.com/artist/0QEpcs3nm7UnAMcqL2zrcW) | [Polska nostalgia 60+ Cz\. 4](https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4) | 2:24 |
 | 75 | [Dobrze, że Cię mam](https://open.spotify.com/track/3zkRnBtA9RYxjkwEdDdfXF) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Mój dom](https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ) | 3:32 |
 
-Snapshot ID: `AAAAAOT83qdiH61OKznTQpfiAcil33Ts`
+Snapshot ID: `AAAAAL3aSXBemzbaRJnvid2h3JTNytFT`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving those vibes\. Cover: OCS
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,410 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,404 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 99 | [Kinda Luv](https://open.spotify.com/track/2CT0nd9AEvf9LJxlwVgSN8) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Think Like a Man](https://open.spotify.com/album/3YkpSQZPAwtkHQBNQZ7qNX) | 2:41 |
 | 100 | [P2](https://open.spotify.com/track/2a2kh05nsQr3RRWMqcoJvH) | [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [P2](https://open.spotify.com/album/03WMPp35MfHMStJhQlp1zZ) | 2:56 |
 
-Snapshot ID: `AAAAAN987UJ87klbHS8prFRUIHSyQY5O`
+Snapshot ID: `AAAAAByPKMa7YgmfKGr6UFJVb654W85Y`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 
 > Music to encourage emotional and physical healing through Reiki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,758 likes - 194 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,834 likes - 194 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 193 | [Perpetuality](https://open.spotify.com/track/6Kt4t76FWnzPESRiKYPdSx) | [Parker Woods](https://open.spotify.com/artist/1eNbVzydYSYdXyjnVSMypX) | [Perpetuality](https://open.spotify.com/album/4Q6TErWBcAFskWp665tW4D) | 2:43 |
 | 194 | [Kind Of Way](https://open.spotify.com/track/1nkZhGQbxTb4nwPhjwbSqz) | [Aya Akatu](https://open.spotify.com/artist/69uAko6yM9xzNTEkDEwVAs) | [Kind Of Way](https://open.spotify.com/album/51uWtEVAeOxnilOywq0kM7) | 3:08 |
 
-Snapshot ID: `AAAAAAXN44grh8BiiCoCPRdcclSzKlm8`
+Snapshot ID: `AAAAAAQimVenzehraf1UfMlRK/BEEJq7`

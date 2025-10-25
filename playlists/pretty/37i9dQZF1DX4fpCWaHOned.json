@@ -1,12 +1,12 @@
 {
   "description": "Sabrina Carpenter. Period.",
-  "num_followers": 4176630,
+  "num_followers": 4176918,
   "original_name": "Confidence Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHIgOpo1U6IK4vUbp3bYkqXYMOdh",
+  "snapshot_id": "AAAAANH6jKK/r2D/O5ff1XyrUd055WPl",
   "tracks": [
     {
       "added_at": "2025-09-08 08:16:07",
@@ -217,6 +217,22 @@
       "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
     },
     {
+      "added_at": "2025-10-24 04:00:20",
+      "album": {
+        "name": "BOSS UP",
+        "url": "https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 151320,
+      "name": "BOSS UP",
+      "url": "https://open.spotify.com/track/458u353fkPaERY2SoOGPl3"
+    },
+    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Planet Her",
@@ -233,22 +249,6 @@
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Don\u2019t Blame Me",
-      "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
-    },
-    {
       "added_at": "2025-10-10 23:55:05",
       "album": {
         "name": "SUPER F\u2605CKING MEGA ST\u2605R",
@@ -263,6 +263,22 @@
       "duration_ms": 169335,
       "name": "SUPER F\u2605CKING MEGA ST\u2605R",
       "url": "https://open.spotify.com/track/0nwsozTQ2xfKtHd03ADze5"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Don\u2019t Blame Me",
+      "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
     },
     {
       "added_at": "2025-04-25 04:00:38",
@@ -1271,22 +1287,6 @@
       "duration_ms": 214906,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/7aLT0tLcS40Penaplqu2cZ"
-    },
-    {
-      "added_at": "2025-09-26 04:00:20",
-      "album": {
-        "name": "Vendetta",
-        "url": "https://open.spotify.com/album/76EhQqKoadyMKQSo8Nls89"
-      },
-      "artists": [
-        {
-          "name": "Izzy Escobar",
-          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
-        }
-      ],
-      "duration_ms": 187994,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/5TNyJaau0GUrcdsbq4UqfJ"
     }
   ],
   "unique_name": "Confidence Boost",

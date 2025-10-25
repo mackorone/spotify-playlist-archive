@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Tensnake, Gerd Janson
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,333 likes - 88 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,410 likes - 88 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,17 +14,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 4 | [Lucid Ashes](https://open.spotify.com/track/1PBUaZCTHVdRgDG9QbVAjH) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Lucid Ashes / Eclipse Bloom](https://open.spotify.com/album/6IWOnEggYdeOClDltpMpRy) | 3:36 |
 | 5 | [Do It 2025](https://open.spotify.com/track/3VZyL6XeTxp9nCLXHmO0gK) | [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Do It 2025](https://open.spotify.com/album/7mt1gbfEhxdLykkGuqFjET) | 2:29 |
 | 6 | [Walking Home](https://open.spotify.com/track/3Zq8Q1pSiZ8jAtwxZIxGzF) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Walking Home](https://open.spotify.com/album/5NPARhLGbbknEzKPsl8DXl) | 4:00 |
-| 7 | [Track 12](https://open.spotify.com/track/1crqU5MnU7VygalCyciCtN) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [](https://open.spotify.com/album/null) | 0:00 |
+| 7 | [Desert Shore \- Bonus Track](https://open.spotify.com/track/1crqU5MnU7VygalCyciCtN) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [For Real \(Deluxe Edition\)](https://open.spotify.com/album/4yUNkwpCzc1rMzcyN4e0gX) | 4:38 |
 | 8 | [Feelling](https://open.spotify.com/track/128sGprE8mm3w3TvoYxL3D) | [ARYMÉ](https://open.spotify.com/artist/5zdOlKWTERNvDJXkwMYRX6), [Jawora](https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Feeling](https://open.spotify.com/album/4T4oFex4yMKI4P2iB88Mht) | 3:14 |
 | 9 | [Backyard Galaxy](https://open.spotify.com/track/6oGlxroOg1FFP7YJC5gU3H) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Backyard Galaxy](https://open.spotify.com/album/6zLqGy5WHyDfSbalXD92gL) | 4:42 |
 | 10 | [View From Space](https://open.spotify.com/track/0AqVIxGMPk3itw3UvUphWq) | [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE) | [View From Space](https://open.spotify.com/album/6pV5Pw1EUajjQxVYGgTquD) | 3:55 |
-| 11 | [Track 11](https://open.spotify.com/track/7nSAxvTZ6MLWmo9tNwhzMQ) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga) | [](https://open.spotify.com/album/null) | 0:00 |
+| 11 | [I see all my girls](https://open.spotify.com/track/7nSAxvTZ6MLWmo9tNwhzMQ) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga) | [4 stages of sleep](https://open.spotify.com/album/7L5bocORkONslMh2gG8I1z) | 3:43 |
 | 12 | [Anhedonia](https://open.spotify.com/track/7IMXj3FF6EuCAL7s3VeF1V) | [Return Fall](https://open.spotify.com/artist/2cyxOYiCRIb8zwTfdLyTx2) | [Anhedonia](https://open.spotify.com/album/3PIC0F6gWpyWGtAKV4hjBT) | 3:38 |
 | 13 | [Young Forever](https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Young Forever](https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s) | 3:47 |
 | 14 | [Love & Cream](https://open.spotify.com/track/2RFI3Gqo7xYVQ1Jzsqczd5) | [John Digweed](https://open.spotify.com/artist/3xnDktxhudJR2Wv3HZDQ9W), [Dino Lenny](https://open.spotify.com/artist/7il6z1RANNDWYlYnIevd4L) | [Love & Cream / I Remember The Nights](https://open.spotify.com/album/34tPQVLrVj9rco84t6exWg) | 6:56 |
 | 15 | [Rhythm](https://open.spotify.com/track/3my1SH8DJMUBnkoBxT0RTA) | [Jim Rider](https://open.spotify.com/artist/4zb1c7hwyu6K3397ybW3GC) | [Rhythm](https://open.spotify.com/album/3lsX2B5uaYG8JGsRFKO4os) | 3:08 |
 | 16 | [Every You](https://open.spotify.com/track/0gxMVptwBuSC3kragNfCoQ) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Every You](https://open.spotify.com/album/0EHyqAlArvA0g6kVEqMSeo) | 5:14 |
-| 17 | [Soleya](https://open.spotify.com/track/3vqwwLTFfRaO6XODyo2xdm) | [Rimbu\(CH\)](https://open.spotify.com/artist/5X1mbOzivdPgJ8SVEDRFtF) | [](https://open.spotify.com/album/null) | 3:16 |
+| 17 | [Soleya](https://open.spotify.com/track/3vqwwLTFfRaO6XODyo2xdm) | [Rimbu\(CH\)](https://open.spotify.com/artist/5X1mbOzivdPgJ8SVEDRFtF) | [Chasing Shadow](https://open.spotify.com/album/3n06bP5iDxKIntf1mJvRZL) | 3:16 |
 | 18 | [Yuwana](https://open.spotify.com/track/5MKB4GwV4U8xUKCsPT4kub) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Yuwana](https://open.spotify.com/album/5NIracwh16NwBUD9IvHtOq) | 6:07 |
 | 19 | [Back Then](https://open.spotify.com/track/2KKbfAV8OX9dayLxpDXstg) | [TwoForAll](https://open.spotify.com/artist/1rxnoxuKZHlpEQ92mLZ9n0), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4) | [Back Then](https://open.spotify.com/album/01xmsciakY5lmjVFtAK5WA) | 3:54 |
 | 20 | [Tal](https://open.spotify.com/track/79TWDL49kzGE8g2jyEG0Ev) | [ELIF](https://open.spotify.com/artist/1yatuhSYBeceXdDRg67hrm), [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT), [Shrii](https://open.spotify.com/artist/0kJnDYDVqQebEko4J5Gboo) | [Tal feat\. Shrii](https://open.spotify.com/album/5CUEAKIiHg5NqeAmo46fde) | 5:34 |

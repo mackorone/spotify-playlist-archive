@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Jutes",
+  "description": "The best rock songs of the moment. Cover: Kyle Wildfern",
   "name": "Rock Now",
   "tracks": [
     {
@@ -554,7 +554,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 218379,
       "name": "A Sharp Pain",
       "url": "https://open.spotify.com/track/05IubeMdBq9J3hsj5e4EMa"
@@ -1716,6 +1716,24 @@
       "duration_ms": 102063,
       "name": "Ashen Grey",
       "url": "https://open.spotify.com/track/1DequHOXV6d2AuVlokx8FI"
+    },
+    {
+      "album": {
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269433,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
     },
     {
       "album": {
@@ -3786,7 +3804,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 172402,
       "name": "Can I Call You in the Morning?",
       "url": "https://open.spotify.com/track/6xNDstLohLwOsLk78cygMr"
@@ -3970,6 +3988,24 @@
       "duration_ms": 197466,
       "name": "Care Less",
       "url": "https://open.spotify.com/track/5Cr2ZPSUA9FhXn7EBIHXNc"
+    },
+    {
+      "album": {
+        "name": "The Bloody Light",
+        "url": "https://open.spotify.com/album/2FxCKumeNxyNACJ6GXXCmx"
+      },
+      "artists": [
+        {
+          "name": "The Trews",
+          "url": "https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272800,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/2uB8g1m1lBjugofmsjtagk"
     },
     {
       "album": {
@@ -5705,6 +5741,24 @@
     },
     {
       "album": {
+        "name": "Deluxe Nightmare",
+        "url": "https://open.spotify.com/album/2n2YEo8CXPrrrumfixTF2z"
+      },
+      "artists": [
+        {
+          "name": "ARK IDENTITY",
+          "url": "https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280683,
+      "name": "Deluxe Nightmare",
+      "url": "https://open.spotify.com/track/435CzsSw2COieUxvvyUzNR"
+    },
+    {
+      "album": {
         "name": "Neighbourhood Watch",
         "url": "https://open.spotify.com/album/0Epcs2rvJeqRqNR4UJYiGQ"
       },
@@ -6016,6 +6070,24 @@
       "duration_ms": 186457,
       "name": "Do You Think I'm a Whore? XXV",
       "url": "https://open.spotify.com/track/28Ao9W3TmgM7xzIxICkAgI"
+    },
+    {
+      "album": {
+        "name": "The Rest Of The Story",
+        "url": "https://open.spotify.com/album/7temZ6v1c69UOhyXHq6vOp"
+      },
+      "artists": [
+        {
+          "name": "Big Wreck",
+          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "Dog With A Gun",
+      "url": "https://open.spotify.com/track/6UXxbsBlfREafW9nLMVmLM"
     },
     {
       "album": {
@@ -6681,6 +6753,24 @@
     },
     {
       "album": {
+        "name": "Eggshell Tap Dancer",
+        "url": "https://open.spotify.com/album/6KhlAeMS2m3pCXpKcOH4f9"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227171,
+      "name": "Eggshell Tap Dancer",
+      "url": "https://open.spotify.com/track/2zzjpwG8wu3skr08m7rM6e"
+    },
+    {
+      "album": {
         "name": "Hell Hill",
         "url": "https://open.spotify.com/album/7KJtjq7YfLI4kACOIdcHaW"
       },
@@ -7160,6 +7250,24 @@
       "duration_ms": 120287,
       "name": "everybody hates me",
       "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
+    },
+    {
+      "album": {
+        "name": "Everybody Knows",
+        "url": "https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199617,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
     },
     {
       "album": {
@@ -7846,6 +7954,24 @@
       "duration_ms": 122901,
       "name": "Fear Of The Dawn",
       "url": "https://open.spotify.com/track/4v6soAl2R4sJB6Iyt2aiHw"
+    },
+    {
+      "album": {
+        "name": "What a Life!",
+        "url": "https://open.spotify.com/album/5DFMjy4osskmBfXGwI9m1R"
+      },
+      "artists": [
+        {
+          "name": "Kyle Wildfern",
+          "url": "https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "FEEL2",
+      "url": "https://open.spotify.com/track/7rXKU8tLrFjA9JtLksIkgN"
     },
     {
       "album": {
@@ -9602,7 +9728,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 168232,
       "name": "Hangman",
       "url": "https://open.spotify.com/track/2mVWbrAIn4CEvz9b6tkdsf"
@@ -10248,7 +10374,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 206533,
       "name": "Holy Roller",
       "url": "https://open.spotify.com/track/2TzLoXPH7pUs9SESRwV6rG"
@@ -10742,7 +10868,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 188112,
       "name": "i can see my house from here",
       "url": "https://open.spotify.com/track/2P8fkvUIsc5IWuyxVXe4gj"
@@ -11459,6 +11585,24 @@
     },
     {
       "album": {
+        "name": "No Power",
+        "url": "https://open.spotify.com/album/0dekGhuphg0eTJYlqyyGkj"
+      },
+      "artists": [
+        {
+          "name": "Snorkeler",
+          "url": "https://open.spotify.com/artist/2nyeygKfvhI9P6THEzP6Mr"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187742,
+      "name": "It's So Hopeless",
+      "url": "https://open.spotify.com/track/0UVck9pjMFzfLKCUje3beo"
+    },
+    {
+      "album": {
         "name": "It's Supposed To Hurt",
         "url": "https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE"
       },
@@ -12101,6 +12245,24 @@
     },
     {
       "album": {
+        "name": "Kicked in the Head",
+        "url": "https://open.spotify.com/album/3wCUT6DuRTZ9OeodhQ5NO5"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145588,
+      "name": "Kicked in the Head",
+      "url": "https://open.spotify.com/track/2552ES00oEEABAPy26dCt8"
+    },
+    {
+      "album": {
         "name": "Kill Me Fast",
         "url": "https://open.spotify.com/album/4E6FXPPGQhdtBEHRyky87y"
       },
@@ -12112,7 +12274,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 197466,
       "name": "Kill Me Fast",
       "url": "https://open.spotify.com/track/7C7riddHoIPSCW8rhwFSYc"
@@ -13326,6 +13488,24 @@
       "duration_ms": 262195,
       "name": "Like A Woman Can",
       "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
+    },
+    {
+      "album": {
+        "name": "limbo",
+        "url": "https://open.spotify.com/album/19n6SzmWCHrTAnFxFaSXla"
+      },
+      "artists": [
+        {
+          "name": "Cam Kahin",
+          "url": "https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188653,
+      "name": "limbo",
+      "url": "https://open.spotify.com/track/1jjZSKkkm71iFGjTFVtHxs"
     },
     {
       "album": {
@@ -14778,7 +14958,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 248840,
       "name": "milk of the madonna",
       "url": "https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B"
@@ -15436,7 +15616,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 200698,
       "name": "My Queen (feat. Spiritbox)",
       "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
@@ -15930,7 +16110,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 261859,
       "name": "No Damn Fears",
       "url": "https://open.spotify.com/track/63wu8tCkgGNthwVSCL4JMP"
@@ -18442,7 +18622,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 186025,
       "name": "Red Velvet (with Ari Abdul)",
       "url": "https://open.spotify.com/track/0khMRTeMTOkwvqE9fJdgGH"
@@ -18796,6 +18976,24 @@
       "duration_ms": 220152,
       "name": "Rock n Roll",
       "url": "https://open.spotify.com/track/2wp72dpFc0ZdjVuAcU3A4C"
+    },
+    {
+      "album": {
+        "name": "ROCK N ROLL IS ASLEEP",
+        "url": "https://open.spotify.com/album/1qMCBkrJzhmW6c1a45vRKV"
+      },
+      "artists": [
+        {
+          "name": "ROMES",
+          "url": "https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "ROCK N ROLL IS ASLEEP",
+      "url": "https://open.spotify.com/track/2hicCxBgUWE20o16gUCcD1"
     },
     {
       "album": {
@@ -21138,7 +21336,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 244840,
       "name": "Straight Line Was A Lie",
       "url": "https://open.spotify.com/track/2cZaZRwbtf5aZXtJC43tx4"
@@ -23029,6 +23227,24 @@
     },
     {
       "album": {
+        "name": "The Way She Goes",
+        "url": "https://open.spotify.com/album/6unFoD3QuaWAUs1DsxZvt5"
+      },
+      "artists": [
+        {
+          "name": "Pomo",
+          "url": "https://open.spotify.com/artist/6YtlR8MLfO6azxwOKAvEi3"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "The Way She Goes",
+      "url": "https://open.spotify.com/track/6V3Bv6Roj3vtfcSmJe8QMl"
+    },
+    {
+      "album": {
         "name": "The Weather",
         "url": "https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9"
       },
@@ -23532,7 +23748,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 194819,
       "name": "Today's Song",
       "url": "https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36"

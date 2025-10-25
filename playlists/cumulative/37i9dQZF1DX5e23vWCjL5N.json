@@ -679,6 +679,28 @@
     },
     {
       "album": {
+        "name": "La bella confusione",
+        "url": "https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO"
+      },
+      "artists": [
+        {
+          "name": "Charlie Charles",
+          "url": "https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim"
+        },
+        {
+          "name": "nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Autoritratto",
+      "url": "https://open.spotify.com/track/2WWzG3tZPmUQXCGHTblSku"
+    },
+    {
+      "album": {
         "name": "Jack Di Quadri",
         "url": "https://open.spotify.com/album/7jRRQXVP5skHkGz9Z5hGkQ"
       },
@@ -6190,6 +6212,28 @@
       "duration_ms": 133746,
       "name": "Studiami",
       "url": "https://open.spotify.com/track/0xHd3TXS07MbfBFcfbwY0E"
+    },
+    {
+      "album": {
+        "name": "La bella confusione",
+        "url": "https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO"
+      },
+      "artists": [
+        {
+          "name": "Charlie Charles",
+          "url": "https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim"
+        },
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213125,
+      "name": "Superstite",
+      "url": "https://open.spotify.com/track/5WfBKsWx0hxCEsviZ5QVqk"
     },
     {
       "album": {

@@ -581,7 +581,7 @@
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 210301,
+      "duration_ms": 210306,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/53NgnwT6xCOxEuVmIBDFpy"
     },
@@ -952,7 +952,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 177254,
       "name": "Alone At Last",
       "url": "https://open.spotify.com/track/0alDLLDIkMkji1jZEHMpK9"
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 244661,
       "name": "Bag of Bones",
       "url": "https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K"
@@ -4771,6 +4771,32 @@
     },
     {
       "album": {
+        "name": "Rest Here",
+        "url": "https://open.spotify.com/album/0ZsH4uGGcDVSGUgvKGjIJL"
+      },
+      "artists": [
+        {
+          "name": "Car Culture",
+          "url": "https://open.spotify.com/artist/6MIVBVpCNZFEBbzZ0RTTc4"
+        },
+        {
+          "name": "Physical Therapy",
+          "url": "https://open.spotify.com/artist/4HXE6NXjfAUDX8TXyoIfuO"
+        },
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269614,
+      "name": "Doesn't Really Matter",
+      "url": "https://open.spotify.com/track/4HfN7246HT9BiXgU0d5HLl"
+    },
+    {
+      "album": {
         "name": "Now That The Light Is Fading",
         "url": "https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY"
       },
@@ -7298,6 +7324,24 @@
       "duration_ms": 205680,
       "name": "Heart and My Car",
       "url": "https://open.spotify.com/track/53mAiigGdkVIMItDdJjgLo"
+    },
+    {
+      "album": {
+        "name": "heart don't know",
+        "url": "https://open.spotify.com/album/4JLI2vntNJF7g6UchIcPoh"
+      },
+      "artists": [
+        {
+          "name": "Deem Spencer",
+          "url": "https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161766,
+      "name": "heart don't know",
+      "url": "https://open.spotify.com/track/02xdBtQwEZSzGfT5n1ZV5K"
     },
     {
       "album": {
@@ -15532,7 +15576,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 244049,
       "name": "Sweetie",
       "url": "https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9"
@@ -17272,6 +17316,28 @@
       "duration_ms": 220865,
       "name": "Venice Venture",
       "url": "https://open.spotify.com/track/4IBwgoDpNG2p7EouVtFw0E"
+    },
+    {
+      "album": {
+        "name": "Trist\u00e1n, Ahora Con Reloj",
+        "url": "https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173200,
+      "name": "Ver\u00f3nica",
+      "url": "https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D"
     },
     {
       "album": {

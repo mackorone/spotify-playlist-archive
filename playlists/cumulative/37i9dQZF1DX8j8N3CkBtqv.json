@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Garvit-Priyansh, Dikshant and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Shashwat Bulusu, Piyush Ambhore and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -13663,6 +13663,28 @@
     },
     {
       "album": {
+        "name": "Lost You",
+        "url": "https://open.spotify.com/album/0q1JgMQUVAWFttYY5A51lB"
+      },
+      "artists": [
+        {
+          "name": "Piyush Ambhore",
+          "url": "https://open.spotify.com/artist/3JTWKX8xftNT53zfFRyn2s"
+        },
+        {
+          "name": "DEVM",
+          "url": "https://open.spotify.com/artist/63pRfyoFG1zPRQsASFo2dr"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215302,
+      "name": "Lost You",
+      "url": "https://open.spotify.com/track/1TZnTjX5nOrQLCGa1K21Nw"
+    },
+    {
+      "album": {
         "name": "Love & Limerence",
         "url": "https://open.spotify.com/album/13PKuzINirCBhssbAslKp9"
       },
@@ -17564,7 +17586,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 175360,
       "name": "Pyaar Kaafi Nahi",
       "url": "https://open.spotify.com/track/0emdpRC3rftireFUN9c00x"

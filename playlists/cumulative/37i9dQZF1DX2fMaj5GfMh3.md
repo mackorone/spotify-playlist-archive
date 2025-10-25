@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Dotan
 
-1,165 songs - 2 day 11 hr 20 min
+1,165 songs - 2 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Don't Think Twice](https://open.spotify.com/track/71Wbx42eCUNH5LmBQL7Z4E) | [Yaro Mila](https://open.spotify.com/artist/2DF11cL7GWpEiklH9I52SX) | [Don't Think Twice](https://open.spotify.com/album/3t0S2oFPp7wx4klCHOs1nz) | 3:14 | 2024-10-10 | 2024-12-13 |
 | [Don't Wait Till Monday](https://open.spotify.com/track/2yOXnHStV5Jud782FOcATg) | [ZITA](https://open.spotify.com/artist/05QNFSNYfQhYxUJUoFtEEk) | [Don't Wait Till Monday](https://open.spotify.com/album/4EIbsmNvyDmitb58SGaTaP) | 2:35 | 2025-08-28 |  |
 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-29 | 2025-07-04 |
+| [Down & Low](https://open.spotify.com/track/0qNnAU811gL8qaeNZY6Vqh) | [Denzel Chain](https://open.spotify.com/artist/1OcgVkMH2tgrwIjhrsCqT0) | [Down & Low](https://open.spotify.com/album/6EzOrBHp4Kjwnpisi6Sry3) | 2:49 | 2025-10-23 |  |
 | [Dream Boy](https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Dream Boy](https://open.spotify.com/album/0V7yLI80TezN9BNhpoUPW1) | 3:24 | 2023-10-26 | 2024-01-30 |
 | [Dreaming](https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/3uoFn9YXRikta2GkvMXoR7) | 3:28 | 2024-04-18 | 2024-05-03 |
 | [Dreaming](https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs) | 3:28 | 2024-02-05 | 2024-04-19 |
@@ -583,7 +584,7 @@
 | [Kickflip](https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:42 | 2023-02-24 | 2023-03-02 |
 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 | 2023-11-07 | 2024-03-09 |
 | [Kissing Strangers](https://open.spotify.com/track/0HDT8RYiXpvc5G1u3RG9vL) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Kissing Strangers](https://open.spotify.com/album/1DYhbM9VgjsIRigZLF5iLe) | 2:27 | 2023-06-22 | 2023-10-06 |
-| [Know You Forever](https://open.spotify.com/track/5l9u3FymQxGg9vdRXI7tLQ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [](https://open.spotify.com/album/null) | 3:12 | 2025-10-23 |  |
+| [Know You Forever](https://open.spotify.com/track/5l9u3FymQxGg9vdRXI7tLQ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Early Twenties Torture](https://open.spotify.com/album/6HNDL6my8XFprSf8KRwaf8) | 3:12 | 2025-10-23 |  |
 | [Kollage](https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 4:16 | 2023-08-03 | 2023-10-20 |
 | [Kwijt](https://open.spotify.com/track/6P3cbZ06AN6B5vcF1cyOz1) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:51 | 2024-01-18 | 2024-02-09 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-04-20 | 2023-07-22 |
@@ -598,7 +599,7 @@
 | [Let Me Go Home](https://open.spotify.com/track/2ys5m1ZI9QkhFJlTjMc9Nw) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Let Me Go Home](https://open.spotify.com/album/5f9iou0KDX2cX3CzLzBwbl) | 2:56 | 2023-02-24 | 2023-03-10 |
 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 | 2025-03-13 | 2025-05-02 |
 | [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 | 2025-08-28 |  |
-| [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [](https://open.spotify.com/album/null) | 3:03 | 2025-10-23 |  |
+| [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 | 2025-10-23 |  |
 | [Let You Love Me](https://open.spotify.com/track/2lFUyxR3yUmZOwhmLDJy43) | [OSKI](https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ) | [Let You Love Me](https://open.spotify.com/album/6JYiks950pW540AJpq6YRc) | 3:48 | 2025-01-16 | 2025-03-29 |
 | [lie](https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [lie](https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G) | 3:34 | 2023-06-22 | 2023-09-30 |
 | [Lifeline](https://open.spotify.com/track/4JIuMgm9VaZ7RjdINnb0qW) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Colors](https://open.spotify.com/album/3gItu2V465QjUfK63UQM0K) | 2:59 | 2025-01-23 | 2025-04-18 |
@@ -1053,7 +1054,6 @@
 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 | 2023-10-19 | 2024-01-30 |
 | [Touch Me Like a Gangster](https://open.spotify.com/track/6fYcQVXEuqmyS3HqSZ6rTd) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Touch Me Like a Gangster](https://open.spotify.com/album/5lOPOloxHL7wP2Dp5Wyk2D) | 2:43 | 2025-06-05 | 2025-08-08 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-02-19 |
-| [Track 1](https://open.spotify.com/track/0qNnAU811gL8qaeNZY6Vqh) | [Denzel Chain](https://open.spotify.com/artist/1OcgVkMH2tgrwIjhrsCqT0) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-15 | 2024-05-17 |
 | [TRAINWRECK](https://open.spotify.com/track/5j8USqbwYjEa0pP8lgphzy) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [TRAINWRECK](https://open.spotify.com/album/4oTGRL1a4DbCYR0Fl37dzW) | 3:03 | 2023-07-07 | 2023-10-21 |
 | [Treat Me Like A Ho](https://open.spotify.com/track/5b67O08sN2itkQPsNmafPx) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 1:55 | 2023-09-21 | 2024-01-05 |

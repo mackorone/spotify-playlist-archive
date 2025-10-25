@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,884 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,897 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 69 | [O Little Town Of Bethlehem](https://open.spotify.com/track/5MffZmB9xOhY7N4kfmEFjE) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:24 |
 | 70 | [Ring Those Christmas Bells](https://open.spotify.com/track/1Ax92m4DCnvI1Id7ivPFMi) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Christmas](https://open.spotify.com/album/2BXwG5kAyv8nni947HldZT) | 2:21 |
 
-Snapshot ID: `AAAAACC+ZcgrU/QUvPzPKhipB/F15D2U`
+Snapshot ID: `AAAAAOHPFyjK9IrtACbNqrCG1n7OUlyv`

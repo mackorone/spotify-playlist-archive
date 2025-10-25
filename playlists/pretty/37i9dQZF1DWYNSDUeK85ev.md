@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSDUeK85ev.md) - [plain]
 
 > La playlist que prende la fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,642 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,651 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

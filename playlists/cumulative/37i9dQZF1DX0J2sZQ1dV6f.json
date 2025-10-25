@@ -6833,6 +6833,28 @@
     },
     {
       "album": {
+        "name": "Mi Cuernito",
+        "url": "https://open.spotify.com/album/31dSkzoXxdgF04j2pfvM4r"
+      },
+      "artists": [
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Mi Cuernito",
+      "url": "https://open.spotify.com/track/40t8KIooUPZuaZanTgPIcB"
+    },
+    {
+      "album": {
         "name": "MI EXXX",
         "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
       },

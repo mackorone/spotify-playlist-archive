@@ -4,7 +4,7 @@
 
 > Single people dey suffer
 
-866 songs - 1 day 17 hr 55 min
+867 songs - 1 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Angelina](https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Angelina](https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X) | 3:03 | 2025-04-11 |  |
 | [Angie Riddim](https://open.spotify.com/track/7vK6MUFKqhzVdEMPANzHWE) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [svndaypack](https://open.spotify.com/artist/2MhOafEXdLSXZ9aV07o4lh) | [Angie Riddim](https://open.spotify.com/album/7AZXhVJHF6ooCIG6sJbH1T) | 2:00 | 2024-06-21 | 2024-07-13 |
 | [Anogo](https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Anogo](https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT) | 3:10 | 2022-12-08 | 2023-02-24 |
-| [Another Day](https://open.spotify.com/track/7cNbtgxY30NhUlygagOonu) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Synergy](https://open.spotify.com/album/0Gnu0tAKZ8BciRDgFP7pr0) | 2:33 | 2025-01-31 |  |
+| [Another Day](https://open.spotify.com/track/7cNbtgxY30NhUlygagOonu) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Synergy](https://open.spotify.com/album/0Gnu0tAKZ8BciRDgFP7pr0) | 2:33 | 2025-01-31 | 2025-10-25 |
 | [Another Episode](https://open.spotify.com/track/5v4E0SHkjHhKTfWdW28IEe) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Another Episode](https://open.spotify.com/album/5KNPMPMYybQhSW0QlDgGC8) | 3:14 | 2024-03-01 | 2024-03-22 |
 | [Anti Social](https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Anti Social \(feat\. Jeremih & Young Jonn\)](https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5) | 2:36 | 2023-08-10 | 2023-09-29 |
 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/7IehzBxyvb9egSpZFXZwTe) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:22 | 2024-02-13 | 2024-02-16 |
@@ -108,6 +108,7 @@
 | [Belle Full](https://open.spotify.com/track/7ppSFPUTqVqp97SmOci4q8) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Belle Full](https://open.spotify.com/album/6RWa45eSEJ9454G5dgA1dQ) | 3:11 | 2023-07-20 | 2023-08-18 |
 | [Bere Mi \(Reimagined\)](https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Bere Mi \(Reimagined\)](https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui) | 2:57 | 2025-03-07 | 2025-07-02 |
 | [Best Couple \(feat\. Rudeboy\)](https://open.spotify.com/track/55rxNs9Drmu7u2oC6skJP2) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Best Couple \(feat\. Rudeboy\)](https://open.spotify.com/album/2zNmjbJMq3G0TLzruDHjBt) | 2:54 | 2025-07-04 | 2025-10-04 |
+| [Best Whine](https://open.spotify.com/track/5yR8rJt2YTqaKGO7ADZboE) | [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Call My Name / Best Whine](https://open.spotify.com/album/71tDHMZDhF8qjCfXtZYyK1) | 2:50 | 2025-10-24 |  |
 | [Bezos](https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs) | [Dboi](https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8) | [Bezos](https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx) | 2:48 | 2023-03-17 | 2023-04-17 |
 | [Bibanke](https://open.spotify.com/track/3GgYYPUOIwd1uMBvfv5bNW) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ASA \(Asha\) \[Deluxe Edition\]](https://open.spotify.com/album/6jJE2t5ZfWq3I7n5KhF89d) | 4:15 | 2024-02-13 | 2024-02-16 |
 | [Bienvenue](https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Bienvenue](https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W) | 2:56 | 2023-02-03 | 2024-02-09 |

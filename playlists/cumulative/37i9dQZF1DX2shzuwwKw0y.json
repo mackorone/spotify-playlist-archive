@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Virl\u00e1n Garc\u00eda",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Armenta",
   "name": "Corridos Perrones",
   "tracks": [
     {
@@ -1661,6 +1661,28 @@
     },
     {
       "album": {
+        "name": "Ya No Se Llevan Serenatas (Deluxe)",
+        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196632,
+      "name": "CHROME HEARTS",
+      "url": "https://open.spotify.com/track/1VwgoKvj7L1PkQTFeFfS6F"
+    },
+    {
+      "album": {
         "name": "R\u00e9gulo Caro vs. Emilio Garra",
         "url": "https://open.spotify.com/album/3jpK8xsQuiEeCLCj3zwpyY"
       },
@@ -2074,6 +2096,28 @@
       "duration_ms": 213125,
       "name": "Creci\u00f3 La Cuenta",
       "url": "https://open.spotify.com/track/5Fg4huU4W2ByloZXYfaJD4"
+    },
+    {
+      "album": {
+        "name": "Cuadrada",
+        "url": "https://open.spotify.com/album/6WXDZOvtSZYgT2vzfzrGU1"
+      },
+      "artists": [
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163280,
+      "name": "Cuadrada",
+      "url": "https://open.spotify.com/track/3o0DuDMPL1xsUeTb3UZC4G"
     },
     {
       "album": {
@@ -4156,7 +4200,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 184306,
       "name": "El Matadore",
       "url": "https://open.spotify.com/track/464AVDOqzjMFSbjqbQU0PJ"
@@ -4400,7 +4444,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 136000,
       "name": "El Pase De La Pantera",
       "url": "https://open.spotify.com/track/2WihEIXQ5LoZT2Vb8I90Id"
@@ -4634,7 +4678,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 277105,
       "name": "El Robot",
       "url": "https://open.spotify.com/track/3GpAxhaS9Lc4WN3VeE1X4D"
@@ -5676,7 +5720,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 145538,
       "name": "HACER BILLETE",
       "url": "https://open.spotify.com/track/32rF8UrJP6HiBHngPc2Lbe"
@@ -6070,7 +6114,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 144855,
       "name": "JR al Tiro",
       "url": "https://open.spotify.com/track/1doWAgvdEADMjZjegHRC8Q"
@@ -7129,6 +7173,24 @@
     },
     {
       "album": {
+        "name": "Le Tir\u00e9 Putazos (En Vivo)",
+        "url": "https://open.spotify.com/album/7Mcf9E5BhdKOGR8VmkcLj1"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3dice",
+          "url": "https://open.spotify.com/artist/20p8yriwsdlALnCz2xXLmZ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164246,
+      "name": "Le Tir\u00e9 Putazos - En Vivo",
+      "url": "https://open.spotify.com/track/2OV3wZtleSgZgpiVKnpEZf"
+    },
+    {
+      "album": {
         "name": "LEALTAD",
         "url": "https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm"
       },
@@ -7785,6 +7847,24 @@
     },
     {
       "album": {
+        "name": "Mato",
+        "url": "https://open.spotify.com/album/75Swo9PpPDjLJ4BLZ6Ox02"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197250,
+      "name": "Mato",
+      "url": "https://open.spotify.com/track/6lppqhHvoszj4S2yUVGFVE"
+    },
+    {
+      "album": {
         "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
         "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
       },
@@ -8404,6 +8484,24 @@
       "duration_ms": 216330,
       "name": "Morritas",
       "url": "https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC"
+    },
+    {
+      "album": {
+        "name": "MURAKAMI",
+        "url": "https://open.spotify.com/album/4k9RKIFAt3bootZgQHTSnf"
+      },
+      "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194782,
+      "name": "MURAKAMI",
+      "url": "https://open.spotify.com/track/4co3k28oLJgk33nAtjdGSh"
     },
     {
       "album": {

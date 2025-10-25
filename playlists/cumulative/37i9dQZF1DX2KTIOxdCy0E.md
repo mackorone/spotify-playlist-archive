@@ -4,7 +4,7 @@
 
 > First comes love, then comes life\. Listen to the music from Nobody Wants This, curated by The Core, Interscope and Aperture Music, now streaming on Netflix.
 
-146 songs - 8 hr 27 min
+147 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [for the girls](https://open.spotify.com/track/3KsjKXNeNMQ56baZH0RFq0) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:37 | 2022-09-16 | 2024-04-19 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2025-10-23 |  |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2022-09-16 | 2024-09-20 |
+| [Harsh Truth](https://open.spotify.com/track/0I62G9pXVf2UomZSlTzlYI) | [Katy for Kings](https://open.spotify.com/artist/2AofFktDEQuzk1LKKEQ9Ox) | [Outlines](https://open.spotify.com/album/0UoWAr3JIqpaCI27ojbhI8) | 3:35 | 2025-10-24 |  |
 | [Heart Letting Go](https://open.spotify.com/track/4EwpXldfU693P8z1ucbfur) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:27 | 2025-10-23 |  |
 | [Heartbreaker](https://open.spotify.com/track/3iMLRCGHLQ135LtMjKLkO8) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Heartbreaker](https://open.spotify.com/album/1Iw6XX7uvOyQbq6dIht2hD) | 4:18 | 2024-09-19 |  |
 | [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 4:58 | 2024-09-19 |  |

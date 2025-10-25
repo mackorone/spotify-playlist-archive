@@ -11411,6 +11411,24 @@
     },
     {
       "album": {
+        "name": "Lightweight",
+        "url": "https://open.spotify.com/album/3xCfH06zHPBX1Hj930l2bF"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569379,
+      "name": "Lightweight",
+      "url": "https://open.spotify.com/track/3tao5fIRVOmNroDmagFwTs"
+    },
+    {
+      "album": {
         "name": "Lily Garden",
         "url": "https://open.spotify.com/album/5tplUNgqHpTQkv086mPPIm"
       },

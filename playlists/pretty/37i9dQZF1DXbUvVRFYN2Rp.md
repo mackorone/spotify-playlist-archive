@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUvVRFYN2Rp.md) - [plain]
 
 > All songs from South Korean hip\-hop TV show 'Show Me The Money\(쇼미더머니\)', Cover: Gwangil Jo\(조광일\) \- SMTM10 Winner
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,283 likes - 248 songs - 16 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,292 likes - 248 songs - 16 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2781,6 +2781,24 @@
     },
     {
       "album": {
+        "name": "From Kolkata",
+        "url": "https://open.spotify.com/album/2xuB9TdTcRO2su4c4WKef0"
+      },
+      "artists": [
+        {
+          "name": "Passepartout Duo",
+          "url": "https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190645,
+      "name": "From Kolkata",
+      "url": "https://open.spotify.com/track/5FhJJfHzmBKkzoE42skKib"
+    },
+    {
+      "album": {
         "name": "From Shores To Mountains",
         "url": "https://open.spotify.com/album/1jtEPkPm0pQeNBJ6ygS8OO"
       },
@@ -2818,7 +2836,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 627500,
       "name": "Fsjbmmr",
       "url": "https://open.spotify.com/track/35emZczLftp0mZcTCYWKWw"
@@ -5120,7 +5138,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 246000,
       "name": "Northern Spirit",
       "url": "https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ"
@@ -6412,6 +6430,28 @@
       "duration_ms": 138773,
       "name": "Seals",
       "url": "https://open.spotify.com/track/6AlFSBiCpW73fOQUWDJ3q5"
+    },
+    {
+      "album": {
+        "name": "searching",
+        "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279935,
+      "name": "searching",
+      "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
     },
     {
       "album": {

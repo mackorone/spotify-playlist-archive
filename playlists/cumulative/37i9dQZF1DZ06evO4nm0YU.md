@@ -4,7 +4,7 @@
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-82 songs - 7 hr 32 min
+83 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,8 @@
 | [Calle Luna Calle Sol](https://open.spotify.com/track/1Ics9ai6jbcHHBRaTy1HiD) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 3:48 | 2022-09-08 |  |
 | [Ché Ché Colé](https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 3:31 | 2022-09-08 |  |
 | [Comedia](https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 3:31 | 2022-09-08 |  |
-| [Consejo De Oro](https://open.spotify.com/track/4q602p7jJb8JLto5BAhRwa) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 2:43 | 2022-09-08 | 2025-10-23 |
-| [De Ti Depende](https://open.spotify.com/track/6V0m5eu38vtpaVTqdCKxxV) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 4:35 | 2022-09-08 |  |
+| [Consejo De Oro](https://open.spotify.com/track/4q602p7jJb8JLto5BAhRwa) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 2:43 | 2022-09-08 |  |
+| [De Ti Depende](https://open.spotify.com/track/6V0m5eu38vtpaVTqdCKxxV) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 4:35 | 2022-09-08 | 2025-10-25 |
 | [Dia De Ayer](https://open.spotify.com/track/2UmblzGZJ9L39cGBamLhgs) | [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Dia De Ayer](https://open.spotify.com/album/5CjN1hidT7zC2QhMy6gyfI) | 3:26 | 2022-10-12 | 2025-09-13 |
 | [Déjala Que Siga](https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Reventó](https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD) | 6:27 | 2022-09-08 |  |
 | [El Cantante](https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 10:26 | 2022-09-08 |  |
@@ -86,7 +86,8 @@
 | [Ublabadú](https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Commitment](https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x) | 5:51 | 2023-11-10 |  |
 | [Un Amor De La Calle](https://open.spotify.com/track/66juz7XEijXRIMtFXYtuSi) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 3:24 | 2022-09-08 | 2025-10-12 |
 | [Un Amor De La Calle](https://open.spotify.com/track/6zfdqSCVV0e5Pbmsc2wyao) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 3:24 | 2025-10-12 |  |
-| [Vamos A Reír Un Poco](https://open.spotify.com/track/41xQQNFqOja4DNQttbsJ0W) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 7:35 | 2022-09-08 |  |
+| [Vamos A Reír Un Poco](https://open.spotify.com/track/41xQQNFqOja4DNQttbsJ0W) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 7:35 | 2022-09-08 | 2025-10-25 |
+| [Vamos A Reír Un Poco](https://open.spotify.com/track/1RVtt5na5nhNTNOhJJawL4) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [A Man And His Music: La Voz](https://open.spotify.com/album/1cjhnTRit0iS1HViiGeK8H) | 7:39 | 2025-10-25 |  |
 | [Vigilante](https://open.spotify.com/track/1kPeSeHc9Hqo7gf6tcJEoM) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Vigilante](https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7) | 12:26 | 2022-09-22 | 2022-09-25 |
 | [¿De Qué Tamaño Es Tu Amor?](https://open.spotify.com/track/2NKQK1RldKnR5P6tiCfWxH) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Reventó](https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD) | 3:33 | 2022-09-08 |  |
 | [Él Son](https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [¡Que Sentimiento!](https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo) | 6:06 | 2025-06-10 |  |

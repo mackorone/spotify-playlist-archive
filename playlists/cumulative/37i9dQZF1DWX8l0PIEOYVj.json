@@ -1807,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2Go4wSvMagoNKseAj2UGp3"
+      },
+      "artists": [
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7amTNi6wRWUzvAh5aC9fmd"
+    },
+    {
+      "album": {
         "name": "Borderline (feat. EMELINE)",
         "url": "https://open.spotify.com/album/3HuiAw5KVyxtca92Ai6oYz"
       },
@@ -6902,7 +6920,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 206400,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/5S3GXFVvkDQEFm4N8fnWpc"
@@ -14007,6 +14025,32 @@
     },
     {
       "album": {
+        "name": "Say It To Me",
+        "url": "https://open.spotify.com/album/0IW0P8EwWWs0SoYP8apyK3"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "ANDe",
+          "url": "https://open.spotify.com/artist/47p7liSrrHaWOqBiegEJGy"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271298,
+      "name": "Say It To Me",
+      "url": "https://open.spotify.com/track/1YeNK6CZfTOjphogqF6ois"
+    },
+    {
+      "album": {
         "name": "Say The Word (with Billy Lockett)",
         "url": "https://open.spotify.com/album/78CgOYsjSHLpaz89JWVpvo"
       },
@@ -16368,7 +16412,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 184500,
       "name": "the ugly truth",
       "url": "https://open.spotify.com/track/3qWZTAWqQh164rvOFrTpUm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > The ultimate songbook ⏳ feat\. Celeste
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,262 likes - 97 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,268 likes - 97 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 7 | [Woven](https://open.spotify.com/track/5faq5yGNX96s9iuegnbx4s) | [Georgia Parker](https://open.spotify.com/artist/4OGodtGAXXUvXC4mmJzZNf) | [Woven](https://open.spotify.com/album/2WBhfiA9MP6QerSC7w9Z92) | 2:58 |
 | 8 | [What a Shame](https://open.spotify.com/track/0SWk801xDpmtlZurtUzWhj) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [What a Shame](https://open.spotify.com/album/3q7qinKhOIWldtsM1qmhni) | 3:26 |
 | 9 | [Please Don't Hate Me](https://open.spotify.com/track/2cAQTyGQYeeYMukxgi6uEG) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Please Don't Hate Me](https://open.spotify.com/album/03p0tlHZsQRjw54rG4hPkd) | 3:34 |
-| 10 | [Miracle](https://open.spotify.com/track/22UXcHkB8wArgD6H8Si4Ui) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [](https://open.spotify.com/album/null) | 3:28 |
+| 10 | [Miracle](https://open.spotify.com/track/22UXcHkB8wArgD6H8Si4Ui) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Miracle](https://open.spotify.com/album/4GCl2J72Hzykrt4Ajv0rJU) | 3:28 |
 | 11 | [I OWE IT TO YOU](https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I OWE IT TO YOU](https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt) | 3:10 |
 | 12 | [HOME](https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [HOME](https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D) | 2:39 |
 | 13 | [This Must Be Love](https://open.spotify.com/track/1c7LMtPdhpiGO9ZddQBycK) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [This Must Be Love](https://open.spotify.com/album/61SlbP9mxTiEp36mM0Rfsw) | 2:47 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 15 | [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life \(Epilogue\)](https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry) | 3:13 |
 | 16 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
 | 17 | [Goodbye](https://open.spotify.com/track/13BDreSwqXdUyIbFyt4ifY) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Goodbye](https://open.spotify.com/album/0j5Blq32IUAxXU7y1NtqBv) | 2:35 |
-| 18 | [Man on the Run](https://open.spotify.com/track/02WWKquFQWZYHYYEHpcOBz) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [](https://open.spotify.com/album/null) | 5:11 |
+| 18 | [Man on the Run](https://open.spotify.com/track/02WWKquFQWZYHYYEHpcOBz) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Bracing For Impact](https://open.spotify.com/album/6yQAIt35n1JPwzIfvCxZrI) | 5:11 |
 | 19 | [perceived](https://open.spotify.com/track/3FVx9m6nnEtb36KiqWBFNE) | [serena amani](https://open.spotify.com/artist/3heHXmYhjGHeJxRhNzXr9X) | [perceived](https://open.spotify.com/album/4nnYZxXzltZnpeuF4QicMq) | 3:19 |
 | 20 | [Heartland](https://open.spotify.com/track/32qvIoh5SMsbSihwe6diSu) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Heartland](https://open.spotify.com/album/3h9JOm2CZLIYkTMY1gVmHH) | 4:24 |
 | 21 | [Words](https://open.spotify.com/track/2CvVLHZ5BLbfB8tSFPzlQx) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:21 |

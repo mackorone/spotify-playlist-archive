@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Alicia Keys",
+  "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Ari Lennox",
   "name": "Women of R&B",
   "tracks": [
     {
@@ -550,7 +550,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 189462,
       "name": "DO 4 LOVE",
       "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
@@ -850,10 +850,32 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 238120,
       "name": "Folded",
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+    },
+    {
+      "album": {
+        "name": "Folded Homage Pack",
+        "url": "https://open.spotify.com/album/0ERSLETUQi9BIfH0evmmjm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259463,
+      "name": "Folded (Remix) [feat. Brandy]",
+      "url": "https://open.spotify.com/track/4Mn0tbmlOsYFSWoo4rJbnI"
     },
     {
       "album": {
@@ -1118,7 +1140,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 166997,
       "name": "Gonna Love Me",
       "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
@@ -1292,6 +1314,24 @@
       "duration_ms": 252533,
       "name": "Hey Mr. DJ",
       "url": "https://open.spotify.com/track/4Mm3eNo7eb6SM5TS6yLvwJ"
+    },
+    {
+      "album": {
+        "name": "love?... or something like it",
+        "url": "https://open.spotify.com/album/25zj1hLmeA7012yPvjstNy"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145633,
+      "name": "his type",
+      "url": "https://open.spotify.com/track/4quBwMfROFDKEnV1NrJgUe"
     },
     {
       "album": {
@@ -2266,6 +2306,28 @@
       "duration_ms": 257426,
       "name": "My Life",
       "url": "https://open.spotify.com/track/7ytES33eLYS9WaZLKqWfYM"
+    },
+    {
+      "album": {
+        "name": "30.",
+        "url": "https://open.spotify.com/album/3XAOKZb6n3bx6j9OvDSPvc"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148146,
+      "name": "my man... (feat. Mariah The Scientist)",
+      "url": "https://open.spotify.com/track/1aXJeavB4ztnMd6eGvhl0y"
     },
     {
       "album": {
@@ -3385,6 +3447,24 @@
     },
     {
       "album": {
+        "name": "Under The Moon",
+        "url": "https://open.spotify.com/album/5htwDF4DJFuae9rE5LDQiV"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206681,
+      "name": "Under The Moon",
+      "url": "https://open.spotify.com/track/7ey9jmePIXngNcEZ0p7fqk"
+    },
+    {
+      "album": {
         "name": "Vacancy",
         "url": "https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U"
       },
@@ -3396,7 +3476,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 183489,
       "name": "Vacancy",
       "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"

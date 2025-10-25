@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kXmLEOGDbL.md) - [plain]
 
 > Retrouvez toutes les chansons du dessin animé culte
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,533 likes - 23 songs - 51 min 56 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,536 likes - 23 songs - 51 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

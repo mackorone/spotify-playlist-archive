@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 
 > Flow so good, it deserved a reload\.  Cover: Yizzy, Jme
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,241 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,225 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

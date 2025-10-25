@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Topperig
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,119 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,109 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Purosangue](https://open.spotify.com/track/36pfAgVkF5ZjqrSqAU4AN8) | [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Purosangue](https://open.spotify.com/album/1xJvxHbK2fPTbPPvI2WqXl) | 2:42 |
 | 60 | [2 iPHONES](https://open.spotify.com/track/3W2kYeHZ4sKIjU2Us1sOgd) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [2 iPHONES](https://open.spotify.com/album/3vADJKhXuZPrBoC7dkW4JB) | 2:20 |
 
-Snapshot ID: `AAAAAEzvqfqbP40clKDDHjmWUvEQKUrn`
+Snapshot ID: `AAAAAC6YHmeJVfZkWlgpKXa5LX0hB9BI`

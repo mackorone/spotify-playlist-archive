@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 
 > Het zomergevoel met Nederlandstalig ☀️🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,179 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,178 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 | 69 | [Als Ik Naar Malaga Ga](https://open.spotify.com/track/7xkDCLLtAYQ4nHjOIKXnZ6) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Als Ik Naar Malaga Ga](https://open.spotify.com/album/68P4kgJpgPfw0FflrDVh5X) | 2:23 |
 | 70 | [Piña Colada](https://open.spotify.com/track/7ySlaQ9Dy3uy05wULpznrQ) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Piña Colada](https://open.spotify.com/album/0UVquSaaVSh0kmYlesx2oZ) | 2:46 |
 
-Snapshot ID: `AAAAAOec9EN+aIRkJRHqne3wO3NTdvMm`
+Snapshot ID: `AAAAAKsn4HcsamHbEVskWPHuCC15PH+3`

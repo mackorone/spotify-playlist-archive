@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "yo no tuve herencias ni carrito regalado \u2728\ud83e\uddff Ra\u00fal Beltr\u00e1n en portada.",
+  "description": "yo no tuve herencias ni carrito regalado \u2728\ud83e\uddff Los Hnos Rodr\u00edguez en portada.",
   "name": "Corridos Motivadores",
   "tracks": [
     {
@@ -514,7 +514,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 152382,
       "name": "CUIDAME",
       "url": "https://open.spotify.com/track/4K7IPxgek4mtF7e36BCOz3"
@@ -1858,7 +1858,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 200746,
       "name": "La Faramalla",
       "url": "https://open.spotify.com/track/4yPmcwwLXoibbNu6CmrJQg"
@@ -2014,6 +2014,24 @@
       "duration_ms": 150665,
       "name": "La Soluci\u00f3n",
       "url": "https://open.spotify.com/track/0j8OGRGBjBMb286wJxt1o8"
+    },
+    {
+      "album": {
+        "name": "LA ULTIMA CARGA",
+        "url": "https://open.spotify.com/album/3xUxf7TSoFXvle8maTTSVy"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227593,
+      "name": "LA ULTIMA CARGA",
+      "url": "https://open.spotify.com/track/1ChZXiOOpWw08PQXo3ZTU6"
     },
     {
       "album": {
@@ -2385,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "Me Canso Ganso",
+        "url": "https://open.spotify.com/album/7xEwfxf5hcsy0RtCBOM2HW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163114,
+      "name": "Me Canso Ganso",
+      "url": "https://open.spotify.com/track/3cavnB2kJyQyKCc4pH6gI3"
+    },
+    {
+      "album": {
         "name": "Me Dicen Nini",
         "url": "https://open.spotify.com/album/6i5PLMwllcPA7fyJSt4kf5"
       },
@@ -2443,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "Mente Diferente",
+        "url": "https://open.spotify.com/album/1GecQKdJkQ4XZsnm3gfpT0"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174572,
+      "name": "Mente Diferente",
+      "url": "https://open.spotify.com/track/4mA8ZTzAyoxIRMgRWEqeLn"
+    },
+    {
+      "album": {
         "name": "Mi Cuento",
         "url": "https://open.spotify.com/album/31wxeHjrSb5XaXDiQjFBYr"
       },
@@ -2454,7 +2508,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 215405,
       "name": "Mi Cuento Con Banda",
       "url": "https://open.spotify.com/track/6ywqRG918nbqpbtZJIWHgB"
@@ -3173,6 +3227,24 @@
     },
     {
       "album": {
+        "name": "Siempre al 100",
+        "url": "https://open.spotify.com/album/37A7GI3dzffEpCPLNzcWzf"
+      },
+      "artists": [
+        {
+          "name": "Los Hnos Rodriguez",
+          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170389,
+      "name": "Siempre al 100",
+      "url": "https://open.spotify.com/track/5eJe6g7OGrW9Lj0qTi3jmh"
+    },
+    {
+      "album": {
         "name": "Siempre Pendientes",
         "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
       },
@@ -3344,6 +3416,24 @@
       "duration_ms": 222669,
       "name": "Soy El Rat\u00f3n",
       "url": "https://open.spotify.com/track/69OrR4S2auEXzQ7oFh3A5H"
+    },
+    {
+      "album": {
+        "name": "SOY LA CONEXION",
+        "url": "https://open.spotify.com/album/1RT0chbsPppFxhnvuvgIzZ"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165288,
+      "name": "SOY LA CONEXION",
+      "url": "https://open.spotify.com/track/1HGwlbyrEfCsNtMH8X6F79"
     },
     {
       "album": {

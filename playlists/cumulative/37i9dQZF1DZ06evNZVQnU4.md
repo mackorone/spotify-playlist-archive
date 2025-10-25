@@ -4,11 +4,12 @@
 
 > This is Olivia Dean\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 25 min
+45 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Couple Minutes](https://open.spotify.com/track/312z6PZ8wwREck8613PkJk) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:32 | 2025-10-10 |  |
+| [A Couple Minutes](https://open.spotify.com/track/312z6PZ8wwREck8613PkJk) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:32 | 2025-10-10 | 2025-10-25 |
+| [A Couple Minutes \- A COLORS SHOW](https://open.spotify.com/track/3LTaQFxe5oMgzS8wGkL5iy) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [A Couple Minutes \(A COLORS SHOW\)](https://open.spotify.com/album/0Y8PvUegqIXcmldHdcIZy8) | 3:33 | 2025-10-25 |  |
 | [Baby Come Home](https://open.spotify.com/track/5dCbFy9uDWZ2l0J1JmBLT5) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Baby Come Home](https://open.spotify.com/album/2GUwYv4BUonWFyTotWy5o3) | 3:08 | 2025-10-10 |  |
 | [Baby Steps](https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:17 | 2025-10-10 |  |
 | [Be My Own Boyfriend](https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Be My Own Boyfriend](https://open.spotify.com/album/3KxiaBG22271OPBM29XRe8) | 3:27 | 2025-10-10 |  |
@@ -41,7 +42,7 @@
 | [Slowly](https://open.spotify.com/track/4Q3sVNzOHPZRijeORiAxia) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Slowly](https://open.spotify.com/album/1MmWUjcJzazvFlXZmAAGm9) | 3:49 | 2025-10-10 |  |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-10-10 |  |
 | [Something Inbetween](https://open.spotify.com/track/28HadeGsalBfbVfMEkCcF7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:32 | 2025-10-10 |  |
-| [The Art of Loving \(Intro\)](https://open.spotify.com/track/1TZgdopOZCUxpS5bp1i0Zz) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 0:40 | 2025-10-10 | 2025-10-16 |
+| [The Art of Loving \(Intro\)](https://open.spotify.com/track/1TZgdopOZCUxpS5bp1i0Zz) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 0:40 | 2025-10-10 |  |
 | [The Dress \(Dijon Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Olivia Dean \- Spotify Live Room](https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX) | 3:03 | 2025-10-10 |  |
 | [The Harder They Come \- From The Original BBC Series "This Town"](https://open.spotify.com/track/0MSjS42GIlJQMHB7igvIIW) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Harder They Come \(From The Original BBC Series "This Town"\)](https://open.spotify.com/album/6hS6AEXgB9opXrL6bLnkA3) | 3:49 | 2025-10-10 |  |
 | [The Hardest Part](https://open.spotify.com/track/3cPoiK69oQ1SdbB2j2ulGm) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:56 | 2025-10-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,207,627 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,207,765 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 99 | [Whiplash](https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [Whiplash](https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9) | 3:15 |
 | 100 | [HOMEWARD BOUND](https://open.spotify.com/track/6SJxVscXUNKHByst4t6Hlu) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [HOMEWARD BOUND](https://open.spotify.com/album/77qphqm55wE28WErICmvo5) | 3:52 |
 
-Snapshot ID: `AAAAABm8WNlnx6VtTLAT+3rHGol0sv0c`
+Snapshot ID: `AAAAAN6fOS1S5pMlbYgW93qaE3pY/XrR`

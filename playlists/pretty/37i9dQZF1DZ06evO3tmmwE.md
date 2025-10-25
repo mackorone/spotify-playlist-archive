@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,361 likes - 46 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,362 likes - 46 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 19 | [Mexicanos](https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Izzy93](https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 1:47 |
 | 20 | [Pancho Villa](https://open.spotify.com/track/4PKICIEfVIVTpPN2X7KQEh) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 1:57 |
 | 21 | [Suicidal Thoughts](https://open.spotify.com/track/2K5zpAajpUKkfMnYCv7mUV) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:48 |
-| 22 | [Nave 687](https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nave 687](https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8) | 3:27 |
+| 22 | [Con Un Toque](https://open.spotify.com/track/4avwcBPGnQpkm9ZE2OCMCG) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Con Un Toque](https://open.spotify.com/album/7iZGyAz2CVYjw8ePLhqpqB) | 2:53 |
 | 23 | [Touring Tx](https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:39 |
 | 24 | [El Drogadito](https://open.spotify.com/track/1GPYWbUkHA2ZG7te2SrwDk) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Shrt Lyfe](https://open.spotify.com/artist/4gO0CVUzBlzhSRPwxajfbF) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 1:45 |
 | 25 | [3 Noches](https://open.spotify.com/track/3rNYesKTSEHJSwm5AfIaqi) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:15 |
-| 26 | [Con Un Toque](https://open.spotify.com/track/4avwcBPGnQpkm9ZE2OCMCG) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Con Un Toque](https://open.spotify.com/album/7iZGyAz2CVYjw8ePLhqpqB) | 2:53 |
+| 26 | [Nave 687](https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nave 687](https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8) | 3:27 |
 | 27 | [Cassius Clay](https://open.spotify.com/track/0G52dus3dx0cnobNQbieDi) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Godspeed](https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy) | 2:35 |
 | 28 | [Pa los Hombres](https://open.spotify.com/track/0gFsz5GfIcGnO9eM4htJOS) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Andy Hernandez](https://open.spotify.com/artist/7nB8tKUsp7YlXtuHdn8EMR) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:04 |
 | 29 | [Tequila](https://open.spotify.com/track/524VJm7vgd42I1fOkYcwUO) | [N.E Mafio](https://open.spotify.com/artist/3NqezxhkriLPuVhVDC1cMS), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Tequila](https://open.spotify.com/album/15t2GcdpWSfe7sQrZ2VB3x) | 3:19 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 45 | [Bo Bundy In Japan](https://open.spotify.com/track/3MQCDOv07b0Kg5PP9mfdVZ) | [TheWaterBoyz710](https://open.spotify.com/artist/04S7sRw8LXmqGKRTXsZszc), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Terp Wars DELUXE](https://open.spotify.com/album/5Go5g0fiuc1y5QflfPkpIJ) | 2:26 |
 | 46 | [25 Lighters](https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:22 |
 
-Snapshot ID: `aPgegAAAAAAQhB5WZEKPIOEnbmIIziIY`
+Snapshot ID: `aPlwAAAAAAC6AHUffkGoEQi2PE7GfAfn`

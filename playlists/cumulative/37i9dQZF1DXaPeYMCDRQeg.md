@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-421 songs - 1 day 2 hr 33 min
+422 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Ass Like That](https://open.spotify.com/track/6YQmDvj6XVAKSPLzjjLrFj) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:40 | 2023-02-10 | 2024-02-01 |
 | [At Your Best \(You Are Love\) \- Spotify Singles](https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [At Your Best \(You Are Love\) \- Spotify Singles](https://open.spotify.com/album/5hRR7gwAw1b7XbJ3HCZHIn) | 5:17 | 2021-12-15 | 2022-07-29 |
 | [Attention](https://open.spotify.com/track/7tr8SXmP9j0uVqUU0qoapb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 3:36 | 2024-04-24 |  |
+| [ATTITUDE PROBLEMS](https://open.spotify.com/track/0YlPXIacoFxiXzA0oril3D) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [WARNING SHOT](https://open.spotify.com/album/0b71YRhkucJcuODZV0ykOj) | 3:18 | 2025-10-24 |  |
 | [Aweh](https://open.spotify.com/track/66prH4Oa24RKnJbMR1iXzY) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [You, Me & The 90's](https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd) | 3:04 | 2025-07-25 | 2025-08-09 |
 | [Baby](https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:25 | 2021-12-15 | 2023-02-11 |
 | [Back At One](https://open.spotify.com/track/6mwA6YiKDjAUG8kWvRRUPh) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Back At One](https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo) | 4:23 | 2022-03-14 | 2023-02-11 |

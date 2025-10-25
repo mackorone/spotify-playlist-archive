@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 178290,
       "name": "BARRACUDA",
       "url": "https://open.spotify.com/track/0wLkTnJxJxSNs6pyf7jUw3"
@@ -4517,6 +4517,28 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Stush",
+          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212671,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev"
+    },
+    {
+      "album": {
         "name": "The Rose EP",
         "url": "https://open.spotify.com/album/2maYq0kspsmJkYjDkmgBDW"
       },
@@ -6824,7 +6846,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 162400,
       "name": "I'll Be Good",
       "url": "https://open.spotify.com/track/7z7KWEjCMJh0V6oenkmeqq"
@@ -11926,6 +11948,24 @@
       "duration_ms": 224095,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/1Ee7waaVp8SXUF7O6D3hvb"
+    },
+    {
+      "album": {
+        "name": "Roleplay",
+        "url": "https://open.spotify.com/album/2ZIK4eyUYkhQND86QFcI1C"
+      },
+      "artists": [
+        {
+          "name": "STUCA",
+          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "Roleplay",
+      "url": "https://open.spotify.com/track/6oqYVUJjUst5BiVTv03jJ2"
     },
     {
       "album": {

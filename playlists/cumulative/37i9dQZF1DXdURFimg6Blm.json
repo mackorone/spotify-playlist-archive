@@ -4747,6 +4747,24 @@
     },
     {
       "album": {
+        "name": "GIRLBOSS",
+        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "GIRLBOSS",
+      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
+    },
+    {
+      "album": {
         "name": "Girls MIA",
         "url": "https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc"
       },
@@ -6424,7 +6442,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 215930,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM"
@@ -7882,6 +7900,24 @@
       "duration_ms": 178625,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
+    },
+    {
+      "album": {
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281500,
+      "name": "Man With a Second Face",
+      "url": "https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO"
     },
     {
       "album": {
@@ -10740,7 +10776,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 136190,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/3UoyCBnr5YJ4qKzHkrM2fj"

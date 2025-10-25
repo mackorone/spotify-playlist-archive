@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,428 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,426 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 99 | [Drink In My Hand \- Live At Staples Center, Los Angeles, CA / March 31, 2017](https://open.spotify.com/track/7yqMX0CgXNObxnlnA9JgaW) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 5](https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp) | 3:10 |
 | 100 | [Travelin' Light \- Live](https://open.spotify.com/track/5TXhMT91DxzUbOvPQXJOex) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 3:18 |
 
-Snapshot ID: `AAAAAF64jbF7XwDnEHumqYblda0oMDqU`
+Snapshot ID: `AAAAAGj5yAcDuwIaivvv+4KPrDG0vZAP`

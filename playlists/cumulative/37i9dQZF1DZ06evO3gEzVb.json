@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "Awarepa Ye Anibre",
+        "url": "https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327906,
+      "name": "Enti Se Adee Ankye Me'a",
+      "url": "https://open.spotify.com/track/0JgBTw4N6Amg1CHI4pp15k"
+    },
+    {
+      "album": {
         "name": "Play Boy",
         "url": "https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG"
       },
@@ -468,7 +486,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 308106,
       "name": "Fakye",
       "url": "https://open.spotify.com/track/03bhHIE1TyZag5a671BKiT"

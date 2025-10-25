@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,097 likes - 150 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,240 likes - 150 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 149 | [Astra](https://open.spotify.com/track/2Qo0025pMUTB00Hqm9KVRZ) | [Paulo Lucas](https://open.spotify.com/artist/6ojxO4yKau2YGdnIZOBwzV) | [Astra](https://open.spotify.com/album/4SgCRjI9SLeqLopiibQiVM) | 4:23 |
 | 150 | [Noites de Verão](https://open.spotify.com/track/3J2A6l5wdDu5okpp9l4MO9) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Noites de Verão](https://open.spotify.com/album/3EFMIRvfIXIhXbtXcmjF4P) | 3:12 |
 
-Snapshot ID: `AAAAACD3jYQUidJkK/VcoPCU3Xhaz7W7`
+Snapshot ID: `AAAAAFI+oakZvfwSHPgCPpEAJ86R8MYc`

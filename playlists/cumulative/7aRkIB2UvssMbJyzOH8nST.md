@@ -4,7 +4,7 @@
 
 > Ease into your day with these beautiful chill songs – Relaxing Morning Music , Relaxing, Chill Music, Lazy Sunday, Cozy morning, Soft morning tunes, Weekend vibes, Sunday brunch playlist, Slow coffee music, Laid\-back, sounds, Morning acoustic
 
-205 songs - 11 hr 45 min
+207 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Before I Go](https://open.spotify.com/track/5vlTxb7BP5DWzpw8RgnzxR) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Before I Go](https://open.spotify.com/album/0NTMWAuT544WcHhDgyyzyb) | 3:29 | 2025-07-18 |  |
 | [Biotope](https://open.spotify.com/track/4xUDSGjehVdoEkaC62rsTL) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Biotope](https://open.spotify.com/album/4BmVz5436mMpbUegwu09xd) | 2:48 | 2025-09-30 |  |
 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2025-07-18 |  |
-| [blame's on me](https://open.spotify.com/track/6L1kMQmgnMDtjlPKie9MQh) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:18 | 2025-07-18 |  |
+| [blame's on me](https://open.spotify.com/track/6L1kMQmgnMDtjlPKie9MQh) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:18 | 2025-07-18 | 2025-10-25 |
 | [Blowing Smoke](https://open.spotify.com/track/0MIJFuEJpmgSjNjkbq29TQ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 3:52 | 2025-08-15 | 2025-08-23 |
 | [Blueberry Eyes \(feat\. SUGA of BTS\)](https://open.spotify.com/track/5ibk0oLQ2DajYbhY0ZJOIM) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Colour Vision \(Deluxe\)](https://open.spotify.com/album/4fbXC8lFSdtcvXX6SM6RO6) | 2:52 | 2025-07-18 |  |
 | [Break A Promise](https://open.spotify.com/track/0GhN5uzkfnVTWzmI2RpWBX) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Break A Promise](https://open.spotify.com/album/6iCjFxkd0iZu2ZkeCO7wdg) | 3:08 | 2025-07-18 |  |
@@ -45,6 +45,7 @@
 | [Carmen](https://open.spotify.com/track/2Len4tBitFcIf0sAp2zBOT) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Carmen](https://open.spotify.com/album/2X9F4vOl0e6K7qGyLqZoz2) | 3:02 | 2025-07-18 |  |
 | [Carry Me Away](https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 2:39 | 2025-07-18 | 2025-07-26 |
 | [Castaways](https://open.spotify.com/track/7EBqxux19yIqmyNjfnQTE1) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Castaways](https://open.spotify.com/album/69ELYNXvyNZhpCX2Rt3lKa) | 2:44 | 2025-07-18 |  |
+| [Cats & Dogs](https://open.spotify.com/track/4QZMcoAggngJc5qSbUqnin) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Cats & Dogs](https://open.spotify.com/album/3BNsRryF2TQlOp9V367aP8) | 2:45 | 2025-10-24 |  |
 | [Cherry Flavoured](https://open.spotify.com/track/40iocOzytrqaRn5RbGPDNp) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 3:28 | 2025-07-18 |  |
 | [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:20 | 2025-07-18 |  |
 | [Chill Baby](https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:20 | 2025-07-18 |  |
@@ -66,6 +67,7 @@
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2025-07-18 |  |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-07-18 |  |
 | [Falling or flying](https://open.spotify.com/track/0JZGKXuE6IZcGs5Jvw3bc8) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa) | 3:24 | 2025-07-18 |  |
+| [FU & UF](https://open.spotify.com/track/6EmVYBTauOBjejUU5n9GyF) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [SE9 Part 1](https://open.spotify.com/album/6KwW5AwZbyHJD3KyZuuyM1) | 2:39 | 2025-10-24 |  |
 | [Give You The World](https://open.spotify.com/track/14jzHnfgLUZDLNcI0EciWb) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Give You The World](https://open.spotify.com/album/5Sp7sBzrqrOVcIZ4xY0iU4) | 3:39 | 2025-07-18 |  |
 | [Gold](https://open.spotify.com/track/4Qy7yWT1UI6FK2CWrqkGwR) | [Gabriel Rios](https://open.spotify.com/artist/0pF1TxZmwCJ3gGpkBQwdtT) | [This Marauder's Midnight](https://open.spotify.com/album/6Nahal5iYJfGxEXeGSL3b3) | 4:11 | 2025-07-18 |  |
 | [good old days](https://open.spotify.com/track/1XcPFhBIMCUgXlBC5CuBOM) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [good old days](https://open.spotify.com/album/3qPnAsGYDEi6kboQkQS0cT) | 2:36 | 2025-07-18 | 2025-09-13 |
@@ -168,7 +170,7 @@
 | [Some Say](https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say](https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m) | 2:55 | 2025-07-18 |  |
 | [Somebody That I Used to Know](https://open.spotify.com/track/62oaDoBveZxvZb94ziiMXi) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/4QsYYvV4ig7xeNQkTzUCA2) | 4:05 | 2025-07-18 |  |
 | [Something Keeps Calling \(feat\. Rob Bacon\)](https://open.spotify.com/track/2TuRqxy7EI8gMGDQFt3iTV) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Rob "Fonksta" Bacon](https://open.spotify.com/artist/0PBJAklxGVi4C4OOVPRmaO) | [Something Keeps Calling \(feat\. Rob Bacon\)](https://open.spotify.com/album/2bbtGylMVav9dn2QWNiGIw) | 4:44 | 2025-07-18 |  |
-| [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 | 2025-07-18 |  |
+| [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 | 2025-07-18 | 2025-10-25 |
 | [STRANGERS \(feat\. TINI\)](https://open.spotify.com/track/682vct7cxeNq8i3RHKg61a) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [STRANGERS \(feat\. TINI\)](https://open.spotify.com/album/4kI1jopbfhA5sBlvvPhQAO) | 3:21 | 2025-07-18 |  |
 | [Subside](https://open.spotify.com/track/3Lqsck2T1MyyRmK1993Obk) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/2TwdfXTB6TUMObapDUysmW) | 3:08 | 2025-07-18 |  |
 | [Sunday Love](https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sunday Love](https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD) | 5:16 | 2025-07-18 |  |

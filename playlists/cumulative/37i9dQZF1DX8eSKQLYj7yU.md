@@ -2,9 +2,9 @@
 
 ### [Bluegrass Christmas](https://open.spotify.com/playlist/37i9dQZF1DX8eSKQLYj7yU)
 
-> Celebrate the season with your favorite bluegrass artists from yesterday and today.
+> Bluegrass fit for the holiday season
 
-108 songs - 5 hr 44 min
+111 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,11 +101,14 @@
 | [The Christmas Medley](https://open.spotify.com/track/0hNwLoudMLnR3It8zehcP8) | [Tony Trischka](https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK) | [The Christmas Medley](https://open.spotify.com/album/0DayQQKJP6ZUKbrwx1ZzwL) | 2:32 | 2024-11-29 |  |
 | [The First Noel](https://open.spotify.com/track/0EIdv3lXXviQaqiU8WjqnA) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Bluegrass & White Snow, A Mountain Christmas](https://open.spotify.com/album/5lZFICo1VSjasmXnnVdq6p) | 2:17 | 2024-11-29 |  |
 | [The First Noel / It Came Upon A Midnight Clear / Joy To The World \- Medley](https://open.spotify.com/track/3us7sMDSns0Td2DQqCD4RN) | [Doyle Lawson](https://open.spotify.com/artist/53ODrbz9dJiAZ6ikXa8l3F), [Quicksilver](https://open.spotify.com/artist/3uVTvREnqHEJgmZDJga3yF) | [Sugar Plums \- Holiday Treats From Sugar Hill](https://open.spotify.com/album/0KnU67yUxf5aMFaUbg2iyr) | 3:01 | 2024-11-29 |  |
+| [The First Noel/Joy to the World](https://open.spotify.com/track/1q2aFAQzzSVkBgTwNCrgSS) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [The First Noel/Joy to the World](https://open.spotify.com/album/2K3jKAaydN9YniJbhIlrUw) | 2:35 | 2025-10-24 |  |
 | [The First Snowfall](https://open.spotify.com/track/3tplqkvkt8ucxYkIg1lEOL) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [The First Snowfall](https://open.spotify.com/album/5LKDWGgTXkzyXSdUCo2tld) | 3:22 | 2024-11-29 |  |
+| [The Holly and the Ivy](https://open.spotify.com/track/4qE4NPTb1CKIPXhP3ef7sR) | [Mark O'Connor](https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV), [Maggie O'Connor](https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH) | [The Holly and the Ivy](https://open.spotify.com/album/6T1sk0GrAb5KF9eI019MsD) | 2:55 | 2025-10-24 |  |
 | [The Holly Bears a Berry](https://open.spotify.com/track/1OfAsMPRH3KideeaNSrbUK) | [Cup O’Joe](https://open.spotify.com/artist/3ooGnJ9UPDeByu31PiBSYf) | [Christmas Kin](https://open.spotify.com/album/6NgtwSKExhf9e4tQvfeHZe) | 3:15 | 2024-11-29 |  |
 | [The Little Drummer Boy](https://open.spotify.com/track/2bZWdzlwiKDGmqZyJZ13Ue) | [New Direction](https://open.spotify.com/artist/1ZQaFElI3bcS8iO1FxOB6q), [Brice Hursey](https://open.spotify.com/artist/7g9KP9F6MZtTygtRJpozNV), [Sarah Drye](https://open.spotify.com/artist/3uj2I7SBEiHSR2ZQvgGl7M) | [Is it Christmas Yet?](https://open.spotify.com/album/0oAWk3IeZV5XnmOCVkZzs1) | 3:49 | 2024-12-13 |  |
 | [The Polar Express](https://open.spotify.com/track/7dZWVTDlatCcsNE8FMHhjk) | [Williamson Branch](https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN) | [The Polar Express](https://open.spotify.com/album/6WPPYnLZGyJOY8BNxlf0xv) | 2:53 | 2024-11-29 |  |
 | [The Savior Is Born](https://open.spotify.com/track/22H9q1me1rQMniB7ey1lOG) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv) | [The Perfect Gift](https://open.spotify.com/album/5uzJk08meRVvXltVLcDfaS) | 3:17 | 2024-11-29 |  |
+| [The Tobogganist](https://open.spotify.com/track/4sFwTtFtfLCXDOTz9XKYdL) | [Väsen](https://open.spotify.com/artist/1Njrx1AMU4ymWHjfSlwLpE), [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Väsen & Hawktail](https://open.spotify.com/album/0wVevTBumTZaNvbGoWkjYs) | 3:54 | 2025-10-24 |  |
 | [Tis The Season \(To Stir The Pot\)](https://open.spotify.com/track/0c0aHFw1S9mmpiEXCXVa8S) | [Rachel McIntyre Smith](https://open.spotify.com/artist/1z8eldHhK2nqKa26VIcJde) | [Tis The Season \(To Stir The Pot\)](https://open.spotify.com/album/74NpXLeZdCW3oVvLcsuXeu) | 2:45 | 2024-11-29 |  |
 | [Twelve Days of Christmas](https://open.spotify.com/track/2jO2D01qSmlEhwUM8cbz58) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Beautiful Star: A Christmas Collection](https://open.spotify.com/album/45vZd5IDIVTC6y04fs7ZM3) | 4:16 | 2024-11-29 |  |
 | [Very Merry Christmas](https://open.spotify.com/track/4bmnj5IBjxXSumzLITC5MS) | [Williamson Branch](https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN) | [Very Merry Christmas](https://open.spotify.com/album/5Xazc4mLRhHLaZGzqvZdKp) | 3:04 | 2024-11-29 |  |

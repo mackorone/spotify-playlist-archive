@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Dos Santos
 
-336 songs - 17 hr 1 min
+336 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [En Som Dig](https://open.spotify.com/track/4hCLByf2DyXB4RPsC2mNZd) | [BJØRN](https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D) | [En Som Dig](https://open.spotify.com/album/40AJcpbZh1cji3B6hgOXc0) | 2:32 | 2025-01-23 | 2025-03-02 |
 | [En Som Dig](https://open.spotify.com/track/2D70stXApX10H7JKusia0x) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [En Som Dig](https://open.spotify.com/album/1CDNj8AV1BFoZsiOdEnNXf) | 3:12 | 2025-07-10 | 2025-08-15 |
 | [En Vandretur i Peru](https://open.spotify.com/track/08IL88yJTN613mf0G7IIiz) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [En Vandretur i Peru](https://open.spotify.com/album/7vL0hjoIGeOqDO2rWdz7YU) | 3:28 | 2025-04-10 | 2025-05-07 |
+| [Ender Altid Hos Dig](https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [4CANTOS](https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw) | 2:20 | 2025-10-23 |  |
 | [ENDORFINER](https://open.spotify.com/track/2HvqyWJEzmr51bWogSVIb2) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [ENDORFINER \(JEG VIL IKKE VIDE DU FINDES\)](https://open.spotify.com/album/2Hq70DHdUVp1Y5jsx4rGyg) | 3:08 | 2024-06-27 | 2024-09-19 |
 | [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 | 2025-03-13 |  |
 | [Falder I](https://open.spotify.com/track/4YtgUbrhVuBiGTemZ9BnO9) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Falder I](https://open.spotify.com/album/2dWHihGERxkPBR1zLKv3yw) | 3:00 | 2024-08-09 | 2024-08-30 |
@@ -297,7 +298,6 @@
 | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc) | [Cyd](https://open.spotify.com/artist/6JYcDUfoOtgxTCnAJU9O3A), [Ungklang](https://open.spotify.com/artist/4g6UJfNBiSyqnvK3sJOSnD) | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu) | 3:09 | 2025-03-27 | 2025-04-04 |
 | [Til Mit Hjerte Stopper \(feat\. Kundo\)](https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [</3](https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq) | 3:23 | 2024-06-27 | 2024-09-27 |
 | [Til Solen Er Sort](https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Til Solen Er Sort](https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz) | 3:44 | 2024-06-27 |  |
-| [Track 5](https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [Træ](https://open.spotify.com/track/1O4JjI0kH0ThnCZWrryAGD) | [Rigmor](https://open.spotify.com/artist/2vl3gjL9MJNaGgs11WZr5y) | [Træ](https://open.spotify.com/album/6VNRVd5whVnFT6PSFPpR6R) | 3:19 | 2024-12-12 | 2025-02-07 |
 | [Tunge Følelser](https://open.spotify.com/track/1Mnmmbcd8RhjOoZExPW3Zv) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Tunge Følelser](https://open.spotify.com/album/7LAyKf6EHJxTiBkllKmp1U) | 2:35 | 2025-09-18 |  |
 | [Turn Around](https://open.spotify.com/track/4gDjuMCJSVsvHCLFEtb3mU) | [SOL](https://open.spotify.com/artist/7FZzDJqjzhkZi4V4SJnQWj), [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [Turn Around](https://open.spotify.com/album/54ttlPjNPzVTZRSJVxxQYE) | 2:56 | 2025-01-30 | 2025-06-10 |

@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Die Piesangskille, Eloff, Rooksein en meer!
 
-2,121 songs - 4 day 22 hr 4 min
+2,122 songs - 4 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1718,6 +1718,7 @@
 | [Soos Bloed \- SENSASIE Remix](https://open.spotify.com/track/4uXteEd1JioDpa7IMkYmrR) | [Theuns Jordaan](https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Soos Bloed \(SENSASIE Remix\)](https://open.spotify.com/album/6hOn92qvDdFna02b21Qvx6) | 3:28 | 2024-07-04 | 2024-12-06 |
 | [Soos Die Reën](https://open.spotify.com/track/1L9ZfKohXeXru4K0qGk5pX) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [Soos Die Reën](https://open.spotify.com/album/00PSQBBvSucHGg8H4KdgpF) | 2:44 | 2022-10-27 | 2022-11-18 |
 | [SOS](https://open.spotify.com/track/3PzdqaxouPup0BFKeU545G) | [Jemma Catherine](https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ), [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [SOS](https://open.spotify.com/album/4FOundWeVlsABamwqGAeDy) | 2:37 | 2023-07-06 | 2023-07-28 |
+| [Sou Jy](https://open.spotify.com/track/5RZ2jaq7ocHg4CYbhUTWqS) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu) | [Sou Jy](https://open.spotify.com/album/7e0pc5OQafeJU1uAXvkjVC) | 3:22 | 2025-10-23 |  |
 | [Sou Vir Jou](https://open.spotify.com/track/6b9Dja0fQQBQv0tIhWeJCr) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Sou Vir Jou](https://open.spotify.com/album/0myi1ku1lKysaEXDKeesL7) | 2:59 | 2024-06-27 | 2024-09-27 |
 | [Sout](https://open.spotify.com/track/0LAljHGDOEVBiULm9DnviZ) | [Touch by Mirror](https://open.spotify.com/artist/0wyKENJo86SfbhWYUiFOc8) | [Sout](https://open.spotify.com/album/2ArwqktMpG5UzjWdSpV9c7) | 4:22 | 2024-08-15 | 2024-08-23 |
 | [SOUTIE](https://open.spotify.com/track/1QJlgHjdPev34YswYl50AA) | [Rowan Zerf](https://open.spotify.com/artist/7p1xK6ldKrEARi6UoVy2on) | [SOUTIE](https://open.spotify.com/album/7iizuFYnvyHGWyg52CKpYK) | 3:45 | 2025-06-12 | 2025-09-12 |

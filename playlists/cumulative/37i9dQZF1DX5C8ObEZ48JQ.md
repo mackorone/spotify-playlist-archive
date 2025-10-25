@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j?si=wVUdcSGyTB2YD9LGA8epJw">Tolibian</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56?si=cdTjfYr\-R\-GbPNK\-OIy5xw">Amaeya</a>\. Artwork: Isu Kim.
 
-1,372 songs - 2 day 20 hr 40 min
+1,373 songs - 2 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -923,6 +923,7 @@
 | [Ona](https://open.spotify.com/track/1xiSqiGJvuBzGcFKN3iqDM) | [Modest Chabari](https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm) | [Another Planet](https://open.spotify.com/album/7Ies9bE65WatAtuT0MAi3y) | 4:49 | 2025-04-02 | 2025-05-28 |
 | [Ondine's Curse](https://open.spotify.com/track/4qxteXCD4RAGbJQH95eRRw) | [SEI SIREN](https://open.spotify.com/artist/70Z1TUPHxHkADZaWyJVlAl) | [Orca](https://open.spotify.com/album/7JSAAgAho49VU5dDRjCQxE) | 2:44 | 2023-10-25 | 2023-11-30 |
 | [One Million Cedis \(feat\. Ink Boy\)](https://open.spotify.com/track/4eMTkiQRtQKzFgvE5tD4gN) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ink Boy](https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 2:45 | 2023-03-05 | 2023-03-10 |
+| [One More Blunt](https://open.spotify.com/track/4DxDt36W6NtJgQJzw973KG) | [Dartfrogs](https://open.spotify.com/artist/1HtYH5gP867prCXhW1VEDa), [Scarface Panda](https://open.spotify.com/artist/3jyUAIoIRG8CgEraAM8RWJ), [Ukhona](https://open.spotify.com/artist/1YN07xYdfQBSZKslSnCS11), [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6) | [One More Blunt](https://open.spotify.com/album/5KGTjf9dWppUjRhrOvkOxl) | 2:39 | 2025-10-24 |  |
 | [One Night](https://open.spotify.com/track/7zjsQXJbCqZUJJgC2M0Bv3) | [Cznbaby](https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf) | [One Night](https://open.spotify.com/album/5Vn70shB3Ff0nxOszcICqp) | 2:50 | 2024-09-04 | 2025-01-24 |
 | [One Sided](https://open.spotify.com/track/0W0s4QcraRtXxzkX92r5Zr) | [CallmeTino](https://open.spotify.com/artist/5xhs67TdK4JBvwUyQnMdsk) | [Self Conflicted.](https://open.spotify.com/album/3eqQOOzbHhwmaRXmoBoW9v) | 2:52 | 2023-06-27 | 2023-07-27 |
 | [Onji](https://open.spotify.com/track/7rAaSPUwRJ79wMw19391tU) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [Laeorx](https://open.spotify.com/artist/42zckcHlrUoJQHqFQV2fjq) | [Onji](https://open.spotify.com/album/7hq98PeM25enyZHrg6sxo0) | 2:21 | 2025-04-10 |  |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-352 songs - 1 day 8 hr 48 min
+354 songs - 1 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Dark Waves](https://open.spotify.com/track/1BpjHYLMMGzCgfBa5NYze5) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Dark Waves](https://open.spotify.com/album/1jFxs3VUgiaGLCjrRqLciY) | 4:37 | 2023-02-17 | 2023-05-27 |
 | [Darkest Night](https://open.spotify.com/track/6bQube9dnu7nQhRuwEeO2q) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0), [Jamal Dilmen](https://open.spotify.com/artist/2ReUOiIHulZfotQQgFHoqB) | [Darkest Night](https://open.spotify.com/album/2spLtITAXAnhIqcrfgUxhk) | 3:29 | 2025-05-30 |  |
 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 | 2022-10-27 | 2023-05-03 |
-| [Das Omen](https://open.spotify.com/track/0QSonqlm6e1Rvjl44D4DOL) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Nostalgie und Traurigkeit](https://open.spotify.com/album/7aO4M6jNRWRtV2F57O0YLa) | 3:30 | 2025-08-15 |  |
+| [Das Omen](https://open.spotify.com/track/0QSonqlm6e1Rvjl44D4DOL) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Nostalgie und Traurigkeit](https://open.spotify.com/album/7aO4M6jNRWRtV2F57O0YLa) | 3:30 | 2025-08-15 | 2025-10-25 |
 | [Dawn of Man](https://open.spotify.com/track/1eKXY9F9BZzDHraaFCajoh) | [Shydow](https://open.spotify.com/artist/7MctCeJARCIyIfzE1RGFV9) | [Dawn of Man](https://open.spotify.com/album/6ygNkqCX4Ud8CwRtzf700V) | 6:17 | 2022-09-16 | 2023-10-21 |
 | [Depressure](https://open.spotify.com/track/7uyJzMNYPVicov8vRRK0CM) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Voyager](https://open.spotify.com/album/6ysNw1BljMVNn73HzrNql4) | 3:59 | 2025-04-11 | 2025-06-28 |
 | [Desolate Lands](https://open.spotify.com/track/0otmh5QkPkM4HtSleILAWC) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Desolate Lands](https://open.spotify.com/album/2KLiLQvguVwRpcLqL74Huc) | 4:18 | 2025-06-27 |  |
@@ -235,6 +235,7 @@
 | [Open Your Eyes](https://open.spotify.com/track/7dUnRmuqiVe26UokUxCTgu) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Open Your Eyes](https://open.spotify.com/album/5oYtXGdXIln2DKLLBFEkyZ) | 7:25 | 2025-03-14 | 2025-06-28 |
 | [Operate](https://open.spotify.com/track/3m6VqP3WJAbVNh3UGSG7uW) | [DSTRTD SGNL](https://open.spotify.com/artist/4ISX2aRyZ10uoLtypdPNai) | [Operate](https://open.spotify.com/album/2DGAaFQ7eA2t8ApyefIdyi) | 5:32 | 2025-01-17 | 2025-06-28 |
 | [Orbital State](https://open.spotify.com/track/6dGe97YbAPSwflk8QlcNkg) | [Al\-Faris](https://open.spotify.com/artist/07LrIMW3EHnuoc5us4AGgm), [Andrew Wooden](https://open.spotify.com/artist/2BcpCh7qQg8YDzAQ7XrxG2) | [Extraterrestrial Intelligence](https://open.spotify.com/album/5CeNGjzJBPrdaLmZ5EtrGR) | 6:05 | 2024-07-26 | 2024-10-12 |
+| [Pain in my Heart](https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Sturm und Drang](https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK) | 3:44 | 2025-10-24 |  |
 | [Parallax](https://open.spotify.com/track/5NR0Kyk5YRBPtaI33hivZx) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 06](https://open.spotify.com/album/7fhF1Tyb4nblRBJSH6fIbo) | 8:05 | 2023-02-03 | 2023-08-19 |
 | [Patterns](https://open.spotify.com/track/1Wrgevw8ryE5ygjDBa9f10) | [Jürgen Kaisr](https://open.spotify.com/artist/6hzeX2ERTNIeQ3QolZk8sW) | [Patterns](https://open.spotify.com/album/2UxYojBKGpTT9IKmKL130T) | 7:48 | 2022-09-16 | 2023-10-28 |
 | [Pharaoh](https://open.spotify.com/track/4vSaBN4wJ3q9Ds6FQLHhEY) | [Fritz Rabenstein](https://open.spotify.com/artist/1NLYzK3iw04yEaLt9Ax1mk) | [Pharaoh EP](https://open.spotify.com/album/6jTpXqDzEra9G4AAjKZvBu) | 3:42 | 2024-06-10 | 2025-02-15 |
@@ -242,6 +243,7 @@
 | [Philly](https://open.spotify.com/track/31pgniS2oEW6S2SNHCPnLV) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [Present 10 Years Get Physical](https://open.spotify.com/album/3H7F4f1FFSov6xXVVpIpjZ) | 8:15 | 2022-11-07 | 2022-11-13 |
 | [Philly](https://open.spotify.com/track/5WmWTKaOjVRLdTtZXHMzoH) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [Philly](https://open.spotify.com/album/7pdcKXEVHGRdF2sE4w5Nx0) | 8:15 | 2022-09-16 | 2022-10-18 |
 | [Philophobia](https://open.spotify.com/track/0kEUW8rGtl1WQ2x86T8wVG) | [Jadele](https://open.spotify.com/artist/2UkGmTJ7RVPmoyKNtU7oi7) | [Unveiled](https://open.spotify.com/album/3E7fVBNAObpFVkUAzrHkkR) | 4:22 | 2023-01-20 | 2023-02-18 |
+| [Pick Your Poison](https://open.spotify.com/track/203X2JbnIszM6F21pkxkoE) | [Frieder & Jakob](https://open.spotify.com/artist/0rngZQF9IoOPgAXhJmF35V) | [Pick Your Poison](https://open.spotify.com/album/0TxKnk4GN0XmhvO8q5iWYH) | 2:37 | 2025-10-24 |  |
 | [Pictureoftheday](https://open.spotify.com/track/7BnFGrk7w1UTZ2Vu3FbHuv) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 8:32 | 2023-10-27 | 2024-01-27 |
 | [Pictureoftheday \- Breitenstein Remix](https://open.spotify.com/track/7FwnbicTkdRzrzwWc8hkHp) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO), [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Pictureoftheday \- Breitenstein Remix](https://open.spotify.com/album/6du7BevPmXnj3oHFwiwD6f) | 8:19 | 2022-09-16 | 2022-12-17 |
 | [Pictureoftheday \- Marco Faraone Remix](https://open.spotify.com/track/4VxbQKewmC9zm1qYDVx64W) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO), [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Pictureoftheday \- Marco Faraone Remix](https://open.spotify.com/album/4BtmVqZMhKF4qqo7lpIUAv) | 7:14 | 2022-09-16 | 2022-12-17 |

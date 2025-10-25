@@ -2,9 +2,9 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Motion & good vibes! Cover: DYSTINCT ✨
+> Motion & good vibes! Cover: Mensa ✨
 
-1,543 songs - 2 day 20 hr 38 min
+1,544 songs - 2 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1074,6 +1074,7 @@
 | [Parra](https://open.spotify.com/track/2Z70Qn4knFDwYhFFEa6gkJ) | [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs), [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [GiNO](https://open.spotify.com/artist/4HvPdUx3y9ADFOT8gabDdt) | [Parra](https://open.spotify.com/album/08MPOecKvsal5xuYcTdmBC) | 2:36 | 2023-06-23 | 2023-07-07 |
 | [PARRA PARRA](https://open.spotify.com/track/43NdMgnspTycdzuAdEN1j9) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [PARRA PARRA](https://open.spotify.com/album/1eFKTm5sVcO06i5tfIMc0w) | 2:02 | 2025-07-03 | 2025-08-08 |
 | [Partners In Crime](https://open.spotify.com/track/3xtvRyie2IZNDr2BNtoTuE) | [Yssine](https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1) | [Partners In Crime](https://open.spotify.com/album/4mILdEmzUxQe9RgY8xEfxJ) | 2:02 | 2024-11-14 | 2025-02-07 |
+| [Party Lit](https://open.spotify.com/track/1VWBiIqOkw87zQ1VlDQL3V) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Party Lit](https://open.spotify.com/album/0zrEX1otKLqnZEmVLI0b2q) | 2:09 | 2025-10-24 |  |
 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-03-30 | 2023-06-01 |
 | [Pas Comme Ça](https://open.spotify.com/track/5Os3fdIL2QS2e1r6JzMrjQ) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [D&D](https://open.spotify.com/album/7EznJ3BjBGXxRgNSC6n610) | 3:17 | 2024-07-19 | 2024-11-29 |
 | [Passa Passa](https://open.spotify.com/track/4CuiTKxzI5IYB4C9DteyRW) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5) | [Passa Passa](https://open.spotify.com/album/559Ym4G6Nd0rQdLRnM1PR4) | 2:39 | 2022-11-18 | 2022-12-09 |

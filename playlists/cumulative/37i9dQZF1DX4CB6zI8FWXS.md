@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Leon Thomas
 
-1,066 songs - 2 day 9 hr 35 min
+1,066 songs - 2 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [LOCA](https://open.spotify.com/track/41zwSinD6HrblQGEb493tl) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t) | [LOCA](https://open.spotify.com/album/6D8P8uefM8gtGFRcPK44SW) | 3:32 | 2025-08-14 |  |
 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 | 2025-05-29 | 2025-09-06 |
 | [lonely night](https://open.spotify.com/track/4AKKCEedcW2LbYOGy3MxAp) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [lonely night](https://open.spotify.com/album/0stQuNmMAxDmrffku01ZZ0) | 2:59 | 2025-06-06 |  |
+| [Longest Way Round](https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Teal Dreams](https://open.spotify.com/album/2AzTf9LVZzgJ7DoN1nE7uQ) | 3:42 | 2025-10-23 |  |
 | [Look at My Way](https://open.spotify.com/track/1qu5B8FbgwKZCLZXTRCrFk) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Sent](https://open.spotify.com/album/41wLtMsBB3697P5K2KtZsR) | 3:49 | 2023-10-05 | 2023-10-20 |
 | [Look At My Way](https://open.spotify.com/track/2YPhR03n4I4KtttHwxVYTo) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Look At My Way](https://open.spotify.com/album/5TXaiqWoFsx3lWNmYfPqJy) | 3:49 | 2023-09-07 | 2023-10-09 |
 | [Lose Control](https://open.spotify.com/track/1ylyyYedrxnfSrAQUZPdLl) | [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS), [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx), [MuKuRo](https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc) | [Lose Control](https://open.spotify.com/album/10ujX0bO7NUncgYA0Mq0yh) | 2:39 | 2025-01-24 | 2025-03-07 |
@@ -588,7 +589,7 @@
 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 | 2023-03-16 | 2023-05-26 |
 | [My Little Ginger](https://open.spotify.com/track/5u13n1FMmKdf0EErfPdXXr) | [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl) | [Fragile Thing](https://open.spotify.com/album/3UmXlKtA5i7oE3xRIKsXmC) | 3:58 | 2025-07-17 | 2025-09-06 |
 | [My Love](https://open.spotify.com/track/7njHcOQdmC3YVk9eIrL4dQ) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [My Love](https://open.spotify.com/album/3Ggmu1fcnkBEhCG8UHEVRG) | 2:48 | 2024-04-25 | 2024-06-22 |
-| [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [](https://open.spotify.com/album/null) | 2:45 | 2025-10-23 |  |
+| [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 | 2025-10-23 |  |
 | [My My My](https://open.spotify.com/track/6ZyNjet9xpwdqyHwJaIFii) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [My My My](https://open.spotify.com/album/2TDqfZlVX1a55onkNt2rqs) | 3:20 | 2025-04-25 | 2025-05-09 |
 | [My Phone Can Die](https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [My Phone Can Die](https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa) | 2:59 | 2023-05-18 | 2023-08-04 |
 | [My Way \(with Anna Margo\)](https://open.spotify.com/track/6AuTEZjVz0VZUsSLyezRma) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Anna Margo](https://open.spotify.com/artist/6MYSB8gVxAqHrdIkdDxKXR) | [My Way](https://open.spotify.com/album/2kmx7iuGnBVuNlFscd2xky) | 2:55 | 2023-10-19 | 2023-12-01 |
@@ -951,7 +952,6 @@
 | [Touch](https://open.spotify.com/track/3ryDbC3kOcEsuSG4uRqhSJ) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [Touch](https://open.spotify.com/album/6pQ7DktgOWUl0U4xHZ9PEj) | 3:31 | 2025-06-19 | 2025-08-01 |
 | [Touch Me Back](https://open.spotify.com/track/1FSetWBm1rFLb9sFgrCatD) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Touch Me Back](https://open.spotify.com/album/5exQ4AzoytKiIsgWuiNPTL) | 2:44 | 2023-11-09 | 2023-11-17 |
 | [Toxic](https://open.spotify.com/track/2KbtgZpqmeAbjBDuW5HtDM) | [Liyah Katana](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu) | [Toxic](https://open.spotify.com/album/2ZibN1oYDxhohvvdKuhb93) | 2:33 | 2023-06-15 | 2023-07-07 |
-| [Track 14](https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [Transparency \(feat\. USHER\)](https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:15 | 2023-11-16 | 2024-04-05 |
 | [TREASURE](https://open.spotify.com/track/7grAswqijIdxzRgK3l06A7) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TREASURE](https://open.spotify.com/album/72lymuQG7fYSUNI2iTBtTh) | 3:11 | 2025-04-25 | 2025-06-20 |
 | [Troubled Ones](https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Troubled Ones](https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn) | 2:40 | 2024-03-14 | 2024-04-19 |

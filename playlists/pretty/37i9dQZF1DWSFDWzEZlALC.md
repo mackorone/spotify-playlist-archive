@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: verifiziert
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,902 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,099 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 8 | [Zuhause](https://open.spotify.com/track/4nJWs97V8m4ga8CgIe5uzf) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Zuhause](https://open.spotify.com/album/06Vs5eQOPDoLq03OnKhQuq) | 2:00 |
 | 9 | [KANDY PAINT](https://open.spotify.com/track/0zG9TepWDTc8nmINN9sKja) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST) | [KANDY PAINT](https://open.spotify.com/album/1fLyr6RLjdXIfXztuFtUjt) | 2:52 |
 | 10 | [Junge geküsst](https://open.spotify.com/track/3HAU0DFOY9VvTptHN9C44l) | [HEADJET](https://open.spotify.com/artist/3nd26anufTmTLliNgafe32) | [Junge geküsst](https://open.spotify.com/album/43DTOZWZ57J37ESrvrAOFX) | 2:23 |
-| 11 | [Track 12](https://open.spotify.com/track/4ESsuXS5VN1vTzSTy0zJUk) | [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [](https://open.spotify.com/album/null) | 0:00 |
+| 11 | [Immer wenn du da bist](https://open.spotify.com/track/4ESsuXS5VN1vTzSTy0zJUk) | [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [RIP Hyperpop DE 2022\-2025](https://open.spotify.com/album/3FD3BtMgO2kJz4ejZtYzGC) | 2:40 |
 | 12 | [bei mir](https://open.spotify.com/track/0rozXqJUJVhHrcamW1ePEr) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [zwischendrin EP](https://open.spotify.com/album/5LZ9p9DCSGOMJTkqrdiTAf) | 2:54 |
 | 13 | [Du Fehlst Hier](https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Du Fehlst Hier](https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2) | 2:49 |
 | 14 | [Dein Herz](https://open.spotify.com/track/1ZGxtnkwknaW0SczhI9keA) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Dein Herz](https://open.spotify.com/album/0MXF8cWp5EBSvSVJ7I2lhc) | 2:51 |

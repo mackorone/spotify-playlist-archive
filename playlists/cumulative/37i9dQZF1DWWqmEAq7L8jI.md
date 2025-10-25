@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe  📸 Babasónicos.
 
-397 songs - 21 hr 39 min
+399 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2023-08-11 |  |
 | [Autosabotaje](https://open.spotify.com/track/63pR6hi3E29x3vYJQUuvzS) | [Lua Lacruz](https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK) | [Autosabotaje](https://open.spotify.com/album/4GL1IKDrxBAWApsFW0Hqoi) | 3:12 | 2023-07-14 | 2023-08-19 |
 | [Aventura](https://open.spotify.com/track/1gCDdj2jmtSYmaZYKzFs41) | [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS) | [Aventura](https://open.spotify.com/album/0CFFkWAaulWLiSKskqVjB8) | 2:27 | 2025-09-12 |  |
-| [Avión a Madrid](https://open.spotify.com/track/3i4fuDPACqqQJkzoymalcu) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Avión a Madrid](https://open.spotify.com/album/27HCN7UHjsGX424Ev68llq) | 3:27 | 2025-09-19 |  |
+| [Avión a Madrid](https://open.spotify.com/track/3i4fuDPACqqQJkzoymalcu) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Avión a Madrid](https://open.spotify.com/album/27HCN7UHjsGX424Ev68llq) | 3:27 | 2025-09-19 | 2025-10-25 |
 | [AYER TE VI \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 | 2023-10-04 | 2025-10-18 |
 | [Baby Oficial](https://open.spotify.com/track/6mw6sNfqXVawKUfdYtIzCM) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Baby Oficial](https://open.spotify.com/album/3xYJOp6BPD6BLV8qhPdG1O) | 3:01 | 2023-06-09 | 2023-06-17 |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2023-03-17 | 2023-08-12 |
@@ -217,7 +217,7 @@
 | [Lost](https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P) | 2:52 | 2023-08-11 | 2023-10-07 |
 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 | 2023-03-17 | 2023-08-12 |
 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 | 2023-03-17 | 2023-08-12 |
-| [Luis](https://open.spotify.com/track/3Wo0RfWcun0IcemZfKnmIN) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Luis](https://open.spotify.com/album/44BVovg1ixDk60xum72iji) | 2:00 | 2025-09-12 |  |
+| [Luis](https://open.spotify.com/track/3Wo0RfWcun0IcemZfKnmIN) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Luis](https://open.spotify.com/album/44BVovg1ixDk60xum72iji) | 2:00 | 2025-09-12 | 2025-10-25 |
 | [Machu Picchu](https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Machu Picchu](https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR) | 2:59 | 2023-08-11 |  |
 | [Magia](https://open.spotify.com/track/032IsZRdgIFxxLgDZvxfwU) | [Abi González](https://open.spotify.com/artist/3ZdD1ROrESvZQwaDDEfNsV), [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Magia](https://open.spotify.com/album/2P9LDrehwuTIPxyyQpTlOA) | 4:18 | 2023-10-13 | 2024-02-24 |
 | [Mal Amante](https://open.spotify.com/track/4VctUfodXGszmNqVq1QQz8) | [Juli Martorell](https://open.spotify.com/artist/4dUFF4VrbkRpQmJ9fO5fVV) | [Mal Amante](https://open.spotify.com/album/6tb3Lv4Yllom1vjF0SxB9A) | 2:54 | 2024-03-22 | 2024-04-16 |
@@ -232,6 +232,7 @@
 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 | 2023-05-19 | 2023-08-12 |
 | [Me Lo Buscaba](https://open.spotify.com/track/62SEqaEUnga98QGneOkrTW) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Me Lo Buscaba](https://open.spotify.com/album/2IVXBERYwbNGxZOFkcHuCg) | 2:53 | 2023-06-09 | 2023-07-15 |
 | [Mecha](https://open.spotify.com/track/346Xh2wHnDIByr5ZDeS7Cl) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [El Camino](https://open.spotify.com/album/77EpBCmlc6ym8lGcORQyel) | 3:09 | 2024-09-06 | 2024-11-13 |
+| [Mejor](https://open.spotify.com/track/4P6510kL8JjOvo9Pwa4nK3) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg), [Suu](https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA) | [No quiero ser artista](https://open.spotify.com/album/5dOzWR82sAHR6kl522kKJf) | 2:19 | 2025-10-24 |  |
 | [Mejor Que Ayer](https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Mejor Que Ayer](https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf) | 3:06 | 2023-09-08 |  |
 | [Menos Diez](https://open.spotify.com/track/4ENjCgsNkv8JxJUzQ8gfFo) | [Un Verano](https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN) | [Menos Diez](https://open.spotify.com/album/6wVJTjK2hUMnqBRS8jw7wJ) | 2:53 | 2025-06-20 | 2025-07-12 |
 | [Mi una en 1M](https://open.spotify.com/track/6vkrrInEdRM4E490HVdMws) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [Mi una en 1M](https://open.spotify.com/album/65DjpBrXK7A4gp9r5j3UlQ) | 3:08 | 2023-05-12 | 2023-06-23 |
@@ -393,6 +394,7 @@
 | [Vete](https://open.spotify.com/track/6L63UklWUcFLB86HXQnNR6) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [Vete](https://open.spotify.com/album/4x6BJctUEw3FuwoX8TyjCF) | 2:38 | 2023-07-07 | 2023-08-19 |
 | [Viaje a ningún lado \(con Carin Leon\)](https://open.spotify.com/track/2MqQtML6652d7oIgrdumKH) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Viaje a ningún lado \(con Carin Leon\)](https://open.spotify.com/album/1zsGPMjwq2tK1reGSPhmZ4) | 3:49 | 2023-08-18 | 2025-03-01 |
 | [Viernes a la noche](https://open.spotify.com/track/2DyGyloSGjMMvQK2IS528I) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Artificio](https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP) | 3:01 | 2025-05-30 | 2025-07-12 |
+| [Vueltas](https://open.spotify.com/track/3NOh7776jasagqty3zVeNQ) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Luvi](https://open.spotify.com/artist/395SLIAX2XkMnxHTBwhOQH) | [Vueltas](https://open.spotify.com/album/5HcviOncbzoFlvhfyak5Pk) | 2:57 | 2025-10-24 |  |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-08 | 2023-10-05 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2023-03-17 | 2023-08-12 |
 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 | 2023-03-17 | 2023-07-08 |

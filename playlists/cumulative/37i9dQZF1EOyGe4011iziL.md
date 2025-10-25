@@ -4,7 +4,7 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-20 songs - 6 hr 55 min
+20 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [44: Megan Thee Stallion](https://open.spotify.com/episode/4obQtTR41UXcZv3hIm6OsF) | [Who We Be TALKS\_](https://open.spotify.com/show/2YissX4xRk9cU2r10620ol) | [Who We Be TALKS\_](https://open.spotify.com/album/2YissX4xRk9cU2r10620ol) | 36:21 | 2020-11-27 |  |
 | [Brockhampton Talks Sugar Video, Forming Brockhampton & Ginger](https://open.spotify.com/episode/2kpl3PBNTNQA40tkQAicbc) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 1:03:24 | 2020-11-27 |  |
 | [Doja Cat Just Wants to Have Fun](https://open.spotify.com/episode/5WT2qe1yBo7Y9rPNQaiRiQ) | [MIC/LINE](https://open.spotify.com/show/7ghjSnDrkv7QGQAOyDCvWA) | [MIC/LINE](https://open.spotify.com/album/7ghjSnDrkv7QGQAOyDCvWA) | 24:16 | 2020-11-27 |  |
-| [Drake vs Drake](https://open.spotify.com/episode/0AhU9dUyG0Hi9VoI0WPFQO) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 41:49 | 2020-11-27 |  |
+| [Drake vs Drake](https://open.spotify.com/episode/0AhU9dUyG0Hi9VoI0WPFQO) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 43:05 | 2020-11-27 |  |
 | [FACE](https://open.spotify.com/track/4XMWSVTvVHllbeFyvNhoGI) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [FACE](https://open.spotify.com/album/5EcPYgOJlzYmbo0s3N4FWT) | 4:19 | 2020-11-27 |  |
 | [Good News](https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:42 | 2020-11-27 |  |
 | [KENDRICK LAMAR ON HOW "DAMN" ALMOST HAD A DIFFERENT NAME, HIS FAVORITE RECORD, AND MORE!](https://open.spotify.com/episode/62SeZZd3huQwiNDU6zRXed) | [Big Boy's Fully Loaded Interviews](https://open.spotify.com/show/5hNf8CKWMA8APrIXWj1jLw) | [Big Boy's Fully Loaded Interviews](https://open.spotify.com/show/5hNf8CKWMA8APrIXWj1jLw) | 46:40 | 2020-11-27 | 2023-01-18 |

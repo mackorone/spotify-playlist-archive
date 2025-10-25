@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Os grandes artistas da MPB. Foto: Caetano & Beth\u00e2nia",
+  "description": "Os grandes artistas da MPB. Foto: Gal Costa",
   "name": "O Melhor da MPB",
   "tracks": [
     {
@@ -576,6 +576,24 @@
       "duration_ms": 305693,
       "name": "Bom-Senso",
       "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
+    },
+    {
+      "album": {
+        "name": "As V\u00e1rias Pontas de uma Estrela (Ao Vivo no Coala Festival)",
+        "url": "https://open.spotify.com/album/72ZE9c4C3akkC7g1flS0A1"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218134,
+      "name": "Brasil - Ao Vivo no Coala Festival",
+      "url": "https://open.spotify.com/track/7IeaNWQPnqgUhsdDdmXCs8"
     },
     {
       "album": {
@@ -2474,7 +2492,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 225691,
       "name": "Prazer De Viver (Barra)",
       "url": "https://open.spotify.com/track/59m7uvS0rKWgJw8x3Z8Pw3"

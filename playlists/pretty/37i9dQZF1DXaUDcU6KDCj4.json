@@ -1,13 +1,397 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Skullcrusher",
-  "num_followers": 854776,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Hozier and Mumford & Sons",
+  "num_followers": 855255,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEbBfCV+1WLC2mJnssiQysVeLD1w",
+  "snapshot_id": "AAAAAP6wMXWcO+tJo6SxAftA/ws4vRym",
   "tracks": [
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Rubber Band Man (with Hozier)",
+        "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "Rubber Band Man (with Hozier)",
+      "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 163292,
+      "name": "Mind Reader",
+      "url": "https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 260065,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Burned It Down",
+        "url": "https://open.spotify.com/album/4C2SyLDTrIUUFLAXu65jnV"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "Make Way For The Feeling",
+      "url": "https://open.spotify.com/track/1QFVSZUqqlc2YyYj44Gjir"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 182713,
+      "name": "Betty",
+      "url": "https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Charming",
+        "url": "https://open.spotify.com/album/7Gm7mnk9jXTsfoKtFXRB6y"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "duration_ms": 117143,
+      "name": "Charming",
+      "url": "https://open.spotify.com/track/1CpXzYVuk5O8u4dlq5TOHU"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Shake Off the Rain",
+        "url": "https://open.spotify.com/album/4zOqdbkSSn2PX7KMwdHxdh"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 282831,
+      "name": "Shake Off the Rain",
+      "url": "https://open.spotify.com/track/0gVBrNtip58FmG1JlGwATM"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "My Second Last Album",
+        "url": "https://open.spotify.com/album/1lNhmIl6F1c3G7svc0n2SG"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 214377,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/26DeYXH95xA9DdcPfPZ8fS"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Bungalow",
+        "url": "https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Younger Days",
+      "url": "https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/2g0njTN5mrtRk9R6e6xrLB"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        },
+        {
+          "name": "Roy Nathanson",
+          "url": "https://open.spotify.com/artist/3amr1OnN76azwuK5gwyGFi"
+        }
+      ],
+      "duration_ms": 288450,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/6fgGUaT6f1hmfLSSsAjuKM"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Burning Bridges Into Dust",
+        "url": "https://open.spotify.com/album/6RMqbIJ7ffwBsUqJ3vXTV5"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 169890,
+      "name": "Hanging Out In My Head",
+      "url": "https://open.spotify.com/track/1xhaaznvVPI1MPqGf6zXmp"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "When It Snows In Texas",
+        "url": "https://open.spotify.com/album/7A9urqXlw6unu8iR8aYaEe"
+      },
+      "artists": [
+        {
+          "name": "Chaparelle",
+          "url": "https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "When It Snows In Texas",
+      "url": "https://open.spotify.com/track/5By307vqu6ZwxuLlkHpDRx"
+    },
+    {
+      "added_at": "2025-10-24 15:24:24",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/6v5mDjDZtHTz84VtV4iPnA"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "duration_ms": 180032,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/7x4IUDV7pPqzDalV8eKwHd"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Runnin' and Searchin'",
+        "url": "https://open.spotify.com/album/3eBwjqDE4nQ6MTcgCXh4nI"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 186646,
+      "name": "Runnin' and Searchin'",
+      "url": "https://open.spotify.com/track/1WVXw5ovf3sTglDGnaSS91"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Noelle",
+        "url": "https://open.spotify.com/album/2qI1dR39zIbp8lgD7efBcm"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 131786,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/2d6zYBywQYMJtp3DWwyAZI"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Chin Chin",
+        "url": "https://open.spotify.com/album/2uLKzNouE1fI4CLULfyfn4"
+      },
+      "artists": [
+        {
+          "name": "Ezra Bell",
+          "url": "https://open.spotify.com/artist/1nGqKVGfPPiVgxMdx8hYOI"
+        }
+      ],
+      "duration_ms": 148030,
+      "name": "It Looks Like Love",
+      "url": "https://open.spotify.com/track/4jRJiFD0KQ3MsgzX89wBbv"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "The Closest We'll Get",
+        "url": "https://open.spotify.com/album/527BKGronR7ZCm9lHLmP8K"
+      },
+      "artists": [
+        {
+          "name": "Nell Mescal",
+          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+        }
+      ],
+      "duration_ms": 288945,
+      "name": "Middle Man",
+      "url": "https://open.spotify.com/track/0zPWBQTSVyn7dS2OXU7Ng9"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "See It Through / Remembering",
+        "url": "https://open.spotify.com/album/2TKOOLwOLZeMEV2PKKUVGG"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "duration_ms": 191957,
+      "name": "Remembering",
+      "url": "https://open.spotify.com/track/1Brm43hVS9XkptCBotKiF6"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Pale Song / Love Is",
+        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 165460,
+      "name": "Pale Song",
+      "url": "https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Groupie",
+        "url": "https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        }
+      ],
+      "duration_ms": 172415,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Woven",
+        "url": "https://open.spotify.com/album/2WBhfiA9MP6QerSC7w9Z92"
+      },
+      "artists": [
+        {
+          "name": "Georgia Parker",
+          "url": "https://open.spotify.com/artist/4OGodtGAXXUvXC4mmJzZNf"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Woven",
+      "url": "https://open.spotify.com/track/5faq5yGNX96s9iuegnbx4s"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "North Main Street (We Belong Here)",
+        "url": "https://open.spotify.com/album/7IRDcMVWGCGOwYWoS0tf2C"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 223304,
+      "name": "Speak your mind",
+      "url": "https://open.spotify.com/track/1sdxxebRogeygDhZNl4rO1"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "how to quit",
+        "url": "https://open.spotify.com/album/6gLbmcqyq51PLRXqR8qWOK"
+      },
+      "artists": [
+        {
+          "name": "mou",
+          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
+        },
+        {
+          "name": "Tim Hart",
+          "url": "https://open.spotify.com/artist/1XUmEGWZ7MpBZ5jkb0l4iP"
+        }
+      ],
+      "duration_ms": 149808,
+      "name": "how to quit",
+      "url": "https://open.spotify.com/track/3U65fVLnAlKRnHw70xM8dl"
+    },
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37622,
+  "num_followers": 37625,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAsL4vVloph7e84IOFm/0vf",
+  "snapshot_id": "aPlwAAAAAACz2aZueb89E3S7IuF3Aa5D",
   "tracks": [
     {
       "added_at": null,
@@ -442,15 +442,11 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 235746,
-      "name": "Pacific Coast Highway In The Movies",
-      "url": "https://open.spotify.com/track/1CA0a2dcfsJfiUEH6qVomI"
+      "duration_ms": 288080,
+      "name": "Slam (Angel Miners)",
+      "url": "https://open.spotify.com/track/3KdzzDeRqASjUuRkvft7Db"
     },
     {
       "added_at": null,
@@ -518,11 +514,15 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 288080,
-      "name": "Slam (Angel Miners)",
-      "url": "https://open.spotify.com/track/3KdzzDeRqASjUuRkvft7Db"
+      "duration_ms": 235746,
+      "name": "Pacific Coast Highway In The Movies",
+      "url": "https://open.spotify.com/track/1CA0a2dcfsJfiUEH6qVomI"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Candy Pop",
-        "url": "https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 162748,
-      "name": "Candy Pop",
-      "url": "https://open.spotify.com/track/4fSc3OE9ouDmVdcZiNNbzD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 241499,
       "name": "Take A Chance On Me (feat. Jewel)",
       "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Candy Pop",
+        "url": "https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 162748,
+      "name": "Candy Pop",
+      "url": "https://open.spotify.com/track/4fSc3OE9ouDmVdcZiNNbzD"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Table for One (feat. Elohim)",
-        "url": "https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 278867,
-      "name": "Table for One (feat. Elohim)",
-      "url": "https://open.spotify.com/track/7fE5PFt7j1aNGdCEM89qxN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 249212,
       "name": "Flagpole Sitta (feat. Elohim)",
       "url": "https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Table for One (feat. Elohim)",
+        "url": "https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 278867,
+      "name": "Table for One (feat. Elohim)",
+      "url": "https://open.spotify.com/track/7fE5PFt7j1aNGdCEM89qxN"
     },
     {
       "added_at": null,

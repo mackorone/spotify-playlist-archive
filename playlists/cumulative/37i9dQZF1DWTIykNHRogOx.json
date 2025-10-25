@@ -2991,6 +2991,24 @@
     },
     {
       "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/2thXDAJEb9XlzTpi8JN0h6"
+      },
+      "artists": [
+        {
+          "name": "Carla De Coignac",
+          "url": "https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248040,
+      "name": "Mon amour",
+      "url": "https://open.spotify.com/track/1VQPARXZ68Zxptzvmi4ZvJ"
+    },
+    {
+      "album": {
         "name": "\u00c0 l'\u00e9vidence",
         "url": "https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb"
       },
@@ -4038,24 +4056,6 @@
       "duration_ms": 252413,
       "name": "Tout sera pardonn\u00e9",
       "url": "https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Carla De Coignac",
-          "url": "https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B"
-        }
-      ],
-      "date_added": "2025-10-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/1VQPARXZ68Zxptzvmi4ZvJ"
     },
     {
       "album": {

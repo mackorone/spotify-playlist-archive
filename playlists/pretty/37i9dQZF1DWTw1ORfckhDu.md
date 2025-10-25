@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💶 Kannessa Turisti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,482 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,493 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 2 | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr) | 2:45 |
 | 3 | [Aina](https://open.spotify.com/track/30e8FQADV8Xdyc5UnPBVio) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Aina](https://open.spotify.com/album/7vZNKYbQkKPaRC0IGDwd9C) | 2:15 |
 | 4 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
-| 5 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [](https://open.spotify.com/album/null) | 3:17 |
+| 5 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 |
 | 6 | [Mitä vaan](https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Mitä vaan / Syytä tätä iltaa](https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD) | 2:27 |
 | 7 | [Lääke \(Vain elämää kausi 16\)](https://open.spotify.com/track/1ieDBPzqG7gjiTMacM9ftm) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Lääke \(Vain elämää kausi 16\)](https://open.spotify.com/album/6q7AseIG8cZx1N9RqlY9tL) | 2:47 |
 | 8 | [Mentalité](https://open.spotify.com/track/1gT6L9rpCivi18AA0nC7hy) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Mentalité](https://open.spotify.com/album/48AdxlB1VXYwfDCAK5Naco) | 2:55 |

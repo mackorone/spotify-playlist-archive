@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in Jazz history.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,628,869 likes - 250 songs - 21 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,735,057 likes - 250 songs - 21 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 249 | [Everything Happens to Me](https://open.spotify.com/track/4Y5fyQ5fBysC32Na5sZT3J) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 5:05 |
 | 250 | [Yes Or No \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 6:39 |
 
-Snapshot ID: `AAAAAGPAAHeLNiDMDKFlQGy2rnJ5p60w`
+Snapshot ID: `AAAAAMz6yKd8wGgcrYYQICVKjLCu41Z2`

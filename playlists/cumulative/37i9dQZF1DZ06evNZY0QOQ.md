@@ -4,7 +4,7 @@
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 43 min
+54 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Anya Mmiri](https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:08 | 2025-08-13 |  |
 | [beeni \(feat\. Barry Jhay\)](https://open.spotify.com/track/17JuQJJwiZz8xLExCOf59u) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 3:19 | 2025-08-13 |  |
 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 | 2025-08-13 |  |
+| [BODY \(danz\)](https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [BODY \(danz\)](https://open.spotify.com/album/1xnMv2ReoYX0A9qiOukR0i) | 2:27 | 2025-10-25 |  |
 | [by now](https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:44 | 2025-08-13 |  |
 | [Bygone](https://open.spotify.com/track/1BvdpcGv8qFqO99XWN7ile) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 3:18 | 2025-10-05 | 2025-10-08 |
 | [capture my soul \(feat\. Joeboy\)](https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:31 | 2025-08-13 |  |
@@ -29,7 +30,7 @@
 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 | 2025-08-13 |  |
 | [Good Boy \(feat\. BOJ and Ckay\)](https://open.spotify.com/track/5zTd3IXhLC0XLEgPpMSxrI) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [BOJ](https://open.spotify.com/artist/4FIbqFLuP3OJZ2ngKFKbJq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Bad Boy Blaq Re\-Up](https://open.spotify.com/album/5V1wP5lWuEmHqNn6Sj5m2V) | 4:11 | 2025-08-13 |  |
 | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/track/7q82Rs7vQn8bJcwj8uE0Af) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 2:17 | 2025-08-13 |  |
-| [IS IT YOU?](https://open.spotify.com/track/3xmnR9kblvHlUWY2YDWkrE) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 3:03 | 2025-08-13 |  |
+| [IS IT YOU?](https://open.spotify.com/track/3xmnR9kblvHlUWY2YDWkrE) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 3:03 | 2025-08-13 | 2025-10-25 |
 | [IT’S TRUE \(feat\. Nora Fatehi\)](https://open.spotify.com/track/18TFbCHdZbnnyNIsJHcyGe) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 2:49 | 2025-08-13 |  |
 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 | 2025-08-13 |  |
 | [kalakuta](https://open.spotify.com/track/0X5yARwJLSCTFhuJTSXvFU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:39 | 2025-08-13 |  |

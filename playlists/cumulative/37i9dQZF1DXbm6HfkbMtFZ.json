@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 281186,
       "name": "Born Too Late",
       "url": "https://open.spotify.com/track/2f79cCVgumma4V11XQEhAu"
@@ -4604,7 +4604,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 288426,
       "name": "Idol Eyes",
       "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
@@ -7941,6 +7941,24 @@
     },
     {
       "album": {
+        "name": "Thrill Seekers",
+        "url": "https://open.spotify.com/album/6csfKFAcsC65fuBDiH6tYx"
+      },
+      "artists": [
+        {
+          "name": "Petite League",
+          "url": "https://open.spotify.com/artist/00XrFl3G12emNX9Qqm6Gd4"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170075,
+      "name": "Pantone Karaoke",
+      "url": "https://open.spotify.com/track/7v753bcr01lFeVLszJaCDK"
+    },
+    {
+      "album": {
         "name": "Paradise (Boehm Remix)",
         "url": "https://open.spotify.com/album/1pNKxOEbz4mHqoiHV4Lr7Y"
       },
@@ -8176,7 +8194,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 204406,
       "name": "Play Pretend",
       "url": "https://open.spotify.com/track/5Bd2BRtzcEEm0G1ZU2JwLo"
@@ -9507,6 +9525,28 @@
     },
     {
       "album": {
+        "name": "Strange World",
+        "url": "https://open.spotify.com/album/61C4duC2M6Nav2cg6QkIzv"
+      },
+      "artists": [
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        },
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187185,
+      "name": "Strange World",
+      "url": "https://open.spotify.com/track/3PoMsuOCkDTFinad2PBlEh"
+    },
+    {
+      "album": {
         "name": "Polydans (Midnight Versions)",
         "url": "https://open.spotify.com/album/6kajeSMu59m5nlALjQrnZU"
       },
@@ -10264,6 +10304,24 @@
       "duration_ms": 187960,
       "name": "The 1",
       "url": "https://open.spotify.com/track/7noKYyf85hoLDrUIE57lN5"
+    },
+    {
+      "album": {
+        "name": "Choose Your Own Adventure",
+        "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253466,
+      "name": "The Conservation of Energy",
+      "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 175226,
+  "num_followers": 175233,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAA9/J+O0kziO2jBR4Z7Dkm",
+  "snapshot_id": "aPlwAAAAAABcPvhyxq38xRHEjqjXq8Hk",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nowhere Generation",
-        "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Nowhere Generation",
-      "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revolutions Per Minute",
         "url": "https://open.spotify.com/album/60plJOxpeoHm5iRkMUIu5A"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 166880,
       "name": "Like The Angel",
       "url": "https://open.spotify.com/track/2Z6QkTQhdFlZMfB1rkc9wp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nowhere Generation",
+        "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "Nowhere Generation",
+      "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
     },
     {
       "added_at": null,

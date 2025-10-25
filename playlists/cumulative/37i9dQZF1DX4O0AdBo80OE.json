@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Sabino en portada.",
+  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. DAAZ en portada.",
   "name": "Rap Latte",
   "tracks": [
     {
@@ -540,7 +540,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 183033,
       "name": "Aprend\u00ed",
       "url": "https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 112473,
       "name": "Beats Sin Guardar: Anillazo",
       "url": "https://open.spotify.com/track/4chDy3O5QuIY6Hu2tKlQgq"
@@ -880,6 +880,24 @@
       "duration_ms": 245857,
       "name": "Bombas",
       "url": "https://open.spotify.com/track/32pqQaloLXiFbgl1Kf81SU"
+    },
+    {
+      "album": {
+        "name": "Boujee",
+        "url": "https://open.spotify.com/album/34GXN1RQI6osFNOsShVQrt"
+      },
+      "artists": [
+        {
+          "name": "Adrian Cota",
+          "url": "https://open.spotify.com/artist/3EoPnXbPNV6xRhxLDNKNl3"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Boujee",
+      "url": "https://open.spotify.com/track/4kdlIofDM241Yc1PsyxYpR"
     },
     {
       "album": {
@@ -1118,6 +1136,46 @@
       "duration_ms": 179000,
       "name": "Cardiaca Sensacion",
       "url": "https://open.spotify.com/track/0ed0tiME9M39Cq2810299j"
+    },
+    {
+      "album": {
+        "name": "Caricatura",
+        "url": "https://open.spotify.com/album/3kB9EDW0zOZz0Lns1enMTb"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Caricatura",
+      "url": "https://open.spotify.com/track/3FRHFTC7xJqezSrNIhHySg"
+    },
+    {
+      "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/6EMUBfbdMpi708BLwQ9Sd9"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8"
     },
     {
       "album": {
@@ -1676,7 +1734,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 162197,
       "name": "El M\u00e1s Travieso",
       "url": "https://open.spotify.com/track/0VFG5Ts3TgWl6qPOlG48Cs"
@@ -2724,7 +2782,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 183225,
       "name": "Loto",
       "url": "https://open.spotify.com/track/5cOMEYUtUtMOtO3bQ8YOiu"
@@ -4241,6 +4299,32 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n la Quiere",
+        "url": "https://open.spotify.com/album/0kYeGsp4JwzlcoXY2Gr1HH"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        },
+        {
+          "name": "Little el Crack",
+          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338000,
+      "name": "Qui\u00e9n la Quiere",
+      "url": "https://open.spotify.com/track/10a8QRDqmdBGsb45cSROtF"
+    },
+    {
+      "album": {
         "name": "SANDRO",
         "url": "https://open.spotify.com/album/13iUVLEs0sIvCtG8ft4MiP"
       },
@@ -5004,7 +5088,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 212093,
       "name": "todos los d\u00edas",
       "url": "https://open.spotify.com/track/4jCxY9Lz53qbTBWNoaA7xD"

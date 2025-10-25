@@ -1249,7 +1249,7 @@
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 192000,
+      "duration_ms": 192266,
       "name": "Blick Sum (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
     },
@@ -2923,6 +2923,28 @@
     },
     {
       "album": {
+        "name": "float 2.0",
+        "url": "https://open.spotify.com/album/1r4QvO5mB5VncnRaIKcBQA"
+      },
+      "artists": [
+        {
+          "name": "Kairo Keyz",
+          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
+        },
+        {
+          "name": "Thiago Sub",
+          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110464,
+      "name": "float 2.0",
+      "url": "https://open.spotify.com/track/1nPuPXBojDHIsoY0DCXDxm"
+    },
+    {
+      "album": {
         "name": "Flossin'",
         "url": "https://open.spotify.com/album/0W3XpjZWbYHhOyMs756EIs"
       },
@@ -4348,7 +4370,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 157737,
       "name": "Kool Aid and Frozen Pizza",
       "url": "https://open.spotify.com/track/3VmrLy4WZLHDgTXENCIz2p"

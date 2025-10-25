@@ -2957,6 +2957,24 @@
     },
     {
       "album": {
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202795,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+    },
+    {
+      "album": {
         "name": "MAP OF THE SOUL : 7",
         "url": "https://open.spotify.com/album/6yUxkZHB0tE1pNDXKoqiV2"
       },
@@ -3562,7 +3580,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 277432,
       "name": "Bukan Ku Tak Sudi",
       "url": "https://open.spotify.com/track/5TQ67TxfxEiAl58Vmtx5ew"
@@ -4920,7 +4938,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
@@ -4938,7 +4956,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/7mDTvYD2ieE4Q28XFziMfJ"
@@ -9598,7 +9616,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 188852,
       "name": "hoRRReg",
       "url": "https://open.spotify.com/track/1gvI1nP8e6wr6KSilWutKz"
@@ -10954,7 +10972,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 257720,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
@@ -10990,7 +11008,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 257847,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/4rMNgxEwGWoPHIUcvB5BrB"
@@ -14052,7 +14070,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 268310,
       "name": "Menamakanmu Cinta",
       "url": "https://open.spotify.com/track/1QAwKDm1FPgoD2V6lLiKmC"
@@ -14896,7 +14914,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 209647,
       "name": "Nanti Kita Seperti Ini",
       "url": "https://open.spotify.com/track/3y8RcMPYG22fRnrOi4oFJ1"
@@ -16978,7 +16996,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 287477,
       "name": "Pulang",
       "url": "https://open.spotify.com/track/1DVHCvTwuwtZrpYDV4irH5"
@@ -19062,7 +19080,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -24190,7 +24208,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl"
@@ -24208,7 +24226,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z"
@@ -24332,7 +24350,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 250268,
       "name": "What It Sounds Like",
       "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"

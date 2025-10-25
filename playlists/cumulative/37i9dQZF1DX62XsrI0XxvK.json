@@ -2591,24 +2591,6 @@
     },
     {
       "album": {
-        "name": "Salah Paham",
-        "url": "https://open.spotify.com/album/3hFH41buob1oT4Lyf7Cf8k"
-      },
-      "artists": [
-        {
-          "name": "Syahravi",
-          "url": "https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ"
-        }
-      ],
-      "date_added": "2025-10-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207205,
-      "name": "Salah Paham",
-      "url": "https://open.spotify.com/track/75itNZTt1HF4CdfxAr0Ld1"
-    },
-    {
-      "album": {
         "name": "Sampai Kita Jadi Tua",
         "url": "https://open.spotify.com/album/1jlvdtwI733LB4iOPyPN5p"
       },
@@ -3084,6 +3066,24 @@
       "duration_ms": 188268,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/6bXUFU7a1Oivx4i4CZLxgt"
+    },
+    {
+      "album": {
+        "name": "Salah Paham",
+        "url": "https://open.spotify.com/album/3hFH41buob1oT4Lyf7Cf8k"
+      },
+      "artists": [
+        {
+          "name": "Syahravi",
+          "url": "https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207205,
+      "name": "Syahravi - Salah Paham",
+      "url": "https://open.spotify.com/track/75itNZTt1HF4CdfxAr0Ld1"
     },
     {
       "album": {

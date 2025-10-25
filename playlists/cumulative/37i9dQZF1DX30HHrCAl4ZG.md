@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from The Last Dinner Party
 
-2,054 songs - 4 day 20 hr 13 min
+2,059 songs - 4 day 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 | 2022-11-28 |
 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 | 2025-05-30 |  |
 | [Afterlife](https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Afterlife](https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN) | 4:08 | 2024-10-25 | 2025-01-18 |
+| [Ain't Nobody Making Me High](https://open.spotify.com/track/3MneCEeEwmHI6yG4EucrNI) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Shy Bairns Get Nowt](https://open.spotify.com/album/7pp7ITOUmw1nU7pKK21boY) | 3:18 | 2025-10-24 |  |
 | [Ain't Over You](https://open.spotify.com/track/2hHh28T8hwiKqLeQ6P8xx1) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [Ain't Over You](https://open.spotify.com/album/4T6RG1HJfpKQ5Y1Mbm3crO) | 3:29 | 2021-06-07 | 2022-01-23 |
 | [Ain’t For The Faint](https://open.spotify.com/track/6SQuxwoBbp8DlAUStjJ5vB) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Top Heavy](https://open.spotify.com/album/3rUIQo9YmO0tgg7X0tT0TT) | 3:23 | 2025-06-27 |  |
 | [Air Guitar](https://open.spotify.com/track/2cTcCo0OwGfvIEAAW6y8NK) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5PETfsInVVeftPNXoLAIqs) | 3:03 | 2022-10-28 | 2022-10-30 |
@@ -358,6 +359,7 @@
 | [CCF \(I'm Gonna Stay With You\)](https://open.spotify.com/track/4t5by4BVLMjeoNaOhmweOJ) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [CCF \(I'm Gonna Stay With You\)](https://open.spotify.com/album/0wc4SXmvSckUR402cSg9AK) | 8:11 | 2025-04-04 | 2025-07-12 |
 | [CD Wallet](https://open.spotify.com/track/0699x8orNRyAhiYxyDjxdH) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [CD Wallet](https://open.spotify.com/album/4GuIkU3CHTJWwLYgXtRTtr) | 3:11 | 2024-02-09 | 2024-04-19 |
 | [Celebrity Lookalikes](https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Celebrity Lookalikes](https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu) | 3:32 | 2023-08-25 | 2023-09-30 |
+| [Cell Phone Blues](https://open.spotify.com/track/0mTcmVY15qzO582OEzttH6) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Love Chant](https://open.spotify.com/album/2Osl9AyobrS97S5qxEeWJo) | 3:35 | 2025-10-24 |  |
 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 | 2022-12-14 | 2023-04-01 |
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2021-07-02 | 2022-04-13 |
 | [Chamomile](https://open.spotify.com/track/5xaiU9nNP58J5tmFvsRXf2) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Chamomile](https://open.spotify.com/album/7IaqMaOXdasnfxYEAghgFn) | 3:40 | 2025-04-18 | 2025-07-26 |
@@ -485,6 +487,7 @@
 | [Days Like Lost Dogs](https://open.spotify.com/track/6oSEQDTq66SDlyNTrwvzbN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Days Like Lost Dogs](https://open.spotify.com/album/35gZjxY7yjWmqXvwJygKSP) | 3:45 | 2021-11-19 | 2022-06-11 |
 | [Days Move Slow](https://open.spotify.com/track/1J3yWZC6J1lEaCrWrRx8Ni) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:40 | 2023-07-21 | 2023-10-07 |
 | [Days Move Slow](https://open.spotify.com/track/4zeGdv0J2HFfTaZIyUPwrq) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Days Move Slow](https://open.spotify.com/album/5rC3BK6aGWCePOsQxbvGHO) | 2:40 | 2023-03-24 | 2023-05-20 |
+| [Daytona](https://open.spotify.com/track/2d6zYBywQYMJtp3DWwyAZI) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Noelle](https://open.spotify.com/album/2qI1dR39zIbp8lgD7efBcm) | 2:11 | 2025-10-24 |  |
 | [De Facto](https://open.spotify.com/track/0IqDJs8WRXwAR5TlaAdFA8) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [De Facto](https://open.spotify.com/album/53mFa0T7xdQAQ6z8gkWeWl) | 4:21 | 2022-10-07 | 2022-11-12 |
 | [Dead](https://open.spotify.com/track/2LaHq6oy3DYrsmreXlmlwx) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift](https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y) | 3:39 | 2022-08-16 | 2022-09-03 |
 | [Dead](https://open.spotify.com/track/6Ww5yDLIVX3ZcUs9wSvXH8) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Dead](https://open.spotify.com/album/3QutVC0xl9EKHyHeUhUV21) | 3:39 | 2022-07-01 | 2022-07-30 |
@@ -1203,6 +1206,7 @@
 | [Mirtazapine](https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Mirtazapine](https://open.spotify.com/album/1993KteXUGJJK4K6Doli3L) | 3:21 | 2025-08-01 | 2025-10-04 |
 | [Misery](https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Altar](https://open.spotify.com/album/4IsaQVu7n8r6p7Owan3A9f) | 3:38 | 2025-09-19 |  |
 | [Misery](https://open.spotify.com/track/0kGpg2RuSoevcA16TN49Sw) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Misery](https://open.spotify.com/album/4gduKjwL0MTX6l0S15nx8E) | 3:48 | 2025-06-20 |  |
+| [Miss](https://open.spotify.com/track/7vBOMoBKb6InbMdQiFwRCO) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Miss](https://open.spotify.com/album/1FzOkO7pp3y2Q8BXffpLsb) | 3:37 | 2025-10-24 |  |
 | [Miss City Babe](https://open.spotify.com/track/4hwqxqopB2geuDQUsoqHzU) | [Prince of Eden](https://open.spotify.com/artist/29Wvrc4vfXuf9eMexefk7N) | [Miss City Babe](https://open.spotify.com/album/3fdVGhYegFRVLAZ38qpAMG) | 3:28 | 2024-10-25 | 2025-02-15 |
 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 | 2024-02-16 | 2024-03-30 |
 | [Missy](https://open.spotify.com/track/2J1mMDgmYNZqUj6dMGTCcg) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm), [tormentatropica](https://open.spotify.com/artist/7s5dEbXvzBdwVactVzuNOc) | [Missy](https://open.spotify.com/album/5ivstXjtxTx9UXLBN7KuZj) | 2:02 | 2024-01-12 | 2024-03-16 |
@@ -2053,6 +2057,7 @@
 | [You Lose!](https://open.spotify.com/track/6b39rpIiepKunZyFHwugZQ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [You Lose!](https://open.spotify.com/album/2G1sZOFy7ReEHTLgpY5wzh) | 3:24 | 2021-09-17 | 2022-01-22 |
 | [You Resemble Everything](https://open.spotify.com/track/6F8bla4C7O8JvA2J0OuSt7) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [You Resemble Everything](https://open.spotify.com/album/7KMmDgFmwClaHFUugRQdx5) | 3:44 | 2024-11-08 | 2025-02-08 |
 | [You Won't](https://open.spotify.com/track/2G8oGywOTdmVsxq7BEJWU6) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:59 | 2021-06-07 | 2022-02-11 |
+| [You've Got My Number](https://open.spotify.com/track/5VJS4UH2VccJoUgc9bsIPW) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [RUDE](https://open.spotify.com/album/07aVgAaXvYBOPFY0kWX6HK) | 3:50 | 2025-10-24 |  |
 | [Your Desire in Food](https://open.spotify.com/track/22DaMb0Q6nde3ozb2qMDYl) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Your Desire in Food](https://open.spotify.com/album/4D3NdHKmSqcO1aOrt3UgoT) | 4:23 | 2024-04-19 | 2024-05-18 |
 | [Your Direction](https://open.spotify.com/track/3jz7UGDFInrDs2IJHnffoj) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Your Direction](https://open.spotify.com/album/5WEiSxfRD9m86UKEjOFhfs) | 4:57 | 2025-03-28 | 2025-08-29 |
 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 | 2021-06-11 | 2022-04-14 |

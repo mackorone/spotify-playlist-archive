@@ -1,13 +1,137 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9061,
+  "num_followers": 9063,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAO7rL/cBDe5pqHvc7XzTVMOz9KvAjl",
+  "snapshot_id": "AAAO+leUK5Uo0i2IuHTKpfU93O+MMVCO",
   "tracks": [
+    {
+      "added_at": "2025-10-24 19:00:25",
+      "album": {
+        "name": "Unravel",
+        "url": "https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 175446,
+      "name": "Unravel",
+      "url": "https://open.spotify.com/track/43fImwroNsNnVKRVz999XF"
+    },
+    {
+      "added_at": "2025-10-24 19:00:14",
+      "album": {
+        "name": "A HEART IS A HEAVY BURDEN",
+        "url": "https://open.spotify.com/album/3xaXt3ErZlLoxsKKndSO8t"
+      },
+      "artists": [
+        {
+          "name": "HEAVENSGATE",
+          "url": "https://open.spotify.com/artist/5xxpBuljNlb95kr6fcf6hj"
+        }
+      ],
+      "duration_ms": 251290,
+      "name": "A FAWN FLAYED",
+      "url": "https://open.spotify.com/track/5V4QoFZvKDnPddWRJy4h0G"
+    },
+    {
+      "added_at": "2025-10-24 19:00:02",
+      "album": {
+        "name": "Dying To Love",
+        "url": "https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 256965,
+      "name": "Dying To Love",
+      "url": "https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0"
+    },
+    {
+      "added_at": "2025-10-24 19:00:36",
+      "album": {
+        "name": "Self Evident",
+        "url": "https://open.spotify.com/album/7FrJHzAUEvvNvYbRAJujpy"
+      },
+      "artists": [
+        {
+          "name": "Puscifer",
+          "url": "https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "Self Evident",
+      "url": "https://open.spotify.com/track/36J9vpPpatRDkMkee0PFCe"
+    },
+    {
+      "added_at": "2025-10-24 19:00:48",
+      "album": {
+        "name": "Chama",
+        "url": "https://open.spotify.com/album/0j590HfZD5PZbQ8vf3ZAQw"
+      },
+      "artists": [
+        {
+          "name": "Soulfly",
+          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
+        },
+        {
+          "name": "Gabriel Franco",
+          "url": "https://open.spotify.com/artist/234FDtr56XMxo2ceX0elol"
+        },
+        {
+          "name": "Ben Cook",
+          "url": "https://open.spotify.com/artist/2gp0pCAZSFNCxw2oSHbuuw"
+        },
+        {
+          "name": "Dino Cazares",
+          "url": "https://open.spotify.com/artist/3K2h12KDazMPqxkS1ezNGd"
+        }
+      ],
+      "duration_ms": 237325,
+      "name": "No Pain = No Power",
+      "url": "https://open.spotify.com/track/7Ebl1mJE1fUhpsmsdz960M"
+    },
+    {
+      "added_at": "2025-10-24 19:01:02",
+      "album": {
+        "name": "Bend the Knee / Pray for Death",
+        "url": "https://open.spotify.com/album/19rc0Z8IQ74f22G6WAiXso"
+      },
+      "artists": [
+        {
+          "name": "Walking Wounded",
+          "url": "https://open.spotify.com/artist/73T28RyOq4yCFdhsZBA9tz"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Bend the Knee",
+      "url": "https://open.spotify.com/track/460kGpN18w3tpUYXytpFJx"
+    },
+    {
+      "added_at": "2025-10-24 20:00:41",
+      "album": {
+        "name": "Broken Focus",
+        "url": "https://open.spotify.com/album/6QRwIvTfbEIvYhSKXxPUar"
+      },
+      "artists": [
+        {
+          "name": "Broken Focus",
+          "url": "https://open.spotify.com/artist/0s76ifdvo6wdIfPxW3je41"
+        }
+      ],
+      "duration_ms": 130960,
+      "name": "Break Me Down",
+      "url": "https://open.spotify.com/track/061hmvgdaV6chulKl7O0yR"
+    },
     {
       "added_at": "2025-10-17 19:13:59",
       "album": {
@@ -568,7 +692,7 @@
           "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
         }
       ],
-      "duration_ms": 403875,
+      "duration_ms": 403874,
       "name": "Glenwood",
       "url": "https://open.spotify.com/track/1zMtEW4SE5s3VqrmTicJaY"
     },
@@ -1708,7 +1832,7 @@
           "url": "https://open.spotify.com/artist/3gACjHwByUj3sUtHVqZBrf"
         }
       ],
-      "duration_ms": 266583,
+      "duration_ms": 267680,
       "name": "Fury My Master",
       "url": "https://open.spotify.com/track/1KgCNolwH1by6iGqmNTj4R"
     },
@@ -1780,7 +1904,7 @@
           "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
         }
       ],
-      "duration_ms": 329375,
+      "duration_ms": 329374,
       "name": "Death Above Life",
       "url": "https://open.spotify.com/track/4UAEU0YaHW4o6Dh5irv9Dv"
     },
@@ -2176,7 +2300,7 @@
           "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
         }
       ],
-      "duration_ms": 499875,
+      "duration_ms": 499874,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg"
     },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-01",
-  "description": "The biggest hits from country artists around the globe. Cover: Brad Cox",
+  "description": "The biggest hits from country artists around the globe. Cover: James Johnston",
   "name": "Country Worldwide",
   "tracks": [
     {
@@ -2334,7 +2334,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 218219,
       "name": "One Beer Away",
       "url": "https://open.spotify.com/track/509iAaGTjgOuCnmYfSr9jk"
@@ -2356,6 +2356,24 @@
       "duration_ms": 186240,
       "name": "One Man Band",
       "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
+    },
+    {
+      "album": {
+        "name": "WHERE YOU'LL FIND ME",
+        "url": "https://open.spotify.com/album/3XYF72bBKt5XbmIoqjWhbb"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169958,
+      "name": "ONE MORE",
+      "url": "https://open.spotify.com/track/6NSoFwlKHCQV0yKfcEQxDj"
     },
     {
       "album": {

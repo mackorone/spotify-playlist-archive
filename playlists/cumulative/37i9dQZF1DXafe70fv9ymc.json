@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "Shana / After Hours",
+        "url": "https://open.spotify.com/album/0cQk9my70QfKEYMJuAr9UQ"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/3is6Q8mrAvLC1gF2TFnYDq"
+    },
+    {
+      "album": {
         "name": "YOU WILL KNOW MY NAME",
         "url": "https://open.spotify.com/album/3BL6PeAQwWi2vwrj8wfI87"
       },
@@ -2618,7 +2640,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 193663,
       "name": "Soul Ties (Demo)",
       "url": "https://open.spotify.com/track/7iDCTx1dbazhd1s7c0tbRK"

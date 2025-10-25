@@ -7255,6 +7255,24 @@
     },
     {
       "album": {
+        "name": "Poster Child",
+        "url": "https://open.spotify.com/album/50YroQ4tPlLTgRE0eXTm8t"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193786,
+      "name": "Home Videos",
+      "url": "https://open.spotify.com/track/5eiSUOhmd9anGVvq908aza"
+    },
+    {
+      "album": {
         "name": "Hometown Heroes",
         "url": "https://open.spotify.com/album/1kvvoby3nAXtMZebuRtVxp"
       },
@@ -7520,7 +7538,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 195906,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/0nE5L0dfkTFRnBzkTOH4nD"

@@ -4,7 +4,7 @@
 
 > this house plays Jazz House 🏠  featuring Bolden.
 
-155 songs - 10 hr 12 min
+156 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Way Out](https://open.spotify.com/track/1GcUuxtC564k9GqIEjgS0S) | [Moomin](https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s) | [A Way Out](https://open.spotify.com/album/7D4OA9mOyyFUQJTdHOiWlH) | 5:00 | 2025-03-14 | 2025-05-24 |
 | [Acidjazzacid](https://open.spotify.com/track/5HTwniqm9szfs9Cib1p1cF) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [Acidjazzacid](https://open.spotify.com/album/3EUyOXYHvggj5xkFoss5A6) | 2:08 | 2025-03-07 | 2025-08-02 |
 | [As If](https://open.spotify.com/track/3QiPB7sjCdwBFbI24ewr5s) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [As If](https://open.spotify.com/album/70l9yOwA3Hrycu1Ls3Zp8k) | 2:23 | 2025-02-21 |  |
-| [at first](https://open.spotify.com/track/6ySPRb4en9GqyBJSNgxHDn) | [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [at first](https://open.spotify.com/album/7xtmLluiM3xIaAGY3fBXe0) | 2:31 | 2025-02-21 |  |
+| [at first](https://open.spotify.com/track/6ySPRb4en9GqyBJSNgxHDn) | [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [at first](https://open.spotify.com/album/7xtmLluiM3xIaAGY3fBXe0) | 2:31 | 2025-02-21 | 2025-10-25 |
 | [Autumn in Amsterdam](https://open.spotify.com/track/0zk9uvElUeSGpeP2Emhugt) | [Jazzwaves](https://open.spotify.com/artist/0Ts3DgksvL8dbF6mUAPFNC) | [Autumn in Amsterdam](https://open.spotify.com/album/4LMnyTKVoP6gOw4dWsKlFl) | 2:45 | 2025-05-30 |  |
 | [AWA \- Atjazz Love Soul Mix](https://open.spotify.com/track/5Nwn75vYZCEtTf0bFNT6AT) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [AWA \(Atjazz Remixes\)](https://open.spotify.com/album/1zm4B9mSGH4yLyymTZtYin) | 6:32 | 2025-02-21 | 2025-05-10 |
 | [Azura](https://open.spotify.com/track/43XuQmyHVzWJkY1AJEnlrX) | [Edmondson](https://open.spotify.com/artist/0Z21z5mCbDZhKD8kOXfo28), [Mahyar Rahmantalab Vaghei](https://open.spotify.com/artist/40pPjLvgdPbPkuOdcgDOIp) | [Azura](https://open.spotify.com/album/6wsH192UPSVkxNC7wqbmLM) | 5:46 | 2025-05-16 | 2025-08-02 |
@@ -67,6 +67,7 @@
 | [Highway \- Teuteu Remix](https://open.spotify.com/track/6roW4lfkqGDImLNcDyeVLC) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL), [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [Highway \(Teuteu Remix\)](https://open.spotify.com/album/3P4NlDbWunICUGKBvDVzlJ) | 2:33 | 2025-02-28 |  |
 | [Honest](https://open.spotify.com/track/1PmFdQoJL1gcPutNAJ9tWW) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi) | [Honest](https://open.spotify.com/album/1eg5mGZQAdQU5jLeepc6nS) | 2:25 | 2025-02-28 |  |
 | [Hotspot](https://open.spotify.com/track/1TZHxc3mBKD1DlQs0jiRFy) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Hotspot](https://open.spotify.com/album/0XRIt2aMkeOSaaVoZeEySh) | 2:46 | 2025-02-21 | 2025-07-12 |
+| [I Fall](https://open.spotify.com/track/39ffllrQQsR3ky4AwqOTnY) | [Gaston](https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr), [Tabeia](https://open.spotify.com/artist/6aBEJrQuxVju1RpGtaj5k7) | [I Fall](https://open.spotify.com/album/1YXxCxvgLLnejVcMXbHHup) | 2:44 | 2025-10-24 |  |
 | [I Wanna Tell Somebody](https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Josh Milan](https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR) | [I Wanna Tell Somebody](https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme) | 5:58 | 2025-02-28 | 2025-03-22 |
 | [I'm here.](https://open.spotify.com/track/1xC2XNZCIlmfuCDTF9b2bu) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [I'm here.](https://open.spotify.com/album/2Llsr7bTTcmTJvSdffaQ1i) | 2:37 | 2025-02-21 | 2025-09-27 |
 | [I'M SORRY](https://open.spotify.com/track/17PF2BxCI4klUDl3JgbIIt) | [Your friend daao](https://open.spotify.com/artist/1YK6LlpClehFPoCkFttVdw) | [I'M SORRY](https://open.spotify.com/album/00iQTzEuuPwCFlQGaJb9ub) | 3:53 | 2025-02-28 | 2025-03-22 |

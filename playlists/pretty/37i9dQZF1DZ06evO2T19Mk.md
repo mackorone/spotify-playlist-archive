@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 
 > This is Fall Out Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,639 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,674 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 | 49 | [Start Today](https://open.spotify.com/track/3DZSUGnqwJwQIoUbHPcSqu) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Start Today](https://open.spotify.com/album/7yj4Fc4cus1NY80wfIcSf0) | 2:02 |
 | 50 | [The \(Shipped\) Gold Standard](https://open.spotify.com/track/26TpDCzZwjrYUZkua2X6HF) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 3:18 |
 
-Snapshot ID: `aPgegAAAAADWZWxJ913B0MLSG4CHCgcm`
+Snapshot ID: `aPlwAAAAAABi08s+JpPr6WU7YGnpj+mZ`

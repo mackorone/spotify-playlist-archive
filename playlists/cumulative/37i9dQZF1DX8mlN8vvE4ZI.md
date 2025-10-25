@@ -4,7 +4,7 @@
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Mehtab Ali Niazi
 
-70 songs - 5 hr 40 min
+71 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,11 +18,12 @@
 | [Chanakya](https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Chanakya](https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX) | 2:43 | 2023-06-20 |  |
 | [Creation](https://open.spotify.com/track/4cjtMaPntkcWErWAv9ZeW1) | [Sitar A Seyer Otsenre](https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk) | [Sitar Eternal Circle](https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz) | 3:47 | 2023-06-20 |  |
 | [Devotion](https://open.spotify.com/track/0yTG25aRENPb5LZ6gLrnIp) | [Sitar A Seyer Otsenre](https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk) | [Sitar Eternal Circle](https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz) | 6:53 | 2023-06-20 |  |
-| [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/track/5JgyJZouTO78xhFoMKgInw) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/album/4ngobRObogUSz9oqRn1P7R) | 7:31 | 2023-06-20 |  |
+| [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/track/5JgyJZouTO78xhFoMKgInw) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/album/4ngobRObogUSz9oqRn1P7R) | 7:31 | 2023-06-20 | 2025-10-25 |
 | [Dreaming Sitar \- Original Mix](https://open.spotify.com/track/0CwcCMYR8AkoQHYLKCIe2D) | [Kaustav Majumder](https://open.spotify.com/artist/3K3PS2t0Qh8lmLDU9OAPHn) | [Morning Sitar Peace](https://open.spotify.com/album/4BZ3CCPWQp2QmzrPn0N0Cr) | 1:57 | 2023-06-20 |  |
 | [Ekla Chalo Re Rabindra Sangeet \- Raag \- Khamaj \- Live](https://open.spotify.com/track/0UwcP57y613FudmKHphanW) | [Mehtab Ali Niazi](https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK) | [Ekla Chalo Re Rabindra Sangeet \(Live\)](https://open.spotify.com/album/1Q2H4Dh1hZs4lmGhCSxbLC) | 6:56 | 2023-06-20 |  |
 | [Escape \- Yoga Sitar Trance](https://open.spotify.com/track/3MGrH2rjZqI6QCQ75bSbnq) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Escape \- Yoga Sitar Trance](https://open.spotify.com/album/20g9RgwBChZy87JOc3gxN8) | 6:38 | 2023-08-18 | 2024-06-03 |
 | [Evenings in Dehli \- Sitar/Guitar Melodies for Relaxation](https://open.spotify.com/track/5BHcmw8MMEgqY9jsgoD6O3) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [50 New Age, Relaxation & Massage Tracks \(For Office & Home Relaxation, Spa, Yoga Music, Massage Music & New Age\)](https://open.spotify.com/album/4Kl2t9NyYrmG6aehsIIWz9) | 2:29 | 2023-06-20 |  |
+| [Gul](https://open.spotify.com/track/4lE1jqN1OB7GEPy67Fw8YO) | [Mehtab Ali Niazi](https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK) | [Gul](https://open.spotify.com/album/5BYf0i8OClubokuHtn8JDd) | 3:32 | 2025-10-24 |  |
 | [Hum Bewafa Hargiz Na Thay \- Unwind Instrumental](https://open.spotify.com/track/3VoE9lBw3UO1rBSg0Z31KY) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Amazing Sitar](https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0) | 4:47 | 2023-06-20 |  |
 | [Inspiration](https://open.spotify.com/track/67XJ39k65gnMALcoiKLe9r) | [Chirag Katti](https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo) | [Inspiration](https://open.spotify.com/album/69qEVU3jV5p0NVpfA5q8rO) | 6:56 | 2023-08-23 |  |
 | [Ka Karun Sajni \- The Classic Thumri of Longing \- Instrumental](https://open.spotify.com/track/1uNp7hTMUp8eaNP6QX7Ucy) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Amazing Sitar](https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0) | 5:54 | 2023-06-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CTD7HWYPDn.md) - [plain]
 
 > Tu karaoke personal para darlo todo cantando.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,667,164 likes - 200 songs - 13 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,667,051 likes - 200 songs - 13 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

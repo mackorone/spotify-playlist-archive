@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,170 likes - 98 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,204 likes - 98 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 97 | [Dardanella](https://open.spotify.com/track/6ASQ9b6KAHrwKcfgBIeTQw) | [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Dardanella](https://open.spotify.com/album/0k7ZC0mA9k5HfPONZzbJTh) | 5:24 |
 | 98 | [Velvet Gloves & Spit](https://open.spotify.com/track/28nqRn3qpWokvnhGfXwbEf) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Velvet Gloves & Spit](https://open.spotify.com/album/4xAd50gOzhbIldhrmYAJWK) | 2:43 |
 
-Snapshot ID: `AAAAANVgmb9QbHKc5vtmx6HKPctvkmrS`
+Snapshot ID: `AAAAACQMEJzv+SeKWDKZPoDc8PO3wWLj`

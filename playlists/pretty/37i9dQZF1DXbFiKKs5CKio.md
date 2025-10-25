@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,397 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,401 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 12 | [Abre Alas](https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Abre Alas](https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5) | 5:11 |
 | 13 | [Jeito Certo](https://open.spotify.com/track/271UeLAttA5JHMV0uJoral) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [Jeito Certo](https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx) | 3:10 |
 | 14 | [Bye Bye](https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Amaríssima](https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN) | 2:58 |
-| 15 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
+| 15 | [Mentiras](https://open.spotify.com/track/5dEzVhAhEImxZeTNxHK6GS) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [Mentiras](https://open.spotify.com/album/6TlsCm8yHABXEM8NcYghVF) | 3:35 |
 | 16 | [Salty](https://open.spotify.com/track/1DwiaTTIDiDTe7fgx1HiNU) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [TALI](https://open.spotify.com/artist/2lI73BmF57aKMznK2wcy50), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 4:10 |
-| 17 | [VAI DAR BOM](https://open.spotify.com/track/3WKoJ3XpkwOLyR1MROs59k) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr) | [Vai dar Bom](https://open.spotify.com/album/45VqPGiDgFuiqeiOKtaxk5) | 3:24 |
+| 17 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
 | 18 | [When You Smile](https://open.spotify.com/track/6zbLnvuLbHSyf46wTyl7DP) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [When You Smile](https://open.spotify.com/album/7fpbLbzIxYTHAGLSxFGMka) | 2:20 |
 | 19 | [Tenha Calma](https://open.spotify.com/track/7F6ylpYzjY4c2kKow8sYNi) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:41 |
 | 20 | [Sexto Sentido](https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Sexto Sentido](https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK) | 2:31 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 22 | [Desalinho](https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Desalinho](https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR) | 3:25 |
 | 23 | [Cola Comigo](https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Cola Comigo](https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw) | 3:28 |
 | 24 | [Gaveta/Onironauta](https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Allefez](https://open.spotify.com/artist/7duD30ScTFqtnbx6qfphSY) | [Amaríssima V2 \(Remix\)](https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm) | 3:45 |
-| 25 | [Cansei De Chorar Seu Nome](https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P) | [Rafael Stonne](https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj), [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [LAN](https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o) | [Cansei De Chorar Seu Nome](https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf) | 3:44 |
-| 26 | [De Boa](https://open.spotify.com/track/4Qe590zrB5DAak08SuSk6X) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [O Amor e Suas Variáveis](https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn) | 2:32 |
+| 25 | [De Boa](https://open.spotify.com/track/4Qe590zrB5DAak08SuSk6X) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [O Amor e Suas Variáveis](https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn) | 2:32 |
+| 26 | [Perfeito Par](https://open.spotify.com/track/0PwMCxdShRFHI1EngnHoot) | [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Perfeito Par](https://open.spotify.com/album/78BfcZmdUjGiMzNCeMYaYB) | 2:50 |
 | 27 | [Romance Fora de Hora](https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda](https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0) | 2:44 |
 | 28 | [me chama de sua](https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [BRUNÊ](https://open.spotify.com/artist/5h3hEweoebaD7dHjZEmKRf), [DeVito Cxrleone](https://open.spotify.com/artist/6VrY01U9G7eJtIFlvG4U0k) | [Love Songs, Vol\. I](https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON) | 2:19 |
 | 29 | [Candeia](https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Candeia](https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9) | 3:19 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 45 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 |
 | 46 | [E EU?](https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0), [prx](https://open.spotify.com/artist/3UfPWEQhL5zLMF6LQoSuFe) | [MOVA \- Algumas Verdades, Outras Mentiras](https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3) | 2:56 |
 | 47 | [Música](https://open.spotify.com/track/7HGFGnAuiRMKMAEnxbpFZ8) | [YAZI](https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed) | [Música](https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L) | 3:23 |
-| 48 | [Eu Tava Em Casa](https://open.spotify.com/track/2h7DmQXeYqAXG9cMtqdiLy) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/5A6E29QwhDcINDIEBSbYPR) | 4:09 |
-| 49 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 |
+| 48 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 |
+| 49 | [Você Merece](https://open.spotify.com/track/4wypZLE0UkTScBWmjhnNBm) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt) | [Passageiro do Bem \- LADO B](https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ) | 3:04 |
 | 50 | [SHAWTY](https://open.spotify.com/track/75liZXV6t18aVko4JTjkkm) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/1jmxpG3tlqWxDYUyFU1FhF) | 2:53 |
 
-Snapshot ID: `AAAAAG29EG/SZZvl0Wo5dUCrkd3Rwg7y`
+Snapshot ID: `AAAAAGyojuJsF0rBxw9RTvogdGWO6o2/`

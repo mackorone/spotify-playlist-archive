@@ -85,6 +85,32 @@
     },
     {
       "album": {
+        "name": "Alcantara",
+        "url": "https://open.spotify.com/album/4w79VeLMd0PpNWE4Q66zfR"
+      },
+      "artists": [
+        {
+          "name": "Esko",
+          "url": "https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        },
+        {
+          "name": "JoeyAK",
+          "url": "https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227727,
+      "name": "Alcantara",
+      "url": "https://open.spotify.com/track/6PBgiQ0JVfHBBidyIBQHMe"
+    },
+    {
+      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -132,7 +158,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -168,7 +194,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -557,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Dansen Met De Duivel",
+        "url": "https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146552,
+      "name": "Dansen Met De Duivel",
+      "url": "https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz"
+    },
+    {
+      "album": {
         "name": "Deed 2 (D2)",
         "url": "https://open.spotify.com/album/6yPoIF95idX6uAOM4gQgQ0"
       },
@@ -580,10 +624,32 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 172800,
       "name": "Deed 2 (D2)",
       "url": "https://open.spotify.com/track/47qbH7DYanEf9c8GYaXoJT"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
       "album": {
@@ -628,6 +694,24 @@
       "duration_ms": 169159,
       "name": "Dior (feat. Chrystal)",
       "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
+    },
+    {
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
     },
     {
       "album": {
@@ -808,7 +892,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 212777,
       "name": "Father Figure",
       "url": "https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY"
@@ -862,7 +946,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -1330,7 +1414,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 123809,
       "name": "Knalprobleem",
       "url": "https://open.spotify.com/track/7kWJE0vHK66DyAvtRpKqcP"
@@ -1684,6 +1768,28 @@
       "duration_ms": 170876,
       "name": "Nog Even Blijven",
       "url": "https://open.spotify.com/track/3VbpCqh33Dn8in4JC1c46o"
+    },
+    {
+      "album": {
+        "name": "Nonchalant",
+        "url": "https://open.spotify.com/album/4AUBKZCLgsSAjAdKazWYQI"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150120,
+      "name": "Nonchalant",
+      "url": "https://open.spotify.com/track/4xfPIBJaa4SBpiphmCzrUo"
     },
     {
       "album": {
@@ -2078,10 +2184,28 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 187357,
       "name": "Terug In De Tijd",
       "url": "https://open.spotify.com/track/0xVHwr9T53uhPZpih1LW8g"
+    },
+    {
+      "album": {
+        "name": "Voor Altijd",
+        "url": "https://open.spotify.com/album/17FIFTOPJCHfAQjSasRhEd"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187357,
+      "name": "Terug In De Tijd",
+      "url": "https://open.spotify.com/track/6vl3Gxg0Vd5vIOFF3XJObT"
     },
     {
       "album": {
@@ -2176,7 +2300,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 241766,
       "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
@@ -2248,7 +2372,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 175956,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
@@ -2324,6 +2448,36 @@
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
+    },
+    {
+      "album": {
+        "name": "Vader & zoon (Remix)",
+        "url": "https://open.spotify.com/album/1ch0NBTvfaT6ItCUc8g0m8"
+      },
+      "artists": [
+        {
+          "name": "Thomas Berge",
+          "url": "https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI"
+        },
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/3mzuJkHPhnkcfoMw0Y6oKC"
+        },
+        {
+          "name": "Milo ter Reegen",
+          "url": "https://open.spotify.com/artist/6Wk4hq0XbOFGYsFs7VZnbn"
+        },
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140202,
+      "name": "Vader & zoon - Remix",
+      "url": "https://open.spotify.com/track/6N2BPQA4VVtUWbBFlCw5rF"
     },
     {
       "album": {
@@ -2562,10 +2716,28 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 150517,
       "name": "Wood",
       "url": "https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0"
+    },
+    {
+      "album": {
+        "name": "YAMA",
+        "url": "https://open.spotify.com/album/2fJsYrtbfo02Pe5Dp18TW5"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159673,
+      "name": "YAMA",
+      "url": "https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Angel Du$t
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,536 likes - 125 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,640 likes - 125 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 2 | [ALL MY ANGELS](https://open.spotify.com/track/1U3UoJ4VxuTI8mlD4zOI8x) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ALL MY ANGELS](https://open.spotify.com/album/6r1dO7jcuNo8xP4mESY0Er) | 3:01 |
 | 3 | [The Good Life](https://open.spotify.com/track/0t0WWWHYPt2wD6OAHy4Vvo) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Gwendoline Christie](https://open.spotify.com/artist/5IVTpZihpMnl50YeAvZ9RS), [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [The Good Life](https://open.spotify.com/album/7qFDSLH4Pa8nb8wc4LJIdn) | 3:00 |
 | 4 | [The Real Contra Band](https://open.spotify.com/track/4kBtmojfp18pLG6HPtn5xR) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [The Real Contra Band](https://open.spotify.com/album/4VeS0UCjBAsBhF0HH7Snsr) | 3:09 |
-| 5 | [You've Got My Number](https://open.spotify.com/track/5VJS4UH2VccJoUgc9bsIPW) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [](https://open.spotify.com/album/null) | 3:50 |
-| 6 | [SUGAR IN THE GAS TANK \(feat\. KennyHoopla\)](https://open.spotify.com/track/6WRFZiEc7ygA8rATAqJ1zo) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [](https://open.spotify.com/album/null) | 2:47 |
+| 5 | [You've Got My Number](https://open.spotify.com/track/5VJS4UH2VccJoUgc9bsIPW) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [RUDE](https://open.spotify.com/album/07aVgAaXvYBOPFY0kWX6HK) | 3:50 |
+| 6 | [SUGAR IN THE GAS TANK \(feat\. KennyHoopla\)](https://open.spotify.com/track/6WRFZiEc7ygA8rATAqJ1zo) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [THERE GOES THE NEIGHBORHOOD](https://open.spotify.com/album/6onXyi6tZfYoBOWKbKpThm) | 2:47 |
 | 7 | [Mad Rooter](https://open.spotify.com/track/6cuXSWojM83UcPkrfbd75t) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Mad Rooter](https://open.spotify.com/album/4n5Lg3hYCaJIv434OImVaO) | 3:05 |
 | 8 | [Famous](https://open.spotify.com/track/3yuBbqWCc9GZZOnTHKAfZJ) | [Chase Petra](https://open.spotify.com/artist/1MTlhWSyxv11aeqREGEeb3), [Zayna Youssef](https://open.spotify.com/artist/2B84tYHfJYTyDZ1HrTaoOj) | [Famous](https://open.spotify.com/album/6bb5k1L5Y5gLfazncJfZAG) | 3:54 |
 | 9 | [I Can't Look For You](https://open.spotify.com/track/3OjfVuqoq0yrNqUSWo6lEP) | [Bad Neighbour](https://open.spotify.com/artist/1Lg2j8CzYY32r5sDiuVW8B) | [I Can't Look For You](https://open.spotify.com/album/4HNHkY2rtWxQNUGFjNyCYO) | 4:02 |

@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Yacht Rock Revue
 
-129 songs - 8 hr 1 min
+130 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Make You Miss Me](https://open.spotify.com/track/61Jrb9FdLpobG6DFc8qC5D) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Escape Artist \(Disc 1\)](https://open.spotify.com/album/5FCeJuDM50xcMMot22SsTO) | 4:15 | 2024-09-06 | 2024-11-30 |
 | [Mango](https://open.spotify.com/track/4teEHZgbLfOIHJ3jrgzPlT) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Loneliness Confetti](https://open.spotify.com/album/0Cinqm0u7kj6hQc1CIFjxu) | 3:15 | 2024-03-15 | 2024-04-19 |
 | [Mango](https://open.spotify.com/track/5xeseiR8s2ZdnC2WL4HsSE) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Mango](https://open.spotify.com/album/4JSKi6XBwkQ8CGTO8Ndk3Q) | 3:15 | 2024-03-15 |  |
+| [Move Like Me](https://open.spotify.com/track/5bze6BREk5sk3lKlgGWXbu) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [Move Like Me](https://open.spotify.com/album/0EAYUwuFre2IQZEl9T1fs5) | 2:52 | 2025-10-24 |  |
 | [Ms\. Marigold](https://open.spotify.com/track/5J8g7kCSf0jiH16sNMeZo3) | [superGOODthings](https://open.spotify.com/artist/7twKK7krUtniPlYv9i92vp) | [Yachty Rock Feelings, Vol\. 1](https://open.spotify.com/album/6nfTINfvFH6VZb81AYTxFP) | 4:16 | 2022-10-21 | 2023-04-15 |
 | [New Fascination](https://open.spotify.com/track/4wugx5UcJaefwqsrqfRmDK) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/2lJ4mGexbTGxmkF2OEejmE) | 3:20 | 2022-10-28 | 2024-04-19 |
 | [New Fascination](https://open.spotify.com/track/52iCnjPavObHl20sQ4t2Z6) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:20 | 2022-10-28 | 2023-04-30 |
@@ -77,7 +78,7 @@
 | [On The Line](https://open.spotify.com/track/7l25I7cYjeUZVKXDOaDPQP) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO), [Maya Killtron](https://open.spotify.com/artist/00kg3zOGx3pJytYkDxK0q2) | [On The Line](https://open.spotify.com/album/55V67H6MNzcqy5hiYRQQZB) | 4:00 | 2024-01-26 |  |
 | [One Bedroom Apartment](https://open.spotify.com/track/3mObCivWwBNhjGn1lNqtk2) | [MAXN](https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL) | [Mirror In a Gold Mine](https://open.spotify.com/album/1kOf4AbczjMcNaRMb4HiVN) | 3:36 | 2024-02-23 | 2024-04-19 |
 | [One Bedroom Apartment](https://open.spotify.com/track/6XEuXtDnH3s42tXRYdowaA) | [MAXN](https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL) | [One Bedroom Apartment](https://open.spotify.com/album/5lcxvlwmGlB8J7k8W269im) | 3:36 | 2024-02-23 |  |
-| [One Way Out](https://open.spotify.com/track/6Rvvecvi5x26AYsqY518MY) | [Heir](https://open.spotify.com/artist/2qFolZ0t9iDaOtgwvtMl2f) | [One Way Out](https://open.spotify.com/album/7GowjRTiHy1OtF0AQuqXVS) | 3:42 | 2022-11-11 |  |
+| [One Way Out](https://open.spotify.com/track/6Rvvecvi5x26AYsqY518MY) | [Heir](https://open.spotify.com/artist/2qFolZ0t9iDaOtgwvtMl2f) | [One Way Out](https://open.spotify.com/album/7GowjRTiHy1OtF0AQuqXVS) | 3:42 | 2022-11-11 | 2025-10-25 |
 | [Out of My Life](https://open.spotify.com/track/3BCkdDIFlp7g8ZlvHVJv5p) | [Maya Killtron](https://open.spotify.com/artist/00kg3zOGx3pJytYkDxK0q2) | [Persimmon](https://open.spotify.com/album/00EK1rMkjf99RTeXyzuCdN) | 4:00 | 2022-10-21 |  |
 | [Past the Point](https://open.spotify.com/track/28iT2AnlE73LIJI6RnjFhZ) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Inside Voice](https://open.spotify.com/album/7znS7xCpnfBvXPIom6HAof) | 3:42 | 2022-10-21 | 2024-01-27 |
 | [Peach Optimo](https://open.spotify.com/track/3RNLKLJyNYLh9t6ojhxN7B) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Peach Optimo](https://open.spotify.com/album/3Thk2OpOq4xLIg3Qmetarj) | 2:50 | 2024-03-22 |  |

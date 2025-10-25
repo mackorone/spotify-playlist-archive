@@ -314,7 +314,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 163440,
       "name": "Consejo De Oro",
       "url": "https://open.spotify.com/track/4q602p7jJb8JLto5BAhRwa"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 275760,
       "name": "De Ti Depende",
       "url": "https://open.spotify.com/track/6V0m5eu38vtpaVTqdCKxxV"
@@ -1672,10 +1672,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 455880,
       "name": "Vamos A Re\u00edr Un Poco",
       "url": "https://open.spotify.com/track/41xQQNFqOja4DNQttbsJ0W"
+    },
+    {
+      "album": {
+        "name": "A Man And His Music: La Voz",
+        "url": "https://open.spotify.com/album/1cjhnTRit0iS1HViiGeK8H"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459880,
+      "name": "Vamos A Re\u00edr Un Poco",
+      "url": "https://open.spotify.com/track/1RVtt5na5nhNTNOhJJawL4"
     },
     {
       "album": {

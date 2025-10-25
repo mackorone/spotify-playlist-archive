@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-898 songs - 1 day 22 hr 14 min
+899 songs - 1 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Hold Out](https://open.spotify.com/track/4MBxiq9e0jpWxJikv4kJA4) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hold Out](https://open.spotify.com/album/17TF2cobgIGAaX5uiu84yl) | 2:43 | 2022-03-24 | 2022-04-17 |
 | [Holy Roller](https://open.spotify.com/track/34OEHEvy2YHHWJl1mOfHpz) | [The Format](https://open.spotify.com/artist/3ZJC8cLts8Q8s8JbNJKsLf) | [Holy Roller](https://open.spotify.com/album/6pKSThvXuzbqXYuhqb1iUg) | 3:55 | 2025-10-17 |  |
 | [Home](https://open.spotify.com/track/08IlNH2lwTCUTROvlZdoPJ) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [DDMN 1.1](https://open.spotify.com/album/1Uo3jSUXpBeApSIZU7T1M4) | 2:56 | 2022-03-24 | 2022-04-11 |
+| [Home Videos](https://open.spotify.com/track/5eiSUOhmd9anGVvq908aza) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Poster Child](https://open.spotify.com/album/50YroQ4tPlLTgRE0eXTm8t) | 3:13 | 2025-10-24 |  |
 | [Hometown Heroes](https://open.spotify.com/track/5WIm8DA0JdrHz9tVFcOnxW) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Hometown Heroes](https://open.spotify.com/album/1kvvoby3nAXtMZebuRtVxp) | 3:06 | 2022-03-24 | 2022-04-18 |
 | [homewrecker](https://open.spotify.com/track/7gu8Qe3zpwMNczEQG5Kigs) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [I WANT YOU MORE THAN ANYBODY WANTS YOU](https://open.spotify.com/album/3xRV1SJjSfnih2UGMHrvNc) | 2:39 | 2024-08-23 | 2025-02-20 |
 | [Honest](https://open.spotify.com/track/6GA5TVYR34SoRv8OvRKarY) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [Honest](https://open.spotify.com/album/4cH11OunMUMHKuhSvWEMvL) | 3:46 | 2022-03-24 | 2022-04-04 |
@@ -406,7 +407,7 @@
 | [How Do You Love Somebody](https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [How Do You Love Somebody](https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc) | 3:00 | 2022-06-03 |  |
 | [how i feel?](https://open.spotify.com/track/1CnOKVekgE66cwKT7yx4IV) | [Charlie Pittman](https://open.spotify.com/artist/2c4LNcrWUBi3z18mTTs5ly) | [okay\. again?](https://open.spotify.com/album/3X8hQPPIipP1KbYV4ENqVd) | 3:48 | 2025-09-19 |  |
 | [How Not To Drown \(feat\. Robert Smith\)](https://open.spotify.com/track/0gNnngLmd8zSikRqUGt2DU) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w), [Robert Smith](https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0) | [How Not To Drown](https://open.spotify.com/album/3QDXgEZ8LfC1CxkZpETteX) | 5:31 | 2022-03-24 | 2022-04-17 |
-| [Hurricane](https://open.spotify.com/track/0nE5L0dfkTFRnBzkTOH4nD) | [Slowly Slowly](https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e) | [Forgiving Spree](https://open.spotify.com/album/4K6yiQ5TlZyqXU4TTHqWgl) | 3:15 | 2025-02-04 |  |
+| [Hurricane](https://open.spotify.com/track/0nE5L0dfkTFRnBzkTOH4nD) | [Slowly Slowly](https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e) | [Forgiving Spree](https://open.spotify.com/album/4K6yiQ5TlZyqXU4TTHqWgl) | 3:15 | 2025-02-04 | 2025-10-25 |
 | [hurt like it should](https://open.spotify.com/track/1GeQUUhVdGjPZTSONOhkmr) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [hurt like it should](https://open.spotify.com/album/2z9tnFVrBzgvj1NR98ccBY) | 3:23 | 2024-04-19 | 2025-05-31 |
 | [Hurts So Bad](https://open.spotify.com/track/2lTSM4v2Xm6lsu4NqyGl9K) | [GREYSKIES](https://open.spotify.com/artist/5zp72ZM5DdxHbMPIt7EEtX) | [Hurts So Bad](https://open.spotify.com/album/5hYGk2apMXzBI2Wg5T4tlf) | 3:04 | 2022-03-24 | 2022-07-14 |
 | [I Can Hardly Speak](https://open.spotify.com/track/5eMySoI30MSqHDv74PlZ63) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Can Hardly Speak](https://open.spotify.com/album/3HSnfEUIR7zor3xrYQ1TcL) | 3:59 | 2022-03-24 | 2022-04-13 |

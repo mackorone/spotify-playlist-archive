@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Songs you love with an indie spin on it\. Cover: Blondshell
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,549 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,558 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 71 | [Shivers](https://open.spotify.com/track/6xiXaXON1rAuatwgLhIVlJ) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Shivers](https://open.spotify.com/album/4Ql9kb8CRPMMXjxLGDdk2T) | 5:03 |
 | 72 | [Jasmine](https://open.spotify.com/track/6bniCXManaPDnCN34waQs6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Jasmine](https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ) | 3:39 |
 | 73 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 |
-| 74 | [He Thinks He'll Keep Her](https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp), [Goodwerks](https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM) | [Broken Glass, Vol\. 6](https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2) | 3:45 |
+| 74 | [He Thinks He'll Keep Her](https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv) | [Goodwerks](https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM), [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Broken Glass, Vol\. 6](https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2) | 3:45 |
 | 75 | [Pumped Up Kicks \- Gus Dapperton Version](https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Pumped Up Kicks \(Gus Dapperton Version\)](https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS) | 3:52 |
 | 76 | [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 |
 | 77 | [Yellow](https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Yellow](https://open.spotify.com/album/3pC14s49yUVj2VJskAshde) | 4:22 |

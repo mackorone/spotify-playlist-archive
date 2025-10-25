@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 
 > This is Kelsea Ballerini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,705 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,718 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 45 | [la](https://open.spotify.com/track/4P7Rt2Dd5I3N5PIskzCiOy) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:46 |
 | 46 | [First Time Again](https://open.spotify.com/track/7dRnLA0SZFVn62weznwJnk) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [They Don't Know](https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L) | 3:24 |
 | 47 | [Beg For Your Love](https://open.spotify.com/track/7ppbeg2hnsQQ4q4FF5Lnex) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS](https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0) | 3:06 |
-| 48 | [First Rodeo](https://open.spotify.com/track/6HHQ2d7MMqoc1x6nXki8m3) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 3:43 |
-| 49 | [Sorry Mom \(Stripped Version\)](https://open.spotify.com/track/6Ln1dikWGYzicMyim5mWqV) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(Stripped Session\)](https://open.spotify.com/album/6teVbLgWVLojJtw9eJKiNq) | 3:34 |
+| 48 | [Sorry Mom \(Stripped Version\)](https://open.spotify.com/track/6Ln1dikWGYzicMyim5mWqV) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(Stripped Session\)](https://open.spotify.com/album/6teVbLgWVLojJtw9eJKiNq) | 3:34 |
+| 49 | [First Rodeo](https://open.spotify.com/track/6HHQ2d7MMqoc1x6nXki8m3) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 3:43 |
 | 50 | [Center Point Road](https://open.spotify.com/track/7p9zIciejn8GXnsRdG9EQR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:36 |
 
-Snapshot ID: `aPgegAAAAABRNZKRrBKSSrbl2LYOdLV0`
+Snapshot ID: `aPlwAAAAAAAhqP+Co4SGQcAM26Gq7CG5`

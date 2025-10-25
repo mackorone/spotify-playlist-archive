@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Laufey
 
-233 songs - 12 hr 40 min
+235 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,8 +57,9 @@
 | [Christmas in New York](https://open.spotify.com/track/56oYlOg8iTHa99Oo6LikDx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 4:33 | 2022-11-10 |  |
 | [Christmas in Your Eyes \(feat\. Everly Shaw\)](https://open.spotify.com/track/7mjrzLFZg2RKUuxOIq1O49) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Everly Shaw](https://open.spotify.com/artist/0wmPK8Bsy69g1tUk94RXBk) | [A Tyler Shaw Christmas](https://open.spotify.com/album/3ehYajj7zAyk3YdAWoL7CW) | 3:17 | 2021-12-12 | 2022-11-11 |
 | [Christmas Isn't Christmas](https://open.spotify.com/track/6DeGFcrDiYDuyV7e7KnqPd) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Christmas Isn't Christmas](https://open.spotify.com/album/2Gc07PitsdDbsHxFcyX4mG) | 3:16 | 2021-12-12 | 2024-11-30 |
-| [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2021-12-12 |  |
+| [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2021-12-12 | 2025-10-25 |
 | [christmas lights](https://open.spotify.com/track/30rSSHrRnhtUxU9hbW1CFE) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [christmas lights](https://open.spotify.com/album/72Sm4S7HImUd9m25k8K1oV) | 4:28 | 2023-11-06 |  |
+| [Christmas Lights \- Spotify Singles Holiday](https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Christmas Lights \(Spotify Singles Holiday\)](https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk) | 3:22 | 2025-10-24 |  |
 | [Christmas List](https://open.spotify.com/track/3tIFJcxOORa8WkTZBrpxSn) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Christmas List](https://open.spotify.com/album/1bm1rDiR9fPUVuLfovUeHn) | 3:21 | 2022-12-02 |  |
 | [Christmas Party for Two](https://open.spotify.com/track/79UvrTKNmJa68M0Cn9wYJx) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas Party for Two](https://open.spotify.com/album/1ALVALb5SfYHYt48JKGUQq) | 3:54 | 2023-11-06 |  |
 | [Christmas Through Your Eyes](https://open.spotify.com/track/01ZUp6PoqFuRtMTMODnPOf) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Deluxe\)](https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu) | 3:59 | 2021-12-12 |  |
@@ -172,8 +173,9 @@
 | [Not Just On Christmas](https://open.spotify.com/track/6JJ4W13A4Q5yeK4g6OROmg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:02 | 2021-12-12 | 2023-11-16 |
 | [Now I've Got You](https://open.spotify.com/track/75WgIVJyqJjjCish2FPrkW) | [Matilda](https://open.spotify.com/artist/4F7wGFfIXuQUBFoxiZ9WFp) | [Now I've Got You](https://open.spotify.com/album/0AJGu7Jwds2feeiF7aYygC) | 3:09 | 2021-12-12 |  |
 | [O Holy Night](https://open.spotify.com/track/7tiWsq60y3wqRVaD4057a5) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 2:18 | 2022-11-10 | 2022-12-03 |
+| [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/track/7L3OGWgJMQdXSbY3zgUt1Q) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/album/7CtbtLDxCIS5bhtVCHTSvL) | 3:00 | 2025-10-24 |  |
 | [Officially Christmas](https://open.spotify.com/track/7Kr4PZ2XFbaQ28sA1ZeIKa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [It's Officially Christmas: The Double Album](https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf) | 2:58 | 2024-11-29 |  |
-| [Oh Holy Night \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles \- Christmas](https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM) | 3:47 | 2021-12-12 |  |
+| [Oh Holy Night \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles \- Christmas](https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM) | 3:47 | 2021-12-12 | 2025-10-25 |
 | [Once A Year](https://open.spotify.com/track/4iGbHh0ifUuLV9aOUr8CP3) | [Tatiana Manaois](https://open.spotify.com/artist/7z1VrrLktQYoS9C0cFbfnI) | [Once A Year](https://open.spotify.com/album/4dSmoSgjulNjv95j5UEF9J) | 3:33 | 2021-12-12 |  |
 | [One I've Been Missing](https://open.spotify.com/track/4VpnrB9Lai2uHsRbh5C8Ft) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [One I've Been Missing](https://open.spotify.com/album/2s0uYI8G5VpBHYaXHQaXJg) | 3:12 | 2021-12-12 |  |
 | [One I've Been Missing](https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti \(Expanded Edition\)](https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8) | 3:12 | 2021-12-12 | 2024-04-19 |

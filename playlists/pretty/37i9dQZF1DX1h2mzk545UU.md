@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,660 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,661 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 |
 | 2 | [Paloma Ajena](https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk) | [La Banda Tecno De Beto Y Juan](https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I) | [Cumbia Con Clase](https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy) | 4:14 |
 | 3 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 |
-| 4 | [La Distancia](https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:17 |
-| 5 | [TENGO GANAS](https://open.spotify.com/track/2X3NWjkwnqCOfAS0TcUYOW) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [TENGO GANAS](https://open.spotify.com/album/3PZsmna1CzAkZndq3h0Krs) | 2:41 |
+| 4 | [La botella](https://open.spotify.com/track/41MTzwYKd7yqBgNmxX0yKg) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [La botella](https://open.spotify.com/album/5txvBlFy2ssHbJK8siXapR) | 3:23 |
+| 5 | [La Distancia](https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:17 |
 | 6 | [Me Hace Daño Verte](https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Trovando El Son](https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu) | 5:00 |
 | 7 | [Una Cerveza RMX](https://open.spotify.com/track/0DaZGaU25mPJZEnrNuloLc) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Una Cerveza RMX](https://open.spotify.com/album/38AGkC9ZE88AFQCSeFjqjX) | 3:01 |
-| 8 | [La Matraca \(Remix\)](https://open.spotify.com/track/1umDTlmpNfOjoG0EpS267S) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [DJ NIÑOTE](https://open.spotify.com/artist/5j01QsF6RHkL762ppHOrFt) | [La Matraca \(Remix\)](https://open.spotify.com/album/704w2YaMd2ghbjYseGYF8M) | 2:57 |
-| 9 | [La Morocha](https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [La Morocha](https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61) | 2:14 |
-| 10 | [Sonríele](https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX) | [DY](https://open.spotify.com/artist/4bB4RtgglECAqYMNt1l8zQ), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sonríele](https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn) | 2:58 |
+| 8 | [La Morocha](https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [La Morocha](https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61) | 2:14 |
+| 9 | [Sonríele](https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX) | [DY](https://open.spotify.com/artist/4bB4RtgglECAqYMNt1l8zQ), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sonríele](https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn) | 2:58 |
+| 10 | [La Bandita](https://open.spotify.com/track/7KtVZ3vkhcPEqTsA4Qkstd) | [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4), [Diamante Ayala](https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d), [Look DC](https://open.spotify.com/artist/5i7omv4qeyFwx7kd4jYK9i) | [La Bandita](https://open.spotify.com/album/4RoQj979nXF7VYUxqIUd5w) | 3:24 |
 | 11 | [7 VIDAS](https://open.spotify.com/track/1xxL4IRO8CwdxSNm5bSNlw) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [7 VIDAS](https://open.spotify.com/album/0wIZkk4BOIprBCqorQB2XB) | 2:24 |
 | 12 | [Así Así](https://open.spotify.com/track/5yV2BEVcRibgXMxZuf9awh) | [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Así Así](https://open.spotify.com/album/3EOCDX0SyIHjN9vaEgX8EI) | 3:13 |
 | 13 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 | 99 | [SaSa](https://open.spotify.com/track/79ETUBpfw12j3MTdYLteyx) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [SaSa](https://open.spotify.com/album/1A9XILpF2pE09N6zEDkofF) | 3:30 |
 | 100 | [Llegó el Lunes \(Remix\)](https://open.spotify.com/track/5jORaKAuneXipXzKWWKNH8) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [Diamante Ayala](https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW) | [Llegó el Lunes \(Remix\)](https://open.spotify.com/album/7MXoyK8SRuAdS7t4dbJs3L) | 3:46 |
 
-Snapshot ID: `AAAAAAt7OfXB+PQgQzeaXKF+n/xAe60K`
+Snapshot ID: `AAAAADoxwiALcA2D5Fejh5DwXWTVVmpP`

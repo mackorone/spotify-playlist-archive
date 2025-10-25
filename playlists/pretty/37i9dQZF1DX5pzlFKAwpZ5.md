@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,793 likes - 150 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,833 likes - 150 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 149 | [when fossils dream](https://open.spotify.com/track/14fW5Ka6MstcnK7LczezYk) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [night museum](https://open.spotify.com/album/58EvMt6aO7smm3cFjWqkGf) | 5:12 |
 | 150 | [TWO](https://open.spotify.com/track/7F3wbkGUqZNyomfnW6HO8B) | [Shinobu Nemoto](https://open.spotify.com/artist/6R94NSkCQlPD2rZClcxPAk) | [銀嵐 \(Silver Storm\)](https://open.spotify.com/album/3yoj55qNn59F9LBIIsEGO1) | 5:05 |
 
-Snapshot ID: `AAAAABA8vn9q46FBX6AsoL5ctTvZGq7E`
+Snapshot ID: `AAAAAD9HqKPYazoF+FxWH8502khpDCqg`

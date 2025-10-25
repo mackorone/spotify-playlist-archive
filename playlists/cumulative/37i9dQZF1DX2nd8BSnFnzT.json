@@ -7125,6 +7125,24 @@
     },
     {
       "album": {
+        "name": "XXX",
+        "url": "https://open.spotify.com/album/7hblqnTE9JBown6OuvVJNh"
+      },
+      "artists": [
+        {
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213920,
+      "name": "Os Calo",
+      "url": "https://open.spotify.com/track/6S71HoKuRv0DkUseOwBWwl"
+    },
+    {
+      "album": {
         "name": "ousadia",
         "url": "https://open.spotify.com/album/7cvBGkj0PeuIMmJco8zu7J"
       },
@@ -8266,7 +8284,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 175179,
       "name": "quero MAIS",
       "url": "https://open.spotify.com/track/6RKOKsO0CjpzzKrIOuRSum"

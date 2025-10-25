@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Night In The Jungle With Birds At River \(Fluss\)](https://open.spotify.com/track/5LVx4ofVD3DXNfkiDajr4a) | [Life Sounds Nature](https://open.spotify.com/artist/0SGJ24mW8PvCH3O8GeXSFg) | [The Very Best Sound Of Birds And Nature \(With Rain, Forest, Creek, River, Wind, Thunder\)](https://open.spotify.com/album/2rrNOxZ5jEL4KaJUGbyzuV) | 5:16 | 2021-12-22 |  |
+| [A Night In The Jungle With Birds At River \(Fluss\)](https://open.spotify.com/track/5LVx4ofVD3DXNfkiDajr4a) | [Thanael Wendtura](https://open.spotify.com/artist/0SGJ24mW8PvCH3O8GeXSFg) | [The Very Best Sound Of Birds And Nature \(With Rain, Forest, Creek, River, Wind, Thunder\)](https://open.spotify.com/album/2rrNOxZ5jEL4KaJUGbyzuV) | 5:16 | 2021-12-22 |  |
 | [Ambience Within](https://open.spotify.com/track/0KvIXQVhzpRfVDT3xDSUrL) | [Clayton Calm](https://open.spotify.com/artist/0nZQHwKfuzDyeTwiMDCzbn) | [A Rain Forest Walk](https://open.spotify.com/album/7vJGaKJj8PvMqYTi58Jlun) | 2:00 | 2021-12-22 |  |
 | [April Rain](https://open.spotify.com/track/7KB9VZg79SNkaBesrOOJMT) | [Beatrice Birds](https://open.spotify.com/artist/3hNMJQgn87uH4qAjdbkjUL) | [April Rain](https://open.spotify.com/album/5Dgk3JIGt2uzlxaxmNMBdY) | 2:06 | 2022-05-24 | 2024-03-28 |
 | [Bird Chatter In Rainforest](https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF) | [Natural Awakening](https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3) | [Rain Awakening](https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc) | 3:18 | 2021-12-22 |  |

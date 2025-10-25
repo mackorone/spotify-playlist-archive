@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,054 likes - 75 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,063 likes - 75 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 74 | [Daavaanal](https://open.spotify.com/track/0OMT0auLkcI34yCWZE1wvT) | [Antara Ansuna](https://open.spotify.com/artist/0l9ZEXWJf65ojEUN4goWLq), [Harsh Karmakar](https://open.spotify.com/artist/5KC5BRvLbQwTTGS1szdtrD), [Rohan Prasanna](https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X), [Mrunmay Chhavan](https://open.spotify.com/artist/1pEUFsgSuKy6VlF6cSjRzR) | [Daavaanal](https://open.spotify.com/album/18qVKvrwy14E70G2EhhLBD) | 3:32 |
 | 75 | [Piya Mosey Rooth Na Jao](https://open.spotify.com/track/6pUtyiK4nT9MBPBXsUJPex) | [Bong Connection India](https://open.spotify.com/artist/3XRETBx8uBfFWU2hAmhyq5), [Priyabrata Sharma](https://open.spotify.com/artist/2IKPJRIArwfJ193AJ1JmXU), [Samriddho Bandyopadhyay](https://open.spotify.com/artist/24vxqV2iAKldtmbXSCUYag) | [Piya Mosey Rooth Na Jao](https://open.spotify.com/album/16yhvH7L4t01TL6AE4g1Eu) | 2:38 |
 
-Snapshot ID: `AAAAADQTjDzt8maLXGg7obVp4eBSqSFu`
+Snapshot ID: `AAAAAGRQ3n4jWCS7wVRQlSwL99+O0REf`

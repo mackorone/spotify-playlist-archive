@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde \ud83c\udf0d avec Tonton Naza.",
+  "description": "Du Congo, au monde \ud83c\udf0d avec Tontons Franglish et KeBlack.",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 510382,
       "name": "207",
       "url": "https://open.spotify.com/track/6EgqrmhXNRv4v5tLdiDvde"
@@ -5867,6 +5867,24 @@
     },
     {
       "album": {
+        "name": "NO PUSH BIDNEZZ",
+        "url": "https://open.spotify.com/album/3ZxPy9ox9hFbBPDlT4CPnW"
+      },
+      "artists": [
+        {
+          "name": "Cash Crime",
+          "url": "https://open.spotify.com/artist/7ycoKUNT2nsxYHaJMJBOyn"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160910,
+      "name": "KING KESTER",
+      "url": "https://open.spotify.com/track/6Zhv93rhjjYtsJb3FWoIpe"
+    },
+    {
+      "album": {
         "name": "Kingongolo",
         "url": "https://open.spotify.com/album/6igKzBruCXx8daOXfuSy6i"
       },
@@ -7582,7 +7600,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 139047,
       "name": "Mauvais",
       "url": "https://open.spotify.com/track/3sMUHc8JRbSoIMbTzucmYF"
@@ -8176,6 +8194,32 @@
       "duration_ms": 179000,
       "name": "MOTO",
       "url": "https://open.spotify.com/track/44XhnPbTET1lEvQK8pdgoT"
+    },
+    {
+      "album": {
+        "name": "Moto na ngai",
+        "url": "https://open.spotify.com/album/3JhAeFB4XEiZ3vkVo9jzYy"
+      },
+      "artists": [
+        {
+          "name": "Zeyna Umoja",
+          "url": "https://open.spotify.com/artist/5cDfk6dxOxLd3VLIIXi7l3"
+        },
+        {
+          "name": "Kaysha",
+          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
+        },
+        {
+          "name": "Diamantero",
+          "url": "https://open.spotify.com/artist/5iT3a3R1WRSFXg9ohUVCUN"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222545,
+      "name": "Moto na ngai",
+      "url": "https://open.spotify.com/track/7mhlA4JvXMpUlylIeqT0NS"
     },
     {
       "album": {
@@ -11380,7 +11424,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 172500,
       "name": "STATION",
       "url": "https://open.spotify.com/track/5tyuajS5DiBO3G22APUPFC"

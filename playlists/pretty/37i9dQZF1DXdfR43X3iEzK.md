@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️<br/>cover: 5 seconds of summer
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,097 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,096 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 2 | [Telephone Busy](https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Telephone Busy](https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2) | 3:15 |
 | 3 | [Good Ol' Days](https://open.spotify.com/track/7BZFBA47IscACSmuGZ67On) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv) | 3:23 |
 | 4 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 |
-| 5 | [Bracing For Impact](https://open.spotify.com/track/4AcdJoArcqN1FRV7W1SJ1I) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [](https://open.spotify.com/album/null) | 3:14 |
+| 5 | [Bracing For Impact](https://open.spotify.com/track/4AcdJoArcqN1FRV7W1SJ1I) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Bracing For Impact](https://open.spotify.com/album/6yQAIt35n1JPwzIfvCxZrI) | 3:14 |
 | 6 | [Exist](https://open.spotify.com/track/4qgVEGsev0rTYjUHwpvBe9) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Exist](https://open.spotify.com/album/4hwha5LinHKoQiWtLLKnDN) | 3:11 |
 | 7 | [Reunite](https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Reunite](https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB) | 3:56 |
 | 8 | [CRANK](https://open.spotify.com/track/5lFu1VR7s2EvuKAi6qxU0G) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [CRANK](https://open.spotify.com/album/3zAXDaMbv8dr2TTw32vEnT) | 2:55 |
 | 9 | [Succession](https://open.spotify.com/track/5z36ukvizWU3XtEubO5r4b) | [vincent's last summer](https://open.spotify.com/artist/7FiGSKxy5ZCK0hzf81tjm3) | [Succession](https://open.spotify.com/album/4sv0E1Y682Uee8LEkmxKTE) | 2:18 |
 | 10 | [change your mind](https://open.spotify.com/track/2D2tnrASkskAyVKf7HULAg) | [bodydrive](https://open.spotify.com/artist/5tnWqhwxkbOnWHzTObneAc) | [change your mind](https://open.spotify.com/album/6NSAs63gZMzYZnx0KZbxdv) | 2:42 |
 | 11 | [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 |
-| 12 | [Track 6](https://open.spotify.com/track/5hwQW2iEICCaPaNThDYEbQ) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [](https://open.spotify.com/album/null) | 0:00 |
-| 13 | [as i wave goodbye](https://open.spotify.com/track/3NsnczRs7xsd7gx89w5Ufo) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [](https://open.spotify.com/album/null) | 2:26 |
+| 12 | [Forgive Forget, Pt\. 1](https://open.spotify.com/track/5hwQW2iEICCaPaNThDYEbQ) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [The Fault Is Mine](https://open.spotify.com/album/44fChYO2kcJq8iXFHH7CVW) | 2:51 |
+| 13 | [as i wave goodbye](https://open.spotify.com/track/3NsnczRs7xsd7gx89w5Ufo) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [LOVERCORE](https://open.spotify.com/album/75FM00r9Lgdi0YHv7vvzzB) | 2:26 |
 | 14 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
 | 15 | [Will You Think Of Me?](https://open.spotify.com/track/4hayZUGO3xFqhikvPyoVRg) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Will You Think Of Me?](https://open.spotify.com/album/4CVNnBnDDViyB1vs6QCsqK) | 3:09 |
 | 16 | [I WANT MORE](https://open.spotify.com/track/2CxgHkkt1QppKDyUBS5Iw3) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [I WANT MORE](https://open.spotify.com/album/33dtZJjwbOEdwmyJzKFUOI) | 2:27 |

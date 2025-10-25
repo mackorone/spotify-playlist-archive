@@ -341,6 +341,28 @@
     },
     {
       "album": {
+        "name": "A hist\u00f3ria da nossa l\u00edngua",
+        "url": "https://open.spotify.com/album/62n6upnCeTwn0P1n77kAIm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286869,
+      "name": "A hist\u00f3ria da nossa l\u00edngua",
+      "url": "https://open.spotify.com/track/5Lw3gwWGtaZ2mHbdKL8kbF"
+    },
+    {
+      "album": {
         "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
         "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
       },
@@ -1806,7 +1828,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 203827,
       "name": "aprender a perder",
       "url": "https://open.spotify.com/track/0zkftqXT4ROiEWwKEOMs8b"
@@ -3354,6 +3376,24 @@
       "duration_ms": 205640,
       "name": "BOSSA (feat. P\u00e9ricles)",
       "url": "https://open.spotify.com/track/1ueVf1rPWSALnfLdenJZUq"
+    },
+    {
+      "album": {
+        "name": "Botucatu",
+        "url": "https://open.spotify.com/album/5M1oyuqRTjRFppGZ9pfLyH"
+      },
+      "artists": [
+        {
+          "name": "Tom Ribeira",
+          "url": "https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162333,
+      "name": "Botucatu",
+      "url": "https://open.spotify.com/track/3C94btpZ1mmmVY9oBFQflj"
     },
     {
       "album": {
@@ -8517,6 +8557,24 @@
     },
     {
       "album": {
+        "name": "Let It Burn / Deixa Arder",
+        "url": "https://open.spotify.com/album/7yu9tBaLdNgumcDuSE3uc9"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290986,
+      "name": "Hora H",
+      "url": "https://open.spotify.com/track/2zjX4zxJWkaADRK4sYbYLM"
+    },
+    {
+      "album": {
         "name": "Hor\u00e1rio de Ver\u00e3o",
         "url": "https://open.spotify.com/album/4vuhEACTlSTCxAp3JGLvxA"
       },
@@ -13301,6 +13359,24 @@
     },
     {
       "album": {
+        "name": "O Vento",
+        "url": "https://open.spotify.com/album/2GuQWKQDral2TTSywYtOw3"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296774,
+      "name": "O Vento",
+      "url": "https://open.spotify.com/track/3lBQcsRgxcflvTJl6Wu84T"
+    },
+    {
+      "album": {
         "name": "Odara",
         "url": "https://open.spotify.com/album/68BpQSK0Xtpshitrc2IAL4"
       },
@@ -13562,7 +13638,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 305842,
       "name": "Ouro",
       "url": "https://open.spotify.com/track/4GB8Tj1FyZiBnptaFqwrpb"
@@ -16880,7 +16956,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 215005,
       "name": "Rota",
       "url": "https://open.spotify.com/track/2PfuIcBIEvArGhn10S46Rc"
@@ -20678,7 +20754,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 190933,
       "name": "Uma Semente - Ao Vivo",
       "url": "https://open.spotify.com/track/7pQPYpykSxaQ9zjt78Mi2K"

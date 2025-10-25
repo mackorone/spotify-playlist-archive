@@ -2,7 +2,7 @@
 
 ### [Indie's Top 50](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> A delicious mix of new songs in high rotation\. Cover: Geese
+> A delicious mix of new songs in high rotation\. Cover: Not for Radio \(María Zardoya\)
 
 2,971 songs - 7 day 11 hr 52 min
 

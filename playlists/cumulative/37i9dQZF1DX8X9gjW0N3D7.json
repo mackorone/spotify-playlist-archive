@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Gabriel Fredette",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: King Melrose",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -206,7 +206,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 178806,
       "name": "Ballon-sonde",
       "url": "https://open.spotify.com/track/1jYGkYSvLe066L9eb4yz6X"
@@ -286,6 +286,24 @@
       "duration_ms": 157324,
       "name": "Booze",
       "url": "https://open.spotify.com/track/3p1a1CDkjJntRBIPheG2AM"
+    },
+    {
+      "album": {
+        "name": "Toujours les vacances",
+        "url": "https://open.spotify.com/album/29TWdLzC9Xaj30m5ZJ3XK3"
+      },
+      "artists": [
+        {
+          "name": "Les Trois Accords",
+          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160542,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/6RDOSs73FPXkimyhJrrR8j"
     },
     {
       "album": {
@@ -991,6 +1009,28 @@
     },
     {
       "album": {
+        "name": "Demain \u00e7a ira",
+        "url": "https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU"
+      },
+      "artists": [
+        {
+          "name": "Mah\u00e9ja",
+          "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163374,
+      "name": "Demain \u00e7a ira",
+      "url": "https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE"
+    },
+    {
+      "album": {
         "name": "Derri\u00e8re le jour",
         "url": "https://open.spotify.com/album/3voXYeH3wpX4b1UDzo5rhu"
       },
@@ -1244,7 +1284,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 180480,
       "name": "Fake Friends",
       "url": "https://open.spotify.com/track/6uMWNX0hKdWr1hJckauIub"
@@ -1316,7 +1356,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 182080,
       "name": "FMLP",
       "url": "https://open.spotify.com/track/6ChkBaOFS8J3oxFdF1iG8G"
@@ -1410,7 +1450,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 174246,
       "name": "Garde-Malade",
       "url": "https://open.spotify.com/track/0qB5KfAWmhEnQmxs85GJ1m"
@@ -1937,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "J\u2019aime comment tu bouges",
+        "url": "https://open.spotify.com/album/1gLAZj3BB9i704dYskKpdM"
+      },
+      "artists": [
+        {
+          "name": "Claude B\u00e9gin",
+          "url": "https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161803,
+      "name": "J\u2019aime comment tu bouges",
+      "url": "https://open.spotify.com/track/5TDba73bdGBCXkQMMc2WPL"
+    },
+    {
+      "album": {
         "name": "J'aime \u00e7a quand t'es l\u00e0",
         "url": "https://open.spotify.com/album/1mOornzvaAXe4EhoJ2rNik"
       },
@@ -2053,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "La Chute",
+        "url": "https://open.spotify.com/album/51P1ac3pkDzLc4GrkpVqJK"
+      },
+      "artists": [
+        {
+          "name": "La Fuite",
+          "url": "https://open.spotify.com/artist/4ZiHDCHZb5rGAmIzJTUAFS"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187026,
+      "name": "La Chute",
+      "url": "https://open.spotify.com/track/374jcJaBX089EaTo5qm8Qp"
+    },
+    {
+      "album": {
         "name": "Pub Royal",
         "url": "https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U"
       },
@@ -2154,7 +2230,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 264973,
       "name": "La plus belle fille du moshpit",
       "url": "https://open.spotify.com/track/3Lsgo4IPjVYp6jh93y473Y"
@@ -2772,6 +2848,24 @@
       "duration_ms": 269141,
       "name": "Ma valise",
       "url": "https://open.spotify.com/track/2GAxjfjH7Xzib3y3I8IUtj"
+    },
+    {
+      "album": {
+        "name": "Mal de peau",
+        "url": "https://open.spotify.com/album/4jwwAh3CUtb1P8Peki4Xnl"
+      },
+      "artists": [
+        {
+          "name": "Edouard",
+          "url": "https://open.spotify.com/artist/5vDfB8LRE7QFSc974RS17k"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179980,
+      "name": "Mal de peau",
+      "url": "https://open.spotify.com/track/2Xmp4mmSVp2TUbM399n7FN"
     },
     {
       "album": {
@@ -3548,7 +3642,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 156878,
       "name": "Replay",
       "url": "https://open.spotify.com/track/3Fu2ct0KmhS0Fg8gnUNpix"
@@ -3609,6 +3703,24 @@
     },
     {
       "album": {
+        "name": "R\u00e9troviseur",
+        "url": "https://open.spotify.com/album/7nnzgHc9ovH90uTiFbKA0R"
+      },
+      "artists": [
+        {
+          "name": "Simon Harnois",
+          "url": "https://open.spotify.com/artist/5UnrKWsKqmICZmyIv770Mf"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204152,
+      "name": "R\u00e9troviseur",
+      "url": "https://open.spotify.com/track/1wSc9EIjX3JMvQLcxEdPI0"
+    },
+    {
+      "album": {
         "name": "R\u00e9volution (la chanson) [Radio \u00c9dith]",
         "url": "https://open.spotify.com/album/5wIp1O2uO8bDaiMRuC3SeB"
       },
@@ -3642,6 +3754,24 @@
       "duration_ms": 209840,
       "name": "Sarah",
       "url": "https://open.spotify.com/track/626vFZjPFRPHnjAha24UKW"
+    },
+    {
+      "album": {
+        "name": "Sauver les meubles",
+        "url": "https://open.spotify.com/album/0TJFSzQc9qquAM11aPfbbT"
+      },
+      "artists": [
+        {
+          "name": "Catherine Dagenais",
+          "url": "https://open.spotify.com/artist/5Jp5qU8P2cPohe5qVShPaq"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279466,
+      "name": "Sauver les meubles",
+      "url": "https://open.spotify.com/track/2T4JNScUoYDhRSDe1auC5L"
     },
     {
       "album": {
@@ -3902,7 +4032,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 165490,
       "name": "T'\u00e9tais o\u00f9?",
       "url": "https://open.spotify.com/track/4XeX8X5VtMMevrWaiKqEzq"
@@ -4072,7 +4202,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 198342,
       "name": "Toujours les vacances",
       "url": "https://open.spotify.com/track/6LQwA4Y3JoX8ka0khKJ8DM"
@@ -4202,7 +4332,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 233920,
       "name": "Toutes tes idoles",
       "url": "https://open.spotify.com/track/7LUjWB8H1Zy7rVyd5G4N8L"
@@ -4401,6 +4531,36 @@
     },
     {
       "album": {
+        "name": "Where The Road Goes From Two Lanes Down To One",
+        "url": "https://open.spotify.com/album/2VUnmO2J4NM9PlYtg1RAoX"
+      },
+      "artists": [
+        {
+          "name": "Julie Doiron",
+          "url": "https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT"
+        },
+        {
+          "name": "Michael Feuerstack",
+          "url": "https://open.spotify.com/artist/3hQGWHGSGwXM8bY7i884Ey"
+        },
+        {
+          "name": "Land of Talk",
+          "url": "https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo"
+        },
+        {
+          "name": "Dany Placard",
+          "url": "https://open.spotify.com/artist/5sjde1NFxsXN9EjZyMbhHp"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369718,
+      "name": "Where The Road Goes From Two Lanes Down To One",
+      "url": "https://open.spotify.com/track/6paLrQ1OBvr1NSKuoWsUzf"
+    },
+    {
+      "album": {
         "name": "\u00c0 l'envers",
         "url": "https://open.spotify.com/album/4jMPq40oVFbvtZIl5GWoRT"
       },
@@ -4474,6 +4634,24 @@
       "duration_ms": 129444,
       "name": "\u00c0 quoi \u00e7a sert",
       "url": "https://open.spotify.com/track/1X1jHwpaEoFSAldrDyg2AO"
+    },
+    {
+      "album": {
+        "name": "\u00c0 toi",
+        "url": "https://open.spotify.com/album/1y3Jp3o9MA6k1wpWX2vQV1"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "\u00c0 toi",
+      "url": "https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd"
     },
     {
       "album": {

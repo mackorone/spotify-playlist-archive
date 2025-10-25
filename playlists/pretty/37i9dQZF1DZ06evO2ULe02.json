@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 1842,
+  "num_followers": 1843,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAAAgMk2LZlV+fTyd5EUKWvV2",
+  "snapshot_id": "aPlwAAAAAAC1ifrv6gLrRPxQMUP3xwi5",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Communication",
+        "url": "https://open.spotify.com/album/7yAAlqMy8h1dKS3K8TBRYb"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 187263,
+      "name": "Communication",
+      "url": "https://open.spotify.com/track/0s2AQhkfFb9EM9tz5s64lA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grocery Store Girl",
         "url": "https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 153773,
       "name": "Wish It Was Me",
       "url": "https://open.spotify.com/track/5znIh3KjSph3m7wCJsGgRY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Communication",
-        "url": "https://open.spotify.com/album/7yAAlqMy8h1dKS3K8TBRYb"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 187263,
-      "name": "Communication",
-      "url": "https://open.spotify.com/track/0s2AQhkfFb9EM9tz5s64lA"
     },
     {
       "added_at": null,

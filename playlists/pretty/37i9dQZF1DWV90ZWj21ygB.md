@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 
 > Relax to the roaring sound of crashing waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,750 likes - 200 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,826 likes - 200 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

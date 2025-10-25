@@ -2,9 +2,9 @@
 
 ### [Country Worldwide](https://open.spotify.com/playlist/37i9dQZF1DX7hnECllVaUq)
 
-> The biggest hits from country artists around the globe\. Cover: Brad Cox
+> The biggest hits from country artists around the globe\. Cover: James Johnston
 
-220 songs - 12 hr 13 min
+221 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,8 +131,9 @@
 | [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 | 2023-03-31 | 2024-09-14 |
 | [On My Own Again](https://open.spotify.com/track/3S75Qwx2CglNQclN4ygDsL) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [On My Own Again](https://open.spotify.com/album/7Dey6LRAnUbORRWyu8D7Va) | 2:58 | 2023-03-31 | 2023-07-08 |
 | [On My Own Again](https://open.spotify.com/track/7I5wXK9J0legvm0z3YUMMS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Life Upside Down EP](https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr) | 2:58 | 2023-08-03 | 2023-09-30 |
-| [One Beer Away](https://open.spotify.com/track/509iAaGTjgOuCnmYfSr9jk) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [One Beer Away](https://open.spotify.com/album/4PrVEVTs11WAhVm1k4Q7pd) | 3:38 | 2024-06-28 |  |
+| [One Beer Away](https://open.spotify.com/track/509iAaGTjgOuCnmYfSr9jk) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [One Beer Away](https://open.spotify.com/album/4PrVEVTs11WAhVm1k4Q7pd) | 3:38 | 2024-06-28 | 2025-10-25 |
 | [One Man Band](https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:06 | 2024-09-13 |  |
+| [ONE MORE](https://open.spotify.com/track/6NSoFwlKHCQV0yKfcEQxDj) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [WHERE YOU'LL FIND ME](https://open.spotify.com/album/3XYF72bBKt5XbmIoqjWhbb) | 2:49 | 2025-10-24 |  |
 | [One Of Them Girls](https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [One Of Them Girls](https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp) | 3:08 | 2023-03-31 | 2024-09-21 |
 | [One Too Many](https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [One Too Many](https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9) | 3:23 | 2023-03-31 | 2024-09-14 |
 | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ) | 3:28 | 2024-09-13 | 2025-06-25 |

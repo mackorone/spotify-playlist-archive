@@ -3589,6 +3589,24 @@
     },
     {
       "album": {
+        "name": "PIRRI",
+        "url": "https://open.spotify.com/album/4DWUUTlu2iKVG56uK3WIhB"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192214,
+      "name": "PIRRI",
+      "url": "https://open.spotify.com/track/4PKnU6PICOeVRSJYVYDBDz"
+    },
+    {
+      "album": {
         "name": "Por qu\u00e9 te quiero tanto?",
         "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
       },
@@ -3962,7 +3980,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-25",
       "duration_ms": 205440,
       "name": "Sad Lullaby",
       "url": "https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY"

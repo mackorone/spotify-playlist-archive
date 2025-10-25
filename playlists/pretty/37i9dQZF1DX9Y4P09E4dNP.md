@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > The big Hip\-Life hits rn\. Cover: AratheJay
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,437 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,475 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 49 | [Messiah](https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Messiah](https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx) | 2:44 |
 | 50 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 |
 
-Snapshot ID: `AAAAAOHnnS7GPO0FnQjfSmtf97SB7EVE`
+Snapshot ID: `AAAAAPE9RJsiYnkdBbGxjbgdJGKPyNNn`

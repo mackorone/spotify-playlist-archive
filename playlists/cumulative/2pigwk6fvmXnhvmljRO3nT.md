@@ -4,7 +4,7 @@
 
 > 
 
-7,835 songs - 20 day 5 hr 19 min
+7,836 songs - 20 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7196,6 +7196,7 @@
 | [優しさ](https://open.spotify.com/track/0f3Ce9xjHymExIpEyHUC8D) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 4:00 | 2025-01-03 |  |
 | [優しさに溢れた世界で](https://open.spotify.com/track/2mRMcwDCNyYvBXaoUxmsmE) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [サニーボトル](https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew) | 4:18 | 2025-01-15 |  |
 | [優しさの理由](https://open.spotify.com/track/0HXk4XpvZCCltHWeXZe1zb) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [優しさの理由](https://open.spotify.com/album/1aeT8dhSsfW3EFk1c44BWO) | 4:15 | 2024-12-14 |  |
+| [光\-HIKARI\-](https://open.spotify.com/track/5Vmha5gd1H4CinvlwkHX7J) | [Vivid](https://open.spotify.com/artist/0YL9iarD6vecICF3Yt3eOd) | [THE PENDULUM](https://open.spotify.com/album/0egSzChl5AQorTmlt6j7qz) | 4:08 | 2025-10-25 |  |
 | [光るなら](https://open.spotify.com/track/6FvC8pJN0uZcWJKzihjACb) | [Goose house](https://open.spotify.com/artist/7BzEKSgHp2yrNC6w5NkFhQ) | [Milk](https://open.spotify.com/album/6vWMX6xQqJnPuNn6nbe0ff) | 4:12 | 2025-01-03 |  |
 | [全力少年](https://open.spotify.com/track/3Ztjw8utVpcrzms1RrsJvR) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [空創クリップ](https://open.spotify.com/album/1FNUB07yBe3CJwXUQQoOdh) | 4:32 | 2025-01-15 |  |
 | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 2:53 | 2025-05-29 |  |

@@ -4,7 +4,7 @@
 
 > NSFW
 
-167 songs - 8 hr 25 min
+168 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [6th Heaven](https://open.spotify.com/track/25iO8OFr0spWQlbEOX4gE6) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [6th Heaven](https://open.spotify.com/album/3x6LyrVuG7DCWHNPab60rm) | 3:59 | 2024-02-09 | 2024-06-21 |
 | [Aabidi](https://open.spotify.com/track/5wpdQnxFPhhSCSO5FyL6NL) | [Teledalase](https://open.spotify.com/artist/3Wxvmox8BfrWr7vJDKezHe) | [Aabidi](https://open.spotify.com/album/7s4LoCPOHaqSAIBzMCPQ2F) | 4:33 | 2025-02-14 | 2025-03-22 |
 | [Addict](https://open.spotify.com/track/4QllNTTcfilJCmYGM7bJtw) | [Sarnilo](https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C), [Mzwaa](https://open.spotify.com/artist/0mebykC539Ik5ijTNBY1FJ) | [Addict](https://open.spotify.com/album/6VCFjahARQWF0GW9mEUf7I) | 3:36 | 2024-06-28 | 2024-10-13 |
+| [After Hours](https://open.spotify.com/track/3is6Q8mrAvLC1gF2TFnYDq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Shana / After Hours](https://open.spotify.com/album/0cQk9my70QfKEYMJuAr9UQ) | 2:32 | 2025-10-24 |  |
 | [All The Way](https://open.spotify.com/track/0MxWBWLNPdNWtIOgTHD9hO) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA), [Robin Rozay](https://open.spotify.com/artist/3p5fc6bu54bLBRlv6ZbWlV) | [YOU WILL KNOW MY NAME](https://open.spotify.com/album/3BL6PeAQwWi2vwrj8wfI87) | 2:47 | 2024-03-01 | 2024-04-19 |
 | [ALTé GIRLS XOXO](https://open.spotify.com/track/54E9z0hKFzsMfvyW8vO4fw) | [BLAKBOYKAY](https://open.spotify.com/artist/0bf9exCyt4DiZQ3vszlc0b) | [Things We Do For Love](https://open.spotify.com/album/7n0A8zB1plk7HQcXKtzYvP) | 2:50 | 2025-07-04 | 2025-09-05 |
 | [Attention](https://open.spotify.com/track/16jBRxCexHXzOlBG0RApsQ) | [Cheska Cruz](https://open.spotify.com/artist/2bNO8PVe01PX6gdmkvuPDZ), [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY) | [Temper & Pleasure](https://open.spotify.com/album/51XN4vPEjkVIIZx4WhR9xY) | 2:26 | 2025-05-09 | 2025-08-15 |
@@ -135,7 +136,7 @@
 | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Ocean Banks](https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK) | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 | 2025-07-18 |  |
 | [Some More](https://open.spotify.com/track/7qZOtiN7oiDpKqEVW7szZc) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Some More](https://open.spotify.com/album/6hpBTb0X11p3Tp3hVtf09C) | 2:02 | 2025-10-10 |  |
 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 | 2024-08-30 | 2025-07-18 |
-| [Soul Ties \(Demo\)](https://open.spotify.com/track/7iDCTx1dbazhd1s7c0tbRK) | [Riki Gathariki](https://open.spotify.com/artist/5Ke08pmn00O34s78yQG5Ko), [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP) | [Soul Ties \(Demo\)](https://open.spotify.com/album/5xvImUpMk8qnHXmYllXiy1) | 3:13 | 2025-05-16 |  |
+| [Soul Ties \(Demo\)](https://open.spotify.com/track/7iDCTx1dbazhd1s7c0tbRK) | [Riki Gathariki](https://open.spotify.com/artist/5Ke08pmn00O34s78yQG5Ko), [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP) | [Soul Ties \(Demo\)](https://open.spotify.com/album/5xvImUpMk8qnHXmYllXiy1) | 3:13 | 2025-05-16 | 2025-10-25 |
 | [Spread](https://open.spotify.com/track/7e5lyttNzqSHgK3LiHDSFs) | [SYEMCA](https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa) | [BIPOLAR](https://open.spotify.com/album/4rjnYqHrPb6zd6kARIMQat) | 2:19 | 2025-04-11 |  |
 | [Stuck Inside](https://open.spotify.com/track/5l0YvtHzzyNPJ4rAiw9tYT) | [Play Nice](https://open.spotify.com/artist/1ghxd86r7phiK0vgytiGkh), [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z), [Bowtye](https://open.spotify.com/artist/0wms98WJkHZ4bT7Cmo7FVe), [J.Robb](https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m), [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Home Buddies](https://open.spotify.com/album/5HVCOmfEypAFVDbUatTywe) | 1:55 | 2024-02-09 | 2024-03-01 |
 | [Suh Good](https://open.spotify.com/track/2ArkqDS78Ro7JOeidqzVTS) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Suh Good](https://open.spotify.com/album/1l8jGRft5ufwHFYR0sPkeu) | 2:29 | 2024-12-06 | 2025-03-22 |

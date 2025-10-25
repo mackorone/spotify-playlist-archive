@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Más vivo que nunca, más nuestro que siempre 📸 Charly Garcia & Sting
+> Más vivo que nunca, más nuestro que siempre 📸 Winona Riders
 
-422 songs - 1 day 2 hr 12 min
+423 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Sos la muerte del Rock](https://open.spotify.com/track/1cj6Y3dcGZ3nkOLeq48KwK) | [Andrea Álvarez](https://open.spotify.com/artist/3yqDlJ3CJ7ke94UNVqKE7n), [Lonnie Hillyer](https://open.spotify.com/artist/4I5JOqmSw3rmws7FxLPP6P), [Tomás Brugués](https://open.spotify.com/artist/1vh2HYwdjMQa0dcTNP3MjO) | [Sos la muerte del Rock](https://open.spotify.com/album/6dj7RmhfseRbViFt3mPivV) | 3:19 | 2024-06-28 | 2024-10-19 |
 | [Submundo](https://open.spotify.com/track/6lziQfVDLY8gocJpkNMgCQ) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Submundo](https://open.spotify.com/album/0he4TYaI16gMtXhlJiHn8d) | 4:06 | 2025-08-01 | 2025-09-13 |
 | [Such A Witch](https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Such A Witch](https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr) | 4:02 | 2024-08-02 | 2024-09-21 |
+| [Sucios para jugar](https://open.spotify.com/track/38pegz5qTwVXZvgk0dkaax) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Quiero que lo que yo te diga sea un arma en tu arsenal](https://open.spotify.com/album/4gKa7wOYqksh8CshKQd9yT) | 3:42 | 2025-10-24 |  |
 | [Suelto](https://open.spotify.com/track/6pCeEWCyIlOuwG5J3q2pKP) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Suelto](https://open.spotify.com/album/1Mb36xDeCUR5xmgIEt869k) | 3:43 | 2022-06-24 | 2023-09-23 |
 | [Suerte](https://open.spotify.com/track/45i5W1vz9hd0Msl6YjNJHO) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Suerte](https://open.spotify.com/album/4CT2Ci1lR8I4bjnd4nZyUB) | 3:03 | 2022-06-24 | 2022-07-09 |
 | [Superextraño](https://open.spotify.com/track/3PqIjhaeM3EHhKcRsILaxB) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Superextraño](https://open.spotify.com/album/2kBcpKY13cIwUQDMrvrFrR) | 3:41 | 2025-02-28 | 2025-09-13 |

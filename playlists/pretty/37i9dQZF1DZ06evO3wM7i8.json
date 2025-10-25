@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 35137,
+  "num_followers": 35148,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAABD7UhvdLHLgflrqvH79CuP",
+  "snapshot_id": "aPlwAAAAAADTeXozGHSXSBT5n7szf4wj",
   "tracks": [
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Django Reinhardt",
-        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+        "name": "Djangologie Vol7 / 1937 - 1938",
+        "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
       },
       "artists": [
         {
@@ -492,13 +492,13 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         },
         {
-          "name": "Rex Stewart",
-          "url": "https://open.spotify.com/artist/0Tb8S5bNKO7nZV1eunOwZa"
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
         }
       ],
-      "duration_ms": 145973,
-      "name": "Montmartre",
-      "url": "https://open.spotify.com/track/0XX4H46p4ahalPWzLz1zrr"
+      "duration_ms": 194400,
+      "name": "Farewell Blues",
+      "url": "https://open.spotify.com/track/18UTGJRLXYN0MwH1UeZUF0"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangologie Vol7 / 1937 - 1938",
-        "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
+        "name": "The Best Of Django Reinhardt",
+        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
       },
       "artists": [
         {
@@ -528,13 +528,13 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         },
         {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+          "name": "Rex Stewart",
+          "url": "https://open.spotify.com/artist/0Tb8S5bNKO7nZV1eunOwZa"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Farewell Blues",
-      "url": "https://open.spotify.com/track/18UTGJRLXYN0MwH1UeZUF0"
+      "duration_ms": 145973,
+      "name": "Montmartre",
+      "url": "https://open.spotify.com/track/0XX4H46p4ahalPWzLz1zrr"
     },
     {
       "added_at": null,
@@ -731,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Djangologie Vol.2 / 1936 - 1937",
+        "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "duration_ms": 171106,
+      "name": "Nagasaki",
+      "url": "https://open.spotify.com/track/5zS3m7o4vo7ppWbc5sMjyS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djangology (feat. St\u00e9phane Grappelli)",
         "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 165533,
       "name": "Djangology (feat. St\u00e9phane Grappelli) - Remastered 2002",
       "url": "https://open.spotify.com/track/4RFwUXbps30lKnOmJ8BrQh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol.2 / 1936 - 1937",
-        "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "Nagasaki",
-      "url": "https://open.spotify.com/track/5zS3m7o4vo7ppWbc5sMjyS"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangologie Vol.12 / 1940 - 1941",
-        "url": "https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Swing 42",
-      "url": "https://open.spotify.com/track/3n9LOtOJRK0dpGUhfFoaqj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djangology (feat. St\u00e9phane Grappelli)",
         "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 207960,
       "name": "I Saw Stars (feat. St\u00e9phane Grappelli) - Remastered 2002",
       "url": "https://open.spotify.com/track/7bK6vG5VbBtSbr831Fgsi5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djangologie Vol.12 / 1940 - 1941",
+        "url": "https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "Swing 42",
+      "url": "https://open.spotify.com/track/3n9LOtOJRK0dpGUhfFoaqj"
     },
     {
       "added_at": null,

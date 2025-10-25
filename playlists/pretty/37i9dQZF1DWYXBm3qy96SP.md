@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Oasis
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,827 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,826 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 3 | [Telephone Busy](https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Telephone Busy](https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2) | 3:15 |
 | 4 | [Wassup Rockers](https://open.spotify.com/track/1AOGe5TsKzahu1sgC1Zlce) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Wassup Rockers](https://open.spotify.com/album/5QYwmZRMhVHpwcB0UYMlBf) | 2:30 |
 | 5 | [ALL MY ANGELS](https://open.spotify.com/track/1U3UoJ4VxuTI8mlD4zOI8x) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ALL MY ANGELS](https://open.spotify.com/album/6r1dO7jcuNo8xP4mESY0Er) | 3:01 |
-| 6 | [Living in Paradise \(with Avril Lavigne\)](https://open.spotify.com/track/798hR8Q0YSE2J7RnhVCZdj) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [](https://open.spotify.com/album/null) | 3:16 |
+| 6 | [Living in Paradise \(with Avril Lavigne\)](https://open.spotify.com/track/798hR8Q0YSE2J7RnhVCZdj) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Forever \(Legendary Edition\)](https://open.spotify.com/album/2eWMDbh3Igz3si1aX4a7Wv) | 3:16 |
 | 7 | [Sugar \(feat JoJo\)](https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 3:00 |
 | 8 | [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 |
 | 9 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 12 | [Don't Look Back in Anger \- Remastered](https://open.spotify.com/track/7CFtETSUSwSG6GJANWh4Bn) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? : 30th Anniversary Deluxe Edition](https://open.spotify.com/album/2QYS9wqvT9ZYLcphzyuFS6) | 4:49 |
 | 13 | [遥か彼方 \(2024 ver.\)](https://open.spotify.com/track/5mZGmMnM99YI70hvqBlViY) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [遥か彼方 \(2024 ver.\)](https://open.spotify.com/album/4dWjVtltGW5YsDIqegCcAM) | 4:02 |
 | 14 | [S'il vous plait](https://open.spotify.com/track/6NeSiZokIiQwJaqAID41Vy) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [ITEKOMA HITS](https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4) | 2:15 |
-| 15 | [OPTIMIZE](https://open.spotify.com/track/1s8PGnCoTjzcsp3OoDw6tG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [](https://open.spotify.com/album/null) | 3:57 |
+| 15 | [OPTIMIZE](https://open.spotify.com/track/1s8PGnCoTjzcsp3OoDw6tG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [OPTIMIZE](https://open.spotify.com/album/1MsPJsZSrBUsqTDPCx1050) | 3:57 |
 | 16 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 |
 | 17 | [i don't get by](https://open.spotify.com/track/2KJpSFMU97fCWCzeU0BgG8) | [nose noise](https://open.spotify.com/artist/4fB6GNiroI0XGLmXj4NXkf) | [TOM](https://open.spotify.com/album/6UFjJeOlFuKy6GD4lLeMg1) | 4:46 |
 | 18 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 |

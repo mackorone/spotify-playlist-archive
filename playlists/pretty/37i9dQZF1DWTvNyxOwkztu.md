@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,015,090 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,015,030 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Morning Workout](https://open.spotify.com/track/4ZWO4l9zqiT7S35qjvusjE) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Morning Workout](https://open.spotify.com/album/1rkT9Y5aXjnyBW44DhAh2L) | 2:42 |
 | 100 | [Heaven](https://open.spotify.com/track/715a5BoI21BDN8GNbrJJ8G) | [fuse.](https://open.spotify.com/artist/7yLOR62W5h5j5Y4M8nHnAY) | [Heaven](https://open.spotify.com/album/1ZK9E83HhkuDmcqG8kXL51) | 2:16 |
 
-Snapshot ID: `AAAAAB6AjVrvKvrBxx608SqDKv3oxYQu`
+Snapshot ID: `AAAAACQBEvUNzhxRBRQkiOr2gHxNwn4X`

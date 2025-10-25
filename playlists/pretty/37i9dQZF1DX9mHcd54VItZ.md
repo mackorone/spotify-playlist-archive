@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Sophia Frank & Erin Elliot
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,154 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,169 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Birthday Cake](https://open.spotify.com/track/7Ap0N29kpLfa1FDW8jmQZB) | [Erin Elliot](https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1), [Sophia Frank](https://open.spotify.com/artist/4nZbINVWefKfXEpQPkSSe3) | [Birthday Cake](https://open.spotify.com/album/692eJE2pILzXLuS4W3ba6t) | 3:35 |
 | 2 | [Fake It](https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Finding Beauty In Negative Spaces \(Bonus Track Version\)](https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo) | 3:13 |
-| 3 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [](https://open.spotify.com/album/null) | 3:21 |
+| 3 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [THOSE WHO ARE AGAINST US ALL THE TIME](https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK) | 3:21 |
 | 4 | [Insecure Meisies](https://open.spotify.com/track/3DKD5cBeHWnLgXh60317vS) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Insecure Meisies](https://open.spotify.com/album/18J2iHoPYYYPci1BiNeR34) | 3:11 |
 | 5 | [Hoe Nou?](https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS), [Johan Viljoen](https://open.spotify.com/artist/5sLYgGnmf2ra6V7hLHbvG8) | [Hoe Nou?](https://open.spotify.com/album/0V6lrn2sG7eTXkJitsPjDC) | 2:59 |
 | 6 | [Immergroen](https://open.spotify.com/track/1DGsEvO8jHMwuZ5EVVh5zM) | [Joshua Na Die Reën](https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW), [Seuns van Vlug](https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE) | [Immergroen](https://open.spotify.com/album/78vTENLVOhq8juVKS5Mg8i) | 4:10 |

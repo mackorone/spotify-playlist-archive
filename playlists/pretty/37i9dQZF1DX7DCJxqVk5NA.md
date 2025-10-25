@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 
 > HBCU Anthems! Curated by Delaware State University's own <a href="spotify:artist:2qAwMsiIjTzlmfAkXKvhVA">Armani White</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,432 likes - 61 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,495 likes - 61 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 | 60 | [Lotus Flower Bomb \(feat\. Miguel\)](https://open.spotify.com/track/3MAgQuClHcAV8E9CbeBS6f) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Ambition](https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6) | 3:33 |
 | 61 | [OOOUUU](https://open.spotify.com/track/7JYsArznYOjX2jsrT3UEnL) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory](https://open.spotify.com/album/23Fvpx2T1drg9lJ4WC0fXl) | 3:54 |
 
-Snapshot ID: `AAAAADqCsnC79Gypxa59/QJrhHVABxdm`
+Snapshot ID: `AAAAAP89RNpTj0T2MvYwp2rJwY38mhy/`

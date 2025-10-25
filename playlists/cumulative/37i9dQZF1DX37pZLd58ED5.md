@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-266 songs - 13 hr 54 min
+267 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Sto xso \(feat\. ENRI\) \- prod\. ENRI](https://open.spotify.com/track/76GgN6b7Q9ZxksGwxnHV6g) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [ENRI](https://open.spotify.com/artist/0nTiVmLV81WoBJO8FW6bed) | [Teoria Del Contrario Mixtape Vol\. 2](https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx) | 3:13 | 2023-03-17 | 2023-05-26 |
 | [Straniero \(feat\. Tedua\)](https://open.spotify.com/track/4nKyIs9RnHzRJSyM5x7BEU) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 2:56 | 2023-11-30 | 2025-10-17 |
 | [STUPIDO](https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:07 | 2022-04-28 |  |
+| [Superstite](https://open.spotify.com/track/5WfBKsWx0hxCEsviZ5QVqk) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [La bella confusione](https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO) | 3:33 | 2025-10-24 |  |
 | [Svuotatasche](https://open.spotify.com/track/4cF8xXRteGQypocjEOtdAd) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 3:51 | 2022-04-28 | 2022-05-20 |
 | [Tanti Soldi \(feat\. Geolier\)](https://open.spotify.com/track/0omPQQDtT8c1UZ5n7cVNFS) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 3:33 | 2023-11-30 | 2023-12-15 |
 | [TASTO DOLENTE](https://open.spotify.com/track/6vRbAMXqJcnOxcn8rEYjkw) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Achille G](https://open.spotify.com/artist/7vMpOECMoeSUhj7gARuii1) | [TASTO DOLENTE](https://open.spotify.com/album/56Vc6dnUSbvpkVIGlsVXu4) | 2:30 | 2025-10-03 |  |

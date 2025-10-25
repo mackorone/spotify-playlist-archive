@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 
 > Dive into Chopin's greatest works for the piano, from solo études to full\-blown concertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,452 likes - 96 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 527 likes - 96 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 | 95 | [Chopin: Fantasy on Polish Airs, Op\. 13](https://open.spotify.com/track/00wHoETjCPnZzYxlgUzUTQ) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Garrick Ohlsson](https://open.spotify.com/artist/6OZmjtuzO1FCcPQ6kdPF5x), [Polish National Radio Symphony Orchestra](https://open.spotify.com/artist/62QURushyB5wug2XPwajwK), [Jerzy Maksymiuk](https://open.spotify.com/artist/2EGK18Dwe9ylcNRgGr56mX) | [The Complete Chopin Edition \- 200th anniversary](https://open.spotify.com/album/4TElSlyYEGfax0WDQn4Fox) | 14:28 |
 | 96 | [24 Preludes, Op\. 28: No\. 1 in C Major](https://open.spotify.com/track/6UlYfU3dCqFXKCOIcfTrb9) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Preludes](https://open.spotify.com/album/4iYwCjvCuY590kRhaBAHbW) | 0:41 |
 
-Snapshot ID: `AAAAAJaEZ6Iqt65k0ff6ka6lo7lkjKbE`
+Snapshot ID: `AAAAAP4RMpda6LPqLN/zBKikANU+iEDn`

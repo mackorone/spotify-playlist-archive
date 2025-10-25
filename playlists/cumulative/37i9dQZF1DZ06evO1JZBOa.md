@@ -4,7 +4,7 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-156 songs - 11 hr 52 min
+157 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,12 +52,13 @@
 | [Demaro](https://open.spotify.com/track/5bC9bkQtFbphrRo8LbRvbn) | [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Lambi golo](https://open.spotify.com/album/4ApIXEgwb3XSlYPWZZjlvN) | 3:58 | 2023-03-10 | 2025-02-15 |
 | [Diarabi \(feat\. Bonga, Touré Kunda\)](https://open.spotify.com/track/2UMCl2uPMWVoylBBOAjkqG) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Bonga](https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:58 | 2021-12-28 |  |
 | [Dikalo \- Remix 97](https://open.spotify.com/track/7pynF3ZjAJZfUQhmS4bpk2) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 4:07 | 2024-08-31 |  |
+| [Douala Serenade](https://open.spotify.com/track/4bWXN4eM8Oh25PxWtPGrmw) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Waka Juju](https://open.spotify.com/album/30gLt6nQcs5kTTU1n9zoZh) | 6:27 | 2025-10-25 |  |
 | [Du bush a bush](https://open.spotify.com/track/6OqaYMzgKyk1Ne3BGz3ueT) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 4:56 | 2021-12-29 | 2022-09-03 |
 | [Ekedi](https://open.spotify.com/track/52TgFDmez9q5YCmV4EHGOK) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Anbessa](https://open.spotify.com/album/5ff8xqsSumGyofa9LEY8r4) | 2:52 | 2022-10-12 |  |
 | [Ekedi](https://open.spotify.com/track/0XSpOxozClQO2pKs2fLNX4) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [The Very Best of Manu Dibango: Afro Soul Jazz from the Original Makossa Man](https://open.spotify.com/album/02v98oaLbJQweqTYB3tAgv) | 2:48 | 2023-02-20 | 2024-11-17 |
 | [El Manicero](https://open.spotify.com/track/6vG5U3Oi7RBLTD7sUf6olT) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 5:44 | 2021-12-28 |  |
 | [El Paralitico](https://open.spotify.com/track/3sguwzQ6yFKV4bOlaWkODj) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 4:51 | 2022-04-11 | 2022-09-03 |
-| [Emma \(feat\. Salif Keita\)](https://open.spotify.com/track/1ltlkrZ2qV3JlCbdXNUa3N) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 5:54 | 2021-12-28 |  |
+| [Emma \(feat\. Salif Keita\)](https://open.spotify.com/track/1ltlkrZ2qV3JlCbdXNUa3N) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 5:54 | 2021-12-28 | 2025-10-25 |
 | [Ewondo ou Bami](https://open.spotify.com/track/2wnX3u67dAAXZ2N2IU26VK) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [NYXIA\. Tome III](https://open.spotify.com/album/2INTNqaYSOSAwmNLV925Ca) | 3:06 | 2021-12-28 |  |
 | [Fidjo Femea](https://open.spotify.com/track/1rAiQdbWr2TQYZpzxihLgy) | [Mariana Ramos](https://open.spotify.com/artist/0ATMSWY1RjRk97SZGXme0Z), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Quinta](https://open.spotify.com/album/32S67vRw57J7ogWOXrbsEt) | 3:56 | 2022-05-04 |  |
 | [Figlia bella](https://open.spotify.com/track/61lSmdMgFztI4xmd9J9an5) | [Mariana Ramos](https://open.spotify.com/artist/0ATMSWY1RjRk97SZGXme0Z), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Capo Verde terra d'amore, Vol\. 7](https://open.spotify.com/album/4EUMU85Itc2sNwpRVh3VoL) | 3:58 | 2023-10-04 | 2024-01-07 |

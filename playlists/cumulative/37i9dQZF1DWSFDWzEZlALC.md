@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: verifiziert
 
-1,469 songs - 2 day 21 hr 11 min
+1,469 songs - 2 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,6 +634,7 @@
 | [Immer nachts](https://open.spotify.com/track/7uiA0x9kM8WR59rPgGdxIB) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Immer nachts](https://open.spotify.com/album/72tI9Q6jgsUiwknmmQLBh5) | 2:11 | 2024-09-12 | 2024-11-01 |
 | [Immer Noch Wach](https://open.spotify.com/track/4fhxUNlBCZIr3dw0nU366l) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Immer Noch Wach](https://open.spotify.com/album/7rYrXMvTjZL3kFwGxSC5Ln) | 2:26 | 2023-09-28 | 2023-11-03 |
 | [immer sommer](https://open.spotify.com/track/3zfu7j7trFnjVpqcc6bm6y) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B), [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [immer sommer](https://open.spotify.com/album/5a0ExFcI82LyZQ0Y7bchaA) | 2:20 | 2025-08-28 | 2025-10-24 |
+| [Immer wenn du da bist](https://open.spotify.com/track/4ESsuXS5VN1vTzSTy0zJUk) | [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [RIP Hyperpop DE 2022\-2025](https://open.spotify.com/album/3FD3BtMgO2kJz4ejZtYzGC) | 2:40 | 2025-10-23 |  |
 | [immer wenn du sagst](https://open.spotify.com/track/5RxTlUb8MOvIGlJsd4D8Vq) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [immer wenn du sagst](https://open.spotify.com/album/1wnnx4hTp6ErywL44D2oaf) | 2:33 | 2024-07-04 | 2024-08-30 |
 | [Immer wenn du träumst](https://open.spotify.com/track/2RyLPFDH8utWpqJmTwgs90) | [Pannakotta](https://open.spotify.com/artist/0KZvih5KsKy0qUMUDAEPfD) | [Immer wenn du träumst](https://open.spotify.com/album/4TVSqFuHp9HrhDkQrHbkrB) | 2:11 | 2023-05-04 | 2023-05-26 |
 | [Immer wieder geht die Sonne auf](https://open.spotify.com/track/2qv7ViwI2cM74PVpEamKfH) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [rimini tape](https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU) | 2:37 | 2023-04-13 | 2023-10-06 |
@@ -1246,7 +1247,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 12](https://open.spotify.com/track/4ESsuXS5VN1vTzSTy0zJUk) | [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |

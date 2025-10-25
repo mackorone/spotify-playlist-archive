@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYM2TpfSdxV.md) - [plain]
 
 > Ruido blanco para ayudarte a dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,252 likes - 200 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,392 likes - 200 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

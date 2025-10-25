@@ -1,12 +1,12 @@
 {
   "description": "This is Car\u00edn Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 1095242,
+  "num_followers": 1095440,
   "original_name": "This Is Car\u00edn Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAABemAD3xdsVjZX4pS4dbMd6",
+  "snapshot_id": "aPlwAAAAAADB0l5Jd2oN0926m/FeK6Di",
   "tracks": [
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost In Translation",
-        "url": "https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 196197,
-      "name": "Lost In Translation",
-      "url": "https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alch Si",
         "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 155802,
       "name": "Me la Avente",
       "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost In Translation",
+        "url": "https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 196197,
+      "name": "Lost In Translation",
+      "url": "https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi"
     },
     {
       "added_at": null,

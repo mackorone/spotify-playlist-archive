@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: Hearts2Hearts
 
-1,594 songs - 3 day 12 hr 36 min
+1,595 songs - 3 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Bad News](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Born to be XX](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) | 2:40 | 2023-11-07 | 2024-06-20 |
 | [Bad News](https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [It’s ME, It's WE](https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB) | 3:32 | 2022-03-03 | 2022-05-18 |
 | [Bad Time \(feat\. NOA\)](https://open.spotify.com/track/6FdfJYF7VY2BWe7NnRUKB2) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [Bad Time \(feat\. NOA\)](https://open.spotify.com/album/0HLaSJyrIVa0jXO3z0atmw) | 2:42 | 2024-05-21 | 2024-06-14 |
-| [BADASS](https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm) | [GENBLUE 幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [MIRROR](https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP) | 2:55 | 2025-09-22 |  |
+| [BADASS](https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm) | [GENBLUE幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [MIRROR](https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP) | 2:55 | 2025-09-22 |  |
 | [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 | 2023-10-12 | 2023-11-29 |
 | [Baggy Jeans](https://open.spotify.com/track/0Tp6ugHFtCiZZWSRJx9Koq) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [iScreaM Vol.27 : Baggy Jeans Remixes](https://open.spotify.com/album/1WiGUxmUf3kqrl144mxTpq) | 3:31 | 2023-12-01 | 2024-04-19 |
 | [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-08-28 | 2023-12-05 |
@@ -339,7 +339,7 @@
 | [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 | 2022-09-20 | 2023-01-18 |
 | [DICE](https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:06 | 2022-04-11 | 2022-06-24 |
 | [Die Trying](https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Die Trying](https://open.spotify.com/album/2Ov7bn3HyDgvAxtYPLosUR) | 2:55 | 2024-04-09 | 2024-05-11 |
-| [DIFFERENT](https://open.spotify.com/track/0c6PVOqHNDuhH6uNfA13IX) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/3ktE9BFKxeYT90NbKnDn7v) | 2:21 | 2025-06-09 |  |
+| [DIFFERENT](https://open.spotify.com/track/0c6PVOqHNDuhH6uNfA13IX) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/3ktE9BFKxeYT90NbKnDn7v) | 2:21 | 2025-06-09 | 2025-10-25 |
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-02-14 | 2022-04-27 |
 | [Dilly Dally](https://open.spotify.com/track/38dDP2uFYXr9fo4EkGQSbE) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Dilly Dally](https://open.spotify.com/album/5vLpVxSJdRGciJ1FTY4qiX) | 3:31 | 2023-12-05 | 2023-12-15 |
 | [Dilly Dally](https://open.spotify.com/track/624rJzJltnse63XfM1XlXn) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Dilly Dally](https://open.spotify.com/album/1o38Gxn9kFZJ44FND2V5O1) | 3:31 | 2023-12-05 | 2023-12-07 |
@@ -1209,6 +1209,7 @@
 | [Soñar \(Breaker\)](https://open.spotify.com/track/3zQKe6vQMBHmthdjLHnKya) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Soñar \(Breaker\)](https://open.spotify.com/album/3atDr2UW1WQBLzDsL5iOJT) | 2:53 | 2024-04-18 | 2024-08-30 |
 | [Soñar \(Breaker\)](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:53 | 2024-01-19 | 2024-04-19 |
 | [Space](https://open.spotify.com/track/5IAuN3Q4eXxMW9uDf5Nxtk) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9) | [Space](https://open.spotify.com/album/1FpyRuvTJs9K0HQAzZDwK4) | 3:12 | 2023-09-12 | 2023-09-27 |
+| [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 | 2025-10-24 |  |
 | [Spark \- WINTER Solo](https://open.spotify.com/track/2xoA126GEgFhrYzRaTH7E4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 3:21 | 2024-10-08 | 2024-11-06 |
 | [Sparkling](https://open.spotify.com/track/34lKiKHCKhMe9PAfGcdFNE) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/5KLYmSbrtpo5pqjOMzDDLi) | 3:06 | 2022-07-11 | 2022-09-21 |
 | [Sparkling Night \- Japanese Version](https://open.spotify.com/track/4rvShGxg1udUhsxULfQdsx) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Sparkling Night \(Japanese Version\)](https://open.spotify.com/album/0SFEnp3CKoskcHwJveGKJz) | 2:55 | 2022-09-04 | 2022-11-03 |

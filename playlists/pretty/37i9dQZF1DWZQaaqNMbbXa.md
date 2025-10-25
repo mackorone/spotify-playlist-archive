@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQaaqNMbbXa.md) - [plain]
 
 > Hit the dance floor with your favorite bops!
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,695 likes - 145 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,782 likes - 145 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQaaqNMbbXa.md) - [plain]
 | 144 | [Sweet Nothing \(feat\. Florence Welch\)](https://open.spotify.com/track/0lsqtZVyovtBSQtWdD44LH) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Florence Welch](https://open.spotify.com/artist/0IROOdQ2fQUcoaEPqt1Isg) | [18 Months](https://open.spotify.com/album/4TjPTVBmdyaowp08j2toa0) | 3:32 |
 | 145 | [Memories \(feat\. Kid Cudi\)](https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:30 |
 
-Snapshot ID: `AAAAAG/49Er6j37BRagf/iL/FTnuvZXe`
+Snapshot ID: `AAAAANJaWLf/AixDJ6fxAiHLDRzJSxZB`

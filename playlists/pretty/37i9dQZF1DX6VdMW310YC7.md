@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,914,843 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,915,005 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [The Thought of You](https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [The Thought of You](https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD) | 4:22 |
 | 100 | [Utopia](https://open.spotify.com/track/6yeXOGFx7lkO6obKWKZP0r) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Serotonin](https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1) | 3:15 |
 
-Snapshot ID: `AAAAAEZ8jeuvhAHbXmuQxTlto9DfyG1/`
+Snapshot ID: `AAAAAF2slxuh2h/vGyQPO2DUoOVjU3Dw`

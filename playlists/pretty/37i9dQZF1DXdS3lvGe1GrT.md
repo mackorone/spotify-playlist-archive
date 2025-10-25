@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Beryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,248 likes - 155 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,261 likes - 155 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 154 | [Changes](https://open.spotify.com/track/5rS0qCBXl9z48gNG0nvTjR) | [Ellie Williams](https://open.spotify.com/artist/5iHLwkkEmDSXpnyJR1jNJs) | [Changes](https://open.spotify.com/album/50xzv7Qf3ARYDpIkIDzda9) | 3:00 |
 | 155 | [No One In Portland Says Howdy Anymore](https://open.spotify.com/track/0R7vGW72xAXwd9g6d7N3gm) | [Floating Clouds](https://open.spotify.com/artist/44EHSvInnp4xH9zsVSCISu), [hemlock](https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2) | [Campfire Singles](https://open.spotify.com/album/2j0cfBRPAjX8FkegzQUACk) | 4:07 |
 
-Snapshot ID: `AAAAANnS+lTtEIoNX35bLWkdykVE04JW`
+Snapshot ID: `AAAAACAa85U74W436ff7MgtjFa0NNdJA`

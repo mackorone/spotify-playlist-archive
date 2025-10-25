@@ -2,9 +2,9 @@
 
 ### [Gold School](https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U)
 
-> Taking it way back! When hip\-hop meets jazz\. Fusion and samples\. Cover: Outkast
+> Taking it way back! Cover: Outkast
 
-405 songs - 1 day 5 hr 4 min
+406 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Bitch Please II](https://open.spotify.com/track/7lgvU7WnwcNZ8dbGUz8yhP) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:48 | 2025-05-16 | 2025-07-18 |
 | [Bitch, Don’t Kill My Vibe](https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:10 | 2022-02-11 | 2023-01-06 |
 | [Black and Yellow](https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Rolling Papers](https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD) | 3:37 | 2025-04-11 |  |
+| [Blasé \(feat\. Future & Rae Sremmurd\)](https://open.spotify.com/track/4rNSn4YUlLNdt4htUKtl55) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Free TC \(Deluxe Edition\)](https://open.spotify.com/album/5nIgDHf42VCFVfBY9BG2fr) | 4:45 | 2025-10-24 |  |
 | [Bound 2](https://open.spotify.com/track/3sNVsP50132BTNlImLx70i) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:49 | 2023-06-02 | 2023-07-29 |
 | [Breakadawn](https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Buhloone Mindstate](https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd) | 4:15 | 2023-09-15 | 2024-03-02 |
 | [Breathe](https://open.spotify.com/track/7fuoqve1SOEBmhc2PoQTF0) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Real Talk \(123\)](https://open.spotify.com/album/0852dsZQyLOGmvotlvOvoA) | 4:28 | 2022-03-30 | 2022-05-11 |

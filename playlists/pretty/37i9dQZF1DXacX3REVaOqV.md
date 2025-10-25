@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacX3REVaOqV.md) - [plain]
 
 > The best in house music
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,954 likes - 120 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,936 likes - 120 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacX3REVaOqV.md) - [plain]
 | 26 | [Jolie Fille](https://open.spotify.com/track/3pyPyRSFvIOMNS3S2CeMDB) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Layefa](https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8) | [Jolie Fille](https://open.spotify.com/album/7x1lI7V6hPlNkQtcuRCrnV) | 3:14 |
 | 27 | [Forever Baby](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Janet Planet](https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq) | [Sentimental](https://open.spotify.com/album/15JwpSbmrg94260qjQQYse) | 3:18 |
 | 28 | [Las Avispas](https://open.spotify.com/track/5hWtMK64O73MxJbyDUn4wU) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Brøder](https://open.spotify.com/artist/7DBx4maFkuoaBd7w7tTsQR), [Spijker](https://open.spotify.com/artist/6mT5oP27IaBtmiSC1bXcU2) | [Las Avispas](https://open.spotify.com/album/7cVDH7qpKepctlU6vKYEe1) | 2:09 |
-| 29 | [Keep It Exciting](https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Keep It Exciting](https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL) | 2:19 |
+| 29 | [Keep It Exciting](https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Keep It Exciting](https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL) | 2:18 |
 | 30 | [Baile De Fantome](https://open.spotify.com/track/0q3HI1pBWomC3MiAEciBkF) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Baile De Fantome EP](https://open.spotify.com/album/2nRQyfyyHQL2E69yDNBuWx) | 4:00 |
 | 31 | [Good 4 U](https://open.spotify.com/track/09bwwB0fpgLQbWQmQ5Q5sm) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t), [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Good 4 U](https://open.spotify.com/album/6J4Y082MYxnsdifyTLdG8p) | 3:28 |
 | 32 | [Only You](https://open.spotify.com/track/2LMKaaPc48a48HIB5dmFmR) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM), [Noa Milee](https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4) | [Only You](https://open.spotify.com/album/7cWLkwgHZo7jtIpzlsQCeD) | 2:47 |

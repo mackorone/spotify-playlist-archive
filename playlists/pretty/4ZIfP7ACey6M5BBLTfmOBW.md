@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,008 likes - 98 songs - 4 hr 31 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,008 likes - 101 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,5 +106,8 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 96 | [Sirens \(From Ireland\)](https://open.spotify.com/track/218C0McVUM1UPcTzODMRhi) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Finessekid](https://open.spotify.com/artist/3V0BdWlUGoiNckM4Ivt8HL) | [Sirens \(From Ireland\)](https://open.spotify.com/album/2z5XKtvHNg17QxNwGTVomp) | 2:40 |
 | 97 | [Dirty Money](https://open.spotify.com/track/1QKPpDuQ9UPHfKuZusKWrp) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG) | [Dirty Money](https://open.spotify.com/album/1WCLB1lfJxn8c4rbHbgkGP) | 2:46 |
 | 98 | [Down For You](https://open.spotify.com/track/5hKjvZFDOkBcJgeT7bF61A) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Infinite](https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3) | 3:40 |
+| 99 | [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 |
+| 100 | [PrimeMagic.](https://open.spotify.com/track/33K5MfsvaF4X01YyhzreKb) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [FromTheMud.](https://open.spotify.com/album/51yAjAHupbv08hFJm4VgpY) | 3:27 |
+| 101 | [NOBODY ELSE](https://open.spotify.com/track/3yABhcucUufptBWbGqVrSo) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [The Sky Is Recording Me: 100 Years Later, Vol\. 3](https://open.spotify.com/album/2ghjL5JT1VKSNcshmqjrbM) | 2:37 |
 
-Snapshot ID: `AAAmorCVoipWt/XXuYnOdCYy3ncTtPTu`
+Snapshot ID: `AAAmpXSOFx3EI5h6Vsbuw47elKwCMM4P`

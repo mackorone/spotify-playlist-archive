@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 
 > Sei nella tua running era e stai preparando a tua prossima mezza maratona 🏃🏻
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,811 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,862 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 | 99 | [BOOGIE](https://open.spotify.com/track/3NuN59jpH3B5cNa2M4r7XG) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SATURATION III](https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0) | 3:13 |
 | 100 | [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 |
 
-Snapshot ID: `AAAAAJ/JJsYn96D+K+BJuVxH2DINhcxV`
+Snapshot ID: `AAAAAO7Ck3jXKFdTLCk/4seiftz62JE9`

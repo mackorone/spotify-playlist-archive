@@ -2,9 +2,9 @@
 
 ### [Pop Romántico](https://open.spotify.com/playlist/37i9dQZF1DX7Qo2zphj7u3)
 
-> Las románticas de hoy con las de siempre\. Foto: Alejandro Sanz & Shakira
+> Las románticas de hoy con las de siempre\. Foto: ELENA ROSE & Beto de Rawayana
 
-505 songs - 1 day 9 hr 25 min
+506 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [En cambio no](https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Primavera anticipada](https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7) | 3:57 | 2022-01-25 |  |
 | [En El Muelle de San Blas](https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:52 | 2022-01-25 |  |
 | [En Otra Vida](https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [En Otra Vida](https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP) | 2:33 | 2025-01-31 |  |
-| [En Otra Vida \- Con Carin Leon](https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [En Otra Vida \- Con Carin Leon](https://open.spotify.com/album/1UQhyBePO9aKNZW1sxDTlQ) | 2:30 | 2025-01-10 |  |
+| [En Otra Vida \- Con Carin Leon](https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [En Otra Vida \- Con Carin Leon](https://open.spotify.com/album/1UQhyBePO9aKNZW1sxDTlQ) | 2:30 | 2025-01-10 | 2025-10-25 |
 | [En Tus Planes](https://open.spotify.com/track/5fmXWEFh8vMXzKTHN9ezKV) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [En Tus Planes](https://open.spotify.com/album/63cRlzjRihSdheA6lKonRy) | 2:52 | 2022-01-25 | 2024-05-11 |
 | [Enamorado de Ti](https://open.spotify.com/track/3pY68z0dH4i4gF1zzONS0q) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Tu Última Canción](https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa) | 4:09 | 2022-08-05 | 2023-01-07 |
 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 | 2024-02-01 | 2025-05-31 |
@@ -229,6 +229,7 @@
 | [Lo Siento Mucho](https://open.spotify.com/track/6IXrEQi71AjuBV8AItJP2L) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Lo Siento Mucho](https://open.spotify.com/album/5AG046KuFMxYuCBl8sLqJd) | 3:18 | 2022-01-25 | 2022-07-25 |
 | [Lo Tenga O No](https://open.spotify.com/track/0E1oi4xGMr93eb54FB1o4L) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Hijos Del Mar](https://open.spotify.com/album/6RRGe7Zz7Hg1zKDWW6rqaR) | 4:29 | 2022-01-25 | 2022-06-21 |
 | [Los dos cogidos de la mano](https://open.spotify.com/track/1fkkbV7wJ0ivY9UXU2RdH7) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Viviendo deprisa](https://open.spotify.com/album/2yfm8Icbo9F9BDrsGamjBd) | 4:52 | 2022-01-25 | 2022-07-28 |
+| [Luna de Miel](https://open.spotify.com/track/5o6Ydp2XdrOSNcRNYGKN1V) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 3:35 | 2025-10-24 |  |
 | [Luz](https://open.spotify.com/track/4KhurM0GuFNioRgsBTpXos) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Luz](https://open.spotify.com/album/6WkYBEqDxKFJGXEG3Gossr) | 2:54 | 2022-01-25 | 2022-07-16 |
 | [Maldita Primavera](https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:54 | 2022-01-25 |  |
 | [Mares De Miel](https://open.spotify.com/track/1tJrLUcqjzQVZLFCV8lym0) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Mares De Miel](https://open.spotify.com/album/3FpD9Rogk6RmMLvKMxT6ba) | 4:41 | 2022-01-25 | 2022-09-21 |

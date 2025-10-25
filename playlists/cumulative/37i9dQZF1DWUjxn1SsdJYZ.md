@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Youngn Lipz
 
-1,355 songs - 2 day 15 hr 11 min
+1,357 songs - 2 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1166,6 +1166,7 @@
 | [THE ONE](https://open.spotify.com/track/5eHim7vHMIJgOvrvN8f3n6) | [MOKOMOKAI](https://open.spotify.com/artist/6IyLCow3HLUYJJJ12P9WQd) | [PONO!](https://open.spotify.com/album/1eSbfptpdD6A7MOjAH0obv) | 5:04 | 2025-06-05 | 2025-09-12 |
 | [The One](https://open.spotify.com/track/20v2DDGhE0QJCMqbcuowxg) | [Sahxl](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [The One](https://open.spotify.com/album/4bcVjzViLzay2rnWjVLoJV) | 1:54 | 2022-12-01 | 2023-02-03 |
 | [The Power of God](https://open.spotify.com/track/1c6znYF5fCsOBZk0FMbQYK) | [Sexton](https://open.spotify.com/artist/0k4gmF1Uhpyb8uCHz2fGU2) | [The Power of God](https://open.spotify.com/album/2uhQfvRLFseN5sEkTPrKVZ) | 2:29 | 2024-04-11 | 2024-06-01 |
+| [The Professional](https://open.spotify.com/track/0XoRzWSsj3JzO76D27oWqw) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS), [Mickey Factz](https://open.spotify.com/artist/3qoNIli6sMVxVYhKONxWpz) | [The Professional](https://open.spotify.com/album/2zeGrhcFsQ9mq1eqSDYw4M) | 2:42 | 2025-10-23 |  |
 | [THE REVEAL](https://open.spotify.com/track/1c08VDOnUiqQdm6kcXx5Os) | [D3TOX](https://open.spotify.com/artist/0MbiSNuB4VYPCHr58ukFYM), [Maverick1](https://open.spotify.com/artist/6XMwv4n1sNHDhmf5BP4aMT), [Ramo](https://open.spotify.com/artist/2CqHAjfr8jdzbrTxky2bgc) | [THE REVEAL](https://open.spotify.com/album/3DnfQk8801LIGcQRVrpHjf) | 3:27 | 2025-04-03 | 2025-05-16 |
 | [The Truman Show](https://open.spotify.com/track/0JQn4oNFTMLVXRCbTL7K4t) | [360](https://open.spotify.com/artist/3vn7rk7VNMfDhuZNB9sDYP) | [The Truman Show](https://open.spotify.com/album/5cL6wWZ1BIp2NMDWoz0Oan) | 3:20 | 2023-03-23 | 2023-08-18 |
 | [The Zoo](https://open.spotify.com/track/2atv3k23AGGNWLYEpot8Og) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr), [Justice MC](https://open.spotify.com/artist/2MGkYZuYaujAkiXt8N2YJb), [Roisy boy](https://open.spotify.com/artist/4FEooCmMJAVpoLjvu5WRP1), [Wrd Up](https://open.spotify.com/artist/4NNzRxcxX1Q3W90ybcFmdZ) | [The Zoo](https://open.spotify.com/album/4TNlls8fDQgjeFLzcVS1GB) | 3:54 | 2024-05-03 | 2024-07-05 |
@@ -1216,6 +1217,7 @@
 | [Trap Talk](https://open.spotify.com/track/2vNvy7NbrgsopoZ1VFjgd9) | [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh), [CG](https://open.spotify.com/artist/7emez5lGlXnCUAkL2qgt4z) | [Trap Talk](https://open.spotify.com/album/3YdTjt5JpHKyHF16NaDbEK) | 3:14 | 2022-06-02 | 2022-10-28 |
 | [Trapstar](https://open.spotify.com/track/6T0u3Q5QdpNOahp4WoGIU6) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Trapstar](https://open.spotify.com/album/1tZRu16WkZXlLkGRfnqLzc) | 2:44 | 2023-02-16 | 2023-08-18 |
 | [Treble](https://open.spotify.com/track/79IieVaTMmfD79WBUODypS) | [Jteazy](https://open.spotify.com/artist/7i1xIKvHS7CGozfyGZEDlW) | [Treble](https://open.spotify.com/album/2oRToYRNaQsvPWvliGxgYU) | 2:47 | 2022-03-24 | 2022-06-17 |
+| [Trenches](https://open.spotify.com/track/5ltYYMlBXsaoR2snQIAFMQ) | [Stallyano](https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot) | [Trenches](https://open.spotify.com/album/4xpnAH5Rv8Jf2A9mUYzqwc) | 2:51 | 2025-10-23 |  |
 | [TRENDY](https://open.spotify.com/track/5ns15BHFfxQC5cDRaP951h) | [FendiAlone](https://open.spotify.com/artist/6SJTZ859a50PtoQ7C9wh8n) | [TRENDY](https://open.spotify.com/album/2bOkm96p7jVZIQ5yteIk7B) | 2:01 | 2022-12-01 | 2023-04-21 |
 | [TRIALS](https://open.spotify.com/track/4rIxN5z79tqoECKb6ua8NP) | [MRVZ](https://open.spotify.com/artist/2dsVQfTfxS9vGeKk1guzgK) | [TRIALS](https://open.spotify.com/album/5uPWPAsk933wAWY7485xC0) | 3:05 | 2022-06-30 | 2022-08-05 |
 | [Troublesome](https://open.spotify.com/track/0VC5JJ1DVONoX1tv77nxLm) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Section60](https://open.spotify.com/artist/1PpLHeHNrU9ZHFgiCxcV8U), [Bently](https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M) | [Troublesome](https://open.spotify.com/album/4jSEeA1ramOD61CZT7KlhW) | 3:03 | 2022-03-21 | 2022-11-04 |

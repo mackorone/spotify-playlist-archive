@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,452 likes - 75 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,487 likes - 75 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 74 | [Venho a Ti](https://open.spotify.com/track/360gCLBRm4Caa50Vlbluhy) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Venho a Ti](https://open.spotify.com/album/2sDPeFaxd85ktY7juWm36t) | 5:46 |
 | 75 | [Exército de Deus](https://open.spotify.com/track/13ra4AnUP0MWBHekx1TtzJ) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Exército de Deus](https://open.spotify.com/album/4n8JAe5vcKQLx3MFTijmHB) | 4:14 |
 
-Snapshot ID: `AAAAAOjNV4+NzRlMFzgtxkndqTj1KV39`
+Snapshot ID: `AAAAALeIOz66UFY7LCTKl7TOD7SJmGaX`

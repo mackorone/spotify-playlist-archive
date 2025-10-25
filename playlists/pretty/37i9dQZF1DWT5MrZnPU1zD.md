@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,686,827 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,686,817 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Swing My Way](https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Swing My Way](https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z) | 2:59 |
 | 100 | [Alley Oop](https://open.spotify.com/track/4prSeUgilnoQ6J5I3iMpQT) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Alley Oop](https://open.spotify.com/album/7zdLY5YF5DfG096Th62ipi) | 3:20 |
 
-Snapshot ID: `AAAAALOmamPssymW79CE3PxFGfGdYi7l`
+Snapshot ID: `AAAAAJGap8tZBPmEjp2MvkPN3SWEOq9E`

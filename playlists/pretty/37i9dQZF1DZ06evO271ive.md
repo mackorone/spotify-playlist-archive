@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,285 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,297 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 43 | [Yonce Freestyle \(feat\. Sexyy Red & B.G.\)](https://open.spotify.com/track/1fo2w2ikXyQjnmH1AVVyJ8) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Yonce Freestyle \(feat\. Sexyy Red & B.G.\)](https://open.spotify.com/album/0BbrF9bl7IIQGJNQfw7kbm) | 3:44 |
 | 44 | [Me N OG Snoop](https://open.spotify.com/track/4pfUkkJKUgrsXuVVYRuSh4) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Iz It a Crime?](https://open.spotify.com/album/2EDW8OhiHdB2UtE6PCAxZD) | 2:38 |
 | 45 | [Female Gucci Mane](https://open.spotify.com/track/5jMCvfuGCvNXrUqr8FRgb8) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:29 |
-| 46 | [Nookie \(Pu$$y\) \(feat\. Sexyy Red\)](https://open.spotify.com/track/4MCuCTuevnlTnwm5Rekfwx) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Nookie \(Pu$$y\) \(feat\. Sexyy Red\)](https://open.spotify.com/album/4Fo1bpA5OcnIblyK26UVI3) | 3:00 |
+| 46 | [304](https://open.spotify.com/track/7fSDdazwuxvg30dLu9niYJ) | [E.K.E.](https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [304](https://open.spotify.com/album/7jzfSVErVWElb4oq7UcnEH) | 2:20 |
 | 47 | [It's My Birthday](https://open.spotify.com/track/5ZjSQmUdjvFhSVhLWpVPWQ) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:27 |
-| 48 | [304](https://open.spotify.com/track/7fSDdazwuxvg30dLu9niYJ) | [E.K.E.](https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [304](https://open.spotify.com/album/7jzfSVErVWElb4oq7UcnEH) | 2:20 |
+| 48 | [Nookie \(Pu$$y\) \(feat\. Sexyy Red\)](https://open.spotify.com/track/4MCuCTuevnlTnwm5Rekfwx) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Nookie \(Pu$$y\) \(feat\. Sexyy Red\)](https://open.spotify.com/album/4Fo1bpA5OcnIblyK26UVI3) | 3:00 |
 | 49 | [WYA \(feat\. Sexyy Red\)](https://open.spotify.com/track/3WLhxGa2HGPcXbmK3NYmm8) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [WYA \(feat\. Sexyy Red\)](https://open.spotify.com/album/1VdyHDwu9mPQrC7bViLABV) | 2:18 |
 | 50 | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp) | 3:13 |
 
-Snapshot ID: `aPgegAAAAADIr9vfYdMw9cwD8I1PIKvV`
+Snapshot ID: `aPlwAAAAAAA3C18JD5Fn5hi6Op2nkAA3`

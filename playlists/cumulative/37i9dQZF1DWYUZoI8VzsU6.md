@@ -4,7 +4,7 @@
 
 > back roads up loud with Ole 60
 
-57 songs - 3 hr 12 min
+58 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Four Leaf Clover](https://open.spotify.com/track/4rKwvkw0x1K3I9dr5lwRhg) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again](https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq) | 3:11 | 2025-09-05 |  |
 | [GOOD FOR NOTHING](https://open.spotify.com/track/040v2JdDlfRRJEsXTMSPjn) | [Matthew Goodnough](https://open.spotify.com/artist/71RxMNbsv5s7P10ibbYlkk) | [LIFE OF THE PARTY AND THE DEATH OF ME](https://open.spotify.com/album/3AV1LhyX47AQQwJNGSI8SB) | 3:30 | 2025-09-05 |  |
 | [Halfway To Hell](https://open.spotify.com/track/3EON33SUQai62FI5Sv0gPT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 2:58 | 2025-09-05 |  |
+| [Hate Waking Up](https://open.spotify.com/track/4FIEIw7iVqP5YnpqKhZOMB) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hate Waking Up](https://open.spotify.com/album/1rc4guQ07DCgHPdyWiusUy) | 3:28 | 2025-10-24 |  |
 | [Heavy Metal](https://open.spotify.com/track/1U88VM6HzsPBZbXPT1aAR5) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Heavy Metal](https://open.spotify.com/album/33bWo4vFIyoC62phzfjEKy) | 2:34 | 2025-09-05 |  |
 | [I HATE ME TOO](https://open.spotify.com/track/5rgZbwCHPZKP32NG0g66ar) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [I HATE ME TOO](https://open.spotify.com/album/7mhU3F2Qk5PryU0KHv9lqy) | 3:05 | 2025-09-05 |  |
 | [In Between](https://open.spotify.com/track/3vA24UtKMDGaK5KkzsulYD) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Have A Nice Day](https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha) | 3:40 | 2025-09-05 |  |

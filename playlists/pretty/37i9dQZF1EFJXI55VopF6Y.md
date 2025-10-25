@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oPFwE7aF2p4FfqMByg3k8">Em Walcott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 43 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 45 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 32 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 |
 | 33 | [Streets](https://open.spotify.com/track/0xmOfwQ4UxyNSt8g50yE3i) | [Sissy Ford](https://open.spotify.com/artist/2drBoMyirQqpeX80MebU7l) | [Streets](https://open.spotify.com/album/0hj6iS5EK2Nn4uOZh6psCV) | 2:51 |
 | 34 | [Versions of Me](https://open.spotify.com/track/6SOCvo8NKJm5tfXqfBG0Uq) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Versions of Me](https://open.spotify.com/album/701oucP6kZjma5iqb7cdX8) | 2:12 |
-| 35 | [Ripples](https://open.spotify.com/track/5SdKSYnJIgppelAHCIEQVJ) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 1:03 |
-| 36 | [Celebration Weight](https://open.spotify.com/track/7MC6izvYsq545k7jDsYTOO) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:08 |
-| 37 | [Waterfall](https://open.spotify.com/track/2aInc7CdIKt4AWlArGipGM) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5) | [Therapy](https://open.spotify.com/album/4Kst3KEL3qb5loPXVBQzqA) | 2:55 |
-| 38 | [Butterflies](https://open.spotify.com/track/41wU3rrHdHoQlNlGqy2tzX) | [Gyeongree](https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj) | [Eternal Bloom](https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC) | 2:38 |
-| 39 | [Rock This Smoove](https://open.spotify.com/track/2ZCxvRA0YuI1Y7a0UOTRcX) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Good Burger 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7bJbc9Qnr5z8OBPGwSc88q) | 2:09 |
-| 40 | [Homesick](https://open.spotify.com/track/3bi38Ij1hlTBjp62XipZr6) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:41 |
-| 41 | [window shopping](https://open.spotify.com/track/5c8drrCqzfU5Yxmvw7gd6p) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [window shopping](https://open.spotify.com/album/6iEIW2JFSqrotlWS9Rlzen) | 3:14 |
-| 42 | [fallin](https://open.spotify.com/track/7ioPcSn8Egs0zasmMlV75J) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [fallin](https://open.spotify.com/album/2DxAqjiMArz5OH7qCKrfVg) | 3:18 |
-| 43 | [Too Much](https://open.spotify.com/track/1dqav7nwo6Y7Vpx1ypHCOA) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 3:06 |
+| 35 | [Bredvid dig](https://open.spotify.com/track/0MmxbZFkElphjb7UZT8lAj) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S) | 3:02 |
+| 36 | [Ripples](https://open.spotify.com/track/5SdKSYnJIgppelAHCIEQVJ) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 1:03 |
+| 37 | [Celebration Weight](https://open.spotify.com/track/7MC6izvYsq545k7jDsYTOO) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:08 |
+| 38 | [Waterfall](https://open.spotify.com/track/2aInc7CdIKt4AWlArGipGM) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5) | [Therapy](https://open.spotify.com/album/4Kst3KEL3qb5loPXVBQzqA) | 2:55 |
+| 39 | [Butterflies](https://open.spotify.com/track/41wU3rrHdHoQlNlGqy2tzX) | [Gyeongree](https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj) | [Eternal Bloom](https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC) | 2:38 |
+| 40 | [Rock This Smoove](https://open.spotify.com/track/2ZCxvRA0YuI1Y7a0UOTRcX) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Good Burger 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7bJbc9Qnr5z8OBPGwSc88q) | 2:09 |
+| 41 | [radar](https://open.spotify.com/track/6V7ITByqDVsW7LUI2xf6pu) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [radar](https://open.spotify.com/album/4ephbTdUL4J4na51zhS8ns) | 3:09 |
+| 42 | [Homesick](https://open.spotify.com/track/3bi38Ij1hlTBjp62XipZr6) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:41 |
+| 43 | [window shopping](https://open.spotify.com/track/5c8drrCqzfU5Yxmvw7gd6p) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [window shopping](https://open.spotify.com/album/6iEIW2JFSqrotlWS9Rlzen) | 3:14 |
+| 44 | [fallin](https://open.spotify.com/track/7ioPcSn8Egs0zasmMlV75J) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [fallin](https://open.spotify.com/album/2DxAqjiMArz5OH7qCKrfVg) | 3:18 |
+| 45 | [Too Much](https://open.spotify.com/track/1dqav7nwo6Y7Vpx1ypHCOA) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 3:06 |
 
-Snapshot ID: `Ab/qaAAAAADgGKVM2FIUXwyml5qJlcX4`
+Snapshot ID: `Ab/wHAAAAADSM7pWip97sFxkTp297RQC`

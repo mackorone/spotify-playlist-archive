@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,348 likes - 48 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,353 likes - 48 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 29 | [Esfumar](https://open.spotify.com/track/71OtP6pu3xWhvx7NLetwCN) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 3:29 |
 | 30 | [Antídoto](https://open.spotify.com/track/6UpFofjmS8vuKUq7POAote) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 3:47 |
 | 31 | [El espacio](https://open.spotify.com/track/13EopJrSN65v2idkYVXTLZ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk) | 4:38 |
-| 32 | [Mi Corazón](https://open.spotify.com/track/5lolOJpZVQx4m7ubu9m3Zd) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 4:23 |
-| 33 | [Extrañarte](https://open.spotify.com/track/54A9l2wNN875pViIqfbtb8) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 3:52 |
+| 32 | [Extrañarte](https://open.spotify.com/track/54A9l2wNN875pViIqfbtb8) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 3:52 |
+| 33 | [Mi Corazón](https://open.spotify.com/track/5lolOJpZVQx4m7ubu9m3Zd) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 4:23 |
 | 34 | [Delicada Violencia](https://open.spotify.com/track/7D0wYJazZXiHzCza7yMhqR) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 3:55 |
 | 35 | [Virtual](https://open.spotify.com/track/3RsdLfvSVFZn74haerjDfY) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk) | 4:02 |
 | 36 | [Fui feliz](https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 3:58 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 47 | [Miel](https://open.spotify.com/track/3hno9MGIoj6WL9GfXWSYBT) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 4:57 |
 | 48 | [El Aparecido](https://open.spotify.com/track/5IpBCVityIZt8b6TUFm74U) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Inti\-Illimani, Tributo A Su Música \- A La Salud de la Música Chilena](https://open.spotify.com/album/3bLMlRJGnzb9xhvddIwyJo) | 4:10 |
 
-Snapshot ID: `aPgegAAAAAA4YVpAngkb1FfDn3/S3UXc`
+Snapshot ID: `aPlwAAAAAACZHMOFZsTS+X5KYsA3ygfE`

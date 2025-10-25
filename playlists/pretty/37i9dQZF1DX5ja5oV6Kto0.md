@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Ajebutter
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,179 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,183 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go \(with Tyla\)](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
-| 2 | [Soft Prayer](https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Crowther](https://open.spotify.com/artist/2pN56hYNCw4in2ctfHeutE) | [](https://open.spotify.com/album/null) | 3:31 |
+| 2 | [Soft Prayer](https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Crowther](https://open.spotify.com/artist/2pN56hYNCw4in2ctfHeutE) | [Lust In Lagos](https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N) | 3:31 |
 | 3 | [For Days](https://open.spotify.com/track/1a4F4Gb0jQ4QsAYv4nMBoD) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [AYOMIPO](https://open.spotify.com/artist/5TN7mfvPehlALb4YJ4I7x3) | [For Days](https://open.spotify.com/album/5vbe78H3h0GzVhwp4djYaq) | 3:27 |
 | 4 | [Kiss Me Thru The Phone pt 2 \(with PinkPantheress\)](https://open.spotify.com/track/4SC29UjZqGD3DaZNipthGk) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 3:38 |
 | 5 | [Normally](https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Normally](https://open.spotify.com/album/416GBquOnS63wjc41I2aA8) | 3:55 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 19 | [Cutesy](https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cutesy](https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6) | 3:01 |
 | 20 | [WONDERFUL](https://open.spotify.com/track/55QyChoUaMBgPfJp0FzvNY) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [WONDERFUL](https://open.spotify.com/album/1o1RAIZnKujAlFqJtyaYq4) | 2:20 |
 | 21 | [Gen\-Z Arewazobia \(feat\. Jeriq & Zlatan\)](https://open.spotify.com/track/0FXuDfxekkdEzGMMaCPAvr) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Gen\-Z Arewazobia \(feat\. Jeriq & Zlatan\)](https://open.spotify.com/album/7MFEWR37o9soZbhWwBWQvY) | 2:37 |
-| 22 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [](https://open.spotify.com/album/null) | 3:21 |
+| 22 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [THOSE WHO ARE AGAINST US ALL THE TIME](https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK) | 3:21 |
 | 23 | [Maye](https://open.spotify.com/track/1PjyINgPWTC8lrhufounlb) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Maye](https://open.spotify.com/album/3kFUtkt9hqN6U1ZNDXyh2r) | 1:57 |
 | 24 | [sexygyal.mp3](https://open.spotify.com/track/4NDYc9iZQEvTMWQYEmvGSu) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [sexygyal.mp3](https://open.spotify.com/album/08OLnMqGnQSTz6TH9kzigD) | 1:56 |
 | 25 | [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 |

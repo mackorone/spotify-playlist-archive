@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 343858,
+  "num_followers": 343904,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPgegAAAAADpaOrxcxFx7NUnljrk97yu",
+  "snapshot_id": "aPlwAAAAAADKiuTiUROeOBcPeDn8YWuF",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Al Estilo Rancheron",
+      "url": "https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Llorar",
         "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 190626,
       "name": "Ll\u00e9vate",
       "url": "https://open.spotify.com/track/2AHzaIprICahqw378HVUoO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Al Estilo Rancheron",
-      "url": "https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los de 100pre",
+        "url": "https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 187156,
+      "name": "Gracias a Ti",
+      "url": "https://open.spotify.com/track/3xYQaGd5f4yX4ceJ2GylKz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 200945,
       "name": "Tuyo y M\u00edo",
       "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los de 100pre",
-        "url": "https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 187156,
-      "name": "Gracias a Ti",
-      "url": "https://open.spotify.com/track/3xYQaGd5f4yX4ceJ2GylKz"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Pa' la Historia",
+        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 205818,
+      "name": "Al Mill\u00f3n",
+      "url": "https://open.spotify.com/track/2Ns7P7Sa50RHUQ2eyTcQPt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Presente",
         "url": "https://open.spotify.com/album/5mDRq6vrhdQotvLYSUrpc8"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 145101,
       "name": "Presente",
       "url": "https://open.spotify.com/track/1jjmhcu7bLoF5kbNpFASod"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Pa' la Historia",
-        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 205818,
-      "name": "Al Mill\u00f3n",
-      "url": "https://open.spotify.com/track/2Ns7P7Sa50RHUQ2eyTcQPt"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Impresionarte",
-        "url": "https://open.spotify.com/album/7eGycMt5EqdBqy493oTwbC"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 149707,
-      "name": "Te Deseo Lo Mejor",
-      "url": "https://open.spotify.com/track/0r8VAv8wyvxJn27Nj0pQqs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Borracho",
         "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 168542,
       "name": "Home Run",
       "url": "https://open.spotify.com/track/4wsxPS9JoTlBfsUmdgYFiC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Impresionarte",
+        "url": "https://open.spotify.com/album/7eGycMt5EqdBqy493oTwbC"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 149707,
+      "name": "Te Deseo Lo Mejor",
+      "url": "https://open.spotify.com/track/0r8VAv8wyvxJn27Nj0pQqs"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 166038,
-      "name": "En Fin",
-      "url": "https://open.spotify.com/track/6IwbsApBfzCMFDmxmTp8Wo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Estar\u00e9 Aqu\u00ed",
         "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 146233,
       "name": "No Estar\u00e9 Aqu\u00ed",
       "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 166038,
+      "name": "En Fin",
+      "url": "https://open.spotify.com/track/6IwbsApBfzCMFDmxmTp8Wo"
     },
     {
       "added_at": null,

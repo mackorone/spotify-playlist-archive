@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,143 likes - 56 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,129 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 |
+| 1 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 |
 | 2 | [Pvta Luna](https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Pvta Luna](https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa) | 3:18 |
 | 3 | [Dip \(feat\. Ty Dolla $ign & Blxst\)](https://open.spotify.com/track/0SKKPmfRDbi6BuAb4eZXJw) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Dip](https://open.spotify.com/album/655LQf0zGFKcLFQm16qTgc) | 3:16 |
 | 4 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |
-| 5 | [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 |
+| 5 | [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 |
 | 6 | [Second Sleep](https://open.spotify.com/track/47N21fn8V8IN392MGlicT5) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Second Sleep / Star Eyes](https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU) | 4:48 |
 | 7 | [Turned Into Missing You \(feat\. Avery Anna\)](https://open.spotify.com/track/26TUtftIahxUIEfQwmVR6I) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Turned Into Missing You \(feat\. Avery Anna\)](https://open.spotify.com/album/18oAslPfCIwuEWqY4qpu7a) | 3:39 |
 | 8 | [By My Side](https://open.spotify.com/track/6oGFDrlsSXovBIAY7gNYIq) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Snack Pack Vol\. 1](https://open.spotify.com/album/4UQkMJyhzQNbldVNaOY4IC) | 3:42 |
@@ -63,6 +63,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 53 | [Shapeshifting on a Saturday Night](https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Shapeshifting on a Saturday Night](https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s) | 3:25 |
 | 54 | [The Bomb](https://open.spotify.com/track/6FqQpftrbKOFvhQJ6f4Iyh) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Parody Of Pleasure](https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7) | 2:22 |
 | 55 | [Sophie](https://open.spotify.com/track/3okf8YVytf26gWSrBRHvJK) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Sophie](https://open.spotify.com/album/7rAAUeg5ctNJzz4M2JWMSu) | 3:13 |
-| 56 | [Havana Bounce](https://open.spotify.com/track/3yDlsbUiSWvViojyF0244u) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Havana Bounce](https://open.spotify.com/album/78f1sQGjkzuQbS7boCVv8w) | 4:31 |
 
-Snapshot ID: `AAAAAH27JtM1o7WMxh3Y9+Uzv1N1UdU2`
+Snapshot ID: `AAAAAEU0UtzVJ7Xt4eYB8qQLSC26g3vX`

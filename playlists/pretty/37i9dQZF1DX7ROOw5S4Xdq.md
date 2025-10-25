@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isaias Saad
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,740 likes - 49 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,047 likes - 49 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 29 | [Eu Mato Esse Gigante \(Ao Vivo\)](https://open.spotify.com/track/1ENOa3zqwrQEotWB5l18Vz) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Eu Mato Esse Gigante \(Ao Vivo\)](https://open.spotify.com/album/3UkAxKvFUmWVI0kLdgnifM) | 4:11 |
 | 30 | [Outro Igual Não Há \- Live](https://open.spotify.com/track/4rBb5Tmq7WaVccG0c89r52) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2), [Jonathan Lewis](https://open.spotify.com/artist/0yw87LS4yMQ6WhI2pZAPRY) | [Momentos \(Live in Brazil\)](https://open.spotify.com/album/3FoQ8FiSg6RTwXWB6hlJ5p) | 6:57 |
 | 31 | [LEMBRA SENHOR](https://open.spotify.com/track/3oBb42gQST9J6CgmdCzbZE) | [Rhay Campos](https://open.spotify.com/artist/4HECuUsFCE7RaTYOApDpuC) | [LEMBRA SENHOR](https://open.spotify.com/album/17iHK2uCZGbo4jQ0k0phHX) | 4:16 |
-| 32 | [Track 10](https://open.spotify.com/track/6oO5fas3mot10lwR2zHn3b) | [Fernanda Tomadon](https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl) | [](https://open.spotify.com/album/null) | 0:00 |
+| 32 | [Pai Nosso](https://open.spotify.com/track/6oO5fas3mot10lwR2zHn3b) | [Fernanda Tomadon](https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl) | [Fernanda Tomadon Ao Vivo Na Igreja](https://open.spotify.com/album/5JsNE5xCh8qjWqPYB1Jkb6) | 3:58 |
 | 33 | [Agnus Dei](https://open.spotify.com/track/3X5gxLVFwBo9sGrIg2xaMG) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Agnus Dei](https://open.spotify.com/album/0bIURptCoxR2NY0BNK5z6D) | 6:41 |
 | 34 | [Nada Pode Te Parar \- Ao Vivo](https://open.spotify.com/track/3Y0KTN9V93kSErTXnSetix) | [Néia Do Surdo](https://open.spotify.com/artist/52yjuIfCOxTgugRDIxZvCw), [100 Preconceito](https://open.spotify.com/artist/1GEAR8S0QfpMT2c2s9cf4Z) | [Nada Pode Te Parar \(Ao Vivo\)](https://open.spotify.com/album/0HuQOK2owvLpwSnqtKwG0w) | 3:05 |
 | 35 | [Como Na Primeira Vez](https://open.spotify.com/track/505fY3yRdSIKMv3ZaJFqYG) | [Ricardo Nuque](https://open.spotify.com/artist/4ffqFO4lp2UOv2cnG9ka0J) | [Como Na Primeira Vez](https://open.spotify.com/album/0j2XjnlRjVU10ADJmGVzIy) | 5:07 |

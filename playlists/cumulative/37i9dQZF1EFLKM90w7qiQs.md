@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/52cKwQBHdpKHYYbrnqKJtX">GRACEY</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-67 songs - 3 hr 22 min
+68 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Like That](https://open.spotify.com/track/43wuszNrHgfr3JXaJ5u4tR) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 2:46 | 2024-05-01 |  |
 | [Lonely Heart](https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Lonely Heart](https://open.spotify.com/album/4vyvkwkkwuCdLhQjWJG01q) | 2:47 | 2024-05-01 |  |
 | [Lost My Mind](https://open.spotify.com/track/6XwbwtZe0viiDSfBEPymYc) | [Nykki](https://open.spotify.com/artist/4tr3FhDOdmSORCDrH6Q4CX) | [Lost My Mind](https://open.spotify.com/album/0balRMgDmNaCfpG15ebZxN) | 3:45 | 2024-05-01 |  |
+| [LUV? \(feat\. Anne\-Marie\)](https://open.spotify.com/track/7ajBoRIDCavZAG8RojAVpb) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [4](https://open.spotify.com/album/7IYdKvQYX8lzDPKKwldfkW) | 2:37 | 2025-10-24 |  |
 | [Make You Dance](https://open.spotify.com/track/6BzNEYhKszAJ5rkl2xbcMi) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF \(DELUXE\)](https://open.spotify.com/album/745q70iMPQHWqjGzHeseBp) | 3:11 | 2024-05-01 |  |
 | [Nah \(feat\. Sinead Harnett\)](https://open.spotify.com/track/6tLPcgsXGFcXtnVCetRp4A) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Wide Awake](https://open.spotify.com/album/6ZdTjmwJ2yZt1UqpEh3cJY) | 2:49 | 2024-05-01 |  |
 | [Not Ready For Love \(feat\. Maya B\)](https://open.spotify.com/track/6srxWPSep6Jp5Xw0IHYWoy) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Maya B](https://open.spotify.com/artist/1xcOqHjfEmCPz6C9qSPtOf) | [Not Ready For Love](https://open.spotify.com/album/1grGRTZhofqtqVPlDqSgVB) | 3:13 | 2024-05-01 |  |

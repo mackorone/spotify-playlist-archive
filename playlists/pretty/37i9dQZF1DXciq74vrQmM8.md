@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. ALT BLK ERA
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,716 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,676 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 23 | [VIOLENCE](https://open.spotify.com/track/21nMuvJmnxxLUY2DZMYoO7) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [VIOLENCE](https://open.spotify.com/album/3vQtCzuU1jIbTIo7iZe2Ez) | 2:58 |
 | 24 | [Run Rabbit](https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Run Rabbit](https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK) | 3:06 |
 | 25 | [HUSH](https://open.spotify.com/track/2ZsCDEyhieI5fBgtHlIRGC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [HUSH](https://open.spotify.com/album/6oDFuAJZf16fsLr6y26qsQ) | 2:22 |
-| 26 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [](https://open.spotify.com/album/null) | 3:21 |
+| 26 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [THOSE WHO ARE AGAINST US ALL THE TIME](https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK) | 3:21 |
 | 27 | [In House Enemy](https://open.spotify.com/track/4qh7uZxqN4SfWUibDaszMt) | [Akeira Jade](https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF) | [In House Enemy](https://open.spotify.com/album/1sw3NglwBQkpa2o9hJb3xY) | 2:48 |
 | 28 | [Loser](https://open.spotify.com/track/3plgchkBsHc0D4prjUZLm4) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Loser](https://open.spotify.com/album/7jBMjMzRHGQHh3YJnk4x7c) | 2:07 |
 | 29 | [Emergence](https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Emergence](https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH) | 6:26 |
