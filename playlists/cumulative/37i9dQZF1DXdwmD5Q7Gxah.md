@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/this\-year\-the\-fall\-season\-is\-in\-bloom">October newsletter w/ Audrey Hobert is live 🪿</a> Cover: Daniel Caesar
 
-3,594 songs - 8 day 4 hr 33 min
+3,595 songs - 8 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -849,7 +849,7 @@
 | [Doin' Time](https://open.spotify.com/track/0cLS7FslBJgsuWwJNRnPWB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Doin' Time](https://open.spotify.com/album/7FsoMmWTbDXgdwvO1uCQ7d) | 3:21 | 2019-07-30\* | 2019-09-27 |
 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 | 2024-04-13 | 2024-04-24 |
 | [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 | 2024-03-08 | 2024-05-11 |
-| [Doing Now](https://open.spotify.com/track/208Oy9pWhaTlCIcSEtpRAL) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Doing Now](https://open.spotify.com/album/4GUAIskDayvcKmp5VKAIxH) | 3:11 | 2025-08-29 |  |
+| [Doing Now](https://open.spotify.com/track/208Oy9pWhaTlCIcSEtpRAL) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Doing Now](https://open.spotify.com/album/4GUAIskDayvcKmp5VKAIxH) | 3:11 | 2025-08-29 | 2025-10-26 |
 | [Dominic’s Interlude](https://open.spotify.com/track/2sOOXgEGB7nhKO8mmc1GhI) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 1:16 | 2020-01-17 | 2020-02-20 |
 | [Don't Be A Fool](https://open.spotify.com/track/5blpjo0tFAlmc7CmnCWa4T) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Don't Be A Fool](https://open.spotify.com/album/1IVQNLAsFmahMc8r10feQB) | 3:26 | 2020-12-04 | 2021-04-02 |
 | [Don't Be Afraid](https://open.spotify.com/track/0jkaODlyaMJHj0wu4nUL7f) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Don't Be Afraid](https://open.spotify.com/album/2JW7OQd2ZQThQs9Or6eGlS) | 3:33 | 2020-05-14 | 2021-03-06 |
@@ -2493,6 +2493,7 @@
 | [Puppy Love](https://open.spotify.com/track/1aiZFf1PbJNNBNuUmiMXYL) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Contender](https://open.spotify.com/album/75OmZv2K9rN3ySHEvc8GIQ) | 2:59 | 2019-10-04 | 2020-02-21 |
 | [Push N Shuv](https://open.spotify.com/track/08KP4FEV1JZUQu8ZL2Uru9) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Push N Shuv](https://open.spotify.com/album/4NqFASjab96Rtmtu2vCcRR) | 3:31 | 2024-03-14 | 2024-06-22 |
 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 | 2024-09-20 | 2025-01-17 |
+| [Pussy Palace](https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 4:01 | 2025-10-25 |  |
 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2020-06-30 | 2021-05-12 |
 | [PWR](https://open.spotify.com/track/7N2hQ47vk6s35F1rSoodDm) | [Grand Pax](https://open.spotify.com/artist/7KN4ibZ3dD1ey3lfo3ojQt) | [PWR](https://open.spotify.com/album/39w0JS1MaVbfgz6g5YcxbN) | 3:22 | 2020-06-05 | 2020-08-20 |
 | [Quarterback](https://open.spotify.com/track/2OwIGCjx7e7J1HHdAqIv21) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Quarterback](https://open.spotify.com/album/1C51Uu0mo7y96PKMVKkNpU) | 3:00 | 2021-02-19 | 2021-07-31 |

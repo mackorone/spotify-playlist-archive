@@ -1,29 +1,13 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 7710,
+  "num_followers": 7711,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAB9AgVQRxxQ5Bf5SJFB+WeL",
+  "snapshot_id": "aPrBgAAAAACNNqTrMWOy2bcgIbotOVGA",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Salary 4 Life",
-        "url": "https://open.spotify.com/album/2JdhdRFrmEOLRxojMh5y76"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 153027,
-      "name": "Salary 4 Life",
-      "url": "https://open.spotify.com/track/5hbSZEE3pg99Y0Qj330rKT"
-    },
     {
       "added_at": null,
       "album": {
@@ -228,29 +212,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 227683,
-      "name": "Amaka (feat. Peruzzi)",
-      "url": "https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AWAY & BEYOND",
-        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 253857,
-      "name": "Ihe Ne Me",
-      "url": "https://open.spotify.com/track/3sSakgujWHyqR7j1mEUbs5"
+      "duration_ms": 227970,
+      "name": "Opo (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
     },
     {
       "added_at": null,
@@ -275,6 +243,22 @@
       "duration_ms": 163507,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/716irYdOvfRgpu3HeelScT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AWAY & BEYOND",
+        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 253857,
+      "name": "Ihe Ne Me",
+      "url": "https://open.spotify.com/track/3sSakgujWHyqR7j1mEUbs5"
     },
     {
       "added_at": null,
@@ -308,13 +292,29 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
         }
       ],
-      "duration_ms": 227970,
-      "name": "Opo (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
+      "duration_ms": 227683,
+      "name": "Amaka (feat. Peruzzi)",
+      "url": "https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Salary 4 Life",
+        "url": "https://open.spotify.com/album/2JdhdRFrmEOLRxojMh5y76"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 153027,
+      "name": "Salary 4 Life",
+      "url": "https://open.spotify.com/track/5hbSZEE3pg99Y0Qj330rKT"
     },
     {
       "added_at": null,
@@ -331,26 +331,6 @@
       "duration_ms": 289384,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/3mhjJw2JU1cpTfrPA29Jcc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Freestyle",
-          "url": "https://open.spotify.com/artist/6OjW9olmgqjpkqGCzQYT9D"
-        }
-      ],
-      "duration_ms": 291960,
-      "name": "Ole",
-      "url": "https://open.spotify.com/track/1aKQJXeEs0OyaFumj4W3WZ"
     },
     {
       "added_at": null,
@@ -395,6 +375,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Freestyle",
+          "url": "https://open.spotify.com/artist/6OjW9olmgqjpkqGCzQYT9D"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/1aKQJXeEs0OyaFumj4W3WZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "[I.N.I.T] In Nasboi I Trust",
         "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
       },
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face 10.0",
-        "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "Dance Go (Eau De Vie)",
-      "url": "https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grass 2 Grace",
         "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 271720,
       "name": "No Shakin",
       "url": "https://open.spotify.com/track/2I4PuUJLbVQUiGLnZpQRqV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face 10.0",
+        "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Dance Go (Eau De Vie)",
+      "url": "https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iworiwo",
-        "url": "https://open.spotify.com/album/0ILFTgu6ivf2nIzqckeoel"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Iworiwo",
-      "url": "https://open.spotify.com/track/0RiVIkA5HT68LJ4keelVqa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNSTOPPABLE",
         "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
       },
@@ -775,22 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Realness Over Hype",
-        "url": "https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW"
+        "name": "Iworiwo",
+        "url": "https://open.spotify.com/album/0ILFTgu6ivf2nIzqckeoel"
       },
       "artists": [
         {
-          "name": "Victor AD",
-          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
         },
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 165789,
-      "name": "See God",
-      "url": "https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun"
+      "duration_ms": 242400,
+      "name": "Iworiwo",
+      "url": "https://open.spotify.com/track/0RiVIkA5HT68LJ4keelVqa"
     },
     {
       "added_at": null,
@@ -815,22 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+        "name": "Realness Over Hype",
+        "url": "https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW"
       },
       "artists": [
         {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+          "name": "Victor AD",
+          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
         },
         {
-          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
-          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 296693,
-      "name": "U No Holy Pass",
-      "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
+      "duration_ms": 165789,
+      "name": "See God",
+      "url": "https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun"
     },
     {
       "added_at": null,
@@ -847,6 +827,26 @@
       "duration_ms": 236564,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5tLWNKddPYlrtTnQTeKQrz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "duration_ms": 296693,
+      "name": "U No Holy Pass",
+      "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
-          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Thank U Lord",
-      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos to London",
         "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 199650,
       "name": "Suffer Head",
       "url": "https://open.spotify.com/track/7pZV7r4cRLHoUe4UcVBkb9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Thank U Lord",
+      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-555 songs - 1 day 2 hr 59 min
+556 songs - 1 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Grimestar](https://open.spotify.com/track/2dJbz9Q2X33c7l9uCRxoy5) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Grimestar](https://open.spotify.com/album/1eLo0jdJfOvE6oOkLvyEmt) | 2:48 | 2022-12-02 | 2023-08-12 |
 | [Gucci Fendi Prada \- BYOR Remix](https://open.spotify.com/track/7FYV4Nq4IW08XDssxctuyR) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Gucci Fendi Prada \(BYOR Remix\)](https://open.spotify.com/album/34qSP54lisomdVGxqaDy08) | 2:07 | 2021-10-29 | 2022-06-24 |
 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 | 2023-01-06 | 2024-08-31 |
-| [Gwan](https://open.spotify.com/track/0gdRO9lOttSuGgk0MFxQ2C) | [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx), [Sly Phil](https://open.spotify.com/artist/06SYIS4XW5dAf8BQYuOM48) | [Gwan](https://open.spotify.com/album/6MyVi0T4CyZkSjAlC29Isd) | 2:48 | 2025-09-12 |  |
+| [Gwan](https://open.spotify.com/track/0gdRO9lOttSuGgk0MFxQ2C) | [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx), [Sly Phil](https://open.spotify.com/artist/06SYIS4XW5dAf8BQYuOM48) | [Gwan](https://open.spotify.com/album/6MyVi0T4CyZkSjAlC29Isd) | 2:48 | 2025-09-12 | 2025-10-26 |
 | [Hallucinate](https://open.spotify.com/track/1mpChy2KY9BMiIrimM3cXV) | [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Eyes On You EP](https://open.spotify.com/album/4Kkj9lMLAjmrSOlETzGafy) | 2:52 | 2023-10-06 | 2023-11-25 |
 | [Hardcore](https://open.spotify.com/track/0mi7aK49tdp8ES22clJWAB) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [Hardcore](https://open.spotify.com/album/4SqFoofJnq03YWLgcz5YQS) | 2:08 | 2025-07-25 |  |
 | [Hardcore Vibes \- Radio Edit](https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX) | [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y) | [Hardcore Vibes](https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2) | 2:41 | 2022-01-28 | 2022-08-06 |
@@ -274,6 +274,7 @@
 | [Juice](https://open.spotify.com/track/51dzsgG32Z9nPvSdpVwJ86) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Juice](https://open.spotify.com/album/5VhMBWzcMUppdo3UYpSTEP) | 2:36 | 2023-12-15 | 2024-05-14 |
 | [Juicy Sushi](https://open.spotify.com/track/0Y5IZuawYGfvmmLwRz1YW2) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Juicy Sushi](https://open.spotify.com/album/3tKRSStZAlKxPsW9RuOZI2) | 2:24 | 2021-10-29 | 2022-04-20 |
 | [Jump](https://open.spotify.com/track/2YmJ7GSvltpviGIIatXcZB) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P) | [Jump](https://open.spotify.com/album/4Ch2r1VGfR8x2uaznYAnlr) | 2:49 | 2024-04-19 | 2024-05-04 |
+| [Jumpin](https://open.spotify.com/track/2hNss6COTP0Vev63tdcrz2) | [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW), [Mike Renza](https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI), [ALKEMY](https://open.spotify.com/artist/771D3936gQeS3Dw5qLcHR2) | [Jumpin](https://open.spotify.com/album/3cGPTrlJGeTpC5aJheKBYL) | 2:44 | 2025-10-17 |  |
 | [Just Like You](https://open.spotify.com/track/3KX6ILZKKVZwCqLQGtrjCk) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Just Like You](https://open.spotify.com/album/6Nyy3Mp85GkTtQV8eMv5Dy) | 2:40 | 2023-05-05 | 2023-06-05 |
 | [Keep On Dancin’](https://open.spotify.com/track/2tZ6RENHFCbw6vyv0LRcZP) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2) | [Keep On Dancin’](https://open.spotify.com/album/2Uailrdpotagi31qGYaKOj) | 3:27 | 2025-08-22 |  |
 | [Kush](https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Kush](https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr) | 2:36 | 2021-10-29 | 2023-09-23 |

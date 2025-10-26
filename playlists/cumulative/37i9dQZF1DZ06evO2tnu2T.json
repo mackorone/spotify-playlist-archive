@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169394,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/71QKcBjRSoGBMNPByY715u"
+    },
+    {
+      "album": {
         "name": "CEREBRUM",
         "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
       },
@@ -114,6 +136,28 @@
       "duration_ms": 211010,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6P6RvzP7XmTIfiGrxT7nvb"
+    },
+    {
+      "album": {
+        "name": "PRINCESS OF POWER (DELUXE)",
+        "url": "https://open.spotify.com/album/7KKQfFKPruJ3lHVVtwGuo7"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247846,
+      "name": "EVERYBODY KNOWS I'M SAD - REMIX",
+      "url": "https://open.spotify.com/track/15BYAhv1YFKwKaOIJz1r9s"
     },
     {
       "album": {

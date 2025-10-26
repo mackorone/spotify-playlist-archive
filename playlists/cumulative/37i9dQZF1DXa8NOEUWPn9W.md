@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring SIDEPIECE
 
-1,304 songs - 3 day 3 hr 12 min
+1,305 songs - 3 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [Falling](https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Chemistry](https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2) | 4:10 | 2025-07-18 |  |
 | [Fancy $hit](https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Fancy $hit](https://open.spotify.com/album/2DFFAszheHpFsCnCUUyQgh) | 2:48 | 2025-09-12 |  |
 | [Fantasy](https://open.spotify.com/track/4oIm6Nv85IWMOPv4Gq0EMN) | [Jamie Roy](https://open.spotify.com/artist/79ABJJGvLA87FSIayREkBM), [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Fantasy](https://open.spotify.com/album/1fEfDgrXuU5yjQ8gu87AXV) | 2:57 | 2021-12-31 | 2022-07-24 |
-| [Fantasy](https://open.spotify.com/track/3Zxk5JSzCm1RaIIfjOuxA2) | [RSquared](https://open.spotify.com/artist/3uuAdAghYzgytUdLDQUHZ2) | [Fantasy](https://open.spotify.com/album/0u8jY4zJHvv5QWi7DwIrcG) | 3:24 | 2025-08-29 |  |
+| [Fantasy](https://open.spotify.com/track/3Zxk5JSzCm1RaIIfjOuxA2) | [RSquared](https://open.spotify.com/artist/3uuAdAghYzgytUdLDQUHZ2) | [Fantasy](https://open.spotify.com/album/0u8jY4zJHvv5QWi7DwIrcG) | 3:24 | 2025-08-29 | 2025-10-26 |
 | [Faster](https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Faster](https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU) | 3:00 | 2023-04-21 | 2023-08-05 |
 | [Feel It](https://open.spotify.com/track/2PpQ4n7hQ5AwMwK8bXj3Jg) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Feel It](https://open.spotify.com/album/14ghaAapVtnVCDldY9Fvuq) | 3:23 | 2024-06-07 | 2024-10-26 |
 | [Feel It](https://open.spotify.com/track/2MhH5aAORsvCgl3E8aOC1q) | [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Feel It](https://open.spotify.com/album/0Xlrltos3265GCIltt7uXX) | 3:00 | 2022-05-27 | 2022-07-25 |
@@ -843,6 +843,7 @@
 | [No Maybe \- \(Feliciano Classic Vocal\) \[Timmy Regisford Edit\]](https://open.spotify.com/track/2bokGpcJFDjp8lHrEnVmDp) | [Frankie Feliciano](https://open.spotify.com/artist/5KjteRQRJaHk16aYeZ08Ej), [Terry Dexter](https://open.spotify.com/artist/0tcTyQkSJfYkSk8cZPEZxj), [Timmy Regisford](https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH) | [Soulful Respect, Vol\. 3](https://open.spotify.com/album/2poWawA4iy5nRYrr09KkE7) | 5:32 | 2022-12-28 | 2023-01-06 |
 | [No More Looking Back \(feat\. Steffanie Christi'an\)](https://open.spotify.com/track/4f3boNz24gG32cajPw9Nlr) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Steffanie Christi'an](https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF) | [No More Looking Back \(feat\. Steffanie Christi'an\)](https://open.spotify.com/album/0byX29TOMFlZXWp5C5tLP5) | 3:23 | 2021-03-27\* | 2021-07-04 |
 | [No Reason \- Chris Lake Remix](https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [No Reason \(Chris Lake Remix\)](https://open.spotify.com/album/3TEApFY0nZSH1JTceGBK53) | 4:17 | 2024-01-12 | 2024-06-26 |
+| [No Sleep](https://open.spotify.com/track/6HDkeyKBhD0Q4WKDH7h3vA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [No Sleep](https://open.spotify.com/album/4POnL7gotVAGL4cHd86wBs) | 2:42 | 2025-10-24 |  |
 | [No Sleep \(6AM\) \(feat\. MERYLL\)](https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [No Sleep \(6AM\) \(feat\. MERYLL\)](https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro) | 2:26 | 2023-10-13 | 2024-09-07 |
 | [Nonchalant](https://open.spotify.com/track/2TETqexWXvMdhbYy7kJrZa) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Nonchalant](https://open.spotify.com/album/2j7CqGE9h7DavHANakekLP) | 3:10 | 2021-08-14 | 2022-07-29 |
 | [Northern Rhythm](https://open.spotify.com/track/2IgNL5Q4nA3bBENrY8FKKK) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Northern Rhythm](https://open.spotify.com/album/2YXgma0zulEI2l8BGlfCZe) | 3:27 | 2024-06-14 | 2024-06-29 |

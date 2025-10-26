@@ -1,6 +1,6 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Alessia Cara",
-  "num_followers": 735559,
+  "num_followers": 735553,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
@@ -752,6 +752,22 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 215281,
+      "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
       },
       "artists": [
@@ -768,17 +784,17 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
+        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 215281,
-      "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
+      "duration_ms": 261893,
+      "name": "The Best - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/7cBAltYsu55X4BgiOUjaSY"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -799,22 +815,6 @@
       "duration_ms": 235264,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/4Nh0VN6kYKzcZHBwXWtZDD"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 261893,
-      "name": "The Best - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/7cBAltYsu55X4BgiOUjaSY"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-01-11 19:54:48",
       "album": {
-        "name": "spotify singles",
-        "url": "https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 208710,
-      "name": "feel good inc (bbno$ re-finessed) - spotify single",
-      "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 184417,
       "name": "Hey Ya! - Live Session from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "spotify singles",
+        "url": "https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 208710,
+      "name": "feel good inc (bbno$ re-finessed) - spotify single",
+      "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1468,22 +1468,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Tequila - Live Session at Sound Stage Studios, Nashville, TN",
-      "url": "https://open.spotify.com/track/3yj6urYIInWjuE9YzUOKFT"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
       },
       "artists": [
@@ -1495,6 +1479,22 @@
       "duration_ms": 211662,
       "name": "All On Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Tequila - Live Session at Sound Stage Studios, Nashville, TN",
+      "url": "https://open.spotify.com/track/3yj6urYIInWjuE9YzUOKFT"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1772,22 +1772,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/76vwVXwTpLFl6FOFJGjPsg"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 292367,
-      "name": "Crazy - Spotify Singles",
-      "url": "https://open.spotify.com/track/11HrFfyr0btlPPBdGjqV7e"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
       },
       "artists": [
@@ -1799,6 +1783,22 @@
       "duration_ms": 337837,
       "name": "Everything Now - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/76vwVXwTpLFl6FOFJGjPsg"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 292367,
+      "name": "Crazy - Spotify Singles",
+      "url": "https://open.spotify.com/track/11HrFfyr0btlPPBdGjqV7e"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2023-01-11 19:54:48",
       "album": {
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3wTu31uEBJ7CFl0HstePX0"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 244315,
       "name": "Stay - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/62Jyekez6V8uxcxxq5sxRE"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5hLin1G9HnweybsmPME5QV"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 214381,
-      "name": "Summer Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3LSnp6mtKiVXCJwsmOvfMd"
     }
   ],
   "unique_name": "Spotify Singles: Hits",

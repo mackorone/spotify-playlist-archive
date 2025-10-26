@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 48878,
+  "num_followers": 48926,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAACpdWT8wtGXAv5uNQFLpqaa",
+  "snapshot_id": "aPrBgAAAAAD9jrTJLLvOLjo/N0RtAA8N",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,30 @@
       "duration_ms": 153431,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Que Color Es La Suerte",
+        "url": "https://open.spotify.com/album/7Luhi6dMH1sWR1KhrWrGOD"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 221617,
+      "name": "De Que Color Es La Suerte",
+      "url": "https://open.spotify.com/track/2RhyI9fUK2bEn6blowOh9w"
     },
     {
       "added_at": null,
@@ -403,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/2ErW404SVZ8KbcA5y1t33T"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 158391,
-      "name": "Puro Pa\u2019 Delante",
-      "url": "https://open.spotify.com/track/7LB36Pf828QzWhZ4F33wXK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frente a Frente",
         "url": "https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH"
       },
@@ -443,22 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HDTPM",
-        "url": "https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1"
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/2ErW404SVZ8KbcA5y1t33T"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 157874,
-      "name": "HDTPM",
-      "url": "https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5"
+      "duration_ms": 158391,
+      "name": "Puro Pa\u2019 Delante",
+      "url": "https://open.spotify.com/track/7LB36Pf828QzWhZ4F33wXK"
     },
     {
       "added_at": null,
@@ -475,6 +479,26 @@
       "duration_ms": 142357,
       "name": "En Los Puritos Huesos - En Vivo",
       "url": "https://open.spotify.com/track/3lrhIGDAi0AELopgjKVJJf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HDTPM",
+        "url": "https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 157874,
+      "name": "HDTPM",
+      "url": "https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5"
     },
     {
       "added_at": null,
@@ -603,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 172963,
-      "name": "Un D\u00eda Antes",
-      "url": "https://open.spotify.com/track/4HIefvvG2aMsrSuTgx9vxL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Ando Solo",
         "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
       },
@@ -643,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 172963,
+      "name": "Un D\u00eda Antes",
+      "url": "https://open.spotify.com/track/4HIefvvG2aMsrSuTgx9vxL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos 602 Vol.2",
         "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
       },
@@ -655,26 +679,6 @@
       "duration_ms": 151927,
       "name": "Ebrio De Amor",
       "url": "https://open.spotify.com/track/6Tkg79X9NrpYwWyl4dspKU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Envidia Se Dio Cuenta (En Vivo)",
-        "url": "https://open.spotify.com/album/63XdgF882pL2ryGEM8jPSR"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 206271,
-      "name": "La Envidia Se Dio Cuenta - En Vivo",
-      "url": "https://open.spotify.com/track/46WJUGGILoo7R7GwheR1wh"
     },
     {
       "added_at": null,
@@ -695,6 +699,26 @@
       "duration_ms": 153709,
       "name": "NO VOLVERE - En Vivo desde Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/5VeaJKovkYUfGvjCOdjL9M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Envidia Se Dio Cuenta (En Vivo)",
+        "url": "https://open.spotify.com/album/63XdgF882pL2ryGEM8jPSR"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 206271,
+      "name": "La Envidia Se Dio Cuenta - En Vivo",
+      "url": "https://open.spotify.com/track/46WJUGGILoo7R7GwheR1wh"
     },
     {
       "added_at": null,
@@ -771,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Cambio la Suerte",
-        "url": "https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 171430,
-      "name": "Me Cambio la Suerte",
-      "url": "https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Ando Solo",
         "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
       },
@@ -803,6 +811,22 @@
       "duration_ms": 224448,
       "name": "El Michoacano",
       "url": "https://open.spotify.com/track/0W3reeRq2mS49FCo8bRzGY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Cambio la Suerte",
+        "url": "https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 171430,
+      "name": "Me Cambio la Suerte",
+      "url": "https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c"
     },
     {
       "added_at": null,
@@ -871,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Fruta Prohibida - En Vivo",
+      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Le Compre Casa A Mi Ama",
         "url": "https://open.spotify.com/album/07FJaS98fuH5mX2AwPbscW"
       },
@@ -891,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Fruta Prohibida - En Vivo",
-      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -923,22 +947,6 @@
       "duration_ms": 242928,
       "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 202509,
-      "name": "Alto y Piel Morena",
-      "url": "https://open.spotify.com/track/0utj0xCPvTGptQ60MrqNeh"
     }
   ],
   "unique_name": "This Is Edgardo Nu\u00f1ez",

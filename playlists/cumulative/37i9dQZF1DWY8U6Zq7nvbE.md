@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-467 songs - 1 day 1 hr 16 min
+468 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Me Without You \- Acoustic](https://open.spotify.com/track/49rkYEtnlibPEbs4U9Utxw) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/4LHnPUfu5s8zcIorVvSfFD) | 3:11 | 2021-03-11 | 2022-10-15 |
 | [Me Without You \- Acoustic](https://open.spotify.com/track/5XsMfRcxAXa2efZQt80v5L) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/4pz9P63oJ2hV8BPakZYxny) | 3:11 | 2022-10-14 | 2022-11-26 |
 | [Meant To Be \- Acoustic](https://open.spotify.com/track/4x4YYSx3fdhM5tSmDCcJY0) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [The Acoustic Sessions](https://open.spotify.com/album/3GV2TdiVjl8E5XXBEuiiyX) | 2:44 | 2021-03-11 | 2023-10-28 |
+| [Memories](https://open.spotify.com/track/5YbBNsK5ftR2vazlPiL1ZZ) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Memories](https://open.spotify.com/album/0texx5CYZmR9bngDQpTZeC) | 2:23 | 2025-10-14 |  |
 | [Memories \(Acoustic\)](https://open.spotify.com/track/1m3Lsbhkn6yL8apzsCiukd) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Memories \(Acoustic\)](https://open.spotify.com/album/0wNdH4MR2O0YvIa41x7v3Y) | 3:03 | 2021-03-11 | 2022-11-26 |
 | [Mercy \- Acoustic](https://open.spotify.com/track/0uZnF1sn2IcNCvnyAIKNMQ) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:39 | 2022-11-11 | 2023-10-28 |
 | [Modern Loneliness \- acoustic](https://open.spotify.com/track/21OihIGdTCAL856FOjcs3j) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 4:12 | 2022-11-11 | 2022-11-17 |
@@ -337,7 +338,7 @@
 | [People](https://open.spotify.com/track/0uXTFIFDxA7Wxaq56rhN9C) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [People](https://open.spotify.com/album/3HF431lIPIv0IGcVUpmnxW) | 2:52 | 2023-06-08 |  |
 | [Photograph](https://open.spotify.com/track/6CgNoAbFJ4Q4Id4EjtbXlC) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 4](https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD) | 4:20 | 2022-11-25 | 2023-10-28 |
 | [Pillow Talk \(Acoustic\)](https://open.spotify.com/track/3u1RjvWGVcVWPUMMbhDaA7) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Pillow Talk \(Acoustic\)](https://open.spotify.com/album/3zmJKO6OA2iy1J2ml9nvGz) | 3:30 | 2022-10-26 | 2023-10-28 |
-| [Pillowtalk](https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Pillowtalk](https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz) | 2:33 | 2023-01-04 |  |
+| [Pillowtalk](https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Pillowtalk](https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz) | 2:33 | 2023-01-04 | 2025-10-26 |
 | [PILLOWTALK \- the living room session](https://open.spotify.com/track/3Tluzy27Qdbe8aRK2OCQf3) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [PILLOWTALK \(the living room session\)](https://open.spotify.com/album/7bWxyXxuT9LVzVkgDEWm5V) | 2:25 | 2022-10-14 | 2022-10-27 |
 | [Pink Pony Club](https://open.spotify.com/track/79ketFeLc2HSIYqLge8hb9) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Pink Pony Club](https://open.spotify.com/album/2pQ0Ls61JrqtTY4ZTZkQiw) | 3:16 | 2025-07-24 |  |
 | [Pulling Away \(acoustic\)](https://open.spotify.com/track/2Vu3quMGnCUE9UKmtzxYjj) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love \- Acoustic](https://open.spotify.com/album/7Brn5xksipm26z6uGJ7Dt2) | 3:28 | 2023-04-14 | 2023-10-28 |

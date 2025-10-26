@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde el urbano y la música mexicana se unen\.  Nash en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,194 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,205 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 49 | [El Mayor de los Ranas](https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [El Mayor de los Ranas](https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h) | 2:52 |
 | 50 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
 
-Snapshot ID: `AAAAAHxDVhINkqWXJj3VjeFAgD2jzhfe`
+Snapshot ID: `AAAAAPg4sGCLr1UtRXjJRer0v5SrV01A`

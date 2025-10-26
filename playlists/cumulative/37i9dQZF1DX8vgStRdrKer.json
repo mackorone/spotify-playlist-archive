@@ -391,6 +391,72 @@
     },
     {
       "album": {
+        "name": "Alagbara",
+        "url": "https://open.spotify.com/album/1kypOCpT6scvbCNE177L2W"
+      },
+      "artists": [
+        {
+          "name": "Ty Bello",
+          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
+        },
+        {
+          "name": "WeAreTheNew",
+          "url": "https://open.spotify.com/artist/1lVM02LC8pM8pxbnmtDeKw"
+        },
+        {
+          "name": "Pastor Shola Okodugha",
+          "url": "https://open.spotify.com/artist/2CcSi56yoYs8faHU3hceZw"
+        },
+        {
+          "name": "BBO",
+          "url": "https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd"
+        },
+        {
+          "name": "Pelumi Deborah",
+          "url": "https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx"
+        },
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Kelvin Nkwoala",
+          "url": "https://open.spotify.com/artist/7hBJrXHYfY6Pi4l4kG36p7"
+        },
+        {
+          "name": "Victorious Lucas",
+          "url": "https://open.spotify.com/artist/4VZkSLOrUCES0y6noPKn3A"
+        },
+        {
+          "name": "James Vincent",
+          "url": "https://open.spotify.com/artist/4XFX8zfCKhKfwmpKQG0fJO"
+        },
+        {
+          "name": "Eunice Jossy",
+          "url": "https://open.spotify.com/artist/6D5Ls3TSy4pTtpEBGbQcZM"
+        },
+        {
+          "name": "Bada Godwin",
+          "url": "https://open.spotify.com/artist/3OpSfWD36e1vwrf16uou9F"
+        },
+        {
+          "name": "121SELAH",
+          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
+        },
+        {
+          "name": "Unabridged",
+          "url": "https://open.spotify.com/artist/3aO45HJLoEIUUsMlqNcQrx"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398774,
+      "name": "Alagbara",
+      "url": "https://open.spotify.com/track/5z9tMTGaBdOs0UccZ5v3XJ"
+    },
+    {
+      "album": {
         "name": "Joyous Celebration 28 (Live at Durban Icc)",
         "url": "https://open.spotify.com/album/0kORCJYTN3LuO0z1HFycAU"
       },
@@ -1342,7 +1408,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 254051,
       "name": "Baba Ibeji",
       "url": "https://open.spotify.com/track/11L9IIVIAKloKykPmMUeD6"
@@ -8553,6 +8619,24 @@
     },
     {
       "album": {
+        "name": "Obuka (Mighty)",
+        "url": "https://open.spotify.com/album/0EDY4ohvUrbcxf4rp3Nhms"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278059,
+      "name": "Obuka (Mighty)",
+      "url": "https://open.spotify.com/track/3IsW3qsjkkVyzr2SjPYYUw"
+    },
+    {
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/2zhTFff14LRMDmYPC3WVhi"
       },
@@ -11186,7 +11270,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 326565,
       "name": "There Is More - Live",
       "url": "https://open.spotify.com/track/4ZkSdzNLmrUk5xRdZFx9PL"

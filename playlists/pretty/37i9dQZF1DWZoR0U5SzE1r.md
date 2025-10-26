@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Continue giving God praise with these classic worship songs! Cover: Darlene Zschech
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,929 likes - 100 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,093 likes - 100 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,15 +86,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 76 | [He Reigns](https://open.spotify.com/track/29CXyxlvSPr0DXDQmoxz8d) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Adoration](https://open.spotify.com/album/5F4yNhrLTICVqV3hMKdfig) | 4:55 |
 | 77 | [You Are Holy \(Prince Of Peace\)](https://open.spotify.com/track/1gUoaZkPi7vMZdxMlGsGOw) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [The Second Decade 1993\-2003](https://open.spotify.com/album/6jyFDjBUZk1CgirjSOTh8s) | 5:20 |
 | 78 | [Where The Spirit Of The Lord Is](https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Death Of Death](https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C) | 3:37 |
-| 79 | [How Deep The Father's Love For Us](https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Deliver Me](https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk) | 3:24 |
-| 80 | [Way Maker](https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Way Maker](https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx) | 4:02 |
+| 79 | [Way Maker](https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Way Maker](https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx) | 4:02 |
+| 80 | [How Deep The Father's Love For Us](https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Deliver Me](https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk) | 3:24 |
 | 81 | [Yet Not I but Through Christ in Me](https://open.spotify.com/track/7sxPwx9sBZVD6LR4oEwnc6) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Yet Not I](https://open.spotify.com/album/4FJlpbrkDo1JJymeNEjHJT) | 5:31 |
 | 82 | [YOUR NAME IS POWER](https://open.spotify.com/track/161pnfRpiTTMZC1NWmjwh4) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [YOUR NAME IS POWER](https://open.spotify.com/album/18yGXV5AlRfJV8HrsBXD2A) | 3:56 |
 | 83 | [Awesome God](https://open.spotify.com/track/5niLKxgCj4UriedJmPtJld) | [Rich Mullins](https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps) | [Winds Of Heaven, Stuff Of Earth](https://open.spotify.com/album/7gMKbTLjTvHSxRJmdnRUZ5) | 3:03 |
-| 84 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
-| 85 | [The Power of Your Name](https://open.spotify.com/track/6Y6s7XxfE0uHrh2V4hM8EF) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Power of Your Name](https://open.spotify.com/album/11ERH4AY90y6lkIn5HwJrb) | 6:35 |
-| 86 | [Fountain \(I Am Good\) \- Live](https://open.spotify.com/track/0rrDGNRps64Pgz1Gw6AYBi) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [HUMAN \(Live\)](https://open.spotify.com/album/7HmAM0U9QhlkQiIYZU4lYm) | 5:18 |
-| 87 | [You Reign \- Live](https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [You Reign \(Live\)](https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ) | 6:30 |
+| 84 | [The Power of Your Name](https://open.spotify.com/track/6Y6s7XxfE0uHrh2V4hM8EF) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Power of Your Name](https://open.spotify.com/album/11ERH4AY90y6lkIn5HwJrb) | 6:35 |
+| 85 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
+| 86 | [You Reign \- Live](https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [You Reign \(Live\)](https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ) | 6:30 |
+| 87 | [Fountain \(I Am Good\) \- Live](https://open.spotify.com/track/0rrDGNRps64Pgz1Gw6AYBi) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [HUMAN \(Live\)](https://open.spotify.com/album/7HmAM0U9QhlkQiIYZU4lYm) | 5:18 |
 | 88 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Hallelujah For The Cross \(Live\)](https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL) | 5:31 |
 | 89 | [King Of The World](https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:36 |
 | 90 | [Fearless \- Live](https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Fearless / Fill Up The Sky \(Live\)](https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A) | 4:40 |

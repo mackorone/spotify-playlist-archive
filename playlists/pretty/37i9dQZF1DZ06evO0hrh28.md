@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 
 > This is Emilia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,375 likes - 46 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,428 likes - 46 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 45 | [Maldita Noche \- En Vivo Estadio Vélez](https://open.spotify.com/track/3bVNfqtC79TZsJK7bk9KVg) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Maldita Noche \(En Vivo Estadio Vélez\)](https://open.spotify.com/album/23FWVbvXgThUs3J3fWKYtH) | 3:30 |
 | 46 | [El Plan](https://open.spotify.com/track/2oEQCtOciINCIQBvCs6yyj) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [El Plan](https://open.spotify.com/album/0JxHCoRxyFbzLroVHAsAcs) | 3:37 |
 
-Snapshot ID: `aPlwAAAAAAAkv05vfIH28CPcmOE9ZLae`
+Snapshot ID: `aPrBgAAAAACLf3mYUYxCBL6cvQv8a3b+`

@@ -92,6 +92,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 82 | [Come On & Get It](https://open.spotify.com/track/5qZZo8XGfe2XPt9ggCV3dA) | [DJ Dan](https://open.spotify.com/artist/4w7PNHWFtN2CNkDNhDL7c3), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [L.P.](https://open.spotify.com/artist/0EiFuHVGo5D7B8JeeOg3bK) | [DJ Dan Presents Future Retro](https://open.spotify.com/album/7rVQG7r5pRfKOVKRV0lX05) | 3:12 |
 | 83 | [Roller Coaster](https://open.spotify.com/track/6elXVlR9dJliy71mybZP7s) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Utopia \(Deluxe\)](https://open.spotify.com/album/0GAtHpvRswlQ1ONVQgz9q5) | 3:30 |
 | 84 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
-| 85 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
+| 85 | [Pedestal](https://open.spotify.com/track/2uuG0q0NJCODSZxo3Q3RX8) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/0fetHuPcxKROz43WYu3J31) | 3:25 |
 
-Snapshot ID: `Ab/wJgAAAAByEKyyHtbbFaG0IGizu1Gb`
+Snapshot ID: `Ab/1xgAAAABPMGWC4TEkMxodKybr0rZU`

@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 2949,
+  "num_followers": 2952,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
+        "name": "Il Cielo Della Vergine",
+        "url": "https://open.spotify.com/album/60MK9V8B2IP2TuCwDdb1R9"
+      },
+      "artists": [
+        {
+          "name": "Marco Masini",
+          "url": "https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD"
+        }
+      ],
+      "duration_ms": 321600,
+      "name": "Bella stronza",
+      "url": "https://open.spotify.com/track/6zaqjLbBdfkdHUWtQzvrK2"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
         "name": "Neffa E I Messaggeri Della Dopa",
         "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 312000,
       "name": "Aspettando Il Sole",
       "url": "https://open.spotify.com/track/0HgSaG6pYR3Nlt45GQyrKp"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
-        "name": "Il Cielo Della Vergine",
-        "url": "https://open.spotify.com/album/60MK9V8B2IP2TuCwDdb1R9"
-      },
-      "artists": [
-        {
-          "name": "Marco Masini",
-          "url": "https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD"
-        }
-      ],
-      "duration_ms": 321600,
-      "name": "Bella stronza",
-      "url": "https://open.spotify.com/track/6zaqjLbBdfkdHUWtQzvrK2"
     },
     {
       "added_at": "2025-03-03 09:30:09",

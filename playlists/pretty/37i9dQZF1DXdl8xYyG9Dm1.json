@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Blaqbonez",
-  "num_followers": 181946,
+  "num_followers": 182005,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -215,26 +215,18 @@
     {
       "added_at": "2025-10-24 00:01:28",
       "album": {
-        "name": "PAY ME",
-        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
+        "name": "THE MACHINE IS COMING",
+        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
       },
       "artists": [
         {
           "name": "ODUMODUBLVCK",
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 210574,
-      "name": "PAY ME (feat. Stormzy and Zlatan)",
-      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
+      "duration_ms": 169285,
+      "name": "LEGOLAS",
+      "url": "https://open.spotify.com/track/0OWPr4POCQ7iH9BGmTxOZV"
     },
     {
       "added_at": "2025-10-24 00:01:28",
@@ -275,26 +267,22 @@
     {
       "added_at": "2025-10-24 00:01:28",
       "album": {
-        "name": "JUJU (feat. Shallipopi)",
-        "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
       },
       "artists": [
         {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         },
         {
           "name": "ODUMODUBLVCK",
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 157756,
-      "name": "JUJU (feat. Shallipopi)",
-      "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
+      "duration_ms": 157614,
+      "name": "WAR MACHINE",
+      "url": "https://open.spotify.com/track/4tw5Za3CCg7QpFj3sGDGww"
     },
     {
       "added_at": "2025-10-24 00:01:28",
@@ -319,38 +307,50 @@
     {
       "added_at": "2025-10-24 00:01:28",
       "album": {
-        "name": "THE MACHINE IS COMING",
-        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
+        "name": "PAY ME",
+        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
       "artists": [
         {
           "name": "ODUMODUBLVCK",
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 169285,
-      "name": "LEGOLAS",
-      "url": "https://open.spotify.com/track/0OWPr4POCQ7iH9BGmTxOZV"
+      "duration_ms": 210574,
+      "name": "PAY ME (feat. Stormzy and Zlatan)",
+      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
     },
     {
       "added_at": "2025-10-24 00:01:28",
       "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+        "name": "JUJU (feat. Shallipopi)",
+        "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
         },
         {
           "name": "ODUMODUBLVCK",
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 157614,
-      "name": "WAR MACHINE",
-      "url": "https://open.spotify.com/track/4tw5Za3CCg7QpFj3sGDGww"
+      "duration_ms": 157756,
+      "name": "JUJU (feat. Shallipopi)",
+      "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
     },
     {
       "added_at": "2025-10-24 00:01:28",
@@ -663,22 +663,22 @@
     {
       "added_at": "2025-10-24 00:01:28",
       "album": {
-        "name": "Leftie (Dlala Ngcobo)",
-        "url": "https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD"
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 148869,
-      "name": "Leftie (Dlala Ngcobo)",
-      "url": "https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k"
+      "duration_ms": 155500,
+      "name": "NYEM EGO (feat. Jeriq)",
+      "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
     },
     {
       "added_at": "2025-10-24 00:01:28",
@@ -703,22 +703,22 @@
     {
       "added_at": "2025-10-24 00:01:28",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+        "name": "Leftie (Dlala Ngcobo)",
+        "url": "https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         },
         {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
         }
       ],
-      "duration_ms": 155500,
-      "name": "NYEM EGO (feat. Jeriq)",
-      "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
+      "duration_ms": 148869,
+      "name": "Leftie (Dlala Ngcobo)",
+      "url": "https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k"
     },
     {
       "added_at": "2025-10-24 00:01:28",
@@ -919,26 +919,6 @@
     {
       "added_at": "2025-10-24 00:01:28",
       "album": {
-        "name": "MSP",
-        "url": "https://open.spotify.com/album/3DercX1wefziUL8AjaLlZo"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        },
-        {
-          "name": "DJ Speedsta",
-          "url": "https://open.spotify.com/artist/3sNkVGehC2a2YkD346mk87"
-        }
-      ],
-      "duration_ms": 153285,
-      "name": "MSP",
-      "url": "https://open.spotify.com/track/6Fmf4e8VM4Eug4QhjIpt5I"
-    },
-    {
-      "added_at": "2025-10-24 00:01:28",
-      "album": {
         "name": "Gbagada Express Vol 2: Moving Mad",
         "url": "https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p"
       },
@@ -999,6 +979,26 @@
     {
       "added_at": "2025-10-24 00:01:28",
       "album": {
+        "name": "MSP",
+        "url": "https://open.spotify.com/album/3DercX1wefziUL8AjaLlZo"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "DJ Speedsta",
+          "url": "https://open.spotify.com/artist/3sNkVGehC2a2YkD346mk87"
+        }
+      ],
+      "duration_ms": 153285,
+      "name": "MSP",
+      "url": "https://open.spotify.com/track/6Fmf4e8VM4Eug4QhjIpt5I"
+    },
+    {
+      "added_at": "2025-10-24 00:01:28",
+      "album": {
         "name": "Hello Habibi",
         "url": "https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07"
       },
@@ -1039,18 +1039,22 @@
     {
       "added_at": "2025-10-24 00:01:28",
       "album": {
-        "name": "Psychic",
-        "url": "https://open.spotify.com/album/7m4DGtbnhvJowSnmFbqmcT"
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 142203,
-      "name": "Psychic",
-      "url": "https://open.spotify.com/track/4gHuikjFbQimWW33jXCEdU"
+      "duration_ms": 200869,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
     },
     {
       "added_at": "2025-10-24 00:01:28",
@@ -1075,22 +1079,18 @@
     {
       "added_at": "2025-10-24 00:01:28",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
+        "name": "Psychic",
+        "url": "https://open.spotify.com/album/7m4DGtbnhvJowSnmFbqmcT"
       },
       "artists": [
         {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "duration_ms": 200869,
-      "name": "Fallen Angel",
-      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
+      "duration_ms": 142203,
+      "name": "Psychic",
+      "url": "https://open.spotify.com/track/4gHuikjFbQimWW33jXCEdU"
     },
     {
       "added_at": "2025-10-24 00:01:28",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-10-24 00:01:28",
       "album": {
-        "name": "I No Be God",
-        "url": "https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "I No Be God",
-      "url": "https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD"
-    },
-    {
-      "added_at": "2025-10-24 00:01:28",
-      "album": {
         "name": "Who's Really Rapping",
         "url": "https://open.spotify.com/album/31rjI4OFkFfhrnkZjBUUZ0"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 178802,
       "name": "Who's Really Rapping",
       "url": "https://open.spotify.com/track/6YXiZEP5bMhEQV5TJovgnz"
+    },
+    {
+      "added_at": "2025-10-24 00:01:28",
+      "album": {
+        "name": "I No Be God",
+        "url": "https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "I No Be God",
+      "url": "https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD"
     },
     {
       "added_at": "2025-10-24 00:01:28",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2025-10-24 00:01:28",
       "album": {
-        "name": "DUST DLX",
-        "url": "https://open.spotify.com/album/5lAKuTxBfJ4QMRlSsnm5aU"
-      },
-      "artists": [
-        {
-          "name": "Priddy Ugly",
-          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        }
-      ],
-      "duration_ms": 242532,
-      "name": "Supa",
-      "url": "https://open.spotify.com/track/4yvawLQsRjLwONtQ04qWb6"
-    },
-    {
-      "added_at": "2025-10-24 00:01:28",
-      "album": {
         "name": "Abebrese",
         "url": "https://open.spotify.com/album/5ZdHKnvxVASTL9RQ82QluX"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 260963,
       "name": "Abebrese",
       "url": "https://open.spotify.com/track/6wXa8h2vC297a8ks2Ta9Gu"
+    },
+    {
+      "added_at": "2025-10-24 00:01:28",
+      "album": {
+        "name": "DUST DLX",
+        "url": "https://open.spotify.com/album/5lAKuTxBfJ4QMRlSsnm5aU"
+      },
+      "artists": [
+        {
+          "name": "Priddy Ugly",
+          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        }
+      ],
+      "duration_ms": 242532,
+      "name": "Supa",
+      "url": "https://open.spotify.com/track/4yvawLQsRjLwONtQ04qWb6"
     }
   ],
   "unique_name": "Afro Bars ",

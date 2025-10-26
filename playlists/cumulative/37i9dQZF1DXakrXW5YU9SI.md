@@ -4,7 +4,7 @@
 
 > Jesień  z błogimi dźwiękami 🍂
 
-696 songs - 1 day 14 hr 55 min
+697 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 | 2025-06-27 | 2025-09-16 |
 | [All Too Well \(Taylor's Version\)](https://open.spotify.com/track/3nsfB1vus2qaloUdcBZvDu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 5:29 | 2025-09-15 |  |
 | [Allergies \(feat\. Delaney Bailey\)](https://open.spotify.com/track/0QH4XjlKSY8Gdory7hG4ZN) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71), [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Allergies \(feat\. Delaney Bailey\)](https://open.spotify.com/album/2flxq9q7ZB2QNt3c6ZJhsz) | 3:24 | 2024-07-25 | 2024-08-04 |
+| [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 | 2025-10-23 |  |
 | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/track/1WKafez8TM4dVYlSsxi6dS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a) | 3:18 | 2025-06-27 | 2025-09-16 |
 | [Americano](https://open.spotify.com/track/7pcm6FZQ5Bcqp3AEbj6zck) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Americano](https://open.spotify.com/album/5t0YOz2ro4uCbbQsRZjh9n) | 3:49 | 2025-08-01 | 2025-10-24 |
 | [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:17 | 2024-09-12 | 2024-11-22 |
@@ -198,7 +199,7 @@
 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 | 2024-07-11 | 2024-09-13 |
 | [Fly Or Burn](https://open.spotify.com/track/5XyV6WUdtZuMJ6vloz8LKy) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Fly Or Burn](https://open.spotify.com/album/6ccFSIicUBAXD3oVFXDuA6) | 2:08 | 2025-06-09 | 2025-06-29 |
 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-09-19 |  |
-| [folding chairs on the moon](https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [folding chairs on the moon](https://open.spotify.com/album/3pNeAqZF4s1icAo94ovwOc) | 3:20 | 2025-09-19 |  |
+| [folding chairs on the moon](https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [folding chairs on the moon](https://open.spotify.com/album/3pNeAqZF4s1icAo94ovwOc) | 3:20 | 2025-09-19 | 2025-10-26 |
 | [For Cryin' Out Loud!](https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:37 | 2025-01-10 | 2025-03-01 |
 | [Forever Young](https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs) | 3:46 | 2024-09-12 | 2025-03-01 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-06-28 | 2024-09-13 |
@@ -382,7 +383,7 @@
 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 | 2025-03-28 | 2025-06-01 |
 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 | 2024-08-30 | 2024-09-13 |
 | [Nerwy na bok](https://open.spotify.com/track/7ww82v6kviSjJC0h0WJxDS) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP), [Bubito](https://open.spotify.com/artist/5tXbAvOKJtpBUoZxXHj6hz) | [Nerwy na bok](https://open.spotify.com/album/5rzD0h7tqcisv70yoZ2Tb7) | 2:26 | 2025-09-15 | 2025-09-20 |
-| [Never Love](https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Never Love](https://open.spotify.com/album/60WOQEtaq1qwvxgr8LjrxQ) | 3:30 | 2025-10-10 | 2025-10-24 |
+| [Never Love](https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Never Love](https://open.spotify.com/album/60WOQEtaq1qwvxgr8LjrxQ) | 3:30 | 2025-10-10 |  |
 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-06-28 | 2024-09-13 |
 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-02-28 | 2025-06-01 |
 | [Niby to wiem](https://open.spotify.com/track/1TGP53EWadwAcMCQDzUBL8) | [Marek Niedzielski](https://open.spotify.com/artist/3FSYJjsEavVFpzluaiqYoY), [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Niby to wiem](https://open.spotify.com/album/5NGVIouWnsDoi0kWFwpjOg) | 3:25 | 2025-09-15 | 2025-09-20 |
@@ -698,7 +699,7 @@
 | [Zostanę tu z Tobą](https://open.spotify.com/track/7r4hXZOQRGIPOfh4Y1iFwu) | [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp), [BARANOVSKI](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Zostanę tu z Tobą](https://open.spotify.com/album/0CuePNOz2OYL8g9gs6wxL3) | 3:24 | 2024-11-21 | 2024-12-17 |
 | [Zostań](https://open.spotify.com/track/4iFEwSB6Pr6WEs1mFNHuSR) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Zostań](https://open.spotify.com/album/3MCaeJCCqYE9lXjetFn2ge) | 3:01 | 2024-12-19 | 2025-02-08 |
 | [zostań](https://open.spotify.com/track/2jQlVcDnyiMjmrQ7XrK70X) | [Treehouse](https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi) | [zostań](https://open.spotify.com/album/1aVf5Yed3eNAGJ0kRgao2J) | 2:18 | 2025-10-23 |  |
-| [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 | 2025-08-15 |  |
+| [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 | 2025-08-15 | 2025-10-26 |
 | [Ćma](https://open.spotify.com/track/4TsUpBDBZQLGaSEjNrgCKX) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Ćma](https://open.spotify.com/album/0bmxGp8qMZcfKrKFR6wJMz) | 4:39 | 2025-01-17 | 2025-01-25 |
 | [Łza](https://open.spotify.com/track/4mCbpDFKxtGkCzWixh2rDE) | [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Łza](https://open.spotify.com/album/0D35KRRYG1KJGwTG9iGSAT) | 3:53 | 2025-02-07 | 2025-03-15 |
 | [życzenie](https://open.spotify.com/track/3PJ5RijJmk106e25mnO9Bf) | [nath](https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd) | [życzenie](https://open.spotify.com/album/7cVVnDc6K2zR7ai2yon3f3) | 4:43 | 2025-09-15 | 2025-09-18 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Schumann. The essential tracks, all in one playlist.",
-  "num_followers": 501,
+  "num_followers": 509,
   "original_name": "This Is Clara Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAADgxJ0cILvax4nB2wdS+kDJ",
+  "snapshot_id": "aPrBgAAAAAC26Wg41lKS4Qww/JaWbmHd",
   "tracks": [
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5Mnmx3vEygn2dsVO3E15WM"
         }
       ],
-      "duration_ms": 134373,
-      "name": "Sonata in G Minor: III. Scherzo",
-      "url": "https://open.spotify.com/track/2puCyidnDgVaE8Vm5YsCya"
+      "duration_ms": 309253,
+      "name": "Sonata in G Minor: IV. Rondo",
+      "url": "https://open.spotify.com/track/00YkLGD1ggwCviFFGNYnoq"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/5Mnmx3vEygn2dsVO3E15WM"
         }
       ],
-      "duration_ms": 309253,
-      "name": "Sonata in G Minor: IV. Rondo",
-      "url": "https://open.spotify.com/track/00YkLGD1ggwCviFFGNYnoq"
+      "duration_ms": 134373,
+      "name": "Sonata in G Minor: III. Scherzo",
+      "url": "https://open.spotify.com/track/2puCyidnDgVaE8Vm5YsCya"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara Schumann: Piano Sonata in G Minor",
-        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Sharon Su",
-          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
-        }
-      ],
-      "duration_ms": 311782,
-      "name": "Piano Sonata in G Minor: IV. Rondo",
-      "url": "https://open.spotify.com/track/2MshRat6MLpcgBDJ1JuYN3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clara Schumann: Piano Concerto & Works by Hiller, Herz & Kalkbrenner (Hyperion Romantic Piano Concerto 78)",
         "url": "https://open.spotify.com/album/1YtkDggGRGVofgTb5CItJP"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 631906,
       "name": "Piano Concerto in A Minor, Op. 7: III. Finale. Allegro non troppo",
       "url": "https://open.spotify.com/track/2nuMDKqYbDnaAK6pqkYwz2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clara Schumann: Piano Sonata in G Minor",
+        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Sharon Su",
+          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
+        }
+      ],
+      "duration_ms": 311782,
+      "name": "Piano Sonata in G Minor: IV. Rondo",
+      "url": "https://open.spotify.com/track/2MshRat6MLpcgBDJ1JuYN3"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara Schumann: Piano Sonata in G Minor",
-        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Sharon Su",
-          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
-        }
-      ],
-      "duration_ms": 512721,
-      "name": "Piano Sonata in G Minor: I. Allegro",
-      "url": "https://open.spotify.com/track/13EXQBwEJHb5520ov15a2r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clara Schumann: Piano Concerto & Works by Hiller, Herz & Kalkbrenner (Hyperion Romantic Piano Concerto 78)",
         "url": "https://open.spotify.com/album/1YtkDggGRGVofgTb5CItJP"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 363560,
       "name": "Piano Concerto in A Minor, Op. 7: I. Allegro maestoso \u2013",
       "url": "https://open.spotify.com/track/0ZQCcfeL14tv6iTsNjstc2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clara Schumann: Piano Sonata in G Minor",
+        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Sharon Su",
+          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
+        }
+      ],
+      "duration_ms": 512721,
+      "name": "Piano Sonata in G Minor: I. Allegro",
+      "url": "https://open.spotify.com/track/13EXQBwEJHb5520ov15a2r"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
-        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Dartington Piano Trio",
-          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
-        }
-      ],
-      "duration_ms": 465160,
-      "name": "Piano Trio in G Minor, Op. 17: IV. Allegretto",
-      "url": "https://open.spotify.com/track/2GlnVOUEUpSN4IxKRjy7py"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smooth Piano",
         "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
       },
@@ -887,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
+        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Dartington Piano Trio",
+          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
+        }
+      ],
+      "duration_ms": 465160,
+      "name": "Piano Trio in G Minor, Op. 17: IV. Allegretto",
+      "url": "https://open.spotify.com/track/2GlnVOUEUpSN4IxKRjy7py"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Female Power: Piano Works",
         "url": "https://open.spotify.com/album/4WvZYjBRErBfLaXllxLMhQ"
       },
@@ -903,34 +903,6 @@
       "duration_ms": 308653,
       "name": "Romanze, Op. 21, No. 1",
       "url": "https://open.spotify.com/track/4WeMGXF0o9X29uIHFy1iSk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...wo die Zitronen bl\u00fchn",
-        "url": "https://open.spotify.com/album/7aJHFPy7ULfY3prEatAK3t"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Katharina Schlenker",
-          "url": "https://open.spotify.com/artist/0ZDZKQRzh91SL1sYg5PL5q"
-        },
-        {
-          "name": "figure humaine kammerchor",
-          "url": "https://open.spotify.com/artist/5ZtUa4EuIz9bISCR11GY6w"
-        },
-        {
-          "name": "Denis Rouger",
-          "url": "https://open.spotify.com/artist/3NaHR027J5FIWwvaRWAMXF"
-        }
-      ],
-      "duration_ms": 146426,
-      "name": "6 Lieder, Op. 13: No. 3, Liebeszauber (Arr. Rouger for Choir and Piano)",
-      "url": "https://open.spotify.com/track/27bFGG6FVrDNPCjLKB9dFl"
     },
     {
       "added_at": null,
@@ -967,6 +939,34 @@
       "duration_ms": 174196,
       "name": "\u201cAm Strande\u201d (Geibel)",
       "url": "https://open.spotify.com/track/3QpwROBzAorokKDbXtSZog"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...wo die Zitronen bl\u00fchn",
+        "url": "https://open.spotify.com/album/7aJHFPy7ULfY3prEatAK3t"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Katharina Schlenker",
+          "url": "https://open.spotify.com/artist/0ZDZKQRzh91SL1sYg5PL5q"
+        },
+        {
+          "name": "figure humaine kammerchor",
+          "url": "https://open.spotify.com/artist/5ZtUa4EuIz9bISCR11GY6w"
+        },
+        {
+          "name": "Denis Rouger",
+          "url": "https://open.spotify.com/artist/3NaHR027J5FIWwvaRWAMXF"
+        }
+      ],
+      "duration_ms": 146426,
+      "name": "6 Lieder, Op. 13: No. 3, Liebeszauber (Arr. Rouger for Choir and Piano)",
+      "url": "https://open.spotify.com/track/27bFGG6FVrDNPCjLKB9dFl"
     },
     {
       "added_at": null,

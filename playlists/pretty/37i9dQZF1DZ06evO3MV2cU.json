@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 140105,
+  "num_followers": 140109,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAABzb95uqFuDLpNRDLCcgmST",
+  "snapshot_id": "aPrBgAAAAAB80i5zNeKDGlcq3Q0TUu+t",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 308066,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The King Is Still The King",
-        "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 286152,
-      "name": "Still The King",
-      "url": "https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu"
     },
     {
       "added_at": null,
@@ -135,6 +119,22 @@
       "duration_ms": 267066,
       "name": "Amazing Grace (My Chains Are Gone)",
       "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The King Is Still The King",
+        "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 286152,
+      "name": "Still The King",
+      "url": "https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 209622,
-      "name": "Help My Unbelief",
-      "url": "https://open.spotify.com/track/79tB8hF1jpBOZUNwvryRJt"
+      "duration_ms": 241558,
+      "name": "Rivers Of Joy",
+      "url": "https://open.spotify.com/track/1s4n443aDlakmnobxjJ146"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 241558,
-      "name": "Rivers Of Joy",
-      "url": "https://open.spotify.com/track/1s4n443aDlakmnobxjJ146"
+      "duration_ms": 209622,
+      "name": "Help My Unbelief",
+      "url": "https://open.spotify.com/track/79tB8hF1jpBOZUNwvryRJt"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
       "duration_ms": 480193,
       "name": "Holy Forever - Instrumental",
       "url": "https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/55T6hkea97kp6UCZ2CVe0M"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
       "duration_ms": 338026,
       "name": "Give Us Clean Hands - Pour Over Me Album Version",
       "url": "https://open.spotify.com/track/2jjyMzq3pvknVSBeSzjck6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/55T6hkea97kp6UCZ2CVe0M"
     },
     {
       "added_at": null,

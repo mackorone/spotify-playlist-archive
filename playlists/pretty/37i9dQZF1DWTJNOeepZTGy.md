@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,720 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,738 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 29 | [Moody's Mood For Love \(I'm In The Mood For Love\)](https://open.spotify.com/track/5BUx7JYJdce2SP3YjYoV03) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [James Moody](https://open.spotify.com/artist/4aEpM8RuVFDhH7ry8TUn4M), [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18), [Rachelle Ferrell](https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 4:18 |
 | 30 | [Forever, For Always, For Love](https://open.spotify.com/track/6tQX9qDeJ88Vhk7uZfFvNo) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Outrun The Sky](https://open.spotify.com/album/6owHkIavlncFxnnbUMJwbE) | 5:52 |
 | 31 | [Make Me a Believer](https://open.spotify.com/track/1GwsrKwWdhU7iUpaB4eaIn) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Busy Body](https://open.spotify.com/album/5Ql0BSlDT1AqZTZEzA8o3a) | 5:25 |
-| 32 | [All I Ever Think About](https://open.spotify.com/track/4KWRdYADKz1Fo1eLXWuMLi) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Epiphany](https://open.spotify.com/album/4aIivYvBovLqNbsbBB4UuN) | 3:40 |
-| 33 | [Still](https://open.spotify.com/track/36tR7kGlYwgi9IWpuUSbp1) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [The Transition of Mali](https://open.spotify.com/album/00kU4HzJ0Uvr3PGBxrqt14) | 4:50 |
+| 32 | [Still](https://open.spotify.com/track/36tR7kGlYwgi9IWpuUSbp1) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [The Transition of Mali](https://open.spotify.com/album/00kU4HzJ0Uvr3PGBxrqt14) | 4:50 |
+| 33 | [All I Ever Think About](https://open.spotify.com/track/4KWRdYADKz1Fo1eLXWuMLi) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Epiphany](https://open.spotify.com/album/4aIivYvBovLqNbsbBB4UuN) | 3:40 |
 | 34 | [Never Felt This Way](https://open.spotify.com/track/3ETM5bHqW8RtMsP9PauI6S) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Brian McKnight](https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG) | 5:35 |
 | 35 | [Between the Sheets](https://open.spotify.com/track/7GazZcRE8uDL24PzwyUe2f) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:38 |
 | 36 | [Lovin U](https://open.spotify.com/track/5WTkxsVu35amucxPu4wi9b) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:48 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 45 | [Heaven Sent](https://open.spotify.com/track/6KTPvBjPoFdFOe5qHLXZk0) | [Donnie](https://open.spotify.com/artist/3fvn4MvWJXwY17wpwnlgJN) | [The Colored Section](https://open.spotify.com/album/1LOlC0sCNpY3O18pR59Ald) | 5:03 |
 | 46 | [You Were Meant for Me](https://open.spotify.com/track/4RSKpohiL1nDPn7rGxsBYl) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Never My Love: The Anthology](https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO) | 3:51 |
 | 47 | [Love Like Yours And Mine](https://open.spotify.com/track/76PUohgHDZNGvj7uXFLpAC) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Love Like Yours And Mine](https://open.spotify.com/album/18o37lm8WSUU10qNWCbQfp) | 3:39 |
-| 48 | [First Began \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles](https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1) | 3:31 |
-| 49 | [THIS COULD BE US](https://open.spotify.com/track/0miHCBjdt3mvJAKQGnS22b) | [The PLAYlist](https://open.spotify.com/artist/1nSfOAkqOqmmnCY6OfoPS5), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Chasing Goosebumps](https://open.spotify.com/album/2bwJ67gJzPogCpCIglLi2H) | 4:18 |
-| 50 | [Love Natural](https://open.spotify.com/track/0AZTkbO9umWmABq28mfkle) | [Frank Mccomb](https://open.spotify.com/artist/0wbDq3eOvenJ6l0gYhUNqt) | [Love Stories](https://open.spotify.com/album/5XK8uXGzRxYbNxx43BppMM) | 6:55 |
+| 48 | [Love Natural](https://open.spotify.com/track/0AZTkbO9umWmABq28mfkle) | [Frank Mccomb](https://open.spotify.com/artist/0wbDq3eOvenJ6l0gYhUNqt) | [Love Stories](https://open.spotify.com/album/5XK8uXGzRxYbNxx43BppMM) | 6:55 |
+| 49 | [First Began \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles](https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1) | 3:31 |
+| 50 | [THIS COULD BE US](https://open.spotify.com/track/0miHCBjdt3mvJAKQGnS22b) | [The PLAYlist](https://open.spotify.com/artist/1nSfOAkqOqmmnCY6OfoPS5), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Chasing Goosebumps](https://open.spotify.com/album/2bwJ67gJzPogCpCIglLi2H) | 4:18 |
 
 Snapshot ID: `AAAAAAooFUrsca2pr2IMchCwTug6LV+9`

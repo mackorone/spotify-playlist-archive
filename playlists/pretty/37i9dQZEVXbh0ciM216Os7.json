@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACo2nNonmAh95tINbN40BKg",
+  "snapshot_id": "AAAAAAAAAACL5xk2oEp/p8Lrs/enRKUR",
   "tracks": [
     {
       "added_at": "2025-10-24 04:00:00",
@@ -27,50 +27,6 @@
       "duration_ms": 187096,
       "name": "Abhorrent",
       "url": "https://open.spotify.com/track/6ufer37m2u1Ie0VvH9oUVp"
-    },
-    {
-      "added_at": "2025-10-24 04:00:00",
-      "album": {
-        "name": "Ambery",
-        "url": "https://open.spotify.com/album/1QjKKOhJCJL5W0KcZ7Y6LY"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 451666,
-      "name": "Ambery",
-      "url": "https://open.spotify.com/track/14Ep3bdoDg3mPdODORkXG8"
-    },
-    {
-      "added_at": "2025-10-24 04:00:00",
-      "album": {
-        "name": "PARDON ME (REMIX)",
-        "url": "https://open.spotify.com/album/74OvIfzF4NH3zrzKXLiYkl"
-      },
-      "artists": [
-        {
-          "name": "La Reezy",
-          "url": "https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE"
-        },
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 192554,
-      "name": "PARDON ME (REMIX)",
-      "url": "https://open.spotify.com/track/09uQmemLpCHiHGp475U1L7"
     },
     {
       "added_at": "2025-10-24 04:00:00",
@@ -111,18 +67,22 @@
     {
       "added_at": "2025-10-24 04:00:00",
       "album": {
-        "name": "Under The Moon",
-        "url": "https://open.spotify.com/album/5htwDF4DJFuae9rE5LDQiV"
+        "name": "Ambery",
+        "url": "https://open.spotify.com/album/1QjKKOhJCJL5W0KcZ7Y6LY"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
         }
       ],
-      "duration_ms": 206681,
-      "name": "Under The Moon",
-      "url": "https://open.spotify.com/track/7ey9jmePIXngNcEZ0p7fqk"
+      "duration_ms": 451666,
+      "name": "Ambery",
+      "url": "https://open.spotify.com/track/14Ep3bdoDg3mPdODORkXG8"
     },
     {
       "added_at": "2025-10-24 04:00:00",
@@ -143,26 +103,6 @@
       "duration_ms": 135226,
       "name": "Sunshine 'N' Spice (with Ryan Ellis)",
       "url": "https://open.spotify.com/track/5My88b1pGEScf0vqkQvxc5"
-    },
-    {
-      "added_at": "2025-10-24 04:00:00",
-      "album": {
-        "name": "Coming Forth by Day",
-        "url": "https://open.spotify.com/album/1UewRcxjZ7QRtpgnY96FXk"
-      },
-      "artists": [
-        {
-          "name": "Tiombe Lockhart",
-          "url": "https://open.spotify.com/artist/1kqZOF1WEoAV23hEZU6Gta"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 229302,
-      "name": "Strange Things",
-      "url": "https://open.spotify.com/track/4CFnU3XFXMfomq2jStVCTn"
     },
     {
       "added_at": "2025-10-24 04:00:00",
@@ -191,22 +131,62 @@
     {
       "added_at": "2025-10-24 04:00:00",
       "album": {
-        "name": "Honey: The BLK LT$ Meets The Killa Beez",
-        "url": "https://open.spotify.com/album/0rp7u8ljEjb67cknGfTOnW"
+        "name": "PARDON ME (REMIX)",
+        "url": "https://open.spotify.com/album/74OvIfzF4NH3zrzKXLiYkl"
       },
       "artists": [
         {
-          "name": "The BLK LT$",
-          "url": "https://open.spotify.com/artist/7GP4XKvNCPHXWJ2n8Nmdil"
+          "name": "La Reezy",
+          "url": "https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE"
         },
         {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
         }
       ],
-      "duration_ms": 152327,
-      "name": "THUG CRY",
-      "url": "https://open.spotify.com/track/45MJKG8dOOa8qWyDweciJR"
+      "duration_ms": 192554,
+      "name": "PARDON ME (REMIX)",
+      "url": "https://open.spotify.com/track/09uQmemLpCHiHGp475U1L7"
+    },
+    {
+      "added_at": "2025-10-24 04:00:00",
+      "album": {
+        "name": "Under The Moon",
+        "url": "https://open.spotify.com/album/5htwDF4DJFuae9rE5LDQiV"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 206681,
+      "name": "Under The Moon",
+      "url": "https://open.spotify.com/track/7ey9jmePIXngNcEZ0p7fqk"
+    },
+    {
+      "added_at": "2025-10-24 04:00:00",
+      "album": {
+        "name": "Coming Forth by Day",
+        "url": "https://open.spotify.com/album/1UewRcxjZ7QRtpgnY96FXk"
+      },
+      "artists": [
+        {
+          "name": "Tiombe Lockhart",
+          "url": "https://open.spotify.com/artist/1kqZOF1WEoAV23hEZU6Gta"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 229302,
+      "name": "Strange Things",
+      "url": "https://open.spotify.com/track/4CFnU3XFXMfomq2jStVCTn"
     },
     {
       "added_at": "2025-10-24 04:00:00",
@@ -231,6 +211,42 @@
     {
       "added_at": "2025-10-24 04:00:00",
       "album": {
+        "name": "Honey: The BLK LT$ Meets The Killa Beez",
+        "url": "https://open.spotify.com/album/0rp7u8ljEjb67cknGfTOnW"
+      },
+      "artists": [
+        {
+          "name": "The BLK LT$",
+          "url": "https://open.spotify.com/artist/7GP4XKvNCPHXWJ2n8Nmdil"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        }
+      ],
+      "duration_ms": 152327,
+      "name": "THUG CRY",
+      "url": "https://open.spotify.com/track/45MJKG8dOOa8qWyDweciJR"
+    },
+    {
+      "added_at": "2025-10-24 04:00:00",
+      "album": {
+        "name": "Haunted Heart",
+        "url": "https://open.spotify.com/album/3EGNKtePon5F3lXX6v9FbF"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 242612,
+      "name": "Haunted Heart",
+      "url": "https://open.spotify.com/track/0iyFg6BT7VXCEHNneBm8cj"
+    },
+    {
+      "added_at": "2025-10-24 04:00:00",
+      "album": {
         "name": "Deadbeat",
         "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
       },
@@ -240,9 +256,9 @@
           "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 298783,
-      "name": "My Old Ways",
-      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
+      "duration_ms": 263640,
+      "name": "Obsolete",
+      "url": "https://open.spotify.com/track/0On1SxfkvTOfzvjVgFLK7V"
     },
     {
       "added_at": "2025-10-24 04:00:00",
@@ -263,26 +279,6 @@
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp"
-    },
-    {
-      "added_at": "2025-10-24 04:00:00",
-      "album": {
-        "name": "War Pigs (Charity Version)",
-        "url": "https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        },
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 484779,
-      "name": "War Pigs - Charity Version",
-      "url": "https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q"
     },
     {
       "added_at": "2025-10-24 04:00:00",
@@ -347,58 +343,22 @@
     {
       "added_at": "2025-10-24 04:00:00",
       "album": {
-        "name": "Hot Stuff (2025 Mix)",
-        "url": "https://open.spotify.com/album/5s3t03DbEfL9vKRxcw8MPK"
+        "name": "Bring More Bass",
+        "url": "https://open.spotify.com/album/6eFlbIP5AHAW37yweDF4eP"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 322500,
-      "name": "Hot Stuff - 2025 Mix",
-      "url": "https://open.spotify.com/track/7ipboYEvozVLj6REga45t0"
-    },
-    {
-      "added_at": "2025-10-24 04:00:00",
-      "album": {
-        "name": "Rise Again",
-        "url": "https://open.spotify.com/album/6Sb2lFZrju00dqv4aineCq"
-      },
-      "artists": [
-        {
-          "name": "Alonestar",
-          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
+          "name": "Shen",
+          "url": "https://open.spotify.com/artist/7MwWZioKq1EaMiOlxzRyOP"
         },
         {
-          "name": "Kayla Kelley",
-          "url": "https://open.spotify.com/artist/1JYXBwvd3qW5Yc92NGIA8C"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 228670,
-      "name": "Rise Again",
-      "url": "https://open.spotify.com/track/3z0zyuRP0ayvV09c3sGC3R"
-    },
-    {
-      "added_at": "2025-10-24 04:00:00",
-      "album": {
-        "name": "GMFU",
-        "url": "https://open.spotify.com/album/5Eb75KVSoTmkow2KZPxADd"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 115207,
-      "name": "GMFU",
-      "url": "https://open.spotify.com/track/20mEy3uJz5iXawPy8RncV0"
+      "duration_ms": 138984,
+      "name": "Bring More Bass",
+      "url": "https://open.spotify.com/track/4UpNfIG3m3PtzliICnhZAb"
     },
     {
       "added_at": "2025-10-24 04:00:00",
@@ -447,26 +407,6 @@
     {
       "added_at": "2025-10-24 04:00:00",
       "album": {
-        "name": "Bring More Bass",
-        "url": "https://open.spotify.com/album/6eFlbIP5AHAW37yweDF4eP"
-      },
-      "artists": [
-        {
-          "name": "Shen",
-          "url": "https://open.spotify.com/artist/7MwWZioKq1EaMiOlxzRyOP"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 138984,
-      "name": "Bring More Bass",
-      "url": "https://open.spotify.com/track/4UpNfIG3m3PtzliICnhZAb"
-    },
-    {
-      "added_at": "2025-10-24 04:00:00",
-      "album": {
         "name": "Lost in the Rhythm",
         "url": "https://open.spotify.com/album/4VvNTG0IALgBCGhKr9llSu"
       },
@@ -495,58 +435,6 @@
     {
       "added_at": "2025-10-24 04:00:00",
       "album": {
-        "name": "Zunge 2025",
-        "url": "https://open.spotify.com/album/5LbNzPH6EUnBPl0E2up8FN"
-      },
-      "artists": [
-        {
-          "name": "Till Lindemann",
-          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
-        }
-      ],
-      "duration_ms": 212387,
-      "name": "Prostitution",
-      "url": "https://open.spotify.com/track/4hDxks1OWDJ2R7rpwLQ5sx"
-    },
-    {
-      "added_at": "2025-10-24 04:00:00",
-      "album": {
-        "name": "Relaxin'",
-        "url": "https://open.spotify.com/album/2PILER8j7OhOrZDqATD5Pi"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 254729,
-      "name": "Relaxin'",
-      "url": "https://open.spotify.com/track/1qCtySsflBDTCu2aWMKtu3"
-    },
-    {
-      "added_at": "2025-10-24 04:00:00",
-      "album": {
-        "name": "Re: Inkarnation (Deutsche Version)",
-        "url": "https://open.spotify.com/album/2Erx77qpP3eKBdd2D8ky8h"
-      },
-      "artists": [
-        {
-          "name": "Flex Barker",
-          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
-        },
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Re: Inkarnation - Deutsche Version",
-      "url": "https://open.spotify.com/track/503FNJRbw5jyO23OVET5vJ"
-    },
-    {
-      "added_at": "2025-10-24 04:00:00",
-      "album": {
         "name": "Get No Satisfied !",
         "url": "https://open.spotify.com/album/61CCH8KBUkIbCfvYXDtCZu"
       },
@@ -563,106 +451,6 @@
       "duration_ms": 228287,
       "name": "Get No Satisfied !",
       "url": "https://open.spotify.com/track/0JHmUZvsqyo61F9P7cj6H4"
-    },
-    {
-      "added_at": "2025-10-24 04:00:00",
-      "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/3U2Nj6eoEgISZWr6t9WFZV"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 145587,
-      "name": "I Hate To Go Searchin\u2019 Them Bars Again",
-      "url": "https://open.spotify.com/track/0Koa5ZeViFTIJfmhKfNuJa"
-    },
-    {
-      "added_at": "2025-10-24 04:00:00",
-      "album": {
-        "name": "100 NIGHTS",
-        "url": "https://open.spotify.com/album/1rNJU9cKcImQmNSeKnfe4Y"
-      },
-      "artists": [
-        {
-          "name": "Rashid Isaiah",
-          "url": "https://open.spotify.com/artist/7mEdGrvSIkWB9P2ANVik80"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "VELOUR SUITS",
-      "url": "https://open.spotify.com/track/1O2BZv4jX9HCmNVaMsZSHi"
-    },
-    {
-      "added_at": "2025-10-24 04:00:00",
-      "album": {
-        "name": "Circles (VIP Mix)",
-        "url": "https://open.spotify.com/album/1lUSwojfHrx1Pcbgfwvqe4"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "PEACH MARTINE",
-          "url": "https://open.spotify.com/artist/4xX9jZuIg4O1Cc59vjt0EP"
-        },
-        {
-          "name": "secs on the beach",
-          "url": "https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM"
-        }
-      ],
-      "duration_ms": 170997,
-      "name": "Circles (VIP Mix)",
-      "url": "https://open.spotify.com/track/0X9QsL3XTL3B4foiEyNhOd"
-    },
-    {
-      "added_at": "2025-10-24 04:00:00",
-      "album": {
-        "name": "Karashi",
-        "url": "https://open.spotify.com/album/3aMWa5Npyxst9nuzgbZVKV"
-      },
-      "artists": [
-        {
-          "name": "Zambrana",
-          "url": "https://open.spotify.com/artist/07WYr74Wovyt6uvJCat6AO"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 190343,
-      "name": "Karashi",
-      "url": "https://open.spotify.com/track/4WvdHU6bGmUBezMRoWgoQT"
-    },
-    {
-      "added_at": "2025-10-24 04:00:00",
-      "album": {
-        "name": "LA HAUTEUR DE LA LUNE",
-        "url": "https://open.spotify.com/album/6rv2HuS4hmqDktFV04TeBU"
-      },
-      "artists": [
-        {
-          "name": "Oxmo Puccino",
-          "url": "https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O"
-        },
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 177040,
-      "name": "Ne pas m'aimer",
-      "url": "https://open.spotify.com/track/08L1ePVF6FfAuw3C8b07iy"
     },
     {
       "added_at": "2025-10-24 04:00:00",
@@ -687,70 +475,38 @@
     {
       "added_at": "2025-10-24 04:00:00",
       "album": {
-        "name": "Roulette",
-        "url": "https://open.spotify.com/album/3ri9BvsRSttcqo5i4ofKME"
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/3U2Nj6eoEgISZWr6t9WFZV"
       },
       "artists": [
         {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Homeboy Sandman",
-          "url": "https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
         }
       ],
-      "duration_ms": 189760,
-      "name": "Reincarnation (feat. Homeboy Sandman)",
-      "url": "https://open.spotify.com/track/1IXZHLN64AqJFu6eWfKeJr"
+      "duration_ms": 145587,
+      "name": "I Hate To Go Searchin\u2019 Them Bars Again",
+      "url": "https://open.spotify.com/track/0Koa5ZeViFTIJfmhKfNuJa"
     },
     {
       "added_at": "2025-10-24 04:00:00",
       "album": {
-        "name": "BodyRock Part 2 (feat. Lil Uzi Vert) [Remix]",
-        "url": "https://open.spotify.com/album/15vKiDQiTADsEg77d2VYnh"
+        "name": "LA HAUTEUR DE LA LUNE",
+        "url": "https://open.spotify.com/album/6rv2HuS4hmqDktFV04TeBU"
       },
       "artists": [
         {
-          "name": "TisaKorean",
-          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+          "name": "Oxmo Puccino",
+          "url": "https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
         }
       ],
-      "duration_ms": 138874,
-      "name": "BodyRock Part 2 (feat. Lil Uzi Vert) - Remix",
-      "url": "https://open.spotify.com/track/1zCu9rhkwqn868ROSuomv6"
-    },
-    {
-      "added_at": "2025-10-24 04:00:00",
-      "album": {
-        "name": "The Eternal Tenure of Sound: Damage Control",
-        "url": "https://open.spotify.com/album/7dbPdr5wIgzLDoh4csU0Yj"
-      },
-      "artists": [
-        {
-          "name": "Gary Bartz Ntu Troop",
-          "url": "https://open.spotify.com/artist/1vaNGxPiwE1mrIZvU7fOSN"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 608663,
-      "name": "In Search of My Heart / Love Surrounds Us Everywhere (feat. Kamasi Washington, Terrace Martin & Nile Rodgers)",
-      "url": "https://open.spotify.com/track/2A49G3LtFy8dWckf69rZBM"
+      "duration_ms": 177040,
+      "name": "Ne pas m'aimer",
+      "url": "https://open.spotify.com/track/08L1ePVF6FfAuw3C8b07iy"
     },
     {
       "added_at": "2025-10-24 04:00:00",
@@ -783,42 +539,82 @@
     {
       "added_at": "2025-10-24 04:00:00",
       "album": {
-        "name": "Cold Corner Confessions",
-        "url": "https://open.spotify.com/album/0KSXmdAwd2b4uJMZBwpQ9R"
+        "name": "100 NIGHTS",
+        "url": "https://open.spotify.com/album/1rNJU9cKcImQmNSeKnfe4Y"
       },
       "artists": [
         {
-          "name": "JuN JuN Music",
-          "url": "https://open.spotify.com/artist/3e0ntdiDbLjWOWZfCZKomr"
+          "name": "Rashid Isaiah",
+          "url": "https://open.spotify.com/artist/7mEdGrvSIkWB9P2ANVik80"
         },
         {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
-      "duration_ms": 199079,
-      "name": "Cut Throat",
-      "url": "https://open.spotify.com/track/6i4nggJOmwHvvbWRc6PmAN"
+      "duration_ms": 151500,
+      "name": "VELOUR SUITS",
+      "url": "https://open.spotify.com/track/1O2BZv4jX9HCmNVaMsZSHi"
     },
     {
       "added_at": "2025-10-24 04:00:00",
       "album": {
-        "name": "Our Common Nature",
-        "url": "https://open.spotify.com/album/1AZ8tVwbmxaKT9FScOgSAR"
+        "name": "Roulette",
+        "url": "https://open.spotify.com/album/3ri9BvsRSttcqo5i4ofKME"
       },
       "artists": [
         {
-          "name": "Eric Mingus",
-          "url": "https://open.spotify.com/artist/1ToBt6hO5K1KvpCKkSMD2I"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         },
         {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+          "name": "Homeboy Sandman",
+          "url": "https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb"
         }
       ],
-      "duration_ms": 365209,
-      "name": "The Mill (Grinds My Bones)",
-      "url": "https://open.spotify.com/track/3Vw4UIyy8hFL2pZOtfYV54"
+      "duration_ms": 189760,
+      "name": "Reincarnation (feat. Homeboy Sandman)",
+      "url": "https://open.spotify.com/track/1IXZHLN64AqJFu6eWfKeJr"
+    },
+    {
+      "added_at": "2025-10-24 04:00:00",
+      "album": {
+        "name": "Karashi",
+        "url": "https://open.spotify.com/album/3aMWa5Npyxst9nuzgbZVKV"
+      },
+      "artists": [
+        {
+          "name": "Zambrana",
+          "url": "https://open.spotify.com/artist/07WYr74Wovyt6uvJCat6AO"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 190343,
+      "name": "Karashi",
+      "url": "https://open.spotify.com/track/4WvdHU6bGmUBezMRoWgoQT"
+    },
+    {
+      "added_at": "2025-10-24 04:00:00",
+      "album": {
+        "name": "BodyRock Part 2 (feat. Lil Uzi Vert) [Remix]",
+        "url": "https://open.spotify.com/album/15vKiDQiTADsEg77d2VYnh"
+      },
+      "artists": [
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 138874,
+      "name": "BodyRock Part 2 (feat. Lil Uzi Vert) - Remix",
+      "url": "https://open.spotify.com/track/1zCu9rhkwqn868ROSuomv6"
     },
     {
       "added_at": "2025-10-24 04:00:00",
@@ -855,18 +651,22 @@
     {
       "added_at": "2025-10-24 04:00:00",
       "album": {
-        "name": "Devil's Den",
-        "url": "https://open.spotify.com/album/6tNyTApcRFDvdYXW8E8chd"
+        "name": "Our Common Nature",
+        "url": "https://open.spotify.com/album/1AZ8tVwbmxaKT9FScOgSAR"
       },
       "artists": [
         {
-          "name": "Clint Black",
-          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+          "name": "Eric Mingus",
+          "url": "https://open.spotify.com/artist/1ToBt6hO5K1KvpCKkSMD2I"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         }
       ],
-      "duration_ms": 239458,
-      "name": "Devil's Den",
-      "url": "https://open.spotify.com/track/6PV267aIcBwTtpKUklyD3B"
+      "duration_ms": 365209,
+      "name": "The Mill (Grinds My Bones)",
+      "url": "https://open.spotify.com/track/3Vw4UIyy8hFL2pZOtfYV54"
     },
     {
       "added_at": "2025-10-24 04:00:00",

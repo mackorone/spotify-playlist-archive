@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAByrzyeEcg0Z5+QuVf6+9Rm",
+  "snapshot_id": "aPrBgAAAAABjP8boMIPiW8Uty/t781yY",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "eye2eye (Jai Wolf Remix)",
-        "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
-      },
-      "artists": [
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "eye2eye - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 298666,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "eye2eye (Jai Wolf Remix)",
+        "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "eye2eye - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Water Sign (feat. Aluna)",
-        "url": "https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Water Sign (feat. Aluna)",
-      "url": "https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Rise (Jai Wolf Remix)",
         "url": "https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 188616,
       "name": "We Rise - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/3t9m6BZTPVw7ClRSJBQpGs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Water Sign (feat. Aluna)",
+        "url": "https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Water Sign (feat. Aluna)",
+      "url": "https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU"
     },
     {
       "added_at": null,

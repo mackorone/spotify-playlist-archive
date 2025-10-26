@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 67 | [Boots to the Club](https://open.spotify.com/track/3Owpgh1KoJVeUfRUuVdaJX) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Commitment Issues](https://open.spotify.com/album/2eTS8YvTafTRUsqcMzTN9w) | 2:49 |
 | 68 | [h8 u right now](https://open.spotify.com/track/102PnC9x6PwMec0i2DRiV0) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [h8 u right now](https://open.spotify.com/album/1CYXIOyMtlGPR5a1JcwcTm) | 2:57 |
 | 69 | [Hennessy in Tennessee](https://open.spotify.com/track/2l5g2LCFSMpj2jUz0RZrdF) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Open Bars](https://open.spotify.com/album/2U3hHFDfOrkA1HKKH8Fi2a) | 2:45 |
-| 70 | [This Side Of The Dirt](https://open.spotify.com/track/2fsYoZ2E7LNRkNqCH5FuMo) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [This Side Of The Dirt](https://open.spotify.com/album/7zkixgWE2b1OoR3L8UClPZ) | 3:21 |
-| 71 | [Growing Up Song](https://open.spotify.com/track/3dgp6qxHRRCHDLQDug6UKh) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Heaven is a place, 2024](https://open.spotify.com/album/2jFNYnS6VA7IdzQv8kiQt7) | 4:05 |
+| 70 | [Growing Up Song](https://open.spotify.com/track/3dgp6qxHRRCHDLQDug6UKh) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Heaven is a place, 2024](https://open.spotify.com/album/2jFNYnS6VA7IdzQv8kiQt7) | 4:05 |
+| 71 | [This Side Of The Dirt](https://open.spotify.com/track/2fsYoZ2E7LNRkNqCH5FuMo) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [This Side Of The Dirt](https://open.spotify.com/album/7zkixgWE2b1OoR3L8UClPZ) | 3:21 |
 | 72 | [Bad Bad](https://open.spotify.com/track/7gbzuDKCcFkNsg0efdf5hd) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Flight Risk](https://open.spotify.com/album/2HEYWp2k9LL1AT167QZizt) | 3:01 |
 | 73 | [Never Now](https://open.spotify.com/track/2gSFr15E0Mv4cI6dhZJLWs) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Never Now](https://open.spotify.com/album/4k7wUy1wwoaIRvkMbbekNu) | 3:32 |
 | 74 | [Still Feels The Same](https://open.spotify.com/track/2fOjTmGULGRwVBKoj7unUj) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Open Bars](https://open.spotify.com/album/2U3hHFDfOrkA1HKKH8Fi2a) | 3:01 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 120 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 121 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `Ab/wHAAAAABcWaXcY6mNLhoahcsDLIlT`
+Snapshot ID: `Ab/1xgAAAADqXZ8FUgqn7kgWIa8FUMXa`

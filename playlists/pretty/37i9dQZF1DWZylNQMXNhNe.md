@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Mia Badgyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,247 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,242 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 49 | [quanto tempo tem o tempo?](https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [quanto tempo tem o tempo?](https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI) | 3:26 |
 | 50 | [Telefone Mudo](https://open.spotify.com/track/0aTr7XyusniiT9XnHPrh4p) | [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Telefone Mudo](https://open.spotify.com/album/34rO65UAJshV92udKc3cxs) | 2:32 |
 | 51 | [18 dias / 13 cm](https://open.spotify.com/track/1TZGE8ByEKYJUge6agf7T2) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [18 dias / 13 cm](https://open.spotify.com/album/3oEBnUW2q7VFXb9X7kr3ps) | 2:23 |
-| 52 | [SEM FREIO](https://open.spotify.com/track/1kuiTcaBMjotQ4bBETv3jX) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [CARLO](https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y) | [SEM FREIO](https://open.spotify.com/album/6FWnVkda0JnSyAmtHkxTvr) | 3:21 |
-| 53 | [Malícia](https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [NOVA ERA Part\. I](https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr) | 3:08 |
+| 52 | [Malícia](https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [NOVA ERA Part\. I](https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr) | 3:08 |
+| 53 | [SEM FREIO](https://open.spotify.com/track/1kuiTcaBMjotQ4bBETv3jX) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [CARLO](https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y) | [SEM FREIO](https://open.spotify.com/album/6FWnVkda0JnSyAmtHkxTvr) | 3:21 |
 | 54 | [10 Minutos \- Remix](https://open.spotify.com/track/0dR7WzzTPGipMCiErNxgPh) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Amaríssima V2 \(Remix\)](https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm) | 2:31 |
 | 55 | [Neo Thang](https://open.spotify.com/track/3JaXOtxSsNWgJ9su8DUSC2) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND \(BLOSSOM EDITION\)](https://open.spotify.com/album/3uAKzfR2PMG5eJTEXprAPF) | 2:31 |
 | 56 | [Menino](https://open.spotify.com/track/5IJLZv9xTNWResf5YPBYlG) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Menino](https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg) | 2:48 |

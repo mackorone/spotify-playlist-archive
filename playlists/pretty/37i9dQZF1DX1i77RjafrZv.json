@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 318192,
+  "num_followers": 318184,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Joe",
-        "url": "https://open.spotify.com/album/1AX6ugtUs8xZXXBJV2HLbt"
-      },
-      "artists": [
-        {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Salut les amoureux - City of New Orleans",
-      "url": "https://open.spotify.com/track/2cCtyPE0ZgoW9qWcI8YUvU"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "La vieille",
         "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 327200,
       "name": "Je vais t'aimer",
       "url": "https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "Joe",
+        "url": "https://open.spotify.com/album/1AX6ugtUs8xZXXBJV2HLbt"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Salut les amoureux - City of New Orleans",
+      "url": "https://open.spotify.com/track/2cCtyPE0ZgoW9qWcI8YUvU"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Joe Dassin \u00c9ternel...",
-        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
-      },
-      "artists": [
-        {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
-        }
-      ],
-      "duration_ms": 269320,
-      "name": "L'\u00e9t\u00e9 indien",
-      "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "La Maladie D'Amour",
         "url": "https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 210186,
       "name": "La maladie d'amour",
       "url": "https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "Joe Dassin \u00c9ternel...",
+        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "duration_ms": 269320,
+      "name": "L'\u00e9t\u00e9 indien",
+      "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -815,18 +815,22 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "20eme anniversaire",
-        "url": "https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV"
+        "name": "1,2,3",
+        "url": "https://open.spotify.com/album/484D9KRWoTWTzghknHQd1Q"
       },
       "artists": [
         {
-          "name": "Mike Brant",
-          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
+          "name": "Amel Bent",
+          "url": "https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f"
+        },
+        {
+          "name": "Hatik",
+          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
         }
       ],
-      "duration_ms": 203093,
-      "name": "Laisse moi t'aimer",
-      "url": "https://open.spotify.com/track/3xPNasHy69FFGxyxYApJPS"
+      "duration_ms": 225997,
+      "name": "1,2,3",
+      "url": "https://open.spotify.com/track/7uCLrBdy5FH6T7vcJzqRd7"
     }
   ],
   "unique_name": "French Kiss",

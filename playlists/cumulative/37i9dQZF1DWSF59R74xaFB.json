@@ -201,6 +201,28 @@
     },
     {
       "album": {
+        "name": "Cuando Se Acaba La Noche",
+        "url": "https://open.spotify.com/album/7HKoEgvUennZLf44WtbA1A"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        },
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159661,
+      "name": "a m a n e c e r",
+      "url": "https://open.spotify.com/track/0Jga6DNV1MRTq2wPVPA7yJ"
+    },
+    {
+      "album": {
         "name": "A No Llorar",
         "url": "https://open.spotify.com/album/6QVVfvXpuOKOxuOweZTnAB"
       },
@@ -1907,6 +1929,28 @@
     },
     {
       "album": {
+        "name": "Conmigo Sin Ti",
+        "url": "https://open.spotify.com/album/1gLgrO1UFZ5rIM8My0r6bC"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Conmigo Sin Ti",
+      "url": "https://open.spotify.com/track/2PJdRCB4XEwXUBZUMeC34Z"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6XrfQ9Sip8eC6X7yQ90PxH"
       },
@@ -3342,7 +3386,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217478,
       "name": "En Peligro de Extinci\u00f3n",
       "url": "https://open.spotify.com/track/4hl4QsudusiDu4IMnoOmGl"
@@ -3910,7 +3954,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 212326,
       "name": "Fondo",
       "url": "https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK"
@@ -5168,7 +5212,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 173179,
       "name": "Lo Peor de Quererte",
       "url": "https://open.spotify.com/track/5soJC72lhvEI2eIH29vBsE"
@@ -5502,7 +5546,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 226032,
       "name": "Maldita Primavera",
       "url": "https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE"
@@ -6212,7 +6256,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 219387,
       "name": "Nacer Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/426ejofZz5y8H3Xb9nw7HT"
@@ -8196,7 +8240,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 236360,
       "name": "Sexo Pudor Y L\u00e1grimas",
       "url": "https://open.spotify.com/track/7ji21BRR5NpJC4rWdsyJAP"

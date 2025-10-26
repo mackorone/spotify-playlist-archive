@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,342 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,344 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 45 | [The Loudest Thing](https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps) | [Kris Angelis](https://open.spotify.com/artist/5NSCSZj6ourZB5Yy4j4saO), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [The Loudest Thing](https://open.spotify.com/album/09mOKo6OXJH9ip3OmwBDwF) | 2:52 |
 | 46 | [Hold Your Hand](https://open.spotify.com/track/4BrrFkmWqNgwPQZRS196bO) | [Kyle Deutsch](https://open.spotify.com/artist/5TlcIPcqqUiWfHmGOOAGOL), [Pala Chrome](https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh), [Paniik](https://open.spotify.com/artist/37V3VUWtqtyZS6Rw3IdEzt) | [Hold Your Hand](https://open.spotify.com/album/6E3ZQtNmLcFu3VDEPKtHWb) | 3:00 |
 | 47 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 |
-| 48 | [Demons](https://open.spotify.com/track/2kOoRJBEfRmF8jdBbxmhFl) | [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN), [Luna Florentino](https://open.spotify.com/artist/3qgDJXJmuGCfHwWB8cR1oS) | [Demons](https://open.spotify.com/album/3Xm5k3rl3jUOOjqd9EqUYw) | 2:47 |
-| 49 | [You & I](https://open.spotify.com/track/1KyLPWLT2H7xMVk92YineV) | [Tamara Dey](https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9), [Jann Klose](https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR) | [La Musica](https://open.spotify.com/album/6XazW7KRkCIZ4Tp7XjoYfG) | 3:32 |
+| 48 | [You & I](https://open.spotify.com/track/1KyLPWLT2H7xMVk92YineV) | [Tamara Dey](https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9), [Jann Klose](https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR) | [La Musica](https://open.spotify.com/album/6XazW7KRkCIZ4Tp7XjoYfG) | 3:32 |
+| 49 | [Demons](https://open.spotify.com/track/2kOoRJBEfRmF8jdBbxmhFl) | [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN), [Luna Florentino](https://open.spotify.com/artist/3qgDJXJmuGCfHwWB8cR1oS) | [Demons](https://open.spotify.com/album/3Xm5k3rl3jUOOjqd9EqUYw) | 2:47 |
 | 50 | [Never Too Far](https://open.spotify.com/track/6EfVcvhMtH0PA7JVyD8TJb) | [Njakes](https://open.spotify.com/artist/291CLsx8NHL2Aq1T9jgFCe), [whoswyLee](https://open.spotify.com/artist/6BleoYognZGVWnzcwannnO) | [Jump With Abandon](https://open.spotify.com/album/7nqJc3yvF0NLJvGyLylBi6) | 3:55 |
 | 51 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Mood \(feat\. iann dior\)](https://open.spotify.com/album/4YMnOf4a7obOcN1Gy2QEuM) | 2:20 |
 | 52 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 |

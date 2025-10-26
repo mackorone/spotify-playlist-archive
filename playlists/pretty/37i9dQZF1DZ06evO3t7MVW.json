@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 91841,
+  "num_followers": 91861,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAADuG8YTRPwYTZyGZE4/lW7Q",
+  "snapshot_id": "aPrBgAAAAACoxaJO1CVqbeq1zOzCrDiB",
   "tracks": [
     {
       "added_at": null,
@@ -106,15 +106,11 @@
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 238810,
-      "name": "World on Fire (feat. Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n"
+      "duration_ms": 266481,
+      "name": "All for You",
+      "url": "https://open.spotify.com/track/0nEUaCsD5tDZjbY7tMAaea"
     },
     {
       "added_at": null,
@@ -131,22 +127,6 @@
       "duration_ms": 250397,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3iyMN5JhGnJXvKvFr8Mf7S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set in Stone",
-        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 325480,
-      "name": "Sound of the Sea",
-      "url": "https://open.spotify.com/track/1Gsv8f8KmowkF5BnfMIGKy"
     },
     {
       "added_at": null,
@@ -171,8 +151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+        "name": "Set in Stone",
+        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
       },
       "artists": [
         {
@@ -180,9 +160,29 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 266481,
-      "name": "All for You",
-      "url": "https://open.spotify.com/track/0nEUaCsD5tDZjbY7tMAaea"
+      "duration_ms": 325480,
+      "name": "Sound of the Sea",
+      "url": "https://open.spotify.com/track/1Gsv8f8KmowkF5BnfMIGKy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 238810,
+      "name": "World on Fire (feat. Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n"
     },
     {
       "added_at": null,
@@ -223,18 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
       },
       "artists": [
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 292485,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7"
+      "duration_ms": 253794,
+      "name": "Way of Life (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa"
     },
     {
       "added_at": null,
@@ -255,22 +259,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
       "artists": [
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 253794,
-      "name": "Way of Life (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa"
+      "duration_ms": 292485,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 283793,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Got Me On The Run (with Stick Figure and Pepper)",
         "url": "https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 274498,
       "name": "Got Me On The Run (with Stick Figure and Pepper)",
       "url": "https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 283793,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 282696,
+      "name": "Falling Stars",
+      "url": "https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Me Easy",
         "url": "https://open.spotify.com/album/6gzFhQHXfMpwha4ZvNBngj"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 170016,
       "name": "Love Me Easy",
       "url": "https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 282696,
-      "name": "Falling Stars",
-      "url": "https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr"
     },
     {
       "added_at": null,
@@ -743,30 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slow Ride",
-        "url": "https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 232444,
-      "name": "Slow Ride",
-      "url": "https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wisdom",
         "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
       },
@@ -787,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smoke Stack",
+        "url": "https://open.spotify.com/album/2ecSuU7MQZI5CH7Mhjxc50"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 304613,
+      "name": "Hawaii Song",
+      "url": "https://open.spotify.com/track/3rqNbu3pkx6wthuAXAtaGd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burial Ground",
         "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
@@ -803,18 +795,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smoke Stack",
-        "url": "https://open.spotify.com/album/2ecSuU7MQZI5CH7Mhjxc50"
+        "name": "Slow Ride",
+        "url": "https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX"
       },
       "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 304613,
-      "name": "Hawaii Song",
-      "url": "https://open.spotify.com/track/3rqNbu3pkx6wthuAXAtaGd"
+      "duration_ms": 232444,
+      "name": "Slow Ride",
+      "url": "https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K"
     },
     {
       "added_at": null,

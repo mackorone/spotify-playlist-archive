@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:7nfBxjb99prCqaT3wk87u5\">Samba Jean-Baptiste</a> on cover. Artwork by Thami Nabil",
-  "num_followers": 191460,
+  "num_followers": 191466,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -403,18 +403,22 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
+        "name": "If I Had a Boat",
+        "url": "https://open.spotify.com/album/5kzZHox2H0kcWMo9l8AgEd"
       },
       "artists": [
         {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+          "name": "Kieran Hebden",
+          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
+        },
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
         }
       ],
-      "duration_ms": 192283,
-      "name": "Snapdragon",
-      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
+      "duration_ms": 678676,
+      "name": "If I Had a Boat",
+      "url": "https://open.spotify.com/track/2jzIgL4FzE2whuIdMEjOAO"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -439,22 +443,18 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "If I Had a Boat",
-        "url": "https://open.spotify.com/album/5kzZHox2H0kcWMo9l8AgEd"
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
       },
       "artists": [
         {
-          "name": "Kieran Hebden",
-          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
-        },
-        {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
         }
       ],
-      "duration_ms": 678676,
-      "name": "If I Had a Boat",
-      "url": "https://open.spotify.com/track/2jzIgL4FzE2whuIdMEjOAO"
+      "duration_ms": 192283,
+      "name": "Snapdragon",
+      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -511,18 +511,18 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "\u0101fa",
-        "url": "https://open.spotify.com/album/2jGtiClgEUtx2cxlDgsHiQ"
+        "name": "Rene",
+        "url": "https://open.spotify.com/album/2dWdK38RNNPb0Vw6kYI6Dl"
       },
       "artists": [
         {
-          "name": "15 15",
-          "url": "https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u"
+          "name": "LOTUS FROM JAKARTA",
+          "url": "https://open.spotify.com/artist/41J5awaMlB8Jr9O3eLbrtG"
         }
       ],
-      "duration_ms": 210326,
-      "name": "\u0101fa",
-      "url": "https://open.spotify.com/track/40otVc50P4HW1QwpubR6i6"
+      "duration_ms": 239999,
+      "name": "Voy_Edit",
+      "url": "https://open.spotify.com/track/21gAmR7GvfXSu3jg7kJ3ua"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
+        "name": "\u0101fa",
+        "url": "https://open.spotify.com/album/2jGtiClgEUtx2cxlDgsHiQ"
+      },
+      "artists": [
+        {
+          "name": "15 15",
+          "url": "https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u"
+        }
+      ],
+      "duration_ms": 210326,
+      "name": "\u0101fa",
+      "url": "https://open.spotify.com/track/40otVc50P4HW1QwpubR6i6"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
         "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
         "url": "https://open.spotify.com/album/6m01hmvzFV2dr8tZepEaD0"
       },
@@ -559,54 +575,6 @@
       "duration_ms": 255154,
       "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
       "url": "https://open.spotify.com/track/2M3SZ8gwKEHwKCTvbHQ0fN"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
-        "name": "Hymnal",
-        "url": "https://open.spotify.com/album/6RdvGqQMrs7GMfTSxH4X7X"
-      },
-      "artists": [
-        {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        }
-      ],
-      "duration_ms": 330410,
-      "name": "Ending",
-      "url": "https://open.spotify.com/track/29CbF6riCloorWFxMamv77"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
-        "name": "By Night",
-        "url": "https://open.spotify.com/album/5ozUmbzo5jhtPz4WvJpOEI"
-      },
-      "artists": [
-        {
-          "name": "Noah Praise God",
-          "url": "https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV"
-        }
-      ],
-      "duration_ms": 159642,
-      "name": "By Night",
-      "url": "https://open.spotify.com/track/7Aeix3UGJHLTbwLxChbTUE"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/2TpixP6RhxoNA0LtKm0p2z"
-      },
-      "artists": [
-        {
-          "name": "JASSS",
-          "url": "https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV"
-        }
-      ],
-      "duration_ms": 294250,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/4rhaL2Iy5N60QVkdRfBill"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -627,18 +595,50 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "Rene",
-        "url": "https://open.spotify.com/album/2dWdK38RNNPb0Vw6kYI6Dl"
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/2TpixP6RhxoNA0LtKm0p2z"
       },
       "artists": [
         {
-          "name": "LOTUS FROM JAKARTA",
-          "url": "https://open.spotify.com/artist/41J5awaMlB8Jr9O3eLbrtG"
+          "name": "JASSS",
+          "url": "https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV"
         }
       ],
-      "duration_ms": 239999,
-      "name": "Voy_Edit",
-      "url": "https://open.spotify.com/track/21gAmR7GvfXSu3jg7kJ3ua"
+      "duration_ms": 294250,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/4rhaL2Iy5N60QVkdRfBill"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "By Night",
+        "url": "https://open.spotify.com/album/5ozUmbzo5jhtPz4WvJpOEI"
+      },
+      "artists": [
+        {
+          "name": "Noah Praise God",
+          "url": "https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "By Night",
+      "url": "https://open.spotify.com/track/7Aeix3UGJHLTbwLxChbTUE"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "Hymnal",
+        "url": "https://open.spotify.com/album/6RdvGqQMrs7GMfTSxH4X7X"
+      },
+      "artists": [
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        }
+      ],
+      "duration_ms": 330410,
+      "name": "Ending",
+      "url": "https://open.spotify.com/track/29CbF6riCloorWFxMamv77"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -759,18 +759,18 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "Futuro Cercano",
-        "url": "https://open.spotify.com/album/5drSZ3zh5LItFNGb8z68Um"
+        "name": "punk cake",
+        "url": "https://open.spotify.com/album/0yrkbOLrPepB0ZqNTGva3b"
       },
       "artists": [
         {
-          "name": "Valesuchi",
-          "url": "https://open.spotify.com/artist/20lLQVCg1N2fCUB7fEg46b"
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
         }
       ],
-      "duration_ms": 262916,
-      "name": "22",
-      "url": "https://open.spotify.com/track/4BiZttnK30HFXmG1JIuWr3"
+      "duration_ms": 142000,
+      "name": "14 Rue d'Abbeville",
+      "url": "https://open.spotify.com/track/56zIzQ7cQkk6jtqKjngLeA"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -791,34 +791,50 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "punk cake",
-        "url": "https://open.spotify.com/album/0yrkbOLrPepB0ZqNTGva3b"
+        "name": "Futuro Cercano",
+        "url": "https://open.spotify.com/album/5drSZ3zh5LItFNGb8z68Um"
       },
       "artists": [
         {
-          "name": "tamanaramen",
-          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+          "name": "Valesuchi",
+          "url": "https://open.spotify.com/artist/20lLQVCg1N2fCUB7fEg46b"
         }
       ],
-      "duration_ms": 142000,
-      "name": "14 Rue d'Abbeville",
-      "url": "https://open.spotify.com/track/56zIzQ7cQkk6jtqKjngLeA"
+      "duration_ms": 262916,
+      "name": "22",
+      "url": "https://open.spotify.com/track/4BiZttnK30HFXmG1JIuWr3"
     },
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "SCORPIO FALLING",
-        "url": "https://open.spotify.com/album/24Q9MlJDWfjif0Qaos88ub"
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag"
       },
       "artists": [
         {
-          "name": "Kelman Duran",
-          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
+          "name": "NTsKi",
+          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
         }
       ],
-      "duration_ms": 126267,
-      "name": "Ghost Ryder",
-      "url": "https://open.spotify.com/track/1fd3A5zfvQFtbQR46wa9P3"
+      "duration_ms": 255996,
+      "name": "K",
+      "url": "https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "Blu",
+        "url": "https://open.spotify.com/album/6XNMHgrmhvXaGiqRvoEjcp"
+      },
+      "artists": [
+        {
+          "name": "Sara Zozaya",
+          "url": "https://open.spotify.com/artist/0kJdtWJm7Aqpdk7hn7AN8n"
+        }
+      ],
+      "duration_ms": 221972,
+      "name": "Blu",
+      "url": "https://open.spotify.com/track/2djLnn2ySlFnrX6UBziUVC"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -859,18 +875,50 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "Blu",
-        "url": "https://open.spotify.com/album/6XNMHgrmhvXaGiqRvoEjcp"
+        "name": "2D0GS",
+        "url": "https://open.spotify.com/album/2Ka5EHomm6uXGwyDpcfXtB"
       },
       "artists": [
         {
-          "name": "Sara Zozaya",
-          "url": "https://open.spotify.com/artist/0kJdtWJm7Aqpdk7hn7AN8n"
+          "name": "2D0GS",
+          "url": "https://open.spotify.com/artist/2zSFRgwHiN61lvxYJWcpw6"
         }
       ],
-      "duration_ms": 221972,
-      "name": "Blu",
-      "url": "https://open.spotify.com/track/2djLnn2ySlFnrX6UBziUVC"
+      "duration_ms": 231600,
+      "name": "PUNTZ RETURN",
+      "url": "https://open.spotify.com/track/1wAe6d3vRv570pqFhjaHrK"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "SCORPIO FALLING",
+        "url": "https://open.spotify.com/album/24Q9MlJDWfjif0Qaos88ub"
+      },
+      "artists": [
+        {
+          "name": "Kelman Duran",
+          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
+        }
+      ],
+      "duration_ms": 126267,
+      "name": "Ghost Ryder",
+      "url": "https://open.spotify.com/track/1fd3A5zfvQFtbQR46wa9P3"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "Tr\u00e4frack",
+        "url": "https://open.spotify.com/album/5ESO4hLBoZGNbR1jXjK1SA"
+      },
+      "artists": [
+        {
+          "name": "Joakim \u00c5hlund & Jockum Nordstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5ZiVatyKj5b5B4cBt2aaYy"
+        }
+      ],
+      "duration_ms": 215375,
+      "name": "Tr\u00e4frack",
+      "url": "https://open.spotify.com/track/49aZTHdzomy42jf6bdCzcJ"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -927,38 +975,6 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "2D0GS",
-        "url": "https://open.spotify.com/album/2Ka5EHomm6uXGwyDpcfXtB"
-      },
-      "artists": [
-        {
-          "name": "2D0GS",
-          "url": "https://open.spotify.com/artist/2zSFRgwHiN61lvxYJWcpw6"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "PUNTZ RETURN",
-      "url": "https://open.spotify.com/track/1wAe6d3vRv570pqFhjaHrK"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag"
-      },
-      "artists": [
-        {
-          "name": "NTsKi",
-          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
-        }
-      ],
-      "duration_ms": 255996,
-      "name": "K",
-      "url": "https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
         "name": "Corrosiv",
         "url": "https://open.spotify.com/album/6AnnV6HvAH3UEaNrt5DP62"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 284000,
       "name": "Here Used To Be A Star",
       "url": "https://open.spotify.com/track/2EKY34UonlN4JKcj2AfeWh"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
-        "name": "Harsh & Exciting",
-        "url": "https://open.spotify.com/album/7GcFUyGVIEDAr2Lq9R6v7t"
-      },
-      "artists": [
-        {
-          "name": "Moonrisers",
-          "url": "https://open.spotify.com/artist/7H57cSuMs5vyMbaLbQjxc7"
-        }
-      ],
-      "duration_ms": 301606,
-      "name": "Circle Of The Seasons",
-      "url": "https://open.spotify.com/track/2tpiICm8dyCjY1j0HRsM4Z"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1007,6 +1007,38 @@
       "duration_ms": 286550,
       "name": "VI",
       "url": "https://open.spotify.com/track/0Hqe86kEj0B7L3MoBBUvvT"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "Harsh & Exciting",
+        "url": "https://open.spotify.com/album/7GcFUyGVIEDAr2Lq9R6v7t"
+      },
+      "artists": [
+        {
+          "name": "Moonrisers",
+          "url": "https://open.spotify.com/artist/7H57cSuMs5vyMbaLbQjxc7"
+        }
+      ],
+      "duration_ms": 301606,
+      "name": "Circle Of The Seasons",
+      "url": "https://open.spotify.com/track/2tpiICm8dyCjY1j0HRsM4Z"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "HM2BB",
+        "url": "https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN"
+      },
+      "artists": [
+        {
+          "name": "Indira Elias",
+          "url": "https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ"
+        }
+      ],
+      "duration_ms": 133848,
+      "name": "HM2BB",
+      "url": "https://open.spotify.com/track/6k0UIowj3aOOJq7yHwYBL9"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1047,34 +1079,34 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "Tr\u00e4frack",
-        "url": "https://open.spotify.com/album/5ESO4hLBoZGNbR1jXjK1SA"
+        "name": ",,, as long as i long to memorise your sky ,,,",
+        "url": "https://open.spotify.com/album/7bxK9dMmBNb2hAdW5Us5KU"
       },
       "artists": [
         {
-          "name": "Joakim \u00c5hlund & Jockum Nordstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5ZiVatyKj5b5B4cBt2aaYy"
+          "name": "elijah jamal asani",
+          "url": "https://open.spotify.com/artist/0IuS5J6QzarmBEOnCvjmSl"
         }
       ],
-      "duration_ms": 215375,
-      "name": "Tr\u00e4frack",
-      "url": "https://open.spotify.com/track/49aZTHdzomy42jf6bdCzcJ"
+      "duration_ms": 194455,
+      "name": "~~~littleriverhypothesis\u2022\u2022",
+      "url": "https://open.spotify.com/track/3WfU1PNZuuYDGgvtOxg4od"
     },
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "HM2BB",
-        "url": "https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN"
+        "name": "Sonny Gray",
+        "url": "https://open.spotify.com/album/1fXY2l6fVkSNL8xWC54KZR"
       },
       "artists": [
         {
-          "name": "Indira Elias",
-          "url": "https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ"
+          "name": "Alex Wilcox",
+          "url": "https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu"
         }
       ],
-      "duration_ms": 133848,
-      "name": "HM2BB",
-      "url": "https://open.spotify.com/track/6k0UIowj3aOOJq7yHwYBL9"
+      "duration_ms": 238625,
+      "name": "I Am The Cucumber Man",
+      "url": "https://open.spotify.com/track/6G0LBBs1XDry3cauKvXYHT"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1095,22 +1127,18 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "Tessalonica",
-        "url": "https://open.spotify.com/album/0FaZwDS0LjD5lHocxuuxtW"
+        "name": "Summer Rain (Keep on Dancing Rework)",
+        "url": "https://open.spotify.com/album/4LriIWQ4kyswqYNH54IPyW"
       },
       "artists": [
         {
-          "name": "TETUAN",
-          "url": "https://open.spotify.com/artist/58M2gboaUILpBh7S0tKPRq"
-        },
-        {
-          "name": "Laura Agnusdei",
-          "url": "https://open.spotify.com/artist/4YifuXxngq8oFkWNWVUi7J"
+          "name": "Le Parody",
+          "url": "https://open.spotify.com/artist/7ls2WeFdaXVNgCq5zWKDjF"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Tessalonica",
-      "url": "https://open.spotify.com/track/4j4WXhP8UMeDnfN7U2TOsR"
+      "duration_ms": 271701,
+      "name": "Summer Rain - Keep on Dancing Rework",
+      "url": "https://open.spotify.com/track/6RlCY03rdTbNWon5HNCBkq"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1139,66 +1167,18 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "Sonny Gray",
-        "url": "https://open.spotify.com/album/1fXY2l6fVkSNL8xWC54KZR"
+        "name": "Pythagoras",
+        "url": "https://open.spotify.com/album/2FPcePdkU5QkMJG2NbU0gk"
       },
       "artists": [
         {
-          "name": "Alex Wilcox",
-          "url": "https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu"
+          "name": "Pyramids",
+          "url": "https://open.spotify.com/artist/4GdgXfdII3qkUcLZqBGSk6"
         }
       ],
-      "duration_ms": 238625,
-      "name": "I Am The Cucumber Man",
-      "url": "https://open.spotify.com/track/6G0LBBs1XDry3cauKvXYHT"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
-        "name": "Body Roll",
-        "url": "https://open.spotify.com/album/5BzvKV2NobLTNcy3b15VNl"
-      },
-      "artists": [
-        {
-          "name": "Adrian Sherwood",
-          "url": "https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW"
-        }
-      ],
-      "duration_ms": 215826,
-      "name": "Body Roll",
-      "url": "https://open.spotify.com/track/5ELkW9AejyHpKzRDDAgNvh"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
-        "name": "Summer Rain (Keep on Dancing Rework)",
-        "url": "https://open.spotify.com/album/4LriIWQ4kyswqYNH54IPyW"
-      },
-      "artists": [
-        {
-          "name": "Le Parody",
-          "url": "https://open.spotify.com/artist/7ls2WeFdaXVNgCq5zWKDjF"
-        }
-      ],
-      "duration_ms": 271701,
-      "name": "Summer Rain - Keep on Dancing Rework",
-      "url": "https://open.spotify.com/track/6RlCY03rdTbNWon5HNCBkq"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
-        "name": ",,, as long as i long to memorise your sky ,,,",
-        "url": "https://open.spotify.com/album/7bxK9dMmBNb2hAdW5Us5KU"
-      },
-      "artists": [
-        {
-          "name": "elijah jamal asani",
-          "url": "https://open.spotify.com/artist/0IuS5J6QzarmBEOnCvjmSl"
-        }
-      ],
-      "duration_ms": 194455,
-      "name": "~~~littleriverhypothesis\u2022\u2022",
-      "url": "https://open.spotify.com/track/3WfU1PNZuuYDGgvtOxg4od"
+      "duration_ms": 314500,
+      "name": "Pretty Pigs",
+      "url": "https://open.spotify.com/track/0a90WjCTgyJ28YzHvzhO9l"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1219,18 +1199,38 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "Pythagoras",
-        "url": "https://open.spotify.com/album/2FPcePdkU5QkMJG2NbU0gk"
+        "name": "Tessalonica",
+        "url": "https://open.spotify.com/album/0FaZwDS0LjD5lHocxuuxtW"
       },
       "artists": [
         {
-          "name": "Pyramids",
-          "url": "https://open.spotify.com/artist/4GdgXfdII3qkUcLZqBGSk6"
+          "name": "TETUAN",
+          "url": "https://open.spotify.com/artist/58M2gboaUILpBh7S0tKPRq"
+        },
+        {
+          "name": "Laura Agnusdei",
+          "url": "https://open.spotify.com/artist/4YifuXxngq8oFkWNWVUi7J"
         }
       ],
-      "duration_ms": 314500,
-      "name": "Pretty Pigs",
-      "url": "https://open.spotify.com/track/0a90WjCTgyJ28YzHvzhO9l"
+      "duration_ms": 264000,
+      "name": "Tessalonica",
+      "url": "https://open.spotify.com/track/4j4WXhP8UMeDnfN7U2TOsR"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "Body Roll",
+        "url": "https://open.spotify.com/album/5BzvKV2NobLTNcy3b15VNl"
+      },
+      "artists": [
+        {
+          "name": "Adrian Sherwood",
+          "url": "https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW"
+        }
+      ],
+      "duration_ms": 215826,
+      "name": "Body Roll",
+      "url": "https://open.spotify.com/track/5ELkW9AejyHpKzRDDAgNvh"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "F\u00fcr Therese",
-        "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 262945,
-      "name": "F\u00fcr Therese",
-      "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
         "name": "Blue Veil",
         "url": "https://open.spotify.com/album/63DNAWFmg6nfeAPghfyhu0"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 259402,
       "name": "Phase I",
       "url": "https://open.spotify.com/track/7IF1ZThmxTNO14g0omrkdM"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "F\u00fcr Therese",
+        "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 262945,
+      "name": "F\u00fcr Therese",
+      "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "Solvay Beach",
-        "url": "https://open.spotify.com/album/6g3lLi3ROpgGsXNVxUWfsl"
-      },
-      "artists": [
-        {
-          "name": "Laura Agnusdei",
-          "url": "https://open.spotify.com/artist/4YifuXxngq8oFkWNWVUi7J"
-        }
-      ],
-      "duration_ms": 554026,
-      "name": "Solvay Beach",
-      "url": "https://open.spotify.com/track/3Q62MpruGadQlTmN7LHtmu"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
         "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
         "url": "https://open.spotify.com/album/6hm5M2Q7I1GJltggp6oclw"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "The Big E",
-        "url": "https://open.spotify.com/album/4873pITj5PQrxzNqYf7CPk"
+        "name": "Solvay Beach",
+        "url": "https://open.spotify.com/album/6g3lLi3ROpgGsXNVxUWfsl"
       },
       "artists": [
         {
-          "name": "Editrix",
-          "url": "https://open.spotify.com/artist/114Z5iDTpNa5tbPNSUMCre"
+          "name": "Laura Agnusdei",
+          "url": "https://open.spotify.com/artist/4YifuXxngq8oFkWNWVUi7J"
         }
       ],
-      "duration_ms": 166528,
-      "name": "The Big E",
-      "url": "https://open.spotify.com/track/4CIGIijEyrDgrLeS1TWvXp"
+      "duration_ms": 554026,
+      "name": "Solvay Beach",
+      "url": "https://open.spotify.com/track/3Q62MpruGadQlTmN7LHtmu"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1523,6 +1507,22 @@
       "duration_ms": 143733,
       "name": "Fumbled",
       "url": "https://open.spotify.com/track/47UiRv5ieyeywP8O44K0xp"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "The Big E",
+        "url": "https://open.spotify.com/album/4873pITj5PQrxzNqYf7CPk"
+      },
+      "artists": [
+        {
+          "name": "Editrix",
+          "url": "https://open.spotify.com/artist/114Z5iDTpNa5tbPNSUMCre"
+        }
+      ],
+      "duration_ms": 166528,
+      "name": "The Big E",
+      "url": "https://open.spotify.com/track/4CIGIijEyrDgrLeS1TWvXp"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "Peronospera",
-        "url": "https://open.spotify.com/album/2QxFIXJB8u6hLTm0xauquL"
-      },
-      "artists": [
-        {
-          "name": "DDUMA",
-          "url": "https://open.spotify.com/artist/0IpuoeEIxyOxBICJVARGzG"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Peronospera",
-      "url": "https://open.spotify.com/track/20Inl2dtYzvW7PekmKHOX5"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
         "name": "Altar",
         "url": "https://open.spotify.com/album/2n4hkKpBjThYOsTp2RnZ9a"
       },
@@ -1591,38 +1575,18 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "I'll Wait for You in the Car Park",
-        "url": "https://open.spotify.com/album/69xYnYghU3lHTWWOQTiqtr"
+        "name": "Peronospera",
+        "url": "https://open.spotify.com/album/2QxFIXJB8u6hLTm0xauquL"
       },
       "artists": [
         {
-          "name": "Violeta Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
-        },
-        {
-          "name": "Hora Lunga",
-          "url": "https://open.spotify.com/artist/5WUDtbvP7A3VhVA8VsYIuX"
+          "name": "DDUMA",
+          "url": "https://open.spotify.com/artist/0IpuoeEIxyOxBICJVARGzG"
         }
       ],
-      "duration_ms": 237093,
-      "name": "I Think I Just Died a Lil Bit",
-      "url": "https://open.spotify.com/track/16DhEPGbwJb08lHjupIhXF"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
-        "name": "The Scrollkeeper",
-        "url": "https://open.spotify.com/album/4KQRc2xhNQzRj05N2EPwKh"
-      },
-      "artists": [
-        {
-          "name": "Heith",
-          "url": "https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy"
-        }
-      ],
-      "duration_ms": 285738,
-      "name": "The Scrollkeeper",
-      "url": "https://open.spotify.com/track/108HXrZvKUAlXaWrozGj3L"
+      "duration_ms": 183506,
+      "name": "Peronospera",
+      "url": "https://open.spotify.com/track/20Inl2dtYzvW7PekmKHOX5"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1643,18 +1607,38 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "Charged Up 2",
-        "url": "https://open.spotify.com/album/0whw8OyYCpRqelxXYawD2b"
+        "name": "The Scrollkeeper",
+        "url": "https://open.spotify.com/album/4KQRc2xhNQzRj05N2EPwKh"
       },
       "artists": [
         {
-          "name": "Heavee",
-          "url": "https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw"
+          "name": "Heith",
+          "url": "https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy"
         }
       ],
-      "duration_ms": 264902,
-      "name": "Cross Road",
-      "url": "https://open.spotify.com/track/2tvaoRPWrVprKZrLkg69lW"
+      "duration_ms": 285738,
+      "name": "The Scrollkeeper",
+      "url": "https://open.spotify.com/track/108HXrZvKUAlXaWrozGj3L"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "I'll Wait for You in the Car Park",
+        "url": "https://open.spotify.com/album/69xYnYghU3lHTWWOQTiqtr"
+      },
+      "artists": [
+        {
+          "name": "Violeta Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
+        },
+        {
+          "name": "Hora Lunga",
+          "url": "https://open.spotify.com/artist/5WUDtbvP7A3VhVA8VsYIuX"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "I Think I Just Died a Lil Bit",
+      "url": "https://open.spotify.com/track/16DhEPGbwJb08lHjupIhXF"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1691,18 +1675,18 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "Lacrimae",
-        "url": "https://open.spotify.com/album/5F5KGB9XBm9hViPBMZpipd"
+        "name": "Charged Up 2",
+        "url": "https://open.spotify.com/album/0whw8OyYCpRqelxXYawD2b"
       },
       "artists": [
         {
-          "name": "Samuele CYMA",
-          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+          "name": "Heavee",
+          "url": "https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw"
         }
       ],
-      "duration_ms": 339026,
-      "name": "Sangue coagulato",
-      "url": "https://open.spotify.com/track/3as5N2iBqzVwslgYQfb0d4"
+      "duration_ms": 264902,
+      "name": "Cross Road",
+      "url": "https://open.spotify.com/track/2tvaoRPWrVprKZrLkg69lW"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1719,6 +1703,22 @@
       "duration_ms": 132318,
       "name": "Waiting pt 1",
       "url": "https://open.spotify.com/track/06ctaytGDUM1piASlJKz7C"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "Lacrimae",
+        "url": "https://open.spotify.com/album/5F5KGB9XBm9hViPBMZpipd"
+      },
+      "artists": [
+        {
+          "name": "Samuele CYMA",
+          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+        }
+      ],
+      "duration_ms": 339026,
+      "name": "Sangue coagulato",
+      "url": "https://open.spotify.com/track/3as5N2iBqzVwslgYQfb0d4"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

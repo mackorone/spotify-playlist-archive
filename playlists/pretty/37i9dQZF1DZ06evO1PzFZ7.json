@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152564,
+  "num_followers": 152562,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAACpqOAVBBGMOckpLH0UgQUs",
+  "snapshot_id": "aPrBgAAAAAA2X9h/0OcMp2+C+eKV1ldS",
   "tracks": [
     {
       "added_at": null,
@@ -443,26 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Agon\u00eda (Remix)",
-        "url": "https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK"
+        "name": "Yuri y Sus Amigos del Regional Mexicano",
+        "url": "https://open.spotify.com/album/6tRva9OrjfJ1wzU44X2y3V"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
         },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 188206,
-      "name": "Qu\u00e9 Agon\u00eda - Remix",
-      "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
+      "duration_ms": 226032,
+      "name": "Maldita Primavera",
+      "url": "https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE"
     },
     {
       "added_at": null,
@@ -483,22 +479,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yuri y Sus Amigos del Regional Mexicano",
-        "url": "https://open.spotify.com/album/6tRva9OrjfJ1wzU44X2y3V"
+        "name": "Qu\u00e9 Agon\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK"
       },
       "artists": [
         {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 226032,
-      "name": "Maldita Primavera",
-      "url": "https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE"
+      "duration_ms": 188206,
+      "name": "Qu\u00e9 Agon\u00eda - Remix",
+      "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
     },
     {
       "added_at": null,
@@ -584,7 +584,7 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 182866,
+      "duration_ms": 182858,
       "name": "CASTIGO",
       "url": "https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA"
     },

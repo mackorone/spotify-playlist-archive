@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41gDU7s6DpPXhBggLSJdw6">Aimee Mann</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343 likes - 170 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 344 likes - 170 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,8 +156,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 146 | [I Know There's A Word](https://open.spotify.com/track/3UkpDTb0DRXZJnO940FaBQ) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:16 |
 | 147 | [Lovers' Day](https://open.spotify.com/track/0Gx3aOKq8NlewS6aERcIyx) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 4:18 |
 | 148 | [Nightmare Girl](https://open.spotify.com/track/6Ygq7cVcSAU2dfIV0of7Tl) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space \(Deluxe Edition\)](https://open.spotify.com/album/2wZRKa4OYNivyrEzakqB7E) | 3:49 |
-| 149 | [Limits To Love](https://open.spotify.com/track/2nARrMS9EOkj6oFAoxM5aU) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:36 |
-| 150 | [Crash And Burn](https://open.spotify.com/track/2Jtg7Mu89QUJVUtEzddMJj) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 4:46 |
+| 149 | [Crash And Burn](https://open.spotify.com/track/2Jtg7Mu89QUJVUtEzddMJj) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 4:46 |
+| 150 | [Limits To Love](https://open.spotify.com/track/2nARrMS9EOkj6oFAoxM5aU) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:36 |
 | 151 | [Check \(reprise\)](https://open.spotify.com/track/3BF0Cb5Qdu7ZraE1RywMed) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 0:57 |
 | 152 | [Have Mercy](https://open.spotify.com/track/1lRvdABhq6Puw62G4huStA) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 4:54 |
 | 153 | [Sleeping and Waking](https://open.spotify.com/track/1LQSoaEEz8Uio3O0JPT8XW) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 3:23 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `Ab/wJgAAAABY0liIXEdh0SMiL4bzaYY2`
+Snapshot ID: `Ab/1xgAAAAABtyHVTX/v6F5eI1DVdbs0`

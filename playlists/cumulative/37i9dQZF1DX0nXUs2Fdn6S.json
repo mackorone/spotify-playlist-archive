@@ -1695,6 +1695,28 @@
     },
     {
       "album": {
+        "name": "Tala",
+        "url": "https://open.spotify.com/album/7dH02hdKfme7yOT2BROR6I"
+      },
+      "artists": [
+        {
+          "name": "Al Tamar",
+          "url": "https://open.spotify.com/artist/5eEZAVA1UxTo2a5vwY0gI1"
+        },
+        {
+          "name": "Elnaaz Norouzi",
+          "url": "https://open.spotify.com/artist/59l92FFLwKblV1LHUHYw43"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Tala",
+      "url": "https://open.spotify.com/track/1QB4MXIekuY5iGLrapDNfj"
+    },
+    {
+      "album": {
         "name": "Tempted To Touch (feat. Rupee)",
         "url": "https://open.spotify.com/album/4eGoobyXkY8XnRu5rwvOV5"
       },
@@ -1768,7 +1790,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 210576,
       "name": "TIME",
       "url": "https://open.spotify.com/track/4T1P3F5FfxP3H0tVlJHX0M"
@@ -1786,7 +1808,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 212691,
       "name": "Time - Radio Edit",
       "url": "https://open.spotify.com/track/2D19JpvlOaVSCleOUhBPzl"

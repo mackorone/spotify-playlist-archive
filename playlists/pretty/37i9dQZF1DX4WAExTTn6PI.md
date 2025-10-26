@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover: William Prince
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,746 likes - 99 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,754 likes - 99 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 98 | [Gettin' Outta My Mind](https://open.spotify.com/track/5xVKhynmkODxlh6ol9GSN8) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Gettin' Outta My Mind](https://open.spotify.com/album/6DGQItiDkYwvpJNrvKdOZ4) | 3:01 |
 | 99 | [Give Until It Hurts](https://open.spotify.com/track/6LtFRtkqcMYttZVFLdpjcT) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Give Until It Hurts](https://open.spotify.com/album/06ExLCRx2FS9iJfXd1z8rd) | 3:17 |
 
-Snapshot ID: `AAAAAEof+BFl3ekqy5OETidTnmR1ZlHm`
+Snapshot ID: `AAAAAEr/49IMEJWIPK62JsueJJwe9B6W`

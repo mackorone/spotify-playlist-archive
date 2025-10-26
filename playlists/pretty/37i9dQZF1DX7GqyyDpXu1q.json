@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: Mark Morton",
-  "num_followers": 92390,
+  "num_followers": 92401,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
+        "name": "Tabasco & Sweet Tea",
+        "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
+      },
+      "artists": [
+        {
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+        }
+      ],
+      "duration_ms": 280065,
+      "name": "Tabasco & Sweet Tea",
+      "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
         "name": "The People's House (with The War And Treaty)",
         "url": "https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 265846,
       "name": "The People's House (with The War And Treaty)",
       "url": "https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
-        "name": "Tabasco & Sweet Tea",
-        "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
-      },
-      "artists": [
-        {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
-        }
-      ],
-      "duration_ms": 280065,
-      "name": "Tabasco & Sweet Tea",
-      "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "Dig A Hole",
-        "url": "https://open.spotify.com/album/6Qj4bkL3XK29fR6qcT7Kyb"
-      },
-      "artists": [
-        {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
-        }
-      ],
-      "duration_ms": 252840,
-      "name": "Dig A Hole",
-      "url": "https://open.spotify.com/track/5sl5dwbfQqkigMNUjQQ4PI"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "Deep in the Trouble",
         "url": "https://open.spotify.com/album/5Uki8ZPYpS7wDAKdUks7Me"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 325254,
       "name": "Pile of Bones",
       "url": "https://open.spotify.com/track/0P7DARpTXXH01LhUArEYQK"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "Dig A Hole",
+        "url": "https://open.spotify.com/album/6Qj4bkL3XK29fR6qcT7Kyb"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "duration_ms": 252840,
+      "name": "Dig A Hole",
+      "url": "https://open.spotify.com/track/5sl5dwbfQqkigMNUjQQ4PI"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "The Vandoliers",
-        "url": "https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM"
-      },
-      "artists": [
-        {
-          "name": "Vandoliers",
-          "url": "https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE"
-        }
-      ],
-      "duration_ms": 185386,
-      "name": "Better Run",
-      "url": "https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "Interstate Cowboy",
         "url": "https://open.spotify.com/album/6T9OmS588U5Dk5bKCkQvvj"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 214881,
       "name": "Interstate Cowboy",
       "url": "https://open.spotify.com/track/3c2RQ6N405f59qatt86lPS"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "The Vandoliers",
+        "url": "https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM"
+      },
+      "artists": [
+        {
+          "name": "Vandoliers",
+          "url": "https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE"
+        }
+      ],
+      "duration_ms": 185386,
+      "name": "Better Run",
+      "url": "https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce"
     },
     {
       "added_at": "2025-04-21 21:56:35",

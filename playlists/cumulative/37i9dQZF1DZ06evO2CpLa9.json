@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "A Mi Viejo",
+        "url": "https://open.spotify.com/album/53O7nM3lBoZyhT8QU9B8Dj"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148400,
+      "name": "A Mi Viejo",
+      "url": "https://open.spotify.com/track/2Fur193ZfBVsT2tPFfuOiw"
+    },
+    {
+      "album": {
         "name": "TODO",
         "url": "https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W"
       },
@@ -426,7 +444,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 185186,
       "name": "De Viernes a Viernes",
       "url": "https://open.spotify.com/track/0y9X7Q1bb7k4fSNbnjjeUt"

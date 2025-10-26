@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 133343,
+  "num_followers": 133328,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Favor",
-        "url": "https://open.spotify.com/album/0XtWBWfzxNebzx8oYLEVJ9"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 278213,
-      "name": "Favor",
-      "url": "https://open.spotify.com/track/22u3zisnI1LmCT1jHNdULx"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "One + One",
         "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 226296,
       "name": "One + One",
       "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Favor",
+        "url": "https://open.spotify.com/album/0XtWBWfzxNebzx8oYLEVJ9"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 278213,
+      "name": "Favor",
+      "url": "https://open.spotify.com/track/22u3zisnI1LmCT1jHNdULx"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Nature Always Wins",
-        "url": "https://open.spotify.com/album/0QW5e9dUljhZyzU0sAtfA4"
-      },
-      "artists": [
-        {
-          "name": "Maximo Park",
-          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
-        }
-      ],
-      "duration_ms": 182210,
-      "name": "Why Must A Building Burn?",
-      "url": "https://open.spotify.com/track/2hR8cb1GFqK3BUYWke7P70"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Strong Feelings",
         "url": "https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 244533,
       "name": "Strong Feelings",
       "url": "https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Nature Always Wins",
+        "url": "https://open.spotify.com/album/0QW5e9dUljhZyzU0sAtfA4"
+      },
+      "artists": [
+        {
+          "name": "Maximo Park",
+          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
+        }
+      ],
+      "duration_ms": 182210,
+      "name": "Why Must A Building Burn?",
+      "url": "https://open.spotify.com/track/2hR8cb1GFqK3BUYWke7P70"
     },
     {
       "added_at": "2024-07-12 23:20:36",

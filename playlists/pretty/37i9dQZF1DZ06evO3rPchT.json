@@ -1,29 +1,13 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 83254,
+  "num_followers": 83274,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAABqZu2YF4LsB58KfYsjtDSd",
+  "snapshot_id": "aPrBgAAAAAB/X56bcxPm5MI5PvGGfhT5",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/0EivT3ujuT7UniMW8UOISI"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 238030,
-      "name": "Country Country",
-      "url": "https://open.spotify.com/track/7a7RMpWBY72wWWj75WHEg9"
-    },
     {
       "added_at": null,
       "album": {
@@ -155,18 +139,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY!",
-        "url": "https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0"
+        "name": "Beers On Me",
+        "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
       "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 193248,
-      "name": "Favorite Country Song",
-      "url": "https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS"
+      "duration_ms": 174680,
+      "name": "Beers On Me",
+      "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
     },
     {
       "added_at": null,
@@ -191,26 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beers On Me",
-        "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
+        "name": "COUNTRY!",
+        "url": "https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0"
       },
       "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 174680,
-      "name": "Beers On Me",
-      "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
+      "duration_ms": 193248,
+      "name": "Favorite Country Song",
+      "url": "https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS"
     },
     {
       "added_at": null,
@@ -259,6 +243,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 238030,
+      "name": "Country Country",
+      "url": "https://open.spotify.com/track/1FHOMoJbGHsjR8E44IcZ8g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COUNTRY! COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/0ihzXn0iwyBtHVfQuLRUSh"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 212685,
+      "name": "Good Ole Boy",
+      "url": "https://open.spotify.com/track/3zvPnDrcIbpXnHZ7Sspw3m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "the mockingbird & THE CROW",
         "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
       },
@@ -291,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY! COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/0ihzXn0iwyBtHVfQuLRUSh"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 212685,
-      "name": "Good Ole Boy",
-      "url": "https://open.spotify.com/track/3zvPnDrcIbpXnHZ7Sspw3m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -323,6 +323,22 @@
       "duration_ms": 220479,
       "name": "Hide My Gun (Feat. HARDY)",
       "url": "https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "UNAPOLOGETICALLY COUNTRY AS HELL",
+      "url": "https://open.spotify.com/track/7fkAb0kXW8636FD1Mwz4MY"
     },
     {
       "added_at": null,
@@ -359,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "UNAPOLOGETICALLY COUNTRY AS HELL",
-      "url": "https://open.spotify.com/track/7fkAb0kXW8636FD1Mwz4MY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nobody Likes Your Girlfriend",
         "url": "https://open.spotify.com/album/5e3nfGmreblIZTTUJOYR7f"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 181870,
       "name": "Nobody Likes Your Girlfriend",
       "url": "https://open.spotify.com/track/3MAfSTarsPGtSxlmA6IBSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 193901,
+      "name": "BOOTS",
+      "url": "https://open.spotify.com/track/0u9zevC5U0KfmXCJveb1WJ"
     },
     {
       "added_at": null,
@@ -427,22 +443,6 @@
       "duration_ms": 195326,
       "name": "In The Bible",
       "url": "https://open.spotify.com/track/12yrm2FnFI9uaGrIaiAtvV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 193901,
-      "name": "BOOTS",
-      "url": "https://open.spotify.com/track/0u9zevC5U0KfmXCJveb1WJ"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 194341,
-      "name": "ROCKSTAR",
-      "url": "https://open.spotify.com/track/5NKPbcHaLSl4K3lJCo4pJr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A ROCK",
         "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 218718,
       "name": "TRUCK",
       "url": "https://open.spotify.com/track/4e65NJs3JpNvrdjcNBL3s5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 194341,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/5NKPbcHaLSl4K3lJCo4pJr"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 193397,
-      "name": "WHYBMWL",
-      "url": "https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A ROCK",
         "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 202516,
       "name": "AIN'T A BAD DAY",
       "url": "https://open.spotify.com/track/6ylWoGhvbMInRjPnceGLpO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 193397,
+      "name": "WHYBMWL",
+      "url": "https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 172672,
-      "name": "Y\u2019all Need Jesus",
-      "url": "https://open.spotify.com/track/4LmtuM662l8X2spMNBsdHj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHERE TO FIND ME",
         "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
       },
@@ -871,6 +855,26 @@
       "duration_ms": 161159,
       "name": "ALL SHE LEFT WAS ME",
       "url": "https://open.spotify.com/track/1lyDAuNyaHxGaNNp7rAyne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 195236,
+      "name": "The Better Me",
+      "url": "https://open.spotify.com/track/1DAaHUdfW4Y9hil4zrc2Q9"
     },
     {
       "added_at": null,
@@ -911,22 +915,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
+        "name": "WHERE TO FIND ME",
+        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
       },
       "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 195236,
-      "name": "The Better Me",
-      "url": "https://open.spotify.com/track/1DAaHUdfW4Y9hil4zrc2Q9"
+      "duration_ms": 208478,
+      "name": "SIGNED, SOBER YOU",
+      "url": "https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc"
     }
   ],
   "unique_name": "This Is HARDY",

@@ -1,12 +1,12 @@
 {
   "description": "This is Emei. The essential tracks, all in one playlist.",
-  "num_followers": 11463,
+  "num_followers": 11461,
   "original_name": "This Is Emei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAADsuIFAtnUTtcNTHW61OmN",
+  "snapshot_id": "aPrBgAAAAADBRGmVjaQWYBJB7Y5SmL1I",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Regrets",
+        "url": "https://open.spotify.com/album/2JNxwslDi54vHpSMofYiNR"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "Regrets",
+      "url": "https://open.spotify.com/track/64l8UD4BRovWTSyrLqManD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hold On Me (feat. Emei)",
         "url": "https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 164525,
       "name": "THE PART",
       "url": "https://open.spotify.com/track/2RCZZqbvNR5pEORY3p8PY2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Regrets",
-        "url": "https://open.spotify.com/album/2JNxwslDi54vHpSMofYiNR"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 122253,
-      "name": "Regrets",
-      "url": "https://open.spotify.com/track/64l8UD4BRovWTSyrLqManD"
     },
     {
       "added_at": null,

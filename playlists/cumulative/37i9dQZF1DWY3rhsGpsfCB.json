@@ -1692,7 +1692,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 173419,
       "name": "Beg For It",
       "url": "https://open.spotify.com/track/62toM9v7NsspHYCfaudxHZ"
@@ -5882,7 +5882,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 158069,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
@@ -9927,6 +9927,24 @@
     },
     {
       "album": {
+        "name": "CAOS",
+        "url": "https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258801,
+      "name": "Nearsight [SID]",
+      "url": "https://open.spotify.com/track/5ZIRHFXb2QCgz2gSsc36RZ"
+    },
+    {
+      "album": {
         "name": "Necessary",
         "url": "https://open.spotify.com/album/4BiNLm1Du56fIj23cAU6x1"
       },
@@ -12604,6 +12622,24 @@
       "duration_ms": 189926,
       "name": "Room 69",
       "url": "https://open.spotify.com/track/4ISOVR2PoQbWv8s4nMBale"
+    },
+    {
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Root of all Evil",
+      "url": "https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-102 songs - 6 hr 50 min
+104 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,15 +46,17 @@
 | [Heart of Darkness](https://open.spotify.com/track/4OQ08jPQlzsufwogvCjKwB) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 4:51 | 2022-05-30 | 2025-03-30 |
 | [House of Mirrors](https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [House of Mirrors](https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195) | 3:40 | 2022-05-30 | 2025-08-24 |
 | [House of Mirrors](https://open.spotify.com/track/4mdop8Jx5BwspAQzvjF8pu) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 3:40 | 2022-08-25 |  |
-| [I Am Legend/Out for Blood](https://open.spotify.com/track/3y9BI61Ssc71BX3Yh6aE5N) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:58 | 2022-05-30 |  |
+| [I Am Legend/Out for Blood](https://open.spotify.com/track/3y9BI61Ssc71BX3Yh6aE5N) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:58 | 2022-05-30 | 2025-10-26 |
 | [I Will Live Again](https://open.spotify.com/track/19lYRLj7L8F6oUejDM7pgX) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 3:32 | 2022-05-30 | 2025-03-30 |
 | [Illuminate the Path](https://open.spotify.com/track/5Wo7Z56JrHk7noeiQ8EAb0) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 4:48 | 2025-03-30 |  |
 | [In the Eye of the Storm](https://open.spotify.com/track/3Ho41g5j1K5tiFmuU6DcZl) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:09 | 2022-08-30 | 2025-08-24 |
 | [In the Eye of the Storm](https://open.spotify.com/track/7iBVUp42yQBW5y8nDXrXG1) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [In the Eye of the Storm](https://open.spotify.com/album/2tH0JMPopirEbcf3pbGwA0) | 4:09 | 2022-07-15 | 2022-08-27 |
 | [Lachrymatory](https://open.spotify.com/track/0vMSFxhahDAwVnnPDO8Oas) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 3:50 | 2025-10-13 |  |
 | [Leader of the Rats](https://open.spotify.com/track/1qOzN09z3hBMfcUBaBi40Q) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:20 | 2022-05-30 |  |
+| [Liars & Thieves](https://open.spotify.com/track/0ddMkwKUpd2ExFOLJlDoze) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 4:20 | 2025-10-26 |  |
 | [Liars & Thieves](https://open.spotify.com/track/3yxUpNlToBwRVPMYm1FpyL) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Liars & Thieves](https://open.spotify.com/album/5X9jrjEjUbdPwgoVcv6BCv) | 4:20 | 2024-10-19 | 2025-04-02 |
-| [March of the Miscreants](https://open.spotify.com/track/37S5w1GMtRSPamMfT7SOTH) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 4:49 | 2025-03-30 |  |
+| [March of the Miscreants](https://open.spotify.com/track/145Uavh1IEvv1xyG8AWAU8) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:49 | 2025-10-26 |  |
+| [March of the Miscreants](https://open.spotify.com/track/37S5w1GMtRSPamMfT7SOTH) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 4:49 | 2025-03-30 | 2025-10-26 |
 | [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:01 | 2025-10-12 |  |
 | [Mourning Star](https://open.spotify.com/track/3GEenHvrJMz0JplK0g6yqM) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 1:36 | 2022-08-14 | 2022-08-26 |
 | [Murder Scene](https://open.spotify.com/track/25lp8iSlGkhHISSX0EgpAE) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 3:50 | 2022-07-03 | 2022-07-05 |

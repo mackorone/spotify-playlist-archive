@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 53817,
+  "num_followers": 53828,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,26 @@
     {
       "added_at": "2025-10-24 06:22:02",
       "album": {
+        "name": "January",
+        "url": "https://open.spotify.com/album/4lu9rOm32Ieevp1INYmzNQ"
+      },
+      "artists": [
+        {
+          "name": "Elijah Lee",
+          "url": "https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu"
+        },
+        {
+          "name": "frad",
+          "url": "https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "outset",
+      "url": "https://open.spotify.com/track/6ZpPt8jptwLcWmEmqQ95OO"
+    },
+    {
+      "added_at": "2025-10-24 06:22:02",
+      "album": {
         "name": "no one else",
         "url": "https://open.spotify.com/album/55GSHcWOrbvL233s62HEPG"
       },
@@ -139,26 +159,6 @@
       "duration_ms": 138000,
       "name": "no one else",
       "url": "https://open.spotify.com/track/0P983JO9vCqhq3Tv7arhNa"
-    },
-    {
-      "added_at": "2025-10-24 06:22:02",
-      "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/4lu9rOm32Ieevp1INYmzNQ"
-      },
-      "artists": [
-        {
-          "name": "Elijah Lee",
-          "url": "https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu"
-        },
-        {
-          "name": "frad",
-          "url": "https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "outset",
-      "url": "https://open.spotify.com/track/6ZpPt8jptwLcWmEmqQ95OO"
     },
     {
       "added_at": "2025-10-24 06:22:02",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-10-24 06:22:02",
       "album": {
-        "name": "I Miss You",
-        "url": "https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf"
-      },
-      "artists": [
-        {
-          "name": "Katu",
-          "url": "https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69"
-    },
-    {
-      "added_at": "2025-10-24 06:22:02",
-      "album": {
         "name": "Scenery",
         "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 159009,
       "name": "Stray Cat",
       "url": "https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib"
+    },
+    {
+      "added_at": "2025-10-24 06:22:02",
+      "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf"
+      },
+      "artists": [
+        {
+          "name": "Katu",
+          "url": "https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69"
     },
     {
       "added_at": "2025-10-24 06:22:02",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-10-24 06:22:02",
       "album": {
-        "name": "Shin",
-        "url": "https://open.spotify.com/album/3UrFKoWVHjVhiRy3fyEwdf"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 225152,
-      "name": "Shin",
-      "url": "https://open.spotify.com/track/6M15SpES3QM2uiuYZExTVa"
-    },
-    {
-      "added_at": "2025-10-24 06:22:02",
-      "album": {
         "name": "re: Sound Of Light",
         "url": "https://open.spotify.com/album/24R74RGaArQFDwqz8LzYp0"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 144500,
       "name": "re: Sound Of Light",
       "url": "https://open.spotify.com/track/7zFWLMPaEe5G9crfMdAVSC"
+    },
+    {
+      "added_at": "2025-10-24 06:22:02",
+      "album": {
+        "name": "Shin",
+        "url": "https://open.spotify.com/album/3UrFKoWVHjVhiRy3fyEwdf"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 225152,
+      "name": "Shin",
+      "url": "https://open.spotify.com/track/6M15SpES3QM2uiuYZExTVa"
     },
     {
       "added_at": "2025-10-24 06:22:02",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-10-24 06:22:02",
       "album": {
-        "name": "C.itosakura f.ascendens (synfilums rework)",
-        "url": "https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu"
-      },
-      "artists": [
-        {
-          "name": "synfilums",
-          "url": "https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "C.itosakura f.ascendens - synfilums rework",
-      "url": "https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr"
-    },
-    {
-      "added_at": "2025-10-24 06:22:02",
-      "album": {
         "name": "Day Trip",
         "url": "https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2025-10-24 06:22:02",
       "album": {
+        "name": "C.itosakura f.ascendens (synfilums rework)",
+        "url": "https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu"
+      },
+      "artists": [
+        {
+          "name": "synfilums",
+          "url": "https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "C.itosakura f.ascendens - synfilums rework",
+      "url": "https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr"
+    },
+    {
+      "added_at": "2025-10-24 06:22:02",
+      "album": {
         "name": "The Color and the Light",
         "url": "https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8"
       },
@@ -731,18 +731,18 @@
     {
       "added_at": "2025-10-24 06:22:02",
       "album": {
-        "name": "dear surfers",
-        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
+        "name": "KUMORI",
+        "url": "https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu"
       },
       "artists": [
         {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
         }
       ],
-      "duration_ms": 129332,
-      "name": "surf minimalism",
-      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
+      "duration_ms": 163809,
+      "name": "KUMORI",
+      "url": "https://open.spotify.com/track/6UqDlPe144ugEhzgN15voY"
     },
     {
       "added_at": "2025-10-24 06:22:02",
@@ -787,18 +787,18 @@
     {
       "added_at": "2025-10-24 06:22:02",
       "album": {
-        "name": "KUMORI",
-        "url": "https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu"
+        "name": "dear surfers",
+        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
       },
       "artists": [
         {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
         }
       ],
-      "duration_ms": 163809,
-      "name": "KUMORI",
-      "url": "https://open.spotify.com/track/6UqDlPe144ugEhzgN15voY"
+      "duration_ms": 129332,
+      "name": "surf minimalism",
+      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
     },
     {
       "added_at": "2025-10-24 06:22:02",
@@ -839,26 +839,6 @@
     {
       "added_at": "2025-10-24 06:22:02",
       "album": {
-        "name": "Meditation Loop",
-        "url": "https://open.spotify.com/album/7u0RdGp0lZfmZGmU4bx1pc"
-      },
-      "artists": [
-        {
-          "name": "Yusuke Shima",
-          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
-        },
-        {
-          "name": "Wind Loop Case",
-          "url": "https://open.spotify.com/artist/5JNs2HESqeKZBoMGnElAMh"
-        }
-      ],
-      "duration_ms": 256551,
-      "name": "Meditation Loop",
-      "url": "https://open.spotify.com/track/3O3x1XjurQCpCH6ATdF6AR"
-    },
-    {
-      "added_at": "2025-10-24 06:22:02",
-      "album": {
         "name": "Sushi In Tokyo",
         "url": "https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx"
       },
@@ -891,22 +871,22 @@
     {
       "added_at": "2025-10-24 06:22:02",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP"
+        "name": "Meditation Loop",
+        "url": "https://open.spotify.com/album/7u0RdGp0lZfmZGmU4bx1pc"
       },
       "artists": [
         {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
         },
         {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+          "name": "Wind Loop Case",
+          "url": "https://open.spotify.com/artist/5JNs2HESqeKZBoMGnElAMh"
         }
       ],
-      "duration_ms": 169090,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB"
+      "duration_ms": 256551,
+      "name": "Meditation Loop",
+      "url": "https://open.spotify.com/track/3O3x1XjurQCpCH6ATdF6AR"
     },
     {
       "added_at": "2025-10-24 06:22:02",
@@ -927,6 +907,26 @@
       "duration_ms": 117600,
       "name": "It Hurts to Love You (it meant a lot)",
       "url": "https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m"
+    },
+    {
+      "added_at": "2025-10-24 06:22:02",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB"
     },
     {
       "added_at": "2025-10-24 06:22:02",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-10-24 06:22:02",
       "album": {
+        "name": "SHIBUYA 246",
+        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 171851,
+      "name": "SHIBUYA 246",
+      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
+    },
+    {
+      "added_at": "2025-10-24 06:22:02",
+      "album": {
         "name": "Abbot Kinney",
         "url": "https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F"
       },
@@ -1027,34 +1043,18 @@
     {
       "added_at": "2025-10-24 06:22:02",
       "album": {
-        "name": "Night Owl Dream",
-        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
       },
       "artists": [
         {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
         }
       ],
-      "duration_ms": 156279,
-      "name": "Night Owl Dream",
-      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
-    },
-    {
-      "added_at": "2025-10-24 06:22:02",
-      "album": {
-        "name": "SHIBUYA 246",
-        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 171851,
-      "name": "SHIBUYA 246",
-      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
+      "duration_ms": 245200,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
     },
     {
       "added_at": "2025-10-24 06:22:02",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2025-10-24 06:22:02",
       "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
+        "name": "Night Owl Dream",
+        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
       },
       "artists": [
         {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
         }
       ],
-      "duration_ms": 245200,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
+      "duration_ms": 156279,
+      "name": "Night Owl Dream",
+      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
     },
     {
       "added_at": "2025-10-24 06:22:02",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-10-24 06:22:02",
       "album": {
-        "name": "flowingtime",
-        "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
-      },
-      "artists": [
-        {
-          "name": "Otokaze",
-          "url": "https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Colony",
-      "url": "https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ"
-    },
-    {
-      "added_at": "2025-10-24 06:22:02",
-      "album": {
         "name": "Higashi no Sora",
         "url": "https://open.spotify.com/album/1vEPUz5nmloFecNO1425eh"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 175774,
       "name": "Higashi no Sora",
       "url": "https://open.spotify.com/track/68G0eygRdslyW29oWuDt8O"
+    },
+    {
+      "added_at": "2025-10-24 06:22:02",
+      "album": {
+        "name": "flowingtime",
+        "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
+      },
+      "artists": [
+        {
+          "name": "Otokaze",
+          "url": "https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Colony",
+      "url": "https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ"
     },
     {
       "added_at": "2025-10-24 06:22:02",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-10-24 06:22:02",
       "album": {
-        "name": "Dawn (Side-B)",
-        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
-      },
-      "artists": [
-        {
-          "name": "Nozomi Nobody",
-          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Ghost Town - Side-B",
-      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
-    },
-    {
-      "added_at": "2025-10-24 06:22:02",
-      "album": {
         "name": "Ghost in the Clocks",
         "url": "https://open.spotify.com/album/4wJ31bIX5Q8hlbT8KgUm1J"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 172000,
       "name": "room with nobody (feat. Takahiro Kido & Yuki Murata)",
       "url": "https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG"
+    },
+    {
+      "added_at": "2025-10-24 06:22:02",
+      "album": {
+        "name": "Dawn (Side-B)",
+        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
+      },
+      "artists": [
+        {
+          "name": "Nozomi Nobody",
+          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Ghost Town - Side-B",
+      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
     },
     {
       "added_at": "2025-10-24 06:22:02",
@@ -1315,8 +1315,8 @@
     {
       "added_at": "2025-10-24 06:22:02",
       "album": {
-        "name": "falling asleep.",
-        "url": "https://open.spotify.com/album/4tKFwi75AtxxN1EaGC87gK"
+        "name": "cycling break",
+        "url": "https://open.spotify.com/album/6NdjDaNui5lhGKM8qY4MuP"
       },
       "artists": [
         {
@@ -1328,9 +1328,9 @@
           "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
         }
       ],
-      "duration_ms": 194000,
-      "name": "falling asleep.",
-      "url": "https://open.spotify.com/track/0X88c8pOrPZhuwBYe1lgWl"
+      "duration_ms": 306000,
+      "name": "cycling break",
+      "url": "https://open.spotify.com/track/0oR80EdfVbRs0gJgNMEsq4"
     },
     {
       "added_at": "2025-10-24 06:22:02",
@@ -1403,8 +1403,8 @@
     {
       "added_at": "2025-10-24 06:22:02",
       "album": {
-        "name": "cycling break",
-        "url": "https://open.spotify.com/album/6NdjDaNui5lhGKM8qY4MuP"
+        "name": "falling asleep.",
+        "url": "https://open.spotify.com/album/4tKFwi75AtxxN1EaGC87gK"
       },
       "artists": [
         {
@@ -1416,9 +1416,9 @@
           "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
         }
       ],
-      "duration_ms": 306000,
-      "name": "cycling break",
-      "url": "https://open.spotify.com/track/0oR80EdfVbRs0gJgNMEsq4"
+      "duration_ms": 194000,
+      "name": "falling asleep.",
+      "url": "https://open.spotify.com/track/0X88c8pOrPZhuwBYe1lgWl"
     },
     {
       "added_at": "2025-10-24 06:22:02",

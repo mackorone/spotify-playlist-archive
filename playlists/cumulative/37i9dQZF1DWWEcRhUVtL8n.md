@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Hannah Jadagu
 
-2,217 songs - 4 day 21 hr 38 min
+2,218 songs - 4 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [Daddy](https://open.spotify.com/track/06paPnT9vsd9qonDCsOzTX) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Daddy](https://open.spotify.com/album/0IrcO4h2IURsFVFiyciNiO) | 2:50 | 2021-01-25 | 2021-05-28 |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-05 | 2025-06-28 |
 | [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 | 2023-06-16 | 2024-01-13 |
+| [Damn](https://open.spotify.com/track/0KHVISuSBfpkRJ4jZ24y5o) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Damn](https://open.spotify.com/album/4LtjxbySdwqb8XFAtiJ8d1) | 2:54 | 2025-10-10 |  |
 | [Damn Bean](https://open.spotify.com/track/3eZReaCGyJoXQvXCN9HuG9) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Damn Bean](https://open.spotify.com/album/0L6Wmjz8QhjXqKn8ZNaTtl) | 2:54 | 2021-02-28 | 2021-05-26 |
 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 | 2022-01-07 | 2022-04-10 |
 | [Damn Shame](https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Damn Shame](https://open.spotify.com/album/4kMW4QkHFBOBvx5wIn8uDF) | 2:48 | 2024-12-13 | 2025-03-03 |
@@ -1982,7 +1983,7 @@
 | [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 | 2025-02-21 | 2025-07-09 |
 | [The Same](https://open.spotify.com/track/57YKyo8SW8lujChukFU3qY) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Same / Real Love](https://open.spotify.com/album/0zWFPw6BqkytZZ2roxs9vh) | 3:53 | 2021-02-22 | 2021-05-30 |
 | [The Things We Do](https://open.spotify.com/track/4nYb6EZpeRI3ZM1O0UquQ5) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [The Things We Do](https://open.spotify.com/album/6nhQR2WHOS9DWYgcbVSYYy) | 4:12 | 2021-02-22 | 2021-05-24 |
-| [The Tongass](https://open.spotify.com/track/3EU3gA50dnCzreFKqiu1WN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Tongass National Forest](https://open.spotify.com/album/0Cwv0rbs9Qjdsy8Y5l5hWh) | 4:31 | 2025-10-10 |  |
+| [The Tongass](https://open.spotify.com/track/3EU3gA50dnCzreFKqiu1WN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Tongass National Forest](https://open.spotify.com/album/0Cwv0rbs9Qjdsy8Y5l5hWh) | 4:31 | 2025-10-10 | 2025-10-26 |
 | [The Walls Are Way Too Thin](https://open.spotify.com/track/29CDTN3TfjGr4f1yRQqAtV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/4ZxaSVlcGYPFEqnP5KeqmE) | 3:40 | 2021-06-02 | 2022-06-15 |
 | [The Wave](https://open.spotify.com/track/4AmW5yhWe6CcQp5s80Ysdk) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [The Wave](https://open.spotify.com/album/3V6ocE8HwhNK3HY0w1adzF) | 2:32 | 2022-04-15 | 2022-07-29 |
 | [The Way My Friends Feel About You](https://open.spotify.com/track/3m564D0kt8IZ08YZ2WCPE3) | [Sawyer](https://open.spotify.com/artist/0kWDZRay8upBU5u89Kmc7F) | [The Way My Friends Feel About You](https://open.spotify.com/album/7JttdErJ14yQqhIiCI0Djq) | 2:54 | 2021-08-13 | 2022-04-16 |

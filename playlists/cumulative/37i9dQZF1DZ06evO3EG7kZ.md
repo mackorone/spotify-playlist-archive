@@ -4,14 +4,15 @@
 
 > This is Bluey\. The essential tracks, all in one playlist.
 
-27 songs - 1 hr 3 min
+28 songs - 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Message from the Fairies \(John Ryan's Polka\)](https://open.spotify.com/track/6Unkt22dubBEegSQAx9j58) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Steven Peach](https://open.spotify.com/artist/1CoomglQR4HaC0LdXJdFYE) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 2:35 | 2025-07-20 | 2025-08-22 |
-| [Bin Night](https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 3:13 | 2025-07-20 |  |
+| [Bin Night](https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 3:13 | 2025-07-20 | 2025-10-26 |
 | [Bluey Theme Tune \(Instrument Parade\)](https://open.spotify.com/track/3ABoIhUlvJZp2ZDlfeThP7) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 2:12 | 2025-07-20 |  |
 | [Burger Dog](https://open.spotify.com/track/0y40DWseDN3tM4Nv6CrzsY) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Daniel O’Brien](https://open.spotify.com/artist/0uSEEB8TwdhevZ2hv80BoL) | [Burger Dog / Bluey Theme Tune \(Burger Dog Version\)](https://open.spotify.com/album/5xAcUALTmNGKjSUbopmkdi) | 2:48 | 2025-07-20 |  |
+| [Café](https://open.spotify.com/track/1DpssfN5yVYJ4NApETYbFU) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 3:16 | 2025-10-26 |  |
 | [Camping](https://open.spotify.com/track/4w5LdmsuCKio1HnWIycAub) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 2:25 | 2025-07-20 |  |
 | [Chattermax](https://open.spotify.com/track/2fjzQBE5mdrkmjYI3WkAWK) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV), [Steve Peach](https://open.spotify.com/artist/66pztm8M3eSLgxel3BVsY5) | [Dance Mode!](https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z) | 1:21 | 2025-07-20 |  |
 | [Creek is Beautiful!](https://open.spotify.com/track/3IX0GkNlQyjPi3GLtjhMdt) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Helena Czajka](https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 3:09 | 2025-07-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 440741,
+  "num_followers": 440761,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAABvCVg/qMb/GRXW9K3u1anv",
+  "snapshot_id": "aPrBgAAAAAC3ILIzk5uBgHOBA3XO3Ph6",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Insecurities",
+        "url": "https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 127154,
+      "name": "Insecurities",
+      "url": "https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 167977,
       "name": "Forever (feat. Fridayy)",
       "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Insecurities",
-        "url": "https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 127154,
-      "name": "Insecurities",
-      "url": "https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej"
     },
     {
       "added_at": null,

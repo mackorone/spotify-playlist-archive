@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 La Obsesión Factory bufando
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,695 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,773 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 11 | [Veo Veo](https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Veo Veo](https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G) | 2:51 |
 | 12 | [No Te Hagas La Santa](https://open.spotify.com/track/0POcDxsOXIu14evafZ3xUj) | [CARLOS TOLEDO](https://open.spotify.com/artist/0mt4OhAXSMU3t4qlobtaLU), [Los Vagos De La Cuadra](https://open.spotify.com/artist/18iOGWNXPaC93zua91MU2R), [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [No Te Hagas La Santa](https://open.spotify.com/album/6cNnZMLZSEidR3wWMBRVxR) | 3:12 |
 | 13 | [Mami se](https://open.spotify.com/track/3A09VK8dagLM4JidCINksO) | [Ryan Vuitton](https://open.spotify.com/artist/1JPYoxwwyaxzIKvEm7lHVm), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Mami se](https://open.spotify.com/album/5I6TedsGygnfpmldjoGr0W) | 2:30 |
-| 14 | [Lento \- Remix](https://open.spotify.com/track/3eF8AutNBEZ7ZbYPOCyOef) | [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL), [Easykid](https://open.spotify.com/artist/7zDviMQuAnKf3LLY5P2REL), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Lento \(Remix\)](https://open.spotify.com/album/4g8tFbfbuSW3ETTKfSnUJg) | 3:16 |
+| 14 | [Lento \- Remix](https://open.spotify.com/track/3eF8AutNBEZ7ZbYPOCyOef) | [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Lento \(Remix\)](https://open.spotify.com/album/4g8tFbfbuSW3ETTKfSnUJg) | 3:16 |
 | 15 | [REGGAETONIcA](https://open.spotify.com/track/4pjAe97HAyP7vn1X5kDHY5) | [xosa](https://open.spotify.com/artist/4qSk9MT1h4mKVB1cVLvGpK), [Tennessee Beats](https://open.spotify.com/artist/15Q7fFJ6GvBeEY1F4BiBir) | [REGGAETONIcA](https://open.spotify.com/album/21z63Vb86QzHmf1PZURJaj) | 2:02 |
 | 16 | [La Obsesión](https://open.spotify.com/track/5NK5vkJQCtC721Ut1OvHYj) | [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP) | [LA OBSESION, VOL\. 1](https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM) | 3:13 |
 | 17 | [DESEÁNDOTE](https://open.spotify.com/track/18IlEhJHGSPyjxyZcfFr2s) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Lennox](https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo) | [DESEÁNDOTE](https://open.spotify.com/album/6Jq7uWuM5DCMMyKCaW5JVr) | 3:27 |

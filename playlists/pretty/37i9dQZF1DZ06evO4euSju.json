@@ -1,12 +1,12 @@
 {
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
-  "num_followers": 1400,
+  "num_followers": 1401,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAACn3ODQx62GxmC/qHbbf39d",
+  "snapshot_id": "aPrBgAAAAABfavdffSRiIK4ZhwMGTjOt",
   "tracks": [
     {
       "added_at": null,
@@ -218,11 +218,15 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Sister Void",
+          "url": "https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn"
         }
       ],
-      "duration_ms": 224214,
-      "name": "Cold Case",
-      "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
+      "duration_ms": 213863,
+      "name": "Wax Poetic",
+      "url": "https://open.spotify.com/track/5FOvWDm4PrPchyHMDOQiXs"
     },
     {
       "added_at": null,
@@ -282,15 +286,11 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "Sister Void",
-          "url": "https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn"
         }
       ],
-      "duration_ms": 213863,
-      "name": "Wax Poetic",
-      "url": "https://open.spotify.com/track/5FOvWDm4PrPchyHMDOQiXs"
+      "duration_ms": 224214,
+      "name": "Cold Case",
+      "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 223875,
-      "name": "Chrome Neon Jesus",
-      "url": "https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ"
+      "duration_ms": 227820,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/3NFESrMYBdTbsKVtIpg2Sz"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 227820,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/3NFESrMYBdTbsKVtIpg2Sz"
+      "duration_ms": 223875,
+      "name": "Chrome Neon Jesus",
+      "url": "https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ"
     },
     {
       "added_at": null,

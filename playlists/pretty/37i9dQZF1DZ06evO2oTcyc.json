@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 224590,
+  "num_followers": 224622,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAABq/dQh4dyJPmOGqdNNx9JA",
+  "snapshot_id": "aPrBgAAAAAAzaY8sfd+e9QMuIR20krGr",
   "tracks": [
     {
       "added_at": null,
@@ -23,30 +23,6 @@
       "duration_ms": 200547,
       "name": "Super Gremlin",
       "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SMILE BODY PRETTY FACE (feat. Kodak Black & YG)",
-        "url": "https://open.spotify.com/album/7DoSh8nSOZTQGSQwNqSSRE"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        }
-      ],
-      "duration_ms": 281332,
-      "name": "SMILE BODY PRETTY FACE (feat. Kodak Black & YG)",
-      "url": "https://open.spotify.com/track/3kPefPjK6h9ZqcuihLDkvm"
     },
     {
       "added_at": null,
@@ -463,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 196113,
-      "name": "There He Go",
-      "url": "https://open.spotify.com/track/6canmpFnLHVUzvVWAodifz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LLNM2",
         "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
       },
@@ -499,6 +459,22 @@
       "duration_ms": 276835,
       "name": "Sufro",
       "url": "https://open.spotify.com/track/5KaOhT7vF4XdVtJ4eY3QF4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 196113,
+      "name": "There He Go",
+      "url": "https://open.spotify.com/track/6canmpFnLHVUzvVWAodifz"
     },
     {
       "added_at": null,
@@ -659,6 +635,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "SMILE BODY PRETTY FACE (feat. Kodak Black & YG)",
+        "url": "https://open.spotify.com/album/7DoSh8nSOZTQGSQwNqSSRE"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 281332,
+      "name": "SMILE BODY PRETTY FACE (feat. Kodak Black & YG)",
+      "url": "https://open.spotify.com/track/3kPefPjK6h9ZqcuihLDkvm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LIVE LIFE FAST",
         "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imma Shoot",
-        "url": "https://open.spotify.com/album/1XAvyrDwCMoctHaogYEQDP"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 206985,
-      "name": "Imma Shoot",
-      "url": "https://open.spotify.com/track/7AsZ1KI3AHWjP1liPpOykV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project Baby 2: All Grown Up (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p"
       },
@@ -751,6 +735,38 @@
       "duration_ms": 264531,
       "name": "Codeine Dreaming (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imma Shoot",
+        "url": "https://open.spotify.com/album/1XAvyrDwCMoctHaogYEQDP"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 206985,
+      "name": "Imma Shoot",
+      "url": "https://open.spotify.com/track/7AsZ1KI3AHWjP1liPpOykV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 130929,
+      "name": "If I'm Lyin', I'm Flyin'",
+      "url": "https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp"
     },
     {
       "added_at": null,
@@ -775,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+        "name": "Lil Big Pac",
+        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
       },
       "artists": [
         {
@@ -784,9 +800,9 @@
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 130929,
-      "name": "If I'm Lyin', I'm Flyin'",
-      "url": "https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp"
+      "duration_ms": 213028,
+      "name": "Gave It All I Got",
+      "url": "https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy"
     },
     {
       "added_at": null,
@@ -807,22 +823,6 @@
       "duration_ms": 226068,
       "name": "Till im Gone (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/6I0Jucv2KfH32lNp1Acana"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lil Big Pac",
-        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 213028,
-      "name": "Gave It All I Got",
-      "url": "https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy"
     },
     {
       "added_at": null,

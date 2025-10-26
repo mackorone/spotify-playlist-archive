@@ -2567,6 +2567,32 @@
     },
     {
       "album": {
+        "name": "Jaago Mohan Pyaare",
+        "url": "https://open.spotify.com/album/6w2vGFxCYhV4kFvJcGpYKQ"
+      },
+      "artists": [
+        {
+          "name": "Ro",
+          "url": "https://open.spotify.com/artist/7vGhIQpt8BEDMmvc54Rbks"
+        },
+        {
+          "name": "Ayush Dolas",
+          "url": "https://open.spotify.com/artist/1TDK3rn1aqm7QmZfcJO4Mk"
+        },
+        {
+          "name": "Shivanayan Sumesh",
+          "url": "https://open.spotify.com/artist/32hf7IAqOFC4SavDdlWH9D"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174065,
+      "name": "Jaago Mohan Pyaare",
+      "url": "https://open.spotify.com/track/1KvYAL8soNlizHrCNk4fVm"
+    },
+    {
+      "album": {
         "name": "JAANE KAHAAN GAYE",
         "url": "https://open.spotify.com/album/7zXAqO3eIMbvy6owIXe1PD"
       },
@@ -6070,7 +6096,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 158239,
       "name": "Piya Mosey Rooth Na Jao",
       "url": "https://open.spotify.com/track/6pUtyiK4nT9MBPBXsUJPex"

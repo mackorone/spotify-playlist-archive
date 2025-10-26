@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 
 > De grootste hits uit de kroeg in één playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,024 likes - 102 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,215 likes - 102 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 | 101 | [Drink Rode Wijn \- Feestmix](https://open.spotify.com/track/261a70JNUYCzOt9ndXWcEg) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Drink Rode Wijn \(Feestmix\)](https://open.spotify.com/album/4pfIIjVebfNdLW5aRjmfK9) | 2:54 |
 | 102 | [Frans Duits](https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Frans Duits](https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh) | 2:52 |
 
-Snapshot ID: `AAAAAAQHJLKnHs8pCWtqjSUyHkWvvfOt`
+Snapshot ID: `AAAAAP93vZXJxWzzSCs0Hfckq4KF7p9k`

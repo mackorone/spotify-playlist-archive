@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: ISAÏ
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,954 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,958 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 42 | [Liefdesliedjes](https://open.spotify.com/track/4PzyPRTRkMB6JsDlVGjuNu) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw), [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea) | [Liefdesliedjes](https://open.spotify.com/album/2QtZT3JR3tOkPhdLtm3Juz) | 2:13 |
 | 43 | [VOL v2.025](https://open.spotify.com/track/61pq3uXW7ybCgWxBi4iAGY) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [v2.025](https://open.spotify.com/album/1UVFHFPXrnPXiLR7bOTiFZ) | 3:31 |
 | 44 | [TOM](https://open.spotify.com/track/2TEheyi5V6hr4P4K1F20a2) | [Roosbeef](https://open.spotify.com/artist/5W6gRzU3M4IpIWjy8D52i5) | [TOM](https://open.spotify.com/album/6hXAOu7RS5VwjGyh2zNO1h) | 4:21 |
-| 45 | [Opgeruimd Staat Netjes](https://open.spotify.com/track/6TNGnPsH8yxgPKQ8U4LeBV) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Opgeruimd Staat Netjes](https://open.spotify.com/album/09UQgYfuVfFjBffG0Fx49I) | 3:02 |
-| 46 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 |
+| 45 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 |
+| 46 | [Opgeruimd Staat Netjes](https://open.spotify.com/track/6TNGnPsH8yxgPKQ8U4LeBV) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Opgeruimd Staat Netjes](https://open.spotify.com/album/09UQgYfuVfFjBffG0Fx49I) | 3:02 |
 | 47 | [Disco Dip](https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje \(Deluxe\)](https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0) | 3:05 |
 | 48 | [narcose](https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [narcose](https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa) | 2:53 |
 | 49 | [Niemand](https://open.spotify.com/track/5jfxlasIpoa3S2ESVGBMf9) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Niemand](https://open.spotify.com/album/0aJyQTMQlS5WnPojUxBjcE) | 2:24 |
-| 50 | [Drijfzand](https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [Drijfzand](https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc) | 3:39 |
+| 50 | [Zweef Hier](https://open.spotify.com/track/0WOO50jMuMIYUSpZb9bXTs) | [Bibi van Ansem](https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF) | [Zweef Hier](https://open.spotify.com/album/6CeCZiANVnTBmGg8Fh3AfH) | 2:32 |
 
 Snapshot ID: `AAAAAOtWJObFUxf/nZn4/PTjO9g9L2me`

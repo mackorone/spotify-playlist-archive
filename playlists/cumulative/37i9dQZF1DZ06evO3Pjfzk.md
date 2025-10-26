@@ -4,7 +4,7 @@
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-97 songs - 5 hr 38 min
+98 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Hold My Halo](https://open.spotify.com/track/0JFNEmvxVfMOV8HsICZkOj) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:26 | 2023-09-15 | 2023-12-14 |
 | [Hold My Halo](https://open.spotify.com/track/29O197ONSFNzq063eb0869) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:26 | 2023-12-13 |  |
 | [I Make Myself](https://open.spotify.com/track/4lY4XM0j4EwIwm4cFoQyNs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 4:34 | 2023-09-15 | 2024-08-25 |
+| [I Wrote You A Song \(with Lainey Wilson\)](https://open.spotify.com/track/4NfzPsD8owLf1tdIDbLb7c) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Forever \(Legendary Edition\)](https://open.spotify.com/album/2eWMDbh3Igz3si1aX4a7Wv) | 3:25 | 2025-10-26 |  |
 | [International Harvester](https://open.spotify.com/track/1IFHSmd00HhsINmxvjXtLW) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Enlisted](https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed) | 4:09 | 2023-11-10 | 2024-08-26 |
 | [Keep Up With Jones](https://open.spotify.com/track/0EkhflOs3xn0pPnn9fGawo) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:47 | 2024-08-25 | 2024-08-28 |
 | [King Ranch, King George, King James](https://open.spotify.com/track/0rKZpg1YUavHMFf9iRpwCq) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:12 | 2025-08-26 |  |

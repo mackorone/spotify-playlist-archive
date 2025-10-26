@@ -1,37 +1,13 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 249020,
+  "num_followers": 249052,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAACqMczErrR6LhekXHFaTE9n",
+  "snapshot_id": "aPrBgAAAAABoISKB0j7fRshAdtyKz90H",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qui\u00e9n la Quiere (Versi\u00f3n Cumbap)",
-        "url": "https://open.spotify.com/album/5wGkfDHEq0gKwUCLtwaJf4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-        },
-        {
-          "name": "Little el Crack",
-          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
-        }
-      ],
-      "duration_ms": 341700,
-      "name": "Qui\u00e9n la Quiere (Versi\u00f3n Cumbap)",
-      "url": "https://open.spotify.com/track/5TalqlVwgpzztykdIECLTP"
-    },
     {
       "added_at": null,
       "album": {
@@ -967,6 +943,30 @@
       "duration_ms": 280487,
       "name": "Vamos a Dar el Roll",
       "url": "https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qui\u00e9n la Quiere",
+        "url": "https://open.spotify.com/album/0kYeGsp4JwzlcoXY2Gr1HH"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        },
+        {
+          "name": "Little el Crack",
+          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "Qui\u00e9n la Quiere",
+      "url": "https://open.spotify.com/track/10a8QRDqmdBGsb45cSROtF"
     },
     {
       "added_at": null,

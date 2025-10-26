@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 | 47 | [We Good](https://open.spotify.com/track/11B2LpmjMH4BH1XwynLT9R) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [The Young OG Project](https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9) | 4:16 |
 | 48 | [I'm Sayin' \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/1GPWHf45DwSziB91p9Phbm) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I'm Sayin' \(feat\. Rich Homie Quan\)](https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp) | 3:22 |
 | 49 | [Gamble](https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Back To The Basics](https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV) | 2:42 |
-| 50 | [Perfect Flower](https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich As In Spirit](https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7) | 3:34 |
+| 50 | [Daily Bread](https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Daily Bread](https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq) | 2:51 |
 
-Snapshot ID: `aPlwAAAAAADyKbexKZf02Ni0DYwbNcnT`
+Snapshot ID: `aPrBgAAAAABD1A9lYKWyWQB10oq/a/qH`

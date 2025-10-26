@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 40207,
+  "num_followers": 40210,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAAPi0bzDMxbF1Hoa+Dd7u3K",
+  "snapshot_id": "aPrBgAAAAACatFuZf8/wuRyAkRG5xnaX",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music For Everyone Vol .2",
+        "url": "https://open.spotify.com/album/3Pf5Jtp5XIBNVoxAC6Ig4i"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 190194,
+      "name": "The Pattern",
+      "url": "https://open.spotify.com/track/00cLtR2kbecamCC4HVQe0o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "152",
         "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
       },
@@ -611,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Again",
-        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
       },
       "artists": [
         {
@@ -620,9 +636,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 213533,
-      "name": "New Again",
-      "url": "https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI"
+      "duration_ms": 219963,
+      "name": "Stood A Chance",
+      "url": "https://open.spotify.com/track/0ZUrzmpZOdHGyUwHVu9USO"
     },
     {
       "added_at": null,
@@ -643,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happiness Is",
-        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
       "artists": [
         {
@@ -652,9 +668,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 219963,
-      "name": "Stood A Chance",
-      "url": "https://open.spotify.com/track/0ZUrzmpZOdHGyUwHVu9USO"
+      "duration_ms": 213533,
+      "name": "New Again",
+      "url": "https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI"
     },
     {
       "added_at": null,
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Transformers: Revenge Of The Fallen The Album",
-        "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 168360,
-      "name": "Capital M-E",
-      "url": "https://open.spotify.com/track/1VppmZKCjqa8qqkdHV76Iu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Taking Back Sunday",
         "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 211573,
       "name": "Best Places To Be A Mom",
       "url": "https://open.spotify.com/track/6qblu5bhHV9qJXuvBXgd4m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Transformers: Revenge Of The Fallen The Album",
+        "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 168360,
+      "name": "Capital M-E",
+      "url": "https://open.spotify.com/track/1VppmZKCjqa8qqkdHV76Iu"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
       "duration_ms": 196440,
       "name": "El Paso",
       "url": "https://open.spotify.com/track/0uUCGxUnbgiYDc9mnj9nZh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live From Orensanz",
-        "url": "https://open.spotify.com/album/586wLbc8nvAWQXVcAAwib4"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 296906,
-      "name": "Your Own Disaster - Live From Orensanz, New York, NY / 2010",
-      "url": "https://open.spotify.com/track/1aggSZloUOTB3Y6vGMD8GS"
     }
   ],
   "unique_name": "This Is Taking Back Sunday",

@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-378 songs - 21 hr 9 min
+379 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Nothing It Can](https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 4:47 | 2020-12-08\* | 2024-08-22 |
 | [NYC/Night Time](https://open.spotify.com/track/1Y5TuZ4lGEeB4UKIvgieWC) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Summer Tales](https://open.spotify.com/album/6ppAmnM0WuNYgrSXC43dKJ) | 3:47 | 2020-12-08\* | 2021-05-27 |
 | [Nyligen](https://open.spotify.com/track/6u5TZEuNThWqVHUWeysPO6) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Nyligen](https://open.spotify.com/album/449FOsDuTGwpeK6frsUEdT) | 2:21 | 2024-05-10 |  |
+| [ocean of dreams](https://open.spotify.com/track/5I1FBcc2vrUbP5tGjkjkLQ) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [ocean of dreams](https://open.spotify.com/album/22imJNCfn3CV91Q6sNfAMv) | 4:00 | 2025-10-01 |  |
 | [Ocelot](https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/7tFM2YfFPx3mNrwRes7LrC) | 4:36 | 2022-07-22 | 2023-01-05 |
 | [Ocelot](https://open.spotify.com/track/55xZKTc8WnKY0r0G5y3NRP) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/2KdrIiL1UjCy9YDe6LnCzn) | 4:36 | 2022-12-30 | 2024-04-19 |
 | [Ocelot](https://open.spotify.com/track/7EMDetZnX07SnEvcXR8yEQ) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 4:36 | 2021-01-15 | 2022-07-29 |
@@ -335,7 +336,7 @@
 | [The Five Times I Loved You](https://open.spotify.com/track/0W4RUo3m0jL0wHADS0PLme) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Pyramid Train](https://open.spotify.com/album/0GYSu9KaftfjSxHE3vqW66) | 3:25 | 2020-12-08\* | 2021-03-18 |
 | [The Flow in Us](https://open.spotify.com/track/1BYFtfMHwRzYG5mxyPVZUH) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [The Flow in Us](https://open.spotify.com/album/7BH8ExlisgrjJRSYYKdwlj) | 2:54 | 2025-07-15 |  |
 | [the long way home](https://open.spotify.com/track/1gRgYigye8TN8lvTZqsy6T) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [the long way home](https://open.spotify.com/album/3mK1UAfpzst5GhoHCF5Z6e) | 2:00 | 2025-07-15 |  |
-| [The Mist](https://open.spotify.com/track/7A087XKnj9LRqRgR5qzKQw) | [Milo Mariam](https://open.spotify.com/artist/68lsEBWe04lPdYWwx3zjFe) | [Singularity](https://open.spotify.com/album/0GGeGvVF9DedbmSBec0n7n) | 2:53 | 2021-09-30 |  |
+| [The Mist](https://open.spotify.com/track/7A087XKnj9LRqRgR5qzKQw) | [Milo Mariam](https://open.spotify.com/artist/68lsEBWe04lPdYWwx3zjFe) | [Singularity](https://open.spotify.com/album/0GGeGvVF9DedbmSBec0n7n) | 2:53 | 2021-09-30 | 2025-10-26 |
 | [The Queen of All Everything](https://open.spotify.com/track/6HJH2v5BIqpKW34nsLV1O7) | [Ott](https://open.spotify.com/artist/1F102kNzMqsmOpF7AfFmm5) | [Skylon](https://open.spotify.com/album/60PDbOYjrrWtanyMSWQamA) | 7:52 | 2021-01-15 | 2021-02-20 |
 | [The Sign of Wilderness](https://open.spotify.com/track/1vXutoJkTys1XoWZHymwuM) | [Tenant Rights](https://open.spotify.com/artist/2wOOgtpQkMdDg4QDAXF7pP) | [Glide and Tread](https://open.spotify.com/album/3L9IwhYKaqaTrDX543a8Cw) | 3:39 | 2020-12-08\* | 2025-07-16 |
 | [the space between circles](https://open.spotify.com/track/6y9ZkOmsYZRVqElXL6r3oH) | [pkwy.](https://open.spotify.com/artist/7JeUbmzK5mOEkmEGlNKRaP) | [all in time](https://open.spotify.com/album/4IurrvTUnSx2TdNaJ3Bo3I) | 2:53 | 2025-05-14 |  |

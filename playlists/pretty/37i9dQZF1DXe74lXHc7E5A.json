@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover:  ty dolla sign",
-  "num_followers": 39654,
+  "num_followers": 39689,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2025-10-24 00:01:30",
       "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "added_at": "2025-10-24 00:01:30",
+      "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 185333,
       "name": "Oh U Went (feat. Drake)",
       "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
-    },
-    {
-      "added_at": "2025-10-24 00:01:30",
-      "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 177789,
-      "name": "California Breeze",
-      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
       "added_at": "2025-10-24 00:01:30",
@@ -287,22 +287,22 @@
     {
       "added_at": "2025-10-24 00:01:30",
       "album": {
-        "name": "No Sharing (feat. Luh Tyler)",
-        "url": "https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT"
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
       "artists": [
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         },
         {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         }
       ],
-      "duration_ms": 211717,
-      "name": "No Sharing (feat. Luh Tyler)",
-      "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
+      "duration_ms": 204373,
+      "name": "Lazarus (feat. Boj)",
+      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
     },
     {
       "added_at": "2025-10-24 00:01:30",
@@ -343,22 +343,22 @@
     {
       "added_at": "2025-10-24 00:01:30",
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+        "name": "No Sharing (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         },
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
         }
       ],
-      "duration_ms": 204373,
-      "name": "Lazarus (feat. Boj)",
-      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
+      "duration_ms": 211717,
+      "name": "No Sharing (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
     },
     {
       "added_at": "2025-10-24 00:01:30",
@@ -643,26 +643,6 @@
     {
       "added_at": "2025-10-24 00:01:30",
       "album": {
-        "name": "Lifestyle",
-        "url": "https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        },
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 144657,
-      "name": "Forget",
-      "url": "https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75"
-    },
-    {
-      "added_at": "2025-10-24 00:01:30",
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 211050,
       "name": "Cloak & Dagger (feat. J Hus)",
       "url": "https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki"
+    },
+    {
+      "added_at": "2025-10-24 00:01:30",
+      "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 144657,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75"
     },
     {
       "added_at": "2025-10-24 00:01:30",
@@ -879,26 +879,6 @@
     {
       "added_at": "2025-10-24 00:01:30",
       "album": {
-        "name": "Leftie (Dlala Ngcobo)",
-        "url": "https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 148869,
-      "name": "Leftie (Dlala Ngcobo)",
-      "url": "https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k"
-    },
-    {
-      "added_at": "2025-10-24 00:01:30",
-      "album": {
         "name": "Do I (Remix)",
         "url": "https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 138069,
       "name": "Do I - Remix",
       "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
+    },
+    {
+      "added_at": "2025-10-24 00:01:30",
+      "album": {
+        "name": "Leftie (Dlala Ngcobo)",
+        "url": "https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 148869,
+      "name": "Leftie (Dlala Ngcobo)",
+      "url": "https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k"
     },
     {
       "added_at": "2025-10-24 00:01:30",

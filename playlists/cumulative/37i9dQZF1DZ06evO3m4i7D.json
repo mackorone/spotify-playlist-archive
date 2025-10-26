@@ -569,6 +569,36 @@
     },
     {
       "album": {
+        "name": "Kindersiza",
+        "url": "https://open.spotify.com/album/7o29FGbEditAKnp7mZgJxB"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "El Abelito",
+          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153239,
+      "name": "Kindersiza",
+      "url": "https://open.spotify.com/track/3XjL23bwxQPkyD0SkjSnVP"
+    },
+    {
+      "album": {
         "name": "Licuado",
         "url": "https://open.spotify.com/album/08f4lGUZsvC3g5Pkprj0lg"
       },

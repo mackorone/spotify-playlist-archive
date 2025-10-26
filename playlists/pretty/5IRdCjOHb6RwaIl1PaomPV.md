@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring Yellow Claw's 10th Anniversary Edition of their Blood For Mercy album.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,675 likes - 119 songs - 6 hr 53 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,669 likes - 119 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Instant classics from over the years loaded into one sweet mix.",
-  "num_followers": 3913555,
+  "num_followers": 3913396,
   "original_name": "Acoustic Hits: Oldies but Goodies",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-07-05 22:41:32",
       "album": {
-        "name": "Gutterflower",
-        "url": "https://open.spotify.com/album/740t2GhGBLY6qIPRNhSo9M"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Sympathy",
-      "url": "https://open.spotify.com/track/5fIrBv7PrI2MBcktQOcmpI"
-    },
-    {
-      "added_at": "2024-07-05 22:41:32",
-      "album": {
         "name": "Some Mad Hope",
         "url": "https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 215173,
       "name": "Come On Get Higher",
       "url": "https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP"
+    },
+    {
+      "added_at": "2024-07-05 22:41:32",
+      "album": {
+        "name": "Gutterflower",
+        "url": "https://open.spotify.com/album/740t2GhGBLY6qIPRNhSo9M"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/5fIrBv7PrI2MBcktQOcmpI"
     },
     {
       "added_at": "2024-07-05 22:41:32",

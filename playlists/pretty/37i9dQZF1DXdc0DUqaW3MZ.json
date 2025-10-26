@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 372252,
+  "num_followers": 372287,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
+        "name": "U Lyk My Style",
+        "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
+      },
+      "artists": [
+        {
+          "name": "Stacy N.K.R",
+          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "U Lyk My Style",
+      "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
+    },
+    {
+      "added_at": "2025-10-09 23:00:30",
+      "album": {
         "name": "Salve",
         "url": "https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "U Lyk My Style",
-        "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
-      },
-      "artists": [
-        {
-          "name": "Stacy N.K.R",
-          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "U Lyk My Style",
-      "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
-    },
-    {
-      "added_at": "2025-10-09 23:00:30",
-      "album": {
         "name": "Risk It All (feat. Maverick Sabre)",
         "url": "https://open.spotify.com/album/1CjMIMDADSu9lKwYtHfCrc"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "If You Love Her",
-        "url": "https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "If You Love Her",
-      "url": "https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486"
-    },
-    {
-      "added_at": "2025-10-09 23:00:30",
-      "album": {
         "name": "True",
         "url": "https://open.spotify.com/album/5ezRbSSkgAJbxGZ4gxMZVV"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 232346,
       "name": "True",
       "url": "https://open.spotify.com/track/6KqUN9PFvVJE6IifF0DM4a"
+    },
+    {
+      "added_at": "2025-10-09 23:00:30",
+      "album": {
+        "name": "If You Love Her",
+        "url": "https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "If You Love Her",
+      "url": "https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -851,26 +851,6 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "Body Over Here",
-        "url": "https://open.spotify.com/album/1rjEOqtI2JV6Qm7AIrxLdZ"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        },
-        {
-          "name": "Ric Wilson",
-          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
-        }
-      ],
-      "duration_ms": 159737,
-      "name": "Body Over Here",
-      "url": "https://open.spotify.com/track/53apPgrnpFAtIsUwWTKbv3"
-    },
-    {
-      "added_at": "2025-10-09 23:00:30",
-      "album": {
         "name": "All that Glitters is not Gold",
         "url": "https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 171613,
       "name": "All that Glitters is not Gold",
       "url": "https://open.spotify.com/track/45Exz93oyRbDvmM8FvpgYz"
+    },
+    {
+      "added_at": "2025-10-09 23:00:30",
+      "album": {
+        "name": "Body Over Here",
+        "url": "https://open.spotify.com/album/1rjEOqtI2JV6Qm7AIrxLdZ"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        },
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        }
+      ],
+      "duration_ms": 159737,
+      "name": "Body Over Here",
+      "url": "https://open.spotify.com/track/53apPgrnpFAtIsUwWTKbv3"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -959,26 +959,18 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "Sounds of My World",
-        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
+        "name": "Ching",
+        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "George The Poet",
-          "url": "https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC"
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
         }
       ],
-      "duration_ms": 287037,
-      "name": "Summer In The Ends",
-      "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
+      "duration_ms": 118604,
+      "name": "Ching",
+      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -999,18 +991,26 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "Ching",
-        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
+        "name": "Sounds of My World",
+        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
       "artists": [
         {
-          "name": "GEE LEE",
-          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "George The Poet",
+          "url": "https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC"
         }
       ],
-      "duration_ms": 118604,
-      "name": "Ching",
-      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
+      "duration_ms": 287037,
+      "name": "Summer In The Ends",
+      "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "touch",
-        "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
-      },
-      "artists": [
-        {
-          "name": "Dejector",
-          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
-        },
-        {
-          "name": "Bad Honey",
-          "url": "https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "touch",
-      "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
-    },
-    {
-      "added_at": "2025-10-09 23:00:30",
-      "album": {
         "name": "Everything\u2019s Beautiful",
         "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 139680,
       "name": "Excuse Me",
       "url": "https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b"
+    },
+    {
+      "added_at": "2025-10-09 23:00:30",
+      "album": {
+        "name": "touch",
+        "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
+      },
+      "artists": [
+        {
+          "name": "Dejector",
+          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
+        },
+        {
+          "name": "Bad Honey",
+          "url": "https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu"
+        }
+      ],
+      "duration_ms": 222496,
+      "name": "touch",
+      "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -1219,6 +1219,38 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5luPtrBhOvzPdaGt9PhoM9"
+      },
+      "artists": [
+        {
+          "name": "NATE08",
+          "url": "https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl"
+        }
+      ],
+      "duration_ms": 202005,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5yKq9qYTmED7z26BQ7tRdU"
+    },
+    {
+      "added_at": "2025-10-09 23:00:30",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
+    },
+    {
+      "added_at": "2025-10-09 23:00:30",
+      "album": {
         "name": "UP DOWN BOUNCE",
         "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
       },
@@ -1255,34 +1287,18 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5luPtrBhOvzPdaGt9PhoM9"
+        "name": "Digital girl",
+        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
       },
       "artists": [
         {
-          "name": "NATE08",
-          "url": "https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl"
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
         }
       ],
-      "duration_ms": 202005,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/5yKq9qYTmED7z26BQ7tRdU"
-    },
-    {
-      "added_at": "2025-10-09 23:00:30",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
+      "duration_ms": 174225,
+      "name": "Digital girl - funk remix",
+      "url": "https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -1311,18 +1327,26 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "Digital girl",
-        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
+        "name": "This World Of Mine",
+        "url": "https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38"
       },
       "artists": [
         {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+          "name": "Bluprint",
+          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
+        },
+        {
+          "name": "Confz",
+          "url": "https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
         }
       ],
-      "duration_ms": 174225,
-      "name": "Digital girl - funk remix",
-      "url": "https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH"
+      "duration_ms": 186691,
+      "name": "This World Of Mine",
+      "url": "https://open.spotify.com/track/6bttpK4KFgtKwCfQ8oIaWQ"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -1375,22 +1399,6 @@
       "duration_ms": 169943,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
-    },
-    {
-      "added_at": "2025-10-09 23:00:30",
-      "album": {
-        "name": "Crave",
-        "url": "https://open.spotify.com/album/6bC4wS1VnIVFhlks2Wx0XX"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Crave",
-      "url": "https://open.spotify.com/track/75ZvCtDorLfeaaTKyX7s1z"
     }
   ],
   "unique_name": "Soultronic",

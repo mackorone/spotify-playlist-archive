@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Blondie 4(0)-Ever: Greatest Hits Deluxe Redux / Ghosts Of Download",
+        "url": "https://open.spotify.com/album/0BvoIfpCiKSobLiXF7QOvN"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245701,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/4jDhI4nE32u8meRN1aOu8u"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4pIYJsJ8GkYWM1rvqy45ug"
       },
@@ -722,7 +740,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 249426,
       "name": "Maria",
       "url": "https://open.spotify.com/track/7bOYOD0d7ByMTXvJnQVl8d"

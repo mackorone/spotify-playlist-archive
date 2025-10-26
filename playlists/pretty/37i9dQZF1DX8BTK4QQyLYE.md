@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BTK4QQyLYE.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/amberruffin/">Amber Ruffin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,457 likes - 51 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,465 likes - 51 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

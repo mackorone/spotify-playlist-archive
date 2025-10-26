@@ -4,7 +4,7 @@
 
 > puro rolón para amanecer y seguirla
 
-687 songs - 1 day 12 hr 55 min
+688 songs - 1 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,7 +617,7 @@
 | [Tocame](https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:53 | 2024-01-29 |  |
 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 | 2022-01-07 |  |
 | [Todo Tiene Su Final](https://open.spotify.com/track/5To8W2tfQMQKxSGtpcC9Qg) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [ÑEROSTARS](https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU) | 3:10 | 2024-07-19 | 2024-08-10 |
-| [TOMMY & PAMELA](https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:29 | 2024-06-21 |  |
+| [TOMMY & PAMELA](https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:29 | 2024-06-21 | 2025-10-26 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-12-12 |  |
 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 | 2023-12-12 | 2025-02-15 |
 | [tqum \(feat\. Kim Petras\) \- Remix](https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [tqum \(feat\. Kim Petras\) \[Remix\]](https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS) | 2:29 | 2023-07-28 | 2023-09-01 |
@@ -653,6 +653,7 @@
 | [Ven Bailalo](https://open.spotify.com/track/5qpmo2whVFdiekmfv7FRcw) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [Latin Fitness Dance 2012](https://open.spotify.com/album/6slR3njCqiuvlYnqERlWFa) | 4:12 | 2022-01-07 | 2022-07-29 |
 | [Ven Ven \(feat\. Jeon\)](https://open.spotify.com/track/4tkdZwjXfKKjymklHIFiPQ) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [Ven Ven \(feat\. Jeon\)](https://open.spotify.com/album/571762gTuuMnrQZU8SWycm) | 3:47 | 2025-01-31 | 2025-02-15 |
 | [Vente Pa' Ca \(feat\. Maluma\)](https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vente Pa' Ca \(feat\. Maluma\)](https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l) | 4:19 | 2022-01-07 | 2022-07-28 |
+| [Veo Veo](https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Veo Veo](https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G) | 2:51 | 2025-10-17 |  |
 | [Vete](https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:05 | 2023-12-12 |  |
 | [Vida de Rico](https://open.spotify.com/track/4nTduFjaTmGysc9WKNuCcs) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:04 | 2022-01-07 | 2022-07-29 |
 | [Vino Rosa](https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Vino Rosa](https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz) | 3:19 | 2024-02-23 | 2024-03-16 |

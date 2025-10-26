@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 123417,
+  "num_followers": 123439,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAAy0hW3lLQ8S3lI1YGoKtzM",
+  "snapshot_id": "aPrBgAAAAAA3uGtou6AB/vwuHXEUzR5D",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just One Of Those Things",
+        "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "The Party's Over",
+      "url": "https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sings For Two In Love",
         "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
@@ -479,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just One Of Those Things",
-        "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
+        "name": "The Very Thought Of You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
       },
       "artists": [
         {
@@ -488,9 +504,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 164800,
-      "name": "The Party's Over",
-      "url": "https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow"
+      "duration_ms": 205786,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/64VKSHhJmNdA5sC46RSKTp"
     },
     {
       "added_at": null,
@@ -515,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Thought Of You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
+        "name": "Thank You, Pretty Baby",
+        "url": "https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2"
       },
       "artists": [
         {
@@ -524,9 +540,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 205786,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/64VKSHhJmNdA5sC46RSKTp"
+      "duration_ms": 172040,
+      "name": "You Made Me Love You (I Didn't Want To Do It) - Remastered",
+      "url": "https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ"
     },
     {
       "added_at": null,
@@ -551,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You, Pretty Baby",
-        "url": "https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2"
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
       "artists": [
         {
@@ -560,9 +576,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 172040,
-      "name": "You Made Me Love You (I Didn't Want To Do It) - Remastered",
-      "url": "https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ"
+      "duration_ms": 197200,
+      "name": "Red Sails In The Sunset",
+      "url": "https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU"
     },
     {
       "added_at": null,
@@ -583,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+        "name": "A Mis Amigos",
+        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
       },
       "artists": [
         {
@@ -592,9 +608,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 197200,
-      "name": "Red Sails In The Sunset",
-      "url": "https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU"
+      "duration_ms": 207960,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/2MQnCUzdidi7LNSLup0Afu"
     },
     {
       "added_at": null,
@@ -611,22 +627,6 @@
       "duration_ms": 226666,
       "name": "These Foolish Things (Remind Me Of You)",
       "url": "https://open.spotify.com/track/3VWYuQ65f34zCUYSoakoJR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Mis Amigos",
-        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/2MQnCUzdidi7LNSLup0Afu"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is The Thing",
-        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "It's All In The Game",
-      "url": "https://open.spotify.com/track/7HLHKnQzlQK8aOueTdZLUe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nat King Cole's 8 Top Pops",
         "url": "https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 158946,
       "name": "Walkin' My Baby Back Home",
       "url": "https://open.spotify.com/track/26LH7Z7NgqszsBSCvsDjjS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is The Thing",
+        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "It's All In The Game",
+      "url": "https://open.spotify.com/track/7HLHKnQzlQK8aOueTdZLUe"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Tiziano Ferro, Charlie Charles e BLANCO, Lewis Capaldi, Tyla,  Capo Plaza, ANTONIA e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,670 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,667 likes - 90 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 14 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 |
 | 15 | [Pugili impazziti](https://open.spotify.com/track/3t97iVAQuGsP0TrtxJOn5C) | [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi), [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [Pugili impazziti](https://open.spotify.com/album/0QPqwp1DpjD5a14pa5Anpd) | 3:37 |
 | 16 | [Voglia](https://open.spotify.com/track/6bHmaVeCclWfcAgsW9Woct) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Tempo](https://open.spotify.com/album/0VGPQdeIhFg1BqfKqKW0b4) | 2:33 |
-| 17 | [TERAPIA](https://open.spotify.com/track/1K4DOAiklUwaABIuKi7HNg) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [DISCORDIA, ARMONIA E ALTRI STATI D'ANIMO](https://open.spotify.com/album/44w3s0STY96UbKK7wFhWQL) | 3:14 |
+| 17 | [TERAPIA](https://open.spotify.com/track/1K4DOAiklUwaABIuKi7HNg) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [DISCORDIA, ARMONIA E ALTRI STATI D'ANIMO](https://open.spotify.com/album/44w3s0STY96UbKK7wFhWQL) | 3:14 |
 | 18 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 |
 | 19 | [Facilita](https://open.spotify.com/track/5oKNWXd0FjssYPjxYG45K1) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54), [Menor Teteu](https://open.spotify.com/artist/3uxTvUjeRTQDfrB59A1zWb) | [Facilita / Ambery](https://open.spotify.com/album/1wdqzaAO5LpimFriq3a4y3) | 4:17 |
 | 20 | [TEEN ANGST](https://open.spotify.com/track/2wVxFUGTFbN1WYNdba8mLj) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [SUPERLAME](https://open.spotify.com/album/30Xx1oiQTcXCTx2uGOZJ4e) | 2:42 |

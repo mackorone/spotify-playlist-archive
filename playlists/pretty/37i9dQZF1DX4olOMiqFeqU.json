@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2483072,
+  "num_followers": 2483158,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-10-22 10:20:26",
       "album": {
-        "name": "Imahe",
-        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
-      },
-      "artists": [
-        {
-          "name": "Magnus Haven",
-          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
-        }
-      ],
-      "duration_ms": 321817,
-      "name": "Imahe",
-      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
-    },
-    {
-      "added_at": "2025-10-22 10:20:26",
-      "album": {
         "name": "Dilaw",
         "url": "https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 192380,
       "name": "Dilaw",
       "url": "https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW"
+    },
+    {
+      "added_at": "2025-10-22 10:20:26",
+      "album": {
+        "name": "Imahe",
+        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
+      },
+      "artists": [
+        {
+          "name": "Magnus Haven",
+          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
+        }
+      ],
+      "duration_ms": 321817,
+      "name": "Imahe",
+      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
     },
     {
       "added_at": "2025-10-22 10:20:26",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-10-22 10:20:26",
       "album": {
-        "name": "Sa Wakas",
-        "url": "https://open.spotify.com/album/5TgWcKNeogXr2cPNDcXZRb"
-      },
-      "artists": [
-        {
-          "name": "Sugarfree",
-          "url": "https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/0ZCCbW4Aym7b5QdQUKfVdv"
-    },
-    {
-      "added_at": "2025-10-22 10:20:26",
-      "album": {
         "name": "Kitchie Nadal",
         "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
       },
@@ -531,22 +515,6 @@
     {
       "added_at": "2025-10-22 10:20:26",
       "album": {
-        "name": "Curiosity Killed the Cat",
-        "url": "https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd"
-      },
-      "artists": [
-        {
-          "name": "HEY JUNE!",
-          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
-        }
-      ],
-      "duration_ms": 225444,
-      "name": "LASIK",
-      "url": "https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee"
-    },
-    {
-      "added_at": "2025-10-22 10:20:26",
-      "album": {
         "name": "Leonora",
         "url": "https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq"
       },
@@ -559,6 +527,22 @@
       "duration_ms": 234052,
       "name": "Leonora",
       "url": "https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN"
+    },
+    {
+      "added_at": "2025-10-22 10:20:26",
+      "album": {
+        "name": "Curiosity Killed the Cat",
+        "url": "https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd"
+      },
+      "artists": [
+        {
+          "name": "HEY JUNE!",
+          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
+        }
+      ],
+      "duration_ms": 225444,
+      "name": "LASIK",
+      "url": "https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee"
     },
     {
       "added_at": "2025-10-22 10:20:26",
@@ -611,6 +595,22 @@
     {
       "added_at": "2025-10-22 10:20:26",
       "album": {
+        "name": "Sa Wakas",
+        "url": "https://open.spotify.com/album/5TgWcKNeogXr2cPNDcXZRb"
+      },
+      "artists": [
+        {
+          "name": "Sugarfree",
+          "url": "https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/0ZCCbW4Aym7b5QdQUKfVdv"
+    },
+    {
+      "added_at": "2025-10-22 10:20:26",
+      "album": {
         "name": "ikaw, ikaw, ikaw",
         "url": "https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP"
       },
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-10-22 10:20:26",
       "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 326813,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
-    },
-    {
-      "added_at": "2025-10-22 10:20:26",
-      "album": {
         "name": "Leaves",
         "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 310708,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
+    },
+    {
+      "added_at": "2025-10-22 10:20:26",
+      "album": {
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2025-10-22 10:20:26",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-10-22 10:20:26",
       "album": {
-        "name": "BANDROOM SESSIONS EPISODE 1",
-        "url": "https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2"
-      },
-      "artists": [
-        {
-          "name": "Khel Pangilinan",
-          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Alipin",
-      "url": "https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN"
-    },
-    {
-      "added_at": "2025-10-22 10:20:26",
-      "album": {
         "name": "Sinta",
         "url": "https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 343446,
       "name": "Buwan",
       "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
+    },
+    {
+      "added_at": "2025-10-22 10:20:26",
+      "album": {
+        "name": "Nahanap Kita",
+        "url": "https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW"
+      },
+      "artists": [
+        {
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+        }
+      ],
+      "duration_ms": 317693,
+      "name": "Nahanap Kita",
+      "url": "https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe"
     }
   ],
   "unique_name": "OPM Favorites",

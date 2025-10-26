@@ -4,7 +4,7 @@
 
 > พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้!
 
-220 songs - 13 hr 30 min
+221 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,10 +48,11 @@
 | [ข้าน้อยสมควรตาย](https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [begins](https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR) | 3:51 | 2023-02-10 |  |
 | [คนที่แสนธรรมดา feat\. Na Polycat](https://open.spotify.com/track/68i6L61qFCI79hD3kRrdwG) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [คนที่แสนธรรมดา feat\. Na Polycat](https://open.spotify.com/album/6payxbbvQLVLkNlRmlAiN0) | 4:33 | 2023-02-10 | 2023-10-07 |
 | [คนเดียวในจักรวาล \- From "Last Meal Universe อาหารมื้อสุดท้าย ก่อนโลกกลายเป็นทางด่วนอวกาศ"](https://open.spotify.com/track/2ho2dFO7J0VogKk8ey0FZj) | [Gun Napat](https://open.spotify.com/artist/051lp6s3ON69PxioINt2xE) | [คนเดียวในจักรวาล \(From "Last Meal Universe อาหารมื้อสุดท้าย ก่อนโลกกลายเป็นทางด่วนอวกาศ"\)](https://open.spotify.com/album/7c8rnAkJRZqNVCXiqQ207h) | 3:44 | 2025-05-02 | 2025-07-12 |
-| [คนในฝัน \(เพลงประกอบละคร ฝันเฟื่อง\)](https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON) | [Mr.Team](https://open.spotify.com/artist/3idQlYHIpkPc7NjGqeCerH) | [Best of MR.TEAM](https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl) | 4:03 | 2024-03-16 |  |
+| [คนในฝัน \(เพลงประกอบละคร ฝันเฟื่อง\)](https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON) | [Mr.Team](https://open.spotify.com/artist/3idQlYHIpkPc7NjGqeCerH) | [Best of MR.TEAM](https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl) | 4:03 | 2024-03-16 | 2025-10-26 |
 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 | 2023-02-10 |  |
 | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv) | 4:41 | 2024-09-18 |  |
 | [ความรักกำลังก่อตัว](https://open.spotify.com/track/0Xo1zj7ol0WMN3VltQxhRW) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [รวมเพลงมีผลต่อหัวใจ](https://open.spotify.com/album/3iAjy7MQQBhsWQrEuoGWwm) | 5:21 | 2023-02-10 | 2024-04-19 |
+| [ความรักกำลังก่อตัว](https://open.spotify.com/track/4EgdU9qfAfHC8ZsGd7dnac) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ความรักกำลังก่อตัว](https://open.spotify.com/album/3ID6amkiCsnNwYEEvZg5DD) | 5:21 | 2025-08-17 |  |
 | [คำถาม](https://open.spotify.com/track/0IFIKMchcHNwvl4owtoKaF) | [Toffy](https://open.spotify.com/artist/74ra0Ma6JVnWopieuemcKU) | [ลักษ์มิวสิค](https://open.spotify.com/album/7ffq7DZvkhHbTBZ721CQ9i) | 4:27 | 2024-03-16 | 2025-01-23 |
 | [คืนที่ดาวเต็มฟ้า](https://open.spotify.com/track/5JoSLllHkOdE56kpHU4fi6) | [Pramote Vilepana](https://open.spotify.com/artist/5ymrPYlQszvpBHwIVHGPcQ) | [ร้องนำ](https://open.spotify.com/album/0zDHoE9lv0a9BNP9F2YtRf) | 3:45 | 2023-02-10 |  |
 | [คือเธอ \- Original soundtrack from "Cutie Pie 2 You"](https://open.spotify.com/track/2eXpVUUo3WeFkLcp3HWFZ9) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [คือเธอ \(Original soundtrack from "Cutie Pie 2 You"\)](https://open.spotify.com/album/1jaKAX6yT6fXPUdDuX6E6i) | 3:19 | 2025-02-13 | 2025-02-27 |

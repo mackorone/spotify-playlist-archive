@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 127889,
+  "num_followers": 127950,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Music For Lovers Only",
-        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "I Only Have Eyes for You",
         "url": "https://open.spotify.com/album/7ls79FDjgrXlt424cIP1SE"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 160320,
       "name": "You'll Never Know - Instrumental",
       "url": "https://open.spotify.com/track/0sQ0BzLHZfX9TLXvNROcjh"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Music For Lovers Only",
+        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -247,6 +247,26 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "The Pops Goes Country (with Boston Pops Orchestra)",
+        "url": "https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq"
+      },
+      "artists": [
+        {
+          "name": "Chet Atkins",
+          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "Tennessee Waltz (with Boston Pops Orchestra)",
+      "url": "https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "The Magic Of Manuel",
         "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 194880,
       "name": "Once In A While",
       "url": "https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "The Pops Goes Country (with Boston Pops Orchestra)",
-        "url": "https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq"
-      },
-      "artists": [
-        {
-          "name": "Chet Atkins",
-          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
-        },
-        {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "Tennessee Waltz (with Boston Pops Orchestra)",
-      "url": "https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "The Magic Of Manuel",
-        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
-      },
-      "artists": [
-        {
-          "name": "Manuel & The Music Of The Mountains",
-          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Fools Rush In (Where Angels Fear to Tread)",
-      "url": "https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "A Warm Shade of Ivory",
         "url": "https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 185680,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/2ODXYxVCuRtoM2F2094y6h"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "The Magic Of Manuel",
+        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
+      },
+      "artists": [
+        {
+          "name": "Manuel & The Music Of The Mountains",
+          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Fools Rush In (Where Angels Fear to Tread)",
+      "url": "https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -399,8 +399,8 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "American Serenade",
-        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
         }
       ],
-      "duration_ms": 216960,
-      "name": "Autumn in New York",
-      "url": "https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H"
+      "duration_ms": 148106,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -479,8 +479,8 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1"
+        "name": "American Serenade",
+        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
         }
       ],
-      "duration_ms": 148106,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
+      "duration_ms": 216960,
+      "name": "Autumn in New York",
+      "url": "https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -875,26 +875,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Pops Goes West",
-        "url": "https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1"
-      },
-      "artists": [
-        {
-          "name": "Arthur Fiedler",
-          "url": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
-        },
-        {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
-        }
-      ],
-      "duration_ms": 127986,
-      "name": "Buttons and Bows",
-      "url": "https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "The New Limelight",
         "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 247040,
       "name": "The Man That Got Away",
       "url": "https://open.spotify.com/track/1hDthwJhM5GqDkolDuMSoA"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Pops Goes West",
+        "url": "https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1"
+      },
+      "artists": [
+        {
+          "name": "Arthur Fiedler",
+          "url": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "duration_ms": 127986,
+      "name": "Buttons and Bows",
+      "url": "https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU"
     },
     {
       "added_at": "2024-07-17 14:53:29",

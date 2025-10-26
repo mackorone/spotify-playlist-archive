@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: Noah Rinker
 
-2,446 songs - 5 day 11 hr 36 min
+2,447 songs - 5 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1350,7 +1350,7 @@
 | [Meet The Moonlight](https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG) | 5:05 | 2022-05-13 | 2022-08-13 |
 | [Melt](https://open.spotify.com/track/65OuiV65csFjciXDCRmWir) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Melt](https://open.spotify.com/album/4Les9E0vFIzG1El2F4BEvm) | 3:32 | 2024-06-21 | 2024-11-02 |
 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 | 2023-02-24 | 2023-07-22 |
-| [Members Only](https://open.spotify.com/track/0gxkhOg66cr6ZckoVwOoa8) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Members Only](https://open.spotify.com/album/531QyECwY7CCKY4aPnxz4Z) | 2:35 | 2025-08-29 |  |
+| [Members Only](https://open.spotify.com/track/0gxkhOg66cr6ZckoVwOoa8) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Members Only](https://open.spotify.com/album/531QyECwY7CCKY4aPnxz4Z) | 2:35 | 2025-08-29 | 2025-10-26 |
 | [Memories](https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Memories](https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09) | 2:59 | 2024-02-09 | 2024-03-30 |
 | [Memory Lane](https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Memory Lane](https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk) | 2:34 | 2022-02-11 | 2022-04-29 |
 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 | 2023-11-24 | 2024-01-20 |
@@ -1856,6 +1856,7 @@
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2021-12-24 | 2022-02-19 |
 | [Sleep When I'm With You](https://open.spotify.com/track/3Va9eANCm7FrpByrRLkQvk) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Sleep When I'm With You](https://open.spotify.com/album/5GjwbyGJ0KlBoOR3uUt8Co) | 2:59 | 2023-08-04 | 2023-10-14 |
 | [Sleeping On The Phone](https://open.spotify.com/track/1bCNLn0UKZ2wjxN6ZmvcTh) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy](https://open.spotify.com/album/3mSrMuAvI7GNxaxhrTx4ry) | 3:09 | 2020-11-13 | 2021-02-06 |
+| [Sleepwalking](https://open.spotify.com/track/0k6CuggnRkJAem9XowL1Zc) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 2:57 | 2025-10-25 |  |
 | [sleepwalking](https://open.spotify.com/track/4MUvToqpjVcQVcVD5snNnp) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Mike Kinsella](https://open.spotify.com/artist/65MqFenJZqxNAPxnEATV8U), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt) | [sleepwalking](https://open.spotify.com/album/1JYZ7VEh3i5TKTSQnA2zKa) | 3:35 | 2020-11-13 | 2021-01-15 |
 | [Sleepy](https://open.spotify.com/track/1uw7DIRDt68BtoYhavfRca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Sleepy](https://open.spotify.com/album/1UtBW3nzfD7d7Qt4Hsm1YQ) | 3:08 | 2022-09-09 | 2022-10-29 |
 | [Sleepy](https://open.spotify.com/track/7nptwLaDkBczF70AjSaVmc) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 3:08 | 2023-02-17 | 2023-02-25 |

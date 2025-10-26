@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-899 songs - 1 day 22 hr 17 min
+900 songs - 1 day 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -656,7 +656,7 @@
 | [Rain \(from The Suicide Squad\)](https://open.spotify.com/track/6gi7qsHSH2JWZsTRHndxqm) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Rain \(from The Suicide Squad\)](https://open.spotify.com/album/3RofvYZbV6xjU5H4RMNPap) | 3:56 | 2022-03-24 | 2023-03-18 |
 | [Reborn](https://open.spotify.com/track/24PrTycumc8Itm3ksXF0jP) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [When Everything Went Dark](https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v) | 2:38 | 2023-06-23 | 2023-12-09 |
 | [Recipe For Disaster](https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Recipe For Disaster](https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v) | 2:45 | 2024-05-31 |  |
-| [Red Lights](https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Red Lights / Ireland](https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR) | 2:27 | 2023-07-28 |  |
+| [Red Lights](https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Red Lights / Ireland](https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR) | 2:27 | 2023-07-28 | 2025-10-26 |
 | [Red Run Cold](https://open.spotify.com/track/2YTgdBr27ThjNOqdcJAu8z) | [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Red Run Cold](https://open.spotify.com/album/5jeWTeLEEXFRb5YrOUUGW8) | 3:43 | 2022-03-24 | 2022-04-10 |
 | [Remember](https://open.spotify.com/track/1hB0DpfSqzQ0IMElKnbm7e) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [Remember](https://open.spotify.com/album/2YyZNdnyitI1euLPKIBC7i) | 2:10 | 2022-03-17 | 2022-07-29 |
 | [Remembering Sunday \(feat\. Lindsey Stirling & Lisa Gaskarth\) \- ATL's Version](https://open.spotify.com/track/6N4QI1vJiQWVr3HVyKOGs2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Lisa Gaskarth](https://open.spotify.com/artist/6an4Dzd8fNVjQxu4uJ7DsN) | [The Forever Sessions \(Vol\. 1\)](https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE) | 4:16 | 2024-08-23 | 2025-02-15 |
@@ -716,6 +716,7 @@
 | [Skinny](https://open.spotify.com/track/08CVVZ9HYOXzPRAIV0w8nq) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Skinny](https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ) | 3:42 | 2022-03-24 | 2023-03-25 |
 | [Sky's The Limit](https://open.spotify.com/track/7laPNpvyBCrzisrrxpKEgJ) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Counting Down](https://open.spotify.com/album/5hDjevhklZyr4v8eKiYV2y) | 3:55 | 2022-03-24 | 2022-04-20 |
 | [Slam \(Angel Miners\)](https://open.spotify.com/track/7CyFol088Z8iL4mDsSrgXA) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Slam \(Angel Miners\)](https://open.spotify.com/album/1QQG3ERdrTV7vQvNQh1sXG) | 4:48 | 2022-03-24 | 2022-04-18 |
+| [SLEEP TALKING](https://open.spotify.com/track/1PoW3zFUUN8vGwXo7ihYPj) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [GARAGE](https://open.spotify.com/album/5d1CpByfQ3zqbOSmbIPafo) | 3:05 | 2025-10-24 |  |
 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2023-03-17 | 2025-09-20 |
 | [slowdown](https://open.spotify.com/track/3VMMl848gC3L3OqCXwl1uF) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [simulation](https://open.spotify.com/album/4Y49Day8mdKqVqhFoVJFRX) | 2:43 | 2022-03-24 | 2022-04-21 |
 | [Slowly Healing](https://open.spotify.com/track/67nyrWSrrWoUDTZJX4MjTl) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Slowly Healing](https://open.spotify.com/album/7AbtRZ6tCp19EsBFyAiVm7) | 2:34 | 2023-03-17 | 2023-04-19 |

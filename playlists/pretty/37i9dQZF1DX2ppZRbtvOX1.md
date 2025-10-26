@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ppZRbtvOX1.md) - [plain]
 
 > De bekendste Dance hits
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,179 likes - 70 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,173 likes - 70 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

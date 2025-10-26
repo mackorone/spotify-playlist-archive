@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Theo Croker
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,161 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,155 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 4 | [For Maxwell](https://open.spotify.com/track/33q0xisDdB5YyjFcllFoQv) | [Lafayette Harris, Jr.](https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT), [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [For Maxwell](https://open.spotify.com/album/1u0v7hmWYxa2lQuWMjYzpq) | 3:08 |
 | 5 | [Meant to Be](https://open.spotify.com/track/63QbpLYMlwNdOaMKw2QHn9) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [Meant to Be](https://open.spotify.com/album/5Y0Mk06Pp9uo9doyYsaZ96) | 6:31 |
 | 6 | [Logue](https://open.spotify.com/track/2tqam8LDaNrdUO37oNBFco) | [Tom Skinner](https://open.spotify.com/artist/6WUuwGEgtKowXDyQtfB8S7), [Contour](https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF) | [Kaleidoscopic Visions](https://open.spotify.com/album/53qTij2vfe8DobwgYFSlU9) | 5:16 |
-| 7 | [SEUSS PANTS](https://open.spotify.com/track/2vD9cvmBGOn3r6tNFuxrwG) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Suess Pants](https://open.spotify.com/album/7nNYEMB95NgOkCtxoY3iSv) | 6:41 |
+| 7 | [Seuss Pants](https://open.spotify.com/track/2vD9cvmBGOn3r6tNFuxrwG) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Suess Pants](https://open.spotify.com/album/7nNYEMB95NgOkCtxoY3iSv) | 6:41 |
 | 8 | [Tales of Mississippi](https://open.spotify.com/track/42hVqGscO1T9tJlFmC6O74) | [Brandon Sanders](https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD) | [Tales of Mississippi](https://open.spotify.com/album/5YqwcpQMAht5EnIHusDgS4) | 4:45 |
 | 9 | [The Time Bender](https://open.spotify.com/track/1GnquVOVTWIjOTJG2sB0gp) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj) | [The Time Bender](https://open.spotify.com/album/75wjwKv7iPWJtdzIpiWa2q) | 6:06 |
 | 10 | [Blues for Langston](https://open.spotify.com/track/4c3AvJY7H4nETw1xXey04e) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Figure In Blue](https://open.spotify.com/album/1qMMVXxfxe0rPsHunQzFe0) | 8:17 |

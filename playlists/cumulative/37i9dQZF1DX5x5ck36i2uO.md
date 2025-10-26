@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-192 songs - 10 hr 56 min
+193 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [numbers in green blue](https://open.spotify.com/track/0aIjIHWa3GMalh14RRKCLa) | [JJK](https://open.spotify.com/artist/1tN10ObeLZVfnzfpSaT73O) | [The Angel Wakes Hell's Morning](https://open.spotify.com/album/6jBp4T0NBQwJ9cnp1yXrgb) | 3:16 | 2022-06-18 | 2022-07-14 |
 | [On My Wave](https://open.spotify.com/track/01ZOslmYuRTjSymRHjbPVE) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p) | [Waves Like](https://open.spotify.com/album/6CFhQLoXy665joV93vkgU4) | 4:03 | 2022-05-11 | 2022-07-29 |
 | [Paris](https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Midnight](https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER) | 3:13 | 2022-05-11 | 2025-02-15 |
-| [paris and tokyo](https://open.spotify.com/track/6SMtaDw5xVGTPVexnw2eLM) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:52 | 2022-05-11 |  |
+| [paris and tokyo](https://open.spotify.com/track/6SMtaDw5xVGTPVexnw2eLM) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:52 | 2022-05-11 | 2025-10-26 |
 | [Party Forever](https://open.spotify.com/track/0kGnxJUOZgCemWBfpgVe6H) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Party Forever](https://open.spotify.com/album/3kC4LhI9UMzNAkch7aBQ9h) | 3:22 | 2022-05-11 |  |
 | [PIPE DOWN \(feat\. BLNK\)](https://open.spotify.com/track/57j59smACFt0QzJxkNCRvf) | [Sushiwishfish](https://open.spotify.com/artist/2K2W6WoQlup5staWeuR3v0), [BLNK](https://open.spotify.com/artist/6mquRNZm8DYTOCbYoRh7A1) | [GO GET'EM TIGER](https://open.spotify.com/album/1EoyFAvM5kfjr5OMoOmKiX) | 2:28 | 2022-06-18 | 2022-07-29 |
 | [Piss On Me](https://open.spotify.com/track/4GJy4M67insCFuAUhluOza) | [2xxx](https://open.spotify.com/artist/4cMtnnGdRvh8KIi2RA7ZeU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Life+unconsciousness](https://open.spotify.com/album/0ENIw3VQ7WFRb9oMT5n8wx) | 3:13 | 2022-05-11 |  |
@@ -141,6 +141,7 @@
 | [ride or die \(feat\. Chancellor\)](https://open.spotify.com/track/3GnutzFK2ijPUogERjEgBZ) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 3:01 | 2022-05-11 | 2022-07-21 |
 | [Room Service](https://open.spotify.com/track/2T3ghpZrxmbrn9ukDmrc9W) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:35 | 2022-05-11 |  |
 | [Roommate](https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:50 | 2022-05-11 |  |
+| [Same Breed](https://open.spotify.com/track/2t6V3C2YW7GkrmN5lvUjmg) | [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Jbfm](https://open.spotify.com/album/75abKZ895sjG7Lyp1no40Q) | 4:25 | 2025-10-22 |  |
 | [Say No](https://open.spotify.com/track/5GnEPhW06hDK8a9iqrdOo0) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY), [Master Wu](https://open.spotify.com/artist/3ljpwk0rqWS3ByrUDMNuUV) | [WALKIN', Vol.2](https://open.spotify.com/album/0w3HKEdCt5hUS9TBB8mt3H) | 3:52 | 2022-06-13 | 2022-07-09 |
 | [SAY NO! \(feat\. Swings\)](https://open.spotify.com/track/2AKImy25zsNK4V5znKnBfP) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [SAY NO! \(feat\. Swings\)](https://open.spotify.com/album/69KTv2hfxoZvZvgkymiJfM) | 3:31 | 2024-03-27 | 2024-07-09 |
 | [she like caffeine](https://open.spotify.com/track/5wC2fb5odceHwkQOBKI6Im) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [MALKEY](https://open.spotify.com/artist/1Yitdnv50GqF4mA1exC34C) | [she like caffeine](https://open.spotify.com/album/1ja5SqjYpLd2hPAOEkOxF1) | 2:59 | 2022-05-11 | 2022-07-29 |

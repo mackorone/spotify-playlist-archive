@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Youngn Lipz
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,970 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,982 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 46 | [VIBRATING!](https://open.spotify.com/track/1uqjZQfndzoTn7nB9tATSt) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX) | [VIBRATING!](https://open.spotify.com/album/7CUj6mpFaHOO2mL0es3Kte) | 2:14 |
 | 47 | [Forever Trill](https://open.spotify.com/track/6cS87AaSJOFMUCRBagct8N) | [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [Forever Trill](https://open.spotify.com/album/64oIzOgd0ExiMUjGxIV8Qd) | 2:40 |
 | 48 | [Warrior](https://open.spotify.com/track/16zbcKo3jsZTjS7QOdhpjM) | [Sid Diamond](https://open.spotify.com/artist/6SmpksRq3jxeDZ7roKDb6F), [TY](https://open.spotify.com/artist/3ldG3Lpm20ZIlw3Dr5aUOt) | [Warrior](https://open.spotify.com/album/0mskZHS05zxptFrMblVPA3) | 4:10 |
-| 49 | [Tough Love](https://open.spotify.com/track/7JmctumoH7K1lDaKlx5I6q) | [Jaal](https://open.spotify.com/artist/3D1HiyH3IPenXqAmNmSlLh) | [Tough Love / No Other](https://open.spotify.com/album/1WYpq3GHsaOCsHpC7ezJca) | 2:16 |
+| 49 | [Tough Love](https://open.spotify.com/track/7JmctumoH7K1lDaKlx5I6q) | [Jaal](https://open.spotify.com/artist/3D1HiyH3IPenXqAmNmSlLh) | [Tough Love / No Other](https://open.spotify.com/album/1WYpq3GHsaOCsHpC7ezJca) | 2:18 |
 | 50 | [change](https://open.spotify.com/track/4XjgLzuduKAlFwE301P7Ac) | [Loose](https://open.spotify.com/artist/0gfrzkQ9Thk3XcMHjEf8Ks), [Reyne House](https://open.spotify.com/artist/4EDKYXiDYdGSLTn6gYrml0) | [change](https://open.spotify.com/album/5yRNEOsvq87FZbnYagdevW) | 2:01 |
 | 51 | [Imperfections](https://open.spotify.com/track/1qYalXlo1QlcuK2D2QCkMV) | [Celly](https://open.spotify.com/artist/7zBBABGp1O95Fills6I7MN) | [Imperfections](https://open.spotify.com/album/16MMr4oW3i5YvYH4jxBk6O) | 2:36 |
 | 52 | [Type Shi](https://open.spotify.com/track/1Hqvcw1B0Ed05ikscGw7xP) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs) | [Type Shi](https://open.spotify.com/album/1bPyHyvmn2R62CzMApzFcF) | 2:19 |

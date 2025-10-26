@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 6507,
+  "num_followers": 6514,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAAWffOf6xljC2h/EWwat0DH",
+  "snapshot_id": "aPrBgAAAAAC9XkBpkNIk5lY0UoXS9vRS",
   "tracks": [
     {
       "added_at": null,
@@ -1007,6 +1007,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sick Six",
+        "url": "https://open.spotify.com/album/4UinowfqwB20ITGJdS3BaD"
+      },
+      "artists": [
+        {
+          "name": "DaBlixx Osha",
+          "url": "https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 128429,
+      "name": "Say No to Big Fall",
+      "url": "https://open.spotify.com/track/2mk0VTrxiZJXhLPB2yo4mk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatness 2.0",
         "url": "https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 200973,
       "name": "Only Fan",
       "url": "https://open.spotify.com/track/69yAyXc2pJCvgdAaCLUYqY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sick Six",
-        "url": "https://open.spotify.com/album/4UinowfqwB20ITGJdS3BaD"
-      },
-      "artists": [
-        {
-          "name": "DaBlixx Osha",
-          "url": "https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 128429,
-      "name": "Say No to Big Fall",
-      "url": "https://open.spotify.com/track/2mk0VTrxiZJXhLPB2yo4mk"
     }
   ],
   "unique_name": "This Is Zlatan",

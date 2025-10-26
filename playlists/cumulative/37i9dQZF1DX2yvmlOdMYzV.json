@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 203164,
       "name": "c thru",
       "url": "https://open.spotify.com/track/0NoyyMZy4oQr1yWlZ3J9Uh"
@@ -4494,7 +4494,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 182746,
       "name": "Driving Me Wild",
       "url": "https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU"
@@ -10351,6 +10351,24 @@
     },
     {
       "album": {
+        "name": "Lonely Mile",
+        "url": "https://open.spotify.com/album/2SLdyDrKz5ALBPMrwQGKbf"
+      },
+      "artists": [
+        {
+          "name": "LUCA",
+          "url": "https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223472,
+      "name": "Lonely Mile",
+      "url": "https://open.spotify.com/track/6rQ1ypqzzbYrVTmhSt2nKl"
+    },
+    {
+      "album": {
         "name": "BARE SUGAR",
         "url": "https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD"
       },
@@ -13660,7 +13678,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 220122,
       "name": "Passenger Princess (feat. Aqyila)",
       "url": "https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Shelby Wang
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,102 likes - 135 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,104 likes - 135 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 16 | [Don't bother](https://open.spotify.com/track/7MxtRoOs9yEObkP9udWmBl) | [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251) | [New age musics](https://open.spotify.com/album/1rzQWNb30Jo98wYCvFoaoa) | 1:45 |
 | 17 | [Polite \(i really wanna hate you\)](https://open.spotify.com/track/3QIFaI4lMoVivOmMWuatO4) | [Brielle Kaga](https://open.spotify.com/artist/5YPzo8kOw6lRwE2COt9awu) | [Polite \(i really wanna hate you\)](https://open.spotify.com/album/6Japp7LXQ9oC1u47drlmJc) | 3:19 |
 | 18 | [Parallel Lines](https://open.spotify.com/track/3yzXRjGEWLYzJIUkTP6HmV) | [Clarissa](https://open.spotify.com/artist/3oAJM6I0Y8tzFLhyWO5sn1) | [Parallel Lines](https://open.spotify.com/album/5lfQ0E4rLxPwhVaVN8Wr20) | 4:34 |
-| 19 | [Perjury](https://open.spotify.com/track/06LmLH2Dhpn4yXuyjeQmHX) | [hsiuhsien](https://open.spotify.com/artist/0crgkY846uAuJxxmB7n57p) | [Perjury](https://open.spotify.com/album/3y6Yc9O1JRJUTXCyx4AA2p) | 3:12 |
+| 19 | [Perjury](https://open.spotify.com/track/06LmLH2Dhpn4yXuyjeQmHX) | [hsiuhsien](https://open.spotify.com/artist/3K4kBf0ovw9wQbqWbeMniB) | [Perjury](https://open.spotify.com/album/3y6Yc9O1JRJUTXCyx4AA2p) | 3:12 |
 | 20 | [Beautiful View](https://open.spotify.com/track/6Y9MTerTb1HltES53plFGs) | [Asher Mendelsohn](https://open.spotify.com/artist/33gXtY0RSxRDn26H2Gak0e) | [Beautiful View](https://open.spotify.com/album/7hWsPPGX5ntIGxTRjIeaC8) | 3:25 |
 | 21 | [Blessing In Disguise](https://open.spotify.com/track/4nxVjVTJ5bXYRrYprebfpu) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Blessing In Disguise](https://open.spotify.com/album/6gCCMU08HProILDq9vUAwU) | 2:33 |
 | 22 | [Broken Promise](https://open.spotify.com/track/1ebHt77Ds3tNhKXHmE0RBn) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [The Art of Surrender](https://open.spotify.com/album/545qq83mkV2GTkPc0yZ1XL) | 3:14 |

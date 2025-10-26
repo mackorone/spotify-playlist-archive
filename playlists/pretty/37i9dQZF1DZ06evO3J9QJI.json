@@ -1,12 +1,12 @@
 {
   "description": "This is Irv Gotti. The essential tracks, all in one playlist.",
-  "num_followers": 155,
+  "num_followers": 154,
   "original_name": "This Is Irv Gotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAABcTAZhSNeUbCQE4oWWgSWA",
+  "snapshot_id": "aPrBgAAAAACZuQU3HbZ4zPUOHH99AR/o",
   "tracks": [
     {
       "added_at": null,
@@ -258,6 +258,30 @@
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        },
+        {
+          "name": "Caddillac Tah",
+          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
+        },
+        {
+          "name": "Black Child",
+          "url": "https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN"
+        }
+      ],
+      "duration_ms": 169560,
+      "name": "O.G. - Remix",
+      "url": "https://open.spotify.com/track/6HWd3U8RC5hXcfj3c3Snfn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Irv Gotti Presents...The Remixes",
+        "url": "https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT"
+      },
+      "artists": [
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         }
       ],
       "duration_ms": 42826,
@@ -291,30 +315,6 @@
       "duration_ms": 223360,
       "name": "No One Does It Better - Remix",
       "url": "https://open.spotify.com/track/6Khtdk7kkYji84hNpnKJB9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Irv Gotti Presents...The Remixes",
-        "url": "https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT"
-      },
-      "artists": [
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        },
-        {
-          "name": "Caddillac Tah",
-          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
-        },
-        {
-          "name": "Black Child",
-          "url": "https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN"
-        }
-      ],
-      "duration_ms": 169560,
-      "name": "O.G. - Remix",
-      "url": "https://open.spotify.com/track/6HWd3U8RC5hXcfj3c3Snfn"
     },
     {
       "added_at": null,

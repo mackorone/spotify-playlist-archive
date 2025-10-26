@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60846,
+  "num_followers": 60839,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
+    },
+    {
+      "added_at": "2025-10-19 16:00:30",
+      "album": {
         "name": "Different Night Same Rodeo",
         "url": "https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 196578,
       "name": "Lost (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq"
-    },
-    {
-      "added_at": "2025-10-19 16:00:30",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 163854,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -327,18 +327,18 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+        "name": "Born Without a Heart",
+        "url": "https://open.spotify.com/album/5EOIYFpu56h7AgQxCRcyZG"
       },
       "artists": [
         {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
         }
       ],
-      "duration_ms": 188952,
-      "name": "Zombie Lady",
-      "url": "https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV"
+      "duration_ms": 198896,
+      "name": "Born Without a Heart",
+      "url": "https://open.spotify.com/track/6i5jBmnB22alUpJ7hpznuj"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -375,18 +375,18 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
-        "name": "Born Without a Heart",
-        "url": "https://open.spotify.com/album/5EOIYFpu56h7AgQxCRcyZG"
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
       },
       "artists": [
         {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
         }
       ],
-      "duration_ms": 198896,
-      "name": "Born Without a Heart",
-      "url": "https://open.spotify.com/track/6i5jBmnB22alUpJ7hpznuj"
+      "duration_ms": 188952,
+      "name": "Zombie Lady",
+      "url": "https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
+        "name": "Over Each Other",
+        "url": "https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 170445,
+      "name": "Over Each Other",
+      "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
+    },
+    {
+      "added_at": "2025-10-19 16:00:30",
+      "album": {
         "name": "Broken & Beautiful",
         "url": "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 161000,
       "name": "Blame It On You",
       "url": "https://open.spotify.com/track/67sldfyOCTkXyhqzJTKiDD"
-    },
-    {
-      "added_at": "2025-10-19 16:00:30",
-      "album": {
-        "name": "Over Each Other",
-        "url": "https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 170445,
-      "name": "Over Each Other",
-      "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -755,18 +755,22 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/4b5VmGfGFXxivUx1vshO9o"
+        "name": "love race (feat. Kellin Quinn)",
+        "url": "https://open.spotify.com/album/3q4wUTOTsRASPClG5Fg3tk"
       },
       "artists": [
         {
-          "name": "Big Time Rush",
-          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
         }
       ],
-      "duration_ms": 184473,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/6KOQLj5dcYuFSN6srNs96u"
+      "duration_ms": 188779,
+      "name": "love race (feat. Kellin Quinn)",
+      "url": "https://open.spotify.com/track/1F9kEuwT29fgqlovIclu81"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -787,22 +791,18 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
-        "name": "love race (feat. Kellin Quinn)",
-        "url": "https://open.spotify.com/album/3q4wUTOTsRASPClG5Fg3tk"
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/4b5VmGfGFXxivUx1vshO9o"
       },
       "artists": [
         {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+          "name": "Big Time Rush",
+          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
         }
       ],
-      "duration_ms": 188779,
-      "name": "love race (feat. Kellin Quinn)",
-      "url": "https://open.spotify.com/track/1F9kEuwT29fgqlovIclu81"
+      "duration_ms": 184473,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/6KOQLj5dcYuFSN6srNs96u"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
-        "name": "Wake Up & It's Over",
-        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 227546,
-      "name": "Portrait of a Blank Slate",
-      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
-    },
-    {
-      "added_at": "2025-10-19 16:00:30",
-      "album": {
         "name": "only wanna dance",
         "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 144391,
       "name": "only wanna dance",
       "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2025-10-19 16:00:30",
+      "album": {
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 227546,
+      "name": "Portrait of a Blank Slate",
+      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -1059,30 +1059,6 @@
       "duration_ms": 191963,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb"
-    },
-    {
-      "added_at": "2025-10-19 16:00:30",
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Cailin Russo",
-          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
-        },
-        {
-          "name": "Chrissy Costanza",
-          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
-        }
-      ],
-      "duration_ms": 197633,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -1139,18 +1115,26 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
-        "name": "Chrome Jets",
-        "url": "https://open.spotify.com/album/5CXyWQG2ke7GBv0ftgVaCf"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Cailin Russo",
+          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
+        },
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
         }
       ],
-      "duration_ms": 216747,
-      "name": "Chrome Jets",
-      "url": "https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ"
+      "duration_ms": 197633,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Visitor",
+      "url": "https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK"
+    },
+    {
+      "added_at": "2025-10-19 16:00:30",
+      "album": {
         "name": "Neck Deep",
         "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
       },
@@ -1219,18 +1219,34 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf"
+        "name": "Good Side",
+        "url": "https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii"
       },
       "artists": [
         {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
         }
       ],
-      "duration_ms": 207226,
-      "name": "Visitor",
-      "url": "https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK"
+      "duration_ms": 164286,
+      "name": "Good Side",
+      "url": "https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv"
+    },
+    {
+      "added_at": "2025-10-19 16:00:30",
+      "album": {
+        "name": "Chrome Jets",
+        "url": "https://open.spotify.com/album/5CXyWQG2ke7GBv0ftgVaCf"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 216747,
+      "name": "Chrome Jets",
+      "url": "https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -1247,22 +1263,6 @@
       "duration_ms": 174919,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/5Oqoyydz7aYxTezM4irIbB"
-    },
-    {
-      "added_at": "2025-10-19 16:00:30",
-      "album": {
-        "name": "Good Side",
-        "url": "https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 164286,
-      "name": "Good Side",
-      "url": "https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv"
     }
   ],
   "unique_name": "\u5fc3\u60c5\u5927\u632f",

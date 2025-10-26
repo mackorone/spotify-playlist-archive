@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAADzauo3Ovtl5WyGlYY1+kss",
+  "snapshot_id": "aPrBgAAAAAD10Td9i3Pp2dlys3OfCFD1",
   "tracks": [
     {
       "added_at": null,
@@ -595,26 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipmami On The Radar Freestyle Pt. 2",
-        "url": "https://open.spotify.com/album/6xZSYwLGujgmf7kHIUzNhM"
+        "name": "Gostosa Posturada",
+        "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
       },
       "artists": [
-        {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
-        },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
+          "name": "Rafu",
+          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
         }
       ],
-      "duration_ms": 160645,
-      "name": "Slipmami On The Radar Freestyle Pt. 2",
-      "url": "https://open.spotify.com/track/5BZhhKdfLRCeZMD2rrGgb5"
+      "duration_ms": 195600,
+      "name": "Novinho",
+      "url": "https://open.spotify.com/track/4Sb6JzypvlH5V8DBQ6alMq"
     },
     {
       "added_at": null,
@@ -639,22 +635,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gostosa Posturada",
-        "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
+        "name": "Slipmami On The Radar Freestyle Pt. 2",
+        "url": "https://open.spotify.com/album/6xZSYwLGujgmf7kHIUzNhM"
       },
       "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Rafu",
-          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
         }
       ],
-      "duration_ms": 195600,
-      "name": "Novinho",
-      "url": "https://open.spotify.com/track/4Sb6JzypvlH5V8DBQ6alMq"
+      "duration_ms": 160645,
+      "name": "Slipmami On The Radar Freestyle Pt. 2",
+      "url": "https://open.spotify.com/track/5BZhhKdfLRCeZMD2rrGgb5"
     },
     {
       "added_at": null,
@@ -692,17 +692,13 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Raikage",
-          "url": "https://open.spotify.com/artist/19bJ30PN0LD2NL8gjH2hxY"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+          "name": "Rafu",
+          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
         }
       ],
-      "duration_ms": 162909,
-      "name": "Vem C\u00e1",
-      "url": "https://open.spotify.com/track/0jUi1IcX2IQMmhjo3YQLIi"
+      "duration_ms": 135445,
+      "name": "Perten\u00e7o \u00c0s Ruas",
+      "url": "https://open.spotify.com/track/1jYevrE8NDIdlxy7vs7Up4"
     },
     {
       "added_at": null,
@@ -772,13 +768,17 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Rafu",
-          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
+          "name": "Raikage",
+          "url": "https://open.spotify.com/artist/19bJ30PN0LD2NL8gjH2hxY"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
         }
       ],
-      "duration_ms": 135445,
-      "name": "Perten\u00e7o \u00c0s Ruas",
-      "url": "https://open.spotify.com/track/1jYevrE8NDIdlxy7vs7Up4"
+      "duration_ms": 162909,
+      "name": "Vem C\u00e1",
+      "url": "https://open.spotify.com/track/0jUi1IcX2IQMmhjo3YQLIi"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Superman",
+  "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Springsteen: Deliver Me from Nowhere",
   "name": "needle drop",
   "tracks": [
     {
@@ -180,6 +180,24 @@
       "duration_ms": 260573,
       "name": "Are You with Me Now?",
       "url": "https://open.spotify.com/track/7JSKAwskeR9SGtwJdarODc"
+    },
+    {
+      "album": {
+        "name": "TRON: Ares (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/47pjW3XDPW99NShtkeewxl"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237164,
+      "name": "As Alive As You Need Me To Be",
+      "url": "https://open.spotify.com/track/06USX1htQD4LgOgX4FF0ix"
     },
     {
       "album": {
@@ -1305,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "Springsteen:Deliver Me From Nowhere (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PULsYPn4Frr77Dc5idG4Q"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Allen White",
+          "url": "https://open.spotify.com/artist/02VqsexfI15ZQ7XjBujuNJ"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151474,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/6GNukfGiG3qtFHAQOYMisy"
+    },
+    {
+      "album": {
         "name": "If I Fall (Music from the Motion Picture Transformers One)",
         "url": "https://open.spotify.com/album/1uEUKZdEGnqIXnLU3hJnjA"
       },
@@ -1686,7 +1722,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -3048,7 +3084,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 350856,
       "name": "Who Wants To Live Forever?",
       "url": "https://open.spotify.com/track/7B38TXK2kfIGggpNOyT5zE"

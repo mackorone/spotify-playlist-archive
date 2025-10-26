@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238 likes - 152 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 240 likes - 152 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 130 | [All Around The World](https://open.spotify.com/track/68O6kIl42XxQBltMi3g8mZ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:31 |
 | 131 | [Cigarette \- Acoustic](https://open.spotify.com/track/0G5pSMytYwa5Ep7VzqB8Ab) | [MICHAELA](https://open.spotify.com/artist/0QxBW01qmpM8InQcVa1x9V) | [Cigarette \(Acoustic\)](https://open.spotify.com/album/4jRskEEfU18eb9nxCgBLYa) | 2:59 |
 | 132 | [All Yours Again](https://open.spotify.com/track/3x3diAZ3AuNCyPnmwxKmQN) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [100 Times Around the Sun](https://open.spotify.com/album/0jBrdQ1CTtlG2oenpcT1by) | 2:47 |
-| 133 | [Better Man](https://open.spotify.com/track/75o9dfDkw3F6hjSujBJQZi) | [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [Better Man](https://open.spotify.com/album/6pFTHq7uBtEGJBjlOx5YDn) | 3:14 |
-| 134 | [Roses](https://open.spotify.com/track/6EEXnHK3SYLTj74ynXAHtj) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Roses](https://open.spotify.com/album/2qIx0ueLDqtvYJtZdOLffk) | 3:38 |
+| 133 | [Roses](https://open.spotify.com/track/6EEXnHK3SYLTj74ynXAHtj) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Roses](https://open.spotify.com/album/2qIx0ueLDqtvYJtZdOLffk) | 3:38 |
+| 134 | [Better Man](https://open.spotify.com/track/75o9dfDkw3F6hjSujBJQZi) | [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [Better Man](https://open.spotify.com/album/6pFTHq7uBtEGJBjlOx5YDn) | 3:14 |
 | 135 | [Closure](https://open.spotify.com/track/3Z0uXmisVHmzoiSo49tUFy) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Closure](https://open.spotify.com/album/5zpvrdeJU6NWitQt8b9lhv) | 3:02 |
 | 136 | [Pronto](https://open.spotify.com/track/5E9RUpwOARvN0qFz66WMVk) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Glasgow KI$$](https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB), [Peachy Pete](https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER) | [Pronto](https://open.spotify.com/album/0Y2YoZHvqrtkvGWA6CnJos) | 3:02 |
 | 137 | [Hurricane](https://open.spotify.com/track/1it55uap8fb6m5EudcE0yG) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 3:27 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 151 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 152 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `Ab/wJgAAAAAV11m1v7ntEDFGbEjhT4Xb`
+Snapshot ID: `Ab/1qAAAAAAmE7vna0wIZIigKQC6pe6U`

@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
-  "num_followers": 13841,
+  "num_followers": 13842,
   "original_name": "This Is Harold Melvin & The Blue Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAAnyHoz1TthZAvRDAhL0VBF",
+  "snapshot_id": "aPrBgAAAAADxckC/YYnXBw2MQqBomS2s",
   "tracks": [
     {
       "added_at": null,
@@ -251,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Really Love You",
-        "url": "https://open.spotify.com/album/1MuztCzUVFAEVPbirCI8dT"
+        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
       "artists": [
         {
           "name": "Harold Melvin & The Blue Notes",
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 322146,
-      "name": "I Really Love You",
-      "url": "https://open.spotify.com/track/4nr9biIV72ZDo4fWJADCBM"
+      "duration_ms": 453200,
+      "name": "Yesterday I Had The Blues (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/43BQ041w9ryoC6TTVHTc7F"
     },
     {
       "added_at": null,
@@ -287,22 +291,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
+        "name": "I Really Love You",
+        "url": "https://open.spotify.com/album/1MuztCzUVFAEVPbirCI8dT"
       },
       "artists": [
         {
           "name": "Harold Melvin & The Blue Notes",
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 453200,
-      "name": "Yesterday I Had The Blues (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/43BQ041w9ryoC6TTVHTc7F"
+      "duration_ms": 322146,
+      "name": "I Really Love You",
+      "url": "https://open.spotify.com/track/4nr9biIV72ZDo4fWJADCBM"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Give Me Up",
-        "url": "https://open.spotify.com/album/4lGZ2x9Sj8U7OGi3SS3BkR"
+        "name": "Crate Diggers: Rare Soul/R&B Gems, Vol. 2",
+        "url": "https://open.spotify.com/album/6wKiZc8LvL2pPlul4TrKUD"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 296706,
-      "name": "Don't Give Me Up",
-      "url": "https://open.spotify.com/track/7AmfvFOl8K3rflTfZLxt8b"
+      "duration_ms": 367058,
+      "name": "Now Is The Time",
+      "url": "https://open.spotify.com/track/3LCW67QSmmqb3IegY8euzI"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Give Me Up",
+        "url": "https://open.spotify.com/album/4lGZ2x9Sj8U7OGi3SS3BkR"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 296706,
+      "name": "Don't Give Me Up",
+      "url": "https://open.spotify.com/track/7AmfvFOl8K3rflTfZLxt8b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
         "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
@@ -667,6 +683,26 @@
       "duration_ms": 326333,
       "name": "Introduction / The Love I Lost - Live",
       "url": "https://open.spotify.com/track/4Jw0lgi3utk0YvQiQu6H7s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Today's Your Lucky Day",
+        "url": "https://open.spotify.com/album/6SjGljHh3CyDsl7q9TR1K1"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Nikko",
+          "url": "https://open.spotify.com/artist/17Zl7UZpsaofiXvKockxNY"
+        }
+      ],
+      "duration_ms": 383120,
+      "name": "Today's Your Lucky Day",
+      "url": "https://open.spotify.com/track/6EFETJ5VG2AhjGun4dHRD1"
     },
     {
       "added_at": null,
@@ -703,26 +739,6 @@
       "duration_ms": 361093,
       "name": "Prayin'",
       "url": "https://open.spotify.com/track/0kb9n9G3MF476lGb1JX0h6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Today's Your Lucky Day",
-        "url": "https://open.spotify.com/album/6SjGljHh3CyDsl7q9TR1K1"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Nikko",
-          "url": "https://open.spotify.com/artist/17Zl7UZpsaofiXvKockxNY"
-        }
-      ],
-      "duration_ms": 383120,
-      "name": "Today's Your Lucky Day",
-      "url": "https://open.spotify.com/track/6EFETJ5VG2AhjGun4dHRD1"
     },
     {
       "added_at": null,
@@ -947,22 +963,6 @@
       "duration_ms": 224118,
       "name": "If You Don't Know Me By Now - Live",
       "url": "https://open.spotify.com/track/2sWyHjB0BFSCxoVYuSyarY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Too Hot to Handle",
-        "url": "https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 161986,
-      "name": "My Hero",
-      "url": "https://open.spotify.com/track/6fjTzzc7pe2d60RIzEr0fG"
     }
   ],
   "unique_name": "This Is Harold Melvin & The Blue Notes",

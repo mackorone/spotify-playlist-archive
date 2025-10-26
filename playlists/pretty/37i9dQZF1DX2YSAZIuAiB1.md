@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > Good Vibes only mit diesem sonnigen Genre Mix 😎
 
-[Spotify](https://open.spotify.com/user/spotify) - 648,062 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,942 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 52 | [DYNAMITE](https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 2:57 |
 | 53 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
 | 54 | [NINAO](https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [NINAO](https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk) | 2:47 |
-| 55 | [Malaika](https://open.spotify.com/track/6OLsNF93NAkdaWJXQev6Xi) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mugisho](https://open.spotify.com/artist/3KRCoMtReqUVKI38p5aWHw) | [Malaika](https://open.spotify.com/album/7lL6Y1meW33YLH60oSaaoN) | 2:33 |
+| 55 | [Malaika](https://open.spotify.com/track/6OLsNF93NAkdaWJXQev6Xi) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mugisho](https://open.spotify.com/artist/3KRCoMtReqUVKI38p5aWHw) | [Malaika](https://open.spotify.com/album/7lL6Y1meW33YLH60oSaaoN) | 2:34 |
 | 56 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/4kCkgD1ITALBjzBwGsf6tW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/album/5LgGFj0CG4iJ1MynD791hi) | 3:04 |
 | 57 | [Syt](https://open.spotify.com/track/4UxVPXznavq6dwRv9bro7G) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Playboys im AMG](https://open.spotify.com/album/352ocuWsww6xXPgUDmXFqq) | 2:33 |
 | 58 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |

@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Skrillex & ISOxo
 
-1,554 songs - 3 day 13 hr 25 min
+1,554 songs - 3 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -858,7 +858,7 @@
 | [LOYAL](https://open.spotify.com/track/0XTC88XX9rerDucl82skTW) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [LOYAL](https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI) | 4:15 | 2023-11-24 | 2024-02-25 |
 | [Lunar Fade](https://open.spotify.com/track/7t8nPTJ7yQK5NuME4OTHuJ) | [Jade Cicada](https://open.spotify.com/artist/6HFxqZ6WaTb7TQUhNsK25o) | [Lunar Fade EP](https://open.spotify.com/album/5RSoWqY5AOCAJz62eP1CJB) | 3:20 | 2025-01-10 | 2025-02-22 |
 | [Machine](https://open.spotify.com/track/4yDWW2wokaaPrFBAE1qUAx) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [MACHINE](https://open.spotify.com/album/34ZXvS2vUviORekLOh9qPA) | 2:48 | 2023-11-10 | 2023-12-09 |
-| [machine\_age](https://open.spotify.com/track/55fKc3ex9q7lEQUgPzPyLy) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [THE\_BIG\_TRIP](https://open.spotify.com/album/5fJwIK2omIRULAM93wapMk) | 3:16 | 2025-10-24 |  |
+| [machine\_age](https://open.spotify.com/track/55fKc3ex9q7lEQUgPzPyLy) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [THE\_BIG\_TRIP](https://open.spotify.com/album/5fJwIK2omIRULAM93wapMk) | 2:44 | 2025-10-24 |  |
 | [Mad Ting](https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Mad Ting](https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg) | 3:14 | 2024-07-05 | 2024-09-30 |
 | [Magic Frog](https://open.spotify.com/track/4UgYJfucdycL2Wzv3qySYY) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Magic Frog](https://open.spotify.com/album/5Vx2LkUaFeUDtJMLkbztYr) | 3:52 | 2025-02-14 | 2025-03-01 |
 | [Make U Sick](https://open.spotify.com/track/0SkXdo7T16kLkiutKVTt70) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Kuren](https://open.spotify.com/artist/6MCHLEjYo9byp8QYGpgnGp) | [Make U Sick](https://open.spotify.com/album/2HDGZrwuzUgSWX1yjYfItq) | 2:48 | 2025-06-20 | 2025-07-19 |

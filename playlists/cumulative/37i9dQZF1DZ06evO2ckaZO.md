@@ -4,13 +4,14 @@
 
 > This is Ice Spice\. The essential tracks, all in one playlist.
 
-56 songs - 2 hr 8 min
+57 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Actin A Smoochie](https://open.spotify.com/track/0QdB2tkxPG1qMgAMwv6mRP) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:13 | 2023-08-04 | 2025-10-12 |
 | [Actin A Smoochie](https://open.spotify.com/track/614PNsaI816SVsGQm4omXJ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:13 | 2023-06-07 |  |
-| [Baddie Baddie](https://open.spotify.com/track/1Yu3TGKjgWsJdZ9bKsTiO2) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Baddie Baddie](https://open.spotify.com/album/2OVwwQqHXqbqzNvHPoSJHC) | 2:00 | 2025-09-28 |  |
+| [Baddie Baddie](https://open.spotify.com/track/1Yu3TGKjgWsJdZ9bKsTiO2) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Baddie Baddie](https://open.spotify.com/album/2OVwwQqHXqbqzNvHPoSJHC) | 2:00 | 2025-09-28 | 2025-10-26 |
+| [Baddie Baddie](https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Baddie Baddie](https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr) | 2:00 | 2025-10-26 |  |
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-06-24 |  |
 | [BB Belt](https://open.spotify.com/track/3oLlS8NTMdePBohjgPZKk1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 1:56 | 2024-07-27 |  |
 | [Be a Lady](https://open.spotify.com/track/4nQPTDWfelAXJN1VyXmksI) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Be a Lady](https://open.spotify.com/album/2O2f6deLC6CypQx1yPowXy) | 1:21 | 2023-06-07 |  |

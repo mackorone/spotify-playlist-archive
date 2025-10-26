@@ -1,12 +1,12 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 13217,
+  "num_followers": 13219,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAAI9W6hzqkD1R6PKRQchE5l",
+  "snapshot_id": "aPrBgAAAAAD/snt4/U2xaga+LkA+N/m+",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djourou",
-        "url": "https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u"
+        "name": "Tassi",
+        "url": "https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS"
       },
       "artists": [
-        {
-          "name": "Ballak\u00e9 Sissoko",
-          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
-        },
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 332361,
-      "name": "Guelen",
-      "url": "https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb"
+      "duration_ms": 283720,
+      "name": "Tassi",
+      "url": "https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96"
     },
     {
       "added_at": null,
@@ -371,18 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tassi",
-        "url": "https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS"
+        "name": "Djourou",
+        "url": "https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u"
       },
       "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 283720,
-      "name": "Tassi",
-      "url": "https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96"
+      "duration_ms": 332361,
+      "name": "Guelen",
+      "url": "https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 254880,
-      "name": "Dj\u00e9l\u00e9",
-      "url": "https://open.spotify.com/track/3kxd8G6lLHwy3gtBYGXrXi"
+      "duration_ms": 245320,
+      "name": "La diff\u00e9rence",
+      "url": "https://open.spotify.com/track/1cmteMwv4y3Gr7qerXiLuq"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 245320,
-      "name": "La diff\u00e9rence",
-      "url": "https://open.spotify.com/track/1cmteMwv4y3Gr7qerXiLuq"
+      "duration_ms": 254880,
+      "name": "Dj\u00e9l\u00e9",
+      "url": "https://open.spotify.com/track/3kxd8G6lLHwy3gtBYGXrXi"
     },
     {
       "added_at": null,

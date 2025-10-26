@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Maria Mar\u00e7al ",
-  "num_followers": 187856,
+  "num_followers": 187900,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALTqBxsxFiJTE51jo93xFl9ou/Rw",
+  "snapshot_id": "AAAAAHIXZZyCCCYjoGTp1hDxHYBtAWEE",
   "tracks": [
     {
       "added_at": "2025-10-17 03:01:36",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
-        "name": "Que Deus \u00c9 Esse (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
-      },
-      "artists": [
-        {
-          "name": "Suellen Brum",
-          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
-        }
-      ],
-      "duration_ms": 408796,
-      "name": "Que Deus \u00c9 Esse - Ao Vivo",
-      "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
-    },
-    {
-      "added_at": "2025-10-17 03:01:36",
-      "album": {
         "name": "Sou Deus",
         "url": "https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 255500,
       "name": "Sou Deus",
       "url": "https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv"
+    },
+    {
+      "added_at": "2025-10-17 03:01:36",
+      "album": {
+        "name": "Que Deus \u00c9 Esse (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
+      },
+      "artists": [
+        {
+          "name": "Suellen Brum",
+          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
+        }
+      ],
+      "duration_ms": 408796,
+      "name": "Que Deus \u00c9 Esse - Ao Vivo",
+      "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
     },
     {
       "added_at": "2025-10-17 03:01:36",
@@ -315,22 +315,18 @@
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
-        "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1XWy2QAIRv9izK4uyIpTQo"
+        "name": "N\u00e3o Desista de Orar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2AcvK4Zevw57arTwl9LqFj"
       },
       "artists": [
         {
-          "name": "L\u00e9a Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
-        },
-        {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+          "name": "Dalete Hungria",
+          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
         }
       ],
-      "duration_ms": 320986,
-      "name": "Chora Que a Vit\u00f3ria Vem (Ao Vivo)",
-      "url": "https://open.spotify.com/track/79ZzgrAa36d60dfELkxqpm"
+      "duration_ms": 485055,
+      "name": "N\u00e3o Desista de Orar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6FHm572q3dErTDEzEhixm3"
     },
     {
       "added_at": "2025-10-17 03:01:36",
@@ -359,18 +355,22 @@
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
-        "name": "N\u00e3o Desista de Orar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2AcvK4Zevw57arTwl9LqFj"
+        "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1XWy2QAIRv9izK4uyIpTQo"
       },
       "artists": [
         {
-          "name": "Dalete Hungria",
-          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        },
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
         }
       ],
-      "duration_ms": 485055,
-      "name": "N\u00e3o Desista de Orar - Ao Vivo",
-      "url": "https://open.spotify.com/track/6FHm572q3dErTDEzEhixm3"
+      "duration_ms": 320986,
+      "name": "Chora Que a Vit\u00f3ria Vem (Ao Vivo)",
+      "url": "https://open.spotify.com/track/79ZzgrAa36d60dfELkxqpm"
     },
     {
       "added_at": "2025-10-17 03:01:36",
@@ -415,22 +415,22 @@
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
-        "name": "Tua Gra\u00e7a Me Basta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/61uch0I53YX2d3eifc15D7"
+        "name": "Sorrir de Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qyXyrFRqldlBhK7XZVrIN"
       },
       "artists": [
         {
-          "name": "Esther Fiaux",
-          "url": "https://open.spotify.com/artist/5PywE2A2fAv0seRcwWC0YY"
+          "name": "Dalete Hungria",
+          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
         },
         {
           "name": "Todah Music",
           "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 487456,
-      "name": "Tua Gra\u00e7a Me Basta - Ao Vivo",
-      "url": "https://open.spotify.com/track/4xWBgNSXmSjV9TZb9ESvAv"
+      "duration_ms": 495754,
+      "name": "Sorrir de Novo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3U3raybFpZft0rT58YSPFe"
     },
     {
       "added_at": "2025-10-17 03:01:36",
@@ -455,38 +455,42 @@
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
-        "name": "Sorrir de Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qyXyrFRqldlBhK7XZVrIN"
+        "name": "Eu Prefiro Adorar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1UF9qZN8a8U6PhAnEQPVVA"
       },
       "artists": [
         {
-          "name": "Dalete Hungria",
-          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
+          "name": "Alisson Santos",
+          "url": "https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ"
         },
         {
           "name": "Todah Music",
           "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 495754,
-      "name": "Sorrir de Novo - Ao Vivo",
-      "url": "https://open.spotify.com/track/3U3raybFpZft0rT58YSPFe"
+      "duration_ms": 860996,
+      "name": "Eu Prefiro Adorar - Ao Vivo",
+      "url": "https://open.spotify.com/track/40t4AJChxxRTHMSoNIE8yY"
     },
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
-        "name": "Esp\u00edrito Santo",
-        "url": "https://open.spotify.com/album/3ez7jPJBZfCvhUY1ULAnmB"
+        "name": "Tua Gra\u00e7a Me Basta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/61uch0I53YX2d3eifc15D7"
       },
       "artists": [
         {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+          "name": "Esther Fiaux",
+          "url": "https://open.spotify.com/artist/5PywE2A2fAv0seRcwWC0YY"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 287769,
-      "name": "Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/35aohQYftq3TH3ogAZu8hw"
+      "duration_ms": 487456,
+      "name": "Tua Gra\u00e7a Me Basta - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xWBgNSXmSjV9TZb9ESvAv"
     },
     {
       "added_at": "2025-10-17 03:01:36",
@@ -511,22 +515,18 @@
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
-        "name": "Eu Prefiro Adorar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1UF9qZN8a8U6PhAnEQPVVA"
+        "name": "Esp\u00edrito Santo",
+        "url": "https://open.spotify.com/album/3ez7jPJBZfCvhUY1ULAnmB"
       },
       "artists": [
         {
-          "name": "Alisson Santos",
-          "url": "https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
         }
       ],
-      "duration_ms": 860996,
-      "name": "Eu Prefiro Adorar - Ao Vivo",
-      "url": "https://open.spotify.com/track/40t4AJChxxRTHMSoNIE8yY"
+      "duration_ms": 287769,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/35aohQYftq3TH3ogAZu8hw"
     },
     {
       "added_at": "2025-10-17 03:01:36",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
+        "name": "Deus Realiza Sonhos",
+        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 345416,
+      "name": "Deus Realiza Sonhos",
+      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
+    },
+    {
+      "added_at": "2025-10-17 03:01:36",
+      "album": {
         "name": "Hebreus 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2iaC0zdDp1yuYAPUBWBjtv"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 625714,
       "name": "Hebreus 1 - Ao Vivo",
       "url": "https://open.spotify.com/track/7DQOqbaquRT0VZmkfgo54z"
-    },
-    {
-      "added_at": "2025-10-17 03:01:36",
-      "album": {
-        "name": "Deus Realiza Sonhos",
-        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 345416,
-      "name": "Deus Realiza Sonhos",
-      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
     },
     {
       "added_at": "2025-10-17 03:01:36",
@@ -659,6 +659,26 @@
       "duration_ms": 235973,
       "name": "H\u00e1 um Deus no C\u00e9u (Ao Vivo)",
       "url": "https://open.spotify.com/track/2nHSRcZHW6L75pAWfPNOHn"
+    },
+    {
+      "added_at": "2025-10-17 03:01:36",
+      "album": {
+        "name": "Se N\u00e3o Fosse a Tua M\u00e3o",
+        "url": "https://open.spotify.com/album/0X2slSWIAND0JqfogDzzSw"
+      },
+      "artists": [
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 310102,
+      "name": "Se N\u00e3o Fosse a Tua M\u00e3o",
+      "url": "https://open.spotify.com/track/6363WKxH1xivXxRrTn9rZZ"
     },
     {
       "added_at": "2025-10-17 03:01:36",
@@ -703,26 +723,6 @@
       "duration_ms": 343799,
       "name": "Eu N\u00e3o Era Nada",
       "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
-    },
-    {
-      "added_at": "2025-10-17 03:01:36",
-      "album": {
-        "name": "Se N\u00e3o Fosse a Tua M\u00e3o",
-        "url": "https://open.spotify.com/album/0X2slSWIAND0JqfogDzzSw"
-      },
-      "artists": [
-        {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 310102,
-      "name": "Se N\u00e3o Fosse a Tua M\u00e3o",
-      "url": "https://open.spotify.com/track/6363WKxH1xivXxRrTn9rZZ"
     },
     {
       "added_at": "2025-10-17 03:01:36",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
+        "name": "Pra Gl\u00f3ria do Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Souza",
+          "url": "https://open.spotify.com/artist/4VhsHNsfm5uVl9gAOgdmtq"
+        }
+      ],
+      "duration_ms": 461540,
+      "name": "Pra Gl\u00f3ria do Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr"
+    },
+    {
+      "added_at": "2025-10-17 03:01:36",
+      "album": {
         "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1PNy00WY2GINNmKOrMBQEw"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 303778,
       "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
       "url": "https://open.spotify.com/track/2dU1myKI3jBTUL7qihW36S"
-    },
-    {
-      "added_at": "2025-10-17 03:01:36",
-      "album": {
-        "name": "Pra Gl\u00f3ria do Senhor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Souza",
-          "url": "https://open.spotify.com/artist/4VhsHNsfm5uVl9gAOgdmtq"
-        }
-      ],
-      "duration_ms": 461540,
-      "name": "Pra Gl\u00f3ria do Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr"
     },
     {
       "added_at": "2025-10-17 03:01:36",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,424 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,431 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Se Dice De Mi](https://open.spotify.com/track/7rb5qQHrnnwUwS4udW6J8H) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP), [Francisco Canaro Y Su Orquesta Tipica](https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 3:28 |
-| 2 | [Como Dos Extraños](https://open.spotify.com/track/6u14b3JnkqTc1W3hTLNtJ9) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Vuelve el Tango](https://open.spotify.com/album/6Ew5SpAE83uV8grDDawz5m) | 2:48 |
+| 2 | [Poema](https://open.spotify.com/track/1idKcTuIojEwcXXn0DyfTu) | [Romántica Milonguera](https://open.spotify.com/artist/2yN99QuwGDm319KHi1aSeY) | [Romántica Milonguera](https://open.spotify.com/album/4W4hc8GZG12mLZY9s93fvf) | 3:17 |
 | 3 | [La noche ha caído](https://open.spotify.com/track/6pDFqwzICSf2mUxhgPFNNa) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La noche ha caído](https://open.spotify.com/album/0miT8Ozcj2HXC5QSTDuoVP) | 4:10 |
-| 4 | [Poema](https://open.spotify.com/track/1idKcTuIojEwcXXn0DyfTu) | [Romántica Milonguera](https://open.spotify.com/artist/2yN99QuwGDm319KHi1aSeY) | [Romántica Milonguera](https://open.spotify.com/album/4W4hc8GZG12mLZY9s93fvf) | 3:17 |
+| 4 | [Como Dos Extraños](https://open.spotify.com/track/6u14b3JnkqTc1W3hTLNtJ9) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Vuelve el Tango](https://open.spotify.com/album/6Ew5SpAE83uV8grDDawz5m) | 2:48 |
 | 5 | [Vida Mia](https://open.spotify.com/track/1P77zNEkaHp4h3onP8eeMY) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Vida Mía](https://open.spotify.com/album/6Zt7hlarp5sKgg01d3taj8) | 3:58 |
 | 6 | [El Choclo](https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 3:03 |
 | 7 | [Desde el alma](https://open.spotify.com/track/2qy2u4LhIS8OSnnmJdvo1n) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f) | [Nelly Omar \- Desde el alma](https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx) | 2:36 |

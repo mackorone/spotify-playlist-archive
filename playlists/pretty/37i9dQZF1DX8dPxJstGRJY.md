@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,157 likes - 78 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,345 likes - 78 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 15 | [Canto della Buranella \(Vocal Version\)](https://open.spotify.com/track/7xGFyslQDDZwsufD1nVexL) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m) | [Canto della Buranella \(Vocal Version\)](https://open.spotify.com/album/32Lz5SNy7910aPJgHlPYIz) | 1:13 |
 | 16 | [Across the Stars](https://open.spotify.com/track/0hFAV2aMp79a8ew4O5sv2X) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [André Rieu](https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC), [Johann Strauss Orchestra](https://open.spotify.com/artist/51HxUAjeZIOv4aniusaDkT), [Michel Tirabosco](https://open.spotify.com/artist/3krpKIjqQEDwS3HhirVijg) | [The Sound of Heaven](https://open.spotify.com/album/5al1TnP3jdoRnRHmQ1BU16) | 5:07 |
 | 17 | [Amazing Grace \(feat\. Pretty Yende\) \- Live at the Valley of the Temples](https://open.spotify.com/track/3wwrixlWMswqhRKrkDDHcL) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t), [Pretty Yende](https://open.spotify.com/artist/2s7dm9RxxQaLtAXbWjQeco) | [Ad Astra \(International Edition\)](https://open.spotify.com/album/3IrKmuGH6mXhceZSiPabMW) | 4:03 |
-| 18 | [Writing's On The Wall \(from "Spectre"\)](https://open.spotify.com/track/3LP5CtYASoBvrr697nINRt) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [James Napier](https://open.spotify.com/artist/4doY6QwZQRv7cVKQshmFsM), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Writing's On The Wall \(from "Spectre"\)](https://open.spotify.com/album/0C8D8jXhUgK827Bl3GG32m) | 4:31 |
+| 18 | [Writing's On The Wall \(from "Spectre"\)](https://open.spotify.com/track/3LP5CtYASoBvrr697nINRt) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Writing's On The Wall \(from "Spectre"\)](https://open.spotify.com/album/0C8D8jXhUgK827Bl3GG32m) | 4:31 |
 | 19 | [Runaway \- Orchestral](https://open.spotify.com/track/1RFSBDlPnpnzOHQnjm8178) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Runaway \(Orchestral\)](https://open.spotify.com/album/5q1rY3Fzu9uTHUYEnRQmiJ) | 4:08 |
 | 20 | [Je Vis Pour Elle \(feat\. Kendji Girac\)](https://open.spotify.com/track/5PTRbObGxCYNkmzKcwY4RF) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Je Vis Pour Elle \(feat\. Kendji Girac\)](https://open.spotify.com/album/0D2Hgi2CrM24wn1pdBN1sp) | 4:25 |
 | 21 | [There Was a Ship](https://open.spotify.com/track/3I49sHrhNcMHwp1H5mSxnA) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Cecily Eno](https://open.spotify.com/artist/1L3WQsdf4LVCNxBQG2wRez) | [There Was a Ship](https://open.spotify.com/album/06qspLXYpttKK7UuNsvicf) | 2:45 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 77 | [Beau Soir \- Voice](https://open.spotify.com/track/0gikrP8DY96Q6Xo08bIYWL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Claus Ogerman](https://open.spotify.com/artist/3lZyF2ZG6fZLQvxgJU0y5r) | [Classical Barbra \(Re\-Mastered\)](https://open.spotify.com/album/2oO80GRPrKiWzAiOoXg3xp) | 2:41 |
 | 78 | [These Are Special Times](https://open.spotify.com/track/7nmumY8ELmqBhXPCF9IBBc) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Jonathan Antoine](https://open.spotify.com/artist/2oYXPOHsXljvSD7jDatP22), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [These Are The Special Times \(Momenti Splendidi\)](https://open.spotify.com/album/2PG4FagRQNckeShV5upT71) | 4:08 |
 
-Snapshot ID: `AAAAAJWllBUkIghXY0uyqWrNd9ztH/qe`
+Snapshot ID: `AAAAAMyQTK0qtTwTgqU3rNIiEpLFU3K2`

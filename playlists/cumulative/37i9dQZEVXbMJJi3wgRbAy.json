@@ -7281,6 +7281,24 @@
     },
     {
       "album": {
+        "name": "El Vidente",
+        "url": "https://open.spotify.com/album/5WeszEAdjOFsFvhWDmwkk5"
+      },
+      "artists": [
+        {
+          "name": "La Dosis",
+          "url": "https://open.spotify.com/artist/4sXSRSA4DORtoEz8WDqkWa"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201125,
+      "name": "El Vidente",
+      "url": "https://open.spotify.com/track/1eRFpPh5Q4LZM3wcgmCYuZ"
+    },
+    {
+      "album": {
         "name": "El \u00daltimo Beso",
         "url": "https://open.spotify.com/album/1humxYpKb5wRgIUqVdJmKg"
       },
@@ -7682,7 +7700,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 148574,
       "name": "En Mis Sue\u00f1os Est\u00e1s",
       "url": "https://open.spotify.com/track/6MKewq4KCkbj2TP8gm9voX"
@@ -13017,6 +13035,28 @@
     },
     {
       "album": {
+        "name": "SATIROLOG\u00cdA (DELUXE EDITION)",
+        "url": "https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168209,
+      "name": "Me Mareo",
+      "url": "https://open.spotify.com/track/6jBoUckd6VEImt6pg8RpDr"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -15594,7 +15634,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"

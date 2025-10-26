@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Lvnkxh0aFuxI0k9WltnoL">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-108 songs - 7 hr 41 min
+109 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Sujeito Que Trabalha \(Pura Vida Brasil Riddim\)](https://open.spotify.com/track/1FS9JNe0pH3QafcNrO3y8o) | [Freedom Sounds](https://open.spotify.com/artist/7ev1JqsE5mapWZWDxm0RrH), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Sujeito Que Trabalha \(Pura Vida Brasil Riddim\)](https://open.spotify.com/album/1IqGS4y9XfWMgtNrbpYZT9) | 3:02 | 2025-03-07 |  |
 | [Sujeito Que Trabalha \- Ao Vivo](https://open.spotify.com/track/223LpIUBk8JbVU4gyal37f) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Blessed Sessions \(Ao Vivo\)](https://open.spotify.com/album/3SZpPJ4BclnxE9xsquF8O5) | 3:12 | 2022-06-04 | 2025-03-08 |
 | [Tempos de Escola \(feat\. Ponto De Equilíbrio\)](https://open.spotify.com/track/1XrYudR4oBTKGj4pqtb2lZ) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Dimme Roots](https://open.spotify.com/artist/4TNnhByA0EyFuJojfULhkz), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Tempos de Escola \(feat\. Ponto De Equilíbrio\)](https://open.spotify.com/album/5I9kknvTmA4mxOlA4hTtxJ) | 5:27 | 2022-06-17 |  |
-| [Um Novo Amanhecer \- Ao Vivo](https://open.spotify.com/track/0yMFy59oKCccLsr3WvwsYZ) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [15 Anos \- Ao Vivo na Vila Madalena](https://open.spotify.com/album/7xE7jx2uzO77Ml4f7Ml3Kf) | 4:53 | 2023-12-19 |  |
+| [Um Novo Amanhecer \- Ao Vivo](https://open.spotify.com/track/3Qcx7JRtyDZ2hge0umwVSi) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Acústico Planta e Raiz 2022, Pt\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3Ns6vSE7vj67FMozZM5nNN) | 3:33 | 2025-10-25 |  |
+| [Um Novo Amanhecer \- Ao Vivo](https://open.spotify.com/track/0yMFy59oKCccLsr3WvwsYZ) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [15 Anos \- Ao Vivo na Vila Madalena](https://open.spotify.com/album/7xE7jx2uzO77Ml4f7Ml3Kf) | 4:53 | 2023-12-19 | 2025-10-26 |
 | [Um Novo Amanhecer \- Ao Vivo](https://open.spotify.com/track/0quexAwNw8E8AUjJAGdLlf) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Planta e Raiz no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/1WWkbeVJxqyVgfRemIBZjY) | 3:58 | 2022-06-04 | 2023-12-20 |
 | [Vai Chover](https://open.spotify.com/track/0XWsGPnhSZGsswjDQm0xGF) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Vai Chover](https://open.spotify.com/album/6X7ndG3Epf83yKn3mUXNXM) | 4:30 | 2024-06-28 |  |
 | [Vai Chover \(feat\. Hélio Bentes\)](https://open.spotify.com/track/0O9Wam7EZ2REfiZyZ5oL8K) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Vai Chover \(feat\. Hélio Bentes\)](https://open.spotify.com/album/0ZZgbUKueaqhby8yWBWw9A) | 4:30 | 2022-06-04 | 2024-06-29 |

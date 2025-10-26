@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 337574,
+  "num_followers": 337609,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Communion (Deluxe)",
+        "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 192560,
       "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
       "url": "https://open.spotify.com/track/285HeuLxsngjFn4GGegGNm"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Communion (Deluxe)",
-        "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
-      },
-      "artists": [
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "King",
-      "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Tuesday (feat. Danelle Sandoval)",
-        "url": "https://open.spotify.com/album/6TvNvQ8DNIFyOMMksmKVDB"
-      },
-      "artists": [
-        {
-          "name": "Burak Yeter",
-          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
-        },
-        {
-          "name": "Danelle Sandoval",
-          "url": "https://open.spotify.com/artist/7Dz9goFmVZZqvJxZoKg7pF"
-        }
-      ],
-      "duration_ms": 241874,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/7EVk9tRb6beJLTHrg6AkY9"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Breaking Me",
         "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Tuesday (feat. Danelle Sandoval)",
+        "url": "https://open.spotify.com/album/6TvNvQ8DNIFyOMMksmKVDB"
+      },
+      "artists": [
+        {
+          "name": "Burak Yeter",
+          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
+        },
+        {
+          "name": "Danelle Sandoval",
+          "url": "https://open.spotify.com/artist/7Dz9goFmVZZqvJxZoKg7pF"
+        }
+      ],
+      "duration_ms": 241874,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/7EVk9tRb6beJLTHrg6AkY9"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 179960,
-      "name": "Sun Goes Down (feat. Jasmine Thompson) - Radio Mix",
-      "url": "https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Turn Down for What",
         "url": "https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 213733,
       "name": "Turn Down for What",
       "url": "https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 179960,
+      "name": "Sun Goes Down (feat. Jasmine Thompson) - Radio Mix",
+      "url": "https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Desire (Gryffin Remix)",
+        "url": "https://open.spotify.com/album/2EaUj2cxVeL2DhATcN9xcL"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Desire - Gryffin Remix",
+      "url": "https://open.spotify.com/track/6ctWstoouxCcvuTsd4cHNS"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -1279,22 +1299,18 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Desire (Gryffin Remix)",
-        "url": "https://open.spotify.com/album/2EaUj2cxVeL2DhATcN9xcL"
+        "name": "Ocean Drive",
+        "url": "https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv"
       },
       "artists": [
         {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
         }
       ],
-      "duration_ms": 268840,
-      "name": "Desire - Gryffin Remix",
-      "url": "https://open.spotify.com/track/6ctWstoouxCcvuTsd4cHNS"
+      "duration_ms": 206320,
+      "name": "Ocean Drive",
+      "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Ocean Drive",
-        "url": "https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 206320,
-      "name": "Ocean Drive",
-      "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Born To Be Yours",
         "url": "https://open.spotify.com/album/31J0UqxAkl9utyC0L59Mae"
       },
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "One (Your Name)",
-        "url": "https://open.spotify.com/album/1yKTmOivL7YInhF7fnxF0C"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 163246,
-      "name": "One (Your Name) - Radio Edit",
-      "url": "https://open.spotify.com/track/1qZMPmpD1jDcOA7gZ6TCde"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Fast Car",
         "url": "https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 212424,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "One (Your Name)",
+        "url": "https://open.spotify.com/album/1yKTmOivL7YInhF7fnxF0C"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 163246,
+      "name": "One (Your Name) - Radio Edit",
+      "url": "https://open.spotify.com/track/1qZMPmpD1jDcOA7gZ6TCde"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Fortune (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4AGQTp6rk7v8fPbFu739l7"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 222306,
-      "name": "Don't Wake Me Up",
-      "url": "https://open.spotify.com/track/18VfHIPaCo0s6FTi1Fnp6T"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "REMEDY",
         "url": "https://open.spotify.com/album/0LOJHhz9ybWLVMLucHYtCe"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 190295,
       "name": "REMEDY",
       "url": "https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Fortune (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4AGQTp6rk7v8fPbFu739l7"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 222306,
+      "name": "Don't Wake Me Up",
+      "url": "https://open.spotify.com/track/18VfHIPaCo0s6FTi1Fnp6T"
     },
     {
       "added_at": "2023-08-25 09:30:35",

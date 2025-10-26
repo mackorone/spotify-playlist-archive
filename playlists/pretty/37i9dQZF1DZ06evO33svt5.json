@@ -1,12 +1,12 @@
 {
   "description": "This is Doja Cat. The essential tracks, all in one playlist.",
-  "num_followers": 1084366,
+  "num_followers": 1084387,
   "original_name": "This Is Doja Cat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAADqpux+kkvEn1X/NpbN2RI1",
+  "snapshot_id": "aPrBgAAAAABP7NqmDWpPJW4NI/yB0UoB",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
       "duration_ms": 143718,
       "name": "n.h.i.e.",
       "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vie",
-        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 266021,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
     },
     {
       "added_at": null,
@@ -220,9 +204,9 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 201173,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/6IBTI6u7tVNtWojUHnO4Ap"
+      "duration_ms": 266021,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
     },
     {
       "added_at": null,
@@ -286,15 +270,11 @@
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 224468,
-      "name": "Take Me Dancing (feat. SZA)",
-      "url": "https://open.spotify.com/track/3jYMt6j13zQGXfFLaO3BKv"
+      "duration_ms": 201173,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/6IBTI6u7tVNtWojUHnO4Ap"
     },
     {
       "added_at": null,
@@ -362,11 +342,15 @@
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 223227,
-      "name": "Cards",
-      "url": "https://open.spotify.com/track/3C5yxZTCcDOi4pnFEnKJdC"
+      "duration_ms": 224468,
+      "name": "Take Me Dancing (feat. SZA)",
+      "url": "https://open.spotify.com/track/3jYMt6j13zQGXfFLaO3BKv"
     },
     {
       "added_at": null,
@@ -428,9 +412,9 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 152943,
-      "name": "Silly! Fun!",
-      "url": "https://open.spotify.com/track/6bmg5bRyVsYEDwpvrdAk3A"
+      "duration_ms": 223227,
+      "name": "Cards",
+      "url": "https://open.spotify.com/track/3C5yxZTCcDOi4pnFEnKJdC"
     },
     {
       "added_at": null,

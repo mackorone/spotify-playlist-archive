@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Punchline, storytelling, rap italiano\. Cover: Ele A
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,985 likes - 92 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,986 likes - 92 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

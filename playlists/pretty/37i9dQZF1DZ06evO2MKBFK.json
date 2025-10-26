@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 637511,
+  "num_followers": 637478,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAD1WN9yeiQ6kJSRQoDDkT0r",
+  "snapshot_id": "aPrBgAAAAABLEn6vH1ThLUoiOW79G7dr",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Radar de \u00c9xitos: K-Pop",
+        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Beautiful Hangover",
+      "url": "https://open.spotify.com/track/0NRpO3bfCBOPYd04i5CnRs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Special Edition 'Still Alive'",
         "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
       },
@@ -627,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radar de \u00c9xitos: K-Pop",
-        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
       },
       "artists": [
         {
@@ -636,9 +652,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 223746,
-      "name": "Beautiful Hangover",
-      "url": "https://open.spotify.com/track/0NRpO3bfCBOPYd04i5CnRs"
+      "duration_ms": 233320,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
     },
     {
       "added_at": null,
@@ -659,22 +675,6 @@
       "duration_ms": 244040,
       "name": "SUPER STAR - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
       "url": "https://open.spotify.com/track/2GrmNtTCulwxR9lk8NQBAD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
     },
     {
       "added_at": null,

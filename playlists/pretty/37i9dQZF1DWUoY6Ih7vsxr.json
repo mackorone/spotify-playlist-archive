@@ -1,6 +1,6 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 328339,
+  "num_followers": 328487,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAACgD0+4c0qMj271nys6wTdBAgsCo",
   "tracks": [
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
-        "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
-        "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
-      "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
-    },
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 179808,
       "name": "Miniskirt",
       "url": "https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+        "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+      "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Ma Boy",
-        "url": "https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7"
-      },
-      "artists": [
-        {
-          "name": "SISTAR19",
-          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
-        }
-      ],
-      "duration_ms": 196702,
-      "name": "Ma Boy",
-      "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "4 Walls - The 4th Album",
         "url": "https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 207477,
       "name": "4 Walls",
       "url": "https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Ma Boy",
+        "url": "https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7"
+      },
+      "artists": [
+        {
+          "name": "SISTAR19",
+          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
+        }
+      ],
+      "duration_ms": 196702,
+      "name": "Ma Boy",
+      "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -479,8 +479,8 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "\ub108\ub77c\uace0 It's You",
-        "url": "https://open.spotify.com/album/3TC76yhvBNYaVvnzmyZN4J"
+        "name": "\ubbf8\uc778\uc544 (Bonamana) - The 4th Album",
+        "url": "https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
         }
       ],
-      "duration_ms": 231493,
-      "name": "\ub108\ub77c\uace0 It's You",
-      "url": "https://open.spotify.com/track/2TG8kKgwsyyZU8lZIH6SZ1"
+      "duration_ms": 239186,
+      "name": "\ubbf8\uc778\uc544 Bonamana",
+      "url": "https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -559,8 +559,8 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "\ubbf8\uc778\uc544 (Bonamana) - The 4th Album",
-        "url": "https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp"
+        "name": "\ub108\ub77c\uace0 It's You",
+        "url": "https://open.spotify.com/album/3TC76yhvBNYaVvnzmyZN4J"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
         }
       ],
-      "duration_ms": 239186,
-      "name": "\ubbf8\uc778\uc544 Bonamana",
-      "url": "https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63"
+      "duration_ms": 231493,
+      "name": "\ub108\ub77c\uace0 It's You",
+      "url": "https://open.spotify.com/track/2TG8kKgwsyyZU8lZIH6SZ1"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -587,22 +587,6 @@
       "duration_ms": 206266,
       "name": "Alone",
       "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
-        "name": "Rising Sun - 2nd Album",
-        "url": "https://open.spotify.com/album/5AH1QpZf94kaiWuLXbmTIR"
-      },
-      "artists": [
-        {
-          "name": "TVXQ!",
-          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "Rising Sun",
-      "url": "https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -635,6 +619,22 @@
       "duration_ms": 235624,
       "name": "Miss Korea",
       "url": "https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Rising Sun - 2nd Album",
+        "url": "https://open.spotify.com/album/5AH1QpZf94kaiWuLXbmTIR"
+      },
+      "artists": [
+        {
+          "name": "TVXQ!",
+          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
+        }
+      ],
+      "duration_ms": 282066,
+      "name": "Rising Sun",
+      "url": "https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "The 3rd Album Part.1",
-        "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 212976,
-      "name": "Please don\u2019t\u2026",
-      "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Short Hair",
         "url": "https://open.spotify.com/album/5JF8b6GKxOIve0KBuT7pzS"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 214588,
       "name": "Short Hair",
       "url": "https://open.spotify.com/track/05G51ez5Z73NRE0l2QtZfH"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "The 3rd Album Part.1",
+        "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 212976,
+      "name": "Please don\u2019t\u2026",
+      "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Mama - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
-      },
-      "artists": [
-        {
-          "name": "EXO-K",
-          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
-        }
-      ],
-      "duration_ms": 209801,
-      "name": "History",
-      "url": "https://open.spotify.com/track/3AmxvnqctdvnJnyNPaHTbv"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Hoot - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/2qEugS42uGnquWJnufwjyg"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 199626,
       "name": "Hoot",
       "url": "https://open.spotify.com/track/1uLBl4JvBl7bwSRkxmggkS"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Mama - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
+      },
+      "artists": [
+        {
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
+        }
+      ],
+      "duration_ms": 209801,
+      "name": "History",
+      "url": "https://open.spotify.com/track/3AmxvnqctdvnJnyNPaHTbv"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "INFINITIZE",
-        "url": "https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D"
-      },
-      "artists": [
-        {
-          "name": "INFINITE",
-          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
-        }
-      ],
-      "duration_ms": 202520,
-      "name": "The Chaser",
-      "url": "https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Can't Stop",
         "url": "https://open.spotify.com/album/1FezVdVT78L4wviMeDX7tn"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 237864,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/2sdf2x4YLaHb1k9HtE9cBs"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "INFINITIZE",
+        "url": "https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D"
+      },
+      "artists": [
+        {
+          "name": "INFINITE",
+          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
+        }
+      ],
+      "duration_ms": 202520,
+      "name": "The Chaser",
+      "url": "https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Gone not around any longer",
-        "url": "https://open.spotify.com/album/7Jxv3EPhYBh6zevT4eUZQo"
-      },
-      "artists": [
-        {
-          "name": "SISTAR19",
-          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
-        }
-      ],
-      "duration_ms": 211069,
-      "name": "Gone not around any longer",
-      "url": "https://open.spotify.com/track/4TAENzBN2lYuXBF9ZNauwJ"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Bluelove",
         "url": "https://open.spotify.com/album/5Twdu84BLRMUNsaBG9lXLU"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 227996,
       "name": "Love",
       "url": "https://open.spotify.com/track/2s92cRmjW0GoGjjpExkAUQ"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Gone not around any longer",
+        "url": "https://open.spotify.com/album/7Jxv3EPhYBh6zevT4eUZQo"
+      },
+      "artists": [
+        {
+          "name": "SISTAR19",
+          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
+        }
+      ],
+      "duration_ms": 211069,
+      "name": "Gone not around any longer",
+      "url": "https://open.spotify.com/track/4TAENzBN2lYuXBF9ZNauwJ"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Afterschool 3rd Single BANG",
-        "url": "https://open.spotify.com/album/2Gwu5SCjiLprQy9GTaAQ5h"
-      },
-      "artists": [
-        {
-          "name": "After School",
-          "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "bang",
-      "url": "https://open.spotify.com/track/4eIyItvPfLiRpBsvk81voz"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "NU ABO",
         "url": "https://open.spotify.com/album/2jwIyBUS9C4yGgr1Guq8YO"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 224333,
       "name": "NU ABO",
       "url": "https://open.spotify.com/track/1NcsCToPRUh9AI6ua83jAm"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Afterschool 3rd Single BANG",
+        "url": "https://open.spotify.com/album/2Gwu5SCjiLprQy9GTaAQ5h"
+      },
+      "artists": [
+        {
+          "name": "After School",
+          "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "bang",
+      "url": "https://open.spotify.com/track/4eIyItvPfLiRpBsvk81voz"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "LIPSTICK",
-        "url": "https://open.spotify.com/album/1r2yoS5HLPjmz5j1ii5a3r"
+        "name": "Every night",
+        "url": "https://open.spotify.com/album/0opK7fhDf6UWIVb4AKEeRo"
       },
       "artists": [
         {
-          "name": "Orange Caramel",
-          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
+          "name": "EXID",
+          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
         }
       ],
-      "duration_ms": 201221,
-      "name": "LIPSTICK",
-      "url": "https://open.spotify.com/track/1fSQVc8qsBj6mYTkEdfK8s"
+      "duration_ms": 231105,
+      "name": "Every night",
+      "url": "https://open.spotify.com/track/4Ux83SOG5vqnbohuijD2Zv"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Every night",
-        "url": "https://open.spotify.com/album/0opK7fhDf6UWIVb4AKEeRo"
+        "name": "LIPSTICK",
+        "url": "https://open.spotify.com/album/1r2yoS5HLPjmz5j1ii5a3r"
       },
       "artists": [
         {
-          "name": "EXID",
-          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
+          "name": "Orange Caramel",
+          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
         }
       ],
-      "duration_ms": 231105,
-      "name": "Every night",
-      "url": "https://open.spotify.com/track/4Ux83SOG5vqnbohuijD2Zv"
+      "duration_ms": 201221,
+      "name": "LIPSTICK",
+      "url": "https://open.spotify.com/track/1fSQVc8qsBj6mYTkEdfK8s"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Jump Up",
-        "url": "https://open.spotify.com/album/1VUYlrA1ZIGsmIGPsiwK2C"
-      },
-      "artists": [
-        {
-          "name": "FTISLAND",
-          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Bad Woman",
-      "url": "https://open.spotify.com/track/2DGKTUZ3ywykT9hcqiYgR6"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "A's Doll House",
         "url": "https://open.spotify.com/album/7LAxFe8bbiNDWWDtMTL0hC"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 194712,
       "name": "U & I",
       "url": "https://open.spotify.com/track/1wKOJ2fTflDiABy1EbFflM"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Jump Up",
+        "url": "https://open.spotify.com/album/1VUYlrA1ZIGsmIGPsiwK2C"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "Bad Woman",
+      "url": "https://open.spotify.com/track/2DGKTUZ3ywykT9hcqiYgR6"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1575,8 +1575,8 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/0ODnOMPVDNZki1DMnh6hwh"
+        "name": "VIRGIN",
+        "url": "https://open.spotify.com/album/1fgyOFuEGFnWRTT1SwWH0V"
       },
       "artists": [
         {
@@ -1584,9 +1584,9 @@
           "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
         }
       ],
-      "duration_ms": 198243,
-      "name": "DIVA",
-      "url": "https://open.spotify.com/track/7AAyzxwoFaL55IJMJVn2Oh"
+      "duration_ms": 274755,
+      "name": "Shampoo",
+      "url": "https://open.spotify.com/track/50JMmvCIMZCniuFeCOsRc4"
     },
     {
       "added_at": "2024-03-27 14:24:46",

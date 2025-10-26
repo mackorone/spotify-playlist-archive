@@ -4,7 +4,7 @@
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-113 songs - 7 hr 7 min
+114 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Eu To Mudada](https://open.spotify.com/track/0h69bhGYL2mgspLIVfaNSD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Ciclo Vicioso \(Deluxe\)](https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a) | 2:55 | 2024-11-03 | 2025-08-25 |
 | [Feeling](https://open.spotify.com/track/6cz9TcEstLOxC3y4ZZD5Tz) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Menestrel](https://open.spotify.com/artist/3P3lkDIOlpOLZAk3dcjf2i), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Marechal](https://open.spotify.com/artist/2CUoA5eNl575NSKMDwy9Ej), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [300](https://open.spotify.com/album/49aodr19IxR7j392H2CIJm) | 7:00 | 2024-05-05 | 2024-08-07 |
 | [Freedom](https://open.spotify.com/track/3Wb5YWd4OQDGzPejuCMDpX) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Saffi](https://open.spotify.com/artist/7B2LE0Bhy4FxYlJnOuVO1k), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp) | [Ciclo Vicioso \(Deluxe\)](https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a) | 2:53 | 2024-11-01 | 2024-12-28 |
-| [Fé](https://open.spotify.com/track/2cAsgavVid3IoFYfiUgHzi) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Do Caos ao Nirvana](https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43) | 3:45 | 2023-12-30 |  |
+| [Fé](https://open.spotify.com/track/2rYPM9q1sga8LiQyNQRsWj) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Duo](https://open.spotify.com/album/2HP5e9qI6Iw6anUJujeD3t) | 3:40 | 2025-10-26 |  |
+| [Fé](https://open.spotify.com/track/2cAsgavVid3IoFYfiUgHzi) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Do Caos ao Nirvana](https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43) | 3:45 | 2023-12-30 | 2025-10-26 |
 | [Garota](https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Teoria do Ciclo da Água](https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5) | 4:35 | 2023-12-30 |  |
 | [Hey Boy](https://open.spotify.com/track/7opmuePHHDBml8hNvrza4R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Do Caos ao Nirvana](https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43) | 3:05 | 2023-12-30 |  |
 | [Insônia](https://open.spotify.com/track/2k6GseLRHaO4UcUBlTMORl) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 3:26 | 2024-03-09 | 2024-11-23 |

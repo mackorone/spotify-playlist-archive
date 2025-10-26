@@ -1,6 +1,6 @@
 {
   "description": "Josh Ross and Country hits that will have you singing every word.",
-  "num_followers": 452240,
+  "num_followers": 452248,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -247,8 +247,8 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Love Somebody",
-        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
+        "name": "Spin You Around (1/24)",
+        "url": "https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 204828,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
+      "duration_ms": 209427,
+      "name": "Spin You Around (1/24)",
+      "url": "https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -347,8 +347,8 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Spin You Around (1/24)",
-        "url": "https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It"
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 209427,
-      "name": "Spin You Around (1/24)",
-      "url": "https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE"
+      "duration_ms": 204828,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "I'm A Little Crazy",
-        "url": "https://open.spotify.com/album/2X9QdcBHMkoj4ekbZa3QId"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 199060,
-      "name": "I'm A Little Crazy",
-      "url": "https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "High Road",
         "url": "https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 199893,
       "name": "High Road",
       "url": "https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "I'm A Little Crazy",
+        "url": "https://open.spotify.com/album/2X9QdcBHMkoj4ekbZa3QId"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 199060,
+      "name": "I'm A Little Crazy",
+      "url": "https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "4\u00d74\u00d7U",
-        "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 239453,
-      "name": "4\u00d74\u00d7U",
-      "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 166676,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "4\u00d74\u00d7U",
+        "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "4\u00d74\u00d7U",
+      "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1287,6 +1287,30 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
+        "name": "Happy Ever After You",
+        "url": "https://open.spotify.com/album/0CVVcusljbMQIa71biQm4v"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        },
+        {
+          "name": "Jake Etheridge",
+          "url": "https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f"
+        },
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 197071,
+      "name": "Happy Ever After You",
+      "url": "https://open.spotify.com/track/4TW2iaLFzZrLMST78bvv4i"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
         "name": "Leave Me Too",
         "url": "https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD"
       },
@@ -1315,30 +1339,6 @@
       "duration_ms": 160053,
       "name": "Too Good to be True",
       "url": "https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
-        "name": "Happy Ever After You",
-        "url": "https://open.spotify.com/album/0CVVcusljbMQIa71biQm4v"
-      },
-      "artists": [
-        {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
-        },
-        {
-          "name": "Jake Etheridge",
-          "url": "https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f"
-        },
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 197071,
-      "name": "Happy Ever After You",
-      "url": "https://open.spotify.com/track/4TW2iaLFzZrLMST78bvv4i"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Casino",
-        "url": "https://open.spotify.com/album/5paVgclX8qQ6hIURCWCD6f"
+        "name": "Last Rodeo",
+        "url": "https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES"
       },
       "artists": [
         {
-          "name": "Tucker Wetmore",
-          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Casino",
-      "url": "https://open.spotify.com/track/5ZMthjrGsLUB0zGUVyr2dU"
+      "duration_ms": 195488,
+      "name": "Last Rodeo",
+      "url": "https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Last Rodeo",
-        "url": "https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES"
+        "name": "Casino",
+        "url": "https://open.spotify.com/album/5paVgclX8qQ6hIURCWCD6f"
       },
       "artists": [
         {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
         }
       ],
-      "duration_ms": 195488,
-      "name": "Last Rodeo",
-      "url": "https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP"
+      "duration_ms": 158400,
+      "name": "Casino",
+      "url": "https://open.spotify.com/track/5ZMthjrGsLUB0zGUVyr2dU"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "STRAIGHT LINE",
-        "url": "https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "STRAIGHT LINE",
-      "url": "https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Good News Sold",
         "url": "https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 203432,
       "name": "Good News Sold",
       "url": "https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "STRAIGHT LINE",
+        "url": "https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "STRAIGHT LINE",
+      "url": "https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj"
     }
   ],
   "unique_name": "Country Favourites",

@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 71258,
+  "num_followers": 71266,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
+        "name": "Odyssey (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
+      },
+      "artists": [
+        {
+          "name": "Odyssey",
+          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
+        }
+      ],
+      "duration_ms": 336466,
+      "name": "Native New Yorker - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
         "name": "Love Is The Message",
         "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 222346,
       "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
       "url": "https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
-        "name": "Odyssey (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
-      },
-      "artists": [
-        {
-          "name": "Odyssey",
-          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
-        }
-      ],
-      "duration_ms": 336466,
-      "name": "Native New Yorker - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -1195,34 +1195,22 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Don't You Want My Love",
-        "url": "https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h"
+        "name": "'Lectric Lady",
+        "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
       },
       "artists": [
         {
-          "name": "Debbie Jacobs",
-          "url": "https://open.spotify.com/artist/3CR8jIKs7xwpWHZ1s8CgBL"
-        }
-      ],
-      "duration_ms": 468831,
-      "name": "Don't You Want My Love - Remastered",
-      "url": "https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
-        "name": "Classic Soul",
-        "url": "https://open.spotify.com/album/0PFh0hEIlgaeLVF8qRkl0q"
-      },
-      "artists": [
+          "name": "Carol Williams",
+          "url": "https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM"
+        },
         {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+          "name": "Tom Moulton",
+          "url": "https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6"
         }
       ],
-      "duration_ms": 325173,
-      "name": "Never Knew Love Like This Before",
-      "url": "https://open.spotify.com/track/1CqBel8F2RKf3mopnPf4Yv"
+      "duration_ms": 473240,
+      "name": "Love Is You - A Tom Moulton Mix",
+      "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -1239,6 +1227,22 @@
       "duration_ms": 415466,
       "name": "I Want Your Love",
       "url": "https://open.spotify.com/track/6HZKlK1mDDBsILMoNNncxL"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Don't You Want My Love",
+        "url": "https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h"
+      },
+      "artists": [
+        {
+          "name": "Debbie Jacobs",
+          "url": "https://open.spotify.com/artist/3CR8jIKs7xwpWHZ1s8CgBL"
+        }
+      ],
+      "duration_ms": 468831,
+      "name": "Don't You Want My Love - Remastered",
+      "url": "https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U"
     }
   ],
   "unique_name": "Disco Decadence",

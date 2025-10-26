@@ -1,6 +1,6 @@
 {
   "description": "em guerra de ego sobra quem?",
-  "num_followers": 1419800,
+  "num_followers": 1419766,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-10-24 18:45:22",
       "album": {
-        "name": "MAIOR QUE O TEMPO",
-        "url": "https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "YES OR NO",
-      "url": "https://open.spotify.com/track/7BGhllQfISbfkwYSkp5nRC"
-    },
-    {
-      "added_at": "2025-10-24 18:45:22",
-      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/5SSoOUbZZlcKhYNIeaAXtN"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 191250,
       "name": "Pantera",
       "url": "https://open.spotify.com/track/6xgf2Nigvj0JuyNFFDAG7t"
+    },
+    {
+      "added_at": "2025-10-24 18:45:22",
+      "album": {
+        "name": "MAIOR QUE O TEMPO",
+        "url": "https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "YES OR NO",
+      "url": "https://open.spotify.com/track/7BGhllQfISbfkwYSkp5nRC"
     },
     {
       "added_at": "2025-10-24 18:45:22",
@@ -919,30 +919,26 @@
     {
       "added_at": "2025-10-24 18:45:22",
       "album": {
-        "name": "Serena & Venus (Lado A)",
-        "url": "https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68"
+        "name": "SALA VERMELHA #48 - Ferrugem",
+        "url": "https://open.spotify.com/album/5qABuKPdkUPLPmMYHUGCjX"
       },
       "artists": [
         {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         },
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
         },
         {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Pizzol",
-          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
+          "name": "VNnoBeat",
+          "url": "https://open.spotify.com/artist/01pBIVCXzvDHTDnERXyxUO"
         }
       ],
-      "duration_ms": 278816,
-      "name": "Simpatia",
-      "url": "https://open.spotify.com/track/3AZY6uoSvo4Z4NvGvVQLoo"
+      "duration_ms": 160941,
+      "name": "SALA VERMELHA #48 - Ferrugem",
+      "url": "https://open.spotify.com/track/0c10YM1tG1hjIuVBStdzTS"
     },
     {
       "added_at": "2025-10-24 18:45:22",
@@ -975,26 +971,30 @@
     {
       "added_at": "2025-10-24 18:45:22",
       "album": {
-        "name": "SALA VERMELHA #48 - Ferrugem",
-        "url": "https://open.spotify.com/album/5qABuKPdkUPLPmMYHUGCjX"
+        "name": "Serena & Venus (Lado A)",
+        "url": "https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68"
       },
       "artists": [
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
         },
         {
-          "name": "MOVIMENTO",
-          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         },
         {
-          "name": "VNnoBeat",
-          "url": "https://open.spotify.com/artist/01pBIVCXzvDHTDnERXyxUO"
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Pizzol",
+          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
         }
       ],
-      "duration_ms": 160941,
-      "name": "SALA VERMELHA #48 - Ferrugem",
-      "url": "https://open.spotify.com/track/0c10YM1tG1hjIuVBStdzTS"
+      "duration_ms": 278816,
+      "name": "Simpatia",
+      "url": "https://open.spotify.com/track/3AZY6uoSvo4Z4NvGvVQLoo"
     },
     {
       "added_at": "2025-10-24 18:45:22",
@@ -1043,6 +1043,54 @@
     {
       "added_at": "2025-10-24 18:45:22",
       "album": {
+        "name": "Melodia&Barulho",
+        "url": "https://open.spotify.com/album/1WWKBiKHbBKpuPjI6rvKYR"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        }
+      ],
+      "duration_ms": 180446,
+      "name": "Seu Telefone",
+      "url": "https://open.spotify.com/track/4tJRy1ODDkckEcvu5lS5tw"
+    },
+    {
+      "added_at": "2025-10-24 18:45:22",
+      "album": {
+        "name": "PEITO FALSO",
+        "url": "https://open.spotify.com/album/0Yh7SE739Q8KPCsiW9DGff"
+      },
+      "artists": [
+        {
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "OLIE",
+          "url": "https://open.spotify.com/artist/3lhjMeQAJL0YU6Hc4MGPTl"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "PEITO FALSO",
+      "url": "https://open.spotify.com/track/6NWfG69zA4RQyksIdwW7jt"
+    },
+    {
+      "added_at": "2025-10-24 18:45:22",
+      "album": {
         "name": "Serena & Venus (Lado A)",
         "url": "https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68"
       },
@@ -1067,26 +1115,6 @@
       "duration_ms": 263816,
       "name": "Cara Fechada",
       "url": "https://open.spotify.com/track/3R9pcq1bycApu5bTsLavLb"
-    },
-    {
-      "added_at": "2025-10-24 18:45:22",
-      "album": {
-        "name": "Melodia&Barulho",
-        "url": "https://open.spotify.com/album/1WWKBiKHbBKpuPjI6rvKYR"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
-        }
-      ],
-      "duration_ms": 180446,
-      "name": "Seu Telefone",
-      "url": "https://open.spotify.com/track/4tJRy1ODDkckEcvu5lS5tw"
     },
     {
       "added_at": "2025-10-24 18:45:22",
@@ -1147,70 +1175,6 @@
     {
       "added_at": "2025-10-24 18:45:22",
       "album": {
-        "name": "T\u00f4 com Saudade",
-        "url": "https://open.spotify.com/album/2wK2TXDdcKFtRQXS6ZIcAV"
-      },
-      "artists": [
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        }
-      ],
-      "duration_ms": 104539,
-      "name": "T\u00f4 com Saudade",
-      "url": "https://open.spotify.com/track/1W2nInxS8amzBPiBqrcyHT"
-    },
-    {
-      "added_at": "2025-10-24 18:45:22",
-      "album": {
-        "name": "gelo no stanley",
-        "url": "https://open.spotify.com/album/1GFDa6HJINq4vyNWfU6ws3"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "gelo no stanley",
-      "url": "https://open.spotify.com/track/6jTPmHRjqA8VrVEJAgYkfp"
-    },
-    {
-      "added_at": "2025-10-24 18:45:22",
-      "album": {
-        "name": "RISCA DA LISTA",
-        "url": "https://open.spotify.com/album/0G0s4Fqr9PUn9DkBnFkS0K"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "Kohuru",
-          "url": "https://open.spotify.com/artist/4mLeIPWofY0Osn40mAkqko"
-        }
-      ],
-      "duration_ms": 146634,
-      "name": "RISCA DA LISTA",
-      "url": "https://open.spotify.com/track/4luFUPBdjryvSTH6PPgaee"
-    },
-    {
-      "added_at": "2025-10-24 18:45:22",
-      "album": {
         "name": "EDWARD",
         "url": "https://open.spotify.com/album/7FNYEFU2ojd3GcZnzmqROh"
       },
@@ -1243,6 +1207,70 @@
       "duration_ms": 190588,
       "name": "EDWARD",
       "url": "https://open.spotify.com/track/4rR3Z2yrPPTT9JupJ25KWa"
+    },
+    {
+      "added_at": "2025-10-24 18:45:22",
+      "album": {
+        "name": "gelo no stanley",
+        "url": "https://open.spotify.com/album/1GFDa6HJINq4vyNWfU6ws3"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "gelo no stanley",
+      "url": "https://open.spotify.com/track/6jTPmHRjqA8VrVEJAgYkfp"
+    },
+    {
+      "added_at": "2025-10-24 18:45:22",
+      "album": {
+        "name": "T\u00f4 com Saudade",
+        "url": "https://open.spotify.com/album/2wK2TXDdcKFtRQXS6ZIcAV"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        }
+      ],
+      "duration_ms": 104539,
+      "name": "T\u00f4 com Saudade",
+      "url": "https://open.spotify.com/track/1W2nInxS8amzBPiBqrcyHT"
+    },
+    {
+      "added_at": "2025-10-24 18:45:22",
+      "album": {
+        "name": "RISCA DA LISTA",
+        "url": "https://open.spotify.com/album/0G0s4Fqr9PUn9DkBnFkS0K"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "Kohuru",
+          "url": "https://open.spotify.com/artist/4mLeIPWofY0Osn40mAkqko"
+        }
+      ],
+      "duration_ms": 146634,
+      "name": "RISCA DA LISTA",
+      "url": "https://open.spotify.com/track/4luFUPBdjryvSTH6PPgaee"
     },
     {
       "added_at": "2025-10-24 18:45:22",
@@ -1343,6 +1371,26 @@
     {
       "added_at": "2025-10-24 18:45:22",
       "album": {
+        "name": "Busco Romance Love Show (Deluxe)",
+        "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Trinidad Cardona",
+          "url": "https://open.spotify.com/artist/2SgLODaTxJskGWHX8TbxtQ"
+        }
+      ],
+      "duration_ms": 195952,
+      "name": "todo lugar - faixa b\u00f4nus",
+      "url": "https://open.spotify.com/track/4j9KOMG49WEL8qY9hs5jpa"
+    },
+    {
+      "added_at": "2025-10-24 18:45:22",
+      "album": {
         "name": "Lixo ao Luxo",
         "url": "https://open.spotify.com/album/4QsJJ0OhhN5xWl9O4nNkSU"
       },
@@ -1411,26 +1459,6 @@
     {
       "added_at": "2025-10-24 18:45:22",
       "album": {
-        "name": "Busco Romance Love Show (Deluxe)",
-        "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Trinidad Cardona",
-          "url": "https://open.spotify.com/artist/2SgLODaTxJskGWHX8TbxtQ"
-        }
-      ],
-      "duration_ms": 195952,
-      "name": "todo lugar - faixa b\u00f4nus",
-      "url": "https://open.spotify.com/track/4j9KOMG49WEL8qY9hs5jpa"
-    },
-    {
-      "added_at": "2025-10-24 18:45:22",
-      "album": {
         "name": "VAI AMAR OU VAI MENTIR?",
         "url": "https://open.spotify.com/album/6saNaooOROQPlQZuGdfoUp"
       },
@@ -1479,34 +1507,6 @@
       "duration_ms": 137142,
       "name": "Vem Kikando",
       "url": "https://open.spotify.com/track/6ALL8MZRuGe4lUY4lAy2RE"
-    },
-    {
-      "added_at": "2025-10-24 18:45:22",
-      "album": {
-        "name": "PEITO FALSO",
-        "url": "https://open.spotify.com/album/0Yh7SE739Q8KPCsiW9DGff"
-      },
-      "artists": [
-        {
-          "name": "Arthurzim",
-          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "OLIE",
-          "url": "https://open.spotify.com/artist/3lhjMeQAJL0YU6Hc4MGPTl"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "PEITO FALSO",
-      "url": "https://open.spotify.com/track/6NWfG69zA4RQyksIdwW7jt"
     },
     {
       "added_at": "2025-10-24 18:45:22",

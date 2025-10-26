@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 25 Oct 03:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 25 Oct 18:05 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -5072,6 +5072,24 @@
       "duration_ms": 183777,
       "name": "Amarcord",
       "url": "https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA"
+    },
+    {
+      "album": {
+        "name": "Ameonna",
+        "url": "https://open.spotify.com/album/1u2rWWwmEjD7rjUxQ2oYqf"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442500,
+      "name": "Ameonna",
+      "url": "https://open.spotify.com/track/2QWVzSa39qQ66oJdIXclo1"
     },
     {
       "album": {
@@ -12501,6 +12519,24 @@
     },
     {
       "album": {
+        "name": "BOMBA",
+        "url": "https://open.spotify.com/album/3DpA4fYnbc3z2UQaxjglZK"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103933,
+      "name": "BOMBA",
+      "url": "https://open.spotify.com/track/1qsK8QzeANbZuS91du4vxy"
+    },
+    {
+      "album": {
         "name": "BOMBAY",
         "url": "https://open.spotify.com/album/5hADwq3k0Uz3ss55RTgabE"
       },
@@ -13278,7 +13314,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 177366,
       "name": "Boyband",
       "url": "https://open.spotify.com/track/2WqYyMrL5plYQTFPmuI9Ts"
@@ -16856,7 +16892,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 184133,
       "name": "Changes",
       "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
@@ -17464,7 +17500,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 169795,
       "name": "CHECKLIST",
       "url": "https://open.spotify.com/track/3cXtmBLBOg0g0sWnDENcYY"
@@ -41614,7 +41650,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 187906,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/4tznpMTBFS8FPv2JMZNeKa"
@@ -47875,6 +47911,24 @@
     },
     {
       "album": {
+        "name": "In Another World",
+        "url": "https://open.spotify.com/album/2PKwr5WeVaZlX6coR33aQ3"
+      },
+      "artists": [
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175531,
+      "name": "In Another World",
+      "url": "https://open.spotify.com/track/2TTTiaXJZJn7y4ZC6YGXlv"
+    },
+    {
+      "album": {
         "name": "IN BUT NOT OF",
         "url": "https://open.spotify.com/album/0sY7QcBH0fCtwujlTguURI"
       },
@@ -48122,6 +48176,24 @@
       "duration_ms": 258986,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/5syKbfJd2afOa2y93YQfTM"
+    },
+    {
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/1gIEqHodh2lVQZxjPyF7tr"
+      },
+      "artists": [
+        {
+          "name": "Yunggoth\u2730",
+          "url": "https://open.spotify.com/artist/2Wpsydr0xZekaBFNQ0OSKd"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177200,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/36cqRPZYjuy3LSbVSpMF1B"
     },
     {
       "album": {
@@ -60988,7 +61060,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 209198,
       "name": "mini me",
       "url": "https://open.spotify.com/track/4RivZNKcpqoVuZy7o5U2p5"
@@ -77395,6 +77467,24 @@
     },
     {
       "album": {
+        "name": "<Ring of Chaos>",
+        "url": "https://open.spotify.com/album/3DMdQcyOIyqFEeyHnNw2cT"
+      },
+      "artists": [
+        {
+          "name": "JinSoul",
+          "url": "https://open.spotify.com/artist/1rAZr0bwMTcobwrOFHhfJr"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Ring of Chaos",
+      "url": "https://open.spotify.com/track/6QnZf9uIUEqxohWHTPlPi7"
+    },
+    {
+      "album": {
         "name": "Ring Ring",
         "url": "https://open.spotify.com/album/16dV4I2SPOOR4X1oiSIkXS"
       },
@@ -81116,7 +81206,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 110794,
       "name": "Sex Talk",
       "url": "https://open.spotify.com/track/5CJt9QGFJe2S1VmDlONMtg"
@@ -105810,6 +105900,24 @@
       "duration_ms": 208653,
       "name": "Wound Up Here (By Holdin On)",
       "url": "https://open.spotify.com/track/4R7VfFjWXa62I3nDmiwAso"
+    },
+    {
+      "album": {
+        "name": "WOWOWO!",
+        "url": "https://open.spotify.com/album/3mK9Rf1VDi9VgPDFtEhovX"
+      },
+      "artists": [
+        {
+          "name": "loopcinema",
+          "url": "https://open.spotify.com/artist/2aT35mZ8iiTlWtSXAv1p0h"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164336,
+      "name": "WOWOWO!",
+      "url": "https://open.spotify.com/track/6Krs72SZQkeZVgxjEDiobM"
     },
     {
       "album": {

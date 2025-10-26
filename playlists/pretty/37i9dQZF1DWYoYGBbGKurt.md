@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 966,592 likes - 200 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 966,833 likes - 200 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 80 | [omw](https://open.spotify.com/track/46PM3cvVVSpFnco90yU4zk) | [Knowmadic](https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36) | [omw](https://open.spotify.com/album/15NdTmSabOkFfnm7b9fgCf) | 2:12 |
 | 81 | [Drift Into Dream](https://open.spotify.com/track/1bDZbT1BvX6T2P2m5zHyv1) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Drift Into Dream](https://open.spotify.com/album/1GDUpFgPyZXO4jTny1Bd3Z) | 2:36 |
 | 82 | [schoolyard at night](https://open.spotify.com/track/0xcQHLr7ZYeH5XZFHGOTqv) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [schoolyard at night](https://open.spotify.com/album/0vOsJxkkypBHLMmTHoCiEr) | 2:14 |
-| 83 | [sunny days](https://open.spotify.com/track/5hqELfATuiNqZchjqMRxUO) | [mxgnetic.](https://open.spotify.com/artist/4r1dW873UPx6BesTnZRPCx) | [sunny days](https://open.spotify.com/album/6kctCVjzOXAbdo9lMITPPo) | 2:08 |
+| 83 | [sunny days](https://open.spotify.com/track/5hqELfATuiNqZchjqMRxUO) | [mxgnetic.](https://open.spotify.com/artist/5u7mGLVX9UB0iKwkgMywJ9) | [sunny days](https://open.spotify.com/album/6kctCVjzOXAbdo9lMITPPo) | 2:08 |
 | 84 | [Drizzle](https://open.spotify.com/track/4PZ8Fe2fuS7MDn8f8ggnSC) | [silkwürm](https://open.spotify.com/artist/1TkPBaPShLazfcQ6NpRolZ) | [Drizzle](https://open.spotify.com/album/64maOckWHM1t0ofXunnq8o) | 1:38 |
 | 85 | [rainfall](https://open.spotify.com/track/09pqU72mUtEf18YHWlnNkd) | [Cozy Nordic](https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou) | [rainfall](https://open.spotify.com/album/3N3Q2QbcZdx7Oao0Cpzp5s) | 2:42 |
 | 86 | [Jester's Lullaby](https://open.spotify.com/track/2aC4EzyoeHagzpbzXZpCuS) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Jester's Lullaby](https://open.spotify.com/album/1xkP2sAu2JghaXPrWuvukZ) | 1:53 |

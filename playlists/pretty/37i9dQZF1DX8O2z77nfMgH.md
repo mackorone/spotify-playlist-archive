@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Ryan Castro
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,305 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 865,230 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 38 | [My One And Only Love](https://open.spotify.com/track/0ILCaNMr4s5CZdF1Km09Ln) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:01 |
 | 39 | [Me Esta Pesando](https://open.spotify.com/track/3L6xWkOsP2scRMkyXHLSS7) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Duele, Pero Se Canta](https://open.spotify.com/album/410eb1lpq1T5qo2cUOcjWw) | 3:33 |
 | 40 | [Bajo El Sol](https://open.spotify.com/track/2ytvOzIVCikJX3ealKAvpX) | [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr) | [Bajo El Sol](https://open.spotify.com/album/0LgUIQgylnmIfE3YnTbnaK) | 4:07 |
-| 41 | [LA BICHOTA](https://open.spotify.com/track/51cnTFy1fuzcUOHlf2scSi) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [ZOYEE](https://open.spotify.com/album/6Ji8IbdK928citxIzddw1O) | 3:01 |
+| 41 | [LA BICHOTA](https://open.spotify.com/track/51cnTFy1fuzcUOHlf2scSi) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG), [DJ Jader Tremendo](https://open.spotify.com/artist/777DUvjLDJpcVq84ogE8sG) | [ZOYEE](https://open.spotify.com/album/6Ji8IbdK928citxIzddw1O) | 3:01 |
 | 42 | [QUIEREN SER COMO YO](https://open.spotify.com/track/4W2pIoUulTbgTRq3JZ5LLi) | [Luan](https://open.spotify.com/artist/1yW3gxm1nt8sSY5VvXACHy), [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Obreidy](https://open.spotify.com/artist/2a5TwZOhEyrA5OCzSOwwm0) | [QUIEREN SER COMO YO](https://open.spotify.com/album/7qcD5EuE3AmGro4iTAc383) | 2:08 |
 | 43 | [Infierno Favorito](https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Infierno Favorito](https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H) | 3:34 |
 | 44 | [karma](https://open.spotify.com/track/2AHiQVyuaGHOERDPVlxWRT) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [karma](https://open.spotify.com/album/2xMf32apRnpyCvxtXBRYkB) | 2:30 |

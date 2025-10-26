@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 745817,
+  "num_followers": 745880,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAABCZScJGS3tyKBMqdBFG4ea",
+  "snapshot_id": "aPrBgAAAAADXQc3zPaxwKFjzN/RA206q",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avril Lavigne (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 214320,
-      "name": "Here's to Never Growing Up",
-      "url": "https://open.spotify.com/track/0qwcGscxUHGZTgq0zcaqk1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Young & Dumb (feat. Simple Plan)",
         "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 166776,
       "name": "Young & Dumb (feat. Simple Plan)",
       "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avril Lavigne (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 214320,
+      "name": "Here's to Never Growing Up",
+      "url": "https://open.spotify.com/track/0qwcGscxUHGZTgq0zcaqk1"
     },
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Head Above Water",
-        "url": "https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 220850,
-      "name": "Head Above Water",
-      "url": "https://open.spotify.com/track/7gY3cyGcB2wnk2xDXiA0pe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 233760,
       "name": "Losing Grip",
       "url": "https://open.spotify.com/track/2LA4v20vokK9Uaj7WEEMaf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 220850,
+      "name": "Head Above Water",
+      "url": "https://open.spotify.com/track/7gY3cyGcB2wnk2xDXiA0pe"
     },
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forever (Legendary Edition)",
+        "url": "https://open.spotify.com/album/2eWMDbh3Igz3si1aX4a7Wv"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 196916,
+      "name": "Living in Paradise (with Avril Lavigne)",
+      "url": "https://open.spotify.com/track/798hR8Q0YSE2J7RnhVCZdj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
@@ -847,22 +867,6 @@
       "duration_ms": 218992,
       "name": "Listen (featuring Avril Lavigne)",
       "url": "https://open.spotify.com/track/0GT5m0eIa0OATOECdQtcsk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Goodbye Lullaby (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/58ZYHG6xGz1Lx25FsvVH1A"
     }
   ],
   "unique_name": "This Is Avril Lavigne",

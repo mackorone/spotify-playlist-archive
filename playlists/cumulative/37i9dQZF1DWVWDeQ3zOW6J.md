@@ -4,11 +4,11 @@
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-142 songs - 11 hr 13 min
+143 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Agua Que Va A Caer](https://open.spotify.com/track/5xZCkmuOjtQPkqIRzFXxos) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Quiniela Del Dia](https://open.spotify.com/album/2uv4A11msBhOaxmnFVEOLS) | 5:04 | 2020-06-16 |  |
+| [Agua Que Va A Caer](https://open.spotify.com/track/5xZCkmuOjtQPkqIRzFXxos) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Quiniela Del Dia](https://open.spotify.com/album/2uv4A11msBhOaxmnFVEOLS) | 5:04 | 2020-06-16 | 2025-10-26 |
 | [Agua Que Va A Caer](https://open.spotify.com/track/417oy2mvDKzeiDFdTORBSJ) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ), [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma) | [La Quiniela del Día](https://open.spotify.com/album/6rFq3pKoKjFSkxigEd7Smw) | 5:04 | 2020-06-16 | 2024-04-19 |
 | [Ahora me da pena](https://open.spotify.com/track/3ogUFoUSvXN7GLb0Q0EAgu) | [Henry Fiol](https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB) | [Fe, Esperanza y Caridad](https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII) | 6:44 | 2020-06-16 |  |
 | [Alo Alo](https://open.spotify.com/track/5X67X7Nfl8V9EigDe1p4cE) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [Salsa De La Mata, Vol\. 2](https://open.spotify.com/album/4szcF2VzqktkY6LMSVuMbk) | 4:51 | 2020-06-16 |  |
@@ -46,6 +46,7 @@
 | [El Día De Mi Suerte](https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 5:28 | 2020-06-16 | 2024-04-19 |
 | [El Exigente](https://open.spotify.com/track/1ntYOmsHztxdHxuXKfuAIX) | [Orchestra Harlow](https://open.spotify.com/artist/6JW9UcNPmjUsybgF1WFdkR) | [El Exigente](https://open.spotify.com/album/1JiQ3EUBoGPd68LvoPUq8l) | 3:33 | 2020-06-16 | 2022-07-29 |
 | [El Exigente](https://open.spotify.com/track/09j8C1kYNjY66EVtl4nhl0) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J) | [El Exigente](https://open.spotify.com/album/2ot49MV7IVovrfxCARtxAV) | 3:33 | 2020-06-16 | 2022-11-12 |
+| [El Faisan](https://open.spotify.com/track/0Xfq0sHo3MfYH4Ioa5gxiA) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [El Maestro](https://open.spotify.com/album/6ZqOdeWTqzpR3n3XmgMaK1) | 8:22 | 2024-09-24 |  |
 | [El Faisán](https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [El Maestro](https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH) | 8:22 | 2023-02-13 | 2024-04-19 |
 | [El Manicero](https://open.spotify.com/track/1xTtQuHbtAh6WvzZZNXbIu) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Éxitos, Vol\. 1](https://open.spotify.com/album/1BoeS73vVRPncBCDWbF3ep) | 4:42 | 2020-06-16 |  |
 | [El Pío Pío](https://open.spotify.com/track/7Ee7jBAQ6iYSDr2pAkwxfw) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv) | [Musical Conquest](https://open.spotify.com/album/6QybGmhiK58QmzzArsI68m) | 4:55 | 2023-02-13 | 2024-04-19 |

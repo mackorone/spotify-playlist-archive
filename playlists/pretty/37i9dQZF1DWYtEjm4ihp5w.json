@@ -1,12 +1,12 @@
 {
   "description": "Cover: Shaw, Hassa1",
-  "num_followers": 365901,
+  "num_followers": 365967,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOEOGa94om+cjt9TIMDpllWSDLeh",
+  "snapshot_id": "AAAAAHTryOUQr9eWJIqC3geGGUjLM9PW",
   "tracks": [
     {
       "added_at": "2025-10-24 04:58:29",
@@ -83,6 +83,22 @@
     {
       "added_at": "2025-10-24 04:58:29",
       "album": {
+        "name": "Valluminati",
+        "url": "https://open.spotify.com/album/6elabSMRw648ju19QYg55P"
+      },
+      "artists": [
+        {
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+        }
+      ],
+      "duration_ms": 140031,
+      "name": "Valluminati",
+      "url": "https://open.spotify.com/track/7MVXEImcCVGCPhfqiTVSdn"
+    },
+    {
+      "added_at": "2025-10-24 04:58:29",
+      "album": {
         "name": "ICEBERG",
         "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 209000,
       "name": "MOON",
       "url": "https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt"
-    },
-    {
-      "added_at": "2025-10-24 04:58:29",
-      "album": {
-        "name": "BOOM",
-        "url": "https://open.spotify.com/album/7InGVZYEVFzVHMVKaKXWlw"
-      },
-      "artists": [
-        {
-          "name": "Bo9al",
-          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "BOOM",
-      "url": "https://open.spotify.com/track/61HBQ151SsOvfYq383oK7T"
     },
     {
       "added_at": "2025-10-24 04:58:29",
@@ -131,34 +131,18 @@
     {
       "added_at": "2025-10-24 04:58:29",
       "album": {
-        "name": "Valluminati",
-        "url": "https://open.spotify.com/album/6elabSMRw648ju19QYg55P"
+        "name": "BOOM",
+        "url": "https://open.spotify.com/album/7InGVZYEVFzVHMVKaKXWlw"
       },
       "artists": [
         {
-          "name": "Valerieblud",
-          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
         }
       ],
-      "duration_ms": 140031,
-      "name": "Valluminati",
-      "url": "https://open.spotify.com/track/7MVXEImcCVGCPhfqiTVSdn"
-    },
-    {
-      "added_at": "2025-10-24 04:58:29",
-      "album": {
-        "name": "SALGOAT",
-        "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "STALINE",
-      "url": "https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e"
+      "duration_ms": 125000,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/61HBQ151SsOvfYq383oK7T"
     },
     {
       "added_at": "2025-10-24 04:58:29",
@@ -179,6 +163,22 @@
       "duration_ms": 221358,
       "name": "Fundo",
       "url": "https://open.spotify.com/track/3UFAzSF6xdDsX8uMbQXq0E"
+    },
+    {
+      "added_at": "2025-10-24 04:58:29",
+      "album": {
+        "name": "SALGOAT",
+        "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "STALINE",
+      "url": "https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e"
     },
     {
       "added_at": "2025-10-24 04:58:29",

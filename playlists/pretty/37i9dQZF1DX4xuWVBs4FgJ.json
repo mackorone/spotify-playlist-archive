@@ -1,6 +1,6 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 1820458,
+  "num_followers": 1820634,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
+        "name": "Chicago X",
+        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "If You Leave Me Now",
+      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
         "name": "Until I Found You (Em Beihold Version)",
         "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
-        "name": "Chicago X",
-        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "If You Leave Me Now",
-      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
-        "name": "feelslikeimfallinginlove",
-        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove - Single Version",
-      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 193813,
-      "name": "Music For a Sushi Restaurant",
-      "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove - Single Version",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -955,6 +939,22 @@
       "duration_ms": 207306,
       "name": "Bad Bad News",
       "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Music For a Sushi Restaurant",
+      "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
-        "name": "Falling Like The Stars",
-        "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "Falling Like The Stars",
-      "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
         "name": "Comfortable",
         "url": "https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 228961,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
+        "name": "Falling Like The Stars",
+        "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "Falling Like The Stars",
+      "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
+        "name": "Love Don\u2019t Let Me Go",
+        "url": "https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN"
+      },
+      "artists": [
+        {
+          "name": "Angelina Jordan",
+          "url": "https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb"
+        }
+      ],
+      "duration_ms": 177793,
+      "name": "Love Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
         "name": "Late Night Feelings (feat. Lykke Li)",
         "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
       },
@@ -1339,18 +1355,18 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
-        "name": "Love Don\u2019t Let Me Go",
-        "url": "https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN"
+        "name": "Just You and I",
+        "url": "https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA"
       },
       "artists": [
         {
-          "name": "Angelina Jordan",
-          "url": "https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb"
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
         }
       ],
-      "duration_ms": 177793,
-      "name": "Love Don't Let Me Go",
-      "url": "https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN"
+      "duration_ms": 174982,
+      "name": "Just You and I",
+      "url": "https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -1367,22 +1383,6 @@
       "duration_ms": 173301,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/5Bu3CmkflxDAx5ps1BI8HI"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
-        "name": "Just You and I",
-        "url": "https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 174982,
-      "name": "Just You and I",
-      "url": "https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
-        "name": "American Dreaming",
-        "url": "https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 257297,
-      "name": "American Dreaming",
-      "url": "https://open.spotify.com/track/5MCM2YPIxYTt82Ub6j4HBZ"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
         "name": "Turning Onto You (HNNY Remix)",
         "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 210013,
       "name": "Turning Onto You - HNNY Remix",
       "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
+        "name": "American Dreaming",
+        "url": "https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 257297,
+      "name": "American Dreaming",
+      "url": "https://open.spotify.com/track/5MCM2YPIxYTt82Ub6j4HBZ"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
+        "name": "Waiting for God in the Garden",
+        "url": "https://open.spotify.com/album/2cJvCqyoG0fJQMwPkU7vKR"
+      },
+      "artists": [
+        {
+          "name": "CLAY",
+          "url": "https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL"
+        }
+      ],
+      "duration_ms": 180081,
+      "name": "Waiting for God in the Garden",
+      "url": "https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
         "name": "Home Movies",
         "url": "https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt"
       },
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
-        "name": "Waiting for God in the Garden",
-        "url": "https://open.spotify.com/album/2cJvCqyoG0fJQMwPkU7vKR"
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
       "artists": [
         {
-          "name": "CLAY",
-          "url": "https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 180081,
-      "name": "Waiting for God in the Garden",
-      "url": "https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc"
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -1635,22 +1651,6 @@
       "duration_ms": 204223,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/5pmITEphUtjpCLmKiYIPl9"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "added_at": "2025-10-07 16:14:02",

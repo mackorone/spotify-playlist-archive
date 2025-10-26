@@ -4,12 +4,12 @@
 
 > This is Britney Spears\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 40 min
+79 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Drop Dead\) Beautiful \(feat\. Sabi\)](https://open.spotify.com/track/5Zvzva2gweeEU46XEeeFSa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Sabi](https://open.spotify.com/artist/3tB8VKd0rtEnc9x8l78ymo) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:36 | 2025-07-12 | 2025-10-13 |
-| [\(I Got That\) Boom Boom \(feat\. Ying Yang Twins\)](https://open.spotify.com/track/5epx5YtoMbV0GrL9qx9kVY) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 4:49 | 2023-07-28 |  |
+| [\(I Got That\) Boom Boom \(feat\. Ying Yang Twins\)](https://open.spotify.com/track/5epx5YtoMbV0GrL9qx9kVY) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 4:49 | 2023-07-28 | 2025-10-26 |
 | [\(You Drive Me\) Crazy](https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:18 | 2023-07-28 |  |
 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 | 2023-07-28 |  |
 | [3](https://open.spotify.com/track/6pymOcrCnMuCWdgGVTvUgP) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Singles Collection](https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn) | 3:33 | 2023-07-28 |  |
@@ -41,6 +41,7 @@
 | [I Love Rock 'N' Roll](https://open.spotify.com/track/29viePXNqWUw1cxqzOcuOD) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:06 | 2023-07-28 |  |
 | [I Wanna Go](https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:30 | 2023-07-28 |  |
 | [I Wanna Go \- John Summit Remix](https://open.spotify.com/track/7J3YKBt70o8iB3UXGtUiho) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [I Wanna Go \- John Summit Remix](https://open.spotify.com/album/0KlzqKIka3JbqCcpm1rteS) | 2:43 | 2025-10-19 |  |
+| [I Will Be There](https://open.spotify.com/track/2I320CTP7hYFTtiFo1H6CD) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:53 | 2025-10-26 |  |
 | [I'm a Slave 4 U](https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:23 | 2023-07-28 |  |
 | [I'm Not a Girl, Not Yet a Woman](https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:51 | 2023-07-28 |  |
 | [I'm Not a Girl, Not Yet a Woman \- Snakehips Remix](https://open.spotify.com/track/4AWNbyE153F4Olg7fTJFD5) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [I'm Not a Girl, Not Yet a Woman \(Snakehips Remix\)](https://open.spotify.com/album/6hB0pjxCzWPAIZDwpxQ5yh) | 2:47 | 2023-11-10 | 2023-12-14 |

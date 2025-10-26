@@ -1,6 +1,6 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 78862,
+  "num_followers": 78873,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Indie_structable",
-        "url": "https://open.spotify.com/album/05Xl91MDBtpibflg0EmHrg"
-      },
-      "artists": [
-        {
-          "name": "Walter Meego",
-          "url": "https://open.spotify.com/artist/2JfrljViGl4PxMfa3Fd6kS"
-        },
-        {
-          "name": "Van She Tech",
-          "url": "https://open.spotify.com/artist/0aqgzJNXZRtRY2tacDnses"
-        }
-      ],
-      "duration_ms": 260166,
-      "name": "Forever (Van She Tech Remix)",
-      "url": "https://open.spotify.com/track/22OFfgww7iv1fYhSC3A8w3"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "We Are Your Friends",
         "url": "https://open.spotify.com/album/1M9rUTZKBvDhKIqK9rNxLi"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 262773,
       "name": "We Are Your Friends - Justice Vs Simian",
       "url": "https://open.spotify.com/track/49ErwcBYfYRPNBdRuPvpYA"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Indie_structable",
+        "url": "https://open.spotify.com/album/05Xl91MDBtpibflg0EmHrg"
+      },
+      "artists": [
+        {
+          "name": "Walter Meego",
+          "url": "https://open.spotify.com/artist/2JfrljViGl4PxMfa3Fd6kS"
+        },
+        {
+          "name": "Van She Tech",
+          "url": "https://open.spotify.com/artist/0aqgzJNXZRtRY2tacDnses"
+        }
+      ],
+      "duration_ms": 260166,
+      "name": "Forever (Van She Tech Remix)",
+      "url": "https://open.spotify.com/track/22OFfgww7iv1fYhSC3A8w3"
     },
     {
       "added_at": "2024-08-08 18:53:25",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Friendly Fires",
-        "url": "https://open.spotify.com/album/6o5Da716CH8m1im2XiaeE1"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
-        }
-      ],
-      "duration_ms": 465333,
-      "name": "Paris (Aeroplane Remix)",
-      "url": "https://open.spotify.com/track/4OSEE9iEHADmTSCpxl87GJ"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Cross",
         "url": "https://open.spotify.com/album/5P4Wx3YhpsD4zFTvmPskWd"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 234959,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/2W29TNaSCiolWbPfQNgNOW"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Friendly Fires",
+        "url": "https://open.spotify.com/album/6o5Da716CH8m1im2XiaeE1"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+        }
+      ],
+      "duration_ms": 465333,
+      "name": "Paris (Aeroplane Remix)",
+      "url": "https://open.spotify.com/track/4OSEE9iEHADmTSCpxl87GJ"
     }
   ],
   "unique_name": "Bloghouse",

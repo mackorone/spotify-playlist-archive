@@ -4,7 +4,7 @@
 
 > Tropical nature sounds for bedtime.
 
-134 songs - 7 hr 47 min
+135 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,8 +79,9 @@
 | [Night In The Rainforest](https://open.spotify.com/track/2x09aarUx5kXoWuyx2taZ7) | [California Nature Sounds](https://open.spotify.com/artist/6MUg2pu162aKWsqjBY5S2A) | [California Rain](https://open.spotify.com/album/3aOEiF4NaabKMdWbRgFXwO) | 2:40 | 2021-12-22 |  |
 | [Night Nature in Bahia Solano](https://open.spotify.com/track/5x2zguWRJcv9aeLRpsPdPJ) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Colombian Late Night Nature](https://open.spotify.com/album/3Gd3PQOPihs3IKqRvR1PMX) | 2:30 | 2024-03-27 |  |
 | [Night Rain](https://open.spotify.com/track/5gLZB1i22XDHiHQwhXCYrQ) | [Sounds of the Forest](https://open.spotify.com/artist/1Ip11InkOnNCOLpDIw5mu6) | [Thicket Winging](https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l) | 6:18 | 2024-03-27 |  |
-| [Night Time Forest + Jungle Waterfall Soundscape](https://open.spotify.com/track/07mULeXBpE2Midfs1dM9Ni) | [Atmosphere Asmr](https://open.spotify.com/artist/3j1PxrhmexE5lPn5jBvBQv) | [Relaxing Nature Sounds \(Deluxe Edition\) \[Rain, Thunder, Crickets, Waves, Waterfalls, River and Spa Soundscapes\]](https://open.spotify.com/album/7o9X31puUg4szGY6eexPmZ) | 10:00 | 2021-12-22 |  |
+| [Night Time Forest + Jungle Waterfall Soundscape](https://open.spotify.com/track/07mULeXBpE2Midfs1dM9Ni) | [Atmosphere Asmr](https://open.spotify.com/artist/3j1PxrhmexE5lPn5jBvBQv) | [Relaxing Nature Sounds \(Deluxe Edition\) \[Rain, Thunder, Crickets, Waves, Waterfalls, River and Spa Soundscapes\]](https://open.spotify.com/album/7o9X31puUg4szGY6eexPmZ) | 10:00 | 2021-12-22 | 2025-10-26 |
 | [Nights In The Forest](https://open.spotify.com/track/6s0YtX2hSVOoHJfgwnWhW9) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Deep in the Rainforest](https://open.spotify.com/album/26DdElvaLPpa91ymGXlSeV) | 3:32 | 2023-02-20 |  |
+| [Nocturnal Nature's Lullaby](https://open.spotify.com/track/1FUFAGT1hNaXeRyNnPwaKu) | [Times That Bind](https://open.spotify.com/artist/0EVUcxKE6uB06NZe75La8X) | [Secluded Forest](https://open.spotify.com/album/2n58A84yz5qTPa3cFDEpR2) | 14:52 | 2025-07-21 |  |
 | [Pluie Nocturne](https://open.spotify.com/track/5PcMDn9rYtXjebDSYpkHeh) | [Birdieu](https://open.spotify.com/artist/1nXNa1ENIdB7fGKeqSAyjr) | [Pluie Nocturne](https://open.spotify.com/album/1lduLJdv1PQOwxnVdwVbJC) | 2:08 | 2022-05-24 |  |
 | [Pouring Forest](https://open.spotify.com/track/7MWXKEqFGcCV2k9EKeuYd0) | [Neoaves](https://open.spotify.com/artist/6fWfY05xUKeB3AGEbqMzFK) | [Pouring Forest](https://open.spotify.com/album/2bHq8aLgcn4r73M5GOhzgw) | 2:02 | 2021-12-22 | 2025-10-23 |
 | [Rain & Birds](https://open.spotify.com/track/5dWXEeQTiyFdC8xAG1TZVh) | [Mind & Body](https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz) | [Meditative Rain](https://open.spotify.com/album/6aOKFZw9ZBxQAaezNz5QcX) | 3:49 | 2021-12-22 |  |
@@ -130,7 +131,7 @@
 | [Tropical wet forest in Columbia](https://open.spotify.com/track/5KWY94BzZ0EubNaJFG4AEc) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Tropical wet forest in Columbia](https://open.spotify.com/album/18GNz1kQd0hrZXQU9RMDhp) | 2:06 | 2024-12-03 |  |
 | [Trópico](https://open.spotify.com/track/24KbrtLvLX4QQevrVkMYRR) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 3:04 | 2024-12-03 |  |
 | [Un Corvo Solitario Della Foresta](https://open.spotify.com/track/7b08FvDv6ZhZxF0Y8H87vP) | [Pio Ivan](https://open.spotify.com/artist/54YMFslLApsdO56HNDFv0P) | [Un Corvo Solitario Della Foresta](https://open.spotify.com/album/76dnLwpkv92vNxD9UNIlY6) | 2:06 | 2023-06-20 | 2025-08-01 |
-| [Under a Waterfall \(Relaxing Sounds\)](https://open.spotify.com/track/4NlsctTVxrTknjeiOKAdsr) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Sleep Sounds of Nature \(Sound Healing from Nature Music: How to Deal with Stress, How to Meditate: Help Yourself with Musik\)](https://open.spotify.com/album/1hnITnE98zsV3NUBb9umhi) | 3:57 | 2021-12-22 |  |
+| [Under a Waterfall \(Relaxing Sounds\)](https://open.spotify.com/track/4NlsctTVxrTknjeiOKAdsr) | [Leonard Life](https://open.spotify.com/artist/3TgYecv0R1eaYuy7fbZtPp) | [Sleep Sounds of Nature: Sound Healing from Nature Music](https://open.spotify.com/album/1hnITnE98zsV3NUBb9umhi) | 3:57 | 2021-12-22 |  |
 | [Wake up in the Forest](https://open.spotify.com/track/2QEW9KdCSsttSi9C8ZGsC7) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [One day in the Rainforest](https://open.spotify.com/album/4sgoIPOKfofeLrKvAvX9qq) | 2:27 | 2021-12-22 | 2025-09-22 |
 | [Walking In The Rainforest](https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Healing Rainforest](https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB) | 3:28 | 2022-02-25 |  |
 | [Waterfall Constant Roar of a Mountain Waterfall to Reduce Stress\. Nature Sounds Relaxing](https://open.spotify.com/track/0A71OLE9BN4ImZ3XTCOHP7) | [Nature Caldwell](https://open.spotify.com/artist/1FyZPdqmGE8uZrH7I5deeS) | [Green Escape \- Water Sound Natural and Relaxing Sounds of Nature](https://open.spotify.com/album/1te6990GFMS4RRg7gJzPUF) | 13:16 | 2021-12-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Sophia Frank & Erin Elliot
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,169 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,179 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 22 | [Souvenirs](https://open.spotify.com/track/6YWXIwzkj0RArkiYyrsZuM) | [Pierre Stemmett](https://open.spotify.com/artist/2xei4TwXqWutkMSxSCXSKS) | [Souvenirs](https://open.spotify.com/album/2so5pXF5yxwROC2bNzrdST) | 4:55 |
 | 23 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
 | 24 | [Your Curse](https://open.spotify.com/track/1GRajx7wJBtvsNET2B2G6r) | [Babette](https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa) | [Your Curse](https://open.spotify.com/album/18MSwKWrDcrObiqwHGiaOx) | 3:42 |
-| 25 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
+| 25 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
 | 26 | [Ready to Dance](https://open.spotify.com/track/4021f7EJfjtp0I4kpDH0uH) | [Ross Learmonth](https://open.spotify.com/artist/5ONIVFtUBDrUz28G8ltCHN) | [Ready to Dance](https://open.spotify.com/album/1TdzbnO8I4UW665UBYy3AC) | 3:16 |
-| 27 | [By Jou](https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [By Jou](https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi) | 3:20 |
+| 27 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
 | 28 | [Shape Shifting Queen](https://open.spotify.com/track/6CSjQOrcNaSHuSuV6NpOkL) | [GRANGE](https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb) | [Shape Shifting Queen](https://open.spotify.com/album/6XjPkH8Vymu3RUu8D50GLS) | 2:45 |
-| 29 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
+| 29 | [By Jou](https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [By Jou](https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi) | 3:20 |
 | 30 | [IS EK MAL](https://open.spotify.com/track/6AuttC8mNCudvb2cJSCjaZ) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e) | [IS EK MAL](https://open.spotify.com/album/5h0lgiFStqF6GAZRE8FpAz) | 3:45 |
 | 31 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
 | 32 | [Kenia](https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Kenia](https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2) | 3:45 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 41 | [SKREE](https://open.spotify.com/track/3Cc3QpKHoRLzn04i8sv1Ef) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SKREE](https://open.spotify.com/album/6Hey3FHSiKTBAIR4GUoXrF) | 2:58 |
 | 42 | [How's That Working out for You?](https://open.spotify.com/track/3rVENAsjLvnB1sR9mtjhwT) | [Evert Snyman](https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk), [The Aviary](https://open.spotify.com/artist/0f6sCqzH0RvuY4t9TBGZnQ) | [Bird Brain](https://open.spotify.com/album/0MHpWE7p6du861PcpLNBSs) | 3:34 |
 | 43 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
-| 44 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
+| 44 | [High Roller](https://open.spotify.com/track/4UOYQpDkGR2mdU5X2WUOog) | [RICKY](https://open.spotify.com/artist/1vsGHYgsUeGCF5SiR1Ghnj) | [High Roller](https://open.spotify.com/album/4RtnRoYPCKGyV2vvgLxOil) | 3:04 |
 | 45 | [Good Behaviour](https://open.spotify.com/track/3E1dODn9dYGLkpb7y3zeep) | [Cara Knox](https://open.spotify.com/artist/6LcWpV7gWFKYXfwyAWV8MR) | [Good Behaviour](https://open.spotify.com/album/40BvqT6gWkmH7YEnyYOYpf) | 3:28 |
-| 46 | [High Roller](https://open.spotify.com/track/4UOYQpDkGR2mdU5X2WUOog) | [RICKY](https://open.spotify.com/artist/1vsGHYgsUeGCF5SiR1Ghnj) | [High Roller](https://open.spotify.com/album/4RtnRoYPCKGyV2vvgLxOil) | 3:04 |
+| 46 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
 | 47 | [Dis DDP](https://open.spotify.com/track/20dcGX9oluIKJuZiA3Jrwj) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Dis DDP](https://open.spotify.com/album/5snLx064m6EgaqnR1r0sES) | 3:15 |
-| 48 | [death\~](https://open.spotify.com/track/5PwUH6sqXKupgL1pXshfuo) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [death\~](https://open.spotify.com/album/7bjMoDctYIAITjylNYNRY2) | 1:52 |
-| 49 | [Bokbefok](https://open.spotify.com/track/0YwiKZs3LZ7nIyHYTX8fb1) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Bokbefok](https://open.spotify.com/album/4ZLqEGdLtWa98K7bA9hcPo) | 2:47 |
-| 50 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
+| 48 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
+| 49 | [death\~](https://open.spotify.com/track/5PwUH6sqXKupgL1pXshfuo) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [death\~](https://open.spotify.com/album/7bjMoDctYIAITjylNYNRY2) | 1:52 |
+| 50 | [Bokbefok](https://open.spotify.com/track/0YwiKZs3LZ7nIyHYTX8fb1) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Bokbefok](https://open.spotify.com/album/4ZLqEGdLtWa98K7bA9hcPo) | 2:47 |
 
 Snapshot ID: `AAAAAMIpUU2MhT5GchemcaSsVUlOhU7b`

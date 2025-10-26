@@ -4,7 +4,7 @@
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-97 songs - 4 hr 33 min
+98 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [carta jugada](https://open.spotify.com/track/50rr7toY0hwRzLCHEmt1BB) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [ANORANZA NORTENA](https://open.spotify.com/album/6626gtmDfSGPNkce5p8kfF) | 2:45 | 2022-06-01 | 2025-01-15 |
 | [Carta Jugada](https://open.spotify.com/track/7kcqHG4truM36FnXdOYG7g) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Nuestros Mejores Éxitos](https://open.spotify.com/album/3kWIOOGDgHIswSYacoXQpz) | 2:45 | 2025-01-15 | 2025-03-08 |
 | [Carta Jugada](https://open.spotify.com/track/2n19eUctP7AZFIsktfBk2V) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos Clasicos: Canciones y Corridos](https://open.spotify.com/album/5B6a96a0gdnf0AaIstQyYb) | 2:47 | 2025-03-08 |  |
+| [Corazoncito Tirano](https://open.spotify.com/track/6WDO9b672nRsA3W3FtPlLU) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Ojos De Pancha](https://open.spotify.com/album/3wFMgp4RVQF5AoCmgjseWX) | 2:48 | 2025-10-26 |  |
 | [Corrido De Felipe Angeles](https://open.spotify.com/track/04WwCNKM6hbBAc9IJ5d01f) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Villistas Con Los Alegres De Terán](https://open.spotify.com/album/3dehFGTHz2s4e17HNEgiK3) | 4:30 | 2022-06-01 | 2022-11-30 |
 | [Corrido De Pedro Infante](https://open.spotify.com/track/0iHQIzCXXBuQG23sX1Wl1q) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Ojos De Pancha](https://open.spotify.com/album/3wFMgp4RVQF5AoCmgjseWX) | 2:48 | 2022-06-01 | 2022-07-31 |
 | [Cuando Salgo A Los Campos](https://open.spotify.com/track/0u0N27nvxh5ClF4sMgYMpV) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Frente a Frente Los Alegres de Terán vs Los Invasores de Nuevo León](https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf) | 2:31 | 2022-06-01 | 2024-09-18 |
@@ -58,7 +59,7 @@
 | [La Mula Bronca](https://open.spotify.com/track/3XYKkhVYeNveTUFgGPj4ip) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Norteñas de Oro](https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95) | 2:50 | 2022-06-01 |  |
 | [La Pajarera](https://open.spotify.com/track/3lljQzKEcHzw2uXl9JJ9rk) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Fogata Norteña](https://open.spotify.com/album/779btSeHZhLy2Bam2WAHAj) | 3:11 | 2025-03-09 |  |
 | [La Pajarera](https://open.spotify.com/track/0hfCoWU4MLBNJksoVUV7eo) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Corridos y Rancheras](https://open.spotify.com/album/6KsSJ2KeesPLNW6zU7j3Bz) | 3:12 | 2022-06-01 | 2023-07-15 |
-| [La Tumba de Villa](https://open.spotify.com/track/5HitQXXbYmjUZwQraMjV1n) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 4:05 | 2022-06-01 |  |
+| [La Tumba de Villa](https://open.spotify.com/track/5HitQXXbYmjUZwQraMjV1n) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 4:05 | 2022-06-01 | 2025-10-26 |
 | [Los Alegres de Terán](https://open.spotify.com/track/7vtzM64OIUPLYTFwN0lzwA) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ), [Hermanas Huerta](https://open.spotify.com/artist/1hU5wdiWeIWv4fBklDgta1) | [Los Alegres De Terán, Sus Mejores Corridos Y Rancheras Contestadas](https://open.spotify.com/album/43Eu9c8JiKyvuWMAnJCuxc) | 2:49 | 2022-06-01 |  |
 | [Los Ojos De Pancha](https://open.spotify.com/track/25uPDlfpe3AJ3373NO4ELm) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/54PiozyCmsyefYSGFw7XCf) | 2:07 | 2025-04-13 | 2025-04-14 |
 | [Los Ojos De Pancha](https://open.spotify.com/track/3yIJxZ1XFWgk80P3NwQGdA) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 2:07 | 2024-06-26 | 2025-04-04 |

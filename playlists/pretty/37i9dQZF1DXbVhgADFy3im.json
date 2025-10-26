@@ -1,12 +1,12 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1122945,
+  "num_followers": 1123563,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF4thq9GMpiY8sZxxa9yfqkJ55iP",
+  "snapshot_id": "AAAAALP8zh790ClS6iB6zoEHm26hCFsm",
   "tracks": [
     {
       "added_at": "2025-10-16 06:17:33",
@@ -651,6 +651,26 @@
     {
       "added_at": "2025-10-16 06:17:33",
       "album": {
+        "name": "Dhun (From \"Saiyaara\")",
+        "url": "https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 276643,
+      "name": "Dhun (From \"Saiyaara\")",
+      "url": "https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S"
+    },
+    {
+      "added_at": "2025-10-16 06:17:33",
+      "album": {
         "name": "Pardesiya (From \"Param Sundari\")",
         "url": "https://open.spotify.com/album/4hHAxLq4VGuyb6HsyUIPGd"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 231739,
       "name": "Pardesiya - From \"Param Sundari\"",
       "url": "https://open.spotify.com/track/0q84FggW57NXGtLHoetS0Y"
-    },
-    {
-      "added_at": "2025-10-16 06:17:33",
-      "album": {
-        "name": "Dhun (From \"Saiyaara\")",
-        "url": "https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG"
-      },
-      "artists": [
-        {
-          "name": "Mithoon",
-          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 276643,
-      "name": "Dhun (From \"Saiyaara\")",
-      "url": "https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S"
     },
     {
       "added_at": "2025-10-16 06:17:33",
@@ -763,6 +763,26 @@
     {
       "added_at": "2025-10-16 06:17:33",
       "album": {
+        "name": "Shaky",
+        "url": "https://open.spotify.com/album/1Ws1Vt9nXhYx43sKw3h9Fi"
+      },
+      "artists": [
+        {
+          "name": "Sanju Rathod",
+          "url": "https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7"
+        },
+        {
+          "name": "G-SPXRK",
+          "url": "https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll"
+        }
+      ],
+      "duration_ms": 175138,
+      "name": "Shaky",
+      "url": "https://open.spotify.com/track/2HI1eYwbbiJGqi0XaeByOI"
+    },
+    {
+      "added_at": "2025-10-16 06:17:33",
+      "album": {
         "name": "Bhediya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/12sC6UjMWz6EaxnzyfCNMe"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 261702,
       "name": "Apna Bana Le",
       "url": "https://open.spotify.com/track/5bQ6oDLqvw8tywmnSmwEyL"
-    },
-    {
-      "added_at": "2025-10-16 06:17:33",
-      "album": {
-        "name": "Shaky",
-        "url": "https://open.spotify.com/album/1Ws1Vt9nXhYx43sKw3h9Fi"
-      },
-      "artists": [
-        {
-          "name": "Sanju Rathod",
-          "url": "https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7"
-        },
-        {
-          "name": "G-SPXRK",
-          "url": "https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll"
-        }
-      ],
-      "duration_ms": 175138,
-      "name": "Shaky",
-      "url": "https://open.spotify.com/track/2HI1eYwbbiJGqi0XaeByOI"
     },
     {
       "added_at": "2025-10-16 06:17:33",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-10-16 06:17:33",
       "album": {
+        "name": "Russian Bandana",
+        "url": "https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Russian Bandana",
+      "url": "https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD"
+    },
+    {
+      "added_at": "2025-10-16 06:17:33",
+      "album": {
         "name": "Connie Francis Sings Second Hand Love & Other Hits",
         "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
       },
@@ -1127,6 +1143,22 @@
       "duration_ms": 142520,
       "name": "Pretty Little Baby",
       "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
+    },
+    {
+      "added_at": "2025-10-16 06:17:33",
+      "album": {
+        "name": "PERFECT (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+        "url": "https://open.spotify.com/album/2uFqKj9qt6TkwKdNpFjQ4R"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        }
+      ],
+      "duration_ms": 146038,
+      "name": "PERFECT (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+      "url": "https://open.spotify.com/track/4Cp29GrZ9Jxxoke0OeQGuz"
     },
     {
       "added_at": "2025-10-16 06:17:33",
@@ -1151,22 +1183,6 @@
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
-    },
-    {
-      "added_at": "2025-10-16 06:17:33",
-      "album": {
-        "name": "PERFECT (From \"Sunny Sanskari Ki Tulsi Kumari\")",
-        "url": "https://open.spotify.com/album/2uFqKj9qt6TkwKdNpFjQ4R"
-      },
-      "artists": [
-        {
-          "name": "Guru Randhawa",
-          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
-        }
-      ],
-      "duration_ms": 146038,
-      "name": "PERFECT (From \"Sunny Sanskari Ki Tulsi Kumari\")",
-      "url": "https://open.spotify.com/track/4Cp29GrZ9Jxxoke0OeQGuz"
     },
     {
       "added_at": "2025-10-16 06:17:33",
@@ -1199,18 +1215,22 @@
     {
       "added_at": "2025-10-16 06:17:33",
       "album": {
-        "name": "Russian Bandana",
-        "url": "https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud"
+        "name": "Khayaal",
+        "url": "https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG"
       },
       "artists": [
         {
-          "name": "Dhanda Nyoliwala",
-          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "NDS",
+          "url": "https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Russian Bandana",
-      "url": "https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD"
+      "duration_ms": 162018,
+      "name": "Khayaal",
+      "url": "https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR"
     },
     {
       "added_at": "2025-10-16 06:17:33",
@@ -1235,26 +1255,6 @@
       "duration_ms": 170044,
       "name": "Sajni (From \"Laapataa Ladies\")",
       "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
-    },
-    {
-      "added_at": "2025-10-16 06:17:33",
-      "album": {
-        "name": "Khayaal",
-        "url": "https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG"
-      },
-      "artists": [
-        {
-          "name": "Talwiinder",
-          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
-        },
-        {
-          "name": "NDS",
-          "url": "https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG"
-        }
-      ],
-      "duration_ms": 162018,
-      "name": "Khayaal",
-      "url": "https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR"
     },
     {
       "added_at": "2025-10-16 06:17:33",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-10-16 06:17:33",
       "album": {
+        "name": "Alligator Bites Never Heal (Extended)",
+        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
+    },
+    {
+      "added_at": "2025-10-16 06:17:33",
+      "album": {
         "name": "Heeriye (feat. Arijit Singh)",
         "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 194857,
       "name": "Heeriye (feat. Arijit Singh)",
       "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li"
-    },
-    {
-      "added_at": "2025-10-16 06:17:33",
-      "album": {
-        "name": "Alligator Bites Never Heal (Extended)",
-        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
     },
     {
       "added_at": "2025-10-16 06:17:33",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2025-10-16 06:17:33",
       "album": {
+        "name": "Yeh Jawaani Hai Deewani",
+        "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 228982,
+      "name": "Ilahi",
+      "url": "https://open.spotify.com/track/5cgKosPPj5Cs9a2JQufUc1"
+    },
+    {
+      "added_at": "2025-10-16 06:17:33",
+      "album": {
         "name": "Malang Sajna",
         "url": "https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf"
       },
@@ -1571,68 +1591,24 @@
     {
       "added_at": "2025-10-16 06:17:33",
       "album": {
-        "name": "Yeh Jawaani Hai Deewani",
-        "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
+        "name": "Desi Kalakaar",
+        "url": "https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
         }
       ],
-      "duration_ms": 228982,
-      "name": "Ilahi",
-      "url": "https://open.spotify.com/track/5cgKosPPj5Cs9a2JQufUc1"
+      "duration_ms": 253352,
+      "name": "Desi Kalakaar",
+      "url": "https://open.spotify.com/track/7m4CgL81VVIHaaiSxyH922"
     },
     {
       "added_at": "2025-10-16 06:17:33",
       "album": {
-        "name": "Guzaara (From \"Baaghi 4\")",
-        "url": "https://open.spotify.com/album/0oa4u9t0wcigsxTCWvCnVE"
-      },
-      "artists": [
-        {
-          "name": "Josh Brar",
-          "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        },
-        {
-          "name": "Bunty Bains",
-          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
-        },
-        {
-          "name": "Salamat Ali Matoi",
-          "url": "https://open.spotify.com/artist/4EWD76EQeAcu0I05q25FWG"
-        },
-        {
-          "name": "Agaazz",
-          "url": "https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX"
-        },
-        {
-          "name": "Jagdeep Warring",
-          "url": "https://open.spotify.com/artist/1xjuAKj9neNVWlpiZYNgzY"
-        }
-      ],
-      "duration_ms": 244073,
-      "name": "Guzaara (From \"Baaghi 4\")",
-      "url": "https://open.spotify.com/track/3gjTErwpHM5PkRbWMhmNrV"
-    },
-    {
-      "added_at": "2025-10-16 06:17:33",
-      "album": {
-        "name": "ANIMAL",
-        "url": "https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO"
+        "name": "Kaise Hua (From \"Kabir Singh\")",
+        "url": "https://open.spotify.com/album/1ncyKqyZae6DoyjYaV9LmS"
       },
       "artists": [
         {
@@ -1640,13 +1616,13 @@
           "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
         },
         {
-          "name": "Raj Shekhar",
-          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
         }
       ],
-      "duration_ms": 250158,
-      "name": "Pehle Bhi Main",
-      "url": "https://open.spotify.com/track/7yDHHVKLbvDmVw1XXhDDIO"
+      "duration_ms": 234722,
+      "name": "Kaise Hua (From \"Kabir Singh\")",
+      "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
     }
   ],
   "unique_name": "Trending Now India",

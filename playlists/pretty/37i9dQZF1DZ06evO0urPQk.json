@@ -1,12 +1,12 @@
 {
   "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
-  "num_followers": 27679,
+  "num_followers": 27680,
   "original_name": "This Is Nana Mizuki",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAADxjQYpkVpgOHW7qs56znDT",
+  "snapshot_id": "aPrBgAAAAABdNZ2xHszTOR6uJR3kxl3g",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FINAL COMMANDER",
-        "url": "https://open.spotify.com/album/79ZMg93RW0DUIG6flJDOJ1"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 262403,
-      "name": "FINAL COMMANDER",
-      "url": "https://open.spotify.com/track/4BmDMzDL8rpgMcCTHQCJEr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WILD EYES",
         "url": "https://open.spotify.com/album/7G8FGpeEVgitvFOuSD9Gkv"
       },
@@ -227,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYBRID UNIVERSE",
-        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
+        "name": "FINAL COMMANDER",
+        "url": "https://open.spotify.com/album/79ZMg93RW0DUIG6flJDOJ1"
       },
       "artists": [
         {
@@ -236,25 +220,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 251026,
-      "name": "WILD EYES",
-      "url": "https://open.spotify.com/track/0qAetyyxDZxgFR1EQrOK7p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE MUSEUM \u2162",
-        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 265986,
-      "name": "\u7981\u65ad\u306e\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/1Ri399EucsujfZgNZ6jyfe"
+      "duration_ms": 262403,
+      "name": "FINAL COMMANDER",
+      "url": "https://open.spotify.com/track/4BmDMzDL8rpgMcCTHQCJEr"
     },
     {
       "added_at": null,
@@ -275,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER SURRENDER",
-        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
+        "name": "THE MUSEUM \u2162",
+        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
       },
       "artists": [
         {
@@ -284,9 +252,25 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 232653,
-      "name": "\u5606\u304d\u306e\u83ef",
-      "url": "https://open.spotify.com/track/0sykGYWNmdFkBXJurdnWKo"
+      "duration_ms": 265986,
+      "name": "\u7981\u65ad\u306e\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/1Ri399EucsujfZgNZ6jyfe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYBRID UNIVERSE",
+        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "WILD EYES",
+      "url": "https://open.spotify.com/track/0qAetyyxDZxgFR1EQrOK7p"
     },
     {
       "added_at": null,
@@ -307,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NEVER SURRENDER",
+        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 232653,
+      "name": "\u5606\u304d\u306e\u83ef",
+      "url": "https://open.spotify.com/track/0sykGYWNmdFkBXJurdnWKo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE MUSEUM II",
         "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
       },
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONTEMPORARY EMOTION",
-        "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 190520,
-      "name": "\u62cd\u52d5",
-      "url": "https://open.spotify.com/track/0zn5uqcWGguTDw5c7tIHMB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u5922\u5e7b",
         "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 239013,
       "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
       "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CONTEMPORARY EMOTION",
+        "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 190520,
+      "name": "\u62cd\u52d5",
+      "url": "https://open.spotify.com/track/0zn5uqcWGguTDw5c7tIHMB"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRIGHT STREAM",
-        "url": "https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb"
+        "name": "Destiny's Prelude",
+        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 187066,
-      "name": "Sacred Force",
-      "url": "https://open.spotify.com/track/2PoIB3gqN5EREhzyp2AYQm"
+      "duration_ms": 267813,
+      "name": "Invisible Heat",
+      "url": "https://open.spotify.com/track/6Q85RKm3uVg8pvwbxFTZzv"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destiny's Prelude",
-        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 267813,
-      "name": "Invisible Heat",
-      "url": "https://open.spotify.com/track/6Q85RKm3uVg8pvwbxFTZzv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE MUSEUM \u2162",
         "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 326293,
       "name": "\uff34\uff25\uff33\uff34\uff21\uff2d\uff25\uff2e\uff34-Aufwachen Form-",
       "url": "https://open.spotify.com/track/33C9pXVKLrLkRhRNO2rMzZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRIGHT STREAM",
+        "url": "https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "Sacred Force",
+      "url": "https://open.spotify.com/track/2PoIB3gqN5EREhzyp2AYQm"
     },
     {
       "added_at": null,

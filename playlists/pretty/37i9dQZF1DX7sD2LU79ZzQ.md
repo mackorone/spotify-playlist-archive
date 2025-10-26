@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: David Bayu
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,823 likes - 118 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,829 likes - 118 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 11 | [Elu\-elukan](https://open.spotify.com/track/7LQ9yw8sSdjmckKCK4CHSo) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Elu\-elukan](https://open.spotify.com/album/4TOeWC89ZQcQDLfUvqKaVm) | 4:03 |
 | 12 | [Penasaran](https://open.spotify.com/track/7lYk3hHtZSbq3LCT4LCR6B) | [The Popstar](https://open.spotify.com/artist/0VGEOq0DqY1IuwqKHR8OI0) | [Penasaran](https://open.spotify.com/album/6w4mtnJvtuZf0rvVzw2xSS) | 3:02 |
 | 13 | [Sikep \(Siap Kelangan Pengarep Arep\)](https://open.spotify.com/track/72avAygkMmzT1UXks8D1gx) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Sikep \(Siap Kelangan Pengarep Arep\)](https://open.spotify.com/album/2rmM5EfmOH7gVTZEE9Ok3M) | 5:05 |
-| 14 | [Syahravi \- Salah Paham](https://open.spotify.com/track/75itNZTt1HF4CdfxAr0Ld1) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Salah Paham](https://open.spotify.com/album/3hFH41buob1oT4Lyf7Cf8k) | 3:27 |
+| 14 | [Salah Paham](https://open.spotify.com/track/75itNZTt1HF4CdfxAr0Ld1) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Salah Paham](https://open.spotify.com/album/3hFH41buob1oT4Lyf7Cf8k) | 3:27 |
 | 15 | [SAFE SPACE](https://open.spotify.com/track/2kxav1ncfuZFh1atFxvc4W) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [SAFE SPACE](https://open.spotify.com/album/32CyZFGgCRWcmBAbjQYt0H) | 3:23 |
 | 16 | [Menjadi Dewasa](https://open.spotify.com/track/4nhzCMML73Im5AAhWzAviK) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb) | [Menjadi Dewasa](https://open.spotify.com/album/1U1XHck0TGcN7cpPnlzOUd) | 4:15 |
 | 17 | [Pergilah Kasih](https://open.spotify.com/track/0lMfcdowtnDVtg6hSi1PyI) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Pergilah Kasih](https://open.spotify.com/album/1beyGP8N6Gk25YnbytA3vv) | 4:17 |

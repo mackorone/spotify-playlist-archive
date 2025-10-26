@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUm9cUUN5OOs.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Michaela Coel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,742 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,744 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

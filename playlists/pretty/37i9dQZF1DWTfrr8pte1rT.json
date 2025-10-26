@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Madeon \\m/",
-  "num_followers": 346195,
+  "num_followers": 346202,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2025-10-10 04:00:45",
       "album": {
+        "name": "Against The Tide",
+        "url": "https://open.spotify.com/album/0Rym6PJvFC1jVwCx3jsRjT"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "Against The Tide",
+      "url": "https://open.spotify.com/track/54Q384UbVZGrgxH02WEmlk"
+    },
+    {
+      "added_at": "2025-10-10 04:00:45",
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 240000,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
-    },
-    {
-      "added_at": "2025-10-10 04:00:45",
-      "album": {
-        "name": "Against The Tide",
-        "url": "https://open.spotify.com/album/0Rym6PJvFC1jVwCx3jsRjT"
-      },
-      "artists": [
-        {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "Against The Tide",
-      "url": "https://open.spotify.com/track/54Q384UbVZGrgxH02WEmlk"
     },
     {
       "added_at": "2025-10-10 04:00:45",
@@ -1911,22 +1911,26 @@
     {
       "added_at": "2025-10-10 04:00:45",
       "album": {
-        "name": "Broken String",
-        "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
+        "name": "IT'S NOT A PHASE",
+        "url": "https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w"
       },
       "artists": [
         {
-          "name": "Clarx",
-          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
         },
         {
-          "name": "Shiah Maisel",
-          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+          "name": "Tim Henson",
+          "url": "https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4"
+        },
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Gotta Leave",
-      "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
+      "duration_ms": 192013,
+      "name": "Dreamstate",
+      "url": "https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy"
     },
     {
       "added_at": "2025-10-10 04:00:45",
@@ -1951,26 +1955,22 @@
     {
       "added_at": "2025-10-10 04:00:45",
       "album": {
-        "name": "IT'S NOT A PHASE",
-        "url": "https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w"
+        "name": "Broken String",
+        "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
       },
       "artists": [
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
         },
         {
-          "name": "Tim Henson",
-          "url": "https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4"
-        },
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
         }
       ],
-      "duration_ms": 192013,
-      "name": "Dreamstate",
-      "url": "https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy"
+      "duration_ms": 156666,
+      "name": "Gotta Leave",
+      "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
     },
     {
       "added_at": "2025-10-10 04:00:45",
@@ -2015,26 +2015,6 @@
     {
       "added_at": "2025-10-10 04:00:45",
       "album": {
-        "name": "Till I Met You",
-        "url": "https://open.spotify.com/album/3CUAAmoJWX9g7EkJvvMFhk"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "good problem",
-          "url": "https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK"
-        }
-      ],
-      "duration_ms": 195211,
-      "name": "Till I Met You",
-      "url": "https://open.spotify.com/track/67XgQqWDwFbnP256WayxaG"
-    },
-    {
-      "added_at": "2025-10-10 04:00:45",
-      "album": {
         "name": "11 Minutes (feat. Travis Barker) [Kayzo Remix]",
         "url": "https://open.spotify.com/album/77iOq0ll6f92j1Z0O8mW1u"
       },
@@ -2059,22 +2039,22 @@
     {
       "added_at": "2025-10-10 04:00:45",
       "album": {
-        "name": "Sugar, We're Goin Down",
-        "url": "https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG"
+        "name": "Till I Met You",
+        "url": "https://open.spotify.com/album/3CUAAmoJWX9g7EkJvvMFhk"
       },
       "artists": [
         {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
         },
         {
-          "name": "Social Repose",
-          "url": "https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy"
+          "name": "good problem",
+          "url": "https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK"
         }
       ],
-      "duration_ms": 209210,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR"
+      "duration_ms": 195211,
+      "name": "Till I Met You",
+      "url": "https://open.spotify.com/track/67XgQqWDwFbnP256WayxaG"
     },
     {
       "added_at": "2025-10-10 04:00:45",
@@ -2095,6 +2075,26 @@
       "duration_ms": 166971,
       "name": "Ghost Story (with All Time Low)",
       "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
+    },
+    {
+      "added_at": "2025-10-10 04:00:45",
+      "album": {
+        "name": "Sugar, We're Goin Down",
+        "url": "https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Social Repose",
+          "url": "https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy"
+        }
+      ],
+      "duration_ms": 209210,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR"
     },
     {
       "added_at": "2025-10-10 04:00:45",
@@ -2151,26 +2151,6 @@
     {
       "added_at": "2025-10-10 04:00:45",
       "album": {
-        "name": "Take It Back",
-        "url": "https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Take It Back",
-      "url": "https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr"
-    },
-    {
-      "added_at": "2025-10-10 04:00:45",
-      "album": {
         "name": "Throne",
         "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
       },
@@ -2187,6 +2167,26 @@
       "duration_ms": 220000,
       "name": "Throne",
       "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
+    },
+    {
+      "added_at": "2025-10-10 04:00:45",
+      "album": {
+        "name": "Take It Back",
+        "url": "https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Take It Back",
+      "url": "https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr"
     },
     {
       "added_at": "2025-10-10 04:00:45",
@@ -2215,30 +2215,6 @@
     {
       "added_at": "2025-10-10 04:00:45",
       "album": {
-        "name": "Need You Again",
-        "url": "https://open.spotify.com/album/3I9CFa50uQSVc7dosPzNsQ"
-      },
-      "artists": [
-        {
-          "name": "SadBois",
-          "url": "https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ"
-        },
-        {
-          "name": "ROY KNOX",
-          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
-        },
-        {
-          "name": "Jake Neumar",
-          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
-        }
-      ],
-      "duration_ms": 236842,
-      "name": "Need You Again",
-      "url": "https://open.spotify.com/track/5pk9UVSYYJawxl6D2g9HgL"
-    },
-    {
-      "added_at": "2025-10-10 04:00:45",
-      "album": {
         "name": "Forget My Name",
         "url": "https://open.spotify.com/album/5kBtdhkSqQf6aXSNYtBumd"
       },
@@ -2259,6 +2235,30 @@
       "duration_ms": 254896,
       "name": "Forget My Name",
       "url": "https://open.spotify.com/track/2MHuZf6dkhvAMa5UbKZvZT"
+    },
+    {
+      "added_at": "2025-10-10 04:00:45",
+      "album": {
+        "name": "Need You Again",
+        "url": "https://open.spotify.com/album/3I9CFa50uQSVc7dosPzNsQ"
+      },
+      "artists": [
+        {
+          "name": "SadBois",
+          "url": "https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ"
+        },
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        },
+        {
+          "name": "Jake Neumar",
+          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
+        }
+      ],
+      "duration_ms": 236842,
+      "name": "Need You Again",
+      "url": "https://open.spotify.com/track/5pk9UVSYYJawxl6D2g9HgL"
     },
     {
       "added_at": "2025-10-10 04:00:45",
@@ -2303,22 +2303,18 @@
     {
       "added_at": "2025-10-10 04:00:45",
       "album": {
-        "name": "Too Far Gone (Demons)",
-        "url": "https://open.spotify.com/album/1cFNcVYwZGXFfeDfDwqFFB"
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
       },
       "artists": [
         {
-          "name": "Taylor Kade",
-          "url": "https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
         }
       ],
-      "duration_ms": 194851,
-      "name": "Too Far Gone (Demons)",
-      "url": "https://open.spotify.com/track/14CkVXwXQHjpRmCIhuTmn6"
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2025-10-10 04:00:45",
@@ -2359,22 +2355,6 @@
     {
       "added_at": "2025-10-10 04:00:45",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
-      },
-      "artists": [
-        {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
-    },
-    {
-      "added_at": "2025-10-10 04:00:45",
-      "album": {
         "name": "F\u00d8\u00d8L (INHUMAN Remix)",
         "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
       },
@@ -2391,6 +2371,26 @@
       "duration_ms": 188730,
       "name": "F\u00d8\u00d8L - INHUMAN Remix",
       "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
+    },
+    {
+      "added_at": "2025-10-10 04:00:45",
+      "album": {
+        "name": "Too Far Gone (Demons)",
+        "url": "https://open.spotify.com/album/1cFNcVYwZGXFfeDfDwqFFB"
+      },
+      "artists": [
+        {
+          "name": "Taylor Kade",
+          "url": "https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 194851,
+      "name": "Too Far Gone (Demons)",
+      "url": "https://open.spotify.com/track/14CkVXwXQHjpRmCIhuTmn6"
     },
     {
       "added_at": "2025-10-10 04:00:45",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2025-10-10 04:00:45",
       "album": {
-        "name": "When You & Me Dance",
-        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "When You & Me Dance",
-      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
-    },
-    {
-      "added_at": "2025-10-10 04:00:45",
-      "album": {
         "name": "Embers",
         "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 189721,
       "name": "Embers",
       "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
+    },
+    {
+      "added_at": "2025-10-10 04:00:45",
+      "album": {
+        "name": "When You & Me Dance",
+        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "When You & Me Dance",
+      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
     },
     {
       "added_at": "2025-10-10 04:00:45",

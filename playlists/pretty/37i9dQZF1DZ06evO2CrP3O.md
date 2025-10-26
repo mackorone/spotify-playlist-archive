@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,497 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,508 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 3 | [One Way Or Another \- Remastered 2001](https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:35 |
 | 4 | [Heart Of Glass \- Remix](https://open.spotify.com/track/2HhBmnL8kVYaevaaCsnMVB) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines: Deluxe Collector's Edition](https://open.spotify.com/album/6raionWfBxaJphE3mc8Y4h) | 4:09 |
 | 5 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
-| 6 | [Maria](https://open.spotify.com/track/7bOYOD0d7ByMTXvJnQVl8d) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits](https://open.spotify.com/album/4pIYJsJ8GkYWM1rvqy45ug) | 4:09 |
+| 6 | [Maria](https://open.spotify.com/track/4jDhI4nE32u8meRN1aOu8u) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie 4\(0\)\-Ever: Greatest Hits Deluxe Redux / Ghosts Of Download](https://open.spotify.com/album/0BvoIfpCiKSobLiXF7QOvN) | 4:05 |
 | 7 | [The Tide Is High \- Edit](https://open.spotify.com/track/165NAtd2DRPKNQ6EVY0VG9) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Tide Is High](https://open.spotify.com/album/0zkNOW8F8hcsEwIhulD67b) | 3:53 |
 | 8 | [Atomic](https://open.spotify.com/track/5QIbR39hAEDIOkr4ggh4xc) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 4:40 |
 | 9 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 19 | [Once I Had A Love \(AKA The Disco Song\) \- 1975 Version / Remastered 2001](https://open.spotify.com/track/0UFLbtupYWaDGMS4io94Ml) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 3:58 |
 | 20 | [X Offender \- Remastered 2001](https://open.spotify.com/track/2Yn7a6j6jWq9xzQFP2myDS) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 3:14 |
 | 21 | [Long Time](https://open.spotify.com/track/2ugSAWatjCmL6dgvAKcZrn) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 4:35 |
-| 22 | [11:59](https://open.spotify.com/track/0yAi8iKRgy90VuNNZd3zhz) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:20 |
+| 22 | [Pretty Baby](https://open.spotify.com/track/0Yue9xdK8DrISp8AeEpTDY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:23 |
 | 23 | [\(I'm Always Touched By Your\) Presence, Dear \- Remastered](https://open.spotify.com/track/7wKcSMrAW3d9qTd8OSd9HX) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:43 |
 | 24 | [Rip Her To Shreds \- Remastered 2001](https://open.spotify.com/track/23yUwzz4CQ8yzQ65ATN6Ds) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB), [Craig Leon](https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 3:22 |
 | 25 | [Shayla](https://open.spotify.com/track/1OGQGQgmbUnRStarwKxvrr) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:58 |
-| 26 | [Pretty Baby](https://open.spotify.com/track/0Yue9xdK8DrISp8AeEpTDY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:23 |
+| 26 | [11:59](https://open.spotify.com/track/0yAi8iKRgy90VuNNZd3zhz) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:20 |
 | 27 | [The Tide Is High \- Live](https://open.spotify.com/track/5xzeWwkkSsKu8fDSQcEcOy) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Live](https://open.spotify.com/album/7rCHbBbsUpCu2BX5lBKynt) | 4:04 |
 | 28 | [In The Flesh \- Remastered 2001](https://open.spotify.com/track/4D7ZvtLOG19HmtqKC8l0BI) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 2:33 |
 | 29 | [The Hardest Part](https://open.spotify.com/track/03SV49CTiBv7llc0s0FqhV) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 49 | [Already Naked](https://open.spotify.com/track/1ssGNcB3gVAXxFOaTcj0nE) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 4:06 |
 | 50 | [Live It Up \- Remastered 2001](https://open.spotify.com/track/3DCatgVUgQ3nOvTmuOtq9y) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 4:09 |
 
-Snapshot ID: `aPlwAAAAAADoFHn2wdMxhO+DSqLgDGGp`
+Snapshot ID: `aPrBgAAAAABCTg0xVHAM1Uz6g0QT3z2P`

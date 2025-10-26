@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,822 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,215 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In The Dark](https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:05 |
 | 2 | [BOSS UP](https://open.spotify.com/track/458u353fkPaERY2SoOGPl3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [BOSS UP](https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn) | 2:31 |
 | 3 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 |
-| 4 | [The Way a Heart Breaks](https://open.spotify.com/track/0Bu17sNQtoxhPITYpxdblf) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:51 |
-| 5 | [The Pines](https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Pines](https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm) | 3:05 |
-| 6 | [Kiss](https://open.spotify.com/track/4OwxTsR3IPjFCX0sii5vtP) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Kiss](https://open.spotify.com/album/0d0LjZgArvtjtzX6SnDulV) | 2:48 |
-| 7 | [Betty](https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Betty](https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu) | 3:02 |
-| 8 | [Loser](https://open.spotify.com/track/4NraHNL2oA3V88uAjIKqOu) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [00:00](https://open.spotify.com/album/2QokmcoSM5SNpFKMf9RuOJ) | 3:01 |
-| 9 | [CRANK](https://open.spotify.com/track/5lFu1VR7s2EvuKAi6qxU0G) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [CRANK](https://open.spotify.com/album/3zAXDaMbv8dr2TTw32vEnT) | 2:55 |
-| 10 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 |
-| 11 | [Pussy Palace](https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 4:01 |
+| 4 | [Pussy Palace](https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 4:01 |
+| 5 | [The Way a Heart Breaks](https://open.spotify.com/track/0Bu17sNQtoxhPITYpxdblf) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:51 |
+| 6 | [The Pines](https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Pines](https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm) | 3:05 |
+| 7 | [Kiss](https://open.spotify.com/track/4OwxTsR3IPjFCX0sii5vtP) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Kiss](https://open.spotify.com/album/0d0LjZgArvtjtzX6SnDulV) | 2:48 |
+| 8 | [Betty](https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Betty](https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu) | 3:02 |
+| 9 | [Loser](https://open.spotify.com/track/4NraHNL2oA3V88uAjIKqOu) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [00:00](https://open.spotify.com/album/2QokmcoSM5SNpFKMf9RuOJ) | 3:01 |
+| 10 | [CRANK](https://open.spotify.com/track/5lFu1VR7s2EvuKAi6qxU0G) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [CRANK](https://open.spotify.com/album/3zAXDaMbv8dr2TTw32vEnT) | 2:55 |
+| 11 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 |
 | 12 | [Double Date](https://open.spotify.com/track/4CyevrMYaqn6cvODOldS6m) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Double Date](https://open.spotify.com/album/5ofZGLKXLj5RaTNasbBB8O) | 3:12 |
 | 13 | [I'm Not There For You](https://open.spotify.com/track/3kLqlYcPuj5864tVB5LVL2) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I'm Not There For You](https://open.spotify.com/album/370b4ij3gUhdJsUF2Z1zEe) | 2:19 |
 | 14 | [FU & UF](https://open.spotify.com/track/2UfNSV1Fwz4gGJf42ZX1Pu) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [SE9 Part 1](https://open.spotify.com/album/4Wz7yb00TiEUqMrd3gzVtz) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Sweet Contradiction](https://open.spotify.com/track/6FIk8EiBGQTfBwcAl0KQiA) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Sweet Contradiction](https://open.spotify.com/album/5o8xTnUPomHMjwiIyG3E7c) | 2:40 |
 | 100 | [I Like Ur Look](https://open.spotify.com/track/4FNFhDMEj39Tf6is8RvZ4A) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Like Ur Look](https://open.spotify.com/album/4fG8zkWcN388e0nM0wRaj2) | 2:51 |
 
-Snapshot ID: `AAAAAPxD0miEgYc30EKTk4NM3E0ya0Ie`
+Snapshot ID: `AAAAAKEqDFymUIqB2rv6sQAQm9qfjqkt`

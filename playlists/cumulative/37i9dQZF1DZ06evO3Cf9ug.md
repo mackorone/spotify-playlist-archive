@@ -4,7 +4,7 @@
 
 > This is Tems\. The essential tracks, all in one playlist.
 
-40 songs - 2 hr 15 min
+41 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2025-08-13 |  |
 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 | 2025-08-13 |  |
 | [Ordinary People \(feat\. Tems\) \- Man\-Man Remix](https://open.spotify.com/track/7Jd170HODQ9BFWsFGXj8Wr) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Eugene "Man\-Man" Roberts](https://open.spotify.com/artist/7e7FXQAhssKKJ5Fxx7vfpM) | [Get Lifted \(20th Anniversary\)](https://open.spotify.com/album/7evc0CBi3ASwhBxAHBPUaZ) | 4:49 | 2025-08-13 |  |
+| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2025-10-26 |  |
 | [Replay](https://open.spotify.com/track/2dFqK2ZkYB9Xc47gr3xXWl) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 2:59 | 2025-08-13 |  |
 | [Soon](https://open.spotify.com/track/1kfQmWnwajgFHQhJMvk6LF) | [Blackmagic](https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Blackmagic Version 3.0 \(Starving Artist\)](https://open.spotify.com/album/0uoZGAda5pPCSU2yfoZNx5) | 3:04 | 2025-08-13 |  |
 | [Tales By Moonlight](https://open.spotify.com/track/41dadXGDnC0DZfBmOHC1l1) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Palmwine Express](https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf) | 2:48 | 2025-08-13 |  |

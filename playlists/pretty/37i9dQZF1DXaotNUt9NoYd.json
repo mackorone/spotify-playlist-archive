@@ -1,6 +1,6 @@
 {
   "description": "Its time to travel inwards & feel the bliss!",
-  "num_followers": 71856,
+  "num_followers": 71862,
   "original_name": "Dhyanam",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2025-10-08 09:26:34",
       "album": {
+        "name": "Path of Silence",
+        "url": "https://open.spotify.com/album/1MAfd9PsmzeqytYfBLM1cE"
+      },
+      "artists": [
+        {
+          "name": "Buddha Code",
+          "url": "https://open.spotify.com/artist/1E4RecMXQfXOmIaJHm17kd"
+        }
+      ],
+      "duration_ms": 225213,
+      "name": "Silent Awakening",
+      "url": "https://open.spotify.com/track/4QDGv6zyByK3JPoPrroPXp"
+    },
+    {
+      "added_at": "2025-10-08 09:26:34",
+      "album": {
         "name": "Woodland Dreams",
         "url": "https://open.spotify.com/album/0p0AWEqiZOdXCpXj47B3qr"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 189426,
       "name": "Invisible Spirits",
       "url": "https://open.spotify.com/track/2JgZDjFDYvWn2Oj2l0mJM2"
-    },
-    {
-      "added_at": "2025-10-08 09:26:34",
-      "album": {
-        "name": "Path of Silence",
-        "url": "https://open.spotify.com/album/1MAfd9PsmzeqytYfBLM1cE"
-      },
-      "artists": [
-        {
-          "name": "Buddha Code",
-          "url": "https://open.spotify.com/artist/1E4RecMXQfXOmIaJHm17kd"
-        }
-      ],
-      "duration_ms": 225213,
-      "name": "Silent Awakening",
-      "url": "https://open.spotify.com/track/4QDGv6zyByK3JPoPrroPXp"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -463,6 +463,22 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
+        "name": "Kundalini: Yoga, Meditation, Relaxation",
+        "url": "https://open.spotify.com/album/7z46HD34zZQcgebsYDtZfo"
+      },
+      "artists": [
+        {
+          "name": "Kundalini: Yoga, Meditation, Relaxation",
+          "url": "https://open.spotify.com/artist/2AXNDqT86nQcoDCRrjFPGI"
+        }
+      ],
+      "duration_ms": 153156,
+      "name": "Yoga Meditation and Relaxation",
+      "url": "https://open.spotify.com/track/3SrEmZTtPBo5Mzsa7qRsQE"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
         "name": "The Calm Sessions",
         "url": "https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 137854,
       "name": "Long Long Sleep",
       "url": "https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
-        "name": "Kundalini: Yoga, Meditation, Relaxation",
-        "url": "https://open.spotify.com/album/7z46HD34zZQcgebsYDtZfo"
-      },
-      "artists": [
-        {
-          "name": "Kundalini: Yoga, Meditation, Relaxation",
-          "url": "https://open.spotify.com/artist/2AXNDqT86nQcoDCRrjFPGI"
-        }
-      ],
-      "duration_ms": 153156,
-      "name": "Yoga Meditation and Relaxation",
-      "url": "https://open.spotify.com/track/3SrEmZTtPBo5Mzsa7qRsQE"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "Healing Memories",
-        "url": "https://open.spotify.com/album/4TdhUIpSL4UeYpSIoCw7my"
-      },
-      "artists": [
-        {
-          "name": "Kumbhaka",
-          "url": "https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO"
-        }
-      ],
-      "duration_ms": 202305,
-      "name": "Healing Memories",
-      "url": "https://open.spotify.com/track/7nd51y4iaZaNLZcbAyQZWK"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
         "name": "1 Hour Chakra Healing (Chakra Balancing for Meditation with 432HZ Music and Sounds of Nature)",
         "url": "https://open.spotify.com/album/0qoeKz2bEZ5B1p0hbJstIo"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 543804,
       "name": "Svadisthana Chakra - Sacral Chakra Balance Sexual Energy",
       "url": "https://open.spotify.com/track/1M5hjYDnYaA9IBhwv5Dnk7"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
+        "name": "Healing Memories",
+        "url": "https://open.spotify.com/album/4TdhUIpSL4UeYpSIoCw7my"
+      },
+      "artists": [
+        {
+          "name": "Kumbhaka",
+          "url": "https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO"
+        }
+      ],
+      "duration_ms": 202305,
+      "name": "Healing Memories",
+      "url": "https://open.spotify.com/track/7nd51y4iaZaNLZcbAyQZWK"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "Sleeper",
-        "url": "https://open.spotify.com/album/6IoRGJxNt4XSc7DbpSnMvm"
-      },
-      "artists": [
-        {
-          "name": "Intentional Vibes",
-          "url": "https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr"
-        }
-      ],
-      "duration_ms": 216131,
-      "name": "Mindstiller",
-      "url": "https://open.spotify.com/track/2IA4wO7fwVunvFQuWeksm8"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
         "name": "Yoga Retreat",
         "url": "https://open.spotify.com/album/0eAjruWl2AJFaEGFSZ9IR8"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 158131,
       "name": "Deep Meditation",
       "url": "https://open.spotify.com/track/2EwfFUQNTUsf8nqJHUiBcM"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
+        "name": "Sleeper",
+        "url": "https://open.spotify.com/album/6IoRGJxNt4XSc7DbpSnMvm"
+      },
+      "artists": [
+        {
+          "name": "Intentional Vibes",
+          "url": "https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr"
+        }
+      ],
+      "duration_ms": 216131,
+      "name": "Mindstiller",
+      "url": "https://open.spotify.com/track/2IA4wO7fwVunvFQuWeksm8"
     },
     {
       "added_at": "2021-04-22 05:37:53",

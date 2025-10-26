@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 549670,
+  "num_followers": 549617,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
+        "name": "Your Power",
+        "url": "https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 245896,
+      "name": "Your Power",
+      "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
         "name": "All My Demons Greeting Me as a Friend (Deluxe)",
         "url": "https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0TCmhnbMpw5zwPsTvlXTJi"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
-        "name": "golden hour",
-        "url": "https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "Your Power",
-        "url": "https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3"
+        "name": "golden hour",
+        "url": "https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 245896,
-      "name": "Your Power",
-      "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1555,38 +1555,6 @@
       "duration_ms": 163758,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/5sbZj8hcae2ebXVBonKQ6g"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
-        "name": "I'm Sure",
-        "url": "https://open.spotify.com/album/79zUXfErg2kVJQxQ7ypEZ8"
-      },
-      "artists": [
-        {
-          "name": "Harmless",
-          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
-        }
-      ],
-      "duration_ms": 321438,
-      "name": "Swing Lynn",
-      "url": "https://open.spotify.com/track/6hIOunhsLUT66KQgZV5dMD"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
-        "name": "I Like That",
-        "url": "https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 158083,
-      "name": "I Like That",
-      "url": "https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1619,6 +1587,38 @@
       "duration_ms": 217136,
       "name": "Morning Blue",
       "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
+        "name": "I'm Sure",
+        "url": "https://open.spotify.com/album/79zUXfErg2kVJQxQ7ypEZ8"
+      },
+      "artists": [
+        {
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+        }
+      ],
+      "duration_ms": 321438,
+      "name": "Swing Lynn",
+      "url": "https://open.spotify.com/track/6hIOunhsLUT66KQgZV5dMD"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
+        "name": "I Like That",
+        "url": "https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 158083,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz"
     },
     {
       "added_at": "2024-07-11 01:17:45",

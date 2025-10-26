@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 71 | [NOT TOO DEEP \(feat\. 6LACK\)](https://open.spotify.com/track/2ll0wHMe0R071XBl3TDaw2) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [BEFORE WE GO](https://open.spotify.com/album/1MnOpmiIDEfloQektuOGkr) | 4:50 |
 | 72 | [Livin' It Up \(feat\. Nicki Minaj\)](https://open.spotify.com/track/4AJ3hLJSbk1iNvqiEArlXB) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Ciara](https://open.spotify.com/album/4iGuSUpSeXQKckIuQGwPg7) | 3:45 |
 | 73 | [Ready For Love \(Interlude\)](https://open.spotify.com/track/5bNXZ2fZx0SX42l7GeWY25) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 1:49 |
-| 74 | [Rare](https://open.spotify.com/track/50zMpjG2mZkIMqmsJdiGtA) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Rare](https://open.spotify.com/album/1UrbRQtj25KegxbzCkfxIV) | 3:37 |
-| 75 | [Smoke \(Reprise\)](https://open.spotify.com/track/5EBu8YZCabKgNlr5Kxy0Xw) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 1:37 |
+| 74 | [Smoke \(Reprise\)](https://open.spotify.com/track/5EBu8YZCabKgNlr5Kxy0Xw) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 1:37 |
+| 75 | [Rare](https://open.spotify.com/track/50zMpjG2mZkIMqmsJdiGtA) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Rare](https://open.spotify.com/album/1UrbRQtj25KegxbzCkfxIV) | 3:37 |
 | 76 | [I'm The One](https://open.spotify.com/track/5lHK542W8im991c0y4Tcrs) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 3:29 |
 | 77 | [TOO SWEET \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/60lNUvQVzMnORIJvDEZG8Z) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [BEFORE WE GO](https://open.spotify.com/album/1MnOpmiIDEfloQektuOGkr) | 3:46 |
 | 78 | [Famous Excuses](https://open.spotify.com/track/5pE2YAGK1WBgG0p1qRtQFS) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Beach House 3](https://open.spotify.com/album/7Dj0aaKI4RpehMPqOu56mW) | 1:02 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 152 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
 | 153 | [Falling In Love](https://open.spotify.com/track/0zzqjHe6CUudt5UzKgS95v) | [Juxtaposition](https://open.spotify.com/artist/4wFqotuEhWL1ERKyIVnU9F) | [Retrospect](https://open.spotify.com/album/3W28uUSJbOrzH3WDbgSWX3) | 3:02 |
 
-Snapshot ID: `Ab/wJgAAAAAnQZ34FZ7/BKb7niNLZ47s`
+Snapshot ID: `Ab/1vAAAAAD6Nlz1yMetjuI1872jOirA`

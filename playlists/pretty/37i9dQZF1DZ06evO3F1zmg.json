@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAAoEXDVkoJi7YlgPZU8p1kd",
+  "snapshot_id": "aPrBgAAAAABrTQS7cb/fb+FrGcOf+Z6j",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Maintenance",
-        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 109302,
-      "name": "ICY GRL",
-      "url": "https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)",
         "url": "https://open.spotify.com/album/2kzL3gkr5jufUyowwonTlf"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 175992,
       "name": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)",
       "url": "https://open.spotify.com/track/5rB5mfeFCkUI3nkHQMMZ3K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 109302,
+      "name": "ICY GRL",
+      "url": "https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu"
     },
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faking Love (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 148577,
-      "name": "Faking Love (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Between Us (The Mixers Edition)",
         "url": "https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 185374,
       "name": "Confetti (feat. Saweetie)",
       "url": "https://open.spotify.com/track/4oXV7uPMrMNSZfLMYtiqIX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faking Love (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 148577,
+      "name": "Faking Love (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Best",
-        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 121053,
-      "name": "My Best",
-      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE SINGLE LIFE",
         "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 134760,
       "name": "BO$$ CHICK",
       "url": "https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Best",
+        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 121053,
+      "name": "My Best",
+      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
     },
     {
       "added_at": null,
@@ -763,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
+        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Swan Song",
+      "url": "https://open.spotify.com/track/790TzR1UxBXVMFSGq8p7bv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Immaculate",
         "url": "https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 154400,
       "name": "Immaculate",
       "url": "https://open.spotify.com/track/21XJd63KiArnOgo39sJezL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
-        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Swan Song",
-      "url": "https://open.spotify.com/track/790TzR1UxBXVMFSGq8p7bv"
     },
     {
       "added_at": null,
@@ -947,22 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HELLA PRESSURE",
-        "url": "https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 161952,
-      "name": "i need some inspo",
-      "url": "https://open.spotify.com/track/3aakGDVfwfVgUgT10ax7zE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High Maintenance",
         "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 49242,
       "name": "High Maintenance",
       "url": "https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HELLA PRESSURE",
+        "url": "https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 161952,
+      "name": "i need some inspo",
+      "url": "https://open.spotify.com/track/3aakGDVfwfVgUgT10ax7zE"
     },
     {
       "added_at": null,

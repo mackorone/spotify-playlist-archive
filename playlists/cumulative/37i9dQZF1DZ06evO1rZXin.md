@@ -4,7 +4,7 @@
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-118 songs - 5 hr 44 min
+119 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Te Ves Bien Buena](https://open.spotify.com/track/1EuYHwXDrj771cIMKEHIzU) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena...](https://open.spotify.com/album/2ZOXz5yT9CkrDlZuABMDmg) | 2:48 | 2023-02-20 | 2024-06-12 |
 | [Te Ves Bien Buena](https://open.spotify.com/track/4W7B6AkTQ6CJSXTojwfMoY) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena...](https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl) | 2:48 | 2024-06-12 |  |
 | [Te Voy A Olvidar](https://open.spotify.com/track/6eXRwbKnntPjOejDfmDUaf) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 3:00 | 2023-06-04 | 2023-06-09 |
+| [Te Voy A Olvidar](https://open.spotify.com/track/7t7onEgU8E9ayFIVh9FI7G) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 3:00 | 2025-10-26 |  |
 | [Tu Abandono](https://open.spotify.com/track/1Y7kdmFXeDAbe5oqtPhDKY) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 2:53 | 2022-06-28 | 2023-06-09 |
 | [Tu Eres](https://open.spotify.com/track/1X7Hd8e5UMupAtXmMkAN9f) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 2:17 | 2022-06-01 | 2023-06-09 |
 | [Tu Eres](https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc) | 2:17 | 2025-04-19 |  |

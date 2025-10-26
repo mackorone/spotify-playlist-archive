@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 262633,
+  "num_followers": 262645,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAAzfwsrcicyJWwV8K6KUj4u",
+  "snapshot_id": "aPrBgAAAAAAkzo/mHfiweDlRrdrQh8rx",
   "tracks": [
     {
       "added_at": null,
@@ -455,10 +455,14 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money On Money (feat. Future)",
-        "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
+        "name": "WHAM (Extended Version)",
+        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
       },
       "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
@@ -468,9 +472,9 @@
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 236626,
-      "name": "Money On Money (feat. Future)",
-      "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
+      "duration_ms": 227400,
+      "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
+      "url": "https://open.spotify.com/track/4IKvw1OdeTJIN3g4zWE38f"
     },
     {
       "added_at": null,
@@ -503,14 +507,10 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAM (Extended Version)",
-        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
+        "name": "Money On Money (feat. Future)",
+        "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
       },
       "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 227400,
-      "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
-      "url": "https://open.spotify.com/track/4IKvw1OdeTJIN3g4zWE38f"
+      "duration_ms": 236626,
+      "name": "Money On Money (feat. Future)",
+      "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
     },
     {
       "added_at": null,
@@ -551,30 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "100 GIGS",
-        "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "It's Up (feat. Young Thug & 21 Savage)",
-      "url": "https://open.spotify.com/track/1qIwin7JMVuX70qN6wD8ww"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lifestyle",
         "url": "https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 269693,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100 GIGS",
+        "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "It's Up (feat. Young Thug & 21 Savage)",
+      "url": "https://open.spotify.com/track/1qIwin7JMVuX70qN6wD8ww"
     },
     {
       "added_at": null,
@@ -722,11 +722,15 @@
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 230720,
-      "name": "Ninja",
-      "url": "https://open.spotify.com/track/6D4FK8x2fG9edfjYo7yDON"
+      "duration_ms": 159000,
+      "name": "Pardon My Back (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/2PJe4Z0NdsdAcR0pFBv0BW"
     },
     {
       "added_at": null,
@@ -802,15 +806,11 @@
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Pardon My Back (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/2PJe4Z0NdsdAcR0pFBv0BW"
+      "duration_ms": 230720,
+      "name": "Ninja",
+      "url": "https://open.spotify.com/track/6D4FK8x2fG9edfjYo7yDON"
     },
     {
       "added_at": null,
@@ -1007,26 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 160776,
-      "name": "Never Hating (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoodie SZN",
         "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 220888,
       "name": "Just Like Me (feat. Young Thug)",
       "url": "https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 160776,
+      "name": "Never Hating (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
     },
     {
       "added_at": null,

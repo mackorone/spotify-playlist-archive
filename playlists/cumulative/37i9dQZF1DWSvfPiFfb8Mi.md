@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-410 songs - 1 day 2 hr 45 min
+411 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,9 +272,10 @@
 | [Oh I](https://open.spotify.com/track/6lgpP2tQ8zyVHZTNUKJk1q) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Oh I](https://open.spotify.com/album/3Na8m2k5Xz4PZkA4l5FoBz) | 3:57 | 2024-08-30 | 2025-03-08 |
 | [Olé Maca](https://open.spotify.com/track/2Xw7NAZNuZKkLJVNQsIXiN) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Olé Maca \- Single](https://open.spotify.com/album/66kcE5GtO1NBEzsLHGu3na) | 2:37 | 2024-06-28 | 2024-10-04 |
 | [ON THE MOVE](https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [ON THE MOVE](https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu) | 3:24 | 2023-06-09 |  |
-| [One On One \(Cerrone Remix\)](https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [One On One \(Cerrone Remix\)](https://open.spotify.com/album/7oNkv3hDFC2IhcwaLWnUDi) | 3:24 | 2024-03-15 |  |
+| [One On One \(Cerrone Remix\)](https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [One On One \(Cerrone Remix\)](https://open.spotify.com/album/7oNkv3hDFC2IhcwaLWnUDi) | 3:24 | 2024-03-15 | 2025-10-26 |
 | [Only For Tonight](https://open.spotify.com/track/6STCwjymKob5lZcDdpKcTK) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [m.O.N.R.O.E.](https://open.spotify.com/artist/6pDZzvzwjGXunH8FCb2ulo), [Matluck](https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu) | [Only For Tonight](https://open.spotify.com/album/5IUlPTkjpkLiWCoFOh4oOo) | 3:16 | 2025-06-20 |  |
 | [Only You](https://open.spotify.com/track/2LMKaaPc48a48HIB5dmFmR) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM), [Noa Milee](https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4) | [Only You](https://open.spotify.com/album/7cWLkwgHZo7jtIpzlsQCeD) | 2:47 | 2025-02-21 |  |
+| [Only You](https://open.spotify.com/track/2FGXZznZ2xSBw4UkgX8ILo) | [Tasty Or Not](https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad), [Cees](https://open.spotify.com/artist/3Ukkyza3hizY5qHOU5Bttg), [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Only You](https://open.spotify.com/album/4ktlIUlb1Y3K3RIG6l2V6m) | 2:58 | 2025-10-24 |  |
 | [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-09-25 | 2024-04-19 |
 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-07-28 | 2023-09-26 |
 | [Ordinary Love \- Folamour Remix](https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Ordinary Love \(Folamour Remix\)](https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk) | 5:25 | 2024-01-26 | 2025-05-07 |

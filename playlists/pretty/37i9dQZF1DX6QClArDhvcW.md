@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,240 likes - 100 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,302 likes - 100 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 3 | [if you do](https://open.spotify.com/track/5R4nEl8XfFBPS2kxk5KOgi) | [loutwo](https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf) | [if you do](https://open.spotify.com/album/7anJkBjZABHWT2cSru4sBw) | 2:30 |
 | 4 | [lotus lullaby](https://open.spotify.com/track/2hLnS47GXY6F7K1tRIeKQb) | [Reve brumeux](https://open.spotify.com/artist/2ZlVEhVqWhxjhWl8awyoDY) | [lotus lullaby](https://open.spotify.com/album/2fVgpha9xp7HSIws6hl3yh) | 2:19 |
 | 5 | [foam](https://open.spotify.com/track/11j0qQhHzDxOiItPenCc7e) | [new vibe](https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo) | [foam](https://open.spotify.com/album/3O7iHjbCvoe1Oc2kzjvTxE) | 2:18 |
-| 6 | [sunrise](https://open.spotify.com/track/1eo4dFZb0UAvPO7oPFPE72) | [mxgnetic](https://open.spotify.com/artist/5u7mGLVX9UB0iKwkgMywJ9) | [sunrise](https://open.spotify.com/album/0t4yXNgstBAzYTiRL5oOsc) | 2:37 |
+| 6 | [sunrise](https://open.spotify.com/track/1eo4dFZb0UAvPO7oPFPE72) | [mxgnetic.](https://open.spotify.com/artist/5u7mGLVX9UB0iKwkgMywJ9) | [sunrise](https://open.spotify.com/album/0t4yXNgstBAzYTiRL5oOsc) | 2:37 |
 | 7 | [AM FEAST](https://open.spotify.com/track/2g8J8XopOHJX0pWmHHbIua) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [AM FEAST](https://open.spotify.com/album/4uOSiKCy3TYfpyzsaht2B5) | 2:13 |
 | 8 | [engine](https://open.spotify.com/track/7AuPss1RirDdnHfacZxcEP) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [engine](https://open.spotify.com/album/7sPdoryNYE8HNZktvXvpy7) | 2:03 |
 | 9 | [pillowloop](https://open.spotify.com/track/55mSGigZFY4BETnc0pJoKM) | [Analogue Alf](https://open.spotify.com/artist/4FVJdMWSQhn3zO1NKxMHAi) | [pillowloop](https://open.spotify.com/album/29UbrqkB8YmNXEXYSF0IQj) | 1:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 99 | [mountain peak](https://open.spotify.com/track/0VGLPDmgUWpoUjStj7Csvc) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [mountain peak](https://open.spotify.com/album/39X3V9LCL3hqHDiUqjUpH6) | 2:26 |
 | 100 | [Morning Coffee](https://open.spotify.com/track/5TIsR4S8fDO1TO8KZXedKi) | [sleepy turtle](https://open.spotify.com/artist/0Izi9quSIBBUyjV3Ur0RCY) | [Morning Coffee](https://open.spotify.com/album/5lOaxgs7ewldAkepMk1kdT) | 2:14 |
 
-Snapshot ID: `AAAAADG9YONLsUlgc9Je7nC6mgpLhKyV`
+Snapshot ID: `AAAAAC5ydW+qQN0WXqJHtNKDZb5CTZtg`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,641 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,670 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Over the Moon](https://open.spotify.com/track/2GqqgM1zN4kyym6EVciDIn) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [Over the Moon](https://open.spotify.com/album/0gbHZgbY0i3emsMmSBoxRb) | 3:16 |
 | 100 | [I Got Your Love](https://open.spotify.com/track/27tSNC5BAGTPex0Oyuj9z0) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79), [Seibold](https://open.spotify.com/artist/2K5tyaxKm3dWuyFyf0jtaR) | [I Got Your Love](https://open.spotify.com/album/6B2xUHx21ZnXjAuxBTJnTL) | 2:13 |
 
-Snapshot ID: `AAAAAP6oGeZoqez88avXz0DjvYYtOBjr`
+Snapshot ID: `AAAAAHn/iXIbeFTh1BYVx71MWju7w1dj`

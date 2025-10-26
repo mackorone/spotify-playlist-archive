@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain]
 
 > Enjoy songs from artists appearing on WONDERLIVET 2025! \(WONDERLIVET 2025의 출연 아티스트 곡들을 즐겨보세요! \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,026 likes - 84 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,035 likes - 84 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain]
 | 83 | [好きだから。](https://open.spotify.com/track/02xwA3Ej9NPetftp9V7VZ3) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [好きだから。](https://open.spotify.com/album/0Yp3xThk83SwBN8yP2IaTS) | 4:58 |
 | 84 | [恋泥棒。](https://open.spotify.com/track/5BJB71o4sRh0mMaAeObgre) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [紺色に憧れて](https://open.spotify.com/album/43SWQqd7vTaZNecVGqYuc6) | 3:40 |
 
-Snapshot ID: `AAAAAPu+EZiaUzwn5D+gOuA2zzV6x8hS`
+Snapshot ID: `AAAAAKij7TrHkneF1LHpfvROnp5qJ5eo`

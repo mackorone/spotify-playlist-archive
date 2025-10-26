@@ -4,7 +4,7 @@
 
 > This is Little Walter\. The essential tracks, all in one playlist.
 
-88 songs - 4 hr 23 min
+89 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Big Leg Mama](https://open.spotify.com/track/5ekFH1K17PXfFh71H3jlnN) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 2:47 | 2022-11-04 | 2024-07-21 |
 | [Blue And Lonesome \- Single Version](https://open.spotify.com/track/6VhYbFu0awTAtouzcbl8v2) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:54 | 2022-08-05 |  |
 | [Blue Light](https://open.spotify.com/track/2aAmheIclkmQmqRQMEYr3A) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:12 | 2022-08-08 | 2022-10-11 |
+| [Blue Light \- Single Version](https://open.spotify.com/track/5KR5hJ3y1evtGt5MeEHU8l) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Best Of Little Walter](https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx) | 3:16 | 2025-10-26 |  |
 | [Blue Midnight](https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:24 | 2022-08-05 | 2024-09-26 |
 | [Blue Midnight \- Alternate Take](https://open.spotify.com/track/6qpWYefGy5ziiGVKxvoNQu) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:02 | 2024-09-26 | 2025-04-13 |
 | [Blues With A Feeling](https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:07 | 2022-08-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: rileyfromearth
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,252 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,251 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 | 99 | [Spirals On My Tongue](https://open.spotify.com/track/7C73dQdKGFB59kUCL5C2jV) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Spirals On My Tongue](https://open.spotify.com/album/2rxo2AhEjvtu27B0Va0GfC) | 2:45 |
 | 100 | [Paul's Theme](https://open.spotify.com/track/2L6CJVu31xXdZFu6Q6j3Hb) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 3:05 |
 
-Snapshot ID: `AAAAAESZik4mPqWyvG+K7RGrk9/y1dXW`
+Snapshot ID: `AAAAAIS6LJi8ih2i3gcWkoQC6fUiokX3`

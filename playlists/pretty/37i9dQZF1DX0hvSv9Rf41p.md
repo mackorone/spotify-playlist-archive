@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Skrillex & ISOxo
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,461 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,470 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 43 | [ELECTRIC LOVE](https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh) | [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ) | [ELECTRIC LOVE](https://open.spotify.com/album/4lPX7RafbFpqoHQfNvj0HG) | 2:44 |
 | 44 | [Blow My Whistle](https://open.spotify.com/track/0ZOZjnnMWMb1tlz1dOqEPF) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [DJ Aligator](https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6) | [Hardest D Style EP](https://open.spotify.com/album/5YFiSrfcDYSvf8TRkTNabS) | 3:21 |
 | 45 | [need2know](https://open.spotify.com/track/64OfsokBDQLKONzokhUh1h) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [need2know](https://open.spotify.com/album/62woKz3YaWjZi1nTVc2cRu) | 3:48 |
-| 46 | [machine\_age](https://open.spotify.com/track/55fKc3ex9q7lEQUgPzPyLy) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [THE\_BIG\_TRIP](https://open.spotify.com/album/5fJwIK2omIRULAM93wapMk) | 3:16 |
+| 46 | [machine\_age](https://open.spotify.com/track/55fKc3ex9q7lEQUgPzPyLy) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [THE\_BIG\_TRIP](https://open.spotify.com/album/5fJwIK2omIRULAM93wapMk) | 2:44 |
 | 47 | [STARBURST](https://open.spotify.com/track/1QRNy9hWEOxGAxVUOcKyxH) | [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [STARBURST](https://open.spotify.com/album/1HVYhoWWZRIb1QFVIaIYET) | 3:27 |
 | 48 | [Sofa Soup](https://open.spotify.com/track/4SI8ClxzA7QHSv47ZPAhH2) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Sofa Soup](https://open.spotify.com/album/0GCR4QIHiueEQYO3m8Shfs) | 2:49 |
 | 49 | [Cash Out \- YDG Remix](https://open.spotify.com/track/6ewgmx37XRRI3WZgtUbEEY) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Cash Out \(YDG Remix\)](https://open.spotify.com/album/3HfgYSAdKa35T22wiwquJW) | 2:03 |

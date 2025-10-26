@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Jimmy Buffett",
-  "num_followers": 298679,
+  "num_followers": 298803,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/16lsqxMjRUFOBo2jocsy1C"
-      },
-      "artists": [
-        {
-          "name": "Seals and Crofts",
-          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "One of These Nights (2013 Remaster)",
         "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
@@ -319,18 +303,34 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Rocky Mountain High",
-        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/16lsqxMjRUFOBo2jocsy1C"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Seals and Crofts",
+          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
         }
       ],
-      "duration_ms": 283640,
-      "name": "Rocky Mountain High",
-      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+      "duration_ms": 205480,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Life Beyond L.A.",
+        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        }
+      ],
+      "duration_ms": 283400,
+      "name": "How Much I Feel",
+      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Life Beyond L.A.",
-        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
+        "name": "Rocky Mountain High",
+        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
       },
       "artists": [
         {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 283400,
-      "name": "How Much I Feel",
-      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
+      "duration_ms": 283640,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Some Things Don't Come Easy",
-        "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 172240,
-      "name": "We'll Never Have to Say Goodbye Again - Single Version",
-      "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Firefall",
         "url": "https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 164440,
       "name": "You Are the Woman",
       "url": "https://open.spotify.com/track/4iiLzvbh0bXMnomiB6DIuk"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Some Things Don't Come Easy",
+        "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "We'll Never Have to Say Goodbye Again - Single Version",
+      "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Changes In Latitudes, Changes In Attitudes",
-      "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Ambrosia",
         "url": "https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 256160,
       "name": "Holdin' on to Yesterday",
       "url": "https://open.spotify.com/track/5nFpF7jUbVnnDMXIu65aoh"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Changes In Latitudes, Changes In Attitudes",
+      "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/1Pwcxq35Hl2kqwUVd5XCRg"
     },
     {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Sometimes You Win",
-        "url": "https://open.spotify.com/album/7DxsMT1vegybVpiiSLTZ22"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Sexy Eyes",
-      "url": "https://open.spotify.com/track/4V2cR7mSEDaRa7DXiZMN7o"
-    },
-    {
       "added_at": "2023-03-30 13:21:39",
       "album": {
         "name": "Whatever Happened to Benny Santini?",
@@ -879,6 +863,22 @@
       "duration_ms": 284533,
       "name": "Fool (If You Think It's Over)",
       "url": "https://open.spotify.com/track/0UHiH4dy1hXULYl8CgNxRV"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Sometimes You Win",
+        "url": "https://open.spotify.com/album/7DxsMT1vegybVpiiSLTZ22"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Sexy Eyes",
+      "url": "https://open.spotify.com/track/4V2cR7mSEDaRa7DXiZMN7o"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Luna Sea",
-        "url": "https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75"
-      },
-      "artists": [
-        {
-          "name": "Firefall",
-          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Just Remember I Love You",
-      "url": "https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 234360,
       "name": "Till It Shines",
       "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Luna Sea",
+        "url": "https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75"
+      },
+      "artists": [
+        {
+          "name": "Firefall",
+          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Just Remember I Love You",
+      "url": "https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO"
     },
     {
       "added_at": "2023-03-29 17:34:27",

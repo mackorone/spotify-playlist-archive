@@ -4,7 +4,7 @@
 
 > Simply rain
 
-360 songs - 16 hr 34 min
+361 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Intense Rain \- Seamless](https://open.spotify.com/track/1qx7N9IwWOmGfE7mV4OOTv) | [Weather Bureau](https://open.spotify.com/artist/1aHHKWIy2Twf2ssw0SirYO) | [Intense Rain](https://open.spotify.com/album/3IiR8UE0wLX12Wo0C8P2Td) | 2:18 | 2022-11-16 | 2025-05-09 |
 | [Island Downpour](https://open.spotify.com/track/015SV1pVaJYI1zHQ4KjvGY) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Island Downpour](https://open.spotify.com/album/0U8Xffl20vRevEZHEgmWlY) | 2:30 | 2023-06-16 |  |
 | [It's Heading Our Way](https://open.spotify.com/track/67nCwIKYC4M0hFskf2skPP) | [Monsooners](https://open.spotify.com/artist/5BnvoIO9j362IcN5NkZ9Tq) | [Eye of The Storm](https://open.spotify.com/album/3B7qr4tEfAr6vqxG8KREW4) | 1:46 | 2021-11-08 | 2023-06-17 |
-| [It's Rain, Dear](https://open.spotify.com/track/7KvxHYNGXUHuPhZFRcQoqE) | [Drizzly Bear](https://open.spotify.com/artist/4kFH5XN6V0zQVZ2G6sp0ZE) | [Puddle Pals](https://open.spotify.com/album/50R0m3woTGC25JgtjAvd3Z) | 2:46 | 2023-06-16 |  |
+| [It's Rain, Dear](https://open.spotify.com/track/7KvxHYNGXUHuPhZFRcQoqE) | [Drizzly Bear](https://open.spotify.com/artist/4kFH5XN6V0zQVZ2G6sp0ZE) | [Puddle Pals](https://open.spotify.com/album/50R0m3woTGC25JgtjAvd3Z) | 2:46 | 2023-06-16 | 2025-10-26 |
 | [Jungle Showers](https://open.spotify.com/track/75LcH81GTi2s6QDM4PdCZ0) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Island Downpour](https://open.spotify.com/album/0U8Xffl20vRevEZHEgmWlY) | 2:05 | 2023-06-16 |  |
 | [Kulangana \(Rain\)](https://open.spotify.com/track/23y6GPrgh0T8pibNl6E4FL) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Serene Rain Soundscapes](https://open.spotify.com/album/0o9THNf7bfyxQy5KwYMeMS) | 3:00 | 2023-02-13 |  |
 | [La Cienega Rain](https://open.spotify.com/track/52TANWyIjIMqjzUBwQZrj9) | [Flows of Sleep](https://open.spotify.com/artist/1MAazf048soVcELWMYehho) | [Los Angeles Rain](https://open.spotify.com/album/6GuGhvQs5EpSxr6wQd71Bd) | 2:38 | 2021-11-08 |  |
@@ -207,6 +207,7 @@
 | [Rain All Around Us](https://open.spotify.com/track/0OCLkr4GJ0GqRBicgCwLoz) | [When Nature Calls](https://open.spotify.com/artist/7Euiup1JV21sbXrHKASylJ) | [Natural Rainfall](https://open.spotify.com/album/7dxHDE5BM5YjM3zRPCz88G) | 2:54 | 2022-11-16 | 2025-02-28 |
 | [Rain All Year Round](https://open.spotify.com/track/4iwDUEEZHxq7ITcc7DqCCI) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [London Days](https://open.spotify.com/album/5RFrcOdX3Qzc6sTPYXtVVq) | 3:12 | 2021-11-08 |  |
 | [Rain Before Dawn](https://open.spotify.com/track/6sCFjcEP2wvMkTbs6Ey85b) | [cloudcity](https://open.spotify.com/artist/0qF5CbAVNAKVP6maHHNf8G) | [Rain Before Dawn](https://open.spotify.com/album/4Dbx557skdXeYCIUBd4VHq) | 3:28 | 2022-01-21 |  |
+| [Rain Calm](https://open.spotify.com/track/0Hg0yv07sax49cPaxZyz2M) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Rain Calm](https://open.spotify.com/album/1xbUv6JJb3Wrq43W42Xtbn) | 2:43 | 2025-09-23 |  |
 | [Rain Chatter](https://open.spotify.com/track/5ICtYJwGeJrmBX4AX8nXpq) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Rain Chatter](https://open.spotify.com/album/3Rjzg5Rllf3BrHOjEnxdzQ) | 2:56 | 2024-03-22 | 2025-06-24 |
 | [Rain Coming Down](https://open.spotify.com/track/34f5y8LWDL5sSJKkSHqMr5) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Nordic Drops](https://open.spotify.com/album/4tL02ie3DznKXsLffUJR7y) | 2:12 | 2022-11-16 |  |
 | [Rain Dancing](https://open.spotify.com/track/7bJAQD5AAq9zxQz1nal7tp) | [Zuni](https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6) | [Deep Sleep Drops](https://open.spotify.com/album/5EhMdHcVj4sRsTZCqNYDEM) | 2:38 | 2021-11-08 |  |

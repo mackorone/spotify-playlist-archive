@@ -4,7 +4,7 @@
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-95 songs - 4 hr 39 min
+96 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bonde da Hello Kit](https://open.spotify.com/track/2SEyszdGq5AbigyKfvN2iB) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Bonde da Hello Kit](https://open.spotify.com/album/1kIR6uovJBKOI83oqBOvFP) | 1:48 | 2023-12-30 | 2024-10-13 |
 | [Botano \(Útero Baixo\)](https://open.spotify.com/track/4I5tjmq7DRY9pHqKgiE5Fr) | [DJ Caio Prince](https://open.spotify.com/artist/5QihhtcyXmUesNqhRRaoaM), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [DJ Thiago Martins](https://open.spotify.com/artist/201eJ9jddoHC00soaLF6td) | [Botano \(Útero Baixo\)](https://open.spotify.com/album/76LH5qUwb68C2J1RGtzzTp) | 2:46 | 2025-01-07 |  |
 | [Botano \(Útero Baixo\)](https://open.spotify.com/track/6YCqXGsOAPKFBwQ4EtoM5Y) | [DJ Caio Prince](https://open.spotify.com/artist/5QihhtcyXmUesNqhRRaoaM), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [DJ Thiago Martins](https://open.spotify.com/artist/201eJ9jddoHC00soaLF6td) | [Botano \(Útero Baixo\)](https://open.spotify.com/album/7baADEZGaDw6LsdwyaOSEX) | 2:46 | 2024-08-31 | 2025-01-07 |
+| [Carta do Baralho](https://open.spotify.com/track/3Ab10F9gj4O6i30HZR0KqI) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Pé no Chão, Mente Nas Nuvens](https://open.spotify.com/album/5v6XzcP1918N7PWrMfUett) | 3:25 | 2025-10-26 |  |
 | [Chamo de Vida pra Não Trocar o Nome](https://open.spotify.com/track/32UMlctxWFMG5AUTzNT8Ut) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Chamo de Vida pra Não Trocar o Nome](https://open.spotify.com/album/05SlkMEdYc81IU8CFtolKW) | 1:52 | 2023-12-30 |  |
 | [Combate](https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp) | [RAP, falando](https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Combate](https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC) | 3:10 | 2023-12-30 | 2025-01-15 |
 | [Combate](https://open.spotify.com/track/7njdyjtubdX0BhmCYB1hfW) | [RAP, falando](https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Músicas pra Sair na Mão, Vol\. 1](https://open.spotify.com/album/6g2cGMBQOKa6F8WTeMKBby) | 3:11 | 2025-01-15 | 2025-08-22 |

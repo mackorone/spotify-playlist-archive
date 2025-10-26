@@ -1,13 +1,33 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72379,
+  "num_followers": 72381,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAACkiW7RWw4mrJk8eGmWaZow",
+  "snapshot_id": "aPrBgAAAAACa2wsavJiTiA8AxrmvFk0Q",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 204593,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
+    },
     {
       "added_at": null,
       "album": {
@@ -359,34 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KYGO (The Remixes)",
-        "url": "https://open.spotify.com/album/3l8rLJyHoGvEEDmNqPKHGu"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 231477,
-      "name": "For Life (feat. Zak Abel & Nile Rodgers) - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/7lc4S03umj2cTbFP4FWPGc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now I See You",
         "url": "https://open.spotify.com/album/1bO09VShyl7ZOeYZnHERXY"
       },
@@ -411,6 +403,34 @@
       "duration_ms": 167336,
       "name": "Now I See You",
       "url": "https://open.spotify.com/track/01ipvqWQEz6Xr5LVQLCNmA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KYGO (The Remixes)",
+        "url": "https://open.spotify.com/album/3l8rLJyHoGvEEDmNqPKHGu"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 231477,
+      "name": "For Life (feat. Zak Abel & Nile Rodgers) - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/7lc4S03umj2cTbFP4FWPGc"
     },
     {
       "added_at": null,
@@ -463,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Like Home - Radio Edit",
-      "url": "https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You for the Summer (Kohen Remix)",
         "url": "https://open.spotify.com/album/6ufmXFf1GL3vWmyZVpC8yz"
       },
@@ -507,6 +507,26 @@
       "duration_ms": 158769,
       "name": "Love You for the Summer - Kohen Remix",
       "url": "https://open.spotify.com/track/7y3oxdNRRc0moNrzYPNK1K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Like Home - Radio Edit",
+      "url": "https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL"
     },
     {
       "added_at": null,
@@ -555,30 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We're Still Young",
         "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
       },
@@ -599,6 +595,30 @@
       "duration_ms": 195000,
       "name": "We're Still Young",
       "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
     },
     {
       "added_at": null,
@@ -663,6 +683,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        },
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 215336,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6N6BTxTwykM2YI06SeL1ap"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be There",
         "url": "https://open.spotify.com/album/3NIArT6BvFcK5FKL4PfK6u"
       },
@@ -687,26 +731,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6"
+        "name": "Waiting For Me",
+        "url": "https://open.spotify.com/album/7AmzbrQgJx0ziEaObGoyR5"
       },
       "artists": [
         {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        },
+        {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        },
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
         }
       ],
-      "duration_ms": 215336,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6N6BTxTwykM2YI06SeL1ap"
+      "duration_ms": 138102,
+      "name": "Waiting For Me",
+      "url": "https://open.spotify.com/track/69FsZtKV3syfUMApe92Spf"
     },
     {
       "added_at": null,
@@ -751,30 +795,6 @@
       "duration_ms": 219374,
       "name": "I'll Follow You",
       "url": "https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waiting For Me",
-        "url": "https://open.spotify.com/album/7AmzbrQgJx0ziEaObGoyR5"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Louis III",
-          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 138102,
-      "name": "Waiting For Me",
-      "url": "https://open.spotify.com/track/69FsZtKV3syfUMApe92Spf"
     },
     {
       "added_at": null,
@@ -915,30 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Forever",
-        "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Stadiumx",
-          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
-        },
-        {
-          "name": "Sam Martin",
-          "url": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
-        }
-      ],
-      "duration_ms": 234609,
-      "name": "Love You Forever",
-      "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rave Music",
         "url": "https://open.spotify.com/album/6bK6HqxQH4MLBdBScC3YRl"
       },
@@ -959,8 +955,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+        "name": "Love You Forever",
+        "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
       },
       "artists": [
         {
@@ -968,13 +964,17 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        },
+        {
+          "name": "Sam Martin",
+          "url": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
         }
       ],
-      "duration_ms": 168387,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+      "duration_ms": 234609,
+      "name": "Love You Forever",
+      "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
     },
     {
       "added_at": null,
@@ -1023,6 +1023,26 @@
       "duration_ms": 192380,
       "name": "Hero - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
     },
     {
       "added_at": null,
@@ -1135,26 +1155,6 @@
       "duration_ms": 158095,
       "name": "Here We Go (Hey Boy, Hey Girl)",
       "url": "https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "18 Months",
-        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Iron",
-      "url": "https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW"
     }
   ],
   "unique_name": "This Is Nicky Romero",

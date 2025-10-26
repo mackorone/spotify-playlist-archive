@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,582 likes - 65 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,637 likes - 65 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 | 64 | [Ingenuity Code 741 Hz](https://open.spotify.com/track/2H7WC3coEXBmfgvk2zxOF1) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Ingenuity Code 741 Hz](https://open.spotify.com/album/0Vw31qxMXsLlqDC7feKUWl) | 2:22 |
 | 65 | [Purple Waters 741 hz](https://open.spotify.com/track/7BlhSDmgv38rAbYmdIp3lW) | [Dream WIzard](https://open.spotify.com/artist/6ykiEbUBL5ud2RR3QY32o7) | [Purple Waters](https://open.spotify.com/album/3XHbzv3q0JTI6UTnnleiz2) | 2:49 |
 
-Snapshot ID: `AAAAAC7In0tL8PqpI3RYRi6GZwX4Dzow`
+Snapshot ID: `AAAAALZtYtR0JsTGJWH3LF1jJ99WlJxC`

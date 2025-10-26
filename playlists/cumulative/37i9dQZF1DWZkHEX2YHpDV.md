@@ -4,7 +4,7 @@
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Yellowcard
 
-1,420 songs - 3 day 2 hr 58 min
+1,421 songs - 3 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Alpha](https://open.spotify.com/track/5kBOZe7aazqtqoHufOROlZ) | [The LaFontaines](https://open.spotify.com/artist/1oR94M02IeFan1KOhPCpqd) | [Alpha](https://open.spotify.com/album/2lG8uGUsPxSrZcY4MRWlHz) | 3:45 | 2022-03-25 | 2022-04-19 |
 | [Already Dead](https://open.spotify.com/track/2SvNm1U3VWBS86RioI8iU5) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH), [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Already Dead](https://open.spotify.com/album/4i2BiYbdeGb7c8NA2XkmCa) | 2:39 | 2023-04-10 | 2023-04-12 |
 | [Aly's Song \(So Close, So Far\)](https://open.spotify.com/track/6nrAST7QUoWtEAwRm5d3e9) | [Stateside](https://open.spotify.com/artist/2WpPJq3Z87oKW6NwADqkBu) | [Where You Found Me](https://open.spotify.com/album/7M5WGCGaeBcldpSTlgEk96) | 3:25 | 2025-06-06 |  |
-| [American Psycho](https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [American Psycho](https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA) | 3:05 | 2024-04-12 |  |
+| [American Psycho](https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [American Psycho](https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA) | 3:05 | 2024-04-12 | 2025-10-26 |
 | [american zombie](https://open.spotify.com/track/3TD708Vmf3uVPVFkDa5Ayc) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [american zombie](https://open.spotify.com/album/4BjJWRGXLh0Gq4JoX8wavh) | 2:33 | 2025-09-12 |  |
 | [Amnesia](https://open.spotify.com/track/0zu5YEA4jVLa36NtZHS6SO) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Internet Killed The Rockstar \(Deluxe\)](https://open.spotify.com/album/3nfaRBKZML6L0cTin14obR) | 2:51 | 2021-12-10 | 2022-05-20 |
 | [Anastasia](https://open.spotify.com/track/2VejQRvDP3AqC2EGRkmusq) | [Glass Cactus](https://open.spotify.com/artist/2h6mHZgVdxvl9YfoVuUltu) | [Anastasia](https://open.spotify.com/album/4vNxiTmeU1Jx1SpViPHium) | 4:11 | 2022-02-04 | 2022-04-19 |
@@ -426,6 +426,7 @@
 | [Falling Apart](https://open.spotify.com/track/7AswPAZDUUgkmELlrxDkNl) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Falling Apart](https://open.spotify.com/album/7CQo7bup1p4UIgPO7VStZG) | 4:33 | 2021-12-10 | 2022-07-25 |
 | [Falling Endlessly](https://open.spotify.com/track/0LCHO5qNN5fEncfAIcjtAH) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:50 | 2022-10-07 | 2023-04-11 |
 | [Falling In](https://open.spotify.com/track/0LWFEnjoWseiMx35YP7GGO) | [Balancing the Different](https://open.spotify.com/artist/27XX1Tx4IV5vdAk7Hjo1h2) | [Falling In](https://open.spotify.com/album/2jQArXi0HXeZjq68IR4jQp) | 3:51 | 2021-12-10 | 2022-07-14 |
+| [Famous](https://open.spotify.com/track/3yuBbqWCc9GZZOnTHKAfZJ) | [Chase Petra](https://open.spotify.com/artist/1MTlhWSyxv11aeqREGEeb3), [Zayna Youssef](https://open.spotify.com/artist/2B84tYHfJYTyDZ1HrTaoOj) | [Famous](https://open.spotify.com/album/6bb5k1L5Y5gLfazncJfZAG) | 3:54 | 2025-10-24 |  |
 | [Fancy](https://open.spotify.com/track/5KoqtcHAR3UKRufx3qOh8C) | [Woes](https://open.spotify.com/artist/75l6n3i5Hmn8vCUZeMIM6F) | [Fancy](https://open.spotify.com/album/3kLeJ3cU4Ht4362zEXe0Nc) | 2:59 | 2022-03-25 | 2022-04-21 |
 | [fasterfaster](https://open.spotify.com/track/4NhFYJ9un50Z6n4Fc4d9Et) | [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO), [Micah Jasper](https://open.spotify.com/artist/5kchpeY2CQ3Bv6F7flHdRY) | [fasterfaster](https://open.spotify.com/album/5fIeS9Y7NA1LSFHzcr27Lk) | 2:41 | 2022-07-08 | 2022-07-28 |
 | [Fat Vampire](https://open.spotify.com/track/4I0JFzDSny3aMdYVrrBn96) | [Dan Spencer](https://open.spotify.com/artist/4nZhCPagwfGtHV2tASZkpU) | [Fat Vampire](https://open.spotify.com/album/3deVOIFMJP9sQGnfsDkd0l) | 3:41 | 2024-03-22 | 2024-05-15 |

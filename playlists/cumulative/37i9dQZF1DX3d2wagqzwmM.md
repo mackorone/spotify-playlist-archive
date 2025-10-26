@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-638 songs - 1 day 8 hr 26 min
+639 songs - 1 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Apollo \- SICK INDIVIDUALS Remix](https://open.spotify.com/track/7BhDnbKnRvTUcgzFMJ5aok) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Revealed 10 Year Anniversary Remixed](https://open.spotify.com/album/6SraspRZ2caOJx8V7AIjFr) | 3:33 | 2022-04-14 | 2022-07-08 |
 | [Arabian Nights](https://open.spotify.com/track/3e9lh8yGoVFBfOWt9e3imb) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Diètro](https://open.spotify.com/artist/5qH3F8PeTa9G7XNNHxIDhW) | [Arabian Nights](https://open.spotify.com/album/3q7V5PK3x35jEic1tkeyqM) | 3:04 | 2022-04-21 | 2022-09-05 |
 | [Are You All Dead? \(Impetus Viscus\)](https://open.spotify.com/track/76dITxox08saDWNgfbAxuJ) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao), [Thoby](https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x), [CS\-Jay](https://open.spotify.com/artist/7EeFW4dWZQitnue96aHyNc) | [Are You All Dead? \(Impetus Viscus\)](https://open.spotify.com/album/4h9pjvC6BvfpZlbTGWS8ip) | 3:06 | 2025-04-03 | 2025-05-30 |
-| [Aria](https://open.spotify.com/track/48FWcTAUppLh7yPkkkKtJK) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Aria](https://open.spotify.com/album/7CRPqwHZ8H8264OBRhUAEy) | 2:44 | 2024-09-19 |  |
+| [Aria](https://open.spotify.com/track/48FWcTAUppLh7yPkkkKtJK) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Aria](https://open.spotify.com/album/7CRPqwHZ8H8264OBRhUAEy) | 2:44 | 2024-09-19 | 2025-10-26 |
 | [Armageddon](https://open.spotify.com/track/6bXNko4ehHxNCsfI1G9yLI) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT) | [Armageddon](https://open.spotify.com/album/60yqhOP10Pw4DNrWMqt2XZ) | 2:44 | 2023-01-12 | 2023-03-14 |
 | [Atmosphere](https://open.spotify.com/track/4f36yOtuLrOVxfWopiDjiw) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Atmosphere](https://open.spotify.com/album/5Z34tqOAHVByFmFK6hyhyg) | 2:44 | 2024-02-01 | 2024-06-07 |
 | [Attention](https://open.spotify.com/track/33PrROTmibJVlLYO5CZg0E) | [Lister](https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI) | [Attention](https://open.spotify.com/album/4khR8sOn7QVzXrADwEWKwO) | 2:48 | 2022-12-27 | 2023-01-03 |
@@ -463,6 +463,7 @@
 | [REMINISCE](https://open.spotify.com/track/33P76PS6skAOeQzYK77xss) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Lee Grant](https://open.spotify.com/artist/19pSUWoyECeTrV165Seg5j) | [REMINISCE](https://open.spotify.com/album/1Y4ABtKiNxOSu8WfBunKBP) | 4:01 | 2022-07-07 | 2023-01-03 |
 | [Renegade Master](https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Renegade Master](https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe) | 2:50 | 2024-09-05 | 2025-07-04 |
 | [RETROGRADE \- REBELS NEVER DIE REWORK](https://open.spotify.com/track/0P1X53lNyKKAjaddaNMz0t) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE \(Deluxe Edition\)](https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX) | 5:49 | 2022-12-27 | 2023-01-03 |
+| [Retrograde 2025](https://open.spotify.com/track/5RRVVrmluz0g0mIkrcEGZ9) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Retrograde 2025](https://open.spotify.com/album/0057TNNKlKuFIE0QaP8OjW) | 2:41 | 2025-10-23 |  |
 | [Revolution](https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Revolution](https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X) | 2:46 | 2023-03-16 | 2023-10-06 |
 | [Rhythm of the Night](https://open.spotify.com/track/061sQqx4DTaFg2GS0IJZby) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Rhythm of the Night](https://open.spotify.com/album/5msF28dQhJu6Qylaw91G4e) | 2:51 | 2024-07-19 | 2024-07-27 |
 | [RIDE OR DIE](https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [RIDE OR DIE](https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj) | 3:09 | 2023-11-02 | 2024-10-28 |

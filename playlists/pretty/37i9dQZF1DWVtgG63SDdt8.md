@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Joe L Barnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,075 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,135 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Grief, Joy, & Gratitude](https://open.spotify.com/track/4ZuUY7QGuXc4oMjUNJk0w2) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Grief, Joy, & Gratitude](https://open.spotify.com/album/0VlJpvgtQqly0QowpnpQTo) | 3:10 |
 | 2 | [Loved By Love](https://open.spotify.com/track/2fGaAHVN3P45yLBLAjd3mi) | [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Rediscovery](https://open.spotify.com/album/5WKbd9lbctdAXcjwK2X4PV) | 4:57 |
 | 3 | [always will be \- acoustic](https://open.spotify.com/track/4L1vwX3sseUZAsyPieVksK) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [the unknown](https://open.spotify.com/album/0mhF2Ygr1GQE7JrmkfUrZI) | 2:58 |
-| 4 | [What Am I Doing Here?](https://open.spotify.com/track/7Hl3k9kWsHqXvxH360rbVx) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kyndal Inskeep](https://open.spotify.com/artist/6vxy6Fpxhk5nM57E1m1HER) | [What Am I Doing Here?](https://open.spotify.com/album/19ForxT9XATHrlIP3IyzQ1) | 2:51 |
+| 4 | [What Am I Doing Here?](https://open.spotify.com/track/7Hl3k9kWsHqXvxH360rbVx) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kyndal](https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx) | [What Am I Doing Here?](https://open.spotify.com/album/19ForxT9XATHrlIP3IyzQ1) | 2:51 |
 | 5 | [Here I Am](https://open.spotify.com/track/3r2tqk3Uf30Pnyh9o05Aer) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [New World](https://open.spotify.com/album/1sInzyvdPPdiHBkksGoS9A) | 3:12 |
 | 6 | [This Is My Father's World](https://open.spotify.com/track/05u8IMcOqJAVEX6UAfZLEC) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [This Is My Father's World](https://open.spotify.com/album/4A8Pff3b3brOjA5PXmt24p) | 3:37 |
 | 7 | [KEEP IT SIMPLE](https://open.spotify.com/track/1FkxNyq6WAGDvdZ1zjURFz) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [KEEP IT SIMPLE](https://open.spotify.com/album/158fyQIUL3fFwVlmC9BxkR) | 2:20 |

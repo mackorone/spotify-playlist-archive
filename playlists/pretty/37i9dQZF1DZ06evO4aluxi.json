@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 18803,
+  "num_followers": 18806,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAAZ/VLvdLRpj/bdgG6Qbsxs",
+  "snapshot_id": "aPrBgAAAAACctndXkR01CXAgfW31Qr3a",
   "tracks": [
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere Down The Road",
-        "url": "https://open.spotify.com/album/0JUPgkd0kgGqVxVAZTEsKY"
+        "name": "Straight Ahead (Remastered)",
+        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 222396,
-      "name": "Better Than A Hallelujah",
-      "url": "https://open.spotify.com/track/6RlliUfY8hTxnaK85e6D5Z"
+      "duration_ms": 200986,
+      "name": "Thy Word",
+      "url": "https://open.spotify.com/track/58OoLCgCm83Wogp7JLl30g"
     },
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight Ahead (Remastered)",
-        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
+        "name": "Somewhere Down The Road",
+        "url": "https://open.spotify.com/album/0JUPgkd0kgGqVxVAZTEsKY"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 200986,
-      "name": "Thy Word",
-      "url": "https://open.spotify.com/track/58OoLCgCm83Wogp7JLl30g"
+      "duration_ms": 222396,
+      "name": "Better Than A Hallelujah",
+      "url": "https://open.spotify.com/track/6RlliUfY8hTxnaK85e6D5Z"
     },
     {
       "added_at": null,
@@ -711,42 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets: Friends & Legends",
-        "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        },
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Could I Have This Dance",
-      "url": "https://open.spotify.com/track/0eXpvoN6ReEXq8jAMDOxxD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Be Still And Know... Hymns & Faith",
-        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 267026,
-      "name": "Jesus, Take All Of Me (Just As I Am)",
-      "url": "https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "These Are The Days",
         "url": "https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7"
       },
@@ -763,6 +727,42 @@
       "duration_ms": 290600,
       "name": "These are the Days (feat. Amy Grant)",
       "url": "https://open.spotify.com/track/0e2r8Zr2AwxTMynkTMCkMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Still And Know... Hymns & Faith",
+        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Be Still And Know",
+      "url": "https://open.spotify.com/track/3WD7NRVmvnoNwVf3NtufTc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets: Friends & Legends",
+        "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Could I Have This Dance",
+      "url": "https://open.spotify.com/track/0eXpvoN6ReEXq8jAMDOxxD"
     },
     {
       "added_at": null,
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 233200,
-      "name": "Be Still And Know",
-      "url": "https://open.spotify.com/track/3WD7NRVmvnoNwVf3NtufTc"
+      "duration_ms": 267026,
+      "name": "Jesus, Take All Of Me (Just As I Am)",
+      "url": "https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9"
     },
     {
       "added_at": null,
@@ -891,18 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/2xTLCFPgsnkscDd73jfq2V"
       },
       "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 243226,
-      "name": "Softly And Tenderly",
-      "url": "https://open.spotify.com/track/29kWfrWp7XaxcEHK1VNeV1"
+      "duration_ms": 230266,
+      "name": "Faithful (feat. Amy Grant)",
+      "url": "https://open.spotify.com/track/2i8MZLqzbsXXHlPx3AFT66"
     }
   ],
   "unique_name": "This Is Amy Grant",

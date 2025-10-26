@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Apostolia Zoi",
-  "num_followers": 36922,
+  "num_followers": 36930,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-10-23 21:00:30",
       "album": {
-        "name": "Planitis Gi",
-        "url": "https://open.spotify.com/album/3NrhsZPgo6Z72XmnDizCTK"
-      },
-      "artists": [
-        {
-          "name": "Nikos Apergis",
-          "url": "https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d"
-        }
-      ],
-      "duration_ms": 247960,
-      "name": "Planitis Gi",
-      "url": "https://open.spotify.com/track/1jhWAV25iQBkWOtIlHe6a0"
-    },
-    {
-      "added_at": "2025-10-23 21:00:30",
-      "album": {
         "name": "Katamata",
         "url": "https://open.spotify.com/album/42t8tYGPuZorC82akH5eFS"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 280676,
       "name": "Katamata",
       "url": "https://open.spotify.com/track/4gizfKGSprKyQgYgwX6BYS"
+    },
+    {
+      "added_at": "2025-10-23 21:00:30",
+      "album": {
+        "name": "Planitis Gi",
+        "url": "https://open.spotify.com/album/3NrhsZPgo6Z72XmnDizCTK"
+      },
+      "artists": [
+        {
+          "name": "Nikos Apergis",
+          "url": "https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d"
+        }
+      ],
+      "duration_ms": 247960,
+      "name": "Planitis Gi",
+      "url": "https://open.spotify.com/track/1jhWAV25iQBkWOtIlHe6a0"
     },
     {
       "added_at": "2025-10-23 21:00:30",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-10-23 21:00:30",
       "album": {
-        "name": "Me Sighorite",
-        "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
-      },
-      "artists": [
-        {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
-        }
-      ],
-      "duration_ms": 210007,
-      "name": "Me Sighorite",
-      "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
-    },
-    {
-      "added_at": "2025-10-23 21:00:30",
-      "album": {
         "name": "To Pairno Pano Mou",
         "url": "https://open.spotify.com/album/4xeJZt5RAxuzOKpZZYXqTD"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 190053,
       "name": "To Pairno Pano Mou",
       "url": "https://open.spotify.com/track/5QQp2bt4O4EKnwgBXgOpDb"
+    },
+    {
+      "added_at": "2025-10-23 21:00:30",
+      "album": {
+        "name": "Me Sighorite",
+        "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "duration_ms": 210007,
+      "name": "Me Sighorite",
+      "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
     },
     {
       "added_at": "2025-10-23 21:00:30",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-10-23 21:00:30",
       "album": {
-        "name": "Perifanos Aetos",
-        "url": "https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1"
-      },
-      "artists": [
-        {
-          "name": "Konstantinos Argiros",
-          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
-        }
-      ],
-      "duration_ms": 228835,
-      "name": "Perifanos Aetos",
-      "url": "https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU"
-    },
-    {
-      "added_at": "2025-10-23 21:00:30",
-      "album": {
         "name": "Tetoia Ora Tetoia Logia",
         "url": "https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS"
       },
@@ -511,22 +495,34 @@
     {
       "added_at": "2025-10-23 21:00:30",
       "album": {
-        "name": "Me 'Geia Sou",
-        "url": "https://open.spotify.com/album/7uzlu2dTEzbZsbcFVJh96l"
+        "name": "Perifanos Aetos",
+        "url": "https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1"
       },
       "artists": [
         {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
-        },
-        {
-          "name": "Giannis Fakinos",
-          "url": "https://open.spotify.com/artist/4smYONeVZoYufgUmCr6FkG"
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
         }
       ],
-      "duration_ms": 222397,
-      "name": "Me 'Geia Sou",
-      "url": "https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm"
+      "duration_ms": 228835,
+      "name": "Perifanos Aetos",
+      "url": "https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU"
+    },
+    {
+      "added_at": "2025-10-23 21:00:30",
+      "album": {
+        "name": "maZW Akoma (Ola Mou Ta Thelo)",
+        "url": "https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "duration_ms": 208355,
+      "name": "maZW Akoma (Ola Mou Ta Thelo)",
+      "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
     },
     {
       "added_at": "2025-10-23 21:00:30",
@@ -547,18 +543,22 @@
     {
       "added_at": "2025-10-23 21:00:30",
       "album": {
-        "name": "maZW Akoma (Ola Mou Ta Thelo)",
-        "url": "https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS"
+        "name": "Me 'Geia Sou",
+        "url": "https://open.spotify.com/album/7uzlu2dTEzbZsbcFVJh96l"
       },
       "artists": [
         {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        },
+        {
+          "name": "Giannis Fakinos",
+          "url": "https://open.spotify.com/artist/4smYONeVZoYufgUmCr6FkG"
         }
       ],
-      "duration_ms": 208355,
-      "name": "maZW Akoma (Ola Mou Ta Thelo)",
-      "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
+      "duration_ms": 222397,
+      "name": "Me 'Geia Sou",
+      "url": "https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm"
     },
     {
       "added_at": "2025-10-23 21:00:30",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-10-23 21:00:30",
       "album": {
-        "name": "Etsi Koitazes Emena",
-        "url": "https://open.spotify.com/album/5sjhWMhT6DCVuYLleNQ2bM"
-      },
-      "artists": [
-        {
-          "name": "Lena Zevgara",
-          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
-        }
-      ],
-      "duration_ms": 228636,
-      "name": "Etsi Koitazes Emena",
-      "url": "https://open.spotify.com/track/68A2k130DNYxhUnI0HLjKH"
-    },
-    {
-      "added_at": "2025-10-23 21:00:30",
-      "album": {
         "name": "Anasa",
         "url": "https://open.spotify.com/album/1cff2Mbs7o9xKdBxPmXgBD"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 283520,
       "name": "Anasa",
       "url": "https://open.spotify.com/track/6QraIKM78nFy6sVIedXVOs"
+    },
+    {
+      "added_at": "2025-10-23 21:00:30",
+      "album": {
+        "name": "Etsi Koitazes Emena",
+        "url": "https://open.spotify.com/album/5sjhWMhT6DCVuYLleNQ2bM"
+      },
+      "artists": [
+        {
+          "name": "Lena Zevgara",
+          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
+        }
+      ],
+      "duration_ms": 228636,
+      "name": "Etsi Koitazes Emena",
+      "url": "https://open.spotify.com/track/68A2k130DNYxhUnI0HLjKH"
     },
     {
       "added_at": "2025-10-23 21:00:30",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-10-23 21:00:30",
       "album": {
-        "name": "Na Peite Sto Paidi",
-        "url": "https://open.spotify.com/album/6hEqjqDmKi7e661j514OFl"
-      },
-      "artists": [
-        {
-          "name": "Lena Zevgara",
-          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
-        }
-      ],
-      "duration_ms": 227598,
-      "name": "Na Peite Sto Paidi",
-      "url": "https://open.spotify.com/track/1Ui7JB0ca3dbnylnJyHVEK"
-    },
-    {
-      "added_at": "2025-10-23 21:00:30",
-      "album": {
         "name": "Parea Me Tin Ioulia",
         "url": "https://open.spotify.com/album/45Eqx4JgN9XscVcEhI1LLQ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 169813,
       "name": "Anexartiti - Live Version",
       "url": "https://open.spotify.com/track/0pb6PxjqUzjiPKSuY5l4GT"
+    },
+    {
+      "added_at": "2025-10-23 21:00:30",
+      "album": {
+        "name": "Na Peite Sto Paidi",
+        "url": "https://open.spotify.com/album/6hEqjqDmKi7e661j514OFl"
+      },
+      "artists": [
+        {
+          "name": "Lena Zevgara",
+          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
+        }
+      ],
+      "duration_ms": 227598,
+      "name": "Na Peite Sto Paidi",
+      "url": "https://open.spotify.com/track/1Ui7JB0ca3dbnylnJyHVEK"
     }
   ],
   "unique_name": "Laika tou Simera",

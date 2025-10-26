@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 139219,
+  "num_followers": 139242,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAABFUENlGBD1tRNhwQn4kljR",
+  "snapshot_id": "aPrBgAAAAACRdHv+NNKG18wlW+8XWKiN",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Ultimos Son Los Primeros",
-        "url": "https://open.spotify.com/album/3drj9hFTaeneCFvq7yJKb4"
-      },
-      "artists": [
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 153384,
-      "name": "No Me Preocupo Tanto",
-      "url": "https://open.spotify.com/track/6ZCL1JXiW9kVGdz56lHWoB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buen Ejemplo",
         "url": "https://open.spotify.com/album/6uStvNsIm7ymwGUAbRk5gW"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 205796,
       "name": "Buen Ejemplo",
       "url": "https://open.spotify.com/track/0IZfXjvd4yF8obhsr1SKbe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Ultimos Son Los Primeros",
+        "url": "https://open.spotify.com/album/3drj9hFTaeneCFvq7yJKb4"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 153384,
+      "name": "No Me Preocupo Tanto",
+      "url": "https://open.spotify.com/track/6ZCL1JXiW9kVGdz56lHWoB"
     },
     {
       "added_at": null,
@@ -727,26 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reyes Magos",
-        "url": "https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF"
+        "name": "Yo, Billetes y Damas (feat. Herencia de Patrones)",
+        "url": "https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "JOP",
-          "url": "https://open.spotify.com/artist/7ob0holUszbJOSSotPiyba"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Reyes Magos",
-      "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
+      "duration_ms": 209911,
+      "name": "Yo, Billetes y Damas",
+      "url": "https://open.spotify.com/track/1ybkixLiM92Wgbp72m6Ddt"
     },
     {
       "added_at": null,
@@ -803,22 +799,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo, Billetes y Damas (feat. Herencia de Patrones)",
-        "url": "https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG"
+        "name": "Reyes Magos",
+        "url": "https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF"
       },
       "artists": [
         {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "JOP",
+          "url": "https://open.spotify.com/artist/7ob0holUszbJOSSotPiyba"
         }
       ],
-      "duration_ms": 209911,
-      "name": "Yo, Billetes y Damas",
-      "url": "https://open.spotify.com/track/1ybkixLiM92Wgbp72m6Ddt"
+      "duration_ms": 128000,
+      "name": "Reyes Magos",
+      "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
     },
     {
       "added_at": null,

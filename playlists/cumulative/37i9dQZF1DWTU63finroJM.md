@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Victor Ray
 
-2,191 songs - 4 day 22 hr 20 min
+2,192 songs - 4 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1235,6 +1235,7 @@
 | [Ni Una Mas](https://open.spotify.com/track/6kY8v7VDzPWIy1alEDQGM8) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Ni Una Mas](https://open.spotify.com/album/12pHDcyqzSNsZgQJDRiZ3W) | 2:41 | 2022-03-24 | 2022-04-19 |
 | [nic\(i\)](https://open.spotify.com/track/7CYz7FGYsxJWeF94lqsbFc) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nic\(i\)](https://open.spotify.com/album/6x9tlX5hDXDCWQchmqSgt4) | 2:18 | 2024-06-21 | 2024-06-25 |
 | [nicht nachmachen!!](https://open.spotify.com/track/3gro2tfkybWGoK9MflVLWs) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:29 | 2023-10-13 | 2024-01-20 |
+| [Nie mam się już czego bać](https://open.spotify.com/track/2fwA89EScmFJkVkDSeC2G3) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Nie mam się już czego bać](https://open.spotify.com/album/2JMpOaxEftQzS8okGgDcbo) | 3:18 | 2025-10-24 |  |
 | [NIE OTWIERAJ DRZWI](https://open.spotify.com/track/3xMn54eE8d34T9lcsuWLey) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [SecretiveSuicide](https://open.spotify.com/artist/16VLZykOWwmhqR60Y5n2z9) | [in real life](https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7) | 2:22 | 2023-11-17 | 2024-04-19 |
 | [Niedosyt](https://open.spotify.com/track/79cmiNPdQVHeu2qs6x4JMp) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Central Park](https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx) | 2:47 | 2023-10-20 | 2024-04-19 |
 | [niemand](https://open.spotify.com/track/06jhkzbAB3mnnZGnySBnrh) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [niemand](https://open.spotify.com/album/2TZMcmePJ1zcZgjKKRu9tG) | 2:26 | 2024-11-15 | 2025-02-01 |
@@ -1399,7 +1400,7 @@
 | [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 | 2025-10-01 |  |
 | [PIZZA PARTY](https://open.spotify.com/track/6R3NX7RBEqt2552Wr0AeIj) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [ESPECTACULAR](https://open.spotify.com/album/60cgkcmF1mxBx2fiB0rz5U) | 2:40 | 2025-10-01 |  |
 | [plany](https://open.spotify.com/track/0K5Cr8OvLVvhG87CsSjZsM) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [plany](https://open.spotify.com/album/0cxuO8WpinhRMKElDqUtfR) | 2:39 | 2022-08-01 | 2022-12-03 |
-| [Plastique](https://open.spotify.com/track/3RhetScMtjOURfy1FcnsoT) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Plastique](https://open.spotify.com/album/0LzO13HzLPa3soZILnIkQc) | 3:07 | 2025-10-01 |  |
+| [Plastique](https://open.spotify.com/track/3RhetScMtjOURfy1FcnsoT) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Plastique](https://open.spotify.com/album/0LzO13HzLPa3soZILnIkQc) | 3:07 | 2025-10-01 | 2025-10-26 |
 | [Playaz Diary](https://open.spotify.com/track/2KP6W73y2e1oJbm25Uoleq) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [PLAYAZ SZN](https://open.spotify.com/album/05TOROYB5ib6FZk9p5laTU) | 2:25 | 2025-04-04 | 2025-09-10 |
 | [PLAYLIST \(ROCK DA BOAT\)](https://open.spotify.com/track/7D6jnDW82vRRMiCRLcy0pl) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [WE STILL YOUNG](https://open.spotify.com/album/2UlMKNVdCbVxTG4LwxpiTz) | 2:47 | 2023-09-22 | 2024-03-30 |
 | [Plutão](https://open.spotify.com/track/3ydmNkAyYq0AKtG8sTfE9P) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Plutão](https://open.spotify.com/album/2sZzCGg7xCNdWQwoVaFuro) | 3:41 | 2022-04-07 | 2022-08-30 |

@@ -4,7 +4,7 @@
 
 > This is Bratty\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 26 min
+64 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Interlude](https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 1:23 | 2023-11-10 |  |
 | [Intro](https://open.spotify.com/track/5WFhhFYeMrGPT7jlbdDdOh) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 1:38 | 2025-08-12 | 2025-09-28 |
 | [jules](https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 4:27 | 2023-11-10 |  |
+| [karma](https://open.spotify.com/track/2AHiQVyuaGHOERDPVlxWRT) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [karma](https://open.spotify.com/album/2xMf32apRnpyCvxtXBRYkB) | 2:30 | 2025-10-26 |  |
 | [La Última Vez](https://open.spotify.com/track/18H0STg2CPkVKx0AqRsoLQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:34 | 2023-11-10 |  |
 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 | 2023-11-10 |  |
 | [lo q yo por ti](https://open.spotify.com/track/2o3uQ63gwh63tBn9ox2bV3) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [lo q yo por ti](https://open.spotify.com/album/6zEyyStAYReX0eg8BFbGYj) | 2:53 | 2025-07-27 |  |

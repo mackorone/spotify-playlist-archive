@@ -4,7 +4,7 @@
 
 > where future beats meet timeless soul.
 
-463 songs - 1 day 3 hr 9 min
+464 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Contortions](https://open.spotify.com/track/6jg4fIQ34KPE57pJ1hxuE7) | [David Marston](https://open.spotify.com/artist/38vIH7ZszEshcDGZIMgEYl), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO), [Hannah Noelle](https://open.spotify.com/artist/1lE36WexHt1gmXkxRt6DYC), [Dan Izco](https://open.spotify.com/artist/5pnOf48CGxTEcDL7d61Xfh) | [Contortions](https://open.spotify.com/album/6QNiYndJJPIqP2CgvCQqX4) | 3:20 | 2021-12-07 | 2022-04-17 |
 | [Cool It Down](https://open.spotify.com/track/43PPM12JXeaw70a5sSrBqN) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR), [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [Cool It Down](https://open.spotify.com/album/3nIyll2isn8vuJPTjW9R0i) | 3:21 | 2025-08-28 |  |
 | [Cosmos \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1E5y9PZLIAngpD0L699Ul9) | [Paul Epworth](https://open.spotify.com/artist/04ouBKIoUizgF9j6v6TWR8), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Voyager](https://open.spotify.com/album/6inskjOXMnEFnxt0QUFFYu) | 3:49 | 2021-12-07 | 2022-07-27 |
-| [Crave](https://open.spotify.com/track/75ZvCtDorLfeaaTKyX7s1z) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Crave](https://open.spotify.com/album/6bC4wS1VnIVFhlks2Wx0XX) | 3:26 | 2025-05-29 |  |
+| [Crave](https://open.spotify.com/track/75ZvCtDorLfeaaTKyX7s1z) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Crave](https://open.spotify.com/album/6bC4wS1VnIVFhlks2Wx0XX) | 3:26 | 2025-05-29 | 2025-10-26 |
 | [Cruisin](https://open.spotify.com/track/6k72w5n6bjf3gSgNId74sS) | [Gemma Dunleavy](https://open.spotify.com/artist/4RdnMFmYii89p8VnyvPHKr) | [UP DE FLATS](https://open.spotify.com/album/2esDA3iMpjo3Svojw12GXZ) | 4:24 | 2021-12-07 | 2022-07-21 |
 | [Cruisin \- Swing Ting Remix](https://open.spotify.com/track/3wsKu0v64U1SIesr9oLcnW) | [Gemma Dunleavy](https://open.spotify.com/artist/4RdnMFmYii89p8VnyvPHKr), [Swing Ting](https://open.spotify.com/artist/6fvaKKPtpStFRXRTMmnYMX) | [Cruisin \(Swing Ting Remix\)](https://open.spotify.com/album/4USanuoufCMpzHgz9n5alY) | 4:14 | 2021-12-07 | 2022-07-17 |
 | [Cut Me](https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 4:10 | 2022-06-20 | 2024-04-19 |
@@ -420,6 +420,7 @@
 | [The Water](https://open.spotify.com/track/6mFtRPwwIHSFfmrRChicDx) | [Bel Tempo](https://open.spotify.com/artist/4pJRvcgbeXo78Lne0j9uKJ), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [The Water](https://open.spotify.com/album/51qnnj0KfsTbijLYHTy0ox) | 3:00 | 2025-02-20 | 2025-10-11 |
 | [The Way Things Were \- Joe Hertz Remix](https://open.spotify.com/track/4F53yuj2CawwIGo0D2gDj8) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [The Way Things Were \(Joe Hertz Remix\)](https://open.spotify.com/album/5DLG0cVM3E83yWDsGFkzmf) | 3:20 | 2024-03-01 | 2025-02-21 |
 | [Things You Didn't Know](https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Things You Didn't Know](https://open.spotify.com/album/2HTyQBoeBAs3PirTkspsUh) | 2:51 | 2024-06-14 | 2025-04-26 |
+| [This World Of Mine](https://open.spotify.com/track/6bttpK4KFgtKwCfQ8oIaWQ) | [Bluprint](https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z), [Confz](https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [This World Of Mine](https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38) | 3:06 | 2025-10-09 |  |
 | [Threes](https://open.spotify.com/track/5KBM2US2EGduh7O1OehXor) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Upon Frigid Water EP](https://open.spotify.com/album/46Y8WWQ9hlfYjRZGVsCdyS) | 4:32 | 2022-04-11 | 2022-04-20 |
 | [time can wait](https://open.spotify.com/track/0x2O1kXhrVgsZCEpfN2PdV) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [time can wait](https://open.spotify.com/album/6Z0iSflrVgI03Z0tdsgSPV) | 3:05 | 2022-04-11 | 2022-04-21 |
 | [Time Machine](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 | 2024-03-01 |  |

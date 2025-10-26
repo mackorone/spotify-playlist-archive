@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0PzTB0SzhsYdmq3lvb0zgv.md) - [plain]
 
 > Enjoy the best of acoustic, easy listening pop, and singer\-songwriter music for work, study or relaxing with a cup of coffee or tea\. Warm melodies to create the perfect mood for your lovely day\. Best coffee lounge background music 2025\. Koffie \| Koffiehuis \| Musique de café \| música ambiente de café
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 192,726 likes - 212 songs - 11 hr 26 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 192,721 likes - 212 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/0PzTB0SzhsYdmq3lvb0zgv.md) - [plain]
 | 49 | [Original](https://open.spotify.com/track/0yKsZ7zzBGlqcMGsYLHPnJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Original](https://open.spotify.com/album/4D1YMmnqNvTbECWBuQYnBb) | 3:15 |
 | 50 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
 | 51 | [Easy Does It](https://open.spotify.com/track/70v1ILapgu1QnTlOyKGrJr) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Easy Does It](https://open.spotify.com/album/2EZsexfZ6Rys7I7ZB3sxIz) | 4:07 |
-| 52 | [Forgive Me](https://open.spotify.com/track/6IKCMumLb0Cnx7hGv3YEHV) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Forgive Me](https://open.spotify.com/album/2UuKqZGjqAE7ZkGaeeYm6y) | 3:06 |
+| 52 | [Forgive Me](https://open.spotify.com/track/6IKCMumLb0Cnx7hGv3YEHV) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Forgive Me](https://open.spotify.com/album/2UuKqZGjqAE7ZkGaeeYm6y) | 3:04 |
 | 53 | [Good Times To Come](https://open.spotify.com/track/5Gd4shBFkqMODs2Kr5ztPe) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [Exit & Entrances](https://open.spotify.com/album/5RHHd7GsdcjR8gLJlgPWFW) | 4:12 |
 | 54 | [The Little Mess You Made](https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Little Mess You Made](https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH) | 3:21 |
 | 55 | [All Yours Again](https://open.spotify.com/track/3x3diAZ3AuNCyPnmwxKmQN) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [100 Times Around the Sun](https://open.spotify.com/album/0jBrdQ1CTtlG2oenpcT1by) | 2:47 |

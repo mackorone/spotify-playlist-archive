@@ -4,7 +4,7 @@
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-135 songs - 8 hr 25 min
+136 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/track/4zFrUrmwGjLWWDvlyOTcTu) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/album/6VPBlSRkkWju1JgMxpVFqU) | 3:37 | 2023-12-13 | 2023-12-18 |
 | [Cold](https://open.spotify.com/track/5Dxxdp9KF0YkdnMHxGdRJv) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD) | 3:47 | 2022-05-30 | 2023-08-26 |
 | [Cold](https://open.spotify.com/track/5h5S51CceDgRpWE4Ri1YJQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2](https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS) | 3:47 | 2023-08-25 | 2024-08-06 |
-| [Cold](https://open.spotify.com/track/6sPNYpAVqMuGd5OzyhLlP8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/4cf8wfqub8gibjfGhLAieK) | 3:47 | 2023-11-10 |  |
+| [Cold](https://open.spotify.com/track/6sPNYpAVqMuGd5OzyhLlP8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/4cf8wfqub8gibjfGhLAieK) | 3:47 | 2023-11-10 | 2025-10-26 |
+| [Cold \- 2025 VERSION](https://open.spotify.com/track/3iJD97o04av0fRPMmciboH) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [BEST OF \(Volume 2\)](https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU) | 3:46 | 2025-10-26 |  |
 | [Coming Down](https://open.spotify.com/track/22VW5d6k6HT0SQ8MUEXuDz) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe\)](https://open.spotify.com/album/23Zi1sfUFkw4L4TC1vrLdy) | 4:01 | 2025-09-27 | 2025-10-09 |
 | [Coming Down](https://open.spotify.com/track/3OrTQrydMdfQeQJtPXBNSx) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh) | 4:01 | 2022-05-30 | 2023-09-16 |
 | [Coming Down](https://open.spotify.com/track/69CjL1kr0muXIraytXdbf5) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist](https://open.spotify.com/album/0AiuvwadoYnRjDJRdpmusr) | 4:01 | 2023-09-15 | 2025-09-27 |

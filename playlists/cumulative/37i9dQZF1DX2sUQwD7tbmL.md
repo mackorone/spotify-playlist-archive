@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-759 songs - 1 day 19 hr 8 min
+760 songs - 1 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [A\-Punk](https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx) | 2:17 | 2021-06-04 | 2022-04-21 |
 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 | 2022-07-22 | 2024-04-19 |
 | [Access](https://open.spotify.com/track/4mC6s6mZW0L0IXSrDodWhW) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Access](https://open.spotify.com/album/6My1J5oGzw5wwVgVhqBQge) | 4:28 | 2021-05-01 | 2022-03-12 |
+| [Act Like Your Title](https://open.spotify.com/track/17sGgozY2dvHMzXehRrJW8) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [R is for Rocket](https://open.spotify.com/album/71B3Y4OdzrQNt6acfdKsIG) | 2:19 | 2025-10-14 |  |
 | [Act Like Your Title](https://open.spotify.com/track/1UMO6vIf9lyPkdrMrsPirN) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [Act Like Your Title](https://open.spotify.com/album/23qCx5Wg1544KWxIjjEdCv) | 2:19 | 2025-09-12 | 2025-10-07 |
 | [Acting My Age](https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Acting My Age](https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW) | 3:42 | 2021-05-01 | 2023-09-19 |
 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-10-14 |  |
@@ -240,7 +241,7 @@
 | [Fluorescent Adolescent](https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:53 | 2022-07-22 | 2024-04-19 |
 | [Fluorescent Adolescent](https://open.spotify.com/track/2x8evxqUlF0eRabbW2JBJd) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 3:03 | 2022-04-13 |  |
 | [For Cryin' Out Loud! \(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA](https://open.spotify.com/track/7AeSEZgpU02dXrVSM32QFc) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud! \(Spotify OUTSIDE Version\) \[Live from Los Angeles, CA\]](https://open.spotify.com/album/3V9duXb3ewSmDoh3qm16XO) | 3:58 | 2024-10-24 | 2025-01-16 |
-| [Forbidden Doors](https://open.spotify.com/track/397MnnXkJ3TTlqey1oWM51) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Pollen](https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU) | 3:54 | 2023-09-29 |  |
+| [Forbidden Doors](https://open.spotify.com/track/397MnnXkJ3TTlqey1oWM51) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Pollen](https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU) | 3:54 | 2023-09-29 | 2025-10-26 |
 | [Forever Ever After](https://open.spotify.com/track/4MGnciz1ka4fYa3gJO8NTM) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Greyhound](https://open.spotify.com/album/3GeBXNOa1KPiFXNyAqeChF) | 4:56 | 2025-06-06 |  |
 | [Forgotten Souls](https://open.spotify.com/track/2HXlntIqqIgu4ibdVYk4I3) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Forgotten Souls](https://open.spotify.com/album/6FsbKlxfpfinK7PUxKTQPD) | 2:55 | 2021-05-01 | 2022-04-21 |
 | [Frankrike](https://open.spotify.com/track/5O3eeTqPzBNVbVXNlQemRt) | [Svømmebasseng](https://open.spotify.com/artist/0bavSVw1eMUyLmr440ggsg) | [Frankrike](https://open.spotify.com/album/77QticpvTMZJqZeTQalH3e) | 3:09 | 2021-05-01 | 2022-04-14 |

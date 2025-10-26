@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 10467,
+  "num_followers": 10479,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAC2+dantOprPcDeePJdafI7",
+  "snapshot_id": "aPrBgAAAAADvg6QmuQAP6sObS2jIbDsA",
   "tracks": [
     {
       "added_at": null,
@@ -755,6 +755,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Um Novo Tom",
+        "url": "https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 290769,
+      "name": "Um Novo Tom",
+      "url": "https://open.spotify.com/track/3uyXq1Y4zSy93mZI2iv8vL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outra Mulher",
         "url": "https://open.spotify.com/album/1Y33tqTNKUz2HOiVgwr6gB"
       },
@@ -943,30 +967,6 @@
       "duration_ms": 118545,
       "name": "Mil e uma Treta",
       "url": "https://open.spotify.com/track/41i1EFJa4guXadDAIHbXad"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Um Novo Tom",
-        "url": "https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        },
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 290769,
-      "name": "Um Novo Tom",
-      "url": "https://open.spotify.com/track/3uyXq1Y4zSy93mZI2iv8vL"
     },
     {
       "added_at": null,

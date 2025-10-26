@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 206215,
+  "num_followers": 206221,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAACE+OMdATKABnjIxYCfNzE4",
+  "snapshot_id": "aPrBgAAAAACztQNK0EUy95dVs6G/1n23",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        }
-      ],
-      "duration_ms": 395161,
-      "name": "Back To Life (Live)",
-      "url": "https://open.spotify.com/track/44aTdoCcquVC4xvX0YgZLn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Starlight (Live)",
         "url": "https://open.spotify.com/album/6FQt2yjB8m4548YBYLTqZZ"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 299365,
       "name": "King of My Heart (Live)",
       "url": "https://open.spotify.com/track/4XMy9Gv7Q7SWwIU4RdzdSG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "duration_ms": 395161,
+      "name": "Back To Life (Live)",
+      "url": "https://open.spotify.com/track/44aTdoCcquVC4xvX0YgZLn"
     },
     {
       "added_at": null,
@@ -799,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        }
+      ],
+      "duration_ms": 318115,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/59vLGHrpzwcwyPbQBG0KZy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Want Jesus (Live)",
         "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 293377,
       "name": "Tend",
       "url": "https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Up Here",
-        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
-        }
-      ],
-      "duration_ms": 318115,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/59vLGHrpzwcwyPbQBG0KZy"
     },
     {
       "added_at": null,

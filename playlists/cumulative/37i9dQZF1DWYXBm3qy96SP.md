@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Oasis
 
-1,736 songs - 4 day 4 hr 23 min
+1,738 songs - 4 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,6 +472,7 @@
 | [Dull \(feat\. Softcult\)](https://open.spotify.com/track/6tv37DbWSLe4Rik7CeYzOT) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dull \(feat\. Softcult\)](https://open.spotify.com/album/3gmtr45Lzb7GjzQFXe49C8) | 3:15 | 2024-08-15 | 2024-08-24 |
 | [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 | 2023-03-16 | 2023-06-04 |
 | [Dumbstruck Dumbf\*\*k](https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 2:58 | 2024-01-25 | 2024-03-01 |
+| [Dying To Love](https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Dying To Love](https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj) | 4:16 | 2025-10-23 |  |
 | [Dystopia](https://open.spotify.com/track/4kHAsfbvQDYhrF3GzVkH9J) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Dystopia](https://open.spotify.com/album/61v3eLYnSNbrXbZeOT3fcu) | 3:09 | 2024-10-24 | 2025-03-03 |
 | [DYWTYLM](https://open.spotify.com/track/4hjJtKO5SdpfVRwP4FZeKI) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [DYWTYLM](https://open.spotify.com/album/0xLXYxkjjIPfVFhbPWvCwy) | 4:00 | 2023-04-20 | 2023-05-28 |
 | [Easy Lighter](https://open.spotify.com/track/3ZPJCJMNaBQZG65nnlGgQ3) | [N.Y.P.D\. 南洋派對](https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY) | [Easy Lighter](https://open.spotify.com/album/0kAocczsJutXrc6QWMjYH6) | 6:21 | 2024-04-11 | 2024-06-21 |
@@ -522,7 +523,7 @@
 | [Eyes Closed \(feat\. J Balvin\)](https://open.spotify.com/track/78EfhCsgEi8cEJXib3BFqL) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Eyes Closed \(feat\. J Balvin\)](https://open.spotify.com/album/1kbKNVSyGgtiM8RQo1ngRB) | 3:20 | 2024-05-02 | 2024-08-14 |
 | [Eyes Open \(Taylor's Version\)](https://open.spotify.com/track/2NIBaWXdjaTDmytjjwbEfP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Eyes Open \(Taylor's Version\)](https://open.spotify.com/album/6AeF9IkXFpHz5H3wUNX3L3) | 4:03 | 2023-03-16 | 2024-04-27 |
 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 | 2023-04-27 | 2024-02-09 |
-| [FACEDOWN](https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [FACEDOWN](https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee) | 3:41 | 2025-08-14 |  |
+| [FACEDOWN](https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [FACEDOWN](https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee) | 3:41 | 2025-08-14 | 2025-10-26 |
 | [Facedown](https://open.spotify.com/track/2wc4XyfD9OAELrkwL3iCqO) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Facedown](https://open.spotify.com/album/5bkQz8PC9JMdToUrvFfQOI) | 2:31 | 2023-03-16 | 2023-03-25 |
 | [faceplant](https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [faceplant](https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup) | 2:41 | 2023-10-05 | 2023-10-13 |
 | [Fading Out](https://open.spotify.com/track/5wx5zQCpsVOxUWJf5XxWjp) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 4:37 | 2025-08-08 | 2025-08-22 |
@@ -1034,6 +1035,7 @@
 | [Nintendo](https://open.spotify.com/track/4gXOQMPhk5B1h0hXcT5oQD) | [Letters to Lions](https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx) | [Nintendo](https://open.spotify.com/album/1hiENPjpnZ7ih4hMKTbjEy) | 2:21 | 2024-11-28 | 2024-12-13 |
 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 | 2024-08-29 | 2024-10-18 |
 | [No Angels](https://open.spotify.com/track/0rILJVRD7waDGOFzoyruI2) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [No Angels](https://open.spotify.com/album/5cGHWAoS3cGwU9eYTH3mSm) | 3:52 | 2023-06-15 | 2023-06-23 |
+| [no cell phones in rehab](https://open.spotify.com/track/5pxTM2hj4HFV8q8YduAAR9) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [no cell phones in rehab](https://open.spotify.com/album/1beGhAPo6Me2t9BweRd49e) | 2:35 | 2025-10-23 |  |
 | [NO LOVE BUT FOR OUR OWN](https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ONLY ONE MODE](https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9) | 2:52 | 2024-07-11 | 2024-09-13 |
 | [No Obligation](https://open.spotify.com/track/5AnKgZ8Ctag36HxyPP5Uzn) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [No Obligation](https://open.spotify.com/album/1HVe5wBBPAASqbV4j6qhQg) | 2:06 | 2024-09-12 | 2024-10-11 |
 | [NO PAIN](https://open.spotify.com/track/4Tz8G2vbDj5GF3FDBC2Pnd) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 3:41 | 2024-03-03 | 2024-08-30 |
@@ -1284,7 +1286,7 @@
 | [Screaming In The Rain Again](https://open.spotify.com/track/0jsh4swhkkj6L4MAnwGWqS) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Screaming In The Rain Again](https://open.spotify.com/album/3jpkNQcDMg94XMxtj4Lk3m) | 3:07 | 2023-07-20 | 2023-07-28 |
 | [Screamin’ At The Sky](https://open.spotify.com/track/1imjOta3P3L3ZYZiT1cYMr) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Screamin’ At The Sky](https://open.spotify.com/album/3vO2TPaxrjoC6St9PUhvDs) | 3:24 | 2023-07-06 | 2023-07-14 |
 | [Seasons](https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Seasons](https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U) | 2:46 | 2023-08-17 | 2024-03-01 |
-| [Second Best](https://open.spotify.com/track/3maVS3WFsYND7s97LJQnzF) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Second Best](https://open.spotify.com/album/6wuwiiAyhdR1B8fuW7Entm) | 3:31 | 2025-10-02 |  |
+| [Second Best](https://open.spotify.com/track/3maVS3WFsYND7s97LJQnzF) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Second Best](https://open.spotify.com/album/6wuwiiAyhdR1B8fuW7Entm) | 3:31 | 2025-10-02 | 2025-10-26 |
 | [Secondary Worship](https://open.spotify.com/track/4ypkMHJBXRdaaWdqwjixFc) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Secondary Worship](https://open.spotify.com/album/7DL6CtEvsTtgX0C8MxmOWt) | 3:46 | 2024-02-29 | 2024-04-12 |
 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 | 2025-05-01 | 2025-07-10 |
 | [Self Love](https://open.spotify.com/track/1E8mdkOcJ3mMYkRlxCZiak) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Dark Rainbow](https://open.spotify.com/album/4pU6rQzlCfTrSxous1m7CK) | 3:21 | 2024-01-25 | 2024-02-02 |

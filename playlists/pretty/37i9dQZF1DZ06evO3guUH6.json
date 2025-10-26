@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1057121,
+  "num_followers": 1057283,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAALap6RRJu0mH+CiJEqGdsB",
+  "snapshot_id": "aPrBgAAAAADvQfwoYaw2f94eHMJxM9J3",
   "tracks": [
     {
       "added_at": null,
@@ -143,42 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a Frente",
-        "url": "https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Te quiero, te amo",
-      "url": "https://open.spotify.com/track/73XUqDO8fU7dhFuwHw4W3s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 195493,
-      "name": "Antecedentes De Culpa",
-      "url": "https://open.spotify.com/track/3JvDAV3iV1KH0EmnfdU8kf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Privilegio",
         "url": "https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj"
       },
@@ -195,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
       },
       "artists": [
         {
@@ -204,9 +168,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 187240,
-      "name": "No",
-      "url": "https://open.spotify.com/track/2QrU43HoJRNBrbo2XLI9DS"
+      "duration_ms": 195493,
+      "name": "Antecedentes De Culpa",
+      "url": "https://open.spotify.com/track/3JvDAV3iV1KH0EmnfdU8kf"
     },
     {
       "added_at": null,
@@ -231,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
       },
       "artists": [
         {
@@ -240,9 +204,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 199293,
-      "name": "El Sill\u00f3n",
-      "url": "https://open.spotify.com/track/4SHTLje9c6RLnx6kOPt9L6"
+      "duration_ms": 187240,
+      "name": "No",
+      "url": "https://open.spotify.com/track/2QrU43HoJRNBrbo2XLI9DS"
     },
     {
       "added_at": null,
@@ -259,6 +223,22 @@
       "duration_ms": 257160,
       "name": "El Inicio Del final",
       "url": "https://open.spotify.com/track/0RBC4WwqMriC9UbbPVe1no"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "El Sill\u00f3n",
+      "url": "https://open.spotify.com/track/4SHTLje9c6RLnx6kOPt9L6"
     },
     {
       "added_at": null,
@@ -703,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frente a Frente",
+        "url": "https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Te quiero, te amo",
+      "url": "https://open.spotify.com/track/73XUqDO8fU7dhFuwHw4W3s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Inadaptados",
         "url": "https://open.spotify.com/album/7Fz369S1erEQYmnrbZawsB"
       },
@@ -719,26 +719,6 @@
       "duration_ms": 175040,
       "name": "Los Inadaptados",
       "url": "https://open.spotify.com/track/15v0ra246PDmiT5Vh9YzWO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 157695,
-      "name": "As\u00ed las Cosas",
-      "url": "https://open.spotify.com/track/526NOmILzrs7f47mHXDrFm"
     },
     {
       "added_at": null,
@@ -779,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 157695,
+      "name": "As\u00ed las Cosas",
+      "url": "https://open.spotify.com/track/526NOmILzrs7f47mHXDrFm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Imaginaci\u00f3n",
         "url": "https://open.spotify.com/album/7BnXJy3LCtSuOtWZd7Lgxz"
       },
@@ -791,26 +791,6 @@
       "duration_ms": 262800,
       "name": "Imaginaci\u00f3n",
       "url": "https://open.spotify.com/track/3fMe9PdNbajE7285bYUaa9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 250368,
-      "name": "Otro Perdedor",
-      "url": "https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH"
     },
     {
       "added_at": null,
@@ -843,6 +823,26 @@
       "duration_ms": 221013,
       "name": "El Cuestionario",
       "url": "https://open.spotify.com/track/0BbBubEZhUbsJwpKJhMBgd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 250368,
+      "name": "Otro Perdedor",
+      "url": "https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH"
     },
     {
       "added_at": null,

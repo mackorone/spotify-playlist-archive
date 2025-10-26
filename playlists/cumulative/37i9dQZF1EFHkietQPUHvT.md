@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-98 songs - 4 hr 56 min
+99 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Lion's Den](https://open.spotify.com/track/6MrWgh6TzFSm2MzWEyWHQh) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Parked Car Conversations](https://open.spotify.com/album/68sSQ6wu7ZxCAXC1iHjnZe) | 3:24 | 2024-04-28 |  |
 | [Little Dreaming](https://open.spotify.com/track/02B3AyjVkk7Z5Ktom1eH0q) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6FJ9yGyRou6MzvOePLeIJe) | 3:23 | 2025-03-16 | 2025-08-04 |
 | [Little Dreaming](https://open.spotify.com/track/1JF4ZteKMtYMXpNrN6622p) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 3:23 | 2025-08-03 |  |
+| [Live Without You](https://open.spotify.com/track/2SfpMcdEDXQZbPLELlRHzF) | [Niall O'Connor](https://open.spotify.com/artist/0HszeswPOHPKPVyDOm5DCc) | [Live Without You](https://open.spotify.com/album/3EG9WRxr2lY8jkNtYg4e9e) | 2:59 | 2025-10-25 |  |
 | [Louder](https://open.spotify.com/track/08s07LwInGpJUeA8rUtyMD) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 3:00 | 2024-08-05 |  |
 | [Love Like Us](https://open.spotify.com/track/4PUWuwvbqSKFvTZ5O0pqhF) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Love Like Us](https://open.spotify.com/album/0hDq3gHJMQgfMW8vg8RttR) | 2:58 | 2024-08-01 |  |
 | [love u in the morning](https://open.spotify.com/track/2EcW6vI753m0KQOganbQrK) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [love u in the morning](https://open.spotify.com/album/77LUvtfw3URuvXMDPYLtxZ) | 2:44 | 2024-02-26 | 2024-03-02 |

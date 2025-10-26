@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011,239 likes - 190 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011,305 likes - 190 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 38 | [Jealous](https://open.spotify.com/track/48qSRomfnylKcw01TNhjFH) | [Shimmer](https://open.spotify.com/artist/1WLgLNSzeuOhkhfEZbSXM3) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 3:33 |
 | 39 | [Too Sweet \(Arr\. Piano\)](https://open.spotify.com/track/68AMVVcQKtHtwzNdkQ3lKF) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Too Sweet \(Arr\. Piano\)](https://open.spotify.com/album/2xem7jtlJTdNdvqCyTkkNa) | 3:16 |
 | 40 | [Night Changes \(Arr\. Piano\)](https://open.spotify.com/track/04LfvFugrSPLb8VlW2loSF) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Night Changes \(Arr\. Piano\)](https://open.spotify.com/album/0Xnc06m2Lg6Vq8DU0MwLFm) | 2:43 |
-| 41 | [Writing's On The Wall \(from "Spectre"\)](https://open.spotify.com/track/3LP5CtYASoBvrr697nINRt) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [James Napier](https://open.spotify.com/artist/4doY6QwZQRv7cVKQshmFsM), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Writing's On The Wall \(from "Spectre"\)](https://open.spotify.com/album/0C8D8jXhUgK827Bl3GG32m) | 4:31 |
+| 41 | [Writing's On The Wall \(from "Spectre"\)](https://open.spotify.com/track/3LP5CtYASoBvrr697nINRt) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Writing's On The Wall \(from "Spectre"\)](https://open.spotify.com/album/0C8D8jXhUgK827Bl3GG32m) | 4:31 |
 | 42 | [Svag \- Piano & Strings Version](https://open.spotify.com/track/1QXkx9DJztoQWA5oVjOAYO) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Svag \(Piano & Strings Version\)](https://open.spotify.com/album/02jnEP7deNblQP5qJm2ckX) | 2:54 |
 | 43 | [Heroes \(Version for Piano\)](https://open.spotify.com/track/5fMc2MTb6pb5ehYQOl8A4s) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Maurizio Baglini](https://open.spotify.com/artist/6GKFibfWHRW8jfNr102ZkU) | [David Bowie: Heroes](https://open.spotify.com/album/2wZjHNQDTwkD7zxksqPGlJ) | 2:40 |
 | 44 | [For Good \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/04AfCHCBBLuD2YuIUEcWLa) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [For Good \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/6Ezlz82NOJ0il1XOiqg7CL) | 3:24 |

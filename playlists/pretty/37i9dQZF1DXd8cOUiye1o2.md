@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Latest Hindi drops, right here\. Listen now\. Cover: Thamma
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,082 likes - 76 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,235 likes - 76 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAADYEPw2rt/OsYBmxR/N23an",
+  "snapshot_id": "aPrBgAAAAAAyQC545RFLh4183Iefi4z/",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Craven N",
+        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        }
+      ],
+      "duration_ms": 135384,
+      "name": "Wolfing Down",
+      "url": "https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE PRYCE YOU PAY",
         "url": "https://open.spotify.com/album/2cuQyw05LhSMjnTMejPUNS"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 151807,
       "name": "DUHM PAYD",
       "url": "https://open.spotify.com/track/3a5tWiIFOG4vBjKeIo6hB7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Craven N",
-        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
-        }
-      ],
-      "duration_ms": 135384,
-      "name": "Wolfing Down",
-      "url": "https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3"
     },
     {
       "added_at": null,
@@ -731,14 +731,10 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peaches and Herb (Remix)",
-        "url": "https://open.spotify.com/album/2fUhrIKAeSXuwdxH5vMcph"
+        "name": "Deleted Scenes",
+        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
       "artists": [
-        {
-          "name": "Che Noir",
-          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
-        },
         {
           "name": "Ransom",
           "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
@@ -748,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Peaches and Herb - Remix",
-      "url": "https://open.spotify.com/track/46DS5VcDCIWh54ljkXz2MI"
+      "duration_ms": 188414,
+      "name": "Final Destination",
+      "url": "https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS"
     },
     {
       "added_at": null,
@@ -799,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deleted Scenes",
-        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 188414,
-      "name": "Final Destination",
-      "url": "https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "POTLUCK",
         "url": "https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh"
       },
@@ -835,6 +811,30 @@
       "duration_ms": 157290,
       "name": "Beat The Charge",
       "url": "https://open.spotify.com/track/51nexOgdmWUAbfIY6rdQDI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peaches and Herb (Remix)",
+        "url": "https://open.spotify.com/album/2fUhrIKAeSXuwdxH5vMcph"
+      },
+      "artists": [
+        {
+          "name": "Che Noir",
+          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Peaches and Herb - Remix",
+      "url": "https://open.spotify.com/track/46DS5VcDCIWh54ljkXz2MI"
     },
     {
       "added_at": null,

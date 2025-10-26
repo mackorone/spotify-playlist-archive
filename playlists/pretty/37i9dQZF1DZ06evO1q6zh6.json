@@ -1,33 +1,13 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 181143,
+  "num_followers": 181165,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAAldFHqPefCDbAu7mf6Cprg",
+  "snapshot_id": "aPrBgAAAAACYadwQXfGnkLZu58ptuiuf",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "War Pigs (Charity Version)",
-        "url": "https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        },
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 484779,
-      "name": "War Pigs - Charity Version",
-      "url": "https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q"
-    },
     {
       "added_at": null,
       "album": {
@@ -79,18 +59,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Defenders Of The Faith",
-        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+        "name": "War Pigs (Charity Version)",
+        "url": "https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf"
       },
       "artists": [
         {
           "name": "Judas Priest",
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 302066,
-      "name": "The Sentinel",
-      "url": "https://open.spotify.com/track/6noDJ06v7z8bCsBitjxFG2"
+      "duration_ms": 484779,
+      "name": "War Pigs - Charity Version",
+      "url": "https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q"
     },
     {
       "added_at": null,
@@ -123,6 +107,22 @@
       "duration_ms": 222440,
       "name": "Electric Eye",
       "url": "https://open.spotify.com/track/3w9zHVKI28aUPZTxq8oDC6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 302066,
+      "name": "The Sentinel",
+      "url": "https://open.spotify.com/track/6noDJ06v7z8bCsBitjxFG2"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "British Steel",
-        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+        "name": "Angel Of Retribution",
+        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 238293,
-      "name": "Metal Gods",
-      "url": "https://open.spotify.com/track/0VFfZVCFNe1I2IIChVBR5m"
+      "duration_ms": 264200,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel Of Retribution",
-        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 264200,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv"
+      "duration_ms": 238293,
+      "name": "Metal Gods",
+      "url": "https://open.spotify.com/track/0VFfZVCFNe1I2IIChVBR5m"
     },
     {
       "added_at": null,

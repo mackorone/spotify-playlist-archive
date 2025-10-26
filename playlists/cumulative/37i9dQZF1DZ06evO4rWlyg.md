@@ -4,7 +4,7 @@
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-146 songs - 10 hr 26 min
+147 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,15 +73,16 @@
 | [Hyper\-ballad](https://open.spotify.com/track/2w0wVOiydK5a5e5UqffWwS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 5:21 | 2024-03-16 |  |
 | [Hyper\-ballad](https://open.spotify.com/track/3jIzAeh7fhe70umAJrY3Fk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 5:21 | 2023-11-10 | 2024-03-15 |
 | [Hyperballad](https://open.spotify.com/track/4z1fNs2B7KndCsvyPgrhq5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 5:21 | 2024-03-14 | 2024-03-17 |
-| [I Miss You](https://open.spotify.com/track/2pDMVFdeAsFI73DDekyvDf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 4:03 | 2024-05-21 | 2024-07-03 |
+| [I Miss You](https://open.spotify.com/track/2pDMVFdeAsFI73DDekyvDf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 4:03 | 2024-05-21 |  |
 | [I Remember You](https://open.spotify.com/track/13UgnCvGXgcnzRmkSD5VAU) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Venus As A Boy](https://open.spotify.com/album/4X3ddQMDiDUtc1RBeOIh1m) | 4:13 | 2024-03-13 |  |
 | [I Remember You](https://open.spotify.com/track/1F3BNDJwq2q0yWHH0a3YV9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Venus As A Boy](https://open.spotify.com/album/5qSFDaRhhU16dPjwqONHjL) | 4:13 | 2023-11-10 | 2024-03-14 |
 | [Immature](https://open.spotify.com/track/6WH380JPFPtxMVzePuKWhl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0HMsmYvoT1h2x1C4di5faf) | 3:06 | 2024-03-14 | 2024-03-19 |
 | [Immature \- Mark Bell's Version](https://open.spotify.com/track/07GGbKqM9rBCv8sGFwpp3Q) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 3:06 | 2023-11-10 | 2024-03-15 |
 | [Immature \- Mark Bell's Version](https://open.spotify.com/track/1HFvDETKd9km5DRGd4DkrA) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 3:06 | 2024-03-18 |  |
 | [Isobel](https://open.spotify.com/track/2FXjdR7wEPcD5u4Ylqfd5i) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 5:46 | 2024-03-15 | 2024-03-17 |
-| [Isobel](https://open.spotify.com/track/05meZdvKNj4FBxNbdMgpT6) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 5:47 | 2024-03-16 |  |
+| [Isobel](https://open.spotify.com/track/05meZdvKNj4FBxNbdMgpT6) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 5:47 | 2024-03-16 | 2025-10-26 |
 | [Isobel](https://open.spotify.com/track/1qyD5xpCI53VtITnxwB5Xn) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 5:47 | 2023-11-10 | 2024-03-16 |
+| [Isobel \- Cornucopia Live](https://open.spotify.com/track/7LOkaU8KiLAD7DOCratL8k) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Cornucopia: Live](https://open.spotify.com/album/3RthPqHIceYcEAYWohiD8n) | 5:59 | 2025-10-26 |  |
 | [It's Not up to You](https://open.spotify.com/track/4bZnIdaGBf162pZEkxXSgQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 5:08 | 2024-03-02 | 2024-04-26 |
 | [It's Not Up To You](https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 5:08 | 2024-04-26 |  |
 | [It's Not Up To You](https://open.spotify.com/track/5BQ7QRKTkw2qhN2bq0rZW7) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay) | 5:08 | 2023-11-10 | 2024-03-03 |

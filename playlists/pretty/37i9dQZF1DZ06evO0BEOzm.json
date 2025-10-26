@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 304328,
+  "num_followers": 304352,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAABOA49+hZLfYtMKnXn6mTnc",
+  "snapshot_id": "aPrBgAAAAACN4UOAKCEYdZtuGtJhONtg",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HISS",
-        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "HISS",
-      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 206461,
       "name": "B.A.S. (feat. Kyle Richh)",
       "url": "https://open.spotify.com/track/3pR7ZToCrzeNkfEf6n2rVR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
       "duration_ms": 176749,
       "name": "Captain Hook",
       "url": "https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVER GIRL",
+        "url": "https://open.spotify.com/album/5919KmtJqUR1VqkXJEH2US"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 264669,
+      "name": "LOVER GIRL",
+      "url": "https://open.spotify.com/track/3t6kNqWEd1CPE2nPz6wcQg"
     },
     {
       "added_at": null,
@@ -899,26 +915,6 @@
       "duration_ms": 95199,
       "name": "He Think I Love Him",
       "url": "https://open.spotify.com/track/1BllxkhLaC2xvKNLSEZIKL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 187794,
-      "name": "Spin (feat. Victoria Mon\u00e9t)",
-      "url": "https://open.spotify.com/track/3VU5hcDFXuX8aDwfn7GDeY"
     }
   ],
   "unique_name": "This Is Megan Thee Stallion",

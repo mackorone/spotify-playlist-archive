@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX76Z8XDsZzF.md) - [plain]
 
 > Sit back, and chill with Bollywood's easygoing hits\. Cover \- Param Sundari
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,684 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,283 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX76Z8XDsZzF.md) - [plain]
 | 74 | [Mast Magan](https://open.spotify.com/track/3uL1IBFhg52VcQqOwAG01E) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 4:40 |
 | 75 | [Rabba Main Toh Mar Gaya Oye](https://open.spotify.com/track/0UlJKSmbpSPaRxUnr0lpgH) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 4:40 |
 
-Snapshot ID: `AAAAACT8sEVGPWCqyYFpedRVGPYlBaCV`
+Snapshot ID: `AAAAAJB81NvmA14jIpxA6KVbyfklo8da`

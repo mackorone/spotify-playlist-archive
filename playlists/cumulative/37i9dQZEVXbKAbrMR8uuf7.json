@@ -2774,7 +2774,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 192853,
       "name": "AURORA",
       "url": "https://open.spotify.com/track/18m5dJOPB2geFwOymXNaWg"
@@ -5778,7 +5778,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 116540,
       "name": "Chiquita",
       "url": "https://open.spotify.com/track/2ZzUhGrS7YrR9YVVxC4ZMg"
@@ -17772,7 +17772,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -19660,7 +19660,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 143870,
       "name": "Lean",
       "url": "https://open.spotify.com/track/1IhDSbT5Ey2iryw3OuARik"
@@ -20918,7 +20918,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 257186,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
@@ -21720,7 +21720,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 122125,
       "name": "MamaZota",
       "url": "https://open.spotify.com/track/61cv6dbBrjXWykPZCFXzoY"
@@ -22299,6 +22299,24 @@
     },
     {
       "album": {
+        "name": "Dissonance",
+        "url": "https://open.spotify.com/album/18N5RR25MyKBvYFbzvqm23"
+      },
+      "artists": [
+        {
+          "name": "Mak Namara",
+          "url": "https://open.spotify.com/artist/5HsMelyIXvomBnSUwxpEJs"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154319,
+      "name": "Master of Choices",
+      "url": "https://open.spotify.com/track/6GbucOH0umTix3hcqWyf2K"
+    },
+    {
+      "album": {
         "name": "SONY",
         "url": "https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp"
       },
@@ -22642,7 +22660,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 173573,
       "name": "ME GUSTAS CC",
       "url": "https://open.spotify.com/track/4Hkp1TiYqGYhknFwtUsbqd"
@@ -23136,6 +23154,24 @@
       "duration_ms": 141818,
       "name": "Mencionar",
       "url": "https://open.spotify.com/track/5gEkHtIiOoTuKqcMyxVrqJ"
+    },
+    {
+      "album": {
+        "name": "Mensaje Directo (DM)",
+        "url": "https://open.spotify.com/album/49xNNfmQRUICPKH1uX0yc9"
+      },
+      "artists": [
+        {
+          "name": "Shadow Blow",
+          "url": "https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220706,
+      "name": "Mensaje Directo (DM)",
+      "url": "https://open.spotify.com/track/7oJzEtK0F1FT0cFIPNOPY6"
     },
     {
       "album": {
@@ -26826,7 +26862,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 133669,
       "name": "PA TRIPEA \" HUAN62",
       "url": "https://open.spotify.com/track/1cQ7ErDwwKNqFzPo9L3uKI"
@@ -30498,6 +30534,28 @@
       "duration_ms": 137590,
       "name": "Que Sensaci\u00f3n",
       "url": "https://open.spotify.com/track/6HKM31OYl260uEXGNRdsPz"
+    },
+    {
+      "album": {
+        "name": "Que Sensaci\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/27L1rWQUpb8ctfroyDofHZ"
+      },
+      "artists": [
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154090,
+      "name": "Que Sensaci\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/0xh2JGmHH1lgRMDaIL94pz"
     },
     {
       "album": {
@@ -35574,6 +35632,28 @@
       "duration_ms": 137000,
       "name": "Sou Baiana",
       "url": "https://open.spotify.com/track/2jOOrtPppgKV7ELxy4KmpD"
+    },
+    {
+      "album": {
+        "name": "SPAGHETTI",
+        "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172313,
+      "name": "SPAGHETTI",
+      "url": "https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI"
     },
     {
       "album": {
@@ -41318,7 +41398,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 158963,
       "name": "WoW",
       "url": "https://open.spotify.com/track/3xltAYY9fbM1v9DUY2LFdt"
@@ -41928,7 +42008,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 129705,
       "name": "Yo s\u00e9",
       "url": "https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92"

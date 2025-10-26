@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 168144,
+  "num_followers": 168148,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
+        "name": "Treat Me",
+        "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 149865,
+      "name": "Treat Me",
+      "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
+    },
+    {
+      "added_at": "2025-10-20 07:34:09",
+      "album": {
         "name": "Those Days",
         "url": "https://open.spotify.com/album/3ruuXdcYTLv8j85lBvUouX"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 229750,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/42yFErprYYtoYtzVdkNNAg"
-    },
-    {
-      "added_at": "2025-10-20 07:34:09",
-      "album": {
-        "name": "Treat Me",
-        "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 149865,
-      "name": "Treat Me",
-      "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
     },
     {
       "added_at": "2025-10-20 07:34:09",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
-    },
-    {
-      "added_at": "2025-10-20 07:34:09",
-      "album": {
         "name": "Maxinquaye",
         "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 458666,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI"
+    },
+    {
+      "added_at": "2025-10-20 07:34:09",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
     {
       "added_at": "2025-10-20 07:34:09",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
-        "name": "So Sunshine",
-        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 136007,
-      "name": "So",
-      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
-    },
-    {
-      "added_at": "2025-10-20 07:34:09",
-      "album": {
         "name": "Quixotic",
         "url": "https://open.spotify.com/album/5W3A1cKeYDWKwumAcTqQMf"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 232093,
       "name": "Sandpaper Kisses",
       "url": "https://open.spotify.com/track/64vNKBA9dpXgQhQfuMocSG"
+    },
+    {
+      "added_at": "2025-10-20 07:34:09",
+      "album": {
+        "name": "So Sunshine",
+        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 136007,
+      "name": "So",
+      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
     },
     {
       "added_at": "2025-10-20 07:34:09",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
+        "name": "ELEVATED LOVE",
+        "url": "https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP"
+      },
+      "artists": [
+        {
+          "name": "KAMOBii",
+          "url": "https://open.spotify.com/artist/2oQ9BxzlZifyZKD035tVj1"
+        }
+      ],
+      "duration_ms": 208391,
+      "name": "ELEVATED LOVE",
+      "url": "https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw"
+    },
+    {
+      "added_at": "2025-10-20 07:34:09",
+      "album": {
         "name": "The Mannequin Song",
         "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
-        "name": "ELEVATED LOVE",
-        "url": "https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP"
-      },
-      "artists": [
-        {
-          "name": "KAMOBii",
-          "url": "https://open.spotify.com/artist/2oQ9BxzlZifyZKD035tVj1"
-        }
-      ],
-      "duration_ms": 208391,
-      "name": "ELEVATED LOVE",
-      "url": "https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw"
-    },
-    {
-      "added_at": "2025-10-20 07:34:09",
-      "album": {
         "name": "Firebabe",
         "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/7KmeUOzgnUS9GvzZTnozaa"
-      },
-      "artists": [
-        {
-          "name": "Sam Wills",
-          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "Voicenotes",
-      "url": "https://open.spotify.com/track/2RBqraa59OrLMVYm7sq7Og"
-    },
-    {
-      "added_at": "2025-10-20 07:34:09",
-      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF"
       },
@@ -1327,22 +1311,6 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
-        "name": "Underground Vibes",
-        "url": "https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA"
-      },
-      "artists": [
-        {
-          "name": "DJ Cam",
-          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
-        }
-      ],
-      "duration_ms": 312413,
-      "name": "Mad Blunted Jazz",
-      "url": "https://open.spotify.com/track/11mUt9hPLDxt7EsoYB2Ujc"
-    },
-    {
-      "added_at": "2025-10-20 07:34:09",
-      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
       },
@@ -1355,6 +1323,38 @@
       "duration_ms": 281730,
       "name": "Love Hope Change",
       "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
+    },
+    {
+      "added_at": "2025-10-20 07:34:09",
+      "album": {
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/7KmeUOzgnUS9GvzZTnozaa"
+      },
+      "artists": [
+        {
+          "name": "Sam Wills",
+          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "Voicenotes",
+      "url": "https://open.spotify.com/track/2RBqraa59OrLMVYm7sq7Og"
+    },
+    {
+      "added_at": "2025-10-20 07:34:09",
+      "album": {
+        "name": "Underground Vibes",
+        "url": "https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA"
+      },
+      "artists": [
+        {
+          "name": "DJ Cam",
+          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+        }
+      ],
+      "duration_ms": 312413,
+      "name": "Mad Blunted Jazz",
+      "url": "https://open.spotify.com/track/11mUt9hPLDxt7EsoYB2Ujc"
     },
     {
       "added_at": "2025-10-20 07:34:09",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
-        "name": "I Used To Know Her",
-        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "Be On My Way (Full)",
-      "url": "https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8"
-    },
-    {
-      "added_at": "2025-10-20 07:34:09",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 199680,
       "name": "Remember",
       "url": "https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3"
+    },
+    {
+      "added_at": "2025-10-20 07:34:09",
+      "album": {
+        "name": "I Used To Know Her",
+        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "Be On My Way (Full)",
+      "url": "https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8"
     },
     {
       "added_at": "2025-10-20 07:34:09",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
-        "name": "Old Fashion Love",
-        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
-      },
-      "artists": [
-        {
-          "name": "Krista Monica",
-          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
-        }
-      ],
-      "duration_ms": 209117,
-      "name": "Old Fashion Love",
-      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
-    },
-    {
-      "added_at": "2025-10-20 07:34:09",
-      "album": {
         "name": "bad weather",
         "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 148855,
       "name": "bad weather",
       "url": "https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw"
+    },
+    {
+      "added_at": "2025-10-20 07:34:09",
+      "album": {
+        "name": "Old Fashion Love",
+        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
+      },
+      "artists": [
+        {
+          "name": "Krista Monica",
+          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
+        }
+      ],
+      "duration_ms": 209117,
+      "name": "Old Fashion Love",
+      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
     },
     {
       "added_at": "2025-10-20 07:34:09",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
-        "name": "Everything I Didn\u2019t Say",
-        "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Ugly",
-      "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
-    },
-    {
-      "added_at": "2025-10-20 07:34:09",
-      "album": {
         "name": "Trying Not To Cry (feat. Cavetown)",
         "url": "https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv"
       },
@@ -1527,22 +1511,18 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
-        "name": "walk but in a garden",
-        "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
+        "name": "Everything I Didn\u2019t Say",
+        "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
       },
       "artists": [
         {
-          "name": "LLusion",
-          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
-        },
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
         }
       ],
-      "duration_ms": 112500,
-      "name": "walk but in a garden (with mxmtoon)",
-      "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
+      "duration_ms": 213133,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
     },
     {
       "added_at": "2025-10-20 07:34:09",
@@ -1559,6 +1539,26 @@
       "duration_ms": 173949,
       "name": "honeymoon - Spotify Singles",
       "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
+    },
+    {
+      "added_at": "2025-10-20 07:34:09",
+      "album": {
+        "name": "walk but in a garden",
+        "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
+      },
+      "artists": [
+        {
+          "name": "LLusion",
+          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
+        },
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "walk but in a garden (with mxmtoon)",
+      "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
     },
     {
       "added_at": "2025-10-20 07:34:09",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
-      },
-      "artists": [
-        {
-          "name": "BV",
-          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
-    },
-    {
-      "added_at": "2025-10-20 07:34:09",
-      "album": {
         "name": "Baby Cakes",
         "url": "https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 228705,
       "name": "Baby Cakes",
       "url": "https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L"
+    },
+    {
+      "added_at": "2025-10-20 07:34:09",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
+      },
+      "artists": [
+        {
+          "name": "BV",
+          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
     },
     {
       "added_at": "2025-10-20 07:34:09",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
-        "name": "Panda",
-        "url": "https://open.spotify.com/album/6rsVdLBZoQUPkXIwc32iUZ"
+        "name": "Luster",
+        "url": "https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP"
       },
       "artists": [
         {
-          "name": "Ley Soul",
-          "url": "https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ"
+          "name": "Maria Somerville",
+          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
         }
       ],
-      "duration_ms": 142000,
-      "name": "Fortune Eyes",
-      "url": "https://open.spotify.com/track/73nbjwGnfzLd7KsTU3H1mv"
+      "duration_ms": 214106,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl"
     },
     {
       "added_at": "2025-10-20 07:34:09",

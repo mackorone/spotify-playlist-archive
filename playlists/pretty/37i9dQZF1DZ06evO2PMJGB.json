@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 265059,
+  "num_followers": 265065,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAD4++FmwlPegJPPwOMlQrCz",
+  "snapshot_id": "aPrBgAAAAADn/BDWNppq0U+MIZGnlNKK",
   "tracks": [
     {
       "added_at": null,
@@ -99,30 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BATE VOLTA",
-        "url": "https://open.spotify.com/album/06lVVI24CoYeLU9wxkVUp6"
-      },
-      "artists": [
-        {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 149090,
-      "name": "BATE VOLTA",
-      "url": "https://open.spotify.com/track/73gZocgnuAHGWxYzSBvD1K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Me Provoca",
         "url": "https://open.spotify.com/album/4zoOC66ELs5xOesaO0tD1z"
       },
@@ -147,6 +123,30 @@
       "duration_ms": 164521,
       "name": "N\u00e3o Me Provoca",
       "url": "https://open.spotify.com/track/1xFMviPJFR4mPRRxQbadpu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BATE VOLTA",
+        "url": "https://open.spotify.com/album/06lVVI24CoYeLU9wxkVUp6"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 149090,
+      "name": "BATE VOLTA",
+      "url": "https://open.spotify.com/track/73gZocgnuAHGWxYzSBvD1K"
     },
     {
       "added_at": null,

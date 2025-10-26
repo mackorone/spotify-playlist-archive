@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 37445,
+  "num_followers": 37452,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAADZRvFvzmJ5cYWJ6Jo4T6R5",
+  "snapshot_id": "aPrBgAAAAABou808Dux1hWEN6ZsTZObj",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 313546,
+      "name": "The Blues Is Alive And Well",
+      "url": "https://open.spotify.com/track/0TuPaGnVZ9wwv0qAjCLEin"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ain't Done With The Blues",
         "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
       },
@@ -328,25 +344,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 282800,
+      "duration_ms": 282792,
       "name": "Dry Stick (feat. Joe Bonamassa)",
       "url": "https://open.spotify.com/track/1OYL19WV8Gf1Gx42AS45Xw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 313546,
-      "name": "The Blues Is Alive And Well",
-      "url": "https://open.spotify.com/track/0TuPaGnVZ9wwv0qAjCLEin"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Done With The Blues",
-        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "Been There Done That",
-      "url": "https://open.spotify.com/track/58fNv64oeBSZdAsYipR5pj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blues Is Alive And Well",
         "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 242600,
       "name": "Whiskey For Sale",
       "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't Done With The Blues",
+        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 228167,
+      "name": "Been There Done That",
+      "url": "https://open.spotify.com/track/58fNv64oeBSZdAsYipR5pj"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Chase The Blues Away",
+        "url": "https://open.spotify.com/album/6dvnLC5c0ISNbZWJuoALhx"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 289603,
+      "name": "Blues Chase The Blues Away",
+      "url": "https://open.spotify.com/track/6dDpAO5lP55K0T78HQF3ZS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ain't Done With The Blues",
         "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
       },
@@ -468,25 +484,9 @@
           "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
         }
       ],
-      "duration_ms": 242280,
+      "duration_ms": 242274,
       "name": "Where U At (feat. Christone \"Kingfish\" Ingram)",
       "url": "https://open.spotify.com/track/2xsb3EAIxVcKOroNRqd0Ka"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Chase The Blues Away",
-        "url": "https://open.spotify.com/album/6dvnLC5c0ISNbZWJuoALhx"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 289603,
-      "name": "Blues Chase The Blues Away",
-      "url": "https://open.spotify.com/track/6dDpAO5lP55K0T78HQF3ZS"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 418880,
+      "name": "Rememberin' Stevie",
+      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ain't Done With The Blues",
         "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
       },
@@ -544,25 +560,9 @@
           "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
         }
       ],
-      "duration_ms": 176973,
+      "duration_ms": 176974,
       "name": "It Keeps Me Young (feat. Peter Frampton)",
       "url": "https://open.spotify.com/track/2pZANYwnL6wilk3BySvfML"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 418880,
-      "name": "Rememberin' Stevie",
-      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
     },
     {
       "added_at": null,
@@ -724,7 +724,7 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 297240,
+      "duration_ms": 297239,
       "name": "Blues On Top",
       "url": "https://open.spotify.com/track/7cmKth6LRPrrTAk76PQ5d3"
     },
@@ -800,7 +800,7 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 229400,
+      "duration_ms": 229409,
       "name": "Love On A Budget",
       "url": "https://open.spotify.com/track/2PHyfhg9Eqdkm6gMMsfy43"
     },
@@ -879,18 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heavy Love",
-        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
+        "name": "Born To Play Guitar",
+        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Billy F Gibbons",
+          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
         }
       ],
-      "duration_ms": 317226,
-      "name": "I Need You Tonight",
-      "url": "https://open.spotify.com/track/3zMdVdZtvJ5wN3onnAecsq"
+      "duration_ms": 210333,
+      "name": "Wear You Out (feat. Billy Gibbons)",
+      "url": "https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R"
     },
     {
       "added_at": null,
@@ -915,22 +919,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Play Guitar",
-        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
+        "name": "Heavy Love",
+        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Billy F Gibbons",
-          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Wear You Out (feat. Billy Gibbons)",
-      "url": "https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R"
+      "duration_ms": 317226,
+      "name": "I Need You Tonight",
+      "url": "https://open.spotify.com/track/3zMdVdZtvJ5wN3onnAecsq"
     },
     {
       "added_at": null,

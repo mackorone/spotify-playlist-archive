@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i4HAEbCySe.md) - [plain]
 
 > Right here, right now, we've got all your favorite songs from High School Musical.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,245 likes - 124 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,250 likes - 124 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

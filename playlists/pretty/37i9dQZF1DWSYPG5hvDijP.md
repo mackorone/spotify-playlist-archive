@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Fotty Seven
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,799 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,817 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 2 | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/track/3usqexd5uUTl5SkLme0HKX) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/album/0AqcoHygWykLi0IqNp95vn) | 2:51 |
 | 3 | [DAF](https://open.spotify.com/track/5EKEFHtqsOW0lTxqh8BhlI) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [DAF](https://open.spotify.com/album/3bh31iLM60oBDpL8hbfPQG) | 3:05 |
 | 4 | [Nayak](https://open.spotify.com/track/3EEaz6HCdcqqTZ1SRcf2jV) | [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [Nayak](https://open.spotify.com/album/4F4kcU5hyaZJvzluQ6Z69L) | 1:41 |
-| 5 | [Siskiyan](https://open.spotify.com/track/1reSDebQKxiwyRV30iAlXQ) | [ARY](https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4), [Toxiyls](https://open.spotify.com/artist/4rjd74W27PzN0ErBIY4oMO) | [Siskiyan](https://open.spotify.com/album/1MJ228qnxbWXGdsc6h6CVP) | 2:54 |
+| 5 | [Siskiyan](https://open.spotify.com/track/1reSDebQKxiwyRV30iAlXQ) | [ARY](https://open.spotify.com/artist/1FClF2RgnLHXc7XQrmkWeO), [Toxiyls](https://open.spotify.com/artist/4rjd74W27PzN0ErBIY4oMO) | [Siskiyan](https://open.spotify.com/album/1MJ228qnxbWXGdsc6h6CVP) | 2:54 |
 | 6 | [Bore Bore](https://open.spotify.com/track/5DIGzjFnLagpHc50MymHOf) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Bore Bore](https://open.spotify.com/album/6orJWkuHLzp7pGsGmmoB4V) | 2:56 |
 | 7 | [Chai Party](https://open.spotify.com/track/7uzRugU1xCkDTpw8fQJK1H) | [SARTHAK BIJALWAN](https://open.spotify.com/artist/4BtjODiWrEDj3VJxK1jA01) | [Chai Party](https://open.spotify.com/album/03sMOkvFos2LO24apEKrvd) | 2:12 |
 | 8 | [Mera Naam Hai](https://open.spotify.com/track/5rlgt2kH4IaWZLMED9a1Jt) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Mera Naam Hai](https://open.spotify.com/album/4qyzV1ooqutYWLSMRpgtSS) | 3:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: JYYN\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,048 likes - 115 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,049 likes - 115 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 11 | [Goal Pode](https://open.spotify.com/track/4kjnqRNmF9v0jQOYMApQDL) | [Siva Sree](https://open.spotify.com/artist/02kLdqBO8lHj9ByrekeCNh), [Shane Xtreme](https://open.spotify.com/artist/1cgPSWNgiksVzIJhOpjCTB) | [Goal Pode](https://open.spotify.com/album/5pZBYa5he8LoMWulYfHBWK) | 2:38 |
 | 12 | [Polite \(i really wanna hate you\)](https://open.spotify.com/track/3QIFaI4lMoVivOmMWuatO4) | [Brielle Kaga](https://open.spotify.com/artist/5YPzo8kOw6lRwE2COt9awu) | [Polite \(i really wanna hate you\)](https://open.spotify.com/album/6Japp7LXQ9oC1u47drlmJc) | 3:19 |
 | 13 | [Parallel Lines](https://open.spotify.com/track/3yzXRjGEWLYzJIUkTP6HmV) | [Clarissa](https://open.spotify.com/artist/3oAJM6I0Y8tzFLhyWO5sn1) | [Parallel Lines](https://open.spotify.com/album/5lfQ0E4rLxPwhVaVN8Wr20) | 4:34 |
-| 14 | [Perjury](https://open.spotify.com/track/06LmLH2Dhpn4yXuyjeQmHX) | [hsiuhsien](https://open.spotify.com/artist/0crgkY846uAuJxxmB7n57p) | [Perjury](https://open.spotify.com/album/3y6Yc9O1JRJUTXCyx4AA2p) | 3:12 |
+| 14 | [Perjury](https://open.spotify.com/track/06LmLH2Dhpn4yXuyjeQmHX) | [hsiuhsien](https://open.spotify.com/artist/3K4kBf0ovw9wQbqWbeMniB) | [Perjury](https://open.spotify.com/album/3y6Yc9O1JRJUTXCyx4AA2p) | 3:12 |
 | 15 | [Beautiful View](https://open.spotify.com/track/6Y9MTerTb1HltES53plFGs) | [Asher Mendelsohn](https://open.spotify.com/artist/33gXtY0RSxRDn26H2Gak0e) | [Beautiful View](https://open.spotify.com/album/7hWsPPGX5ntIGxTRjIeaC8) | 3:25 |
 | 16 | [英年早分](https://open.spotify.com/track/2zEvBPkvWRiRAn8sCHxCNQ) | [BPM \- Broken Pieces and Mending](https://open.spotify.com/artist/4xREBUGl8Ia4yHiymubTF6) | [英年早分](https://open.spotify.com/album/1fqePMeDYnYaSeOXvVcd62) | 3:54 |
 | 17 | [Rain On Me](https://open.spotify.com/track/2g43cY2s9jVk25IxEef8BX) | [Gaston Pong](https://open.spotify.com/artist/60VWor37GAY948KKZibKiI), [Alfred Sun](https://open.spotify.com/artist/4HnjYY4OILxDwX93n0KUHB) | [Rain On Me](https://open.spotify.com/album/1DqV7n84Y5wBCFcmvHzhQO) | 3:04 |

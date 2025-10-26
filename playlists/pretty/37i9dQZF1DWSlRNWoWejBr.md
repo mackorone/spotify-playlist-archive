@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,918 likes - 70 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 975,531 likes - 70 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Teu Preferido](https://open.spotify.com/track/58d1Gf3p4FWKNnGuq00wXT) | [DJ BRIZY](https://open.spotify.com/artist/2ILIlhH5IJbgrq6dZa7wei), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [FreesTyle Sounds](https://open.spotify.com/artist/2220tqsEJ1MrEmNhf7q3MI) | [Teu Preferido](https://open.spotify.com/album/089I2QRM8Ytp6vn7zzqT7E) | 2:16 |
-| 2 | [Posso Até Não Te Dar Flores](https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Posso Até Não Te Dar Flores](https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF) | 2:42 |
+| 2 | [Posso Até Não Te Dar Flores](https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Posso Até Não Te Dar Flores](https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF) | 2:38 |
 | 3 | [Sequência da Botação](https://open.spotify.com/track/6XX6DTK8eugxgZqmlwcvkG) | [DJ Ryder](https://open.spotify.com/artist/5YumCDj6lKjjgfUUz4Bm5K), [Dj Dudu Coupper](https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Sequência da Botação](https://open.spotify.com/album/0eDfhfCaR8VMozqzVj5Jkm) | 2:25 |
 | 4 | [Senta Olhando Pra Mim](https://open.spotify.com/track/64dVFcA71XYsuqTYgIWzqf) | [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [Mc Diguinho](https://open.spotify.com/artist/47JFb3g3HWWr0xsyMvUKc8), [Mc Buret](https://open.spotify.com/artist/2gcXNPBcTK2no0RRXNsFnu), [MC D2 DA BAIXADA](https://open.spotify.com/artist/27Hj7YAhXPOBFAUn8TbCMG) | [M.B.D.T](https://open.spotify.com/album/0vMwwYJAjFjeeZHPCtA2eq) | 1:59 |
 | 5 | [SEM FRESCURA SEM PIRRACA, SEM MIMIMI](https://open.spotify.com/track/7Ff0mR8ETS2QpL20dirwmj) | [DJ PH DE CAMPOS](https://open.spotify.com/artist/2R83mRnOb2ftzr4DUIARTr) | [SEM FRESCURA SEM PIRRACA, SEM MIMIMI](https://open.spotify.com/album/2OHhdbLZZBCC97Of1AchXA) | 1:52 |

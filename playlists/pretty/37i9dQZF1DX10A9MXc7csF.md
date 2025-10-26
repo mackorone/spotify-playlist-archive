@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Antonin Padilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,282 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,306 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [CUANTAS VECES](https://open.spotify.com/track/7yJSRJv6x0T9NiXg9XHPwb) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [PORTATE BIEN](https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt) | 3:29 |
 | 100 | [No Agarro El Pedo](https://open.spotify.com/track/4g8KBh4AjgTXkp4weqGcem) | [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8) | [No Agarro El Pedo](https://open.spotify.com/album/4OnZTRdE2tuNKcRFLmcnEY) | 3:10 |
 
-Snapshot ID: `AAAAAM5Q2ATfJeHD+TnybTai7D9GcfAm`
+Snapshot ID: `AAAAAP7a+YlHbqWaVsN124JWut2IO+sD`

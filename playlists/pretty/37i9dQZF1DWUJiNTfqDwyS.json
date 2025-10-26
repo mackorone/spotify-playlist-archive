@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 386643,
+  "num_followers": 386649,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2025-10-24 04:00:10",
       "album": {
+        "name": "The Stage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 313918,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/4JwxJm8zCPbc1DMcfVdbBl"
+    },
+    {
+      "added_at": "2025-10-24 04:00:10",
+      "album": {
         "name": "How It's Done",
         "url": "https://open.spotify.com/album/64ubOftES7s24r5sMpraAb"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 174374,
       "name": "How It's Done",
       "url": "https://open.spotify.com/track/5IXGxvewBsrfHtfym01YfL"
-    },
-    {
-      "added_at": "2025-10-24 04:00:10",
-      "album": {
-        "name": "The Stage (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 313918,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/4JwxJm8zCPbc1DMcfVdbBl"
     },
     {
       "added_at": "2025-10-24 04:00:10",

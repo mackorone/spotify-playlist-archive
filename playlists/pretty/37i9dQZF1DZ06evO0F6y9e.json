@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1071955,
+  "num_followers": 1072119,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAB9dhUrVgxRLSbCArVMdfzL",
+  "snapshot_id": "aPrBgAAAAACyCWINgkRyWDXAqwrSPJ5Z",
   "tracks": [
     {
       "added_at": null,
@@ -87,26 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/7b01UUiyCasivZJP3Suj4C"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 239637,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/6IV5Y1eWaQZ1jV5apkUMS4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Modo Dif\u00edcil",
         "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 201461,
       "name": "Modo Dif\u00edcil",
       "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/7b01UUiyCasivZJP3Suj4C"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 239637,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/6IV5Y1eWaQZ1jV5apkUMS4"
     },
     {
       "added_at": null,
@@ -371,22 +371,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hablando Claro (En Vivo)",
-        "url": "https://open.spotify.com/album/1EoAsDmaX09sqmujjiLSGD"
+        "name": "Arriba La Moyombiza (En Vivo)",
+        "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
       },
       "artists": [
+        {
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+        },
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
         }
       ],
-      "duration_ms": 190671,
-      "name": "Hablando Claro (En Vivo)",
-      "url": "https://open.spotify.com/track/0LRjxh137biMdqdPVH3PBv"
+      "duration_ms": 280250,
+      "name": "Tus Mentiras (En Vivo)",
+      "url": "https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx"
     },
     {
       "added_at": null,
@@ -403,6 +407,26 @@
       "duration_ms": 198000,
       "name": "Segundas Partes",
       "url": "https://open.spotify.com/track/5YZfVtBFzbVvOsXRkQHd3M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hablando Claro (En Vivo)",
+        "url": "https://open.spotify.com/album/1EoAsDmaX09sqmujjiLSGD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 190671,
+      "name": "Hablando Claro (En Vivo)",
+      "url": "https://open.spotify.com/track/0LRjxh137biMdqdPVH3PBv"
     },
     {
       "added_at": null,
@@ -495,30 +519,6 @@
       "duration_ms": 226815,
       "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
       "url": "https://open.spotify.com/track/6jwctT0wtZdG0fbLNVq5Jk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arriba La Moyombiza (En Vivo)",
-        "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
-      },
-      "artists": [
-        {
-          "name": "Moy Bobadilla",
-          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Max Peraza",
-          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
-        }
-      ],
-      "duration_ms": 280250,
-      "name": "Tus Mentiras (En Vivo)",
-      "url": "https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx"
     },
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cada Quien",
-        "url": "https://open.spotify.com/album/4f3BZxJxrHhzoec0R2ElUe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 197781,
-      "name": "Cada Quien",
-      "url": "https://open.spotify.com/track/6ykDm6SPMVUC9TLoqvDIdj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00fa (En Vivo)",
         "url": "https://open.spotify.com/album/6Mwro5bwXUMFUKVNjEwgPy"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 263100,
       "name": "T\u00fa (En Vivo)",
       "url": "https://open.spotify.com/track/3nT2AC1cXNCFYL2FDIzwGp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cada Quien",
+        "url": "https://open.spotify.com/album/4f3BZxJxrHhzoec0R2ElUe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 197781,
+      "name": "Cada Quien",
+      "url": "https://open.spotify.com/track/6ykDm6SPMVUC9TLoqvDIdj"
     },
     {
       "added_at": null,

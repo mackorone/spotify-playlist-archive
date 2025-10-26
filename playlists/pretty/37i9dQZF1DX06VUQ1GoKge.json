@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 554430,
+  "num_followers": 554432,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
         "name": "RATATATA",
         "url": "https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7"
       },
@@ -271,22 +287,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 262631,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Painkiller",
         "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 153613,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "TEKKNO",
         "url": "https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 206133,
       "name": "We Got the Moves",
       "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 153613,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Sempiternal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "The House of Wolves",
-      "url": "https://open.spotify.com/track/7hntkdvG3jWdFKm7pGCCzd"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
         "url": "https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 268760,
       "name": "More Human Than Human",
       "url": "https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Sempiternal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "The House of Wolves",
+      "url": "https://open.spotify.com/track/7hntkdvG3jWdFKm7pGCCzd"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 255230,
-      "name": "Prey",
-      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 327040,
       "name": "Sweating Bullets - Remastered 2004",
       "url": "https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 255230,
+      "name": "Prey",
+      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 261811,
-      "name": "Glitch",
-      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Rust In Peace",
         "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 173160,
       "name": "Mea Culpa (Ah! \u00c7a ira!)",
       "url": "https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 263586,
-      "name": "Vice Grip",
-      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Kool-Aid",
         "url": "https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 228470,
       "name": "Kool-Aid",
       "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 263586,
+      "name": "Vice Grip",
+      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "The Black Crown",
-        "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
-      },
-      "artists": [
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "You Only Live Once",
-      "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 215003,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "The Black Crown",
+        "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "You Only Live Once",
+      "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Soft Spine",
-        "url": "https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 183990,
-      "name": "Soft Spine",
-      "url": "https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Seasons In The Abyss",
         "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 291733,
       "name": "War Ensemble",
       "url": "https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Soft Spine",
+        "url": "https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 183990,
+      "name": "Soft Spine",
+      "url": "https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Look at Yourself",
-        "url": "https://open.spotify.com/album/5d904eRcMkUSIipPixswNM"
+        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
+        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
       },
       "artists": [
         {
-          "name": "Emmure",
-          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 157666,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/4dFI3oZOaZn2iSOEUe1FFO"
+      "duration_ms": 350644,
+      "name": "Moth Into Flame",
+      "url": "https://open.spotify.com/track/6F5RvdxWcLOJW7LAGuc24r"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
-        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
+        "name": "Look at Yourself",
+        "url": "https://open.spotify.com/album/5d904eRcMkUSIipPixswNM"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Emmure",
+          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
         }
       ],
-      "duration_ms": 350644,
-      "name": "Moth Into Flame",
-      "url": "https://open.spotify.com/track/6F5RvdxWcLOJW7LAGuc24r"
+      "duration_ms": 157666,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/4dFI3oZOaZn2iSOEUe1FFO"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Suffer in Heaven",
-        "url": "https://open.spotify.com/album/1PAwmSRkAc4nvRmDmFCe0x"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
-        }
-      ],
-      "duration_ms": 159417,
-      "name": "Sing to the Grave",
-      "url": "https://open.spotify.com/track/5SnK7pnWLXNiEbs3z1ISBG"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Self-Destructive Pattern",
         "url": "https://open.spotify.com/album/0rMyQJKxkqIOy9p5u4iV5w"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 190840,
       "name": "Smothered",
       "url": "https://open.spotify.com/track/2wdjEAsK64EUPmNIIH6MWt"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Suffer in Heaven",
+        "url": "https://open.spotify.com/album/1PAwmSRkAc4nvRmDmFCe0x"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+        }
+      ],
+      "duration_ms": 159417,
+      "name": "Sing to the Grave",
+      "url": "https://open.spotify.com/track/5SnK7pnWLXNiEbs3z1ISBG"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Dante",
-        "url": "https://open.spotify.com/album/5BC58VTUf4aaoGVkjhtx9U"
-      },
-      "artists": [
-        {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
-        }
-      ],
-      "duration_ms": 346294,
-      "name": "Dante",
-      "url": "https://open.spotify.com/track/6jjx1KvWK4OAzD0JimzHiY"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Dark Passion Play",
         "url": "https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 254615,
       "name": "Bye Bye Beautiful",
       "url": "https://open.spotify.com/track/6uwjUM0Y0NfPmLBKVAbUXW"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Dante",
+        "url": "https://open.spotify.com/album/5BC58VTUf4aaoGVkjhtx9U"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "duration_ms": 346294,
+      "name": "Dante",
+      "url": "https://open.spotify.com/track/6jjx1KvWK4OAzD0JimzHiY"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Necessary Evil",
-        "url": "https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Necessary Evil",
-      "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Persistence Of Time (30th Anniversary Remaster)",
         "url": "https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 428946,
       "name": "Keep It In The Family",
       "url": "https://open.spotify.com/track/6S3oeZ5RKR8Tl9DTPAjGLt"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Necessary Evil",
+        "url": "https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Necessary Evil",
+      "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
     },
     {
       "added_at": "2024-11-26 17:39:01",

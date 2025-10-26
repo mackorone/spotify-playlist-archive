@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: F\u00faria, Muse Maya",
-  "num_followers": 135403,
+  "num_followers": 135399,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,34 @@
     {
       "added_at": "2025-10-24 03:01:29",
       "album": {
+        "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+        "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Stick",
+          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Torelli",
+          "url": "https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+      "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
+    },
+    {
+      "added_at": "2025-10-24 03:01:29",
+      "album": {
         "name": "J\u00f3ias do Bairro",
         "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
       },
@@ -427,34 +455,6 @@
       "duration_ms": 181985,
       "name": "DVD",
       "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"
-    },
-    {
-      "added_at": "2025-10-24 03:01:29",
-      "album": {
-        "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
-        "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
-      },
-      "artists": [
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Stick",
-          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Torelli",
-          "url": "https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
-      "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
     },
     {
       "added_at": "2025-10-24 03:01:29",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2025-10-24 03:01:29",
       "album": {
+        "name": "100Pena",
+        "url": "https://open.spotify.com/album/2IsF0Ts1GViwoLSw8KxB8v"
+      },
+      "artists": [
+        {
+          "name": "EZE ODT",
+          "url": "https://open.spotify.com/artist/3bblo79bAUwY3qKupiP3xf"
+        },
+        {
+          "name": "DNASTY",
+          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "100Pena",
+      "url": "https://open.spotify.com/track/403Prh7O2Lycea21emaQLC"
+    },
+    {
+      "added_at": "2025-10-24 03:01:29",
+      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 186461,
       "name": "BrusaDaNike e GShock",
       "url": "https://open.spotify.com/track/7rBEfUy7v0ptREXUh1BJi8"
-    },
-    {
-      "added_at": "2025-10-24 03:01:29",
-      "album": {
-        "name": "100Pena",
-        "url": "https://open.spotify.com/album/2IsF0Ts1GViwoLSw8KxB8v"
-      },
-      "artists": [
-        {
-          "name": "EZE ODT",
-          "url": "https://open.spotify.com/artist/3bblo79bAUwY3qKupiP3xf"
-        },
-        {
-          "name": "DNASTY",
-          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "100Pena",
-      "url": "https://open.spotify.com/track/403Prh7O2Lycea21emaQLC"
     }
   ],
   "unique_name": "Cop\u00e3o na M\u00e3o",

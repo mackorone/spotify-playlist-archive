@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IKDP8o4UvpfLh0SJX2e1b.md) - [plain]
 
 > Free\-spirited, eclectic, and decadent lyrics mix with folksy, indie, and slightly psychedelic acoustics\. This is The New Bohemian.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132 likes - 81 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 131 likes - 81 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

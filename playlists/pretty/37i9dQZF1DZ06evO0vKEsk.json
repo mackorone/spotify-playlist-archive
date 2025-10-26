@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133069,
+  "num_followers": 133065,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAAkHgHp65sB9BAyXPVPGWTg",
+  "snapshot_id": "aPrBgAAAAADwsO28/0cbK2roHF8oFjAE",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 274366,
-      "name": "Como \u00c1guia",
-      "url": "https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forma de Cuidado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 244285,
       "name": "Forma de Cuidado (Ao Vivo)",
       "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 274366,
+      "name": "Como \u00c1guia",
+      "url": "https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alegria Real",
-        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 308964,
-      "name": "Deus Tremendo",
-      "url": "https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Com os Olhos da F\u00e9",
         "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 287602,
       "name": "Com os Olhos da F\u00e9",
       "url": "https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alegria Real",
+        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 308964,
+      "name": "Deus Tremendo",
+      "url": "https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruna Kids",
-        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 174660,
-      "name": "Corpo Perfeito",
-      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alegria Real",
         "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 358376,
       "name": "Digno \u00e9 o Cordeiro",
       "url": "https://open.spotify.com/track/3Kqwt1Powh8L5NqdBUwLeh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bruna Kids",
+        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 174660,
+      "name": "Corpo Perfeito",
+      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 338253,
-      "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aviva-nos (Ao Vivo)",
         "url": "https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 362502,
       "name": "Aviva-nos (Ao Vivo)",
       "url": "https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 338253,
+      "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7"
     },
     {
       "added_at": null,

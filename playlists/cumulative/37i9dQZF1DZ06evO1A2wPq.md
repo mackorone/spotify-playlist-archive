@@ -4,13 +4,13 @@
 
 > This is kwn\. The essential tracks, all in one playlist.
 
-22 songs - 58 min 20 sec
+23 songs - 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [all the girls](https://open.spotify.com/track/35LxnbeMImdQePFuaZgIjF) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 2:12 | 2025-07-23 |  |
 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 | 2025-07-23 |  |
-| [bite me INTRO](https://open.spotify.com/track/3RScLz4xxB1hjcYMmiARGr) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 0:58 | 2025-07-23 |  |
+| [bite me INTRO](https://open.spotify.com/track/3RScLz4xxB1hjcYMmiARGr) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 0:58 | 2025-07-23 | 2025-10-26 |
 | [Clothes Off \(feat\. kwn\)](https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 3:49 | 2025-07-23 |  |
 | [do what i say](https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [do what i say](https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E) | 3:08 | 2025-07-23 | 2025-07-27 |
 | [do what i say](https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:08 | 2025-07-27 |  |
@@ -29,6 +29,7 @@
 | [went wrong](https://open.spotify.com/track/51U1KMRcqBnpt4pUJyU22b) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 2:13 | 2025-07-23 |  |
 | [wn up](https://open.spotify.com/track/0nBSRIzgxIb08xXgiEBZWi) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [wn up](https://open.spotify.com/album/4RVscQW0BIGHH8T6VdknFl) | 3:23 | 2025-07-23 |  |
 | [wn way or another](https://open.spotify.com/track/2STQ1wZA3WYZXa9Jyj6ZSu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [wn way or another](https://open.spotify.com/album/5EReNC5fgdNGRaNx5GGy9q) | 2:10 | 2025-07-23 |  |
-| [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-07-23 |  |
+| [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:33 | 2025-10-26 |  |
+| [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-07-23 | 2025-10-26 |
 
 \*This playlist was first scraped on 2025-07-23. Prior content cannot be recovered.

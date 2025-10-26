@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 289316,
       "name": "Bury My Bones at Crystal Cove",
       "url": "https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 133440,
       "name": "Control Alt Delete",
       "url": "https://open.spotify.com/track/74a24lwWJ7buVc5su1gGUT"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 145493,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/6Lp2tmIuneO3w3YMlYQ0bP"
@@ -1932,6 +1932,24 @@
       "duration_ms": 222240,
       "name": "Where Can I Stab Myself In The Ears",
       "url": "https://open.spotify.com/track/0WnaprahtIVTUWsgGc2hYK"
+    },
+    {
+      "album": {
+        "name": "Wreckage",
+        "url": "https://open.spotify.com/album/3nOg3pdRRdTSt842p5bYp4"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264083,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/5b12DxqEamsJ6q2dB9q8sB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0y67IT"

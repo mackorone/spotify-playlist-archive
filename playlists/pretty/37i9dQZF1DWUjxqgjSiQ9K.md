@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Omar Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,645 likes - 80 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,787 likes - 80 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 13 | [QUIERO A MI PUEBLO \(PR24SIETE\)](https://open.spotify.com/track/7tty3poKASR5Wp6sXI3Kf9) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Genio La Musa](https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5) | [PR24SIETE Soy de Aquí](https://open.spotify.com/album/15gMI3J7lxW9ZBPTNVy4vz) | 2:44 |
 | 14 | [OMW](https://open.spotify.com/track/4NNmICAifT9UDArpQAfuph) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [OMW](https://open.spotify.com/album/6DZLO5Wp0JSFkpRdx3IL4B) | 2:44 |
 | 15 | [Todo Y Nada \- Remix](https://open.spotify.com/track/4MS4fooUchcZOTv0YRYPty) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Musiko](https://open.spotify.com/artist/5XjCoX9HVurvAzUgJsTzCn) | [Todo Y Nada \(Remix\)](https://open.spotify.com/album/2oH2mugr9l90aqk554A17V) | 3:01 |
-| 16 | [Sublime Gracia](https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [Isamar](https://open.spotify.com/artist/2drlQvlGLUluWh7iqqB8p7) | [Sublime Gracia](https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX) | 2:46 |
+| 16 | [Sublime Gracia](https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [Isamar](https://open.spotify.com/artist/6ZkzyDfFp1LJLJD8fKq6Ph) | [Sublime Gracia](https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX) | 2:46 |
 | 17 | [DIOS nunca abandona](https://open.spotify.com/track/5fvOCkgau0ot4ez27Rgoa4) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [DIOS nunca abandona](https://open.spotify.com/album/7xIm4qvSWCXlgwze2oYon1) | 3:01 |
 | 18 | [Vivo Por Fe](https://open.spotify.com/track/6QeuxaxTIRWAzeI74vo3Mp) | [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Vivo Por Fe](https://open.spotify.com/album/6DpoBVMTR3kpS48SewqDNA) | 3:44 |
 | 19 | [Un Día Más](https://open.spotify.com/track/4hb1Hvw1Jyc0y8JYUdwjuV) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Un Día Más](https://open.spotify.com/album/2CbssvGBC2cWix4TeHCskm) | 4:56 |

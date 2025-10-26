@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > The newest and best Hip\-Hop tracks, updated weekly! Cover: Dave
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 23,105 likes - 80 songs - 3 hr 56 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 23,103 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

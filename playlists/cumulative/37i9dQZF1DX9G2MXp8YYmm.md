@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Melis Fis
 
-414 songs - 20 hr 41 min
+415 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Fırtınam](https://open.spotify.com/track/5xbVWh4zxwzUfi8dnhgAfz) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Fırtınam](https://open.spotify.com/album/5ZAihw7AqO2Q0Yu0AWQqT5) | 3:12 | 2025-02-20 | 2025-05-26 |
 | [Gamzende](https://open.spotify.com/track/1loCwvZw3uM5Li96oNsSsR) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Gamzende](https://open.spotify.com/album/7jXmha4CZ50hn8dJx98OqB) | 2:43 | 2025-09-25 |  |
 | [GECELERDE](https://open.spotify.com/track/2W1lqgFE5bW3RyLyilTfF2) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [GECELERDE](https://open.spotify.com/album/6GGM3YG5GEtvv0zrdNySxs) | 2:27 | 2025-05-29 |  |
-| [Geceleri Aldım Senden](https://open.spotify.com/track/5pCpGzPoGgkGyLSEk8EeZJ) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Geceleri Aldım Senden](https://open.spotify.com/album/79bx4sLIm1zNUvWLKI9n5C) | 3:31 | 2025-08-07 |  |
+| [Geceleri Aldım Senden](https://open.spotify.com/track/5pCpGzPoGgkGyLSEk8EeZJ) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Geceleri Aldım Senden](https://open.spotify.com/album/79bx4sLIm1zNUvWLKI9n5C) | 3:31 | 2025-08-07 | 2025-10-26 |
 | [Gel](https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj), [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gel](https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq) | 2:44 | 2025-10-09 |  |
 | [Gelsen Ölür müsün?](https://open.spotify.com/track/0bsGav7YJae1SRnNKCOVxh) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B), [Hanao](https://open.spotify.com/artist/4GGm4WCSO8lXb4Z3YvoneL) | [Gelsen Ölür müsün?](https://open.spotify.com/album/7D2ZK58DhumOgvxo3pwIFV) | 3:23 | 2025-09-04 |  |
 | [Gemiler \- Ozan Bayraşa](https://open.spotify.com/track/33Zta5czbTRQS8SIRu3vLN) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 2:57 | 2025-06-26 | 2025-10-24 |
@@ -334,6 +334,7 @@
 | [SONUNDA KAYBOLMUŞ](https://open.spotify.com/track/1Z8WJAP3aAiiar4VR149yf) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [TEK KİŞİLİK MASA](https://open.spotify.com/album/1PNjEh6e0T28jszrn3Mwva) | 3:19 | 2025-05-22 | 2025-06-06 |
 | [Sor Bana](https://open.spotify.com/track/4VR2HssvJFXCyaZQchcXJy) | [Feride Hilal Akın](https://open.spotify.com/artist/2dLBhX7dIdWL6Fsk9l0n1n) | [Sor Bana](https://open.spotify.com/album/110eedqqHFMiIWFL1eaKxW) | 2:28 | 2025-09-25 | 2025-10-10 |
 | [Sur](https://open.spotify.com/track/5o8AA7rdZceZFV3hK1s5zT) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Sur](https://open.spotify.com/album/7iepaVJHrulbWXaXnuSxNt) | 3:04 | 2025-02-13 | 2025-02-21 |
+| [Susmayı Öğrendim](https://open.spotify.com/track/3lfvzkMQXnmaQLGiwRfAPi) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Susmayı Öğrendim](https://open.spotify.com/album/6jgyRe0ZVR4xdimu9ned2V) | 3:16 | 2025-10-23 |  |
 | [Taksi](https://open.spotify.com/track/1zaRUHOFCtifiWjjhyi1Pp) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Taksi](https://open.spotify.com/album/7uYFRPl5MJSJ1ty0BZuFS0) | 2:28 | 2025-07-31 |  |
 | [Tam Da Şu Anda](https://open.spotify.com/track/3FmRJPzylI6fuDIso7jejM) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Tam Da Şu Anda](https://open.spotify.com/album/0iFTqZJlHdCMSSfPTMQ0Kt) | 2:19 | 2025-05-01 | 2025-08-19 |
 | [Tanrıçalar Memleketi \- Yenge](https://open.spotify.com/track/1Ryq7tkaCuKbwNvE62Nhgm) | [Ceylan Ertem](https://open.spotify.com/artist/2crPPfVdmrxn5yUHLQVqOI) | [Sana Rağmen](https://open.spotify.com/album/12l5mGd9dNfG2BsFYQ76gE) | 3:14 | 2025-02-06 | 2025-03-03 |

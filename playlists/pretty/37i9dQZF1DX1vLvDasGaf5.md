@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 
 > 昭和の時代を彩ったアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,753 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,767 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 | 23 | [少年期](https://open.spotify.com/track/1ReCdmB1c7TCxTcaxYK8Z7) | [Tetsuya Takeda](https://open.spotify.com/artist/69XPjjmtVFyntrir7ZHfnk) | [ドラえもん映画主題歌集](https://open.spotify.com/album/6ClSL3281Uc1W0zBgOoViV) | 3:11 |
 | 24 | [鏡の中のアクトレス](https://open.spotify.com/track/5Aqe880HNpsQAkjWqWGqdu) | [Meiko Nakahara](https://open.spotify.com/artist/0dIGBGRHRiNzdTpZofcJ3Z) | [2000BEST（ミレニアムベスト）中原めいこ　ベスト](https://open.spotify.com/album/1br0H7DDGX0tXAANMR8AC3) | 3:35 |
 | 25 | [摩訶不思議アドベンチャー! \(2005 Ver.\)](https://open.spotify.com/track/0lxh7xJI8smaLySC8dhfcY) | [高橋 洋樹](https://open.spotify.com/artist/6nMPmmyyIKwyTwZAbZQe4Z) | [摩訶不思議アドベンチャー! \(2005ver.\)](https://open.spotify.com/album/3TAO77XY0Aq5OKf0rixkLG) | 3:53 |
-| 26 | [はじめてのチュウ](https://open.spotify.com/track/5B18jtARfah9NG5CwfUXDL) | [あんしんパパ](https://open.spotify.com/artist/2TREGA3AQEMeHdG7q8cCXf) | [藤子・F・不二雄 生誕90周年 藤子・F・不二雄 TV MUSIC HISTORY II \-藤子・F・不二雄作品集2\-](https://open.spotify.com/album/1DUfMzTPxkCXgXVyXGOSTc) | 4:25 |
-| 27 | [うしろゆびさされ組](https://open.spotify.com/track/3d6RE0vvmNiu2Eigwn7OxW) | [Ushiroyubi Sasaregumi](https://open.spotify.com/artist/41Sy2SaLzGisGM4k2SOH1l) | [∞](https://open.spotify.com/album/4oVD5p4q6K6mD6I94iasoN) | 4:23 |
+| 26 | [うしろゆびさされ組](https://open.spotify.com/track/3d6RE0vvmNiu2Eigwn7OxW) | [Ushiroyubi Sasaregumi](https://open.spotify.com/artist/41Sy2SaLzGisGM4k2SOH1l) | [∞](https://open.spotify.com/album/4oVD5p4q6K6mD6I94iasoN) | 4:23 |
+| 27 | [はじめてのチュウ](https://open.spotify.com/track/5B18jtARfah9NG5CwfUXDL) | [あんしんパパ](https://open.spotify.com/artist/2TREGA3AQEMeHdG7q8cCXf) | [藤子・F・不二雄 生誕90周年 藤子・F・不二雄 TV MUSIC HISTORY II \-藤子・F・不二雄作品集2\-](https://open.spotify.com/album/1DUfMzTPxkCXgXVyXGOSTc) | 4:25 |
 | 28 | [Super Girl](https://open.spotify.com/track/5yMu18uQFNtEimQiPoUaSc) | [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL) | [DATE](https://open.spotify.com/album/5ltGSWQwkdLmeLko4znnWG) | 4:47 |
 | 29 | [愛がひとりぼっち](https://open.spotify.com/track/5xAKNKw4sa77VlVDdF1dtP) | [Yoshimi Iwasaki](https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV) | [タッチ](https://open.spotify.com/album/6gSfmXLxjFCLtYqMtMWZrp) | 3:57 |
 | 30 | [忍者ハットリくん](https://open.spotify.com/track/00PlRV5QvD3WsE6dHJ8wax) | [堀絢子](https://open.spotify.com/artist/4EikNVc59jqZySIQocC6ke), [コロムビアゆりかご会](https://open.spotify.com/artist/4oS9xbsyYsTNOiNat3dvpa) | [藤子不二雄\(A\) 生誕90周年記念 藤子不二雄\(A\) 大全集](https://open.spotify.com/album/6JZoh9vOv8lkVaeZPHqPOI) | 2:09 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 | 35 | [ぼくドラえもん](https://open.spotify.com/track/1PCqZJzzQu7daM74tjlMDL) | [大山のぶ代 \(ドラえもん\)](https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj), [こおろぎ'73](https://open.spotify.com/artist/3TJSKlL7gTxAqVKpzuRPtw) | [テレビアニメ放送40周年記念ドラえもん うたのコレクション](https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx) | 2:17 |
 | 36 | [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 |
 | 37 | [愛・おぼえていますか](https://open.spotify.com/track/2uTwJLK1BaFVbEX5qX9D1W) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [「映画 超時空要塞マクロス」 愛・おぼえていますか ＜音楽篇＞](https://open.spotify.com/album/4M8FC84kiEbXl7W49WxspP) | 5:09 |
-| 38 | [ダンバイン とぶ](https://open.spotify.com/track/6Pq75f0vDP0MFY3E4Lp9sx) | [MIO](https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh) | [聖戦士ダンバイン オリジナル・サウンドトラック 総音楽集](https://open.spotify.com/album/3toe4GbpIL80W5j2KriGSZ) | 4:16 |
-| 39 | [マジンガーZ \(マジンガーZ\)](https://open.spotify.com/track/3pHRdgmp5uDRJG9kiWebkY) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [Golden Rules](https://open.spotify.com/album/2AljwS5uItEnGlltqBA7m7) | 1:52 |
+| 38 | [マジンガーZ \(マジンガーZ\)](https://open.spotify.com/track/3pHRdgmp5uDRJG9kiWebkY) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [Golden Rules](https://open.spotify.com/album/2AljwS5uItEnGlltqBA7m7) | 1:52 |
+| 39 | [ダンバイン とぶ](https://open.spotify.com/track/6Pq75f0vDP0MFY3E4Lp9sx) | [MIO](https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh) | [聖戦士ダンバイン オリジナル・サウンドトラック 総音楽集](https://open.spotify.com/album/3toe4GbpIL80W5j2KriGSZ) | 4:16 |
 | 40 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/16jpCbb6NSMeBC2WDtHUeH) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [ＱＵＡＲＴＥＲＢＡＣＫ](https://open.spotify.com/album/51V2pnYQn0xrUmqJ6Cm2qP) | 4:05 |
 | 41 | [Angel Night （天使のいる場所）](https://open.spotify.com/track/0ptGT3l9KtWn9ZObisgdB8) | [PSY・S［saiz］](https://open.spotify.com/artist/3zntsh5zPf73xyMnRi91jv) | [劇場版シティーハンター <新宿プライベート・アイズ> \-VOCAL COLLECTION\-](https://open.spotify.com/album/7wUFFg8P5ctTc13EOKCBdy) | 4:28 |
 | 42 | [ゴーゴーヘブン](https://open.spotify.com/track/2PKirbdnc1XrAo3zDETpUP) | [Yoshiyuki Osawa](https://open.spotify.com/artist/6q2ER3oBZtM5EvmDoUz8ek) | [The LEGEND](https://open.spotify.com/album/1FYghKHKG1FGS6Mco7D0LL) | 3:59 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 | 46 | [ロ・ロ・ロ・ロシアン・ルーレット \- レコード・ヴァージョン](https://open.spotify.com/track/0Zxy0ruSsqpKy948m4b4Qw) | [Meiko Nakahara](https://open.spotify.com/artist/0dIGBGRHRiNzdTpZofcJ3Z) | [2000BEST（ミレニアムベスト）中原めいこ　ベスト](https://open.spotify.com/album/1br0H7DDGX0tXAANMR8AC3) | 3:43 |
 | 47 | [炎のさだめ](https://open.spotify.com/track/3Id0aE90BTr56qTxuILr8x) | [TETSU](https://open.spotify.com/artist/5wzkp9gTXh1630T8JTTxfV) | [装甲騎兵ボトムズ TV版 オリジナル・サウンドトラック 総音楽集](https://open.spotify.com/album/353tlzrqPB83dc5xyV30es) | 3:20 |
 | 48 | [夢色チェイサー\(Single Version\)](https://open.spotify.com/track/3OcGWymNkOoeRVbs3aUL6a) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [MELTING POINT](https://open.spotify.com/album/0d582RFpgLNzWqokg4JCOv) | 3:33 |
-| 49 | [となりのトトロ\(となりのトトロ\)](https://open.spotify.com/track/2XvQDd7BYi2TFsmWncujXr) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:17 |
+| 49 | [Step](https://open.spotify.com/track/1WKnB6PMVXX1sDM7LbMmEA) | [a・chi\-a・chi](https://open.spotify.com/artist/5Y4fI5GeYbkosiHFTxZrfi) | [Step](https://open.spotify.com/album/1LfeYAb1OmWYI12f180QJd) | 4:19 |
 | 50 | [キン肉マン Go Fight! \(キン肉マン\)](https://open.spotify.com/track/4FgRL3zhaMIptBNJoGa8IM) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [熱烈！アニソン魂 THE ARTIST SELECTION 串田アキラ SELFCOVER COLLECTION](https://open.spotify.com/album/282JrsLMNYIJFYD7MTn8NH) | 3:37 |
 
 Snapshot ID: `AAAAAH8VITlEKzhdQqHpkq54N7lLP+tj`

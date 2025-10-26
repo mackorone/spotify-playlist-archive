@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-197 songs - 9 hr 14 min
+198 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,12 +35,12 @@
 | [Au revoir](https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Au revoir](https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3) | 2:31 | 2025-03-24 |  |
 | [Autumn Leaves](https://open.spotify.com/track/4LYLph6AcRon1BE7FBWJ3T) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Autumn Leaves](https://open.spotify.com/album/0tyCq5vbWN9HCkcqdDQhxm) | 3:26 | 2025-05-05 | 2025-07-19 |
 | [Autumn Whispers](https://open.spotify.com/track/7vFkJvPnvLN8djHr2us3Gq) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Autumn Whispers](https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz) | 2:52 | 2025-05-05 |  |
-| [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2023-11-20 | 2025-08-10 |
+| [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2023-11-20 |  |
 | [Beautiful Day.](https://open.spotify.com/track/3bChX6zDQB7xZNw4LNWP6H) | [Kittikhun P.](https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv) | [Beautiful Day.](https://open.spotify.com/album/3vhnzcmm0U42eKcoI78ykK) | 1:39 | 2023-11-20 | 2024-06-12 |
 | [Beautiful Love](https://open.spotify.com/track/1Kgket0KgTt2KE0zbmLCDu) | [Jacques Liti](https://open.spotify.com/artist/51OyTDCWeHCnapSMbkLU59) | [Beautiful Love](https://open.spotify.com/album/4WXTTaRmn0QF87ZRinEFPD) | 2:58 | 2025-06-02 | 2025-08-27 |
 | [Becoming](https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Becoming](https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C) | 2:43 | 2023-11-20 | 2025-02-04 |
 | [Before last month](https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Before last month](https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS) | 2:04 | 2023-12-04 |  |
-| [Behind The Jalousie](https://open.spotify.com/track/39YCja6W45q9EtAtztQImq) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [Behind The Jalousie](https://open.spotify.com/album/3qfJVOI4wer702Ws5pYCLQ) | 3:14 | 2024-12-02 |  |
+| [Behind The Jalousie](https://open.spotify.com/track/39YCja6W45q9EtAtztQImq) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [Behind The Jalousie](https://open.spotify.com/album/3qfJVOI4wer702Ws5pYCLQ) | 3:14 | 2024-12-02 | 2025-10-26 |
 | [Bergamo](https://open.spotify.com/track/1bHXbuM7CqRCSn5Zg1knnZ) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Bergamo](https://open.spotify.com/album/6jSSjJeFpsaMNP2uVrsgBC) | 2:06 | 2023-12-25 | 2024-01-25 |
 | [Birdman](https://open.spotify.com/track/6baoHqXdPuEnkmBUazVpoO) | [Abbie Lou Johnston](https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo) | [Birdman](https://open.spotify.com/album/545Py5RMl9HVcHEIvGXnzF) | 3:21 | 2024-11-18 | 2024-12-10 |
 | [Blue Skies](https://open.spotify.com/track/200ZWfIGSTurs8dhUi0PUE) | [Kristian Hart](https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD) | [Blue Skies](https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75) | 2:55 | 2025-06-16 |  |
@@ -55,6 +55,7 @@
 | [Clear Day](https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Clear Day](https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH) | 2:45 | 2023-11-20 |  |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2023-11-20 | 2025-04-13 |
 | [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2024-07-29 |  |
+| [Days Off](https://open.spotify.com/track/0kIcfCkBxum1vAYk6b2RZs) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Extraordinary Occations](https://open.spotify.com/album/5VPgbgP79InzC2NpESX0R9) | 2:30 | 2025-10-20 |  |
 | [Deck the Halls](https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP) | [Brad Jacobsen](https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s) | [Deck the Halls \~ Solo Piano Christmas](https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2) | 3:40 | 2024-12-09 | 2025-01-31 |
 | [Disconnect](https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD) | [Alice Frohde](https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe) | [Disconnect](https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4) | 2:34 | 2023-12-11 |  |
 | [Dolce Far Niente](https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Dolce Far Niente](https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n) | 2:12 | 2023-11-20 |  |
@@ -203,7 +204,7 @@
 | [You Could Stay If You Want To](https://open.spotify.com/track/7161s2i9EU8DN8U95qLl8q) | [Zachary Ronin](https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx) | [You Could Stay If You Want To](https://open.spotify.com/album/028nyeG5bPwDuBA8apckk9) | 3:18 | 2025-07-14 | 2025-07-28 |
 | [You Stepped Out Of A Dream](https://open.spotify.com/track/2szY5ICdZLvJOeN2iF1Tow) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [You Stepped Out Of A Dream](https://open.spotify.com/album/2BtUNsuQFXudi5fGHFjZbS) | 2:35 | 2025-06-30 |  |
 | [Young and Foolish](https://open.spotify.com/track/0jXDdQhyBxYpN8IdepBwzn) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Young and Foolish](https://open.spotify.com/album/4QDQ3rOy6os0Xm8BdM2TJ0) | 2:54 | 2025-06-30 |  |
-| [Yours Is My Heart Alone](https://open.spotify.com/track/1fj7I1goPnCIsAF3SxGh61) | [Luca Armone](https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2) | [Yours Is My Heart Alone](https://open.spotify.com/album/5t3Bi41QottgJFkQf5EXr3) | 3:21 | 2025-06-30 |  |
+| [Yours Is My Heart Alone](https://open.spotify.com/track/1fj7I1goPnCIsAF3SxGh61) | [Luca Armone](https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2) | [Yours Is My Heart Alone](https://open.spotify.com/album/5t3Bi41QottgJFkQf5EXr3) | 3:21 | 2025-06-30 | 2025-10-26 |
 | [È ora di dormire](https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [È ora di dormire](https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY) | 2:59 | 2024-12-09 |  |
 
 \*This playlist was first scraped on 2023-11-26. Prior content cannot be recovered.

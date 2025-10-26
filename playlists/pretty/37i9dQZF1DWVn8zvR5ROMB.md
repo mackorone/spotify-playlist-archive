@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Kacey Musgraves, Megan Moroney, Chris Stapleton and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,394 likes - 72 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,497 likes - 73 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,16 +69,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 59 | [Hail Mary](https://open.spotify.com/track/1cEFI7Qh3si3vlJ7n8UCAc) | [David Payne](https://open.spotify.com/artist/1n5SEVlJG9VCnWJdTSnMAI) | [Hail Mary](https://open.spotify.com/album/6HXz3WuAoIUpF14acEoHPw) | 3:07 |
 | 60 | [Beautiful High](https://open.spotify.com/track/40t0o00Gf4d4a5LkKynvfg) | [Chase N Tyler](https://open.spotify.com/artist/0l0yhHebHW2nqtDIQZYsy2) | [Beautiful High](https://open.spotify.com/album/2MZLM4VikrVpuVfWp9sZ5Y) | 2:51 |
 | 61 | [Maybe Don’t?](https://open.spotify.com/track/5h9IjiO5qNtQgXrZUYWxqU) | [Clarke Burns](https://open.spotify.com/artist/6YSwAuCYqkMo7cCTd3wkVh) | [Maybe Don’t?](https://open.spotify.com/album/413h2NXjHd1Dq1OVjqkr7p) | 2:58 |
-| 62 | [Boomerang](https://open.spotify.com/track/7fdd7LGLR4vXh4n2xwfVbu) | [Nick Cain](https://open.spotify.com/artist/0LrH2W3LOjfejn4NNPlGeH) | [Boomerang](https://open.spotify.com/album/16YolncqOAM6EC9uALKxp7) | 3:07 |
-| 63 | [Hate How I Love You](https://open.spotify.com/track/0Bk1gebwAkckVzCBO6DwKR) | [Paige Rutledge](https://open.spotify.com/artist/4L5j4JbDdUfOd3NievouB1) | [Hate How I Love You](https://open.spotify.com/album/74HmDtUpJdvH9asi2LIXkl) | 3:20 |
-| 64 | [Thieves](https://open.spotify.com/track/0yGkmfYzqAlarvMAgocP6m) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Thieves](https://open.spotify.com/album/7jSHali5Bk5aHQWTnVRIGY) | 3:51 |
-| 65 | [Headache](https://open.spotify.com/track/31QPogARexxEPhhE8xxcTR) | [Mac Hankins and The Moonlighters](https://open.spotify.com/artist/7aJ7WbvSeDeZpXu33gDWAP) | [Headache](https://open.spotify.com/album/27zZnNYBBXn9bsEJ8O77fU) | 2:19 |
-| 66 | [Denim Blues](https://open.spotify.com/track/5LyxfQpyvs5oxHlWXpwrxY) | [Cameron Sacky Band](https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0) | [Denim Blues](https://open.spotify.com/album/06ysSfhhUmt4iktVCZea79) | 3:07 |
-| 67 | [Past The Point of Rescue](https://open.spotify.com/track/6C5IVNd58pVbJinsx7vObK) | [Chancey Williams](https://open.spotify.com/artist/6kaBU6Hz3GSkpRh6tfuA98) | [Miles On Me](https://open.spotify.com/album/778BQKMwR0vcLT9bF0VS4p) | 3:50 |
-| 68 | [Hold On](https://open.spotify.com/track/1h2hn8fPBLrTMF0Eyfd1Mw) | [Wesko](https://open.spotify.com/artist/65JTh6O744ikcSz4K1AGeF) | [Hold On](https://open.spotify.com/album/3eQ4DESzgVRHQ38bIhD0LR) | 3:06 |
-| 69 | [Kickin' Tires](https://open.spotify.com/track/2lUKLog36JDYjy5Pep5k7x) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [Lucky Stars](https://open.spotify.com/album/6uL7zJM7Tni6CBVVY946xz) | 3:43 |
-| 70 | [Back To You](https://open.spotify.com/track/182FL96pIuoYr1vIToxqwk) | [Kat Luna](https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt) | [Back To You](https://open.spotify.com/album/46JagiiKOnrW3VmnsD4qsE) | 3:09 |
-| 71 | [Mutual Obsession](https://open.spotify.com/track/4qhaIvh6OvtV5YRqYiJYH2) | [Katie Neal](https://open.spotify.com/artist/4W1Vh3BULoQQDPjFah7whS) | [Mutual Obsession](https://open.spotify.com/album/2VRhB0hzsVkXgZaZe4cJu7) | 3:32 |
-| 72 | [Too Little Too Late](https://open.spotify.com/track/534Mg2uc3cDaKZTUspw1S3) | [Michael Honan](https://open.spotify.com/artist/0jWD0R3npD8Trqy0zuYuss) | [Sign of Life](https://open.spotify.com/album/0O8EnJ0O8zEyBPKhKFvtub) | 3:07 |
+| 62 | [Tell Me That You Hate Me](https://open.spotify.com/track/3rV7upVYa2shv69lYbbNgI) | [Brooks Herring](https://open.spotify.com/artist/1edwwJzKlddJljBPlcJihx) | [Tell Me That You Hate Me](https://open.spotify.com/album/5s7vF4AYcyPVCbKn7Ew9uL) | 3:20 |
+| 63 | [Boomerang](https://open.spotify.com/track/7fdd7LGLR4vXh4n2xwfVbu) | [Nick Cain](https://open.spotify.com/artist/0LrH2W3LOjfejn4NNPlGeH) | [Boomerang](https://open.spotify.com/album/16YolncqOAM6EC9uALKxp7) | 3:07 |
+| 64 | [Hate How I Love You](https://open.spotify.com/track/0Bk1gebwAkckVzCBO6DwKR) | [Paige Rutledge](https://open.spotify.com/artist/4L5j4JbDdUfOd3NievouB1) | [Hate How I Love You](https://open.spotify.com/album/74HmDtUpJdvH9asi2LIXkl) | 3:20 |
+| 65 | [Thieves](https://open.spotify.com/track/0yGkmfYzqAlarvMAgocP6m) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Thieves](https://open.spotify.com/album/7jSHali5Bk5aHQWTnVRIGY) | 3:51 |
+| 66 | [Headache](https://open.spotify.com/track/31QPogARexxEPhhE8xxcTR) | [Mac Hankins and The Moonlighters](https://open.spotify.com/artist/7aJ7WbvSeDeZpXu33gDWAP) | [Headache](https://open.spotify.com/album/27zZnNYBBXn9bsEJ8O77fU) | 2:19 |
+| 67 | [Denim Blues](https://open.spotify.com/track/5LyxfQpyvs5oxHlWXpwrxY) | [Cameron Sacky Band](https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0) | [Denim Blues](https://open.spotify.com/album/06ysSfhhUmt4iktVCZea79) | 3:07 |
+| 68 | [Past The Point of Rescue](https://open.spotify.com/track/6C5IVNd58pVbJinsx7vObK) | [Chancey Williams](https://open.spotify.com/artist/6kaBU6Hz3GSkpRh6tfuA98) | [Miles On Me](https://open.spotify.com/album/778BQKMwR0vcLT9bF0VS4p) | 3:50 |
+| 69 | [Hold On](https://open.spotify.com/track/1h2hn8fPBLrTMF0Eyfd1Mw) | [Wesko](https://open.spotify.com/artist/65JTh6O744ikcSz4K1AGeF) | [Hold On](https://open.spotify.com/album/3eQ4DESzgVRHQ38bIhD0LR) | 3:06 |
+| 70 | [Kickin' Tires](https://open.spotify.com/track/2lUKLog36JDYjy5Pep5k7x) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [Lucky Stars](https://open.spotify.com/album/6uL7zJM7Tni6CBVVY946xz) | 3:43 |
+| 71 | [Back To You](https://open.spotify.com/track/182FL96pIuoYr1vIToxqwk) | [Kat Luna](https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt) | [Back To You](https://open.spotify.com/album/46JagiiKOnrW3VmnsD4qsE) | 3:09 |
+| 72 | [Mutual Obsession](https://open.spotify.com/track/4qhaIvh6OvtV5YRqYiJYH2) | [Katie Neal](https://open.spotify.com/artist/4W1Vh3BULoQQDPjFah7whS) | [Mutual Obsession](https://open.spotify.com/album/2VRhB0hzsVkXgZaZe4cJu7) | 3:32 |
+| 73 | [Too Little Too Late](https://open.spotify.com/track/534Mg2uc3cDaKZTUspw1S3) | [Michael Honan](https://open.spotify.com/artist/0jWD0R3npD8Trqy0zuYuss) | [Sign of Life](https://open.spotify.com/album/0O8EnJ0O8zEyBPKhKFvtub) | 3:07 |
 
 Snapshot ID: `AAAAANHkzZPkVnrBv6OF9O8uOpZ374gT`

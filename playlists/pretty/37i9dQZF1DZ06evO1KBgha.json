@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 367330,
+  "num_followers": 367352,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAABTAMqg1Mt+/qgPzadXmK1x",
+  "snapshot_id": "aPrBgAAAAACWyDeA64C2AEk0M8fhdgy3",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 139146,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Dentro",
         "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 165981,
       "name": "Por Dentro",
       "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 139146,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tokome",
+        "url": "https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 157450,
+      "name": "Tokome",
+      "url": "https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En 4",
         "url": "https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokome",
-        "url": "https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 157450,
-      "name": "Tokome",
-      "url": "https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Aura",
         "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
       },
@@ -370,11 +370,15 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         }
       ],
-      "duration_ms": 182525,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/32Rd1yFRekKTkH21g0j1gH"
+      "duration_ms": 158518,
+      "name": "Kitty",
+      "url": "https://open.spotify.com/track/5N7MQvvccl5Hu01j9dUtPe"
     },
     {
       "added_at": null,
@@ -434,15 +438,11 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         }
       ],
-      "duration_ms": 158518,
-      "name": "Kitty",
-      "url": "https://open.spotify.com/track/5N7MQvvccl5Hu01j9dUtPe"
+      "duration_ms": 182525,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/32Rd1yFRekKTkH21g0j1gH"
     },
     {
       "added_at": null,

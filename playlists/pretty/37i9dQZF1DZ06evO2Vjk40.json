@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 702330,
+  "num_followers": 702434,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAACDltxjNuabISf7dhsj2ztD",
+  "snapshot_id": "aPrBgAAAAAAvKdJ4FrMhI02AYr0mrLre",
   "tracks": [
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 216013,
-      "name": "A Simple Song",
-      "url": "https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n"
+      "duration_ms": 200213,
+      "name": "Scarecrow In The Garden",
+      "url": "https://open.spotify.com/track/2heBToLEB7odACQ3xwb32A"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 200213,
-      "name": "Scarecrow In The Garden",
-      "url": "https://open.spotify.com/track/2heBToLEB7odACQ3xwb32A"
+      "duration_ms": 216013,
+      "name": "A Simple Song",
+      "url": "https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n"
     },
     {
       "added_at": null,
@@ -691,6 +691,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "hummingbird",
+        "url": "https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 218951,
+      "name": "we don't fight anymore",
+      "url": "https://open.spotify.com/track/2TuqMTikjCxxP8Y8SXKAuO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Willie Nelson American Outlaw (Live)",
         "url": "https://open.spotify.com/album/5heTM7q5ly9IPwJIFSbKLp"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 134266,
       "name": "Roll Me Up and Smoke Me When I Die - Live",
       "url": "https://open.spotify.com/track/5iis9J2sptrUy0VIpFVIg1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "hummingbird",
-        "url": "https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 218951,
-      "name": "we don't fight anymore",
-      "url": "https://open.spotify.com/track/2TuqMTikjCxxP8Y8SXKAuO"
     },
     {
       "added_at": null,

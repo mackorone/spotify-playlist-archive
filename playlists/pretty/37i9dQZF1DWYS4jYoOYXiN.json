@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 97754,
+  "num_followers": 97777,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "I Like it Like That",
+        "url": "https://open.spotify.com/album/5ajgzwc62KbNQl9Xrv6ReQ"
+      },
+      "artists": [
+        {
+          "name": "Pete Rodriguez",
+          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
+        }
+      ],
+      "duration_ms": 265080,
+      "name": "I Like It Like That",
+      "url": "https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "Take A Trip Pussycat (feat. Luis Aviles)",
         "url": "https://open.spotify.com/album/6MlF1GxkWZWvqxiz5QrdDJ"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 214520,
       "name": "I'll Be A Happy Man",
       "url": "https://open.spotify.com/track/2P5nMi24nyYcd7roZt5HDK"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "I Like it Like That",
-        "url": "https://open.spotify.com/album/5ajgzwc62KbNQl9Xrv6ReQ"
-      },
-      "artists": [
-        {
-          "name": "Pete Rodriguez",
-          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
-        }
-      ],
-      "duration_ms": 265080,
-      "name": "I Like It Like That",
-      "url": "https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU"
     },
     {
       "added_at": "2024-07-18 20:57:58",

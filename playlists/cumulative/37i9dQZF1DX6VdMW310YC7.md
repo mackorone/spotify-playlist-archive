@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,826 songs - 5 day 4 hr 9 min
+1,827 songs - 5 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1485,6 +1485,7 @@
 | [Space For Me](https://open.spotify.com/track/52RE7Xc8y29D85xdsH4IMU) | [Zak Leever](https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU) | [Space For Me](https://open.spotify.com/album/4pAlzrxfbgYv0dFc5WQZiA) | 2:59 | 2021-01-23 | 2022-07-24 |
 | [Spark](https://open.spotify.com/track/455dBlLbb20MByIVmlSwEg) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Spark](https://open.spotify.com/album/4jutaK8CCJBxmzPbElehQg) | 4:00 | 2020-03-17 | 2020-06-12 |
 | [Spectrum](https://open.spotify.com/track/6mfsyas3PUZV1iqXHm3VYD) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Spectrum](https://open.spotify.com/album/0VCIirmWqo5CKYdXWH9WFa) | 4:45 | 2022-03-25 | 2022-04-21 |
+| [Spellbound](https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Spellbound](https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX) | 2:17 | 2025-10-24 |  |
 | [Spiritual Riddim](https://open.spotify.com/track/1bYNclt7CLyuDVLpC1ZmmJ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sinym \(Sarz Is Not Your Mate\)](https://open.spotify.com/album/1K59wmdQhuMiDmgx3y25Yl) | 4:39 | 2020-05-18 | 2020-08-20 |
 | [Spring Embers](https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Spring Embers](https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU) | 3:32 | 2023-04-21 | 2024-04-06 |
 | [St\. Patrick](https://open.spotify.com/track/1chajyFvaLyozRyF5xhlR3) | [Crywolf](https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z) | [St\. Patrick](https://open.spotify.com/album/6AhLIQPnq7bpwBuINkZk3p) | 4:04 | 2020-05-18 | 2020-07-03 |
@@ -1704,7 +1705,7 @@
 | [updown](https://open.spotify.com/track/06vDTKSGYDtZpXt8q0S5Zb) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [updown](https://open.spotify.com/album/2OXEwDrbFYYhTFf2WiNwOJ) | 2:45 | 2023-02-17 | 2023-04-29 |
 | [Us](https://open.spotify.com/track/6R9O2TUoXnWuIIZ5HK3J6T) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Us](https://open.spotify.com/album/606qe2JEf9dndELUHpLx0F) | 4:56 | 2020-04-12 | 2020-10-09 |
 | [Us](https://open.spotify.com/track/63yVhTOpbvjkA4kvH1O2yi) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [Us](https://open.spotify.com/album/6pCGV4BvvjWT4uQJethJXF) | 4:51 | 2022-07-08 | 2022-12-24 |
-| [Utopia](https://open.spotify.com/track/6yeXOGFx7lkO6obKWKZP0r) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Serotonin](https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1) | 3:15 | 2025-07-18 |  |
+| [Utopia](https://open.spotify.com/track/6yeXOGFx7lkO6obKWKZP0r) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Serotonin](https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1) | 3:15 | 2025-07-18 | 2025-10-26 |
 | [UUUU](https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [UUUU](https://open.spotify.com/album/38dO16oDq91phqKFXIW1VP) | 6:29 | 2022-04-29 | 2023-03-26 |
 | [vestal avenue](https://open.spotify.com/track/1HQYsqs4Ek4ng9hcDFUrLw) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [album1](https://open.spotify.com/album/09lJhufJEYwygdKq3vUa8t) | 4:15 | 2020-03-23 | 2020-07-03 |
 | [View from the Aeroplane Window](https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [View from the Aeroplane Window](https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH) | 3:53 | 2021-09-03 | 2022-07-28 |

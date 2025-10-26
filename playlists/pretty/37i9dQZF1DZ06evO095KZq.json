@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 446071,
+  "num_followers": 446100,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAD76doldGiReOhw5eGeYCa6",
+  "snapshot_id": "aPrBgAAAAADUdNJhNuET0mCAmL9umeYv",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Caballo Robado",
+        "url": "https://open.spotify.com/album/39AOvTcyx0LVuOJMf8peQB"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 118816,
+      "name": "Caballo Robado",
+      "url": "https://open.spotify.com/track/5SP9kvtRzmncffawYpAk0P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cabrones y Vagos",
         "url": "https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caballo Robado",
-        "url": "https://open.spotify.com/album/39AOvTcyx0LVuOJMf8peQB"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 118816,
-      "name": "Caballo Robado",
-      "url": "https://open.spotify.com/track/5SP9kvtRzmncffawYpAk0P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Equipo Armado",
         "url": "https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt"
       },
@@ -331,6 +331,22 @@
       "duration_ms": 151903,
       "name": "Mi 45",
       "url": "https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 104746,
+      "name": "Ser\u00e9 un Borracho",
+      "url": "https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k"
     },
     {
       "added_at": null,
@@ -355,22 +371,6 @@
       "duration_ms": 215594,
       "name": "Entre Hierba, Polvo y Plomo",
       "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' los Recuerdos, Vol. 2",
-        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 104746,
-      "name": "Ser\u00e9 un Borracho",
-      "url": "https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/33y7OjZc89x9SsOIebCGCJ"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 173874,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/7E4nVNpcqxMzfJv5qqgaAk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Zool\u00f3gico (En Vivo)",
         "url": "https://open.spotify.com/album/37RVFNtvyofJTE5Ui9YkFC"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 219453,
       "name": "El Zool\u00f3gico - En Vivo",
       "url": "https://open.spotify.com/track/4wykN4k8kWJeI37FjcjzeB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/33y7OjZc89x9SsOIebCGCJ"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 173874,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/7E4nVNpcqxMzfJv5qqgaAk"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don Mayo",
-        "url": "https://open.spotify.com/album/61n5k372HW6UrPqiv9m7g5"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 191202,
-      "name": "Don Mayo",
-      "url": "https://open.spotify.com/track/7m6bPXQpytQk3Iyf5w1tbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Zorro",
         "url": "https://open.spotify.com/album/4HMkP0BVe9AzwYsMJX7SSZ"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 239201,
       "name": "El Zorro",
       "url": "https://open.spotify.com/track/5U1bP3nRulk7egjqWQSkNA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don Mayo",
+        "url": "https://open.spotify.com/album/61n5k372HW6UrPqiv9m7g5"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 191202,
+      "name": "Don Mayo",
+      "url": "https://open.spotify.com/track/7m6bPXQpytQk3Iyf5w1tbQ"
     },
     {
       "added_at": null,

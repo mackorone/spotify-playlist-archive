@@ -4,7 +4,7 @@
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-144 songs - 8 hr 4 min
+145 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Car That Drove You Away](https://open.spotify.com/track/6qbkwyYczMk1AohVIJVyjW) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/42IN9N5RNKdC1QApYWR0xi) | 3:04 | 2025-05-07 | 2025-05-31 |
 | [Colorado \(feat\. HARDY\)](https://open.spotify.com/track/3ill9VgMqx02I8REhoXbLL) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Whiskey On Whiskey](https://open.spotify.com/album/1cb4T5ulohQQrgRiDkVPnO) | 2:48 | 2024-08-26 | 2025-03-02 |
 | [Come Back As A Redneck \(feat\. HARDY\)](https://open.spotify.com/track/33gSkDn6P9uS7ofaYiyBP6) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:58 | 2025-05-18 |  |
-| [Country Country](https://open.spotify.com/track/7a7RMpWBY72wWWj75WHEg9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/0EivT3ujuT7UniMW8UOISI) | 3:58 | 2025-09-28 |  |
+| [Country Country](https://open.spotify.com/track/1FHOMoJbGHsjR8E44IcZ8g) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 3:58 | 2025-10-26 |  |
+| [Country Country](https://open.spotify.com/track/7a7RMpWBY72wWWj75WHEg9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/0EivT3ujuT7UniMW8UOISI) | 3:58 | 2025-09-28 | 2025-10-26 |
 | [Country In Me](https://open.spotify.com/track/0tnKWiWZvNiTehuGuYAHGT) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 3:24 | 2025-09-29 |  |
 | [Creep \(feat\. HARDY\)](https://open.spotify.com/track/3CowWV9MOYpMN6sZBqz9rF) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5) | 3:23 | 2024-04-15 | 2024-06-28 |
 | [Dog Years](https://open.spotify.com/track/3WH2Z2ZoUv0RB0NBV13YY9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Dog Years](https://open.spotify.com/album/7pPNAH85dZ7ISCOtk8MvDI) | 4:16 | 2025-09-23 |  |
@@ -109,7 +110,7 @@
 | [ROCKSTAR](https://open.spotify.com/track/5NKPbcHaLSl4K3lJCo4pJr) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:14 | 2024-07-23 |  |
 | [ROCKSTAR](https://open.spotify.com/track/5jhY1n1cTKSxx8lEujMcAS) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [ROCKSTAR](https://open.spotify.com/album/3vCjG6V4zutlCWvVPQFzbl) | 3:14 | 2024-02-10 | 2024-07-01 |
 | [screen](https://open.spotify.com/track/6sCHcwmUCsVyMdLgm9b1IU) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 3:47 | 2023-02-08 | 2023-02-19 |
-| [SIGNED, SOBER YOU](https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 3:28 | 2024-07-27 | 2025-10-21 |
+| [SIGNED, SOBER YOU](https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 3:28 | 2024-07-27 |  |
 | [SIGNED, SOBER YOU](https://open.spotify.com/track/3hdh8HHhZyhO5oqDjjKVAn) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB) | 3:28 | 2023-02-08 | 2024-07-27 |
 | [SIX FEET UNDER \(Caleigh’s Song\)](https://open.spotify.com/track/6pWmnSmn9EqCRDb2Qg1ngj) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SIX FEET UNDER \(Caleigh’s Song\)](https://open.spotify.com/album/443mTdceNT52OKQv2tnRN8) | 3:11 | 2024-06-09 | 2024-08-11 |
 | [SIX FEET UNDER \(Caleigh’s Song\)](https://open.spotify.com/track/7d97WagcXzbZBibBk5NmcY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:11 | 2024-08-11 | 2025-09-29 |
@@ -148,7 +149,7 @@
 | [Who Don’t](https://open.spotify.com/track/3Mz0bZ1SKqVzcxgtJzfxSb) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 3:01 | 2025-10-05 | 2025-10-20 |
 | [WHYBMWL](https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:13 | 2024-07-14 |  |
 | [Y’all Boys](https://open.spotify.com/track/1NJnv7vvUZ5xM1DIWbngmN) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 2:32 | 2023-02-08 | 2025-04-14 |
-| [Y’all Need Jesus](https://open.spotify.com/track/4LmtuM662l8X2spMNBsdHj) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 2:52 | 2025-09-30 |  |
+| [Y’all Need Jesus](https://open.spotify.com/track/4LmtuM662l8X2spMNBsdHj) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 2:52 | 2025-09-30 | 2025-10-26 |
 | [zombieland \(feat\. HARDY\)](https://open.spotify.com/track/3xGi8NYBHKM8mKsheBWV0G) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [zombieland \(feat\. HARDY\)](https://open.spotify.com/album/1HB5u33KcIukGAlu6lTu2Y) | 3:12 | 2024-05-19 | 2024-07-09 |
 | [zombieland \(feat\. HARDY\)](https://open.spotify.com/track/5hTz0E9uieW4dl6YF34yMy) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Dear Joe,](https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI) | 3:12 | 2024-07-27 | 2024-10-05 |
 | [zombieland \(feat\. HARDY\)](https://open.spotify.com/track/2RtIK8NXQr9hILPatp9qrh) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [zombieland \(feat\. HARDY\)](https://open.spotify.com/album/1melLSxJUfXvY7sDZv1U6Z) | 3:12 | 2024-05-10 | 2024-05-19 |

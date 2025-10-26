@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: TURY
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,810 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,827 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 23 | [LA MAYBACH](https://open.spotify.com/track/0kJAsLcG0lPlYTwGbCwcvt) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA MAYBACH](https://open.spotify.com/album/1jz29Rm1NMO3xpeMotUgff) | 4:00 |
 | 24 | [MR CHIMB4S](https://open.spotify.com/track/4EDhkGtlJRPf8fnonD0n5q) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Sjoy on the beat](https://open.spotify.com/artist/2JpD7COyH3RDoFJ1vneHOw) | [MR CHIMB4S](https://open.spotify.com/album/16CL0gZreRyXOHkovjxRjm) | 2:18 |
 | 25 | [Hello Kitty](https://open.spotify.com/track/0rhOEMRH8K7OVe4wjLlstl) | [OH!DULCEARi](https://open.spotify.com/artist/4RVTG56sSMIyoqRazFzpVn), [Leston](https://open.spotify.com/artist/5vU7O06Mto29k2V4oBBbDZ) | [Hello Kitty](https://open.spotify.com/album/1zE1QaUY29I0LZASdVAarT) | 1:39 |
-| 26 | [Doris](https://open.spotify.com/track/4AbYMhCSQ6pFD0rNQNWGYk) | [Underaiki](https://open.spotify.com/artist/55IzEzlyUcBFqGgyam2Seo), [Skisia2](https://open.spotify.com/artist/0i2AykTPNRZdh7qfCy8eor), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [AG SixTeen](https://open.spotify.com/artist/2Skstmc3athPlfSbdxEsR2) | [Doris](https://open.spotify.com/album/434W3UFGHaAltUecUUY3S7) | 2:38 |
+| 26 | [Doris \(feat\. AG SixTeen\)](https://open.spotify.com/track/4AbYMhCSQ6pFD0rNQNWGYk) | [Underaiki](https://open.spotify.com/artist/55IzEzlyUcBFqGgyam2Seo), [Skisia2](https://open.spotify.com/artist/0i2AykTPNRZdh7qfCy8eor), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [AG SixTeen](https://open.spotify.com/artist/2Skstmc3athPlfSbdxEsR2) | [Doris \(feat\. AG SixTeen\)](https://open.spotify.com/album/434W3UFGHaAltUecUUY3S7) | 2:38 |
 | 27 | [Bye](https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o) | [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Bye](https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI) | 2:37 |
 | 28 | [PLAYBOi CARTi](https://open.spotify.com/track/5d9UUY1Ef4uS9h7qSfyuE3) | [OH!DULCEARi](https://open.spotify.com/artist/4RVTG56sSMIyoqRazFzpVn), [Carzé](https://open.spotify.com/artist/11Phvl6lzQFQJ2OcSXloHv) | [PLAYBOi CARTi](https://open.spotify.com/album/2Plix0CUzCCvwzDGb2AsxR) | 2:58 |
 | 29 | [Me Vuelvo Del DIM](https://open.spotify.com/track/4D4QeJRcuThO84Yg1Yu4Tf) | [Sa!koro](https://open.spotify.com/artist/6LNkIoneVxdu31qUNsfRwa), [Milanezie](https://open.spotify.com/artist/6xcD5pcEiRobg9IXphHa5L) | [GRACIAS SA!KO](https://open.spotify.com/album/500MFNZFFYYlyfd8VJZcnT) | 2:18 |

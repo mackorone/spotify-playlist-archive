@@ -4,7 +4,7 @@
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-59 songs - 2 hr 49 min
+61 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,9 +20,11 @@
 | [blasphemy!](https://open.spotify.com/track/3l0M0HdBZ3SsinWP2alYlG) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:58 | 2025-10-11 |  |
 | [breakup with a friend](https://open.spotify.com/track/4yJxFiGDaCOIB5FlodmBWH) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [breakup with a friend](https://open.spotify.com/album/7FejhBpvLo5ciYkURuFnW7) | 2:42 | 2025-10-11 |  |
 | [breakup with a friend](https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [breakup with a friend](https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i) | 2:42 | 2024-01-10 | 2025-10-11 |
+| [Carlos, Get in the Car!](https://open.spotify.com/track/0qUKGLsD5NIv2KK5KjAA3L) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Carlos, Get in the Car!](https://open.spotify.com/album/2Wk3M83LeaiyacfDhiqKyY) | 2:55 | 2025-10-26 |  |
 | [Cautiously Optimistic](https://open.spotify.com/track/1mwGaFe4piAkPGFzGS5tm4) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cautiously Optimistic](https://open.spotify.com/album/6EsfaTMIMrW1LJTNK85z4x) | 2:25 | 2025-10-11 |  |
 | [Cautiously Optimistic](https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cautiously Optimistic](https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD) | 2:25 | 2024-01-10 | 2025-10-11 |
-| [Cool 4 U](https://open.spotify.com/track/2E1Esh3QgFWafXkJDfREPV) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cool 4 U](https://open.spotify.com/album/1ADKl4iKK2T5Cx0yzNost7) | 2:19 | 2024-01-10 |  |
+| [Cool 4 U](https://open.spotify.com/track/2E1Esh3QgFWafXkJDfREPV) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cool 4 U](https://open.spotify.com/album/1ADKl4iKK2T5Cx0yzNost7) | 2:19 | 2024-01-10 | 2025-10-26 |
+| [Cool 4 U](https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cool 4 U](https://open.spotify.com/album/7Je3FV6srb7kY3BvTmUdhG) | 2:19 | 2025-10-26 |  |
 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/3TSRH5IgWTHc8QZSAmo4bz) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/5AQdr3EeYdMHLTTXNEwfWO) | 2:48 | 2024-01-10 |  |
 | [cupids on cocaine](https://open.spotify.com/track/11RsKyyMsurzmtjBD3a5G1) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [cupids on cocaine](https://open.spotify.com/album/4XdcZz88Its2ktA7lbRabC) | 2:28 | 2024-10-20 | 2025-01-07 |
 | [cupids on cocaine](https://open.spotify.com/track/1a8I2Xf2oz9wUcYUJq5vxF) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:28 | 2025-07-25 | 2025-10-11 |

@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 467104,
+  "num_followers": 467110,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAM+Fbx8SdcY0q9kbRv680nAnF6wl",
   "tracks": [
-    {
-      "added_at": "2024-04-15 18:24:33",
-      "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 368770,
-      "name": "Daydream Repeat",
-      "url": "https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX"
-    },
     {
       "added_at": "2024-05-08 03:37:26",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 236628,
       "name": "CHROMA 003 Bi83",
       "url": "https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6"
+    },
+    {
+      "added_at": "2024-04-15 18:24:33",
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 368770,
+      "name": "Daydream Repeat",
+      "url": "https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX"
     },
     {
       "added_at": "2024-07-09 07:05:10",
@@ -113,22 +113,6 @@
       "url": "https://open.spotify.com/track/6TJd0gtqzG3KYVtYtGuaUV"
     },
     {
-      "added_at": "2022-04-22 18:53:10",
-      "album": {
-        "name": "Tahara",
-        "url": "https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS"
-      },
-      "artists": [
-        {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
-        }
-      ],
-      "duration_ms": 213850,
-      "name": "Tahara",
-      "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
-    },
-    {
       "added_at": "2024-01-04 19:26:35",
       "album": {
         "name": "DATA (Instrumental)",
@@ -143,6 +127,22 @@
       "duration_ms": 180103,
       "name": "VOLVER (instrumental)",
       "url": "https://open.spotify.com/track/7yXlGX1tlIYn5wZcJbJB6f"
+    },
+    {
+      "added_at": "2022-04-22 18:53:10",
+      "album": {
+        "name": "Tahara",
+        "url": "https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS"
+      },
+      "artists": [
+        {
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+        }
+      ],
+      "duration_ms": 213850,
+      "name": "Tahara",
+      "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
     },
     {
       "added_at": "2024-08-16 19:23:44",
@@ -389,36 +389,20 @@
       "url": "https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA"
     },
     {
-      "added_at": "2022-02-16 00:41:13",
+      "added_at": "2022-02-25 03:39:39",
       "album": {
-        "name": "drames rurals",
-        "url": "https://open.spotify.com/album/3yC35q63Eg6ctGi3CXFUDD"
+        "name": "Exotic Contents / Pulse at the Centre of Being",
+        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
       },
       "artists": [
         {
-          "name": "drames rurals",
-          "url": "https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG"
-        },
-        {
-          "name": "John Talabot",
-          "url": "https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD"
-        },
-        {
-          "name": "juns",
-          "url": "https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF"
-        },
-        {
-          "name": "oma totem",
-          "url": "https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb"
-        },
-        {
-          "name": "Meritxell Bonastre",
-          "url": "https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp"
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
         }
       ],
-      "duration_ms": 283200,
-      "name": "l'empelt",
-      "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
+      "duration_ms": 346588,
+      "name": "Exotic Contents",
+      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
     },
     {
       "added_at": "2024-07-05 04:07:56",
@@ -453,20 +437,36 @@
       "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
     },
     {
-      "added_at": "2022-02-25 03:39:39",
+      "added_at": "2022-02-16 00:41:13",
       "album": {
-        "name": "Exotic Contents / Pulse at the Centre of Being",
-        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
+        "name": "drames rurals",
+        "url": "https://open.spotify.com/album/3yC35q63Eg6ctGi3CXFUDD"
       },
       "artists": [
         {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+          "name": "drames rurals",
+          "url": "https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG"
+        },
+        {
+          "name": "John Talabot",
+          "url": "https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD"
+        },
+        {
+          "name": "juns",
+          "url": "https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF"
+        },
+        {
+          "name": "oma totem",
+          "url": "https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb"
+        },
+        {
+          "name": "Meritxell Bonastre",
+          "url": "https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp"
         }
       ],
-      "duration_ms": 346588,
-      "name": "Exotic Contents",
-      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
+      "duration_ms": 283200,
+      "name": "l'empelt",
+      "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
     },
     {
       "added_at": "2023-11-15 16:34:12",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
     },
     {
-      "added_at": "2024-07-02 21:24:59",
-      "album": {
-        "name": "Bakteria",
-        "url": "https://open.spotify.com/album/0zZF7ZXBRWpdR9BzOZiThu"
-      },
-      "artists": [
-        {
-          "name": "B\u0142oto",
-          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
-        }
-      ],
-      "duration_ms": 224258,
-      "name": "Bakteria",
-      "url": "https://open.spotify.com/track/3pkX30Tv1IlMvRG5554cbH"
-    },
-    {
       "added_at": "2022-12-16 06:00:00",
       "album": {
         "name": "Hondo (Remix)",
@@ -637,36 +621,20 @@
       "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
     },
     {
-      "added_at": "2023-04-12 01:28:07",
+      "added_at": "2024-07-02 21:24:59",
       "album": {
-        "name": "chronopolis",
-        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
+        "name": "Bakteria",
+        "url": "https://open.spotify.com/album/0zZF7ZXBRWpdR9BzOZiThu"
       },
       "artists": [
         {
-          "name": "derek muro",
-          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
+          "name": "B\u0142oto",
+          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
         }
       ],
-      "duration_ms": 193655,
-      "name": "realcopy",
-      "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
-    },
-    {
-      "added_at": "2022-01-19 22:44:25",
-      "album": {
-        "name": "Fwd: Re: late (Ref.: karoshi)",
-        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 361386,
-      "name": "Fwd: Re: late (Ref.: karoshi)",
-      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
+      "duration_ms": 224258,
+      "name": "Bakteria",
+      "url": "https://open.spotify.com/track/3pkX30Tv1IlMvRG5554cbH"
     },
     {
       "added_at": "2022-12-20 19:12:56",
@@ -691,6 +659,38 @@
       "duration_ms": 287582,
       "name": "In Your Head - Subxet Remix",
       "url": "https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq"
+    },
+    {
+      "added_at": "2022-01-19 22:44:25",
+      "album": {
+        "name": "Fwd: Re: late (Ref.: karoshi)",
+        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Fwd: Re: late (Ref.: karoshi)",
+      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
+    },
+    {
+      "added_at": "2023-04-12 01:28:07",
+      "album": {
+        "name": "chronopolis",
+        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
+      },
+      "artists": [
+        {
+          "name": "derek muro",
+          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
+        }
+      ],
+      "duration_ms": 193655,
+      "name": "realcopy",
+      "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
     },
     {
       "added_at": "2024-01-05 03:32:15",
@@ -777,26 +777,6 @@
       "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
     },
     {
-      "added_at": "2022-02-25 05:12:51",
-      "album": {
-        "name": "April Dub",
-        "url": "https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE"
-      },
-      "artists": [
-        {
-          "name": "Sancho Meiso Chaya",
-          "url": "https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn"
-        },
-        {
-          "name": "Koyas",
-          "url": "https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI"
-        }
-      ],
-      "duration_ms": 260006,
-      "name": "April Dub (Koyas Mix)",
-      "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
       "added_at": "2024-05-08 03:36:12",
       "album": {
         "name": "The Precision of Infinity",
@@ -817,6 +797,26 @@
       "url": "https://open.spotify.com/track/3nG6mPXI1FXtdtXfNQGdPD"
     },
     {
+      "added_at": "2022-02-25 05:12:51",
+      "album": {
+        "name": "April Dub",
+        "url": "https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE"
+      },
+      "artists": [
+        {
+          "name": "Sancho Meiso Chaya",
+          "url": "https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn"
+        },
+        {
+          "name": "Koyas",
+          "url": "https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI"
+        }
+      ],
+      "duration_ms": 260006,
+      "name": "April Dub (Koyas Mix)",
+      "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
+    },
+    {
       "added_at": "2023-11-08 01:35:05",
       "album": {
         "name": "Zan",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn"
     },
     {
-      "added_at": "2022-03-30 04:42:42",
-      "album": {
-        "name": "Chamas Do Cerrado",
-        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
-      },
-      "artists": [
-        {
-          "name": "LAZA",
-          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
-        }
-      ],
-      "duration_ms": 213708,
-      "name": "Vale Da Lua",
-      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
-    },
-    {
       "added_at": "2023-07-18 19:12:42",
       "album": {
         "name": "Pleiades",
@@ -863,6 +847,22 @@
       "duration_ms": 508603,
       "name": "Alcyone",
       "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
+    },
+    {
+      "added_at": "2022-03-30 04:42:42",
+      "album": {
+        "name": "Chamas Do Cerrado",
+        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
+      },
+      "artists": [
+        {
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
+        }
+      ],
+      "duration_ms": 213708,
+      "name": "Vale Da Lua",
+      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
       "added_at": "2023-03-31 19:28:59",

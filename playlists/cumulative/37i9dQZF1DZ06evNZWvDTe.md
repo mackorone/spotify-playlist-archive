@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-213 songs - 12 hr 40 min
+214 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Angels and Demons](https://open.spotify.com/track/0y0zAsjxaoGvV7HQm3QrwB) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Alpha](https://open.spotify.com/album/3vB23UtiQmUqwsw9Ge8xcr) | 2:28 | 2022-03-01 | 2022-10-09 |
 | [Anointing](https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Anointing](https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg) | 3:36 | 2022-01-01 |  |
 | [Anything](https://open.spotify.com/track/6xuBRuNBKQR3LnBjUS7ZIn) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 4:51 | 2021-12-28 | 2022-09-25 |
+| [ASANTE Y3 OMAN](https://open.spotify.com/track/5aDAr5o6r1iPOQgpqxlIIs) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [ASANTE Y3 OMAN](https://open.spotify.com/album/1BRiwwWnyaPYkBMvfInVW1) | 3:00 | 2025-10-26 |  |
 | [Asikyire](https://open.spotify.com/track/1Z7mMnCRKLeXb3qpWXmswA) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Lighthouse](https://open.spotify.com/album/1wBVNcu4xaAntWt8vUgGnL) | 4:46 | 2023-12-13 | 2024-03-23 |
 | [Azonto Fiesta](https://open.spotify.com/track/3CgFXfyJOYBhc3aoekeUxt) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Appietus](https://open.spotify.com/artist/3aupsfQC9Iy7j3uSEnTqoN), [Kesse](https://open.spotify.com/artist/4ZhIFuuxUkdBSeiVVWxVzi) | [Azonto Fiesta](https://open.spotify.com/album/1mg4MsqiBfumobQ1BcPJfh) | 4:23 | 2022-02-06 | 2022-10-12 |
 | [Baafira \- Remix](https://open.spotify.com/track/6WIv1NFa6WxphahzCF7YG2) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Baafira \(Remix\)](https://open.spotify.com/album/2g0yawlN7zlGVKML52Mt9A) | 3:27 | 2022-01-13 | 2022-02-26 |
@@ -214,7 +215,7 @@
 | [Which One \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6xv8qSkPrksoO40Jz4p45Z) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:20 | 2022-01-20 | 2022-10-07 |
 | [Whipped \(feat\. DarkoVibes\)](https://open.spotify.com/track/7DgHNchZQxCFOM34f2UsiF) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:26 | 2021-12-28 | 2023-04-04 |
 | [Who Da Man](https://open.spotify.com/track/397tmDWdvcdlAL1UaaJpi3) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Who Da Man](https://open.spotify.com/album/1ls27oDCfeUr4wIS4rupur) | 2:58 | 2023-03-08 | 2025-04-11 |
-| [Who Da Man](https://open.spotify.com/track/6XJVjxcULLokcDdFtNfEBF) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Who Da Man](https://open.spotify.com/album/5nJXQqAfjNSsNmzZAa9rQQ) | 2:58 | 2025-06-05 |  |
+| [Who Da Man](https://open.spotify.com/track/6XJVjxcULLokcDdFtNfEBF) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Who Da Man](https://open.spotify.com/album/5nJXQqAfjNSsNmzZAa9rQQ) | 2:58 | 2025-06-05 | 2025-10-26 |
 | [X](https://open.spotify.com/track/5ixH9djj6liGfZB4scbjRF) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 4:33 | 2024-05-26 | 2024-11-23 |
 | [Yawa \(feat\. Sarkodie\)](https://open.spotify.com/track/1i5ZMR0XrSmkUiBjbHyXGp) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Yawa \(feat\. Sarkodie\)](https://open.spotify.com/album/2Vhd4O8Ed5IEdt0c655ATo) | 3:02 | 2021-12-28 | 2022-11-13 |
 | [Year of Return](https://open.spotify.com/track/2ovx9TSB1J3pEaWRUDnBed) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Coded](https://open.spotify.com/artist/4oUIlyHTTqRSmtWZTQNZ4r) | [Year of Return](https://open.spotify.com/album/4828QaSjhsNh3dtIt0leDt) | 3:58 | 2021-12-28 | 2022-10-11 |

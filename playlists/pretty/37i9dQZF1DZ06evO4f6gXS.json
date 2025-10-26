@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAADuYlVKjjL+P/+WzruvkZj9",
+  "snapshot_id": "aPrBgAAAAAAKFw7qZotI1bf4ndgrlDX+",
   "tracks": [
     {
       "added_at": null,
@@ -280,16 +280,16 @@
       },
       "artists": [
         {
-          "name": "Dean Edwards",
-          "url": "https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI"
+          "name": "Chris Ballin",
+          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
         },
         {
           "name": "Emmanuel",
           "url": "https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o"
         },
         {
-          "name": "Chris Ballin",
-          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
+          "name": "Dean Edwards",
+          "url": "https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI"
         },
         {
           "name": "The Jones Girls",
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Please Come Back",
-      "url": "https://open.spotify.com/track/63icbDiDWBKZlnwR7bMJzQ"
+      "duration_ms": 340000,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/50UOjlh09B4y1OBbNMPQwF"
     },
     {
       "added_at": null,
@@ -372,16 +372,16 @@
       },
       "artists": [
         {
-          "name": "Chris Ballin",
-          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
+          "name": "Dean Edwards",
+          "url": "https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI"
         },
         {
           "name": "Emmanuel",
           "url": "https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o"
         },
         {
-          "name": "Dean Edwards",
-          "url": "https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI"
+          "name": "Chris Ballin",
+          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
         },
         {
           "name": "The Jones Girls",
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
         }
       ],
-      "duration_ms": 340000,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/50UOjlh09B4y1OBbNMPQwF"
+      "duration_ms": 280000,
+      "name": "Please Come Back",
+      "url": "https://open.spotify.com/track/63icbDiDWBKZlnwR7bMJzQ"
     },
     {
       "added_at": null,
@@ -528,12 +528,16 @@
       },
       "artists": [
         {
-          "name": "Chris Ballin",
-          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
+          "name": "Anthony Drakes",
+          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
         },
         {
           "name": "Emmanuel",
           "url": "https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o"
+        },
+        {
+          "name": "Chris Ballin",
+          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
         },
         {
           "name": "Dean Edwards",
@@ -542,10 +546,6 @@
         {
           "name": "The Jones Girls",
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        },
-        {
-          "name": "Anthony Drakes",
-          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
         },
         {
           "name": "Julianne",
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
         }
       ],
-      "duration_ms": 309000,
-      "name": "Could You Be Mine?",
-      "url": "https://open.spotify.com/track/592L5UVwLVl6kmxB8E2z7Y"
+      "duration_ms": 301000,
+      "name": "Is It True?",
+      "url": "https://open.spotify.com/track/2P3rUI2tEIlBo5YXcGrOuf"
     },
     {
       "added_at": null,
@@ -620,16 +620,12 @@
       },
       "artists": [
         {
-          "name": "Anthony Drakes",
-          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
+          "name": "Chris Ballin",
+          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
         },
         {
           "name": "Emmanuel",
           "url": "https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o"
-        },
-        {
-          "name": "Chris Ballin",
-          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
         },
         {
           "name": "Dean Edwards",
@@ -638,6 +634,10 @@
         {
           "name": "The Jones Girls",
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        },
+        {
+          "name": "Anthony Drakes",
+          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
         },
         {
           "name": "Julianne",
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
         }
       ],
-      "duration_ms": 301000,
-      "name": "Is It True?",
-      "url": "https://open.spotify.com/track/2P3rUI2tEIlBo5YXcGrOuf"
+      "duration_ms": 309000,
+      "name": "Could You Be Mine?",
+      "url": "https://open.spotify.com/track/592L5UVwLVl6kmxB8E2z7Y"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reflections: In Loving Memory",
-        "url": "https://open.spotify.com/album/7dhvs5QbajnXYUY5NETIGY"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 324960,
-      "name": "Baby Don't Go Yet",
-      "url": "https://open.spotify.com/track/6NKNogU1zrD9jNj4aPNdQV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On Target (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
       },
@@ -707,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keep It Comin'",
-        "url": "https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ"
+        "name": "Reflections: In Loving Memory",
+        "url": "https://open.spotify.com/album/7dhvs5QbajnXYUY5NETIGY"
       },
       "artists": [
         {
@@ -716,9 +700,25 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 275773,
-      "name": "Why You Wanna Do That to Me",
-      "url": "https://open.spotify.com/track/37qqCwdo1Vx0lKV0t2v3oa"
+      "duration_ms": 324960,
+      "name": "Baby Don't Go Yet",
+      "url": "https://open.spotify.com/track/6NKNogU1zrD9jNj4aPNdQV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luxury Soul 2018",
+        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 157133,
+      "name": "If You Don't Start Nothing",
+      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luxury Soul 2018",
-        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 157133,
-      "name": "If You Don't Start Nothing",
-      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Keep It Comin'",
         "url": "https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ"
       },
@@ -808,25 +792,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 252640,
-      "name": "Better Things to Do",
-      "url": "https://open.spotify.com/track/74PH2myT1Q271X9ygKce2I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Somewhere Alone Tonight",
-      "url": "https://open.spotify.com/track/7p8yn1qom6ABw7zFTYvM6b"
+      "duration_ms": 275773,
+      "name": "Why You Wanna Do That to Me",
+      "url": "https://open.spotify.com/track/37qqCwdo1Vx0lKV0t2v3oa"
     },
     {
       "added_at": null,
@@ -847,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
-        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
       },
       "artists": [
         {
@@ -856,9 +824,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 231053,
-      "name": "You're the Only Bargain I've Got",
-      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
+      "duration_ms": 245600,
+      "name": "Somewhere Alone Tonight",
+      "url": "https://open.spotify.com/track/7p8yn1qom6ABw7zFTYvM6b"
     },
     {
       "added_at": null,
@@ -903,6 +871,38 @@
       "duration_ms": 271120,
       "name": "The More I Get To Know You",
       "url": "https://open.spotify.com/track/69VxpJEzI5FQnsMi9oKx4Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Keep It Comin'",
+        "url": "https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "Better Things to Do",
+      "url": "https://open.spotify.com/track/74PH2myT1Q271X9ygKce2I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 231053,
+      "name": "You're the Only Bargain I've Got",
+      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
     },
     {
       "added_at": null,

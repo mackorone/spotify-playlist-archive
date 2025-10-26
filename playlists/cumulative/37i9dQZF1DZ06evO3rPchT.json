@@ -638,6 +638,24 @@
     {
       "album": {
         "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238030,
+      "name": "Country Country",
+      "url": "https://open.spotify.com/track/1FHOMoJbGHsjR8E44IcZ8g"
+    },
+    {
+      "album": {
+        "name": "COUNTRY! COUNTRY!",
         "url": "https://open.spotify.com/album/0EivT3ujuT7UniMW8UOISI"
       },
       "artists": [
@@ -648,7 +666,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 238030,
       "name": "Country Country",
       "url": "https://open.spotify.com/track/7a7RMpWBY72wWWj75WHEg9"
@@ -2186,7 +2204,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 208478,
       "name": "SIGNED, SOBER YOU",
       "url": "https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc"
@@ -3016,7 +3034,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 172672,
       "name": "Y\u2019all Need Jesus",
       "url": "https://open.spotify.com/track/4LmtuM662l8X2spMNBsdHj"

@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 73489,
+  "num_followers": 73504,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-09-19 06:56:45",
       "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 245250,
+      "name": "Como En Los Viejos Tiempos",
+      "url": "https://open.spotify.com/track/1jGuAHD9U2saBvxrbEendo"
+    },
+    {
+      "added_at": "2025-09-19 06:56:45",
+      "album": {
         "name": "Ya No Se Llevan Serenatas",
         "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 171788,
       "name": "Me Promet\u00ed",
       "url": "https://open.spotify.com/track/5uXL0CN1mQxHJSJRHN44Od"
-    },
-    {
-      "added_at": "2025-09-19 06:56:45",
-      "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 245250,
-      "name": "Como En Los Viejos Tiempos",
-      "url": "https://open.spotify.com/track/1jGuAHD9U2saBvxrbEendo"
     },
     {
       "added_at": "2025-09-19 06:56:45",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-09-19 06:56:45",
       "album": {
-        "name": "Our Wave Nuestra Ola",
-        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 239497,
-      "name": "Ojitos de Miel",
-      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
-    },
-    {
-      "added_at": "2025-09-19 06:56:45",
-      "album": {
         "name": "\u00bfQu\u00e9 Te Parece?",
         "url": "https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 182323,
       "name": "\u00bfQu\u00e9 Te Parece?",
       "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
+    },
+    {
+      "added_at": "2025-09-19 06:56:45",
+      "album": {
+        "name": "Our Wave Nuestra Ola",
+        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 239497,
+      "name": "Ojitos de Miel",
+      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
     },
     {
       "added_at": "2025-09-19 06:56:45",
@@ -943,26 +943,6 @@
     {
       "added_at": "2025-09-19 06:56:45",
       "album": {
-        "name": "Amarre",
-        "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Amarre",
-      "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
-    },
-    {
-      "added_at": "2025-09-19 06:56:45",
-      "album": {
         "name": "SECRETO",
         "url": "https://open.spotify.com/album/7GVR3lkK8tz5kcOa6LnQfG"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 208451,
       "name": "SECRETO",
       "url": "https://open.spotify.com/track/504VfM2pmclGufjypM5c59"
+    },
+    {
+      "added_at": "2025-09-19 06:56:45",
+      "album": {
+        "name": "Amarre",
+        "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "Amarre",
+      "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
     },
     {
       "added_at": "2025-09-19 06:56:45",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-09-19 06:56:45",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 150413,
-      "name": "Recuerda",
-      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
-    },
-    {
-      "added_at": "2025-09-19 06:56:45",
-      "album": {
         "name": "OTRA VEZ",
         "url": "https://open.spotify.com/album/3lnSToVYK5CZGDgyC6LTiu"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 152284,
       "name": "OTRA VEZ",
       "url": "https://open.spotify.com/track/02OSVDLiLEuHIQgWriH3mu"
+    },
+    {
+      "added_at": "2025-09-19 06:56:45",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 150413,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
     },
     {
       "added_at": "2025-09-19 06:56:45",
@@ -1219,18 +1219,22 @@
     {
       "added_at": "2025-09-19 06:56:45",
       "album": {
-        "name": "CLEOPATRA",
-        "url": "https://open.spotify.com/album/7IVyty5qUN7VNaKAfujYag"
+        "name": "DUE\u00d1O DE TI",
+        "url": "https://open.spotify.com/album/0h4n1Mx0fmZQYm27TfS7xR"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 205141,
-      "name": "CLEOPATRA",
-      "url": "https://open.spotify.com/track/4qwBnsVfknRk1wyvPVu5py"
+      "duration_ms": 212222,
+      "name": "DUE\u00d1O DE TI",
+      "url": "https://open.spotify.com/track/3fVoK5VLXYksHYMDf16RIT"
     },
     {
       "added_at": "2025-09-19 06:56:45",
@@ -1251,22 +1255,18 @@
     {
       "added_at": "2025-09-19 06:56:45",
       "album": {
-        "name": "DUE\u00d1O DE TI",
-        "url": "https://open.spotify.com/album/0h4n1Mx0fmZQYm27TfS7xR"
+        "name": "CLEOPATRA",
+        "url": "https://open.spotify.com/album/7IVyty5qUN7VNaKAfujYag"
       },
       "artists": [
         {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 212222,
-      "name": "DUE\u00d1O DE TI",
-      "url": "https://open.spotify.com/track/3fVoK5VLXYksHYMDf16RIT"
+      "duration_ms": 205141,
+      "name": "CLEOPATRA",
+      "url": "https://open.spotify.com/track/4qwBnsVfknRk1wyvPVu5py"
     },
     {
       "added_at": "2025-09-19 06:56:45",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2025-09-19 06:56:45",
       "album": {
-        "name": "Hello Kitty",
-        "url": "https://open.spotify.com/album/4IgUHDhSpdER99gXoDoZAq"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 158409,
-      "name": "Hello Kitty",
-      "url": "https://open.spotify.com/track/6KNBxr08Ef4ajVzd7GOfzX"
-    },
-    {
-      "added_at": "2025-09-19 06:56:45",
-      "album": {
         "name": "CCC (Remix)",
         "url": "https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 147877,
       "name": "CCC - Remix",
       "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
+    },
+    {
+      "added_at": "2025-09-19 06:56:45",
+      "album": {
+        "name": "Hello Kitty",
+        "url": "https://open.spotify.com/album/4IgUHDhSpdER99gXoDoZAq"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 158409,
+      "name": "Hello Kitty",
+      "url": "https://open.spotify.com/track/6KNBxr08Ef4ajVzd7GOfzX"
     },
     {
       "added_at": "2025-09-19 06:56:45",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2025-09-19 06:56:45",
       "album": {
-        "name": "HDTPM",
-        "url": "https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 157874,
-      "name": "HDTPM",
-      "url": "https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5"
-    },
-    {
-      "added_at": "2025-09-19 06:56:45",
-      "album": {
         "name": "MONTHS",
         "url": "https://open.spotify.com/album/2xBj81KVZYlkDE89zqvtD4"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 169988,
       "name": "MONTHS",
       "url": "https://open.spotify.com/track/7Bt8I7y8b2p2uUY33sYCQl"
+    },
+    {
+      "added_at": "2025-09-19 06:56:45",
+      "album": {
+        "name": "HDTPM",
+        "url": "https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 157874,
+      "name": "HDTPM",
+      "url": "https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5"
     },
     {
       "added_at": "2025-09-19 06:56:45",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2025-09-19 06:56:45",
       "album": {
-        "name": "CHSM El H\u00edgado X2",
-        "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 185434,
-      "name": "CHSM El Higado",
-      "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
-    },
-    {
-      "added_at": "2025-09-19 06:56:45",
-      "album": {
         "name": "A Peso",
         "url": "https://open.spotify.com/album/0oR3DhtQhFrBzu85muMDYI"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 213500,
       "name": "A Peso",
       "url": "https://open.spotify.com/track/2FpB6JGNUf52YCtMrLqvDy"
+    },
+    {
+      "added_at": "2025-09-19 06:56:45",
+      "album": {
+        "name": "CHSM El H\u00edgado X2",
+        "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 185434,
+      "name": "CHSM El Higado",
+      "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
     },
     {
       "added_at": "2025-09-19 06:56:45",

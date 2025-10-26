@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 251314,
+  "num_followers": 251321,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAACiUSnYhYCwQrcydn9dzUTE",
+  "snapshot_id": "aPrBgAAAAADK7QQAH2zADmTO9f6S+0en",
   "tracks": [
     {
       "added_at": null,
@@ -343,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Red and Green Versions)",
-        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
+        "name": "Man! I Feel Like A Woman! (Real Hypha Remix)",
+        "url": "https://open.spotify.com/album/1kXH8Pon2O1RPYT9gz7SQI"
       },
       "artists": [
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Real Hypha",
+          "url": "https://open.spotify.com/artist/4nuduAqGulo8ekf0ufrpIC"
         }
       ],
-      "duration_ms": 246826,
-      "name": "When You Kiss Me",
-      "url": "https://open.spotify.com/track/1BA3xgTr3U6fMT4UwlRgwH"
+      "duration_ms": 176000,
+      "name": "Man! I Feel Like A Woman! - Real Hypha Remix",
+      "url": "https://open.spotify.com/track/0T1iRhYeTh5JpVdM2TI6kO"
     },
     {
       "added_at": null,
@@ -375,22 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man! I Feel Like A Woman! (Real Hypha Remix)",
-        "url": "https://open.spotify.com/album/1kXH8Pon2O1RPYT9gz7SQI"
+        "name": "Up! (Red and Green Versions)",
+        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
       },
       "artists": [
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "Real Hypha",
-          "url": "https://open.spotify.com/artist/4nuduAqGulo8ekf0ufrpIC"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Man! I Feel Like A Woman! - Real Hypha Remix",
-      "url": "https://open.spotify.com/track/0T1iRhYeTh5JpVdM2TI6kO"
+      "duration_ms": 246826,
+      "name": "When You Kiss Me",
+      "url": "https://open.spotify.com/track/1BA3xgTr3U6fMT4UwlRgwH"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Red and Green Versions)",
-        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Ka-Ching!",
-      "url": "https://open.spotify.com/track/6gFKCSEfGAb8kmXumYkpmh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Woman In Me",
         "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 289573,
       "name": "The Woman In Me (Needs The Man In You)",
       "url": "https://open.spotify.com/track/4wkXHkv0WTzsyMZpADgZOB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up! (Red and Green Versions)",
+        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Ka-Ching!",
+      "url": "https://open.spotify.com/track/6gFKCSEfGAb8kmXumYkpmh"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now (Deluxe)",
-        "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "Life's About To Get Good",
-      "url": "https://open.spotify.com/track/4h5uOWibuxo0qrtejla7Pb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't!",
         "url": "https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 238560,
       "name": "Don't! - Greatest Hits Version",
       "url": "https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Now (Deluxe)",
+        "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Life's About To Get Good",
+      "url": "https://open.spotify.com/track/4h5uOWibuxo0qrtejla7Pb"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twenty Twenty",
-        "url": "https://open.spotify.com/album/4JfHVHyLVWLfQzGoXixdsb"
-      },
-      "artists": [
-        {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
-        },
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "Forever And Ever, Amen",
-      "url": "https://open.spotify.com/track/01iAnhW9yZ7AHXZ9pIxoPc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encontros Pelo Caminho",
         "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 214440,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/4JfHVHyLVWLfQzGoXixdsb"
+      },
+      "artists": [
+        {
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "Forever And Ever, Amen",
+      "url": "https://open.spotify.com/track/01iAnhW9yZ7AHXZ9pIxoPc"
     },
     {
       "added_at": null,

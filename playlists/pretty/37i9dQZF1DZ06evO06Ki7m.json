@@ -1,12 +1,12 @@
 {
   "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
-  "num_followers": 408629,
+  "num_followers": 408649,
   "original_name": "This Is Metro Boomin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAB0OUZF6TiCdAuBZ5qxr5VK",
+  "snapshot_id": "aPrBgAAAAAAABjBHwd1fdkevGndtlDzT",
   "tracks": [
     {
       "added_at": null,
@@ -895,6 +895,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
+        "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Porter",
+          "url": "https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a"
+        },
+        {
+          "name": "Young Dro",
+          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "DJ Spinz",
+          "url": "https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "They Wanna Have Fun",
+      "url": "https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
       },
@@ -943,30 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Assume Form",
-        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Mile High (feat. Travis Scott & Metro Boomin)",
-      "url": "https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SAVAGE MODE II",
         "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
       },
@@ -987,34 +995,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
-        "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
+        "name": "Assume Form",
+        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
       "artists": [
         {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Porter",
-          "url": "https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a"
-        },
-        {
-          "name": "Young Dro",
-          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "DJ Spinz",
-          "url": "https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1"
         }
       ],
-      "duration_ms": 224600,
-      "name": "They Wanna Have Fun",
-      "url": "https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM"
+      "duration_ms": 193600,
+      "name": "Mile High (feat. Travis Scott & Metro Boomin)",
+      "url": "https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8"
     },
     {
       "added_at": null,

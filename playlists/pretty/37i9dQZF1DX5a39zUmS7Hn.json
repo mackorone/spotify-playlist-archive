@@ -1,6 +1,6 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Buckingham Nicks",
-  "num_followers": 582639,
+  "num_followers": 582845,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
-        "name": "One By One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
-    },
-    {
-      "added_at": "2025-07-24 23:00:27",
-      "album": {
         "name": "Disintegration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 208266,
       "name": "Lovesong - Remastered",
       "url": "https://open.spotify.com/track/2mIrfke7vosXAEWfz6ucyo"
+    },
+    {
+      "added_at": "2025-07-24 23:00:27",
+      "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
     },
     {
       "added_at": "2025-07-24 23:00:27",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
-        "name": "Love Will Tear Us Apart",
-        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Love Will Tear Us Apart - 2020 Remaster",
-      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
-    },
-    {
-      "added_at": "2025-07-24 23:00:27",
-      "album": {
         "name": "Blur: The Best Of",
         "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 259385,
       "name": "Girls & Boys",
       "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
+    },
+    {
+      "added_at": "2025-07-24 23:00:27",
+      "album": {
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Love Will Tear Us Apart - 2020 Remaster",
+      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
     },
     {
       "added_at": "2025-07-24 23:00:27",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Plug in Baby",
-      "url": "https://open.spotify.com/track/2UKARCqDrhkYDoVR4FN5Wi"
-    },
-    {
-      "added_at": "2025-07-24 23:00:27",
-      "album": {
         "name": "The Head On The Door",
         "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 177986,
       "name": "Inbetween Days",
       "url": "https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1"
+    },
+    {
+      "added_at": "2025-07-24 23:00:27",
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Plug in Baby",
+      "url": "https://open.spotify.com/track/2UKARCqDrhkYDoVR4FN5Wi"
     },
     {
       "added_at": "2025-07-24 23:00:27",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
-        "name": "Heathen Chemistry",
-        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 303120,
-      "name": "Stop Crying Your Heart Out",
-      "url": "https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14"
-    },
-    {
-      "added_at": "2025-07-24 23:00:27",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 200813,
       "name": "Songbird - 2004 Remaster",
       "url": "https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL"
+    },
+    {
+      "added_at": "2025-07-24 23:00:27",
+      "album": {
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 303120,
+      "name": "Stop Crying Your Heart Out",
+      "url": "https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14"
     },
     {
       "added_at": "2025-07-24 23:00:27",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
-        "name": "Heathen Chemistry",
-        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 292853,
-      "name": "Little By Little",
-      "url": "https://open.spotify.com/track/45AQ5zbSJ0j1nM9daSWeq8"
-    },
-    {
-      "added_at": "2025-07-24 23:00:27",
-      "album": {
         "name": "Power Corruption and Lies",
         "url": "https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 315333,
       "name": "Age of Consent - 2015 Remaster",
       "url": "https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj"
+    },
+    {
+      "added_at": "2025-07-24 23:00:27",
+      "album": {
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 292853,
+      "name": "Little By Little",
+      "url": "https://open.spotify.com/track/45AQ5zbSJ0j1nM9daSWeq8"
     },
     {
       "added_at": "2025-07-24 23:00:27",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
-        "name": "Be Here Now (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 355866,
-      "name": "Stand By Me - Remastered",
-      "url": "https://open.spotify.com/track/5WTPhYmwwojFP73O7p3Izi"
-    },
-    {
-      "added_at": "2025-07-24 23:00:27",
-      "album": {
         "name": "Louder Than Bombs",
         "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 140506,
       "name": "Panic - 2011 Remaster",
       "url": "https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK"
+    },
+    {
+      "added_at": "2025-07-24 23:00:27",
+      "album": {
+        "name": "Be Here Now (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 355866,
+      "name": "Stand By Me - Remastered",
+      "url": "https://open.spotify.com/track/5WTPhYmwwojFP73O7p3Izi"
     },
     {
       "added_at": "2025-07-24 23:00:27",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 289146,
-      "name": "Cigarettes & Alcohol - Remastered",
-      "url": "https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1"
-    },
-    {
-      "added_at": "2025-07-24 23:00:27",
-      "album": {
         "name": "Love Bites",
         "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 163693,
       "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
       "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
+    },
+    {
+      "added_at": "2025-07-24 23:00:27",
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 289146,
+      "name": "Cigarettes & Alcohol - Remastered",
+      "url": "https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1"
     },
     {
       "added_at": "2025-07-24 23:00:27",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
+        "name": "His N Hers",
+        "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Babies",
+      "url": "https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO"
+    },
+    {
+      "added_at": "2025-07-24 23:00:27",
+      "album": {
         "name": "The Stone Roses",
         "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 307644,
       "name": "Protect The Land",
       "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
-    },
-    {
-      "added_at": "2025-07-24 23:00:27",
-      "album": {
-        "name": "His N Hers",
-        "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Babies",
-      "url": "https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO"
     },
     {
       "added_at": "2025-07-24 23:00:27",

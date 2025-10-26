@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Rapture of the Deep (20th Anniversary Remix)",
+        "url": "https://open.spotify.com/album/5TasmBOdZjpsaD7MYW2MOO"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324589,
+      "name": "Clearly Quite Absurd - 20th Anniversary Remix",
+      "url": "https://open.spotify.com/track/6YL0X5G9adAUiJG6t4r0p4"
+    },
+    {
+      "album": {
         "name": "The House Of Blue Light",
         "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
       },
@@ -2134,7 +2152,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 273610,
       "name": "Wrong Man - 20th Anniversary Remix",
       "url": "https://open.spotify.com/track/7o5SdJ3mrMC0Vgstv1rHM3"

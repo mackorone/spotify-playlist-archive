@@ -1658,10 +1658,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 205253,
       "name": "Pedestal",
       "url": "https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag"
+    },
+    {
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/0fetHuPcxKROz43WYu3J31"
+      },
+      "artists": [
+        {
+          "name": "EMIN",
+          "url": "https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205280,
+      "name": "Pedestal",
+      "url": "https://open.spotify.com/track/2uuG0q0NJCODSZxo3Q3RX8"
     },
     {
       "album": {

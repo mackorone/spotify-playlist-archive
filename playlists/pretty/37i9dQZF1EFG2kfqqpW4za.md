@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Lvnkxh0aFuxI0k9WltnoL">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466 likes - 64 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 466 likes - 64 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 36 | [Introdução \- Ao Vivo](https://open.spotify.com/track/1NLSIkmrqOMF8Vwrw7cz6t) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/3FD7FquzRXThRDn5L8j4jz) | 3:12 |
 | 37 | [Chapa Chapa](https://open.spotify.com/track/5L5oPJYh8WeXAhcNM99PHH) | [Start Rap](https://open.spotify.com/artist/0ID7bamr7fhqeETHBZoCFl), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Fruto do Jogo](https://open.spotify.com/album/4jGgvTXTFX1V9TGdWubhdn) | 3:49 |
 | 38 | [Reggae de Terreiro \(Ciência do Quintal\)](https://open.spotify.com/track/4RvPbYKVSnBVzQIwqHWt4L) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Jorge Du Peixe](https://open.spotify.com/artist/2yS2oUDkJ9M5xdCZLjnzL8) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/29OeUfLJCcS7Gdd5nB6aTq) | 5:06 |
-| 39 | [Um Novo Amanhecer \- Ao Vivo](https://open.spotify.com/track/0yMFy59oKCccLsr3WvwsYZ) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [15 Anos \- Ao Vivo na Vila Madalena](https://open.spotify.com/album/7xE7jx2uzO77Ml4f7Ml3Kf) | 4:53 |
+| 39 | [Um Novo Amanhecer \- Ao Vivo](https://open.spotify.com/track/3Qcx7JRtyDZ2hge0umwVSi) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Acústico Planta e Raiz 2022, Pt\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3Ns6vSE7vj67FMozZM5nNN) | 3:33 |
 | 40 | [Nyah](https://open.spotify.com/track/1QzDwVnFOBDwL7DW3eud1I) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/51l9CESGdQ1Wh9Nn3s9Gbd) | 0:50 |
 | 41 | [Fogo e Água](https://open.spotify.com/track/1uJyw4SCPzSgxab2uTH3Wb) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/0c3nNfCc448zTAxQ1x5Wmo) | 4:18 |
 | 42 | [Vai Dar Bom](https://open.spotify.com/track/13OO6G0HRBsqhUoOiwTGsu) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Baile Cítrico Utrópico Solar](https://open.spotify.com/album/7CCPMoTQNqhbpMOcG9L7SG) | 3:19 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 63 | [Abraços de Resistência](https://open.spotify.com/track/0czqjbQD16beA5yejlA4V4) | [Laysa](https://open.spotify.com/artist/5Jycy1Tg8JDcxBxFDQL8A6), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Abraços de Resistência](https://open.spotify.com/album/3qRWTyyDlw2cS6JiX6cakS) | 4:17 |
 | 64 | [Dias Melhores Virão](https://open.spotify.com/track/0TIFDU0I5o5fDifOEyD4DI) | [BR Suav](https://open.spotify.com/artist/1skrxyzVcNlQDVXPCMlYq6), [Helio Bentes](https://open.spotify.com/artist/3QZ8AOQtLTHEKSf0902llu) | [Dias Melhores Virão](https://open.spotify.com/album/49RiYOnb0RDIECdSv4ofzI) | 2:51 |
 
-Snapshot ID: `Ab/wJgAAAACnQkr1Tz8twLrt1/ckX/VQ`
+Snapshot ID: `Ab/1vAAAAABlUUlcRauluEyZdHRkb4i9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Eunike Tanzil
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,686 likes - 119 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,698 likes - 119 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 | 118 | [Romanesca](https://open.spotify.com/track/2xsCi1q1VOsHj5r8sojlQc) | [Francesca Caccini](https://open.spotify.com/artist/69nYSTwKL3XDiUWfD4lblc), [Cappella di Santa Maria degli Angiolini](https://open.spotify.com/artist/3WLnJZtvdYfvGlVcSMlD7v), [Gian Luca Lastraioli](https://open.spotify.com/artist/2CVWLXSvRIOiExGhxtITQ5) | [Caccini: Sacred and Secular Songs](https://open.spotify.com/album/7zhLoZHXJualNs5ZctOxaH) | 5:06 |
 | 119 | [Piano Concerto in A Minor, Op\. 7: I\. Allegro maestoso](https://open.spotify.com/track/1xjlnTE8zHrkjN9CaD9RkW) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [Holly Mathieson](https://open.spotify.com/artist/56qjv2Db78qW3EIeRbv1oA) | [Romance – The Piano Music of Clara Schumann](https://open.spotify.com/album/7Jt7TzZQgrMsJgI7CPyApE) | 6:11 |
 
-Snapshot ID: `AAAAACukAcgIFL3qgmKvdxJQJWbOQZoc`
+Snapshot ID: `AAAAAAJ3IpHN7w9L2zeknxLQtJYrNE+P`

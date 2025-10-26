@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Wax Motif
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,256 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,263 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 17 | [1,2 Step](https://open.spotify.com/track/1vK8L4AF0tdMz6yZYB3VlL) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR) | [1,2 Step](https://open.spotify.com/album/4zIDElTXoIN58buFgASJXt) | 2:28 |
 | 18 | [Fountain](https://open.spotify.com/track/7jCwHd3ooTVE05xlCwyXGS) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94) | [Fountain](https://open.spotify.com/album/4XcVRbMVws0GlDr4bG2gUz) | 2:56 |
 | 19 | [To The Moon](https://open.spotify.com/track/1UqrEdmUZallXzeHpUyAkY) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [To The Moon](https://open.spotify.com/album/3C961iftDuFI3ZeozGtsGN) | 4:28 |
-| 20 | [machine\_age](https://open.spotify.com/track/55fKc3ex9q7lEQUgPzPyLy) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [THE\_BIG\_TRIP](https://open.spotify.com/album/5fJwIK2omIRULAM93wapMk) | 3:16 |
+| 20 | [machine\_age](https://open.spotify.com/track/55fKc3ex9q7lEQUgPzPyLy) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [THE\_BIG\_TRIP](https://open.spotify.com/album/5fJwIK2omIRULAM93wapMk) | 2:44 |
 | 21 | [Back 2 Back](https://open.spotify.com/track/3ogoZDptV0na4dDSztv8OD) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Back 2 Back](https://open.spotify.com/album/1qifRrKiai9KblVPvEx3gR) | 3:46 |
 | 22 | [Come Find Me \(with Clementine Douglas\)](https://open.spotify.com/track/03AhbPoniP5uqqJKYGWgZE) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Come Find Me \(with Clementine Douglas\)](https://open.spotify.com/album/2D48QGD5lU5kErH6PxLjTs) | 3:27 |
 | 23 | [See Straight](https://open.spotify.com/track/6sSq5GyfQZvi2A3fKhPknU) | [Carter Walsh](https://open.spotify.com/artist/5JL7mddmhq9K6dZqEaAyHG) | [See Straight](https://open.spotify.com/album/3AxSIUQLLVtCdM4p0ohNHM) | 3:02 |

@@ -4,7 +4,7 @@
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-147 songs - 10 hr 29 min
+148 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Lonesome Day](https://open.spotify.com/track/0R9q3imnid244T1ty47MGs) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:05 | 2024-04-05 | 2025-10-10 |
 | [Long Walk Home](https://open.spotify.com/track/41RlTAAmlNhuhPx8rPZlDS) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Magic](https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z) | 4:34 | 2025-06-06 | 2025-09-16 |
 | [Long Walk Home \- Live in Manchester, May 14, 2025](https://open.spotify.com/track/6DplepOEJuoBLHLhzWLhAe) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Land Of Hope & Dreams](https://open.spotify.com/album/1wWm7MPHSIpBX7Wiw8LAAq) | 6:33 | 2025-05-29 | 2025-06-06 |
+| [Losin' Kind \- Nebraska Outtakes](https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska '82: Expanded Edition](https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM) | 5:00 | 2025-10-26 |  |
 | [Lost in the Flood \- Live at C.W\. Post Dome Auditorium, Greenvale, NY \- December 12, 1975](https://open.spotify.com/track/33ODNuSzPh9ratGzau67Nx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs Of Location](https://open.spotify.com/album/3f9gSNrcSQxcEjWDSbOxAK) | 6:34 | 2022-05-16 | 2022-05-27 |
 | [Mansion on the Hill](https://open.spotify.com/track/4eQQGTTbcKl5abbaIM0OxW) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 4:04 | 2025-09-12 |  |
 | [Mary's Place](https://open.spotify.com/track/0g0MBBxtDRy8Igs0AzSZR4) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 5:58 | 2023-07-13 | 2023-07-29 |
@@ -97,7 +98,7 @@
 | [One Minute You're Here](https://open.spotify.com/track/4VpkCmCnqgcUcysgHdTbYf) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 2:57 | 2022-01-11 | 2025-05-21 |
 | [One Step Up](https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:21 | 2022-01-11 |  |
 | [Only the Strong Survive](https://open.spotify.com/track/6at33NMZgSJIp7jNoCuTd7) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 2:59 | 2022-11-12 | 2023-01-01 |
-| [Open All Night \- Nebraska Live](https://open.spotify.com/track/0DKWTnkr4KagHRfKrI10Jy) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Open All Night \(Nebraska Live\)](https://open.spotify.com/album/5yENmxkXNh7fU4q4OkKYkh) | 3:11 | 2025-09-28 |  |
+| [Open All Night \- Nebraska Live](https://open.spotify.com/track/0DKWTnkr4KagHRfKrI10Jy) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Open All Night \(Nebraska Live\)](https://open.spotify.com/album/5yENmxkXNh7fU4q4OkKYkh) | 3:11 | 2025-09-28 | 2025-10-26 |
 | [Out In the Street](https://open.spotify.com/track/1k7CqKKwQu4zIK6DrsuqKG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 4:17 | 2022-01-12 | 2025-05-17 |
 | [Paradise](https://open.spotify.com/track/5aAfwNuKUeDuZd4wkUPlA2) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 5:34 | 2022-04-06 | 2022-10-13 |
 | [Pink Cadillac \- Single B\-Side \- 1984](https://open.spotify.com/track/3zG1YiTu53KCt8W56psgs2) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 3:33 | 2022-01-11 |  |

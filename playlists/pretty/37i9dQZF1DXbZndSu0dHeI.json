@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234512,
+  "num_followers": 234511,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "For Melancholy Brunettes (& sad women)",
-        "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 290840,
-      "name": "Honey Water",
-      "url": "https://open.spotify.com/track/5JVEWVNVv8OYILCkHZkwvK"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Songs For The Canyon",
         "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 240080,
       "name": "Bluebird Singing",
       "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "For Melancholy Brunettes (& sad women)",
+        "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 290840,
+      "name": "Honey Water",
+      "url": "https://open.spotify.com/track/5JVEWVNVv8OYILCkHZkwvK"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Look Out!",
-        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Look Out!",
-      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Dinosaur",
         "url": "https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 242757,
       "name": "Dinosaur",
       "url": "https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Up Granville",
+        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 230747,
+      "name": "Up Granville",
+      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Tropic Morning News",
-        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "Tropic Morning News",
-      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Sink Into Me",
         "url": "https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Up Granville",
-        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
+        "name": "Tropic Morning News",
+        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 230747,
-      "name": "Up Granville",
-      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
+      "duration_ms": 309400,
+      "name": "Tropic Morning News",
+      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -711,6 +695,22 @@
       "duration_ms": 140145,
       "name": "Shell",
       "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Look Out!",
+        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Look Out!",
+      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
+        "name": "Mechanical Bull",
+        "url": "https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 236359,
+      "name": "Mechanical Bull",
+      "url": "https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
         "name": "Guts",
         "url": "https://open.spotify.com/album/6szOt2A9ABSPorygYiIKY1"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Mechanical Bull",
-        "url": "https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn"
+        "name": "What Are We Doing?",
+        "url": "https://open.spotify.com/album/7a7F4c26kIxxnk1kWWk2jC"
       },
       "artists": [
         {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+          "name": "EGOISM",
+          "url": "https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD"
         }
       ],
-      "duration_ms": 236359,
-      "name": "Mechanical Bull",
-      "url": "https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM"
+      "duration_ms": 193780,
+      "name": "What Are We Doing?",
+      "url": "https://open.spotify.com/track/4iQJp5EJLeaegXK51bxenr"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -891,22 +907,6 @@
       "duration_ms": 263320,
       "name": "So Unimportant",
       "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "What Are We Doing?",
-        "url": "https://open.spotify.com/album/7a7F4c26kIxxnk1kWWk2jC"
-      },
-      "artists": [
-        {
-          "name": "EGOISM",
-          "url": "https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD"
-        }
-      ],
-      "duration_ms": 193780,
-      "name": "What Are We Doing?",
-      "url": "https://open.spotify.com/track/4iQJp5EJLeaegXK51bxenr"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD"
-      },
-      "artists": [
-        {
-          "name": "snuggle",
-          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
-        }
-      ],
-      "duration_ms": 207312,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "is that all there is?",
         "url": "https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK"
       },
@@ -1035,6 +1019,42 @@
       "duration_ms": 177814,
       "name": "welcome to the sidelines",
       "url": "https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Wavepool",
+        "url": "https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL"
+      },
+      "artists": [
+        {
+          "name": "Hailaker",
+          "url": "https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy"
+        },
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 218810,
+      "name": "Wavepool",
+      "url": "https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD"
+      },
+      "artists": [
+        {
+          "name": "snuggle",
+          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+        }
+      ],
+      "duration_ms": 207312,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1071,26 +1091,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Wavepool",
-        "url": "https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL"
-      },
-      "artists": [
-        {
-          "name": "Hailaker",
-          "url": "https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy"
-        },
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 218810,
-      "name": "Wavepool",
-      "url": "https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "For the Cold Country",
         "url": "https://open.spotify.com/album/6HnC12N2Ir7bb6jUj67RfY"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 387495,
       "name": "For the Cold Country",
       "url": "https://open.spotify.com/track/65SovR8Agl5vY7vtJ02wk7"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Citadel Band",
+        "url": "https://open.spotify.com/album/7mMwcMgwE98WjsxiCcCiQH"
+      },
+      "artists": [
+        {
+          "name": "Loney dear",
+          "url": "https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph"
+        }
+      ],
+      "duration_ms": 238280,
+      "name": "Ignorant Boy, Beautiful Girl (Namanama)",
+      "url": "https://open.spotify.com/track/7JsvW1GU2hbMnGETSyy7ig"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1127,26 +1143,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Fantasneeze (feat. Matilda Mann)",
-        "url": "https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Fantasneeze (feat. Matilda Mann)",
-      "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "I Can\u2019t Get My Head Around You",
         "url": "https://open.spotify.com/album/1fSKT3XWJwbOMXxBznEyKZ"
       },
@@ -1163,18 +1159,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Citadel Band",
-        "url": "https://open.spotify.com/album/7mMwcMgwE98WjsxiCcCiQH"
+        "name": "Fantasneeze (feat. Matilda Mann)",
+        "url": "https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn"
       },
       "artists": [
         {
-          "name": "Loney dear",
-          "url": "https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph"
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 238280,
-      "name": "Ignorant Boy, Beautiful Girl (Namanama)",
-      "url": "https://open.spotify.com/track/7JsvW1GU2hbMnGETSyy7ig"
+      "duration_ms": 201240,
+      "name": "Fantasneeze (feat. Matilda Mann)",
+      "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Hannah Montana",
-        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 145324,
-      "name": "Hannah Montana",
-      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Mac's Omelette",
         "url": "https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 238845,
       "name": "Mac\u2019s Omelette",
       "url": "https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 145324,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
+        "name": "April's Nectar",
+        "url": "https://open.spotify.com/album/30h1sWlNQ99WGVO7na13pv"
+      },
+      "artists": [
+        {
+          "name": "Unflirt",
+          "url": "https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV"
+        }
+      ],
+      "duration_ms": 195526,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/2xymlcjKK97wANhHfuDacD"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
         "name": "Reach Out / Olympus",
         "url": "https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "April's Nectar",
-        "url": "https://open.spotify.com/album/30h1sWlNQ99WGVO7na13pv"
+        "name": "Where Sky Becomes Sea",
+        "url": "https://open.spotify.com/album/5HnWBgUMo42JHHsDMOkAdD"
       },
       "artists": [
         {
-          "name": "Unflirt",
-          "url": "https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV"
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
         }
       ],
-      "duration_ms": 195526,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/2xymlcjKK97wANhHfuDacD"
+      "duration_ms": 317270,
+      "name": "Where Sky Becomes Sea",
+      "url": "https://open.spotify.com/track/4R9CJUZVrHTyL8L1bkVlAT"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1379,22 +1395,6 @@
       "duration_ms": 282529,
       "name": "Everything At Once",
       "url": "https://open.spotify.com/track/1DjdeAcAT1ztBJBxI9VUFo"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "Where Sky Becomes Sea",
-        "url": "https://open.spotify.com/album/5HnWBgUMo42JHHsDMOkAdD"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 317270,
-      "name": "Where Sky Becomes Sea",
-      "url": "https://open.spotify.com/track/4R9CJUZVrHTyL8L1bkVlAT"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 247826,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Attempt",
         "url": "https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 281906,
       "name": "Attempt",
       "url": "https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 247826,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8"
     },
     {
       "added_at": "2025-03-29 09:30:14",

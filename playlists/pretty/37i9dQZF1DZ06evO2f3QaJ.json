@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAC2hvmAmcn/5/gYOhiEH4Qr",
+  "snapshot_id": "aPrBgAAAAABOdJwABRRSCAYEX2BSoTx+",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proveito",
-        "url": "https://open.spotify.com/album/6oFCxp73Skel2DgCzPQAH6"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Proveito",
-      "url": "https://open.spotify.com/track/5N3znAB19oFAkGNrcBTPeD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra Fita",
         "url": "https://open.spotify.com/album/1n5u2u4AjMFS06YyZIBNSs"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 184891,
       "name": "Bom Senso",
       "url": "https://open.spotify.com/track/5BOMNZGF1d9KPpxt3jUaCE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Proveito",
+        "url": "https://open.spotify.com/album/6oFCxp73Skel2DgCzPQAH6"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Proveito",
+      "url": "https://open.spotify.com/track/5N3znAB19oFAkGNrcBTPeD"
     },
     {
       "added_at": null,
@@ -450,15 +450,11 @@
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Shuna",
-          "url": "https://open.spotify.com/artist/1fZ72u620OxAroHzfsFPAW"
         }
       ],
-      "duration_ms": 141818,
-      "name": "De Longe",
-      "url": "https://open.spotify.com/track/5Abx2iApy5yzYgSUk7QciQ"
+      "duration_ms": 158117,
+      "name": "Alvo",
+      "url": "https://open.spotify.com/track/0fmvJwN5m8wJy8RTwON7vN"
     },
     {
       "added_at": null,
@@ -516,9 +512,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 163240,
-      "name": "Ordem Natural",
-      "url": "https://open.spotify.com/track/5JE1zOziDo4rOzAm0FC8FA"
+      "duration_ms": 187413,
+      "name": "Apoteose",
+      "url": "https://open.spotify.com/track/2oo68vl4Hn1DC71nRs47YZ"
     },
     {
       "added_at": null,
@@ -530,11 +526,15 @@
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Shuna",
+          "url": "https://open.spotify.com/artist/1fZ72u620OxAroHzfsFPAW"
         }
       ],
-      "duration_ms": 158117,
-      "name": "Alvo",
-      "url": "https://open.spotify.com/track/0fmvJwN5m8wJy8RTwON7vN"
+      "duration_ms": 141818,
+      "name": "De Longe",
+      "url": "https://open.spotify.com/track/5Abx2iApy5yzYgSUk7QciQ"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 187413,
-      "name": "Apoteose",
-      "url": "https://open.spotify.com/track/2oo68vl4Hn1DC71nRs47YZ"
+      "duration_ms": 163240,
+      "name": "Ordem Natural",
+      "url": "https://open.spotify.com/track/5JE1zOziDo4rOzAm0FC8FA"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 217120,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/6khq3X9l2JCOzPuxBitezU"
+      "duration_ms": 243466,
+      "name": "Subidas e Descidas",
+      "url": "https://open.spotify.com/track/2ohNKCfmI1uPncJ8i7IDn0"
     },
     {
       "added_at": null,

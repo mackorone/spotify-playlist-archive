@@ -4,7 +4,7 @@
 
 > This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
 
-108 songs - 7 hr 55 min
+109 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,8 +74,9 @@
 | [My Girl](https://open.spotify.com/track/79yCbrAYEfr5cWtxl1iBTr) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Soul Love: 25 Gorgeous Tracks for Lovers, Vol\. 3](https://open.spotify.com/album/6V1C9NKUW3891yDZeG2U15) | 2:58 | 2024-04-02 | 2025-10-20 |
 | [My Girl](https://open.spotify.com/track/5FTMgPrAk6rgxUtRixquXB) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Back To Back With Love](https://open.spotify.com/album/2rhLXj1XHT6GBssORJqzRk) | 3:00 | 2023-12-15 | 2024-03-17 |
 | [My Girl \- Rerecorded](https://open.spotify.com/track/76rIRdlNl0W04EZl3P8YZA) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Harold Melvin & The Blue Notes](https://open.spotify.com/album/3mfHEkuBkfqNzHsgVNybOr) | 2:58 | 2022-06-03 | 2023-09-10 |
-| [My Hero](https://open.spotify.com/track/6fjTzzc7pe2d60RIzEr0fG) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Too Hot to Handle](https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz) | 2:41 | 2022-07-23 |  |
+| [My Hero](https://open.spotify.com/track/6fjTzzc7pe2d60RIzEr0fG) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Too Hot to Handle](https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz) | 2:41 | 2022-07-23 | 2025-10-26 |
 | [Nobody Could Take Your Place \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/28pJOTBOZqFc7IVdbAVUIT) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 4:20 | 2022-05-28 | 2024-06-12 |
+| [Now Is The Time](https://open.spotify.com/track/3LCW67QSmmqb3IegY8euzI) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Crate Diggers: Rare Soul/R&B Gems, Vol\. 2](https://open.spotify.com/album/6wKiZc8LvL2pPlul4TrKUD) | 6:07 | 2025-10-26 |  |
 | [O Holy Nite](https://open.spotify.com/track/4InoM03yej3uViCdReaXVX) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Too Hot to Handle](https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz) | 3:09 | 2022-07-23 | 2024-01-24 |
 | [Pray Before You Start Your Day \- Inspirational Mix 1](https://open.spotify.com/track/5ZOsNAgB6aY2b3Wj1QMNuB) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Izaiah James](https://open.spotify.com/artist/4wZUGoay4DsAjuNtHlpGfG) | [Pray Before You Start Your Day \(Inspirational Mixes\)](https://open.spotify.com/album/1VkwyoBGUQCaXaIwrA3f7m) | 2:27 | 2022-05-25 | 2024-11-24 |
 | [Pray Before You Start Your Day \- Inspirational Mix 2](https://open.spotify.com/track/5HWYfFUyMUJF36gcQE6VnZ) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Pray Before You Start Your Day \(Inspirational Mixes\)](https://open.spotify.com/album/1VkwyoBGUQCaXaIwrA3f7m) | 3:09 | 2025-02-05 | 2025-02-26 |

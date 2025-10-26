@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAABg6UumhDo2qmEPizC49xFR",
+  "snapshot_id": "aPrBgAAAAACQdQzhHjhqD2o/yl1IeLsA",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Digas No",
-        "url": "https://open.spotify.com/album/2rVjETCPkl6FEXKQJjN3IH"
-      },
-      "artists": [
-        {
-          "name": "Rivs",
-          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 169780,
-      "name": "No Digas No",
-      "url": "https://open.spotify.com/track/6GVXNywMiGRsVbVf46SxAZ"
-    },
     {
       "added_at": null,
       "album": {
@@ -351,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Corona",
+        "url": "https://open.spotify.com/album/0TIk2KKgH0w7qVXzlkolnN"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 119210,
+      "name": "La Corona",
+      "url": "https://open.spotify.com/track/6Ac90AFmBbFz9WnqSHfflv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Fue Suerte",
         "url": "https://open.spotify.com/album/5QxLA2T5xN1exwvi8Nbj3m"
       },
@@ -367,22 +363,6 @@
       "duration_ms": 160038,
       "name": "No Fue Suerte",
       "url": "https://open.spotify.com/track/5JlFFZzslIp8Ljnl4DRr5X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Corona",
-        "url": "https://open.spotify.com/album/0TIk2KKgH0w7qVXzlkolnN"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 119210,
-      "name": "La Corona",
-      "url": "https://open.spotify.com/track/6Ac90AFmBbFz9WnqSHfflv"
     },
     {
       "added_at": null,
@@ -407,6 +387,26 @@
       "duration_ms": 180923,
       "name": "FULL OF HOES",
       "url": "https://open.spotify.com/track/0R0Cn76nPYSyXC0Behn4Mr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Digas No",
+        "url": "https://open.spotify.com/album/2rVjETCPkl6FEXKQJjN3IH"
+      },
+      "artists": [
+        {
+          "name": "Rivs",
+          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 169780,
+      "name": "No Digas No",
+      "url": "https://open.spotify.com/track/6GVXNywMiGRsVbVf46SxAZ"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Richie Rich (En Vivo)",
-        "url": "https://open.spotify.com/album/4tDTE2gaLPGeIoN2QzW8zi"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Richie Rich - En Vivo",
-      "url": "https://open.spotify.com/track/76riIUqicpsvEGQhMBRQcK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vino Rosa",
         "url": "https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 163636,
       "name": "Ser\u00e1",
       "url": "https://open.spotify.com/track/1GdveMmBNitc3qL041jx2c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Richie Rich (En Vivo)",
+        "url": "https://open.spotify.com/album/4tDTE2gaLPGeIoN2QzW8zi"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Richie Rich - En Vivo",
+      "url": "https://open.spotify.com/track/76riIUqicpsvEGQhMBRQcK"
     },
     {
       "added_at": null,
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bien Pilas (En Vivo)",
+        "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 118826,
+      "name": "Bien Pilas - En Vivo",
+      "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RUMBA",
         "url": "https://open.spotify.com/album/5ryvxfEZXOoyg6FRYWGBKm"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 181818,
       "name": "RUMBA",
       "url": "https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bien Pilas (En Vivo)",
-        "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 118826,
-      "name": "Bien Pilas - En Vivo",
-      "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LA Live Session",
+        "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 124117,
+      "name": "El Lic - En Vivo",
+      "url": "https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dejate Llevar",
         "url": "https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 160362,
       "name": "Dejate Llevar",
       "url": "https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LA Live Session",
-        "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 124117,
-      "name": "El Lic - En Vivo",
-      "url": "https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Brillo de Mis Ojos",
+        "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 212672,
+      "name": "El Brillo de Mis Ojos",
+      "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Marin",
         "url": "https://open.spotify.com/album/4eASAZRdq38xNSpvPnJULX"
       },
@@ -915,18 +931,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Brillo de Mis Ojos",
-        "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
+        "name": "Tiempos Duros",
+        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
       },
       "artists": [
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Jordin Sandoval",
+          "url": "https://open.spotify.com/artist/04P0m8LCKhoMBOz2V7OtwX"
         }
       ],
-      "duration_ms": 212672,
-      "name": "El Brillo de Mis Ojos",
-      "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
+      "duration_ms": 145493,
+      "name": "El Dragon",
+      "url": "https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT"
     },
     {
       "added_at": null,
@@ -963,26 +983,6 @@
       "duration_ms": 162474,
       "name": "El Maserati - En Vivo",
       "url": "https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tiempos Duros",
-        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Jordin Sandoval",
-          "url": "https://open.spotify.com/artist/04P0m8LCKhoMBOz2V7OtwX"
-        }
-      ],
-      "duration_ms": 145493,
-      "name": "El Dragon",
-      "url": "https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT"
     },
     {
       "added_at": null,

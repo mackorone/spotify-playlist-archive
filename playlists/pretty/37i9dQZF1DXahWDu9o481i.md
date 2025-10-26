@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Geese
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,493 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,528 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 2 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 | 3 | [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 |
 | 4 | [Tiramisu](https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Tiramisu](https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3) | 2:18 |
-| 5 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
-| 6 | [Culpable](https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Culpable](https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h) | 4:21 |
-| 7 | [Pvta Luna](https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Pvta Luna](https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa) | 3:18 |
+| 5 | [Pvta Luna](https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Pvta Luna](https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa) | 3:18 |
+| 6 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
+| 7 | [Culpable](https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Culpable](https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h) | 4:21 |
 | 8 | [Loud](https://open.spotify.com/track/3bUpRf4GN6SV6ejgQ4IQxT) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:04 |
 | 9 | [Stranger](https://open.spotify.com/track/6IBTI6u7tVNtWojUHnO4Ap) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:21 |
 | 10 | [GuabanSexxx](https://open.spotify.com/track/7pEwEHqjqx3kmXjXCOihff) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GuabanSexxx](https://open.spotify.com/album/0kKZV7SgHvDgvpV4iLNBjq) | 2:41 |
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 40 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 |
 | 41 | [Love How It Feels](https://open.spotify.com/track/6Fx3P9danCmSW1d8sZ9aAF) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Love How It Feels](https://open.spotify.com/album/6I4cQwheAaAfnlYylLoJeL) | 3:04 |
 | 42 | [Ecstatic Heads](https://open.spotify.com/track/6h8nLmwNxWrHKYm9p28oc2) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 4:39 |
-| 43 | [Play It Out \(Live\) \- Spotify Live Room](https://open.spotify.com/track/44cYxPKYAv0TEsVSScm0ua) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Wolf Alice \- Spotify Live Room](https://open.spotify.com/album/67jG99DKNpyBkD2AN0cCJm) | 3:58 |
-| 44 | [U\-Turn](https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [U\-Turn](https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz) | 3:26 |
-| 45 | [Disco Life](https://open.spotify.com/track/7czXE3pPyfrAcytwN50c5C) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Disco Life](https://open.spotify.com/album/5hf3Uz1e1fEssR8WtoyxFw) | 3:32 |
-| 46 | [I'm Not Going Anywhere](https://open.spotify.com/track/7xUYVXZTGsU45EQDaDcZbr) | [Morgana](https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d) | [I'm Not Going Anywhere](https://open.spotify.com/album/4U5EfAbYTY0kgMkMeTEnzP) | 4:06 |
+| 43 | [U\-Turn](https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [U\-Turn](https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz) | 3:26 |
+| 44 | [Play It Out \(Live\) \- Spotify Live Room](https://open.spotify.com/track/44cYxPKYAv0TEsVSScm0ua) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Wolf Alice \- Spotify Live Room](https://open.spotify.com/album/67jG99DKNpyBkD2AN0cCJm) | 3:58 |
+| 45 | [I'm Not Going Anywhere](https://open.spotify.com/track/7xUYVXZTGsU45EQDaDcZbr) | [Morgana](https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d) | [I'm Not Going Anywhere](https://open.spotify.com/album/4U5EfAbYTY0kgMkMeTEnzP) | 4:06 |
+| 46 | [Disco Life](https://open.spotify.com/track/7czXE3pPyfrAcytwN50c5C) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Disco Life](https://open.spotify.com/album/5hf3Uz1e1fEssR8WtoyxFw) | 3:32 |
 | 47 | [centro aLt](https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM), [S.3.R](https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ) | [centro aLt](https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47) | 2:54 |
 | 48 | [Exit Vendor](https://open.spotify.com/track/5RC1ahAX3WfFwg0sCKdKAP) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 4:04 |
 | 49 | [quieremeunpoco](https://open.spotify.com/track/1YgpjTzmDGZ48Y9M0XWA2A) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [quieremeunpoco](https://open.spotify.com/album/0KXNhmetSbp8J7Kzd14Kzm) | 2:44 |

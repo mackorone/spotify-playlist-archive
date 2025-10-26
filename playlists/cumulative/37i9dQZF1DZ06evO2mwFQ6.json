@@ -88,10 +88,28 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 223400,
       "name": "Blame It On Eve",
       "url": "https://open.spotify.com/track/2Gb45i57zA76fV09OmQjGO"
+    },
+    {
+      "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223400,
+      "name": "Blame It On Eve",
+      "url": "https://open.spotify.com/track/4Px9ClC3i18jlc2bABbXp8"
     },
     {
       "album": {
@@ -286,7 +304,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 237346,
       "name": "Crazy Like That",
       "url": "https://open.spotify.com/track/6NDEXdeJc2Dv5M1a5XtTKj"
@@ -984,6 +1002,24 @@
     {
       "album": {
         "name": "Hell Of A Ride",
+        "url": "https://open.spotify.com/album/3jr1KlG1KMAwn0DdrdKdlD"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236240,
+      "name": "Hell Of A Ride",
+      "url": "https://open.spotify.com/track/4otOE0MImXP2YqqXDW0Ogi"
+    },
+    {
+      "album": {
+        "name": "Hell Of A Ride",
         "url": "https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo"
       },
       "artists": [
@@ -994,7 +1030,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 236240,
       "name": "Hell Of A Ride",
       "url": "https://open.spotify.com/track/73LVeeNwkY1C0qAkV6H99y"
@@ -1395,6 +1431,28 @@
     },
     {
       "album": {
+        "name": "Adam Brand (Special Bonus Tour Edition)",
+        "url": "https://open.spotify.com/album/6gbQrmthnmtDT6soaOitlD"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        },
+        {
+          "name": "Melinda Schneider",
+          "url": "https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Love Away The Night",
+      "url": "https://open.spotify.com/track/2K5fjFQdfp8YK0Z0kEmZ1a"
+    },
+    {
+      "album": {
         "name": "My Oxygen",
         "url": "https://open.spotify.com/album/30EVdt1AjTXmPDeHDBnxZv"
       },
@@ -1410,7 +1468,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 218133,
       "name": "Love Away The Night - with Adam Brand",
       "url": "https://open.spotify.com/track/5nhyF9rPoP0tjqXNd7BRtj"
@@ -1783,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "Hell Of A Ride",
+        "url": "https://open.spotify.com/album/3jr1KlG1KMAwn0DdrdKdlD"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235773,
+      "name": "Ready For Love",
+      "url": "https://open.spotify.com/track/3heRmurvgVqyQ6ehWF8LfA"
+    },
+    {
+      "album": {
         "name": "Get Loud",
         "url": "https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8"
       },
@@ -1878,6 +1954,24 @@
       "duration_ms": 215413,
       "name": "Sleepless Nights",
       "url": "https://open.spotify.com/track/0LRDeyEdxwwXmO25KboUE4"
+    },
+    {
+      "album": {
+        "name": "Hell Of A Ride",
+        "url": "https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181213,
+      "name": "Some Dreams",
+      "url": "https://open.spotify.com/track/5RxqW3arT9yBX81YCZ7hiu"
     },
     {
       "album": {
@@ -2322,7 +2416,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 214173,
       "name": "When The Needle Hits The Vinyl",
       "url": "https://open.spotify.com/track/6fZosvn3HVvfG9L4U9MQbW"
@@ -2396,6 +2490,24 @@
     {
       "album": {
         "name": "Good Friends",
+        "url": "https://open.spotify.com/album/2K37cfIrnYl9iTWzugmGyz"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192360,
+      "name": "You Are To Me",
+      "url": "https://open.spotify.com/track/1VETQS5PJ9QuEyf0h6mQC9"
+    },
+    {
+      "album": {
+        "name": "Good Friends",
         "url": "https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO"
       },
       "artists": [
@@ -2406,7 +2518,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 192360,
       "name": "You Are To Me",
       "url": "https://open.spotify.com/track/2Lij4vqXoPkRfXAI4baQ1c"

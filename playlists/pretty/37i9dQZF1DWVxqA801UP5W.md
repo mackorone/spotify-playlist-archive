@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,206 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,221 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 27 | [Azizam \(D.O.D Remix\)](https://open.spotify.com/track/77jEjHBhsZruadNLzb4rsJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Azizam \(D.O.D Remix\)](https://open.spotify.com/album/5PLs75rpnPJJ7glQxY7E1i) | 2:48 |
 | 28 | [ALL MY LOVE \- PNAU x Coldplay](https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [ALL MY LOVE \(PNAU x Coldplay\)](https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO) | 3:14 |
 | 29 | [Ride It \- Jonas Blue Remix](https://open.spotify.com/track/2ONRkpOJ6X91GMXMthtT0M) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Ride It \(Jonas Blue Remix\)](https://open.spotify.com/album/6DPGJNJf9crOOe2pyRjF6S) | 3:02 |
-| 30 | [Abracadabra \- Gesaffelstein Remix](https://open.spotify.com/track/17sOAutZqK3xM5O6Cc2pMj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Abracadabra \(Gesaffelstein Remix\)](https://open.spotify.com/album/313T8fnlDeKWEtoq9vwWAO) | 3:31 |
-| 31 | [My Head & My Heart \- Claptone Remix](https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [My Head & My Heart \(Claptone Remix\)](https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth) | 3:02 |
+| 30 | [My Head & My Heart \- Claptone Remix](https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [My Head & My Heart \(Claptone Remix\)](https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth) | 3:02 |
+| 31 | [Abracadabra \- Gesaffelstein Remix](https://open.spotify.com/track/17sOAutZqK3xM5O6Cc2pMj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Abracadabra \(Gesaffelstein Remix\)](https://open.spotify.com/album/313T8fnlDeKWEtoq9vwWAO) | 3:31 |
 | 32 | [Revolving door \- Lavern remix](https://open.spotify.com/track/6AiZxO930ZHxwyYjigyCgc) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Revolving door \(remixes\)](https://open.spotify.com/album/3Lu2uejItyM8JBMCIOBKeg) | 2:51 |
 | 33 | [like JENNIE \- Peggy Gou Remix](https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE](https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf) | 3:28 |
 | 34 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 |

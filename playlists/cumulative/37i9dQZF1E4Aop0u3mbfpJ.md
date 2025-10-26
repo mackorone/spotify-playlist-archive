@@ -2,7 +2,7 @@
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Britney Spears, Ariana Grande, Kesha and more
+> With Ariana Grande, Sabrina Carpenter, Kesha and more
 
 2,000 songs - 4 day 23 hr 50 min
 
@@ -569,7 +569,7 @@
 | [Fashion Of His Love \- Fernando Garibay Remix](https://open.spotify.com/track/5kSRZ8OFJHUURPqHUJXxbl) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Fernando Garibay](https://open.spotify.com/artist/6tjjBTksD0OaJoJe5m6m60) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 3:44 | 2023-04-06 | 2023-04-07 |
 | [Fashion!](https://open.spotify.com/track/2I5tTeFL69KZCiO0YYoql7) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:59 | 2023-04-13 | 2024-02-07 |
 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 | 2024-04-01 | 2024-04-05 |
-| [Feel This Moment \(feat\. Christina Aguilera\)](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:49 | 2024-06-01 | 2025-10-24 |
+| [Feel This Moment \(feat\. Christina Aguilera\)](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:49 | 2024-06-01 |  |
 | [Feeling So Good](https://open.spotify.com/track/4GAFlFLouTialsJv1kiKaC) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Symptoms](https://open.spotify.com/album/2SeQhMEDBwMPuU1yykP2mh) | 3:07 | 2022-05-20 | 2022-10-27 |
 | [Feels In My Body](https://open.spotify.com/track/6wzwvyZ4kVPoUYDYjgErWJ) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Feels In My Body](https://open.spotify.com/album/2bPqggMNucG5AmJXcbCKrG) | 2:39 | 2022-10-07 | 2022-10-11 |
 | [Feels Like Love \- Soundtrack](https://open.spotify.com/track/7Fm2ZvBSGBO6RGjQ93SU2b) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY) | [The Cheetah Girls: One World](https://open.spotify.com/album/6H9FjLFzCgX485reYmS3c3) | 3:45 | 2022-07-17 | 2022-08-22 |
@@ -1126,7 +1126,7 @@
 | [Mamma Mia \- From 'Mamma Mia!' Original Motion Picture Soundtrack](https://open.spotify.com/track/4nI8e3fy1hHvhCvJURv5JI) | [Meryl Streep](https://open.spotify.com/artist/2HB65P72dFRiOKvbLLcil2) | [Mamma Mia! The Movie Soundtrack](https://open.spotify.com/album/6QtnCAFmqOwR75jOOmU7k9) | 3:34 | 2022-04-14 | 2023-02-17 |
 | [Man I Am \(From Barbie The Album\)](https://open.spotify.com/track/2C3Gsy6HgWQAEm4qaqhgVQ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Man I Am \(From Barbie The Album\)](https://open.spotify.com/album/5ra7esHOt8nyFcIFwGJ7wh) | 3:07 | 2023-08-08 | 2023-08-09 |
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/2mqaYmF0XmV8egZB6jQOtN) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:53 | 2023-12-14 | 2024-03-26 |
-| [Manchild](https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:33 | 2025-09-18 |  |
+| [Manchild](https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:33 | 2025-09-18 | 2025-10-26 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-15 | 2025-07-16 |
 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 | 2021-01-25 |  |
 | [Maneater \- Radio Version](https://open.spotify.com/track/26Q7uE8JdjrWVojxBL4t1B) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Girl Power Tracks](https://open.spotify.com/album/3526SZgspQiO9mzsLCFQ1W) | 3:18 | 2023-05-03 | 2023-05-04 |

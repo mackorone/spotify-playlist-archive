@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 177758,
+  "num_followers": 177797,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
+        "name": "Brol",
+        "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "Balance ton quoi",
+      "url": "https://open.spotify.com/track/2jX5c5RFp0A9E1GDsvGxIa"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
         "name": "Aller-retour",
         "url": "https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 203160,
       "name": "Le temps est bon",
       "url": "https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
-        "name": "Brol",
-        "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 189480,
-      "name": "Balance ton quoi",
-      "url": "https://open.spotify.com/track/2jX5c5RFp0A9E1GDsvGxIa"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "Un Jour D'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/6MFXFliONetu0nByEb7d4w"
-      },
-      "artists": [
-        {
-          "name": "Amel Bent",
-          "url": "https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Ma philosophie",
-      "url": "https://open.spotify.com/track/1HOtCYTuOCISpTn9cW6fcz"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
         "name": "Le Chant des sir\u00e8nes",
         "url": "https://open.spotify.com/album/0NhgwNb57nLRJsL9G4NSpY"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 219865,
       "name": "La terre est ronde",
       "url": "https://open.spotify.com/track/2wyreldlNuoBG7ju3fUynK"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
+        "name": "Un Jour D'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/6MFXFliONetu0nByEb7d4w"
+      },
+      "artists": [
+        {
+          "name": "Amel Bent",
+          "url": "https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Ma philosophie",
+      "url": "https://open.spotify.com/track/1HOtCYTuOCISpTn9cW6fcz"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "Mauvais Gar\u00e7on",
-        "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
-      },
-      "artists": [
-        {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
-        }
-      ],
-      "duration_ms": 162706,
-      "name": "Mauvais Gar\u00e7on",
-      "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
         "name": "Mon paradis",
         "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 191506,
       "name": "On s'attache",
       "url": "https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
+        "name": "Mauvais Gar\u00e7on",
+        "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "duration_ms": 162706,
+      "name": "Mauvais Gar\u00e7on",
+      "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -387,6 +387,22 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Belle demoiselle",
+      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
         "name": "La loi du papillon",
         "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
       },
@@ -399,26 +415,6 @@
       "duration_ms": 173266,
       "name": "D\u00e9pass\u00e9",
       "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
-        "name": "Le chemin",
-        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        },
-        {
-          "name": "Sita",
-          "url": "https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF"
-        }
-      ],
-      "duration_ms": 210706,
-      "name": "Le chemin (feat. Sita)",
-      "url": "https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -447,18 +443,22 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "Mon paradis",
-        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
+        "name": "Le chemin",
+        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
       },
       "artists": [
         {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        },
+        {
+          "name": "Sita",
+          "url": "https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Belle demoiselle",
-      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
+      "duration_ms": 210706,
+      "name": "Le chemin (feat. Sita)",
+      "url": "https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "Au coeur de moi",
-        "url": "https://open.spotify.com/album/7qmzJKB20IS9non9kBkPgF"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "J'ai cherch\u00e9",
-      "url": "https://open.spotify.com/track/1lzRxwbdl86iJlYMz48KoD"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
         "name": "Louise Attaque",
         "url": "https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "De L' Amour Le Mieux",
-        "url": "https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD"
+        "name": "Au coeur de moi",
+        "url": "https://open.spotify.com/album/7qmzJKB20IS9non9kBkPgF"
       },
       "artists": [
         {
-          "name": "Natasha St-Pier",
-          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
         }
       ],
-      "duration_ms": 298960,
-      "name": "Tu trouveras",
-      "url": "https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv"
+      "duration_ms": 212280,
+      "name": "J'ai cherch\u00e9",
+      "url": "https://open.spotify.com/track/1lzRxwbdl86iJlYMz48KoD"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -635,6 +619,22 @@
       "duration_ms": 221600,
       "name": "Amoureuse - Remasteris\u00e9 en 2008",
       "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
+        "name": "De L' Amour Le Mieux",
+        "url": "https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD"
+      },
+      "artists": [
+        {
+          "name": "Natasha St-Pier",
+          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
+        }
+      ],
+      "duration_ms": 298960,
+      "name": "Tu trouveras",
+      "url": "https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
+        "name": "Divinidylle",
+        "url": "https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "duration_ms": 159186,
+      "name": "Divine idylle",
+      "url": "https://open.spotify.com/track/0gpXeyth12BXqwHFzfNR2S"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
         "name": "Chaque seconde (feat. M. Pokora)",
         "url": "https://open.spotify.com/album/6tksgNrY872kjEs4q2v3Um"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 165986,
       "name": "Chaque seconde (feat. M. Pokora)",
       "url": "https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
-        "name": "Divinidylle",
-        "url": "https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
-        }
-      ],
-      "duration_ms": 159186,
-      "name": "Divine idylle",
-      "url": "https://open.spotify.com/track/0gpXeyth12BXqwHFzfNR2S"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "C'est comme vous voulez",
-        "url": "https://open.spotify.com/album/1owL66vLGqOWxVJYYrCDE1"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "La ballade de Jim",
-      "url": "https://open.spotify.com/track/4lI8A7xmuQqGDj28dzelH4"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
         "name": "Sur La Route De Memphis",
         "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "Un jour, je",
-        "url": "https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI"
+        "name": "C'est comme vous voulez",
+        "url": "https://open.spotify.com/album/1owL66vLGqOWxVJYYrCDE1"
       },
       "artists": [
         {
-          "name": "Pierre de Maere",
-          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
         }
       ],
-      "duration_ms": 165557,
-      "name": "Un jour je marierai un ange",
-      "url": "https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp"
+      "duration_ms": 265333,
+      "name": "La ballade de Jim",
+      "url": "https://open.spotify.com/track/4lI8A7xmuQqGDj28dzelH4"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -899,6 +883,22 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
+        "name": "Un jour, je",
+        "url": "https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI"
+      },
+      "artists": [
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+        }
+      ],
+      "duration_ms": 165557,
+      "name": "Un jour je marierai un ange",
+      "url": "https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
         "name": "Jenifer",
         "url": "https://open.spotify.com/album/73RETPwGf1IsowLIA7yfJD"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "Week End \u00c0 Rome",
-        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Week-end \u00e0 Rome",
-      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
         "name": "Regagner Les Plaines",
         "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 178133,
       "name": "Le lion est mort ce soir",
       "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
+        "name": "Week End \u00c0 Rome",
+        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Week-end \u00e0 Rome",
+      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
     },
     {
       "added_at": "2025-08-19 14:34:26",

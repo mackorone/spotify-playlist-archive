@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3587pT5PVA.md) - [plain]
 
 > Your favorite songs from Netflix movie musicals all in one playlist\. Cover: Matilda the Musical
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,650 likes - 41 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,649 likes - 41 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

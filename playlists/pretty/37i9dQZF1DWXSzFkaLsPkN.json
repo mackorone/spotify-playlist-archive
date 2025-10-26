@@ -1,12 +1,12 @@
 {
   "description": "Hindi hai, Indie hai! Cover- When Chai Met Toast\n",
-  "num_followers": 131957,
+  "num_followers": 131962,
   "original_name": "hIndies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPtebFyxXC8fjFKADkWJO0fl7S4l",
+  "snapshot_id": "AAAAAFYLB/JaiDzF3yFKZx2xGWrUvOAO",
   "tracks": [
     {
       "added_at": "2025-10-17 07:35:27",
@@ -311,22 +311,6 @@
     {
       "added_at": "2025-10-17 07:35:27",
       "album": {
-        "name": "Lamhey",
-        "url": "https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA"
-      },
-      "artists": [
-        {
-          "name": "Anubha Bajaj",
-          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
-        }
-      ],
-      "duration_ms": 148966,
-      "name": "Lamhey",
-      "url": "https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP"
-    },
-    {
-      "added_at": "2025-10-17 07:35:27",
-      "album": {
         "name": "SHARMEELI",
         "url": "https://open.spotify.com/album/2uZeb9NCQY76An8LqPMX5K"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 130666,
       "name": "SHARMEELI",
       "url": "https://open.spotify.com/track/3a0cGrLF6Ac1QqG3PCoIDY"
+    },
+    {
+      "added_at": "2025-10-17 07:35:27",
+      "album": {
+        "name": "Lamhey",
+        "url": "https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA"
+      },
+      "artists": [
+        {
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+        }
+      ],
+      "duration_ms": 148966,
+      "name": "Lamhey",
+      "url": "https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP"
     },
     {
       "added_at": "2025-10-17 07:35:27",
@@ -871,26 +871,6 @@
     {
       "added_at": "2025-10-17 07:35:27",
       "album": {
-        "name": "Jaadugari",
-        "url": "https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8"
-      },
-      "artists": [
-        {
-          "name": "maahi",
-          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
-        },
-        {
-          "name": "Shayra Apoorva",
-          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
-        }
-      ],
-      "duration_ms": 153882,
-      "name": "Jaadugari",
-      "url": "https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb"
-    },
-    {
-      "added_at": "2025-10-17 07:35:27",
-      "album": {
         "name": "Kya Batayein",
         "url": "https://open.spotify.com/album/0yI5u4TLl0Gw3nfj1LQnZ7"
       },
@@ -911,18 +891,42 @@
     {
       "added_at": "2025-10-17 07:35:27",
       "album": {
-        "name": "Udta Parinda",
-        "url": "https://open.spotify.com/album/2bQOQBSdlI6Oh7rW5rah5T"
+        "name": "Jaadugari",
+        "url": "https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8"
       },
       "artists": [
         {
-          "name": "Iqlipse Nova",
-          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+          "name": "maahi",
+          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Udta Parinda",
-      "url": "https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb"
+      "duration_ms": 153882,
+      "name": "Jaadugari",
+      "url": "https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb"
+    },
+    {
+      "added_at": "2025-10-17 07:35:27",
+      "album": {
+        "name": "Stay Vol. 1",
+        "url": "https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql"
+      },
+      "artists": [
+        {
+          "name": "Taaruk Raina",
+          "url": "https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe"
+        },
+        {
+          "name": "Charan",
+          "url": "https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Tere Gaon",
+      "url": "https://open.spotify.com/track/3YNWnHvYHjFLQgjayEdhB9"
     },
     {
       "added_at": "2025-10-17 07:35:27",

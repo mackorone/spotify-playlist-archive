@@ -4,7 +4,7 @@
 
 > Country music's latest offerings featuring Kacey Musgraves, Megan Moroney, Chris Stapleton and more.
 
-11,329 songs - 25 day 19 hr 37 min
+11,330 songs - 25 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9369,6 +9369,7 @@
 | [Tell Me Like It Is](https://open.spotify.com/track/5I6mVd0TofHmUXfju76KKh) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Tell Me Like It Is](https://open.spotify.com/album/6rwipnzepUwWKmloeF4FkL) | 3:08 | 2023-06-02 | 2023-06-10 |
 | [Tell Me No](https://open.spotify.com/track/1bLgR9qsPhTPtR2a7siBVw) | [Troy Ramey](https://open.spotify.com/artist/1Uxi0A4WHWH93Fyi0gWHEF) | [Tell Me No](https://open.spotify.com/album/2kgnHudCJ80bbpYCTJfokn) | 3:23 | 2024-07-26 | 2024-08-03 |
 | [Tell Me Tennessee](https://open.spotify.com/track/1TiAmIJNwfRmneV5iyTdMG) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Tell Me Tennessee](https://open.spotify.com/album/0xIsoU5AicBuIrbY5cOMke) | 3:30 | 2023-09-22 | 2023-09-30 |
+| [Tell Me That You Hate Me](https://open.spotify.com/track/3rV7upVYa2shv69lYbbNgI) | [Brooks Herring](https://open.spotify.com/artist/1edwwJzKlddJljBPlcJihx) | [Tell Me That You Hate Me](https://open.spotify.com/album/5s7vF4AYcyPVCbKn7Ew9uL) | 3:20 | 2025-10-24 |  |
 | [Tell Me That You Love Me](https://open.spotify.com/track/6bn1TSYp2mTSTWzwFmw9Qd) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Tell Me That You Love Me](https://open.spotify.com/album/3rZ0416mb3wRAy2O1vmAps) | 3:22 | 2025-03-07 | 2025-03-15 |
 | [Tell Me That You Love Me](https://open.spotify.com/track/19Z6qdxGAmRjesTtHL3uFD) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Life Is Like A Song \(Deluxe Edition\)](https://open.spotify.com/album/7AsEZkD4zsAJYkTDZrJgZu) | 3:13 | 2023-06-02 | 2023-06-10 |
 | [Tell Me Twice](https://open.spotify.com/track/4o93bIPbyYeJDdk8GI03UA) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Tell Me Twice](https://open.spotify.com/album/4WSiPhyOPmeDME2hAjHpps) | 4:26 | 2022-03-25 | 2022-04-02 |

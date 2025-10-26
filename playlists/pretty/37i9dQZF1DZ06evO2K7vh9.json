@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 99584,
+  "num_followers": 99587,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAACHaqVt2noKGiyRd2qwFiHw",
+  "snapshot_id": "aPrBgAAAAABd6deeRusWI1tDKeHlmmdh",
   "tracks": [
     {
       "added_at": null,
@@ -367,18 +367,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
+        "name": "Virgo World",
+        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
       },
       "artists": [
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 168727,
-      "name": "NEVER LEFT",
-      "url": "https://open.spotify.com/track/0soNGRgFn7aq1T4LXtFDMb"
+      "duration_ms": 193013,
+      "name": "When You Down (with Polo G feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/5kTn07V96U8LyoQgz6DZzX"
     },
     {
       "added_at": null,
@@ -415,26 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
+        "name": "We Love You Tecca 2",
+        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
       },
       "artists": [
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 193013,
-      "name": "When You Down (with Polo G feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/5kTn07V96U8LyoQgz6DZzX"
+      "duration_ms": 168727,
+      "name": "NEVER LEFT",
+      "url": "https://open.spotify.com/track/0soNGRgFn7aq1T4LXtFDMb"
     },
     {
       "added_at": null,

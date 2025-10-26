@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,305 songs - 2 day 22 hr 48 min
+1,306 songs - 2 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,7 +616,7 @@
 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-07-12 | 2025-08-02 |
 | [Life Is One](https://open.spotify.com/track/5kGVL2l2eEqaFPuYU1mdbl) | [Ludovica Pagani](https://open.spotify.com/artist/0Ab61kRJ0CWyfeVQ4ckek2), [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Life Is One](https://open.spotify.com/album/3QSMGCTqNNUziypWujExxP) | 3:04 | 2021-01-05 | 2021-07-24 |
 | [Life Like This](https://open.spotify.com/track/4NG4Llkx8gdthZorvEQkri) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Life Like This](https://open.spotify.com/album/3awL1PVJHVHzC3IK2pMQzM) | 3:07 | 2022-07-01 | 2022-09-05 |
-| [Lifeline](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Lifeline](https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ) | 3:19 | 2025-02-28 |  |
+| [Lifeline](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Lifeline](https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ) | 3:19 | 2025-02-28 | 2025-10-26 |
 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 | 2024-01-26 | 2025-08-02 |
 | [light years \(feat\. Inéz\)](https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [light years \(feat\. Inéz\)](https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI) | 3:40 | 2025-03-28 |  |
 | [Lights Down Low](https://open.spotify.com/track/4j8l7PDZ9Y6J4XaKiAJMDo) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Lights Down Low](https://open.spotify.com/album/0CNI0GdthKzauEeT0BJYQe) | 2:52 | 2021-09-25 | 2022-03-12 |
@@ -1306,6 +1306,7 @@
 | [You Take Me Home](https://open.spotify.com/track/1XtQrATtfkmMt2g9PIFV5W) | [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [You Take Me Home](https://open.spotify.com/album/3JM8C4XlSk1EFLrk5Z23W8) | 3:13 | 2025-09-12 |  |
 | [You Used To](https://open.spotify.com/track/0NMhB5jf4SJhzqnx6pBHNh) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [You Used To](https://open.spotify.com/album/7vYgMBgseLvWJUa1TCyKO9) | 2:54 | 2021-03-26 | 2021-09-11 |
 | [You've Done Enough](https://open.spotify.com/track/3zPfyVThoCzQ6IB5CSGDTz) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [You’ve Done Enough](https://open.spotify.com/album/3MpEvpOsGV9iKzHWwUcjbk) | 3:33 | 2021-02-20 | 2022-03-12 |
+| [Young Forever](https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Young Forever](https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s) | 3:47 | 2025-10-24 |  |
 | [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 | 2022-01-04 | 2022-12-17 |
 | [Your Body](https://open.spotify.com/track/697HW34FLNURvRAbSieICv) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Your Body](https://open.spotify.com/album/6mHS5vgGYalErBmxhX3TXx) | 3:27 | 2021-06-26 | 2021-09-18 |
 | [Your Body](https://open.spotify.com/track/4A9kMqwijHsdsnkoluwkoJ) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Your Body](https://open.spotify.com/album/4nwu5zKNGEcHWzoZOezBJ3) | 2:37 | 2021-08-07 | 2022-03-12 |

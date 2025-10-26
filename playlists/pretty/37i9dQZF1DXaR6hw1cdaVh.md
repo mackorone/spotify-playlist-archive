@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 
 > I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify 🎤
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,949 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,952 likes - 36 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 | 14 | [La voglia, la pazzia](https://open.spotify.com/track/1Sr4RnfU7JVaRKuhNrfI5h) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [La voglia la pazzia l'incoscienza l'allegria](https://open.spotify.com/album/5O6YBiSMJZ4qB5opZCJHGH) | 2:53 |
 | 15 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 |
 | 16 | [Fiori rosa, fiori di pesco](https://open.spotify.com/track/51Z0G9wCaGl2pcBISoJu9x) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Emozioni](https://open.spotify.com/album/6C91Sp5eJ1LPEFuSoEf5vw) | 3:12 |
-| 17 | [Aspettando Il Sole](https://open.spotify.com/track/0HgSaG6pYR3Nlt45GQyrKp) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Giuliano Palma](https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I) | [Neffa E I Messaggeri Della Dopa](https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn) | 5:12 |
-| 18 | [Bella stronza](https://open.spotify.com/track/6zaqjLbBdfkdHUWtQzvrK2) | [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [Il Cielo Della Vergine](https://open.spotify.com/album/60MK9V8B2IP2TuCwDdb1R9) | 5:21 |
+| 17 | [Bella stronza](https://open.spotify.com/track/6zaqjLbBdfkdHUWtQzvrK2) | [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [Il Cielo Della Vergine](https://open.spotify.com/album/60MK9V8B2IP2TuCwDdb1R9) | 5:21 |
+| 18 | [Aspettando Il Sole](https://open.spotify.com/track/0HgSaG6pYR3Nlt45GQyrKp) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Giuliano Palma](https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I) | [Neffa E I Messaggeri Della Dopa](https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn) | 5:12 |
 | 19 | [BELLA STRONZA](https://open.spotify.com/track/2qgKFtVm0Ls6WC72sm9ELe) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [BELLA STRONZA](https://open.spotify.com/album/5hfRrnvwwazuFYUkh5KPNc) | 2:56 |
 | 20 | [Rossetto e caffè \(con The Kolors\)](https://open.spotify.com/track/0S5T2u9kPFvq9TyqJbXmcl) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR), [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [Rossetto e caffè \(con The Kolors\)](https://open.spotify.com/album/6ai2ol4B5RhqzTBaM2Dgws) | 3:09 |
 | 21 | [Tutto il resto e' noia](https://open.spotify.com/track/0RbhVoxOZE8BniSgmDbaXV) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Tutto Il Resto E' Noia](https://open.spotify.com/album/1tIlFQtwEMi0icuiu4uf8x) | 4:34 |

@@ -210,7 +210,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 204444,
       "name": "Balan\u00e7a Dona On\u00e7a",
       "url": "https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 138290,
       "name": "Lince Parda",
       "url": "https://open.spotify.com/track/6R43rsA9EMFH4qU25Y0XNJ"
@@ -1210,7 +1210,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 194629,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5EqsaI4AK0lij7cfXrgcqU"
@@ -1606,6 +1606,40 @@
       "duration_ms": 224500,
       "name": "Olha Beb\u00ea",
       "url": "https://open.spotify.com/track/3MieTvQzwXlljej28RVFmC"
+    },
+    {
+      "album": {
+        "name": "Ouvir Voc\u00ea (Remix)",
+        "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Guhhl",
+          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
+        },
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
+        },
+        {
+          "name": "BM Ally",
+          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273777,
+      "name": "Ouvir Voc\u00ea (Remix)",
+      "url": "https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph"
     },
     {
       "album": {

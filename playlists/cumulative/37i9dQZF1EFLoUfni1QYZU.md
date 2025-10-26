@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-152 songs - 9 hr 27 min
+153 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Open Arms](https://open.spotify.com/track/32Xcqk0WiUAMmEcwHGHgzM) | [Audra Mae](https://open.spotify.com/artist/21jPcGkRtUofRVCC8cWHPS), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love, Audra Mae](https://open.spotify.com/album/3qAe8oxZEXafgYluYnkEUR) | 4:27 | 2022-09-08 |  |
 | [Other People](https://open.spotify.com/track/32f4hFMwHkw3Ooeqf0hbnK) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f) | 4:04 | 2023-12-13 |  |
 | [Other People](https://open.spotify.com/track/4LnCmKS6wJTckR1zvvH8PM) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 4:04 | 2022-09-08 | 2023-12-14 |
-| [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 | 2022-09-08 |  |
+| [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 | 2022-09-08 | 2025-10-26 |
+| [Pedestal](https://open.spotify.com/track/2uuG0q0NJCODSZxo3Q3RX8) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/0fetHuPcxKROz43WYu3J31) | 3:25 | 2025-10-25 |  |
 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/6qkRb2XZbkvm0Bk55F4J8F) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [The Time Is Now!](https://open.spotify.com/album/36bkD1IoDWM5DIbgFR5okR) | 3:54 | 2022-09-08 |  |
 | [Recovery](https://open.spotify.com/track/5eYrUhlS7NAbzFJjNT2jEu) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5) | 3:52 | 2023-12-13 | 2024-07-27 |
 | [Recovery](https://open.spotify.com/track/6HxJjgYLVwjsJxzAnYRObR) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/2Cjcnt1YhsNpMz6oE1IpUs) | 3:52 | 2024-07-26 |  |

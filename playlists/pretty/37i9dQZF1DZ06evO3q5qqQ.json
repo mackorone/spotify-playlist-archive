@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 116092,
+  "num_followers": 116106,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAABOJ251EsBtDpdn+bIXSE3B",
+  "snapshot_id": "aPrBgAAAAABcCsXWiwNqejwnf3fQ0asJ",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
       "duration_ms": 146417,
       "name": "CUANDO NADIE LA VE",
       "url": "https://open.spotify.com/track/2UWESgzYXfiraEusfJbFem"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 140608,
+      "name": "Diosa Griega",
+      "url": "https://open.spotify.com/track/2hoFmWhpgL4S9VV1AbApMS"
     },
     {
       "added_at": null,
@@ -387,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 162047,
+      "name": "El Mochomo (En vivo)",
+      "url": "https://open.spotify.com/track/6A7FBChw6dVmf5UX1IXUyR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta La Caja Cuesta",
         "url": "https://open.spotify.com/album/4u0jPQcfzJhe0a9kwSspky"
       },
@@ -403,22 +435,6 @@
       "duration_ms": 173760,
       "name": "Hasta La Caja Cuesta",
       "url": "https://open.spotify.com/track/6Wh9RDEd5wjWETZNWkwt1F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 162047,
-      "name": "El Mochomo (En vivo)",
-      "url": "https://open.spotify.com/track/6A7FBChw6dVmf5UX1IXUyR"
     },
     {
       "added_at": null,
@@ -607,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Puedo Con Esto",
-        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
       },
       "artists": [
         {
@@ -616,9 +632,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 149951,
-      "name": "Ya No Puedo Con Esto",
-      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
+      "duration_ms": 149695,
+      "name": "La Pasadita (En vivo)",
+      "url": "https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV"
     },
     {
       "added_at": null,
@@ -639,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
+        "name": "Ya No Puedo Con Esto",
+        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
       },
       "artists": [
         {
@@ -648,9 +664,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 149695,
-      "name": "La Pasadita (En vivo)",
-      "url": "https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV"
+      "duration_ms": 149951,
+      "name": "Ya No Puedo Con Esto",
+      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
     },
     {
       "added_at": null,
@@ -763,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Las Cuartitos No Falten",
-        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
+        "name": "El Color Del Amor",
+        "url": "https://open.spotify.com/album/1TCg2YDwIjA36bRYTQgg9C"
       },
       "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 179170,
-      "name": "Que las Cuartitos No Falten",
-      "url": "https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9"
+      "duration_ms": 262906,
+      "name": "\u00bfEn D\u00f3nde Te Hab\u00edas Metido?",
+      "url": "https://open.spotify.com/track/1xrLlWXeFoqrJnw7gPdjYq"
     },
     {
       "added_at": null,
@@ -799,22 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Color Del Amor",
-        "url": "https://open.spotify.com/album/1TCg2YDwIjA36bRYTQgg9C"
+        "name": "Que Las Cuartitos No Falten",
+        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
       },
       "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 262906,
-      "name": "\u00bfEn D\u00f3nde Te Hab\u00edas Metido?",
-      "url": "https://open.spotify.com/track/1xrLlWXeFoqrJnw7gPdjYq"
+      "duration_ms": 179170,
+      "name": "Que las Cuartitos No Falten",
+      "url": "https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9"
     },
     {
       "added_at": null,
@@ -887,22 +903,6 @@
       "duration_ms": 179733,
       "name": "El Rey Del Desierto",
       "url": "https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 140827,
-      "name": "El De La Aldea",
-      "url": "https://open.spotify.com/track/4KHsDU8PPw2MvXTQrjsOr2"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

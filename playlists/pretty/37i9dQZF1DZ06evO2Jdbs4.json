@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 30428,
+  "num_followers": 30437,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAABiRQ8imaJSGBOZv8cfCgvU",
+  "snapshot_id": "aPrBgAAAAAAAax588KOx0uE0tHdRrjth",
   "tracks": [
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buen Pez",
-        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "Separarnos",
-      "url": "https://open.spotify.com/track/5A4j5H2BchA1SqYOvQ8I4I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cu-Cu-Cu Cumbia!",
         "url": "https://open.spotify.com/album/7lvrww6BQ2UadzpdQBoEVH"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 228306,
       "name": "Otra Como T\u00fa",
       "url": "https://open.spotify.com/track/055pJYboqVEcECyQQnANFY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buen Pez",
+        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "Separarnos",
+      "url": "https://open.spotify.com/track/5A4j5H2BchA1SqYOvQ8I4I"
     },
     {
       "added_at": null,
@@ -575,22 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbia Vallenata (En Vivo)",
-        "url": "https://open.spotify.com/album/6lh0KAnbbfjKNROV6JStbH"
+        "name": "Nada De Nada",
+        "url": "https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK"
       },
       "artists": [
         {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
         },
         {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 217402,
-      "name": "Cumbia Vallenata - En Vivo",
-      "url": "https://open.spotify.com/track/6FzRj4Wk0vs4lfA1RoVr9j"
+      "duration_ms": 181600,
+      "name": "Nada De Nada",
+      "url": "https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU"
     },
     {
       "added_at": null,
@@ -615,22 +615,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada De Nada",
-        "url": "https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK"
+        "name": "Cumbia Vallenata (En Vivo)",
+        "url": "https://open.spotify.com/album/6lh0KAnbbfjKNROV6JStbH"
       },
       "artists": [
         {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         },
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "duration_ms": 217402,
+      "name": "Cumbia Vallenata - En Vivo",
+      "url": "https://open.spotify.com/track/6FzRj4Wk0vs4lfA1RoVr9j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 181600,
-      "name": "Nada De Nada",
-      "url": "https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU"
+      "duration_ms": 218733,
+      "name": "Cindy Don't Know",
+      "url": "https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
       "duration_ms": 170426,
       "name": "Me Derrito (feat. Bobby Pulido)",
       "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Cindy Don't Know",
-      "url": "https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg"
     },
     {
       "added_at": null,

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > blissed out beats and head nodding grooves \- relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,559 likes - 100 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,611 likes - 100 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [oldkeys](https://open.spotify.com/track/6Dle7iZGTOyVzbxpvsKTi1) | [Analogue Alf](https://open.spotify.com/artist/4FVJdMWSQhn3zO1NKxMHAi) | [oldkeys](https://open.spotify.com/album/2OcgzCWKFUbQ1jnY8Rlaw0) | 2:05 |
 | 2 | [Clouds in the Sky](https://open.spotify.com/track/2Zs9CxPJXNuWPOw0UXkV5N) | [DreamWavez](https://open.spotify.com/artist/4OZJkUu3poNHvSgPZ8RBup) | [Clouds in the Sky](https://open.spotify.com/album/4lr75Tyw3rWGaFZkN9rqHH) | 2:05 |
-| 3 | [sunrise](https://open.spotify.com/track/1eo4dFZb0UAvPO7oPFPE72) | [mxgnetic](https://open.spotify.com/artist/5u7mGLVX9UB0iKwkgMywJ9) | [sunrise](https://open.spotify.com/album/0t4yXNgstBAzYTiRL5oOsc) | 2:37 |
+| 3 | [sunrise](https://open.spotify.com/track/1eo4dFZb0UAvPO7oPFPE72) | [mxgnetic.](https://open.spotify.com/artist/5u7mGLVX9UB0iKwkgMywJ9) | [sunrise](https://open.spotify.com/album/0t4yXNgstBAzYTiRL5oOsc) | 2:37 |
 | 4 | [back to back](https://open.spotify.com/track/2fKbjJViZtgtHCvQwTFlRi) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [back to back](https://open.spotify.com/album/49D0j3Utge02MANzxdrfo1) | 2:21 |
 | 5 | [Warm Light, Cold Rain](https://open.spotify.com/track/52Bud0dXCjqlbzxp32yjYu) | [Moonloop](https://open.spotify.com/artist/4mHQKN5WYx4x5Ynwx91ZGg) | [Warm Light, Cold Rain](https://open.spotify.com/album/6ONqrZvrFKU9wWaPi9ITV3) | 2:20 |
 | 6 | [lonely nights](https://open.spotify.com/track/02oyJrGlvHQ4sf7obYMJJk) | [butterfli](https://open.spotify.com/artist/6A3Fdu30Vz62jf3XP5pLy5) | [lonely nights](https://open.spotify.com/album/1jZbrN0GqWFnJ8xZXo5IcC) | 2:03 |

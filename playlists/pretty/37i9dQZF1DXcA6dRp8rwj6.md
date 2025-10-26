@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: DAVE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,262 likes - 99 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,296 likes - 99 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

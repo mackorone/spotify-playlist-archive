@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,931 likes - 75 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,980 likes - 75 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 24 | [RITUAL \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 |
 | 25 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 |
 | 26 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 |
-| 27 | [－－ ･ －･･ ･ ･－･･ ･－](https://open.spotify.com/track/4akqPnWyCOWL0QNxQsXsNk) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－ ･ －･･ ･ ･－･･ ･－](https://open.spotify.com/album/1NogWso5ElfJe4n8qKSdy9) | 8:44 |
-| 28 | [Transmission 01](https://open.spotify.com/track/5rbSdmjpfIXrAfSMRIh2eS) | [Wojciech Golczewski](https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0) | [End of Transmission](https://open.spotify.com/album/73dzZJt3kdrqH4T9luIhKb) | 3:23 |
+| 27 | [Transmission 01](https://open.spotify.com/track/5rbSdmjpfIXrAfSMRIh2eS) | [Wojciech Golczewski](https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0) | [End of Transmission](https://open.spotify.com/album/73dzZJt3kdrqH4T9luIhKb) | 3:23 |
+| 28 | [－－ ･ －･･ ･ ･－･･ ･－](https://open.spotify.com/track/4akqPnWyCOWL0QNxQsXsNk) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－ ･ －･･ ･ ･－･･ ･－](https://open.spotify.com/album/1NogWso5ElfJe4n8qKSdy9) | 8:44 |
 | 29 | [Welcome to Lunar Industries](https://open.spotify.com/track/4NkxNXR19hl20qlB2DOgAx) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Moon \(Original Score\)](https://open.spotify.com/album/0ux9vxJhJoFKaD66UH3160) | 7:11 |
 | 30 | [24.03](https://open.spotify.com/track/5jgJT45Eeitvo5rrSsu0sv) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:13 |
 | 31 | [Huginn and Muninn](https://open.spotify.com/track/4cfZm3AuwJjZWJ1ZzigeA5) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Hrafnamynd](https://open.spotify.com/album/0JlfmX8k9AhOG1ZdRvkpbc) | 4:36 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 51 | [The Eighth Wave](https://open.spotify.com/track/0hfdtb8oN7bWS0P5aqRbyZ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 5:07 |
 | 52 | [Pluto's First Popstar \(Outro\)](https://open.spotify.com/track/5MeaFcLEcsSkcud6tQ2q9L) | [Eli Raybon](https://open.spotify.com/artist/1P6Xty8gqi0gNcqwt2R8Vq) | [Supertoys](https://open.spotify.com/album/50DNnceylCFUrQv5pmjYxm) | 2:28 |
 | 53 | [Nocturnal](https://open.spotify.com/track/6dpeIEtLqTxnB7rfzVvlwz) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8) | 2:55 |
-| 54 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
+| 54 | [Sowiesoso](https://open.spotify.com/track/6h1dYEUDxd8lJ32MEGegh1) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Sowiesoso](https://open.spotify.com/album/4QAH6e1Mi25uNXvvJTCneV) | 8:11 |
 | 55 | [Ganzfeld Effect](https://open.spotify.com/track/1giXD5iDA1zx8RbEuX551p) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Stasis](https://open.spotify.com/album/4MEJL8b4fQQ908mzoTFT6P) | 5:05 |
-| 56 | [Sowiesoso](https://open.spotify.com/track/6h1dYEUDxd8lJ32MEGegh1) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Sowiesoso](https://open.spotify.com/album/4QAH6e1Mi25uNXvvJTCneV) | 8:11 |
+| 56 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
 | 57 | [Pomme Fritz \(Meat 'N Veg\)](https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Pomme Fritz](https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1) | 9:02 |
 | 58 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
 | 59 | [Mahi Mahi](https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [Mahi Mahi](https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC) | 3:16 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 70 | [Landing On 51](https://open.spotify.com/track/7CI5MHtF2gY6gYml0jqrXe) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [The Electronic Magic of Tangerine Dream \- the Anthology](https://open.spotify.com/album/7JKzFpsGCnTDYJCzZDxA6o) | 7:57 |
 | 71 | [Novu Hisy](https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Novu Hisy](https://open.spotify.com/album/3fqVodXZqyhTxg3IFIFlnL) | 3:43 |
 | 72 | [kaleido\_](https://open.spotify.com/track/0LFENddTet2slx0gC2Rncm) | [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy), [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [kaleido\_](https://open.spotify.com/album/3rTBoED7VcTPHLKSmI47hg) | 3:56 |
-| 73 | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/track/0AuC6j66fjBzcNjWViIlfr) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/album/2eAOEEB8t84it83QgeZBOO) | 4:18 |
-| 74 | [BRUTALISM](https://open.spotify.com/track/3OlIYpw422CIdZ53OcZZ7r) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [BRUTALISM](https://open.spotify.com/album/3Tr2KGxsh8ctnu7LZt7Nvx) | 4:41 |
+| 73 | [BRUTALISM](https://open.spotify.com/track/3OlIYpw422CIdZ53OcZZ7r) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [BRUTALISM](https://open.spotify.com/album/3Tr2KGxsh8ctnu7LZt7Nvx) | 4:41 |
+| 74 | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/track/0AuC6j66fjBzcNjWViIlfr) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/album/2eAOEEB8t84it83QgeZBOO) | 4:18 |
 | 75 | [Tomorrow](https://open.spotify.com/track/1lu4JpljcLFa6dRfkcRHsa) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Twin Color \(Extended Play No\. 1\)](https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3) | 6:29 |
 
 Snapshot ID: `AAAAAI/qC7qMfTvSjJJI1bq1kO89CCFt`

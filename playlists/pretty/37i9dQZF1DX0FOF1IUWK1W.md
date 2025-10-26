@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > DJ Japa NK, MC Meno K, MC Ryan SP, Mc Jacaré, DJ DAVI DOGDOG e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,688,607 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,690,515 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Posso Até Não Te Dar Flores](https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Posso Até Não Te Dar Flores](https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF) | 2:42 |
+| 1 | [Posso Até Não Te Dar Flores](https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Posso Até Não Te Dar Flores](https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF) | 2:38 |
 | 2 | [Eu Me Apaixonei](https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM) | [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU) | [Eu Me Apaixonei](https://open.spotify.com/album/4KTpdC3znS9wWKo4KQw6oA) | 3:25 |
 | 3 | [Eu Vou na Sua Casa](https://open.spotify.com/track/2GylVVMD21R4SqgAt8gGC5) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [RomantiDog](https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW) | 2:59 |
 | 4 | [Se Eu Te Perdoar \- Ao Vivo](https://open.spotify.com/track/4c4tcqYfqiFc527gqNdRE5) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Se Eu Te Perdoar \(Ao Vivo\)](https://open.spotify.com/album/6sC92xi1q2e4PwFQWtF5p5) | 2:44 |

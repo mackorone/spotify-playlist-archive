@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAh4X2XQKV.md) - [plain]
 
 > Karol con alas 💕🪽this is what's up in the world of Latin and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,836 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,866 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAh4X2XQKV.md) - [plain]
 | 49 | [VITAMINA](https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [VITAMINA](https://open.spotify.com/album/6jf5qinEHzsxyBQgvrW916) | 3:28 |
 | 50 | [BANDIDA](https://open.spotify.com/track/1vvWri6BpgA6Pqz6JixNFa) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:32 |
 
-Snapshot ID: `AAAAAGqn7zWML77gYE+EmepT8VLrn6bj`
+Snapshot ID: `AAAAALX+RvTlri7hH4voJ7k2VdFk2Laa`

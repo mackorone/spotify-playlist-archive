@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-265 songs - 15 hr 56 min
+268 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Harvest Moon](https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw) | [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Fictions](https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3) | 3:05 | 2025-07-03 | 2025-09-20 |
 | [hello](https://open.spotify.com/track/2kmMx4QOtwBYZGmtc6vhe6) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [hello](https://open.spotify.com/album/2eABHwNwB28HvwMizr0oIF) | 2:58 | 2024-11-11 |  |
 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 | 2025-07-03 | 2025-09-20 |
-| [High Up](https://open.spotify.com/track/7bw14ijp1ulc2ML5Nq2cRW) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [High Up](https://open.spotify.com/album/04RRkuSWzmRggOYO1HAvpZ) | 3:41 | 2025-03-07 |  |
+| [High Up](https://open.spotify.com/track/7bw14ijp1ulc2ML5Nq2cRW) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [High Up](https://open.spotify.com/album/04RRkuSWzmRggOYO1HAvpZ) | 3:41 | 2025-03-07 | 2025-10-26 |
 | [Hold On](https://open.spotify.com/track/61t4YbSe1FRAcOLJZPOg5z) | [Philemon](https://open.spotify.com/artist/4ApTlSIEi4CNhGGuxxPXWq) | [Hold On](https://open.spotify.com/album/4QWgIt9q3iv2vhx7BG74x0) | 3:02 | 2025-01-23 | 2025-10-19 |
 | [Hold You](https://open.spotify.com/track/2B9pVfQdvHlXAvjTWHrlrp) | [Isbells](https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4) | [Hold You](https://open.spotify.com/album/580IwtdW0b5aSz7i5jWhYk) | 3:55 | 2024-09-19 | 2025-03-23 |
 | [House Song](https://open.spotify.com/track/5swZvDSi78Znk4rlmwHNnj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/5QrP2hgfkYqAtDmlexzNcZ) | 4:55 | 2025-07-03 | 2025-09-20 |
@@ -117,7 +117,7 @@
 | [i'll be there](https://open.spotify.com/track/0tdXJ2JYencFfW1QjZ0drx) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [i'll be there](https://open.spotify.com/album/13SZlBbp3KydSTvZ3cahvr) | 3:17 | 2025-07-03 | 2025-09-20 |
 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 | 2025-01-23 |  |
 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 | 2025-07-03 | 2025-09-20 |
-| [In My House](https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House / Like A Thorn](https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z) | 3:03 | 2025-01-23 |  |
+| [In My House](https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House / Like A Thorn](https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z) | 3:03 | 2025-01-23 | 2025-10-26 |
 | [Indexical reminder of a morning well spent](https://open.spotify.com/track/6w8NOOj4f8FhF6346a7Ulx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 4:43 | 2025-07-03 | 2025-09-20 |
 | [Indiana](https://open.spotify.com/track/4yVrfsUNtc5RS7nbOv8hHA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides](https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1) | 2:37 | 2025-07-03 | 2025-09-20 |
 | [Into Gold](https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Into Gold](https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW) | 5:42 | 2024-11-11 | 2025-01-24 |
@@ -144,6 +144,7 @@
 | [Love, Try Not To Let Go](https://open.spotify.com/track/15i1lTIR753F3DyOQChGue) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Love, Try Not To Let Go](https://open.spotify.com/album/5QYEVPcPA33XHwZngWalS1) | 3:43 | 2025-07-03 | 2025-09-20 |
 | [Lucky](https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lucky](https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js) | 2:28 | 2025-07-03 | 2025-09-20 |
 | [Lullabye For Losers](https://open.spotify.com/track/7GGwiBcQbfTWnYx2ZK3Byk) | [Tin Fingers](https://open.spotify.com/artist/4tLOVSDLiCDwmJtaHEJJZu) | [Rock Bottom Ballads](https://open.spotify.com/album/47fvZIFsSRHdYQW378dNlZ) | 4:29 | 2024-06-27 | 2024-07-19 |
+| [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 | 2025-10-23 |  |
 | [Mine](https://open.spotify.com/track/3UQhGFxNjCN2DjnEzYXfRi) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:08 | 2025-07-03 | 2025-09-20 |
 | [Missionary Bell](https://open.spotify.com/track/1GluuaWtdcXDlqLDJxVdWf) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Interior Live Oak](https://open.spotify.com/album/2GMrzMBDK4rpOLXtTMECl2) | 4:24 | 2025-09-19 |  |
 | [Moon Song](https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:37 | 2025-07-03 | 2025-09-20 |
@@ -203,6 +204,7 @@
 | [Science](https://open.spotify.com/track/63AnNQ9gQNOKbj6DN3sF4G) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Science](https://open.spotify.com/album/2peHkYObRN3O5UZpr6IuTP) | 3:55 | 2025-01-27 | 2025-05-28 |
 | [Seasons](https://open.spotify.com/track/0nagllCr1rwu7xgekjspi3) | [Jonah Capetown](https://open.spotify.com/artist/4OyvCG7MRNpX6VaVges7Ap) | [Seasons](https://open.spotify.com/album/07y8ZnWKVPn5mRdNb7zZ5p) | 2:33 | 2024-06-27 | 2025-03-16 |
 | [Seeing You](https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Seeing You](https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP) | 3:18 | 2025-10-17 |  |
+| [Shake Off the Rain](https://open.spotify.com/track/0gVBrNtip58FmG1JlGwATM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Shake Off the Rain](https://open.spotify.com/album/4zOqdbkSSn2PX7KMwdHxdh) | 4:42 | 2025-10-23 |  |
 | [Shape of Tomorrow](https://open.spotify.com/track/426yKV0zjMdLNHb5o4SuUS) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [In Light](https://open.spotify.com/album/3TN0tiqlA7kj1o7FtJ08XV) | 3:34 | 2025-03-13 | 2025-07-04 |
 | [She Says](https://open.spotify.com/track/5EJYO3Oa6qFUVcOOKB15w3) | [Eve Owen](https://open.spotify.com/artist/5K9H52DBfvfMzrskJkU4An) | [Don't Let The Ink Dry](https://open.spotify.com/album/7J1PTpRtEdcaUAlSFo4t7k) | 4:10 | 2025-07-03 | 2025-09-20 |
 | [Shoulders Knees](https://open.spotify.com/track/7z8SS9zjHCO0R87ZpWmsoz) | [Rosa Butsi](https://open.spotify.com/artist/2tcIUL0ZNEo2gnrBzNBz3L) | [Shoulders Knees](https://open.spotify.com/album/2oiusrsL6SM0BHoLXJY28O) | 4:41 | 2024-06-27 | 2024-12-21 |
@@ -252,7 +254,7 @@
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2025-07-03 | 2025-09-20 |
 | [Tough Love](https://open.spotify.com/track/4FG86wYpIjIl5NrOr79Fxf) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Flyte](https://open.spotify.com/album/1HGUCTBuqr8TU9Z9m4xh1k) | 3:01 | 2025-07-03 | 2025-09-20 |
 | [Toy Heart](https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Toy Heart](https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I) | 3:17 | 2025-06-05 | 2025-07-04 |
-| [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 | 2025-07-03 |  |
+| [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 | 2025-07-03 | 2025-10-26 |
 | [True Love Will Find You In The End](https://open.spotify.com/track/4wSIoDdhXG9pgk4tG9fSAS) | [Someone](https://open.spotify.com/artist/28pJPOOQTi0RQiZbkmLvfE), [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ), [Benjamin Longman](https://open.spotify.com/artist/4mXA7wTTHSpP0T2cgHmlVE) | [True Love Will Find You In The End](https://open.spotify.com/album/0UlGGy5YcX8yEGRvaxZNjK) | 3:35 | 2025-07-03 | 2025-09-20 |
 | [Turn Right](https://open.spotify.com/track/3lnyM5SSjbnz3V7HzdULqy) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [The Epic Tale of the Stranded Man: Expanded Edition](https://open.spotify.com/album/0OUK0k2WX8CceF5Bgd6oCH) | 2:31 | 2024-06-27 | 2024-10-04 |
 | [Underwear](https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Underwear](https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y) | 3:27 | 2025-01-23 |  |
@@ -272,6 +274,7 @@
 | [Winter Baby](https://open.spotify.com/track/4gsO99UmYFrncTeTvMDwWX) | [Sam Vano](https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5) | [Winter Baby](https://open.spotify.com/album/3OL8iyJX6m54OGBWY6cLoz) | 3:06 | 2025-01-23 | 2025-02-14 |
 | [You Are The Morning](https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3) | 4:13 | 2025-02-03 | 2025-05-13 |
 | [You Said I'd Feel It All Again](https://open.spotify.com/track/0cuXTNMJypoaqDbJZVZu2H) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [You Said I'd Feel It All Again](https://open.spotify.com/album/4PB0sUYPXDP7s5O5zYW2Zk) | 3:52 | 2025-01-23 | 2025-02-12 |
+| [Younger Days](https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Bungalow](https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6) | 3:31 | 2025-10-23 |  |
 | [Yvonne](https://open.spotify.com/track/4fPaBqB8bWftagOHy2xtDF) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Yvonne](https://open.spotify.com/album/3pFLJO0siLPq3r89fuJVk7) | 2:12 | 2025-05-29 | 2025-06-28 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

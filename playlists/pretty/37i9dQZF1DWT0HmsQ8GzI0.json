@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Szlimmy",
-  "num_followers": 15623,
+  "num_followers": 15628,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -527,26 +527,6 @@
     {
       "added_at": "2025-10-16 22:00:45",
       "album": {
-        "name": "Beszorult mondat",
-        "url": "https://open.spotify.com/album/6rDnj8NhQrIvAjqOYlQYnZ"
-      },
-      "artists": [
-        {
-          "name": "Kisp\u00e1l \u00e9s a Borz",
-          "url": "https://open.spotify.com/artist/71buZyotrHSZMVkSTcDY8c"
-        },
-        {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
-        }
-      ],
-      "duration_ms": 232375,
-      "name": "Beszorult mondat",
-      "url": "https://open.spotify.com/track/6XQFocpLut9tovM7XkNQpw"
-    },
-    {
-      "added_at": "2025-10-16 22:00:45",
-      "album": {
         "name": "Jerik\u00f3",
         "url": "https://open.spotify.com/album/455HvLY620gM3Ia8tO7JR7"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 162000,
       "name": "Jerik\u00f3",
       "url": "https://open.spotify.com/track/2buK5D1SetmgAPAl10tCq3"
+    },
+    {
+      "added_at": "2025-10-16 22:00:45",
+      "album": {
+        "name": "Beszorult mondat",
+        "url": "https://open.spotify.com/album/6rDnj8NhQrIvAjqOYlQYnZ"
+      },
+      "artists": [
+        {
+          "name": "Kisp\u00e1l \u00e9s a Borz",
+          "url": "https://open.spotify.com/artist/71buZyotrHSZMVkSTcDY8c"
+        },
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "duration_ms": 232375,
+      "name": "Beszorult mondat",
+      "url": "https://open.spotify.com/track/6XQFocpLut9tovM7XkNQpw"
     },
     {
       "added_at": "2025-10-16 22:00:45",
@@ -695,18 +695,18 @@
     {
       "added_at": "2025-10-16 22:00:45",
       "album": {
-        "name": "csendh\u00e1bor\u00edt\u00e1s?!",
-        "url": "https://open.spotify.com/album/1xjOE1GQmQQzq0OCae1XMl"
+        "name": "\u00c9rkez\u0151s Indul\u00f3",
+        "url": "https://open.spotify.com/album/22wXi4UKNsLpG0EQX9enfZ"
       },
       "artists": [
         {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+          "name": "Duckshell",
+          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
         }
       ],
-      "duration_ms": 179636,
-      "name": "k\u00f6z\u00f6ny",
-      "url": "https://open.spotify.com/track/4eMZw6XRSLEXrVWLmXCgyq"
+      "duration_ms": 247246,
+      "name": "\u00c9rkez\u0151s Indul\u00f3",
+      "url": "https://open.spotify.com/track/7n6PZ0ZFy3G7UDNWe7NcFP"
     },
     {
       "added_at": "2025-10-16 22:00:45",
@@ -727,34 +727,18 @@
     {
       "added_at": "2025-10-16 22:00:45",
       "album": {
-        "name": "\u00c9rkez\u0151s Indul\u00f3",
-        "url": "https://open.spotify.com/album/22wXi4UKNsLpG0EQX9enfZ"
+        "name": "csendh\u00e1bor\u00edt\u00e1s?!",
+        "url": "https://open.spotify.com/album/1xjOE1GQmQQzq0OCae1XMl"
       },
       "artists": [
         {
-          "name": "Duckshell",
-          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
         }
       ],
-      "duration_ms": 247246,
-      "name": "\u00c9rkez\u0151s Indul\u00f3",
-      "url": "https://open.spotify.com/track/7n6PZ0ZFy3G7UDNWe7NcFP"
-    },
-    {
-      "added_at": "2025-10-16 22:00:45",
-      "album": {
-        "name": "hov\u00e1sz\u00f6kt\u00e9l?",
-        "url": "https://open.spotify.com/album/6ozRjx8jd0Iddux3HxqWhL"
-      },
-      "artists": [
-        {
-          "name": "STAiR",
-          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "hov\u00e1sz\u00f6kt\u00e9l?",
-      "url": "https://open.spotify.com/track/3Dp1DSaQEVU9HP7nZM2Ne3"
+      "duration_ms": 179636,
+      "name": "k\u00f6z\u00f6ny",
+      "url": "https://open.spotify.com/track/4eMZw6XRSLEXrVWLmXCgyq"
     },
     {
       "added_at": "2025-10-16 22:00:45",
@@ -771,6 +755,22 @@
       "duration_ms": 214809,
       "name": "HAMU",
       "url": "https://open.spotify.com/track/4UINS170JG1vNJIZSBNSku"
+    },
+    {
+      "added_at": "2025-10-16 22:00:45",
+      "album": {
+        "name": "hov\u00e1sz\u00f6kt\u00e9l?",
+        "url": "https://open.spotify.com/album/6ozRjx8jd0Iddux3HxqWhL"
+      },
+      "artists": [
+        {
+          "name": "STAiR",
+          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "hov\u00e1sz\u00f6kt\u00e9l?",
+      "url": "https://open.spotify.com/track/3Dp1DSaQEVU9HP7nZM2Ne3"
     },
     {
       "added_at": "2025-10-16 22:00:45",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-10-16 22:00:45",
       "album": {
-        "name": "Ugyanitt v\u00e1rlak",
-        "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
-      },
-      "artists": [
-        {
-          "name": "Margaret Island",
-          "url": "https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Ugyanitt v\u00e1rlak",
-      "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
-    },
-    {
-      "added_at": "2025-10-16 22:00:45",
-      "album": {
         "name": "MAG\u00c1NY\u00d6L\u0150",
         "url": "https://open.spotify.com/album/0FXYhCj9lZniPB2GdX8WZh"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 182000,
       "name": "MAG\u00c1NY\u00d6L\u0150",
       "url": "https://open.spotify.com/track/4W3Yxxf3MN3sGRv1sGoURQ"
+    },
+    {
+      "added_at": "2025-10-16 22:00:45",
+      "album": {
+        "name": "Pillang\u00f3hat\u00e1s",
+        "url": "https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3th Abig\u00e9l",
+          "url": "https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS"
+        }
+      ],
+      "duration_ms": 138351,
+      "name": "Pillang\u00f3hat\u00e1s",
+      "url": "https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN"
     },
     {
       "added_at": "2025-10-16 22:00:45",
@@ -911,18 +911,18 @@
     {
       "added_at": "2025-10-16 22:00:45",
       "album": {
-        "name": "Pillang\u00f3hat\u00e1s",
-        "url": "https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y"
+        "name": "Ugyanitt v\u00e1rlak",
+        "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
       },
       "artists": [
         {
-          "name": "T\u00f3th Abig\u00e9l",
-          "url": "https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS"
+          "name": "Margaret Island",
+          "url": "https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB"
         }
       ],
-      "duration_ms": 138351,
-      "name": "Pillang\u00f3hat\u00e1s",
-      "url": "https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN"
+      "duration_ms": 197500,
+      "name": "Ugyanitt v\u00e1rlak",
+      "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
     },
     {
       "added_at": "2025-10-16 22:00:45",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-10-16 22:00:45",
       "album": {
+        "name": "Legszebb Hib\u00e1nk",
+        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
+      },
+      "artists": [
+        {
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Legszebb Hib\u00e1nk",
+      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
+    },
+    {
+      "added_at": "2025-10-16 22:00:45",
+      "album": {
         "name": "disco maffia",
         "url": "https://open.spotify.com/album/6ZVls0oLr3Quxr0PtysJUJ"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 245531,
       "name": "disco maffia",
       "url": "https://open.spotify.com/track/6c7Kt8odjYaFktvT1DeCPR"
-    },
-    {
-      "added_at": "2025-10-16 22:00:45",
-      "album": {
-        "name": "Legszebb Hib\u00e1nk",
-        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
-      },
-      "artists": [
-        {
-          "name": "Beretka \u00c1d\u00e1m",
-          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Legszebb Hib\u00e1nk",
-      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
     },
     {
       "added_at": "2025-10-16 22:00:45",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2025-10-16 22:00:45",
       "album": {
-        "name": "kurvanagy ???",
-        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
+        "name": "Quatre Grapes",
+        "url": "https://open.spotify.com/album/166W34UydwJ0pZlsNbrRKN"
       },
       "artists": [
         {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
+        },
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
         }
       ],
-      "duration_ms": 151500,
-      "name": "kurvanagy ???",
-      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
+      "duration_ms": 210400,
+      "name": "Quatre Grapes",
+      "url": "https://open.spotify.com/track/4a8KAMlAAhdTuBxGnjS6Zc"
     },
     {
       "added_at": "2025-10-16 22:00:45",
@@ -1067,22 +1071,18 @@
     {
       "added_at": "2025-10-16 22:00:45",
       "album": {
-        "name": "Quatre Grapes",
-        "url": "https://open.spotify.com/album/166W34UydwJ0pZlsNbrRKN"
+        "name": "kurvanagy ???",
+        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
       },
       "artists": [
         {
-          "name": "Bohemian Betyars",
-          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
-        },
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
         }
       ],
-      "duration_ms": 210400,
-      "name": "Quatre Grapes",
-      "url": "https://open.spotify.com/track/4a8KAMlAAhdTuBxGnjS6Zc"
+      "duration_ms": 151500,
+      "name": "kurvanagy ???",
+      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
     },
     {
       "added_at": "2025-10-16 22:00:45",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-10-16 22:00:45",
       "album": {
-        "name": "Plan For You",
-        "url": "https://open.spotify.com/album/2k0M4sNRvc2P2446HQarjH"
-      },
-      "artists": [
-        {
-          "name": "Z\u00d3RA",
-          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
-        }
-      ],
-      "duration_ms": 173240,
-      "name": "Plan For You",
-      "url": "https://open.spotify.com/track/11a7fFxDeyFS0IF5Z6b5S6"
-    },
-    {
-      "added_at": "2025-10-16 22:00:45",
-      "album": {
         "name": "N\u00e9gyes-Hatos",
         "url": "https://open.spotify.com/album/5xywbU931889LMT6JaCcWw"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2025-10-16 22:00:45",
       "album": {
-        "name": "Senki m\u00e1s",
-        "url": "https://open.spotify.com/album/65buXPxydHN1dE0bYUlfFC"
+        "name": "Plan For You",
+        "url": "https://open.spotify.com/album/2k0M4sNRvc2P2446HQarjH"
       },
       "artists": [
         {
-          "name": "Zaporozsec",
-          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
+          "name": "Z\u00d3RA",
+          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Senki m\u00e1s",
-      "url": "https://open.spotify.com/track/7LlKfMzkf463SkwfDGWNFw"
+      "duration_ms": 173240,
+      "name": "Plan For You",
+      "url": "https://open.spotify.com/track/11a7fFxDeyFS0IF5Z6b5S6"
     },
     {
       "added_at": "2025-10-16 22:00:45",
@@ -1171,6 +1155,22 @@
       "duration_ms": 242803,
       "name": "Engem szeretni neh\u00e9z",
       "url": "https://open.spotify.com/track/4Mamklib5ugFYkndshmeif"
+    },
+    {
+      "added_at": "2025-10-16 22:00:45",
+      "album": {
+        "name": "Senki m\u00e1s",
+        "url": "https://open.spotify.com/album/65buXPxydHN1dE0bYUlfFC"
+      },
+      "artists": [
+        {
+          "name": "Zaporozsec",
+          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Senki m\u00e1s",
+      "url": "https://open.spotify.com/track/7LlKfMzkf463SkwfDGWNFw"
     },
     {
       "added_at": "2025-10-16 22:00:45",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-10-16 22:00:45",
       "album": {
-        "name": "Brigitta V\u00e1rna",
-        "url": "https://open.spotify.com/album/3XDZu55qySxnkzu9uoDYsj"
-      },
-      "artists": [
-        {
-          "name": "Kauk\u00e1zus",
-          "url": "https://open.spotify.com/artist/1jf18UNlvDrLdEixB3yXNo"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Brigitta V\u00e1rna",
-      "url": "https://open.spotify.com/track/2gEiIiZtE5yYLU2JE2bacR"
-    },
-    {
-      "added_at": "2025-10-16 22:00:45",
-      "album": {
         "name": "B\u00e1natszalonna",
         "url": "https://open.spotify.com/album/25JxKgwNHEoyBApMyKEeWq"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 182827,
       "name": "B\u00e1natszalonna",
       "url": "https://open.spotify.com/track/0w0Ym7FLmk00KLPj9E6gFD"
+    },
+    {
+      "added_at": "2025-10-16 22:00:45",
+      "album": {
+        "name": "Brigitta V\u00e1rna",
+        "url": "https://open.spotify.com/album/3XDZu55qySxnkzu9uoDYsj"
+      },
+      "artists": [
+        {
+          "name": "Kauk\u00e1zus",
+          "url": "https://open.spotify.com/artist/1jf18UNlvDrLdEixB3yXNo"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Brigitta V\u00e1rna",
+      "url": "https://open.spotify.com/track/2gEiIiZtE5yYLU2JE2bacR"
     },
     {
       "added_at": "2025-10-16 22:00:45",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2025-10-16 22:00:45",
       "album": {
+        "name": "R\u00e1mszokn\u00e1l",
+        "url": "https://open.spotify.com/album/6FTTat9BmATbki7dfdiGK3"
+      },
+      "artists": [
+        {
+          "name": "L\u00f3ci J\u00e1tszik",
+          "url": "https://open.spotify.com/artist/1M7KsIoOlY1CK4h0bFkjIf"
+        },
+        {
+          "name": "Volkova",
+          "url": "https://open.spotify.com/artist/6r8dF10rNGR4C5U8hhwtoR"
+        }
+      ],
+      "duration_ms": 219868,
+      "name": "R\u00e1mszokn\u00e1l",
+      "url": "https://open.spotify.com/track/5WAqO62zy1U2Vu5ZH5ytK2"
+    },
+    {
+      "added_at": "2025-10-16 22:00:45",
+      "album": {
         "name": "Belle \u00c9poque",
         "url": "https://open.spotify.com/album/0wR9qtqzXFLCwxcK2hhmQ9"
       },
@@ -1403,22 +1423,6 @@
       "duration_ms": 198000,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/2HKnUWRcZeg9NwSQRWdLVk"
-    },
-    {
-      "added_at": "2025-10-16 22:00:45",
-      "album": {
-        "name": "Boldog dalok, morbid viccek",
-        "url": "https://open.spotify.com/album/3FAwO96EjgVHpOmSy7VSIB"
-      },
-      "artists": [
-        {
-          "name": "Fi\u00fak",
-          "url": "https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7"
-        }
-      ],
-      "duration_ms": 262325,
-      "name": "Boldog dalok, morbid viccek",
-      "url": "https://open.spotify.com/track/4bIQoFVMAF8tuDYsgw7Skm"
     }
   ],
   "unique_name": "Nemazapop",

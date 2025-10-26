@@ -1,18 +1,18 @@
 {
   "description": "This is Aerosmith. The essential tracks, all in one playlist.",
-  "num_followers": 718389,
+  "num_followers": 718454,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAD1Rl8YDIa0nrC7GDOuwNEv",
+  "snapshot_id": "aPrBgAAAAADYpG9mixyPDnpcWgsIlPn7",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "My Only Angel",
-        "url": "https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f"
+        "name": "My Only Angel (Desert Road Version)",
+        "url": "https://open.spotify.com/album/2xPIwwyl8Mg9ESgYje7e95"
       },
       "artists": [
         {
@@ -22,11 +22,15 @@
         {
           "name": "YUNGBLUD",
           "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Steve Martin",
+          "url": "https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK"
         }
       ],
-      "duration_ms": 255818,
-      "name": "My Only Angel",
-      "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
+      "duration_ms": 235772,
+      "name": "My Only Angel - Desert Road Version",
+      "url": "https://open.spotify.com/track/5GM9fl9rf7s4MIoxHOy2cn"
     },
     {
       "added_at": null,

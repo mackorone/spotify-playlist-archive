@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Ellui\(엘루이\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,855 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,880 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 7 | [PBNJ](https://open.spotify.com/track/1HW6b28Olu5p1g8ukN3uBi) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [PBNJ](https://open.spotify.com/album/7n9kECSkb9t0NWvmNJBwxl) | 2:24 |
 | 8 | [ABCD](https://open.spotify.com/track/7hC8QyyY9RqvgBUDAFf39R) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [Crazy Love!](https://open.spotify.com/album/7ESObTV9pHv67g4HLIpgcp) | 2:48 |
 | 9 | [Close To You](https://open.spotify.com/track/1Roalb2lSrnNLAtaN4XZbt) | [KANG YUCHAN ](https://open.spotify.com/artist/5kI3iuTgSX5OxkWCbVyVwq) | [REBEL](https://open.spotify.com/album/7rwh5uToXwmuCJbMDh2lI3) | 2:39 |
-| 10 | [Moonlight](https://open.spotify.com/track/3oDQFjboot0EOyfeaRHOPg) | [Jung Soyeon](https://open.spotify.com/artist/3fsOxWFf7PkYoRFRYUNdNn) | [Moonlight](https://open.spotify.com/album/60IwICvNXQ4WoEIV9dwfGl) | 3:10 |
+| 10 | [Moonlight](https://open.spotify.com/track/3oDQFjboot0EOyfeaRHOPg) | [Jung Soyeon](https://open.spotify.com/artist/5RU7V9CQHl1CzWWIVBxPwK) | [Moonlight](https://open.spotify.com/album/60IwICvNXQ4WoEIV9dwfGl) | 3:10 |
 | 11 | [HI\-BYE](https://open.spotify.com/track/0yVnDaJhmqUXpSkBcSp2LZ) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF) | [HI\-BYE](https://open.spotify.com/album/77Becd84k3c8YiJfi3iUEJ) | 2:19 |
 | 12 | [Everyday](https://open.spotify.com/track/7EjAdL6I6fa0dHGq13UMRu) | [doyouka](https://open.spotify.com/artist/3Q7TyEIDVLFWfIYfARE9FB) | [Everyday](https://open.spotify.com/album/6iwJoVdq1sFsX3LZIbaZLM) | 3:35 |
 | 13 | [Moments Like This](https://open.spotify.com/track/4HjWscTNLKHkeoV3YopC3m) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Tricycle](https://open.spotify.com/album/2gynWgXZ5cqwvL0S0J4naU) | 4:43 |

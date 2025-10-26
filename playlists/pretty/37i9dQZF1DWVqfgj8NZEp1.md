@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,647,472 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,647,582 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 99 | [That's All](https://open.spotify.com/track/79MOPpvNSagTPcwnx4Ct2b) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Pick Yourself Up](https://open.spotify.com/album/5kdCmgqTuAvaIcjh46usah) | 4:53 |
 | 100 | [My Reverie](https://open.spotify.com/track/0qPQYLhCwZlVQ0yyTYUSTe) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [Hans Backenroth](https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD), [Kristian Leth](https://open.spotify.com/artist/1CIFDAKpTPZH16rWPZMRf5) | [Classics](https://open.spotify.com/album/5nqCI1rOU2bhoTNAmxU0jM) | 6:12 |
 
-Snapshot ID: `AAAAAHrjx8LQOMIJ/GyU+RpgeuO9qP1/`
+Snapshot ID: `AAAAAEUWqoZIEWQ8MoUAFpflg52JV/D5`

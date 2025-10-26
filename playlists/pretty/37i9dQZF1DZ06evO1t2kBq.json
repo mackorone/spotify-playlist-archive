@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 83627,
+  "num_followers": 83635,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAADlrI0berzGh2wLSFfpy9ky",
+  "snapshot_id": "aPrBgAAAAAC+Y88x8+MgwfsmCKjWaNYg",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Maps of Hell (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 167946,
-      "name": "New Dark Ages",
-      "url": "https://open.spotify.com/track/5eNHe2dlIgKGe9SIwu90Va"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 133986,
       "name": "Fuck You",
       "url": "https://open.spotify.com/track/0Yk3FzkNpuZUYY59j9p6eN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Maps of Hell (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 167946,
+      "name": "New Dark Ages",
+      "url": "https://open.spotify.com/track/5eNHe2dlIgKGe9SIwu90Va"
     },
     {
       "added_at": null,

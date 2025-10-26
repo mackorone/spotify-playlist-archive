@@ -4,7 +4,7 @@
 
 > Les hits Raï du moment.
 
-235 songs - 19 hr 4 min
+236 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [3inehom Mesawsa](https://open.spotify.com/track/1jlbsu52lXFfz9rE6VWwId) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/0gstmykgUKTD2dV6QKWuV0) | 3:50 | 2022-05-11 | 2024-01-25 |
 | [3inehom Mesawsa](https://open.spotify.com/track/2z23EvZj7MNw02iE0neRgx) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [3inehom Mesawsa](https://open.spotify.com/album/6NPGIRvX3VViWqisaCEs07) | 3:50 | 2023-02-10 | 2023-02-24 |
 | [3inehom Mesawsa](https://open.spotify.com/track/4XskIx5sYsCbfpC1AQeHv9) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/3cjlTzZoHAlpC7VsWJBv8F) | 3:50 | 2023-02-20 | 2024-01-20 |
+| [9arawni Liyam \- البرية لي لحقت](https://open.spotify.com/track/4uLjXK1FGsU3OqRzpxce79) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [9arawni Liyam \- البرية لي لحقت](https://open.spotify.com/album/4mZvAXQLgc9UmF3K1kFmw9) | 5:28 | 2025-10-25 |  |
 | [Aachk El Memnou3](https://open.spotify.com/track/5eqd75kv4vAPQdvZ7RJTJb) | [Cheb Akil](https://open.spotify.com/artist/5zhdzKcrjPbWWcFIwfhSqw) | [Raï RnB 2013](https://open.spotify.com/album/1L08FkHFD7tIsXVxy0kF7u) | 4:04 | 2021-10-19 | 2023-02-11 |
 | [Adieu El Ouzoubia](https://open.spotify.com/track/141wlkya3OgLeIgPZNJat1) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [Adieu El Ouzoubia](https://open.spotify.com/album/6TcDR4UqwJcPiXPThtA8pZ) | 4:02 | 2023-04-14 | 2023-06-20 |
 | [Al Hachwa Hachwa](https://open.spotify.com/track/0GDjF1aq0W3hZN9whZtcmw) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [100% Cheb Bello](https://open.spotify.com/album/2mWcnvOcuwLTuWcLeHzmzi) | 5:15 | 2021-10-19 | 2022-07-29 |
@@ -78,7 +79,7 @@
 | [Galbek Hnin](https://open.spotify.com/track/4KDcEc96txreeEubzdDPbD) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Galbek Hnin](https://open.spotify.com/album/1MOev2y0PJadIp52sXjwW2) | 4:00 | 2022-11-14 | 2022-11-21 |
 | [Galbi 3lik Nberdah](https://open.spotify.com/track/1dNtGFaYXVYZScOHJDxHop) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A), [Yousri Osqar](https://open.spotify.com/artist/7g2JUs53eAMoNovszsQtay) | [Galbi 3lik Nberdah](https://open.spotify.com/album/3NPdCimnGE3NROx5bGPr4y) | 5:07 | 2022-12-25 | 2024-10-28 |
 | [Galbi Datah](https://open.spotify.com/track/5JsvWH6RGUJB6534yHu6h1) | [Cheb Reda](https://open.spotify.com/artist/4Dv4xd6O64eglhzxOCQDcb), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Galbi Datah](https://open.spotify.com/album/6u1mr4vKlPuFnAzUnWpUR8) | 4:36 | 2023-05-01 | 2023-08-26 |
-| [Galbi Khasah Molah](https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Galbi Khasah Molah](https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT) | 4:26 | 2023-03-14 |  |
+| [Galbi Khasah Molah](https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Galbi Khasah Molah](https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT) | 4:26 | 2023-03-14 | 2025-10-26 |
 | [Galbi Ndirleh 3asas](https://open.spotify.com/track/2o9EZRu4Mx5GMFnJi9WpIC) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Galbi Ndirleh 3asas](https://open.spotify.com/album/37pvma3AHWm2qQUjh9tA2g) | 2:53 | 2023-01-03 | 2025-02-11 |
 | [GALBI RAH MEDRAR](https://open.spotify.com/track/5CTSZ5c4U3PJF2uQNDpCVa) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [GALBI RAH MEDRAR](https://open.spotify.com/album/0UDVHc4u4lYGc0ZpMK9WGW) | 5:20 | 2024-08-07 |  |
 | [Gariha Tebred](https://open.spotify.com/track/2axZSUsWulCzn4Ewx3pJCH) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Gariha Tebred](https://open.spotify.com/album/01uuEUdBLAo8JTQplSxJQJ) | 4:36 | 2024-08-20 |  |

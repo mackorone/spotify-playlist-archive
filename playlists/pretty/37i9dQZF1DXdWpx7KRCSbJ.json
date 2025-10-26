@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 328820,
+  "num_followers": 328839,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 173136,
+      "name": "Disk Me",
+      "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "TOMA",
         "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 129654,
       "name": "TOMA",
       "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 173136,
-      "name": "Disk Me",
-      "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1135,18 +1135,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Pirata e tesouro (Ao vivo)",
-        "url": "https://open.spotify.com/album/7CRx2qo53oZiaycSmsxwsm"
+        "name": "S\u00e9culo 21",
+        "url": "https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7"
       },
       "artists": [
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 219592,
-      "name": "Pirata e tesouro - Ao vivo",
-      "url": "https://open.spotify.com/track/4gOgVYsfTUNp8GifD8GI7e"
+      "duration_ms": 167838,
+      "name": "S\u00e9culo 21",
+      "url": "https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1171,22 +1175,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "S\u00e9culo 21",
-        "url": "https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7"
+        "name": "Pirata e tesouro (Ao vivo)",
+        "url": "https://open.spotify.com/album/7CRx2qo53oZiaycSmsxwsm"
       },
       "artists": [
         {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 167838,
-      "name": "S\u00e9culo 21",
-      "url": "https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ"
+      "duration_ms": 219592,
+      "name": "Pirata e tesouro - Ao vivo",
+      "url": "https://open.spotify.com/track/4gOgVYsfTUNp8GifD8GI7e"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Eu Mere\u00e7o Ser Feliz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0RKJklVj9ftrifuRNwVLaI"
+      },
+      "artists": [
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "duration_ms": 194090,
+      "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
+      "url": "https://open.spotify.com/track/1lHJDa7IGCYwjf10VcmvFb"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
         "url": "https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 142187,
       "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
       "url": "https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Eu Mere\u00e7o Ser Feliz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0RKJklVj9ftrifuRNwVLaI"
-      },
-      "artists": [
-        {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
-        }
-      ],
-      "duration_ms": 194090,
-      "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
-      "url": "https://open.spotify.com/track/1lHJDa7IGCYwjf10VcmvFb"
     },
     {
       "added_at": "2023-01-17 01:33:36",

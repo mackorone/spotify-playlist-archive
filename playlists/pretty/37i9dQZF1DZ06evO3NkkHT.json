@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 68538,
+  "num_followers": 68611,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAD9KhcAHfcDGp/Hhy6hVOV3",
+  "snapshot_id": "aPrBgAAAAAAKJMKTY2U4ciO6P3yvmMhr",
   "tracks": [
     {
       "added_at": null,
@@ -67,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "The Largest",
-      "url": "https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMAR",
         "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 157377,
       "name": "Levels",
       "url": "https://open.spotify.com/track/6vOeokRJNZjouabFGDLH1C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "The Largest",
+      "url": "https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1"
     },
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 146133,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hope You're Happy",
         "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 126000,
       "name": "Pray Hard (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/6p6iLtRA7a93kXhkomJUPo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 146133,
-      "name": "Texas",
-      "url": "https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm"
     },
     {
       "added_at": null,
@@ -247,22 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+        "name": "Mr.Trouble",
+        "url": "https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Box Me Up (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/7JjciUzSALsonXv6MukgrP"
+      "duration_ms": 122000,
+      "name": "Mr.Trouble",
+      "url": "https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn"
     },
     {
       "added_at": null,
@@ -283,18 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr.Trouble",
-        "url": "https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd"
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 122000,
-      "name": "Mr.Trouble",
-      "url": "https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn"
+      "duration_ms": 173333,
+      "name": "Box Me Up (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/7JjciUzSALsonXv6MukgrP"
     },
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 133002,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hope You're Happy",
         "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 176933,
       "name": "About You (feat. Tucker Wetmore)",
       "url": "https://open.spotify.com/track/4mDeL6rcWzsCLVYcdnzDo5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 133002,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TAKE CARE (DELUXE)",
+        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 124480,
+      "name": "Life of a Boss",
+      "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hope You're Happy",
         "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 185000,
       "name": "I Hope You're Happy (feat. Darius Rucker)",
       "url": "https://open.spotify.com/track/5W7KycBW97fBZoXtsFX3Gz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TAKE CARE (DELUXE)",
-        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 124480,
-      "name": "Life of a Boss",
-      "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 164746,
+      "name": "Rap Niggas",
+      "url": "https://open.spotify.com/track/5N07BHxtukdhyjLDrGfo9P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be Someone: Texas Population",
         "url": "https://open.spotify.com/album/14XtPxh7Dy1qbLgIw8tYNi"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 165114,
       "name": "TexUS - Intro",
       "url": "https://open.spotify.com/track/3YH1yjX1BfDp68VeiW4jfW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR (Deluxe)",
-        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 164746,
-      "name": "Rap Niggas",
-      "url": "https://open.spotify.com/track/5N07BHxtukdhyjLDrGfo9P"
     },
     {
       "added_at": null,

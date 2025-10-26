@@ -538,7 +538,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 124285,
       "name": "Azure Forest",
       "url": "https://open.spotify.com/track/1rvwqBmjavA93zziLEb2pP"
@@ -3286,6 +3286,24 @@
       "duration_ms": 192075,
       "name": "Lyricon",
       "url": "https://open.spotify.com/track/58bpuOIVh1z048wxmryOv1"
+    },
+    {
+      "album": {
+        "name": "Lyvora",
+        "url": "https://open.spotify.com/album/3i2ntpjwIuvdMuYJwjXfNQ"
+      },
+      "artists": [
+        {
+          "name": "Monkville",
+          "url": "https://open.spotify.com/artist/53qEoYIkHrhdTdC6AaSoiJ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143776,
+      "name": "Lyvora",
+      "url": "https://open.spotify.com/track/6swO4wcKvKlpIPziPc7AAk"
     },
     {
       "album": {

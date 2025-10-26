@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui 👀 Cover: Marco Castello
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,300 likes - 132 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,303 likes - 132 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 2 | [Pugili impazziti](https://open.spotify.com/track/3t97iVAQuGsP0TrtxJOn5C) | [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi), [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [Pugili impazziti](https://open.spotify.com/album/0QPqwp1DpjD5a14pa5Anpd) | 3:37 |
 | 3 | [OCCHIAIE](https://open.spotify.com/track/1raoPjIsysUxxINP4QB2ZA) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [OCCHIAIE](https://open.spotify.com/album/46IQNcVUpKaKW25X6CL5fN) | 2:53 |
 | 4 | [Voglia](https://open.spotify.com/track/6bHmaVeCclWfcAgsW9Woct) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Tempo](https://open.spotify.com/album/0VGPQdeIhFg1BqfKqKW0b4) | 2:33 |
-| 5 | [TERAPIA](https://open.spotify.com/track/1K4DOAiklUwaABIuKi7HNg) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [DISCORDIA, ARMONIA E ALTRI STATI D'ANIMO](https://open.spotify.com/album/44w3s0STY96UbKK7wFhWQL) | 3:14 |
+| 5 | [TERAPIA](https://open.spotify.com/track/1K4DOAiklUwaABIuKi7HNg) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [DISCORDIA, ARMONIA E ALTRI STATI D'ANIMO](https://open.spotify.com/album/44w3s0STY96UbKK7wFhWQL) | 3:14 |
 | 6 | [Cara Allegria \(feat\. MILLE\)](https://open.spotify.com/track/53BapHDV764jmkXhG8GF8r) | [Giulia Mei](https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2), [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Cara Allegria \(feat\. MILLE\)](https://open.spotify.com/album/45ojBW52ZyahwPeTiGCQKA) | 3:29 |
 | 7 | [Perdersi](https://open.spotify.com/track/4C6cyMMC2hpHdotMcFrEEQ) | [Bouganville](https://open.spotify.com/artist/5wcaCE2ZVnSUamt3lzm3uI) | [Non esattamente a fuoco](https://open.spotify.com/album/55MkmEjagoQI5hjK5T0cnx) | 4:16 |
 | 8 | [di malva](https://open.spotify.com/track/07cG69CgL3B0Ndi8inXaCU) | [juni](https://open.spotify.com/artist/3AKqJ5gNjU2hp8Xm8Mywvb) | [di malva](https://open.spotify.com/album/1wKtY8GO7Cywa3FhIzNDFk) | 2:30 |

@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- When Chai Met Toast
 
-296 songs - 16 hr 12 min
+297 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Tera Mera Aasmaan](https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX) | 2:38 | 2023-05-02 | 2024-03-21 |
 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 | 2023-05-02 | 2025-07-26 |
 | [TERA PATA](https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [TERA PATA](https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z) | 2:46 | 2025-03-13 | 2025-10-04 |
+| [Tere Gaon](https://open.spotify.com/track/3YNWnHvYHjFLQgjayEdhB9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Stay Vol\. 1](https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql) | 2:54 | 2025-10-17 |  |
 | [Tere Hi Hum](https://open.spotify.com/track/1TkyDEdjiUuYhoMkxdZCiO) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tere Hi Hum](https://open.spotify.com/album/4xOZZmHAlau3WBiH4OPpKD) | 2:57 | 2023-05-02 | 2025-09-17 |
 | [Tere Saath](https://open.spotify.com/track/0WhyIEgQhdkZnZou94QK8e) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Kashi Kashyap](https://open.spotify.com/artist/0QbL0Gj9Jbt9UrLUdhPDP9) | [Tere Saath](https://open.spotify.com/album/38b70GkMOWK3d8AYDmVO1Q) | 3:06 | 2023-08-08 |  |
 | [Teri Yaad](https://open.spotify.com/track/3uUAbrwsttRpv2kfAvAUN9) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Teri Yaad](https://open.spotify.com/album/1QE4rDAvMrYGSpVdbrFIRH) | 3:50 | 2023-05-02 |  |
@@ -287,7 +288,7 @@
 | [Tuu](https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Tuu](https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp) | 3:10 | 2024-06-18 | 2025-07-17 |
 | [Ud Ke Chali](https://open.spotify.com/track/0zVhqtuCf3QCozl1NewYyT) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Ud Ke Chali](https://open.spotify.com/album/2hkVPBR8j7cZWNmCdWer5f) | 3:55 | 2024-04-05 | 2024-05-11 |
 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 | 2023-05-02 |  |
-| [Udta Parinda](https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Udta Parinda](https://open.spotify.com/album/2bQOQBSdlI6Oh7rW5rah5T) | 2:58 | 2023-12-15 |  |
+| [Udta Parinda](https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Udta Parinda](https://open.spotify.com/album/2bQOQBSdlI6Oh7rW5rah5T) | 2:58 | 2023-12-15 | 2025-10-26 |
 | [Uljhan](https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Uljhan](https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3) | 2:14 | 2024-09-30 |  |
 | [Uljhe Hue \- From "Uljhe Hue"](https://open.spotify.com/track/0tEAGQTo2PXnWFKn99x0a7) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Melissa Srivastava](https://open.spotify.com/artist/6TRkbVu5prWSsBreC4tw4K) | [Uljhe Hue \(From "Uljhe Hue"\)](https://open.spotify.com/album/6VDcItSobKtTHwCIrmYdvx) | 1:52 | 2023-05-02 | 2024-08-21 |
 | [Waadiyan](https://open.spotify.com/track/0tncVBZdQYMzn2QB6SIIJ9) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs), [Prim4l](https://open.spotify.com/artist/7xPjYvBpWN3dypuCZfi6Z9) | [Waadiyan](https://open.spotify.com/album/4vHkr8nlTomIr17DcY3pdL) | 3:00 | 2024-05-06 | 2024-06-19 |

@@ -26101,6 +26101,24 @@
     },
     {
       "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/6Q8ZsffmxV2dDvqrduhLa4"
+      },
+      "artists": [
+        {
+          "name": "Open Blue Sky",
+          "url": "https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60464,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/3jHVr4WPL7jmIOekiqKjKu"
+    },
+    {
+      "album": {
         "name": "Beautiful Dreams",
         "url": "https://open.spotify.com/album/6Q8Qv4dPI9s1Fe5uKIbz3T"
       },

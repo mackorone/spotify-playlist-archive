@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 470067,
+  "num_followers": 470112,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAAZtAZiGis+G3T2qGQE+s2W",
+  "snapshot_id": "aPrBgAAAAACx4AbAirIBRDuxaZ+G0a/M",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Carter V",
+        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 316192,
+      "name": "Let It All Work Out",
+      "url": "https://open.spotify.com/track/3BUWNzPWz2mDbptZmGEXpB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 255915,
       "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter V",
-        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 316192,
-      "name": "Let It All Work Out",
-      "url": "https://open.spotify.com/track/3BUWNzPWz2mDbptZmGEXpB"
     },
     {
       "added_at": null,
@@ -319,30 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/5aPR14AS7MRLz3fea04oKj"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 217631,
-      "name": "Miami (feat. Lil Wayne & Rick Ross)",
-      "url": "https://open.spotify.com/track/4vsarEetbprJa5Z2ZJ4RL7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A"
       },
@@ -371,6 +347,30 @@
       "duration_ms": 288600,
       "name": "I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",
       "url": "https://open.spotify.com/track/3DXncPQOG4VBw3QHh3S817"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/5aPR14AS7MRLz3fea04oKj"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 217631,
+      "name": "Miami (feat. Lil Wayne & Rick Ross)",
+      "url": "https://open.spotify.com/track/4vsarEetbprJa5Z2ZJ4RL7"
     },
     {
       "added_at": null,
@@ -795,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Believer (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 219705,
+      "name": "Believer (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 148610,
       "name": "Twist Made Me",
       "url": "https://open.spotify.com/track/4AZKDSYA1qtpiZQBdXno2j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Believer (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 219705,
-      "name": "Believer (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN"
     },
     {
       "added_at": null,

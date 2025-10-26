@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop, soda featuring Carter Vail
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,955 likes - 65 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,944 likes - 65 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 64 | [TALK TO ME](https://open.spotify.com/track/7m0GDXRGF3UlFxJ989v6VH) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [TALK TO ME](https://open.spotify.com/album/1ZGnMpAYWjIS5LIHGs9Yib) | 2:38 |
 | 65 | [first date](https://open.spotify.com/track/0WQa83jf87irPjO1eaC5qL) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [first date](https://open.spotify.com/album/2mIJLycY91IuPczBAGX1PG) | 1:40 |
 
-Snapshot ID: `AAAAAEAFtbYNe6Vb6xNAj353jyRq0MzE`
+Snapshot ID: `AAAAAPOv2afajcLMVfF7opd1JC42Sz+Z`

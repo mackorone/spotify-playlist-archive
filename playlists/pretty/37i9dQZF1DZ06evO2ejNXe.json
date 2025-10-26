@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAADsdjqO4TyrL9A0bRjDWuIx",
+  "snapshot_id": "aPrBgAAAAADWsmGprf/UA58ek8MjVNhJ",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 171640,
-      "name": "La Guera Karla",
-      "url": "https://open.spotify.com/track/1AnMUfHLFWbM26lZWH793A"
+      "duration_ms": 203426,
+      "name": "El Chango Lloron",
+      "url": "https://open.spotify.com/track/3wBuwyiOOn3SDWJASq4bHR"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 203426,
-      "name": "El Chango Lloron",
-      "url": "https://open.spotify.com/track/3wBuwyiOOn3SDWJASq4bHR"
+      "duration_ms": 171640,
+      "name": "La Guera Karla",
+      "url": "https://open.spotify.com/track/1AnMUfHLFWbM26lZWH793A"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Locamente Enamorado",
-      "url": "https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA GORDA",
         "url": "https://open.spotify.com/album/26sbSnTr3SZ9gU2auO78Ha"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 206000,
       "name": "LA GORDA",
       "url": "https://open.spotify.com/track/0G9moVihw52g3agFXan7Mu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Mil cartas.",
-      "url": "https://open.spotify.com/track/3DCS7PRExYp8s1xPD2GdwD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viva La Fiesta",
         "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Mil cartas.",
+      "url": "https://open.spotify.com/track/3DCS7PRExYp8s1xPD2GdwD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Reloj De Mi Corazon",
         "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 257266,
       "name": "El Reloj De Mi Corazon",
       "url": "https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es La Primera Vez",
+        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Claridad",
+      "url": "https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6"
     },
     {
       "added_at": null,
@@ -567,22 +583,6 @@
       "duration_ms": 209760,
       "name": "Mambo Caliente",
       "url": "https://open.spotify.com/track/2yM2qO9OLVpQWH0Zk67tzm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es La Primera Vez",
-        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Claridad",
-      "url": "https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/1i9ej2a75hQvIrqOod5cP6"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 161053,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cosa Caliente",
         "url": "https://open.spotify.com/album/14xCxjacYrmBsqe6IfYetT"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 177782,
       "name": "Cosa Caliente",
       "url": "https://open.spotify.com/track/7aL7CNXgcKDJnAjk1z3h1E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/1i9ej2a75hQvIrqOod5cP6"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 161053,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7"
     },
     {
       "added_at": null,

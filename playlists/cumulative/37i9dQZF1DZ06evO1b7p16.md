@@ -4,7 +4,7 @@
 
 > This is Taking Back Sunday\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 29 min
+78 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [The Ballad Of Sal Villanueva](https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Victory Style, Vol\. 5](https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k) | 3:52 | 2022-10-25 |  |
 | [The One](https://open.spotify.com/track/7JmnFOR3DUiRTkEybOlDqh) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [The One](https://open.spotify.com/album/45FGsNi8qTqFla0M1DlnKa) | 3:17 | 2023-07-01 | 2023-12-14 |
 | [The One](https://open.spotify.com/track/6pPAZMk6ELhS23soG1G3je) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:17 | 2023-12-13 |  |
+| [The Pattern](https://open.spotify.com/track/00cLtR2kbecamCC4HVQe0o) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Music For Everyone Vol .2](https://open.spotify.com/album/3Pf5Jtp5XIBNVoxAC6Ig4i) | 3:10 | 2025-10-26 |  |
 | [The Union](https://open.spotify.com/track/48D2dRzncKoIVYdDBoTR70) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 2:50 | 2024-05-14 | 2024-07-18 |
 | [There's No 'I' In Team \- Remastered](https://open.spotify.com/track/5GDhZIimrLEJAgV7zVshSG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:48 | 2022-10-25 |  |
 | [They Don't Have Any Friends](https://open.spotify.com/track/13R5rOrwelrTEGh28BPbiB) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:48 | 2024-11-24 | 2025-02-12 |
@@ -84,6 +85,6 @@
 | [You Got Me](https://open.spotify.com/track/2WX60bCE9R6GpJWDEMUwUe) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 3:21 | 2022-10-25 |  |
 | [You Know How I Do \- Remastered](https://open.spotify.com/track/7zqyhEbjAajHuvH2Icn1Hr) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:21 | 2022-10-25 |  |
 | [You're So Last Summer \- Remastered 2019](https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:01 | 2022-10-25 |  |
-| [Your Own Disaster \- Live From Orensanz, New York, NY / 2010](https://open.spotify.com/track/1aggSZloUOTB3Y6vGMD8GS) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Live From Orensanz](https://open.spotify.com/album/586wLbc8nvAWQXVcAAwib4) | 4:56 | 2022-10-25 |  |
+| [Your Own Disaster \- Live From Orensanz, New York, NY / 2010](https://open.spotify.com/track/1aggSZloUOTB3Y6vGMD8GS) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Live From Orensanz](https://open.spotify.com/album/586wLbc8nvAWQXVcAAwib4) | 4:56 | 2022-10-25 | 2025-10-26 |
 
 \*This playlist was first scraped on 2022-10-26. Prior content cannot be recovered.

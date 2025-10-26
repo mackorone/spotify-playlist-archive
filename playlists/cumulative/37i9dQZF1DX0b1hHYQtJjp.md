@@ -4,7 +4,7 @@
 
 > Recent hits and new songs from your fave artists\. Cover: Jessie Murph
 
-2,305 songs - 5 day 6 hr 57 min
+2,306 songs - 5 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -852,7 +852,7 @@
 | [Holy Water](https://open.spotify.com/track/7EWkSYW9mvDlOZaqdbGyMF) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Holy Water](https://open.spotify.com/album/40VGDgVk859imEpxMsI26B) | 3:39 | 2021-05-22 | 2021-08-28 |
 | [Holy Water](https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Holy Water](https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU) | 2:29 | 2025-08-08 | 2025-10-18 |
 | [home](https://open.spotify.com/track/6Hl5dmIotzJ28pM5Fpsgq7) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [home](https://open.spotify.com/album/0ar0HuyI7ELptzJi1O0WhF) | 3:39 | 2022-07-01 | 2022-08-04 |
-| [HOME](https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [HOME](https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D) | 2:39 | 2025-10-10 |  |
+| [HOME](https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [HOME](https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D) | 2:39 | 2025-10-10 | 2025-10-26 |
 | [Home](https://open.spotify.com/track/4dAndgikVkcl6dPZN55sa1) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Home](https://open.spotify.com/album/5UAcuDqW3W4Pmhp31wNKHr) | 2:37 | 2025-01-17 | 2025-01-25 |
 | [Home \(feat\. Shaboozey\)](https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Home \(feat\. Shaboozey\)](https://open.spotify.com/album/50Gz1176FyXKAnBmVvc6GQ) | 2:15 | 2025-06-27 | 2025-08-16 |
 | [Home \(with Michael Bublé\)](https://open.spotify.com/track/4nX0jG14mSIi0LcmK3sq0b) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:44 | 2023-12-01 | 2023-12-23 |
@@ -1261,6 +1261,7 @@
 | [Made it Awkward](https://open.spotify.com/track/0YBvfqU633fiBO5hC04SRX) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Made it Awkward](https://open.spotify.com/album/5NqFsOOBLx0ZQgOJiOezJX) | 3:04 | 2024-11-22 | 2024-12-14 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-21 | 2023-03-11 |
 | [Madeline](https://open.spotify.com/track/7olLQTNt5CTBoT7p5eQt3p) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Madeline](https://open.spotify.com/album/1WeO8z4bDl9OYUp5bL678l) | 3:37 | 2025-09-12 | 2025-10-18 |
+| [Madeline](https://open.spotify.com/track/1GpM5w7maS7MGVkZdg6jPE) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 2:55 | 2025-10-25 |  |
 | [Magic](https://open.spotify.com/track/1ssJcV4TYevaV87K813ht6) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Magic](https://open.spotify.com/album/2mXQsMd0DEX5zrFEuI5Zij) | 3:10 | 2024-10-04 | 2024-12-07 |
 | [Magic](https://open.spotify.com/track/47Gp8oW808q6j4Oxg9iGLw) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Magic](https://open.spotify.com/album/2X2jLJr3W0IMGbCVwzSjc3) | 3:06 | 2022-02-25 | 2022-03-05 |
 | [Magic](https://open.spotify.com/track/0tpZUwE9apjRQLJP46LHn8) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Still Kids](https://open.spotify.com/album/0eoZWGxdpc4HIG6bjlel2H) | 2:35 | 2024-05-17 | 2024-06-01 |

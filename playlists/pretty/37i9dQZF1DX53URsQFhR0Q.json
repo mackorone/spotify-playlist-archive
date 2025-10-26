@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 9966,
+  "num_followers": 9970,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
+        "name": "Ma Metsi Biara",
+        "url": "https://open.spotify.com/album/3i0IMncESDwizxHybc50rp"
+      },
+      "artists": [
+        {
+          "name": "Amy Newman",
+          "url": "https://open.spotify.com/artist/4wfnvecs6YukRABU5mTyQS"
+        }
+      ],
+      "duration_ms": 336960,
+      "name": "Okamafo Jesus",
+      "url": "https://open.spotify.com/track/6HHgiMp6laU0gW41fBgJzS"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
         "name": "Aseda",
         "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 269169,
       "name": "Mo Ne Yo",
       "url": "https://open.spotify.com/track/2dopQvR9fcAJwlR40o3yLD"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "Ma Metsi Biara",
-        "url": "https://open.spotify.com/album/3i0IMncESDwizxHybc50rp"
-      },
-      "artists": [
-        {
-          "name": "Amy Newman",
-          "url": "https://open.spotify.com/artist/4wfnvecs6YukRABU5mTyQS"
-        }
-      ],
-      "duration_ms": 336960,
-      "name": "Okamafo Jesus",
-      "url": "https://open.spotify.com/track/6HHgiMp6laU0gW41fBgJzS"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -151,22 +151,6 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
-      },
-      "artists": [
-        {
-          "name": "Daughters of Glorious Jesus",
-          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
-        }
-      ],
-      "duration_ms": 427226,
-      "name": "Wo Ntaban",
-      "url": "https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
         "name": "Adam Nana",
         "url": "https://open.spotify.com/album/0BjeF6EHMtr9lLzicT1kVH"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 230466,
       "name": "Adam Nana",
       "url": "https://open.spotify.com/track/3HL6eViBoq5YO8Gpy4VSUc"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
+      },
+      "artists": [
+        {
+          "name": "Daughters of Glorious Jesus",
+          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
+        }
+      ],
+      "duration_ms": 427226,
+      "name": "Wo Ntaban",
+      "url": "https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
-      },
-      "artists": [
-        {
-          "name": "Daughters of Glorious Jesus",
-          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
-        }
-      ],
-      "duration_ms": 395013,
-      "name": "Bebre",
-      "url": "https://open.spotify.com/track/0AqVbvy316jvn30WplrcQF"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
         "name": "Obi Nyanime",
         "url": "https://open.spotify.com/album/529oA87giAzWVG0dCQfOaZ"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 374230,
       "name": "Obi Nyanime",
       "url": "https://open.spotify.com/track/2viwGf2amzhI31dEOx9Zc5"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
+      },
+      "artists": [
+        {
+          "name": "Daughters of Glorious Jesus",
+          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
+        }
+      ],
+      "duration_ms": 395013,
+      "name": "Bebre",
+      "url": "https://open.spotify.com/track/0AqVbvy316jvn30WplrcQF"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -279,6 +279,22 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
+        "name": "Ghana Gospel Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+      },
+      "artists": [
+        {
+          "name": "Ama Boahemaa",
+          "url": "https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU"
+        }
+      ],
+      "duration_ms": 377678,
+      "name": "Bue Kwan Ma Me",
+      "url": "https://open.spotify.com/track/0gUVb28Uegg96XfBZYZglR"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
         "name": "Dom Hene",
         "url": "https://open.spotify.com/album/5L9oBLWrIOhMdCCrFYK0SC"
       },
@@ -295,18 +311,18 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Ghana Gospel Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0"
       },
       "artists": [
         {
-          "name": "Ama Boahemaa",
-          "url": "https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU"
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
         }
       ],
-      "duration_ms": 377678,
-      "name": "Bue Kwan Ma Me",
-      "url": "https://open.spotify.com/track/0gUVb28Uegg96XfBZYZglR"
+      "duration_ms": 318146,
+      "name": "Mema Meni So",
+      "url": "https://open.spotify.com/track/3Rr1Y9nXzMpjqZcsKvzydb"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -343,18 +359,18 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0"
+        "name": "Ghana Gospel Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
       },
       "artists": [
         {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
+          "name": "Ama Boahemaa",
+          "url": "https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU"
         }
       ],
-      "duration_ms": 318146,
-      "name": "Mema Meni So",
-      "url": "https://open.spotify.com/track/3Rr1Y9nXzMpjqZcsKvzydb"
+      "duration_ms": 331389,
+      "name": "Enyi Me Mma",
+      "url": "https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -375,18 +391,18 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Ghana Gospel Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+        "name": "W'agye Me (He Has Saved Me)",
+        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
       "artists": [
         {
-          "name": "Ama Boahemaa",
-          "url": "https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU"
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
         }
       ],
-      "duration_ms": 331389,
-      "name": "Enyi Me Mma",
-      "url": "https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS"
+      "duration_ms": 301400,
+      "name": "Aseda Nwom",
+      "url": "https://open.spotify.com/track/05R11rW0YAZNhjE3HpcGHm"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -423,18 +439,18 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "W'agye Me (He Has Saved Me)",
-        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
+        "name": "Ghana Gospel Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
       },
       "artists": [
         {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
+          "name": "Comfort Annor",
+          "url": "https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb"
         }
       ],
-      "duration_ms": 301400,
-      "name": "Aseda Nwom",
-      "url": "https://open.spotify.com/track/05R11rW0YAZNhjE3HpcGHm"
+      "duration_ms": 328855,
+      "name": "Di Wo Hene",
+      "url": "https://open.spotify.com/track/7cf86toNQniypAJK3Gjqwu"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -455,18 +471,18 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Ghana Gospel Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0"
       },
       "artists": [
         {
-          "name": "Comfort Annor",
-          "url": "https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb"
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
         }
       ],
-      "duration_ms": 328855,
-      "name": "Di Wo Hene",
-      "url": "https://open.spotify.com/track/7cf86toNQniypAJK3Gjqwu"
+      "duration_ms": 347693,
+      "name": "Aden Nti Na Woresu Yi_",
+      "url": "https://open.spotify.com/track/5j3jlCQ6gJl4hMLLwTNF7H"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -499,22 +515,6 @@
       "duration_ms": 383120,
       "name": "Asem kese bi reba",
       "url": "https://open.spotify.com/track/18saGdKyUZvHf1A6etiZNg"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0"
-      },
-      "artists": [
-        {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
-        }
-      ],
-      "duration_ms": 347693,
-      "name": "Aden Nti Na Woresu Yi_",
-      "url": "https://open.spotify.com/track/5j3jlCQ6gJl4hMLLwTNF7H"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Ghana Gospel Mix",
-        "url": "https://open.spotify.com/album/5ycAL9zH0ilBJ4wKjTDxpY"
-      },
-      "artists": [
-        {
-          "name": "Philipa Baafi",
-          "url": "https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0"
-        }
-      ],
-      "duration_ms": 296752,
-      "name": "Yesu Ne Me Last Stop",
-      "url": "https://open.spotify.com/track/5dg3UDruST8ro3QGWpEDeu"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
         "name": "I Am Noble",
         "url": "https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 244297,
       "name": "Ayeyi",
       "url": "https://open.spotify.com/track/6EfsJGWyEb7ja8zInmtRNY"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "Ghana Gospel Mix",
+        "url": "https://open.spotify.com/album/5ycAL9zH0ilBJ4wKjTDxpY"
+      },
+      "artists": [
+        {
+          "name": "Philipa Baafi",
+          "url": "https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0"
+        }
+      ],
+      "duration_ms": 296752,
+      "name": "Yesu Ne Me Last Stop",
+      "url": "https://open.spotify.com/track/5dg3UDruST8ro3QGWpEDeu"
     },
     {
       "added_at": "2025-01-09 09:53:00",

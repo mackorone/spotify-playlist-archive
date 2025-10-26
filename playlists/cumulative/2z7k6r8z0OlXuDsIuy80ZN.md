@@ -4,7 +4,7 @@
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-348 songs - 18 hr 8 min
+349 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Entre Un Millón](https://open.spotify.com/track/2FtObgxe46yRTU44PopBAc) | [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Entre Un Millón](https://open.spotify.com/album/1XcZTqDAGNwle5lfpIaiqg) | 3:19 | 2023-06-17 | 2023-11-05 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-08-20 | 2023-03-26 |
 | [Eres](https://open.spotify.com/track/668a0lyEpOKAcjDkvSofhL) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [Eres](https://open.spotify.com/album/5sxHFZ5lwvkNkNvNvPkdD4) | 3:48 | 2023-03-04 | 2023-05-14 |
-| [esc](https://open.spotify.com/track/4JcTBSL3PDxgFE407EO37q) | [Paul Thin](https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv) | [esc](https://open.spotify.com/album/7ya6c7cLB0oSqqvfZTQcH0) | 3:03 | 2025-07-12 |  |
+| [esc](https://open.spotify.com/track/4JcTBSL3PDxgFE407EO37q) | [Paul Thin](https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv) | [esc](https://open.spotify.com/album/7ya6c7cLB0oSqqvfZTQcH0) | 3:03 | 2025-07-12 | 2025-10-26 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-15 | 2025-03-23 |
 | [Estamos a un beso](https://open.spotify.com/track/4bRg5nJCS7OcyJUMPgRAqH) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Estamos a un beso](https://open.spotify.com/album/7Gf9kJXYIaRwbgnbG0vHxM) | 3:12 | 2023-07-08 | 2023-11-05 |
 | [ESTRELLA DE ROCK](https://open.spotify.com/track/0PdIAEzN1AK5laexRwivq0) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [GÉNESIS](https://open.spotify.com/album/0G8lGbUNwUNwlJx5s5FOhG) | 2:39 | 2025-01-25 | 2025-08-10 |
@@ -311,6 +311,7 @@
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2022-01-15 | 2022-08-07 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-12-29 |  |
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-10-19 | 2025-04-27 |
+| [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 | 2025-10-25 |  |
 | [Tienes Que Saber](https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Naiara](https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6) | [Tienes Que Saber](https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5) | 3:00 | 2024-08-24 | 2025-01-12 |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-11-05 | 2023-01-29 |
 | [Titiritar](https://open.spotify.com/track/7cJDcvC6nSbkx4quEn7vTk) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Titiritar](https://open.spotify.com/album/55kodOr5aKPVSKUuHa608P) | 3:01 | 2024-07-06 | 2024-10-27 |

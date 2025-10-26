@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: BOY SODA
 
-482 songs - 1 day 2 hr 47 min
+483 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Get Knocked Down](https://open.spotify.com/track/4QCYGQb57NVQvDvG6RKpQV) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Get Knocked Down](https://open.spotify.com/album/366i7YVWV8vUqgciOQSyw4) | 3:40 | 2025-05-01 | 2025-05-30 |
 | [Get Started](https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Get Started](https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI) | 2:56 | 2025-04-24 | 2025-07-16 |
 | [Give Me All Your Love](https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6) | 3:20 | 2025-09-04 |  |
-| [Give Thanks, Give Praise](https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [it's Franky baby!](https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9) | 3:41 | 2025-01-23 |  |
+| [Give Thanks, Give Praise](https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [it's Franky baby!](https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9) | 3:41 | 2025-01-23 | 2025-10-26 |
 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 | 2024-05-31 | 2025-03-14 |
 | [Givin' It Up](https://open.spotify.com/track/7JlwEzDrrUCQyqS4bun7cG) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Givin' It Up](https://open.spotify.com/album/7lyQed6f1BtFe5Q5K9eRvR) | 3:25 | 2024-08-30 | 2024-11-14 |
 | [Giving Up Air](https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Giving Up Air](https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw) | 4:47 | 2025-09-25 |  |
@@ -414,6 +414,7 @@
 | [Tastes Like Forever](https://open.spotify.com/track/33xgQAHpWcbY8B45sakPCn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Tastes Like Forever](https://open.spotify.com/album/215QMvTeoFnVA979rGytHy) | 3:42 | 2024-10-24 | 2024-11-29 |
 | [Tears Dry Tonight](https://open.spotify.com/track/3WjljjNzoLEQxghZLoAyFQ) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Tears Dry Tonight](https://open.spotify.com/album/2x4jGKWr3BFg511NVr88Cq) | 2:47 | 2025-04-24 |  |
 | [Telephone](https://open.spotify.com/track/1zrPP3d5HZQE2G9z1oIPQn) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Telephone](https://open.spotify.com/album/4k9RC4zvHzwV1f1HSuT8ra) | 3:41 | 2024-11-28 | 2024-12-06 |
+| [Telephone Busy](https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Telephone Busy](https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2) | 3:15 | 2025-10-23 |  |
 | [Telescope](https://open.spotify.com/track/3I6BZFdnhkpSlGDvTGLg6N) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Telescope](https://open.spotify.com/album/7u7J2ZsrQ5TwEGAsKfuccQ) | 3:28 | 2025-01-30 | 2025-02-07 |
 | [tell me something](https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [tell me something](https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn) | 3:57 | 2025-05-22 | 2025-09-30 |
 | [That's My](https://open.spotify.com/track/3yUD8TT3OD0Zi7Aj8gPRdQ) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp) | [That's My](https://open.spotify.com/album/5ukWDRZUm16Tc00WlvCmC0) | 4:01 | 2025-09-01 | 2025-09-05 |

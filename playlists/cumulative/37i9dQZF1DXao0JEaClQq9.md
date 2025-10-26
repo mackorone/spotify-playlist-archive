@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: Blood Orange
 
-734 songs - 1 day 22 hr 25 min
+735 songs - 1 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Crushing](https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Powders](https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U) | 4:31 | 2023-09-22 | 2024-10-26 |
 | [Crushxd](https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Crushxd](https://open.spotify.com/album/46VsFMbRWN6hXT2J0a8fzo) | 3:06 | 2023-04-14 | 2023-05-16 |
 | [Crying in Public](https://open.spotify.com/track/2yXfkGdRTSPgSFJfOGsLhk) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Moth](https://open.spotify.com/album/4j7QJ7DKZ0cBsNuD7GmJFx) | 4:28 | 2021-10-08 | 2022-07-22 |
+| [Cumulus / Memory](https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Cumulus / Memory](https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN) | 6:47 | 2025-10-24 |  |
 | [Cuntradiction](https://open.spotify.com/track/3nMiFnGwlPb2wfoX1JLvPf) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Go](https://open.spotify.com/album/7wcjI4IzkkxRiSo2el3TSr) | 3:46 | 2022-11-11 | 2022-11-19 |
 | [Daddy's Groove](https://open.spotify.com/track/4P0Q5EfIdSPFhebNL8v7P8) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Daddy's Groove](https://open.spotify.com/album/0azvFrSqooHWxkOMU8EwQ2) | 3:12 | 2021-10-08 | 2022-04-22 |
 | [Dance](https://open.spotify.com/track/0MP2SUdqSFDl9tcytBpF8h) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Dance](https://open.spotify.com/album/0ka6ChDCJFiNeA4UW9OLW7) | 2:59 | 2021-06-03 | 2022-04-21 |
@@ -249,7 +250,7 @@
 | [Foolish Thinking](https://open.spotify.com/track/5lvnhOrJy27bEhcfqIodjv) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Ryan Lott](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) | [foolish thinking](https://open.spotify.com/album/3aazS3R5JRjdKi2CcbAA3N) | 5:53 | 2023-01-27 | 2024-06-10 |
 | [Football](https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Football](https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h) | 3:24 | 2024-01-12 | 2024-07-07 |
 | [For Now](https://open.spotify.com/track/6qThvX4x0IT4D5WCdPxJZV) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Ache of Victory](https://open.spotify.com/album/55ICRQmIlXrgsAS1JfKnEI) | 4:18 | 2021-06-03 | 2022-07-28 |
-| [For Sure](https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [For Sure](https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh) | 9:53 | 2024-09-06 |  |
+| [For Sure](https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [For Sure](https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh) | 9:53 | 2024-09-06 | 2025-10-26 |
 | [Forever](https://open.spotify.com/track/4RPs3OeGwQFwUm3fuMbhgI) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Fabiana Palladino](https://open.spotify.com/album/42oaWsdIjvtngWBANg0tux) | 3:59 | 2024-04-05 | 2024-05-24 |
 | [Forever](https://open.spotify.com/track/6potEImiklXkwD9qFzpu15) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 3:22 | 2022-01-28 | 2022-04-20 |
 | [FORWARD](https://open.spotify.com/track/0lFotZWVqwgQOh779DKet5) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [FORWARD](https://open.spotify.com/album/7DtNIDD8b1fN9YO8abZgtT) | 2:16 | 2022-12-16 | 2023-04-22 |
@@ -389,6 +390,7 @@
 | [Killshot \- Slowed + Reverb](https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Killshot \(Slowed + Reverb\)](https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA) | 4:38 | 2021-06-03 | 2023-09-30 |
 | [kisses \- Daniel Avery Remix](https://open.spotify.com/track/1Pk3nzbEP2iYN6Qn10PIAw) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [kisses \(Daniel Avery Remix\) b/w kisses \- sky ii](https://open.spotify.com/album/59iYqAJNi4w4HZoB7jEVgD) | 3:31 | 2024-09-06 | 2024-10-26 |
 | [La Chica\-cá](https://open.spotify.com/track/4wWTiDyPTF63sfMM1n2vpS) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [La Chica\-cá](https://open.spotify.com/album/2vWpiroIhTQMfaKUCYsyhT) | 2:54 | 2024-03-15 | 2024-04-26 |
+| [Labrinth \- Love Is Complicated \(The Angels Sing\)](https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 3:19 | 2022-04-22 |  |
 | [Lalala \(Want Somebody\)](https://open.spotify.com/track/2qm98u5XB1QeETltWvnVaH) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Lalala \(Want Somebody\)](https://open.spotify.com/album/31PEiPIyOFbv3mXxWsU1kl) | 6:06 | 2021-06-03 | 2022-04-15 |
 | [Lara \(feat\. Clairo\)](https://open.spotify.com/track/4hOIaf53AbFr6BwcaT12S1) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Lara \(feat\. Clairo\)](https://open.spotify.com/album/0aFwaHBnxbzeaHvaBVZr68) | 3:40 | 2021-06-03 | 2022-06-04 |
 | [Lark](https://open.spotify.com/track/6IyPPX0nh83mzx4oZ9g7pB) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Lark](https://open.spotify.com/album/5SLUS8RN72mb0uak9ys6CU) | 6:18 | 2021-06-03 | 2022-05-08 |
@@ -413,7 +415,6 @@
 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 | 2021-06-03 | 2022-09-10 |
 | [Loser](https://open.spotify.com/track/32j6e9Wh6dk0jG9KZn9HBe) | [Causeway](https://open.spotify.com/artist/3V6PIgndeEbvQu6ThnLQ5i) | [We Were Never Lost](https://open.spotify.com/album/7edH6cPIKeJcS50pQ5DS45) | 4:05 | 2022-06-03 | 2022-07-29 |
 | [Losing Focus](https://open.spotify.com/track/1dfs70eiZmlIo88oDCjodF) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [In Russia\. A is a 9](https://open.spotify.com/album/2puthl2ughnGeS7jor8GJU) | 3:29 | 2025-07-18 |  |
-| [Love Is Complicated \(The Angels Sing\)](https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 3:19 | 2022-04-22 |  |
 | [LOVE IS VIOLENCE](https://open.spotify.com/track/5Bii5cjilhQ9v3BSeSEhnM) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LOVE IS VIOLENCE](https://open.spotify.com/album/3wrX9MJvRVrCEJGHGwNvH9) | 2:37 | 2022-01-31 | 2022-04-01 |
 | [Love333](https://open.spotify.com/track/0wAQl7JsYX4PgX3YCBf8RN) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Forgiveness](https://open.spotify.com/album/1rkbaI9xnf7yi70SyGNKi2) | 3:09 | 2022-05-20 | 2022-07-19 |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-20 | 2024-11-02 |

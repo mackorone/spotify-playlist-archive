@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-268 songs - 17 hr 7 min
+269 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Halvveis rundt jorden](https://open.spotify.com/track/1QQsomZh4unathI9P0c4Qn) | [deLillos](https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N), [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Halvveis rundt jorden](https://open.spotify.com/album/1u5oX5Strf7ELcaOaM833O) | 4:00 | 2022-01-06 | 2022-07-16 |
 | [Han er ikkje deg](https://open.spotify.com/track/7cRsdtV7gS336CqQwgRM4M) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Han er ikkje deg](https://open.spotify.com/album/5AAbIbS9ob9hXok5nOZ1Qw) | 2:34 | 2023-01-19 | 2024-04-24 |
 | [Har En Drøm](https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q) | [Jørn Hoel](https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC) | [Varme Ut Av Is](https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp) | 3:54 | 2021-12-16 |  |
+| [Havet, Maria](https://open.spotify.com/track/49WjhJXjsAoYX83Awrl07L) | [Maria Haukaas Mittet](https://open.spotify.com/artist/4Gej6q6wCKccBidZF9lB5B) | [Havet, Maria](https://open.spotify.com/album/7rildRXxKhRyYZ1BVzXDgw) | 4:11 | 2025-10-16 |  |
 | [Heile Livet](https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF) | 5:50 | 2022-07-14 | 2023-12-16 |
 | [Heile Livet](https://open.spotify.com/track/1ceubw1ZmicRUFAymxh7Qi) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/3Xx43BvyIoKsXOcPNA1pIu) | 5:50 | 2022-02-10 | 2022-07-28 |
 | [Heile veien ned](https://open.spotify.com/track/37BdNAd2PInnfRCVeq6HOi) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Heile veien ned](https://open.spotify.com/album/1bPeKBeiPxL33kcyI4GdzE) | 4:24 | 2025-01-16 | 2025-10-15 |
@@ -121,7 +122,7 @@
 | [Himmelblå](https://open.spotify.com/track/76aHRAWLLROERsUoj7qxaR) | [Anne Marie Almedal](https://open.spotify.com/artist/49nP0U2x9Egz06cjDphoez) | [Blue Sky Blue](https://open.spotify.com/album/4sfHf8C3gtRkGS4eX1tB0X) | 3:47 | 2021-12-16 | 2022-07-25 |
 | [Himmelblå](https://open.spotify.com/track/3Q6UOOYHFc4ahiGbYdru05) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Har det no å si](https://open.spotify.com/album/3E8We6cjXdqmDnvMTQMmwd) | 3:45 | 2023-04-13 | 2024-04-19 |
 | [Himmelblå](https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Har det no å si](https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT) | 3:45 | 2022-01-27 | 2023-03-23 |
-| [Himmelen var vid](https://open.spotify.com/track/0ksBsczjgpbDRr73m2OXFG) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm) | [Himmelen var vid](https://open.spotify.com/album/6uWyWLZ0uaFUImbfbO6LiR) | 3:00 | 2025-08-14 |  |
+| [Himmelen var vid](https://open.spotify.com/track/0ksBsczjgpbDRr73m2OXFG) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm) | [Himmelen var vid](https://open.spotify.com/album/6uWyWLZ0uaFUImbfbO6LiR) | 3:00 | 2025-08-14 | 2025-10-26 |
 | [Hjem](https://open.spotify.com/track/3FxG5apYswIMtnYIZN5RKH) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY), [Jonas Fjeld](https://open.spotify.com/artist/7pocZafsod6agMyzxt90iD) | [Hjem](https://open.spotify.com/album/6QWsi5qGR8wr4v7xCQC5de) | 3:25 | 2021-12-16 | 2022-07-29 |
 | [Hold meg](https://open.spotify.com/track/7kXCyyagaPgbTYeiL0qrZH) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Hold meg](https://open.spotify.com/album/5hT3YwZXdUfv9yJZl9bbxy) | 4:05 | 2021-12-16 | 2022-07-28 |
 | [Hold ut, hold på](https://open.spotify.com/track/5mtK3xLdrYjZrFKREJ6eWb) | [Jan Eggum](https://open.spotify.com/artist/1QfTCSQTI4rrK027UaiSQ6) | [Hold ut, hold på](https://open.spotify.com/album/5J5Hqmvkq4WJXMIo4JWKh6) | 2:38 | 2022-01-06 | 2022-04-18 |
@@ -230,7 +231,7 @@
 | [SUPER 8](https://open.spotify.com/track/5dbP3o1bqkIz5pbjnMwLek) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA) | [SUPER 8](https://open.spotify.com/album/11yMIAowUPX1Q3inE8qCSl) | 3:28 | 2021-12-16 | 2022-07-14 |
 | [Svarte Skyer](https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5) | [Hanne Sørvaag](https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH) | [Svarte Skyer](https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R) | 3:00 | 2021-12-16 | 2025-02-28 |
 | [Syng sang](https://open.spotify.com/track/6KAUmaaVCpxZbkZsrT3QP4) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Syng sang](https://open.spotify.com/album/3VAOGqaAQsbl7uOEjDwVXI) | 2:44 | 2023-02-02 | 2023-08-02 |
-| [Så fullt av ja](https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [3 sanger](https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s) | 4:41 | 2021-12-16 | 2025-08-30 |
+| [Så fullt av ja](https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [3 sanger](https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s) | 4:41 | 2021-12-16 |  |
 | [Så godt at det gjør vondt](https://open.spotify.com/track/04bIOgwqaOlu6Vwqn35RX0) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [Så godt at det gjør vondt](https://open.spotify.com/album/3Lh1JnSMYRjPqMHcWpkdlF) | 4:37 | 2022-03-23 | 2022-04-20 |
 | [Så lett som ingenting](https://open.spotify.com/track/0yscIkhw37rF1gDK0LfwJ9) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Så lett som ingenting](https://open.spotify.com/album/4Llt3WbptcCMt6NjBUEge3) | 3:49 | 2022-06-02 | 2022-11-06 |
 | [Så syng eg da ein song for deg](https://open.spotify.com/track/5JNfXFtBW50P3OftyAhNnr) | [Ine Hoem](https://open.spotify.com/artist/5MTbPbWnnllwgJBsahACzy) | [Så syng eg da ein song for deg](https://open.spotify.com/album/6Prh2JMSdlVuPUUKADBujR) | 4:02 | 2021-12-16 | 2022-01-06 |
@@ -257,7 +258,7 @@
 | [Tårnet](https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 3:51 | 2022-01-27 |  |
 | [Tør ikkje leva](https://open.spotify.com/track/6g4zsCg7X0aYUPCy2Qyypo) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Tør ikkje leva](https://open.spotify.com/album/40T4n8U1QyaEQNKzPvHo5D) | 3:41 | 2025-07-03 |  |
 | [Under deg](https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Under deg](https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el) | 4:04 | 2022-02-17 |  |
-| [Varherres Klinkekuler](https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Hildringstimer \- 14 velvalgte viser](https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x) | 3:07 | 2022-01-27 |  |
+| [Varherres Klinkekuler](https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Hildringstimer \- 14 velvalgte viser](https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x) | 3:07 | 2022-01-27 | 2025-10-26 |
 | [Varmere vind i vente \- rett og slett en sommersang](https://open.spotify.com/track/0c1JadNYdOyD7jV5MUce8x) | [Lars Martin Myhre](https://open.spotify.com/artist/5pmGOqAGCrrD4Y89zUJknI), [George Berntzen](https://open.spotify.com/artist/64aM7yK1VAVsigZuBIdXMs) | [Varmere vind i vente \- rett og slett en sommersang](https://open.spotify.com/album/4ZirQpiNCCHitHMekJODdl) | 3:58 | 2021-12-16 | 2022-07-17 |
 | [Ved Rondane](https://open.spotify.com/track/3HLVO8u3OJTqkmlqpcjFyt) | [Lars Lillo\-Stenberg](https://open.spotify.com/artist/0NQ2GtKrBJ7KXkVcMUeZU4), [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Synger Grieg med Bugge](https://open.spotify.com/album/3HdAF62AQQmTxrTA7qzimL) | 3:17 | 2021-12-16 | 2022-02-05 |
 | [Ved sida av deg](https://open.spotify.com/track/1aWGezNWSnPXPvlf9ubhIT) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Flyge fra](https://open.spotify.com/album/02AAUxgJdEzbSsucvXlsXv) | 4:36 | 2022-03-23 | 2022-06-03 |

@@ -3211,6 +3211,24 @@
     },
     {
       "album": {
+        "name": "PERSONA",
+        "url": "https://open.spotify.com/album/0PqzdmRYw6MfmrUtmlrDv1"
+      },
+      "artists": [
+        {
+          "name": "YUTA",
+          "url": "https://open.spotify.com/artist/4WndMgZGitK4uQdKcmVHua"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "EMBER",
+      "url": "https://open.spotify.com/track/4h2V11d3WGC0388eBkm6tC"
+    },
+    {
+      "album": {
         "name": "encore",
         "url": "https://open.spotify.com/album/5jKqkpuXAITg8wLB57P34I"
       },

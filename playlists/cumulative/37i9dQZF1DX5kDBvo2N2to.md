@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-436 songs - 23 hr 16 min
+437 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Dominos](https://open.spotify.com/track/7wI92IXumenyQgway6FaKs) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Dominos](https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg) | 2:40 | 2025-04-24 |  |
 | [Driver dagg faller regn](https://open.spotify.com/track/7sr9OAMBkVp90D17mgzkuN) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Driver dagg faller regn](https://open.spotify.com/album/79XqkwbMx2FEIrSb9keJ9N) | 3:47 | 2024-11-08 | 2025-02-02 |
 | [Du kan inte ljuga för mig](https://open.spotify.com/track/7FUHlgux4d0OKwSfHr5GjR) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA), [JULI](https://open.spotify.com/artist/4L3VEiHYe7BxQsHloHXGzf) | [Du kan inte ljuga för mig](https://open.spotify.com/album/5wffGfpzCjHgaXe3SUndLN) | 2:27 | 2025-08-07 | 2025-09-14 |
-| [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-13 |  |
+| [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-13 | 2025-10-26 |
 | [Dying Light](https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Dying Light](https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH) | 2:53 | 2024-06-28 | 2025-04-18 |
 | [Där Jag Fann Dig Sist](https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [¿Kan Du Höra Det?](https://open.spotify.com/album/6EZN2n5FRDb3vaFVSCx6ay) | 3:51 | 2024-06-28 | 2024-08-30 |
 | [DÉJÀ VU](https://open.spotify.com/track/1em9RQjkGpFaASpp7jvTJ6) | [Bella Leonette](https://open.spotify.com/artist/0Qzh6QfLR7zubyDl581ZOt) | [DÉJÀ VU](https://open.spotify.com/album/0j9hFcsDrRYHSCKRIkXEkr) | 3:04 | 2025-05-15 | 2025-07-04 |
@@ -211,6 +211,7 @@
 | [IN YOUR BLUE](https://open.spotify.com/track/4vUeyFeDjVQcroK7nfthyO) | [ louii lane](https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v) | [4Eternity](https://open.spotify.com/album/3QeWdLvzv9SonvakLiu6T1) | 2:16 | 2025-09-04 |  |
 | [INATT IGEN](https://open.spotify.com/track/2VqbxwOaj6t3DW6Yylv9PW) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [INATT IGEN](https://open.spotify.com/album/4w83t50g9487UwORpDiCOh) | 2:19 | 2025-03-27 | 2025-09-19 |
 | [Inge mer fun](https://open.spotify.com/track/5CRJ1cVXCnByoFW8bQ1j5j) | [Karakou](https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq) | [Inge mer fun](https://open.spotify.com/album/75J4SpsZaxeNt8xMCUoB4m) | 4:01 | 2024-06-28 | 2024-08-23 |
+| [Ingen Vet...](https://open.spotify.com/track/53vPl8xKjPc6AaCLD1XlpH) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [I Rymden Finns Inga Tårar](https://open.spotify.com/album/53vNOMnb7XNn6cM0dyKi3Z) | 3:46 | 2025-10-23 |  |
 | [Inget halleluja](https://open.spotify.com/track/4k5DrIPXSfB1nDxjQcAkyV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Inget halleluja](https://open.spotify.com/album/4wJROHXVthUZyZofON9tj8) | 3:56 | 2024-06-28 | 2024-08-30 |
 | [Innerst Inne](https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Innerst Inne](https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU) | 2:35 | 2024-07-29 | 2025-01-19 |
 | [Inte bra i grupp](https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Inte bra i grupp](https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV) | 2:49 | 2025-04-24 |  |

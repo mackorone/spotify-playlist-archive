@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: NATHY PELUSO
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,546 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,594 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 17 | [30 Minutos](https://open.spotify.com/track/0TFHKoZwEqu6bffHeO0ME3) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [30 Minutos](https://open.spotify.com/album/7aKxy1orDe8CmgAql8Zwg6) | 3:19 |
 | 18 | [Debió ser así](https://open.spotify.com/track/31FDPB097i0iqut2Bb056l) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Debió ser así](https://open.spotify.com/album/0BRpECH8FHdVc3TYfBSw1W) | 3:43 |
 | 19 | [Arjona](https://open.spotify.com/track/7pHhsG5SuPaZw0Ktof0ix5) | [Jensen](https://open.spotify.com/artist/24tjWCXUAwkLJ6bCvYXIde), [Montelier](https://open.spotify.com/artist/56O28NX1Su8GSYhuNGupjI) | [Arjona](https://open.spotify.com/album/6zf5cQQuhcXeqvnLzmR7aJ) | 3:33 |
-| 20 | [Sublime Gracia](https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [Isamar](https://open.spotify.com/artist/2drlQvlGLUluWh7iqqB8p7) | [Sublime Gracia](https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX) | 2:46 |
+| 20 | [Sublime Gracia](https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [Isamar](https://open.spotify.com/artist/6ZkzyDfFp1LJLJD8fKq6Ph) | [Sublime Gracia](https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX) | 2:46 |
 | 21 | [No te borro](https://open.spotify.com/track/26OVAK5iwyUF0a5jnxdZBd) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [No te borro](https://open.spotify.com/album/1Im92diWqS7VCqSBp0SCVG) | 2:14 |
 | 22 | [Encontrarnos Otra Vez](https://open.spotify.com/track/6vdMEhS9EKtzq6IaN0quqQ) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl) | [Encontrarnos Otra Vez](https://open.spotify.com/album/6hWhZjA0WJVinK2xB667rI) | 3:42 |
 | 23 | [Ese Amor Que No Se Olvida](https://open.spotify.com/track/0IqCn75IMxx91dgOf3oty2) | [Anddy Caicedo](https://open.spotify.com/artist/0Emz7Y7utBVunAblbfCdrC) | [Ese Amor Que No Se Olvida](https://open.spotify.com/album/0YkHzS56p43RTFBrcxOLKj) | 3:08 |

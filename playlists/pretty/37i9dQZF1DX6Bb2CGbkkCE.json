@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 6956,
+  "num_followers": 6958,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Antidote (feat. Adekunle Gold)",
-        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "Antidote (feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Still Striving",
         "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 205746,
       "name": "Rubber Band Man (feat. Cam'ron)",
       "url": "https://open.spotify.com/track/6YVbCxw3Yqyj4dRomrXPhl"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Antidote (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "Antidote (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Crocodile Teeth",
+        "url": "https://open.spotify.com/album/4UG4l6GtGle8m7zbwinjBH"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 166699,
+      "name": "Crocodile Teeth",
+      "url": "https://open.spotify.com/track/3qi98GCs3sbvbAJugWmdQY"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "FIXTAPE",
         "url": "https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Crocodile Teeth",
-        "url": "https://open.spotify.com/album/4UG4l6GtGle8m7zbwinjBH"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 166699,
-      "name": "Crocodile Teeth",
-      "url": "https://open.spotify.com/track/3qi98GCs3sbvbAJugWmdQY"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -855,8 +855,8 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Usain Bolt Presents: Clockwork Riddim",
-        "url": "https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY"
+        "name": "Need Your Love",
+        "url": "https://open.spotify.com/album/5kz0klHGG1LrTDdcQxuxyf"
       },
       "artists": [
         {
@@ -864,13 +864,17 @@
           "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
         },
         {
+          "name": "Jae Xo",
+          "url": "https://open.spotify.com/artist/6rsxtEBge43PfF3FU9BMdM"
+        },
+        {
           "name": "Nj",
           "url": "https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC"
         }
       ],
-      "duration_ms": 189473,
-      "name": "Timing",
-      "url": "https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT"
+      "duration_ms": 185097,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/0raznvhKo5fzYqZKCp7wzA"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -907,8 +911,8 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Need Your Love",
-        "url": "https://open.spotify.com/album/5kz0klHGG1LrTDdcQxuxyf"
+        "name": "Usain Bolt Presents: Clockwork Riddim",
+        "url": "https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY"
       },
       "artists": [
         {
@@ -916,17 +920,13 @@
           "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
         },
         {
-          "name": "Jae Xo",
-          "url": "https://open.spotify.com/artist/6rsxtEBge43PfF3FU9BMdM"
-        },
-        {
           "name": "Nj",
           "url": "https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC"
         }
       ],
-      "duration_ms": 185097,
-      "name": "Need Your Love",
-      "url": "https://open.spotify.com/track/0raznvhKo5fzYqZKCp7wzA"
+      "duration_ms": 189473,
+      "name": "Timing",
+      "url": "https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT"
     }
   ],
   "unique_name": "Usain Bolt's Taste",

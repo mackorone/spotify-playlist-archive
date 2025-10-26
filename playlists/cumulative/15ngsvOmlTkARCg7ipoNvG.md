@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,030 songs - 1 day 16 hr 58 min
+2,031 songs - 1 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1454,6 +1454,7 @@
 | [Rings](https://open.spotify.com/track/53hp4mu97NvYNg0cMz8nqq) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Spaces To See](https://open.spotify.com/album/5amtYQ4oVN6PKjBpf67bYI) | 1:02 | 2022-02-06 |  |
 | [Ripples In Your Dreams](https://open.spotify.com/track/2wjnV1Aq1L4IxiptN4mWDv) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wanderings](https://open.spotify.com/album/6Rp1i8urV5DkTL1VCgG6Vp) | 1:02 | 2022-02-11 |  |
 | [Rise](https://open.spotify.com/track/6uu59jUqnnPRTh3XRKOx52) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Rise](https://open.spotify.com/album/2SNwuvlaNKQrDqdZzJI3kL) | 1:00 | 2024-04-08 |  |
+| [Rising](https://open.spotify.com/track/3jHVr4WPL7jmIOekiqKjKu) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Rising](https://open.spotify.com/album/6Q8ZsffmxV2dDvqrduhLa4) | 1:00 | 2025-10-25 |  |
 | [Rising of the Moon](https://open.spotify.com/track/7G1ytuw9UNt317srYJqRYc) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Beautiful Dreams](https://open.spotify.com/album/6Q8Qv4dPI9s1Fe5uKIbz3T) | 1:39 | 2022-01-20 |  |
 | [Rising Slowly](https://open.spotify.com/track/0n10oibTqB9lEnv9n5AbsU) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Fading Slowly](https://open.spotify.com/album/5vlyicl1WMOpCXzfKO4wN0) | 1:01 | 2025-01-15 |  |
 | [Ritual](https://open.spotify.com/track/5SiPkC4PR7y5cln5uMWxLu) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Ritual](https://open.spotify.com/album/5rJbhuifkpMkDXXcwb6JPB) | 1:00 | 2025-01-19 |  |

@@ -1,13 +1,29 @@
 {
-  "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Superman",
-  "num_followers": 160889,
+  "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Springsteen: Deliver Me from Nowhere",
+  "num_followers": 160912,
   "original_name": "needle drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOygJlnhO50gGQUxJJCvpK9CWzDi",
+  "snapshot_id": "AAAAAG7uotTP0hruRvwyiQMymwpjZPbp",
   "tracks": [
+    {
+      "added_at": "2025-10-26 03:15:15",
+      "album": {
+        "name": "Springsteen:Deliver Me From Nowhere (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PULsYPn4Frr77Dc5idG4Q"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Allen White",
+          "url": "https://open.spotify.com/artist/02VqsexfI15ZQ7XjBujuNJ"
+        }
+      ],
+      "duration_ms": 151474,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/6GNukfGiG3qtFHAQOYMisy"
+    },
     {
       "added_at": "2025-07-16 16:05:37",
       "album": {
@@ -27,6 +43,22 @@
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
+    },
+    {
+      "added_at": "2025-10-26 03:15:15",
+      "album": {
+        "name": "TRON: Ares (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/47pjW3XDPW99NShtkeewxl"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 237164,
+      "name": "As Alive As You Need Me To Be",
+      "url": "https://open.spotify.com/track/06USX1htQD4LgOgX4FF0ix"
     },
     {
       "added_at": "2025-08-22 04:00:12",
@@ -95,26 +127,6 @@
       "duration_ms": 160853,
       "name": "Je te laisserai des mots",
       "url": "https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx"
-    },
-    {
-      "added_at": "2025-09-19 04:00:23",
-      "album": {
-        "name": "TRON: Ares (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/47pjW3XDPW99NShtkeewxl"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        },
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 350856,
-      "name": "Who Wants To Live Forever?",
-      "url": "https://open.spotify.com/track/7B38TXK2kfIGggpNOyT5zE"
     },
     {
       "added_at": "2025-09-06 19:43:21",
@@ -899,30 +911,6 @@
       "duration_ms": 163758,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/4J2HQow52pFt9olOHnYTbk"
-    },
-    {
-      "added_at": "2024-11-26 22:42:16",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        },
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 147973,
-      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
     },
     {
       "added_at": "2025-09-26 04:00:29",

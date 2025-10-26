@@ -1,12 +1,12 @@
 {
   "description": "This is KAROL G. The essential tracks, all in one playlist.",
-  "num_followers": 1380681,
+  "num_followers": 1380950,
   "original_name": "This Is KAROL G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAADhmwWKeMVZsMK6nbtP1YG0",
+  "snapshot_id": "aPrBgAAAAABpU11ecXgvUENlwmCMaVhR",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Me Cansare",
-        "url": "https://open.spotify.com/album/0nhT5tj6EMv1TxyqaNynJx"
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
       },
       "artists": [
-        {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
         {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 162857,
-      "name": "No Me Cansare",
-      "url": "https://open.spotify.com/track/7syffZQA1dpkQelMckldEw"
+      "duration_ms": 155946,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7"
     },
     {
       "added_at": null,
@@ -743,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "OCEAN",
-        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
+        "name": "No Me Cansare",
+        "url": "https://open.spotify.com/album/0nhT5tj6EMv1TxyqaNynJx"
       },
       "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
         {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 155946,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7"
+      "duration_ms": 162857,
+      "name": "No Me Cansare",
+      "url": "https://open.spotify.com/track/7syffZQA1dpkQelMckldEw"
     },
     {
       "added_at": null,

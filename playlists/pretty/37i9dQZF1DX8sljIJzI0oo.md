@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday🔥 Young Miko is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,933,406 likes - 25 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,933,377 likes - 25 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

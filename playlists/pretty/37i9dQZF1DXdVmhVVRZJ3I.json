@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 333811,
+  "num_followers": 333898,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
+        "name": "Pararam",
+        "url": "https://open.spotify.com/album/2p7ZeftDxrUCvw2IY4NITH"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Pararam",
+      "url": "https://open.spotify.com/track/0eCiCbHblFYUFzWD7TU8fl"
+    },
+    {
+      "added_at": "2025-07-25 22:30:04",
+      "album": {
         "name": "Do It To It (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 125280,
       "name": "Do It To It - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
-    },
-    {
-      "added_at": "2025-07-25 22:30:04",
-      "album": {
-        "name": "Pararam",
-        "url": "https://open.spotify.com/album/2p7ZeftDxrUCvw2IY4NITH"
-      },
-      "artists": [
-        {
-          "name": "Chemical Surf",
-          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Pararam",
-      "url": "https://open.spotify.com/track/0eCiCbHblFYUFzWD7TU8fl"
     },
     {
       "added_at": "2025-07-25 22:30:04",
@@ -795,6 +795,26 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
+        "name": "Believe (Sevenn Remix)",
+        "url": "https://open.spotify.com/album/49yDdt1BfGEMyQPKQYvjDz"
+      },
+      "artists": [
+        {
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/4PpX7KnO2NEUYtPbW8y0XW"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "duration_ms": 217920,
+      "name": "Believe - Sevenn Remix",
+      "url": "https://open.spotify.com/track/22iaFFYkob3pvTyDmBwxIi"
+    },
+    {
+      "added_at": "2025-07-25 22:30:04",
+      "album": {
         "name": "Turning Me Up (Hadal Ahbek)",
         "url": "https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 144000,
       "name": "Turning Me Up (Hadal Ahbek)",
       "url": "https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39"
-    },
-    {
-      "added_at": "2025-07-25 22:30:04",
-      "album": {
-        "name": "Believe (Sevenn Remix)",
-        "url": "https://open.spotify.com/album/49yDdt1BfGEMyQPKQYvjDz"
-      },
-      "artists": [
-        {
-          "name": "Mida",
-          "url": "https://open.spotify.com/artist/4PpX7KnO2NEUYtPbW8y0XW"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 217920,
-      "name": "Believe - Sevenn Remix",
-      "url": "https://open.spotify.com/track/22iaFFYkob3pvTyDmBwxIi"
     },
     {
       "added_at": "2025-07-25 22:30:04",
@@ -899,26 +899,42 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/7d9ysVySNJRc1xAYX63ts9"
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
         },
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "KOPPY",
-          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
         }
       ],
-      "duration_ms": 148551,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s"
+      "duration_ms": 185806,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
+    },
+    {
+      "added_at": "2025-07-25 22:30:04",
+      "album": {
+        "name": "Adrenalina (Minha Gasolina)",
+        "url": "https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 180845,
+      "name": "Adrenalina (Minha Gasolina)",
+      "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
     },
     {
       "added_at": "2025-07-25 22:30:04",
@@ -947,26 +963,6 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
-        "name": "Adrenalina (Minha Gasolina)",
-        "url": "https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 180845,
-      "name": "Adrenalina (Minha Gasolina)",
-      "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
-    },
-    {
-      "added_at": "2025-07-25 22:30:04",
-      "album": {
         "name": "Won't Back Down",
         "url": "https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII"
       },
@@ -983,22 +979,26 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/7d9ysVySNJRc1xAYX63ts9"
       },
       "artists": [
         {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         },
         {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "KOPPY",
+          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
         }
       ],
-      "duration_ms": 185806,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
+      "duration_ms": 148551,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s"
     },
     {
       "added_at": "2025-07-25 22:30:04",

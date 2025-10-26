@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,736 likes - 161 songs - 9 hr 1 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,746 likes - 161 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 16 | [Piece Of Me](https://open.spotify.com/track/63FKg89duhps6mEnB2HK3k) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Piece Of Me](https://open.spotify.com/album/3jB4iqcRzwB3WIciq2699D) | 3:36 |
 | 17 | [Bullshit](https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Bullshit](https://open.spotify.com/album/1FEG75sVtJaV52VciyVB4y) | 2:58 |
 | 18 | [Handsup](https://open.spotify.com/track/3QT1t1UdF3A4ABV5BI5Yoz) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Curve +1](https://open.spotify.com/album/0jutIwk80iCtIwiiPdwpYZ) | 3:08 |
-| 19 | [machine\_age](https://open.spotify.com/track/55fKc3ex9q7lEQUgPzPyLy) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [THE\_BIG\_TRIP](https://open.spotify.com/album/5fJwIK2omIRULAM93wapMk) | 3:16 |
+| 19 | [machine\_age](https://open.spotify.com/track/55fKc3ex9q7lEQUgPzPyLy) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [THE\_BIG\_TRIP](https://open.spotify.com/album/5fJwIK2omIRULAM93wapMk) | 2:44 |
 | 20 | [Overload 2K](https://open.spotify.com/track/2Y68mc2cWkIwBdqlY04J2e) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [Overload 2K](https://open.spotify.com/album/74JXk9Ryk8tUGolvIvba7s) | 4:24 |
 | 21 | [All I Need](https://open.spotify.com/track/1PqolJAHpk7lJH4jXu9ANN) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [All I Need](https://open.spotify.com/album/6fZNUp5wNY8vi4ZiqUEGy0) | 3:40 |
 | 22 | [Broken Hearted \- Arya Remix](https://open.spotify.com/track/1jgjNeh0Ei58YGa1dZictN) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Broken Hearted \(Arya Remix\)](https://open.spotify.com/album/2d0R5o0Y68vDso9YSlVyYb) | 2:59 |

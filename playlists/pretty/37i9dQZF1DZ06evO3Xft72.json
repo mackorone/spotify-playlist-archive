@@ -1,12 +1,12 @@
 {
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
-  "num_followers": 287160,
+  "num_followers": 287172,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAADeDNm5S/vEDFb4fVYkjV7Q",
+  "snapshot_id": "aPrBgAAAAAD2eF7GcSi2YLZGt/m6FHr0",
   "tracks": [
     {
       "added_at": null,
@@ -35,6 +35,30 @@
       "duration_ms": 243057,
       "name": "Animal",
       "url": "https://open.spotify.com/track/7G1Y5i1Hc4uUm57dqz7pAd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seagull",
+        "url": "https://open.spotify.com/album/1EiFdEhdWVC3QdLrT1tig4"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        },
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Paul Rodgers",
+          "url": "https://open.spotify.com/artist/2gaWNB3YrlTc0KRlHNqhol"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Seagull",
+      "url": "https://open.spotify.com/track/7CytSpgno2zLlSDIqpsGv9"
     },
     {
       "added_at": null,
@@ -615,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Star Halos",
-        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Kick",
-      "url": "https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On Through The Night",
         "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
       },
@@ -643,6 +651,22 @@
       "duration_ms": 188819,
       "name": "Rock Brigade",
       "url": "https://open.spotify.com/track/3d3xx7YIqxTqizaeL5tDUX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV"
     },
     {
       "added_at": null,
@@ -679,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 280666,
-      "name": "Long Long Way To Go",
-      "url": "https://open.spotify.com/track/6skdrQ6j8GOF6RFEADIH7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adrenalize",
         "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
       },
@@ -707,6 +715,22 @@
       "duration_ms": 243321,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5Q4M16AsBdGZc31KDm0kU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 280666,
+      "name": "Long Long Way To Go",
+      "url": "https://open.spotify.com/track/6skdrQ6j8GOF6RFEADIH7Y"
     },
     {
       "added_at": null,
@@ -755,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 240920,
-      "name": "Now",
-      "url": "https://open.spotify.com/track/71sHC5AHCow7uIka7RWztY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stand By Me",
         "url": "https://open.spotify.com/album/5AUCHgDd5Wx8BfQrQsyyTs"
       },
@@ -783,6 +791,22 @@
       "duration_ms": 190749,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/1889ajXyw09z2Mh3hSNxb6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 240920,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/71sHC5AHCow7uIka7RWztY"
     },
     {
       "added_at": null,
@@ -815,22 +839,6 @@
       "duration_ms": 236450,
       "name": "Personal Jesus - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 217799,
-      "name": "Tear It Down",
-      "url": "https://open.spotify.com/track/3pH9Vu1LNBXMUptZbmipFF"
     }
   ],
   "unique_name": "This Is Def Leppard",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,992 likes - 120 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,053 likes - 120 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: 1111
 
-322 songs - 18 hr 9 min
+323 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Around Here](https://open.spotify.com/track/3ociVzKs1bEWVpSiWHnbgK) | [Nienna](https://open.spotify.com/artist/1PkHTJE4q8P19rvYVTWnPr) | [Ruckus](https://open.spotify.com/album/3s43IcAlijy3ARKlhPmJVq) | 4:56 | 2022-11-25 | 2023-04-28 |
 | [Arrival](https://open.spotify.com/track/5utzfRVETLaJUETsgPyUBX) | [Yemi](https://open.spotify.com/artist/21ujgB2lJW9NT1D46pWuDj), [Edward White](https://open.spotify.com/artist/5hS9c3HfGey4nXQxjcrCS1) | [Arrival](https://open.spotify.com/album/0Dn3aTnI80EYspDqrUTFDS) | 3:46 | 2023-01-24 | 2024-03-21 |
 | [As If We Never](https://open.spotify.com/track/5XzvN8QNtHijSPUbQTvras) | [Murder He Wrote](https://open.spotify.com/artist/4n11sJzNp7JjBQw9sDze9Z) | [Told You So](https://open.spotify.com/album/5NTJwopfpmr7KguSWBIscX) | 3:56 | 2022-11-25 | 2023-05-08 |
-| [Avalanche](https://open.spotify.com/track/2xNc3WwzGK19JXPgcmzRU8) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Avalanche](https://open.spotify.com/album/05fHcYNnZOIL56Aq5QVqU2) | 2:37 | 2025-07-03 |  |
+| [Avalanche](https://open.spotify.com/track/2xNc3WwzGK19JXPgcmzRU8) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Avalanche](https://open.spotify.com/album/05fHcYNnZOIL56Aq5QVqU2) | 2:37 | 2025-07-03 | 2025-10-26 |
 | [B With Me \- Bump & Flex Radio Edit](https://open.spotify.com/track/3r7xbYVEMRXiP9PZ8bh1xj) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Bump & Flex](https://open.spotify.com/artist/6NuELb3JJmU6DkmorHd587) | [B With Me \(Bump & Flex Mix Radio Edit\)](https://open.spotify.com/album/66W3MW1IhxWpa1g5tZccgC) | 3:38 | 2022-11-25 | 2024-02-09 |
 | [Baby Sweet](https://open.spotify.com/track/5jgD38CwcAkTzJOqvQYH42) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Baby Sweet](https://open.spotify.com/album/6qb0k3YKuLker2JeKL7iZG) | 2:53 | 2023-11-17 | 2024-05-11 |
 | [Back 2 Front](https://open.spotify.com/track/2fUNlLJrzdX1uoK6pMwuai) | [Lemtom](https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF) | [Back 2 Front](https://open.spotify.com/album/6GyV9Uov54iX2ldS2333is) | 3:30 | 2025-07-24 | 2025-10-24 |
@@ -200,6 +200,7 @@
 | [My Mind](https://open.spotify.com/track/2PQOSqKLsPRWoFhQWm0BJz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Refraction](https://open.spotify.com/album/2R2BtdlMg4A44CzaQdmFfa) | 3:52 | 2024-08-22 | 2025-10-24 |
 | [My World](https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [My World](https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe) | 3:20 | 2024-07-25 | 2025-07-04 |
 | [Near U](https://open.spotify.com/track/4HiM09OpjomBVXjdcWpejJ) | [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Near U](https://open.spotify.com/album/7CxbINauBVpiZ0TpmKui7a) | 4:32 | 2024-02-09 | 2024-04-22 |
+| [Needed You](https://open.spotify.com/track/4K8aOmtSHM45q9O6bN8Hc0) | [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH), [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT) | [Needed You](https://open.spotify.com/album/3xCd2AgD9A19DfwGz41nNp) | 2:03 | 2025-10-23 |  |
 | [Needle On The Record \- 4am Mix](https://open.spotify.com/track/1EzAJBjrWvYsUBHI1hoDnc) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record \(4am Mix\)](https://open.spotify.com/album/6Vwh7m7Dc6c2ouZgjBLqZW) | 2:58 | 2024-01-26 | 2024-07-27 |
 | [Never Gonna Be](https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Never Gonna Be](https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM) | 3:45 | 2023-06-08 | 2024-06-28 |
 | [Next 2 You](https://open.spotify.com/track/3bX6x6oCl1GU0CzfRUylOs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:00 | 2022-11-25 | 2023-09-18 |

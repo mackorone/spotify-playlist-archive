@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: マルシィ
 
-1,409 songs - 3 day 12 hr 59 min
+1,410 songs - 3 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Last Night](https://open.spotify.com/track/6FWkKZzueReSUbfCJ2HQns) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [生活なんて](https://open.spotify.com/album/1WoKIXKIKbsB9tCtEs6aV3) | 2:58 | 2024-07-02 | 2024-07-31 |
 | [LAST SONG](https://open.spotify.com/track/2mz12sgU9m1eZZvhS3VNIM) | [アンと私](https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J) | [LAST SONG](https://open.spotify.com/album/4eVPM5qAnBeVgQiXbjHa3h) | 2:30 | 2025-10-14 |  |
 | [Last Supper](https://open.spotify.com/track/4sqPcQyiHESSahprYt5LMx) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [Last Supper](https://open.spotify.com/album/5c2Aeu1g0pwsQnpqXgvzlu) | 3:20 | 2023-11-21 | 2023-11-29 |
+| [Let's eat food](https://open.spotify.com/track/5gjQz3TrfWTD0M1jYRHhli) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Let's eat food](https://open.spotify.com/album/0s0ed6peiGYTHvg5Pjx6E9) | 3:07 | 2025-10-21 |  |
 | [Letters, Lights, Travels On The Streets](https://open.spotify.com/track/4zMi0q2myV2N3OU0xuqR0p) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Letters, Lights, Travels On The Streets](https://open.spotify.com/album/4rSbKbY15PsCF4GtDgrRqR) | 3:05 | 2023-12-19 | 2024-01-10 |
 | [Lies for you](https://open.spotify.com/track/3g7pMGtAkXcwOglNJcd9dS) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [Lies for you](https://open.spotify.com/album/5UHQEsqXzbOPQPrS7qoUpr) | 4:00 | 2023-11-14 | 2023-11-22 |
 | [Life is](https://open.spotify.com/track/3zvC9fKrw1iuI9MSW3JWfj) | [peeto](https://open.spotify.com/artist/2o7CvH7hLj3c3XbkFmnLXA) | [LIFE IS](https://open.spotify.com/album/0uYNCL1SUzjI0MVlrAKdz6) | 4:24 | 2025-03-04 | 2025-03-12 |
@@ -441,7 +442,7 @@
 | [Present](https://open.spotify.com/track/52rJ1uFs9NTfLPQ9Zqww71) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Present](https://open.spotify.com/album/2FdY6Tl2bFBWIgp9zqmZTh) | 4:08 | 2024-09-24 | 2025-05-22 |
 | [prettyfine :\)](https://open.spotify.com/track/7cb1WC3LUv1zwxaHls5Ed0) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Mindwash](https://open.spotify.com/album/1oTfStADdknHMWouQkQ6Kt) | 3:30 | 2023-07-27 | 2024-02-28 |
 | [PRIDE](https://open.spotify.com/track/6YSiCQPEEEimysown5ad19) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [PRIDE](https://open.spotify.com/album/2NJhxr7Tt12VB7urrMuZmt) | 4:06 | 2023-07-27 | 2023-11-22 |
-| [Punk Head](https://open.spotify.com/track/6wN8LtVvVqh8RyEtFRESdr) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Punk Head](https://open.spotify.com/album/4en5HpvQhcqTFQXerMbXtM) | 2:53 | 2025-09-30 |  |
+| [Punk Head](https://open.spotify.com/track/6wN8LtVvVqh8RyEtFRESdr) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Punk Head](https://open.spotify.com/album/4en5HpvQhcqTFQXerMbXtM) | 2:53 | 2025-09-30 | 2025-10-26 |
 | [Punky Blue Kids](https://open.spotify.com/track/6dHNYfZg0EFi9UsDWSxDRh) | [DNA GAINZ](https://open.spotify.com/artist/0bOGtsbotnQiTIHQMehEZx) | [Punky Blue Kids](https://open.spotify.com/album/0xUvDlxHN41wOvOJTqsCEW) | 2:36 | 2024-04-30 | 2024-06-01 |
 | [QUEEN feat\. Ryo Takanami, ninichan](https://open.spotify.com/track/0QCAkp5NIgQvJNPebs2mrY) | [アンと私](https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J), [Ryo Takanami](https://open.spotify.com/artist/2u5VEfBMUKDyZqX8KcI3sp), [ninichan](https://open.spotify.com/artist/07RJS61MbDpOxNylSJABHc) | [QUEEN feat\. Ryo Takanami, ninichan](https://open.spotify.com/album/08PhB7vTCVnSLJmE5RXs8J) | 3:40 | 2025-09-16 | 2025-10-01 |
 | [Rakugaki no Yona](https://open.spotify.com/track/4X7oNqdlt5KkNPUin7iFOP) | [Siberian Husky](https://open.spotify.com/artist/7ar3JkN4hS9Ux4Y421kOQF) | [Rakugaki no Yona](https://open.spotify.com/album/1LH56flbKHCibAi3vKW1Wt) | 3:54 | 2025-04-22 | 2025-05-07 |

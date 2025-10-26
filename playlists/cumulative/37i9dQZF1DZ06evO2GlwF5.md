@@ -4,7 +4,7 @@
 
 > This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-141 songs - 10 hr 23 min
+143 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,10 +101,11 @@
 | [マメシバ](https://open.spotify.com/track/6k4dbuGMvdA6OqS4ndLXII) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ルーシー](https://open.spotify.com/album/7ALU9InqPU79M2k9fD4Yyy) | 6:07 | 2022-08-10 |  |
 | [モアザンワーズ](https://open.spotify.com/track/58uHwdDL4KmEjHuuTKqMyS) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 5:04 | 2022-08-10 | 2025-08-01 |
 | [モアザンワーズ](https://open.spotify.com/track/3cozilW7AMWosrQItKbitH) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [モアザンワーズ](https://open.spotify.com/album/1d3mhEK370MhSf8QwMjUB8) | 5:04 | 2025-08-01 |  |
+| [ユッカ](https://open.spotify.com/track/4whR0mKWhT8t7dppHNnLGY) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [30周年記念ベストアルバム　M30～Your Best～](https://open.spotify.com/album/5WTrnC9z8piakhnoy2FTlw) | 4:56 | 2025-10-26 |  |
 | [ユニバース](https://open.spotify.com/track/7bB3YdtfilMwcQua8VFsXb) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [30minutes night flight](https://open.spotify.com/album/1mROQcgYJm8J8Q0d4YCqyg) | 4:28 | 2022-09-28 | 2022-10-02 |
 | [ユーランゴブレット](https://open.spotify.com/track/7uDcZgvdVd8aokOyaEVfjY) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6) | 3:53 | 2022-10-12 | 2025-10-25 |
 | [ループ](https://open.spotify.com/track/2QAMaoGBY8nmoAhNRuDvNn) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [夕凪LOOP](https://open.spotify.com/album/1W7Hut7toYzRWkvINu2sfN) | 5:21 | 2022-08-10 |  |
-| [ループ（TVサイズ）](https://open.spotify.com/track/75DeafwYz6hIhKIGR56Ic8) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「ツバサ・クロニクル」オリジナル・サウンドトラック Future Soundscape I](https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy) | 1:34 | 2024-10-25 |  |
+| [ループ（TVサイズ）](https://open.spotify.com/track/75DeafwYz6hIhKIGR56Ic8) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「ツバサ・クロニクル」オリジナル・サウンドトラック Future Soundscape I](https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy) | 1:34 | 2024-10-25 | 2025-10-26 |
 | [レコード](https://open.spotify.com/track/6wozmCqO8767ylHwjgqrZC) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [CLEAR](https://open.spotify.com/album/0YbibgkIYu30V8Zz0pEJNd) | 4:43 | 2022-08-10 | 2022-10-07 |
 | [レプリカ](https://open.spotify.com/track/0XBq9Gk2ikiyDWJOuwNiP3) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [レプリカ](https://open.spotify.com/album/4De7ETw90nNYeBADeq3EGN) | 4:00 | 2022-10-14 |  |
 | [ロマーシカ](https://open.spotify.com/track/4L2Z4at8O4GdQC0NpUVpij) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Million Clouds](https://open.spotify.com/album/0md2WALTwXeeDP4nXfqKCA) | 4:33 | 2025-07-30 | 2025-08-18 |
@@ -129,7 +130,7 @@
 | [抱きしめて](https://open.spotify.com/track/2vETGnAnQLNQFl6VR84Bfo) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [抱きしめて](https://open.spotify.com/album/5c44hFzL4fj1h6P6uhgREi) | 4:47 | 2024-01-17 | 2025-03-19 |
 | [抱きしめて \-LIVE 2024 Ver.\-](https://open.spotify.com/track/6Pi7sm6ynmfaR6m6gqIGM9) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [WOWOWオリジナルアニメ「火狩りの王」第2シーズンエンディングテーマ　抱きしめて](https://open.spotify.com/album/1qTmJgdaAoFsk8FskutwSP) | 5:06 | 2024-04-21 | 2024-04-22 |
 | [指輪 \(Single Ver.\)](https://open.spotify.com/track/4LC4d4EHBSbWrFjdAQLG08) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「劇場用アニメーション　エスカフローネ」主題歌　指輪](https://open.spotify.com/album/5WCmfHEXY07CkH1QORjNX7) | 3:43 | 2022-08-10 |  |
-| [星と星のあいだ feat\. 井上芳雄](https://open.spotify.com/track/5HC8y3hscSTp1opwRGwdTc) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Yoshio Inoue](https://open.spotify.com/artist/0WgVF1Mknyhy5PjTOKmolM) | [Duets](https://open.spotify.com/album/1ne4G4bXK0eiLTUpbsb9xU) | 5:41 | 2025-07-03 |  |
+| [星と星のあいだ feat\. 井上芳雄](https://open.spotify.com/track/5HC8y3hscSTp1opwRGwdTc) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Yoshio Inoue](https://open.spotify.com/artist/0WgVF1Mknyhy5PjTOKmolM) | [Duets](https://open.spotify.com/album/1ne4G4bXK0eiLTUpbsb9xU) | 5:41 | 2025-07-03 | 2025-10-26 |
 | [月の話](https://open.spotify.com/track/03LvFzj8MoA37q1vGllFY9) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ハロー、ハロー](https://open.spotify.com/album/1GqbTrL7DRHberfR9WXUTp) | 5:32 | 2023-03-19 | 2023-05-13 |
 | [極夜](https://open.spotify.com/track/6mihFZmv9q0bm1lzJJA0bS) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Driving in the silence](https://open.spotify.com/album/5KKm1v4tLs6WzwdgAaCg5h) | 5:43 | 2023-08-09 | 2023-08-11 |
 | [独白](https://open.spotify.com/track/73S6qXMFVhXb4MchX0KmwU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [独白→躍動　<FGO盤>](https://open.spotify.com/album/7hQknpgVxMUHWacI0toBrQ) | 4:42 | 2022-08-10 |  |
@@ -144,6 +145,7 @@
 | [言葉にできない](https://open.spotify.com/track/3FP9fSLpNeQmBuezTgGSGu) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:55 | 2023-07-04 |  |
 | [言葉にできない](https://open.spotify.com/track/08bJMeQRwtpLnrMF1ScLvn) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 4:56 | 2022-08-10 | 2023-06-05 |
 | [誓い](https://open.spotify.com/track/44N6CSy6kr1dSWP6a7QVZ5) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Driving in the silence](https://open.spotify.com/album/5KKm1v4tLs6WzwdgAaCg5h) | 5:12 | 2024-12-26 | 2025-02-19 |
+| [誓い](https://open.spotify.com/track/2uAWBwggHF64OV7PwaHHcG) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [30周年記念ベストアルバム　M30～Your Best～](https://open.spotify.com/album/5WTrnC9z8piakhnoy2FTlw) | 5:15 | 2025-10-26 |  |
 | [躍動](https://open.spotify.com/track/7fi2zDTlIUWMDPHrhm8Qsj) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [躍動](https://open.spotify.com/album/5zNh75gt6D4kRCWZXhb3UZ) | 4:09 | 2022-08-10 |  |
 | [逆光](https://open.spotify.com/track/4G60bHjDnAihnuswrq7tk3) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [逆光](https://open.spotify.com/album/26XVXGp8N4WC5l9d4pOhc0) | 4:48 | 2022-08-10 |  |
 | [雨が降る](https://open.spotify.com/track/7pJmowV8EnAPMIwCgbFHQ0) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 5:15 | 2022-08-10 |  |

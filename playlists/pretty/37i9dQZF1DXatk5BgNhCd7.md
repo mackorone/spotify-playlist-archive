@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > OOOAAAAAA<br/>Todo lo nuevo de música tropical 📸  Un Poco de Ruido & Juanes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,747 likes - 98 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,786 likes - 98 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 6 | [ARARIWA](https://open.spotify.com/track/2e2hIiOnDkkzfI2kLSQtno) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [LATINCHOLA](https://open.spotify.com/album/079fqSbaxupULP4LCg25Lw) | 2:50 |
 | 7 | [Piquetitos \- En Vivo](https://open.spotify.com/track/2iAqQObJkNsggOJYRlegCX) | [Nelson Kanzela](https://open.spotify.com/artist/728eqCXeJCJaQXz8qDCOJO) | [En Vivo](https://open.spotify.com/album/4JnnEyZBB1SZwxmUEUS9Ta) | 3:28 |
 | 8 | [Ojalá Que No Puedas](https://open.spotify.com/track/2Quha4euU6xP9S76Ea1JPI) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Ojalá Que No Puedas](https://open.spotify.com/album/6Uu729GZvstMVjUaPGCACe) | 3:10 |
-| 9 | [Amanece](https://open.spotify.com/track/2rY7tfNw1ftTv8JYTmI0df) | [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Tamos Rompi \#1](https://open.spotify.com/album/3ypDm7x0jqCYZNohOcctAb) | 3:10 |
+| 9 | [Amanece](https://open.spotify.com/track/2rY7tfNw1ftTv8JYTmI0df) | [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Tamo Rompi \#1](https://open.spotify.com/album/3ypDm7x0jqCYZNohOcctAb) | 3:10 |
 | 10 | [Una Cumbia Bolero](https://open.spotify.com/track/2wxpQR1DBPneAqWU3kaRkS) | [El Feeling](https://open.spotify.com/artist/5OfJYcZttEc3n5M38qVKUA) | [0.4](https://open.spotify.com/album/3oTBlMXxwC7ZpvduoELNhu) | 3:59 |
 | 11 | [BLA BLA](https://open.spotify.com/track/3BlS5ZP7Rp1QKHrGh4VgYt) | [More Con Flow](https://open.spotify.com/artist/5NS2B9GuroT6TrPoxRKd4t) | [BLA BLA](https://open.spotify.com/album/6CCuf2TDHj7Tc9DjNDrqag) | 2:11 |
 | 12 | [Ya No Queda Nada](https://open.spotify.com/track/3Gk3at9CxMw01ipsELIVx9) | [Los Hermanos Medina](https://open.spotify.com/artist/2QUO2NrRwGIaC1MLnzbfIh) | [Ya No Queda Nada](https://open.spotify.com/album/0qDgwug357tf78T49PNYd4) | 3:44 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 20 | [Cumbiancheros](https://open.spotify.com/track/6VLW4p4O4GlSiPYF8WRjNK) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Noble Esquivel](https://open.spotify.com/artist/7D5IffmyeJQpQ2532utYIQ) | [MEXA](https://open.spotify.com/album/1ANqKYjxTjlBW2muzJCsgE) | 3:23 |
 | 21 | [Jean Carlos Centeno \- Mix En Vivo](https://open.spotify.com/track/6w7Zrd3VISrO6HcT8QOUyC) | [Free Cover Venezuela](https://open.spotify.com/artist/5zXl6z1tUnm1UJtgGY8COu), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Ronal Urbina](https://open.spotify.com/artist/75YwXrUh0D6hDWh5xFpZEK) | [Jean Carlos Centeno \(Mix En Vivo\)](https://open.spotify.com/album/7eZdzeCyrpCdQECKz1Sn0g) | 16:10 |
 | 22 | [Abandonado \- En Vivo](https://open.spotify.com/track/7oB6WRfrBsB0v73GfzC5V4) | [Efrén David](https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g) | [Abandonado \(En Vivo\)](https://open.spotify.com/album/1QIlMIqcHrDQ6kvJ9bGRB1) | 4:53 |
-| 23 | [Sublime Gracia](https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [Isamar](https://open.spotify.com/artist/2drlQvlGLUluWh7iqqB8p7) | [Sublime Gracia](https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX) | 2:46 |
+| 23 | [Sublime Gracia](https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [Isamar](https://open.spotify.com/artist/6ZkzyDfFp1LJLJD8fKq6Ph) | [Sublime Gracia](https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX) | 2:46 |
 | 24 | [Noche](https://open.spotify.com/track/7r9tHvM1Ze7skW5Wtautji) | [Mauricio Mesones](https://open.spotify.com/artist/3rncKt7sH5O1C2xPOyGlze), [El Viaje Tropical](https://open.spotify.com/artist/3mj4QqL0RsWyGkkVrkwwNP) | [Noche](https://open.spotify.com/album/5HYXOv4sPUfb0xxwBDJ4F3) | 4:03 |
 | 25 | [Me Contó Un Pajarito](https://open.spotify.com/track/1BtekUrJrdyP26Vdv9jFUS) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr) | [Me Contó Un Pajarito](https://open.spotify.com/album/21gqDpCwrLz0JTCTEsxEwb) | 2:06 |
 | 26 | [La botella](https://open.spotify.com/track/41MTzwYKd7yqBgNmxX0yKg) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [La botella](https://open.spotify.com/album/5txvBlFy2ssHbJK8siXapR) | 3:23 |

@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: ISAÏ
 
-255 songs - 13 hr 18 min
+256 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Doe Eens Raar](https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Doe Eens Raar](https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg) | 3:47 | 2024-09-13 | 2025-02-21 |
 | [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:10 | 2025-05-16 | 2025-10-20 |
 | [Dokter Phil](https://open.spotify.com/track/7maIOPhJPKi28mGgoD8S00) | [Ratel](https://open.spotify.com/artist/1qpgdHDd1l4SgW6VHKmijd) | [Dokter Phil](https://open.spotify.com/album/0aqDfhsbJSCYBPJiS4YHNO) | 3:25 | 2024-06-26 | 2024-10-25 |
-| [Drijfzand](https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [Drijfzand](https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc) | 3:39 | 2025-05-08 |  |
+| [Drijfzand](https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [Drijfzand](https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc) | 3:39 | 2025-05-08 | 2025-10-26 |
 | [Drijfzand](https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Drijfzand](https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC) | 2:58 | 2024-10-24 | 2025-06-27 |
 | [Dus Ik Ga](https://open.spotify.com/track/6GbtsakP9ZMR6w7ok2cTUT) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [Dus Ik Ga](https://open.spotify.com/album/55Q2gr5Rhu9ucEFiONmPgP) | 3:19 | 2024-07-19 | 2025-01-11 |
 | [Dwars](https://open.spotify.com/track/0DIs9izFeabve5fCncW1p8) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Dwars](https://open.spotify.com/album/5S2TQKLJWNzu7nJIwSVzaQ) | 2:56 | 2024-11-14 | 2025-02-27 |
@@ -262,6 +262,7 @@
 | [Zonder Naam](https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Zonder Naam](https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5) | 3:01 | 2024-11-14 | 2025-07-18 |
 | [Zonder Zonnebril](https://open.spotify.com/track/0rkK1hlMvsgRkiDD3r8dmA) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Zonder Zonnebril](https://open.spotify.com/album/6flL9XU2ePQTyQVoRYAoQQ) | 2:40 | 2025-06-06 | 2025-07-17 |
 | [Zonnemaire](https://open.spotify.com/track/2vQShEd2G8MOGenQFEl5U2) | [VOS](https://open.spotify.com/artist/0l8iUSzBzrpKtRAa8norAw) | [Zonnemaire](https://open.spotify.com/album/2G4fDNmNI0QAvasFqr2mfS) | 3:04 | 2024-10-09 | 2025-01-11 |
+| [Zweef Hier](https://open.spotify.com/track/0WOO50jMuMIYUSpZb9bXTs) | [Bibi van Ansem](https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF) | [Zweef Hier](https://open.spotify.com/album/6CeCZiANVnTBmGg8Fh3AfH) | 2:32 | 2025-10-21 |  |
 | [Zwijgrecht](https://open.spotify.com/track/489EDOr96zRHruVh5gH50G) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea) | [Zwijgrecht](https://open.spotify.com/album/7K8aEYuq4d07q3xzh2em2z) | 1:20 | 2024-06-26 | 2024-07-27 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

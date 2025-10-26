@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126579,
+      "name": "Pop Dat",
+      "url": "https://open.spotify.com/track/3c6ZvhZQnLmDXU0SYKa4Lz"
+    },
+    {
+      "album": {
         "name": "No Pressure (Pt. 1)",
         "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
       },
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 126579,
       "name": "Pop Dat",
       "url": "https://open.spotify.com/track/69IaTU22g3APresMDbF4g9"

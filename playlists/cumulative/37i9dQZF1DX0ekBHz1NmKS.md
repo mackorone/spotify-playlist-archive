@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,034 songs - 4 day 9 hr 24 min
+2,036 songs - 4 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Carefree \- Spotify Studio Oyster Recording](https://open.spotify.com/track/6hVWQIhhwl9JDgVIjTIgRw) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Carefree \(Spotify Studio Oyster Recording\)](https://open.spotify.com/album/0BJEn3fu5A8BYV7VQeod0R) | 3:35 | 2021-12-16 | 2022-01-31 |
 | [Caroline](https://open.spotify.com/track/6oYf0YzUrchNMmrWQKm3pT) | [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [Caroline](https://open.spotify.com/album/37gSumssSDy77aX3Yrztzx) | 2:36 | 2022-05-05 | 2022-07-29 |
 | [Carpe Diem](https://open.spotify.com/track/1LJFTgkr5UeYU2vUX4MAvp) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Carpe Diem](https://open.spotify.com/album/5iRT4669x6nim2INHF7wyI) | 3:12 | 2025-05-08 | 2025-10-17 |
-| [Cast Away](https://open.spotify.com/track/60tNQTn6gG8IeBI1YsDVhf) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Cast Away](https://open.spotify.com/album/3cBGqMdAh3xBtU9oCjixpA) | 3:14 | 2025-08-08 |  |
+| [Cast Away](https://open.spotify.com/track/60tNQTn6gG8IeBI1YsDVhf) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Cast Away](https://open.spotify.com/album/3cBGqMdAh3xBtU9oCjixpA) | 3:14 | 2025-08-08 | 2025-10-26 |
 | [Cause In The End You Know That Everybody Dies](https://open.spotify.com/track/2KnhQusDtv6RVE9iJXiYyE) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Cause In The End You Know That Everybody Dies](https://open.spotify.com/album/59Qf8zRZswDDDscEQhwSWM) | 3:33 | 2022-02-17 | 2022-09-16 |
 | [Celebration](https://open.spotify.com/track/0vCi2lbJVGrAguXQG6ZYmp) | [Mack Beats](https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Celebration](https://open.spotify.com/album/66sGKAAlomqdxcL1ybFuRx) | 3:27 | 2024-05-16 | 2024-06-14 |
 | [Champagne](https://open.spotify.com/track/2lIwPTpd2fhRq31jtFNBq1) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Champagne](https://open.spotify.com/album/0ph8WJ9gZSGnimj8QVkf6k) | 3:30 | 2022-04-22 | 2023-05-08 |
@@ -616,7 +616,7 @@
 | [För Evigt](https://open.spotify.com/track/1CuVhIZAAc8h360WoVJYhD) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [För Evigt](https://open.spotify.com/album/1nw8NdjGsc5dyfvXedPawH) | 2:36 | 2021-12-16 | 2022-03-11 |
 | [För mig själv](https://open.spotify.com/track/3sebHi40n34U0IeL7LpH9q) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [För mig själv](https://open.spotify.com/album/7zhsXS5RPIzICS7J71wcFY) | 2:58 | 2021-12-16 | 2022-03-08 |
 | [För Snabbt](https://open.spotify.com/track/2LUp7yM0n43fma1PZMT1Jf) | [Ros](https://open.spotify.com/artist/1WFDjXyyIHnYbSq8UmTD7X) | [II](https://open.spotify.com/album/6YjgKHr6xxrmjaaMySlNUd) | 3:29 | 2021-12-16 | 2022-05-11 |
-| [För Sverige i tiden](https://open.spotify.com/track/0o5CvM5KZLzCTfDGkv3Vcv) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [För Sverige i tiden](https://open.spotify.com/album/2fNNdBuMKVptGEgFI62UiE) | 3:54 | 2025-06-05 |  |
+| [För Sverige i tiden](https://open.spotify.com/track/0o5CvM5KZLzCTfDGkv3Vcv) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [För Sverige i tiden](https://open.spotify.com/album/2fNNdBuMKVptGEgFI62UiE) | 3:54 | 2025-06-05 | 2025-10-26 |
 | [Förbjudet land](https://open.spotify.com/track/4da9wutgbwJbY5L2K0wJSD) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap), [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Förbjudet land](https://open.spotify.com/album/3HkXIRwwC7MSTV5U3uDklm) | 3:47 | 2022-11-10 | 2022-12-13 |
 | [Fördärvad](https://open.spotify.com/track/6MSC5245nNM5GtZDq1ncC2) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Fördärvad](https://open.spotify.com/album/438edHGkbpMmjtI54r0zDh) | 2:38 | 2021-12-16 | 2022-03-11 |
 | [Förlora](https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Kyss mig snabbt i otakt](https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6) | 3:09 | 2024-08-08 | 2025-02-15 |
@@ -640,6 +640,7 @@
 | [GAMMAL I GEMET](https://open.spotify.com/track/2EbK8nlyOYm6MHvkALytMW) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GAMMAL I GEMET](https://open.spotify.com/album/1EqJfYrvI9T3FbvKWyPWkz) | 2:39 | 2024-01-25 | 2024-02-23 |
 | [GASA & FÖRSVINNA](https://open.spotify.com/track/1gqpC4fhRcrzFU78N2VPyY) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [GASA & FÖRSVINNA](https://open.spotify.com/album/37830R470z3Zc89fK1QRl1) | 3:05 | 2024-05-30 | 2024-06-28 |
 | [Ge inte upp på mig](https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Ge inte upp på mig](https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ) | 3:24 | 2024-09-26 | 2025-04-11 |
+| [Ge mig allt du har](https://open.spotify.com/track/0FuvQXwIIiSSJJKfsvSJmh) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [Ge mig allt du har](https://open.spotify.com/album/4ze5bjFV8sPKTeYnllQQcB) | 3:13 | 2025-10-23 |  |
 | [Ge mig ett tecken](https://open.spotify.com/track/47rIgHqtTANAsbomEMKAZn) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Ge mig ett tecken](https://open.spotify.com/album/6fGHPpUiSpHau74zXUfBza) | 2:54 | 2022-03-10 | 2022-07-29 |
 | [Gemini](https://open.spotify.com/track/4kowdQBeEgQ6Ez23scHiIw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Forevers](https://open.spotify.com/album/28hLStD389vh57mwsDykXg) | 4:45 | 2024-09-26 | 2025-04-11 |
 | [Gemini](https://open.spotify.com/track/12cm3pn2krN7RgN0pLlwtY) | [Sahara Hotnights](https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE) | [Gemini](https://open.spotify.com/album/7GD6EPBfQtoZddrwvQTkmL) | 3:12 | 2022-04-01 | 2022-07-28 |
@@ -1656,6 +1657,7 @@
 | [Sucker for You](https://open.spotify.com/track/15AhbX3z27BVNYMdW0VCnm) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Sucker for You](https://open.spotify.com/album/4G8vvpRiV5k99TGg5gD4Pz) | 3:20 | 2021-12-16 | 2022-03-08 |
 | [Sugar](https://open.spotify.com/track/33pJUhmDYLfmGnpAwnKu2i) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Sugar](https://open.spotify.com/album/69KXYbtGSjqKjQ7aBBZbGw) | 2:56 | 2021-12-16 | 2022-03-11 |
 | [sugar](https://open.spotify.com/track/2d6CmdLPd1rOi7zdQK6kBg) | [Tribe Friday](https://open.spotify.com/artist/27Hd2l3rnMm3JL9hm31RE7) | [sugar](https://open.spotify.com/album/15RYAPvGvUvil1Vu8sI5Xi) | 3:05 | 2022-06-02 | 2022-07-19 |
+| [Sugar High](https://open.spotify.com/track/4wAijWh2EQSASiQUblhC4h) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [Sugar High](https://open.spotify.com/album/4l5nhLF57bPawn8SR6lwrt) | 2:30 | 2025-10-23 |  |
 | [Sugarcoat](https://open.spotify.com/track/0QZXe8qvnNNXPgxrgWxPAv) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Sugarcoat](https://open.spotify.com/album/3PxDqpm3zy3vS7WSpxQMuh) | 2:25 | 2021-12-16 | 2022-04-01 |
 | [Summer 16](https://open.spotify.com/track/52SIiW51Nr9JwtM9pJ5Mn3) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Summer 16](https://open.spotify.com/album/4aPNYejXgOmwAstK7XJLRD) | 2:57 | 2023-08-17 | 2023-12-08 |
 | [Summer Of 99](https://open.spotify.com/track/5bHESPEBM1vvWeES2cVYSf) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Wish I Was Someone Else](https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz) | 3:12 | 2023-11-09 | 2024-01-19 |

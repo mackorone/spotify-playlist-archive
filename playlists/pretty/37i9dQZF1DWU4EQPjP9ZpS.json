@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 334609,
+  "num_followers": 334675,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Network Entities",
+        "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
+      },
+      "artists": [
+        {
+          "name": "Incorporeal Visions Deluxe",
+          "url": "https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "\u8a69 Desktop",
+      "url": "https://open.spotify.com/track/7nrBvBSt6NdhL3LO6P38gf"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "mirror gallery (Windows 96 Remix)",
         "url": "https://open.spotify.com/album/0MJk13mTHzhooFD8zhuJX2"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 163019,
       "name": "mirror gallery (Windows 96 Remix)",
       "url": "https://open.spotify.com/track/1qnb5BWjEyWNOw06UWpMNH"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Network Entities",
-        "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
-      },
-      "artists": [
-        {
-          "name": "Incorporeal Visions Deluxe",
-          "url": "https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "\u8a69 Desktop",
-      "url": "https://open.spotify.com/track/7nrBvBSt6NdhL3LO6P38gf"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Nu.wav Hallucinations",
-        "url": "https://open.spotify.com/album/6nfVqgC74S6IvixOlxd9wv"
-      },
-      "artists": [
-        {
-          "name": "Nmesh",
-          "url": "https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b"
-        }
-      ],
-      "duration_ms": 359410,
-      "name": "A Face Without Eyes",
-      "url": "https://open.spotify.com/track/2Dub85ZiCGeXM3pLTsaV8J"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Televised Tragedies",
         "url": "https://open.spotify.com/album/5pRQPWEMzokiWoq6Q6RyO9"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 97906,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/3mBjgERfm3Tob8Td8yG1gq"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Nu.wav Hallucinations",
+        "url": "https://open.spotify.com/album/6nfVqgC74S6IvixOlxd9wv"
+      },
+      "artists": [
+        {
+          "name": "Nmesh",
+          "url": "https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b"
+        }
+      ],
+      "duration_ms": 359410,
+      "name": "A Face Without Eyes",
+      "url": "https://open.spotify.com/track/2Dub85ZiCGeXM3pLTsaV8J"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN"
-      },
-      "artists": [
-        {
-          "name": "FrankJavCee",
-          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
-        }
-      ],
-      "duration_ms": 103214,
-      "name": "143",
-      "url": "https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "so be it",
         "url": "https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 388732,
       "name": "so be it",
       "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN"
+      },
+      "artists": [
+        {
+          "name": "FrankJavCee",
+          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
+        }
+      ],
+      "duration_ms": 103214,
+      "name": "143",
+      "url": "https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Marina Forever",
-        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
-      },
-      "artists": [
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        }
-      ],
-      "duration_ms": 162024,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Melatonin High (Rework 2021)",
         "url": "https://open.spotify.com/album/2sXLqJZI9hraRNOdAYBtdK"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 280000,
       "name": "Melatonin High - Rework 2021",
       "url": "https://open.spotify.com/track/05NcFvbmsIEHSSiu0YN8HU"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Marina Forever",
+        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 162024,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1351,6 +1351,30 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Floppy Disk Prism",
+        "url": "https://open.spotify.com/album/7qTY0v8YjlxieRbap6FvKG"
+      },
+      "artists": [
+        {
+          "name": "Vaporwavez",
+          "url": "https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3"
+        },
+        {
+          "name": "VAAV Social Club",
+          "url": "https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM"
+        },
+        {
+          "name": "Stux.Io",
+          "url": "https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Floppy Disk Prism",
+      "url": "https://open.spotify.com/track/4PX57QU943gWujcaDhTAX5"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "You Got The Groove",
         "url": "https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI"
       },
@@ -1379,30 +1403,6 @@
       "duration_ms": 263592,
       "name": "\u9752\u6625\u306e\u4f11\u6687",
       "url": "https://open.spotify.com/track/7icvWRCrYM2amuNzni6oNC"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Floppy Disk Prism",
-        "url": "https://open.spotify.com/album/7qTY0v8YjlxieRbap6FvKG"
-      },
-      "artists": [
-        {
-          "name": "Vaporwavez",
-          "url": "https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3"
-        },
-        {
-          "name": "VAAV Social Club",
-          "url": "https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM"
-        },
-        {
-          "name": "Stux.Io",
-          "url": "https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Floppy Disk Prism",
-      "url": "https://open.spotify.com/track/4PX57QU943gWujcaDhTAX5"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/0LOSJF9SLsu9UPamEbfkpj"
+      },
+      "artists": [
+        {
+          "name": "luxury elite",
+          "url": "https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI"
+        }
+      ],
+      "duration_ms": 106581,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/4CwByRtQjwkrnOjWNINV0z"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Glass Mind",
         "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
       },
@@ -1495,34 +1511,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/0LOSJF9SLsu9UPamEbfkpj"
+        "name": "Body Double",
+        "url": "https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ"
       },
       "artists": [
         {
-          "name": "luxury elite",
-          "url": "https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI"
+          "name": "18 Carat Affair",
+          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
         }
       ],
-      "duration_ms": 106581,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/4CwByRtQjwkrnOjWNINV0z"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Surfer Girl",
-        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
-      },
-      "artists": [
-        {
-          "name": "Persona La Ave",
-          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
-        }
-      ],
-      "duration_ms": 375876,
-      "name": "Surfer Girl",
-      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
+      "duration_ms": 91593,
+      "name": "Private Eyes",
+      "url": "https://open.spotify.com/track/7fZY8y8RwAYpdDCsF4ELJm"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1567,18 +1567,34 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Body Double",
-        "url": "https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ"
+        "name": "Surfer Girl",
+        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
       },
       "artists": [
         {
-          "name": "18 Carat Affair",
-          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
+          "name": "Persona La Ave",
+          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
         }
       ],
-      "duration_ms": 91593,
-      "name": "Private Eyes",
-      "url": "https://open.spotify.com/track/7fZY8y8RwAYpdDCsF4ELJm"
+      "duration_ms": 375876,
+      "name": "Surfer Girl",
+      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Tropics 1",
+        "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
+      },
+      "artists": [
+        {
+          "name": "AURAGRAPH",
+          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
+        }
+      ],
+      "duration_ms": 215930,
+      "name": "Spring Water",
+      "url": "https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Tropics 1",
-        "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
-      },
-      "artists": [
-        {
-          "name": "AURAGRAPH",
-          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
-        }
-      ],
-      "duration_ms": 215930,
-      "name": "Spring Water",
-      "url": "https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Iconic Bitch",
         "url": "https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S"
       },
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Polygon Paradise",
+        "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave Club",
+          "url": "https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx"
+        }
+      ],
+      "duration_ms": 140678,
+      "name": "Monogon",
+      "url": "https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Cry Again",
         "url": "https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB"
       },
@@ -1703,38 +1719,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Polygon Paradise",
-        "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
+        "name": "Stratford Ct. | Aestas - Compilation 003",
+        "url": "https://open.spotify.com/album/3JGUbW1pfqQr3xmNV3B0Kv"
       },
       "artists": [
         {
-          "name": "Vaporwave Club",
-          "url": "https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx"
-        }
-      ],
-      "duration_ms": 140678,
-      "name": "Monogon",
-      "url": "https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "vaporgroove (singles)",
-        "url": "https://open.spotify.com/album/2D1r01r3ZgUpURmPHXreaY"
-      },
-      "artists": [
-        {
-          "name": "VAAV Social Club",
-          "url": "https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM"
+          "name": "Flamingosis",
+          "url": "https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb"
         },
         {
-          "name": "Iden Kai",
-          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
         }
       ],
-      "duration_ms": 203761,
-      "name": "vaporgroove ~",
-      "url": "https://open.spotify.com/track/7aXuldX1C1OIWdFGGDZlbu"
+      "duration_ms": 233700,
+      "name": "Hurts So Good",
+      "url": "https://open.spotify.com/track/0uFtHyLddQamEzIDSNnbUN"
     }
   ],
   "unique_name": "vaporwave",

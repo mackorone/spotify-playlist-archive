@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,838 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,907 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Posso Até Não Te Dar Flores](https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Posso Até Não Te Dar Flores](https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF) | 2:42 |
+| 1 | [Posso Até Não Te Dar Flores](https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Posso Até Não Te Dar Flores](https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF) | 2:38 |
 | 2 | [P do Pecado \- Ao Vivo](https://open.spotify.com/track/38Ps9Kui6qJjpVqdBOfN5M) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi) | 3:12 |
 | 3 | [SEQUÊNCIA FEITICEIRA](https://open.spotify.com/track/4Lwm0XFseZ09OBdmUJlcYp) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw) | [SEQUÊNCIA FEITICEIRA](https://open.spotify.com/album/1PUmgnEGrn78cJ6g0O6jry) | 2:09 |
 | 4 | [ME POSTOU NO DAILY \- FESTA DO BIG G](https://open.spotify.com/track/4ATO632UaFTJltxCbfBpHI) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9), [Dj Andrabeat](https://open.spotify.com/artist/1Zg9Zp2NMNIBUiazqAHr1C) | [ME POSTOU NO DAILY \- FESTA DO BIG G](https://open.spotify.com/album/1FeuF1Mscwud8pbUCzypMn) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [DENTRO DA LAND ROVER \- Ao Vivo](https://open.spotify.com/track/5BI4zdNsBNEBSPzYkO2EXZ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [DEBAIXO DO MEU CHAPÉU, Vol\. 2](https://open.spotify.com/album/4k1l6rmHL1FL5rURdvJ5Kg) | 2:39 |
 | 50 | [Não é o Lugar, é a Pessoa](https://open.spotify.com/track/3WvQaS0tluzeCN1KR5tiFi) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Não é o Lugar, é a Pessoa](https://open.spotify.com/album/5r9XKN6hu56jJ1rAnCybTm) | 2:56 |
 
-Snapshot ID: `MI7roAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MJA/eAAAAAAAAAAAAAAAAAAAAAAAAGVu`

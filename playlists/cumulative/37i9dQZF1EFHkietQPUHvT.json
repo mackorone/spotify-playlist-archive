@@ -1105,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Live Without You",
+        "url": "https://open.spotify.com/album/3EG9WRxr2lY8jkNtYg4e9e"
+      },
+      "artists": [
+        {
+          "name": "Niall O'Connor",
+          "url": "https://open.spotify.com/artist/0HszeswPOHPKPVyDOm5DCc"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179771,
+      "name": "Live Without You",
+      "url": "https://open.spotify.com/track/2SfpMcdEDXQZbPLELlRHzF"
+    },
+    {
+      "album": {
         "name": "KYGO",
         "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,461,343 likes - 200 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,461,313 likes - 200 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 2 | [slow turn](https://open.spotify.com/track/7zbGD2aCLp4ZaJnyk7i8FT) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [slow turn](https://open.spotify.com/album/59TAYTgMS7y01sIXrcwyWg) | 2:07 |
 | 3 | [Old Days](https://open.spotify.com/track/7Eg2ohLf7IeYtmnL9Jykxs) | [KiddoCalvin](https://open.spotify.com/artist/08tB77WyTGC9pZ5Pm7Ymu6) | [Old Days](https://open.spotify.com/album/5uC3oL1qKlBI5cUP6r9Dcp) | 2:14 |
 | 4 | [blizz](https://open.spotify.com/track/2XdxihbjudHhbB95dgk3On) | [loutwo](https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf) | [blizz](https://open.spotify.com/album/5oNoa4T5aGZYG5cFOYzSrc) | 2:07 |
-| 5 | [sunrise](https://open.spotify.com/track/1eo4dFZb0UAvPO7oPFPE72) | [mxgnetic](https://open.spotify.com/artist/5u7mGLVX9UB0iKwkgMywJ9) | [sunrise](https://open.spotify.com/album/0t4yXNgstBAzYTiRL5oOsc) | 2:37 |
+| 5 | [sunrise](https://open.spotify.com/track/1eo4dFZb0UAvPO7oPFPE72) | [mxgnetic.](https://open.spotify.com/artist/5u7mGLVX9UB0iKwkgMywJ9) | [sunrise](https://open.spotify.com/album/0t4yXNgstBAzYTiRL5oOsc) | 2:37 |
 | 6 | [far away](https://open.spotify.com/track/0GDif8AtYRv3jfjwlzY1Uv) | [butterfli](https://open.spotify.com/artist/6A3Fdu30Vz62jf3XP5pLy5) | [far away](https://open.spotify.com/album/0V9WA2gseFiULcVV56sB08) | 2:04 |
 | 7 | [daydreamin](https://open.spotify.com/track/7pdBSlVjEAXvvlvxzaESz1) | [zoemoon.](https://open.spotify.com/artist/4p3SsPKnaomOEyJ42L21Yd) | [daydreamin](https://open.spotify.com/album/1keRq9nUIVA3O3kTUlwWDL) | 1:55 |
 | 8 | [losing time](https://open.spotify.com/track/7y5CnlDjKTRq9D4L97Ag6I) | [Yumeoka](https://open.spotify.com/artist/2QO9MfQwz3oGySq5Tiuo4Q) | [losing time](https://open.spotify.com/album/5NM6AhLgmqKoH2RmbVBzmA) | 2:45 |

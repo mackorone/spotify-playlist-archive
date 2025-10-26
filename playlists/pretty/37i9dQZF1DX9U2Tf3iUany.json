@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 58726,
+  "num_followers": 58728,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
+      },
+      "artists": [
+        {
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 351946,
       "name": "Devil In A New Dress",
       "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
-      },
-      "artists": [
-        {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Until Death Call My Name (Reloaded)",
-        "url": "https://open.spotify.com/album/1xFoRn9DxZXwPjEdGnw800"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 163566,
-      "name": "Through the Storm",
-      "url": "https://open.spotify.com/track/7bOlOJHn9IOaXX7IwaK905"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "So Excited! (Expanded Edition)",
         "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 230640,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Until Death Call My Name (Reloaded)",
+        "url": "https://open.spotify.com/album/1xFoRn9DxZXwPjEdGnw800"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 163566,
+      "name": "Through the Storm",
+      "url": "https://open.spotify.com/track/7bOlOJHn9IOaXX7IwaK905"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "DAYTONA",
-        "url": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp"
+        "name": "Purple Reign",
+        "url": "https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2"
       },
       "artists": [
         {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 166120,
-      "name": "The Games We Play",
-      "url": "https://open.spotify.com/track/7iEoaTyBCqLaAwJnOP1BTn"
+      "duration_ms": 241800,
+      "name": "Purple Reign",
+      "url": "https://open.spotify.com/track/3E2i7xoT542yQ59bP2vBbF"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -767,34 +767,34 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Purple Reign",
-        "url": "https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2"
+        "name": "DAYTONA",
+        "url": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
         }
       ],
-      "duration_ms": 241800,
-      "name": "Purple Reign",
-      "url": "https://open.spotify.com/track/3E2i7xoT542yQ59bP2vBbF"
+      "duration_ms": 166120,
+      "name": "The Games We Play",
+      "url": "https://open.spotify.com/track/7iEoaTyBCqLaAwJnOP1BTn"
     },
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
       "artists": [
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 207133,
-      "name": "Just How It Is",
-      "url": "https://open.spotify.com/track/5KYhIFNTp4VQUqlsbLWTTu"
+      "duration_ms": 138781,
+      "name": "I Got A Shot",
+      "url": "https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 138781,
-      "name": "I Got A Shot",
-      "url": "https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY"
+      "duration_ms": 207133,
+      "name": "Just How It Is",
+      "url": "https://open.spotify.com/track/5KYhIFNTp4VQUqlsbLWTTu"
     },
     {
       "added_at": "2022-10-01 16:00:00",

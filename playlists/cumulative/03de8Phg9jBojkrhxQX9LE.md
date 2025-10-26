@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-3,714 songs - 8 day 16 hr 5 min
+3,714 songs - 8 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2034,7 +2034,7 @@
 | [LVLY](https://open.spotify.com/track/1SE710UMo89SvQ0pwIP96v) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [LVLY](https://open.spotify.com/album/28tizBngM4MLqqvnFmexMt) | 5:37 | 2024-05-31 | 2024-06-29 |
 | [LZR](https://open.spotify.com/track/39kkrr14WlpEc4HJcS4oz4) | [MIRZHA](https://open.spotify.com/artist/5dIkb62zFhIu4p5WMwT4Mb) | [LZR](https://open.spotify.com/album/2UeGEfiZDr51Idv48jHUYa) | 2:22 | 2024-01-26 | 2024-02-24 |
 | [M.O.V.E.](https://open.spotify.com/track/3Z6RA2zPTRkHFJiH1Jsmrv) | [Black Carl!](https://open.spotify.com/artist/07oZEFDySnjPl7vqqD8XSq) | [M.O.V.E.](https://open.spotify.com/album/4ywUR1MzfETeUmsGKoZ4Fz) | 3:32 | 2024-04-12 | 2024-05-12 |
-| [machine\_age](https://open.spotify.com/track/55fKc3ex9q7lEQUgPzPyLy) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [THE\_BIG\_TRIP](https://open.spotify.com/album/5fJwIK2omIRULAM93wapMk) | 3:16 | 2025-10-24 |  |
+| [machine\_age](https://open.spotify.com/track/55fKc3ex9q7lEQUgPzPyLy) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [THE\_BIG\_TRIP](https://open.spotify.com/album/5fJwIK2omIRULAM93wapMk) | 2:44 | 2025-10-24 |  |
 | [Mad](https://open.spotify.com/track/22K0u5Gi1oDmdc4dc8BL9D) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj) | [Mad](https://open.spotify.com/album/2PpbW6Cdh5DK2RYIro6jMr) | 4:01 | 2025-05-16 | 2025-06-14 |
 | [MAD](https://open.spotify.com/track/3GRH56HM5QDsbBhAPDaUBi) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [ANGRY MUSIC](https://open.spotify.com/album/5obBkPCnPSX9g869AbqO4P) | 3:12 | 2024-11-22 | 2025-01-11 |
 | [Mad Ting](https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Mad Ting](https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg) | 3:14 | 2024-07-05 | 2024-08-03 |

@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 22011,
+  "num_followers": 22014,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAACYTjDqVCv2zURBBCHtcFYd",
+  "snapshot_id": "aPrBgAAAAAAskLPrZ0hm6j4sa+Ik3hIK",
   "tracks": [
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Road Thru The Heart",
-        "url": "https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i"
+        "name": "Boomerang Caf\u00e9",
+        "url": "https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 159773,
-      "name": "The Shed",
-      "url": "https://open.spotify.com/track/6HDThdBIQptMjGvt37SMpI"
+      "duration_ms": 305000,
+      "name": "The Truckies Wife",
+      "url": "https://open.spotify.com/track/4MY4eaNaoe8ChfbEmWqvNJ"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boomerang Caf\u00e9",
-        "url": "https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G"
+        "name": "Road Thru The Heart",
+        "url": "https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 305000,
-      "name": "The Truckies Wife",
-      "url": "https://open.spotify.com/track/4MY4eaNaoe8ChfbEmWqvNJ"
+      "duration_ms": 159773,
+      "name": "The Shed",
+      "url": "https://open.spotify.com/track/6HDThdBIQptMjGvt37SMpI"
     },
     {
       "added_at": null,

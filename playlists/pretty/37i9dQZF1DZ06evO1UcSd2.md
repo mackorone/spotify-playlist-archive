@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,730 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,734 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 31 | [Cuento Chino](https://open.spotify.com/track/6OWvsepTLKpWUr0TBnoxUe) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Joyas Sierreñas Con Revolver Cannabis](https://open.spotify.com/album/7nsTTrGdNVETgpwztBfpF6) | 4:00 |
 | 32 | [La Fuga del Jefe](https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 2:32 |
 | 33 | [The King of Ice](https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 2:59 |
-| 34 | [Estas Ganas de Tomar](https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Seguimos Adelante](https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt) | 2:35 |
-| 35 | [Luz De Dia](https://open.spotify.com/track/5PMv0sXLpDNrSrMfihTzAV) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Ele\-Eme](https://open.spotify.com/artist/419dlnnbgxhpmG7eR9RUbR) | [Luz De Dia](https://open.spotify.com/album/31pinJMr5eo0AX9BHeeB4q) | 3:17 |
+| 34 | [Luz De Dia](https://open.spotify.com/track/5PMv0sXLpDNrSrMfihTzAV) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Ele\-Eme](https://open.spotify.com/artist/419dlnnbgxhpmG7eR9RUbR) | [Luz De Dia](https://open.spotify.com/album/31pinJMr5eo0AX9BHeeB4q) | 3:17 |
+| 35 | [Estas Ganas de Tomar](https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Seguimos Adelante](https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt) | 2:35 |
 | 36 | [24/7 Dolido](https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:55 |
 | 37 | [Las Vueltas de la Vida](https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 4:06 |
 | 38 | [Canto Pa' Desahogarme](https://open.spotify.com/track/6ySxbcCY8ifqY7i7fYA7af) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 49 | [Sabe Lo Que Trae](https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:59 |
 | 50 | [Ya No Se Olvidarte](https://open.spotify.com/track/45jKkZbNaffSkV29TZr6CX) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:46 |
 
-Snapshot ID: `aPlwAAAAAACOuSadXAW9BwLpO3AgfvYN`
+Snapshot ID: `aPrBgAAAAABTslsJwTtThrj9xKycSGn+`

@@ -1,12 +1,12 @@
 {
   "description": "This is mxmtoon. The essential tracks, all in one playlist.",
-  "num_followers": 47101,
+  "num_followers": 47097,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAADq5+M9KJUcHZFgR83Yozj3",
+  "snapshot_id": "aPrBgAAAAACJ1pHxLo4Q70cFafQZDq7k",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hate texas",
-        "url": "https://open.spotify.com/album/4rPQF5Ujx6eTRGDrIfRl55"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 218656,
-      "name": "i hate texas",
-      "url": "https://open.spotify.com/track/6xEE80nW1NgNC2p04n4in5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "dusk",
         "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 196440,
       "name": "bon iver",
       "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i hate texas",
+        "url": "https://open.spotify.com/album/4rPQF5Ujx6eTRGDrIfRl55"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 218656,
+      "name": "i hate texas",
+      "url": "https://open.spotify.com/track/6xEE80nW1NgNC2p04n4in5"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 172920,
-      "name": "VHS",
-      "url": "https://open.spotify.com/track/5OjfzTg9KWyCARKi7UVnrr"
+      "duration_ms": 170025,
+      "name": "dramatic escape",
+      "url": "https://open.spotify.com/track/1Rh3J0oTvXLEsVmaZoSurn"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "rising",
-        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "dance (end of the world)",
-      "url": "https://open.spotify.com/track/4gyCjsvbbt3PBICIiYlTG4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "dawn",
         "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
       },
@@ -523,22 +507,6 @@
       "duration_ms": 174560,
       "name": "used to you",
       "url": "https://open.spotify.com/track/3UsxVebZkPE4TUvon8IHiS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "liminal space",
-        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 170025,
-      "name": "dramatic escape",
-      "url": "https://open.spotify.com/track/1Rh3J0oTvXLEsVmaZoSurn"
     },
     {
       "added_at": null,
@@ -559,6 +527,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "liminal space",
+        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/5OjfzTg9KWyCARKi7UVnrr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "rising",
+        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "dance (end of the world)",
+      "url": "https://open.spotify.com/track/4gyCjsvbbt3PBICIiYlTG4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "true colors (from Life is Strange)",
         "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "plum blossom",
-        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 187243,
-      "name": "temporary nothing",
-      "url": "https://open.spotify.com/track/2agOl2NGF3uhBe2RGIMYF9"
+      "duration_ms": 209413,
+      "name": "blame game",
+      "url": "https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+        "name": "plum blossom",
+        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 209413,
-      "name": "blame game",
-      "url": "https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf"
+      "duration_ms": 187243,
+      "name": "temporary nothing",
+      "url": "https://open.spotify.com/track/2agOl2NGF3uhBe2RGIMYF9"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
       "duration_ms": 196301,
       "name": "Queen",
       "url": "https://open.spotify.com/track/73x5oFlbHcMhWQ7Wez5z3I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "plum blossom",
-        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 271914,
-      "name": "porcelain",
-      "url": "https://open.spotify.com/track/480dcljP2jOjTKLYpbQllC"
     },
     {
       "added_at": null,
@@ -688,9 +672,25 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 191706,
-      "name": "haze",
-      "url": "https://open.spotify.com/track/79Cy0YeFlg104VAoeY4lmm"
+      "duration_ms": 183449,
+      "name": "sad disco",
+      "url": "https://open.spotify.com/track/4L9CJKKoqJO2ryiVDnJiiQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "plum blossom",
+        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 271914,
+      "name": "porcelain",
+      "url": "https://open.spotify.com/track/480dcljP2jOjTKLYpbQllC"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
       "duration_ms": 219813,
       "name": "high & dry",
       "url": "https://open.spotify.com/track/00PN6MBzEuptqXKCJkoXoh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "plum blossom",
-        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 183242,
-      "name": "i feel like chet",
-      "url": "https://open.spotify.com/track/6OF60E8ejsKq76SWf2ae9b"
     },
     {
       "added_at": null,
@@ -752,9 +736,25 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 183449,
-      "name": "sad disco",
-      "url": "https://open.spotify.com/track/4L9CJKKoqJO2ryiVDnJiiQ"
+      "duration_ms": 191706,
+      "name": "haze",
+      "url": "https://open.spotify.com/track/79Cy0YeFlg104VAoeY4lmm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "plum blossom",
+        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 183242,
+      "name": "i feel like chet",
+      "url": "https://open.spotify.com/track/6OF60E8ejsKq76SWf2ae9b"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "true colors (from Life is Strange)",
-        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "every wave",
-      "url": "https://open.spotify.com/track/0swoGl1Iu00peGZvqkjc8i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the masquerade",
         "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 234506,
       "name": "dream of you",
       "url": "https://open.spotify.com/track/4XYc66vQbFlTdgRUCLACsS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "true colors (from Life is Strange)",
+        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "every wave",
+      "url": "https://open.spotify.com/track/0swoGl1Iu00peGZvqkjc8i"
     },
     {
       "added_at": null,

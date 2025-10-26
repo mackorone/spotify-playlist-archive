@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Daniel Caesar, Tyla, Shakira, 緑黄色社会, 離婚伝説 and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,058 likes - 92 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,060 likes - 92 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

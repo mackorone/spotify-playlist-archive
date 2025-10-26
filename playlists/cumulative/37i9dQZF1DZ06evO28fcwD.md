@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-189 songs - 12 hr 44 min
+190 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:30 | 2022-10-24 | 2025-10-19 |
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:30 | 2021-12-28 | 2022-10-06 |
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/7q2VPjkiAACzWd2mSp8NWH) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/5ciWiRD3ZT6YkAwaM7DzE5) | 3:30 | 2025-10-19 |  |
-| [Nkosi Yama Khosi](https://open.spotify.com/track/601yCRAHvab7ayl2DuuiST) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Amabutho](https://open.spotify.com/album/0K1hHIOKtRK8zJccos9PUH) | 3:01 | 2025-10-04 |  |
+| [Nkosi Yama Khosi](https://open.spotify.com/track/601yCRAHvab7ayl2DuuiST) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Amabutho](https://open.spotify.com/album/0K1hHIOKtRK8zJccos9PUH) | 3:01 | 2025-10-04 | 2025-10-26 |
 | [Nkosi Yami Ngabusiswa](https://open.spotify.com/track/4yomu9eL2rK8s9QBcjr6kd) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ulwandle Olungcwele](https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg) | 4:16 | 2024-11-04 |  |
 | [Nomathemba](https://open.spotify.com/track/3gptqhvLYt8xyL1fwuObYv) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Spirit Of South Africa](https://open.spotify.com/album/3lSXtIZ7BtoMW3e17WxFCy) | 3:32 | 2021-12-28 | 2025-10-13 |
 | [Nonqonqo](https://open.spotify.com/track/3Wm6LF8NrVDdh2xiAGqCj4) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Zenzile: The Reimagination of Miriam Makeba](https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297) | 2:20 | 2023-01-14 | 2024-03-06 |
@@ -167,6 +167,7 @@
 | [Township Jive](https://open.spotify.com/track/0pmH0Dx8E47OAEonAkfrVR) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/5i0jyzlxb4i9fPXYNE2qkD) | 4:38 | 2021-12-28 | 2022-10-07 |
 | [Township Jive](https://open.spotify.com/track/4lTaWKl14MfGLgjzF8cbKZ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Two Worlds One Heart](https://open.spotify.com/album/6BtW4Rnw1IU89vHNb3MURa) | 4:40 | 2022-10-10 | 2022-10-13 |
 | [Ubuntu \- Remix](https://open.spotify.com/track/1gKzZUHDABb5NhOcgyNHvp) | [Jay Nunez Beats](https://open.spotify.com/artist/6OGUY77pUVi8Zcr19DVgXE), [Sona Jobarteh](https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Tlhomamo Billy Bradley Sojane](https://open.spotify.com/artist/01yQWxR9qMb8xktcYknasc) | [Ubuntu \(Remix\)](https://open.spotify.com/album/1KAjGd9LrIAxtmqlBGoiXM) | 6:00 | 2025-03-20 | 2025-08-06 |
+| [uMculo](https://open.spotify.com/track/58tkOcubpq8sVO2kR2EY76) | [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [uMculo](https://open.spotify.com/album/5UlA828jgD7D0d3Zcbgy1Z) | 3:46 | 2025-10-26 |  |
 | [Umusa Kankulunkulu \(Mercy of God\)](https://open.spotify.com/track/0GqlEEum0IeztVdE5RhllQ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Journey Of Dreams](https://open.spotify.com/album/3vMHGUT6cjoHD4jIopv9tL) | 3:26 | 2022-06-23 |  |
 | [Unomathemba](https://open.spotify.com/track/2Heon2ZRiyw7nMX9GdfFZc) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Shaka Zulu](https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME) | 3:47 | 2025-03-31 | 2025-04-03 |
 | [Upendi \- From "The Lion King II: Simba's Pride"/Soundtrack Version](https://open.spotify.com/track/6RJayUS0XvdWGt0d2HTKTH) | [Liz Callaway](https://open.spotify.com/artist/4hcWMDrWJYyU66HA583nCb), [Gene Miller](https://open.spotify.com/artist/1KYA9tk1iUyyaU523Wy8bc), [Robert Guillaume](https://open.spotify.com/artist/5ohxmJ6nh8Dx2WFzudufCl), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Lion King 2: Simba's Pride](https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy) | 2:54 | 2021-12-28 |  |

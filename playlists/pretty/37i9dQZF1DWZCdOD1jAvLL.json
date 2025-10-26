@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: TyriqueOrDie",
-  "num_followers": 267705,
+  "num_followers": 267709,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "Appetite",
-        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 227272,
-      "name": "Appetite",
-      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
         "name": "Cry For You (2025)",
         "url": "https://open.spotify.com/album/7pYLQoKHX1JlhuUyti0HwF"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 176363,
       "name": "Cry For You (2025)",
       "url": "https://open.spotify.com/track/2xVDlAuxS6rhEMXOlX9h07"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "Appetite",
+        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 227272,
+      "name": "Appetite",
+      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -743,46 +743,6 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "Raving In The Studio",
-        "url": "https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO"
-      },
-      "artists": [
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        },
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        }
-      ],
-      "duration_ms": 183771,
-      "name": "Raving In The Studio",
-      "url": "https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
-        "name": "NO CAP",
-        "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 233734,
-      "name": "NO CAP",
-      "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
         "name": "Quest For Fire",
         "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
       },
@@ -807,22 +767,6 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
         "name": "X-Rated",
         "url": "https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo"
       },
@@ -839,6 +783,62 @@
       "duration_ms": 184620,
       "name": "X-Rated",
       "url": "https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "Raving In The Studio",
+        "url": "https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        }
+      ],
+      "duration_ms": 183771,
+      "name": "Raving In The Studio",
+      "url": "https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "NO CAP",
+        "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 233734,
+      "name": "NO CAP",
+      "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo"
+      },
+      "artists": [
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "duration_ms": 193903,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
         "name": "Girls MIA",
         "url": "https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 133848,
       "name": "Girls MIA",
       "url": "https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo"
-      },
-      "artists": [
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        }
-      ],
-      "duration_ms": 193903,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "Stay With The Tempo",
-        "url": "https://open.spotify.com/album/6ioWntlf8RGLq4lhALY9J8"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 214218,
-      "name": "Stay With The Tempo",
-      "url": "https://open.spotify.com/track/3RE3izHxUijcckK3JDLLq5"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
         "name": "System Shock",
         "url": "https://open.spotify.com/album/7ADLWJaRuxts3AfNcJPXQq"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 136688,
       "name": "System Shock",
       "url": "https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "Stay With The Tempo",
+        "url": "https://open.spotify.com/album/6ioWntlf8RGLq4lhALY9J8"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 214218,
+      "name": "Stay With The Tempo",
+      "url": "https://open.spotify.com/track/3RE3izHxUijcckK3JDLLq5"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
+        "name": "TECHY MF",
+        "url": "https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "TECHY MF",
+      "url": "https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
         "name": "Ultrasound",
         "url": "https://open.spotify.com/album/2FC2qvtOZfOuQRscDSZq2w"
       },
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "TECHY MF",
-        "url": "https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "TECHY MF",
-      "url": "https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
         "name": "Control Myself",
         "url": "https://open.spotify.com/album/62UY4BFIpHaJuikn68pd9U"
       },
@@ -1679,6 +1679,26 @@
       "duration_ms": 249545,
       "name": "Control Myself",
       "url": "https://open.spotify.com/track/0bvLAKIxesW6datVfezQ1Z"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "Scars In Stereo",
+        "url": "https://open.spotify.com/album/00RW0XQwcNnY4fRuWXMdjw"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "duration_ms": 169212,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/2oXIBToJ6fMyhadJJXh4KO"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -1719,22 +1739,6 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "Death By Love",
-        "url": "https://open.spotify.com/album/36KL4YmFsXEDfqZVfm6qXF"
-      },
-      "artists": [
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Death By Love",
-      "url": "https://open.spotify.com/track/6YOg0daCavgHVBZ3u9hZWc"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
         "name": "California Dreamin'",
         "url": "https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C"
       },
@@ -1751,6 +1755,22 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
+        "name": "Death By Love",
+        "url": "https://open.spotify.com/album/36KL4YmFsXEDfqZVfm6qXF"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Death By Love",
+      "url": "https://open.spotify.com/track/6YOg0daCavgHVBZ3u9hZWc"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
         "name": "Return to the Spectrum of Intergalactic Happiness",
         "url": "https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 253260,
       "name": "Fall Away",
       "url": "https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
-        "name": "Scars In Stereo",
-        "url": "https://open.spotify.com/album/00RW0XQwcNnY4fRuWXMdjw"
-      },
-      "artists": [
-        {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        },
-        {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
-        }
-      ],
-      "duration_ms": 169212,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/2oXIBToJ6fMyhadJJXh4KO"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "Prophecy",
-        "url": "https://open.spotify.com/album/1lYOAexnj4ZwKHofhvWBAn"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 315276,
-      "name": "Prophecy",
-      "url": "https://open.spotify.com/track/69nFLl74Rqr8LmqUCUZJL6"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
         "name": "Flex",
         "url": "https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 212812,
       "name": "Flex",
       "url": "https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "Prophecy",
+        "url": "https://open.spotify.com/album/1lYOAexnj4ZwKHofhvWBAn"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 315276,
+      "name": "Prophecy",
+      "url": "https://open.spotify.com/track/69nFLl74Rqr8LmqUCUZJL6"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "AUTOBAHN",
-        "url": "https://open.spotify.com/album/5flItG4w6QQs7mdUheOAwq"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        }
-      ],
-      "duration_ms": 191108,
-      "name": "AUTOBAHN",
-      "url": "https://open.spotify.com/track/64pEJ9PB0iB2NfAb8R2GOf"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
         "name": "Lazarus Rise",
         "url": "https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw"
       },
@@ -2187,6 +2171,26 @@
       "duration_ms": 192727,
       "name": "Lazarus Rise",
       "url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 155147,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -2235,22 +2239,18 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "The Sound",
-        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
+        "name": "AUTOBAHN",
+        "url": "https://open.spotify.com/album/5flItG4w6QQs7mdUheOAwq"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
         }
       ],
-      "duration_ms": 155147,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
+      "duration_ms": 191108,
+      "name": "AUTOBAHN",
+      "url": "https://open.spotify.com/track/64pEJ9PB0iB2NfAb8R2GOf"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -2527,38 +2527,38 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "Soundboy",
-        "url": "https://open.spotify.com/album/4i3Jyd8XH7EEU42JId6awO"
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/1Db9mYMaxIPA3mEX5UDesN"
       },
       "artists": [
         {
-          "name": "Kitone",
-          "url": "https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj"
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
         },
         {
-          "name": "Rhiannon Roze",
-          "url": "https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f"
+          "name": "girl_irl",
+          "url": "https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D"
         }
       ],
-      "duration_ms": 151111,
-      "name": "Soundboy",
-      "url": "https://open.spotify.com/track/58U3P9ZuOGwcJnz7L0RUw6"
+      "duration_ms": 203835,
+      "name": "Ten",
+      "url": "https://open.spotify.com/track/3NLX0WPaHV7Zi8EMUvmwOV"
     },
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "Don't Be Fooled",
-        "url": "https://open.spotify.com/album/5RxVZoXHLOBK6UlgFp0JGI"
+        "name": "Sex In The Mosh",
+        "url": "https://open.spotify.com/album/0TMRJHdvd1GBEcKeMoadew"
       },
       "artists": [
         {
-          "name": "Stirling",
-          "url": "https://open.spotify.com/artist/5ENeTFArq0YgcBS9A1iGGG"
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
         }
       ],
-      "duration_ms": 183056,
-      "name": "Don't Be Fooled",
-      "url": "https://open.spotify.com/track/2Mjim603j5TvUX3uB3YOzv"
+      "duration_ms": 134418,
+      "name": "Sex In The Mosh",
+      "url": "https://open.spotify.com/track/2jjtWrKi0LW8nnFqbRJr8p"
     }
   ],
   "unique_name": "Bangers",

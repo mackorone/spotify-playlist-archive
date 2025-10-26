@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Amber Mark
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,615 likes - 65 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,616 likes - 65 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 33 | [Shapeshifting on a Saturday Night](https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Shapeshifting on a Saturday Night](https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s) | 3:25 |
 | 34 | [Girl Of Constant Sorrow](https://open.spotify.com/track/3UjmEplBH91KXo7PHPZKTU) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Girl Of Constant Sorrow](https://open.spotify.com/album/2kjhNUwtDsCfYHrh03TXOE) | 2:59 |
 | 35 | [Salute](https://open.spotify.com/track/5sWjhIs29sp6rbgOicg4NS) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:34 |
-| 36 | [Ego](https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Ego](https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz) | 3:13 |
-| 37 | [ALIVE](https://open.spotify.com/track/5uaGvrkuejhZ6ROQGac5Qs) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [9 LIVES](https://open.spotify.com/album/2Y339jvY13XJXPCQ5OtYxb) | 2:13 |
-| 38 | [Crazy Bitch Song](https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Crazy Bitch Song](https://open.spotify.com/album/6raHiXlXAuf1lU0JsIC70Q) | 2:13 |
-| 39 | [DON'T STRESS](https://open.spotify.com/track/2vkkMGqeuAtumFaYHA0CoX) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [DON'T STRESS](https://open.spotify.com/album/11iY6153p0IYzUEK6yZfaE) | 2:51 |
+| 36 | [ALIVE](https://open.spotify.com/track/5uaGvrkuejhZ6ROQGac5Qs) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [9 LIVES](https://open.spotify.com/album/2Y339jvY13XJXPCQ5OtYxb) | 2:13 |
+| 37 | [Ego](https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Ego](https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz) | 3:13 |
+| 38 | [DON'T STRESS](https://open.spotify.com/track/2vkkMGqeuAtumFaYHA0CoX) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [DON'T STRESS](https://open.spotify.com/album/11iY6153p0IYzUEK6yZfaE) | 2:51 |
+| 39 | [Crazy Bitch Song](https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Crazy Bitch Song](https://open.spotify.com/album/6raHiXlXAuf1lU0JsIC70Q) | 2:13 |
 | 40 | [Always Been You \(with Anike\) \- Live](https://open.spotify.com/track/43HieN3qrUrZUgAsyhFTDM) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Jesus Over Everything \(Live In Las Vegas\)](https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp) | 6:01 |
-| 41 | [Perfect Person \(feat\. coop\)](https://open.spotify.com/track/3fOBaVKw79f4xRTwMkR15w) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv) | [Perfect Person \(feat\. coop\)](https://open.spotify.com/album/3TWKgpC7rrappK0JWHPWWZ) | 2:10 |
-| 42 | [SO DAMN GOOD](https://open.spotify.com/track/4rLRo9sQKBU4jx2XNRsMWw) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [SO DAMN GOOD](https://open.spotify.com/album/4AOXWzndHo8A7gmlLj5CxF) | 3:18 |
+| 41 | [SO DAMN GOOD](https://open.spotify.com/track/4rLRo9sQKBU4jx2XNRsMWw) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [SO DAMN GOOD](https://open.spotify.com/album/4AOXWzndHo8A7gmlLj5CxF) | 3:18 |
+| 42 | [Perfect Person \(feat\. coop\)](https://open.spotify.com/track/3fOBaVKw79f4xRTwMkR15w) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv) | [Perfect Person \(feat\. coop\)](https://open.spotify.com/album/3TWKgpC7rrappK0JWHPWWZ) | 2:10 |
 | 43 | [Bettadaze](https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Miss Black America](https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg) | 2:55 |
 | 44 | [Dent](https://open.spotify.com/track/1aPBk61BkA2efpwrSRBFMo) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Dent](https://open.spotify.com/album/08Qgfm6I8ATQE7Vp1Lf8EL) | 3:12 |
 | 45 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 54 | [GIVE IN](https://open.spotify.com/track/7DvaIxndt396r0LJeXSe3j) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [GIVE IN](https://open.spotify.com/album/5tRfIKrXKuaIIcuwIuYr2o) | 2:55 |
 | 55 | [The Bomb](https://open.spotify.com/track/6FqQpftrbKOFvhQJ6f4Iyh) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Parody Of Pleasure](https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7) | 2:22 |
 | 56 | [Sweeter](https://open.spotify.com/track/15YaPqTspwhXRJEMdMuaDN) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Finer Things](https://open.spotify.com/album/6gB9GpKKpLQdkY8Kqk4uXu) | 3:34 |
-| 57 | [Faded Polaroids](https://open.spotify.com/track/6QReiqzyZkC0sgjiqTV5xk) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Songs From Faded Polaroids](https://open.spotify.com/album/6O0f2paua2FCyIBb7Yejci) | 2:55 |
-| 58 | [hang on the wall what you kill](https://open.spotify.com/track/3ThXubZEb1x9U8AgfYCq8c) | [emory](https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE) | [hang on the wall what you kill](https://open.spotify.com/album/6wTZVm4bY9bTV57xS4G4b2) | 2:27 |
+| 57 | [hang on the wall what you kill](https://open.spotify.com/track/3ThXubZEb1x9U8AgfYCq8c) | [emory](https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE) | [hang on the wall what you kill](https://open.spotify.com/album/6wTZVm4bY9bTV57xS4G4b2) | 2:27 |
+| 58 | [Faded Polaroids](https://open.spotify.com/track/6QReiqzyZkC0sgjiqTV5xk) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Songs From Faded Polaroids](https://open.spotify.com/album/6O0f2paua2FCyIBb7Yejci) | 2:55 |
 | 59 | [IT'S HARD \(to be a Man\)](https://open.spotify.com/track/5G6ZCA94A0DBcBSDlacRss) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [IT'S HARD \(to be a Man\)](https://open.spotify.com/album/1wtUOQUVs3ij7NEJCWDuhw) | 3:00 |
 | 60 | [Piece Of My Heart](https://open.spotify.com/track/6wtsNV5SwSuNOYSucwa8xq) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [City Woman](https://open.spotify.com/album/0sjM1eT9s4ARHFb9LCfU3W) | 3:16 |
 | 61 | [Sweet Tea](https://open.spotify.com/track/3fDNDxcos3RuOHpkm1Qc4N) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Sweet Tea](https://open.spotify.com/album/53IZCUuAD64yVuiqXToPO1) | 3:28 |

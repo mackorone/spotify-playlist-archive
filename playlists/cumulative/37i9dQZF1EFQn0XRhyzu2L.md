@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-637 songs - 1 day 11 hr 9 min
+638 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Carry Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:53 | 2024-02-27 |  |
 | [Celebration](https://open.spotify.com/track/14CuAx9KIrVXC0O4ac91uH) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [In Trap We Trust, Vol\. 1](https://open.spotify.com/album/4lU2rIbaKMUbwnN4FQj8Hu) | 4:22 | 2024-02-27 | 2025-07-10 |
 | [Celebration](https://open.spotify.com/track/5D2r5KcaVPuri7xD0FZZJC) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [We Turnt Up, Vol\. 6](https://open.spotify.com/album/4rESAMfV7F2cNSz93OEa2M) | 3:50 | 2024-02-27 |  |
-| [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 | 2024-02-27 |  |
+| [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 | 2024-02-27 | 2025-10-26 |
 | [Centuries \- Gazzo Remix](https://open.spotify.com/track/4ZzbcSm6MxnC15BcDqEYyK) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Gazzo](https://open.spotify.com/artist/5st4KKihmnSMLRsxWOs2x3) | [Centuries \(Gazzo Remix\)](https://open.spotify.com/album/4dFub54EO7uoweA7OYoZd7) | 4:19 | 2025-05-29 |  |
 | [Centuries \- Remix](https://open.spotify.com/track/4LutIwQfcpXjVs7mIySYCD) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Jonathan "JR" Rotem](https://open.spotify.com/artist/0td8n3WZG9kptG9UsmYfc9) | [Make America Psycho Again](https://open.spotify.com/album/4vfQ7uk37WT80Ed8JeIdNO) | 3:22 | 2025-05-29 |  |
 | [Change Your Mind \(No Seas Cortes\)](https://open.spotify.com/track/51zZkW3FSCS9N5MjWOyJJU) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 2:59 | 2024-02-27 |  |
@@ -261,6 +261,7 @@
 | [If Walls Could Talk](https://open.spotify.com/track/0nCVLAhIUrLQ34Vw5vTXNP) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:02 | 2024-02-27 |  |
 | [Impossible Is Possible \(with Shea Diamond\)](https://open.spotify.com/track/15LNSe3wSUCMjeuCCByiwd) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4), [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Anything's Possible \(Motion Picture Soundtrack\)](https://open.spotify.com/album/33OeuOhSFRzm4pLlFNup4w) | 2:47 | 2024-02-27 |  |
 | [In The Club \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/6k5lID2jU3xTLmt9vmPfqS) | [Matthew James Dowden](https://open.spotify.com/artist/13ObvzBkb2MvUZAXgjSv5Y), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 2:13 | 2024-02-27 |  |
+| [In The Dark](https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:05 | 2025-10-25 |  |
 | [In the Name of Love](https://open.spotify.com/track/7F1Ph1i1dLl7K8zt2piaxW) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:04 | 2024-02-27 |  |
 | [Ins and Outs](https://open.spotify.com/track/47dpLuBCmnJyUFYQ7Xa2j4) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Ins and Outs](https://open.spotify.com/album/6DA8DSwuB5PtmskKjIULUR) | 3:23 | 2024-02-27 |  |
 | [Into It](https://open.spotify.com/track/2gxqozTaq2NYylvS8jd57G) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 2:55 | 2024-02-27 |  |

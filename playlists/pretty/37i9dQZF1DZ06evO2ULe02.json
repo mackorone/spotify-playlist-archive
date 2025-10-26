@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 1843,
+  "num_followers": 1845,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAC1ifrv6gLrRPxQMUP3xwi5",
+  "snapshot_id": "aPrBgAAAAAC7VTvYg2qXME4DpKq7y1J4",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grocery Store Girl",
-        "url": "https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 163983,
-      "name": "Grocery Store Girl",
-      "url": "https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 153773,
       "name": "Wish It Was Me",
       "url": "https://open.spotify.com/track/5znIh3KjSph3m7wCJsGgRY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grocery Store Girl",
+        "url": "https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 163983,
+      "name": "Grocery Store Girl",
+      "url": "https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U"
     },
     {
       "added_at": null,

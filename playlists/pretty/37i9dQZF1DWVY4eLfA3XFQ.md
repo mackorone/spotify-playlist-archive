@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🐇 Tech house operators, featuring Shinichi Osawa & RHYME
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,657 likes - 120 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,725 likes - 120 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You Ain't My Friend](https://open.spotify.com/track/2kW15aO83Ix1lFGreg9F7l) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [You Ain't My Friend](https://open.spotify.com/album/1XyrELP834fbjigvHSIaEl) | 2:57 |
+| 1 | [You Ain't My Friend](https://open.spotify.com/track/2kW15aO83Ix1lFGreg9F7l) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [You Ain't My Friend](https://open.spotify.com/album/1XyrELP834fbjigvHSIaEl) | 2:57 |
 | 2 | [You & Me](https://open.spotify.com/track/6atTrGB6eK8NOT6nniI237) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [You & Me](https://open.spotify.com/album/4SvqWdh1i0UceZLnCzg8m2) | 3:34 |
 | 3 | [Diet Coke](https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Diet Coke](https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO) | 2:35 |
 | 4 | [WTF](https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1) | [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz) | [WTF](https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo) | 3:13 |

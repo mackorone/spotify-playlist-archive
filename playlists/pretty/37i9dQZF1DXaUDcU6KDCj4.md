@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Hozier and Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,255 likes - 203 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,349 likes - 203 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 15143,
+  "num_followers": 15142,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAD4XbGD+4+Ho/1HnJJfz18s",
+  "snapshot_id": "aPrBgAAAAAD9ao2why+RA6+8edh1jimL",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fra\u00e7\u00e3o 3/4",
+        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 158884,
+      "name": "+18",
+      "url": "https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetisas no Topo 3",
         "url": "https://open.spotify.com/album/59B1Leein60p2cEODo6OHl"
       },
@@ -331,30 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fra\u00e7\u00e3o 3/4",
-        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 158884,
-      "name": "+18",
-      "url": "https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "44",
         "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
       },
@@ -399,26 +399,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piranha",
-        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
+        "name": "Quase Pronta Mixtape",
+        "url": "https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq"
       },
       "artists": [
         {
+          "name": "Barona",
+          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "YORI",
+          "url": "https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E"
+        },
+        {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
         }
       ],
-      "duration_ms": 176098,
-      "name": "Piranha",
-      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
+      "duration_ms": 168750,
+      "name": "Sexo Hot",
+      "url": "https://open.spotify.com/track/0zWOyz2VVnt9gg5kHaqroK"
     },
     {
       "added_at": null,
@@ -499,30 +503,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quase Pronta Mixtape",
-        "url": "https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq"
+        "name": "Piranha",
+        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
       },
       "artists": [
         {
-          "name": "Barona",
-          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "YORI",
-          "url": "https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E"
-        },
-        {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
         }
       ],
-      "duration_ms": 168750,
-      "name": "Sexo Hot",
-      "url": "https://open.spotify.com/track/0zWOyz2VVnt9gg5kHaqroK"
+      "duration_ms": 176098,
+      "name": "Piranha",
+      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
     },
     {
       "added_at": null,
@@ -1275,6 +1275,26 @@
       "duration_ms": 180004,
       "name": "CUSSY",
       "url": "https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e9 no Ch\u00e3o, Mente Nas Nuvens",
+        "url": "https://open.spotify.com/album/5v6XzcP1918N7PWrMfUett"
+      },
+      "artists": [
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 205350,
+      "name": "Carta do Baralho",
+      "url": "https://open.spotify.com/track/3Ab10F9gj4O6i30HZR0KqI"
     }
   ],
   "unique_name": "This Is Mc Luanna",

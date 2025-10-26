@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: Low G",
+  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: \u0110en\n",
   "name": "Hip-hop Vi\u1ec7t",
   "tracks": [
     {
@@ -2941,6 +2941,28 @@
     },
     {
       "album": {
+        "name": "L2K",
+        "url": "https://open.spotify.com/album/1x5AiQ50WfsWCryL3zvdLx"
+      },
+      "artists": [
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        },
+        {
+          "name": "JustaTee",
+          "url": "https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200923,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7uUuftbcr94tzGOCJSM25u"
+    },
+    {
+      "album": {
         "name": "GENfest 2024 liners",
         "url": "https://open.spotify.com/album/6jSwdu7TgJd74f7qwpzlVd"
       },
@@ -3620,7 +3642,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 190343,
       "name": "L\u1ed1i S\u1ed1ng",
       "url": "https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn"

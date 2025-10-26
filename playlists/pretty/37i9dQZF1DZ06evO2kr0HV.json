@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 40690,
+  "num_followers": 40695,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAABP/VgrslzAxHKnStJglM6Q",
+  "snapshot_id": "aPrBgAAAAABaqgkCMpiD0DZP54FC6Yex",
   "tracks": [
     {
       "added_at": null,
@@ -347,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+        "name": "Cr\u00e8me Brul\u00e9e (Bilingual Version)",
+        "url": "https://open.spotify.com/album/3uIjoRjR87BnCINBObzo6h"
       },
       "artists": [
+        {
+          "name": "David Archuleta",
+          "url": "https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk"
+        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 168706,
-      "name": "Hasta Morir",
-      "url": "https://open.spotify.com/track/7CK7oTOmccQz7VJZ4Ajcqv"
+      "duration_ms": 179045,
+      "name": "Cr\u00e8me Brul\u00e9e - Bilingual Version",
+      "url": "https://open.spotify.com/track/0GxYjgg8r1ar9khGsk5YSW"
     },
     {
       "added_at": null,
@@ -415,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cr\u00e8me Brul\u00e9e (Bilingual Version)",
-        "url": "https://open.spotify.com/album/3uIjoRjR87BnCINBObzo6h"
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
       },
       "artists": [
-        {
-          "name": "David Archuleta",
-          "url": "https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk"
-        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 179045,
-      "name": "Cr\u00e8me Brul\u00e9e - Bilingual Version",
-      "url": "https://open.spotify.com/track/0GxYjgg8r1ar9khGsk5YSW"
+      "duration_ms": 168706,
+      "name": "Hasta Morir",
+      "url": "https://open.spotify.com/track/7CK7oTOmccQz7VJZ4Ajcqv"
     },
     {
       "added_at": null,
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 165133,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/63tsypGXts1WqBAK7BYiCA"
+      "duration_ms": 183640,
+      "name": "Secreto",
+      "url": "https://open.spotify.com/track/0BJxnZcGYv7ZQMBLdOUzmY"
     },
     {
       "added_at": null,
@@ -1000,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 183640,
-      "name": "Secreto",
-      "url": "https://open.spotify.com/track/0BJxnZcGYv7ZQMBLdOUzmY"
+      "duration_ms": 165133,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/63tsypGXts1WqBAK7BYiCA"
     },
     {
       "added_at": null,

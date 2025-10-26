@@ -4,7 +4,7 @@
 
 > Sophie and the Giants is here for a main pop girl emergency 🆘
 
-1,486 songs - 3 day 2 hr 28 min
+1,488 songs - 3 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [boss](https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [boss](https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe) | 2:11 | 2025-01-24 | 2025-07-26 |
 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 | 2023-03-13 | 2024-09-21 |
 | [BOY CRAZY.](https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [BOY CRAZY.](https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc) | 2:28 | 2025-05-16 | 2025-07-12 |
-| [BOY CRAZY\. \(feat\. JADE\)](https://open.spotify.com/track/39QvuWaRVyyLT9yQKn8Qy0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [\. \(...\)](https://open.spotify.com/album/6xp0NBjMoWgRHKqYPG5Dl3) | 2:49 | 2025-07-11 |  |
+| [BOY CRAZY\. \(feat\. JADE\)](https://open.spotify.com/track/39QvuWaRVyyLT9yQKn8Qy0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [\. \(...\)](https://open.spotify.com/album/6xp0NBjMoWgRHKqYPG5Dl3) | 2:49 | 2025-07-11 | 2025-10-26 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-15 | 2022-07-23 |
 | [Boys](https://open.spotify.com/track/0BBLwKdU4vn0HDSi1C8xDZ) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Boys](https://open.spotify.com/album/3PfWqfZABf2OjlxpBig0Ae) | 2:34 | 2025-05-16 | 2025-06-07 |
 | [Boys](https://open.spotify.com/track/4IYk5ESCDyErbN4jRPVBPq) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:05 | 2022-12-24 | 2023-01-28 |
@@ -266,6 +266,7 @@
 | [Cosmic Lover](https://open.spotify.com/track/7ltiK6ak3SI37XygHoXLnB) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Lonely Hearts Club](https://open.spotify.com/album/0OqV782ApCWpQUdQGd3xD4) | 3:24 | 2022-07-29 | 2022-09-17 |
 | [Cover Girl](https://open.spotify.com/track/1dmXbtCAeJxX7veA9Upryx) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Cover Girl](https://open.spotify.com/album/3b7LsAl2z7zMRxYNy8ccFz) | 2:41 | 2022-09-09 | 2022-12-24 |
 | [Cpr](https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Queen Elizabitch](https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU) | 3:28 | 2022-02-15 | 2022-06-25 |
+| [CRANK](https://open.spotify.com/track/5lFu1VR7s2EvuKAi6qxU0G) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [CRANK](https://open.spotify.com/album/3zAXDaMbv8dr2TTw32vEnT) | 2:55 | 2025-10-25 |  |
 | [Crashland](https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Crashland](https://open.spotify.com/album/2wiLzTUXLPIARvXoBycaJT) | 2:42 | 2023-03-10 | 2023-04-01 |
 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 | 2022-10-14 | 2022-12-24 |
 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 | 2024-08-16 | 2025-03-29 |
@@ -461,6 +462,7 @@
 | [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 | 2024-10-18 | 2025-03-31 |
 | [Freefall](https://open.spotify.com/track/6xosjTIiCn0zG9stxQKLBO) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Freefall](https://open.spotify.com/album/4kGEeZJodQnNKyIpbDdpTR) | 2:49 | 2024-10-11 | 2024-11-30 |
 | [French Girls](https://open.spotify.com/track/1IG0AHtVCjjgpND5iRDC6j) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [French Girls](https://open.spotify.com/album/0zNVm3xZratOorJpLbglfN) | 2:52 | 2025-05-02 | 2025-07-05 |
+| [Frequency](https://open.spotify.com/track/51jBoXb9mj2Pv1oD9Stysx) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 2:43 | 2025-10-25 |  |
 | [FREYA](https://open.spotify.com/track/1rDwsfTxO3BvGPmpNeVVbB) | [Maria Celin](https://open.spotify.com/artist/5cNJTVpvfQKB5oJRtsWbsd) | [FREYA](https://open.spotify.com/album/2RCQJRLAfWiF9kMXplBB5T) | 3:03 | 2023-02-17 | 2023-10-07 |
 | [Fruit Punch](https://open.spotify.com/track/7CyhZ5LltpFjORD0o8FErx) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Fruit Punch](https://open.spotify.com/album/67rQ0g5XiTIdf9poimcz5Q) | 2:50 | 2024-12-13 | 2025-08-05 |
 | [Fuck Boy](https://open.spotify.com/track/2FqWoR5iRLBgkiNKYWVebd) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Fuck Boy](https://open.spotify.com/album/7fjtP6kHOwQWLTSwBqyF5w) | 3:06 | 2022-05-20 | 2022-07-30 |
@@ -748,7 +750,7 @@
 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 | 2023-11-03 | 2024-02-10 |
 | [Kinda Famous](https://open.spotify.com/track/4YwpoXjq8jy5aWLU2cP4uU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Manic Dream Pixie](https://open.spotify.com/album/37v0q6s1IB9jSCPMIpFwFN) | 2:54 | 2023-04-28 | 2023-06-03 |
 | [King of Hearts](https://open.spotify.com/track/0RKR9cd6tqMSJmbNVBQsuS) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:51 | 2023-06-23 | 2023-09-16 |
-| [Kiss](https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Kiss](https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s) | 2:19 | 2025-10-10 |  |
+| [Kiss](https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Kiss](https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s) | 2:19 | 2025-10-10 | 2025-10-26 |
 | [Kiss Bang Bang](https://open.spotify.com/track/14uiy2lSlMhiNS0905yUfP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/7mYSV2k7vBqHgqCeP4Slfs) | 2:27 | 2024-10-18 | 2025-01-04 |
 | [Kiss It Kiss It](https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:52 | 2025-08-01 |  |
 | [KISS KISS BANG BANG](https://open.spotify.com/track/1WgutIzbZGASLWT2ADT4zc) | [Michael Medrano](https://open.spotify.com/artist/1m19wFvOFvPm15no62SlAD) | [KISS KISS BANG BANG](https://open.spotify.com/album/2XZX04VOvAveKTzoEEbLPE) | 3:12 | 2024-04-13 | 2024-06-08 |

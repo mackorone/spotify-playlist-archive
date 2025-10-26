@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 686866,
+  "num_followers": 686909,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAABnR+HfnXKJ02+3M1rKtJiA",
+  "snapshot_id": "aPrBgAAAAABN8jJl5D8uozdYyDJcWW55",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wanna Be (Remix Alternate Versions)",
+        "url": "https://open.spotify.com/album/2YhNUDVeFFJshlJDkppXY6"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Wanna Be (with Megan Thee Stallion & Cardi B) - Remix",
+      "url": "https://open.spotify.com/track/0LMNckdqhd2eQr5xV5NGRi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UY SCUTI",
         "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
       },
@@ -571,30 +595,6 @@
       "duration_ms": 303076,
       "name": "MotorSport",
       "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wanna Be (Remix Alternate Versions)",
-        "url": "https://open.spotify.com/album/2YhNUDVeFFJshlJDkppXY6"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Wanna Be (with Megan Thee Stallion & Cardi B) - Remix",
-      "url": "https://open.spotify.com/track/0LMNckdqhd2eQr5xV5NGRi"
     },
     {
       "added_at": null,

@@ -3382,7 +3382,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 119538,
       "name": "Evening at Rosalita's Roadhouse",
       "url": "https://open.spotify.com/track/4yXKM3P49hdOsUS6G39Zv4"
@@ -10608,7 +10608,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 118536,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/2cC0dkN1nkcjOaSWPbAwce"
@@ -12949,6 +12949,32 @@
     },
     {
       "album": {
+        "name": "Tropical Punch",
+        "url": "https://open.spotify.com/album/3TW0xHrtqozU7yG7rj76xt"
+      },
+      "artists": [
+        {
+          "name": "floomyy",
+          "url": "https://open.spotify.com/artist/2E40ubnQwwZUAfdCbDwajO"
+        },
+        {
+          "name": "Sheath",
+          "url": "https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw"
+        },
+        {
+          "name": "cl\u00f8se2u",
+          "url": "https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130555,
+      "name": "Tropical Punch",
+      "url": "https://open.spotify.com/track/5DnfFJQpfm15uitIhcyVQx"
+    },
+    {
+      "album": {
         "name": "Twice",
         "url": "https://open.spotify.com/album/0K1koM4cgGbDTFfMAR6I0p"
       },
@@ -13136,6 +13162,24 @@
       "duration_ms": 144238,
       "name": "unspeakably cruel",
       "url": "https://open.spotify.com/track/26GQ8JfYAcLa6yeyPAs02H"
+    },
+    {
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/3YUesCmuboRnj3OdGyCfuJ"
+      },
+      "artists": [
+        {
+          "name": "jeppa.",
+          "url": "https://open.spotify.com/artist/681AWCGizczn0qJnaPgC69"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116470,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/4ClTudzzBvQxF42J8ruUvo"
     },
     {
       "album": {

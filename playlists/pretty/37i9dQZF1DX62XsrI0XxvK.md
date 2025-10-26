@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Jinan Laetitia
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,543 likes - 97 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,547 likes - 97 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pemula](https://open.spotify.com/track/0vAL8i68jrL5Y5L7jHgShZ) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [Pemula](https://open.spotify.com/album/2q8cHBvnDPg1x8xEvof4Lt) | 3:04 |
 | 2 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 |
 | 3 | [Back to You](https://open.spotify.com/track/3uPBDHYJPFo7ILVzShfwGS) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Forevermore](https://open.spotify.com/album/7MptRwuxpHHuUJtYFKzHuc) | 3:01 |
-| 4 | [Syahravi \- Salah Paham](https://open.spotify.com/track/75itNZTt1HF4CdfxAr0Ld1) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Salah Paham](https://open.spotify.com/album/3hFH41buob1oT4Lyf7Cf8k) | 3:27 |
+| 4 | [Salah Paham](https://open.spotify.com/track/75itNZTt1HF4CdfxAr0Ld1) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Salah Paham](https://open.spotify.com/album/3hFH41buob1oT4Lyf7Cf8k) | 3:27 |
 | 5 | [floating in love](https://open.spotify.com/track/7ilFeaB4SQ5RnQOtzpHaee) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4), [Alvin Wardiman](https://open.spotify.com/artist/1C1xHPlFYwO4XsngjC87yt) | [floating in love](https://open.spotify.com/album/2r7mRLacB3Dk1ws8pNwLMJ) | 3:41 |
 | 6 | [Red Flag](https://open.spotify.com/track/6CWFEuL0tr2cAEXKFF9cZZ) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Cerita Kita](https://open.spotify.com/album/1t5QgJytF9KWu4VVFgw23d) | 2:46 |
 | 7 | [SO ASU](https://open.spotify.com/track/56TRhAB4SqpRn5NdqHSAFy) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [SO ASU](https://open.spotify.com/album/00r0dUE6PBHPNVsBsddH7t) | 2:36 |

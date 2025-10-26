@@ -8651,6 +8651,24 @@
     },
     {
       "album": {
+        "name": "Damn",
+        "url": "https://open.spotify.com/album/4LtjxbySdwqb8XFAtiJ8d1"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174248,
+      "name": "Damn",
+      "url": "https://open.spotify.com/track/0KHVISuSBfpkRJ4jZ24y5o"
+    },
+    {
+      "album": {
         "name": "Damn Bean",
         "url": "https://open.spotify.com/album/0L6Wmjz8QhjXqKn8ZNaTtl"
       },
@@ -36656,7 +36674,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 271664,
       "name": "The Tongass",
       "url": "https://open.spotify.com/track/3EU3gA50dnCzreFKqiu1WN"

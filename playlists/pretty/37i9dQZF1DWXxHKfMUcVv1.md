@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,993 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,018 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 44 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
 | 45 | [A Tu Ventana](https://open.spotify.com/track/3Qczr3h4wRl74fio8VFv4b) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Éxitos los Chiches Vallenatos](https://open.spotify.com/album/1KpRYCfdhi4dnnCNdGvdcU) | 4:42 |
 | 46 | [Me Haces Falta](https://open.spotify.com/track/2p5HdaHUaVSpIhSyqSAGjG) | [Wildo Samuel](https://open.spotify.com/artist/3mh9ySoVfvp4pt7HAiflR1), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Basti](https://open.spotify.com/artist/7hLsmdqGDPeCJLiKRGljDb) | [Me Haces Falta](https://open.spotify.com/album/1LAAMDXoeGYZkOsW8omDwW) | 3:24 |
-| 47 | [UNA CUMBITA](https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ) | [Qmbia Base](https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU) | [UNA CUMBITA](https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az) | 2:15 |
-| 48 | [Estamos Solos \(Nderehe'y\)](https://open.spotify.com/track/7KTWO0fIqXdsX1XDtUIzWu) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Estamos Solos \(Nderehe'y\)](https://open.spotify.com/album/1KMbrF7GXhwWcslv5BgjbH) | 2:54 |
+| 47 | [Estamos Solos \(Nderehe'y\)](https://open.spotify.com/track/7KTWO0fIqXdsX1XDtUIzWu) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Estamos Solos \(Nderehe'y\)](https://open.spotify.com/album/1KMbrF7GXhwWcslv5BgjbH) | 2:54 |
+| 48 | [UNA CUMBITA](https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ) | [Qmbia Base](https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU) | [UNA CUMBITA](https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az) | 2:15 |
 | 49 | [Dónde está el amor?](https://open.spotify.com/track/0vc4k8TRSYEggDDB2RVUmu) | [Jose Viera](https://open.spotify.com/artist/2Sp7cTDbjsYFB8uzRsnIuR), [Jazmín del Paraguay](https://open.spotify.com/artist/69hJLucbwhNIw8vPF3FzXV) | [Dónde está el amor?](https://open.spotify.com/album/6Va6OpLeZmmzbBjV1CgtWE) | 3:14 |
 | 50 | [Te Quiero](https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl) | [El Culto Casero](https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW) | [Te Quiero](https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4) | 2:17 |
 

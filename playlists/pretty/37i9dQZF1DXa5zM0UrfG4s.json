@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116453,
+  "num_followers": 116464,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -87,6 +87,22 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
+        "name": "P\u00e5 vei",
+        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "Rundt neste sving",
+      "url": "https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls"
+    },
+    {
+      "added_at": "2025-10-23 22:00:47",
+      "album": {
         "name": "BUBBEL P\u00c5 BALKONGEN",
         "url": "https://open.spotify.com/album/09dL2m4Jx62jwDYqGhtCcn"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 166062,
       "name": "BUBBEL P\u00c5 BALKONGEN",
       "url": "https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8"
-    },
-    {
-      "added_at": "2025-10-23 22:00:47",
-      "album": {
-        "name": "P\u00e5 vei",
-        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "Rundt neste sving",
-      "url": "https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -183,22 +183,6 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
-        "name": "Pickup truck",
-        "url": "https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Pickup truck",
-      "url": "https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg"
-    },
-    {
-      "added_at": "2025-10-23 22:00:47",
-      "album": {
         "name": "H\u00f8gt over landet",
         "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 203722,
       "name": "H\u00f8gt over landet",
       "url": "https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW"
+    },
+    {
+      "added_at": "2025-10-23 22:00:47",
+      "album": {
+        "name": "Pickup truck",
+        "url": "https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Pickup truck",
+      "url": "https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
-        "name": "Jeg har v\u00e6rt en idiot",
-        "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
-      },
-      "artists": [
-        {
-          "name": "Katastrofe",
-          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
-        }
-      ],
-      "duration_ms": 149886,
-      "name": "Jeg har v\u00e6rt en idiot",
-      "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
-    },
-    {
-      "added_at": "2025-10-23 22:00:47",
-      "album": {
         "name": "Berre i natt",
         "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 229433,
       "name": "Berre i natt",
       "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
+    },
+    {
+      "added_at": "2025-10-23 22:00:47",
+      "album": {
+        "name": "Jeg har v\u00e6rt en idiot",
+        "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
+      },
+      "artists": [
+        {
+          "name": "Katastrofe",
+          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+        }
+      ],
+      "duration_ms": 149886,
+      "name": "Jeg har v\u00e6rt en idiot",
+      "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
-        "name": "Langt igjen \u00e5 g\u00e5",
-        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 182824,
-      "name": "Langt igjen \u00e5 g\u00e5",
-      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
-    },
-    {
-      "added_at": "2025-10-23 22:00:47",
-      "album": {
         "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
         "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 199920,
       "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
       "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
+    },
+    {
+      "added_at": "2025-10-23 22:00:47",
+      "album": {
+        "name": "Langt igjen \u00e5 g\u00e5",
+        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 182824,
+      "name": "Langt igjen \u00e5 g\u00e5",
+      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -787,18 +787,22 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
-        "name": "Her og n\u00e5",
-        "url": "https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e"
+        "name": "Hopp inn i kjerra",
+        "url": "https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH"
       },
       "artists": [
         {
-          "name": "River",
-          "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
         }
       ],
-      "duration_ms": 136981,
-      "name": "Her og n\u00e5",
-      "url": "https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X"
+      "duration_ms": 140940,
+      "name": "Hopp inn i kjerra",
+      "url": "https://open.spotify.com/track/5uiNyDWemQiCYynsfqKWlO"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -823,22 +827,18 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
-        "name": "Hopp inn i kjerra",
-        "url": "https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH"
+        "name": "Her og n\u00e5",
+        "url": "https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+          "name": "River",
+          "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
         }
       ],
-      "duration_ms": 140940,
-      "name": "Hopp inn i kjerra",
-      "url": "https://open.spotify.com/track/5uiNyDWemQiCYynsfqKWlO"
+      "duration_ms": 136981,
+      "name": "Her og n\u00e5",
+      "url": "https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -871,6 +871,22 @@
       "duration_ms": 204336,
       "name": "Ola",
       "url": "https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6"
+    },
+    {
+      "added_at": "2025-10-23 22:00:47",
+      "album": {
+        "name": "Hoppe inn med hjertet f\u00f8rst",
+        "url": "https://open.spotify.com/album/5aLeG3uJQeB5GBFxEfukZS"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 174951,
+      "name": "Hoppe inn med hjertet f\u00f8rst",
+      "url": "https://open.spotify.com/track/7qgk9wQwrXZnL8cZgA8vKR"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -1207,6 +1223,26 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
+        "name": "Velkommen til \u00d8stfold",
+        "url": "https://open.spotify.com/album/77bx4BwFo76C57mYqDnHtt"
+      },
+      "artists": [
+        {
+          "name": "ZadeKing",
+          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 143861,
+      "name": "Velkommen til \u00d8stfold",
+      "url": "https://open.spotify.com/track/2DwItGwSNTYI4E8RtmJwUX"
+    },
+    {
+      "added_at": "2025-10-23 22:00:47",
+      "album": {
         "name": "Se dig naken igen",
         "url": "https://open.spotify.com/album/30YVIl0fpuUAH1IrILSvJQ"
       },
@@ -1223,46 +1259,6 @@
       "duration_ms": 136977,
       "name": "Se dig naken igen",
       "url": "https://open.spotify.com/track/7CyHiCbqRj4RokUXYbHndJ"
-    },
-    {
-      "added_at": "2025-10-23 22:00:47",
-      "album": {
-        "name": "Baksetefylla",
-        "url": "https://open.spotify.com/album/4DlXxbB7E9nXG9IUNxA4Fe"
-      },
-      "artists": [
-        {
-          "name": "Malene Axling",
-          "url": "https://open.spotify.com/artist/2c7hfI1qJLLguxdjLsfHKQ"
-        }
-      ],
-      "duration_ms": 149926,
-      "name": "Baksetefylla",
-      "url": "https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO"
-    },
-    {
-      "added_at": "2025-10-23 22:00:47",
-      "album": {
-        "name": "Dagsfylla",
-        "url": "https://open.spotify.com/album/01a07OQoUKeb6FfsTfbNTt"
-      },
-      "artists": [
-        {
-          "name": "Kaptein EPA",
-          "url": "https://open.spotify.com/artist/2v7lprKyLQB5CHQkT50JFk"
-        },
-        {
-          "name": "Fl\u00f6ber",
-          "url": "https://open.spotify.com/artist/1fcZ5xS3sNC2USFveWZA7t"
-        },
-        {
-          "name": "L\u00f8vendahl",
-          "url": "https://open.spotify.com/artist/2crP0DzGXR6GMPGgXeoebz"
-        }
-      ],
-      "duration_ms": 111282,
-      "name": "Dagsfylla",
-      "url": "https://open.spotify.com/track/09FoTcU7J5K2jpzzUwhij7"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

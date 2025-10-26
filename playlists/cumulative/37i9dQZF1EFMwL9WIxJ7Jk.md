@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-228 songs - 11 hr 55 min
+229 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/1TVpTfbF1yT75eVNW9Jd7y) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:40 | 2025-03-29 | 2025-07-12 |
 | [Close Your Eyes](https://open.spotify.com/track/2e1N4FhuB08W4iKmYpEftE) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:40 | 2023-12-30 | 2025-03-30 |
 | [Color of My Lips \(feat\. Busy Signal\)](https://open.spotify.com/track/6MrrKe8ewhFykqBz1QDB8q) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 3:10 | 2025-07-24 |  |
+| [Crashing Out](https://open.spotify.com/track/4qvh8jKHTzeHF9dhFsBDlC) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:42 | 2025-10-25 |  |
 | [Credit](https://open.spotify.com/track/26bxdAStXA3WO4nnxslZrc) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 2:51 | 2025-03-29 | 2025-07-12 |
 | [Credit](https://open.spotify.com/track/63dFd2UgXD8l2buNGEtKRs) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 2:51 | 2023-12-30 | 2025-03-30 |
 | [Crowded Room](https://open.spotify.com/track/7538JmMWZuw9kopnACWeyP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:24 | 2024-06-15 |  |
@@ -126,7 +127,7 @@
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 | 2025-07-09 |  |
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2EJwxob7gpbWLzr5FhEAk4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Like I'm Gonna Lose You \(Official Music Video\)](https://open.spotify.com/album/3eGYlBiey7oowDv1Or4RY4) | 3:47 | 2023-12-31 | 2024-02-02 |
 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:45 | 2023-12-30 | 2025-03-30 |
-| [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:45 | 2025-03-29 | 2025-10-22 |
+| [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:45 | 2025-03-29 |  |
 | [Lips Are Movin](https://open.spotify.com/track/3fNaQSMgFrYTkTshRX7J1u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:01 | 2025-03-29 | 2025-07-12 |
 | [Lips Are Movin](https://open.spotify.com/track/6gj08XDlv9Duc2fPOxUmVD) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:02 | 2024-01-01 | 2025-03-30 |
 | [Lips Are Movin](https://open.spotify.com/track/5dbmMcsRYQ7RiKeNzq7oyT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Lips Are Movin \(Official Music Video\)](https://open.spotify.com/album/6V4bZzTmEU9sw8JQ26H2MC) | 3:05 | 2023-12-30 | 2024-01-31 |

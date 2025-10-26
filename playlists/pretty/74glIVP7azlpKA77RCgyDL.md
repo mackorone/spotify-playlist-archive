@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 9,063 likes - 256 songs - 15 hr 33 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 9,071 likes - 256 songs - 15 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 107 | [Abhorrent Contraception \(feat\. Defeated Sanity\)](https://open.spotify.com/track/3pLsgylGMlL55PfCTIKgR9) | [Sanguisugabogg](https://open.spotify.com/artist/0n98EIfTSiyxUZHUojHykN), [Defeated Sanity](https://open.spotify.com/artist/0dy6peOuKo2QkwaNWPoJpx) | [Abhorrent Contraception \(feat\. Defeated Sanity\)](https://open.spotify.com/album/6QEMhpmLasDq7Qff7Af4Qb) | 5:30 |
 | 108 | [Coming Down](https://open.spotify.com/track/0QKePbwi7LoHpfQfKLSmYa) | [Sun Dont Shine](https://open.spotify.com/artist/4awV9U3zAkWcSsaNsClKPU) | [Coming Down](https://open.spotify.com/album/2RUfk66sEcwR7eelrCKApt) | 4:06 |
 | 109 | [So Help Me God](https://open.spotify.com/track/3tkBA0ct7h0EQ3XmR4y9bp) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Where Only The Truth Is Spoken](https://open.spotify.com/album/1qs6bVTbcreJUBB3yuspkq) | 4:18 |
-| 110 | [Fury My Master](https://open.spotify.com/track/1KgCNolwH1by6iGqmNTj4R) | [Upon Stone](https://open.spotify.com/artist/3gACjHwByUj3sUtHVqZBrf) | [End Time Lightning](https://open.spotify.com/album/71wuS8oPWthj7E6XEYpjzh) | 4:27 |
+| 110 | [Fury My Master](https://open.spotify.com/track/1KgCNolwH1by6iGqmNTj4R) | [Upon Stone](https://open.spotify.com/artist/3gACjHwByUj3sUtHVqZBrf) | [End Time Lightning](https://open.spotify.com/album/71wuS8oPWthj7E6XEYpjzh) | 4:26 |
 | 111 | [Cronenberged \(feat\. Jonny Davy of Job for a Cowboy\)](https://open.spotify.com/track/3VSOcZD4E4XPj3hs34AFEt) | [Revocation](https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3), [Jonny Davy](https://open.spotify.com/artist/4GT998lcoHv6ELVhuOfLu4), [Job For A Cowboy](https://open.spotify.com/artist/5L3QTPofDwMPGlNnQkyHK1) | [Cronenberged \(feat\. Jonny Davy of Job for a Cowboy\)](https://open.spotify.com/album/5OB29coslfu9vHLs51kR69) | 3:29 |
 | 112 | [Your Flowers](https://open.spotify.com/track/1f6jZXsVuoSb2imgfJ91Vx) | [Excide](https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh) | [Your Flowers](https://open.spotify.com/album/5IF7a6vg9C8HbltPfq0giv) | 3:10 |
 | 113 | [Forsaken](https://open.spotify.com/track/38jtfBswHjY19sicV4KVC3) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [Forsaken](https://open.spotify.com/album/0q7wiOqTy6c42gTbf9gdRs) | 3:33 |

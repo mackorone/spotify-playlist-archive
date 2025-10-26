@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 231042,
+  "num_followers": 231099,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAACBJImt9zMpe3HyMLWRRfs6",
+  "snapshot_id": "aPrBgAAAAAAK7GBK9BLaz9rEEVWkBy3o",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 140750,
       "name": "Amado Carrillo",
       "url": "https://open.spotify.com/track/227X7GnGSMjX57IbSTSZmX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ser M\u00e1s Que Tu Amigo",
-        "url": "https://open.spotify.com/album/6y7TN2VbtICzbzoW65hGgC"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 187441,
-      "name": "Ser M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/5Czzc6WmcAQKOTJHQndeYy"
     },
     {
       "added_at": null,
@@ -75,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Seguimos La Borrachera",
-        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 199471,
-      "name": "El Cigarrito Banado",
-      "url": "https://open.spotify.com/track/0HeTasu9tMyqTFP7Exu6E7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde El Nokia",
         "url": "https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK"
       },
@@ -103,6 +71,22 @@
       "duration_ms": 187834,
       "name": "El Papel Cambio (Bonus Track)",
       "url": "https://open.spotify.com/track/7LMbe2WJ3jgk7Mn7DzXb4Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 199471,
+      "name": "El Cigarrito Banado",
+      "url": "https://open.spotify.com/track/0HeTasu9tMyqTFP7Exu6E7"
     },
     {
       "added_at": null,
@@ -335,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Detras Del Miedo",
-        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 197358,
-      "name": "La Princesa",
-      "url": "https://open.spotify.com/track/1oqqIvtl8Q26q4ACnrjU4b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belico",
         "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
       },
@@ -363,6 +331,22 @@
       "duration_ms": 230635,
       "name": "Abusamos Del Alcohol",
       "url": "https://open.spotify.com/track/5nLlnNeNJtTkum4E0iXOYi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Detras Del Miedo",
+        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 197358,
+      "name": "La Princesa",
+      "url": "https://open.spotify.com/track/1oqqIvtl8Q26q4ACnrjU4b"
     },
     {
       "added_at": null,
@@ -463,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ser M\u00e1s Que Tu Amigo",
+        "url": "https://open.spotify.com/album/6y7TN2VbtICzbzoW65hGgC"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 187441,
+      "name": "Ser M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/5Czzc6WmcAQKOTJHQndeYy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Reyes Del Movimiento Alterado",
         "url": "https://open.spotify.com/album/5SJqYFPqPGWZIZpNC9nbct"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 168146,
       "name": "Orden Exigido",
       "url": "https://open.spotify.com/track/5AqS1GDzzD2qkKAduFca3f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo Me Quiero Mas",
-        "url": "https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 190129,
-      "name": "Yo Me Quiero Mas",
-      "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
     },
     {
       "added_at": null,
@@ -524,15 +508,15 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 170125,
-      "name": "Leyenda M1",
-      "url": "https://open.spotify.com/track/2I1IVGBwp88bjvY0LrAtAg"
+      "duration_ms": 167499,
+      "name": "Toquezones de Cannabis",
+      "url": "https://open.spotify.com/track/1BFlRcER6IYupiiEVaYvMJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+        "name": "Yo Me Quiero Mas",
+        "url": "https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO"
       },
       "artists": [
         {
@@ -540,9 +524,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 146360,
-      "name": "Mafia Nueva",
-      "url": "https://open.spotify.com/track/6iLTn5x3UzYyPgupyliMkt"
+      "duration_ms": 190129,
+      "name": "Yo Me Quiero Mas",
+      "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
     },
     {
       "added_at": null,
@@ -567,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
       "artists": [
         {
@@ -576,9 +560,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 232881,
-      "name": "La Mafia Se Sienta En La Mesa",
-      "url": "https://open.spotify.com/track/4E3AyaHnGNCBstvVc9GVCL"
+      "duration_ms": 146360,
+      "name": "Mafia Nueva",
+      "url": "https://open.spotify.com/track/6iLTn5x3UzYyPgupyliMkt"
     },
     {
       "added_at": null,
@@ -592,15 +576,15 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 167499,
-      "name": "Toquezones de Cannabis",
-      "url": "https://open.spotify.com/track/1BFlRcER6IYupiiEVaYvMJ"
+      "duration_ms": 170125,
+      "name": "Leyenda M1",
+      "url": "https://open.spotify.com/track/2I1IVGBwp88bjvY0LrAtAg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
       },
       "artists": [
         {
@@ -608,9 +592,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 137200,
-      "name": "El Corrido del Viejon",
-      "url": "https://open.spotify.com/track/6NExyM5EiZaBcfKa0F9toD"
+      "duration_ms": 232881,
+      "name": "La Mafia Se Sienta En La Mesa",
+      "url": "https://open.spotify.com/track/4E3AyaHnGNCBstvVc9GVCL"
     },
     {
       "added_at": null,
@@ -631,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romanticas",
-        "url": "https://open.spotify.com/album/5ixxiCbErSeF4akRmEVM6V"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
       "artists": [
         {
@@ -640,9 +624,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 207804,
-      "name": "Prohibida",
-      "url": "https://open.spotify.com/track/5eTZAT5QRihrI2EPmm7dXb"
+      "duration_ms": 137200,
+      "name": "El Corrido del Viejon",
+      "url": "https://open.spotify.com/track/6NExyM5EiZaBcfKa0F9toD"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
       "duration_ms": 229982,
       "name": "Me Gustas Mucho - En Vivo",
       "url": "https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Romanticas",
+        "url": "https://open.spotify.com/album/5ixxiCbErSeF4akRmEVM6V"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 207804,
+      "name": "Prohibida",
+      "url": "https://open.spotify.com/track/5eTZAT5QRihrI2EPmm7dXb"
     },
     {
       "added_at": null,

@@ -1644,6 +1644,28 @@
     {
       "album": {
         "name": "Aina",
+        "url": "https://open.spotify.com/album/7vZNKYbQkKPaRC0IGDwd9C"
+      },
+      "artists": [
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        },
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135125,
+      "name": "Aina",
+      "url": "https://open.spotify.com/track/30e8FQADV8Xdyc5UnPBVio"
+    },
+    {
+      "album": {
+        "name": "Aina",
         "url": "https://open.spotify.com/album/1nMxRHOzJL8bUz0oB52RVT"
       },
       "artists": [
@@ -3032,7 +3054,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 198573,
       "name": "Asfaltin pinta - Vain el\u00e4m\u00e4\u00e4 kausi 16",
       "url": "https://open.spotify.com/track/71lekT94R4rRcRKg3K5aAA"
@@ -4222,6 +4244,24 @@
       "duration_ms": 199866,
       "name": "Belly, The Weeknd - Die For It (ft. Nas)",
       "url": "https://open.spotify.com/track/2Nc1v8I86FUGorwjXKo0in"
+    },
+    {
+      "album": {
+        "name": "Bensaa tulipaloon",
+        "url": "https://open.spotify.com/album/3VSTPC1rNLN2YPDMOwejoe"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181578,
+      "name": "Bensaa tulipaloon",
+      "url": "https://open.spotify.com/track/1FCjidFdL7qwloCUnzQkoD"
     },
     {
       "album": {
@@ -7828,7 +7868,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 175875,
       "name": "Don Julio",
       "url": "https://open.spotify.com/track/5x3N98t0SuJBpJJXJQEEum"
@@ -12454,7 +12494,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 192465,
       "name": "Genelec",
       "url": "https://open.spotify.com/track/3LQrA0LbNZDc7drpWOxpXh"
@@ -13736,7 +13776,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 175342,
       "name": "Hassala (feat. Senya)",
       "url": "https://open.spotify.com/track/6Euko5vVrWvRWwj0fGrUiC"
@@ -16742,7 +16782,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 196837,
       "name": "Iha miten vaa",
       "url": "https://open.spotify.com/track/5CbkZJipjT198pDW8v3k2u"
@@ -23088,6 +23128,24 @@
       "duration_ms": 219515,
       "name": "Kunnes sammutaan",
       "url": "https://open.spotify.com/track/16VWuoWGHyYDpdcXKhx7Ll"
+    },
+    {
+      "album": {
+        "name": "Kunnes sammutaan (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/41SN3xgzZPqniqQXreTZcA"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159058,
+      "name": "Kunnes sammutaan (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+      "url": "https://open.spotify.com/track/6dbYxywDRYRwgp6ZqoEhlb"
     },
     {
       "album": {
@@ -31409,6 +31467,24 @@
     },
     {
       "album": {
+        "name": "Pieni ikuisuus",
+        "url": "https://open.spotify.com/album/25pLeQtsnxTAOMA5IURPrp"
+      },
+      "artists": [
+        {
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153141,
+      "name": "Mun ihminen",
+      "url": "https://open.spotify.com/track/0kzF17SuJdgGV3phNSc9H6"
+    },
+    {
+      "album": {
         "name": "Mun ihminen",
         "url": "https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl"
       },
@@ -31420,7 +31496,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 153141,
       "name": "Mun ihminen",
       "url": "https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY"
@@ -32570,6 +32646,24 @@
       "duration_ms": 176693,
       "name": "M\u00e4 n\u00e4\u00e4n sut",
       "url": "https://open.spotify.com/track/7KrnwqnKo5kHf8upHsq533"
+    },
+    {
+      "album": {
+        "name": "M\u00e4 oon se tytt\u00f6",
+        "url": "https://open.spotify.com/album/1BNBt5vqJqJvMx4wNGAfgF"
+      },
+      "artists": [
+        {
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173880,
+      "name": "M\u00e4 oon se tytt\u00f6",
+      "url": "https://open.spotify.com/track/1yPXRZYJcZpi3SUQcT2Yro"
     },
     {
       "album": {
@@ -34986,7 +35080,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 160343,
       "name": "Onneks",
       "url": "https://open.spotify.com/track/6Pnv2q27FEAXKAPeuny5w5"
@@ -35330,6 +35424,28 @@
       "duration_ms": 264746,
       "name": "Osuma",
       "url": "https://open.spotify.com/track/6xm5YXX42b1dx4UM2UrOtX"
+    },
+    {
+      "album": {
+        "name": "Ota varovasti (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/7EbTNyURsRrJqaiyv2CRHq"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brotherus",
+          "url": "https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo"
+        },
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228106,
+      "name": "Ota varovasti - Vain el\u00e4m\u00e4\u00e4 kausi 16",
+      "url": "https://open.spotify.com/track/15noY1bk3ACNXkvWE3zX25"
     },
     {
       "album": {
@@ -36902,7 +37018,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 199479,
       "name": "People's Champion (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
       "url": "https://open.spotify.com/track/38esBtPTgb652HAJuyUS8P"
@@ -39237,6 +39353,24 @@
     },
     {
       "album": {
+        "name": "LADABOIS",
+        "url": "https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae"
+      },
+      "artists": [
+        {
+          "name": "Mouhous",
+          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197205,
+      "name": "Rakkaudesta manii",
+      "url": "https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu"
+    },
+    {
+      "album": {
         "name": "Rakkaus Ei Asu T\u00e4\u00e4ll\u00e4",
         "url": "https://open.spotify.com/album/7icluuHPHsedjfwTJVVk6z"
       },
@@ -40754,10 +40888,28 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 151690,
       "name": "R\u00e4ppii, Seksii & Huumeita",
       "url": "https://open.spotify.com/track/1hNTGoZc51wAyqjbE6IUbT"
+    },
+    {
+      "album": {
+        "name": "LADABOIS",
+        "url": "https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae"
+      },
+      "artists": [
+        {
+          "name": "Mouhous",
+          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151690,
+      "name": "R\u00e4ppii, Seksii & Huumeita",
+      "url": "https://open.spotify.com/track/4XUndYhoFjUFzrT9zWBWQA"
     },
     {
       "album": {
@@ -45005,6 +45157,24 @@
     },
     {
       "album": {
+        "name": "Sun katu (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/083cIrf5AiGD5ZneqWjj12"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192476,
+      "name": "Sun katu (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+      "url": "https://open.spotify.com/track/0bDl2EdfvCosADB8Vya5Gc"
+    },
+    {
+      "album": {
         "name": "AHTI",
         "url": "https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO"
       },
@@ -45020,7 +45190,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 174016,
       "name": "Sun luokse",
       "url": "https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz"
@@ -45474,6 +45644,24 @@
       "duration_ms": 202073,
       "name": "Susi",
       "url": "https://open.spotify.com/track/7hKsScZ91gpahaBaumXHu7"
+    },
+    {
+      "album": {
+        "name": "Pieni ikuisuus",
+        "url": "https://open.spotify.com/album/25pLeQtsnxTAOMA5IURPrp"
+      },
+      "artists": [
+        {
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195080,
+      "name": "Susta l\u00f6ysin kodin",
+      "url": "https://open.spotify.com/track/3TNTIJjB4CxaXOk9eLrj9z"
     },
     {
       "album": {
@@ -48540,7 +48728,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 209683,
       "name": "Toisessa el\u00e4m\u00e4ss\u00e4",
       "url": "https://open.spotify.com/track/4TWYVHiMAAA8G8LXqETfHQ"
@@ -49940,6 +50128,24 @@
       "duration_ms": 197821,
       "name": "Tytt\u00f6ni mun (feat. Meiju Suvas, Jaakko Laitinen)",
       "url": "https://open.spotify.com/track/4AGuIsaOyvAN7UeS2Yzxd9"
+    },
+    {
+      "album": {
+        "name": "Tytt\u00f6yst\u00e4v\u00e4",
+        "url": "https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8"
+      },
+      "artists": [
+        {
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177132,
+      "name": "Tytt\u00f6yst\u00e4v\u00e4",
+      "url": "https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9"
     },
     {
       "album": {
@@ -52727,6 +52933,28 @@
     },
     {
       "album": {
+        "name": "Viel\u00e41 (feat. SONNY) [Vain el\u00e4m\u00e4\u00e4 kausi 16]",
+        "url": "https://open.spotify.com/album/5fvmaGNPrOSKT3KdExD7EX"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        },
+        {
+          "name": "SONNY",
+          "url": "https://open.spotify.com/artist/6Uo8DWitVulLdaWaZ3gwun"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183707,
+      "name": "Viel\u00e41 (feat. SONNY) [Vain el\u00e4m\u00e4\u00e4 kausi 16]",
+      "url": "https://open.spotify.com/track/5xVjCY7XrDnx5CBu6iKmvy"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -53098,7 +53326,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 216117,
       "name": "Viimeiset hitaat",
       "url": "https://open.spotify.com/track/2IkG3Y5PXxDFExdw1qK3W6"

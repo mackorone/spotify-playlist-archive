@@ -4,7 +4,7 @@
 
 > Dukh Dard Peeda!  🫂
 
-191 songs - 12 hr 40 min
+192 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Jiyein Kyun](https://open.spotify.com/track/0up9rhm9qt2LW7cnoDFCMk) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Dum Maaro Dum](https://open.spotify.com/album/5RM8pIBX8zU9g8U5WG4zfZ) | 4:24 | 2023-05-15 | 2024-07-11 |
 | [Jo Tu Na Mila](https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Jo Tu Na Mila](https://open.spotify.com/album/4KSvSqPJwTo7qMxP4XyIaH) | 3:54 | 2023-05-15 | 2024-07-11 |
 | [Jodaa](https://open.spotify.com/track/7t8oWuQ4zBK4Sq5tO2HQCq) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Jodaa](https://open.spotify.com/album/3yCf6sKeJ0ACymcdGX0vJB) | 5:40 | 2024-07-10 | 2025-01-22 |
-| [Kaash Aisa Hota](https://open.spotify.com/track/32IjXlRFxNtJ4eMhKAUrSX) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Kaash Aisa Hota](https://open.spotify.com/album/6sp5v7jZvHZBZUqCasMTNj) | 3:32 | 2024-07-10 |  |
+| [Kaash Aisa Hota](https://open.spotify.com/track/32IjXlRFxNtJ4eMhKAUrSX) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Kaash Aisa Hota](https://open.spotify.com/album/6sp5v7jZvHZBZUqCasMTNj) | 3:32 | 2024-07-10 | 2025-10-26 |
 | [Kabhi Na Kabhi](https://open.spotify.com/track/1fnyJEbolobEfv2gtLVjmA) | [Aditya Narayan](https://open.spotify.com/artist/4Z0t0LHjOjFRiv0mjBw206) | [Shaapit: The Cursed](https://open.spotify.com/album/63LMMLbw96iKJ2pSsJuatw) | 6:16 | 2024-04-01 | 2024-07-11 |
 | [Kabira](https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:43 | 2023-05-15 | 2024-07-11 |
 | [Kahani Meri](https://open.spotify.com/track/2dMlTWQbY9tfPFLIqAa7Tv) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Kahani Meri](https://open.spotify.com/album/35slzJUJmUi2jQ8SZ7xSEc) | 2:19 | 2024-05-08 | 2025-02-04 |
@@ -136,6 +136,7 @@
 | [Mujhe Peene Do](https://open.spotify.com/track/3FbZoPzEaUBOD84l1FwFEH) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mujhe Peene Do](https://open.spotify.com/album/5XurzQE6FZrn7fQPrX4Vcc) | 3:16 | 2024-07-10 |  |
 | [Na Kehna Tum](https://open.spotify.com/track/1PnTIj88ArX0I38QE0tXTY) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Na Kehna Tum \- Single](https://open.spotify.com/album/3Lo8r2H35J1umAPoTdbVFN) | 4:25 | 2024-04-09 | 2024-07-11 |
 | [Na Kehna Tum](https://open.spotify.com/track/6cCLkL72zw70bOVV88D0Ep) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Na Kehna Tum](https://open.spotify.com/album/6SJ5POIysL58YneSv1w0VY) | 4:25 | 2023-05-15 | 2024-04-19 |
+| [Nafrat](https://open.spotify.com/track/0NLOLiHF6Ti0QtX5P7gziI) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [I Loved You](https://open.spotify.com/album/6KcMl3ybHw5HdBTrS43zoq) | 3:34 | 2025-10-22 |  |
 | [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 | 2023-07-20 | 2024-07-11 |
 | [Noorie \(Two Sides\)](https://open.spotify.com/track/7risGuzd163RL7b7lqZCrz) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Noorie \(Two Sides\)](https://open.spotify.com/album/4aRgIuT1Ic1qP9z5Ol0JdF) | 3:32 | 2024-12-10 | 2025-02-10 |
 | [O Bedardeya \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/track/0czcoKJbJt08NqKrvSbbz7) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [O Bedardeya \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/album/7kXEDaT5yy8IUT7Fmqs1i2) | 5:13 | 2023-05-15 | 2024-07-11 |

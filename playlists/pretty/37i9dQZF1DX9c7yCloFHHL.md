@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Brian Eno, Beatie Wolfe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,213 likes - 101 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,295 likes - 101 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

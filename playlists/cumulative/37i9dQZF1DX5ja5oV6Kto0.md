@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Ajebutter
 
-963 songs - 1 day 22 hr 49 min
+964 songs - 1 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Kerewa \(feat\. Blaqbonez\)](https://open.spotify.com/track/5mU4uP85HnxrmkJLOqVOKs) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Ileke](https://open.spotify.com/album/6Y7rAcwFeE8TimEz6vYt0V) | 3:48 | 2022-09-15 | 2023-03-18 |
 | [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 | 2023-05-25 | 2024-02-09 |
 | [Killy \(feat\. Popcaan\)](https://open.spotify.com/track/5QVTRDQKXUI278jVYtT6lG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:03 | 2024-03-21 | 2024-03-25 |
+| [Kinda Girl](https://open.spotify.com/track/1eQK7snhG7m9XdXVjqjyBg) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Kinda Girl](https://open.spotify.com/album/5HR0TsI7G990rFx9vPZVPm) | 2:39 | 2025-10-24 |  |
 | [King Tubby Meets Rockers Uptown](https://open.spotify.com/track/38gBmRO7BNAgPz35WFgZkl) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7), [Augustus Pablo](https://open.spotify.com/artist/5WwEQwX3ruZofwDDqtOXwI) | [King Tubbys Meets Rockers Uptown](https://open.spotify.com/album/46kQluxaaZ7LhKGnm3bOal) | 2:32 | 2024-03-21 | 2024-03-25 |
 | [Kiss Me Thru The Phone pt 2 \(with PinkPantheress\)](https://open.spotify.com/track/4SC29UjZqGD3DaZNipthGk) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 3:38 | 2025-08-08 |  |
 | [Know Me Well](https://open.spotify.com/track/7KwPDwN7DOJdtM202zds6Y) | [dndSection](https://open.spotify.com/artist/7mQzdxdxZFsbWLMP3lcZtS) | [Know Me Well](https://open.spotify.com/album/23hAI6sqZbVi34etUaxPJr) | 2:39 | 2024-03-25 | 2024-09-07 |
@@ -925,7 +926,7 @@
 | [Wassup!](https://open.spotify.com/track/0B6YlVI0TBMsh3iSfikWLo) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si), [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C) | [Wassup!](https://open.spotify.com/album/6pKion8as4IjwIEE3xXOGn) | 1:59 | 2025-01-31 | 2025-08-27 |
 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 | 2023-06-09 | 2023-10-27 |
 | [WASTELINE](https://open.spotify.com/track/6zwNCNnzNfhC5XEhnG9F7Z) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [WASTELINE](https://open.spotify.com/album/0VzLyC8Er2QnVwOyGF5ZLX) | 2:44 | 2023-11-10 | 2024-06-21 |
-| [WAY BACK](https://open.spotify.com/track/16xpoMs2nXaHNS5k1tXGGg) | [99 PHACES](https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p) | [WAY BACK](https://open.spotify.com/album/1TCi9dPFfZPXzMyEcnhP2m) | 2:47 | 2025-09-26 |  |
+| [WAY BACK](https://open.spotify.com/track/16xpoMs2nXaHNS5k1tXGGg) | [99 PHACES](https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p) | [WAY BACK](https://open.spotify.com/album/1TCi9dPFfZPXzMyEcnhP2m) | 2:47 | 2025-09-26 | 2025-10-26 |
 | [WDYWFM \(feat\. L0la\)](https://open.spotify.com/track/48m7Kit1AFXmJuH244X4x7) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [L0la](https://open.spotify.com/artist/0Ba1FVGkH6ur9DLz6o9P62) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 3:01 | 2022-11-24 | 2022-12-09 |
 | [We Can Go Again](https://open.spotify.com/track/7eepRUI31ki6mOiOSvIlzn) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [We Can Go Again](https://open.spotify.com/album/6dzlZcFmAnV6TZMDhbuMNb) | 2:41 | 2022-10-28 | 2022-12-09 |
 | [We're Made For Each Other](https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 2:28 | 2022-03-03 | 2022-03-12 |

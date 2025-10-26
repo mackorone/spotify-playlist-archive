@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 133421,
       "name": "Au",
       "url": "https://open.spotify.com/track/5KSaFynbMoGkXfCQ6Fbp3f"
@@ -7894,6 +7894,28 @@
       "duration_ms": 206493,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/4oYrcsoNCmgKvj3R60IcoG"
+    },
+    {
+      "album": {
+        "name": "karma",
+        "url": "https://open.spotify.com/album/2xMf32apRnpyCvxtXBRYkB"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150960,
+      "name": "karma",
+      "url": "https://open.spotify.com/track/2AHiQVyuaGHOERDPVlxWRT"
     },
     {
       "album": {
@@ -15855,6 +15877,28 @@
     },
     {
       "album": {
+        "name": "TANTO TANTO",
+        "url": "https://open.spotify.com/album/7JQ2W78F3nUzUYTdiThV53"
+      },
+      "artists": [
+        {
+          "name": "Dav Julca",
+          "url": "https://open.spotify.com/artist/5WVyfv3T27DrkqOclE85b2"
+        },
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "TANTO TANTO",
+      "url": "https://open.spotify.com/track/6ALHw0J3sXfvcdDhli6xPe"
+    },
+    {
+      "album": {
         "name": "Lluvia: Rain City Vol.2",
         "url": "https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr"
       },
@@ -16256,7 +16300,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 158920,
       "name": "Tengo Una Nota",
       "url": "https://open.spotify.com/track/4JuwOGVCbYwoA9qWerWs5g"

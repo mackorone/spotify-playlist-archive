@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 880620,
+  "num_followers": 880768,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
+        "name": "Objetos enterrados",
+        "url": "https://open.spotify.com/album/6bzxe3foKkJVAuZsFkPdRk"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        }
+      ],
+      "duration_ms": 290969,
+      "name": "Objetos enterrados",
+      "url": "https://open.spotify.com/track/7FaExpIZZk59EspBTrp1G0"
+    },
+    {
+      "added_at": "2025-09-15 10:22:27",
+      "album": {
         "name": "Forever (feat. Malou & Yuna) [MEDUZA Remix]",
         "url": "https://open.spotify.com/album/7GclldfvX8KaM4RpxttXGp"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 161463,
       "name": "Forever (feat. Malou & Yuna) - MEDUZA Remix",
       "url": "https://open.spotify.com/track/5VBBDXY6cM1Jv364a4ncxU"
-    },
-    {
-      "added_at": "2025-09-15 10:22:27",
-      "album": {
-        "name": "Objetos enterrados",
-        "url": "https://open.spotify.com/album/6bzxe3foKkJVAuZsFkPdRk"
-      },
-      "artists": [
-        {
-          "name": "Populous",
-          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
-        }
-      ],
-      "duration_ms": 290969,
-      "name": "Objetos enterrados",
-      "url": "https://open.spotify.com/track/7FaExpIZZk59EspBTrp1G0"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -819,18 +819,22 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
-        "name": "Se Va, Se Va",
-        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/66MArV9C0dNXz5P76eN4Kb"
       },
       "artists": [
         {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+          "name": "Acid Arab",
+          "url": "https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7"
+        },
+        {
+          "name": "Cem Y\u0131ld\u0131z",
+          "url": "https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr"
         }
       ],
-      "duration_ms": 449509,
-      "name": "Se Va, Se Va",
-      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
+      "duration_ms": 184761,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/5ZPLRCJauBNOxzacXmVNjR"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -851,6 +855,22 @@
       "duration_ms": 213442,
       "name": "Sentimental - Sombras",
       "url": "https://open.spotify.com/track/5rl7bbc4BX52AqIhKI2PK1"
+    },
+    {
+      "added_at": "2025-09-15 10:22:27",
+      "album": {
+        "name": "Se Va, Se Va",
+        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 449509,
+      "name": "Se Va, Se Va",
+      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -879,26 +899,6 @@
       "duration_ms": 170324,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/7rPKSjPgwWDc8S9toczFgV"
-    },
-    {
-      "added_at": "2025-09-15 10:22:27",
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/66MArV9C0dNXz5P76eN4Kb"
-      },
-      "artists": [
-        {
-          "name": "Acid Arab",
-          "url": "https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7"
-        },
-        {
-          "name": "Cem Y\u0131ld\u0131z",
-          "url": "https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/5ZPLRCJauBNOxzacXmVNjR"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -1035,26 +1035,18 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
-        "name": "Guard Your Joy",
-        "url": "https://open.spotify.com/album/2PiuBzsxTp8jPOhywF56pX"
+        "name": "No Limit",
+        "url": "https://open.spotify.com/album/1w5eD6s225bx4Hj2UB18yD"
       },
       "artists": [
         {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        },
-        {
-          "name": "mOat",
-          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
-        },
-        {
-          "name": "Pete Josef",
-          "url": "https://open.spotify.com/artist/7c59lOg1veety7jD83d31w"
+          "name": "Solkatt",
+          "url": "https://open.spotify.com/artist/1G79HjKLqjevxhllvfICNl"
         }
       ],
-      "duration_ms": 265573,
-      "name": "Guard Your Joy",
-      "url": "https://open.spotify.com/track/0kN37UhHU9BGZe2ZLyFW1O"
+      "duration_ms": 235560,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/2DI6ENBWR8yKF6g4OyWaIV"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -1075,18 +1067,26 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
-        "name": "No Limit",
-        "url": "https://open.spotify.com/album/1w5eD6s225bx4Hj2UB18yD"
+        "name": "Guard Your Joy",
+        "url": "https://open.spotify.com/album/2PiuBzsxTp8jPOhywF56pX"
       },
       "artists": [
         {
-          "name": "Solkatt",
-          "url": "https://open.spotify.com/artist/1G79HjKLqjevxhllvfICNl"
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        },
+        {
+          "name": "mOat",
+          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
+        },
+        {
+          "name": "Pete Josef",
+          "url": "https://open.spotify.com/artist/7c59lOg1veety7jD83d31w"
         }
       ],
-      "duration_ms": 235560,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/2DI6ENBWR8yKF6g4OyWaIV"
+      "duration_ms": 265573,
+      "name": "Guard Your Joy",
+      "url": "https://open.spotify.com/track/0kN37UhHU9BGZe2ZLyFW1O"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
-        "name": "Potelele",
-        "url": "https://open.spotify.com/album/0hHIPQuB2AMtgDawX16iGr"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Brigante",
-          "url": "https://open.spotify.com/artist/7c64KrjDqcWYACzSaSXzOM"
-        },
-        {
-          "name": "Nes Mburu",
-          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Potelele",
-      "url": "https://open.spotify.com/track/5CjFW6QavdBGO1Pip2PZqe"
-    },
-    {
-      "added_at": "2025-09-15 10:22:27",
-      "album": {
         "name": "Into Your Tribe (Bedouin Remix)",
         "url": "https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 454680,
       "name": "Into Your Tribe - Bedouin Remix",
       "url": "https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV"
+    },
+    {
+      "added_at": "2025-09-15 10:22:27",
+      "album": {
+        "name": "Potelele",
+        "url": "https://open.spotify.com/album/0hHIPQuB2AMtgDawX16iGr"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Brigante",
+          "url": "https://open.spotify.com/artist/7c64KrjDqcWYACzSaSXzOM"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Potelele",
+      "url": "https://open.spotify.com/track/5CjFW6QavdBGO1Pip2PZqe"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/7c03ElAhoOu0EorNLA2chE"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/3Al39i3wHuZ2fH1dKgHmYG"
-    },
-    {
-      "added_at": "2025-09-15 10:22:27",
-      "album": {
         "name": "Ma Gally",
         "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
       },
@@ -1419,42 +1403,18 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
-        "name": "Ormila",
-        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/7c03ElAhoOu0EorNLA2chE"
       },
       "artists": [
         {
-          "name": "Majed Zane",
-          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
-        },
-        {
-          "name": "Sam Abdullah",
-          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
         }
       ],
-      "duration_ms": 298867,
-      "name": "Ormila",
-      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
-    },
-    {
-      "added_at": "2025-09-15 10:22:27",
-      "album": {
-        "name": "La Isla",
-        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
-      },
-      "artists": [
-        {
-          "name": "Megablast",
-          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
-        },
-        {
-          "name": "Eribertho Cruz",
-          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
-        }
-      ],
-      "duration_ms": 193306,
-      "name": "La Isla - Radio Version",
-      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
+      "duration_ms": 243934,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/3Al39i3wHuZ2fH1dKgHmYG"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -1479,6 +1439,46 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
+        "name": "La Isla",
+        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
+      },
+      "artists": [
+        {
+          "name": "Megablast",
+          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
+        },
+        {
+          "name": "Eribertho Cruz",
+          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "La Isla - Radio Version",
+      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
+    },
+    {
+      "added_at": "2025-09-15 10:22:27",
+      "album": {
+        "name": "Ormila",
+        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
+      },
+      "artists": [
+        {
+          "name": "Majed Zane",
+          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
+        },
+        {
+          "name": "Sam Abdullah",
+          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
+        }
+      ],
+      "duration_ms": 298867,
+      "name": "Ormila",
+      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
+    },
+    {
+      "added_at": "2025-09-15 10:22:27",
+      "album": {
         "name": "Solstice Vibes III",
         "url": "https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF"
       },
@@ -1491,6 +1491,26 @@
       "duration_ms": 403831,
       "name": "Flowers in Mind",
       "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
+    },
+    {
+      "added_at": "2025-09-15 10:22:27",
+      "album": {
+        "name": "Dilmano Dilbero (Sariel Orenda Remix)",
+        "url": "https://open.spotify.com/album/2yAiAoLioPcBmocBGQGOGe"
+      },
+      "artists": [
+        {
+          "name": "Laboratorium Pie\u015bni",
+          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
+        },
+        {
+          "name": "Sariel Orenda",
+          "url": "https://open.spotify.com/artist/3P3aqbPrzfldFEn2OrsnYp"
+        }
+      ],
+      "duration_ms": 408000,
+      "name": "Dilmano Dilbero - Sariel Orenda Remix",
+      "url": "https://open.spotify.com/track/7bx1ucv7nua47Eaf3024Mt"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -1515,26 +1535,6 @@
       "duration_ms": 337714,
       "name": "Bem a Tempo - Yemanjo Remix",
       "url": "https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD"
-    },
-    {
-      "added_at": "2025-09-15 10:22:27",
-      "album": {
-        "name": "Dilmano Dilbero (Sariel Orenda Remix)",
-        "url": "https://open.spotify.com/album/2yAiAoLioPcBmocBGQGOGe"
-      },
-      "artists": [
-        {
-          "name": "Laboratorium Pie\u015bni",
-          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
-        },
-        {
-          "name": "Sariel Orenda",
-          "url": "https://open.spotify.com/artist/3P3aqbPrzfldFEn2OrsnYp"
-        }
-      ],
-      "duration_ms": 408000,
-      "name": "Dilmano Dilbero - Sariel Orenda Remix",
-      "url": "https://open.spotify.com/track/7bx1ucv7nua47Eaf3024Mt"
     },
     {
       "added_at": "2025-09-15 10:22:27",

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 757193,
+  "num_followers": 757293,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAACTCMVj7BtHXO3W6pSKtcC6",
+  "snapshot_id": "aPrBgAAAAAAQa7z2poV1rN1tBaLEw6cB",
   "tracks": [
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Idolos Del Pueblo",
-        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
+        "name": "Directo Al Corazon",
+        "url": "https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 224200,
-      "name": "Fallaste Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4p3nrgcepfwyOJwg2shRcE"
+      "duration_ms": 216080,
+      "name": "La Sorpresa",
+      "url": "https://open.spotify.com/track/62zUcRutyHb0msaCz5p9Ao"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Directo Al Corazon",
-        "url": "https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN"
+        "name": "Idolos Del Pueblo",
+        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 216080,
-      "name": "La Sorpresa",
-      "url": "https://open.spotify.com/track/62zUcRutyHb0msaCz5p9Ao"
+      "duration_ms": 224200,
+      "name": "Fallaste Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4p3nrgcepfwyOJwg2shRcE"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
       "duration_ms": 221026,
       "name": "La Mesera",
       "url": "https://open.spotify.com/track/3nbpeJzRTTL6D87fcXBcZs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Idolos Del Pueblo",
-        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 171920,
-      "name": "Tres Veces Mojado",
-      "url": "https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr"
     },
     {
       "added_at": null,
@@ -883,6 +867,22 @@
       "duration_ms": 172666,
       "name": "Cari\u00f1o Donde Andaras",
       "url": "https://open.spotify.com/track/5yAD0PU10aCA2ZNH14HvV4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Idolos Del Pueblo",
+        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 171920,
+      "name": "Tres Veces Mojado",
+      "url": "https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr"
     }
   ],
   "unique_name": "This Is Los Tigres Del Norte",

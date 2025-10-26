@@ -263,6 +263,28 @@
     },
     {
       "album": {
+        "name": "BackYard Chill",
+        "url": "https://open.spotify.com/album/10OzAfIFIxyab7NNnaqhls"
+      },
+      "artists": [
+        {
+          "name": "Yummy",
+          "url": "https://open.spotify.com/artist/0fOVDBNJ2TffrHk0SwlGZ5"
+        },
+        {
+          "name": "alhivi",
+          "url": "https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123293,
+      "name": "BackYard Chill",
+      "url": "https://open.spotify.com/track/0o4cHbUKhuIBDb355mt5XJ"
+    },
+    {
+      "album": {
         "name": "Battery",
         "url": "https://open.spotify.com/album/44cfwIRSZvnFCkhDRDpzVk"
       },
@@ -862,7 +884,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 128248,
       "name": "Delta",
       "url": "https://open.spotify.com/track/5DdzyKfJMCGTk4RTbpSaXL"
@@ -1158,6 +1180,24 @@
       "duration_ms": 164939,
       "name": "Fever, Fever",
       "url": "https://open.spotify.com/track/7D9UKc1To1SiOrQGcAMjM3"
+    },
+    {
+      "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/50A6GHBw1sNjVbzVOyyojT"
+      },
+      "artists": [
+        {
+          "name": "Mizlo",
+          "url": "https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117900,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/1InvRwwWnE1OKEvsZHb3OG"
     },
     {
       "album": {
@@ -2334,7 +2374,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 150750,
       "name": "Lost Planet",
       "url": "https://open.spotify.com/track/4N6qX4nCHm7CdUaM6ujJNM"

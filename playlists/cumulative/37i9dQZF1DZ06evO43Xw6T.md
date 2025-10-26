@@ -4,11 +4,11 @@
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-121 songs - 6 hr 6 min
+122 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [6 Veces](https://open.spotify.com/track/75mW9Fe4XuLV3brqIcvhGK) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Meneo](https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp) | 2:13 | 2025-09-06 |  |
+| [6 Veces](https://open.spotify.com/track/75mW9Fe4XuLV3brqIcvhGK) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Meneo](https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp) | 2:13 | 2025-09-06 | 2025-10-26 |
 | [7 DIAS](https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [7 DIAS](https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4) | 3:00 | 2025-02-02 |  |
 | [A Puro Dolor](https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [A Puro Dolor](https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a) | 2:48 | 2024-01-29 | 2025-01-20 |
 | [A Puro Dolor](https://open.spotify.com/track/64bkq8hlgf0zTtBxQvXIrn) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:48 | 2025-01-20 |  |
@@ -25,6 +25,7 @@
 | [Bonus Track](https://open.spotify.com/track/4AX8qwSxfmLjargXeKBTqI) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Bonus Track](https://open.spotify.com/album/3bUsse7frBcdUvK2NoRrFc) | 3:11 | 2024-07-19 | 2025-05-10 |
 | [CADAVER DE LA NOVIA](https://open.spotify.com/track/2HkKMTTfFM4H7Hb7zKjDtm) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Ya No Se Llevan Serenatas](https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6) | 4:19 | 2025-05-25 |  |
 | [Cartier](https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cartier](https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB) | 3:06 | 2025-10-05 |  |
+| [CHROME HEARTS](https://open.spotify.com/track/1VwgoKvj7L1PkQTFeFfS6F) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Ya No Se Llevan Serenatas \(Deluxe\)](https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO) | 3:16 | 2025-10-26 |  |
 | [CLEOPATRA](https://open.spotify.com/track/4qwBnsVfknRk1wyvPVu5py) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [CLEOPATRA](https://open.spotify.com/album/7IVyty5qUN7VNaKAfujYag) | 3:25 | 2025-05-07 | 2025-09-20 |
 | [CLEOPATRA](https://open.spotify.com/track/6AnNmJG2OlQutOcfsE4B7e) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ya No Se Llevan Serenatas](https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6) | 3:25 | 2025-09-20 |  |
 | [Cosas Claras, Cosas Buenas \(En Vivo\)](https://open.spotify.com/track/2NevP3nWVRhKbdHXWWCksP) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Torbellino](https://open.spotify.com/album/17iZYgtqUiYhuZz0FMPacF) | 3:12 | 2024-05-26 | 2025-05-18 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-105 songs - 7 hr 19 min
+107 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Continual \(feat\. Cory Henry\)](https://open.spotify.com/track/2EhE42VQTKvn6ok6wtA9U8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:49 | 2024-05-01 |  |
 | [Curtains](https://open.spotify.com/track/1t1k0q2YXX5dD0aVUrV2SW) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 6:23 | 2024-05-01 |  |
 | [Dedicated](https://open.spotify.com/track/6d9300vLY1yGZg98A8YelW) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 2:55 | 2024-05-01 |  |
+| [Divine Time](https://open.spotify.com/track/2JBSUManxgHPTJl1MwpAmD) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Divine Time](https://open.spotify.com/album/6EcAxImXQ3INgUwyumOLcz) | 4:40 | 2025-10-25 |  |
 | [Don't Forget](https://open.spotify.com/track/04jkk9HM7mTlCNTYhWUZBx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 2:49 | 2024-05-01 |  |
 | [Don't Look](https://open.spotify.com/track/5MEFpPKKGhMNlFuMyjCTyc) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Beat Tape II](https://open.spotify.com/album/5xQ1R1NUMoANjEoWMvis7F) | 1:19 | 2024-05-01 |  |
 | [Dreaming Of](https://open.spotify.com/track/46l1Wgtbzy74JDQ4Wkylwq) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:52 | 2024-05-01 |  |
@@ -66,6 +67,7 @@
 | [In the Water](https://open.spotify.com/track/5n1kHpmTmbIkOWhYBiVRJJ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Art of Love](https://open.spotify.com/album/7GmZgoldBKNdXMNqq0llGh) | 6:12 | 2024-05-01 |  |
 | [Jeffrey](https://open.spotify.com/track/2DLxjFJOqqzMJlijtDsjMv) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The Long Way Round](https://open.spotify.com/album/0wrJiW6NCHWxgc0T9HHYU9) | 4:56 | 2025-08-06 |  |
 | [Just a Word](https://open.spotify.com/track/19WtCpTdybCtlBoWQhQksl) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Art of Love](https://open.spotify.com/album/7GmZgoldBKNdXMNqq0llGh) | 6:29 | 2024-05-01 |  |
+| [KEEPER](https://open.spotify.com/track/0oG6bJKzXgqzsaaEy1M510) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:42 | 2025-10-25 |  |
 | [Lee & Lovie \(with reggie\)](https://open.spotify.com/track/403tC8spWXnKcdXdbFnayL) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:51 | 2024-05-01 |  |
 | [Look at the Bright Side](https://open.spotify.com/track/6OayOjfbGTWL498FQl7ENx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 7:46 | 2024-05-01 |  |
 | [Love Will Find a Way](https://open.spotify.com/track/6ZQkqX0aZK5gFkzv6iS4vZ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Love Will Find a Way](https://open.spotify.com/album/4isROWy1SFzZ5jSFp2pKEC) | 5:32 | 2024-05-01 |  |

@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/583m7Q5bZOEvgyZbiunXDj"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250106,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/1vl2d65bqG02ulgSbntzFP"
+    },
+    {
+      "album": {
         "name": "Hintergrundmusik zum Lesen",
         "url": "https://open.spotify.com/album/2ypUyg36ZeXQlK7fjFt0Dm"
       },

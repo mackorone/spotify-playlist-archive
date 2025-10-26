@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0LqjAibgbS9ep32zZrDcAN.md) - [plain]
 
 > Finally that person that we've missed so much is home\. This deserves  a party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,910 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,908 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

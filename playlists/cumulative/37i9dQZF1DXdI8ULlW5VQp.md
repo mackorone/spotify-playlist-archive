@@ -4,7 +4,7 @@
 
 > Sueña lindo, corazón..\. 💖✨ Alex Ferreira en portada.
 
-495 songs - 1 day 3 hr 44 min
+496 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Huella](https://open.spotify.com/track/1jGPestjbACKCQzvNL8eJg) | [Abraham GÜ](https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc), [Amori](https://open.spotify.com/artist/0DqJKNdYD842qcWpmHkw0m) | [Huella](https://open.spotify.com/album/2RmGhu8m9fSbPuiUKeCNT0) | 3:00 | 2025-08-29 | 2025-10-18 |
 | [Huitzil](https://open.spotify.com/track/0K3GjPJMvUK4bWZZU06J1U) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Moctezuma](https://open.spotify.com/album/70nk1mvQAQ1Tpf6j7gudRW) | 4:04 | 2022-07-01 | 2022-07-23 |
 | [Ibuprofeno](https://open.spotify.com/track/6YPvpcUcjot5d9iA9mFSN8) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:33 | 2022-07-01 | 2022-07-23 |
+| [Infierno Favorito](https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Infierno Favorito](https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H) | 3:34 | 2025-10-24 |  |
 | [Inmortal](https://open.spotify.com/track/0lwi85G0iGuPJGJtde9fp4) | [Sofi Mayen](https://open.spotify.com/artist/17fzKflH2VygyK3LCCN6Cn), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Inmortal](https://open.spotify.com/album/7iPWGMxFzD5FesNdN9WjWH) | 4:02 | 2024-08-23 | 2024-09-21 |
 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 | 2022-08-05 | 2023-05-20 |
 | [Juego De Feria](https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Juego De Feria](https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD) | 2:37 | 2024-07-11 | 2025-08-23 |
@@ -346,7 +347,7 @@
 | [palacio <3](https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [palacio <3](https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I) | 2:36 | 2024-05-03 |  |
 | [Palmeras en el jardín](https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Palmeras en el jardín](https://open.spotify.com/album/0Y5U0InXzziIx7YlinkuVX) | 3:00 | 2024-10-25 | 2025-04-12 |
 | [Pangea](https://open.spotify.com/track/4oI6nz5540UmFqDh4i3yay) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Pangea](https://open.spotify.com/album/4ZXSSk6W16s3Jn7EXOnVFU) | 3:32 | 2022-07-01 | 2022-07-23 |
-| [Papalote](https://open.spotify.com/track/1o5I8ktLXeSqs56ao4bvrT) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Papalote](https://open.spotify.com/album/1qZF0H7ybTqldbTHRjdBhK) | 5:16 | 2025-03-07 |  |
+| [Papalote](https://open.spotify.com/track/1o5I8ktLXeSqs56ao4bvrT) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Papalote](https://open.spotify.com/album/1qZF0H7ybTqldbTHRjdBhK) | 5:16 | 2025-03-07 | 2025-10-26 |
 | [Parará \(Ya Estás Aquí\)](https://open.spotify.com/track/55V2INjfekUKprOLzWb9Q1) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Parará \(Ya Estás Aquí\)](https://open.spotify.com/album/6Zg8f2tHcjjs4Fw2c4VNbG) | 2:53 | 2022-08-19 | 2024-05-04 |
 | [parís](https://open.spotify.com/track/5aTctjEadq13DKQozJPXu2) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [parís](https://open.spotify.com/album/0xNZW2sxYhO8MgnA14DKxH) | 2:43 | 2025-08-29 |  |
 | [Pasarás](https://open.spotify.com/track/4jJ1iOeBNSBLhhtJhfxJxQ) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Pasarás](https://open.spotify.com/album/3lSjYPhPyPXIxOEYKIGi9e) | 4:16 | 2023-09-26 | 2023-10-08 |

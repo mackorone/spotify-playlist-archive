@@ -1,12 +1,12 @@
 {
   "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 346768,
+  "num_followers": 346797,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAB+TNLGyEgSl3EMmQTgxhva",
+  "snapshot_id": "aPrBgAAAAACx9lv6oZWfM4n0FHGt2xFE",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 155373,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/7vJRHZP1PuNwjUcoCsWlul"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sounds Of Silence",
         "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 133720,
       "name": "Anji",
       "url": "https://open.spotify.com/track/5pT4qRIpNb7cASsnMfE1Hc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Old Friends Live On Stage",
-        "url": "https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 45280,
-      "name": "Hey, Schoolgirl - Live at Madison Square Garden, New York, NY - December 2003",
-      "url": "https://open.spotify.com/track/0gLKbk1cOAy2bbBOsbPALz"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+        "name": "Old Friends Live On Stage",
+        "url": "https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 155373,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/7vJRHZP1PuNwjUcoCsWlul"
+      "duration_ms": 45280,
+      "name": "Hey, Schoolgirl - Live at Madison Square Garden, New York, NY - December 2003",
+      "url": "https://open.spotify.com/track/0gLKbk1cOAy2bbBOsbPALz"
     },
     {
       "added_at": null,

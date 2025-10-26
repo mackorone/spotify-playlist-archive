@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 153624,
+  "num_followers": 153634,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAADFt8iwJ2H7GwWVN505wL/1",
+  "snapshot_id": "aPrBgAAAAACf5pGLMdTuqwtmhOR80s14",
   "tracks": [
     {
       "added_at": null,
@@ -118,15 +118,11 @@
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 179410,
-      "name": "Whatchamacallit (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/1YLfaRr3QIW1fF3nvDO0gX"
+      "duration_ms": 197182,
+      "name": "Naked - Bonus Track",
+      "url": "https://open.spotify.com/track/0SbOpoBzBBCqWIcvo94JeD"
     },
     {
       "added_at": null,
@@ -190,11 +186,15 @@
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 197182,
-      "name": "Naked - Bonus Track",
-      "url": "https://open.spotify.com/track/0SbOpoBzBBCqWIcvo94JeD"
+      "duration_ms": 179410,
+      "name": "Whatchamacallit (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/1YLfaRr3QIW1fF3nvDO0gX"
     },
     {
       "added_at": null,

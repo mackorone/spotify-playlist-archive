@@ -1,6 +1,6 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover:  Tyla \ud83c\uddff\ud83c\udde6 ",
-  "num_followers": 15324,
+  "num_followers": 15438,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
@@ -419,26 +419,18 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
-        "name": "One Condition",
-        "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
       "artists": [
         {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 234977,
-      "name": "One Condition",
-      "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
+      "duration_ms": 247578,
+      "name": "Free Mind",
+      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -499,38 +491,46 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+        "name": "One Condition",
+        "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 247578,
-      "name": "Free Mind",
-      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
+      "duration_ms": 234977,
+      "name": "One Condition",
+      "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
     },
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
-        "name": "GUILT TRIPPIN (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h"
+        "name": "Who\u2019s Dat Girl",
+        "url": "https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 153400,
-      "name": "GUILT TRIPPIN (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ"
+      "duration_ms": 172912,
+      "name": "Who\u2019s Dat Girl",
+      "url": "https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -623,6 +623,26 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
+        "name": "GUILT TRIPPIN (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "GUILT TRIPPIN (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -635,22 +655,6 @@
       "duration_ms": 183056,
       "name": "soso",
       "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
-        "name": "Hot Body",
-        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Hot Body",
-      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -675,6 +679,22 @@
       "duration_ms": 244571,
       "name": "Medida Certa",
       "url": "https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -756,25 +776,9 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 157090,
+      "duration_ms": 159335,
       "name": "Laho II",
       "url": "https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
-        "name": "Awolowo",
-        "url": "https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 135576,
-      "name": "Awolowo",
-      "url": "https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -799,22 +803,18 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
-        "name": "Who\u2019s Dat Girl",
-        "url": "https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW"
+        "name": "Awolowo",
+        "url": "https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
         }
       ],
-      "duration_ms": 172912,
-      "name": "Who\u2019s Dat Girl",
-      "url": "https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC"
+      "duration_ms": 135576,
+      "name": "Awolowo",
+      "url": "https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -831,6 +831,22 @@
       "duration_ms": 165642,
       "name": "you",
       "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
+        "name": "19 & Dangerous (Deluxe)",
+        "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -859,22 +875,18 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
-        "name": "Baddies",
-        "url": "https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ"
+        "name": "sobelove",
+        "url": "https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 207403,
-      "name": "Baddies",
-      "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
+      "duration_ms": 131827,
+      "name": "sobelove",
+      "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -895,18 +907,22 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
-        "name": "sobelove",
-        "url": "https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO"
+        "name": "Baddies",
+        "url": "https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ"
       },
       "artists": [
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
         }
       ],
-      "duration_ms": 131827,
-      "name": "sobelove",
-      "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
+      "duration_ms": 207403,
+      "name": "Baddies",
+      "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -939,22 +955,6 @@
       "duration_ms": 186153,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
-        "name": "19 & Dangerous (Deluxe)",
-        "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
         "name": "D\u00e9sarmer",
         "url": "https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus"
       },
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
-        "name": "La jeunesse dor\u00e9e (feat. Killa Predator)",
-        "url": "https://open.spotify.com/album/6LIQ4eZMzaRcMTCBoLYPXy"
-      },
-      "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        },
-        {
-          "name": "Killa Predator",
-          "url": "https://open.spotify.com/artist/2jxihp917o7WCCEN3xZXww"
-        }
-      ],
-      "duration_ms": 139022,
-      "name": "La jeunesse dor\u00e9e (feat. Killa Predator)",
-      "url": "https://open.spotify.com/track/4XjlNoFMggD2LK9WkCjkII"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 187037,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
+        "name": "La jeunesse dor\u00e9e (feat. Killa Predator)",
+        "url": "https://open.spotify.com/album/6LIQ4eZMzaRcMTCBoLYPXy"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "Killa Predator",
+          "url": "https://open.spotify.com/artist/2jxihp917o7WCCEN3xZXww"
+        }
+      ],
+      "duration_ms": 139022,
+      "name": "La jeunesse dor\u00e9e (feat. Killa Predator)",
+      "url": "https://open.spotify.com/track/4XjlNoFMggD2LK9WkCjkII"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
         "name": "BIG AKA 4 AKA KAI",
         "url": "https://open.spotify.com/album/2Sp3t61MrPQUPn71nv6QZm"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 243744,
       "name": "NUMBER ONE (feat. Minz)",
       "url": "https://open.spotify.com/track/2REbaRuhstqXHA06wtdOMb"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
-        "name": "On The Low",
-        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 150783,
-      "name": "On The Low",
-      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
         "name": "Zota (feat. Tayc)",
         "url": "https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 142640,
       "name": "Zota (feat. Tayc)",
       "url": "https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
+        "name": "On The Low",
+        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 150783,
+      "name": "On The Low",
+      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
     }
   ],
   "unique_name": "Global Afrobeats",

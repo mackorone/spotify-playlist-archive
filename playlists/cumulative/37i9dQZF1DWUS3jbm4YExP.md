@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-857 songs - 2 day 12 hr 43 min
+858 songs - 2 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Age Of Ascent](https://open.spotify.com/track/5BOkALb3jw3m6SONNtBYRR) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl) | 4:58 | 2023-10-05 |  |
 | [Age Of Ascent](https://open.spotify.com/track/73sqtnhstOOj2fiqVGCA4X) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 4:58 | 2023-08-31 | 2023-10-18 |
 | [Agua fría](https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Laurene P Magnani](https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE) | [Satingarona Pt\. 2](https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2) | 4:54 | 2021-10-06 |  |
-| [Agua Viva](https://open.spotify.com/track/5qQviPvlrLAezMa8EzmZev) | [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r), [Nina Miranda](https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln) | [Hafa](https://open.spotify.com/album/2kv0GcPQvtQgDnUpTmlDSI) | 4:09 | 2022-04-12 |  |
+| [Agua Viva](https://open.spotify.com/track/5qQviPvlrLAezMa8EzmZev) | [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r), [Nina Miranda](https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln) | [Hafa](https://open.spotify.com/album/2kv0GcPQvtQgDnUpTmlDSI) | 4:09 | 2022-04-12 | 2025-10-26 |
 | [Aguacero Tropical](https://open.spotify.com/track/5mhYs8LilsurjSLIibxCgn) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Aguacero Tropical](https://open.spotify.com/album/5v2hEZH52HxulMloCJDY8A) | 3:45 | 2022-01-21 | 2022-04-21 |
 | [Aguancó](https://open.spotify.com/track/4yQao18rUx4vdhzenobQGN) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Aguancó](https://open.spotify.com/album/6WhkRbDmTpfNYdAv8lkMpw) | 2:30 | 2021-10-06 | 2022-07-18 |
 | [Ain't No Sunshine](https://open.spotify.com/track/7EpsZtS2HGGgEqPLfhxY9J) | [The Soul Fantastics](https://open.spotify.com/artist/15V6aFPE8vKkOLLu7wMvSY) | [Panama! 2: Latin Sounds, Cumbia, Tropical & Calypso Funk on the Isthmus 1967\-77](https://open.spotify.com/album/7CZ9cGjSjWHyCYaeh2ZmcA) | 3:13 | 2022-03-09 | 2022-06-10 |
@@ -728,6 +728,7 @@
 | [Tamat](https://open.spotify.com/track/6MERgAbCrqA7eCk0O0bof7) | [Nusantara Beat](https://open.spotify.com/artist/6iQZl7RmTVznyFCrML933x) | [Tamat](https://open.spotify.com/album/1ksapQiT36FmK8nAUIgaah) | 2:55 | 2025-09-12 |  |
 | [Tan Nou](https://open.spotify.com/track/7hc2q1ZucZ2iRsR8Dbwgph) | [Dowdelin](https://open.spotify.com/artist/1ogaqCgdEnTy7M5jO0tMue) | [Lanmou Lanmou](https://open.spotify.com/album/5I7tMruynWvRRRMgmUnZN0) | 3:23 | 2022-04-26 | 2022-07-28 |
 | [Tangue à l'envie](https://open.spotify.com/track/66mv1VdHLwr6c3tDk0IiJb) | [DjeuhDjoah](https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY), [Lieutenant Nicholson](https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5) | [Aimez ces airs](https://open.spotify.com/album/2He9SDdWsV0r3PdBPxjJrf) | 5:16 | 2022-03-29 | 2022-06-26 |
+| [Tanu](https://open.spotify.com/track/0Qc8DfBLnk3YghXua5cRWw) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [L'amour à la folie](https://open.spotify.com/album/6FRsItjrq41pxXtShQyqZe) | 3:44 | 2025-10-24 |  |
 | [Taurus](https://open.spotify.com/track/1R2g3aWdOv9BOUjqMgZTic) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:32 | 2022-04-26 | 2024-03-09 |
 | [Tayyara Warak](https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Tayyara Warak \(Habibi Funk 023\)](https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t) | 2:48 | 2022-12-30 |  |
 | [Tears of the Ancestors](https://open.spotify.com/track/2EGO35LATKIcw2DXZDDn7f) | [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [Good Evening Black Buddha](https://open.spotify.com/album/3rbpuBfLjoR2bdXMEt3s3W) | 4:12 | 2022-09-30 | 2022-12-13 |

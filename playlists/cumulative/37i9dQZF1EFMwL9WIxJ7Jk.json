@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162833,
+      "name": "Crashing Out",
+      "url": "https://open.spotify.com/track/4qvh8jKHTzeHF9dhFsBDlC"
+    },
+    {
+      "album": {
         "name": "Title (Expanded Edition)",
         "url": "https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7"
       },
@@ -2276,7 +2294,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 225053,
       "name": "Like I'm Gonna Lose You (feat. John Legend)",
       "url": "https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW"

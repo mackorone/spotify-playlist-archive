@@ -1241,6 +1241,28 @@
     },
     {
       "album": {
+        "name": "MONSTRUO",
+        "url": "https://open.spotify.com/album/1zCc2EaQzif2IzspBCpwuG"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213430,
+      "name": "MONSTRUO",
+      "url": "https://open.spotify.com/track/2ToF4unFUMMKGfu7KYhy1j"
+    },
+    {
+      "album": {
         "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
         "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
       },
@@ -1804,7 +1826,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 232789,
       "name": "TU AMIGA (with Justin Quiles & Dylan Fuentes feat. Lennox & Llane)",
       "url": "https://open.spotify.com/track/0LUpKcgDmq08XoS4nSjIde"

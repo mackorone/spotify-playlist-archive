@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTj8mmxDwyIM.md) - [plain]
 
 > Listen to music from Hazbin Hotel\. New season coming soon to Prime Video!
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,989 likes - 19 songs - 46 min 48 sec
+[Spotify](https://open.spotify.com/user/spotify) - 457,105 likes - 19 songs - 46 min 48 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

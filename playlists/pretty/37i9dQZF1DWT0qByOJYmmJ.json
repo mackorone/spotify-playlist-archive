@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 632619,
+  "num_followers": 632592,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Fuentes de Ort\u00edz (Live session)",
-        "url": "https://open.spotify.com/album/3hckHlpN6ERKTcGMFrV9ui"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 179417,
-      "name": "Fuentes de Ort\u00edz (Live session)",
-      "url": "https://open.spotify.com/track/3nTeLDqZebdpIdB9uRJJk1"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Despu\u00e9s de la tormenta",
         "url": "https://open.spotify.com/album/13wIM8QZSRvoVgrtjnigld"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 166086,
       "name": "Despu\u00e9s de la tormenta",
       "url": "https://open.spotify.com/track/3kjbhHjaIN9DJbo5zxHZGP"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Fuentes de Ort\u00edz (Live session)",
+        "url": "https://open.spotify.com/album/3hckHlpN6ERKTcGMFrV9ui"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 179417,
+      "name": "Fuentes de Ort\u00edz (Live session)",
+      "url": "https://open.spotify.com/track/3nTeLDqZebdpIdB9uRJJk1"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Refugio",
-        "url": "https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Fer Casillas",
-          "url": "https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R"
-        }
-      ],
-      "duration_ms": 230334,
-      "name": "Refugio",
-      "url": "https://open.spotify.com/track/2XHOcpj3XkYsv9aa4inXVQ"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "el jardinero",
         "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 231275,
       "name": "Nunca Te Olvido",
       "url": "https://open.spotify.com/track/3XXZerYu2j34Z7eUh56F6K"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Refugio",
+        "url": "https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Fer Casillas",
+          "url": "https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R"
+        }
+      ],
+      "duration_ms": 230334,
+      "name": "Refugio",
+      "url": "https://open.spotify.com/track/2XHOcpj3XkYsv9aa4inXVQ"
     },
     {
       "added_at": "2024-07-11 01:38:58",

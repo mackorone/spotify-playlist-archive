@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 60178,
+  "num_followers": 60184,
   "original_name": "Nederlandse Zomerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,26 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
+        "name": "Jouw Glimlach Op Je Mond",
+        "url": "https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58"
+      },
+      "artists": [
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Lekkerding",
+      "url": "https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
         "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
         "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 152285,
       "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
       "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Jouw Glimlach Op Je Mond",
-        "url": "https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58"
-      },
-      "artists": [
-        {
-          "name": "John West",
-          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
-        },
-        {
-          "name": "Lange Frans",
-          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Lekkerding",
-      "url": "https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Goud",
-        "url": "https://open.spotify.com/album/4BqgPdobyinht8gNWxcVE2"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 202943,
-      "name": "Goud",
-      "url": "https://open.spotify.com/track/3aViSiRTiK1e5OqJtUk3MS"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Tussen Jou en Mij",
         "url": "https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 178708,
       "name": "Tussen Jou en Mij",
       "url": "https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Goud",
+        "url": "https://open.spotify.com/album/4BqgPdobyinht8gNWxcVE2"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 202943,
+      "name": "Goud",
+      "url": "https://open.spotify.com/track/3aViSiRTiK1e5OqJtUk3MS"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -499,26 +499,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Lars",
-        "url": "https://open.spotify.com/album/43TZEM7ygBER2J582OdGWX"
-      },
-      "artists": [
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 181731,
-      "name": "In De Schuur",
-      "url": "https://open.spotify.com/track/4d2NiGtCaVrMihMfarLE8o"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Loop Niet Weg",
         "url": "https://open.spotify.com/album/4QmjQJwfExwWsLfU8XZ5EI"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 185016,
       "name": "Loop Niet Weg",
       "url": "https://open.spotify.com/track/7fmExiQZjHLyDv5SC1EhDg"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Lars",
+        "url": "https://open.spotify.com/album/43TZEM7ygBER2J582OdGWX"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 181731,
+      "name": "In De Schuur",
+      "url": "https://open.spotify.com/track/4d2NiGtCaVrMihMfarLE8o"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Aan het strand van Porto Rico",
-        "url": "https://open.spotify.com/album/22xxynlCMZmu9fe48Q4GQr"
-      },
-      "artists": [
-        {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
-        }
-      ],
-      "duration_ms": 195249,
-      "name": "Aan het strand van Porto Rico",
-      "url": "https://open.spotify.com/track/47qKUg1zUm6UdHvR8JIz7W"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Zolang Je Bij Me Bent",
         "url": "https://open.spotify.com/album/5XtfG950glREhIpc0pWQzA"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 171293,
       "name": "Zolang Je Bij Me Bent",
       "url": "https://open.spotify.com/track/7aAWfzW0L6448bUNxNVYIo"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Aan het strand van Porto Rico",
+        "url": "https://open.spotify.com/album/22xxynlCMZmu9fe48Q4GQr"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "duration_ms": 195249,
+      "name": "Aan het strand van Porto Rico",
+      "url": "https://open.spotify.com/track/47qKUg1zUm6UdHvR8JIz7W"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -931,8 +931,8 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Kijk Ons Nou",
-        "url": "https://open.spotify.com/album/5jlNimB3wUAsWQCZJnJznt"
+        "name": "Ruggengraat",
+        "url": "https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V"
       },
       "artists": [
         {
@@ -940,29 +940,13 @@
           "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
         },
         {
-          "name": "Metejoor",
-          "url": "https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE"
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
         }
       ],
-      "duration_ms": 163709,
-      "name": "Kijk Ons Nou",
-      "url": "https://open.spotify.com/track/2yeRk80Qkp5U3ux0oclxFi"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Eenzame Nacht",
-        "url": "https://open.spotify.com/album/52OJSSsNbX5y0r84mcBULb"
-      },
-      "artists": [
-        {
-          "name": "Big2",
-          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
-        }
-      ],
-      "duration_ms": 160674,
-      "name": "Eenzame Nacht",
-      "url": "https://open.spotify.com/track/7ieHImUwrGS8PJyd7tfxY4"
+      "duration_ms": 154003,
+      "name": "Ruggengraat",
+      "url": "https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -979,6 +963,22 @@
       "duration_ms": 224844,
       "name": "Levenslang",
       "url": "https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Eenzame Nacht",
+        "url": "https://open.spotify.com/album/52OJSSsNbX5y0r84mcBULb"
+      },
+      "artists": [
+        {
+          "name": "Big2",
+          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
+        }
+      ],
+      "duration_ms": 160674,
+      "name": "Eenzame Nacht",
+      "url": "https://open.spotify.com/track/7ieHImUwrGS8PJyd7tfxY4"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -1019,8 +1019,8 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Ruggengraat",
-        "url": "https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V"
+        "name": "Kijk Ons Nou",
+        "url": "https://open.spotify.com/album/5jlNimB3wUAsWQCZJnJznt"
       },
       "artists": [
         {
@@ -1028,13 +1028,13 @@
           "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
         },
         {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+          "name": "Metejoor",
+          "url": "https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE"
         }
       ],
-      "duration_ms": 154003,
-      "name": "Ruggengraat",
-      "url": "https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ"
+      "duration_ms": 163709,
+      "name": "Kijk Ons Nou",
+      "url": "https://open.spotify.com/track/2yeRk80Qkp5U3ux0oclxFi"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
+        "name": "Als Ik Naar Malaga Ga",
+        "url": "https://open.spotify.com/album/68P4kgJpgPfw0FflrDVh5X"
+      },
+      "artists": [
+        {
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+        }
+      ],
+      "duration_ms": 143203,
+      "name": "Als Ik Naar Malaga Ga",
+      "url": "https://open.spotify.com/track/7xkDCLLtAYQ4nHjOIKXnZ6"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
         "name": "De Eerste Keer",
         "url": "https://open.spotify.com/album/6U53g89WwY7vnrmHVFB8tL"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 164170,
       "name": "De Eerste Keer",
       "url": "https://open.spotify.com/track/4o1Hhg6PfdbsWGtfy9ARBs"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Als Ik Naar Malaga Ga",
-        "url": "https://open.spotify.com/album/68P4kgJpgPfw0FflrDVh5X"
-      },
-      "artists": [
-        {
-          "name": "Arjon Oostrom",
-          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
-        }
-      ],
-      "duration_ms": 143203,
-      "name": "Als Ik Naar Malaga Ga",
-      "url": "https://open.spotify.com/track/7xkDCLLtAYQ4nHjOIKXnZ6"
     },
     {
       "added_at": "2025-10-16 22:00:34",

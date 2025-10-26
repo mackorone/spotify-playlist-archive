@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Eric Lu
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,876 likes - 80 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,917 likes - 80 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

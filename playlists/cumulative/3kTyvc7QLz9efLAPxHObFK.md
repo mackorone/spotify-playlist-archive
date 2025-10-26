@@ -4,7 +4,7 @@
 
 > 
 
-2,621 songs - 5 day 16 hr 38 min
+2,622 songs - 5 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2032,6 +2032,7 @@
 | [Shockwave](https://open.spotify.com/track/1rk7MexFjKSuwyNgKBFz5F) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Shockwave](https://open.spotify.com/album/0Po38mPKrFDq13s52LFtOm) | 1:55 | 2025-08-02 |  |
 | [Shockwave](https://open.spotify.com/track/7jEHdn446rOCOuJiL9OjR9) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Shockwave](https://open.spotify.com/album/3j7zpz12akF07kxcciSf5E) | 4:19 | 2022-09-22 |  |
 | [Shockwave](https://open.spotify.com/track/5wteSCKsV3KHpjHr2vyUNp) | [Unlocked](https://open.spotify.com/artist/1MpKBwjaYMkO0iNWcEsRmj) | [Shockwave](https://open.spotify.com/album/0zE0J0cKGp5EHXRPnnb99a) | 2:59 | 2025-04-25 |  |
+| [Shockwave](https://open.spotify.com/track/2wf3E3EUCQBIiI1W0DL6YY) | [UNSYN](https://open.spotify.com/artist/5jptqH3gT47JWOY3NFTXfw) | [Shockwave](https://open.spotify.com/album/0gq8UOYw1WkeUozjHs9RxX) | 2:48 | 2025-10-25 |  |
 | [Shooting Star](https://open.spotify.com/track/06kcnJeXXaNpBStBduk1rD) | [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Shooting Star](https://open.spotify.com/album/0zjQZ22vVVkDBAQhjfuyrP) | 2:49 | 2024-07-26 |  |
 | [Shooting Stars](https://open.spotify.com/track/4XIob709mZn9KTLKNxEKDP) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB) | [Shooting Stars](https://open.spotify.com/album/5q8UHxGTLqBtZrpTuVSkgd) | 2:09 | 2023-03-05 |  |
 | [Short D!Ck](https://open.spotify.com/track/1EMhKu8rINYnXYmebvLq9s) | [Wrong Sequence](https://open.spotify.com/artist/600ZzvXe79KqVNCVrCG53W), [Hollow](https://open.spotify.com/artist/39z1fY2k7pqtv63oZUIO1M) | [Short D!Ck](https://open.spotify.com/album/6N6OSP5C3TI7J7O1OThz4j) | 3:06 | 2024-08-05 |  |

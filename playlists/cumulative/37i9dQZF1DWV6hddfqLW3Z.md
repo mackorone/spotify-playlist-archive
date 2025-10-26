@@ -4,7 +4,7 @@
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-213 songs - 12 hr 49 min
+214 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Chega de Saudade](https://open.spotify.com/track/4fryIGUnJQ1XPg2QyasFQ4) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ) | 2:03 | 2022-08-19 | 2023-03-30 |
 | [Chega de Saudade](https://open.spotify.com/track/7jcLeqojncPZAFh2VUO7mD) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 2:03 | 2023-04-28 | 2024-04-19 |
 | [Chega de Saudade \- Ultimate Mix](https://open.spotify.com/track/1cM4eMzeqalRs8HbXtfT9X) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade / O Amor o Sorriso e a Flor / João Gilberto \(1961\) \[Ultimate Mix\]](https://open.spotify.com/album/5QyRw84mq8qyaOfaMthydb) | 2:02 | 2023-01-20 | 2023-04-24 |
-| [Cheirinho \- Feat\. YOÙN](https://open.spotify.com/track/3q1mkSy6UIR0IQejy70sNZ) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Cheirinho \(Feat\. YOÙN\)](https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw) | 2:53 | 2025-08-03 |  |
+| [Cheirinho \- Feat\. YOÙN](https://open.spotify.com/track/3q1mkSy6UIR0IQejy70sNZ) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Cheirinho \(Feat\. YOÙN\)](https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw) | 2:53 | 2025-08-03 | 2025-10-26 |
 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 | 2023-09-02 | 2024-04-19 |
 | [Chico](https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:02 | 2023-09-02 | 2023-09-08 |
 | [Ciumeira](https://open.spotify.com/track/5xy5b7EWPTCINHJF4izEWJ) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Ciumeira](https://open.spotify.com/album/1qqJHRn7GYlL0gpOSCA2A9) | 2:31 | 2022-08-19 | 2023-03-13 |
@@ -138,6 +138,7 @@
 | [O Mundo é um Moinho](https://open.spotify.com/track/5RrabFXezOFgx5FlYYhkHc) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Homem com H](https://open.spotify.com/album/1JuIrijsL2hOyW8n49xRuR) | 2:01 | 2025-07-19 | 2025-09-04 |
 | [O Que Será \(A Flor Da Terra\)](https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Meus Caros Amigos](https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6) | 2:46 | 2022-08-19 | 2024-04-19 |
 | [O Sol](https://open.spotify.com/track/1j5N75y26nH2l0uPa9JlKe) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Adrenalizou](https://open.spotify.com/album/7zI1acetTFBNiKnl5kBWQi) | 3:31 | 2022-08-19 | 2024-04-19 |
+| [O Vento](https://open.spotify.com/track/3lBQcsRgxcflvTJl6Wu84T) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [O Vento](https://open.spotify.com/album/2GuQWKQDral2TTSywYtOw3) | 4:56 | 2025-10-25 |  |
 | [Oceano](https://open.spotify.com/track/3iof6EclqePezHDibBiykI) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan](https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA) | 4:56 | 2022-08-19 |  |
 | [Olhos Nos Olhos](https://open.spotify.com/track/1UBJvypv5W1GNoplpc2EYl) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Pássaro Proibido](https://open.spotify.com/album/1tF6qjWpG4gMIfzFBzgI4Y) | 4:35 | 2023-06-16 | 2024-04-19 |
 | [Ouvi Dizer](https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:30 | 2022-08-19 | 2025-02-15 |

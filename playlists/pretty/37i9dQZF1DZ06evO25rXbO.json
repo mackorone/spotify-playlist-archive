@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1208776,
+  "num_followers": 1208974,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAADMT5ZbkjoMO4nqyyOiPALA",
+  "snapshot_id": "aPrBgAAAAADWznFuo+yIh68C52mT53dZ",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ],
+      "duration_ms": 340920,
+      "name": "Clint Eastwood",
+      "url": "https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -91,26 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gorillaz",
-        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Del The Funky Homosapien",
-          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
-        }
-      ],
-      "duration_ms": 340920,
-      "name": "Clint Eastwood",
-      "url": "https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Demon Days",
         "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
       },
@@ -131,6 +131,26 @@
       "duration_ms": 244999,
       "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
       "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Humanz (Deluxe)",
+        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 209560,
+      "name": "She's My Collar (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/3lIxtCaROdRDuTnNBDm3n2"
     },
     {
       "added_at": null,
@@ -171,26 +191,6 @@
       "duration_ms": 200173,
       "name": "Rhinestone Eyes",
       "url": "https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Humanz (Deluxe)",
-        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "She's My Collar (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/3lIxtCaROdRDuTnNBDm3n2"
     },
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 162626,
+      "name": "Tranz",
+      "url": "https://open.spotify.com/track/7jYUaoOfdcYgUvkK8NnFfx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Demon Days",
         "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 225773,
       "name": "Kids with Guns",
       "url": "https://open.spotify.com/track/0eEgMbSzOHmkOeVuNC3E0k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 162626,
-      "name": "Tranz",
-      "url": "https://open.spotify.com/track/7jYUaoOfdcYgUvkK8NnFfx"
     },
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demon Days",
-        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 165093,
-      "name": "November Has Come",
-      "url": "https://open.spotify.com/track/6lrDckuosGpwEHtm1hHBcf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Humanz (Deluxe)",
         "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 197546,
       "name": "Andromeda (feat. DRAM)",
       "url": "https://open.spotify.com/track/2C0KFbb4v9CNWR5c9jWcKC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Demon Days",
+        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 165093,
+      "name": "November Has Come",
+      "url": "https://open.spotify.com/track/6lrDckuosGpwEHtm1hHBcf"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demon Days",
-        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "El Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0dcMqjeDpwqB2xhzMsld0p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 266338,
       "name": "Silent Running (feat. Adeleye Omotayo)",
       "url": "https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Demon Days",
+        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "El Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0dcMqjeDpwqB2xhzMsld0p"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleeping Powder",
-        "url": "https://open.spotify.com/album/5D31GSU5erwgjB6uvLzlcu"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 166481,
-      "name": "Sleeping Powder",
-      "url": "https://open.spotify.com/track/5pE9vMyvVNOpZFutt6lyy4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Humanz (Deluxe)",
         "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 181906,
       "name": "Saturnz Barz (feat. Popcaan)",
       "url": "https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleeping Powder",
+        "url": "https://open.spotify.com/album/5D31GSU5erwgjB6uvLzlcu"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 166481,
+      "name": "Sleeping Powder",
+      "url": "https://open.spotify.com/track/5pE9vMyvVNOpZFutt6lyy4"
     },
     {
       "added_at": null,

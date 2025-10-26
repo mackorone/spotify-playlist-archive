@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 47685,
+  "num_followers": 47694,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Giblet Gravy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/4SsYEBMS6glreI8XXAtVMw"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Anita O'Day And The Three Sounds",
         "url": "https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 176840,
       "name": "Whisper Not",
       "url": "https://open.spotify.com/track/79C7NxcxlBEJcyGHGy6ZMD"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Giblet Gravy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4SsYEBMS6glreI8XXAtVMw"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -669,28 +669,20 @@
       "url": "https://open.spotify.com/track/2CAgx55oNmNRUjC1XKNDe4"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
+      "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Sonny Side Up",
-        "url": "https://open.spotify.com/album/2PUVdwOzX6B6FT9iGfSuJY"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        },
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
         }
       ],
-      "duration_ms": 340960,
-      "name": "On The Sunny Side Of The Street",
-      "url": "https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G"
+      "duration_ms": 340893,
+      "name": "Noche De Ronda",
+      "url": "https://open.spotify.com/track/65KxxZPi752Fd6cqwiFzHx"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -713,20 +705,28 @@
       "url": "https://open.spotify.com/track/2T2Q1jDvjYRfxI4thF8v08"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
+      "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
+        "name": "Sonny Side Up",
+        "url": "https://open.spotify.com/album/2PUVdwOzX6B6FT9iGfSuJY"
       },
       "artists": [
         {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        },
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 340893,
-      "name": "Noche De Ronda",
-      "url": "https://open.spotify.com/track/65KxxZPi752Fd6cqwiFzHx"
+      "duration_ms": 340960,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -813,38 +813,6 @@
       "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Very Best of Chris Botti",
-        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
-      },
-      "artists": [
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 277466,
-      "name": "Worlds Outside",
-      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "The New Standard",
@@ -863,6 +831,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "The Very Best of Chris Botti",
+        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 277466,
+      "name": "Worlds Outside",
+      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "A Generation Ago Today",
         "url": "https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 368000,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -909,26 +909,6 @@
       "url": "https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Empathy",
-        "url": "https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Shelly Manne",
-          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
-        }
-      ],
-      "duration_ms": 270666,
-      "name": "Let's Go Back To The Waltz",
-      "url": "https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Quiet",
@@ -959,6 +939,26 @@
       "duration_ms": 333800,
       "name": "Moonlight (Claro de Luna)",
       "url": "https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Empathy",
+        "url": "https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Shelly Manne",
+          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
+        }
+      ],
+      "duration_ms": 270666,
+      "name": "Let's Go Back To The Waltz",
+      "url": "https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/5Ms4U6Z2cDqkENFZ52VkTc"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Complete Verve Studio Sessions",
-        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
-      },
-      "artists": [
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Somebody Loves Me",
-      "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Bashin' - The Unpredictable Jimmy Smith (Expanded Edition)",
@@ -1299,6 +1283,22 @@
       "duration_ms": 373800,
       "name": "Bashin'",
       "url": "https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Somebody Loves Me",
+      "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "The Complete Verve Studio Sessions",
-        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
-      },
-      "artists": [
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        }
-      ],
-      "duration_ms": 240013,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/5aMjgZfUjvHrG23l5fIM4W"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "Worth Waiting For",
         "url": "https://open.spotify.com/album/4kM5RiMozOGvrkvzPLYxvR"
       },
@@ -1381,20 +1365,20 @@
       "url": "https://open.spotify.com/track/6rqGgu0tHZUAngnMLkAOt7"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
+      "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Flip Wails: The Best Of The Verve Years",
-        "url": "https://open.spotify.com/album/3vfoDxP9LuKoxJLxT4HV5x"
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
       },
       "artists": [
         {
-          "name": "Flip Phillips",
-          "url": "https://open.spotify.com/artist/6k3DSHCSh4p2EuIqm9hIU6"
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
         }
       ],
-      "duration_ms": 179600,
-      "name": "Singin' In The Rain",
-      "url": "https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W"
+      "duration_ms": 240013,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/5aMjgZfUjvHrG23l5fIM4W"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1419,6 +1403,22 @@
       "duration_ms": 203653,
       "name": "I'll Close My Eyes",
       "url": "https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Flip Wails: The Best Of The Verve Years",
+        "url": "https://open.spotify.com/album/3vfoDxP9LuKoxJLxT4HV5x"
+      },
+      "artists": [
+        {
+          "name": "Flip Phillips",
+          "url": "https://open.spotify.com/artist/6k3DSHCSh4p2EuIqm9hIU6"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Singin' In The Rain",
+      "url": "https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 168346,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/3MNxcdz3SFeMfX4KunRsjZ"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Night Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/1wht9VwbCummrzrwOOjAm7"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 306173,
       "name": "I Got It Bad And That Ain't Good",
       "url": "https://open.spotify.com/track/2kpaRWsZTE96rmw0NBfP0c"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 168346,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/3MNxcdz3SFeMfX4KunRsjZ"
     },
     {
       "added_at": "2019-10-04 16:01:14",

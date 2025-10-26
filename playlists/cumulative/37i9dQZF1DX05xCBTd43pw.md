@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Linda Elys
 
-432 songs - 22 hr 19 min
+433 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Frostbites](https://open.spotify.com/track/3xCMJOdaGSB0WiAZ8gAW3d) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Frostbites](https://open.spotify.com/album/0dctcL4tY0cRluTW5lSrcT) | 2:59 | 2024-07-19 | 2024-10-04 |
 | [FUBU](https://open.spotify.com/track/5cI1FEInVSQ7cfKRxi51gc) | [DAWILL](https://open.spotify.com/artist/7oypIsVGKg4FIyuZM1AmeA) | [FUBU](https://open.spotify.com/album/5zaMz8S9p9gGAnjsIR0Xwb) | 4:16 | 2025-04-24 | 2025-05-02 |
 | [Full 180](https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Full 180](https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER) | 3:36 | 2024-06-27 |  |
+| [fyne shiii](https://open.spotify.com/track/4GO6ArM9HMhrOgYY7PeG3K) | [Nativ](https://open.spotify.com/artist/7ufLkxlHrq3NRaS1fCHOgq) | [fyne shiii](https://open.spotify.com/album/5TDEHA2uXblkDM5OpRBEuD) | 2:26 | 2025-10-24 |  |
 | [Fäderliecht](https://open.spotify.com/track/74yAbSSwPYlbJRoVvkauPz) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Fäderliecht](https://open.spotify.com/album/0cV75qed2Zo9mY4Sr9LM8I) | 3:54 | 2025-04-24 | 2025-05-02 |
 | [Girlfriend](https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u) | [MAREA](https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y) | [Girlfriend](https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K) | 2:47 | 2024-08-05 | 2025-07-11 |
 | [Gold \(feat\. KOOLKID\)](https://open.spotify.com/track/7sN8cPi1YSSXxluyVCl7YQ) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Gold \(feat\. KOOLKID\)](https://open.spotify.com/album/6cnA84PlNGIXkMCs7oglJw) | 3:20 | 2025-07-10 | 2025-10-17 |
@@ -301,7 +302,7 @@
 | [Playing House](https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Playing House](https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u) | 3:38 | 2025-07-10 |  |
 | [Playlist](https://open.spotify.com/track/3m6xu2uUr8jS9w0VT2rGsI) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Playlist](https://open.spotify.com/album/1z4X7CYqMG5c1NkNDk0hiK) | 2:31 | 2024-09-13 | 2025-09-20 |
 | [Polaroid](https://open.spotify.com/track/40zf2sEQMBu5R7foINartB) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Polaroid](https://open.spotify.com/album/39185Y4s5eLq4KfraysSH4) | 3:26 | 2025-09-12 |  |
-| [Pop Up](https://open.spotify.com/track/4RS0g8ny9BVFXw98Uu4lCf) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Modern Roses](https://open.spotify.com/album/3OV7Hh7hbTcjemTIcQImWf) | 3:02 | 2025-05-22 |  |
+| [Pop Up](https://open.spotify.com/track/4RS0g8ny9BVFXw98Uu4lCf) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Modern Roses](https://open.spotify.com/album/3OV7Hh7hbTcjemTIcQImWf) | 3:02 | 2025-05-22 | 2025-10-26 |
 | [Power](https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Power](https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D) | 2:44 | 2025-04-05 |  |
 | [POWERTRIP!](https://open.spotify.com/track/0gABOHjuxkdwZpLmKVlEQI) | [Skyler Wind](https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT) | [POWERTRIP!](https://open.spotify.com/album/64IVGikaihpthJq66Fk0bf) | 2:52 | 2024-10-18 | 2024-11-18 |
 | [Pretty Girl Thriller](https://open.spotify.com/track/0UwuMzIsMzLEY6pu8eS3Gn) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Pretty Girl Thriller](https://open.spotify.com/album/3510yYBDvh1DZxom9nOhlL) | 2:55 | 2025-05-22 |  |
@@ -326,7 +327,7 @@
 | [Rückspiegel](https://open.spotify.com/track/6Zo8BKWJ1SVVAqOiRGlpOm) | [Andryy](https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP) | [Geisterfahrer](https://open.spotify.com/album/5AFr5HQ62beX3gqmtDQTRZ) | 2:58 | 2025-04-17 | 2025-04-25 |
 | [Sand](https://open.spotify.com/track/320FkP0qHyl7w1a1oDpyhE) | [Gigi Malua](https://open.spotify.com/artist/4i3FpW16bE9c9TxNvvDs82) | [Hinterem Mond](https://open.spotify.com/album/5Qe6ceY5yPGV5e40FuKjaR) | 2:43 | 2025-03-14 | 2025-09-06 |
 | [Sans Toi](https://open.spotify.com/track/3XN0T1Yew3d5hiXhmMuuDS) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Sans Toi](https://open.spotify.com/album/3qvzJyERlOl1zvdxkPxB7y) | 2:14 | 2024-09-27 | 2024-11-10 |
-| [Satellite \- Spotify Singles](https://open.spotify.com/track/1s1nNvVUZpVaBzPa5fGIJJ) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Satellite \(Spotify Singles\)](https://open.spotify.com/album/3FYh7wVc6lw1gDeGC5qs2T) | 2:12 | 2025-04-05 |  |
+| [Satellite \- Spotify Singles](https://open.spotify.com/track/1s1nNvVUZpVaBzPa5fGIJJ) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Satellite \(Spotify Singles\)](https://open.spotify.com/album/3FYh7wVc6lw1gDeGC5qs2T) | 2:12 | 2025-04-05 | 2025-10-26 |
 | [Sauvage](https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv) | [Julie Meletta](https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1) | [Sauvage](https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL) | 2:57 | 2024-08-26 | 2025-03-16 |
 | [Scars On Your Heart](https://open.spotify.com/track/3EUjGScwQwLvq27r9nhVU1) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [Scars On Your Heart](https://open.spotify.com/album/1cSh4EZu0FpUYxJGzayK0n) | 2:53 | 2025-02-14 | 2025-02-28 |
 | [Schlüssu](https://open.spotify.com/track/0NYYj56OODUg2Gz0reX5ZQ) | [Soukey](https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6) | [Schlüssu](https://open.spotify.com/album/51wb8H7NqVok5rhnSmhhdp) | 2:42 | 2025-04-24 | 2025-05-02 |
@@ -358,7 +359,7 @@
 | [Sorry](https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Sorry](https://open.spotify.com/album/1GkLbZiRcGcat8HdCX3rT3) | 2:47 | 2024-09-27 | 2025-01-11 |
 | [spark](https://open.spotify.com/track/13lod7e7tqMqSPXmi6jBKY) | [Long Tall Jefferson](https://open.spotify.com/artist/4dPlgLFpJ1w0BtzNVwQNZq) | [spark](https://open.spotify.com/album/73OXMgGuaifUXUzzh7sn6w) | 3:21 | 2024-12-20 | 2025-02-08 |
 | [Spinning](https://open.spotify.com/track/6duDke7M2I6XeXa6VqcMTD) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [The Movie](https://open.spotify.com/album/2Hl58qQYSxGfAYb9dNIvLi) | 3:47 | 2025-04-24 | 2025-05-02 |
-| [Spätsommer](https://open.spotify.com/track/0gzMov42DaCWpLOiySLzPL) | [Leon Wiesmann](https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8) | [Spätsommer](https://open.spotify.com/album/5WuEzee2qFuHUj70Ns7Xb7) | 2:51 | 2025-10-16 | 2025-10-25 |
+| [Spätsommer](https://open.spotify.com/track/0gzMov42DaCWpLOiySLzPL) | [Leon Wiesmann](https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8) | [Spätsommer](https://open.spotify.com/album/5WuEzee2qFuHUj70Ns7Xb7) | 2:51 | 2025-10-16 |  |
 | [Stabhochspringe](https://open.spotify.com/track/3sz6jUYOTT3hhYO2iG3vUJ) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Stabhochspringe](https://open.spotify.com/album/6druqWQ7NJiOMmjS6Ez6Cc) | 3:32 | 2025-05-15 | 2025-05-23 |
 | [Starcrossed](https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Starcrossed](https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC) | 3:03 | 2025-03-21 |  |
 | [Stay With Me](https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ), [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Stay With Me](https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73) | 2:57 | 2024-06-27 | 2025-06-27 |

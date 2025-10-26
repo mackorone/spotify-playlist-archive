@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-364 songs - 17 hr 13 min
+365 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Ascension \(Sound Bath\)](https://open.spotify.com/track/5QhHxzGiHveCh5ul5UAz4Q) | [Eos Astraeus](https://open.spotify.com/artist/43of8eAodl6qI6YvBX6hkJ) | [Ascension \(Sound Bath\)](https://open.spotify.com/album/33vdk5V9T8Ag5WkBZzjowy) | 2:17 | 2023-04-14 |  |
 | [Asterism \(Sound Bath\)](https://open.spotify.com/track/6JMS5jCsa1JZPovmshkeM4) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Asterism \(Sound Bath\)](https://open.spotify.com/album/3bsC8W4XLLriOdb16UWEb9) | 2:26 | 2023-07-28 |  |
 | [Aurora Drift](https://open.spotify.com/track/5aXR2QnrHrjQ1xffArqr50) | [Enchanted Blossom](https://open.spotify.com/artist/1SELOJexR8XfdtwAkVP6GI) | [Aurora Drift](https://open.spotify.com/album/3xO488RLRjpxjiwUbZhtA4) | 2:43 | 2025-04-29 |  |
-| [Azure Forest](https://open.spotify.com/track/1rvwqBmjavA93zziLEb2pP) | [Reitius Rex](https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd) | [Azure Forest](https://open.spotify.com/album/49rSBvAzxJoHaZsyYZwzvT) | 2:04 | 2023-08-21 |  |
+| [Azure Forest](https://open.spotify.com/track/1rvwqBmjavA93zziLEb2pP) | [Reitius Rex](https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd) | [Azure Forest](https://open.spotify.com/album/49rSBvAzxJoHaZsyYZwzvT) | 2:04 | 2023-08-21 | 2025-10-26 |
 | [Ballerina](https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 1:47 | 2023-01-24 | 2024-07-17 |
 | [Bed of Clouds \(by a Babbling Brook\)](https://open.spotify.com/track/5G9TdCSs9GPwGSrwGjfIPo) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [River Peace](https://open.spotify.com/album/78qKa5xSG1kJaoi5nSo2NZ) | 2:44 | 2024-03-05 |  |
 | [Bel Flusso](https://open.spotify.com/track/5G9elfgCYkKL5fPCfKP6eD) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Bel Flusso](https://open.spotify.com/album/2E43nIu2dU5K0oEkgJJwo2) | 3:38 | 2023-05-19 |  |
@@ -190,6 +190,7 @@
 | [Lumen](https://open.spotify.com/track/6a6UnuMT3YJrlxztbFIikY) | [Songlark](https://open.spotify.com/artist/2UHdn1PjYe05hpiNNm91oK) | [Lumen](https://open.spotify.com/album/3P3CK8RLhKMxk0To92N8yb) | 2:37 | 2024-03-05 |  |
 | [Luna Nueva](https://open.spotify.com/track/6GLKRIk8YSDDi3BnJIVr4C) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Luna Nueva](https://open.spotify.com/album/1nXR27VjplhMuwL7u6ChGd) | 3:37 | 2023-01-24 | 2023-12-19 |
 | [Lyricon](https://open.spotify.com/track/58bpuOIVh1z048wxmryOv1) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Lyricon](https://open.spotify.com/album/38HetolTHRgUmozgeyGgb1) | 3:12 | 2025-04-24 |  |
+| [Lyvora](https://open.spotify.com/track/6swO4wcKvKlpIPziPc7AAk) | [Monkville](https://open.spotify.com/artist/53qEoYIkHrhdTdC6AaSoiJ) | [Lyvora](https://open.spotify.com/album/3i2ntpjwIuvdMuYJwjXfNQ) | 2:23 | 2025-10-24 |  |
 | [Magnetic Aura](https://open.spotify.com/track/6UDgvopTCbgF94i54HRuXB) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Magnetic Aura](https://open.spotify.com/album/0ucppkG6frtTW2LVZGvBBB) | 3:02 | 2024-03-05 |  |
 | [Martello](https://open.spotify.com/track/7KWk7mL21m0YbkeJUdm1TM) | [Julio Raass](https://open.spotify.com/artist/0nlv8kK2en351d6V4cQJq4) | [Martello](https://open.spotify.com/album/3H979kln0g82N8otZE71ec) | 2:41 | 2023-09-01 | 2025-04-30 |
 | [Masterwort](https://open.spotify.com/track/4miFaDEcVNKXBWGAdIb6vA) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Masterwort](https://open.spotify.com/album/1x8Ys1DNMpy9r87PpOY67h) | 2:02 | 2023-03-13 | 2024-08-23 |

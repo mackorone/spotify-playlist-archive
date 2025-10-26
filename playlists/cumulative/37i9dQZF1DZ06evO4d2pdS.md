@@ -4,7 +4,7 @@
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 16 min
+75 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [No Hook](https://open.spotify.com/track/2qPevuRQkYmm5dvJYWDCny) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 1:57 | 2022-10-28 |  |
 | [Ooh Ahh](https://open.spotify.com/track/7iCmwZaQJOAOxTUp1kI2OM) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Keymix III](https://open.spotify.com/album/3ZkhHJ5yXx7q5EIPONr7Ni) | 2:38 | 2024-12-04 | 2025-01-18 |
 | [Perfect](https://open.spotify.com/track/7nOkNaXqygqopH34aDBmUl) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:21 | 2022-10-28 |  |
-| [Pop Dat](https://open.spotify.com/track/69IaTU22g3APresMDbF4g9) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 2:06 | 2022-10-28 |  |
+| [Pop Dat](https://open.spotify.com/track/3c6ZvhZQnLmDXU0SYKa4Lz) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 2:06 | 2025-10-26 |  |
+| [Pop Dat](https://open.spotify.com/track/69IaTU22g3APresMDbF4g9) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 2:06 | 2022-10-28 | 2025-10-26 |
 | [Poppin](https://open.spotify.com/track/2ALg7dHbjG6S2HrlRN8n6R) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:34 | 2022-10-28 |  |
 | [Pretty Brown](https://open.spotify.com/track/2H0wxi6MurPj7C6JxuuDEs) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Keymix III](https://open.spotify.com/album/3ZkhHJ5yXx7q5EIPONr7Ni) | 2:25 | 2024-12-02 | 2025-01-20 |
 | [Raw Btch](https://open.spotify.com/track/38KjYLWUWylehWT4KKdadU) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Raw Btch](https://open.spotify.com/album/3Fb4B4fjf7MuePkflCsZ1a) | 2:41 | 2025-07-19 |  |

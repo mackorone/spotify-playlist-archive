@@ -8813,7 +8813,7 @@
 - [행복을 드려요 \(K\-Pop Happy Songs\)](/playlists/pretty/37i9dQZF1DX2l1BM6ggRui.md)
 - [히어로는 아닙니다만 \(The Atypical Family\)](/playlists/pretty/37i9dQZF1DXbVDG8SANkRQ.md)
 - [�](/playlists/pretty/37i9dQZF1DWXfgmQDgebb6.md)
-- [𝘥𝘳𝘦𝘢𝘮𝘦𝘥 𝘰𝘧 𝘺𝘰𝘶 𝘭𝘢𝘴𝘵 𝘸𝘦𝘦𝘬](/playlists/pretty/1UDtZQ2RZtGRjPy7PCzuzA.md)
+- [𝄞](/playlists/pretty/1UDtZQ2RZtGRjPy7PCzuzA.md)
 - [𝙛𝙨𝙝 𝙣𝙙 𝙘𝙝𝙥 𝙟𝙢𝙨](/playlists/pretty/4bPJzqdwVF3SMKYy9MzH5e.md)
 - [🆗🆗](/playlists/pretty/6obleAi6sudUqcaSK7Gqbp.md)
 - [🌓 Light Night Group Playlist](/playlists/pretty/3byfICXn1tEvIDpgTYzeXx.md)

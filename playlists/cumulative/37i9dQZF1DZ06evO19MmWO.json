@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Little Walter",
+        "url": "https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196173,
+      "name": "Blue Light - Single Version",
+      "url": "https://open.spotify.com/track/5KR5hJ3y1evtGt5MeEHU8l"
+    },
+    {
+      "album": {
         "name": "Hate To See You Go",
         "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
       },

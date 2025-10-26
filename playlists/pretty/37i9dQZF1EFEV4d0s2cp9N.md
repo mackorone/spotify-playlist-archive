@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">Blush Davis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 439 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 33 | [Turn off the Lights](https://open.spotify.com/track/3TeieiG5zeormUCyJIcF5Z) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75) | [Turn off the Lights](https://open.spotify.com/album/2EsmUBEmNSpSPAUW65C6ng) | 3:08 |
 | 34 | [Chasing Dreams](https://open.spotify.com/track/7iUHBN3E2w2y3MIo8jqzPg) | [Omar101](https://open.spotify.com/artist/3OSeYeKlvOhNfcLVQNadmB) | [Welcome to 101](https://open.spotify.com/album/2HAYtoHrVCzfyNi4XY7jW7) | 1:38 |
 | 35 | [Loveless](https://open.spotify.com/track/19So3cXuMUSiffB8AXzr9r) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Loveless](https://open.spotify.com/album/1IsfgWTtfRYs3VyVQXll1s) | 2:54 |
-| 36 | [The Silence](https://open.spotify.com/track/2GEZc2yWerMNPVTwwOI578) | [Ellipso](https://open.spotify.com/artist/6SSzF90X1iI3jZbaiQMaWs) | [The Silence](https://open.spotify.com/album/7BMmVjURRpn9elnP1XrzCR) | 2:05 |
-| 37 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
+| 36 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
+| 37 | [The Silence](https://open.spotify.com/track/2GEZc2yWerMNPVTwwOI578) | [Ellipso](https://open.spotify.com/artist/6SSzF90X1iI3jZbaiQMaWs) | [The Silence](https://open.spotify.com/album/7BMmVjURRpn9elnP1XrzCR) | 2:05 |
 | 38 | [Samir](https://open.spotify.com/track/27D8aQY0iyeg2Npq1QrFdd) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:26 |
 | 39 | [Nostalgic](https://open.spotify.com/track/505idOF1JBk7WXlJ75BALj) | [Jordan Jay](https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY) | [Nostalgic](https://open.spotify.com/album/0ANAg2M3iPZtgDwzQ4sIqk) | 2:20 |
 | 40 | [21 Candles](https://open.spotify.com/track/5eFlBcW5apxIXqyfTzjBMp) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr) | 2:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 59 | [Meaning \- Inst.](https://open.spotify.com/track/4Y5oE4Xn5VMCRce5UgyIkM) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [\(Me\)moir](https://open.spotify.com/album/1KixiCbpzXKydBJqWiA9kB) | 2:54 |
 | 60 | [tydfl](https://open.spotify.com/track/1iTEUzyDxQRcAbbYWsjT4A) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 2:32 |
 
-Snapshot ID: `Ab/wHAAAAACUOO+BHj6CBhbrZ9O/+0Ub`
+Snapshot ID: `Ab/1xgAAAAAeD2GfkycYzrWOt4BbLCBW`

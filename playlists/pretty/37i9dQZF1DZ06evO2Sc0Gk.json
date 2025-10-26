@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 20924,
+  "num_followers": 20930,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAABFs9gNQ+DNthErVSDb+yWt",
+  "snapshot_id": "aPrBgAAAAAAFc94wGFBNILX5mRAH9uoQ",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Violence",
+        "url": "https://open.spotify.com/album/25k7hGeNZ7yvgR3D51cRQB"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 156715,
+      "name": "Violence",
+      "url": "https://open.spotify.com/track/1xKTpn0PlVvu0dZoxrbgwr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 145174,
       "name": "Property",
       "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Violence",
-        "url": "https://open.spotify.com/album/25k7hGeNZ7yvgR3D51cRQB"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 156715,
-      "name": "Violence",
-      "url": "https://open.spotify.com/track/1xKTpn0PlVvu0dZoxrbgwr"
     },
     {
       "added_at": null,

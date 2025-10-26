@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-246 songs - 12 hr 8 min
+247 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Gotta Catch 'Em All \(Pokémon Theme\)](https://open.spotify.com/track/78pgZsgSTHyD4hJKVyu5sM) | [Altijd Larstig & Rob Gasd'rop](https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX), [Jason Paige](https://open.spotify.com/artist/4C2BnfCRMI8bTf3LlBUljz) | [Gotta Catch 'Em All \(Pokémon Theme\)](https://open.spotify.com/album/7eamYT4J7AZyrf7uAMW12h) | 2:27 | 2023-08-24 | 2023-09-08 |
 | [Greedy \- Hardstyle](https://open.spotify.com/track/1KHusrvEKsDlrCBIbP6zW1) | [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ), [Gabriel Wittner](https://open.spotify.com/artist/6DitGfT7dcBLUsY5ETeuAj), [HARDSTYLE MAGE](https://open.spotify.com/artist/0Vorbh84xQLnLXl1BvN1cV) | [Greedy \(Hardstyle\)](https://open.spotify.com/album/42y4q221pyzCuce0B7pdvf) | 2:33 | 2024-05-23 | 2024-07-13 |
 | [Halo](https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Halo](https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X) | 2:50 | 2023-02-09 |  |
+| [Hangover](https://open.spotify.com/track/6HgeLV4tJi30yZV1pBg5sT) | [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6) | [Hangover](https://open.spotify.com/album/5eNjBM5cT4BHQfsoXnkwo8) | 2:50 | 2025-10-20 |  |
 | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/track/4SNTRZEd437z47y4mL9vKi) | [Hard But Crazy](https://open.spotify.com/artist/1HKYpNnQsIvmReFNvFxdin), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/album/6I2xwqoSru4cd1YYV3LU3L) | 2:45 | 2022-12-05 | 2023-07-01 |
 | [He's a Pirate](https://open.spotify.com/track/1rSENjsUV5v8OiRrjxTyhX) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [He's a Pirate](https://open.spotify.com/album/3GPUFw0s4ng41t0YRxiI36) | 3:14 | 2023-02-09 | 2024-11-13 |
 | [Heaven](https://open.spotify.com/track/3IE5UTMNyhe6CPYnrqIOnR) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [BassWar & CaoX](https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX), [Mary Lena](https://open.spotify.com/artist/4DX3wSZoQvQRUiO9uTkVAf) | [Heaven](https://open.spotify.com/album/5ADhBaElYoDGhF99ZZKJ6v) | 3:47 | 2024-12-20 |  |
@@ -140,7 +141,7 @@
 | [King Of My Castle](https://open.spotify.com/track/4Kd5KH428W5YHs9mZqUnNz) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Bassbrain](https://open.spotify.com/artist/2FpmZwomIGHEVAICcfIg5T), [Chaotic](https://open.spotify.com/artist/4htCaAxQ1xEXmfktnVbLfc) | [King Of My Castle](https://open.spotify.com/album/4qevLMdz4fGf69MFsBEd5I) | 3:08 | 2024-03-21 | 2024-06-23 |
 | [Kiss Kiss Bang](https://open.spotify.com/track/17De5987piqgYQbQdmBghP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Kiss Kiss Bang](https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29) | 2:34 | 2025-03-20 |  |
 | [Komodo](https://open.spotify.com/track/0sVmC0B9NlbH0NoFYIJ4Zy) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Komodo](https://open.spotify.com/album/1zQWf3pHPl3SdCk9Au5j7h) | 2:18 | 2024-12-12 | 2025-04-17 |
-| [L'Amour Toujours \- Hardstyle Version](https://open.spotify.com/track/4LR1jodAjwy93mUG447kvD) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [L'Amour Toujours \(Hardstyle Version\)](https://open.spotify.com/album/2SbmElQVDhXV9Y6vXmi5g5) | 2:49 | 2022-12-05 |  |
+| [L'Amour Toujours \- Hardstyle Version](https://open.spotify.com/track/4LR1jodAjwy93mUG447kvD) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [L'Amour Toujours \(Hardstyle Version\)](https://open.spotify.com/album/2SbmElQVDhXV9Y6vXmi5g5) | 2:49 | 2022-12-05 | 2025-10-26 |
 | [La Colegiala](https://open.spotify.com/track/2cyxZcDi7HB48T8mYZViLv) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [La Colegiala](https://open.spotify.com/album/5St2aiydKvThR9AR0fHSpO) | 3:23 | 2022-12-05 | 2022-12-29 |
 | [Lambada \(Your Love\)](https://open.spotify.com/track/2oefmctoiEMHs6Cf6PmoHj) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Lambada \(Your Love\)](https://open.spotify.com/album/0WgTsrXmzSihOCRoRS5Bn6) | 4:26 | 2022-12-05 |  |
 | [Lay Low \(Radical Redemption Remix\)](https://open.spotify.com/track/2hY7CobV1syoLH1T4jp10O) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Lay Low \(Radical Redemption Remix\)](https://open.spotify.com/album/6towXPOqUs32hg4Aosmhvp) | 2:56 | 2023-11-16 | 2024-08-04 |

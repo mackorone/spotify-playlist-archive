@@ -4,7 +4,7 @@
 
 > This is Mike Bahía\. The essential tracks, all in one playlist.
 
-106 songs - 5 hr 23 min
+107 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Ay Amor](https://open.spotify.com/track/0FEy5me9ZbbCVPMdPITNhi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:29 | 2025-02-21 |  |
 | [Ay Amor](https://open.spotify.com/track/2DIhapIzZgaCojayfVUNc7) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Ay Amor](https://open.spotify.com/album/0FmAqrlA3BYvuFvLuH7ron) | 3:29 | 2023-03-19 | 2025-02-21 |
 | [BEBE](https://open.spotify.com/track/6jhuprDoUF22u8UJLu0qth) | [XAXO](https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [BEBE](https://open.spotify.com/album/3U7vsq3icFfLPkEea20pti) | 3:20 | 2023-03-19 | 2023-04-30 |
-| [Bolerito](https://open.spotify.com/track/7zzMZoUKpSCTbqYRdQc91b) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Bolerito](https://open.spotify.com/album/17SF0NRtHRNGvnkrTxrveL) | 2:47 | 2024-09-29 |  |
+| [Bolerito](https://open.spotify.com/track/54PJkhdXy1h5qOzMfy7WG2) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 2:47 | 2025-10-26 |  |
+| [Bolerito](https://open.spotify.com/track/7zzMZoUKpSCTbqYRdQc91b) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Bolerito](https://open.spotify.com/album/17SF0NRtHRNGvnkrTxrveL) | 2:47 | 2024-09-29 | 2025-10-26 |
 | [Bolerito \- Remix](https://open.spotify.com/track/3NQgFnVEptxzbpAIjgLNkE) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Bolerito \(Remix\)](https://open.spotify.com/album/35TcEYh5Mt7ZrYNLKEBUCl) | 2:45 | 2024-10-13 | 2024-11-10 |
 | [Buscándote](https://open.spotify.com/track/7kBpyZF5JCO66IfLzdAQ2F) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Buscándote](https://open.spotify.com/album/054j0gRWCjdL4Oj85NjEIz) | 4:01 | 2023-03-19 |  |
 | [Cali Buenaventura](https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Cali Buenaventura](https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e) | 3:18 | 2024-08-18 |  |
@@ -109,7 +110,7 @@
 | [Tu Nombre](https://open.spotify.com/track/7HvuLU19kk8CyeC6l0WOlq) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tu Nombre](https://open.spotify.com/album/5wAhhAcKifWHboMzI9TjmC) | 2:44 | 2023-03-19 |  |
 | [Tú Tienes Razón \(feat\. Mike Bahía\) \- Versión Urbana](https://open.spotify.com/track/22ZDZQspD6nmT9krDjb8zO) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tú Tienes Razón \- EP](https://open.spotify.com/album/0C0BMCxF9Xc4Dz5k7cSIWd) | 3:17 | 2023-03-19 | 2024-08-26 |
 | [Verdad Verdad](https://open.spotify.com/track/1h4uZW30E34484em9y6AbW) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ) | 2:06 | 2024-11-13 | 2024-12-08 |
-| [Verdad Verdad](https://open.spotify.com/track/60oUYDwPmcss4FROevpV7d) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 2:06 | 2025-08-01 |  |
+| [Verdad Verdad](https://open.spotify.com/track/60oUYDwPmcss4FROevpV7d) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 2:06 | 2025-08-01 | 2025-10-26 |
 | [Vine a Buscarte](https://open.spotify.com/track/4HAIB8XmjGCdjsj3d8gLcs) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Metamorfosis](https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6) | 3:11 | 2023-06-11 | 2024-09-22 |
 | [Yo Te Quiero Más \(feat\. Mike Bahía\) \- Remix](https://open.spotify.com/track/2Swr1cM9DQQjrmfQOgxHd7) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Yo Te Quiero Más \(feat\. Mike Bahía\) \[Remix\]](https://open.spotify.com/album/2qQGxdycZ6zAmOuRniRo7A) | 3:04 | 2023-03-19 | 2024-11-13 |
 | [¿Cómo Estás?](https://open.spotify.com/track/39UW0ALFyTXCNpCNxBUdNP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:12 | 2023-03-19 | 2024-07-18 |

@@ -4,7 +4,7 @@
 
 > This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-114 songs - 5 hr 49 min
+115 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Home Run](https://open.spotify.com/track/4RpMlYxvcb2jIWhQzZOOsZ) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Home Run](https://open.spotify.com/album/2r3lhz9lFzhX9eWZTivN7t) | 2:48 | 2022-06-01 | 2024-04-04 |
 | [Home Run](https://open.spotify.com/track/4wsxPS9JoTlBfsUmdgYFiC) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 2:48 | 2024-04-04 |  |
 | [Imperio Beltrán Leyva](https://open.spotify.com/track/2oBh1SZ6c6SPl8FIEJiMFP) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Te Lo Dije](https://open.spotify.com/album/5qls46F3B2bIBWtN3U6Jpq) | 3:37 | 2022-06-01 | 2022-08-30 |
+| [Juan Ramos](https://open.spotify.com/track/5DaHWTMnknoAXAN5Q8y2IA) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Juan Ramos](https://open.spotify.com/album/1fse4V40Ytt4v8eJ2VgWBg) | 3:29 | 2025-10-26 |  |
 | [Kilómetro 11\-60 \- En Vivo](https://open.spotify.com/track/6QQ2oYrRCeHNpAW9NehqzX) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Corridos Con Olor a Monte \(En Vivo\)](https://open.spotify.com/album/6Ip0lzUjI4ICXLKpdRpZDU) | 3:25 | 2022-10-05 |  |
 | [La Carreta](https://open.spotify.com/track/3JObT2hSLZU1tCC5CFtlIZ) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [La Carreta](https://open.spotify.com/album/2cIZr4ziArJjeMQBtOtIe0) | 2:13 | 2024-08-16 | 2024-09-14 |
 | [La Fiesta](https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:41 | 2022-06-01 |  |
@@ -114,7 +115,7 @@
 | [Te Vas a Arrepentir](https://open.spotify.com/track/2uAqlWmMNq1CJSezD2b2Fj) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Te Vas a Arrepentir](https://open.spotify.com/album/0EcTd4rBSHWuk8bp86vk06) | 3:51 | 2022-06-01 | 2023-09-13 |
 | [Te Vas a Arrepentir](https://open.spotify.com/track/54hFP1zeT7EGieLj0rABLm) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 3:51 | 2023-09-12 |  |
 | [Termino Con Lo Nuestro](https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Termino Con Lo Nuestro](https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6) | 3:37 | 2023-07-18 |  |
-| [Tragos y a la Cama](https://open.spotify.com/track/24PE1UStzkWnRA9PnQ4oW0) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tragos y a la Cama](https://open.spotify.com/album/7yWez2qwpZ2hshpsgehbU4) | 2:37 | 2025-08-14 |  |
+| [Tragos y a la Cama](https://open.spotify.com/track/24PE1UStzkWnRA9PnQ4oW0) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tragos y a la Cama](https://open.spotify.com/album/7yWez2qwpZ2hshpsgehbU4) | 2:37 | 2025-08-14 | 2025-10-26 |
 | [Tuyo y Mío](https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:20 | 2022-06-01 |  |
 | [Un Paro de Compas](https://open.spotify.com/track/0TeXv8uLdYvB8perDrv5ZW) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Un Paro de Compas](https://open.spotify.com/album/06uan3WECvzE09VBRJAQk7) | 3:41 | 2024-08-30 | 2025-02-09 |
 | [Vida Ventajosa](https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:36 | 2022-06-01 |  |

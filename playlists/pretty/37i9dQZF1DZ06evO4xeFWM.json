@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 219452,
+  "num_followers": 219462,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAAZzZCbfMx0acvVLI69hp0j",
+  "snapshot_id": "aPrBgAAAAACargbs822plNwhaHeRs2gs",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u201c&\u201d (Ampersand), Part Four",
-        "url": "https://open.spotify.com/album/6pczyolQkjlACIuLFXRsHG"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 207013,
-      "name": "Bored & Overboard (Pandora\u2019s Box)",
-      "url": "https://open.spotify.com/track/4hvW9gYShm67Lb9HEkZqDe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All This Bad Blood",
         "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 186280,
       "name": "Laura Palmer",
       "url": "https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u201c&\u201d (Ampersand), Part Four",
+        "url": "https://open.spotify.com/album/6pczyolQkjlACIuLFXRsHG"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 207013,
+      "name": "Bored & Overboard (Pandora\u2019s Box)",
+      "url": "https://open.spotify.com/track/4hvW9gYShm67Lb9HEkZqDe"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u201c&\u201d (Ampersand), Part Four",
-        "url": "https://open.spotify.com/album/6pczyolQkjlACIuLFXRsHG"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "My Head & The Glass",
-      "url": "https://open.spotify.com/track/663nx3WRdOxdMaYKoeLhRZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give Me The Future",
         "url": "https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 137476,
       "name": "Thelma + Louise",
       "url": "https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u201c&\u201d (Ampersand), Part Four",
+        "url": "https://open.spotify.com/album/6pczyolQkjlACIuLFXRsHG"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "My Head & The Glass",
+      "url": "https://open.spotify.com/track/663nx3WRdOxdMaYKoeLhRZ"
     },
     {
       "added_at": null,
@@ -755,6 +755,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Answer",
+        "url": "https://open.spotify.com/album/5kGjspBIeXZWFZpdOTs6UP"
+      },
+      "artists": [
+        {
+          "name": "Energies",
+          "url": "https://open.spotify.com/artist/2JGt2NB6hOe8BXhe7uI3sm"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        },
+        {
+          "name": "Rittipo",
+          "url": "https://open.spotify.com/artist/6LgqEPFOAHk2KpfLZFBh7N"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/3WnAo7d6JUBrtDL9KZbbgw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vacation",
         "url": "https://open.spotify.com/album/08RH5oSOsDss5CuJBzaPzz"
       },
@@ -775,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Future",
-        "url": "https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 173202,
-      "name": "Back To The Future",
-      "url": "https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u201c&\u201d (Ampersand)",
         "url": "https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w"
       },
@@ -803,6 +815,22 @@
       "duration_ms": 221946,
       "name": "Drawbridge & The Baroness",
       "url": "https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me The Future",
+        "url": "https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 173202,
+      "name": "Back To The Future",
+      "url": "https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC"
     },
     {
       "added_at": null,
@@ -859,22 +887,6 @@
       "duration_ms": 174632,
       "name": "Liar Liar (Feat. Bastille)",
       "url": "https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Distorted Light Beam",
-        "url": "https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 177221,
-      "name": "Distorted Light Beam",
-      "url": "https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE"
     }
   ],
   "unique_name": "This Is Bastille",

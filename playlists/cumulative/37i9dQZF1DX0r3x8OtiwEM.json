@@ -2845,6 +2845,28 @@
     },
     {
       "album": {
+        "name": "Deeplow",
+        "url": "https://open.spotify.com/album/1VpXyD7YvGS5rTb9VWRgqs"
+      },
+      "artists": [
+        {
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        },
+        {
+          "name": "Serve Cold",
+          "url": "https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149939,
+      "name": "Deeplow",
+      "url": "https://open.spotify.com/track/4o9Rvu1tisuOLcuOmD3i55"
+    },
+    {
+      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/3xGoLXIEu4dwzy5um6ArVH"
       },
@@ -7698,7 +7720,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 215435,
       "name": "Memories",
       "url": "https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV"
@@ -11765,6 +11787,24 @@
     },
     {
       "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137790,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T"
+    },
+    {
+      "album": {
         "name": "Spicy (feat. Ginger) [Edit]",
         "url": "https://open.spotify.com/album/5NiOkqIUEhAutwSmH4uD5X"
       },
@@ -12958,7 +12998,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 221130,
       "name": "The Remedy",
       "url": "https://open.spotify.com/track/7lzWB5OQsulccR6ywX4JjM"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAACIthj5PKKxY2+AZ4BpWtdT",
+  "snapshot_id": "aPrBgAAAAAAw06Qu5kXNiwlZnFsIfIZi",
   "tracks": [
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pick It Up",
-        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/51T3czrBwVl8aB2XRCGzMb"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 144557,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/3B2iUvZKiXLBXhcl3JrY4l"
+      "duration_ms": 133200,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1FpyIuBKyNKG2O06ZawDlo"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/51T3czrBwVl8aB2XRCGzMb"
+        "name": "Pick It Up",
+        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
       },
       "artists": [
         {
@@ -532,9 +532,93 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 133200,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1FpyIuBKyNKG2O06ZawDlo"
+      "duration_ms": 144557,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/3B2iUvZKiXLBXhcl3JrY4l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Four More Shots Please! Season 2 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2VmahNskoUK0FWJKa1bUH8"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "Mikey McCleary",
+          "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
+        }
+      ],
+      "duration_ms": 134800,
+      "name": "Killin It",
+      "url": "https://open.spotify.com/track/41FPK2hUs2P4fXBkifGFlo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Four More Shots Please! Season 3 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC"
+      },
+      "artists": [
+        {
+          "name": "Parth Parekh",
+          "url": "https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb"
+        },
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "Mikey McCleary",
+          "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
+        },
+        {
+          "name": "Aniket Mangrulkar",
+          "url": "https://open.spotify.com/artist/67teYYqIg5ffWDHj6nqOIB"
+        }
+      ],
+      "duration_ms": 148320,
+      "name": "Hell of A Ride",
+      "url": "https://open.spotify.com/track/6ge8kuBbrS6Sy1vRiQFMBB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/32cglmsdgH5ifnHmjRFsxZ"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "ALLISTER X",
+          "url": "https://open.spotify.com/artist/7MtnXOqqKmjUo4a6H5VY3g"
+        }
+      ],
+      "duration_ms": 145804,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/5oBpm5XEdVy2DouR4BB3RY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muscle Memory",
+        "url": "https://open.spotify.com/album/0Fl07QjsJOeWNP6E9NCGNm"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 168979,
+      "name": "Muscle Memory",
+      "url": "https://open.spotify.com/track/7h9amwuFvQAqYZVaNHk6Gp"
     },
     {
       "added_at": null,
@@ -578,21 +662,17 @@
         {
           "name": "Mikey McCleary",
           "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
-        },
-        {
-          "name": "Aniket Mangrulkar",
-          "url": "https://open.spotify.com/artist/67teYYqIg5ffWDHj6nqOIB"
         }
       ],
-      "duration_ms": 148320,
-      "name": "Hell of A Ride",
-      "url": "https://open.spotify.com/track/6ge8kuBbrS6Sy1vRiQFMBB"
+      "duration_ms": 159200,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6cyc79czzQVSa9ABu4AJhy"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Muscle Memory",
-        "url": "https://open.spotify.com/album/0Fl07QjsJOeWNP6E9NCGNm"
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/7edpuZuWYWgdotNqkesWMV"
       },
       "artists": [
         {
@@ -600,49 +680,41 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 168979,
-      "name": "Muscle Memory",
-      "url": "https://open.spotify.com/track/7h9amwuFvQAqYZVaNHk6Gp"
+      "duration_ms": 147822,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/4QDB3SOGXUlLQrIhBHGSOw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/32cglmsdgH5ifnHmjRFsxZ"
+        "name": "Know It All",
+        "url": "https://open.spotify.com/album/7LNpTOGheoilpLN4ZwfLEU"
       },
       "artists": [
         {
           "name": "Natania",
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "ALLISTER X",
-          "url": "https://open.spotify.com/artist/7MtnXOqqKmjUo4a6H5VY3g"
         }
       ],
-      "duration_ms": 145804,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/5oBpm5XEdVy2DouR4BB3RY"
+      "duration_ms": 263575,
+      "name": "Know It All",
+      "url": "https://open.spotify.com/track/3Cz2bZfizFW0U8cx6t1wvh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Four More Shots Please! Season 2 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2VmahNskoUK0FWJKa1bUH8"
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/1X3TTW5hNV7A0gJaBGzpMB"
       },
       "artists": [
         {
           "name": "Natania",
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "Mikey McCleary",
-          "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
         }
       ],
-      "duration_ms": 134800,
-      "name": "Killin It",
-      "url": "https://open.spotify.com/track/41FPK2hUs2P4fXBkifGFlo"
+      "duration_ms": 188571,
+      "name": "Sad",
+      "url": "https://open.spotify.com/track/52EleUmw3To945occUhmjE"
     },
     {
       "added_at": null,
@@ -675,78 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confidence",
-        "url": "https://open.spotify.com/album/7edpuZuWYWgdotNqkesWMV"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 147822,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/4QDB3SOGXUlLQrIhBHGSOw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/1X3TTW5hNV7A0gJaBGzpMB"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Sad",
-      "url": "https://open.spotify.com/track/52EleUmw3To945occUhmjE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Know It All",
-        "url": "https://open.spotify.com/album/7LNpTOGheoilpLN4ZwfLEU"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 263575,
-      "name": "Know It All",
-      "url": "https://open.spotify.com/track/3Cz2bZfizFW0U8cx6t1wvh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Four More Shots Please! Season 3 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC"
-      },
-      "artists": [
-        {
-          "name": "Parth Parekh",
-          "url": "https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb"
-        },
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "Mikey McCleary",
-          "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6cyc79czzQVSa9ABu4AJhy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talking",
         "url": "https://open.spotify.com/album/5GRJMxiasbJCbqANAKBlSY"
       },
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 133781,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0agf564lzLLdk3NBEAEVgB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can I Be Ur Friend?",
         "url": "https://open.spotify.com/album/5RZiAE8EKz0giwhhgJYVDr"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 217699,
       "name": "Can I Be Ur Friend?",
       "url": "https://open.spotify.com/track/2enudDsKGps4ZGh8CVg4u0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 163232,
-      "name": "Get Dat",
-      "url": "https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu"
     },
     {
       "added_at": null,
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 133781,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/0agf564lzLLdk3NBEAEVgB"
+      "duration_ms": 154983,
+      "name": "Jump To It",
+      "url": "https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs"
     },
     {
       "added_at": null,
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 154983,
-      "name": "Jump To It",
-      "url": "https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs"
+      "duration_ms": 163232,
+      "name": "Get Dat",
+      "url": "https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu"
     },
     {
       "added_at": null,

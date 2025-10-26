@@ -1,6 +1,6 @@
 {
   "description": "The whole family will enjoy popular hits from yesterday and today!",
-  "num_followers": 580519,
+  "num_followers": 580475,
   "original_name": "Pop for Kids",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-07-02 03:49:02",
       "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
+    },
+    {
+      "added_at": "2025-07-02 03:49:02",
+      "album": {
         "name": "All I Want (From \"High School Musical: The Musical: The Series\")",
         "url": "https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 177322,
       "name": "All I Want - From \"High School Musical: The Musical: The Series\"",
       "url": "https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW"
-    },
-    {
-      "added_at": "2025-07-02 03:49:02",
-      "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
     },
     {
       "added_at": "2025-07-02 03:49:02",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-07-02 03:49:02",
       "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 257840,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62"
+    },
+    {
+      "added_at": "2025-07-02 03:49:02",
+      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 194848,
       "name": "Into the Unknown",
       "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
-    },
-    {
-      "added_at": "2025-07-02 03:49:02",
-      "album": {
-        "name": "Native",
-        "url": "https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 257840,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62"
     },
     {
       "added_at": "2025-07-02 03:49:02",
@@ -1431,46 +1431,18 @@
     {
       "added_at": "2025-07-02 03:49:02",
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+        "name": "Don't You Worry 'Bout A Thing (From \"Sing\" Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25walIhXLHe6MyWFCT6vNL"
       },
       "artists": [
         {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        },
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        },
-        {
-          "name": "James Corden",
-          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
-        },
-        {
-          "name": "Ron Funches",
-          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
-        },
-        {
-          "name": "Walt Dohrn",
-          "url": "https://open.spotify.com/artist/4hWc4epxTdb1KC3jRd1wDd"
-        },
-        {
-          "name": "Caroline Hjelt",
-          "url": "https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME"
-        },
-        {
-          "name": "Aino Jawo",
-          "url": "https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV"
-        },
-        {
-          "name": "Kunal Nayyar",
-          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
         }
       ],
-      "duration_ms": 156493,
-      "name": "Move Your Feet / D.A.N.C.E. / It's A Sunshine Day",
-      "url": "https://open.spotify.com/track/6d3edMXJpns1A0zGKkmlGw"
+      "duration_ms": 241386,
+      "name": "Don't You Worry 'Bout A Thing",
+      "url": "https://open.spotify.com/track/3PLyl3Ir75VkGgX0KEehqh"
     }
   ],
   "unique_name": "Pop for Kids",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,294 likes - 274 songs - 17 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,295 likes - 274 songs - 17 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -283,4 +283,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 273 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 274 | [Midnight Cowboy](https://open.spotify.com/track/37rtveWHuJvgD28kOHeTmW) | [Donal Leace](https://open.spotify.com/artist/2TqyblZk2JprtUzKK6MYAP) | [Donal Leace](https://open.spotify.com/album/6Z0ifJ8uTRXi7j92dFnxnz) | 4:07 |
 
-Snapshot ID: `Ab/wJgAAAADkMaGCBnSAciBLKMjNOQxL`
+Snapshot ID: `Ab/1sgAAAACNtYf6B2F7arOQoI8hrZlG`

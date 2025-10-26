@@ -2,7 +2,7 @@
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With After Cooking, winterburn, BIRRD and more
+> With winterburn, Leblanc, BIRRD and more
 
 176 songs - 13 hr 0 min
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [1968](https://open.spotify.com/track/00rxTXpdxJd0iMnP7ltuya) | [Mokado](https://open.spotify.com/artist/7HcpL1hlldlRNiycXgJrAw) | [Marius](https://open.spotify.com/album/1SIk51DJvRm5m7auCKrWwO) | 3:53 | 2025-08-12 | 2025-08-13 |
 | [1968](https://open.spotify.com/track/2y6Mqnz8rc73kzoGw4MxnL) | [Mokado](https://open.spotify.com/artist/7HcpL1hlldlRNiycXgJrAw) | [Marius](https://open.spotify.com/album/24eMqW97PMSCAhtfqEpQKf) | 3:53 | 2025-08-24 | 2025-09-01 |
-| [20 Meters](https://open.spotify.com/track/46VwMtq79p12OALWRRBgRI) | [BIRRD](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw) | [Alter Echo](https://open.spotify.com/album/2BQkaE9MgTOTbE7pedVZJu) | 4:12 | 2025-10-07 |  |
+| [20 Meters](https://open.spotify.com/track/46VwMtq79p12OALWRRBgRI) | [BIRRD](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw) | [Alter Echo](https://open.spotify.com/album/2BQkaE9MgTOTbE7pedVZJu) | 4:12 | 2025-10-07 | 2025-10-26 |
 | [54](https://open.spotify.com/track/716vLwPfdagrP3kGrYPmTh) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [54](https://open.spotify.com/album/0DcplCigDrsu8kct7KEHiZ) | 6:12 | 2025-10-10 |  |
 | [711](https://open.spotify.com/track/5r2Rbf1RxKG5ge8wbzzqOF) | [Paul Sabin](https://open.spotify.com/artist/4RLRQiIuWRZgOT0DJ0ZG5S) | [Stalk 2 \(Original Series Soundtrack \- Saison 2\)](https://open.spotify.com/album/1dfdXUFKcVdzDIXhn8Y46S) | 3:30 | 2025-08-11 | 2025-09-18 |
 | [A Name I Don't Know](https://open.spotify.com/track/7jTuokUoFx6FRojl3twhLc) | [After Cooking](https://open.spotify.com/artist/2Rmf1bXhvVw6sF5tyVsVGf) | [A Name I Don't Know](https://open.spotify.com/album/6EmABfQLdrKwJAL7Eax3sQ) | 2:42 | 2025-08-20 | 2025-09-27 |
@@ -74,7 +74,7 @@
 | [Got Soul ?](https://open.spotify.com/track/7imJbaRT6Krgc28m738sK5) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Got Soul ?](https://open.spotify.com/album/35vQABxuXZSE0uzcyAZbBt) | 3:28 | 2025-08-09 | 2025-09-01 |
 | [Gravity](https://open.spotify.com/track/1HCiKjfdSRGEDtyb1bXwRF) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Gravity](https://open.spotify.com/album/0Yur9nH0TXKubnfNM5YAKS) | 3:57 | 2025-08-06 | 2025-08-07 |
 | [Great Plains](https://open.spotify.com/track/2ZxcZhExAOda6PMI7P1l3u) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Songs to Try](https://open.spotify.com/album/4Gy6ybk7wQ7Veb40QHZHAX) | 8:18 | 2025-07-22 |  |
-| [Holocene](https://open.spotify.com/track/2BUcGUp1TUAOllgxRg6u2Z) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [Anna Metko](https://open.spotify.com/artist/5tRkZWpev6swx7Nl5cRe2r) | [Songs to Try](https://open.spotify.com/album/4Gy6ybk7wQ7Veb40QHZHAX) | 7:18 | 2025-07-22 | 2025-10-21 |
+| [Holocene](https://open.spotify.com/track/2BUcGUp1TUAOllgxRg6u2Z) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [Anna Metko](https://open.spotify.com/artist/5tRkZWpev6swx7Nl5cRe2r) | [Songs to Try](https://open.spotify.com/album/4Gy6ybk7wQ7Veb40QHZHAX) | 7:18 | 2025-07-22 |  |
 | [Holocene, Pt\. II](https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Holocene, Pt\. II](https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys) | 6:54 | 2025-07-22 |  |
 | [HOME](https://open.spotify.com/track/7gOyfkVFbzlMSozTcB6Ami) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [HOME](https://open.spotify.com/album/0sVSukDxUwtyQiU7jYAN2m) | 7:05 | 2025-08-14 | 2025-08-15 |
 | [I Am Human](https://open.spotify.com/track/1AUmprQhFQT2iEijMQOxIX) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [I Am Human](https://open.spotify.com/album/4EBT8zKxfovEcG7J85jSgF) | 5:00 | 2025-08-07 | 2025-08-08 |
@@ -91,7 +91,7 @@
 | [Laminar](https://open.spotify.com/track/3c4KwEAWynCZs9QcxxMemz) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Laminar](https://open.spotify.com/album/5OL2ld2GERvCSirYeFkWJi) | 6:02 | 2025-07-22 | 2025-10-23 |
 | [Laminar \- Moonbootica Remix](https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf) | [Laminar \(Moonbootica Remix\)](https://open.spotify.com/album/4yED6qv5FOnQuqw7bmmPPD) | 6:35 | 2025-08-04 |  |
 | [Light Odyssey](https://open.spotify.com/track/7tlSFbaDVYVA8K0e3AEvzc) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Cycle](https://open.spotify.com/album/5GxVG9MEdZnwiYyN2oEIQP) | 4:08 | 2025-09-05 | 2025-10-25 |
-| [Loss](https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Less Hate](https://open.spotify.com/artist/3UtxZzXnYIRXpRPZM4ubbZ) | [Loss/Bow To The Rain](https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV) | 3:45 | 2025-10-22 | 2025-10-23 |
+| [Loss](https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Less Hate](https://open.spotify.com/artist/3UtxZzXnYIRXpRPZM4ubbZ) | [Loss/Bow To The Rain](https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV) | 3:45 | 2025-10-22 |  |
 | [Lost in the Moment](https://open.spotify.com/track/4lelrqBlpDCeHAYBpr12LH) | [Nightwhisper](https://open.spotify.com/artist/01CKNofaWoejTw9J0WMkOa) | [Lost in the Moment](https://open.spotify.com/album/7mQSk6e3NWw8qQyXW7n5Ai) | 2:11 | 2025-09-20 |  |
 | [Low of Solipsism](https://open.spotify.com/track/6Or6UswDe8ZJZGWjBwdwfj) | [Leblanc](https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb) | [Low of Solipsism](https://open.spotify.com/album/19aLdF2njQZa4rBYAEJueI) | 3:00 | 2025-09-28 | 2025-09-29 |
 | [Loyalty](https://open.spotify.com/track/0Gz7SiwdBUDaBlZWGyKEu1) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [FOREVER FRIENDS](https://open.spotify.com/album/73N07eTgKpX3ucDcjRrrWE) | 3:18 | 2025-10-02 | 2025-10-15 |
@@ -136,7 +136,7 @@
 | [Sf](https://open.spotify.com/track/1EHBSrr2pavrLkYwHn9IHD) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL) | [Echoes](https://open.spotify.com/album/1oyF52n5Za9DFmSC2t0KMN) | 4:29 | 2025-07-26 | 2025-10-25 |
 | [Shapes in the Spray](https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Shapes in the Spray](https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf) | 7:09 | 2025-07-22 |  |
 | [Sirene](https://open.spotify.com/track/3T2oIu6ppEekNvlYQHL8y2) | [Paul Sabin](https://open.spotify.com/artist/4RLRQiIuWRZgOT0DJ0ZG5S) | [Stalk 2 \(Original Series Soundtrack \- Saison 2\)](https://open.spotify.com/album/1dfdXUFKcVdzDIXhn8Y46S) | 2:49 | 2025-07-22 | 2025-10-22 |
-| [Solace](https://open.spotify.com/track/5r65zQZEupyuEO0HxPOIyn) | [3x3cute](https://open.spotify.com/artist/1qk0RlT0ZQcUcozAwjQkbP) | [Solace](https://open.spotify.com/album/5ySsbBRUQH3aHHnPesNlS7) | 2:20 | 2025-07-29 |  |
+| [Solace](https://open.spotify.com/track/5r65zQZEupyuEO0HxPOIyn) | [3x3cute](https://open.spotify.com/artist/1qk0RlT0ZQcUcozAwjQkbP) | [Solace](https://open.spotify.com/album/5ySsbBRUQH3aHHnPesNlS7) | 2:20 | 2025-07-29 | 2025-10-26 |
 | [Some Garbage](https://open.spotify.com/track/2CnXzEqWKTFZavG50Tonjf) | [After Cooking](https://open.spotify.com/artist/2Rmf1bXhvVw6sF5tyVsVGf) | [Some Garbage](https://open.spotify.com/album/5wPsBEW4x8G2bHedOTdZCp) | 3:11 | 2025-07-22 | 2025-08-09 |
 | [Space](https://open.spotify.com/track/3Sc1sXkHQeGgs5125wLfqD) | [GONE](https://open.spotify.com/artist/4pKLG10xJBXQ5SWhBmcT8J) | [Sources](https://open.spotify.com/album/7CgkMkiwG5Vf5UHAGZPdDT) | 3:04 | 2025-07-22 |  |
 | [Space Bunny](https://open.spotify.com/track/1FTpgO7f4gWEpKwSUo7tHE) | [Stoto](https://open.spotify.com/artist/41kcR4JVrpn1xifg8lM2Fu) | [Lost](https://open.spotify.com/album/66BjO16RjKLLohIOsfCpnx) | 7:52 | 2025-07-29 | 2025-10-22 |
@@ -157,7 +157,7 @@
 | [The White Duke](https://open.spotify.com/track/4LxPAOJOpHmBXxoUBjGkBT) | [Paul Sabin](https://open.spotify.com/artist/4RLRQiIuWRZgOT0DJ0ZG5S) | [Stalk 2 \(Original Series Soundtrack \- Saison 2\)](https://open.spotify.com/album/1dfdXUFKcVdzDIXhn8Y46S) | 6:52 | 2025-07-22 | 2025-10-22 |
 | [there is nothing to be afraid of](https://open.spotify.com/track/3hHbItjQktd8Ycyam2TZIJ) | [winterburn](https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2) | [there is nothing to be afraid of](https://open.spotify.com/album/2utt4YRM6kldRcEs3VX2Rp) | 4:40 | 2025-07-26 | 2025-09-23 |
 | [Things](https://open.spotify.com/track/1HfZcA8qWGZZF4sWcP575R) | [After Cooking](https://open.spotify.com/artist/2Rmf1bXhvVw6sF5tyVsVGf), [Blue Man Group](https://open.spotify.com/artist/7zHhscQ9kdR9fNGAffWz6z) | [Things](https://open.spotify.com/album/1buPWw7vjwvRtYLPazGsdd) | 4:43 | 2025-10-05 | 2025-10-22 |
-| [Timeless](https://open.spotify.com/track/5kNraerCQo5v4pIhPcyddH) | [Leblanc](https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb) | [New Era](https://open.spotify.com/album/0tVYTAD2f4aHk9S1ayjsTi) | 3:52 | 2025-07-30 | 2025-10-24 |
+| [Timeless](https://open.spotify.com/track/5kNraerCQo5v4pIhPcyddH) | [Leblanc](https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb) | [New Era](https://open.spotify.com/album/0tVYTAD2f4aHk9S1ayjsTi) | 3:52 | 2025-07-30 |  |
 | [To the Other Side](https://open.spotify.com/track/0WQvuT8ShwwdwCAy86vjvA) | [This Other Space](https://open.spotify.com/artist/6lhdbR7pr8RR29VgTh2lqT) | [To the Other Side](https://open.spotify.com/album/5o5mo6GTWRfGwssThNcnij) | 3:18 | 2025-09-29 | 2025-10-18 |
 | [Too Far](https://open.spotify.com/track/5VrX2D9vVses20gktDdU4L) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Too Far](https://open.spotify.com/album/1oQpfbbTQkUP5S53xPhWe7) | 3:58 | 2025-09-20 | 2025-10-01 |
 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 | 2025-09-02 | 2025-10-18 |
@@ -182,7 +182,7 @@
 | [White Flower](https://open.spotify.com/track/4p4DDw6j5D14J8OOnalkqj) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Songs to Try](https://open.spotify.com/album/4Gy6ybk7wQ7Veb40QHZHAX) | 7:09 | 2025-07-22 | 2025-10-25 |
 | [Wind Runner](https://open.spotify.com/track/6uobAqU4RKxlHkFJ7aH3XJ) | [Douran](https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ) | [Wind Runner](https://open.spotify.com/album/4yxndJO9vyjopsDlms5E2n) | 4:40 | 2025-08-23 | 2025-09-02 |
 | [you are not like the others](https://open.spotify.com/track/34xGE39RLD5Pe3dKUD876g) | [winterburn](https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2) | [you are not like the others](https://open.spotify.com/album/2eXq8ZazenrhwO2PInwnui) | 3:43 | 2025-07-22 | 2025-10-20 |
-| [You Know \(We Won't Remember\)](https://open.spotify.com/track/15W32cDfIWtXMxcywcUlhF) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [BRØR](https://open.spotify.com/artist/07UPjICGizU8glJbzyKxax) | [Perfect Opposure](https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY) | 5:00 | 2025-07-22 |  |
+| [You Know \(We Won't Remember\)](https://open.spotify.com/track/15W32cDfIWtXMxcywcUlhF) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [BRØR](https://open.spotify.com/artist/07UPjICGizU8glJbzyKxax) | [Perfect Opposure](https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY) | 5:00 | 2025-07-22 | 2025-10-26 |
 | [Zora \- Birrd Remix](https://open.spotify.com/track/1NLnxStnWIpyvpPK1J4s4F) | [Makoto San](https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr), [BIRRD](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw) | [Zora \(Birrd Remix\)](https://open.spotify.com/album/4jU8sogdpnuUuQl6PpBCDP) | 3:35 | 2025-10-04 | 2025-10-24 |
 
 \*This playlist was first scraped on 2025-07-22. Prior content cannot be recovered.

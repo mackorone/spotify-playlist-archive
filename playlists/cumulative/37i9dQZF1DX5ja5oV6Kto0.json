@@ -9345,6 +9345,32 @@
     },
     {
       "album": {
+        "name": "Kinda Girl",
+        "url": "https://open.spotify.com/album/5HR0TsI7G990rFx9vPZVPm"
+      },
+      "artists": [
+        {
+          "name": "Krizbeatz",
+          "url": "https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT"
+        },
+        {
+          "name": "Liya",
+          "url": "https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Kinda Girl",
+      "url": "https://open.spotify.com/track/1eQK7snhG7m9XdXVjqjyBg"
+    },
+    {
+      "album": {
         "name": "King Tubbys Meets Rockers Uptown",
         "url": "https://open.spotify.com/album/46kQluxaaZ7LhKGnm3bOal"
       },
@@ -19046,7 +19072,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 167058,
       "name": "WAY BACK",
       "url": "https://open.spotify.com/track/16xpoMs2nXaHNS5k1tXGGg"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,738 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,754 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 35 | [Kanchimmum Neram](https://open.spotify.com/track/6YlXdRDhxubuhaa4kusRCU) | [Amritha Sunilkumar](https://open.spotify.com/artist/4WzJujnCSgbu1ANx6WA2Li), [Derby Tomhills](https://open.spotify.com/artist/2cdukNqEfEWuFupQIfjen8), [Javad Ali](https://open.spotify.com/artist/654obrgvs7v0Bj4QS8XxeM) | [Kanchimmum Neram](https://open.spotify.com/album/7d9UJP5xscYyRn8KIRa8Rc) | 4:14 |
 | 36 | [Mallu Funk](https://open.spotify.com/track/2hnKY2EenI3ZBKNlHDoI9H) | [RHYTHOM](https://open.spotify.com/artist/4TRwdVEDrdpaeYiP7iohlu) | [Mallu Funk](https://open.spotify.com/album/5ku4rA9Rdms1XtKfOW7xHt) | 3:16 |
 | 37 | [You](https://open.spotify.com/track/1GaJivxwPGqooXbPWkuT2I) | [Anurag Vinod](https://open.spotify.com/artist/1A6anyCbedTpsecKOWxPgy), [Ajin Vijayan](https://open.spotify.com/artist/6yufwH6FwuhuVwYhXTtKyb), [Swathy Sang](https://open.spotify.com/artist/28yT2Df1751DCKtgdnyx4w) | [You](https://open.spotify.com/album/10VAucGQfXiaN3ySb3MaJH) | 2:20 |
-| 38 | [My Life My Way](https://open.spotify.com/track/1720fI0KdAg8M0uNmKuQZl) | [YadaL Arafa Zayn](https://open.spotify.com/artist/1n3MEa1WuEn1INKThAJcth), [Raniaah RAH](https://open.spotify.com/artist/0eIFw7qWDoCvJrREz56vLo), [Joardean Ousepp](https://open.spotify.com/artist/2vvprsmi2CfeHM9uWPeOzx) | [My Life My Way](https://open.spotify.com/album/0vj9OtLQBo2WvwOyMml4wJ) | 2:39 |
+| 38 | [My Life My Way](https://open.spotify.com/track/1720fI0KdAg8M0uNmKuQZl) | [Joardean Ousepp](https://open.spotify.com/artist/2vvprsmi2CfeHM9uWPeOzx), [Raniaah RAH](https://open.spotify.com/artist/0eIFw7qWDoCvJrREz56vLo), [Rickeysiva](https://open.spotify.com/artist/1HssdaUPj5IERhuMZGyxwK) | [My Life My Way](https://open.spotify.com/album/0vj9OtLQBo2WvwOyMml4wJ) | 2:39 |
 | 39 | [Never Mind](https://open.spotify.com/track/1kxIkWEbiOatIXGHa0McZ7) | [Derby Tomhills](https://open.spotify.com/artist/2cdukNqEfEWuFupQIfjen8), [Hijaz](https://open.spotify.com/artist/3sEu2YHVQXAjHylWx6prpI) | [Never Mind](https://open.spotify.com/album/4hpyIzKVclubKEJE8zpXkE) | 2:31 |
 | 40 | [Thirinjin](https://open.spotify.com/track/2TxrGGH6GEnt0MTsR9Xslw) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Thirinjin](https://open.spotify.com/album/44RR3s7UnD0gnnyZoGBiMX) | 3:02 |
 | 41 | [Kanavukalal](https://open.spotify.com/track/6gUOLwg7xfzIt2vhfVmz3l) | [Ewinikz](https://open.spotify.com/artist/5gfzutNloSkBDuLVikIUN8), [Suchith Surendran](https://open.spotify.com/artist/3Dmkg6TaEsyJ9n8grHJl5T), [Godwin Fernandez](https://open.spotify.com/artist/5vTeO5rzVIjdqNv7RTmB43) | [Kanavukalal](https://open.spotify.com/album/2UY6ahma7nu6e1FmN0W6CA) | 1:12 |

@@ -1577,6 +1577,28 @@
     },
     {
       "album": {
+        "name": "DRAHEM",
+        "url": "https://open.spotify.com/album/1m5LKzxwpOORztQjbAJe7r"
+      },
+      "artists": [
+        {
+          "name": "Hassa1",
+          "url": "https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr"
+        },
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161195,
+      "name": "DRAHEM",
+      "url": "https://open.spotify.com/track/25h9K4A81FK9sCZqdAxxQK"
+    },
+    {
+      "album": {
         "name": "DRAMA",
         "url": "https://open.spotify.com/album/3eqisrlNJL0vyCAezWELR3"
       },
@@ -2038,6 +2060,28 @@
       "duration_ms": 198000,
       "name": "Guardia",
       "url": "https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql"
+    },
+    {
+      "album": {
+        "name": "G\u00e9n\u00e9ration impolie",
+        "url": "https://open.spotify.com/album/6DQlLPdz0HCOL2U3CNtQOk"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141389,
+      "name": "G\u00e9n\u00e9ration impolie",
+      "url": "https://open.spotify.com/track/1REP1cQ1YarUEvQ5krpO53"
     },
     {
       "album": {
@@ -2803,7 +2847,7 @@
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 157090,
+      "duration_ms": 159335,
       "name": "Laho II",
       "url": "https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c"
     },
@@ -3538,7 +3582,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 219293,
       "name": "Mimi",
       "url": "https://open.spotify.com/track/3iqcqAwtnurPNJAcvwVIyt"
@@ -4174,7 +4218,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 215813,
       "name": "Pa Pa Paw",
       "url": "https://open.spotify.com/track/7heoPFrtuH6JU6AcfzjWHp"
@@ -4910,7 +4954,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
@@ -4954,7 +4998,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 158480,
       "name": "Shiny",
       "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
@@ -5266,10 +5310,32 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 168215,
       "name": "SONGI SONGI",
       "url": "https://open.spotify.com/track/4W3d4USxP8bYXBLMlzT63S"
+    },
+    {
+      "album": {
+        "name": "SONGI SONGI (ARABIC REMIX)",
+        "url": "https://open.spotify.com/album/10YKG6MVhJJPZeRKZqbIA9"
+      },
+      "artists": [
+        {
+          "name": "SALIMA CHICA",
+          "url": "https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw"
+        },
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "SONGI SONGI - ARABIC REMIX",
+      "url": "https://open.spotify.com/track/103iHzuUptY8rjReB2i9rj"
     },
     {
       "album": {
@@ -5503,6 +5569,36 @@
     },
     {
       "album": {
+        "name": "Thunes",
+        "url": "https://open.spotify.com/album/4HA7CScPa22I7xf2eoaZsg"
+      },
+      "artists": [
+        {
+          "name": "GP Explorer",
+          "url": "https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252376,
+      "name": "Thunes",
+      "url": "https://open.spotify.com/track/5WdqTuyAWqIkNJN5L2wlHO"
+    },
+    {
+      "album": {
         "name": "Ti RIRI",
         "url": "https://open.spotify.com/album/1aMM9FxV9p9ApIGge4m3od"
       },
@@ -5602,6 +5698,28 @@
       "duration_ms": 139420,
       "name": "Totopika",
       "url": "https://open.spotify.com/track/6eb5omKnWjZabRNYVj3Lsj"
+    },
+    {
+      "album": {
+        "name": "Tour du monde",
+        "url": "https://open.spotify.com/album/0S05qjbRcOueLjoZZDgVZO"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171489,
+      "name": "Tour du monde",
+      "url": "https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX"
     },
     {
       "album": {
@@ -5949,6 +6067,28 @@
     },
     {
       "album": {
+        "name": "Who\u2019s Dat Girl",
+        "url": "https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172912,
+      "name": "Who\u2019s Dat Girl",
+      "url": "https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC"
+    },
+    {
+      "album": {
         "name": "Wine",
         "url": "https://open.spotify.com/album/3HvRgamjEvg5mSB6ergRjc"
       },
@@ -6138,7 +6278,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 199586,
       "name": "Zarzour",
       "url": "https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy"

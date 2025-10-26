@@ -1,12 +1,12 @@
 {
   "description": "This is Osunlade. The essential tracks, all in one playlist.",
-  "num_followers": 3663,
+  "num_followers": 3668,
   "original_name": "This Is Osunlade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAACIDeHlea05TrDYXtlebaZE",
+  "snapshot_id": "aPrBgAAAAAA1aPo+KnVny+uhQPa03eBG",
   "tracks": [
     {
       "added_at": null,
@@ -243,18 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
+        "name": "The Quieter You Become, the More You Hear",
+        "url": "https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO"
       },
       "artists": [
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Mike Steva",
+          "url": "https://open.spotify.com/artist/4hI9hUPsu9oDID6Sk9JFV6"
         }
       ],
-      "duration_ms": 126900,
-      "name": "Gett Loww",
-      "url": "https://open.spotify.com/track/6xWMBSdce2AZvlB1fRn8WE"
+      "duration_ms": 287043,
+      "name": "Recovery Music",
+      "url": "https://open.spotify.com/track/6oDQIpokadWkrJk3t5V6zB"
     },
     {
       "added_at": null,
@@ -287,22 +291,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Quieter You Become, the More You Hear",
-        "url": "https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO"
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
       },
       "artists": [
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Mike Steva",
-          "url": "https://open.spotify.com/artist/4hI9hUPsu9oDID6Sk9JFV6"
         }
       ],
-      "duration_ms": 287043,
-      "name": "Recovery Music",
-      "url": "https://open.spotify.com/track/6oDQIpokadWkrJk3t5V6zB"
+      "duration_ms": 126900,
+      "name": "Gett Loww",
+      "url": "https://open.spotify.com/track/6xWMBSdce2AZvlB1fRn8WE"
     },
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tambores Te Llaman",
-        "url": "https://open.spotify.com/album/35lL1deAL0vwnkfgO3Abnq"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Carlos Mena",
-          "url": "https://open.spotify.com/artist/4Pcd58Q0tR2mXsJuBAb8Pl"
-        }
-      ],
-      "duration_ms": 379360,
-      "name": "Los Tambores Te Llaman - Original Mix",
-      "url": "https://open.spotify.com/track/6og7BbvvSqRR08CiWhuDBN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chocolate Puddin'",
         "url": "https://open.spotify.com/album/27xHJMPWVqDvcSwhuknfH7"
       },
@@ -479,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elements Beyond",
+        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 470506,
+      "name": "April",
+      "url": "https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MOSS",
         "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
       },
@@ -495,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Human Beings (Remixes)",
-        "url": "https://open.spotify.com/album/0aXYi8WyRApE9RztbNlc1F"
+        "name": "Los Tambores Te Llaman",
+        "url": "https://open.spotify.com/album/35lL1deAL0vwnkfgO3Abnq"
       },
       "artists": [
         {
@@ -504,29 +500,13 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         },
         {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+          "name": "Carlos Mena",
+          "url": "https://open.spotify.com/artist/4Pcd58Q0tR2mXsJuBAb8Pl"
         }
       ],
-      "duration_ms": 414247,
-      "name": "Human Beings - Atjazz Remix",
-      "url": "https://open.spotify.com/track/3QvAiFAzy4TwUGyMtqblIH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elements Beyond",
-        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 470506,
-      "name": "April",
-      "url": "https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A"
+      "duration_ms": 379360,
+      "name": "Los Tambores Te Llaman - Original Mix",
+      "url": "https://open.spotify.com/track/6og7BbvvSqRR08CiWhuDBN"
     },
     {
       "added_at": null,
@@ -547,6 +527,26 @@
       "duration_ms": 382274,
       "name": "Let's Invade the Amazon - Yoruba Soul Mix",
       "url": "https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Human Beings (Remixes)",
+        "url": "https://open.spotify.com/album/0aXYi8WyRApE9RztbNlc1F"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        }
+      ],
+      "duration_ms": 414247,
+      "name": "Human Beings - Atjazz Remix",
+      "url": "https://open.spotify.com/track/3QvAiFAzy4TwUGyMtqblIH"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Basic Sketches For Beginners",
+        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 590030,
+      "name": "Auto Machine",
+      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inner Garden",
         "url": "https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 169349,
       "name": "Intro (Solemait)",
       "url": "https://open.spotify.com/track/0yUIO5AhRDop02PKzsMn4P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Basic Sketches For Beginners",
-        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 590030,
-      "name": "Auto Machine",
-      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
     },
     {
       "added_at": null,

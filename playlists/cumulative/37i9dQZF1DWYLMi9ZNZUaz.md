@@ -2,9 +2,9 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Low G
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-318 songs - 18 hr 39 min
+319 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Hồng không gai](https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [SpideyBoy](https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 3:44 | 2024-05-07 |  |
 | [I'M THINKING ABOUT YOU \(feat\. RHYDER, WEAN, Đức Phúc, Hùng Huỳnh & tlinh\)](https://open.spotify.com/track/2AA5DB0Ehi28UdYrAU9xnA) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8), [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs), [Hùng Huỳnh](https://open.spotify.com/artist/6LBaSwUNOiuHp1WqbdrZO9), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ANH TRAI "SAY HI", Tập 8](https://open.spotify.com/album/1VBXkt46HafTjxlj1mUB1A) | 4:38 | 2024-08-27 | 2025-04-01 |
 | [IDOOMYTHANG](https://open.spotify.com/track/7kveMI8XwHJTpdQa4oF7yL) | [THANHDRAW](https://open.spotify.com/artist/3IX4Pb7ZXycI23PamK8ng8) | [IDOOMYTHANG](https://open.spotify.com/album/3H7Z2Z9rhP6DLEdk8QrOIl) | 2:14 | 2023-12-07 | 2023-12-11 |
+| [In Love](https://open.spotify.com/track/7uUuftbcr94tzGOCJSM25u) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [L2K](https://open.spotify.com/album/1x5AiQ50WfsWCryL3zvdLx) | 3:20 | 2025-10-23 |  |
 | [Karik xin chào](https://open.spotify.com/track/4WAHjjURfcrpo5YN6lfsk0) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [GENfest 2024 liners](https://open.spotify.com/album/6jSwdu7TgJd74f7qwpzlVd) | 0:29 | 2024-11-18 | 2024-11-25 |
 | [Khi 22](https://open.spotify.com/track/6BrkVzB76maKNqcryCmd1c) | [Ricky Star](https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4), [Blacka](https://open.spotify.com/artist/0JggLWdYe1p6oHZoHpyPSD) | [ĐÔI CHÂN ĐI](https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs) | 4:08 | 2025-06-17 | 2025-07-14 |
 | [Khi Mà](https://open.spotify.com/track/0Lf0ydJp4nbcEkYgPtIUuD) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Khi Mà](https://open.spotify.com/album/0vFLTL5SnRlmmdwjQTwHa0) | 3:48 | 2024-03-22 | 2024-10-04 |
@@ -160,7 +161,7 @@
 | [Lướt Trên Con Xe \(feat\. Blacka\)](https://open.spotify.com/track/277NJkEbAQPmSAsm2ZTz46) | [Cường Seven](https://open.spotify.com/artist/6uPQqRyJMiXn3lHCh0oJIt), [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Lướt](https://open.spotify.com/album/4rVaK1jtsm2vqueVG8um6u) | 3:12 | 2024-11-21 | 2024-11-29 |
 | [Lệ Lưu Ly](https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [DT TAP RAP](https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj) | [Lệ Lưu Ly](https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34) | 3:20 | 2023-10-19 |  |
 | [Lối Nhỏ](https://open.spotify.com/track/25edeHHueINMguqu9emCyV) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Phương Anh Đào](https://open.spotify.com/artist/6ZNAsA4h8V7SOLtiK8Vfav) | [Lối Nhỏ](https://open.spotify.com/album/77yV2mEkJaZ4oLu1M4fe5N) | 4:12 | 2023-10-19 | 2024-04-19 |
-| [Lối Sống](https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:10 | 2025-04-01 |  |
+| [Lối Sống](https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:10 | 2025-04-01 | 2025-10-26 |
 | [Lớn Rồi](https://open.spotify.com/track/0FjmyK9Z2ymS5HbUvrdeL5) | [DSK](https://open.spotify.com/artist/0KqWWEbDa21psQwESpf3pD) | [Lớn Rồi](https://open.spotify.com/album/1aV6gmvYoIWNjzS7yOo4mG) | 3:21 | 2024-03-19 | 2024-05-08 |
 | [Lựa Chọn Của Em](https://open.spotify.com/track/5S1qhBgTprx5CFkLmmU95i) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm), [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [Đậu Tất Đạt](https://open.spotify.com/artist/37yCp3F1wG0gNrnaLkIdDV) | [Lựa Chọn Của Em](https://open.spotify.com/album/2v1ZACaUYprXiqCOU7sEng) | 4:07 | 2024-06-10 | 2024-11-08 |
 | [magick \- feat\. Táo](https://open.spotify.com/track/1RqTiIkl4dTitoanZYEx9u) | [RHYME SO](https://open.spotify.com/artist/7dtbEudF1BHLVrVtwxxKgm), [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [magick \(feat\. Táo\)](https://open.spotify.com/album/38ZKbjXwT4eOYd7KU87akr) | 3:37 | 2023-10-29 | 2023-10-31 |

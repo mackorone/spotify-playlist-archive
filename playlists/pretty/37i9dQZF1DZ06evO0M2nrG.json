@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAADAFmxYGbIomx8HroqP9mPM",
+  "snapshot_id": "aPrBgAAAAABUdnynUtFc9MijxPFubkMd",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CALIDOSA",
+        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 158217,
+      "name": "Hola Mi Amor",
+      "url": "https://open.spotify.com/track/7L3Z21b1wuEO1Os5xgSE6G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dif\u00edcile",
         "url": "https://open.spotify.com/album/6t85fg00KndK1zWBdyj8ZY"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 152173,
       "name": "Dif\u00edcile",
       "url": "https://open.spotify.com/track/12R30HT6UksiNj4ry0hiuy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CALIDOSA",
-        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 158217,
-      "name": "Hola Mi Amor",
-      "url": "https://open.spotify.com/track/7L3Z21b1wuEO1Os5xgSE6G"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 192469,
-      "name": "La Rutina",
-      "url": "https://open.spotify.com/track/4b1bx2WDzy9UHu500DnEx9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALIDOSA",
         "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 195453,
       "name": "La Indocumentada",
       "url": "https://open.spotify.com/track/6d0ffzIcbMVvzIqhaonSlT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 192469,
+      "name": "La Rutina",
+      "url": "https://open.spotify.com/track/4b1bx2WDzy9UHu500DnEx9"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/1g6fJbLPAZgk1Hrl1EVzK5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cali Buenaventura",
         "url": "https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 198238,
       "name": "Cali Buenaventura",
       "url": "https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/1g6fJbLPAZgk1Hrl1EVzK5"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CALIDOSA",
+        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Desaparecida",
+      "url": "https://open.spotify.com/track/2OkqOqBN47BTMu7B5S72MA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 209669,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/0FEy5me9ZbbCVPMdPITNhi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CALIDOSA",
-        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Desaparecida",
-      "url": "https://open.spotify.com/track/2OkqOqBN47BTMu7B5S72MA"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
       "duration_ms": 168720,
       "name": "Contigo Hasta El Final",
       "url": "https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bolerito",
-        "url": "https://open.spotify.com/album/17SF0NRtHRNGvnkrTxrveL"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 167710,
-      "name": "Bolerito",
-      "url": "https://open.spotify.com/track/7zzMZoUKpSCTbqYRdQc91b"
     },
     {
       "added_at": null,
@@ -804,9 +788,9 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 126764,
-      "name": "Verdad Verdad",
-      "url": "https://open.spotify.com/track/60oUYDwPmcss4FROevpV7d"
+      "duration_ms": 167710,
+      "name": "Bolerito",
+      "url": "https://open.spotify.com/track/54PJkhdXy1h5qOzMfy7WG2"
     },
     {
       "added_at": null,
@@ -883,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
+        "url": "https://open.spotify.com/album/4r5UeVObvgWb1a6L1tXonA"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
+      "url": "https://open.spotify.com/track/3CpQ9L1ReRdPXIhxB5TDWt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Modo Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/3IKPdMbD9JAiXMsWB4rXWE"
       },
@@ -903,26 +907,6 @@
       "duration_ms": 183177,
       "name": "Modo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/5pUedtLoLoZhisVtY7zhyy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
-        "url": "https://open.spotify.com/album/4r5UeVObvgWb1a6L1tXonA"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
-      "url": "https://open.spotify.com/track/3CpQ9L1ReRdPXIhxB5TDWt"
     },
     {
       "added_at": null,

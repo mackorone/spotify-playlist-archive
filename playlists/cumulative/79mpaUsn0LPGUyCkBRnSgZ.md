@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-945 songs - 2 day 14 hr 41 min
+949 songs - 2 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Cold Chillin' Cold Chillin'](https://open.spotify.com/track/1m3wtu9X4ReNFAE2fxH48j) | [Bomb the Music Industry!](https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7) | [SCRAMBLES](https://open.spotify.com/album/1SlZCvQYF5aKtFiFd65dVY) | 1:45 | 2022-04-19 | 2024-01-20 |
 | [Come On Over Here](https://open.spotify.com/track/1GsC3kC4vBEPt8ETD5W4CB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 3:37 | 2023-05-21 |  |
 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 | 2022-08-07 | 2023-12-14 |
+| [Coming Up \- 2011 Remaster](https://open.spotify.com/track/3HCQPIYsCT6JBf79KdYtA4) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II](https://open.spotify.com/album/7eEYDv4xof4uQei8Y6SCzs) | 3:51 | 2025-10-26 |  |
 | [Common Sense](https://open.spotify.com/track/1k50Wd4FpBpp0v1Rkuv62W) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3) | 4:01 | 2023-12-23 |  |
 | [Conditions Of A Punk](https://open.spotify.com/track/2viUGuVwPAWIZXlOJHLHoO) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Conditions Of A Punk](https://open.spotify.com/album/4mdZ4AxMYHZk3qE5jBmlzM) | 3:36 | 2023-03-19 |  |
 | [Conservation of Two](https://open.spotify.com/track/1EfjX1u3coTBbmkFofxLoj) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 2:41 | 2023-01-07 |  |
@@ -248,6 +249,7 @@
 | [Drowned World / Substitute for Love](https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:08 | 2025-01-15 |  |
 | [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 | 2023-03-17 | 2023-04-03 |
 | [DUSTCUTTER](https://open.spotify.com/track/1BJjqtZir1VxnFMe4E668u) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 2:44 | 2024-03-01 |  |
+| [Dusty](https://open.spotify.com/track/0TR6bZ12pF2qC0XqpuXYkY) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:05 | 2025-10-26 |  |
 | [Earth Worship Intro](https://open.spotify.com/track/713DQ7jH7YpNoPyLffdCPT) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Earth Worship](https://open.spotify.com/album/2y5dQYzr7Q4me0JhXU2RcD) | 0:18 | 2024-01-03 |  |
 | [Earthquake](https://open.spotify.com/track/1X9468G9BtZSdjYGV3QBWm) | [Tenci](https://open.spotify.com/artist/5ptfrHC6idq4KnsXBk5tup) | [My Heart Is An Open Field](https://open.spotify.com/album/6Ks507WDVnwn2p9VANI2No) | 4:14 | 2024-02-07 |  |
 | [Easier](https://open.spotify.com/track/416e0SQe40tOyhQt9krWNz) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Yellow House](https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta) | 3:43 | 2023-06-19 | 2024-04-03 |
@@ -697,6 +699,7 @@
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-03-17 |  |
 | [S&M](https://open.spotify.com/track/2u02eLj96Atd6TBxkH9YvN) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/35dJsQDEr549O5DTFUy3uM) | 4:03 | 2024-03-03 |  |
 | [Safe and Sound \(WWW\)](https://open.spotify.com/track/2OPmeyf31LlcIpYcJ4aegt) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Woman Worldwide](https://open.spotify.com/album/7E3c9dmZ1KnZOQLZTgRqWx) | 7:32 | 2024-03-12 |  |
+| [Sailor](https://open.spotify.com/track/05NKjLoBj7RSB7FmBHD389) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:49 | 2025-10-26 |  |
 | [Salad Days](https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 2:25 | 2023-04-26 | 2023-12-14 |
 | [Sauna](https://open.spotify.com/track/1DSl7kRrdWhwntiK6HOLVY) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 3:15 | 2023-03-25 | 2024-01-22 |
 | [Save Me](https://open.spotify.com/track/6pVg5dJBMeJylAHUZqkNCw) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Ingénue \(25th Anniversary Edition\)](https://open.spotify.com/album/1XHEQqyatYvfK5cEJfkPeK) | 4:32 | 2025-10-19 |  |
@@ -908,6 +911,7 @@
 | [Welcome](https://open.spotify.com/track/0wFRKmul13N64vEEnKHO2a) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [SHINBANGUMI](https://open.spotify.com/album/6bgUdri7frTG9Aqo3Xusw7) | 0:40 | 2025-07-23 |  |
 | [Welcome to \(Drifter\)](https://open.spotify.com/track/5ZjaSKUMpSaXVwwFJrGL4O) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [Out of the Hospital and Into the Morgue](https://open.spotify.com/album/5HiftUDco0SH7jJmTFCvGm) | 2:04 | 2023-05-13 | 2023-05-15 |
 | [Welcome To My Island](https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:52 | 2023-02-15 | 2023-05-23 |
+| [Welcome To The Working Week](https://open.spotify.com/track/39rkLB2TEENIvhwAlRC5ae) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 1:23 | 2025-10-26 |  |
 | [went to meet her \(intro\)](https://open.spotify.com/track/2RLKAk5EDhM4gXxIfpE58c) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 2:31 | 2025-06-28 |  |
 | [What I Am](https://open.spotify.com/track/6hHUiDe461VUoTHnsplRYs) | [Edie Brickell & New Bohemians](https://open.spotify.com/artist/4awU3JRQXIYoxabdwO92AU) | [Shooting Rubberbands At The Stars](https://open.spotify.com/album/2oZzKVi2mqkQnZOad6DXMw) | 4:56 | 2024-01-15 |  |
 | [What They Call Us](https://open.spotify.com/track/71ydsZmj3wLbdMkA6FPZIy) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 4:27 | 2023-03-11 | 2024-01-30 |

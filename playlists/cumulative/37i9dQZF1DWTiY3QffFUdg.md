@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-306 songs - 15 hr 57 min
+307 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Energy](https://open.spotify.com/track/6CebMvPnu1c7CPCAaSXFuY) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Energy](https://open.spotify.com/album/59T65v0ZNe7z8dDd5kR2Kq) | 2:52 | 2024-02-16 | 2024-08-20 |
 | [Energy](https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Stisema](https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1), [Lulu Voxx](https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu) | [Energy](https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O) | 2:48 | 2025-06-13 |  |
 | [Erased](https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Erased](https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs) | 3:02 | 2025-04-04 | 2025-04-21 |
-| [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-12-15 |  |
+| [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-12-15 | 2025-10-26 |
 | [Ever Been Punched](https://open.spotify.com/track/5ImCWFZ4baU82mNbKyTxCQ) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Ever Been Punched](https://open.spotify.com/album/4dXQcKAqasUFoPzKAF1hmg) | 2:14 | 2024-07-19 | 2025-02-10 |
 | [FE!N](https://open.spotify.com/track/5RQyf6jnaZFt0PYoTzrVqZ) | [Tavatli](https://open.spotify.com/artist/1B8akzCypOte40Fscvj968) | [FE!N](https://open.spotify.com/album/55my3C0DNaGAIvARc07VWO) | 2:55 | 2024-05-24 | 2024-11-08 |
 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 | 2023-08-11 | 2025-10-18 |
@@ -137,6 +137,7 @@
 | [It's That Time](https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [It's That Time](https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv) | 4:00 | 2023-08-22 | 2023-08-27 |
 | [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 | 2023-08-25 | 2024-04-19 |
 | [Jump Dance Move Bounce](https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [NOTMYTYPE](https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Jump Dance Move Bounce](https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby) | 2:29 | 2024-02-02 |  |
+| [Just dance](https://open.spotify.com/track/4gzQJJ3rjXmnL0UhO8D29D) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1) | [Just dance](https://open.spotify.com/album/06XogB5Kpx7rRWMkGUhH0z) | 2:16 | 2025-10-24 |  |
 | [Killa](https://open.spotify.com/track/4xKkpbUcrVoYrIXu7Xgzo9) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Killa](https://open.spotify.com/album/7KBpd01fC9KhsxYDDmrXbB) | 5:34 | 2024-04-19 | 2024-08-26 |
 | [King Of My Castle](https://open.spotify.com/track/10KGEuBsD3RwUESCQsNabH) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB) | [King Of My Castle](https://open.spotify.com/album/08Cco6fITT6Z0SayN1u9pp) | 2:17 | 2024-03-08 | 2024-04-09 |
 | [Komodo](https://open.spotify.com/track/1ABRhft3atwd5itDELR0jD) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/1K4UbTRjbfTUR0Xh7NdRjy) | 3:21 | 2025-08-15 |  |

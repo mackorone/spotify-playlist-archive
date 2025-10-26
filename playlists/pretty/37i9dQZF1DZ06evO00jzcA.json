@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 483130,
+  "num_followers": 483195,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAB9ZD6fJEMmFKhYRJHRLPEy",
+  "snapshot_id": "aPrBgAAAAAAGDt/klQwxgiksD83ScpsB",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 268613,
       "name": "Burning Up With Fever - Studio Demo",
       "url": "https://open.spotify.com/track/11sbOWO1r8n0erZdcUsy55"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dressed To Kill (50th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/04aIkLhIZW1QDcDzd7F1nP"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 257369,
+      "name": "Rock And Roll All Nite - Live At RKO Orpheum Theatre, Davenport, Iowa, July 20, 1975 / Show 1",
+      "url": "https://open.spotify.com/track/2CHDWttzPjCzwfwJswGhjG"
     },
     {
       "added_at": null,
@@ -539,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 259079,
-      "name": "Rock 'N' Roll All Nite - Live",
-      "url": "https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 197333,
       "name": "Firehouse",
       "url": "https://open.spotify.com/track/2hzyGod8yvzZsDkh6M5x2T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 259079,
+      "name": "Rock 'N' Roll All Nite - Live",
+      "url": "https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ"
     },
     {
       "added_at": null,
@@ -635,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
       "artists": [
         {
@@ -644,9 +660,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 282226,
-      "name": "Magic Touch",
-      "url": "https://open.spotify.com/track/3gAnPHRoANSRwp1gwv5p2m"
+      "duration_ms": 194466,
+      "name": "Christine Sixteen",
+      "url": "https://open.spotify.com/track/3Ms6wIwW1f3DVk563ucHP3"
     },
     {
       "added_at": null,
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Gun",
-        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
       "artists": [
         {
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 194466,
-      "name": "Christine Sixteen",
-      "url": "https://open.spotify.com/track/3Ms6wIwW1f3DVk563ucHP3"
+      "duration_ms": 282226,
+      "name": "Magic Touch",
+      "url": "https://open.spotify.com/track/3gAnPHRoANSRwp1gwv5p2m"
     },
     {
       "added_at": null,
@@ -715,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hotter Than Hell",
+        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/5RaXQF86U71nenpwo2yjdz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock And Roll Over",
         "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
       },
@@ -747,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotter Than Hell",
-        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "Parasite",
-      "url": "https://open.spotify.com/track/5RaXQF86U71nenpwo2yjdz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive!",
         "url": "https://open.spotify.com/album/6TRmLIsPKSPS71Cnq8FiMc"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 149720,
       "name": "See You Tonight - Live",
       "url": "https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dressed To Kill",
-        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "She",
-      "url": "https://open.spotify.com/track/2CgK3jgqeaR02D9mKE2XVt"
     }
   ],
   "unique_name": "This Is KISS",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAAb7QO0kaor3Dnd5GZumJLN",
+  "snapshot_id": "aPrBgAAAAADF1IKZl8GMmZrT7In1cSPi",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ojos de Madera",
-        "url": "https://open.spotify.com/album/2OkQNNHyGvklzWsWgVvJ7e"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "Ojos de Madera",
-      "url": "https://open.spotify.com/track/23ZfdKzcQohN1urB4mpLLy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Balada del Parque Frio",
         "url": "https://open.spotify.com/album/5pIDCQUgI7NOfCl3HCPSZY"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 163000,
       "name": "Balada del Parque Frio",
       "url": "https://open.spotify.com/track/56dBjIziLEPZmsJAZjznBM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ojos de Madera",
+        "url": "https://open.spotify.com/album/2OkQNNHyGvklzWsWgVvJ7e"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Ojos de Madera",
+      "url": "https://open.spotify.com/track/23ZfdKzcQohN1urB4mpLLy"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pal Bailador (Pasito Tun Tun)",
-        "url": "https://open.spotify.com/album/7dxxzJPwgFh9yqr6dcCWbz"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 185233,
-      "name": "Pal Bailador (Pasito Tun Tun)",
-      "url": "https://open.spotify.com/track/1SGcApP6dz2XJDDH7FgUce"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grupero Hits",
         "url": "https://open.spotify.com/album/5dVfZriigZIsjQrK9veAlV"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 167320,
       "name": "Aerobics de se\u00f1oritas",
       "url": "https://open.spotify.com/track/5peoeFKvBESDFc7Ej2G3Bp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pal Bailador (Pasito Tun Tun)",
+        "url": "https://open.spotify.com/album/7dxxzJPwgFh9yqr6dcCWbz"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 185233,
+      "name": "Pal Bailador (Pasito Tun Tun)",
+      "url": "https://open.spotify.com/track/1SGcApP6dz2XJDDH7FgUce"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Banda",
-        "url": "https://open.spotify.com/album/5axups0KKDe1JYO9IaKzKa"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Ju\u00e1rez",
-      "url": "https://open.spotify.com/track/5HDq6sp36G5pMPtkCC5eJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mas Caliente... La Ni\u00f1a Fresa",
         "url": "https://open.spotify.com/album/4AAxr6YcB2n3yn7VAyozMI"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 198622,
       "name": "Agua Helada",
       "url": "https://open.spotify.com/track/5RTwxQJO725bKdK2a8d5om"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Banda",
+        "url": "https://open.spotify.com/album/5axups0KKDe1JYO9IaKzKa"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Ju\u00e1rez",
+      "url": "https://open.spotify.com/track/5HDq6sp36G5pMPtkCC5eJ3"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "100% Tropical, Vol. 8",
-        "url": "https://open.spotify.com/album/4fUo5HuqR1xV11sSGaAF49"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Cumbiando Con Zeta",
-      "url": "https://open.spotify.com/track/7qCGUZmFIlvPp8oupXpSBS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Manicomio",
         "url": "https://open.spotify.com/album/2yU8o8qKqKD7NRlZu7NNt1"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 191574,
       "name": "Amor De Manicomio",
       "url": "https://open.spotify.com/track/2sSFUftb0VboazUCZJ6TKD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100% Tropical, Vol. 8",
+        "url": "https://open.spotify.com/album/4fUo5HuqR1xV11sSGaAF49"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Cumbiando Con Zeta",
+      "url": "https://open.spotify.com/track/7qCGUZmFIlvPp8oupXpSBS"
     },
     {
       "added_at": null,

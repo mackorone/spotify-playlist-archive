@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Hearts2Hearts, Daniel Caesar, Henry Moodie, Stephanie Poetri dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,690 likes - 116 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,749 likes - 116 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 33 | [Bila Sampai Waktu](https://open.spotify.com/track/0zNhPqoJRcuayIzdi8ts6J) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk), [mimpi.](https://open.spotify.com/artist/2eeHSawIPcv45fDx6DJkKE) | [Bila Sampai Waktu](https://open.spotify.com/album/3XmZTY5NT6ThFDZe03AEO1) | 4:00 |
 | 34 | [Cerminan](https://open.spotify.com/track/25aNedx5QlJoDPA7SyerMd) | [Meet Uncle Hussain](https://open.spotify.com/artist/6DsEf5tVXFxGqG3on83Bm3), [Amir Jahari](https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu) | [Cerminan](https://open.spotify.com/album/4F3Apii1InZP5X1LTkCkPw) | 4:11 |
 | 35 | [Kalau Bukan Aku](https://open.spotify.com/track/3qYj0ehrBu0cbKw7tw4hHb) | [Khai Bahar](https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq) | [Kalau Bukan Aku](https://open.spotify.com/album/304YzbSwqFQoV1EFHMpucU) | 4:23 |
-| 36 | [Syahravi \- Salah Paham](https://open.spotify.com/track/75itNZTt1HF4CdfxAr0Ld1) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Salah Paham](https://open.spotify.com/album/3hFH41buob1oT4Lyf7Cf8k) | 3:27 |
+| 36 | [Salah Paham](https://open.spotify.com/track/75itNZTt1HF4CdfxAr0Ld1) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Salah Paham](https://open.spotify.com/album/3hFH41buob1oT4Lyf7Cf8k) | 3:27 |
 | 37 | [Dalam Diam](https://open.spotify.com/track/2eGp0zNLHCMaCltJ7fKdZ8) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi), [Zamir Harith](https://open.spotify.com/artist/053dJUug3KoJGNH4q2B1Vu), [Mojack Hafiz](https://open.spotify.com/artist/6b7Sx8k12iNt7JGHURdR3E), [Bel Janni](https://open.spotify.com/artist/5l7c6Bfkb3sHeDOOojVqvB) | [Dalam Diam](https://open.spotify.com/album/6cJwxVhJ789g6G0YrLVSVk) | 3:43 |
 | 38 | [Masih Cinta](https://open.spotify.com/track/78rShDfdMgrsykP1eaD5jD) | [Idayu](https://open.spotify.com/artist/7suXbmosCjq93DMz9QO2rM), [Yuka Kharisma](https://open.spotify.com/artist/1rIJgdnQuJKKumgG4RQVBB) | [Masih Cinta](https://open.spotify.com/album/6r9PH09btQqKck7Q2dvbBp) | 3:14 |
 | 39 | [Hips Don't Lie \- Spotify Anniversary Version](https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:28 |

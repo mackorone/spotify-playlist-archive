@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 46618,
+  "num_followers": 46623,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAABLotAxxJuej5DG5n9l8CK7",
+  "snapshot_id": "aPrBgAAAAABG8QzhqV2vhj2cwlIYKAC/",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "No Llorar\u00e9",
-      "url": "https://open.spotify.com/track/1EXlMcLvZlN21kugkLI8SC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Regalo La Lluvia",
         "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 202026,
       "name": "Te Regalo La Lluvia",
       "url": "https://open.spotify.com/track/2KsxQoFWqOzGkCrEQWEvKZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "No Llorar\u00e9",
+      "url": "https://open.spotify.com/track/1EXlMcLvZlN21kugkLI8SC"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Regalo La Lluvia",
-        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "Eso No Es De Hombres",
-      "url": "https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cumbias Para Bailar",
         "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 281440,
       "name": "Capullo Y Sorullo",
       "url": "https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Regalo La Lluvia",
+        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "Eso No Es De Hombres",
+      "url": "https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj"
     },
     {
       "added_at": null,
@@ -979,26 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Volver\u00e9",
-        "url": "https://open.spotify.com/album/1homFZjonYY08urvCYkIZv"
-      },
-      "artists": [
-        {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 192680,
-      "name": "No Volver\u00e9",
-      "url": "https://open.spotify.com/track/6kW4lc3ZoTVqezchbOYqDj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bienvenida La Vida",
         "url": "https://open.spotify.com/album/5mcWT0gHRYtncD9jCT3f6E"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 234208,
       "name": "Amor Perfecto",
       "url": "https://open.spotify.com/track/3X4rVC4WXcUYU1u2NyMWKo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Volver\u00e9",
+        "url": "https://open.spotify.com/album/1homFZjonYY08urvCYkIZv"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 192680,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/6kW4lc3ZoTVqezchbOYqDj"
     }
   ],
   "unique_name": "This Is Ana B\u00e1rbara",

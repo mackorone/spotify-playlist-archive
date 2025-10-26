@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: Austra
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,061 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,072 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Amiss](https://open.spotify.com/track/32MdMYrvkZR0UbipORYKYZ) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Amiss](https://open.spotify.com/album/4kbW4wRsOzRNBzP9gwSyMz) | 3:48 |
 | 100 | [Sola](https://open.spotify.com/track/32x1tMcicnF3Tvu8ApsVfA) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Puta / Sola](https://open.spotify.com/album/5pR0qWF08ZFisy9P4YTR0e) | 3:06 |
 
-Snapshot ID: `AAAAABJQnm8WfsQuk1x8Kcw+1K7JDzKU`
+Snapshot ID: `AAAAAKlY/aidU2MpOcJcLTAgAsCBYV6Y`

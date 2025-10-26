@@ -440,7 +440,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 253352,
       "name": "Desi Kalakaar",
       "url": "https://open.spotify.com/track/7m4CgL81VVIHaaiSxyH922"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 244073,
       "name": "Guzaara (From \"Baaghi 4\")",
       "url": "https://open.spotify.com/track/3gjTErwpHM5PkRbWMhmNrV"
@@ -1068,6 +1068,28 @@
       "duration_ms": 208381,
       "name": "Jutti Meri (Live)",
       "url": "https://open.spotify.com/track/6v4OWxDDulyvjWfRXPjA8Y"
+    },
+    {
+      "album": {
+        "name": "Kaise Hua (From \"Kabir Singh\")",
+        "url": "https://open.spotify.com/album/1ncyKqyZae6DoyjYaV9LmS"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234722,
+      "name": "Kaise Hua (From \"Kabir Singh\")",
+      "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
     },
     {
       "album": {
@@ -1710,7 +1732,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 250158,
       "name": "Pehle Bhi Main",
       "url": "https://open.spotify.com/track/7yDHHVKLbvDmVw1XXhDDIO"

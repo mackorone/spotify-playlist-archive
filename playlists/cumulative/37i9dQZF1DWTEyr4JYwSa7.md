@@ -4,7 +4,7 @@
 
 > La playlist qui sent le sapin pis la joie!
 
-346 songs - 18 hr 41 min
+347 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Au dernier noël](https://open.spotify.com/track/307I3vdjraPWXhb6bgcOfE) | [Dominique Hudson](https://open.spotify.com/artist/5jUUxz4x0tzHtghlDNyBLa) | [Au dernier noël](https://open.spotify.com/album/6KyQ8S9HFMhmPIf7qzXVq4) | 3:52 | 2021-12-17 | 2022-07-24 |
 | [Au Royaume de Bonhomme Hiver](https://open.spotify.com/track/3xzjWsVxspvyGefnsPlUn9) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Au Royaume de Bonhomme Hiver](https://open.spotify.com/album/0bWkK8GLsvjOaawg6LFd85) | 2:31 | 2022-11-04 | 2022-11-12 |
 | [Au royaume du Bonhomme Hiver](https://open.spotify.com/track/65NdPGmJBCF30pa3HKypXo) | [Groupe vocal Statera](https://open.spotify.com/artist/47xwtHCWYW6XPhGAS9Bdi4) | [C'est l'hiver](https://open.spotify.com/album/1QSJ7lhyUQcQ2dV5bEHdPl) | 3:08 | 2021-12-17 | 2022-07-22 |
+| [Au royaume du bonhomme hiver](https://open.spotify.com/track/2lYvd5PkUDC6GuiVYf04yl) | [Mia Tinayre](https://open.spotify.com/artist/73oPKA4M7gONbeMszxykD8) | [Star Académie \- Noël 2025](https://open.spotify.com/album/6oV8cbv2ixtDOQH175PeWC) | 3:25 | 2025-10-24 |  |
 | [Au Ville La Veille De Noël](https://open.spotify.com/track/7xpW6zmVdKYFJhSWYz4eof) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L) | [Au Ville La Veille De Noël](https://open.spotify.com/album/2RwGK7SjNZCtXoWsOCMQOO) | 3:24 | 2021-12-17 | 2022-07-23 |
 | [Aujourd'hui le roi des cieux \(The First Noël\)](https://open.spotify.com/track/4WGZjwXf20jU5LuFXgmqu0) | [Michaël](https://open.spotify.com/artist/1IBfb2dNgk90Z4s5ZipI0z) | [Nuit de Noël](https://open.spotify.com/album/6lLZCMznuhA54wAD6oCPKC) | 4:08 | 2021-12-17 | 2022-07-26 |
 | [Aujourd'hui, il est né](https://open.spotify.com/track/030iFCDPVdwZbpVCxlXMJi) | [Gab Paquet](https://open.spotify.com/artist/6RQFfAmeNqrEaTaFWitpOp) | [Aujourd'hui, il est né](https://open.spotify.com/album/4BwOqtlX1aBORu1uY59jDs) | 3:55 | 2024-12-13 | 2025-09-12 |
@@ -100,7 +101,7 @@
 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/0MV4MLZVeP4JvYVt3djxOX) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [The Plastic Ono Band](https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro), [The Harlem Community Choir](https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy) | [Cozy Christmas](https://open.spotify.com/album/4qMWHviG4RoJGal19Kvh0M) | 3:32 | 2022-11-12 | 2022-11-14 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [The Harlem Community Choir](https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy), [The Plastic Ono Band](https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Power To The People \- The Hits](https://open.spotify.com/album/7mXg4fLJHmmnjAahH15Wsj) | 3:33 | 2021-12-17 | 2022-07-29 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 | 2021-12-17 | 2024-04-19 |
-| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/2hDMG2AP8qOOEzkV01wiNS) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3IHAcppXJFjkNRyz3XngKB) | 3:34 | 2023-12-16 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/2hDMG2AP8qOOEzkV01wiNS) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3IHAcppXJFjkNRyz3XngKB) | 3:34 | 2023-12-16 | 2025-10-26 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7cA6rw8ylL5qWZXCRtKRCj) | [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Chansons de Noël pour la Fondation Jasmin Roy](https://open.spotify.com/album/2N6KwkKULuUM5xZFuQ4v00) | 3:48 | 2021-12-17 | 2022-07-29 |
 | [Have Yourself a Merry Little Christmas \(feat\. Esperanza Spalding\)](https://open.spotify.com/track/67XXGKQrlBLCAg3gmHkamP) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Have Yourself a Merry Little Christmas / Bring Me Love](https://open.spotify.com/album/32m4D8KcGLcqAvTVIi90P1) | 3:43 | 2021-12-17 |  |
 | [Have Yourself A Merry Little Christmas \- Remastered 1999](https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:26 | 2021-12-17 |  |

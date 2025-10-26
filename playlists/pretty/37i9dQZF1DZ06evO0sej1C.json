@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 44908,
+  "num_followers": 44916,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAB+3yhcaiwTMQGZaJScsoab",
+  "snapshot_id": "aPrBgAAAAAC3BmlZ3EzjVvo8F3s4axN9",
   "tracks": [
     {
       "added_at": null,
@@ -1043,22 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El",
-        "url": "https://open.spotify.com/album/7tLkIgVXrErZK0K9RIyN4w"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "El",
-      "url": "https://open.spotify.com/track/6mWDXotbiEeRWZeQB9muCl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra Oportunidad",
         "url": "https://open.spotify.com/album/73fsMmzD84KtQeKzL497C3"
       },
@@ -1079,22 +1063,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "So\u00f1ar",
-        "url": "https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k"
+        "name": "El",
+        "url": "https://open.spotify.com/album/7tLkIgVXrErZK0K9RIyN4w"
       },
       "artists": [
-        {
-          "name": "Danntik",
-          "url": "https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ"
-        },
         {
           "name": "Yoss Bones",
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         }
       ],
-      "duration_ms": 209000,
-      "name": "So\u00f1ar",
-      "url": "https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4"
+      "duration_ms": 204000,
+      "name": "El",
+      "url": "https://open.spotify.com/track/6mWDXotbiEeRWZeQB9muCl"
     },
     {
       "added_at": null,
@@ -1119,6 +1099,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "So\u00f1ar",
+        "url": "https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k"
+      },
+      "artists": [
+        {
+          "name": "Danntik",
+          "url": "https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "So\u00f1ar",
+      "url": "https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Ti Me Olvid\u00e9",
         "url": "https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp"
       },
@@ -1139,6 +1139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cheque En Blanco",
+        "url": "https://open.spotify.com/album/4aEXhOW3BoReEifboscpf8"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 167471,
+      "name": "Cheque En Blanco",
+      "url": "https://open.spotify.com/track/1zgA5AWWPAGjJgroKzBAfS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faruz Fit, Vol. 2",
         "url": "https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 283668,
       "name": "Susurros",
       "url": "https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cheque En Blanco",
-        "url": "https://open.spotify.com/album/4aEXhOW3BoReEifboscpf8"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 167471,
-      "name": "Cheque En Blanco",
-      "url": "https://open.spotify.com/track/1zgA5AWWPAGjJgroKzBAfS"
     },
     {
       "added_at": null,

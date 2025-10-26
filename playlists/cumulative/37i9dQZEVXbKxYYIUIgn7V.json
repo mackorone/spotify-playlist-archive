@@ -1656,6 +1656,24 @@
     {
       "album": {
         "name": "Aff im Kopf",
+        "url": "https://open.spotify.com/album/60ZHAadEWxjMvg1kSpXOeR"
+      },
+      "artists": [
+        {
+          "name": "Caro Fux",
+          "url": "https://open.spotify.com/artist/68nzRrHBgc1gYa0AGsi1TE"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153698,
+      "name": "Aff im Kopf",
+      "url": "https://open.spotify.com/track/21nuXb9yhcyA91gRVVBpfI"
+    },
+    {
+      "album": {
+        "name": "Aff im Kopf",
         "url": "https://open.spotify.com/album/7zpt7wqR9CPGWyfdC31XZn"
       },
       "artists": [
@@ -1666,7 +1684,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 153698,
       "name": "Aff im Kopf",
       "url": "https://open.spotify.com/track/6i9K7JR9clns1XXtBPqzAH"
@@ -37561,6 +37579,24 @@
     },
     {
       "album": {
+        "name": "Show Me A Trick",
+        "url": "https://open.spotify.com/album/5AXFglAQzc88Wjxgr1YG9a"
+      },
+      "artists": [
+        {
+          "name": "Melodial",
+          "url": "https://open.spotify.com/artist/77t1xeeYZDBTsfXqTntmwO"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Show Me A Trick",
+      "url": "https://open.spotify.com/track/5PLSUTCkcBLGf8ABGQ4axn"
+    },
+    {
+      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
       },
@@ -41800,7 +41836,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 157924,
       "name": "The Happy Song",
       "url": "https://open.spotify.com/track/6snoOAATGyud5oaIT9gwws"

@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Almost",
+        "url": "https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220779,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u"
+    },
+    {
+      "album": {
         "name": "Space Shuttle No.8",
         "url": "https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y"
       },
@@ -1427,6 +1445,28 @@
     },
     {
       "album": {
+        "name": "Blink (feat. TZUYU)",
+        "url": "https://open.spotify.com/album/2IRzuqfgRW9UojuEaDPZoB"
+      },
+      "artists": [
+        {
+          "name": "Corbyn Besson",
+          "url": "https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj"
+        },
+        {
+          "name": "TZUYU",
+          "url": "https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162092,
+      "name": "Blink (feat. TZUYU)",
+      "url": "https://open.spotify.com/track/25qp5LiSuet6rvl950jrGD"
+    },
+    {
+      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
       },
@@ -1442,6 +1482,28 @@
       "duration_ms": 160111,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
+    },
+    {
+      "album": {
+        "name": "Blood Moon",
+        "url": "https://open.spotify.com/album/4kr06ScA4YEpwcZFKwy9Nc"
+      },
+      "artists": [
+        {
+          "name": "Yayee",
+          "url": "https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2"
+        },
+        {
+          "name": "Swimming Teddys",
+          "url": "https://open.spotify.com/artist/6kTqvXVMr7SCmBiqkJUeeY"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157225,
+      "name": "Blood Moon",
+      "url": "https://open.spotify.com/track/5LzhYkmwJA5iF2NjkLlF6M"
     },
     {
       "album": {
@@ -1626,7 +1688,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 177366,
       "name": "Boyband",
       "url": "https://open.spotify.com/track/5wPwqVdBFCVGcQKyFXZgcA"
@@ -1906,7 +1968,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 215511,
       "name": "Camera",
       "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
@@ -2000,6 +2062,24 @@
       "duration_ms": 250098,
       "name": "Cha La La Love",
       "url": "https://open.spotify.com/track/2KhRSNn3300KOsh9scrFj2"
+    },
+    {
+      "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
       "album": {
@@ -4484,7 +4564,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 187086,
       "name": "Good Boys",
       "url": "https://open.spotify.com/track/64INWJRwf4Uo6WffXcjPmw"
@@ -5056,7 +5136,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 237045,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3DpLteY0bgkKgpa3OSRBso"
@@ -6864,6 +6944,24 @@
       "duration_ms": 209663,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/11zgphiq5vlwjis2uFi271"
+    },
+    {
+      "album": {
+        "name": "It\u2019s Not That Deep",
+        "url": "https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183247,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O"
     },
     {
       "album": {
@@ -8736,7 +8834,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 298783,
       "name": "My Old Ways",
       "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
@@ -9108,7 +9206,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 144300,
       "name": "Nighttime Thing (with Julia Michaels)",
       "url": "https://open.spotify.com/track/7fbI3MprRgCBEO92ZT5akR"
@@ -9839,6 +9937,24 @@
     },
     {
       "album": {
+        "name": "mood swings",
+        "url": "https://open.spotify.com/album/2jvTYHZayLQaa6ZPz5qqJe"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176373,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/0UO8qysepsd0eppPu7bYp0"
+    },
+    {
+      "album": {
         "name": "Perfume (feat. oceanfromtheblue)",
         "url": "https://open.spotify.com/album/7snxSdifKDEkIUOCMvfklx"
       },
@@ -10114,7 +10230,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 262840,
       "name": "Prema",
       "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
@@ -10288,7 +10404,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 189333,
       "name": "pure white tee",
       "url": "https://open.spotify.com/track/4D1s6Kz45CXIzoPI2hbnZD"
@@ -10632,6 +10748,24 @@
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Root of all Evil",
+      "url": "https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I"
     },
     {
       "album": {
@@ -11706,7 +11840,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -11778,7 +11912,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 182970,
       "name": "So Sticky",
       "url": "https://open.spotify.com/track/4amIo7OjJJfViAdcwhGXqt"
@@ -12779,6 +12913,24 @@
     },
     {
       "album": {
+        "name": "Take Me to Atlantis",
+        "url": "https://open.spotify.com/album/6AsTYWjXs7fuO7IIyMdaJj"
+      },
+      "artists": [
+        {
+          "name": "Chattaraa",
+          "url": "https://open.spotify.com/artist/7L1WY9iSSZenZPKcU98Fn6"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189120,
+      "name": "Take Me to Atlantis",
+      "url": "https://open.spotify.com/track/0SPueDV7TVh2s6IOj0DeRw"
+    },
+    {
+      "album": {
         "name": "Take Me to the Beach (feat. Jungeli)",
         "url": "https://open.spotify.com/album/1eFuf3Xkm3XiiPRVX9ambn"
       },
@@ -13052,6 +13204,24 @@
       "duration_ms": 150000,
       "name": "Tears",
       "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
+    },
+    {
+      "album": {
+        "name": "Telephone Busy",
+        "url": "https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195806,
+      "name": "Telephone Busy",
+      "url": "https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC"
     },
     {
       "album": {
@@ -13436,6 +13606,28 @@
       "duration_ms": 266142,
       "name": "the next time i'll cry (will be at ur wedding)",
       "url": "https://open.spotify.com/track/6DGlFKczI69ObIJhoKAqGX"
+    },
+    {
+      "album": {
+        "name": "The Ocean Blue",
+        "url": "https://open.spotify.com/album/0tirQDcdpPagk0HiouXZtH"
+      },
+      "artists": [
+        {
+          "name": "PANNAGUS",
+          "url": "https://open.spotify.com/artist/3hKi4HjosQk2QDyG3VF5CG"
+        },
+        {
+          "name": "mute.",
+          "url": "https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "The Ocean Blue",
+      "url": "https://open.spotify.com/track/3jhwpegbuY8k2UrpS1Jsko"
     },
     {
       "album": {
@@ -14026,7 +14218,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 200000,
       "name": "TOAST TO ME",
       "url": "https://open.spotify.com/track/5Bk1Qo8MLvDdLLC38sXKkL"
@@ -14552,7 +14744,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 200571,
       "name": "Velvet Love",
       "url": "https://open.spotify.com/track/6ZbAqX6hEFVHKbyRKxUnqd"
@@ -15145,6 +15337,24 @@
     },
     {
       "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145398,
+      "name": "When Did You Get Hot?",
+      "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
+    },
+    {
+      "album": {
         "name": "When He\u2019s Not There (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/4wbY1m1O17LJx00KoN6oQN"
       },
@@ -15568,7 +15778,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 256000,
       "name": "With Me",
       "url": "https://open.spotify.com/track/5JucrnLkkmwVTD3dsOI8dt"

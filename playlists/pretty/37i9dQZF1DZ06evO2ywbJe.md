@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,507 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,514 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 46 | [Spiritual](https://open.spotify.com/track/22R1JmzACsM3jz4zLZxpqk) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Spiritual](https://open.spotify.com/album/5uDtFBGVxqNjXrr9SFqQCh) | 3:28 |
 | 47 | [Money](https://open.spotify.com/track/7nZYHOgh3h09onNIZIFLOm) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 2:47 |
 | 48 | [Gen\-Z Arewazobia \(feat\. Jeriq & Zlatan\)](https://open.spotify.com/track/0FXuDfxekkdEzGMMaCPAvr) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Gen\-Z Arewazobia \(feat\. Jeriq & Zlatan\)](https://open.spotify.com/album/7MFEWR37o9soZbhWwBWQvY) | 2:37 |
-| 49 | [Only Fan](https://open.spotify.com/track/69yAyXc2pJCvgdAaCLUYqY) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Greatness 2.0](https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT) | 3:20 |
-| 50 | [Say No to Big Fall](https://open.spotify.com/track/2mk0VTrxiZJXhLPB2yo4mk) | [DaBlixx Osha](https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Sick Six](https://open.spotify.com/album/4UinowfqwB20ITGJdS3BaD) | 2:08 |
+| 49 | [Say No to Big Fall](https://open.spotify.com/track/2mk0VTrxiZJXhLPB2yo4mk) | [DaBlixx Osha](https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Sick Six](https://open.spotify.com/album/4UinowfqwB20ITGJdS3BaD) | 2:08 |
+| 50 | [Only Fan](https://open.spotify.com/track/69yAyXc2pJCvgdAaCLUYqY) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Greatness 2.0](https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT) | 3:20 |
 
-Snapshot ID: `aPlwAAAAAAAWffOf6xljC2h/EWwat0DH`
+Snapshot ID: `aPrBgAAAAAC9XkBpkNIk5lY0UoXS9vRS`

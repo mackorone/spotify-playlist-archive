@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m0d2h.md) - [plain]
 
 > This is Sleep Token\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,213 likes - 33 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,421 likes - 33 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rain](https://open.spotify.com/track/0GXwlEXCO8qeeeOIYpsR3m) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 4:12 |
+| 1 | [The Summoning](https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 6:35 |
 | 2 | [Caramel](https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:50 |
 | 3 | [Alkaline](https://open.spotify.com/track/0B4YX3OMtZSmPm9KpiZKl2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 3:34 |
 | 4 | [Jaws](https://open.spotify.com/track/2GPdGwBnFfruzFbJPd7uQS) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Jaws](https://open.spotify.com/album/2DiX65iiou5VYicpiCnJet) | 5:55 |
-| 5 | [Granite](https://open.spotify.com/track/4mxiv6HQfhqgIuN5iOONQd) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 3:45 |
+| 5 | [Rain](https://open.spotify.com/track/0GXwlEXCO8qeeeOIYpsR3m) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 4:12 |
 | 6 | [Dangerous](https://open.spotify.com/track/105Fwh9wijwT41rrfgSnrE) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:11 |
 | 7 | [Hypnosis](https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 5:35 |
 | 8 | [Give](https://open.spotify.com/track/1LzRiE4LCTF80qZectiltH) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning](https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86) | 3:56 |
-| 9 | [The Summoning](https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 6:35 |
+| 9 | [Granite](https://open.spotify.com/track/4mxiv6HQfhqgIuN5iOONQd) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 3:45 |
 | 10 | [Damocles](https://open.spotify.com/track/3enIFKYJKSVyjXVzmup28I) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:24 |
 | 11 | [Atlantic](https://open.spotify.com/track/0asMwoxaKllA4Cm791LGOW) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 4:53 |
 | 12 | [The Offering](https://open.spotify.com/track/1lXAzSbRH4VXrqgFuPQSFp) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning](https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86) | 5:49 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m0d2h.md) - [plain]
 | 32 | [Calcutta](https://open.spotify.com/track/55H5OIdnR0H5MTsWfTP63E) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Two](https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs) | 6:53 |
 | 33 | [When the Bough Breaks](https://open.spotify.com/track/4By7rlsQO5KBN9vWgSPHBa) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [One](https://open.spotify.com/album/6NJfEwMs0sdtxoDQyAo3jv) | 7:35 |
 
-Snapshot ID: `aPlwAAAAAABmhoa6YqoaBp0+jBQRBpgP`
+Snapshot ID: `aPrBgAAAAAAXNkJ2OQlb7HyWw0gPWRUx`

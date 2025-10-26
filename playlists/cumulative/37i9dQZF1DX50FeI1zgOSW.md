@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Kaushik Mahalengam
 
-645 songs - 1 day 12 hr 52 min
+646 songs - 1 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,7 @@
 | [Olti Vudu](https://open.spotify.com/track/65tEW5ZsbDwkNLCzf6JUFh) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Olti Vudu](https://open.spotify.com/album/7bdLk0h0PNqkBv9KVUPTdo) | 2:40 | 2024-11-20 | 2025-02-20 |
 | [On Air](https://open.spotify.com/track/3LI5iF14x57wIfyhTpC3S4) | [Sharan Musician](https://open.spotify.com/artist/16XIcGxUwd0RaCkZE2mRPR) | [On Air](https://open.spotify.com/album/1ADfH89pRILlnPJ8ZgqXu5) | 1:42 | 2024-05-13 | 2024-12-06 |
 | [Ondraga Selvoma](https://open.spotify.com/track/6CXT1nFECaAO2eH4l7Nuel) | [Abu](https://open.spotify.com/artist/4FtcEHxEhiObUuhFYmkrA5), [Pokkishiya Sandra](https://open.spotify.com/artist/5rIDcip6HVD2OYSswkTYtz) | [Ondraga Selvoma](https://open.spotify.com/album/2IP8Ynr4w9PzOP7ZKayy5Y) | 6:00 | 2024-07-31 | 2024-08-24 |
-| [Ooo Penne](https://open.spotify.com/track/0WtiNMikAFmM0qt6pKhP30) | [Aman Sawan](https://open.spotify.com/artist/1tGsnZOMlsDfvesfYj2ecW) | [Ooo Penne](https://open.spotify.com/album/2C4R3FKVwtuVhlvCPI2EmZ) | 2:54 | 2025-10-25 |  |
+| [Ooo Penne](https://open.spotify.com/track/0WtiNMikAFmM0qt6pKhP30) | [Aman Sawan](https://open.spotify.com/artist/1tGsnZOMlsDfvesfYj2ecW) | [Ooo Penne](https://open.spotify.com/album/2C4R3FKVwtuVhlvCPI2EmZ) | 3:16 | 2025-10-25 |  |
 | [OORO](https://open.spotify.com/track/0gJyRJTtghZEfOz9dJIcv2) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [OORO](https://open.spotify.com/album/1ZDtWTvDxsL2c6bPKSM6df) | 2:18 | 2024-04-15 | 2024-10-25 |
 | [Ooru Sanam](https://open.spotify.com/track/00gwJJMsxFJ4Dm5MfJcr2Z) | [A T Ram](https://open.spotify.com/artist/4ORr051zUJKNxE2cS57UpO), [Muthu Sirpi](https://open.spotify.com/artist/26rblDtQQ9U26NMYSraPYm), [FANOHA](https://open.spotify.com/artist/5WFn5wt1M57jYMfmKoUSUx) | [Ooru Sanam](https://open.spotify.com/album/3QnlQ9p9YcUM3drcQxH0iM) | 4:11 | 2023-07-31 | 2023-12-12 |
 | [Orayiram Vali](https://open.spotify.com/track/4D3CVagaQ64eF9ltxNketq) | [Sinan Saleem Kodathoor](https://open.spotify.com/artist/0ZeeMRfO5cAPxf0igkHpqV) | [Orayiram Vali](https://open.spotify.com/album/1cHS12yGqencjdwcFxGBlL) | 4:15 | 2025-07-24 | 2025-08-26 |
@@ -606,6 +606,7 @@
 | [Vanna Nilavondru](https://open.spotify.com/track/0I6dnjBM6mVGQ32zD2HD0S) | [Nikhil Iyer](https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Akshay Iyer](https://open.spotify.com/artist/5tuD0Os3aeTtglvnUd8HOL) | [Vanna Nilavondru](https://open.spotify.com/album/0KrqRoihopoLpDLWVSANBW) | 3:41 | 2024-09-09 | 2025-01-21 |
 | [Vannamayilae](https://open.spotify.com/track/5cgiw1qjyjnrmP8Xmm4LFf) | [A K PRRIYAN](https://open.spotify.com/artist/0awt0os7KJ5wBgHD5RV58o), [Akshaya Shivkumar](https://open.spotify.com/artist/3XQCmyhNSMPYoTRE7VVKWJ) | [Vannamayilae](https://open.spotify.com/album/6hcO0cW28GJfY0rWj0hqMU) | 3:07 | 2023-06-16 | 2023-10-04 |
 | [Varun & Swathi](https://open.spotify.com/track/14BV2LYYNoQJm0cgf8OY7c) | [Raja Monsingh](https://open.spotify.com/artist/3xTWrKpHuvtK3bOdWOvR3L) | [Varun & Swathi](https://open.spotify.com/album/5iv9tqsOzkperns4kDE6pm) | 3:59 | 2024-08-01 | 2024-08-29 |
+| [VaVa Nightcore](https://open.spotify.com/track/2nPxyiK6th607iCsAUyWJc) | [Colin James Gordon](https://open.spotify.com/artist/4xI9EJrlVcy7uHKnRBfPDO), [Shilpa Ananth](https://open.spotify.com/artist/3mlTRbD5Vit017KpgSvzEi) | [VaVa Nightcore](https://open.spotify.com/album/4DsdYz5PA3wnSMZnFViWlf) | 3:05 | 2025-10-23 |  |
 | [Vazhiyadi Penne](https://open.spotify.com/track/4drwg1x5CQm4UY0JwsbETX) | [Dhinesh Nagarajan](https://open.spotify.com/artist/7F9j3YZmUVUSBIDISKbwbt) | [Kadhalikkiren \(From "Think Indie"\)](https://open.spotify.com/album/7KSmaRHan0muLPyx3zaVpr) | 2:06 | 2025-09-17 |  |
 | [Vazhka Oru Maithanam](https://open.spotify.com/track/1BX3ynw6RJSZ4OCYE9fqt1) | [Mc Vijay Sandy](https://open.spotify.com/artist/1s74X5aCHgUoUn6RUAAfaV), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Vazhka Oru Maithanam](https://open.spotify.com/album/3xFPEzC9S4io0h3W3dLB2p) | 2:26 | 2024-01-05 | 2024-07-30 |
 | [Ve](https://open.spotify.com/track/6JixmCKEDe5uYKVdPsyGIY) | [Ungal Nachi](https://open.spotify.com/artist/2Ca532Xvfu93Sldy0CvzsB) | [Ve](https://open.spotify.com/album/0H5DxJ9zxiA3qY2t2u1oVR) | 2:34 | 2024-12-19 | 2025-02-27 |

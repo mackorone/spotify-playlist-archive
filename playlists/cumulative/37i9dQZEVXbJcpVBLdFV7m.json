@@ -3452,7 +3452,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 161086,
       "name": "Bende Katilime A\u015f\u0131kt\u0131m",
       "url": "https://open.spotify.com/track/5dOsHFII8HF05Cq6BoZDOa"
@@ -9987,6 +9987,24 @@
     },
     {
       "album": {
+        "name": "Eyl\u00fclzede",
+        "url": "https://open.spotify.com/album/4F0m8knXbdGm0PJpaarwCF"
+      },
+      "artists": [
+        {
+          "name": "Nikbinler",
+          "url": "https://open.spotify.com/artist/1jd75hi1uo8CqDnDtVJcnz"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269919,
+      "name": "Eyl\u00fclzede",
+      "url": "https://open.spotify.com/track/3N2dY8tyTp7XGhsTSigaxT"
+    },
+    {
+      "album": {
         "name": "Fable",
         "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
       },
@@ -10356,7 +10374,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 227319,
       "name": "Fearful Thing",
       "url": "https://open.spotify.com/track/1kgZgssoMOPX4XJ7U140RT"
@@ -13094,7 +13112,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 180996,
       "name": "HIM",
       "url": "https://open.spotify.com/track/1qKx4C7IWQJWs0tifDZ6h0"
@@ -16232,7 +16250,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 346266,
       "name": "Lady",
       "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
@@ -17490,7 +17508,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-26",
       "duration_ms": 208266,
       "name": "Lovesong - Remastered",
       "url": "https://open.spotify.com/track/2mIrfke7vosXAEWfz6ucyo"
@@ -27916,7 +27934,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 274408,
       "name": "Specter",
       "url": "https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8"
@@ -29044,6 +29062,24 @@
       "duration_ms": 196706,
       "name": "Superpower",
       "url": "https://open.spotify.com/track/6a5FG2VLsSn5AAwAnN4A1d"
+    },
+    {
+      "album": {
+        "name": "SUPERSCAR",
+        "url": "https://open.spotify.com/album/7qxF6g93TWMTlswQVPtlvF"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2025-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194040,
+      "name": "SUPERSCAR",
+      "url": "https://open.spotify.com/track/3OXswcKSaO6mNiNyeEbnAS"
     },
     {
       "album": {

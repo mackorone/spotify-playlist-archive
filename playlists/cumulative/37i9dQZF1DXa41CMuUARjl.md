@@ -4,7 +4,7 @@
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Armin van Buuren + KI/KI, Skrillex + ISOxo, DJ Daddy Trance, & more!
 
-31,560 songs - 79 day 21 hr 42 min
+31,560 songs - 79 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16984,7 +16984,7 @@
 | [MACH 10](https://open.spotify.com/track/1lBkr90r5ayibZw92Be7RJ) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [MACH 10](https://open.spotify.com/album/3Uj5FjcVPVhC8UHUt1wfhV) | 3:19 | 2023-10-27 | 2023-11-05 |
 | [MACHINE](https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MACHINE](https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA) | 3:17 | 2021-09-04 | 2021-09-11 |
 | [Machine Decay](https://open.spotify.com/track/7qmCQWXh2oxFi2Si6bZ9Bs) | [POL100](https://open.spotify.com/artist/7k5J9paJCGT1Zv4ZaIA4V1) | [Machine Decay](https://open.spotify.com/album/1BRB5TU4mtfoNzyewd1DVc) | 3:39 | 2025-10-03 | 2025-10-11 |
-| [machine\_age](https://open.spotify.com/track/55fKc3ex9q7lEQUgPzPyLy) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [THE\_BIG\_TRIP](https://open.spotify.com/album/5fJwIK2omIRULAM93wapMk) | 3:16 | 2025-10-24 |  |
+| [machine\_age](https://open.spotify.com/track/55fKc3ex9q7lEQUgPzPyLy) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [THE\_BIG\_TRIP](https://open.spotify.com/album/5fJwIK2omIRULAM93wapMk) | 2:44 | 2025-10-24 |  |
 | [MACHO](https://open.spotify.com/track/6QhtKxfu1Ltyxkog1C07Jx) | [TMSKDJ](https://open.spotify.com/artist/0Q23JpBwwsACd45gdwiAEb), [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [MACHO](https://open.spotify.com/album/6o0vnlPD2B4pOfSHRs99dZ) | 2:47 | 2025-10-10 | 2025-10-18 |
 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 | 2025-05-30 | 2025-06-07 |
 | [MAD](https://open.spotify.com/track/1hgsvReye5QkYa8XbL2bps) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ), [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [MAD](https://open.spotify.com/album/58zITaiQk281WbHZsd8B0i) | 2:56 | 2021-12-17 | 2021-12-24 |
@@ -31194,7 +31194,7 @@
 | [You Again](https://open.spotify.com/track/0RFMv2DuTANB17tlMhM3Tp) | [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [You Again](https://open.spotify.com/album/2RAj6Ld39jViGuabVAVhEh) | 3:22 | 2025-01-31 | 2025-02-08 |
 | [You Ain't Breakin' My Heart](https://open.spotify.com/track/5mnXK9eEwaU3unFjLtHx3Z) | [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD), [Husky](https://open.spotify.com/artist/1BQ5NhlyhxAO1CdRYGHmQe), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [You Ain't Breakin' My Heart](https://open.spotify.com/album/4qL5uXQEy6yuUK33mbCMIL) | 3:19 | 2024-01-19 | 2024-01-27 |
 | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Teni Tinks](https://open.spotify.com/artist/4CeG8RL5NUdWJw8BeG5gQs) | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA) | 4:31 | 2021-04-03 | 2021-04-10 |
-| [You Ain't My Friend](https://open.spotify.com/track/2kW15aO83Ix1lFGreg9F7l) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [You Ain't My Friend](https://open.spotify.com/album/1XyrELP834fbjigvHSIaEl) | 2:57 | 2025-10-24 |  |
+| [You Ain't My Friend](https://open.spotify.com/track/2kW15aO83Ix1lFGreg9F7l) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [You Ain't My Friend](https://open.spotify.com/album/1XyrELP834fbjigvHSIaEl) | 2:57 | 2025-10-24 |  |
 | [You All I Need](https://open.spotify.com/track/3BCOiOHG6ifxr3d3WQMZrQ) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Signals In My Head](https://open.spotify.com/album/3rDFYozg6jsHVOgUu7dl4s) | 3:27 | 2021-07-24 | 2021-07-31 |
 | [You Always Know Everything](https://open.spotify.com/track/7x82Bt3Pvxf4GQwLBtrv8Z) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [You Always Know Everything](https://open.spotify.com/album/3Z2gmUawwu5AmNfK0t5SFp) | 3:05 | 2020-07-10 | 2020-07-18 |
 | [You and I](https://open.spotify.com/track/5RLklKzb9QNXdpybSw2bbP) | [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3), [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [You and I](https://open.spotify.com/album/0LnhXvcJIhcMWIpvxhVguB) | 3:10 | 2022-07-29 | 2022-08-06 |

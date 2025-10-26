@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: BOY SODA",
-  "num_followers": 132487,
+  "num_followers": 132520,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -259,8 +259,8 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
-        "name": "Small Change",
-        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
+        "name": "Send It Back",
+        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
         }
       ],
-      "duration_ms": 165020,
-      "name": "Small Change",
-      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
+      "duration_ms": 173112,
+      "name": "Send It Back",
+      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
     },
     {
       "added_at": "2025-10-23 13:01:09",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
+        "name": "Boyband",
+        "url": "https://open.spotify.com/album/5BTKTmmNjQ2cQRhVhrOEFl"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Boyband",
+      "url": "https://open.spotify.com/track/5wPwqVdBFCVGcQKyFXZgcA"
+    },
+    {
+      "added_at": "2025-10-23 13:01:09",
+      "album": {
         "name": "Tears Dry Tonight",
         "url": "https://open.spotify.com/album/2x4jGKWr3BFg511NVr88Cq"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 167142,
       "name": "Tears Dry Tonight",
       "url": "https://open.spotify.com/track/3WjljjNzoLEQxghZLoAyFQ"
-    },
-    {
-      "added_at": "2025-10-23 13:01:09",
-      "album": {
-        "name": "Boyband",
-        "url": "https://open.spotify.com/album/5BTKTmmNjQ2cQRhVhrOEFl"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 177366,
-      "name": "Boyband",
-      "url": "https://open.spotify.com/track/5wPwqVdBFCVGcQKyFXZgcA"
     },
     {
       "added_at": "2025-10-23 13:01:09",
@@ -391,8 +391,8 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
-        "name": "Send It Back",
-        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
+        "name": "Small Change",
+        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
         }
       ],
-      "duration_ms": 173112,
-      "name": "Send It Back",
-      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
+      "duration_ms": 165020,
+      "name": "Small Change",
+      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
     },
     {
       "added_at": "2025-10-23 13:01:09",
@@ -551,18 +551,18 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
-        "name": "Yougotmefeeling",
-        "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
+        "name": "Telephone Busy",
+        "url": "https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 183462,
-      "name": "Yougotmefeeling",
-      "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
+      "duration_ms": 195806,
+      "name": "Telephone Busy",
+      "url": "https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC"
     },
     {
       "added_at": "2025-10-23 13:01:09",
@@ -579,6 +579,22 @@
       "duration_ms": 210203,
       "name": "Never Love",
       "url": "https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ"
+    },
+    {
+      "added_at": "2025-10-23 13:01:09",
+      "album": {
+        "name": "Yougotmefeeling",
+        "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 183462,
+      "name": "Yougotmefeeling",
+      "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
     },
     {
       "added_at": "2025-10-23 13:01:09",
@@ -615,22 +631,6 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
-        "name": "Love Balloon",
-        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Love Balloon",
-      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
-    },
-    {
-      "added_at": "2025-10-23 13:01:09",
-      "album": {
         "name": "FACEDOWN",
         "url": "https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee"
       },
@@ -663,22 +663,18 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
-        "name": "Blackberries",
-        "url": "https://open.spotify.com/album/4AX1Xa86NWZuIxqanx01cx"
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
         }
       ],
-      "duration_ms": 121846,
-      "name": "Blackberries",
-      "url": "https://open.spotify.com/track/2os91j4Ef5BaG6sfyBtKhY"
+      "duration_ms": 240906,
+      "name": "Love Balloon",
+      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
     },
     {
       "added_at": "2025-10-23 13:01:09",
@@ -699,18 +695,22 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
-        "name": "Love Balloon",
-        "url": "https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm"
+        "name": "Blackberries",
+        "url": "https://open.spotify.com/album/4AX1Xa86NWZuIxqanx01cx"
       },
       "artists": [
         {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
         }
       ],
-      "duration_ms": 251880,
-      "name": "Drenched",
-      "url": "https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX"
+      "duration_ms": 121846,
+      "name": "Blackberries",
+      "url": "https://open.spotify.com/track/2os91j4Ef5BaG6sfyBtKhY"
     },
     {
       "added_at": "2025-10-23 13:01:09",
@@ -755,6 +755,26 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
+        "name": "The Right",
+        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "The Right",
+      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
+    },
+    {
+      "added_at": "2025-10-23 13:01:09",
+      "album": {
         "name": "GEEKD",
         "url": "https://open.spotify.com/album/3bwIFbfnfDlsek3SlfFNcd"
       },
@@ -787,6 +807,22 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 251880,
+      "name": "Drenched",
+      "url": "https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX"
+    },
+    {
+      "added_at": "2025-10-23 13:01:09",
+      "album": {
         "name": "I Love My Computer",
         "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
       },
@@ -799,26 +835,6 @@
       "duration_ms": 231365,
       "name": "Delete",
       "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
-    },
-    {
-      "added_at": "2025-10-23 13:01:09",
-      "album": {
-        "name": "The Right",
-        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "The Right",
-      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
     },
     {
       "added_at": "2025-10-23 13:01:09",
@@ -923,22 +939,6 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
-        "name": "i don\u2019t want your garden",
-        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 225570,
-      "name": "i don\u2019t want your garden",
-      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
-    },
-    {
-      "added_at": "2025-10-23 13:01:09",
-      "album": {
         "name": "CRUISING TO SELF SOOTHE",
         "url": "https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 152613,
       "name": "CRUISING TO SELF SOOTHE",
       "url": "https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv"
+    },
+    {
+      "added_at": "2025-10-23 13:01:09",
+      "album": {
+        "name": "i don\u2019t want your garden",
+        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 225570,
+      "name": "i don\u2019t want your garden",
+      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
     },
     {
       "added_at": "2025-10-23 13:01:09",
@@ -971,22 +987,6 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
-        "name": "Summerinlove",
-        "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 271047,
-      "name": "Summerinlove",
-      "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
-    },
-    {
-      "added_at": "2025-10-23 13:01:09",
-      "album": {
         "name": "Fall From The Light",
         "url": "https://open.spotify.com/album/1djGELF1UPU0WaaG8ChI7m"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 206870,
       "name": "Rage Against The Fatigue",
       "url": "https://open.spotify.com/track/3qP8F1NNIIBiU2mtQytkz9"
+    },
+    {
+      "added_at": "2025-10-23 13:01:09",
+      "album": {
+        "name": "Summerinlove",
+        "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 271047,
+      "name": "Summerinlove",
+      "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
     },
     {
       "added_at": "2025-10-23 13:01:09",
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
-        "name": "The Epilogue (Deluxe)",
-        "url": "https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 186971,
-      "name": "Hurt So Bad",
-      "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
-    },
-    {
-      "added_at": "2025-10-23 13:01:09",
-      "album": {
         "name": "wraith",
         "url": "https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC"
       },
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
-        "name": "Sleepless Nights",
-        "url": "https://open.spotify.com/album/7u8UILHegMwW50M0Wgsx2c"
+        "name": "The Epilogue (Deluxe)",
+        "url": "https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH"
       },
       "artists": [
         {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Sleepless Nights",
-      "url": "https://open.spotify.com/track/2mAxV39CZxPL2lsBdfXgvh"
+      "duration_ms": 186971,
+      "name": "Hurt So Bad",
+      "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
     },
     {
       "added_at": "2025-10-23 13:01:09",
@@ -1115,6 +1115,38 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
+        "name": "Leaveyourlove",
+        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 231490,
+      "name": "Leaveyourlove",
+      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
+    },
+    {
+      "added_at": "2025-10-23 13:01:09",
+      "album": {
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/7u8UILHegMwW50M0Wgsx2c"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Sleepless Nights",
+      "url": "https://open.spotify.com/track/2mAxV39CZxPL2lsBdfXgvh"
+    },
+    {
+      "added_at": "2025-10-23 13:01:09",
+      "album": {
         "name": "Music On The Radio",
         "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
@@ -1131,18 +1163,18 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
-        "name": "Leaveyourlove",
-        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
+        "name": "Empty Garden",
+        "url": "https://open.spotify.com/album/1KqgXGh6A5M311iezcYM3R"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
         }
       ],
-      "duration_ms": 231490,
-      "name": "Leaveyourlove",
-      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
+      "duration_ms": 190452,
+      "name": "Empty Garden",
+      "url": "https://open.spotify.com/track/766DQH0fC0VJoDmq8T0aCw"
     },
     {
       "added_at": "2025-10-23 13:01:09",
@@ -1179,22 +1211,6 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
-        "name": "Empty Garden",
-        "url": "https://open.spotify.com/album/1KqgXGh6A5M311iezcYM3R"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 190452,
-      "name": "Empty Garden",
-      "url": "https://open.spotify.com/track/766DQH0fC0VJoDmq8T0aCw"
-    },
-    {
-      "added_at": "2025-10-23 13:01:09",
-      "album": {
         "name": "SONS",
         "url": "https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa"
       },
@@ -1211,46 +1227,6 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
-        "name": "Hey You",
-        "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
-      },
-      "artists": [
-        {
-          "name": "The Belair Lip Bombs",
-          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
-        }
-      ],
-      "duration_ms": 211313,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
-    },
-    {
-      "added_at": "2025-10-23 13:01:09",
-      "album": {
-        "name": "it's Franky baby!",
-        "url": "https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "General Levy",
-          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        }
-      ],
-      "duration_ms": 221602,
-      "name": "Give Thanks, Give Praise",
-      "url": "https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM"
-    },
-    {
-      "added_at": "2025-10-23 13:01:09",
-      "album": {
         "name": "Safeandsound",
         "url": "https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA"
       },
@@ -1263,6 +1239,22 @@
       "duration_ms": 277617,
       "name": "Safeandsound",
       "url": "https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4"
+    },
+    {
+      "added_at": "2025-10-23 13:01:09",
+      "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "duration_ms": 211313,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
     }
   ],
   "unique_name": "Turn Up Aus",

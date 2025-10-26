@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Jeck & Carla, Lewis Capaldi, GIMS x  La Rvfleuze au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,921 likes - 107 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,905 likes - 107 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

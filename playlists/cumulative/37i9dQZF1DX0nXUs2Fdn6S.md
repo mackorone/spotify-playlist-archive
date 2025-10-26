@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-91 songs - 5 hr 0 min
+92 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,11 +85,12 @@
 | [Somedays I Know](https://open.spotify.com/track/5KyMwqeqAVcsGQPICW3LkX) | [Whoshafee](https://open.spotify.com/artist/6PMkmGQLEWSCCml7Z0KKkx) | [Somedays I Know](https://open.spotify.com/album/2OwqlF3OJ0NQWynICBthiO) | 3:49 | 2023-10-20 |  |
 | [Summer Tune](https://open.spotify.com/track/3LyOG6zAbh8zfMRQ5QGxgl) | [Shranay Shahane](https://open.spotify.com/artist/65Jmv6ckflB3P1XWBtyuF2), [Oskar T.T](https://open.spotify.com/artist/2OVetJ63mx7fvwt2xKPfYY) | [Summer Tune](https://open.spotify.com/album/4kMR4J5qGcm62sWEC0Qb2S) | 2:41 | 2023-10-20 |  |
 | [Survived](https://open.spotify.com/track/4vgM82J1Uo424bJVzTDWvn) | [Kian Parikh](https://open.spotify.com/artist/211K7A9MTHN86gfHvy4Rfi) | [Survived](https://open.spotify.com/album/71bBM2D5yNrsDVi7rdgcvR) | 3:06 | 2023-10-20 |  |
+| [Tala](https://open.spotify.com/track/1QB4MXIekuY5iGLrapDNfj) | [Al Tamar](https://open.spotify.com/artist/5eEZAVA1UxTo2a5vwY0gI1), [Elnaaz Norouzi](https://open.spotify.com/artist/59l92FFLwKblV1LHUHYw43) | [Tala](https://open.spotify.com/album/7dH02hdKfme7yOT2BROR6I) | 3:16 | 2025-10-25 |  |
 | [Tempted To Touch \(feat\. Rupee\)](https://open.spotify.com/track/1raJLuHKTmc3au4fC2pmRm) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Tempted To Touch \(feat\. Rupee\)](https://open.spotify.com/album/4eGoobyXkY8XnRu5rwvOV5) | 3:09 | 2023-10-20 |  |
 | [Tere Bina](https://open.spotify.com/track/7im7el3l35lOejnrYCjKVO) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Tere Bina](https://open.spotify.com/album/0ghHOc0zCmHZn93zGlhuNs) | 2:32 | 2023-10-20 |  |
 | [The Excellent Loser](https://open.spotify.com/track/1XbP0nCs7t90yljbC2PPsS) | [Enej Johhem](https://open.spotify.com/artist/3f69RB0W7TVpNs20ul7Fhy) | [The Excellent Loser](https://open.spotify.com/album/3fUi0ZwfrNTM2bb9ppPVQL) | 4:14 | 2023-10-20 |  |
-| [TIME](https://open.spotify.com/track/4T1P3F5FfxP3H0tVlJHX0M) | [NAMI](https://open.spotify.com/artist/2aZPRE1TqOxTvCTF6t8epd) | [TIME](https://open.spotify.com/album/10JLZWX5fIebmdDd91nPez) | 3:30 | 2023-10-20 |  |
-| [Time \- Radio Edit](https://open.spotify.com/track/2D19JpvlOaVSCleOUhBPzl) | [Vetonit](https://open.spotify.com/artist/1WRcXXVWTxLaG93Z8uQo4E) | [Time \(Radio Edit\)](https://open.spotify.com/album/2HxJ3nx0ZrseX5sr7ZpEgw) | 3:32 | 2023-10-20 |  |
+| [TIME](https://open.spotify.com/track/4T1P3F5FfxP3H0tVlJHX0M) | [NAMI](https://open.spotify.com/artist/2aZPRE1TqOxTvCTF6t8epd) | [TIME](https://open.spotify.com/album/10JLZWX5fIebmdDd91nPez) | 3:30 | 2023-10-20 | 2025-10-26 |
+| [Time \- Radio Edit](https://open.spotify.com/track/2D19JpvlOaVSCleOUhBPzl) | [Vetonit](https://open.spotify.com/artist/1WRcXXVWTxLaG93Z8uQo4E) | [Time \(Radio Edit\)](https://open.spotify.com/album/2HxJ3nx0ZrseX5sr7ZpEgw) | 3:32 | 2023-10-20 | 2025-10-26 |
 | [Turiya Turiya](https://open.spotify.com/track/1F6QRDyVmsTu3rBdeo78mY) | [Asad Khan](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Kahani](https://open.spotify.com/album/1WqUCvqJAnYhFOVoRl9zXO) | 2:46 | 2023-10-20 | 2024-04-19 |
 | [Turiya Turiya](https://open.spotify.com/track/7xQRYmgjuC8rAJ8nf8IZV8) | [Asad Khan](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Kahani](https://open.spotify.com/album/05LTuIO7jVTdhVCM6NWH8k) | 2:46 | 2024-02-05 |  |
 | [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:00 | 2023-10-20 | 2024-04-19 |

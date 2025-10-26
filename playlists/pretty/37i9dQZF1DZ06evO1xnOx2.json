@@ -1,13 +1,33 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 620804,
+  "num_followers": 620894,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAABZTyZ6WMgeL6qZcefudnfD",
+  "snapshot_id": "aPrBgAAAAACGdaTvfHjpn2mnWlM53nSI",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rubber Band Man (with Hozier)",
+        "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "Rubber Band Man (with Hozier)",
+      "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
+    },
     {
       "added_at": null,
       "album": {

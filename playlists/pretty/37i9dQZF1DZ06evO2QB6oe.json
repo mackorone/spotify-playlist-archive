@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 69862,
+  "num_followers": 69867,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAADw+zcReQDNBErqJ0hLovu9",
+  "snapshot_id": "aPrBgAAAAADGTMo7dQVf9ZszcPxu8tdy",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mesa Para Dos",
-        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 223192,
-      "name": "Nuevas Mentiras",
-      "url": "https://open.spotify.com/track/3vabwCZ4W0ommrf6wlSInU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Neta",
         "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 188708,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mesa Para Dos",
+        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 223192,
+      "name": "Nuevas Mentiras",
+      "url": "https://open.spotify.com/track/3vabwCZ4W0ommrf6wlSInU"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUNAY",
+        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 174917,
+      "name": "Buena Suerte",
+      "url": "https://open.spotify.com/track/4fAlzlBojsx7aA9llmidAN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/3zn9otXWGsS4fKtmayZgC0"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 170099,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUNAY",
-        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 174917,
-      "name": "Buena Suerte",
-      "url": "https://open.spotify.com/track/4fAlzlBojsx7aA9llmidAN"
     },
     {
       "added_at": null,

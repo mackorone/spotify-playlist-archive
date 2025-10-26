@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Dos Santos
 
-336 songs - 17 hr 3 min
+337 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Fra Wien Til Rom](https://open.spotify.com/track/0kvKRM0wrRoseGifAxfyGv) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Legebørn](https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD) | 4:08 | 2024-06-27 | 2024-10-13 |
 | [Fravær](https://open.spotify.com/track/3n3wux4QslhJMFnwSqw7mC) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Fravær](https://open.spotify.com/album/2hicqCPKVEeRFZzQ9Rk1fy) | 2:08 | 2024-10-24 | 2025-05-23 |
 | [Frederiksberg Allé](https://open.spotify.com/track/3f1DlWjYiewzRCqMcHY8TA) | [Bastian](https://open.spotify.com/artist/2aVSAsnjQKM1vb0D8tUxTe) | [Frederiksberg Allé](https://open.spotify.com/album/4OCRcpNTnraKNLNRBzaBIb) | 2:52 | 2025-10-20 |  |
-| [Fri](https://open.spotify.com/track/0V9y9q6r83jO8dpikgctm0) | [willum](https://open.spotify.com/artist/5TkuPbaXBv3T08JcdvsiDz) | [Fri](https://open.spotify.com/album/4CqgNKlaaPjZHBsqK8lEfy) | 2:47 | 2025-06-26 |  |
+| [Fri](https://open.spotify.com/track/0V9y9q6r83jO8dpikgctm0) | [willum](https://open.spotify.com/artist/5TkuPbaXBv3T08JcdvsiDz) | [Fri](https://open.spotify.com/album/4CqgNKlaaPjZHBsqK8lEfy) | 2:47 | 2025-06-26 | 2025-10-26 |
 | [Fri mand](https://open.spotify.com/track/5FAAsjvJYsNE64tbNwTPT9) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Fri mand](https://open.spotify.com/album/0A0bpSED85vWCLuX5NqKyJ) | 2:49 | 2025-05-01 | 2025-09-05 |
 | [Følsom dreng](https://open.spotify.com/track/7f8XR9iGp7CQzCfKNmtt7t) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Følsom dreng](https://open.spotify.com/album/0gOxMVZPRTfPAxrV5UXKWA) | 3:18 | 2024-09-05 | 2025-02-07 |
 | [Førhen](https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Førhen](https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR) | 3:19 | 2025-06-26 |  |
@@ -148,7 +148,7 @@
 | [Hvad Med Mig](https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [August](https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb) | 3:15 | 2024-08-29 |  |
 | [Hvad Nu Hvis](https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Sytten](https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J) | 3:14 | 2024-06-27 |  |
 | [Hvad Skulle Jeg Gøre Uden Dig](https://open.spotify.com/track/4PejgbI6KITxcOV89OHRt3) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Hvad Skulle Jeg Gøre Uden Dig](https://open.spotify.com/album/6qO89wFyHbBDTiayGAmhFl) | 2:49 | 2025-04-07 | 2025-06-13 |
-| [hver tredje tanke](https://open.spotify.com/track/2NvlPjW8lqMmTSLahIBH6J) | [efterglød](https://open.spotify.com/artist/12ilOlZgqYHKwSkeBWMly3) | [hver tredje tanke](https://open.spotify.com/album/3HPzIP54YDXelJvcXaHPqJ) | 2:48 | 2025-10-16 |  |
+| [hver tredje tanke](https://open.spotify.com/track/2NvlPjW8lqMmTSLahIBH6J) | [efterglød](https://open.spotify.com/artist/12ilOlZgqYHKwSkeBWMly3) | [hver tredje tanke](https://open.spotify.com/album/3HPzIP54YDXelJvcXaHPqJ) | 2:48 | 2025-10-16 | 2025-10-26 |
 | [Hvor Skabet Skal Stå](https://open.spotify.com/track/1VtcllLThCZaQpTC0912PQ) | [Niko Blonde](https://open.spotify.com/artist/5SyUnGMUPI7fYGjwEB3jU5) | [Nimbus](https://open.spotify.com/album/583YsSUYDxrag3ipPEToiK) | 2:43 | 2025-10-16 | 2025-10-24 |
 | [Hvornår](https://open.spotify.com/track/0HrgO9iNsl46VdIGXxETYp) | [Tosomhed](https://open.spotify.com/artist/2FvINsykw40GeQeofZROi4) | [Hvornår](https://open.spotify.com/album/1yYJKSVjCg4A2e7y8Bbeem) | 3:06 | 2025-08-21 | 2025-08-29 |
 | [Hæng En Mand](https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Hæng En Mand](https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa) | 5:12 | 2025-10-02 |  |
@@ -176,7 +176,7 @@
 | [Kemisk](https://open.spotify.com/track/2BKwxqYyt1R8FwNS87BpCt) | [Elsked](https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ) | [Piratradio](https://open.spotify.com/album/355gSMNGokAKgdynsIfQ43) | 2:48 | 2024-07-11 | 2025-02-12 |
 | [Kender Du Følelsen](https://open.spotify.com/track/0cbtDG0OLxNccO5lSWtngT) | [Statisk](https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN) | [Trampoliner](https://open.spotify.com/album/2QvWHgcFu0ztbYoSxLU2d4) | 2:31 | 2024-06-27 | 2025-02-21 |
 | [kendt mig en uge](https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [kendt mig en uge](https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd) | 3:06 | 2025-03-21 |  |
-| [Klart Nok](https://open.spotify.com/track/0itsAYJPTg18QJadt3lchA) | [Kvadrillers](https://open.spotify.com/artist/7cGbT709Ly8AR5xjPJPeac) | [Klart Nok](https://open.spotify.com/album/12lnq7v7r939itsSBIa9oF) | 2:26 | 2025-10-16 | 2025-10-24 |
+| [Klart Nok](https://open.spotify.com/track/0itsAYJPTg18QJadt3lchA) | [Kvadrillers](https://open.spotify.com/artist/7cGbT709Ly8AR5xjPJPeac) | [Klart Nok](https://open.spotify.com/album/12lnq7v7r939itsSBIa9oF) | 2:26 | 2025-10-16 |  |
 | [Klip Klap Sandaler](https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Kan Du Mærke Suset?](https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty) | 4:00 | 2024-10-10 |  |
 | [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 | 2025-01-23 |  |
 | [Klubben \(i Klubben\) \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/2jlxBDCYsN3jdKqA7EviyG) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Klubben \(i Klubben\)](https://open.spotify.com/album/2yxOclgOPNKkEJ5rC5OQ1j) | 2:51 | 2024-06-27 | 2024-08-05 |
@@ -329,6 +329,7 @@
 | [Virkeligheden](https://open.spotify.com/track/0clh0Q9TpJI8HTP29VDg3F) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [Til Mit Efterår](https://open.spotify.com/album/7IzaD6xvzLsPzzCusVqC8X) | 2:54 | 2025-10-02 | 2025-10-20 |
 | [Vis Mig Alt](https://open.spotify.com/track/4pa7tAyNpiZShIWpn36rxW) | [Elias Kingo](https://open.spotify.com/artist/2H5Xin8lzK6OvxdijxC96E) | [Vis Mig Alt](https://open.spotify.com/album/7mhApSWZdkETIQzgufU85b) | 2:21 | 2025-06-19 | 2025-06-27 |
 | [Vissen Blomst](https://open.spotify.com/track/2XtZV6aSCGbzKXSqB9fn0S) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [Vissen Blomst](https://open.spotify.com/album/1DCHDbwVFp86zxB6EnCptd) | 2:03 | 2025-05-29 | 2025-06-06 |
+| [Void](https://open.spotify.com/track/0FnPLGAM2kz47V99T5YskK) | [Sophia Fredskild](https://open.spotify.com/artist/15edqA39JeSpGB7skxqcNz) | [Void](https://open.spotify.com/album/3VZSSQaS4szKE3aq2vNNEW) | 3:16 | 2025-10-23 |  |
 | [Vores Forhandling](https://open.spotify.com/track/2Ljapecp7oUgZGkOkO6FcI) | [Karoline Funder](https://open.spotify.com/artist/05YpD8zp3oH1xrBIncrTwV) | [Vores Forhandling](https://open.spotify.com/album/5ZGzhdbIorV137lQW3CvTR) | 2:29 | 2025-02-06 |  |
 | [Vågen igen](https://open.spotify.com/track/4ZA8fLnOlO8u0OOT4QrMD5) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Vågen igen](https://open.spotify.com/album/2XjznrGCaPqfMTvdadWfzb) | 4:10 | 2024-10-24 | 2025-03-21 |
 | [været der for mig](https://open.spotify.com/track/12ad9oFsZSnVnOayNX044w) | [Undertekst](https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM) | [været der for mig](https://open.spotify.com/album/75xujGRiyUtiiw67mmJOnn) | 2:48 | 2024-08-29 | 2024-09-06 |

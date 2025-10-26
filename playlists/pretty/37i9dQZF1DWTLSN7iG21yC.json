@@ -1,6 +1,6 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 845409,
+  "num_followers": 845329,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
@@ -255,26 +255,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Stuck with U",
-        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 228482,
-      "name": "Stuck with U (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Leave Before You Love Me",
         "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Stuck with U",
+        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 228482,
+      "name": "Stuck with U (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "When You're Gone",
-        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
       },
@@ -695,18 +679,34 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Beautiful Colors - from Kaiju No. 8",
-        "url": "https://open.spotify.com/album/7J74ZcCS99ZyNUHB6E6Ntn"
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 157151,
-      "name": "Beautiful Colors - from Kaiju No. 8",
-      "url": "https://open.spotify.com/track/3Tdih47Fm5lGlwc4qsqFGr"
+      "duration_ms": 172266,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Put Your Records On",
+        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
+      },
+      "artists": [
+        {
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+        }
+      ],
+      "duration_ms": 210463,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -727,18 +727,18 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Put Your Records On",
-        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
+        "name": "Beautiful Colors - from Kaiju No. 8",
+        "url": "https://open.spotify.com/album/7J74ZcCS99ZyNUHB6E6Ntn"
       },
       "artists": [
         {
-          "name": "Ritt Momney",
-          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 210463,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
+      "duration_ms": 157151,
+      "name": "Beautiful Colors - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/3Tdih47Fm5lGlwc4qsqFGr"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -943,30 +943,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "The Hudson",
-        "url": "https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt"
-      },
-      "artists": [
-        {
-          "name": "The Favors",
-          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
-        },
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        },
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 216964,
-      "name": "The Hudson",
-      "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng"
       },
@@ -1003,6 +979,30 @@
       "duration_ms": 210219,
       "name": "working",
       "url": "https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "The Hudson",
+        "url": "https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt"
+      },
+      "artists": [
+        {
+          "name": "The Favors",
+          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        },
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 216964,
+      "name": "The Hudson",
+      "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "DRIVING",
-        "url": "https://open.spotify.com/album/5IolhHwXOqy3zVWba8AZZW"
-      },
-      "artists": [
-        {
-          "name": "Eddie Benjamin",
-          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
-        }
-      ],
-      "duration_ms": 170232,
-      "name": "DRIVING",
-      "url": "https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "SunKissing",
         "url": "https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Not Goodbye (Close My Eyes)",
-        "url": "https://open.spotify.com/album/1sIXZgz5vUYWCkR6yHaDSS"
+        "name": "DRIVING",
+        "url": "https://open.spotify.com/album/5IolhHwXOqy3zVWba8AZZW"
       },
       "artists": [
         {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+          "name": "Eddie Benjamin",
+          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Not Goodbye (Close My Eyes)",
-      "url": "https://open.spotify.com/track/21I6SL2JSDfV04k1QFyLEG"
+      "duration_ms": 170232,
+      "name": "DRIVING",
+      "url": "https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1423,6 +1407,22 @@
       "duration_ms": 200814,
       "name": "Be The One (with Khalid)",
       "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Not Goodbye (Close My Eyes)",
+        "url": "https://open.spotify.com/album/1sIXZgz5vUYWCkR6yHaDSS"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Not Goodbye (Close My Eyes)",
+      "url": "https://open.spotify.com/track/21I6SL2JSDfV04k1QFyLEG"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/7MLu0RY87rxk3fJ1g0ZEre"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Cohen",
-          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
-        }
-      ],
-      "duration_ms": 220732,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/0RhzM0OwtSy008gV9MubT7"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "When I Get There",
         "url": "https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 200173,
       "name": "When I Get There",
       "url": "https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/7MLu0RY87rxk3fJ1g0ZEre"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Cohen",
+          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
+        }
+      ],
+      "duration_ms": 220732,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/0RhzM0OwtSy008gV9MubT7"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Hard To Be Happy",
-        "url": "https://open.spotify.com/album/5ItMQSBkpe44v1dln7kkos"
-      },
-      "artists": [
-        {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Hard To Be Happy",
-      "url": "https://open.spotify.com/track/2qTDHYBUTjYr8jsVjXxS2P"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 182066,
       "name": "Don't",
       "url": "https://open.spotify.com/track/2q9YHakYN697yPpEitqybk"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Hard To Be Happy",
+        "url": "https://open.spotify.com/album/5ItMQSBkpe44v1dln7kkos"
+      },
+      "artists": [
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Hard To Be Happy",
+      "url": "https://open.spotify.com/track/2qTDHYBUTjYr8jsVjXxS2P"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
+        "name": "Talk About Love",
+        "url": "https://open.spotify.com/album/5i6UvFvn2My0AZCwyDIXGN"
+      },
+      "artists": [
+        {
+          "name": "Kate Hudson",
+          "url": "https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME"
+        }
+      ],
+      "duration_ms": 228912,
+      "name": "Talk About Love",
+      "url": "https://open.spotify.com/track/2xc5PUIG6lJVvn3yr96n1r"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
         "name": "Plus & Minus",
         "url": "https://open.spotify.com/album/0DUmnbozJygIO0DNx0aN3s"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 188264,
       "name": "Plus & Minus",
       "url": "https://open.spotify.com/track/6K7TDfj9Ne1FMIsKH3pUFF"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
-        "name": "Talk About Love",
-        "url": "https://open.spotify.com/album/5i6UvFvn2My0AZCwyDIXGN"
-      },
-      "artists": [
-        {
-          "name": "Kate Hudson",
-          "url": "https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME"
-        }
-      ],
-      "duration_ms": 228912,
-      "name": "Talk About Love",
-      "url": "https://open.spotify.com/track/2xc5PUIG6lJVvn3yr96n1r"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Wish You The Best",
-        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ"
       },
@@ -1983,6 +1967,22 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
+        "name": "Wish You The Best",
+        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
         "name": "Last Train Home",
         "url": "https://open.spotify.com/album/0N81gHRK0RnJY0vMAOKVyi"
       },
@@ -1995,6 +1995,22 @@
       "duration_ms": 187309,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/1fzf9Aad4y1RWrmwosAK5y"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "favorite kind of high",
+        "url": "https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 175247,
+      "name": "favorite kind of high",
+      "url": "https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -2043,18 +2059,18 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "favorite kind of high",
-        "url": "https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn"
+        "name": "altar",
+        "url": "https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 175247,
-      "name": "favorite kind of high",
-      "url": "https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9"
+      "duration_ms": 243090,
+      "name": "altar",
+      "url": "https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -2071,22 +2087,6 @@
       "duration_ms": 164396,
       "name": "Older",
       "url": "https://open.spotify.com/track/4qeHV9T5N3S7KAKryZQp8s"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
-        "name": "altar",
-        "url": "https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 243090,
-      "name": "altar",
-      "url": "https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O"
     },
     {
       "added_at": "2025-08-08 04:00:40",

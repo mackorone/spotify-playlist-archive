@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: ¥ellow Bucks
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,819 likes - 96 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,845 likes - 96 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 15 | [I'm A Rapper](https://open.spotify.com/track/4Dn7sVbvv1Nj2QvcKcqBEn) | [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [DJ Hazime](https://open.spotify.com/artist/5OTMloJew4RhmaLHAFyItP) | [I'm A Rapper](https://open.spotify.com/album/1DZTM15o6Wn5LKsIgeFt5b) | 2:47 |
 | 16 | [Elegant Life](https://open.spotify.com/track/6l7aFup0bWhz9oAP6d4NjI) | [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R) | [Elegant Life](https://open.spotify.com/album/0UxLylK9C3GHcli9hlj7xQ) | 2:42 |
 | 17 | [Tee Shyne Flow](https://open.spotify.com/track/2TbcC82ZBbUgeEwpI6IaTD) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Skipping Tape Vol.3](https://open.spotify.com/album/6B2Mj4AkEc2mxj0x1ML4AD) | 2:18 |
-| 18 | [GHOST RIDER \(feat\. kenayeboi & Lunv Loyal\)](https://open.spotify.com/track/6Yngnfhh6EIPW5WqYF8H4k) | [DJ BULLSET](https://open.spotify.com/artist/6b318qmGU1l2FHiZd5VjTX), [Kenayeboi](https://open.spotify.com/artist/2cdhPAmzK6fgdQwUAoAEgi), [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M) | [GHOST RIDER \(feat\. kenayeboi & Lunv Loyal\)](https://open.spotify.com/album/5xZZUJF4h9sABSUCij3HYY) | 3:03 |
+| 18 | [GHOST RIDER \(feat\. kenayeboi & Lunv Loyal\)](https://open.spotify.com/track/6Yngnfhh6EIPW5WqYF8H4k) | [DJ BULLSET](https://open.spotify.com/artist/2pBq8M25MZ3sp90YZIkS88), [Kenayeboi](https://open.spotify.com/artist/2cdhPAmzK6fgdQwUAoAEgi), [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M) | [GHOST RIDER \(feat\. kenayeboi & Lunv Loyal\)](https://open.spotify.com/album/5xZZUJF4h9sABSUCij3HYY) | 3:03 |
 | 19 | [We Don't Trust \(feat\. Fisong, SiX FXXT UNDXR & Worldwide Skippa\) \- Remix](https://open.spotify.com/track/1D12j2E7NWfPRK2QwIk1m3) | [Moment Joon](https://open.spotify.com/artist/2FmmcFD4xNpAZGiDPizWll), [Fisong](https://open.spotify.com/artist/2qIegodrHjmTpuAsJ6vbcW), [SiX FXXT UNDXR](https://open.spotify.com/artist/25Gl3vI9iupwqKWY7Yfo4v), [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [We Don't Trust](https://open.spotify.com/album/4CyzjfPM0CfHCpqD5N8cz8) | 4:10 |
 | 20 | [Ski Ga Ski \(隙が好き\)](https://open.spotify.com/track/52QAsWTBhQOPBA83ZfFERg) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Ski Ga Ski \(隙が好き\)](https://open.spotify.com/album/6d9GgeqYFK8JYqhS6U8mwL) | 2:01 |
 | 21 | [MAGURO](https://open.spotify.com/track/2PmlpDNdiLjmemk0acZPkm) | [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi) | [Trophy Bitch](https://open.spotify.com/album/5377CASsGvf1X3cCxxBBZB) | 2:40 |

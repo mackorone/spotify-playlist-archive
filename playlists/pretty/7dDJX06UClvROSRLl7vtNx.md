@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 101,111 likes - 218 songs - 9 hr 21 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 101,156 likes - 217 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,8 +223,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 213 | [Silence](https://open.spotify.com/track/2byCVqyzzpEdlAIDEVCZhd) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Silence](https://open.spotify.com/album/1HEeUhoxsJDWK9dOL1cakm) | 3:02 |
 | 214 | [Morning Sun \(feat\. Pawl\)](https://open.spotify.com/track/3e2anvEqdHCR6ivQMB50lZ) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [Pawl](https://open.spotify.com/artist/1ShHSfgvLgJ4i26xcXB232) | [Morning Sun \(feat\. Pawl\)](https://open.spotify.com/album/67V8496rxkqphKBpLz8zjC) | 2:40 |
 | 215 | [Nights Like This](https://open.spotify.com/track/731PM3LdGvReQiB1GBQBO9) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Felipe Allenn](https://open.spotify.com/artist/3ApsbRT5vKW3VaNcUlDy6D) | [Nights Like This](https://open.spotify.com/album/3nW8uCpMqQuJwrCUyAzF99) | 2:57 |
-| 216 | [Marbles](https://open.spotify.com/track/2MH851u25cVnaTvzReLJlk) | [Rae](https://open.spotify.com/artist/30IgI1X3LgzrsTBCdEaJMU) | [Marbles](https://open.spotify.com/album/4ZhXRbVu1ltPminbzChJ82) | 1:53 |
-| 217 | [Nobody](https://open.spotify.com/track/2DC6iIYG8VBgJhs0MuwKyL) | [Impani](https://open.spotify.com/artist/17aRTH8IYiW9945DeGB25Y), [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L) | [Nobody](https://open.spotify.com/album/1I3kCi0a3IGZg3zT8dla8Z) | 3:16 |
-| 218 | [GREENER](https://open.spotify.com/track/7yBlorACxgFDPYYgeZ3aOs) | [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD), [Sirena](https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw) | [GREENER](https://open.spotify.com/album/2om5mSDSItb333vmq90fAw) | 2:52 |
+| 216 | [Nobody](https://open.spotify.com/track/2DC6iIYG8VBgJhs0MuwKyL) | [Impani](https://open.spotify.com/artist/17aRTH8IYiW9945DeGB25Y), [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L) | [Nobody](https://open.spotify.com/album/1I3kCi0a3IGZg3zT8dla8Z) | 3:16 |
+| 217 | [GREENER](https://open.spotify.com/track/7yBlorACxgFDPYYgeZ3aOs) | [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD), [Sirena](https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw) | [GREENER](https://open.spotify.com/album/2om5mSDSItb333vmq90fAw) | 2:52 |
 
-Snapshot ID: `AABNlOHC159no9itG0mGZtl27sJpeviR`
+Snapshot ID: `AABNlYzVoN+30xwoSMDuNSjXhTNWNyAO`

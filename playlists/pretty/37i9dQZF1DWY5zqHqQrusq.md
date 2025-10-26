@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind\. Cover: Ceke
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,990 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,994 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 49 | [Mae Wendi](https://open.spotify.com/track/6YPaq5MbxQDKxnODtg4CKy) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke) | 3:43 |
 | 50 | [Sasa Hivi \- Stripped Down](https://open.spotify.com/track/1Qk7oSqD7oE61MfyxzGRQR) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Ashley Music](https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd) | [Sasa Hivi \(Stripped Down\)](https://open.spotify.com/album/21QfGfMQr8s4EAmZqdcXVg) | 4:22 |
 
-Snapshot ID: `AAAAAKgXUWBnEc06qlITXnq+xOIiYT+F`
+Snapshot ID: `AAAAAK985F+Xzh6HegFtBP1tVawBA9u1`

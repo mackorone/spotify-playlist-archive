@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 340487,
+  "num_followers": 340621,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "Inside Information",
+        "url": "https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 237693,
+      "name": "I Don't Want to Live Without You",
+      "url": "https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 226133,
       "name": "The Next Time I Fall (with Amy Grant)",
       "url": "https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Inside Information",
-        "url": "https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 237693,
-      "name": "I Don't Want to Live Without You",
-      "url": "https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The Very Best Of Dan Fogelberg",
-        "url": "https://open.spotify.com/album/3mXsZ9l6CT8IXOWDngEghm"
-      },
-      "artists": [
-        {
-          "name": "Dan Fogelberg",
-          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/1ZhDatT59MAoXRLtQiMMfg"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Quinella",
         "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 294400,
       "name": "Alien",
       "url": "https://open.spotify.com/track/7DZQd335o3GLCJhkqUox4I"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "The Very Best Of Dan Fogelberg",
+        "url": "https://open.spotify.com/album/3mXsZ9l6CT8IXOWDngEghm"
+      },
+      "artists": [
+        {
+          "name": "Dan Fogelberg",
+          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1ZhDatT59MAoXRLtQiMMfg"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Chicago 17 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3kkAB63Am6POYuMTisinaa"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "You're the Inspiration - 2009 Remaster",
-      "url": "https://open.spotify.com/track/6d7PQZtTbHbcYqaygOW7vs"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Soul Searchin'",
         "url": "https://open.spotify.com/album/4b6WnqBqu76diL48izgBZJ"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 279693,
       "name": "True Love",
       "url": "https://open.spotify.com/track/0fMlhe66IZtHbCSe5EGBlX"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Chicago 17 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3kkAB63Am6POYuMTisinaa"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "You're the Inspiration - 2009 Remaster",
+      "url": "https://open.spotify.com/track/6d7PQZtTbHbcYqaygOW7vs"
     },
     {
       "added_at": "2023-03-30 14:38:10",

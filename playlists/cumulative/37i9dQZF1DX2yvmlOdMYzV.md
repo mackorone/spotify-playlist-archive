@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-1,052 songs - 2 day 9 hr 25 min
+1,053 songs - 2 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Butterflies](https://open.spotify.com/track/03FKr8sS1cfUchcefvpniw) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Butterflies](https://open.spotify.com/album/2h1DBv3Q0QtwcqkGSrX0cE) | 2:50 | 2024-07-19 | 2025-05-17 |
 | [Butterfly](https://open.spotify.com/track/4PWEOC42dyiedQfS85MId3) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Butterfly](https://open.spotify.com/album/4r2VLMcSn7hxfZvd5T3lMr) | 3:43 | 2023-04-14 | 2023-09-02 |
 | [Buying Time](https://open.spotify.com/track/3Yt0liwMgB3I0xv3FQBDzI) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Buying Time](https://open.spotify.com/album/4w2JvzBwaKaYBdLWeepWI3) | 3:56 | 2021-12-15 | 2023-03-25 |
-| [c thru](https://open.spotify.com/track/0NoyyMZy4oQr1yWlZ3J9Uh) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [FRANCIS](https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs) | 3:23 | 2024-06-07 | 2025-10-18 |
+| [c thru](https://open.spotify.com/track/0NoyyMZy4oQr1yWlZ3J9Uh) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [FRANCIS](https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs) | 3:23 | 2024-06-07 |  |
 | [Caged Bird](https://open.spotify.com/track/2dzEIMnXj4bRiRMoax1xE4) | [Myles Cameron](https://open.spotify.com/artist/2B2dZ6tZkA7MAHcPaHw1wF) | [Caged Bird](https://open.spotify.com/album/1jtKoTIOnGlTuw9Vamp0qc) | 3:55 | 2022-06-30 | 2023-05-13 |
 | [Caged Bird](https://open.spotify.com/track/3MPcfaxPTQPR3w58qaODvX) | [Myles Cameron](https://open.spotify.com/artist/2B2dZ6tZkA7MAHcPaHw1wF) | [Caged Bird](https://open.spotify.com/album/3IBILS75wwvGzaNFCQtV8u) | 3:55 | 2021-12-15 | 2022-04-21 |
 | [Call Me](https://open.spotify.com/track/2wfhBk432aY2abZYUsFtdK) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Call Me](https://open.spotify.com/album/1V7N5QcQylVUFyGK6fTSz6) | 2:31 | 2021-12-15 | 2022-07-29 |
@@ -237,7 +237,7 @@
 | [Drift'n](https://open.spotify.com/track/7baq1ruFowsDoGddn29aax) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [WAITING on YOU](https://open.spotify.com/album/0OtjbHExx0ZAYi6TptDujz) | 4:46 | 2025-03-21 | 2025-05-11 |
 | [Drifty](https://open.spotify.com/track/3dJSC3yIV69Afxvme5qf5d) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Demos](https://open.spotify.com/album/2HatDWFqyd2cFNHX7wX7Yp) | 3:57 | 2021-12-15 | 2023-02-13 |
 | [Dripping](https://open.spotify.com/track/3Gjx7TOIYZkO9X8HoikLgy) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Sky Without Stars](https://open.spotify.com/album/3QIrrLWq2wnMdScMx1YXeS) | 3:56 | 2023-09-22 | 2025-09-08 |
-| [Driving Me Wild](https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Driving Me Wild](https://open.spotify.com/album/2sClfYTlQ4XeDKox9QCVxG) | 3:02 | 2025-06-06 |  |
+| [Driving Me Wild](https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Driving Me Wild](https://open.spotify.com/album/2sClfYTlQ4XeDKox9QCVxG) | 3:02 | 2025-06-06 | 2025-10-26 |
 | [Drop In](https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Drop In](https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3) | 3:26 | 2023-09-15 |  |
 | [Drowning](https://open.spotify.com/track/6ra4QCibGRwecj33rpqTIo) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Drowning](https://open.spotify.com/album/46YjmtyJkwVGMjTqDo09ZE) | 2:36 | 2025-01-24 |  |
 | [Drream](https://open.spotify.com/track/0Sfjn8R8lvJwB4xjPAA2MU) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx), [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR) | [Drream](https://open.spotify.com/album/3LTsCYKj2YIWrlq5GiZ2dy) | 3:10 | 2023-08-25 | 2024-06-16 |
@@ -537,6 +537,7 @@
 | [Lock My Door](https://open.spotify.com/track/0UeHMHVqM0eesT4f984vCP) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l), [Eauxby](https://open.spotify.com/artist/1m3MSOi9y9DRexRUuTsA14) | [Lock My Door](https://open.spotify.com/album/4MOAoml4xfTj9Civ9580re) | 3:35 | 2021-12-15 | 2022-04-08 |
 | [Lonely](https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:11 | 2023-06-23 | 2024-08-03 |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2024-08-23 |  |
+| [Lonely Mile](https://open.spotify.com/track/6rQ1ypqzzbYrVTmhSt2nKl) | [LUCA](https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT) | [Lonely Mile](https://open.spotify.com/album/2SLdyDrKz5ALBPMrwQGKbf) | 3:43 | 2025-10-17 |  |
 | [long stay \(feat\. Bakar\)](https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:35 | 2023-06-30 | 2024-07-09 |
 | [loosely](https://open.spotify.com/track/46ZeKUAem54RJPgpXFP42B) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [FOR STARTERS](https://open.spotify.com/album/316oNIv6BFvl4jomSmcGg2) | 2:12 | 2023-06-30 | 2025-09-08 |
 | [Lose Control](https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Bittersweet](https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0) | 3:01 | 2022-02-11 | 2023-04-29 |
@@ -708,7 +709,7 @@
 | [Paradise](https://open.spotify.com/track/5pBSxjuMqmm9CVPz8RIIPy) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN) | 3:38 | 2023-09-15 | 2024-04-19 |
 | [Part of the Plan](https://open.spotify.com/track/2kPFMV84TsbapBvvZD5rIR) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk), [Konny Kon](https://open.spotify.com/artist/6iXAWFAyOH7C7lp4Dl3rYI) | [Part of the Plan / Faded from the Jump](https://open.spotify.com/album/3IB7r6ilRLHfjf6ckuTfA5) | 3:19 | 2024-11-22 | 2025-02-11 |
 | [Party On Mars](https://open.spotify.com/track/71Z9IsCkGbbMmVMatELPXa) | [Shanté](https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju) | [Protection](https://open.spotify.com/album/5c1ExU1WZbSUBRRaF9vF1F) | 2:58 | 2021-12-15 | 2022-11-13 |
-| [Passenger Princess \(feat\. Aqyila\)](https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Passenger Princess \(Remix\)](https://open.spotify.com/album/1548AEh0bKJXMYrkdfEB3l) | 3:40 | 2024-09-28 |  |
+| [Passenger Princess \(feat\. Aqyila\)](https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Passenger Princess \(Remix\)](https://open.spotify.com/album/1548AEh0bKJXMYrkdfEB3l) | 3:40 | 2024-09-28 | 2025-10-26 |
 | [PATIENCE](https://open.spotify.com/track/1s4nf70ewlVgOgULKYkvoR) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [COME AS YOU ARE](https://open.spotify.com/album/4P5fBzAOk6fcsyzUHs8ce2) | 2:36 | 2023-08-18 | 2023-10-15 |
 | [Patience](https://open.spotify.com/track/67Cp7D1bHpGn3nsRaefokn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:20 | 2025-07-13 |  |
 | [PATTERNS](https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [PATTERNS](https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4) | 3:44 | 2021-12-15 | 2023-08-19 |

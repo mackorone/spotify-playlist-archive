@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 
 > Get moving on the dancefloor with some big room beats! Cover: Frank Walker, Josh Ross &amp; Norma Jean Martine.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,743 likes - 99 songs - 5 hr 26 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,741 likes - 99 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 | 57 | [Only Friends](https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Only Friends](https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC) | 2:38 |
 | 58 | [Dance In The Sunlight](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Dance In The Sunlight](https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78) | 2:47 |
 | 59 | [Remember Me](https://open.spotify.com/track/15RPmc9LVulYANNiuyDQBC) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE) | [Remember Me](https://open.spotify.com/album/41b7QZKNWavDjxpKa7D5aW) | 2:20 |
-| 60 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:03 |
+| 60 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:04 |
 | 61 | [No Regrets](https://open.spotify.com/track/5UGWtEHRbi3Y44RcSJER3B) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [No Regrets](https://open.spotify.com/album/1Yp44nuzZFD65GoZYxfsAx) | 2:31 |
 | 62 | [U WON'T!](https://open.spotify.com/track/7iYyOqLQY46zCtfP3zW3bl) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [U WON'T!](https://open.spotify.com/album/3eSyIBoXNUuMRW3hH4KAJI) | 2:01 |
 | 63 | [The Way I Love You](https://open.spotify.com/track/6u1xR1LKAiahXPrwjNCkky) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/5LM2wQNoA6LlS5aTR4PKJj) | 3:23 |

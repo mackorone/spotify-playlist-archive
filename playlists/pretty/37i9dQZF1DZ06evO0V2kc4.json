@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 73010,
+  "num_followers": 73026,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPlwAAAAAAAt70TevO9OR0FYxXi6mV0p",
+  "snapshot_id": "aPrBgAAAAADTWM5KSnl0HUHFF/GJTIDT",
   "tracks": [
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 184666,
-      "name": "Hello In There",
-      "url": "https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs"
+      "duration_ms": 235560,
+      "name": "Winds Of The Old Days",
+      "url": "https://open.spotify.com/track/68bDt56iZFYpszQC8o4Z4v"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 235560,
-      "name": "Winds Of The Old Days",
-      "url": "https://open.spotify.com/track/68bDt56iZFYpszQC8o4Z4v"
+      "duration_ms": 184666,
+      "name": "Hello In There",
+      "url": "https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Gold Castle Masters",
-        "url": "https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "No Woman No Cry - Live",
-      "url": "https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Farewell, Angelina",
         "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 185933,
       "name": "Colours",
       "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Gold Castle Masters",
+        "url": "https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "No Woman No Cry - Live",
+      "url": "https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy"
     },
     {
       "added_at": null,

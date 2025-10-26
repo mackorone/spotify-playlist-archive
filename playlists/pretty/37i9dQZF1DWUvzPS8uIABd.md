@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Minttu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,653 likes - 66 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,669 likes - 66 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/track/35kMp6OpJVgFuSWElHqgbh) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/album/2VN3IhBnCYWIhLpIrqYB5C) | 3:34 |
-| 2 | [Voiko enkelitkin eksyä](https://open.spotify.com/track/0p2JegDOnAHal6tyUqcsbW) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6ZawkhQLo031iW3evZzeUr) | 4:00 |
-| 3 | [Tyttöystävä](https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Tyttöystävä](https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8) | 2:57 |
+| 1 | [Tyttöystävä](https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Tyttöystävä](https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8) | 2:57 |
+| 2 | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/track/35kMp6OpJVgFuSWElHqgbh) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/album/2VN3IhBnCYWIhLpIrqYB5C) | 3:34 |
+| 3 | [Voiko enkelitkin eksyä](https://open.spotify.com/track/0p2JegDOnAHal6tyUqcsbW) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6ZawkhQLo031iW3evZzeUr) | 4:00 |
 | 4 | [Rakkauteen \(Vain elämää kausi 16\)](https://open.spotify.com/track/5TeqjpMEE4YAgo1NtlCje9) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Rakkauteen \(Vain elämää kausi 16\)](https://open.spotify.com/album/7FUgrkjZ2S7YYeXGvaFlsn) | 3:15 |
 | 5 | [Mä oon se tyttö](https://open.spotify.com/track/1yPXRZYJcZpi3SUQcT2Yro) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Mä oon se tyttö](https://open.spotify.com/album/1BNBt5vqJqJvMx4wNGAfgF) | 2:53 |
 | 6 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 65 | [NRO1 BÄMÄ](https://open.spotify.com/track/6cNFoKcRDKFs2j2aUKxYtt) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [NRO1 BÄMÄ](https://open.spotify.com/album/4Qw9aHxTzjFkWxZsGiwK8z) | 2:34 |
 | 66 | [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 |
 
-Snapshot ID: `AAAAABQfsiMNqRNWzRAqgBZukMssV2if`
+Snapshot ID: `AAAAAAx4e4z7ZlWi4AR2bEJHLJ7UBwQh`
