@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168 likes - 305 songs - 14 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 167 likes - 305 songs - 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 89 | [Tu Quer Enganar Quem \(Ao Vivo\)](https://open.spotify.com/track/0lOUg9CDcFmtsBu4AMVMCe) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Tu Quer Enganar Quem \(Ao Vivo\)](https://open.spotify.com/album/7aDL6TB9BMODHG4h32RLYe) | 2:39 |
 | 90 | [Beba Mais](https://open.spotify.com/track/6rR6G2Jczsf9ldmewLhIRe) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Beba Mais](https://open.spotify.com/album/27rNQ2moFYiYsdIMeIACUJ) | 2:55 |
 | 91 | [Marque Alguém \- Ao Vivo](https://open.spotify.com/track/5EQP15IuWB6lncatia3yGo) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Marque Alguém \(Ao Vivo\)](https://open.spotify.com/album/5mImZWnI58Aedwg81ZzQS1) | 2:57 |
-| 92 | [Viajante de Corações](https://open.spotify.com/track/1f9qtqV7NfcPeGPSujrxEy) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Viajante de Corações](https://open.spotify.com/album/6lLM4NDNxEHBNHeYE7OrZk) | 2:53 |
-| 93 | [Minha Boca No Lixo \- Ao Vivo](https://open.spotify.com/track/0jqx3kJed5MyyYS9RUYNmv) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo\)](https://open.spotify.com/album/6YhHHvEn2a7qlJ30iTdxFM) | 2:44 |
+| 92 | [Minha Boca No Lixo \- Ao Vivo](https://open.spotify.com/track/0jqx3kJed5MyyYS9RUYNmv) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo\)](https://open.spotify.com/album/6YhHHvEn2a7qlJ30iTdxFM) | 2:44 |
+| 93 | [Viajante de Corações](https://open.spotify.com/track/1f9qtqV7NfcPeGPSujrxEy) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Viajante de Corações](https://open.spotify.com/album/6lLM4NDNxEHBNHeYE7OrZk) | 2:53 |
 | 94 | [Se Quiser Melhorar](https://open.spotify.com/track/2GDBzFMJaokCDXWTc8edqL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos, EP3](https://open.spotify.com/album/3kEAw83xB24KyNKuLhjz1m) | 3:25 |
 | 95 | [Muda De Planeta](https://open.spotify.com/track/02pratXuIvJ6NlCdmNcFhR) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Acústico Do Nada](https://open.spotify.com/album/64p7CrFGlKyEFvAnv3P0D4) | 2:07 |
 | 96 | [Alcontece \- Ao Vivo](https://open.spotify.com/track/4qkmikm7bWz5RYjkCm6Bn2) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [1 Dois 3 \(Ao Vivo\)](https://open.spotify.com/album/6fVTu62HtqwjVwYwidjkVi) | 2:44 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 101 | [Todo Mundo Tem \- Ao Vivo No Casa Filtr](https://open.spotify.com/track/67qlZmHMltO8PMYrN8xqfN) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Todo Mundo Tem \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/2Cr8MwvcUx0wQurx8uSw43) | 2:56 |
 | 102 | [Eu E Você De Novo \- Ao Vivo](https://open.spotify.com/track/4sKpxFZn8mpmFZXe8rYRjY) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Ao Vivo Em Maceió](https://open.spotify.com/album/0ua7snDhitmW4xhrNODuFC) | 3:03 |
 | 103 | [Deixa Ir](https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Deixa Ir](https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5) | 2:32 |
-| 104 | [Saudade Covarde](https://open.spotify.com/track/1JrNRacqyusYEOzxHKGXRo) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Coisa De Louco EP](https://open.spotify.com/album/4loAIuNE5Czk1DKMUPfPj4) | 2:45 |
-| 105 | [Apaga Apaga Apaga](https://open.spotify.com/track/1IpIfC75FTA8l4i3RQzRbq) | [Unha Pintada Show](https://open.spotify.com/artist/0YyR6xgollAvHIMDnKog3s) | [Apaga Apaga Apaga](https://open.spotify.com/album/3S93Ed0gdYWBU9zlLW1i85) | 3:15 |
+| 104 | [Apaga Apaga Apaga](https://open.spotify.com/track/1IpIfC75FTA8l4i3RQzRbq) | [Unha Pintada Show](https://open.spotify.com/artist/0YyR6xgollAvHIMDnKog3s) | [Apaga Apaga Apaga](https://open.spotify.com/album/3S93Ed0gdYWBU9zlLW1i85) | 3:15 |
+| 105 | [Saudade Covarde](https://open.spotify.com/track/1JrNRacqyusYEOzxHKGXRo) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Coisa De Louco EP](https://open.spotify.com/album/4loAIuNE5Czk1DKMUPfPj4) | 2:45 |
 | 106 | [Mimimi \- Ao Vivo](https://open.spotify.com/track/5czOiRTeDagPQtWmhrxryf) | [Thiago & Graciano](https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Onda de Amor \(Ao Vivo\)](https://open.spotify.com/album/3mUPNLUoTdIzUSlP8LItzY) | 2:29 |
 | 107 | [Famoso Tanto Faz](https://open.spotify.com/track/3uT01sLNU9Ta8B8qbyWZQj) | [WALBER](https://open.spotify.com/artist/2vKLXoZL4XxHrbJhj9C5P5), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Famoso Tanto Faz](https://open.spotify.com/album/4aFcVzMtTg5XGwLdpiYplJ) | 2:37 |
 | 108 | [Eu Fui Desses \- Ao Vivo](https://open.spotify.com/track/1OduCr2nQrYHSPGMvMEQJV) | [Kleo Dibah & Rafael](https://open.spotify.com/artist/0bnmflX3hZqv9kIv5vqrgd), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Bem Vindo ao Clube \(Ao Vivo\)](https://open.spotify.com/album/62lzD5iiQyenXphHRlhdjv) | 3:01 |
@@ -314,4 +314,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 304 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 | 305 | [De Boa na Lagoa](https://open.spotify.com/track/2JyEtXPdofr92XjnEEI4NH) | [Adriel Salim](https://open.spotify.com/artist/4xwzb6gEDDp5IpAnoASRuy) | [Aumenta o Paredão \(Verão 2023\)](https://open.spotify.com/album/6quXWSGETr7nugA7XM4vf8) | 2:48 |
 
-Snapshot ID: `Ab/1vAAAAABHf/y7M9ClqEBYPVBCyXus`
+Snapshot ID: `Ab/7hAAAAABi998JU1wbkXjathQ9ktdj`

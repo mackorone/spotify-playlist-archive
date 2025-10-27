@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: T\u0103ng Duy T\u00e2n",
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: (S)TRONG",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "tracks": [
     {
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 174000,
       "name": "C\u00f3 \u0110\u00f4i \u0110i\u1ec1u",
       "url": "https://open.spotify.com/track/2Pwou3Q2Cf59RxdX2V6MgV"
@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 223200,
       "name": "gi\u00e1 nh\u01b0",
       "url": "https://open.spotify.com/track/4tqXSj46umlymdIxqY8zso"
@@ -4550,6 +4550,32 @@
       "duration_ms": 195000,
       "name": "M\u1eddi Anh V\u00e0o Team Em",
       "url": "https://open.spotify.com/track/4fx2Hs100AuN9qPsFj3fW7"
+    },
+    {
+      "album": {
+        "name": "Ng\u00e0n N\u0103m \u00c1nh S\u00e1ng",
+        "url": "https://open.spotify.com/album/2csmfc6jgCbjPuSzHmrOqP"
+      },
+      "artists": [
+        {
+          "name": "\u0110\u1eb7ng V\u0129nh Th\u1ecbnh",
+          "url": "https://open.spotify.com/artist/5HoKHEC3OTaMgMDnCqc00B"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        },
+        {
+          "name": "Nguy\u1ec5n Trung \u0110\u1ee9c",
+          "url": "https://open.spotify.com/artist/0AOAMHZgHaxM71om8IDGsv"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214438,
+      "name": "Ng\u00e0n N\u0103m \u00c1nh S\u00e1ng",
+      "url": "https://open.spotify.com/track/4nyoalDFgUaZOzIKqj3aS5"
     },
     {
       "album": {
@@ -6729,6 +6755,24 @@
     },
     {
       "album": {
+        "name": "TRAP",
+        "url": "https://open.spotify.com/album/7heesEqGdTK3syn99rbbTy"
+      },
+      "artists": [
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256008,
+      "name": "TI\u1ebeC CHO EM",
+      "url": "https://open.spotify.com/track/56LSZ1PFm7nOo734RfbEDo"
+    },
+    {
+      "album": {
         "name": "Ti\u1ebfn Hay L\u00f9i (N\u1ee5 H\u00f4n B\u1ea1c T\u1ef7 Original Soundtrack)",
         "url": "https://open.spotify.com/album/18lTxJpTnS3LOndGcbDjAY"
       },
@@ -6952,7 +6996,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 237931,
       "name": "t\u00e2m tr\u00ed lang thang",
       "url": "https://open.spotify.com/track/3W77mLoXjQEkNjxvYRifjG"

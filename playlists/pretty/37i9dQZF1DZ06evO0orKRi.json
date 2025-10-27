@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 24976,
+  "num_followers": 24978,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAABY4ggtjSYxFie8dJh5FWnm",
+  "snapshot_id": "aPwTAAAAAABSX7H8R0YHcoShOloyi9qC",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lights On The Hill (Remastered)",
-        "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
+        "name": "To Whom It May Concern",
+        "url": "https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto"
       },
       "artists": [
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        },
-        {
-          "name": "The Travelling Country Band",
-          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
         }
       ],
-      "duration_ms": 174466,
-      "name": "Pushin' Time",
-      "url": "https://open.spotify.com/track/3H9nKLdJjaJLcOj4ChOcVQ"
+      "duration_ms": 169666,
+      "name": "Highway Fever - 1992 Digital Remaster",
+      "url": "https://open.spotify.com/track/3nSNkGNsZtI7CrVKxK5GCg"
     },
     {
       "added_at": null,
@@ -319,18 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Whom It May Concern",
-        "url": "https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto"
+        "name": "Lights On The Hill (Remastered)",
+        "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
       },
       "artists": [
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "The Travelling Country Band",
+          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
         }
       ],
-      "duration_ms": 169666,
-      "name": "Highway Fever - 1992 Digital Remaster",
-      "url": "https://open.spotify.com/track/3nSNkGNsZtI7CrVKxK5GCg"
+      "duration_ms": 174466,
+      "name": "Pushin' Time",
+      "url": "https://open.spotify.com/track/3H9nKLdJjaJLcOj4ChOcVQ"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs For Rolling Stones",
-        "url": "https://open.spotify.com/album/7cZ7GoAcotwhowCmZnBbvZ"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 114266,
-      "name": "The Road To Gundagai - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4pTr8PAfKTGz6Qr2hari9D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 193493,
       "name": "The Biggest Disappointment",
       "url": "https://open.spotify.com/track/4CzNjmXvCS9v9EqyeQ8lGd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs For Rolling Stones",
+        "url": "https://open.spotify.com/album/7cZ7GoAcotwhowCmZnBbvZ"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 114266,
+      "name": "The Road To Gundagai - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4pTr8PAfKTGz6Qr2hari9D"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makin' A Mile",
-        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
+        "name": "Give Me The Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 245613,
-      "name": "Something In The Pilliga",
-      "url": "https://open.spotify.com/track/0LAF0bcPsvdtrwYTARzDzA"
+      "duration_ms": 205000,
+      "name": "Kelly's Offsider",
+      "url": "https://open.spotify.com/track/1xWdSpL2zvuafjX6mFPe5Y"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
+        "name": "Makin' A Mile",
+        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Kelly's Offsider",
-      "url": "https://open.spotify.com/track/1xWdSpL2zvuafjX6mFPe5Y"
+      "duration_ms": 245613,
+      "name": "Something In The Pilliga",
+      "url": "https://open.spotify.com/track/0LAF0bcPsvdtrwYTARzDzA"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "Boomaroo Flyer",
-      "url": "https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'll Take Mine Country Style",
         "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 112133,
       "name": "Along The Road To Gundagai - Remaster 1995",
       "url": "https://open.spotify.com/track/7lTT3wNt9aK42uqJGDNgVC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "Boomaroo Flyer",
+      "url": "https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe"
     },
     {
       "added_at": null,
@@ -767,38 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slim Dusty Sings Stan Coster",
-        "url": "https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 178760,
-      "name": "By A Fire Of Gidgee Coal - 1996 Digital Remaster",
-      "url": "https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Old Time Drover's Lament",
-        "url": "https://open.spotify.com/album/45DB0DhkzwyoMs2ff9P480"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "Trumby - 1994 Remaster",
-      "url": "https://open.spotify.com/track/1KOaUT8dWrBaD9XxXGbLNl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'll Take Mine Country Style",
         "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
       },
@@ -827,6 +795,38 @@
       "duration_ms": 267973,
       "name": "No Man's Land - 1992 - Remaster",
       "url": "https://open.spotify.com/track/1zSGvOUGqinD4UqWFjBfTy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slim Dusty Sings Stan Coster",
+        "url": "https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 178760,
+      "name": "By A Fire Of Gidgee Coal - 1996 Digital Remaster",
+      "url": "https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Time Drover's Lament",
+        "url": "https://open.spotify.com/album/45DB0DhkzwyoMs2ff9P480"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 209560,
+      "name": "Trumby - 1994 Remaster",
+      "url": "https://open.spotify.com/track/1KOaUT8dWrBaD9XxXGbLNl"
     },
     {
       "added_at": null,

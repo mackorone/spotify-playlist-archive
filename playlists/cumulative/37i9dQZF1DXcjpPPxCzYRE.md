@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-443 songs - 1 day 1 hr 23 min
+444 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 | 2023-08-18 | 2023-09-02 |
 | [Mudanza](https://open.spotify.com/track/2p607VlsD6tMuYukIxolRw) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Nave Especial](https://open.spotify.com/album/6OF2h9gMF6CmnuMN2hyfiL) | 2:16 | 2022-11-11 | 2023-03-18 |
 | [Mudança](https://open.spotify.com/track/0wNwUuJNpnT8bVJcHhgh5z) | [Cercle](https://open.spotify.com/artist/2YfyysVLvptddc1efwPYFo) | [Capricis](https://open.spotify.com/album/4vozSr48FR8oZAkGNBm9Z8) | 5:17 | 2025-07-03 | 2025-07-07 |
+| [Muy Agradecido](https://open.spotify.com/track/7aQGORkdFvIqmMCYyFVK1X) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Tiza](https://open.spotify.com/album/6x4sQOXwYw8JdEdMCfXvjs) | 2:45 | 2025-10-24 |  |
 | [My Ideal](https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [My Ideal](https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4) | 4:43 | 2025-07-31 |  |
 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 | 2024-02-08 | 2024-03-05 |
 | [Mándame una señal](https://open.spotify.com/track/68eNGXDct8WTVLk9v0Oar8) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Mándame una señal](https://open.spotify.com/album/4x8icqp6ellxFGhDzSBC2r) | 4:20 | 2025-06-02 | 2025-07-19 |
@@ -400,7 +401,7 @@
 | [To Love](https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [To Love](https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK) | 3:56 | 2023-03-16 | 2023-03-28 |
 | [Todo Este Amor \(Capítulo IV: Huída\)](https://open.spotify.com/track/4ZFCQHDbp3V5d4TyN6wmPu) | [Víctor Monte](https://open.spotify.com/artist/3091wSOSRYaP4DUHhP1OHf), [nosoymeri](https://open.spotify.com/artist/6cF5Ndv7Q40DEc9Fxgxt4Z), [STEGA](https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd) | [Todo Este Amor \(Capítulo IV: Huída\)](https://open.spotify.com/album/2W0qGvu9m4cRR918XTA1f4) | 3:06 | 2025-10-09 |  |
 | [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luísa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 | 2024-04-11 |  |
-| [Todo Marchitó](https://open.spotify.com/track/5NbGdDoAlBNn5i4HxWppYf) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Todo Marchitó](https://open.spotify.com/album/45vox10mCCmPfUgr3SkJ1v) | 4:07 | 2025-10-09 |  |
+| [Todo Marchitó](https://open.spotify.com/track/5NbGdDoAlBNn5i4HxWppYf) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Todo Marchitó](https://open.spotify.com/album/45vox10mCCmPfUgr3SkJ1v) | 4:07 | 2025-10-09 | 2025-10-27 |
 | [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2023-02-28 | 2024-02-09 |
 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2022-11-11 | 2023-03-16 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-06-07 | 2025-07-04 |

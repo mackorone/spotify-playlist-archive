@@ -2,7 +2,7 @@
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: Taylor Swift
+> Cele mai de succes 50 de hituri în România\. Cover: Alex Botea, Luis Gabriel
 
 233 songs - 11 hr 12 min
 
@@ -66,7 +66,7 @@
 | [COSTA](https://open.spotify.com/track/0X3m5JIdxBaVTMnSz34pOR) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [COSTA](https://open.spotify.com/album/59j8mLRuInvXhvPzjuTTqy) | 2:59 | 2024-09-09 | 2024-10-22 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-02-03 | 2025-03-25 |
 | [Cu Tălpile Goale](https://open.spotify.com/track/5eMX92EXE1FFV0JCixVkXD) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Cu Tălpile Goale](https://open.spotify.com/album/0R7eK1bGzwk5UBJ7IKoZWE) | 2:33 | 2025-07-07 |  |
-| [Cât vrei tu](https://open.spotify.com/track/1yEqRiWmIaETc2FRHn7Jnr) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [ATIPIC](https://open.spotify.com/album/77EqeG8eEhpdTWwYlc4kW0) | 2:41 | 2025-06-16 |  |
+| [Cât vrei tu](https://open.spotify.com/track/1yEqRiWmIaETc2FRHn7Jnr) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [ATIPIC](https://open.spotify.com/album/77EqeG8eEhpdTWwYlc4kW0) | 2:41 | 2025-06-16 | 2025-10-27 |
 | [CĂPITAN](https://open.spotify.com/track/00vWmTHP6E63KXqIdbgsm9) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR) | [CĂPITAN](https://open.spotify.com/album/36tJXOX1DLnVvDRoLfcBpM) | 3:21 | 2024-07-29 | 2024-08-13 |
 | [Da fata se vede belea](https://open.spotify.com/track/137HVoB0FeQ4algPiTH60w) | [Alex Botea](https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz), [Luis Gabriel](https://open.spotify.com/artist/03bnhSwfwaSQhZyVy9m6ob) | [Da fata se vede belea](https://open.spotify.com/album/0azKubGXxe8ni7q1gLWNTb) | 2:59 | 2025-10-22 |  |
 | [Dacă dragostea era pe bani](https://open.spotify.com/track/5Cmg8c4WWohkaXwIYGL20n) | [Leo de la Izvoare](https://open.spotify.com/artist/4GKftOQvdMcVHwDHqfnfos), [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Dacă dragostea era pe bani](https://open.spotify.com/album/6hJRyeeyMKH06OZd38Zvdb) | 2:10 | 2025-09-22 |  |

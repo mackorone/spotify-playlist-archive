@@ -1679,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165533,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/6M4rl0fdf1dQufWFWsFXNM"
+    },
+    {
+      "album": {
         "name": "Here Again",
         "url": "https://open.spotify.com/album/6nQqcSZTqkVmCLJ7OAbZiP"
       },
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 165533,
       "name": "Here Again",
       "url": "https://open.spotify.com/track/7jPJda9RNx6cD5VhsIgGa7"

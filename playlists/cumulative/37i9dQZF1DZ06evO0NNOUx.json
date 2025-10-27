@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "KEEP IT SIMPLE",
+        "url": "https://open.spotify.com/album/158fyQIUL3fFwVlmC9BxkR"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140813,
+      "name": "KEEP IT SIMPLE",
+      "url": "https://open.spotify.com/track/1FkxNyq6WAGDvdZ1zjURFz"
+    },
+    {
+      "album": {
         "name": "Nostalgia Pack",
         "url": "https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX"
       },

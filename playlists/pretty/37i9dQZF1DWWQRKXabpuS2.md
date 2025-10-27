@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,775 likes - 30 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,792 likes - 30 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 29 | [ألمح لك](https://open.spotify.com/track/3NKkS7QOGTOSLD6B5aMi9r) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [ألمح لك](https://open.spotify.com/album/0QQUrE9rkF9TWSsK4zapDZ) | 2:52 |
 | 30 | [أول حب](https://open.spotify.com/track/534RVKGLxnWrjIYSKZKtOA) | [Bashar AlShatti](https://open.spotify.com/artist/6fqcvzx5yorkIOK2HwL9hU) | [بشار الشطي ٢٠٢٥](https://open.spotify.com/album/2r0N6tR20cIbndXE6TjTxo) | 3:45 |
 
-Snapshot ID: `AAAAADxkR1oTXmIKaiQEARPGtT1A9YJ4`
+Snapshot ID: `AAAAAL1QStdKEFaQSMJji2ptV0OxKK4J`

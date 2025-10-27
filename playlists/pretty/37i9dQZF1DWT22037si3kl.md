@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é ser original, vocês já sabem\. Foto: N.I.N.A.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,582 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,571 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 11 | [Alexa](https://open.spotify.com/track/5Nv8Xh8UTH8cY8YF1SIX0N) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Drummond](https://open.spotify.com/artist/11SKuSqWt1KyNO22CSTsiq), [Cheek](https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3) | [Alexa](https://open.spotify.com/album/2DWaIbUBJ8rzNcgvUudbfy) | 2:34 |
 | 12 | [GLOCK DE COR](https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl) | [DIAS ANTES DO CAOS](https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8) | 2:04 |
 | 13 | [MIGOS](https://open.spotify.com/track/3Rc0BGklC1QmiNIq7FeKay) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [ISSO É TRAP](https://open.spotify.com/album/1OFfFTFjfF5NLcbJTgLXLC) | 2:28 |
-| 14 | [DESCE](https://open.spotify.com/track/7Iw0FvlqtXjJaDMN68vMPs) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC), [Menó Felps](https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP) | [DESCE](https://open.spotify.com/album/2DZtqMtwHC5YCjB3htnGE0) | 2:14 |
-| 15 | [PIRÂMIDE](https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [CHTC?](https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4) | 2:38 |
+| 14 | [PIRÂMIDE](https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [CHTC?](https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4) | 2:38 |
+| 15 | [DESCE](https://open.spotify.com/track/7Iw0FvlqtXjJaDMN68vMPs) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC), [Menó Felps](https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP) | [DESCE](https://open.spotify.com/album/2DZtqMtwHC5YCjB3htnGE0) | 2:14 |
 | 16 | [Maldito Papel](https://open.spotify.com/track/7wTdWHYMM8YLLTCEWTtpyR) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Dj KLJay](https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV) | [A Cara do Enquadro](https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn) | 2:57 |
 | 17 | [CAM](https://open.spotify.com/track/0I4dN83QkYPG7aveyl74MV) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [CAM](https://open.spotify.com/album/40ZK5ujZ8QnzhRqISu1F38) | 2:47 |
 | 18 | [Jóias do Bairro](https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Jóias do Bairro](https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ) | 2:51 |

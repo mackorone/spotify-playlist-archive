@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,918 likes - 114 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,937 likes - 114 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 61 | [Don't Ask](https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Don't Ask](https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4) | 4:05 |
 | 62 | [U Want More](https://open.spotify.com/track/7EKbzeNC4G9cKt6rjpwd5F) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [U Want More](https://open.spotify.com/album/6Tssac3g5lLEJ08XIKqBQV) | 3:33 |
 | 63 | [On Sight](https://open.spotify.com/track/10MTlKhDjVG0oFvRUd1Oc5) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Oh Hi Ali](https://open.spotify.com/artist/6RaQB0xEzhoYx6mk0ADvwZ) | [The Flower That Knew](https://open.spotify.com/album/6uxo9ZMU9iqsFAJ84ldEbC) | 2:37 |
-| 64 | [Black&Blue](https://open.spotify.com/track/1jQzmnsKQEvinCoBgKYrEX) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Dark Times](https://open.spotify.com/album/53yiSGNdLyOa8mdFCoDTs3) | 3:18 |
-| 65 | [Prove It To You](https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:20 |
+| 64 | [Prove It To You](https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:20 |
+| 65 | [Black&Blue](https://open.spotify.com/track/1jQzmnsKQEvinCoBgKYrEX) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Dark Times](https://open.spotify.com/album/53yiSGNdLyOa8mdFCoDTs3) | 3:18 |
 | 66 | [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 |
 | 67 | [makes me \(wanna move\)](https://open.spotify.com/track/0Ma2y8tgYCUWDGxnA9Gw3i) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [c u l8r](https://open.spotify.com/album/1S1hN5OQuFQ5jQjlqhPkDB) | 3:01 |
 | 68 | [Gangsta](https://open.spotify.com/track/6KuAG2WahfdjpUm6ZU1y4v) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Gangsta](https://open.spotify.com/album/0200qF0LcG1Sr2f9aVfdsG) | 3:14 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 94 | [Tha Rhythm](https://open.spotify.com/track/1EA0Nnt49MfZdBOXZqFuje) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Tha Rhythm](https://open.spotify.com/album/165YpAL9f9nKxb3wFQOfg0) | 3:15 |
 | 95 | [Today](https://open.spotify.com/track/1iOTdh9qWWdA238ZIBuh5T) | [Freq Motif](https://open.spotify.com/artist/3ZHj8c2bBRsMrD1CSKk1FK), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Today](https://open.spotify.com/album/7ipTPuIfLGHeL1Nmu0LiYN) | 3:04 |
 | 96 | [Hey Hey Hey](https://open.spotify.com/track/1lsgebKJsXBAgp45vsyPit) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO), [LEVi](https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ) | [Hey Hey Hey](https://open.spotify.com/album/1jD05fGR05M8ze5bRQ1H0e) | 2:53 |
-| 97 | [Gwara Gwara](https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Gwara Gwara](https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm) | 3:18 |
-| 98 | [Tomorrow Man](https://open.spotify.com/track/5FnoiNGpUDvDf2jWh9oz4T) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 2:46 |
+| 97 | [Tomorrow Man](https://open.spotify.com/track/5FnoiNGpUDvDf2jWh9oz4T) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 2:46 |
+| 98 | [Gwara Gwara](https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Gwara Gwara](https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm) | 3:18 |
 | 99 | [Should've Known \(feat\. Smino & Cedxric\)](https://open.spotify.com/track/4V8iRao70OTxshu74BMEBE) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Cedxric](https://open.spotify.com/artist/4BevWbXTBfZaF4T7yFDtOI) | [Don't Forget To Breathe](https://open.spotify.com/album/5MBfkQZYnJJgeSHeEOGHL4) | 3:03 |
 | 100 | [Roses Ether](https://open.spotify.com/track/6Ih6oi6CkOfkFaKvcQacw6) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Roses Ether](https://open.spotify.com/album/2otIbQUDCLNjKUM75j315q) | 2:58 |
 | 101 | [On Job](https://open.spotify.com/track/63bbcglKkosNVVJpN0q4EP) | [WAY2LATE](https://open.spotify.com/artist/3hIp8uy0RH7L4N3EQ9Nz8a), [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6), [Confz](https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE) | [On Job](https://open.spotify.com/album/1EHQ7OMBWdPpDDme9JpnXJ) | 2:01 |

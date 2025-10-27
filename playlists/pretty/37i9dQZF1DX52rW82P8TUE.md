@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,140 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,173 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 34 | [Festa das Cores](https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Festa das Cores](https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW) | 3:26 |
 | 35 | [A História dos Animais](https://open.spotify.com/track/54p1PR4nMkq495gv1LIQxO) | [Arautos Do Rei](https://open.spotify.com/artist/7HMkkJU8KMSMpEZ1RA8gvK), [Társis Iraídes](https://open.spotify.com/artist/0p942FANsPACepQGy7HuF7), [Elson Gollub](https://open.spotify.com/artist/4CnTjFbM00kSSgLddqNgqh), [José Barbalho](https://open.spotify.com/artist/3nTd1c0vX2OvYS4cF6otAo), [Ronaldo Fagundes](https://open.spotify.com/artist/3k8WlBrUAmrPAAwGILLlMj) | [Arautos do Rei pra Baixinhos e Grandões](https://open.spotify.com/album/6hQ1VdOFsnwERYnnBuxsFK) | 3:54 |
 | 36 | [Assim Desse Jeito: Yasminzinha](https://open.spotify.com/track/1u0BbK2qfbg94OQGkeNgrh) | [Yasmin Verissimo](https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE) | [Assim Desse Jeito: Yasminzinha](https://open.spotify.com/album/7cTS8Sb4b4DU5EM86JmoMY) | 1:49 |
-| 37 | [Pertinho de Jesus](https://open.spotify.com/track/5sWlvLCEvdO6R0Ne73VVvJ) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2), [Tia Emily](https://open.spotify.com/artist/75vUmtOfZWHjBjRkE1xJ9t) | [Pertinho de Jesus](https://open.spotify.com/album/40aHGE0n8b1NieE46gy4AO) | 2:09 |
-| 38 | [Tão Pequeno](https://open.spotify.com/track/6GAFddIaa9OBHZRZRTttKc) | [Spoleta](https://open.spotify.com/artist/29FAWlmhQUsUO7T2blu9Ci) | [Spoleta](https://open.spotify.com/album/5XtJA6IrAUBAGlO3hcDIro) | 1:26 |
+| 37 | [Tão Pequeno](https://open.spotify.com/track/6GAFddIaa9OBHZRZRTttKc) | [Spoleta](https://open.spotify.com/artist/29FAWlmhQUsUO7T2blu9Ci) | [Spoleta](https://open.spotify.com/album/5XtJA6IrAUBAGlO3hcDIro) | 1:26 |
+| 38 | [Pertinho de Jesus](https://open.spotify.com/track/5sWlvLCEvdO6R0Ne73VVvJ) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2), [Tia Emily](https://open.spotify.com/artist/75vUmtOfZWHjBjRkE1xJ9t) | [Pertinho de Jesus](https://open.spotify.com/album/40aHGE0n8b1NieE46gy4AO) | 2:09 |
 | 39 | [Rock da Arca](https://open.spotify.com/track/7HzkYbSog275m1M5kaAUFW) | [Kelly Benigno](https://open.spotify.com/artist/2YYbZyhGyLlVQGfaE1Hn5X), [Graça Kids](https://open.spotify.com/artist/5LatU6JZmPBtMIBRsMoCy7) | [Rock da Arca](https://open.spotify.com/album/1cNrPAjRtZWUKeMiSqJmEG) | 3:22 |
 | 40 | [Fico Feliz](https://open.spotify.com/track/2wZnSYsdoDHYZ4mYCFl0Sj) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Rafael de Oliveira](https://open.spotify.com/artist/4qRoHdCs4qUXd7ptMkjs80), [Lara Maria](https://open.spotify.com/artist/2u6lfISZVmVMzhOv5KHWf2), [Alyce Maria](https://open.spotify.com/artist/4wQVjWUP0rzD6PhfFCAMVj), [Ana Lunna](https://open.spotify.com/artist/7DJnoHcMYpn6e685BbPGC8) | [Gba Stage Kids](https://open.spotify.com/album/6Lx7iiv2S1DsYyhUPNVBGW) | 4:40 |
 | 41 | [Arruma essa Bagunça](https://open.spotify.com/track/2ZeoLb6KQP97c6oRl11z1G) | [Bixulinhos](https://open.spotify.com/artist/1xHWjhQTU48284c6swha63) | [Arruma essa Bagunça](https://open.spotify.com/album/0L9iuH2MwMJb66Sd6RkpwW) | 1:58 |

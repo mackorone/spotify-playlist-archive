@@ -1,12 +1,12 @@
 {
   "description": "This is Mariah Carey. The essential tracks, all in one playlist.",
-  "num_followers": 511557,
+  "num_followers": 511605,
   "original_name": "This Is Mariah Carey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAABsmX03+ZxwwuuIUInl1kR3",
+  "snapshot_id": "aPwTAAAAAADqc+M41D9BDFkdErIoexJB",
   "tracks": [
     {
       "added_at": null,
@@ -470,11 +470,19 @@
         {
           "name": "Mariah Carey",
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 155509,
-      "name": "Confetti & Champagne",
-      "url": "https://open.spotify.com/track/14ux2WTD9uht020TVWtQGs"
+      "duration_ms": 219968,
+      "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
+      "url": "https://open.spotify.com/track/75ganPv831RMYXCwQlWzsN"
     },
     {
       "added_at": null,
@@ -540,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 230985,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/5gLGRHJl7ObnO6PC2tg78M"
+      "duration_ms": 155509,
+      "name": "Confetti & Champagne",
+      "url": "https://open.spotify.com/track/14ux2WTD9uht020TVWtQGs"
     },
     {
       "added_at": null,
@@ -579,30 +587,6 @@
       "duration_ms": 232840,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
-        "url": "https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 219968,
-      "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
-      "url": "https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx"
     },
     {
       "added_at": null,
@@ -843,30 +827,6 @@
       "duration_ms": 213226,
       "name": "Underneath the Stars",
       "url": "https://open.spotify.com/track/1kkbUvmqZiNmWCR9TLd4tO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Energy (feat. DJ Khaled) [Remix]",
-        "url": "https://open.spotify.com/album/7yQ3QGLWN0YvBuImU7bVc3"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 181665,
-      "name": "Big Energy (feat. DJ Khaled) - Remix",
-      "url": "https://open.spotify.com/track/4nmD4awtUUCC4AGETpUiuP"
     }
   ],
   "unique_name": "This Is Mariah Carey",

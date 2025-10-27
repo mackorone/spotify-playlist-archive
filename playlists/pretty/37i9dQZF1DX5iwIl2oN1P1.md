@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: ANTHNY
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,048 likes - 60 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,081 likes - 60 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 59 | [Song Of My Life](https://open.spotify.com/track/7ySU8RI3SEj53a6WJugTvf) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [Song Of My Life](https://open.spotify.com/album/5PGIWSY5oDKxYGgauEl1Kx) | 4:25 |
 | 60 | [Better](https://open.spotify.com/track/70IMwY7Hj050abt9WU1ehm) | [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH) | [Better](https://open.spotify.com/album/5ynd96HmA6LQJpcmikv98l) | 4:00 |
 
-Snapshot ID: `AAAAAHGuGrr5fIQZ55TOSfAf3GuEOulU`
+Snapshot ID: `AAAAAEcsd+gmHT3fwcA80TZargGwQCj+`

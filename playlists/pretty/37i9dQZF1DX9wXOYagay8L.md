@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: SIIBU
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,897 likes - 96 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,009 likes - 96 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

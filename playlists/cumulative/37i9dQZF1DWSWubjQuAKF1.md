@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Gaba Kościug
 
-626 songs - 1 day 6 hr 38 min
+627 songs - 1 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -578,7 +578,7 @@
 | [Why she's better](https://open.spotify.com/track/6JvAJgRYNpMG53GjPThcE1) | [Ola Olszewska](https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b) | [Czy to nadal ja?](https://open.spotify.com/album/6ZxCc5LCfmblibKjhuUMyv) | 2:39 | 2024-06-28 | 2024-07-12 |
 | [Wiem co z nami będzie](https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Wiem co z nami będzie](https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V) | 3:20 | 2025-08-19 |  |
 | [Wiem, że ci ciężko](https://open.spotify.com/track/6fdsYxLiiqBQBEdZh7lkL4) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Wiem, że ci ciężko](https://open.spotify.com/album/0CNDOPFX4ucmlpji8KAonu) | 3:31 | 2024-06-28 | 2024-07-05 |
-| [wifey material](https://open.spotify.com/track/1g8puN0EuWAuupTQfGBGZN) | [Milky.wav](https://open.spotify.com/artist/0d4V9KFvcZZS9ASemIGuDP) | [wifey material](https://open.spotify.com/album/60U1gVo9t0FP69JWud0BQ5) | 2:02 | 2025-09-16 |  |
+| [wifey material](https://open.spotify.com/track/1g8puN0EuWAuupTQfGBGZN) | [Milky.wav](https://open.spotify.com/artist/0d4V9KFvcZZS9ASemIGuDP) | [wifey material](https://open.spotify.com/album/60U1gVo9t0FP69JWud0BQ5) | 2:02 | 2025-09-16 | 2025-10-27 |
 | [Wiosna](https://open.spotify.com/track/49JWaptOiGisHqxVA6QhtR) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Wiosna EP](https://open.spotify.com/album/03Vjg22ukwVqMnrcfprG6l) | 2:26 | 2025-02-06 | 2025-02-21 |
 | [Więcej](https://open.spotify.com/track/73l4adiuFKirZH4umyzEog) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Więcej](https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE) | 2:33 | 2024-09-13 | 2025-01-24 |
 | [woda utleniona](https://open.spotify.com/track/05PIFyGeH8pSnAfTb2dZpV) | [świtała](https://open.spotify.com/artist/0fP7Egec8F7B72aatTrLPQ), [dj cbh](https://open.spotify.com/artist/1Y8t9sDYteTcWxc4CqKQGJ) | [woda utleniona](https://open.spotify.com/album/6lrnYtBfGg8CDKj1F0XkWH) | 2:30 | 2025-10-07 | 2025-10-15 |
@@ -623,6 +623,7 @@
 | [znów patrzysz tak](https://open.spotify.com/track/39d5agbwOlaEMFA04UnaOu) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [znów patrzysz tak](https://open.spotify.com/album/4eHhOzhzyKKr4kyIm79oDK) | 3:11 | 2024-07-25 | 2025-01-24 |
 | [ZORZE POLARNE](https://open.spotify.com/track/4JNdDbvLlsAWhrMGYiqIFW) | [młody podago](https://open.spotify.com/artist/36a1D1m5xIlco1bKlirhZX) | [ZORZE POLARNE](https://open.spotify.com/album/0PB5Z0hgBToVQMK60MenFE) | 2:34 | 2024-06-28 | 2024-07-12 |
 | [Zostaniesz na zawsze?](https://open.spotify.com/track/5uXyJ2mYb4LHQ0gKEMXtEL) | [MDOPE](https://open.spotify.com/artist/6Z7uS8MOrEyM04JjnBf3R9) | [Zostaniesz na zawsze?](https://open.spotify.com/album/22ItEEmozmJHs3P7mgvdnV) | 2:54 | 2024-08-30 | 2025-01-24 |
+| [zostań](https://open.spotify.com/track/2jQlVcDnyiMjmrQ7XrK70X) | [Treehouse](https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi) | [zostań](https://open.spotify.com/album/1aVf5Yed3eNAGJ0kRgao2J) | 2:18 | 2025-10-21 |  |
 | [Zła Pamięć](https://open.spotify.com/track/4rx96iXf1XqGC38y9oBRKW) | [Gaba Kościug](https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D), [Bufu](https://open.spotify.com/artist/3cBVvhuwwURFlIcWjR1TIa), [DeadWN](https://open.spotify.com/artist/5xaYosGhmJBTfrvOM2eGCi) | [Zła Pamięć](https://open.spotify.com/album/2aIH2zKWihdD2GMu2DEuz8) | 2:51 | 2025-10-21 |  |
 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 | 2025-06-27 |  |
 | [Ćma](https://open.spotify.com/track/4TsUpBDBZQLGaSEjNrgCKX) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Ćma](https://open.spotify.com/album/0bmxGp8qMZcfKrKFR6wJMz) | 4:39 | 2025-01-23 | 2025-03-14 |

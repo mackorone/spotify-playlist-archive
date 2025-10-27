@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 97800,
+  "num_followers": 97802,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "I'm That Bitch",
+        "url": "https://open.spotify.com/album/7kRlARoaczAjQoVxOEV37b"
+      },
+      "artists": [
+        {
+          "name": "The Cast of RuPaul's Drag Race, Season 12",
+          "url": "https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "I'm That Bitch",
+      "url": "https://open.spotify.com/track/1f2cBGbsFTyMH1LwlrE4kB"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/254Ri8NToEgWzwZvu8VB2q"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 224430,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/3C3jcnDl4fbX05x67Jp4B6"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "I'm That Bitch",
-        "url": "https://open.spotify.com/album/7kRlARoaczAjQoVxOEV37b"
-      },
-      "artists": [
-        {
-          "name": "The Cast of RuPaul's Drag Race, Season 12",
-          "url": "https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "I'm That Bitch",
-      "url": "https://open.spotify.com/track/1f2cBGbsFTyMH1LwlrE4kB"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -195,6 +195,26 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Break Up Bye Bye (Frock Destroyers Version)",
+        "url": "https://open.spotify.com/album/4vydhCuNsBlq3S4PNCO5K6"
+      },
+      "artists": [
+        {
+          "name": "The Cast of RuPaul's Drag Race UK",
+          "url": "https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc"
+        },
+        {
+          "name": "Frock Destroyers",
+          "url": "https://open.spotify.com/artist/0bgDzuEKKYLcQrvb0XANf1"
+        }
+      ],
+      "duration_ms": 151825,
+      "name": "Break Up Bye Bye - Frock Destroyers Version",
+      "url": "https://open.spotify.com/track/13lgFanIzQVjIiVvxyAjjS"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Queens Everywhere (Cast Version)",
         "url": "https://open.spotify.com/album/4qRdeAlRbk0LfK6IHgNf5n"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 197422,
       "name": "Queens Everywhere - Cast Version",
       "url": "https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Break Up Bye Bye (Frock Destroyers Version)",
-        "url": "https://open.spotify.com/album/4vydhCuNsBlq3S4PNCO5K6"
-      },
-      "artists": [
-        {
-          "name": "The Cast of RuPaul's Drag Race UK",
-          "url": "https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc"
-        },
-        {
-          "name": "Frock Destroyers",
-          "url": "https://open.spotify.com/artist/0bgDzuEKKYLcQrvb0XANf1"
-        }
-      ],
-      "duration_ms": 151825,
-      "name": "Break Up Bye Bye - Frock Destroyers Version",
-      "url": "https://open.spotify.com/track/13lgFanIzQVjIiVvxyAjjS"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Sweet and Sour",
-        "url": "https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG"
-      },
-      "artists": [
-        {
-          "name": "Lemon",
-          "url": "https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Sweet and Sour",
-      "url": "https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Bitch Like Me",
         "url": "https://open.spotify.com/album/1VtO6ikGbNWY3bQa0aacg1"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 156923,
       "name": "Bitch Like Me",
       "url": "https://open.spotify.com/track/1lV3NdZCVc8wZ1wdv25Gw5"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Sweet and Sour",
+        "url": "https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG"
+      },
+      "artists": [
+        {
+          "name": "Lemon",
+          "url": "https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Sweet and Sour",
+      "url": "https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
-      },
-      "artists": [
-        {
-          "name": "Bimini",
-          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
-        }
-      ],
-      "duration_ms": 210708,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Cr\u00e8me Br\u00fbl\u00e9e",
         "url": "https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu"
       },
@@ -559,26 +543,34 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "American Apparel Ad Girls",
-        "url": "https://open.spotify.com/album/0ciRK4GWURQN6gk01cj8GM"
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
       },
       "artists": [
         {
-          "name": "Courtney",
-          "url": "https://open.spotify.com/artist/0xlpxDLCxi4DMMkYbHsXTn"
-        },
-        {
-          "name": "Alaska",
-          "url": "https://open.spotify.com/artist/0utf0bYDKplJhkJET6lYaA"
-        },
-        {
-          "name": "Willam",
-          "url": "https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8"
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
         }
       ],
-      "duration_ms": 228271,
-      "name": "American Apparel Ad Girls",
-      "url": "https://open.spotify.com/track/3n25p8hrz8Sx9OzhaDh3yS"
+      "duration_ms": 210708,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "It's Chocolate",
+        "url": "https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF"
+      },
+      "artists": [
+        {
+          "name": "LaLa Ri",
+          "url": "https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz"
+        }
+      ],
+      "duration_ms": 159718,
+      "name": "It's Chocolate",
+      "url": "https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -603,18 +595,26 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "It's Chocolate",
-        "url": "https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF"
+        "name": "American Apparel Ad Girls",
+        "url": "https://open.spotify.com/album/0ciRK4GWURQN6gk01cj8GM"
       },
       "artists": [
         {
-          "name": "LaLa Ri",
-          "url": "https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz"
+          "name": "Courtney",
+          "url": "https://open.spotify.com/artist/0xlpxDLCxi4DMMkYbHsXTn"
+        },
+        {
+          "name": "Alaska",
+          "url": "https://open.spotify.com/artist/0utf0bYDKplJhkJET6lYaA"
+        },
+        {
+          "name": "Willam",
+          "url": "https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8"
         }
       ],
-      "duration_ms": 159718,
-      "name": "It's Chocolate",
-      "url": "https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89"
+      "duration_ms": 228271,
+      "name": "American Apparel Ad Girls",
+      "url": "https://open.spotify.com/track/3n25p8hrz8Sx9OzhaDh3yS"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Know-It-All",
-        "url": "https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW"
-      },
-      "artists": [
-        {
-          "name": "Jinkx Monsoon",
-          "url": "https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR"
-        }
-      ],
-      "duration_ms": 268459,
-      "name": "Know-It-All",
-      "url": "https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Everyone Is A Little Bit Gay",
         "url": "https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 190603,
       "name": "Everyone Is A Little Bit Gay",
       "url": "https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Know-It-All",
+        "url": "https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW"
+      },
+      "artists": [
+        {
+          "name": "Jinkx Monsoon",
+          "url": "https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR"
+        }
+      ],
+      "duration_ms": 268459,
+      "name": "Know-It-All",
+      "url": "https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "In My Feelings",
         "url": "https://open.spotify.com/album/0PO3NILLdCxgYYpGzHs76F"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 225810,
       "name": "Finish Her!",
       "url": "https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
     },
     {
       "added_at": "2025-01-14 16:17:40",

@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-818 songs - 2 day 13 hr 22 min
+819 songs - 2 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Bloom At Night](https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Bloom At Night](https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj) | 3:19 | 2024-03-21 | 2025-01-17 |
 | [Bombalaya \- Chris Avantgarde Remix](https://open.spotify.com/track/5EutCYk0BuR5gKFN54pY8w) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Wolfy Lights](https://open.spotify.com/artist/1VzKsrHWSH4Ij7dTWfPe7z), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Bombalaya \(Chris Avantgarde Remix\)](https://open.spotify.com/album/7oPfEpv1BvqbrvNnSzzgT9) | 5:40 | 2024-10-10 | 2025-02-21 |
 | [BOOM](https://open.spotify.com/track/21CxzoOcC0m38xpbAAWqMb) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [John Cala](https://open.spotify.com/artist/1EIT6jQWPXDLpc7xeDPjGP) | [BOOM](https://open.spotify.com/album/5mUSCfo5iSpon9FYA1G0ZE) | 2:50 | 2025-10-09 |  |
+| [Born Like That](https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Born Like That](https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q) | 3:45 | 2025-10-23 |  |
 | [Both Of Us](https://open.spotify.com/track/3CmCiyqRN4z3u1ZUDMywY2) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Both of Us](https://open.spotify.com/album/68dG6aoGqhFoq7gpCA3NNi) | 4:37 | 2024-08-08 | 2024-09-06 |
 | [Breathe](https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY) | [Loco & Jam](https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b) | [Breathe](https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG) | 6:47 | 2022-11-27 | 2023-11-22 |
 | [Breathe In \(Short Mix\)](https://open.spotify.com/track/3LBWAYCXn4GCkg0jOgWD7D) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ) | [Breathe In \(Short Mix\)](https://open.spotify.com/album/1FchiEL5g79UaUVnwdGQcK) | 4:07 | 2023-06-16 | 2024-02-10 |
@@ -467,7 +468,7 @@
 | [More Coke!!](https://open.spotify.com/track/3IQ4kBI1VBRa4YoGtW8mGU) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [4:23](https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ) | 2:52 | 2023-04-29 | 2023-06-24 |
 | [Morenita \- Marco Generani Remix](https://open.spotify.com/track/1gdMKcSN97pGjkToFTd3Fo) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Marco Generani](https://open.spotify.com/artist/6OFkyZFXxnH0hLJ4yeF7ki), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Morenita \(Marco Generani Remix\)](https://open.spotify.com/album/545gv9Lffc5PDhwTPG0qtw) | 2:27 | 2024-09-26 | 2025-05-16 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX) | 3:54 | 2022-12-28 | 2023-01-06 |
-| [Move](https://open.spotify.com/track/07TPXY4g3r7uwuRsUEx7hX) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Pavel Petrov](https://open.spotify.com/artist/21km6OSJbAfL6Erx6xbsQW) | [Move](https://open.spotify.com/album/5mnDGwAodCoILsUpAuGFCX) | 3:29 | 2025-09-15 |  |
+| [Move](https://open.spotify.com/track/07TPXY4g3r7uwuRsUEx7hX) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Pavel Petrov](https://open.spotify.com/artist/21km6OSJbAfL6Erx6xbsQW) | [Move](https://open.spotify.com/album/5mnDGwAodCoILsUpAuGFCX) | 3:29 | 2025-09-15 | 2025-10-27 |
 | [Move It](https://open.spotify.com/track/3si1xexU5wiWQZ2HEbucdD) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Move It](https://open.spotify.com/album/6RQGEQZ4Mv1ypFluLdqRYL) | 3:08 | 2024-11-14 | 2025-01-31 |
 | [Multiversum](https://open.spotify.com/track/4BpI7T85Zehu5cyG0pz1YP) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [The Selador Showcase \- The Seventeenth Instalment](https://open.spotify.com/album/5fOPccNvJkKyuIxeZ0SAmW) | 7:13 | 2023-02-17 | 2023-03-12 |
 | [Mutant Disco \- Original](https://open.spotify.com/track/0oFgQ7eTFDuuvxV5aucMDq) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Mutant Series](https://open.spotify.com/album/6z7ja8yliHzpMMrZpzThjn) | 6:59 | 2022-11-23 | 2022-12-06 |

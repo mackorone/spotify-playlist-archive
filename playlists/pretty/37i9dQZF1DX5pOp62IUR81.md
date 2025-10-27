@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 
 > Step into the music of Marvel with soundtracks from your favorite films and series including Marvel Studios’ Special Presentation: Werewolf By Night, now streaming on Disney+\. © 2025 MARVEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,275 likes - 186 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,272 likes - 186 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

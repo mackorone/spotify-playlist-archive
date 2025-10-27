@@ -1,6 +1,6 @@
 {
   "description": "Baby, it's cold outside \ud83c\udf81\ud83c\udf32 here's some EDM to keep warm!",
-  "num_followers": 74929,
+  "num_followers": 74945,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-08-18 20:24:34",
       "album": {
+        "name": "Christmas Bounce",
+        "url": "https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw"
+      },
+      "artists": [
+        {
+          "name": "Helion",
+          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
+        }
+      ],
+      "duration_ms": 173515,
+      "name": "Christmas Bounce",
+      "url": "https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t"
+    },
+    {
+      "added_at": "2025-08-18 20:24:34",
+      "album": {
         "name": "I Wish (feat. Mabel) [Christmas Version]",
         "url": "https://open.spotify.com/album/6c09xz3peTV2CvMv8Hzezy"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 200595,
       "name": "I Wish (feat. Mabel) - Christmas Version",
       "url": "https://open.spotify.com/track/6JfqJNzpto4mRuNBfL1prF"
-    },
-    {
-      "added_at": "2025-08-18 20:24:34",
-      "album": {
-        "name": "Christmas Bounce",
-        "url": "https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw"
-      },
-      "artists": [
-        {
-          "name": "Helion",
-          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
-        }
-      ],
-      "duration_ms": 173515,
-      "name": "Christmas Bounce",
-      "url": "https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t"
     },
     {
       "added_at": "2025-08-18 20:24:34",

@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 板歯目
 
-1,942 songs - 5 day 0 hr 18 min
+1,943 songs - 5 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -696,7 +696,7 @@
 | [rainy rainy rainy blues](https://open.spotify.com/track/5VAwJOVU4TvBKOUFzDJSGR) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [KOE](https://open.spotify.com/album/0GaqQrJcL8TAPuOckmcPqs) | 5:20 | 2022-06-02 | 2022-07-28 |
 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 | 2023-08-08 | 2024-10-02 |
 | [Rasenkaidan](https://open.spotify.com/track/6jOcB5lgSOYafLshylJaKU) | [School Girls End](https://open.spotify.com/artist/4vcyluVTBX2nluJwETsRMZ) | [Lawliet](https://open.spotify.com/album/1ITyr5uxFH8tVB5fE1ufax) | 2:43 | 2023-09-26 | 2023-10-04 |
-| [RE RESCUE](https://open.spotify.com/track/1i5u28LuH3TddcRfOC7Y8U) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [RE RESCUE](https://open.spotify.com/album/09trgNdBYNAfi6bKzqLFbP) | 3:53 | 2024-10-08 |  |
+| [RE RESCUE](https://open.spotify.com/track/1i5u28LuH3TddcRfOC7Y8U) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [RE RESCUE](https://open.spotify.com/album/09trgNdBYNAfi6bKzqLFbP) | 3:53 | 2024-10-08 | 2025-10-27 |
 | [re:call](https://open.spotify.com/track/3z1jobirQVRmajrMRHClhj) | [ЯeaL](https://open.spotify.com/artist/3kcuGX6Jv5AOsJQTQGxoYL) | [re:call](https://open.spotify.com/album/0jn1VyhIkwDJq4sgttjgDO) | 3:35 | 2022-11-03 | 2022-11-09 |
 | [Re:Paint of the \[Heart:Hurt\]](https://open.spotify.com/track/00xKBZWtQNKMQAOJtgjonF) | [WAGAMAMA RAKIA](https://open.spotify.com/artist/0bnpBtGlXC8mn5fGHokarD) | [Re:Paint of the \[Heart:Hurt\]](https://open.spotify.com/album/3F2tCXRTlgNkgwzgDD1lY8) | 4:02 | 2023-10-17 | 2023-10-25 |
 | [Re:Paint of the \[Heart:Hurt\]](https://open.spotify.com/track/4ChUoyQOGK7osFEEk16Dj9) | [WAGAMAMA RAKIA](https://open.spotify.com/artist/0bnpBtGlXC8mn5fGHokarD) | [Re:Paint of the \[Heart:Hurt\]](https://open.spotify.com/album/5fXq7ApWzkbCN6X0xXiE1y) | 4:02 | 2023-10-17 | 2023-10-19 |
@@ -1397,6 +1397,7 @@
 | [モーニングルーティン](https://open.spotify.com/track/1BCuK5Xrf7gA0GUv2hiw0w) | [OCHA∞ME](https://open.spotify.com/artist/0ZTPHSqruVKSdZSmCBskxT) | [モーニングルーティン](https://open.spotify.com/album/4cX3MYGdSniYrfwwaEAfEX) | 3:35 | 2024-05-13 | 2024-05-22 |
 | [ヤマネ](https://open.spotify.com/track/1rOeAbMixBf1cALHZH6k6C) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [ヤマネ](https://open.spotify.com/album/37YAzLaSYo8TxAJ90WmELH) | 3:35 | 2023-12-05 | 2023-12-13 |
 | [ヨリ戻シチュー](https://open.spotify.com/track/7nitAbcizp1L5AMjPLVj39) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [バンドは水物](https://open.spotify.com/album/10ioJ03IBSjiMjxApvX2kd) | 5:17 | 2024-03-12 | 2024-03-27 |
+| [ライアー](https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq) | [Kucci](https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5) | [ライアー](https://open.spotify.com/album/1sjLQ2qSQZKVF9FOFri3wf) | 3:05 | 2025-10-21 |  |
 | [ライナー](https://open.spotify.com/track/4cg4axRQFCLY7cxEQ8r0xe) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [where?](https://open.spotify.com/album/4meJFweZ1aga9P067NAKSK) | 3:41 | 2023-05-23 | 2023-07-12 |
 | [ライブハウス！](https://open.spotify.com/track/5aBMy3QHysvS3upFUDQPIh) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ライブハウス！](https://open.spotify.com/album/0FXvPW2SG9RAaE4LTZ7waS) | 3:28 | 2025-04-29 | 2025-06-04 |
 | [ライブ終わりに](https://open.spotify.com/track/25CT9v6urtrTRZjr1WOV0G) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [ライブ終わりに](https://open.spotify.com/album/2pywOWndfGqeFy7zYBdhO6) | 4:31 | 2023-08-08 | 2023-08-10 |

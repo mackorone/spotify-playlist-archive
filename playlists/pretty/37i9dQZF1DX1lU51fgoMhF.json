@@ -195,22 +195,6 @@
     {
       "added_at": "2025-09-09 10:06:25",
       "album": {
-        "name": "STYLE",
-        "url": "https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 209671,
-      "name": "STYLE",
-      "url": "https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ"
-    },
-    {
-      "added_at": "2025-09-09 10:06:25",
-      "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 179026,
       "name": "Hype Boy",
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+    },
+    {
+      "added_at": "2025-09-09 10:06:25",
+      "album": {
+        "name": "STYLE",
+        "url": "https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 209671,
+      "name": "STYLE",
+      "url": "https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ"
     },
     {
       "added_at": "2025-09-09 10:06:25",
@@ -279,6 +279,22 @@
     {
       "added_at": "2025-09-09 10:06:25",
       "album": {
+        "name": "How Sweet",
+        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "How Sweet",
+      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
+    },
+    {
+      "added_at": "2025-09-09 10:06:25",
+      "album": {
         "name": "CHARLIE",
         "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
-    },
-    {
-      "added_at": "2025-09-09 10:06:25",
-      "album": {
-        "name": "How Sweet",
-        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "How Sweet",
-      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
     },
     {
       "added_at": "2025-09-09 10:06:25",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-09-09 10:06:25",
       "album": {
-        "name": "Sticky",
-        "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 157120,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
-    },
-    {
-      "added_at": "2025-09-09 10:06:25",
-      "album": {
         "name": "BETWEEN 1&2",
         "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 191000,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
+    },
+    {
+      "added_at": "2025-09-09 10:06:25",
+      "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 157120,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
     },
     {
       "added_at": "2025-09-09 10:06:25",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-09-09 10:06:25",
       "album": {
-        "name": "Midas Touch",
-        "url": "https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 162880,
-      "name": "Midas Touch",
-      "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
-    },
-    {
-      "added_at": "2025-09-09 10:06:25",
-      "album": {
         "name": "How Sweet",
         "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 200266,
       "name": "Bubble Gum",
       "url": "https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq"
+    },
+    {
+      "added_at": "2025-09-09 10:06:25",
+      "album": {
+        "name": "Midas Touch",
+        "url": "https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 162880,
+      "name": "Midas Touch",
+      "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
     },
     {
       "added_at": "2025-09-09 10:06:25",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-09-09 10:06:25",
       "album": {
-        "name": "JxW 1st Single Album 'THIS MAN'",
-        "url": "https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN"
-      },
-      "artists": [
-        {
-          "name": "JxW",
-          "url": "https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "Last night (Guitar by Park Juwon)",
-      "url": "https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS"
-    },
-    {
-      "added_at": "2025-09-09 10:06:25",
-      "album": {
         "name": "Do It Like That",
         "url": "https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 145065,
       "name": "Do It Like That",
       "url": "https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ"
+    },
+    {
+      "added_at": "2025-09-09 10:06:25",
+      "album": {
+        "name": "JxW 1st Single Album 'THIS MAN'",
+        "url": "https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN"
+      },
+      "artists": [
+        {
+          "name": "JxW",
+          "url": "https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "Last night (Guitar by Park Juwon)",
+      "url": "https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS"
     },
     {
       "added_at": "2025-09-09 10:06:25",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-09-09 10:06:25",
       "album": {
-        "name": "Why - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 207777,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD"
-    },
-    {
-      "added_at": "2025-09-09 10:06:25",
-      "album": {
         "name": "ZERO : FEVER Part.1",
         "url": "https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 204040,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/2dPETee06bbHulsABk0h7I"
+    },
+    {
+      "added_at": "2025-09-09 10:06:25",
+      "album": {
+        "name": "Why - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 207777,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD"
     },
     {
       "added_at": "2025-09-09 10:06:25",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2025-09-09 10:06:25",
       "album": {
+        "name": "What You Waiting For",
+        "url": "https://open.spotify.com/album/59iiiARciChm70cn85wxuH"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 175327,
+      "name": "What You Waiting For",
+      "url": "https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B"
+    },
+    {
+      "added_at": "2025-09-09 10:06:25",
+      "album": {
         "name": "FACE - The 1st Album",
         "url": "https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 190328,
       "name": "One of Those Nights",
       "url": "https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ"
-    },
-    {
-      "added_at": "2025-09-09 10:06:25",
-      "album": {
-        "name": "What You Waiting For",
-        "url": "https://open.spotify.com/album/59iiiARciChm70cn85wxuH"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 175327,
-      "name": "What You Waiting For",
-      "url": "https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B"
     },
     {
       "added_at": "2025-09-09 10:06:25",

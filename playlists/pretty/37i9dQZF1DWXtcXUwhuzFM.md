@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Mouhous, Pihlaja, Minttu, SHRTY & Bizi,  ELLIMEI ja moni muu  – mukana myös tuoreet Vain elämää \-biisit! 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,931 likes - 118 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,933 likes - 118 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

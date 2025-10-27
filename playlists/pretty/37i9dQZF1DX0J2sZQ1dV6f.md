@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 
 > Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Esau Otriz
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,517 likes - 101 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,530 likes - 101 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Tensnake, Gerd Janson
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,443 likes - 88 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,455 likes - 88 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

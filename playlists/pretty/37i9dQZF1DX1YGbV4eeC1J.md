@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: Lony Bway
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,669 likes - 61 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,688 likes - 61 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

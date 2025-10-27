@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Gerson Rufino
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,906 likes - 60 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,955 likes - 60 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 28 | [Do Meu Jeito \(Majestade\)](https://open.spotify.com/track/1YmcVZ5ouRracWldy5TqmL) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4), [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Do Meu Jeito \(Majestade\)](https://open.spotify.com/album/5Aqk6aOH8lylUt76YTxxQW) | 4:13 |
 | 29 | [Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratidão / Se Deus É Por Nós](https://open.spotify.com/track/1ITo1wNWFMfBzaGi2kWSQs) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratidão / Se Deus É Por Nós](https://open.spotify.com/album/30sJ7T5aWnoQHFlNfQ00FY) | 7:10 |
 | 30 | [Um Lugar à Mesa](https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Um Lugar à Mesa](https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4) | 4:00 |
-| 31 | [O Segredo da Felicidade](https://open.spotify.com/track/1cqL5ETI4Ik9nnYQfUuuwP) | [Tamy Klaus](https://open.spotify.com/artist/2Zl9rN1av3SmE8V284GXI4), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw), [Misael Coelho](https://open.spotify.com/artist/60ThKVjUZ4GrqNu4o7aBtS) | [O Segredo da Felicidade](https://open.spotify.com/album/558l8xXJGcfrhNjn6WIBFv) | 3:20 |
-| 32 | [Oliveira Verdadeira](https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Maximus Records](https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR) | [Louvor Raíz](https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF) | 4:14 |
+| 31 | [Oliveira Verdadeira](https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Maximus Records](https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR) | [Louvor Raíz](https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF) | 4:14 |
+| 32 | [O Segredo da Felicidade](https://open.spotify.com/track/1cqL5ETI4Ik9nnYQfUuuwP) | [Tamy Klaus](https://open.spotify.com/artist/2Zl9rN1av3SmE8V284GXI4), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw), [Misael Coelho](https://open.spotify.com/artist/60ThKVjUZ4GrqNu4o7aBtS) | [O Segredo da Felicidade](https://open.spotify.com/album/558l8xXJGcfrhNjn6WIBFv) | 3:20 |
 | 33 | [Fora do Normal \(Majestade\) \- Ao Vivo](https://open.spotify.com/track/4J8QQp1meKEf8lteMqL3av) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4), [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Fora do Normal \(Majestade\) \[Ao Vivo\]](https://open.spotify.com/album/1Gga11E0sopkHf1KEfYZIK) | 3:45 |
 | 34 | [Trajetória](https://open.spotify.com/track/64mFWof8nKdLgHpFSSDbEf) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Trajetória](https://open.spotify.com/album/713WXPAkeukQUrkN7ZRzSi) | 3:53 |
 | 35 | [Guerreiro Adorador](https://open.spotify.com/track/5DdPOo1lK5TBndXG24HFfw) | [Ismael Junior](https://open.spotify.com/artist/0vAXrZLvWdBJL1cxdL7JBy), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Guerreiro Adorador](https://open.spotify.com/album/4jRfEXevgeiyxCjXGZ6zz9) | 5:52 |

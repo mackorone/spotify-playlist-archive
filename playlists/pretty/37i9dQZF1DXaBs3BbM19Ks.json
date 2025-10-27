@@ -1,6 +1,6 @@
 {
   "description": "Una noche en el Patio con Daniela, Lupita, Dulce y Yuri \ud83c\udf78",
-  "num_followers": 954175,
+  "num_followers": 954202,
   "original_name": "Modo Mentiras",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
+        "name": "Mujer De Todos Mujer De Nadie",
+        "url": "https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "De Mi Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
         "name": "Mentiras: La Serie (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 125470,
       "name": "Castillos (feat. Regina Bland\u00f3n)",
       "url": "https://open.spotify.com/track/4IGGduepkbwJ3j2fSWNZ1J"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
-        "name": "Mujer De Todos Mujer De Nadie",
-        "url": "https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "De Mi Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi"
     },
     {
       "added_at": "2025-06-20 20:01:19",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
-        "name": "Mi Vida Sin Tu Amor",
-        "url": "https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Mi Vida Sin Tu Amor",
-      "url": "https://open.spotify.com/track/7ar0x3rmUNKo1rAkxTy8S5"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
         "name": "A Donde Vas?",
         "url": "https://open.spotify.com/album/5qjUiS5iqDsIsQiLDPzgMW"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 235426,
       "name": "Como Me Haces Falta",
       "url": "https://open.spotify.com/track/46NfUryLlW7aiI8xD8UFhL"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
+        "name": "Mi Vida Sin Tu Amor",
+        "url": "https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Mi Vida Sin Tu Amor",
+      "url": "https://open.spotify.com/track/7ar0x3rmUNKo1rAkxTy8S5"
     },
     {
       "added_at": "2025-06-20 20:01:19",

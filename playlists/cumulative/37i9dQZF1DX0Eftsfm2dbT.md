@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: ¥ellow Bucks
 
-2,016 songs - 4 day 6 hr 3 min
+2,017 songs - 4 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1811,6 +1811,7 @@
 | [ymf](https://open.spotify.com/track/5CFBCDNVduY3AFVgR9UBCK) | [KZ](https://open.spotify.com/artist/5ksQc2aN5T6BWc6dEyJSV8), [Roco JeffPort](https://open.spotify.com/artist/2OfLas7kxuBNupXZGkTdKo), [Mell Owell](https://open.spotify.com/artist/19CqxFvHpaEC4lPpZ43PW1) | [ymf](https://open.spotify.com/album/00K4ekq9i8aOHAn6KcAbXV) | 3:29 | 2024-06-11 | 2024-06-26 |
 | [YO \(feat\. KOJOE\)](https://open.spotify.com/track/0ovabAStN4PTGsmxHdakmk) | [LazyWii](https://open.spotify.com/artist/7uHOum5FsgkGwkc2UfdkSL), [BudaMunk](https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC), [Kojoe](https://open.spotify.com/artist/3yP8JwasYIrAxRT2Dw1xZu) | [LAZYMUNK](https://open.spotify.com/album/048MJHDnVBGbLI6fET6mbW) | 3:30 | 2025-10-24 |  |
 | [Yoi yoi](https://open.spotify.com/track/2EmvnrbpmIsHXfF0z190WG) | [COMA\-CHI](https://open.spotify.com/artist/1EGbVC1fE68gQaPrYEyr99) | [OTO](https://open.spotify.com/album/1figvJIj0rXRnmcbmrcIxq) | 3:22 | 2024-05-15 | 2024-05-22 |
+| [Yokubari](https://open.spotify.com/track/1nYHjhlc80ln2ajFZsiupl) | [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [Yokubari](https://open.spotify.com/album/6qi8oyQMoejMOwSck2nUJe) | 2:21 | 2025-10-27 |  |
 | [Yonaka no Tsume \(feat\. Elle Teresa\)](https://open.spotify.com/track/4FSDhHOcgYriQNOczvSZSA) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Secure](https://open.spotify.com/album/0jxof92mKNDfGfVaJFR1uQ) | 2:50 | 2024-12-17 | 2025-02-26 |
 | [Yoppa Ratta](https://open.spotify.com/track/7JkoS8bqTrTgtJBnBSdMGq) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGRHYTHM](https://open.spotify.com/album/24wuIBwGVSr5BuE4SAZVPP) | 3:55 | 2024-06-28 | 2024-08-14 |
 | [You Are Mine](https://open.spotify.com/track/0TYPszN362vVEkPGB4ON37) | [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [AIRERA](https://open.spotify.com/album/731UNRWFj2wcHp5TftjS2C) | 3:43 | 2024-06-18 | 2024-09-18 |

@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Yellowcard",
-  "num_followers": 598625,
+  "num_followers": 598641,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/3v9dyqvNaLL57rqIJQ0qvO"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 191357,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/6UcydD46iXzyCpoJYeM8tG"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
         "name": "Saviors",
         "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
       },
@@ -355,54 +371,34 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "Hate This Song",
-        "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
       "artists": [
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 175693,
-      "name": "Hate This Song",
-      "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "Why Would I Watch",
-        "url": "https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ"
+        "name": "FEAR OF HEIGHTS",
+        "url": "https://open.spotify.com/album/3BSzVdG2ge51LNFkzfhn3l"
       },
       "artists": [
         {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
         }
       ],
-      "duration_ms": 200595,
-      "name": "No Shoes in the Coffee Shop (Or Socks)",
-      "url": "https://open.spotify.com/track/67BoLcQZhPok0yVe9J0Br8"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/3v9dyqvNaLL57rqIJQ0qvO"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 191357,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/6UcydD46iXzyCpoJYeM8tG"
+      "duration_ms": 154189,
+      "name": "FEAR OF HEIGHTS",
+      "url": "https://open.spotify.com/track/61i6vMgMrE1sM60ScJesXl"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -423,18 +419,22 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+        "name": "Hate This Song",
+        "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
         }
       ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+      "duration_ms": 175693,
+      "name": "Hate This Song",
+      "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -479,38 +479,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "FEAR OF HEIGHTS",
-        "url": "https://open.spotify.com/album/3BSzVdG2ge51LNFkzfhn3l"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 154189,
-      "name": "FEAR OF HEIGHTS",
-      "url": "https://open.spotify.com/track/61i6vMgMrE1sM60ScJesXl"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
-        "name": "Oh No!",
-        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 193166,
-      "name": "Oh No!",
-      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "Love Myself",
         "url": "https://open.spotify.com/album/7ka7U27Hz0kZPEBUIYmeha"
       },
@@ -543,6 +511,26 @@
       "duration_ms": 186025,
       "name": "Red Velvet (with Ari Abdul)",
       "url": "https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "Fake As Hell (with Avril Lavigne)",
+        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 179166,
+      "name": "Fake As Hell (with Avril Lavigne)",
+      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -583,22 +571,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "X\u2019s For Eyes",
-        "url": "https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi"
-      },
-      "artists": [
-        {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
-        }
-      ],
-      "duration_ms": 198977,
-      "name": "Perfection",
-      "url": "https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "2 LITER SPITE",
         "url": "https://open.spotify.com/album/69iRuCRfkznWMQs3yBkrGv"
       },
@@ -611,6 +583,38 @@
       "duration_ms": 183500,
       "name": "2 LITER SPITE",
       "url": "https://open.spotify.com/track/5arHMhKsZiD5spn1cX8cAl"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "Why Would I Watch",
+        "url": "https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "duration_ms": 200595,
+      "name": "No Shoes in the Coffee Shop (Or Socks)",
+      "url": "https://open.spotify.com/track/67BoLcQZhPok0yVe9J0Br8"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "X\u2019s For Eyes",
+        "url": "https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 198977,
+      "name": "Perfection",
+      "url": "https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -631,6 +635,22 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
+        "name": "Oh No!",
+        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 193166,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
         "name": "Neck Deep",
         "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 178600,
       "name": "Dumbstruck Dumbf**k",
       "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
-        "name": "Fake As Hell (with Avril Lavigne)",
-        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 179166,
-      "name": "Fake As Hell (with Avril Lavigne)",
-      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "SUCKERPUNCH",
-        "url": "https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 172510,
-      "name": "SUCKERPUNCH",
-      "url": "https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "MOTH KIDS",
         "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 219035,
       "name": "MOTH KIDS",
       "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "Sinking Feeling",
+        "url": "https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey"
+      },
+      "artists": [
+        {
+          "name": "LEAP",
+          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
+        }
+      ],
+      "duration_ms": 227529,
+      "name": "Sinking Feeling",
+      "url": "https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -779,18 +779,18 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "Sinking Feeling",
-        "url": "https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey"
+        "name": "SUCKERPUNCH",
+        "url": "https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ"
       },
       "artists": [
         {
-          "name": "LEAP",
-          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 227529,
-      "name": "Sinking Feeling",
-      "url": "https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb"
+      "duration_ms": 172510,
+      "name": "SUCKERPUNCH",
+      "url": "https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "these things happen",
-        "url": "https://open.spotify.com/album/3xiYqnYgX8053Tg4KR6h4P"
-      },
-      "artists": [
-        {
-          "name": "saturdays at your place",
-          "url": "https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR"
-        }
-      ],
-      "duration_ms": 90860,
-      "name": "cross my heart",
-      "url": "https://open.spotify.com/track/5ayZLwBFGNfQpI2ZsMnnKs"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 186306,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "these things happen",
+        "url": "https://open.spotify.com/album/3xiYqnYgX8053Tg4KR6h4P"
+      },
+      "artists": [
+        {
+          "name": "saturdays at your place",
+          "url": "https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR"
+        }
+      ],
+      "duration_ms": 90860,
+      "name": "cross my heart",
+      "url": "https://open.spotify.com/track/5ayZLwBFGNfQpI2ZsMnnKs"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "miss sunshine",
-        "url": "https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 203187,
-      "name": "miss sunshine",
-      "url": "https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "GODDAMNITALL",
         "url": "https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
+        "name": "miss sunshine",
+        "url": "https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 203187,
+      "name": "miss sunshine",
+      "url": "https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
         "name": "Holding On To That Hate",
         "url": "https://open.spotify.com/album/1sFyZJv5DIFOI0yKBC3Kid"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 219318,
       "name": "Holding On To That Hate",
       "url": "https://open.spotify.com/track/71qn49q6RzGsiECCCTH2w5"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 218583,
-      "name": "Under My Sweater",
-      "url": "https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 218583,
+      "name": "Under My Sweater",
+      "url": "https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
         "name": "It's Just A Title",
         "url": "https://open.spotify.com/album/6WtK6caSpWvmWXafj9TdwW"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "Sandbox",
-        "url": "https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 145547,
-      "name": "Sandbox",
-      "url": "https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "\"good guy\"",
         "url": "https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 208052,
       "name": "\"good guy\"",
       "url": "https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "Sandbox",
+        "url": "https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 145547,
+      "name": "Sandbox",
+      "url": "https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -1135,38 +1135,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/61v3eLYnSNbrXbZeOT3fcu"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 189897,
-      "name": "Dystopia",
-      "url": "https://open.spotify.com/track/4kHAsfbvQDYhrF3GzVkH9J"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
-        "name": "X's For Eyes",
-        "url": "https://open.spotify.com/album/20pilw56xRzAbYGt3Sjfyt"
-      },
-      "artists": [
-        {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
-        }
-      ],
-      "duration_ms": 176008,
-      "name": "X\u2019s For Eyes",
-      "url": "https://open.spotify.com/track/4GnsLk2c2JkEHgwySSDDCw"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "By The Way",
         "url": "https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8"
       },
@@ -1179,6 +1147,22 @@
       "duration_ms": 172205,
       "name": "By The Way",
       "url": "https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/61v3eLYnSNbrXbZeOT3fcu"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 189897,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/4kHAsfbvQDYhrF3GzVkH9J"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
+        "name": "X's For Eyes",
+        "url": "https://open.spotify.com/album/20pilw56xRzAbYGt3Sjfyt"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 176008,
+      "name": "X\u2019s For Eyes",
+      "url": "https://open.spotify.com/track/4GnsLk2c2JkEHgwySSDDCw"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
         "name": "Stepper",
         "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
       },
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/0eOHh9lI2YS5FWXazFI6uW"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 203470,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/7CNk4GbD0dKuXq6MR0BA5B"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "There's A Whole World Out There",
         "url": "https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 250172,
       "name": "Fatal Flaw",
       "url": "https://open.spotify.com/track/7iOmNAV74wgniReAH65opV"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/0eOHh9lI2YS5FWXazFI6uW"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 203470,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7CNk4GbD0dKuXq6MR0BA5B"
     },
     {
       "added_at": "2025-10-10 13:24:48",

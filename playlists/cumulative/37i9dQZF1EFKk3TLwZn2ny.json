@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162360,
+      "name": "Need You More",
+      "url": "https://open.spotify.com/track/5P1oDdVOnO17KrB26DS5CC"
+    },
+    {
+      "album": {
         "name": "Not There Yet",
         "url": "https://open.spotify.com/album/7odsdzRoh6pWISrnS1kY9c"
       },

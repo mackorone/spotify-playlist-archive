@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 438088,
+  "num_followers": 438078,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,26 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/5ZiEQlND2otG2zdBVzuQO9"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Vanesa Mart\u00edn",
+          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/71vzHHi7B66IZWfJfjVN7W"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "Todos Tenemos un Amor",
         "url": "https://open.spotify.com/album/6loQxERAji3GRFOfcM0Lt0"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 355019,
       "name": "Las Flores",
       "url": "https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
-        "name": "T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/5ZiEQlND2otG2zdBVzuQO9"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Vanesa Mart\u00edn",
-          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/71vzHHi7B66IZWfJfjVN7W"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -811,18 +811,22 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "inmortal",
-        "url": "https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu"
+        "name": "Latin Jazz, Vol. 3",
+        "url": "https://open.spotify.com/album/3Frf4Pj6JoecGG62EG8Z8h"
       },
       "artists": [
         {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        },
+        {
+          "name": "Mongo Santamarias Men",
+          "url": "https://open.spotify.com/artist/67UM2a5uJvuVpPLz0oanEM"
         }
       ],
-      "duration_ms": 155601,
-      "name": "inmortal",
-      "url": "https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj"
+      "duration_ms": 185786,
+      "name": "Linda Guajira",
+      "url": "https://open.spotify.com/track/6LgpmOednaE46TjVgeSFJm"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -843,22 +847,38 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Latin Jazz, Vol. 3",
-        "url": "https://open.spotify.com/album/3Frf4Pj6JoecGG62EG8Z8h"
+        "name": "inmortal",
+        "url": "https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu"
       },
       "artists": [
         {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        },
-        {
-          "name": "Mongo Santamarias Men",
-          "url": "https://open.spotify.com/artist/67UM2a5uJvuVpPLz0oanEM"
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
         }
       ],
-      "duration_ms": 185786,
-      "name": "Linda Guajira",
-      "url": "https://open.spotify.com/track/6LgpmOednaE46TjVgeSFJm"
+      "duration_ms": 155601,
+      "name": "inmortal",
+      "url": "https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Bolero Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Vem Pra Mim",
+      "url": "https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -899,26 +919,6 @@
       "duration_ms": 206065,
       "name": "Curita",
       "url": "https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
-        "name": "Bolero Apocal\u00edptico",
-        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Vem Pra Mim",
-      "url": "https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Rituales",
-        "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
-      },
-      "artists": [
-        {
-          "name": "KerreKe",
-          "url": "https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Bailando Con Un Pie",
-      "url": "https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Grietas",
         "url": "https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "Rituales",
+        "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
+      },
+      "artists": [
+        {
+          "name": "KerreKe",
+          "url": "https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Bailando Con Un Pie",
+      "url": "https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "Game On",
         "url": "https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG"
       },
@@ -1171,18 +1171,22 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
+        "name": "Guajira",
+        "url": "https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V"
       },
       "artists": [
         {
-          "name": "Si*S\u00e9",
-          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
+          "name": "HABIBI",
+          "url": "https://open.spotify.com/artist/3RwYN0Swosf86cRdNn77Jt"
+        },
+        {
+          "name": "Elisabeth Borne",
+          "url": "https://open.spotify.com/artist/3xgdUKPsJSjxeYeLWeLgna"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Donde Est\u00e1",
-      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
+      "duration_ms": 210461,
+      "name": "Guajira",
+      "url": "https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1207,22 +1211,18 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Guajira",
-        "url": "https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
       },
       "artists": [
         {
-          "name": "HABIBI",
-          "url": "https://open.spotify.com/artist/3RwYN0Swosf86cRdNn77Jt"
-        },
-        {
-          "name": "Elisabeth Borne",
-          "url": "https://open.spotify.com/artist/3xgdUKPsJSjxeYeLWeLgna"
+          "name": "Si*S\u00e9",
+          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
         }
       ],
-      "duration_ms": 210461,
-      "name": "Guajira",
-      "url": "https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re"
+      "duration_ms": 224826,
+      "name": "Donde Est\u00e1",
+      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Bajofondo Tango Club",
-        "url": "https://open.spotify.com/album/3KtZ7CB9lIVCekOB0e8HSk"
-      },
-      "artists": [
-        {
-          "name": "Campo",
-          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
-        }
-      ],
-      "duration_ms": 276093,
-      "name": "Naranjo En Flor",
-      "url": "https://open.spotify.com/track/7ouBEajSKGc6NQPe9fpB8i"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Caminando por Quisqueya",
         "url": "https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 360000,
       "name": "Caminando por Quisqueya",
       "url": "https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Bajofondo Tango Club",
+        "url": "https://open.spotify.com/album/3KtZ7CB9lIVCekOB0e8HSk"
+      },
+      "artists": [
+        {
+          "name": "Campo",
+          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
+        }
+      ],
+      "duration_ms": 276093,
+      "name": "Naranjo En Flor",
+      "url": "https://open.spotify.com/track/7ouBEajSKGc6NQPe9fpB8i"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Malo Para M\u00ed",
-        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
-      },
-      "artists": [
-        {
-          "name": "Banana Leaf Boy",
-          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
-        }
-      ],
-      "duration_ms": 282415,
-      "name": "Malo Para M\u00ed",
-      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "American Boy",
         "url": "https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 225109,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Malo Para M\u00ed",
+        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
+      },
+      "artists": [
+        {
+          "name": "Banana Leaf Boy",
+          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
+        }
+      ],
+      "duration_ms": 282415,
+      "name": "Malo Para M\u00ed",
+      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
     },
     {
       "added_at": "2025-10-10 04:00:26",

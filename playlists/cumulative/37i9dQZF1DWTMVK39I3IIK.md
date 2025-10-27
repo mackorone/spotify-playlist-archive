@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Dos Santos
 
-337 songs - 17 hr 7 min
+338 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Pæn](https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Pæn](https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY) | 3:10 | 2025-05-15 | 2025-09-12 |
 | [Regn](https://open.spotify.com/track/2fPIqRfy3iZIFwycVk8J90) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Regn](https://open.spotify.com/album/5xRpLE2g1CpQStr3AeNYHl) | 3:42 | 2024-06-27 | 2025-03-28 |
 | [Regn På Min Kind](https://open.spotify.com/track/5mcIyGl60e8Y1pk4hx8l6S) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [Regn På Min Kind](https://open.spotify.com/album/6xscW4MSCl4g87YaQyd8BH) | 2:49 | 2025-03-27 | 2025-05-23 |
+| [Regner med i morgen](https://open.spotify.com/track/4CrI9DDQhs2r0Mwqo4fuSH) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [kh kh kh](https://open.spotify.com/album/7Ci8zGzBpTU42ZYe2A0BqM) | 3:06 | 2025-10-26 |  |
 | [Regnvejr](https://open.spotify.com/track/7KyQMwyinP0eYcIFvnz6aP) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [EP](https://open.spotify.com/album/3Teg8wMP5yOVruDXO5ema8) | 3:16 | 2025-09-25 |  |
 | [Rend Mig I Røven](https://open.spotify.com/track/2v1TCgB9lxdMp7v2LPQ9GA) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Rend Mig I Røven](https://open.spotify.com/album/1sDdW8nuxx1aZpGNAAghSR) | 3:20 | 2025-08-14 |  |
 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 | 2025-06-26 | 2025-09-05 |

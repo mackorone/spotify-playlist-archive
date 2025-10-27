@@ -2793,6 +2793,24 @@
     },
     {
       "album": {
+        "name": "Disco Baby",
+        "url": "https://open.spotify.com/album/07deGkma8dlmxOvB9wvhY0"
+      },
+      "artists": [
+        {
+          "name": "Travis Japan",
+          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226833,
+      "name": "Disco Baby",
+      "url": "https://open.spotify.com/track/4Lvm9SuwemRTnzWcJ8YflI"
+    },
+    {
+      "album": {
         "name": "Do What I Want",
         "url": "https://open.spotify.com/album/2wkVbUKPfsV8RpozFuQaF0"
       },
@@ -5215,6 +5233,24 @@
     },
     {
       "album": {
+        "name": "I Want You Back",
+        "url": "https://open.spotify.com/album/6694Ri652nB0EFEsAQLjpB"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169400,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/735mGGdbUzNDUg9IHPaVaV"
+    },
+    {
+      "album": {
         "name": "I wonder",
         "url": "https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je"
       },
@@ -5378,7 +5414,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 241560,
       "name": "ICU",
       "url": "https://open.spotify.com/track/5Pgmc96e272kcUaSdpOKZt"
@@ -7426,7 +7462,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 173000,
       "name": "n (number of cases)",
       "url": "https://open.spotify.com/track/33nC9lajf4bWI12PooiOKF"
@@ -8024,7 +8060,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 158173,
       "name": "One Bite",
       "url": "https://open.spotify.com/track/3qmqZ0xagja2QLmotPLXnD"
@@ -10262,7 +10298,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 197853,
       "name": "Stare In Wonder",
       "url": "https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM"
@@ -10482,7 +10518,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 155000,
       "name": "Stylish",
       "url": "https://open.spotify.com/track/2XBFjuzC4e1RfJKheadA5f"

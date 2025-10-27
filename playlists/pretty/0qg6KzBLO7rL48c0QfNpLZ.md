@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,491 likes - 111 songs - 4 hr 45 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,476 likes - 112 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,6 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 109 | [Melody](https://open.spotify.com/track/2xviCV8vbtyTu3DwNxkQ7e) | [Timmy Commerford](https://open.spotify.com/artist/0Y0r9IKRjfC62MAYMDEMZO), [Garnic](https://open.spotify.com/artist/3MgJmPTPtbAPvxiFQHxEGi) | [Melody](https://open.spotify.com/album/4ueyGXzJAfHWLxCeDBj4P7) | 2:10 |
 | 110 | [Haven](https://open.spotify.com/track/3UIcBILSKwze021TGlanVo) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Haven](https://open.spotify.com/album/1GTPtU7LpCj4rJIwlwei7g) | 2:13 |
 | 111 | [Another Day In Paradise](https://open.spotify.com/track/1FdDXJPf0ksUPZNrg1LjNf) | [MrRevillz](https://open.spotify.com/artist/5KhIhOD5xJP1dIzm8dpKvy) | [Another Day In Paradise](https://open.spotify.com/album/3b3JP6ps6eTly0n1mFqG8g) | 2:32 |
+| 112 | [Magical Days](https://open.spotify.com/track/4Gfg6Ka58w3HkDE8JxHHiq) | [Ola Martin](https://open.spotify.com/artist/54FIu0DlnGcGqTDLod7X0b), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D), [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn) | [Magical Days](https://open.spotify.com/album/3fmK2L6oo2wb9FEzBsxTUM) | 2:16 |
 
-Snapshot ID: `AAAhxQXZ3i5PkEan93pSUIapFrH1x+zM`
+Snapshot ID: `AAAhxuRrwZuyDbVlZO14Y79FKxTBf7HH`

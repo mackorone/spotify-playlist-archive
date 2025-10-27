@@ -2,9 +2,9 @@
 
 ### [Indian Indie English](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> English songs from Indian artists<br/>Cover: Tejas
+> English songs from Indian artists<br/>Cover: Ramya Pothuri
 
-355 songs - 20 hr 23 min
+357 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Believe](https://open.spotify.com/track/0HVGQkCRvHXMPep4s59qfm) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Layth Sidiq](https://open.spotify.com/artist/75qIhTMvg7SbytVJMHNZ9o) | [Believe](https://open.spotify.com/album/4PAchG7DoFJpjdKR0uKi61) | 4:07 | 2022-07-29 | 2023-01-13 |
 | [Believer's Curse](https://open.spotify.com/track/5CeJ2QAPBrx26JISJqExRD) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Believer's Curse](https://open.spotify.com/album/38Znbt9EJHnwLpcBxClkQT) | 2:36 | 2025-10-03 |  |
 | [Better Than It All](https://open.spotify.com/track/4CZLWB9teKNiyIN94aovSo) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Songs From a Matchbox](https://open.spotify.com/album/3fHUM1ZwOd4kP120mHbLxd) | 3:01 | 2024-11-22 |  |
-| [Beyond What's Here](https://open.spotify.com/track/0sk83k1h8DrcrfQ2ywqaop) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Beyond What's Here](https://open.spotify.com/album/4wzDjUmScSBrZRkDkLxrY2) | 5:34 | 2024-11-22 |  |
+| [Beyond What's Here](https://open.spotify.com/track/0sk83k1h8DrcrfQ2ywqaop) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Beyond What's Here](https://open.spotify.com/album/4wzDjUmScSBrZRkDkLxrY2) | 5:34 | 2024-11-22 | 2025-10-27 |
 | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6) | 3:56 | 2024-12-06 | 2025-02-05 |
 | [BLOOM](https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [BLOOM](https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf) | 3:01 | 2023-05-19 | 2024-06-22 |
 | [Bloom](https://open.spotify.com/track/39lOHITmszIVH9WF4Jpbum) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:39 | 2022-05-27 | 2024-08-23 |
@@ -120,7 +120,7 @@
 | [For a While](https://open.spotify.com/track/1yhfYBmhghTPVEs103vITH) | [Krishnahazar](https://open.spotify.com/artist/2Z16jBrzl4twrIQ1NCQb7d) | [For a While](https://open.spotify.com/album/6aNgCHHG3x5U112Wuj0fZ4) | 3:08 | 2024-07-20 | 2025-09-13 |
 | [forget your name](https://open.spotify.com/track/5HMJr3qOYf7Bjd58UNvGDY) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [forget your name](https://open.spotify.com/album/2ZwwjE0KXrvn5UnHXcbaR3) | 3:55 | 2025-09-19 |  |
 | [free](https://open.spotify.com/track/6AZFB9yD5kyahBrPhv9i4E) | [Teenasai](https://open.spotify.com/artist/6xIdf78GSxt5FrRC4RC6Uj) | [free](https://open.spotify.com/album/6x5uvmf4EOslQGWPOREQEf) | 3:06 | 2022-03-25 | 2023-01-13 |
-| [ghost](https://open.spotify.com/track/77mRIH0iEMSDycL7JwgPRz) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME), [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [ghost](https://open.spotify.com/album/6GGzNzRrPyIuXTp5yvwAHI) | 3:40 | 2025-02-04 |  |
+| [ghost](https://open.spotify.com/track/77mRIH0iEMSDycL7JwgPRz) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME), [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [ghost](https://open.spotify.com/album/6GGzNzRrPyIuXTp5yvwAHI) | 3:40 | 2025-02-04 | 2025-10-27 |
 | [Gimme Love](https://open.spotify.com/track/4Lrj5gedGK2BoHYlmIQSjd) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Gimme Love](https://open.spotify.com/album/2cfnjv71Pf1Nc9LbNzc5UB) | 3:07 | 2023-07-28 | 2024-07-27 |
 | [Girls Night](https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Girls Night](https://open.spotify.com/album/5SQMqplTnx2JC1SgNbdPT4) | 3:17 | 2024-01-10 | 2024-08-23 |
 | [Give Up](https://open.spotify.com/track/41b1nydaPsdAn4R3sqoVWu) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Give Up](https://open.spotify.com/album/17GJjmUe6dkPDRN1DCOv3t) | 4:08 | 2022-05-13 | 2023-08-04 |
@@ -250,6 +250,7 @@
 | [Only in the West](https://open.spotify.com/track/3OGMxwVIhhekvyncyXybe6) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Sebastian](https://open.spotify.com/album/49Gejn6Yza0F7v0vsVeKA7) | 3:16 | 2023-05-24 | 2023-06-27 |
 | [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 | 2023-05-24 | 2024-11-23 |
 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 | 2023-05-24 | 2024-06-22 |
+| [Over the Moon](https://open.spotify.com/track/47m0YD9ERn5IZIjRcxxJ9B) | [axe.shay](https://open.spotify.com/artist/5nGvxnSGQEICmBXZojfqH7) | [Over the Moon](https://open.spotify.com/album/0f7P0KplCgbOXCuZ2RCPQJ) | 3:56 | 2025-10-26 |  |
 | [Overrated](https://open.spotify.com/track/5lSUuHikeDyhMJlWHLfDPi) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [Overrated](https://open.spotify.com/album/6wdJu0Z74v0zKWnf2oUh8E) | 3:20 | 2024-04-01 | 2024-11-23 |
 | [overtime](https://open.spotify.com/track/4MJYvBnXIXwmZN1yu7nOzR) | [Swara](https://open.spotify.com/artist/7j7FC2Jc8WKNv20nEFV1Rq) | [overtime](https://open.spotify.com/album/0VIx5lKDjAyGNcKL7weifN) | 2:32 | 2023-12-15 | 2024-05-11 |
 | [Paper Boats](https://open.spotify.com/track/4Js7oC6qWF8UgZgnBBVDfO) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [Gouri and Aksha](https://open.spotify.com/artist/2pEp8Qlef5Pj2KHSE61zrF) | [Paper Boats](https://open.spotify.com/album/2zFL0B15XOryvnMv5QyVyI) | 3:47 | 2022-09-02 | 2023-01-13 |
@@ -279,6 +280,7 @@
 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 | 2023-07-21 | 2024-06-22 |
 | [sad in chanel](https://open.spotify.com/track/1sWWUmC2Suwv8Cy3UxvjBC) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0), [Kelly](https://open.spotify.com/artist/2fy0bN8wj1mLvD3phe5iYY), [Hades Serapis](https://open.spotify.com/artist/6L1XzLfJpfn5UdQenms7Xw) | [sad in chanel](https://open.spotify.com/album/6zmc99bgNGTTiWrDALkf1G) | 3:57 | 2025-09-26 |  |
 | [Sad in December](https://open.spotify.com/track/3RBEmnwchGJYy9Ugg50CJt) | [Jo Shy](https://open.spotify.com/artist/3dGrlw7Q1uchukqr9p6OlP) | [Sad in December](https://open.spotify.com/album/6dWnUboP9NZWRZgcLsS7Y7) | 3:18 | 2022-12-20 | 2023-03-22 |
+| [Say No More](https://open.spotify.com/track/5UEEpg4v27qmqnsAyHi7zy) | [axe.shay](https://open.spotify.com/artist/5nGvxnSGQEICmBXZojfqH7) | [Say No More](https://open.spotify.com/album/1iukZAts5HgvSgFpx6Sjxn) | 3:38 | 2025-10-26 |  |
 | [Schoolbus](https://open.spotify.com/track/0kQW2QuxGyygGQAREdGILd) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW), [Tintin](https://open.spotify.com/artist/4UqI6vZZIuZAT4d2yzVnYA) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:28 | 2022-03-25 | 2022-04-06 |
 | [Semi Automatic Butane](https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Semi Automatic Butane](https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY) | 3:29 | 2023-10-18 |  |
 | [September Embers](https://open.spotify.com/track/5VFsY60sYjnJfFZgDvV1xX) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph) | [September Embers](https://open.spotify.com/album/4XsTt6wPXIKpgtaGLsja9W) | 4:46 | 2022-03-25 | 2023-05-20 |

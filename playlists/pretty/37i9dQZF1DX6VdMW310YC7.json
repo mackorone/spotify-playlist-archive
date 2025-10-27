@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3915275,
+  "num_followers": 3915556,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Not Giving You Up",
-        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        }
-      ],
-      "duration_ms": 172939,
-      "name": "Not Giving You Up",
-      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "Into The Night",
         "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 423006,
       "name": "Into The Night",
       "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "Not Giving You Up",
+        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        }
+      ],
+      "duration_ms": 172939,
+      "name": "Not Giving You Up",
+      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -699,26 +699,18 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "One And Only",
-        "url": "https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8"
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX"
       },
       "artists": [
         {
-          "name": "Reznik",
-          "url": "https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ"
-        },
-        {
-          "name": "good guy mikesh",
-          "url": "https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
         }
       ],
-      "duration_ms": 222956,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ"
+      "duration_ms": 137790,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -739,6 +731,30 @@
       "duration_ms": 264614,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "One And Only",
+        "url": "https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8"
+      },
+      "artists": [
+        {
+          "name": "Reznik",
+          "url": "https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ"
+        },
+        {
+          "name": "good guy mikesh",
+          "url": "https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "duration_ms": 222956,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -799,6 +815,26 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 211278,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
       },
@@ -819,26 +855,6 @@
       "duration_ms": 212000,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "Places",
-        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        }
-      ],
-      "duration_ms": 211278,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -939,22 +955,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Have It All",
-        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
-      },
-      "artists": [
-        {
-          "name": "ANDREA CALABRIA",
-          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Have It All",
-      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "Here Again / Wild Again",
         "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
       },
@@ -975,18 +975,18 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Give Me Life",
-        "url": "https://open.spotify.com/album/2uQ78onkVkQm9JEfVK78tN"
+        "name": "Have It All",
+        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "ANDREA CALABRIA",
+          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
         }
       ],
-      "duration_ms": 213113,
-      "name": "Give Me Life",
-      "url": "https://open.spotify.com/track/1VIFS9J23S0zWLbs5U0f2X"
+      "duration_ms": 213750,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX"
+        "name": "Give Me Life",
+        "url": "https://open.spotify.com/album/2uQ78onkVkQm9JEfVK78tN"
       },
       "artists": [
         {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
         }
       ],
-      "duration_ms": 137790,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T"
+      "duration_ms": 213113,
+      "name": "Give Me Life",
+      "url": "https://open.spotify.com/track/1VIFS9J23S0zWLbs5U0f2X"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "Beside You",
+        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 281826,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "sicklysweet (Tobiahs Remix)",
         "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 137888,
       "name": "sicklysweet - Tobiahs Remix",
       "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "Beside You",
-        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 281826,
-      "name": "Beside You",
-      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Above Ground",
-        "url": "https://open.spotify.com/album/6g2Kkgl27P6CjSFenP7vKl"
-      },
-      "artists": [
-        {
-          "name": "Klaverson",
-          "url": "https://open.spotify.com/artist/3HutVQvkOWjDk8fYsWATEr"
-        }
-      ],
-      "duration_ms": 208524,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7BtBDYrdtBmGEXCuPOSf98"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/1sF7sruZ4NXlCi4YKRZAka"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 313064,
       "name": "Sunrise (feat. Madeline Megery)",
       "url": "https://open.spotify.com/track/4z1r9dfqoUNCa0vA4n9ymL"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "Above Ground",
+        "url": "https://open.spotify.com/album/6g2Kkgl27P6CjSFenP7vKl"
+      },
+      "artists": [
+        {
+          "name": "Klaverson",
+          "url": "https://open.spotify.com/artist/3HutVQvkOWjDk8fYsWATEr"
+        }
+      ],
+      "duration_ms": 208524,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7BtBDYrdtBmGEXCuPOSf98"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "I Just Needed This",
+        "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
+      },
+      "artists": [
+        {
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+        },
+        {
+          "name": "Keepa",
+          "url": "https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "I Just Needed This",
+      "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 285595,
       "name": "1973",
       "url": "https://open.spotify.com/track/3fCowMGKkshKs0iwAdxZBd"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "I Just Needed This",
-        "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
-      },
-      "artists": [
-        {
-          "name": "Polar Inc.",
-          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
-        },
-        {
-          "name": "Keepa",
-          "url": "https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "I Just Needed This",
-      "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "Everlight",
+        "url": "https://open.spotify.com/album/2dM0HU6nyY095dS8Hpva5j"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 249553,
+      "name": "High & Low",
+      "url": "https://open.spotify.com/track/5k7FGynO7jnnhpQhK2pexl"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/59lU1VSU9h5dLOXnOQX9zJ"
       },
@@ -1635,22 +1655,18 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Everlight",
-        "url": "https://open.spotify.com/album/2dM0HU6nyY095dS8Hpva5j"
+        "name": "Senses of Comfort",
+        "url": "https://open.spotify.com/album/4KBjfUHKSE2p1wMSJYwIn6"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 249553,
-      "name": "High & Low",
-      "url": "https://open.spotify.com/track/5k7FGynO7jnnhpQhK2pexl"
+      "duration_ms": 191946,
+      "name": "Senses of Comfort",
+      "url": "https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1667,22 +1683,6 @@
       "duration_ms": 196640,
       "name": "Slow Bloom",
       "url": "https://open.spotify.com/track/0pHLg1MHxHwQJpHT6xKlVy"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "Senses of Comfort",
-        "url": "https://open.spotify.com/album/4KBjfUHKSE2p1wMSJYwIn6"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Senses of Comfort",
-      "url": "https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "Lost Home / Solitude",
+        "url": "https://open.spotify.com/album/6hJExzBylXcKb3F7fb0Wju"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        }
+      ],
+      "duration_ms": 226115,
+      "name": "Lost Home",
+      "url": "https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "Everything All At Once",
         "url": "https://open.spotify.com/album/79qIARkVmChtiG0yTcs9Zv"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 245806,
       "name": "Everything All At Once",
       "url": "https://open.spotify.com/track/6GVwBMdjAAgI59pyvxa1XR"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "Lost Home / Solitude",
-        "url": "https://open.spotify.com/album/6hJExzBylXcKb3F7fb0Wju"
-      },
-      "artists": [
-        {
-          "name": "Keanler",
-          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
-        }
-      ],
-      "duration_ms": 226115,
-      "name": "Lost Home",
-      "url": "https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1859,6 +1859,26 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "The Thought of You",
+        "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
+      },
+      "artists": [
+        {
+          "name": "Blonde Maze",
+          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
+        },
+        {
+          "name": "imallryt",
+          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
+        }
+      ],
+      "duration_ms": 262008,
+      "name": "The Thought of You",
+      "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0YQeE6phJTbw0RH4xrkZXs"
       },
@@ -1883,22 +1903,18 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "The Thought of You",
-        "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
       },
       "artists": [
         {
-          "name": "Blonde Maze",
-          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
-        },
-        {
-          "name": "imallryt",
-          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
         }
       ],
-      "duration_ms": 262008,
-      "name": "The Thought of You",
-      "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
+      "duration_ms": 209696,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1919,22 +1935,6 @@
       "duration_ms": 217298,
       "name": "Loveless - George FitzGerald Remix",
       "url": "https://open.spotify.com/track/0zng0Xfmmx2RWykbd0s7Zx"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "Call You Mine",
-        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
-      },
-      "artists": [
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 209696,
-      "name": "Call You Mine",
-      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
     }
   ],
   "unique_name": "Chill Tracks",

@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169394,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/71QKcBjRSoGBMNPByY715u"
+    },
+    {
+      "album": {
         "name": "Jupiter",
         "url": "https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH"
       },

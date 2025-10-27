@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 143202,
+  "num_followers": 143198,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAAAgc6MHHz0kwhpOH21RI6I+",
+  "snapshot_id": "aPwTAAAAAACRb7rqHPG3sRvI/BDUBAWs",
   "tracks": [
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoyos en la bolsa",
-        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 281600,
-      "name": "Pamela",
-      "url": "https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z"
+      "duration_ms": 239360,
+      "name": "L\u00e1grimas en la lluvia",
+      "url": "https://open.spotify.com/track/76GfS8cxOP8wcdNcoLDSqQ"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra tocada m\u00e1s",
-        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 239360,
-      "name": "L\u00e1grimas en la lluvia",
-      "url": "https://open.spotify.com/track/76GfS8cxOP8wcdNcoLDSqQ"
+      "duration_ms": 281600,
+      "name": "Pamela",
+      "url": "https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
       "duration_ms": 263066,
       "name": "El rey",
       "url": "https://open.spotify.com/track/17qf4IyYmq7utjjVgWG5xi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoyos en la bolsa",
-        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Hoyos en la bolsa",
-      "url": "https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi"
     },
     {
       "added_at": null,
@@ -792,9 +776,25 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 309893,
-      "name": "Un d\u00eda en la vida",
-      "url": "https://open.spotify.com/track/3B9zvy65m9pGZmxu7lQzLd"
+      "duration_ms": 329773,
+      "name": "Encuentros cercanos del tercer sexo",
+      "url": "https://open.spotify.com/track/34eXshPC2pco8joDvXjduQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Hoyos en la bolsa",
+      "url": "https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
+        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 309893,
+      "name": "Un d\u00eda en la vida",
+      "url": "https://open.spotify.com/track/3B9zvy65m9pGZmxu7lQzLd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Tri Sinf\u00f3nico II",
         "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 283906,
       "name": "Perdedor",
       "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
-        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 329773,
-      "name": "Encuentros cercanos del tercer sexo",
-      "url": "https://open.spotify.com/track/34eXshPC2pco8joDvXjduQ"
     },
     {
       "added_at": null,

@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 244680,
       "name": "1984",
       "url": "https://open.spotify.com/track/7uxiZMCFC2F4LBcI9DF8iX"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 190693,
       "name": "94 Hours",
       "url": "https://open.spotify.com/track/5sS3HChB8NojQIhwt9WWGR"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 253080,
       "name": "An Ocean Between Us",
       "url": "https://open.spotify.com/track/2wVY3XAbaIK0Kw2fzpuTSN"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 217253,
       "name": "Assistant To The Regional Manager",
       "url": "https://open.spotify.com/track/1ZS0Lgc8Esdg0Bf1JO6KF0"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 190106,
       "name": "Confined",
       "url": "https://open.spotify.com/track/7eWuBTL35BSBBiIjWJk0KB"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 228920,
       "name": "DEMON(S)",
       "url": "https://open.spotify.com/track/6t1Bmjef4I067PKxd6CRlQ"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 233600,
       "name": "Fleshkiller",
       "url": "https://open.spotify.com/track/037zHJTvyD3ByiESRW4I2X"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 282533,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3vMPhppWYQoLN7Ji4JXWo7"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 212693,
       "name": "Forgive and Forget",
       "url": "https://open.spotify.com/track/1VjODGU3lcOyGgOHotXzxw"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 318026,
       "name": "Forsaken",
       "url": "https://open.spotify.com/track/4mJLIuwbDZ31r6ptHOXmMm"
@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 193880,
       "name": "Hymn of a Broken Man",
       "url": "https://open.spotify.com/track/1vcHLDfAfuBq4JuIgEkw5I"
@@ -1946,7 +1946,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 292946,
       "name": "I Am the Lion",
       "url": "https://open.spotify.com/track/0jLbtjGSkBTinA4Wi92l4H"
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 192626,
       "name": "Meaning in Tragedy",
       "url": "https://open.spotify.com/track/1oe7vtdnSYSh2po2YGkXQ3"
@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 231826,
       "name": "The Darkest Nights",
       "url": "https://open.spotify.com/track/5URJEznfi3XiVHQCyC3sII"
@@ -4099,6 +4099,24 @@
     },
     {
       "album": {
+        "name": "To Plant a Seed",
+        "url": "https://open.spotify.com/album/44795EGYAZXGdRhV0pgTIB"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230546,
+      "name": "To Plant a Seed",
+      "url": "https://open.spotify.com/track/1XDleb5NksSab3NmUAlvz6"
+    },
+    {
+      "album": {
         "name": "Messengers",
         "url": "https://open.spotify.com/album/126EKQMA14uV6nfRBbRYNB"
       },
@@ -4200,7 +4218,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 212506,
       "name": "Vacant Room",
       "url": "https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl"
@@ -4452,7 +4470,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 262173,
       "name": "With A Thousand Words To Say But One",
       "url": "https://open.spotify.com/track/1iYgMGAiHn6GaoGXxFCT42"
@@ -4560,7 +4578,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 145813,
       "name": "World Without A Sun",
       "url": "https://open.spotify.com/track/6lXmSzGnZelDfUR7euqv2C"
@@ -4650,7 +4668,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 242413,
       "name": "Writing On The Walls",
       "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ"
@@ -4722,7 +4740,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-06",
+      "date_removed": null,
       "duration_ms": 184640,
       "name": "Young And Aspiring",
       "url": "https://open.spotify.com/track/5AcWLXw3J6XVC9Ba6SNB0u"

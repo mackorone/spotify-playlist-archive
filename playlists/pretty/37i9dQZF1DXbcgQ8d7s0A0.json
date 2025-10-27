@@ -1,6 +1,6 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1380222,
+  "num_followers": 1380463,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
+        "name": "Soul Folk In Action",
+        "url": "https://open.spotify.com/album/6zv0vPPNWxgi8UvKsSWztL"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 275640,
+      "name": "The Weight",
+      "url": "https://open.spotify.com/track/00bOhb4584JjyfTiXX81mO"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
         "name": "A Woman Needs Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/38993ejU6at3J4b0fxIien"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 249053,
       "name": "A Woman Needs Love (Just Like You Do)",
       "url": "https://open.spotify.com/track/0DEwNI2DgasX1eprqCivJk"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
-        "name": "Soul Folk In Action",
-        "url": "https://open.spotify.com/album/6zv0vPPNWxgi8UvKsSWztL"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 275640,
-      "name": "The Weight",
-      "url": "https://open.spotify.com/track/00bOhb4584JjyfTiXX81mO"
     },
     {
       "added_at": "2024-06-24 11:23:29",

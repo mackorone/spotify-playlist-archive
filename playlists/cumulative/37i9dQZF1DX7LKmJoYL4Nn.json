@@ -2701,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u6d41\u661f\u968a",
+        "url": "https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe"
+      },
+      "artists": [
+        {
+          "name": "\u6d41\u661f\u968a/\u5b88\u6ca2\u5343\u79cb(CV.\u5e06\u4e16\u96c4\u4e00)\u3001\u6df1\u6d77\u594f\u6c70(CV.\u897f\u5c71\u5b8f\u592a\u6717)\u3001\u5357\u96f2\u9244\u864e(CV.\u4e2d\u5cf6\u30e8\u30b7\u30ad)\u3001\u9ad8\u5cef\u7fe0(CV.\u6e21\u8fba\u62d3\u6d77)\u3001\u4ed9\u77f3\u5fcd(CV.\u65b0\u7530\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/1McImYokA5QMesgOLKNpnl"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270426,
+      "name": "\u30a2\u30f3\u30ea\u30df\u30c6\u30c3\u30c9\u2606\u30d1\u30ef\u30fc!!!!!",
+      "url": "https://open.spotify.com/track/3irrwUpeNuanOUlS9IUL57"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Switch",
         "url": "https://open.spotify.com/album/0479uOQcSG1f0TMSfcL62u"
       },
@@ -2864,7 +2882,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 246600,
       "name": "\u30cf\u30cb\u30fc\u30df\u30eb\u30af\u306f\u304a\u597d\u307f\u3067",
       "url": "https://open.spotify.com/track/1C5wgl35vBuflcyAsYMec0"

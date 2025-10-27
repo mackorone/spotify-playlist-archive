@@ -1,13 +1,29 @@
 {
   "description": "FurryRadio.com, made for furs, by furs. ",
-  "num_followers": 792,
+  "num_followers": 795,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAERePBYBdSJXsIoPtJbYHYOQhGYjvS",
+  "snapshot_id": "AAAERpkXzL2+I/c/6+yCS6tRdXqWrZyx",
   "tracks": [
+    {
+      "added_at": "2025-10-26 18:58:39",
+      "album": {
+        "name": "Crimson Galaxies",
+        "url": "https://open.spotify.com/album/4iVzbV3AoyVRypYasLf92c"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "duration_ms": 202349,
+      "name": "Crimson Galaxies",
+      "url": "https://open.spotify.com/track/4IUxeDN8MlRYe9sC2SiItA"
+    },
     {
       "added_at": "2025-10-19 07:23:48",
       "album": {

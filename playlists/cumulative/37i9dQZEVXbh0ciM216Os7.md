@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,907 songs - 7 day 14 hr 1 min
+2,908 songs - 7 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1333,7 +1333,8 @@
 | [Karashi](https://open.spotify.com/track/4WvdHU6bGmUBezMRoWgoQT) | [Zambrana](https://open.spotify.com/artist/07WYr74Wovyt6uvJCat6AO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Karashi](https://open.spotify.com/album/3aMWa5Npyxst9nuzgbZVKV) | 3:10 | 2025-10-17 |  |
 | [Karma](https://open.spotify.com/track/1wWJHPexeqfKSVoaFOKgai) | [Elly Cooke](https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe) | [Karma](https://open.spotify.com/album/0B115uvmguqTBcB3jEZlJ3) | 3:10 | 2023-05-26 | 2023-06-17 |
 | [Karma Police](https://open.spotify.com/track/7Cvr8oO5U5sRCCmyCoHfAb) | [Perchance to Dream](https://open.spotify.com/artist/0cDL6wpZxjT9D6BqZf3tZu), [Sarah Dooley](https://open.spotify.com/artist/6k2vsVZ13ZW2HPISPeaA2N), [Travis Harmon](https://open.spotify.com/artist/6C2LU9CBMNWzR5RQCUXnC3), [Kate Ly Johnston](https://open.spotify.com/artist/0VwlgVQ5TsZUbDYgJlr25A), [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg), [Will Riddle](https://open.spotify.com/artist/0QXJkqLgyJQKrtIx0rs4KI), [Dominique Star](https://open.spotify.com/artist/7IhopSm97RkykmrVGMVXlJ) | [Perchance to Dream Concept Album](https://open.spotify.com/album/2zza9WICtWr7Nsc1ifLOzS) | 3:43 | 2024-09-13 | 2024-09-18 |
-| [Karmic Mandala](https://open.spotify.com/track/5tyV3NBhwkueofcYnbsSVK) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Tenzin Choegyal](https://open.spotify.com/artist/4C4wNUmOrOgXWI3S3twrl4), [Alex Ring Gray](https://open.spotify.com/artist/4Av4JN5R4TbK6s3p7lI7gg) | [Karmic Mandala](https://open.spotify.com/album/32m4yfXe0XJNWyfdCl0IkP) | 6:15 | 2025-10-24 |  |
+| [Karmic Mandala](https://open.spotify.com/track/1yTylH39mPgNZtinqOYFz4) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Tenzin Choegyal](https://open.spotify.com/artist/4C4wNUmOrOgXWI3S3twrl4), [Alex Ring Gray](https://open.spotify.com/artist/4Av4JN5R4TbK6s3p7lI7gg) | [Philip Glass & Tenzin Choegyal: Be The Sky](https://open.spotify.com/album/0DmLtheEK1vWDrj3NcTNzT) | 6:15 | 2025-10-24 |  |
+| [Karmic Mandala](https://open.spotify.com/track/5tyV3NBhwkueofcYnbsSVK) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Tenzin Choegyal](https://open.spotify.com/artist/4C4wNUmOrOgXWI3S3twrl4), [Alex Ring Gray](https://open.spotify.com/artist/4Av4JN5R4TbK6s3p7lI7gg) | [Karmic Mandala](https://open.spotify.com/album/32m4yfXe0XJNWyfdCl0IkP) | 6:15 | 2025-10-24 | 2025-10-27 |
 | [Kaya](https://open.spotify.com/track/52s5B7Vx7541AcKDVILtkV) | [A\-Clark](https://open.spotify.com/artist/5zwkmbdSZp79iOJBwTwgYI), [VINNY](https://open.spotify.com/artist/0r5M9jCT1IXSYq9LJjrnyZ), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/3LXFindeU2Y5Qv7F5vLXlK) | 2:45 | 2025-02-28 | 2025-03-08 |
 | [Keep Going](https://open.spotify.com/track/4ho40yA2hY1lnMPMrUSlhg) | [Guster](https://open.spotify.com/artist/34XlPCFfB4vT7P1ekWq9Jc) | [Keep Going](https://open.spotify.com/album/4ViHnXxYrzgR3peo6bWc3C) | 4:08 | 2024-03-01 | 2024-03-07 |
 | [Keep It Dark](https://open.spotify.com/track/6p3Kgt3SwEMajZmjnJFjAx) | [C.O.F.F.I.N](https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3) | [Australia Stops](https://open.spotify.com/album/6GtcJTPQEKWoFDtXLrgWbh) | 3:24 | 2023-09-15 | 2023-09-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 34 songs - 2 hr 28 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 35 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,5 +42,6 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 32 | [Wait for It](https://open.spotify.com/track/7EqpEBPOohgk7NnKvBGFWo) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:13 |
 | 33 | [Hold Them Down](https://open.spotify.com/track/3lIgiul24q1uwE8l928s0w) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Ayron Alexander](https://open.spotify.com/artist/69ZOltPRsF5iPkicJQMRZ9), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 3:03 |
 | 34 | [The Challenge](https://open.spotify.com/track/2MfEPa673rIPzBUdwfqd0P) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Anna Lea](https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 3:21 |
+| 35 | [Her Embrace](https://open.spotify.com/track/1wIzJvTTrg1LhuYR54BQ4y) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [In The Light Ensemble](https://open.spotify.com/artist/1WD3T0MmoymGX68JUOZUaD) | [In the Light: A Faustian Tale \(Highlights from the World Premiere Studio Cast Recording\)](https://open.spotify.com/album/4HtJ1YiZQlLUtmRaOJj11N) | 3:35 |
 
-Snapshot ID: `AAAGRckKsK5YTbQc9naE85gDNLKZ3Guz`
+Snapshot ID: `AAAGRtzoW+7SOSsWvVNVJ4XKoBLmD8UL`

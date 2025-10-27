@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65402,
+  "num_followers": 65405,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAABaQaeu8tQeMLCgr/Cp356/",
+  "snapshot_id": "aPwTAAAAAAAmelOk/VjlOGs42wl4+qUo",
   "tracks": [
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedroom Lofi",
-        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 67171,
-      "name": "A Piece Called Butterflies.",
-      "url": "https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camp Lukewarm",
         "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 248531,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5c2yqU4vbxkQQbZ2ePb5wJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 67171,
+      "name": "A Piece Called Butterflies.",
+      "url": "https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chillhop Essentials Fall 2020",
+        "url": "https://open.spotify.com/album/6y8rR9TEKAuRwL1tM7zRBA"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/1yyBxTN1r3Nq88oSC44hWd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bedroom Lofi",
         "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
       },
@@ -883,30 +899,6 @@
       "duration_ms": 118140,
       "name": "Yes, You Love Me.",
       "url": "https://open.spotify.com/track/0Aj3GRorN6QAFwwZlqXz6T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Show the Signs.",
-        "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "chromonicci",
-          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
-        }
-      ],
-      "duration_ms": 181682,
-      "name": "Show the Signs.",
-      "url": "https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6"
     }
   ],
   "unique_name": "This Is Montell Fish",

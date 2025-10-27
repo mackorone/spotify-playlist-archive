@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis de \u00e9xitos indie para quedar a salvo. En portada: Alabama Shakes",
-  "num_followers": 1076594,
+  "num_followers": 1076483,
   "original_name": "Indiespensables",
   "owner": {
     "name": "Spotify",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 298920,
-      "name": "Red Eyes",
-      "url": "https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Surfer Rosa (Remastered)",
         "url": "https://open.spotify.com/album/2l7RPWC3E6eStJJLBsUeCI"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 236973,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/6mcxQ1Y3uQRU0IHsvdNLH1"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 298920,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S"
     }
   ],
   "unique_name": "Indiespensables",

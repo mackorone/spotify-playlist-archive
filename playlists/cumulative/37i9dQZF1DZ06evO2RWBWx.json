@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "\u6e26",
+        "url": "https://open.spotify.com/album/7kYLEXVhvTilbDM67hrBub"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189203,
+      "name": "\u6e26",
+      "url": "https://open.spotify.com/track/5J1xalv6l7lze1AvFeLstR"
+    },
+    {
+      "album": {
         "name": "\u8703\u6c17\u697c",
         "url": "https://open.spotify.com/album/4ry8r9J343HddtLeezD5rS"
       },

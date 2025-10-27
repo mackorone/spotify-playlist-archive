@@ -315,26 +315,6 @@
     {
       "added_at": "2025-10-24 03:00:19",
       "album": {
-        "name": "Ombro Amigo",
-        "url": "https://open.spotify.com/album/263D0HrDdi0sXLFYdrroKu"
-      },
-      "artists": [
-        {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
-        },
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 175176,
-      "name": "Ombro Amigo",
-      "url": "https://open.spotify.com/track/4Ccw1mBahaNYSSAxvqoqJu"
-    },
-    {
-      "added_at": "2025-10-24 03:00:19",
-      "album": {
         "name": "BASEADO EM FATOS REAIS (menos as partes que eu inventei)",
         "url": "https://open.spotify.com/album/5JtKh2HM4KGLj6K0q2hdf1"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 183337,
       "name": "sera que esse \u00e9 mesmo o nosso fim?",
       "url": "https://open.spotify.com/track/2Xc19fnMBgpE2ZbguFEApF"
+    },
+    {
+      "added_at": "2025-10-24 03:00:19",
+      "album": {
+        "name": "Ombro Amigo",
+        "url": "https://open.spotify.com/album/263D0HrDdi0sXLFYdrroKu"
+      },
+      "artists": [
+        {
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+        },
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 175176,
+      "name": "Ombro Amigo",
+      "url": "https://open.spotify.com/track/4Ccw1mBahaNYSSAxvqoqJu"
     },
     {
       "added_at": "2025-10-24 03:00:19",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-10-24 03:00:19",
       "album": {
+        "name": "assim",
+        "url": "https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "assim",
+      "url": "https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ"
+    },
+    {
+      "added_at": "2025-10-24 03:00:19",
+      "album": {
         "name": "Cada Linha",
         "url": "https://open.spotify.com/album/11S0gVsVXpCpSUFYYiLADo"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 162339,
       "name": "Cada Linha",
       "url": "https://open.spotify.com/track/49gSrZDPSaWtmLZzkMW9Wt"
-    },
-    {
-      "added_at": "2025-10-24 03:00:19",
-      "album": {
-        "name": "assim",
-        "url": "https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "assim",
-      "url": "https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ"
     },
     {
       "added_at": "2025-10-24 03:00:19",
@@ -563,42 +563,6 @@
     {
       "added_at": "2025-10-24 03:00:19",
       "album": {
-        "name": "coisas triviais",
-        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
-      },
-      "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "coisas triviais",
-      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
-    },
-    {
-      "added_at": "2025-10-24 03:00:19",
-      "album": {
-        "name": "olhos mar",
-        "url": "https://open.spotify.com/album/58BUdZZ32V8sylavdHQVY1"
-      },
-      "artists": [
-        {
-          "name": "Braga",
-          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
-        },
-        {
-          "name": "Pedro Aranha",
-          "url": "https://open.spotify.com/artist/4SAKW6KWTozVGBVw0PIzNS"
-        }
-      ],
-      "duration_ms": 83467,
-      "name": "olhos mar",
-      "url": "https://open.spotify.com/track/7EkFBHUyRhjARpnNZr6PgO"
-    },
-    {
-      "added_at": "2025-10-24 03:00:19",
-      "album": {
         "name": "Raio de Sol",
         "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
       },
@@ -619,6 +583,22 @@
     {
       "added_at": "2025-10-24 03:00:19",
       "album": {
+        "name": "coisas triviais",
+        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "coisas triviais",
+      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
+    },
+    {
+      "added_at": "2025-10-24 03:00:19",
+      "album": {
         "name": "Mar Manso",
         "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 189500,
       "name": "Mar Manso",
       "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
+    },
+    {
+      "added_at": "2025-10-24 03:00:19",
+      "album": {
+        "name": "olhos mar",
+        "url": "https://open.spotify.com/album/58BUdZZ32V8sylavdHQVY1"
+      },
+      "artists": [
+        {
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+        },
+        {
+          "name": "Pedro Aranha",
+          "url": "https://open.spotify.com/artist/4SAKW6KWTozVGBVw0PIzNS"
+        }
+      ],
+      "duration_ms": 83467,
+      "name": "olhos mar",
+      "url": "https://open.spotify.com/track/7EkFBHUyRhjARpnNZr6PgO"
     },
     {
       "added_at": "2025-10-24 03:00:19",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-10-24 03:00:19",
       "album": {
-        "name": "Prece",
-        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "Prece",
-      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
-    },
-    {
-      "added_at": "2025-10-24 03:00:19",
-      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
       },
@@ -975,6 +959,38 @@
       "duration_ms": 257521,
       "name": "KINTSUGI",
       "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
+    },
+    {
+      "added_at": "2025-10-24 03:00:19",
+      "album": {
+        "name": "Prece",
+        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
+    },
+    {
+      "added_at": "2025-10-24 03:00:19",
+      "album": {
+        "name": "Intimidade",
+        "url": "https://open.spotify.com/album/2ZbZTUDInvYRtNH51sWomj"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 179541,
+      "name": "Intimidade",
+      "url": "https://open.spotify.com/track/0sn0gJGcSzdDSHuNUkRFlm"
     },
     {
       "added_at": "2025-10-24 03:00:19",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2025-10-24 03:00:19",
       "album": {
-        "name": "Apressa",
-        "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
-      },
-      "artists": [
-        {
-          "name": "Rebeca",
-          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
-        }
-      ],
-      "duration_ms": 155100,
-      "name": "Apressa",
-      "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
-    },
-    {
-      "added_at": "2025-10-24 03:00:19",
-      "album": {
         "name": "LEBLON",
         "url": "https://open.spotify.com/album/2GNvPLOtPtComDsp7F9NbU"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 151032,
       "name": "LEBLON",
       "url": "https://open.spotify.com/track/7iQ3f3Yqva0NwqZyjKqz4q"
+    },
+    {
+      "added_at": "2025-10-24 03:00:19",
+      "album": {
+        "name": "Apressa",
+        "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
+      },
+      "artists": [
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+        }
+      ],
+      "duration_ms": 155100,
+      "name": "Apressa",
+      "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
     },
     {
       "added_at": "2025-10-24 03:00:19",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2025-10-24 03:00:19",
       "album": {
-        "name": "Intimidade",
-        "url": "https://open.spotify.com/album/2ZbZTUDInvYRtNH51sWomj"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 179541,
-      "name": "Intimidade",
-      "url": "https://open.spotify.com/track/0sn0gJGcSzdDSHuNUkRFlm"
-    },
-    {
-      "added_at": "2025-10-24 03:00:19",
-      "album": {
         "name": "CARAMELO E FLOR DE SAL",
         "url": "https://open.spotify.com/album/7kpBjBmSgDgXHfTETqdGAM"
       },
@@ -1303,6 +1303,30 @@
       "duration_ms": 115422,
       "name": "te quero sem final",
       "url": "https://open.spotify.com/track/3KhIaL5rfQFfl2t5K65jN6"
+    },
+    {
+      "added_at": "2025-10-24 03:00:19",
+      "album": {
+        "name": "Verde Neon",
+        "url": "https://open.spotify.com/album/5219A1tjb2g0qQ8wDGdQ77"
+      },
+      "artists": [
+        {
+          "name": "Any Gabrielly",
+          "url": "https://open.spotify.com/artist/7Exa8X6gyaqkug3tLGVKje"
+        },
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        },
+        {
+          "name": "UCHA",
+          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
+        }
+      ],
+      "duration_ms": 198208,
+      "name": "Verde Neon",
+      "url": "https://open.spotify.com/track/7lFa2qAs3mo03knsvN6pco"
     },
     {
       "added_at": "2025-10-24 03:00:19",
@@ -1411,30 +1435,6 @@
       "duration_ms": 197954,
       "name": "Arm\u00e1rio de coisas pequenas",
       "url": "https://open.spotify.com/track/6hpalUVZYFpptw2xH0KPNH"
-    },
-    {
-      "added_at": "2025-10-24 03:00:19",
-      "album": {
-        "name": "Verde Neon",
-        "url": "https://open.spotify.com/album/5219A1tjb2g0qQ8wDGdQ77"
-      },
-      "artists": [
-        {
-          "name": "Any Gabrielly",
-          "url": "https://open.spotify.com/artist/7Exa8X6gyaqkug3tLGVKje"
-        },
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        },
-        {
-          "name": "UCHA",
-          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
-        }
-      ],
-      "duration_ms": 198208,
-      "name": "Verde Neon",
-      "url": "https://open.spotify.com/track/7lFa2qAs3mo03knsvN6pco"
     },
     {
       "added_at": "2025-10-24 03:00:19",

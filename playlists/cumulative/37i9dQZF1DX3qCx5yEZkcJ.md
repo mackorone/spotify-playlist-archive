@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-576 songs - 23 hr 56 min
+577 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [Rinse](https://open.spotify.com/track/1SBNNxJQpcl6LDXDJ23B2C) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Source](https://open.spotify.com/album/1ArjsnPFmKrjIz91NOBexw) | 1:43 | 2019-05-26\* | 2019-06-15 |
 | [RIP Fritz](https://open.spotify.com/track/1LP79W8hYMjOMgojNTPr8y) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Car Tunes, Vol\. 2](https://open.spotify.com/album/1OknIP6mpqmHUmiwV2LUta) | 2:24 | 2019-05-26\* | 2022-04-21 |
 | [Riverside](https://open.spotify.com/track/2SkheMmym933XZaCNukLkm) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK) | [Riverside](https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn) | 3:18 | 2019-07-26 |  |
-| [Rock](https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW) | [DisHand](https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy), [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV) | [Rock](https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO) | 2:03 | 2023-04-27 |  |
+| [Rock](https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW) | [DisHand](https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy), [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV) | [Rock](https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO) | 2:03 | 2023-04-27 | 2025-10-27 |
 | [Rolling Papers](https://open.spotify.com/track/7bIXxtS6oLDBNzrQpqHS62) | [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90) | [Yerba](https://open.spotify.com/album/3yQBuwe2PIdUpapH2NeFkC) | 2:00 | 2019-05-26\* | 2021-05-27 |
 | [Romantic Rain](https://open.spotify.com/track/0ONPyowm9YQFY7mtx45GaD) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Romantic Rain](https://open.spotify.com/album/1tQiRd5m1st2e60sbyvbcS) | 2:50 | 2020-08-30 | 2022-07-28 |
 | [Roses](https://open.spotify.com/track/1u0Xo3j20ST5IOZIffErzh) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK) | [For Her](https://open.spotify.com/album/3sRbCMv1Rj5vRbnQT3npdu) | 1:35 | 2022-11-17 | 2024-04-19 |
@@ -504,6 +504,7 @@
 | [swag on](https://open.spotify.com/track/2S36OuK8PYZkkLkled3GAd) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [swag on](https://open.spotify.com/album/4H1qSzq3XjPpht57ZtxsDL) | 2:19 | 2019-05-26\* | 2020-01-14 |
 | [Talloires](https://open.spotify.com/track/5yn48C8nxwoYU31pOt6FuR) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Talloires](https://open.spotify.com/album/2h5zrNlyCNh15Nr3KgcpO3) | 1:53 | 2019-08-31 | 2025-05-30 |
 | [Tangerine Hues](https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P), [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77) | [Tangerine Hues](https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5) | 3:04 | 2019-05-26\* |  |
+| [Tarde Invernal](https://open.spotify.com/track/4son9tHQEmD5NK9JNGdtlf) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP), [Fourth Dogma](https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi) | [Tarde Invernal](https://open.spotify.com/album/6dA8kioLgf0NRxEnrSLhWb) | 2:22 | 2025-10-24 |  |
 | [Teka](https://open.spotify.com/track/64z6fgsd7813f8cOvzyJnE) | [Ack Ibanez](https://open.spotify.com/artist/3WGu5fuIpbVnL62Db3ZzNK) | [Chillmonger ILL Tape](https://open.spotify.com/album/08qyY6hsa4PpNeYZqMS5GC) | 4:33 | 2020-11-06 | 2022-07-28 |
 | [Tender Rose](https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Tender Rose](https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP) | 3:22 | 2022-03-01 |  |
 | [That's Just Me](https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P) | [That's Just Me](https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq) | 1:30 | 2019-06-14 | 2024-07-27 |

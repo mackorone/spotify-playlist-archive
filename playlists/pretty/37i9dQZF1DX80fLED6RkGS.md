@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: Odi Wa Muranga
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,198 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,207 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 69 | [Kudonjo Kudunda](https://open.spotify.com/track/4aJyHRdr4OyjVlkIalyG2T) | [Gadafee](https://open.spotify.com/artist/6zkAPf3HxH08uGsPYXJNhA), [Zzero Sufuri](https://open.spotify.com/artist/0uSb41cfaaEXtKDd9ZR4uO), [Tipsy Gee](https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5), [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [Kushman](https://open.spotify.com/artist/6Lx5bYAVSVhCdwnCEgdadB) | [Kudonjo Kudunda](https://open.spotify.com/album/37hIKRBLIM3k4PIHPXrSZ9) | 3:20 |
 | 70 | [Bad \(feat\. Tipsy Gee & Masauti\)](https://open.spotify.com/track/4ju1W03rlR47XS26I1vG3w) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW), [Tipsy Gee](https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5), [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [Bad \(feat\. Tipsy Gee & Masauti\)](https://open.spotify.com/album/3mnKqtHH6H8pVUAFPb51GF) | 2:42 |
 
-Snapshot ID: `AAAAAOK8g92CklDLjF0GGF/PkNWgFDY2`
+Snapshot ID: `AAAAAPsB7HAUO72sLuJUNkzRdZTVITjf`

@@ -4,7 +4,7 @@
 
 > 
 
-42 songs - 3 hr 0 min
+43 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Frequency](https://open.spotify.com/track/7hVFEyGBDsuejQuj9gUeZI) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Vessels](https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8) | 4:41 | 2025-08-11 |  |
 | [Fuck Tha Police](https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW) | 5:45 | 2025-07-25 | 2025-10-23 |
 | [Gethsemane](https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:23 | 2025-05-17 |  |
+| [Her Embrace](https://open.spotify.com/track/1wIzJvTTrg1LhuYR54BQ4y) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [In The Light Ensemble](https://open.spotify.com/artist/1WD3T0MmoymGX68JUOZUaD) | [In the Light: A Faustian Tale \(Highlights from the World Premiere Studio Cast Recording\)](https://open.spotify.com/album/4HtJ1YiZQlLUtmRaOJj11N) | 3:35 | 2025-10-26 |  |
 | [Hold On Till May](https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Lindsey Stamey](https://open.spotify.com/artist/7lbX2TQTHawmdlhNuXDzHs) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 4:38 | 2025-07-13 |  |
 | [Hold Them Down](https://open.spotify.com/track/3lIgiul24q1uwE8l928s0w) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Ayron Alexander](https://open.spotify.com/artist/69ZOltPRsF5iPkicJQMRZ9), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 3:03 | 2025-10-21 |  |
 | [I Won't Say \(I'm In Love\)](https://open.spotify.com/track/0PKmDncVOiNQLO6D1P6PXi) | [Susan Egan](https://open.spotify.com/artist/7CckquWatDQSr3PFKkjM8M), [Cheryl Freeman](https://open.spotify.com/artist/3E0MPcbZSjfJ1HsnJKXkqd), [LaChanze](https://open.spotify.com/artist/3zT7dcLl9wbSXsVh3VQx3A), [Vaneese Thomas](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK), [Lillias White](https://open.spotify.com/artist/5TKKPpY9zr2qrz3JM3Vawq), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) | 2:20 | 2025-07-13 | 2025-10-23 |

@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Orville Peck",
-  "num_followers": 313705,
+  "num_followers": 313698,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2025-09-26 04:00:20",
       "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
+      },
+      "artists": [
+        {
+          "name": "The Reckless Electric",
+          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
+        }
+      ],
+      "duration_ms": 206729,
+      "name": "Ice Cream and Liquor",
+      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
+    },
+    {
+      "added_at": "2025-09-26 04:00:20",
+      "album": {
         "name": "For When It Hurts",
         "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 182993,
       "name": "BROKEN PIECES",
       "url": "https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1"
-    },
-    {
-      "added_at": "2025-09-26 04:00:20",
-      "album": {
-        "name": "Comeback",
-        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
-      },
-      "artists": [
-        {
-          "name": "The Reckless Electric",
-          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
-        }
-      ],
-      "duration_ms": 206729,
-      "name": "Ice Cream and Liquor",
-      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
     },
     {
       "added_at": "2025-09-26 04:00:20",

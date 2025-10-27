@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: Mark Morton",
-  "num_followers": 92401,
+  "num_followers": 92404,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
+        "name": "The Vandoliers",
+        "url": "https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM"
+      },
+      "artists": [
+        {
+          "name": "Vandoliers",
+          "url": "https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE"
+        }
+      ],
+      "duration_ms": 185386,
+      "name": "Better Run",
+      "url": "https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
         "name": "Interstate Cowboy",
         "url": "https://open.spotify.com/album/6T9OmS588U5Dk5bKCkQvvj"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 214881,
       "name": "Interstate Cowboy",
       "url": "https://open.spotify.com/track/3c2RQ6N405f59qatt86lPS"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
-        "name": "The Vandoliers",
-        "url": "https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM"
-      },
-      "artists": [
-        {
-          "name": "Vandoliers",
-          "url": "https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE"
-        }
-      ],
-      "duration_ms": 185386,
-      "name": "Better Run",
-      "url": "https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce"
     },
     {
       "added_at": "2025-04-21 21:56:35",

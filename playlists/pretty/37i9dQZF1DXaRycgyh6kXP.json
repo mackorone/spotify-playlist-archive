@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 274122,
+  "num_followers": 274208,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFHc0R2r6laei/mrBUYk930RCDoZ",
+  "snapshot_id": "AAAAAGDDqo2pGIjcTXlB9O9RxkM4fiSr",
   "tracks": [
     {
       "added_at": "2025-10-17 04:00:40",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-10-17 04:00:40",
       "album": {
-        "name": "Marseille",
-        "url": "https://open.spotify.com/album/4lNXxO3pxla3Di3JEMVtu6"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 145250,
-      "name": "Marseille",
-      "url": "https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v"
-    },
-    {
-      "added_at": "2025-10-17 04:00:40",
-      "album": {
         "name": "Soon It Will Be Cold Enough",
         "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
       },
@@ -483,6 +467,26 @@
       "duration_ms": 180520,
       "name": "Soon It Will Be Cold Enough to Build Fires",
       "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
+    },
+    {
+      "added_at": "2025-10-17 04:00:40",
+      "album": {
+        "name": "Nostalchic",
+        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
+      },
+      "artists": [
+        {
+          "name": "Lapalux",
+          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
+        },
+        {
+          "name": "Kerry Leatham",
+          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
+        }
+      ],
+      "duration_ms": 326439,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
     },
     {
       "added_at": "2025-10-17 04:00:40",
@@ -507,22 +511,18 @@
     {
       "added_at": "2025-10-17 04:00:40",
       "album": {
-        "name": "Nostalchic",
-        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
+        "name": "Marseille",
+        "url": "https://open.spotify.com/album/4lNXxO3pxla3Di3JEMVtu6"
       },
       "artists": [
         {
-          "name": "Lapalux",
-          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
-        },
-        {
-          "name": "Kerry Leatham",
-          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
         }
       ],
-      "duration_ms": 326439,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
+      "duration_ms": 145250,
+      "name": "Marseille",
+      "url": "https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v"
     },
     {
       "added_at": "2025-10-17 04:00:40",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-10-17 04:00:40",
       "album": {
-        "name": "Vital Loop",
-        "url": "https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3"
-      },
-      "artists": [
-        {
-          "name": "Kelbin",
-          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
-        }
-      ],
-      "duration_ms": 236659,
-      "name": "Vital Loop",
-      "url": "https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht"
-    },
-    {
-      "added_at": "2025-10-17 04:00:40",
-      "album": {
         "name": "Burns (Edit)",
         "url": "https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 190750,
       "name": "Burns - Edit",
       "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
+    },
+    {
+      "added_at": "2025-10-17 04:00:40",
+      "album": {
+        "name": "Vital Loop",
+        "url": "https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3"
+      },
+      "artists": [
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "duration_ms": 236659,
+      "name": "Vital Loop",
+      "url": "https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht"
     },
     {
       "added_at": "2025-10-17 04:00:40",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-10-17 04:00:40",
       "album": {
-        "name": "Grafts",
-        "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 1351601,
-      "name": "Grafts",
-      "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
-    },
-    {
-      "added_at": "2025-10-17 04:00:40",
-      "album": {
         "name": "Heart - EP",
         "url": "https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 181384,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp"
+    },
+    {
+      "added_at": "2025-10-17 04:00:40",
+      "album": {
+        "name": "Grafts",
+        "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 1351601,
+      "name": "Grafts",
+      "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
     },
     {
       "added_at": "2025-10-17 04:00:40",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-10-17 04:00:40",
       "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/0oDifJioDcsvb3rt03OPPp"
-      },
-      "artists": [
-        {
-          "name": "Kllo",
-          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
-        }
-      ],
-      "duration_ms": 220355,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/6FLFW2V2ne8lJ3c6HFQ1cm"
-    },
-    {
-      "added_at": "2025-10-17 04:00:40",
-      "album": {
         "name": "Eon Lens",
         "url": "https://open.spotify.com/album/12ya6nZTDp02vO0W8uCwL6"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 343357,
       "name": "Eon Lens",
       "url": "https://open.spotify.com/track/15qiprD5zSvHE0JF8duU3J"
+    },
+    {
+      "added_at": "2025-10-17 04:00:40",
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/0oDifJioDcsvb3rt03OPPp"
+      },
+      "artists": [
+        {
+          "name": "Kllo",
+          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
+        }
+      ],
+      "duration_ms": 220355,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/6FLFW2V2ne8lJ3c6HFQ1cm"
     },
     {
       "added_at": "2025-10-17 04:00:40",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2025-10-17 04:00:40",
       "album": {
+        "name": "Love What Survives",
+        "url": "https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Micachu",
+          "url": "https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa"
+        }
+      ],
+      "duration_ms": 246704,
+      "name": "Marilyn",
+      "url": "https://open.spotify.com/track/5jJPcImQkogKdwsVS36zH7"
+    },
+    {
+      "added_at": "2025-10-17 04:00:40",
+      "album": {
         "name": "Other Lights",
         "url": "https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb"
       },
@@ -1587,22 +1607,18 @@
     {
       "added_at": "2025-10-17 04:00:40",
       "album": {
-        "name": "Love What Survives",
-        "url": "https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit"
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
       },
       "artists": [
         {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "Micachu",
-          "url": "https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 246704,
-      "name": "Marilyn",
-      "url": "https://open.spotify.com/track/5jJPcImQkogKdwsVS36zH7"
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
     },
     {
       "added_at": "2025-10-17 04:00:40",
@@ -1651,22 +1667,6 @@
       "duration_ms": 596773,
       "name": "Immunity",
       "url": "https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY"
-    },
-    {
-      "added_at": "2025-10-17 04:00:40",
-      "album": {
-        "name": "Ambivalence Avenue",
-        "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "lovers\u2019 carvings",
-      "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
     },
     {
       "added_at": "2025-10-17 04:00:40",

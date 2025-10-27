@@ -29617,6 +29617,24 @@
     },
     {
       "album": {
+        "name": "$.W.A.K.",
+        "url": "https://open.spotify.com/album/1Xcoqc7IrkxJOrF3fYxlSG"
+      },
+      "artists": [
+        {
+          "name": "JAMIE LEE",
+          "url": "https://open.spotify.com/artist/0DHobBOQYcaxrXctJrHDXw"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126185,
+      "name": "FEELING GOOD",
+      "url": "https://open.spotify.com/track/3tGFpdKqBL7cqd73LM8nTI"
+    },
+    {
+      "album": {
         "name": "I Remember Me",
         "url": "https://open.spotify.com/album/10nkWocfwen0Q76rRn5nHC"
       },
@@ -74992,7 +75010,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 131000,
       "name": "Same Anymore",
       "url": "https://open.spotify.com/track/5Bm6iBHDIDUSYYv2TN0nf8"

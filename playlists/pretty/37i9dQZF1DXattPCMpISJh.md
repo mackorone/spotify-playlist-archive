@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Say She She
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,834 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,886 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Giving Nothing \- Art of Tones Remix](https://open.spotify.com/track/317zxAW9vxOXTkYV6tRquA) | [Dyanna Fearon](https://open.spotify.com/artist/6Tj2zk2FBDNAO7k0jXHMSp), [Sparkling Attitude](https://open.spotify.com/artist/3IF1LdxOdz2c329J5KBjjA), [Art of Tones](https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy) | [Giving Nothing](https://open.spotify.com/album/4zgOSsSglm9BSoL5lqp0PK) | 3:40 |
 | 100 | [Georgia](https://open.spotify.com/track/2YTGXyiT6eHxc2UVw9wEjA) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Georgia](https://open.spotify.com/album/1zoFGgKPdJ171wRnukDPBb) | 3:21 |
 
-Snapshot ID: `AAAAAFVzoeIs2BgThiDAlYS4a22SM3dc`
+Snapshot ID: `AAAAAGlP8Ja9W5jViIzn95KMht42DKeq`

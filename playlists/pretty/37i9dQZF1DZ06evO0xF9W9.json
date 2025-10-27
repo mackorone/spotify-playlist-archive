@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAAAlXqlFaCsTuyyjSOibb7lI",
+  "snapshot_id": "aPwTAAAAAABkHJBNZeg/axwu9Wq1WXYH",
   "tracks": [
     {
       "added_at": null,
@@ -151,6 +151,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Tu Manera",
+        "url": "https://open.spotify.com/album/5AklCOG5R0PEysXDGtybTK"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "A Tu Manera",
+      "url": "https://open.spotify.com/track/5FFiCQigo3piRCEyj2l8sU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHARTiANDO",
         "url": "https://open.spotify.com/album/0vriCqEMGkaIbDamRDi7MG"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 172198,
       "name": "CHARTiANDO",
       "url": "https://open.spotify.com/track/6nl1So5HXqWRuNwBrjafow"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Tu Manera",
-        "url": "https://open.spotify.com/album/5AklCOG5R0PEysXDGtybTK"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "A Tu Manera",
-      "url": "https://open.spotify.com/track/5FFiCQigo3piRCEyj2l8sU"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Frank Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,786 likes - 98 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,805 likes - 98 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 40 | [God Abeg](https://open.spotify.com/track/3ZLbD1u5tI6UlVRtvXoS27) | [Enoch Agbonifo](https://open.spotify.com/artist/4IFhiskgEsBdB420NYWt9Z) | [God Abeg](https://open.spotify.com/album/3DeV0WEaCX9vhMjUHNmGSI) | 3:43 |
 | 41 | [OMG!](https://open.spotify.com/track/2iXyq6VNROrkPrDoBCMlfz) | [Doris Joseph](https://open.spotify.com/artist/2gIZrTYURG6RxnI3mGFHEt), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [OMG!](https://open.spotify.com/album/2N9gSQcUyIPZ2sIfmwiPK6) | 2:46 |
 | 42 | [Yahweh](https://open.spotify.com/track/4sPs5XhnfUTM7OipFTOJjA) | [Outgun Onkar](https://open.spotify.com/artist/4prG7V9Q373dQcu1sfyplD), [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Yahweh](https://open.spotify.com/album/7k5jPNCIuuPAzh2mm6HgnK) | 3:08 |
-| 43 | [Stay](https://open.spotify.com/track/3cE2jfOnbK6cQYwfyfYP5c) | [VonTrap](https://open.spotify.com/artist/5eIys7MbZc5zD0bzktmIZC), [Nomza](https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx) | [Stay](https://open.spotify.com/album/1Y8giwaw17LaP8WAuRcmRa) | 3:03 |
+| 43 | [Stay](https://open.spotify.com/track/3cE2jfOnbK6cQYwfyfYP5c) | [VonTrap](https://open.spotify.com/artist/5eIys7MbZc5zD0bzktmIZC), [Nomza](https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx), [Peer Pressure Mcs](https://open.spotify.com/artist/4M8NUKJUbmc9y0j0GRJcXS) | [Stay](https://open.spotify.com/album/1Y8giwaw17LaP8WAuRcmRa) | 3:03 |
 | 44 | [His Love No Go End](https://open.spotify.com/track/6LrLUViOIBcqVLxmx156o6) | [Steve Elite](https://open.spotify.com/artist/47VkiDb1iXeoDfDrebngyk) | [Unfailing](https://open.spotify.com/album/1FbIcmpKmTajPGS06gZ5pd) | 2:39 |
 | 45 | [Calm In The Storm](https://open.spotify.com/track/3XdwGutGxh8RLhXaNTUGtV) | [Tres Dei](https://open.spotify.com/artist/0QxXcWpb9kKHHbx10pIVcC) | [Calm In The Storm](https://open.spotify.com/album/57DPztG9F6z6QYmWBKNfkT) | 4:13 |
 | 46 | [I Will Not Keep Silent \(My Matter\)](https://open.spotify.com/track/2OxJdW6Ztl911PEzt14EmG) | [Minister Prudence](https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5) | [I Will Not Keep Silent \(My Matter\)](https://open.spotify.com/album/3AY3OLlw3DuQxV8msbm5XL) | 6:48 |

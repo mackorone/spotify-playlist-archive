@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 145527,
+  "num_followers": 145770,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAACTqXpYGL2SbIGTHdN/yNLV",
+  "snapshot_id": "aPwTAAAAAACQJO5dVz3uJH1KYxKbmfTM",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue Print \u2013 Us Vs. Them",
-        "url": "https://open.spotify.com/album/26uL4J5FErma5bp8r3UVnX"
+        "name": "Love Of Your Life",
+        "url": "https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7"
       },
       "artists": [
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
-        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 225905,
-      "name": "Ferrari Horses",
-      "url": "https://open.spotify.com/track/5erCwioOcRwP59NJUAtEK3"
+      "duration_ms": 196170,
+      "name": "Love Of Your Life",
+      "url": "https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3"
     },
     {
       "added_at": null,
@@ -431,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Of Your Life",
-        "url": "https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7"
+        "name": "The Blue Print \u2013 Us Vs. Them",
+        "url": "https://open.spotify.com/album/26uL4J5FErma5bp8r3UVnX"
       },
       "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 196170,
-      "name": "Love Of Your Life",
-      "url": "https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3"
+      "duration_ms": 225905,
+      "name": "Ferrari Horses",
+      "url": "https://open.spotify.com/track/5erCwioOcRwP59NJUAtEK3"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live at Montreux Jazz Festival",
+        "url": "https://open.spotify.com/album/0uqyhvc8HEyztLSTE8RKmx"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 419683,
+      "name": "It's A Man's Man's Man's World - Live at Montreux Jazz Festival",
+      "url": "https://open.spotify.com/track/6L1bCa0ff2yknczfXwPLId"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Don't Know Me (Acoustic Version)",
         "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
       },
@@ -815,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Montreux Jazz Festival",
-        "url": "https://open.spotify.com/album/0uqyhvc8HEyztLSTE8RKmx"
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
       },
       "artists": [
         {
@@ -824,9 +840,9 @@
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 419683,
-      "name": "It's A Man's Man's Man's World - Live at Montreux Jazz Festival",
-      "url": "https://open.spotify.com/track/6L1bCa0ff2yknczfXwPLId"
+      "duration_ms": 194880,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
     },
     {
       "added_at": null,
@@ -847,22 +863,6 @@
       "duration_ms": 188172,
       "name": "Decline",
       "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
     },
     {
       "added_at": null,

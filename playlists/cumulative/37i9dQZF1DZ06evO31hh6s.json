@@ -190,7 +190,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 288338,
       "name": "Attempted Suicide",
       "url": "https://open.spotify.com/track/2xo0kr1FqAXZIyeTfLwJnx"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 211307,
       "name": "Does Anybody Feel Me",
       "url": "https://open.spotify.com/track/4K9WdMLQ8sIGKhn0yG5fiP"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 425664,
       "name": "EUTHANASIA",
       "url": "https://open.spotify.com/track/6QGf4VLfZARAD4ZlMeUIUg"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 268829,
       "name": "Immortal (feat. Edi Don & Aktual)",
       "url": "https://open.spotify.com/track/1tdGwmTQNrLI1somxUgrE2"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 210831,
       "name": "IRemember",
       "url": "https://open.spotify.com/track/6aux4EaPFpdpH5f7IpmkK8"
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 239832,
       "name": "Life Of A Outlaw (feat. Big Caz)",
       "url": "https://open.spotify.com/track/2JJzp1LxtowaM2IV8jxYC8"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 304553,
       "name": "Outlaw By Nature (feat. E.D.I. Mean, Trigga Trife & Treach)",
       "url": "https://open.spotify.com/track/7BWvmOQJm6KOw6XgzFpZMZ"
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 171083,
       "name": "Outlaw Lifestyle",
       "url": "https://open.spotify.com/track/5kok2Oe0eGVNwJGVfz8Xjw"
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 204988,
       "name": "Outlaw University",
       "url": "https://open.spotify.com/track/74qKboZPYJIhsBSOpHgErF"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 221335,
       "name": "Reason to Shine (feat. Kastro)",
       "url": "https://open.spotify.com/track/43S8K37dRVWUdlqCpWtCwS"
@@ -2271,6 +2271,28 @@
     },
     {
       "album": {
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/09IBEZ1cKmsHx20gmPf3zU"
+      },
+      "artists": [
+        {
+          "name": "Sarafa",
+          "url": "https://open.spotify.com/artist/7muP2E25Zcv2Q7ZMpc89FB"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157127,
+      "name": "TRU",
+      "url": "https://open.spotify.com/track/0C9387DgHuUFRcj1nwRRoK"
+    },
+    {
+      "album": {
         "name": "The Last Outlaw",
         "url": "https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2"
       },
@@ -2282,7 +2304,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 301581,
       "name": "UMotherfuckerU",
       "url": "https://open.spotify.com/track/4kaNicV2wiezVeeyPL498c"

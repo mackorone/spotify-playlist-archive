@@ -1,12 +1,12 @@
 {
   "description": "This is Saosin. The essential tracks, all in one playlist.",
-  "num_followers": 9366,
+  "num_followers": 9369,
   "original_name": "This Is Saosin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAACri17OzideH/Btsa3u/vOt",
+  "snapshot_id": "aPwTAAAAAADMEoPIzl9360CbOK1KXfZ5",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,22 @@
       "duration_ms": 38400,
       "name": "Hometown Feeling - Live",
       "url": "https://open.spotify.com/track/24F7IKeSQuKr47xr5BsI1F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From The Garden Amphitheater",
+        "url": "https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 101975,
+      "name": "Only 20 Once - Live",
+      "url": "https://open.spotify.com/track/7nIqfhqI24mXCpeqSRAxSZ"
     }
   ],
   "unique_name": "This Is Saosin",

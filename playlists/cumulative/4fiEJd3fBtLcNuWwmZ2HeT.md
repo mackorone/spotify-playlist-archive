@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-391 songs - 22 hr 37 min
+392 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [IWANUGA HANA](https://open.spotify.com/track/4TXFWrMDYdVsL7ybwSfpyO) | [RANASOL](https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr) | [IWANUGA HANA](https://open.spotify.com/album/7w1otGJpChYzALoYRuXqvT) | 2:47 | 2024-08-06 |  |
 | [IYAIYAYO](https://open.spotify.com/track/0RzMtWTt0opphQlWu6xFia) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [IYAIYAYO](https://open.spotify.com/album/2pVRQa9yI8HfEWGl2CF782) | 2:51 | 2024-08-08 |  |
 | [I’m a Controversy](https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [I’m a Controversy](https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd) | 3:14 | 2024-01-24 |  |
+| [JANE DOE](https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [JANE DOE](https://open.spotify.com/album/381FouVeKunSg1WZTnmryL) | 3:55 | 2025-10-27 |  |
 | [JINGO JUNGLE](https://open.spotify.com/track/1unlscICXb88LMbFxlMlWy) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [MYTH & ROID ベストアルバム「MUSEUM\-THE BEST OF MYTH & ROID\-」](https://open.spotify.com/album/3VBaCgrD7i77Y0P3wiOol1) | 3:49 | 2023-03-28 |  |
 | [just saying, the body is honest.](https://open.spotify.com/track/4z1O8W35JfmFjPlD9KYvid) | [shikiura sougo](https://open.spotify.com/artist/36VxME9IxYM3mGnnNCkHrQ) | [just saying, the body is honest.](https://open.spotify.com/album/7grI8AGOeBtLLcmSPFHqvp) | 2:23 | 2025-05-20 |  |
 | [Just want to be loved](https://open.spotify.com/track/0xi0R1BxoTDQWvR7WNiNzx) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Just want to be loved](https://open.spotify.com/album/2diwMijpMjbeELSNjsQn0a) | 2:14 | 2025-09-09 |  |

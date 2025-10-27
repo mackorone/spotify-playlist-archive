@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55460,
+  "num_followers": 55464,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAADjB6dlvsld0XXIOAzGcPcD",
+  "snapshot_id": "aPwTAAAAAADNuOEHACLvXicl8X1X3dEl",
   "tracks": [
     {
       "added_at": null,
@@ -167,38 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Mercy",
-        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/6FPw780c3azvSQXDuV5Z52"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MASSEDUCTION",
-        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 164720,
-      "name": "Slow Disco",
-      "url": "https://open.spotify.com/track/6xiTXiZhECholKGfvDormV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Man On The Moon II: The Legend Of Mr. Rager",
         "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
       },
@@ -219,6 +187,38 @@
       "duration_ms": 178240,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/6R4flNWy1pWkjzwg3TCDlM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MASSEDUCTION",
+        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 164720,
+      "name": "Slow Disco",
+      "url": "https://open.spotify.com/track/6xiTXiZhECholKGfvDormV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strange Mercy",
+        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/6FPw780c3azvSQXDuV5Z52"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Mercy",
-        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
+        "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
+        "url": "https://open.spotify.com/album/6U4CPSK3q8QTYpuy8LCOGG"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 208626,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/4SUVGUZp37ZCEJKkrqfwgd"
+      "duration_ms": 211200,
+      "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
+      "url": "https://open.spotify.com/track/1eNuVjITQ9uuBF7M62wG6y"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
-        "url": "https://open.spotify.com/album/6U4CPSK3q8QTYpuy8LCOGG"
+        "name": "Strange Mercy",
+        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 211200,
-      "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
-      "url": "https://open.spotify.com/track/1eNuVjITQ9uuBF7M62wG6y"
+      "duration_ms": 208626,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/4SUVGUZp37ZCEJKkrqfwgd"
     },
     {
       "added_at": null,

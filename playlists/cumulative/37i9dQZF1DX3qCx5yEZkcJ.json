@@ -8198,7 +8198,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 123658,
       "name": "Rock",
       "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
@@ -9762,6 +9762,28 @@
       "duration_ms": 184346,
       "name": "Tangerine Hues",
       "url": "https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in"
+    },
+    {
+      "album": {
+        "name": "Tarde Invernal",
+        "url": "https://open.spotify.com/album/6dA8kioLgf0NRxEnrSLhWb"
+      },
+      "artists": [
+        {
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
+        },
+        {
+          "name": "Fourth Dogma",
+          "url": "https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142004,
+      "name": "Tarde Invernal",
+      "url": "https://open.spotify.com/track/4son9tHQEmD5NK9JNGdtlf"
     },
     {
       "album": {

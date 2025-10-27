@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,221 likes - 50 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,242 likes - 50 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 37 | [Reckless Love](https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 5:39 |
 | 38 | [My King Forever \(Live\)](https://open.spotify.com/track/77hZXcf7yhZ1Rny964UTgg) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 5:15 |
 | 39 | [Beauty](https://open.spotify.com/track/59vLGHrpzwcwyPbQBG0KZy) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Come Up Here](https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN) | 5:18 |
-| 40 | [He Has Done Great Things \- Live](https://open.spotify.com/track/44xhaEDPSwHTo7YXL6yZsc) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 6:13 |
-| 41 | [Our Father](https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [For the Sake of the World](https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T) | 6:48 |
+| 40 | [Our Father](https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [For the Sake of the World](https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T) | 6:48 |
+| 41 | [He Has Done Great Things \- Live](https://open.spotify.com/track/44xhaEDPSwHTo7YXL6yZsc) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 6:13 |
 | 42 | [Tend](https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo) | [Simple](https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys) | 4:53 |
 | 43 | [We Praise You \(Live\)](https://open.spotify.com/track/3t8IxqbGlWeILQM6bPt5VU) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 6:55 |
 | 44 | [Even Though I Walk \- Live](https://open.spotify.com/track/4zAIwci5B82d59OhGOkJRl) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [We Must Respond \(Live\)](https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH) | 7:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [Son Of Suffering \(Live\)](https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 7:59 |
 | 50 | [How Great Thou Art \- Live](https://open.spotify.com/track/2Qie9Sz3nvgRWmqqKAolDE) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Garett & Kate](https://open.spotify.com/artist/0XGtfaGeQDd2jje9soKMPM) | [How Great Thou Art \(Live\)](https://open.spotify.com/album/2sMovJU5DW6HqGjeqfHCzo) | 8:29 |
 
-Snapshot ID: `aPrBgAAAAACztQNK0EUy95dVs6G/1n23`
+Snapshot ID: `aPwTAAAAAADtcis4xmq7DzZg5qLIARcb`

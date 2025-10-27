@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 210959,
+  "num_followers": 210970,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAAA4TuxNgD5AdgeNPxV+zNza",
+  "snapshot_id": "aPwTAAAAAADDpXixGd6IrnmIPHVJOLph",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 178826,
-      "name": "Rhythms",
-      "url": "https://open.spotify.com/track/6t8phlQc47YhAF38sucBRw"
+      "duration_ms": 181613,
+      "name": "So Long Goodbye",
+      "url": "https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underclass Hero",
-        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 181613,
-      "name": "So Long Goodbye",
-      "url": "https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u"
+      "duration_ms": 178826,
+      "name": "Rhythms",
+      "url": "https://open.spotify.com/track/6t8phlQc47YhAF38sucBRw"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 194590,
+      "name": "Fake My Own Death",
+      "url": "https://open.spotify.com/track/5Puyl7jW7OkSNL4UyVFTDn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Skull Ring",
         "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 213373,
       "name": "Little Know It All",
       "url": "https://open.spotify.com/track/27BATZe36zHNAKfr7by2ob"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "13 Voices",
-        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 194590,
-      "name": "Fake My Own Death",
-      "url": "https://open.spotify.com/track/5Puyl7jW7OkSNL4UyVFTDn"
     },
     {
       "added_at": null,

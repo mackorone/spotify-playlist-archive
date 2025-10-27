@@ -4,7 +4,7 @@
 
 > FurryRadio.com, made for furs, by furs.
 
-408 songs - 21 hr 34 min
+409 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Crazy For U](https://open.spotify.com/track/4R6Ha3buGUWh55Gc6jswsD) | [Sylvver](https://open.spotify.com/artist/6benA6onjBBMuXMxzP8HCB), [Trey Husk](https://open.spotify.com/artist/557mWkaCfEfpnEGuNSlG2d) | [Crazy For U](https://open.spotify.com/album/1hotKksSV4kEgIo9wyvt3M) | 2:43 | 2024-07-14 |  |
 | [Creatures Of Tomorrow](https://open.spotify.com/track/712zMbj5Q5kekcq3FVGvXj) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Creatures Of Tomorrow](https://open.spotify.com/album/5mBan5jxqLzd7SLozflhan) | 2:16 | 2024-02-10 |  |
 | [creeping up the neck 2 fast](https://open.spotify.com/track/6J4JQq30CCd4rygtxzvkoq) | [coyote2](https://open.spotify.com/artist/4Z7lH9tao4LFolgvY9GrIX) | [PAYDAY](https://open.spotify.com/album/7DBDDEEBeZimthRql76K90) | 2:53 | 2025-01-25 |  |
+| [Crimson Galaxies](https://open.spotify.com/track/4IUxeDN8MlRYe9sC2SiItA) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Crimson Galaxies](https://open.spotify.com/album/4iVzbV3AoyVRypYasLf92c) | 3:22 | 2025-10-26 |  |
 | [crush on you](https://open.spotify.com/track/76olX1Q3j5mumCBBeUEYyD) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [friends](https://open.spotify.com/album/4ru2KsLvRuIDc8sWvnycEk) | 2:10 | 2025-08-01 |  |
 | [cut it out](https://open.spotify.com/track/7dtLaXlmmCkuzQdXEH2tI9) | [daryl dee](https://open.spotify.com/artist/22QtRMzqI4jfkA4rrxybFY) | [talk to me burnaby](https://open.spotify.com/album/11HIqDOT2HRCVUqtRJHrgf) | 2:57 | 2024-02-09 |  |
 | [CYBERNETIC HEART](https://open.spotify.com/track/7p1MBFFf6XTYJGh5elBNhM) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Cybernetic Heart](https://open.spotify.com/album/5RUEw3otfwvpbyMDlza0Rm) | 3:07 | 2024-07-30 |  |

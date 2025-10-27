@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 6514,
+  "num_followers": 6517,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAAC9XkBpkNIk5lY0UoXS9vRS",
+  "snapshot_id": "aPwTAAAAAABVLqN12gmIGulbEXD1+W5R",
   "tracks": [
     {
       "added_at": null,
@@ -259,18 +259,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happy Day",
-        "url": "https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz"
+        "name": "Cash App",
+        "url": "https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT"
       },
       "artists": [
         {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Lincoln",
+          "url": "https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu"
         }
       ],
-      "duration_ms": 165063,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ"
+      "duration_ms": 236068,
+      "name": "Cash App",
+      "url": "https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr"
     },
     {
       "added_at": null,
@@ -311,30 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cash App",
-        "url": "https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Lincoln",
-          "url": "https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "Cash App",
-      "url": "https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "10 Bottles",
         "url": "https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh"
       },
@@ -347,22 +331,6 @@
       "duration_ms": 178936,
       "name": "10 Bottles",
       "url": "https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 184058,
-      "name": "Oyoyo",
-      "url": "https://open.spotify.com/track/7uV7pjlWkCpOmoVjNyqCyy"
     },
     {
       "added_at": null,
@@ -387,6 +355,22 @@
       "duration_ms": 213492,
       "name": "Hallelu",
       "url": "https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 184058,
+      "name": "Oyoyo",
+      "url": "https://open.spotify.com/track/7uV7pjlWkCpOmoVjNyqCyy"
     },
     {
       "added_at": null,
@@ -431,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 183201,
-      "name": "Alpha & Omega",
-      "url": "https://open.spotify.com/track/7MDmUs2UQl7Rs6YRJABGY8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/5kbGns9MNOAyvRhadymdy2"
       },
@@ -471,6 +435,26 @@
       "duration_ms": 222056,
       "name": "Family time",
       "url": "https://open.spotify.com/track/20hAjy3wYx3VW8pWr3AgGx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 183201,
+      "name": "Alpha & Omega",
+      "url": "https://open.spotify.com/track/7MDmUs2UQl7Rs6YRJABGY8"
     },
     {
       "added_at": null,
@@ -515,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 187104,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/1MynOK123K3zlPeeGXK3v9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Astalavista",
         "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
       },
@@ -551,6 +515,26 @@
       "duration_ms": 171921,
       "name": "Astalavista",
       "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "duration_ms": 187104,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/1MynOK123K3zlPeeGXK3v9"
     },
     {
       "added_at": null,
@@ -603,30 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SABALI",
-        "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
-      },
-      "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "The Flowolf",
-          "url": "https://open.spotify.com/artist/1mcBWQVnnsPhMLCUB6iISP"
-        }
-      ],
-      "duration_ms": 227663,
-      "name": "El Sucio Guapo",
-      "url": "https://open.spotify.com/track/4q81vRYZVQnL818YhWghzn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DREAMS II",
         "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
       },
@@ -647,6 +607,30 @@
       "duration_ms": 237647,
       "name": "DREAMS II",
       "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SABALI",
+        "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "The Flowolf",
+          "url": "https://open.spotify.com/artist/1mcBWQVnnsPhMLCUB6iISP"
+        }
+      ],
+      "duration_ms": 227663,
+      "name": "El Sucio Guapo",
+      "url": "https://open.spotify.com/track/4q81vRYZVQnL818YhWghzn"
     },
     {
       "added_at": null,
@@ -1027,26 +1011,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatness 2.0",
-        "url": "https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT"
+        "name": "Agege",
+        "url": "https://open.spotify.com/album/59wNw140yRT4OQAxRKCjSR"
       },
       "artists": [
         {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 200973,
-      "name": "Only Fan",
-      "url": "https://open.spotify.com/track/69yAyXc2pJCvgdAaCLUYqY"
+      "duration_ms": 196257,
+      "name": "Agege",
+      "url": "https://open.spotify.com/track/20ZRyanoIsmZaIb8LvzUud"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Erigma II",
+        "url": "https://open.spotify.com/album/7jP3LBDKbtPZsDpRrvA1qR"
+      },
+      "artists": [
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 211673,
+      "name": "Two Criminals",
+      "url": "https://open.spotify.com/track/1pUauvksiTSDA1x4P5vRWb"
     }
   ],
   "unique_name": "This Is Zlatan",

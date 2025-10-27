@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8EcurryoWp.md) - [plain]
 
 > The best new Irish alternative sounds\. Cover: Just Mustard
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,669 likes - 62 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,670 likes - 62 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 83274,
+  "num_followers": 83287,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAAB/X56bcxPm5MI5PvGGfhT5",
+  "snapshot_id": "aPwTAAAAAABFThdTsliu3bprVrwItlis",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 238496,
-      "name": "Come Back As A Redneck (feat. HARDY)",
-      "url": "https://open.spotify.com/track/33gSkDn6P9uS7ofaYiyBP6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 238496,
+      "name": "Come Back As A Redneck (feat. HARDY)",
+      "url": "https://open.spotify.com/track/33gSkDn6P9uS7ofaYiyBP6"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 238030,
-      "name": "Country Country",
-      "url": "https://open.spotify.com/track/1FHOMoJbGHsjR8E44IcZ8g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COUNTRY! COUNTRY! COUNTRY!",
         "url": "https://open.spotify.com/album/0ihzXn0iwyBtHVfQuLRUSh"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 212685,
       "name": "Good Ole Boy",
       "url": "https://open.spotify.com/track/3zvPnDrcIbpXnHZ7Sspw3m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 238030,
+      "name": "Country Country",
+      "url": "https://open.spotify.com/track/1FHOMoJbGHsjR8E44IcZ8g"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 228759,
-      "name": "Gun To My Head",
-      "url": "https://open.spotify.com/track/3VVIWGnCANZczMUaMMqhWG"
+      "duration_ms": 179645,
+      "name": "Luckiest Man Alive",
+      "url": "https://open.spotify.com/track/4VJQplLkX6agarX99u0iDm"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
       "duration_ms": 218860,
       "name": "Southern Rock",
       "url": "https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COUNTRY!",
-        "url": "https://open.spotify.com/album/45k1cbcPYPSmCFThpFBHQG"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 184281,
-      "name": "Buck On The Wall",
-      "url": "https://open.spotify.com/track/71LMlj53VfGjIkOsLasnV9"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COUNTRY!",
+        "url": "https://open.spotify.com/album/45k1cbcPYPSmCFThpFBHQG"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 184281,
+      "name": "Buck On The Wall",
+      "url": "https://open.spotify.com/track/71LMlj53VfGjIkOsLasnV9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COUNTRY! COUNTRY!",
         "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
       },
@@ -784,9 +784,25 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 179645,
-      "name": "Luckiest Man Alive",
-      "url": "https://open.spotify.com/track/4VJQplLkX6agarX99u0iDm"
+      "duration_ms": 228759,
+      "name": "Gun To My Head",
+      "url": "https://open.spotify.com/track/3VVIWGnCANZczMUaMMqhWG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COUNTRY!",
+        "url": "https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 184117,
+      "name": "Girl With A Gun",
+      "url": "https://open.spotify.com/track/7x1Mz92xw8TaRI7pjinIlL"
     },
     {
       "added_at": null,
@@ -807,22 +823,6 @@
       "duration_ms": 285884,
       "name": "Bro Country (feat. ERNEST)",
       "url": "https://open.spotify.com/track/7Au6MzN4ndWs2yit0UIW2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COUNTRY!",
-        "url": "https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 184117,
-      "name": "Girl With A Gun",
-      "url": "https://open.spotify.com/track/7x1Mz92xw8TaRI7pjinIlL"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Single people dey suffer",
-  "num_followers": 51603,
+  "num_followers": 51663,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
         "name": "Prince of the Street",
         "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 133624,
       "name": "Realness",
       "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 171553,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
         "name": "Hildabaci (Remix)",
         "url": "https://open.spotify.com/album/0EuLcCP0rot7eazQQy3J7Z"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 192921,
       "name": "Hildabaci - Remix",
       "url": "https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -703,26 +703,6 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "On The Low",
-        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 150783,
-      "name": "On The Low",
-      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
         "name": "Screaming Beauty",
         "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
       },
@@ -743,22 +723,22 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "Lifestyle",
-        "url": "https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5"
+        "name": "On The Low",
+        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
       },
       "artists": [
         {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         },
         {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 144657,
-      "name": "Forget",
-      "url": "https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75"
+      "duration_ms": 150783,
+      "name": "On The Low",
+      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -779,6 +759,26 @@
       "duration_ms": 195589,
       "name": "Dive In",
       "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 144657,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "W2Y",
-        "url": "https://open.spotify.com/album/0AGOILqd2XSV5yts7QQquz"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Way2Yung",
-      "url": "https://open.spotify.com/track/1y3AUUZnhIUJBzEAIKwrUw"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
         "name": "First Sight",
         "url": "https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 186220,
       "name": "First Sight",
       "url": "https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "W2Y",
+        "url": "https://open.spotify.com/album/0AGOILqd2XSV5yts7QQquz"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Way2Yung",
+      "url": "https://open.spotify.com/track/1y3AUUZnhIUJBzEAIKwrUw"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/6AwJzAvfgQPIXuqdtO1zx3"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 130019,
-      "name": "Julie",
-      "url": "https://open.spotify.com/track/5pEEoU2pX1LrlXh51WGIyS"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 159294,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/6AwJzAvfgQPIXuqdtO1zx3"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 130019,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/5pEEoU2pX1LrlXh51WGIyS"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
+        "name": "DID I LIE",
+        "url": "https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm"
+      },
+      "artists": [
+        {
+          "name": "Cina Soul",
+          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 141967,
+      "name": "Larger Than Life (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
         "name": "Sunny Ade",
         "url": "https://open.spotify.com/album/5hROBIPqx6GVuD3VBJXomt"
       },
@@ -1375,22 +1395,22 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "DID I LIE",
-        "url": "https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm"
+        "name": "O Mahiya",
+        "url": "https://open.spotify.com/album/6qi2Wt6cNneZD2at1It9CY"
       },
       "artists": [
         {
-          "name": "Cina Soul",
-          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
         },
         {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 141967,
-      "name": "Larger Than Life (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO"
+      "duration_ms": 174411,
+      "name": "O Mahiya",
+      "url": "https://open.spotify.com/track/2zeo9CWSwvSeSm4tQuq6oz"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1439,6 +1459,30 @@
       "duration_ms": 153750,
       "name": "MILLIONS",
       "url": "https://open.spotify.com/track/7EJspXo2FwdCxeFvQ1noaP"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "BIG VYBZ",
+        "url": "https://open.spotify.com/album/51fGQphhxN6ZoQxiKNwd4V"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        },
+        {
+          "name": "King Dr. Saheed Osupa",
+          "url": "https://open.spotify.com/artist/44bzPvFDA5djUYE6cvumyu"
+        }
+      ],
+      "duration_ms": 158490,
+      "name": "ROCK IT",
+      "url": "https://open.spotify.com/track/5QPtxpPSvvF9dhz0tJ8GfV"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1495,46 +1539,6 @@
       "duration_ms": 173571,
       "name": "Lemme Know",
       "url": "https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
-        "name": "Body Special (feat. Jaywillz)",
-        "url": "https://open.spotify.com/album/0czyMVe7APz0aZ3FujCNug"
-      },
-      "artists": [
-        {
-          "name": "Paddy k",
-          "url": "https://open.spotify.com/artist/51q4yLLGj93p2Ky0n0yOah"
-        },
-        {
-          "name": "Jaywillz",
-          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
-        }
-      ],
-      "duration_ms": 149762,
-      "name": "Body Special (feat. Jaywillz)",
-      "url": "https://open.spotify.com/track/03TPK94ljLVww9GLVv5XBp"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
-        "name": "O Mahiya",
-        "url": "https://open.spotify.com/album/6qi2Wt6cNneZD2at1It9CY"
-      },
-      "artists": [
-        {
-          "name": "Kanika Kapoor",
-          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 174411,
-      "name": "O Mahiya",
-      "url": "https://open.spotify.com/track/2zeo9CWSwvSeSm4tQuq6oz"
     }
   ],
   "unique_name": "AfroBae",

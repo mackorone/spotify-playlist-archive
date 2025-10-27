@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Mandisi Dyantyis",
-  "num_followers": 12205,
+  "num_followers": 12245,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2025-10-24 06:56:19",
       "album": {
+        "name": "Ndilapha",
+        "url": "https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax"
+      },
+      "artists": [
+        {
+          "name": "Nomfundo Xaluva",
+          "url": "https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE"
+        }
+      ],
+      "duration_ms": 398530,
+      "name": "Wendile",
+      "url": "https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ"
+    },
+    {
+      "added_at": "2025-10-24 06:56:19",
+      "album": {
         "name": "Stories",
         "url": "https://open.spotify.com/album/1wVinI9Qa8ZyLTIAxahFjU"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 416493,
       "name": "Stories",
       "url": "https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH"
-    },
-    {
-      "added_at": "2025-10-24 06:56:19",
-      "album": {
-        "name": "Ndilapha",
-        "url": "https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax"
-      },
-      "artists": [
-        {
-          "name": "Nomfundo Xaluva",
-          "url": "https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE"
-        }
-      ],
-      "duration_ms": 398530,
-      "name": "Wendile",
-      "url": "https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ"
     },
     {
       "added_at": "2025-10-24 06:56:19",
@@ -319,6 +319,30 @@
     {
       "added_at": "2025-10-24 06:56:19",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH"
+      },
+      "artists": [
+        {
+          "name": "Charles Webster",
+          "url": "https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh"
+        },
+        {
+          "name": "EMAMKAY",
+          "url": "https://open.spotify.com/artist/3BhUASI2Cb8vaJNUTcEzGv"
+        },
+        {
+          "name": "Bokang Ramatlapeng",
+          "url": "https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs"
+        }
+      ],
+      "duration_ms": 304495,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH"
+    },
+    {
+      "added_at": "2025-10-24 06:56:19",
+      "album": {
         "name": "iLadi",
         "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
       },
@@ -331,30 +355,6 @@
       "duration_ms": 414587,
       "name": "iGosa",
       "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
-    },
-    {
-      "added_at": "2025-10-24 06:56:19",
-      "album": {
-        "name": "The Crossover II",
-        "url": "https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE"
-      },
-      "artists": [
-        {
-          "name": "Jazzgroupiez",
-          "url": "https://open.spotify.com/artist/2SmWARs3Ky24E8bfpqj5QM"
-        },
-        {
-          "name": "Saul Madiope",
-          "url": "https://open.spotify.com/artist/2BbonfFXXMlwfcLemarFh3"
-        },
-        {
-          "name": "Stephen Richard",
-          "url": "https://open.spotify.com/artist/4OO982yjCXgY3K3zFqflp3"
-        }
-      ],
-      "duration_ms": 129998,
-      "name": "Brunch In Harlem",
-      "url": "https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9"
     },
     {
       "added_at": "2025-10-24 06:56:19",
@@ -391,26 +391,26 @@
     {
       "added_at": "2025-10-24 06:56:19",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH"
+        "name": "The Crossover II",
+        "url": "https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE"
       },
       "artists": [
         {
-          "name": "Charles Webster",
-          "url": "https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh"
+          "name": "Jazzgroupiez",
+          "url": "https://open.spotify.com/artist/2SmWARs3Ky24E8bfpqj5QM"
         },
         {
-          "name": "EMAMKAY",
-          "url": "https://open.spotify.com/artist/3BhUASI2Cb8vaJNUTcEzGv"
+          "name": "Saul Madiope",
+          "url": "https://open.spotify.com/artist/2BbonfFXXMlwfcLemarFh3"
         },
         {
-          "name": "Bokang Ramatlapeng",
-          "url": "https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs"
+          "name": "Stephen Richard",
+          "url": "https://open.spotify.com/artist/4OO982yjCXgY3K3zFqflp3"
         }
       ],
-      "duration_ms": 304495,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH"
+      "duration_ms": 129998,
+      "name": "Brunch In Harlem",
+      "url": "https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9"
     },
     {
       "added_at": "2025-10-24 06:56:19",
@@ -459,8 +459,8 @@
     {
       "added_at": "2025-10-24 06:56:19",
       "album": {
-        "name": "Ransome",
-        "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
+        "name": "In The Wake",
+        "url": "https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
         }
       ],
-      "duration_ms": 234403,
-      "name": "Ransome, Pt. 2",
-      "url": "https://open.spotify.com/track/1JhVDtQgWTzvjOf7qq2PGX"
+      "duration_ms": 418730,
+      "name": "Clarion Call",
+      "url": "https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq"
     },
     {
       "added_at": "2025-10-24 06:56:19",

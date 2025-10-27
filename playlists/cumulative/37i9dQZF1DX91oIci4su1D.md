@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Armin van Buuren & KI/KI
 
-1,208 songs - 3 day 0 hr 24 min
+1,209 songs - 3 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [9910](https://open.spotify.com/track/7FUzB86KZ2vKpDk9wLTFXT) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [9910](https://open.spotify.com/album/1WxWUsmCLB1M1grnwWetf1) | 3:25 | 2023-09-08 | 2024-10-26 |
 | [A Big Life](https://open.spotify.com/track/1wC8NewPz9UC2omMzQx78S) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [A Big Life](https://open.spotify.com/album/68B29M8gbUTv0qSTjTIj7Q) | 3:47 | 2022-01-28 | 2023-02-25 |
 | [A Love Like You](https://open.spotify.com/track/1oY02AiGl444ywpOuWuet6) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Robbie Seed](https://open.spotify.com/artist/6jbM9dszTY66L2Q7E1U0ll), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [A Love Like You](https://open.spotify.com/album/0JP7MmkQdZEOgkzDz0RCSH) | 3:48 | 2025-03-07 |  |
-| [A Moment in Time](https://open.spotify.com/track/2kdqKlE8lKL0iEA1GBWsoe) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [Stine Grove](https://open.spotify.com/artist/51GkQKgac6wqdicVA2DvPu) | [A Moment in Time](https://open.spotify.com/album/2Gr1G2axlS7Ie5xHMeIxPT) | 2:50 | 2025-02-14 |  |
+| [A Moment in Time](https://open.spotify.com/track/2kdqKlE8lKL0iEA1GBWsoe) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [Stine Grove](https://open.spotify.com/artist/51GkQKgac6wqdicVA2DvPu) | [A Moment in Time](https://open.spotify.com/album/2Gr1G2axlS7Ie5xHMeIxPT) | 2:50 | 2025-02-14 | 2025-10-27 |
 | [A Trillion Suns](https://open.spotify.com/track/6IUqM6OTx8yCQ7BRQl8BHo) | [Daniel Skyver](https://open.spotify.com/artist/3bVuL2ru6XQxHjUEb0Zo9y) | [A Trillion Suns](https://open.spotify.com/album/2IgZXf53DnMbStmYOH1iaE) | 3:29 | 2024-02-16 | 2025-03-22 |
 | [About A Love](https://open.spotify.com/track/7D8wsynPIuF407K6Qwg0fK) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Nicholas Gunn](https://open.spotify.com/artist/54EYfCxN1dGJKec029vO7S), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [About A Love](https://open.spotify.com/album/5fzq7jzeBHo3Ht7HeJDHsp) | 4:05 | 2024-09-27 | 2025-05-03 |
 | [Adagio For Strings](https://open.spotify.com/track/2Ju181y8kKeGQLTwnPNUoN) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Distorted Dreams](https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO) | [Adagio For Strings](https://open.spotify.com/album/35EeesCZ9SKPP3CGsza6AR) | 3:29 | 2023-02-10 | 2025-08-30 |
@@ -226,6 +226,7 @@
 | [Connected](https://open.spotify.com/track/5eAYZBLL3vOUrWrVRaBXtj) | [Cold Blue](https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF), [Nikolauss](https://open.spotify.com/artist/1JIkYqcBd6oK502lNnLeid) | [Connected](https://open.spotify.com/album/6ptKD3K2JuwUhWD6kt3VRu) | 3:33 | 2022-01-21 | 2023-02-25 |
 | [Connected](https://open.spotify.com/track/5fxLr471q7IQa6naTJeRT8) | [GXD](https://open.spotify.com/artist/3XWFA55Hf9Q4YS8AHsfnH8), [James Christian](https://open.spotify.com/artist/3yu4kkjn0ALOKUvhcBx4O1), [Scar](https://open.spotify.com/artist/7HZbKBp2NNdcIu0fm6Qd6P) | [Connected](https://open.spotify.com/album/7340Y23yrYbYQ2E9QDQS3a) | 3:21 | 2022-05-06 | 2022-07-25 |
 | [Connection](https://open.spotify.com/track/6G7lhNuenqgyNrJAPVD2sH) | [Dan Stone](https://open.spotify.com/artist/5AqacAhvN8JCsr00Qk9tb7) | [Connection](https://open.spotify.com/album/71yu0vqLEaAMeobEG98DH3) | 3:05 | 2025-05-16 | 2025-09-27 |
+| [Conscindo \- Ginchy Remix](https://open.spotify.com/track/0j7KxqPYlWMauHE37cwNc5) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Ginchy](https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP) | [Conscindo \(Ginchy Remix\)](https://open.spotify.com/album/2gY6ffGQH9Mefuflpeyvui) | 3:23 | 2025-10-24 |  |
 | [Conscious](https://open.spotify.com/track/1GjVHzIOOA8naSpkSbwQ11) | [Dustin Husain](https://open.spotify.com/artist/0klIzsZViJgJcCX4Wh0qKl) | [Conscious](https://open.spotify.com/album/3VSYfXlXEjMKMp1EyBWLiP) | 2:57 | 2023-07-07 | 2024-06-06 |
 | [Constancy](https://open.spotify.com/track/0AkEFT8vseHBEog0alLJbo) | [Mino Safy](https://open.spotify.com/artist/2YwWtaaaCMDirSz0qfxjE5) | [Constancy](https://open.spotify.com/album/3kEVfGFVUOtE8YshBabPYV) | 3:44 | 2022-05-06 | 2022-05-10 |
 | [Constellations](https://open.spotify.com/track/5QT3JLV90my9oISLK26xDe) | [Maor Levi](https://open.spotify.com/artist/7iVuXpgNEl87BwdwV1L6he) | [Constellations](https://open.spotify.com/album/7ftdQIAvvmrqDlvVGgp6Bm) | 3:33 | 2021-12-17 | 2022-02-26 |

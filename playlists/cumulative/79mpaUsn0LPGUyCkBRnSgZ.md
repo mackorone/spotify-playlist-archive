@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-949 songs - 2 day 14 hr 53 min
+952 songs - 2 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Cold Chillin' Cold Chillin'](https://open.spotify.com/track/1m3wtu9X4ReNFAE2fxH48j) | [Bomb the Music Industry!](https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7) | [SCRAMBLES](https://open.spotify.com/album/1SlZCvQYF5aKtFiFd65dVY) | 1:45 | 2022-04-19 | 2024-01-20 |
 | [Come On Over Here](https://open.spotify.com/track/1GsC3kC4vBEPt8ETD5W4CB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 3:37 | 2023-05-21 |  |
 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 | 2022-08-07 | 2023-12-14 |
-| [Coming Up \- 2011 Remaster](https://open.spotify.com/track/3HCQPIYsCT6JBf79KdYtA4) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II](https://open.spotify.com/album/7eEYDv4xof4uQei8Y6SCzs) | 3:51 | 2025-10-26 |  |
+| [Coming Up \- 2011 Remaster](https://open.spotify.com/track/3HCQPIYsCT6JBf79KdYtA4) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II](https://open.spotify.com/album/7eEYDv4xof4uQei8Y6SCzs) | 3:51 | 2025-10-26 | 2025-10-27 |
 | [Common Sense](https://open.spotify.com/track/1k50Wd4FpBpp0v1Rkuv62W) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3) | 4:01 | 2023-12-23 |  |
 | [Conditions Of A Punk](https://open.spotify.com/track/2viUGuVwPAWIZXlOJHLHoO) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Conditions Of A Punk](https://open.spotify.com/album/4mdZ4AxMYHZk3qE5jBmlzM) | 3:36 | 2023-03-19 |  |
 | [Conservation of Two](https://open.spotify.com/track/1EfjX1u3coTBbmkFofxLoj) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 2:41 | 2023-01-07 |  |
@@ -594,6 +594,7 @@
 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 | 2025-03-29 |  |
 | [Only When I](https://open.spotify.com/track/0ZzElIB9iulNYwycFVPXdl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:51 | 2024-02-24 | 2025-10-17 |
 | [Open Up](https://open.spotify.com/track/5zHvtyKQLeABXy9TEOFtaF) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s) | 2:41 | 2025-08-05 |  |
+| [Opening Station](https://open.spotify.com/track/1Ouddr47W1oaAhj2ER32kq) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Egypt Station](https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5) | 0:41 | 2025-10-27 |  |
 | [orð vǫlu](https://open.spotify.com/track/5JKQnnTfMfHaTTDi8cjn76) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 3:47 | 2023-09-17 |  |
 | [Otherside](https://open.spotify.com/track/2Iqdun0CJawDkc3NBUrbdA) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF) | 2:40 | 2022-06-28 |  |
 | [Outer Body](https://open.spotify.com/track/7s116fYbWa8JjEoi6jxaZQ) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Luv N Chaos](https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg) | 2:02 | 2023-05-21 | 2023-12-14 |
@@ -629,6 +630,7 @@
 | [Plastic 100°C](https://open.spotify.com/track/0ah6qyhi2jlBP6D7JLxZrt) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI) | 5:16 | 2022-05-19 |  |
 | [Play Your Part \(Pt\. 1\)](https://open.spotify.com/track/5udnrY00yVUOAzupil2H56) | [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Feed the Animals](https://open.spotify.com/album/1B5Lwt0D1ZetRreaCBYobP) | 4:44 | 2024-10-19 | 2024-12-02 |
 | [Pleasant Street Bossa](https://open.spotify.com/track/6qtkkHYgd5HcQepVTksKQp) | [Falling](https://open.spotify.com/artist/0o7xj8ZxvJJqUTgodQa9nW) | [Out of Sight](https://open.spotify.com/album/6SmxgbgTOJJfi7rfXE4vOy) | 1:10 | 2024-01-18 |  |
+| [Please Don't Let Me Be So Understood](https://open.spotify.com/track/4VIAvJKD31aODBCXiwUItg) | [Tweedy](https://open.spotify.com/artist/3F4PBcfdeFdmxjRPS2UdMl), [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Sukierae](https://open.spotify.com/album/0Y2C0vkDk1gxQjIr2IbFte) | 1:33 | 2025-10-27 |  |
 | [Pluto](https://open.spotify.com/track/4IorOYjiwLW9BLj5P0KELy) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:33 | 2024-08-16 | 2024-08-20 |
 | [Poem \(1\)](https://open.spotify.com/track/0GWFbxN3SyghTvvFu84rTW) | [Bruno Pernadas](https://open.spotify.com/artist/5LEK1kaklDfReP092sVvGd) | [Those Who Throw Objects at the Crocodiles Will Be Asked to Retrieve Them](https://open.spotify.com/album/2NYnAb4TkXGHrY8wZ9uZwT) | 0:27 | 2024-03-17 | 2024-03-25 |
 | [Politik](https://open.spotify.com/track/0u35Dpz37TY2M2j20RUdMf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:18 | 2024-01-08 |  |
@@ -701,6 +703,7 @@
 | [Safe and Sound \(WWW\)](https://open.spotify.com/track/2OPmeyf31LlcIpYcJ4aegt) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Woman Worldwide](https://open.spotify.com/album/7E3c9dmZ1KnZOQLZTgRqWx) | 7:32 | 2024-03-12 |  |
 | [Sailor](https://open.spotify.com/track/05NKjLoBj7RSB7FmBHD389) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:49 | 2025-10-26 |  |
 | [Salad Days](https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 2:25 | 2023-04-26 | 2023-12-14 |
+| [Sam's Town](https://open.spotify.com/track/77Kh98jRHI40rIAKnBs7cl) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 4:06 | 2025-10-27 |  |
 | [Sauna](https://open.spotify.com/track/1DSl7kRrdWhwntiK6HOLVY) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 3:15 | 2023-03-25 | 2024-01-22 |
 | [Save Me](https://open.spotify.com/track/6pVg5dJBMeJylAHUZqkNCw) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Ingénue \(25th Anniversary Edition\)](https://open.spotify.com/album/1XHEQqyatYvfK5cEJfkPeK) | 4:32 | 2025-10-19 |  |
 | [Say It](https://open.spotify.com/track/3J6SHj9R5awrwgLzEdk9Ck) | [Orchards](https://open.spotify.com/artist/4XWU6kWmuSBJJ1QL0BV3NZ) | [Bicker](https://open.spotify.com/album/6DU0UVl1TV4VOfbpf0BZ2R) | 2:53 | 2025-03-29 |  |

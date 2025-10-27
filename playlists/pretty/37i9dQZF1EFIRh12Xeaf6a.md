@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,176 likes - 276 songs - 14 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,179 likes - 276 songs - 14 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,8 +234,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 224 | [Funny Face](https://open.spotify.com/track/6yJ7h7EThTaR4IYG23XWiA) | [Shelley Fabares](https://open.spotify.com/artist/6ZID5oFfvvgzIRrqXaTJSy) | [Shelley!](https://open.spotify.com/album/3gm0Xom6PrWBT1t6ua7oE0) | 1:59 |
 | 225 | [A Fine Way to Go](https://open.spotify.com/track/2dwfMQlWKe4cXJTlDNqhbC) | [Lonnie Mack](https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns) | [The Hills Of Indiana](https://open.spotify.com/album/0HqOAmtjJT9BlHCmnH0ILa) | 3:07 |
 | 226 | [Ride the Music](https://open.spotify.com/track/2ksn4hYRvqgpS0GGr6LZJ8) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:11 |
-| 227 | [All My Time](https://open.spotify.com/track/2zi3yUv881emZtNSXmmBZz) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op) | 3:17 |
-| 228 | [Where Does Love Go](https://open.spotify.com/track/4ZdoDBFOzhUXKrK7J3F70U) | [Charles Boyer](https://open.spotify.com/artist/6LBUGX8ISsCGQwxPfqgNCk) | [Romantic Songs of Love](https://open.spotify.com/album/03kbmQbvDIjVo4YZsoGTqR) | 2:59 |
+| 227 | [Where Does Love Go](https://open.spotify.com/track/4ZdoDBFOzhUXKrK7J3F70U) | [Charles Boyer](https://open.spotify.com/artist/6LBUGX8ISsCGQwxPfqgNCk) | [Romantic Songs of Love](https://open.spotify.com/album/03kbmQbvDIjVo4YZsoGTqR) | 2:59 |
+| 228 | [All My Time](https://open.spotify.com/track/2zi3yUv881emZtNSXmmBZz) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op) | 3:17 |
 | 229 | [Venusian Diamond](https://open.spotify.com/track/2GiZdXGzE1M0Vmpyy0pvOQ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 4:30 |
 | 230 | [Seeing Red](https://open.spotify.com/track/48vnZSAeZ2lgvFz6TDCGW2) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 |
 | 231 | [Eagle](https://open.spotify.com/track/5XDIXl4gjvb3DiD9F7lV2D) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:41 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [It's A Crazy Afternoon](https://open.spotify.com/track/3HR8V9vdhRYdRXg9dlGRQw) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [Something's Burning](https://open.spotify.com/album/4DVJF6FAjpGPMMWJroujUX) | 1:57 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `Ab/1sgAAAAA49YDjIioIPWDIVue/QVCk`
+Snapshot ID: `Ab/7cAAAAAAyKhrDoIhsWd68xDQA3yjy`

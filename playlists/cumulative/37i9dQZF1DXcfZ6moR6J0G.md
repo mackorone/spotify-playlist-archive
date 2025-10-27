@@ -2,7 +2,7 @@
 
 ### [Nu Metal Era](https://open.spotify.com/playlist/37i9dQZF1DXcfZ6moR6J0G)
 
-> John Otto, take 'em to the Matthews Bridge!
+> ...and I’m about to break.
 
 173 songs - 10 hr 30 min
 

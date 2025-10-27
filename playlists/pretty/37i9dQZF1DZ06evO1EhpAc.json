@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9635,
+  "num_followers": 9636,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAADVfSWfL5lqSUM3NPztHZes",
+  "snapshot_id": "aPwTAAAAAAD+kC4/EfRa7N7yuOUX2/BX",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "wo ai ni / break it even",
+        "url": "https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 182957,
+      "name": "break it even",
+      "url": "https://open.spotify.com/track/2DtdX4LyEaeumRBEcQxKB9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Charli",
         "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
       },
@@ -167,26 +187,6 @@
       "duration_ms": 153093,
       "name": "February 2017 (feat. Clairo and Yaeji)",
       "url": "https://open.spotify.com/track/3fTEcn7Jt6Dq3NVVdNvl4w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wo ai ni / break it even",
-        "url": "https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6"
-      },
-      "artists": [
-        {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 182957,
-      "name": "break it even",
-      "url": "https://open.spotify.com/track/2DtdX4LyEaeumRBEcQxKB9"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 205677,
-      "name": "Noonside",
-      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
+      "duration_ms": 209230,
+      "name": "Full of It",
+      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
     },
     {
       "added_at": null,
@@ -640,17 +640,21 @@
       "added_at": null,
       "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM"
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
       },
       "artists": [
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Nappy Nina",
+          "url": "https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx"
         }
       ],
-      "duration_ms": 197343,
-      "name": "When in Summer, I Forget About the Winter - Bonus Track",
-      "url": "https://open.spotify.com/track/23Vl5xmLj3Z4pc1zRtjUe2"
+      "duration_ms": 170424,
+      "name": "MONEY CAN'T BUY",
+      "url": "https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX"
     },
     {
       "added_at": null,
@@ -684,9 +688,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 209230,
-      "name": "Full of It",
-      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
+      "duration_ms": 205677,
+      "name": "Noonside",
+      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
     },
     {
       "added_at": null,
@@ -708,41 +712,17 @@
       "added_at": null,
       "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+        "url": "https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM"
       },
       "artists": [
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "Nappy Nina",
-          "url": "https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx"
         }
       ],
-      "duration_ms": 170424,
-      "name": "MONEY CAN'T BUY",
-      "url": "https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TRANSA",
-        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
-      },
-      "artists": [
-        {
-          "name": "Teddy Geiger",
-          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 185366,
-      "name": "Pink Ponies",
-      "url": "https://open.spotify.com/track/3sQIxMBHXvqaAc0RMtw8QT"
+      "duration_ms": 197343,
+      "name": "When in Summer, I Forget About the Winter - Bonus Track",
+      "url": "https://open.spotify.com/track/23Vl5xmLj3Z4pc1zRtjUe2"
     },
     {
       "added_at": null,
@@ -763,6 +743,26 @@
       "duration_ms": 122108,
       "name": "PAC-TIVE",
       "url": "https://open.spotify.com/track/7zJHgKgb9Lk9Qq2KNqSQ4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRANSA",
+        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
+      },
+      "artists": [
+        {
+          "name": "Teddy Geiger",
+          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 185366,
+      "name": "Pink Ponies",
+      "url": "https://open.spotify.com/track/3sQIxMBHXvqaAc0RMtw8QT"
     },
     {
       "added_at": null,

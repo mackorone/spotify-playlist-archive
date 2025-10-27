@@ -21605,6 +21605,24 @@
     },
     {
       "album": {
+        "name": "IRIS OUT",
+        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151573,
+      "name": "IRIS OUT",
+      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
+    },
+    {
+      "album": {
         "name": "Paranoid (Remaster)",
         "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
       },
@@ -31158,7 +31176,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 137808,
       "name": "Numb",
       "url": "https://open.spotify.com/track/0gdQdQ74cDuipX6JzsRk3z"
@@ -44624,7 +44642,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 144431,
       "name": "Von Party zu Party x Goth",
       "url": "https://open.spotify.com/track/3b5YnqCu0ZoDKnud8FpXZg"
@@ -46086,7 +46104,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 171167,
       "name": "Where Have You Been (Orchestra)",
       "url": "https://open.spotify.com/track/2aLkTZI6OeNOPASp7rZO7k"

@@ -1,33 +1,13 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15632,
+  "num_followers": 15631,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAADt2HF+xK45AHnrX6VsIGuv",
+  "snapshot_id": "aPwTAAAAAAAWFzbbyTS+lFuwSX4eZCfJ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 182708,
-      "name": "Por Primera Vez",
-      "url": "https://open.spotify.com/track/0pgj4EzB1XRqgZemoMNG5D"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 222800,
       "name": "PLIS",
       "url": "https://open.spotify.com/track/2uei5EK0iBwbjEKwoX6j5p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 182708,
+      "name": "Por Primera Vez",
+      "url": "https://open.spotify.com/track/0pgj4EzB1XRqgZemoMNG5D"
     },
     {
       "added_at": null,
@@ -511,30 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
-        "url": "https://open.spotify.com/album/0eR5mUBJVl7ae7oD7R8Bsi"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Carolina Mestrovic",
-          "url": "https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4"
-        }
-      ],
-      "duration_ms": 133880,
-      "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
-      "url": "https://open.spotify.com/track/46eO8Yh2LfnCBi1lqjXosR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna Para Ti (feat. Riccardo Frascari)",
         "url": "https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm"
       },
@@ -555,6 +531,30 @@
       "duration_ms": 212362,
       "name": "Luna Para Ti (feat. Riccardo Frascari)",
       "url": "https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
+        "url": "https://open.spotify.com/album/0eR5mUBJVl7ae7oD7R8Bsi"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Carolina Mestrovic",
+          "url": "https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4"
+        }
+      ],
+      "duration_ms": 133880,
+      "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
+      "url": "https://open.spotify.com/track/46eO8Yh2LfnCBi1lqjXosR"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Yellowcard
 
-1,421 songs - 3 day 3 hr 2 min
+1,422 songs - 3 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 2:36 | 2022-07-08 | 2022-11-05 |
 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/6Tb41xQxfkhpuJOkaWNTMV) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/album/6tZI7NswQRx6ufyTpkzu5c) | 2:36 | 2021-12-10 | 2022-07-25 |
 | [Don't Hate Me](https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Don't Hate Me](https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4) | 4:11 | 2021-12-10 | 2023-04-11 |
-| [Don't Let Me Get Too Low](https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Don't Let Me Get Too Low](https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af) | 2:38 | 2025-01-31 |  |
+| [Don't Let Me Get Too Low](https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Don't Let Me Get Too Low](https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af) | 2:38 | 2025-01-31 | 2025-10-27 |
 | [don't light the match \(dyed black 2010\)](https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [dyed \(2008 \- 2023\)](https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI) | 3:00 | 2025-01-31 |  |
 | [Don't Listen To My Voicemail](https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9) | [Your Broken Hero](https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Don't Listen To My Voicemail](https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3) | 2:58 | 2024-03-08 | 2025-02-01 |
 | [Don't Make Me Play Bocelli](https://open.spotify.com/track/79tqALv7efDtNha9axb461) | [The Burnt Tapes](https://open.spotify.com/artist/0pqqDbMmnL7Us4AquSVD7M) | [Don't Make Me Play Bocelli](https://open.spotify.com/album/27IEowtRlO4pw1AEKoMl2e) | 3:45 | 2022-03-25 | 2022-04-18 |
@@ -1083,6 +1083,7 @@
 | [Skeleton](https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Skeleton](https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw) | 3:23 | 2021-12-10 | 2023-04-11 |
 | [Skin & Bones](https://open.spotify.com/track/00NMFm5GBfE64F6LyCIXNT) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Skin & Bones](https://open.spotify.com/album/5J5bCon0bHWLYFRGi7BZu2) | 3:09 | 2024-08-23 | 2025-02-15 |
 | [Skinny Dipping](https://open.spotify.com/track/7s7xOgct7HWsNjGO3YOtqt) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/4xtHySb6XaNo8SLRgfpUSu) | 2:49 | 2021-12-10 | 2022-01-15 |
+| [SLEEP TALKING](https://open.spotify.com/track/1PoW3zFUUN8vGwXo7ihYPj) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [GARAGE](https://open.spotify.com/album/5d1CpByfQ3zqbOSmbIPafo) | 3:05 | 2025-10-24 |  |
 | [SLEEP WHEN I'M DEAD](https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [DEADBEAT!](https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi) | 2:26 | 2024-12-06 |  |
 | [Sleepless in Orlando](https://open.spotify.com/track/7qkmoS3QRYDCdr747Jed08) | [Jason Lancaster](https://open.spotify.com/artist/2qelzpB6RrJtn77f5yWmES) | [Say I'm What You Want](https://open.spotify.com/album/0XnbnViPiLqJUd6ZwReA9T) | 4:16 | 2021-12-10 | 2022-05-11 |
 | [Sleepwalker](https://open.spotify.com/track/1lC5rRa2ivaqAbK2i1tUHG) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [Disappear](https://open.spotify.com/album/3CH5aysv7LcybjuywWJNv1) | 4:06 | 2022-02-04 | 2022-06-20 |

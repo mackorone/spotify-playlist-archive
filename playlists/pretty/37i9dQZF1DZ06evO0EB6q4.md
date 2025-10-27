@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,384 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,414 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 26 | [Todavía No](https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Todavía No](https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L) | 3:18 |
 | 27 | [Una Loca Como Tú](https://open.spotify.com/track/0yWarPMKVH0kLJT7XZRMNF) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Una Loca Como Tú](https://open.spotify.com/album/3gmrexExvzNXV9HlKwLAdT) | 3:55 |
 | 28 | [Aprendí](https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Aprendí](https://open.spotify.com/album/3Xd6z6sSA4tkWGVdAXuS81) | 3:03 |
-| 29 | [No Es Mía](https://open.spotify.com/track/2vXHwOwUBP3SPhqn19NAxy) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Es Mía](https://open.spotify.com/album/5R699sUxn6JZHZit9JLLVY) | 3:08 |
+| 29 | [Volvernos a Amar \- KRENON RMX](https://open.spotify.com/track/6D698pkyT5pyFSsqUQkZYw) | [KRENON](https://open.spotify.com/artist/11R3hZfNT6ddljV0AkODiW), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Volvernos a Amar \(KRENON RMX\)](https://open.spotify.com/album/2SycID1qXvCM8Z7Bi0iBv6) | 4:07 |
 | 30 | [Poeta](https://open.spotify.com/track/069Y80sydFZIuVd7m73ouW) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Según Nosotros](https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME) | 3:53 |
-| 31 | [Volvernos a Amar \- KRENON RMX](https://open.spotify.com/track/6D698pkyT5pyFSsqUQkZYw) | [KRENON](https://open.spotify.com/artist/11R3hZfNT6ddljV0AkODiW), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Volvernos a Amar \(KRENON RMX\)](https://open.spotify.com/album/2SycID1qXvCM8Z7Bi0iBv6) | 4:07 |
+| 31 | [No Es Mía](https://open.spotify.com/track/2vXHwOwUBP3SPhqn19NAxy) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Es Mía](https://open.spotify.com/album/5R699sUxn6JZHZit9JLLVY) | 3:08 |
 | 32 | [Peor Que La Policía \(feat\. PMP\)](https://open.spotify.com/track/75ujpDovO206MUKRNHSRP6) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO), [PMP](https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 3:19 |
 | 33 | [Volvernos a Amar](https://open.spotify.com/track/3W1HtrBRDTYdvDJ6Ty4bfn) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Contra Todo Pronóstico](https://open.spotify.com/album/6Vci5Gbazs7TZYDNliRJKO) | 3:09 |
 | 34 | [Pelinegra](https://open.spotify.com/track/3Huo8FfIN5pph8cwHvgUiM) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Pelinegra](https://open.spotify.com/album/4JuX8uo2Z2hememSjuoOSK) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 49 | [Penitencia](https://open.spotify.com/track/7aHkSmt0l7xTgCaAYvSZ9L) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:06 |
 | 50 | [Todo Irá Bien](https://open.spotify.com/track/3jX12gKsZ4bPUne2d9b4aQ) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Todo Irá Bien](https://open.spotify.com/album/6QsEigzBAgnkBS9AHbRIRP) | 3:11 |
 
-Snapshot ID: `aPrBgAAAAAC9f1QwtmfSj2KW2fbGH80+`
+Snapshot ID: `aPwTAAAAAACtHS0jCTjGlzPJIaz31NL7`

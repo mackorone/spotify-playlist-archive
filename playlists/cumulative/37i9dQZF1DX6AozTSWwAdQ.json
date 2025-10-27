@@ -723,6 +723,28 @@
     },
     {
       "album": {
+        "name": "Blood Moon",
+        "url": "https://open.spotify.com/album/4kr06ScA4YEpwcZFKwy9Nc"
+      },
+      "artists": [
+        {
+          "name": "Yayee",
+          "url": "https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2"
+        },
+        {
+          "name": "Swimming Teddys",
+          "url": "https://open.spotify.com/artist/6kTqvXVMr7SCmBiqkJUeeY"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157225,
+      "name": "Blood Moon",
+      "url": "https://open.spotify.com/track/5LzhYkmwJA5iF2NjkLlF6M"
+    },
+    {
+      "album": {
         "name": "Blood On The Hospital Floor",
         "url": "https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0"
       },
@@ -1370,7 +1392,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 216747,
       "name": "Chrome Jets",
       "url": "https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ"
@@ -3992,7 +4014,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 232384,
       "name": "Irrelevant",
       "url": "https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH"
@@ -6410,7 +6432,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 174919,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/5Oqoyydz7aYxTezM4irIbB"

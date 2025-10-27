@@ -2,7 +2,7 @@
 
 ### [Hard Techno](https://open.spotify.com/playlist/37i9dQZF1DWXCzcvFxzeno)
 
-> 😈 welcome to the rave 😈  Cover: Marie Vaunt
+> 😈 welcome to the rave 😈  Cover: I Hate Models ✌️
 
 315 songs - 22 hr 5 min
 

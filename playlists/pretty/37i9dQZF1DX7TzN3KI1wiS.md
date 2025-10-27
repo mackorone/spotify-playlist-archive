@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,272 likes - 141 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,298 likes - 141 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 47 | [Pour the Milk](https://open.spotify.com/track/3239OdTeQMBphegyNvF8F3) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS), [Keees.](https://open.spotify.com/artist/5FzFuIi6RVngFoIwTdawDd) | [Pour the Milk](https://open.spotify.com/album/1RN9XFMVqqw4BD5dgLigpP) | 2:52 |
 | 48 | [Inside](https://open.spotify.com/track/5LkVo8eiepvRG5x4MDITAO) | [Alex Twitchy](https://open.spotify.com/artist/2o1AjDSjIf7ucd606oobsg), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Inside](https://open.spotify.com/album/1rh1LP6bXavzeo2QEsmVTk) | 4:25 |
 | 49 | [Body Free](https://open.spotify.com/track/2McZ6Ntes1gHxzmRA1sq9k) | [Ciszak](https://open.spotify.com/artist/6lf5XKHZHGXxHFPOKSkodA) | [Body Free EP](https://open.spotify.com/album/3xgHwrN3Kj7mBX8MBFSDbZ) | 7:28 |
-| 50 | [Deep Water](https://open.spotify.com/track/6g8VPCJR5uLP3W40gi2Ctb) | [Ross Evans](https://open.spotify.com/artist/2BrHRNyq2sr6z7NYOlqf61), [Aya](https://open.spotify.com/artist/7vAiHwC7WYSWaSYLbXJaGs) | [Deep Water](https://open.spotify.com/album/16cv8zzY2Pummo6Kghq1lm) | 9:09 |
+| 50 | [Deep Water](https://open.spotify.com/track/6g8VPCJR5uLP3W40gi2Ctb) | [Ross Evans](https://open.spotify.com/artist/2BrHRNyq2sr6z7NYOlqf61), [AYA](https://open.spotify.com/artist/1IPTC92TkaOIMj9Gohi8MF) | [Deep Water](https://open.spotify.com/album/16cv8zzY2Pummo6Kghq1lm) | 9:09 |
 | 51 | [Headspace](https://open.spotify.com/track/1n8BpJcvDVba4C2GaMFwb8) | [Dee Montero](https://open.spotify.com/artist/46RoK8NBTMTyu23GiHqbCr), [Meliha](https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5) | [Headspace EP](https://open.spotify.com/album/6BJdiMFxQQ4IpzUF6HPNSY) | 7:42 |
 | 52 | [Dreams \(Nikos Diamantopoulos Mix\) \[feat\. Jocie\]](https://open.spotify.com/track/362KsoQWhI3Fa3khQjSzjX) | [Jask](https://open.spotify.com/artist/5MUTcygkFH3iAtbftR4yjf), [Jocie](https://open.spotify.com/artist/66cVzks40zf9YSar72vBQW) | [Bushido Geisha](https://open.spotify.com/album/4bbbbmjxWxRi6JbYKjWmZC) | 6:22 |
 | 53 | [Dilute This \- Maya Jane Coles Remix](https://open.spotify.com/track/77yvtbfjc4lhejCtO34qKi) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Dilute This \(Remixes\)](https://open.spotify.com/album/7GRbhSHxRyuLRHJi5LYCP4) | 5:44 |

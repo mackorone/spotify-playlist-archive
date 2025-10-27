@@ -4,7 +4,7 @@
 
 > Single people dey suffer
 
-869 songs - 1 day 18 hr 4 min
+870 songs - 1 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Bodija](https://open.spotify.com/track/3GPZo2tH4a5U2z89a0rRr3) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Bodija / Folake](https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF) | 2:45 | 2024-03-08 | 2024-07-27 |
 | [Body](https://open.spotify.com/track/27YwMCIG7Rx9czTR625Wfz) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 3:13 | 2022-08-25 | 2022-10-06 |
 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 | 2023-01-20 | 2024-11-22 |
-| [Body Special \(feat\. Jaywillz\)](https://open.spotify.com/track/03TPK94ljLVww9GLVv5XBp) | [Paddy k](https://open.spotify.com/artist/51q4yLLGj93p2Ky0n0yOah), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Body Special \(feat\. Jaywillz\)](https://open.spotify.com/album/0czyMVe7APz0aZ3FujCNug) | 2:29 | 2025-10-17 |  |
+| [Body Special \(feat\. Jaywillz\)](https://open.spotify.com/track/03TPK94ljLVww9GLVv5XBp) | [Paddy k](https://open.spotify.com/artist/51q4yLLGj93p2Ky0n0yOah), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Body Special \(feat\. Jaywillz\)](https://open.spotify.com/album/0czyMVe7APz0aZ3FujCNug) | 2:29 | 2025-10-17 | 2025-10-27 |
 | [Bomzão](https://open.spotify.com/track/5cTt87f8djnVPH4mLo2L9G) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 3:09 | 2023-08-03 | 2023-09-29 |
 | [Borrow Me Your Baby \(feat\. Falz\)](https://open.spotify.com/track/01AkBgeMy8BSiJuzDl0WXc) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Borrow Me Your Baby \(feat\. Falz\)](https://open.spotify.com/album/56Kv6uvuBbZ2ZqjaZ9vKqs) | 3:08 | 2024-05-31 | 2024-09-07 |
 | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/track/3CTLElO2jgzX3pUU571Nfk) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/album/2wP11FwHQj4zg9x9XBo1r4) | 2:58 | 2023-10-27 | 2023-11-14 |
@@ -687,6 +687,7 @@
 | [Ring](https://open.spotify.com/track/1uREOYREV020F3QOGENSMI) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Ring](https://open.spotify.com/album/3rlRxf9KHAJ1OWjRbCQ5vg) | 2:35 | 2025-10-10 |  |
 | [Risk](https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:22 | 2024-07-19 | 2025-03-08 |
 | [Risk \(feat\. Moliy\)](https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Risk \(feat\. Moliy\)](https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh) | 2:47 | 2024-03-22 | 2024-05-04 |
+| [ROCK IT](https://open.spotify.com/track/5QPtxpPSvvF9dhz0tJ8GfV) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [King Dr\. Saheed Osupa](https://open.spotify.com/artist/44bzPvFDA5djUYE6cvumyu) | [BIG VYBZ](https://open.spotify.com/album/51fGQphhxN6ZoQxiKNwd4V) | 2:38 | 2025-10-24 |  |
 | [Rosemary](https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Rosemary](https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed) | 3:08 | 2022-02-11 | 2022-08-20 |
 | [Rugged 2.0 \(with Olivetheboy\)](https://open.spotify.com/track/5Tw21JAJVcNkpMtQd8cB5r) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Rugged 2.0 \(with Olivetheboy\)](https://open.spotify.com/album/0YLqst6MXpMNNyVtZKJPQb) | 2:28 | 2024-11-08 | 2025-09-05 |
 | [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 | 2024-02-09 | 2024-11-22 |

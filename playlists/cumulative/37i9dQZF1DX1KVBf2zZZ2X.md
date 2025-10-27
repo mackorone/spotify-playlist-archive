@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-270 songs - 12 hr 40 min
+271 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Cucurbita](https://open.spotify.com/track/3N1HAd8IP2Iv6fJMeuL4q8) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Cucurbita](https://open.spotify.com/album/2obGcH5exzGCZdlO3oDnFL) | 1:25 | 2023-07-06 | 2023-07-22 |
 | [Da Lat](https://open.spotify.com/track/6PLuM9Bi08yCcHPYKTyEdt) | [Mikki Johansson](https://open.spotify.com/artist/4AF3ZcezStUKA4fhjEcoUT) | [Da Lat](https://open.spotify.com/album/3WMsFEZNsxeQOYUQvt6RXS) | 2:02 | 2024-01-25 | 2025-10-18 |
 | [Dasikó Planktón](https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Dasikó Planktón](https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu) | 3:30 | 2023-10-06 | 2025-09-29 |
-| [Dawn Mist](https://open.spotify.com/track/16hZ0iRfs63i4Sp9eRSSXP) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Dawn Mist](https://open.spotify.com/album/3YNOufq8ydBc4PI6QgDTfW) | 3:47 | 2025-06-11 |  |
+| [Dawn Mist](https://open.spotify.com/track/16hZ0iRfs63i4Sp9eRSSXP) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Dawn Mist](https://open.spotify.com/album/3YNOufq8ydBc4PI6QgDTfW) | 3:47 | 2025-06-11 | 2025-10-27 |
 | [Deep Inside](https://open.spotify.com/track/2YdorGN6X3q5qgyChofNei) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Deep Inside](https://open.spotify.com/album/1be2vsAhXG0Ry0GJFRSTOf) | 2:43 | 2025-06-11 |  |
 | [Der Goldene Weg Birds](https://open.spotify.com/track/25gegpoPE530mhPN7wXgYK) | [Crystallinum](https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO) | [Der Goldene Weg Birds](https://open.spotify.com/album/6gY9gSX1z2xqL0RaOQJtkJ) | 3:02 | 2023-10-26 | 2025-08-03 |
 | [Des Roches Ritual](https://open.spotify.com/track/31nCgRTa6hPm2sFzUQD2NW) | [Electric Rivers](https://open.spotify.com/artist/4ATjV5COMvZp7XfnELm7nV) | [Des Roches Ritual](https://open.spotify.com/album/0et9Tv7PCytessod4b4Kl7) | 3:33 | 2024-03-20 |  |
@@ -247,6 +247,7 @@
 | [The Other Side](https://open.spotify.com/track/1v6nckXVbN34PqeQ0xBFIN) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [The Other Side](https://open.spotify.com/album/3uRJ68qiLsiWtYWo9JLHSV) | 2:49 | 2025-05-16 |  |
 | [The River Song](https://open.spotify.com/track/0jzdpv1d3C0k76jenFwPKI) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [The River Song](https://open.spotify.com/album/2obhenLWAFKvEz8J4Lza9q) | 2:44 | 2025-01-15 |  |
 | [The Sparrow](https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [The Old Grandfather Clock](https://open.spotify.com/album/4mOXlp10cieaSNNvyAQRIu) | 3:12 | 2023-03-03 | 2025-06-12 |
+| [The Teacher Within](https://open.spotify.com/track/3RPnZneI5lPdM5lMTsYUWR) | [Bias Beats](https://open.spotify.com/artist/2rufsSjAC70jRPV2oOxscT) | [The Teacher Within](https://open.spotify.com/album/5QdaV8dVbKPircWmgYw38v) | 2:46 | 2025-09-24 |  |
 | [The Way I Am & Sunday Mornings](https://open.spotify.com/track/5oUzKkdvWBoX6B0slLHZX7) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVIII](https://open.spotify.com/album/6xyFTbKHD0jolOCX5KstzK) | 1:07 | 2023-03-03 | 2025-06-12 |
 | [Thorns of Life](https://open.spotify.com/track/0hnmVaXmMT3F9LalPEkEYJ) | [Lula Dreamer](https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8) | [Thorns of Life](https://open.spotify.com/album/1WZAh7SNiSuPIVH4B8PE5m) | 4:23 | 2025-02-21 |  |
 | [Thoughts Outside My Window](https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Thoughts Outside My Window](https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc) | 2:27 | 2025-01-15 |  |

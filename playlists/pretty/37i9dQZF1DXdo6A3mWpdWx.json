@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 1255246,
+  "num_followers": 1255837,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "My Promise",
         "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 272093,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "To The Maxximum",
-        "url": "https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG"
-      },
-      "artists": [
-        {
-          "name": "Maxx",
-          "url": "https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX"
-        }
-      ],
-      "duration_ms": 226734,
-      "name": "Get A Way",
-      "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Saturday Night Single",
         "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 247405,
       "name": "Saturday Night - Radio Mix",
       "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "To The Maxximum",
+        "url": "https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG"
+      },
+      "artists": [
+        {
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX"
+        }
+      ],
+      "duration_ms": 226734,
+      "name": "Get A Way",
+      "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "2 Times (Full Package)",
-        "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
       "artists": [
         {
-          "name": "Ann Lee",
-          "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
         }
       ],
-      "duration_ms": 230933,
-      "name": "2 Times - Original",
-      "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
+      "duration_ms": 227266,
+      "name": "Men In Black - From \"Men In Black\" Soundtrack",
+      "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "2 Times (Full Package)",
+        "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
+      },
+      "artists": [
+        {
+          "name": "Ann Lee",
+          "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "2 Times - Original",
+      "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "Poison (Expanded Edition)",
         "url": "https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 261866,
       "name": "Poison",
       "url": "https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Men In Black - From \"Men In Black\" Soundtrack",
-      "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "PopArt: The Hits",
-        "url": "https://open.spotify.com/album/5IVJbSDDWbGjKbBczyifFl"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 304080,
-      "name": "Go West - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5Klo65Y9uouLjNVDV3pqh7"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 290493,
       "name": "Hey Boy Hey Girl",
       "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "PopArt: The Hits",
+        "url": "https://open.spotify.com/album/5IVJbSDDWbGjKbBczyifFl"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 304080,
+      "name": "Go West - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5Klo65Y9uouLjNVDV3pqh7"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1451,6 +1451,22 @@
       "duration_ms": 212693,
       "name": "Bailamos - From \"Wild Wild West\"",
       "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 324666,
+      "name": "Fastlove, Pt. 1",
+      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 324666,
-      "name": "Fastlove, Pt. 1",
-      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "12 Inches Of Snow",
         "url": "https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "Spice Up Your Life",
-      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Love Hurts",
         "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 170000,
       "name": "The Shoop Shoop Song (It's In His Kiss)",
       "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Spice Up Your Life",
+      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Fiesta Macarena",
-        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
-      },
-      "artists": [
-        {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Macarena - Bayside Boys Remix",
-      "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 221160,
       "name": "Encore Une Fois - Future Breeze Edit",
       "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Fiesta Macarena",
+        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
+      },
+      "artists": [
+        {
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+        }
+      ],
+      "duration_ms": 252133,
+      "name": "Macarena - Bayside Boys Remix",
+      "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2075,18 +2075,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Come On Over (International Version)",
-        "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
+        "name": "Toonage",
+        "url": "https://open.spotify.com/album/0lKry7c7VLzsx4dD0DXSiI"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Cartoons",
+          "url": "https://open.spotify.com/artist/6eKJWEzLZq8jZix8hdYsv4"
         }
       ],
-      "duration_ms": 238706,
-      "name": "That Don't Impress Me Much",
-      "url": "https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx"
+      "duration_ms": 187533,
+      "name": "Witch Doctor - Radio Mix",
+      "url": "https://open.spotify.com/track/1li2UA33w6LQcVXt4Di5UA"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2107,18 +2107,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Toonage",
-        "url": "https://open.spotify.com/album/0lKry7c7VLzsx4dD0DXSiI"
+        "name": "Come On Over (International Version)",
+        "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
       },
       "artists": [
         {
-          "name": "Cartoons",
-          "url": "https://open.spotify.com/artist/6eKJWEzLZq8jZix8hdYsv4"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 187533,
-      "name": "Witch Doctor - Radio Mix",
-      "url": "https://open.spotify.com/track/1li2UA33w6LQcVXt4Di5UA"
+      "duration_ms": 238706,
+      "name": "That Don't Impress Me Much",
+      "url": "https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Tougher Than Love",
-        "url": "https://open.spotify.com/album/5lwkQjfbO515jO9jwfzs6b"
-      },
-      "artists": [
-        {
-          "name": "Diana King",
-          "url": "https://open.spotify.com/artist/221iMiF62DFPnVuCLJakP1"
-        }
-      ],
-      "duration_ms": 258560,
-      "name": "Shy Guy",
-      "url": "https://open.spotify.com/track/3ldG6XCLDXxWg1N6XhrSKo"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Funky Divas",
         "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 281613,
       "name": "My Lovin' (You're Never Gonna Get It)",
       "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Tougher Than Love",
+        "url": "https://open.spotify.com/album/5lwkQjfbO515jO9jwfzs6b"
+      },
+      "artists": [
+        {
+          "name": "Diana King",
+          "url": "https://open.spotify.com/artist/221iMiF62DFPnVuCLJakP1"
+        }
+      ],
+      "duration_ms": 258560,
+      "name": "Shy Guy",
+      "url": "https://open.spotify.com/track/3ldG6XCLDXxWg1N6XhrSKo"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "There Is a Party",
-        "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
-      },
-      "artists": [
-        {
-          "name": "DJ BoBo",
-          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
-        }
-      ],
-      "duration_ms": 269706,
-      "name": "Love Is All Around",
-      "url": "https://open.spotify.com/track/0juz4iKEbAAKHfPzqgixRK"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "In Stereo",
         "url": "https://open.spotify.com/album/21Z00Rt15tDCUM4mStVNKI"
       },
@@ -2375,18 +2359,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "C'est la Vie: The Collection",
-        "url": "https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn"
+        "name": "There Is a Party",
+        "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
       },
       "artists": [
         {
-          "name": "B*Witched",
-          "url": "https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u"
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
         }
       ],
-      "duration_ms": 173693,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S"
+      "duration_ms": 269706,
+      "name": "Love Is All Around",
+      "url": "https://open.spotify.com/track/0juz4iKEbAAKHfPzqgixRK"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2403,6 +2387,22 @@
       "duration_ms": 299426,
       "name": "I'm Your Baby Tonight",
       "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "C'est la Vie: The Collection",
+        "url": "https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn"
+      },
+      "artists": [
+        {
+          "name": "B*Witched",
+          "url": "https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u"
+        }
+      ],
+      "duration_ms": 173693,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S"
     },
     {
       "added_at": "2024-07-12 16:20:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,450 likes - 85 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,521 likes - 85 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 84 | [The Last Mulberry](https://open.spotify.com/track/7HEv4ibZo1IWUCjHYBQI72) | [Anders Koppel](https://open.spotify.com/artist/4WpI5i9RBEhJJwz8VHXUhn), [Benjamin Koppel](https://open.spotify.com/artist/6rSihViB4AAFhVp45EKGbY), [Scott Colley](https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Martin Yates](https://open.spotify.com/artist/5XFFT4yEQNLtmedN1FF29Q), [Odense Symphony Orchestra](https://open.spotify.com/artist/0Fa03NPFHRCV8aITqMKhCp) | [The Last Mulberry](https://open.spotify.com/album/7ea33k7uNNYdTAuxPNVjpC) | 12:26 |
 | 85 | [Intermezzo, Op\. 118, No\. 2 \- Live](https://open.spotify.com/track/0Lf9AIOPZqprp67xBWbTG1) | [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI) | [The Bandwagon](https://open.spotify.com/album/5XxvFw1K9lYu78ipjF8gpG) | 6:39 |
 
-Snapshot ID: `AAAAAEv2WqxqCmryZJwGnKQ5yA7K+hPk`
+Snapshot ID: `AAAAAAJhlJ/D1N6/xqLb6uSKrqJpGyqI`

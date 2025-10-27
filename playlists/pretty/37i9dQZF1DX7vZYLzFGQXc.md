@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Izykite\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,402 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,405 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [First Step](https://open.spotify.com/track/2CwoQbjMZDOyzihiVEczrR) | [빅선](https://open.spotify.com/artist/6dHi2MD6sC6yfuuORMamMK) | [RISE ABOVE](https://open.spotify.com/album/4HEwRyWp6Boo6tFWgIRQg7) | 2:27 |
 | 50 | [Unconditional love](https://open.spotify.com/track/0KXSnbjfcF3MLOK1RNWNgJ) | [Kimmuse](https://open.spotify.com/artist/6qfCoY8Md1jcT1vBQwsmHN) | [Unconditional love](https://open.spotify.com/album/6v2Sga9KGrbiYUwbbkVE1n) | 3:50 |
 
-Snapshot ID: `AAAAALlMRcNadhAlj1mT3WeslrGhC6fw`
+Snapshot ID: `AAAAAF6VCATdb7Vk8cQ1xpc1D4B/ov88`

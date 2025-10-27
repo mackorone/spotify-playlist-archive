@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0cS6eQ6y8jki1Khi5F2TxG.md) - [plain]
 
 > Music is Universal🌈 Party with this pride playlist full of LGBTQIA+ anthems and iconic pop songs, with Lady Gaga, Chappell Roan, Troye Sivan and more!
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 26,427 likes - 96 songs - 5 hr 39 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 26,424 likes - 96 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

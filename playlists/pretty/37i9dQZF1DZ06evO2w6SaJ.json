@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 7009,
+  "num_followers": 7013,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAAD13/tZy6QcA8sh4e4vQJ72",
+  "snapshot_id": "aPwTAAAAAACrILfjOl9zF2ELoRuWpVjJ",
   "tracks": [
     {
       "added_at": null,
@@ -423,26 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hellscape",
-        "url": "https://open.spotify.com/album/0XKNwYFsecpZ2c9aydBYrq"
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
       },
       "artists": [
         {
-          "name": "HECC",
-          "url": "https://open.spotify.com/artist/4XkFTNRZjPoBdPKNapLNrF"
-        },
-        {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        },
-        {
-          "name": "Roland Banks",
-          "url": "https://open.spotify.com/artist/5dRKhmZxN3V6voKOoOEHeK"
         }
       ],
-      "duration_ms": 219428,
-      "name": "Hellscape",
-      "url": "https://open.spotify.com/track/3fhf6IxqOAa1olqs1zfY0B"
+      "duration_ms": 224760,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/632Ph3SO4KPqoCFviG1sa6"
     },
     {
       "added_at": null,
@@ -467,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+        "name": "Hurt You So Bad",
+        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
       },
       "artists": [
         {
@@ -476,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 224760,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/632Ph3SO4KPqoCFviG1sa6"
+      "duration_ms": 228493,
+      "name": "Skulls and Stars - Original Demo",
+      "url": "https://open.spotify.com/track/57v5dmDHj2nsEGc8z9TgGC"
     },
     {
       "added_at": null,
@@ -499,18 +491,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt You So Bad",
-        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
+        "name": "Hellscape",
+        "url": "https://open.spotify.com/album/0XKNwYFsecpZ2c9aydBYrq"
       },
       "artists": [
         {
+          "name": "HECC",
+          "url": "https://open.spotify.com/artist/4XkFTNRZjPoBdPKNapLNrF"
+        },
+        {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        },
+        {
+          "name": "Roland Banks",
+          "url": "https://open.spotify.com/artist/5dRKhmZxN3V6voKOoOEHeK"
         }
       ],
-      "duration_ms": 228493,
-      "name": "Skulls and Stars - Original Demo",
-      "url": "https://open.spotify.com/track/57v5dmDHj2nsEGc8z9TgGC"
+      "duration_ms": 219428,
+      "name": "Hellscape",
+      "url": "https://open.spotify.com/track/3fhf6IxqOAa1olqs1zfY0B"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flirting With Disaster",
+        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 181909,
+      "name": "Trigger Happy",
+      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Butterfly (New Anthem)",
         "url": "https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk"
       },
@@ -587,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flirting With Disaster",
-        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
       },
       "artists": [
         {
@@ -596,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 181909,
-      "name": "Trigger Happy",
-      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
+      "duration_ms": 262666,
+      "name": "Candy Coated",
+      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
     },
     {
       "added_at": null,
@@ -619,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+        "name": "Flirting With Disaster",
+        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
       },
       "artists": [
         {
@@ -628,9 +644,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 262666,
-      "name": "Candy Coated",
-      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
+      "duration_ms": 234022,
+      "name": "99 Bottles",
+      "url": "https://open.spotify.com/track/2ZQdyy7u6pCzX3C3xbcCDD"
     },
     {
       "added_at": null,
@@ -663,22 +679,6 @@
       "duration_ms": 233250,
       "name": "XXXII",
       "url": "https://open.spotify.com/track/5d8E5YZ1n7VVBIos0Et8hC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flirting With Disaster",
-        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 234022,
-      "name": "99 Bottles",
-      "url": "https://open.spotify.com/track/2ZQdyy7u6pCzX3C3xbcCDD"
     },
     {
       "added_at": null,

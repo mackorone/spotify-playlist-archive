@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-693 songs - 1 day 9 hr 46 min
+694 songs - 1 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,8 @@
 | [Fica Aqui](https://open.spotify.com/track/70REzfi8DiUDuu4BHafeoj) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Fica Aqui](https://open.spotify.com/album/27aY7RzA66XBHJopBSHDtx) | 3:22 | 2023-12-30 |  |
 | [Fica Titi Não](https://open.spotify.com/track/1k92O4rH8Cadue3gXzVchL) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg) | [Fica Titi Não](https://open.spotify.com/album/4mkAPYOFwQ46ozNiN2wQb2) | 2:43 | 2023-12-30 |  |
 | [Figo Bão](https://open.spotify.com/track/4NWe9QIk7UjS6BTAjlFZbM) | [Fernando Souza e Matheus](https://open.spotify.com/artist/2weq76M4O67H31FgYGf20v) | [Modão](https://open.spotify.com/album/3pVSqLrf4ARCCvFNDKCiJI) | 3:01 | 2025-05-31 |  |
-| [Figurinha de Grupo \- No 12, Ao Vivo](https://open.spotify.com/track/3A1WPglEROfedBSUPqMNI3) | [Maurício & Eduardo](https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc) | [NO 12 \(Ao Vivo\)](https://open.spotify.com/album/5Mmu9vDgfeaHvaR56yIPu0) | 3:06 | 2024-03-26 |  |
+| [Figurinha de Grupo \- No 12, Ao Vivo](https://open.spotify.com/track/3A1WPglEROfedBSUPqMNI3) | [Maurício & Eduardo](https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc) | [NO 12 \(Ao Vivo\)](https://open.spotify.com/album/5Mmu9vDgfeaHvaR56yIPu0) | 3:06 | 2024-03-26 | 2025-10-27 |
+| [Figurinha de Grupo \- No 12, Ao Vivo](https://open.spotify.com/track/7uWb1cCy8aSF1PKTkp7TOm) | [Maurício & Eduardo](https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc) | [Figurinha de Grupo \(No 12, Ao Vivo\)](https://open.spotify.com/album/2GriTzdSq98tKzbAx97jYR) | 3:06 | 2025-10-26 |  |
 | [Fim de Namoro](https://open.spotify.com/track/3G9DccUI57pY6720LShoHm) | [Anderson Garotinho](https://open.spotify.com/artist/52lGRYsYPAkVkOwGGkF9y7) | [Diferentinho Não, Diferentão! 4.0](https://open.spotify.com/album/0UAXEHz4IeBjnRJZkw1pvv) | 3:02 | 2025-06-20 |  |
 | [Fim de Namoro](https://open.spotify.com/track/7Bf4OzxpAenrTgsysQ9C8O) | [Anderson Garotinho](https://open.spotify.com/artist/52lGRYsYPAkVkOwGGkF9y7) | [Diferentinho Não, Diferentão! 4.0](https://open.spotify.com/album/0ITR7DrP86w2VHQeH2v4ew) | 3:02 | 2025-03-23 | 2025-06-12 |
 | [Fim de Papo](https://open.spotify.com/track/4mzfyvDHWS1Xm8oi4SsCUM) | [Léo Nascimento](https://open.spotify.com/artist/0MCWeUxunb4KJxPTDO6iX8) | [Fim de Papo \(Ao Vivo\)](https://open.spotify.com/album/3lkhRDXtbBUtVwu7bHAuH4) | 3:25 | 2023-12-30 |  |

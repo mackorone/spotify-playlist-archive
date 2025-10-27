@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > OOOAAAAAA<br/>Todo lo nuevo de música tropical 📸  Un Poco de Ruido & Juanes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,786 likes - 98 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,821 likes - 98 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 20 | [Cumbiancheros](https://open.spotify.com/track/6VLW4p4O4GlSiPYF8WRjNK) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Noble Esquivel](https://open.spotify.com/artist/7D5IffmyeJQpQ2532utYIQ) | [MEXA](https://open.spotify.com/album/1ANqKYjxTjlBW2muzJCsgE) | 3:23 |
 | 21 | [Jean Carlos Centeno \- Mix En Vivo](https://open.spotify.com/track/6w7Zrd3VISrO6HcT8QOUyC) | [Free Cover Venezuela](https://open.spotify.com/artist/5zXl6z1tUnm1UJtgGY8COu), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Ronal Urbina](https://open.spotify.com/artist/75YwXrUh0D6hDWh5xFpZEK) | [Jean Carlos Centeno \(Mix En Vivo\)](https://open.spotify.com/album/7eZdzeCyrpCdQECKz1Sn0g) | 16:10 |
 | 22 | [Abandonado \- En Vivo](https://open.spotify.com/track/7oB6WRfrBsB0v73GfzC5V4) | [Efrén David](https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g) | [Abandonado \(En Vivo\)](https://open.spotify.com/album/1QIlMIqcHrDQ6kvJ9bGRB1) | 4:53 |
-| 23 | [Sublime Gracia](https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [Isamar](https://open.spotify.com/artist/6ZkzyDfFp1LJLJD8fKq6Ph) | [Sublime Gracia](https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX) | 2:46 |
+| 23 | [Sublime Gracia](https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [Isamar](https://open.spotify.com/artist/2drlQvlGLUluWh7iqqB8p7) | [Sublime Gracia](https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX) | 2:46 |
 | 24 | [Noche](https://open.spotify.com/track/7r9tHvM1Ze7skW5Wtautji) | [Mauricio Mesones](https://open.spotify.com/artist/3rncKt7sH5O1C2xPOyGlze), [El Viaje Tropical](https://open.spotify.com/artist/3mj4QqL0RsWyGkkVrkwwNP) | [Noche](https://open.spotify.com/album/5HYXOv4sPUfb0xxwBDJ4F3) | 4:03 |
 | 25 | [Me Contó Un Pajarito](https://open.spotify.com/track/1BtekUrJrdyP26Vdv9jFUS) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr) | [Me Contó Un Pajarito](https://open.spotify.com/album/21gqDpCwrLz0JTCTEsxEwb) | 2:06 |
 | 26 | [La botella](https://open.spotify.com/track/41MTzwYKd7yqBgNmxX0yKg) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [La botella](https://open.spotify.com/album/5txvBlFy2ssHbJK8siXapR) | 3:23 |

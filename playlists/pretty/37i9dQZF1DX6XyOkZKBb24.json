@@ -1,6 +1,6 @@
 {
   "description": "Snuggling in for the evening with a nice soundtrack",
-  "num_followers": 217501,
+  "num_followers": 217533,
   "original_name": "Mellow Evening",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-10-07 16:07:36",
       "album": {
+        "name": "Got You Right",
+        "url": "https://open.spotify.com/album/11oZY5iihgl7EdaWNqEzy6"
+      },
+      "artists": [
+        {
+          "name": "GoldFord",
+          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
+        }
+      ],
+      "duration_ms": 205025,
+      "name": "Got You Right",
+      "url": "https://open.spotify.com/track/1AMvRbr8thMA47fC6iNJa2"
+    },
+    {
+      "added_at": "2025-10-07 16:07:36",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 187130,
       "name": "Picture You",
       "url": "https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T"
-    },
-    {
-      "added_at": "2025-10-07 16:07:36",
-      "album": {
-        "name": "Got You Right",
-        "url": "https://open.spotify.com/album/11oZY5iihgl7EdaWNqEzy6"
-      },
-      "artists": [
-        {
-          "name": "GoldFord",
-          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
-        }
-      ],
-      "duration_ms": 205025,
-      "name": "Got You Right",
-      "url": "https://open.spotify.com/track/1AMvRbr8thMA47fC6iNJa2"
     },
     {
       "added_at": "2025-10-07 16:07:36",

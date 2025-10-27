@@ -1,12 +1,12 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 363499,
+  "num_followers": 363643,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALVXRbxDikBqe/PLLSI95Q+xjrTH",
+  "snapshot_id": "AAAAAHwgV5XuCMVP1Ftc3rFbA+YDMEwH",
   "tracks": [
     {
       "added_at": "2025-10-16 22:01:25",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-10-16 22:01:25",
       "album": {
+        "name": "Italiana Vol. 1",
+        "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "duration_ms": 259773,
+      "name": "Morir\u00f2 Per Te - 2001 Remaster",
+      "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
+    },
+    {
+      "added_at": "2025-10-16 22:01:25",
+      "album": {
         "name": "Mini Pony",
         "url": "https://open.spotify.com/album/2CCMRVYIgWLMF276c00oi7"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 209053,
       "name": "Mini Pony",
       "url": "https://open.spotify.com/track/2GhTxFgt38iqze9F7uMghv"
-    },
-    {
-      "added_at": "2025-10-16 22:01:25",
-      "album": {
-        "name": "Italiana Vol. 1",
-        "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
-        }
-      ],
-      "duration_ms": 259773,
-      "name": "Morir\u00f2 Per Te - 2001 Remaster",
-      "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
     },
     {
       "added_at": "2025-10-16 22:01:25",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-10-16 22:01:25",
       "album": {
+        "name": "Baby I Love You (Original) - Single",
+        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
+      },
+      "artists": [
+        {
+          "name": "Easy Going",
+          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
+        }
+      ],
+      "duration_ms": 503920,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
+    },
+    {
+      "added_at": "2025-10-16 22:01:25",
+      "album": {
         "name": "Find You (Gerd Janson Remix)",
         "url": "https://open.spotify.com/album/7hW9Z12KBU2Wb5Ikx993eU"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 374379,
       "name": "Find You (Gerd Janson Remix)",
       "url": "https://open.spotify.com/track/3Jxo5oojrX6Xmm69sP7T51"
-    },
-    {
-      "added_at": "2025-10-16 22:01:25",
-      "album": {
-        "name": "Baby I Love You (Original) - Single",
-        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
-      },
-      "artists": [
-        {
-          "name": "Easy Going",
-          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
-        }
-      ],
-      "duration_ms": 503920,
-      "name": "Baby I Love You",
-      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
     },
     {
       "added_at": "2025-10-16 22:01:25",

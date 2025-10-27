@@ -4,7 +4,7 @@
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 32 min
+49 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Nothing Is What It Seems](https://open.spotify.com/track/4NWL8X6InF3pQwzw8820ic) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 4:25 | 2023-08-18 |  |
 | [On My Own](https://open.spotify.com/track/4V6qDAzkekP88eUeKKIeoI) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 5:17 | 2022-10-25 | 2023-05-01 |
 | [Only 20 Once \- Live](https://open.spotify.com/track/6xNsV8qqXn50yuBRysKn8q) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 1:41 | 2024-07-21 | 2025-10-19 |
+| [Only 20 Once \- Live](https://open.spotify.com/track/7nIqfhqI24mXCpeqSRAxSZ) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f) | 1:41 | 2025-10-27 |  |
 | [Pitiful \- Live](https://open.spotify.com/track/5ebNBO5QrgmQLczRlp1rly) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f) | 3:17 | 2025-10-20 |  |
 | [Pitiful \- Live](https://open.spotify.com/track/6ngQC7dBOI6WcFpnYWYB3V) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 3:17 | 2024-07-25 | 2025-10-20 |
 | [Pitiful \- Live](https://open.spotify.com/track/6vnDvxCPBSYVQvojqQGW9j) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Seven / Pitiful \(Live\)](https://open.spotify.com/album/0juD5oBhlYYbiK1y62xasu) | 3:17 | 2024-05-12 | 2024-07-25 |

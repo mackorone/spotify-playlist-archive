@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,135 songs - 3 day 10 hr 34 min
+1,136 songs - 3 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,7 +550,7 @@
 | [Leaving](https://open.spotify.com/track/67zRyxMsahqZKFBZ65Dbje) | [Murtagh](https://open.spotify.com/artist/4cpTlyZCR7ed2g4WG8gUDf) | [Rush / Leaving](https://open.spotify.com/album/5mChkbJAUSBmR9eep9TWV0) | 4:25 | 2020-01-18 | 2025-10-17 |
 | [Leaving Earth](https://open.spotify.com/track/5TiJIieCsjUMFbQJiYUOwH) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp) | [Creation](https://open.spotify.com/album/759sclnD3ycdQqfjMpmnl4) | 7:06 | 2019-05-26\* | 2020-06-12 |
 | [Leaving Earth 2](https://open.spotify.com/track/0u74chsSgmcIyhhOqTrEyV) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 3:13 | 2019-06-19\* |  |
-| [Left Behind](https://open.spotify.com/track/0mkR9v0jfXU7uf7sednDbm) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Left Behind](https://open.spotify.com/album/0YIXc0vszubi1lt09JKRZb) | 2:31 | 2024-04-19 |  |
+| [Left Behind](https://open.spotify.com/track/0mkR9v0jfXU7uf7sednDbm) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Left Behind](https://open.spotify.com/album/0YIXc0vszubi1lt09JKRZb) | 2:31 | 2024-04-19 | 2025-10-27 |
 | [Leftovers](https://open.spotify.com/track/5KDcDThWtlOOcEncBmseAw) | [Akın Sevgör](https://open.spotify.com/artist/586eJg9tmYDLSahAhozZBo) | [Reveries](https://open.spotify.com/album/3lcsRejIVqC2ZzgohbS9X1) | 3:01 | 2024-04-19 |  |
 | [Lemuria Shore Party](https://open.spotify.com/track/3aunCnZrxBJUMls5bcfgGz) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Sphinx Nouvelle](https://open.spotify.com/album/265JDS98akgIybfFtVe0ez) | 4:45 | 2024-11-01 | 2024-12-05 |
 | [Let Me Go](https://open.spotify.com/track/2CqfRRNlyeMGHvy3CIwj3W) | [stay vaag](https://open.spotify.com/artist/1osrsyP1mntNcORXPBUr4G) | [Let Me Go](https://open.spotify.com/album/4U5TfBSm4EiW0pcX63CNC6) | 4:32 | 2025-10-24 |  |
@@ -1079,6 +1079,7 @@
 | [Visages Visages](https://open.spotify.com/track/41EeXkqV9iXLKdQv36EEAP) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Visages Visages](https://open.spotify.com/album/5lYGHwWDorsrfjWB4gkj9c) | 5:59 | 2025-06-09 | 2025-08-24 |
 | [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 | 2025-07-25 |  |
 | [Voices In My Head](https://open.spotify.com/track/0JUO6DhIHlpZ4GJWWhr2RG) | [Vikram Dhakal](https://open.spotify.com/artist/4rAXFOfQ4Q5hwOF492tEuI) | [Voices In My Head](https://open.spotify.com/album/1bBeLI0tu55M0Sd7bd7uxB) | 2:57 | 2020-08-26 | 2020-11-06 |
+| [volc4](https://open.spotify.com/track/3IExaQvA4xa2Fv61xCVuip) | [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT), [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [volc4](https://open.spotify.com/album/2KoU78rsQe3AfBOsZPZsTo) | 5:16 | 2025-10-24 |  |
 | [VORTEX](https://open.spotify.com/track/3YN1Cwvr9XAudtMFhyHmHi) | [TENGGER](https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4) | [TENGGER](https://open.spotify.com/album/5Cziq0Bc2fJOcTgVDZ1COh) | 5:16 | 2023-09-29 | 2025-10-10 |
 | [Voyage de la planète](https://open.spotify.com/track/3gCofca5qSvByjfLbdxmds) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Voyage de la planète](https://open.spotify.com/album/0pcfZtOOtLD1tsEqUzkFtF) | 7:38 | 2019-06-21 | 2020-10-22 |
 | [Waiting on You](https://open.spotify.com/track/2d0YkF9qWbyqoNjarHSF1R) | [Solicit](https://open.spotify.com/artist/4BgSaBlB2eULHaOUtXSgys), [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Waiting on You](https://open.spotify.com/album/2iOQO77EAtci3tu0KZLH4h) | 4:07 | 2021-02-28 | 2025-08-30 |

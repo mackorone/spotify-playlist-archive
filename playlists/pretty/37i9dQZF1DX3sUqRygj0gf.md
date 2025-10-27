@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,112 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,115 likes - 45 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,16 +30,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 20 | [Merry Christmas Everyone \(Snow Is Falling\) \- Acoustic Cover](https://open.spotify.com/track/26YCOq8RYz8Qsx75rWa3kZ) | [Emily Hall](https://open.spotify.com/artist/4RbjejrQkdyJK5XUyvnSDU) | [Acoustic Christmas 2020 \- Xmas Chill Acustic](https://open.spotify.com/album/54KyGOuJWHAWGKUHQHJLUJ) | 2:14 |
 | 21 | [When A Child Is Born](https://open.spotify.com/track/2UyBIhcJ5KlikoLSaSyG2p) | [Porcelain Heart](https://open.spotify.com/artist/5T2ff1LGUqwnUUt1J3Q9vg) | [When A Child Is Born](https://open.spotify.com/album/7sFPBfprmUMHIJDLrhZ4v6) | 2:37 |
 | 22 | [We Three Kings](https://open.spotify.com/track/5dT77tyFweHSHC8V0lrDFH) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [We Three Kings](https://open.spotify.com/album/1NZWpPv9ATEef2q7UaS5hc) | 2:41 |
-| 23 | [white christmas](https://open.spotify.com/track/26ivtKYwzmHuUAsQvDx7hh) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [white christmas](https://open.spotify.com/album/1Xw5gJEsHUa1uEVirBA09O) | 2:14 |
-| 24 | [Twelve Days Of Christmas](https://open.spotify.com/track/67BkXkBDWcPVWVNkBGiFvA) | [The Rose Thorns](https://open.spotify.com/artist/74vreNdorDoDuid4Jgmy7p) | [Twelve Days Of Christmas](https://open.spotify.com/album/2Y40iENowik3TeGiUpXQSI) | 3:28 |
-| 25 | [Do They Know It's Christmas](https://open.spotify.com/track/0Mlv2PQsXoSGzBVb06UYM3) | [The Local Bros.](https://open.spotify.com/artist/2eArGWvPUKX6H63vH4w0bZ) | [Do They Know It's Christmas](https://open.spotify.com/album/2QRW3nUC5J3Fd3aaZ4KkpZ) | 2:54 |
-| 26 | [It's the Holiday Season](https://open.spotify.com/track/1bgd7mWTXuT2DRWvU9QfXO) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [It's the Holiday Season](https://open.spotify.com/album/0nsxpYaQkE4WuR5BIN4dZC) | 2:46 |
-| 27 | [Give Love On Christmas Day](https://open.spotify.com/track/1fdhf6xSxzMJMuPlua1i0m) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Give Love On Christmas Day](https://open.spotify.com/album/6NgUaJKXTR2N2H2aSfj0Of) | 2:47 |
+| 23 | [Twelve Days Of Christmas](https://open.spotify.com/track/67BkXkBDWcPVWVNkBGiFvA) | [The Rose Thorns](https://open.spotify.com/artist/74vreNdorDoDuid4Jgmy7p) | [Twelve Days Of Christmas](https://open.spotify.com/album/2Y40iENowik3TeGiUpXQSI) | 3:28 |
+| 24 | [white christmas](https://open.spotify.com/track/26ivtKYwzmHuUAsQvDx7hh) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [white christmas](https://open.spotify.com/album/1Xw5gJEsHUa1uEVirBA09O) | 2:14 |
+| 25 | [Christmas Lights](https://open.spotify.com/track/6SDEX8g7tENxi7yt3wc2WB) | [Lauren Mae](https://open.spotify.com/artist/2SJ3QBBonLqrF3E5kYIqy1) | [Christmas Lights](https://open.spotify.com/album/3Ll4IXkj26FCgOUP3ch3Ns) | 3:15 |
+| 26 | [Do They Know It's Christmas](https://open.spotify.com/track/0Mlv2PQsXoSGzBVb06UYM3) | [The Local Bros.](https://open.spotify.com/artist/2eArGWvPUKX6H63vH4w0bZ) | [Do They Know It's Christmas](https://open.spotify.com/album/2QRW3nUC5J3Fd3aaZ4KkpZ) | 2:54 |
+| 27 | [It's the Holiday Season](https://open.spotify.com/track/1bgd7mWTXuT2DRWvU9QfXO) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [It's the Holiday Season](https://open.spotify.com/album/0nsxpYaQkE4WuR5BIN4dZC) | 2:46 |
 | 28 | [Oh, What a Merry Christmas Day](https://open.spotify.com/track/1UVtVJ2PyzFVxASoyCKZH5) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Oh, What a Merry Christmas Day](https://open.spotify.com/album/4byYCx7X0hTKcp5WXgJOaz) | 1:48 |
-| 29 | [Christmas Lights](https://open.spotify.com/track/6SDEX8g7tENxi7yt3wc2WB) | [Lauren Mae](https://open.spotify.com/artist/2SJ3QBBonLqrF3E5kYIqy1) | [Christmas Lights](https://open.spotify.com/album/3Ll4IXkj26FCgOUP3ch3Ns) | 3:15 |
+| 29 | [Give Love On Christmas Day](https://open.spotify.com/track/1fdhf6xSxzMJMuPlua1i0m) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Give Love On Christmas Day](https://open.spotify.com/album/6NgUaJKXTR2N2H2aSfj0Of) | 2:47 |
 | 30 | [The Christmas Song](https://open.spotify.com/track/1sAlac3gG6dx5qZc7rwUeJ) | [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [The Christmas Song](https://open.spotify.com/album/2EwmiOHTcxXG3sKx8pDWUk) | 3:07 |
-| 31 | [Christmas Night in Harlem](https://open.spotify.com/track/6fIaZ5949Dd9ULjCFkg3lw) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Christmas Night in Harlem](https://open.spotify.com/album/2IC6jB9Zn6A6ZfyLSoXzS2) | 2:33 |
-| 32 | [My Grown\-Up Christmas List \- Acoustic](https://open.spotify.com/track/7ssaj3OghFAI8gMvTRbdak) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [My Grown\-Up Christmas List \(Acoustic\)](https://open.spotify.com/album/7DZUNrDWRLi5FF9Vf2qD7V) | 3:30 |
+| 31 | [My Grown\-Up Christmas List \- Acoustic](https://open.spotify.com/track/7ssaj3OghFAI8gMvTRbdak) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [My Grown\-Up Christmas List \(Acoustic\)](https://open.spotify.com/album/7DZUNrDWRLi5FF9Vf2qD7V) | 3:30 |
+| 32 | [Christmas Night in Harlem](https://open.spotify.com/track/6fIaZ5949Dd9ULjCFkg3lw) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Christmas Night in Harlem](https://open.spotify.com/album/2IC6jB9Zn6A6ZfyLSoXzS2) | 2:33 |
 | 33 | [Silver Bells](https://open.spotify.com/track/1DGVKHvSovt0RxmUbM3FTL) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Silver Bells](https://open.spotify.com/album/78N8S8sfJLT4kMDkzftwTi) | 3:12 |
 | 34 | [Auld lang syne](https://open.spotify.com/track/0YdgUN2Am0zQzKY4eP6IsA) | [Anna Engh](https://open.spotify.com/artist/5jKDOWw2w1xzj7M0wg4A9i) | [Auld lang syne](https://open.spotify.com/album/2IZUszlSkfGgYD9wJRacEM) | 3:19 |
 | 35 | [Mary's Boy Child](https://open.spotify.com/track/2jC2rZIaQgX5omQTRzuuyx) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Mary's Boy Child](https://open.spotify.com/album/1N5IesmEO5VMlR2ONpybXI) | 1:57 |

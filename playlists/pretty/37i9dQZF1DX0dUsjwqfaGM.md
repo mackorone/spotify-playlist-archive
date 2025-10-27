@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,118 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,119 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 27 | [traplock](https://open.spotify.com/track/5qpJGttNQHtVTbF6dCXz0W) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [re:imaGined \(“GB” deluxe version\)](https://open.spotify.com/album/78ugKiEPOPq1taDCRjT8p3) | 3:10 |
 | 28 | [Hoàng Ku](https://open.spotify.com/track/2sCggTNr9EqiP7W97tnAIa) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Hoàng Ku](https://open.spotify.com/album/63sY910Q108Te3OjWqt1KH) | 3:03 |
 | 29 | [Sau Tấm Rèm](https://open.spotify.com/track/2vTDpUUNROmQ3jMtHOGyNX) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [Sau Tấm Rèm](https://open.spotify.com/album/7EgeAEPfjYha527vC4tiqX) | 3:17 |
-| 30 | [Anh Nói Hay Em Nói \- TCO Remake](https://open.spotify.com/track/14xXTLUrseZwhq8nRGW44I) | [Ánh Sáng](https://open.spotify.com/artist/6YVVpXPqtwAZqKOPWnbNDW), [Fu liu](https://open.spotify.com/artist/37uExtaLxB5MyITRZaVXF7) | [Anh Nói Hay Em Nói \(TCO Remake\)](https://open.spotify.com/album/7ynVqpnNPuQtBOSCARjYnf) | 2:51 |
+| 30 | [Ẩn](https://open.spotify.com/track/2fEAbrP5PodWRONM6LVhkl) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Linh Cáo](https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm) | [Ẩn](https://open.spotify.com/album/4BCmL4NwY1Kh8xX6T6oPJo) | 3:16 |
 | 31 | [Tan Ca](https://open.spotify.com/track/6wiZj290wIL3afV18Q0Yet) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 4:08 |
-| 32 | [Ẩn](https://open.spotify.com/track/2fEAbrP5PodWRONM6LVhkl) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Linh Cáo](https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm) | [Ẩn](https://open.spotify.com/album/4BCmL4NwY1Kh8xX6T6oPJo) | 3:16 |
+| 32 | [Anh Nói Hay Em Nói \- TCO Remake](https://open.spotify.com/track/14xXTLUrseZwhq8nRGW44I) | [Ánh Sáng](https://open.spotify.com/artist/6YVVpXPqtwAZqKOPWnbNDW), [Fu liu](https://open.spotify.com/artist/37uExtaLxB5MyITRZaVXF7) | [Anh Nói Hay Em Nói \(TCO Remake\)](https://open.spotify.com/album/7ynVqpnNPuQtBOSCARjYnf) | 2:51 |
 | 33 | [Benz ft\. V\# \(prod\. Larria.\)](https://open.spotify.com/track/1uVpjVKIJrNtN71I5IkwmO) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om), [Larria.](https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 3:17 |
 | 34 | [City](https://open.spotify.com/track/4l29bX8C0UAVsIfxPfGOKY) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [SOS/City](https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw) | 4:19 |
 | 35 | [FASHION RAPPER](https://open.spotify.com/track/29FDEPPwf4LjoW8TYSm5FO) | [PRVCY Rockey](https://open.spotify.com/artist/5p9R1ybhn6OZx7o7KrQtBB), [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Adam, The Litder](https://open.spotify.com/artist/0qP6hoW9mIcHEbZXd2xPPT) | [FASHION RAPPER](https://open.spotify.com/album/2YQqegcepgvng3OTOC9XaW) | 3:25 |

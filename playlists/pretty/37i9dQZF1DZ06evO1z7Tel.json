@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 37301,
+  "num_followers": 37314,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAAClUX6UIZLZ7XunQF5NDWXW",
+  "snapshot_id": "aPwTAAAAAADuFN15zkCaOwMfkpHDpFY2",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 157701,
-      "name": "De Esta Sierra a la Otra Sierra",
-      "url": "https://open.spotify.com/track/4Ka9s1TF4VVTATe9TufX87"
+      "duration_ms": 233482,
+      "name": "Jacinto el Tullido",
+      "url": "https://open.spotify.com/track/3eKPWrgEf4r4i6XDtoUZrd"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 233482,
-      "name": "Jacinto el Tullido",
-      "url": "https://open.spotify.com/track/3eKPWrgEf4r4i6XDtoUZrd"
+      "duration_ms": 157701,
+      "name": "De Esta Sierra a la Otra Sierra",
+      "url": "https://open.spotify.com/track/4Ka9s1TF4VVTATe9TufX87"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Otro Amor",
-        "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 164826,
-      "name": "Dos Seres Que Se Aman",
-      "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
+      "duration_ms": 193567,
+      "name": "Con Cartitas",
+      "url": "https://open.spotify.com/track/5vy3RUI5XmNvAttY7IhFyo"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos de Coleccion",
-        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
+        "name": "Busca Otro Amor",
+        "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 193567,
-      "name": "Con Cartitas",
-      "url": "https://open.spotify.com/track/5vy3RUI5XmNvAttY7IhFyo"
+      "duration_ms": 164826,
+      "name": "Dos Seres Que Se Aman",
+      "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Nuestro Bien",
-        "url": "https://open.spotify.com/album/6vu03Cw5oDyd3rS4cmsB1a"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 193946,
-      "name": "Cuenta Cobrada",
-      "url": "https://open.spotify.com/track/4UytravBJOMST6t7qoa31Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Gallo De San Juan",
         "url": "https://open.spotify.com/album/0cBPDXzhU6hz9go0STNn9p"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 198626,
       "name": "El Gallo De San Juan",
       "url": "https://open.spotify.com/track/4oK6HoJpq8pFdSg3AvO2CC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Nuestro Bien",
+        "url": "https://open.spotify.com/album/6vu03Cw5oDyd3rS4cmsB1a"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "Cuenta Cobrada",
+      "url": "https://open.spotify.com/track/4UytravBJOMST6t7qoa31Z"
     },
     {
       "added_at": null,

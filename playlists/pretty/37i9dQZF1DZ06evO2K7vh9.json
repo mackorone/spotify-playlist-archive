@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 99587,
+  "num_followers": 99609,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAABd6deeRusWI1tDKeHlmmdh",
+  "snapshot_id": "aPwTAAAAAADZTzcOPrWmaIiTrOnsB6ur",
   "tracks": [
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/0YPBdNZyGlXr69hiCAJO5m"
-      },
-      "artists": [
-        {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 173806,
-      "name": "Poppin",
-      "url": "https://open.spotify.com/track/6eLY5NX9HkvAtrvRrPOW0F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JETSKI",
         "url": "https://open.spotify.com/album/0E3nVyJnesYyyr9GQAJqZl"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 165161,
       "name": "JETSKI",
       "url": "https://open.spotify.com/track/4gtZjfZN7FBrF562pv0K4f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/0YPBdNZyGlXr69hiCAJO5m"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 173806,
+      "name": "Poppin",
+      "url": "https://open.spotify.com/track/6eLY5NX9HkvAtrvRrPOW0F"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Daniel Caesar, Leon Thomas, Alexander Stewart, Selena Gomez, The Strumbellas, Les Trois Accords and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,928 likes - 101 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,905 likes - 101 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

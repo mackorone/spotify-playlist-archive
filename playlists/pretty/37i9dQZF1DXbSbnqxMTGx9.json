@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3158048,
+  "num_followers": 3158291,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Reggae Classics",
-        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
-      },
-      "artists": [
-        {
-          "name": "Garland Jeffreys",
-          "url": "https://open.spotify.com/artist/6BLhUZMqXO8eXjhToNRteA"
-        }
-      ],
-      "duration_ms": 275320,
-      "name": "Graveyard Rock",
-      "url": "https://open.spotify.com/track/11nF2K1iXn9Ettln1Nc29b"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
         "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 167533,
       "name": "Hold Them",
       "url": "https://open.spotify.com/track/2JHyRO7aEJH0UXOjZQ7m0r"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Reggae Classics",
+        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
+      },
+      "artists": [
+        {
+          "name": "Garland Jeffreys",
+          "url": "https://open.spotify.com/artist/6BLhUZMqXO8eXjhToNRteA"
+        }
+      ],
+      "duration_ms": 275320,
+      "name": "Graveyard Rock",
+      "url": "https://open.spotify.com/track/11nF2K1iXn9Ettln1Nc29b"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "1000 Volts of Holt (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1bRaF6zDhFQuPqBxozEqcs"
+        "name": "Ska & Reggae Classics",
+        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
       },
       "artists": [
         {
-          "name": "John Holt",
-          "url": "https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu"
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
         }
       ],
-      "duration_ms": 318106,
-      "name": "Mr. Bojangles",
-      "url": "https://open.spotify.com/track/7ouKT7R4BgwvAtoyzR8gCc"
+      "duration_ms": 190760,
+      "name": "54-46 Was My Number",
+      "url": "https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1491,6 +1491,22 @@
       "duration_ms": 187106,
       "name": "Stir It Up",
       "url": "https://open.spotify.com/track/452CB7U24P2K6HiBS4PRY4"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "1000 Volts of Holt (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1bRaF6zDhFQuPqBxozEqcs"
+      },
+      "artists": [
+        {
+          "name": "John Holt",
+          "url": "https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu"
+        }
+      ],
+      "duration_ms": 318106,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/7ouKT7R4BgwvAtoyzR8gCc"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1579,6 +1595,38 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "The Harder They Come",
+        "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "The Harder They Come - From \"The Harder They Come\" Soundtrack",
+      "url": "https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Ska & Reggae Classics",
+        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
+      },
+      "artists": [
+        {
+          "name": "Ken Boothe",
+          "url": "https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Everything I Own",
+      "url": "https://open.spotify.com/track/5l1w4vYo1UJSauY3Sh5Dxi"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "The Treasure Isle Story",
         "url": "https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI"
       },
@@ -1595,54 +1643,6 @@
       "duration_ms": 154253,
       "name": "Blackbird Singing",
       "url": "https://open.spotify.com/track/6jNKJ3tW2MOApL3cYMSj4L"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Ball Of Fire",
-        "url": "https://open.spotify.com/album/6He3DScEiZKly2g5CFFqmi"
-      },
-      "artists": [
-        {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
-        }
-      ],
-      "duration_ms": 384800,
-      "name": "Swing Easy",
-      "url": "https://open.spotify.com/track/4snbdgmZZH2Nqt3aIp5DqF"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "The Definitive Collection: You Can Get It If You Really Want",
-        "url": "https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dekker",
-          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
-        }
-      ],
-      "duration_ms": 155986,
-      "name": "Israelites",
-      "url": "https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Ska & Reggae Classics",
-        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "54-46 Was My Number",
-      "url": "https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7"
     }
   ],
   "unique_name": "Reggae Classics",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Tessi Nandi
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,253 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,300 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 15 | [Background](https://open.spotify.com/track/5M09sbohE6PzEuSqUIHoRl) | [Joshua Morris](https://open.spotify.com/artist/0fgysuyIdg2ZjnSePctoPn) | [Background](https://open.spotify.com/album/0f2ru6YP1uVc9rG082XFyi) | 5:22 |
 | 16 | [If I'm Honest](https://open.spotify.com/track/0tD9T9R7BiDk2kCTfQhhBm) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [If I'm Honest](https://open.spotify.com/album/0Ip4W5tgCDkTWkBJnDH41q) | 2:48 |
 | 17 | [Joyce Buyers Method](https://open.spotify.com/track/3IsTEeUvjblUnfHzuH88WO) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Gravity In Grief](https://open.spotify.com/album/3mSuIse2hJFrGkiJl7bmrE) | 3:56 |
-| 18 | [Mighty](https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Mighty](https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3) | 3:53 |
-| 19 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 |
+| 18 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 |
+| 19 | [Mighty](https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Mighty](https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3) | 3:53 |
 | 20 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [THOSE WHO ARE AGAINST US ALL THE TIME](https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK) | 3:21 |
 | 21 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
 | 22 | [Garden](https://open.spotify.com/track/08Xb8OzpczP9gpuxyzGsm3) | [Justin Prins](https://open.spotify.com/artist/7BxTlyY52WY7TaBkNOWP0C) | [Garden](https://open.spotify.com/album/0NSN6eSSvqdHsCpZOAQL5y) | 4:05 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 56 | [PETER AND JESUS](https://open.spotify.com/track/0fyEtqKrSAAoSO0isqyFc4) | [burningforestboy](https://open.spotify.com/artist/44JiNZ7Zxi7IDh6njqD55M) | [PETER AND JESUS](https://open.spotify.com/album/0KSx0TO3RHggizzeLtDagf) | 2:07 |
 | 57 | [Citrus](https://open.spotify.com/track/45bXXyFCZPrRDIdhjaQUHU) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [Citrus](https://open.spotify.com/album/35wtAN1hExKJFtW18MUpIX) | 3:07 |
 | 58 | [We Live To Die](https://open.spotify.com/track/0RsbZTC7nsztMRjdo1xI6M) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [We Live To Die](https://open.spotify.com/album/3h9o8HQ6bh24IY5BjXlZD6) | 3:06 |
-| 59 | [Lost My Mind](https://open.spotify.com/track/6XUV1VSMXuAfQacsy4AORj) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Lost My Mind](https://open.spotify.com/album/2OKt1XZRrtqkpf649qNbzf) | 3:02 |
-| 60 | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/track/6P6NBxeNQTQIu1ZGpoTwks) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/album/2uRLG0A0JXYaXfe0zLCbrR) | 2:14 |
+| 59 | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/track/6P6NBxeNQTQIu1ZGpoTwks) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/album/2uRLG0A0JXYaXfe0zLCbrR) | 2:14 |
+| 60 | [Lost My Mind](https://open.spotify.com/track/6XUV1VSMXuAfQacsy4AORj) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Lost My Mind](https://open.spotify.com/album/2OKt1XZRrtqkpf649qNbzf) | 3:02 |
 | 61 | [Porcelain Moon](https://open.spotify.com/track/1pnvK9r4V8ktJC9jFagiZs) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Porcelain Moon](https://open.spotify.com/album/3lYjJhcfPkusexhUBcUA6P) | 3:59 |
 | 62 | [All That I Am](https://open.spotify.com/track/6VcJDLVNppqqFHGkQcs0kb) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6) | [All That I Am](https://open.spotify.com/album/0Q3mPbwZR61xAOsvtXA95R) | 2:23 |
 | 63 | [CRAZY SEXY PERFECT GIRLS](https://open.spotify.com/track/2yK4TLFFCgLUmTWyQoY8qj) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN) | 1:56 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 74 | [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 |
 | 75 | [The Coffee Song](https://open.spotify.com/track/1Ah4lhKd037z5lbG7BO7of) | [Louis Island](https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft) | [The Coffee Song](https://open.spotify.com/album/1apdfQVzlefD9wbTQrMCkN) | 2:21 |
 | 76 | [get lifted](https://open.spotify.com/track/5m5DkPYIRY7nPMTrM0sDIK) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:01 |
-| 77 | [Runaway](https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Seyyoh](https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h) | [In Pursuit Of Happiness](https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb) | 2:39 |
-| 78 | [Kú yâk ñtuà éyét](https://open.spotify.com/track/54kVmozEcghsPjSXk8uHvm) | [Etuk Ubong](https://open.spotify.com/artist/1vb5a9BPGYGCGt0zFQ4up7) | [Kú yâk ñtuà éyét](https://open.spotify.com/album/3j2J214yaLBbnBUQL4W8R6) | 5:51 |
+| 77 | [Kú yâk ñtuà éyét](https://open.spotify.com/track/54kVmozEcghsPjSXk8uHvm) | [Etuk Ubong](https://open.spotify.com/artist/1vb5a9BPGYGCGt0zFQ4up7) | [Kú yâk ñtuà éyét](https://open.spotify.com/album/3j2J214yaLBbnBUQL4W8R6) | 5:51 |
+| 78 | [Runaway](https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Seyyoh](https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h) | [In Pursuit Of Happiness](https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb) | 2:39 |
 | 79 | [Anchor](https://open.spotify.com/track/5aWd3x5i3VGHddzSZAupS3) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Anchor](https://open.spotify.com/album/27Xoq5t9AawWqgS2goiUiE) | 3:22 |
-| 80 | [Sugar Rush](https://open.spotify.com/track/2biDEbOgHPFrFBFDSU6VZl) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Sugar Rush](https://open.spotify.com/album/5W4zIRDdgp5y3N0AzxGSmL) | 2:58 |
+| 80 | [eyes\~](https://open.spotify.com/track/4jTlIwyg9WkHxnGYAV5oBZ) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [when the night ends](https://open.spotify.com/album/0OMAhbCagKggdTIRe1ZwK3) | 3:27 |
 
 Snapshot ID: `AAAAANF6bM5fGXeMfF7FsPuL33oPe4Cx`

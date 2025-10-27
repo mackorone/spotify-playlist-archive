@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-468 songs - 1 day 1 hr 18 min
+469 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Attention \- Acoustic](https://open.spotify.com/track/2bKS7HtZ9Cy4K7NGeRlePF) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Attention \(Acoustic\)](https://open.spotify.com/album/08BovLE1x4JHA0zJz07Oaw) | 3:26 | 2021-03-11 | 2022-07-29 |
 | [Attention \- Acoustic](https://open.spotify.com/track/2xp0omM9ej1ErRQ1J5kKnA) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Quiet Moment Ballads](https://open.spotify.com/album/3GsjwdiCGkKqD51G4NRtI8) | 3:26 | 2022-10-26 | 2022-11-13 |
 | [Attention \- Acoustic](https://open.spotify.com/track/4I8s6vwzHT2geqH91w2Dyg) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Attention \(Acoustic + Remixes\)](https://open.spotify.com/album/4y0Z0P5jwoy0e6x9aeG8QP) | 3:26 | 2021-03-11 | 2022-12-02 |
+| [Azizam](https://open.spotify.com/track/4Ut1VfHTAInGyjdzX3gDqZ) | [TWIN BEE](https://open.spotify.com/artist/7ojrDGf1QCVnNN3E0N5hKh) | [Azizam](https://open.spotify.com/album/2EewwLUoTMjlBxexUZzUCm) | 2:27 | 2025-10-14 |  |
 | [Back to Black](https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [Back to Black](https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9) | 3:03 | 2023-08-10 |  |
 | [Bad Habits](https://open.spotify.com/track/25TzyGcqLbVgC0H0kpYRjM) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Bad Habits](https://open.spotify.com/album/46M6KC4TbTMf4y39aZezz6) | 3:58 | 2022-08-31 | 2023-10-28 |
 | [Barbie Girl](https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9) | [Jill & Jane](https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG) | [Barbie Girl](https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD) | 2:50 | 2023-08-10 | 2025-10-15 |
@@ -335,7 +336,7 @@
 | [Out Of My Head And Back In My Bed](https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Out Of My Head And Back In My Bed](https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M) | 3:10 | 2023-10-27 |  |
 | [Overpass Graffiti](https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Overpass Graffiti](https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC) | 3:46 | 2022-08-31 |  |
 | [Parachute](https://open.spotify.com/track/0LYQVYp8WakLB6RSyOXNBM) | [Vide](https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539) | [Parachute](https://open.spotify.com/album/7iXzUCCibpn6n3ujGDg7XK) | 2:04 | 2021-03-11 | 2023-10-28 |
-| [People](https://open.spotify.com/track/0uXTFIFDxA7Wxaq56rhN9C) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [People](https://open.spotify.com/album/3HF431lIPIv0IGcVUpmnxW) | 2:52 | 2023-06-08 |  |
+| [People](https://open.spotify.com/track/0uXTFIFDxA7Wxaq56rhN9C) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [People](https://open.spotify.com/album/3HF431lIPIv0IGcVUpmnxW) | 2:52 | 2023-06-08 | 2025-10-27 |
 | [Photograph](https://open.spotify.com/track/6CgNoAbFJ4Q4Id4EjtbXlC) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 4](https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD) | 4:20 | 2022-11-25 | 2023-10-28 |
 | [Pillow Talk \(Acoustic\)](https://open.spotify.com/track/3u1RjvWGVcVWPUMMbhDaA7) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Pillow Talk \(Acoustic\)](https://open.spotify.com/album/3zmJKO6OA2iy1J2ml9nvGz) | 3:30 | 2022-10-26 | 2023-10-28 |
 | [Pillowtalk](https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Pillowtalk](https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz) | 2:33 | 2023-01-04 | 2025-10-26 |

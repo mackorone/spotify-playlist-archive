@@ -2,7 +2,7 @@
 
 ### [Indie Mexicano: Clásicos](https://open.spotify.com/playlist/37i9dQZF1DXe4qIBASHIrI)
 
-> Los temas esenciales de la escena independiente nacional\. Austin TV en portada.
+> Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
 157 songs - 10 hr 14 min
 

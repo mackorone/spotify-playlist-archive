@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Süßes sonst gibt's Saures! 🎃
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,128 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,260 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,17 +65,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 55 | [Wenn die Fledermäuse tanzen](https://open.spotify.com/track/4MeA9SGzhfPXmwYOJGolZo) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena Und Die Bambus Bären Bande](https://open.spotify.com/album/5zMipqCNwLqTYXMSo3qJpa) | 2:42 |
 | 56 | [Süßes, sonst gibt's Saures](https://open.spotify.com/track/54zJZ4DNIccdsYjwxtjO2B) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für Halloween](https://open.spotify.com/album/1NgmH5DfPZSHFPfzmbLZji) | 2:44 |
 | 57 | [Buh, buh, buh, wer hat sich erschreckt? \- Halloween Dance Mix](https://open.spotify.com/track/0q4XraeC444Cp2pSobAYqG) | [Kati Stern und Fumsi](https://open.spotify.com/artist/5SkuvgfRoqpjtQ7CZuMkU9) | [Buh, buh, buh, wer hat sich erschreckt? \(Halloween\)](https://open.spotify.com/album/3f7rlFxNisYPjdDczaCuYv) | 2:47 |
-| 58 | [Monster sind furchtbar](https://open.spotify.com/track/0hjaUOYr74luB7uhEVswQ9) | [Lauras Stern](https://open.spotify.com/artist/0xY8w0o3cSH3gzx4G4h8qD) | [Und die Traummonster \(Das Liederalbum zum Kinofilm\)](https://open.spotify.com/album/5rOYhAMUVFcoQSSRvhzEGe) | 3:28 |
+| 58 | [Die Mumie](https://open.spotify.com/track/7j2XZGP8gc8Yx0JWUwj5vs) | [Randale](https://open.spotify.com/artist/4W5SdFkLM45RQ1cD09LfjN) | [Die Mumie](https://open.spotify.com/album/3ul7iuQaVi85FwdXHAcBBI) | 3:55 |
 | 59 | [Monstertanz](https://open.spotify.com/track/1f7uRXBYPTZlq4uReNhFkY) | [Lila Lindwurm](https://open.spotify.com/artist/0PFXbbuM2IbvroXt2nGDoj) | [Monsterquatsch und Wackelzähne](https://open.spotify.com/album/4bE9UWQnSHZNN8xfAbSjvE) | 2:50 |
-| 60 | [Die Mumie](https://open.spotify.com/track/7j2XZGP8gc8Yx0JWUwj5vs) | [Randale](https://open.spotify.com/artist/4W5SdFkLM45RQ1cD09LfjN) | [Die Mumie](https://open.spotify.com/album/3ul7iuQaVi85FwdXHAcBBI) | 3:55 |
+| 60 | [Monster sind furchtbar](https://open.spotify.com/track/0hjaUOYr74luB7uhEVswQ9) | [Lauras Stern](https://open.spotify.com/artist/0xY8w0o3cSH3gzx4G4h8qD) | [Und die Traummonster \(Das Liederalbum zum Kinofilm\)](https://open.spotify.com/album/5rOYhAMUVFcoQSSRvhzEGe) | 3:28 |
 | 61 | [Mo\-Mo\-Monster](https://open.spotify.com/track/47r3zekBd9J7z9NZkw3Cmm) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für Halloween](https://open.spotify.com/album/1NgmH5DfPZSHFPfzmbLZji) | 2:31 |
 | 62 | [Klapprige Knochen](https://open.spotify.com/track/7s7HHMpOqIklT2QAS1Kyyc) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Das Kamel tanzt gern Cha Cha Cha](https://open.spotify.com/album/5CR8hZVrX8rTT2L2ZgCAb8) | 2:53 |
 | 63 | [Halloweenparty im Kinderhaus](https://open.spotify.com/track/1YfNhJPhbmjhYsAfWU580m) | [Bettina Göschl](https://open.spotify.com/artist/2251fylYeBdwEiMHin6jeA), [Ulrich Maske](https://open.spotify.com/artist/1sW5adZ5VrzGmAZMIY0VSG), [Klaus\-Peter Wolf](https://open.spotify.com/artist/4uJ3i5zuKgoTPuz0pSZreo), [Matthias Meyer\-Göllner](https://open.spotify.com/artist/3wSCObv8i1PanMKLjj3hhC) | [Wir tanzen mit den Drachen im Wind \(Lieder, Geschichten und Gedichte zur Herbstzeit\)](https://open.spotify.com/album/1q5GB9X82GVAQTrTYVghkU) | 2:13 |
 | 64 | [Drei kleine Hexen](https://open.spotify.com/track/7prmyyJSIZbY7ZwlczWG0T) | [Rainer Wenzel](https://open.spotify.com/artist/0Pqj7d09m594nU0ckKJ9vh) | [Au Backe!](https://open.spotify.com/album/15TCbswxpNzD23AJJIG78I) | 2:48 |
-| 65 | [Das Spukhaus in der Siedlung](https://open.spotify.com/track/6gnVw7Sxpxt8D64CZM5hjv) | [Autoscooter Joe](https://open.spotify.com/artist/5BBLRqJIzCbM8ESlNFSqV7) | [Das Spukhaus in der Siedlung](https://open.spotify.com/album/3z03DJIRM6mWVR4CqMYlQP) | 1:53 |
+| 65 | [Tobi der Zombie](https://open.spotify.com/track/3aPtQOpFOu2QeKjPMFrMcf) | [Autoscooter Joe](https://open.spotify.com/artist/5BBLRqJIzCbM8ESlNFSqV7) | [Tobi der Zombie](https://open.spotify.com/album/3jr06XZuKyLXBLfJ3ljfQW) | 3:38 |
 | 66 | [Halloween steht vor der Tür](https://open.spotify.com/track/1xYmVPJj7JPLJPiC3Iw7iR) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für Halloween](https://open.spotify.com/album/1NgmH5DfPZSHFPfzmbLZji) | 2:23 |
 | 67 | [Gruselspaß \(Halloween Song\)](https://open.spotify.com/track/4QdfKi2AnJNCuJ4P4JlkT2) | [Die YOGINIES](https://open.spotify.com/artist/5hbIfxyCLfGEvbpGRB568h) | [Gruselspaß \(Halloween Song\)](https://open.spotify.com/album/6ylnywel7IibbP58oX3IoS) | 2:25 |
-| 68 | [Tobi der Zombie](https://open.spotify.com/track/3aPtQOpFOu2QeKjPMFrMcf) | [Autoscooter Joe](https://open.spotify.com/artist/5BBLRqJIzCbM8ESlNFSqV7) | [Tobi der Zombie](https://open.spotify.com/album/3jr06XZuKyLXBLfJ3ljfQW) | 3:38 |
+| 68 | [Das Spukhaus in der Siedlung](https://open.spotify.com/track/6gnVw7Sxpxt8D64CZM5hjv) | [Autoscooter Joe](https://open.spotify.com/artist/5BBLRqJIzCbM8ESlNFSqV7) | [Das Spukhaus in der Siedlung](https://open.spotify.com/album/3z03DJIRM6mWVR4CqMYlQP) | 1:53 |
 | 69 | [Zombietanz](https://open.spotify.com/track/2Gu8F5VBvCKFbbSKpQpFZP) | [Minidisco Deutsch](https://open.spotify.com/artist/6wHvqVUezhjP2pNemRLyIY) | [Minidisco International Songs 6](https://open.spotify.com/album/6vnhWWzx6Bzk7J3q6BZ2eL) | 2:54 |
 | 70 | [Der Vampir](https://open.spotify.com/track/4FlV1Nn9kpVEJ3qprLc6Gx) | [Eddi & Dän](https://open.spotify.com/artist/16bEAeEFFLi2M6zQuI439D) | [Eddi & Dän singen neue Kinderlieder a cappella, Vol\. 2](https://open.spotify.com/album/7oeEW2bXn0HN2AzoPEIGiv) | 2:36 |
 

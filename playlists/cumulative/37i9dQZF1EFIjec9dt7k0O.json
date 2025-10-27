@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258233,
+      "name": "Church & State",
+      "url": "https://open.spotify.com/track/3y3RHjj31HtHZEw9zkEoQI"
+    },
+    {
+      "album": {
         "name": "Church & State",
         "url": "https://open.spotify.com/album/4mSxlj7I4IMesbwpS28EU0"
       },
@@ -874,7 +892,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 258233,
       "name": "Church & State",
       "url": "https://open.spotify.com/track/7qPMj3byKOvzXbWECLViNP"
@@ -2228,6 +2246,24 @@
       "duration_ms": 218140,
       "name": "How Long",
       "url": "https://open.spotify.com/track/3oLjGEDskvIB1jwUgnD9mB"
+    },
+    {
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260065,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq"
     },
     {
       "album": {

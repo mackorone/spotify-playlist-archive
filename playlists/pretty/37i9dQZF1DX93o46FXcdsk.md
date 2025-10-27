@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 00's\. Cover: Guus Meeuwis
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,452 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,460 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 | 49 | [Kijk Omhoog](https://open.spotify.com/track/3Ka2Ti5ZreEHlp9R7BXyOj) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Herinneringen Het Beste van Nick & Simon Top 100](https://open.spotify.com/album/3OCPo87VO0wfOXVclPdujA) | 2:56 |
 | 50 | [Hier Kom Ik Weg](https://open.spotify.com/track/3tuMKNEdIbv43UEM5eYa7f) | [Daniël Lohues](https://open.spotify.com/artist/5hmWcPzWxojagG5Q8IMrI6) | [Allennig II](https://open.spotify.com/album/2bhzeZwCHPwmJZm13SgiYS) | 3:28 |
 
-Snapshot ID: `AAAAALUpbhptOzIKgF9qQkOveXveJY+G`
+Snapshot ID: `AAAAAIHsyW3nHAi/RO20zwVPvjzaAR7W`

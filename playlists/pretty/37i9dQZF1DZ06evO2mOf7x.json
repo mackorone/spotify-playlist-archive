@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 46623,
+  "num_followers": 46642,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAABG8QzhqV2vhj2cwlIYKAC/",
+  "snapshot_id": "aPwTAAAAAACCoOsM3Pn2YE6jLZHobXlm",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 185786,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/3s3pbToR5GZYv7lis5utk1"
+      "duration_ms": 275893,
+      "name": "Lo Busqu\u00e9",
+      "url": "https://open.spotify.com/track/7ceiXwNZ2DwNIJ54tsJwRY"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 275893,
-      "name": "Lo Busqu\u00e9",
-      "url": "https://open.spotify.com/track/7ceiXwNZ2DwNIJ54tsJwRY"
+      "duration_ms": 185786,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/3s3pbToR5GZYv7lis5utk1"
     },
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vozes",
-        "url": "https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 150148,
       "name": "A Mi Me Respetas",
       "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vozes",
+        "url": "https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jake Worthington",
-  "num_followers": 405704,
+  "num_followers": 405694,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-10-24 04:00:21",
       "album": {
+        "name": "Just Call My Number",
+        "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
+      },
+      "artists": [
+        {
+          "name": "Tristan Roberson",
+          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Just Call My Number",
+      "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
+    },
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/5fSCA9ESxtQPp2njYQlDBp"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 296875,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2z8n9qmI7YDfO2IA7dssja"
-    },
-    {
-      "added_at": "2025-10-24 04:00:21",
-      "album": {
-        "name": "Just Call My Number",
-        "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
-      },
-      "artists": [
-        {
-          "name": "Tristan Roberson",
-          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Just Call My Number",
-      "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
     },
     {
       "added_at": "2025-10-24 04:00:21",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-10-24 04:00:21",
       "album": {
+        "name": "A Cat in the Rain",
+        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "Chipping Mill",
+      "url": "https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID"
+    },
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
         "name": "Fort Worth",
         "url": "https://open.spotify.com/album/6UoQs8c0c0F9uiJ73jkYd8"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 216796,
       "name": "Fort Worth",
       "url": "https://open.spotify.com/track/4fsfmBOOxwMOJ7DzibpfU5"
-    },
-    {
-      "added_at": "2025-10-24 04:00:21",
-      "album": {
-        "name": "A Cat in the Rain",
-        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "Chipping Mill",
-      "url": "https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID"
     },
     {
       "added_at": "2025-10-24 04:00:21",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-10-24 04:00:21",
       "album": {
-        "name": "Worry is a Sickness",
-        "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
-      },
-      "artists": [
-        {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
-        }
-      ],
-      "duration_ms": 254836,
-      "name": "Worry is a Sickness",
-      "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
-    },
-    {
-      "added_at": "2025-10-24 04:00:21",
-      "album": {
         "name": "Wherever I Am",
         "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2025-10-24 04:00:21",
       "album": {
-        "name": "Pontiac (So Tell Me Momma)",
-        "url": "https://open.spotify.com/album/5jvRzaDo39gKBZG8b7Xzsh"
+        "name": "Worry is a Sickness",
+        "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
       },
       "artists": [
         {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
         }
       ],
-      "duration_ms": 225379,
-      "name": "Pontiac (So Tell Me Momma)",
-      "url": "https://open.spotify.com/track/5z8WoQwsdV0ci7GuE4TQND"
+      "duration_ms": 254836,
+      "name": "Worry is a Sickness",
+      "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
     },
     {
       "added_at": "2025-10-24 04:00:21",
@@ -971,6 +955,22 @@
       "duration_ms": 228557,
       "name": "Like She Does",
       "url": "https://open.spotify.com/track/7vLzS4QoDV2wP9zfvdhVgd"
+    },
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "Pontiac (So Tell Me Momma)",
+        "url": "https://open.spotify.com/album/5jvRzaDo39gKBZG8b7Xzsh"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 225379,
+      "name": "Pontiac (So Tell Me Momma)",
+      "url": "https://open.spotify.com/track/5z8WoQwsdV0ci7GuE4TQND"
     },
     {
       "added_at": "2025-10-24 04:00:21",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-10-24 04:00:21",
       "album": {
-        "name": "Broke Umbrella",
-        "url": "https://open.spotify.com/album/6zCrDjTnw73WVSCmpkrCoO"
-      },
-      "artists": [
-        {
-          "name": "Cameron Sacky Band",
-          "url": "https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0"
-        }
-      ],
-      "duration_ms": 245589,
-      "name": "Broke Umbrella",
-      "url": "https://open.spotify.com/track/4GY7J4ecSUU3wkyIU5GZbs"
-    },
-    {
-      "added_at": "2025-10-24 04:00:21",
-      "album": {
         "name": "The Show",
         "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 208477,
       "name": "The Show",
       "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
+    },
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "Broke Umbrella",
+        "url": "https://open.spotify.com/album/6zCrDjTnw73WVSCmpkrCoO"
+      },
+      "artists": [
+        {
+          "name": "Cameron Sacky Band",
+          "url": "https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0"
+        }
+      ],
+      "duration_ms": 245589,
+      "name": "Broke Umbrella",
+      "url": "https://open.spotify.com/track/4GY7J4ecSUU3wkyIU5GZbs"
     },
     {
       "added_at": "2025-10-24 04:00:21",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-10-24 04:00:21",
       "album": {
-        "name": "Your Kinda Guy",
-        "url": "https://open.spotify.com/album/2u0yPFMd8n3qlIupYUPNun"
-      },
-      "artists": [
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        }
-      ],
-      "duration_ms": 197753,
-      "name": "Your Kinda Guy",
-      "url": "https://open.spotify.com/track/1kHcWTgsMNwduZzS8K8RTt"
-    },
-    {
-      "added_at": "2025-10-24 04:00:21",
-      "album": {
         "name": "Pancho and Lefty",
         "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2025-10-24 04:00:21",
       "album": {
-        "name": "A Few Years Back",
-        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
+        "name": "Your Kinda Guy",
+        "url": "https://open.spotify.com/album/2u0yPFMd8n3qlIupYUPNun"
       },
       "artists": [
         {
-          "name": "Austin Michael",
-          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
         }
       ],
-      "duration_ms": 220474,
-      "name": "A Few Years Back",
-      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
+      "duration_ms": 197753,
+      "name": "Your Kinda Guy",
+      "url": "https://open.spotify.com/track/1kHcWTgsMNwduZzS8K8RTt"
     },
     {
       "added_at": "2025-10-24 04:00:21",
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2025-10-24 04:00:21",
       "album": {
-        "name": "Hit The Hay Runnin'",
-        "url": "https://open.spotify.com/album/4WRiI5GDDiVZyqgMklIqHN"
+        "name": "A Few Years Back",
+        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
       },
       "artists": [
         {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+          "name": "Austin Michael",
+          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
         }
       ],
-      "duration_ms": 184271,
-      "name": "Hit The Hay Runnin'",
-      "url": "https://open.spotify.com/track/6jubVjNr6RcoZcDy6jeVQv"
+      "duration_ms": 220474,
+      "name": "A Few Years Back",
+      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
     },
     {
       "added_at": "2025-10-24 04:00:21",
@@ -1535,6 +1519,22 @@
       "duration_ms": 255159,
       "name": "The Greys Between",
       "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
+    },
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "Hit The Hay Runnin'",
+        "url": "https://open.spotify.com/album/4WRiI5GDDiVZyqgMklIqHN"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 184271,
+      "name": "Hit The Hay Runnin'",
+      "url": "https://open.spotify.com/track/6jubVjNr6RcoZcDy6jeVQv"
     },
     {
       "added_at": "2025-10-24 04:00:21",

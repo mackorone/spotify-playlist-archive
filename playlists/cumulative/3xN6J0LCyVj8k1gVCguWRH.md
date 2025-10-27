@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,385 songs - 12 day 12 hr 57 min
+5,386 songs - 12 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1564,6 +1564,7 @@
 | [Feelin' Alright](https://open.spotify.com/track/0Jl5bIEve3A4axcjY3EgDZ) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 4:10 | 2022-07-26 | 2024-04-30 |
 | [Feelin' So Good](https://open.spotify.com/track/44vlKv8desgTiPucb9Tbfe) | [Tano Brock](https://open.spotify.com/artist/13a1mnzdwDpltArYIVsQHX) | [Feelin' So Good](https://open.spotify.com/album/285RHVuOYRBfZRAPMSgrD7) | 3:42 | 2022-08-19 | 2022-09-04 |
 | [Feeling](https://open.spotify.com/track/6ze3rTbidkkYIzdgBA8i0l) | [Frankie Bottz](https://open.spotify.com/artist/4WobtMkGG2OmzjIxjQ0RxW) | [Feeling](https://open.spotify.com/album/4TVBpFk9lI9wvUUp9NXeeL) | 4:16 | 2022-01-28 | 2022-02-13 |
+| [FEELING GOOD](https://open.spotify.com/track/3tGFpdKqBL7cqd73LM8nTI) | [JAMIE LEE](https://open.spotify.com/artist/0DHobBOQYcaxrXctJrHDXw) | [$.W.A.K.](https://open.spotify.com/album/1Xcoqc7IrkxJOrF3fYxlSG) | 2:06 | 2025-10-26 |  |
 | [Feeling Good](https://open.spotify.com/track/3A7yE3igxCotMUgzQzMXwK) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/10nkWocfwen0Q76rRn5nHC) | 2:16 | 2020-08-20 | 2023-08-28 |
 | [Feeling Good](https://open.spotify.com/track/59E5YUrahFAqcJB0jsabEe) | [Paul Farrin](https://open.spotify.com/artist/7sX9bmpNhukkmNHeG3pXPP) | [Feeling Good](https://open.spotify.com/album/5pJuES5URUV7ox2RN1LaOI) | 3:11 | 2021-01-23 | 2021-02-06 |
 | [Feeling So Free](https://open.spotify.com/track/2Juti5GCDPglIbC8kIn8CC) | [Phil Keegan](https://open.spotify.com/artist/5iO02xURkz9mdJMn7ldCq9) | [Feeling So Free](https://open.spotify.com/album/39kvr0GmKPhpfbePLtpBWT) | 3:28 | 2023-12-07 | 2023-12-16 |
@@ -3950,7 +3951,7 @@
 | [Salty Crush](https://open.spotify.com/track/2S5epseQ2G6beM33fvNgrU) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Salty Crush](https://open.spotify.com/album/0fLDQTCAyK7CByF9V95Z6v) | 3:05 | 2022-09-16 | 2022-10-04 |
 | [Salty, Sweet, and Bitter Rain](https://open.spotify.com/track/60U1xKk8Bpim1gW6pEo6JM) | [MYRY](https://open.spotify.com/artist/7zGRZCF0KZlDKuy3jU2lGq) | [Salty, Sweet, and Bitter Rain](https://open.spotify.com/album/49RKnHDmzxfY1sweDAmQD4) | 3:11 | 2022-07-03 | 2022-07-22 |
 | [Samba\-rumba](https://open.spotify.com/track/2CXZXk8Lr3JUlIPHdDXQuz) | [Jussanam](https://open.spotify.com/artist/4yj5tRFDoT6LL2w58MHgVE), [Ingvi Þór Kormáksson](https://open.spotify.com/artist/0UjTW7IRziiJv9ufd3Xlpl) | [Latin Faculty](https://open.spotify.com/album/4IlFi5cNjdN4dn8Si9F0Pl) | 3:13 | 2023-01-13 | 2023-02-04 |
-| [Same Anymore](https://open.spotify.com/track/5Bm6iBHDIDUSYYv2TN0nf8) | [Ariel Marie](https://open.spotify.com/artist/3iG7MlXx4LYOkqf2p0ntO8) | [Same Anymore](https://open.spotify.com/album/5KtrQEOxIHBjkLzYfalA9k) | 2:11 | 2024-12-26 |  |
+| [Same Anymore](https://open.spotify.com/track/5Bm6iBHDIDUSYYv2TN0nf8) | [Ariel Marie](https://open.spotify.com/artist/3iG7MlXx4LYOkqf2p0ntO8) | [Same Anymore](https://open.spotify.com/album/5KtrQEOxIHBjkLzYfalA9k) | 2:11 | 2024-12-26 | 2025-10-27 |
 | [Same Location](https://open.spotify.com/track/3D4osgGygmUI5uS5PEdFvG) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk), [Just Shad](https://open.spotify.com/artist/6d4cow3OkL7leTkqKnQfad) | [Same Location](https://open.spotify.com/album/3Zjm0WGKxY5uAJ2BalvCHR) | 3:14 | 2023-04-21 | 2023-05-13 |
 | [Same Old Story](https://open.spotify.com/track/2Rw6rrxjnmO5SCslCuDCGb) | [Diving Birds](https://open.spotify.com/artist/0NQvhlpJIw8HXFElLX7tOj) | [Touch the Bottom \- EP](https://open.spotify.com/album/2gBiMMdcjjrZp9AHRbDVQ3) | 2:05 | 2022-12-23 | 2023-01-14 |
 | [Same Thing](https://open.spotify.com/track/7kGdKpfC5GvgpEh393TNIL) | [REID B2WN](https://open.spotify.com/artist/3lajj3bO93QJEh2vlyUYJw) | [Same Thing](https://open.spotify.com/album/4sHrosEuePPYuApxrnqzgm) | 2:14 | 2023-02-03 | 2023-02-25 |

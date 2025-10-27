@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj nowych ulubionych artystów! Cover:  <a href="spotify:artist:0B4TTzKvNuF5Jcmbe5uQ1T">Pola Maj</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,304 likes - 121 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,313 likes - 121 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

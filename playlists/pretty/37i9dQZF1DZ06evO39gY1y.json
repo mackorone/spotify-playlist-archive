@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 249052,
+  "num_followers": 249071,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAABoISKB0j7fRshAdtyKz90H",
+  "snapshot_id": "aPwTAAAAAAB5g+/8Zu0aVrluRpwi7nWf",
   "tracks": [
     {
       "added_at": null,
@@ -947,30 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qui\u00e9n la Quiere",
-        "url": "https://open.spotify.com/album/0kYeGsp4JwzlcoXY2Gr1HH"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-        },
-        {
-          "name": "Little el Crack",
-          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
-        }
-      ],
-      "duration_ms": 338000,
-      "name": "Qui\u00e9n la Quiere",
-      "url": "https://open.spotify.com/track/10a8QRDqmdBGsb45cSROtF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buen Pez",
         "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
       },
@@ -991,6 +967,30 @@
       "duration_ms": 256799,
       "name": "Naranja a Morado",
       "url": "https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qui\u00e9n la Quiere",
+        "url": "https://open.spotify.com/album/0kYeGsp4JwzlcoXY2Gr1HH"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        },
+        {
+          "name": "Little el Crack",
+          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "Qui\u00e9n la Quiere",
+      "url": "https://open.spotify.com/track/10a8QRDqmdBGsb45cSROtF"
     },
     {
       "added_at": null,

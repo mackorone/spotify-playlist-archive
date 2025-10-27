@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 209022,
+  "num_followers": 209028,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "Forever the Love of My Life",
-        "url": "https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 171315,
-      "name": "Forever the Love of My Life",
-      "url": "https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "A Little Crazy",
         "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 198000,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "Forever the Love of My Life",
+        "url": "https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 171315,
+      "name": "Forever the Love of My Life",
+      "url": "https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 178387,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
         "name": "Loving Me Like Jesus",
         "url": "https://open.spotify.com/album/6gvTi3AZ3njMAchWY4Rsfz"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 192000,
       "name": "Loving Me Like Jesus",
       "url": "https://open.spotify.com/track/6qJKkWCwkIqu9qAyTIjp99"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 178387,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1463,30 +1463,6 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
-        "name": "The One Out The Friendzone (Kevin Aleksander Remix)",
-        "url": "https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC"
-      },
-      "artists": [
-        {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
-        },
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        },
-        {
-          "name": "Kevin Aleksander",
-          "url": "https://open.spotify.com/artist/2i22RHQ7v8dY9xiNtC9ADZ"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "The One Out The Friendzone - Kevin Aleksander Remix",
-      "url": "https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
         "name": "Je t'aime(I love you)",
         "url": "https://open.spotify.com/album/1kLj0soMFjI8bIX2lG95U7"
       },
@@ -1507,6 +1483,30 @@
       "duration_ms": 129229,
       "name": "Je t'aime(I love you)",
       "url": "https://open.spotify.com/track/4X1Ndb7krWWkVRJPwkgRer"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
+        "name": "The One Out The Friendzone (Kevin Aleksander Remix)",
+        "url": "https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC"
+      },
+      "artists": [
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        },
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "Kevin Aleksander",
+          "url": "https://open.spotify.com/artist/2i22RHQ7v8dY9xiNtC9ADZ"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "The One Out The Friendzone - Kevin Aleksander Remix",
+      "url": "https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc"
     },
     {
       "added_at": "2025-09-14 09:15:48",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2025-09-14 09:15:48",
       "album": {
+        "name": "Red Mercedes",
+        "url": "https://open.spotify.com/album/4FqEdIjwG6wdCyEx2tyxcz"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        }
+      ],
+      "duration_ms": 157895,
+      "name": "Red Mercedes",
+      "url": "https://open.spotify.com/track/3II7QddbZjEKhYh7XoBb1Y"
+    },
+    {
+      "added_at": "2025-09-14 09:15:48",
+      "album": {
         "name": "EASY FOR ME TO CHOOSE",
         "url": "https://open.spotify.com/album/1IU0h2LQE675URTV0K4T8d"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 182857,
       "name": "EASY FOR ME TO CHOOSE",
       "url": "https://open.spotify.com/track/1ev6x5ZiaFR7ONYi5Dxgap"
-    },
-    {
-      "added_at": "2025-09-14 09:15:48",
-      "album": {
-        "name": "Red Mercedes",
-        "url": "https://open.spotify.com/album/4FqEdIjwG6wdCyEx2tyxcz"
-      },
-      "artists": [
-        {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
-        }
-      ],
-      "duration_ms": 157895,
-      "name": "Red Mercedes",
-      "url": "https://open.spotify.com/track/3II7QddbZjEKhYh7XoBb1Y"
     },
     {
       "added_at": "2025-09-14 09:15:48",

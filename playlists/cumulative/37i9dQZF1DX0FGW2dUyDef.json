@@ -546,7 +546,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 163548,
       "name": "Benden Sonra",
       "url": "https://open.spotify.com/track/5uh8vQEAZeIFEYhAg52BNS"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 152258,
       "name": "gelemez",
       "url": "https://open.spotify.com/track/5NZIOc4fppMklnzBB6O0JE"
@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 186881,
       "name": "Sen A\u011fla",
       "url": "https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf"
@@ -3949,6 +3949,28 @@
     },
     {
       "album": {
+        "name": "Yerin Dolmuyor",
+        "url": "https://open.spotify.com/album/1oVJDyvMxyPpTdTJTCaJDq"
+      },
+      "artists": [
+        {
+          "name": "Salman Tin",
+          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
+        },
+        {
+          "name": "Fatma Turgut",
+          "url": "https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154940,
+      "name": "Yerin Dolmuyor",
+      "url": "https://open.spotify.com/track/2xVM712dqGiYhbBCeRlMkl"
+    },
+    {
+      "album": {
         "name": "Yerinde Dur",
         "url": "https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8"
       },
@@ -4179,6 +4201,24 @@
     },
     {
       "album": {
+        "name": "\u00c7\u0131kmaz Bir Sokakta",
+        "url": "https://open.spotify.com/album/7GlV9sM06u3Of5RROelFtC"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162745,
+      "name": "\u00c7\u0131kmaz Bir Sokakta",
+      "url": "https://open.spotify.com/track/4SJjMPowhsrYSWgxM61yxm"
+    },
+    {
+      "album": {
         "name": "\u00d6l\u00fcyorum Anla",
         "url": "https://open.spotify.com/album/3uO5eTI7iFm0WCgRYRergy"
       },
@@ -4238,6 +4278,28 @@
       "duration_ms": 139354,
       "name": "\u00dcZ\u00dcLECEKS\u0130N 2.0",
       "url": "https://open.spotify.com/track/2lh2tbZpcMs7scV62GcJaI"
+    },
+    {
+      "album": {
+        "name": "\u015eark\u0131lar Sokaklara Ait",
+        "url": "https://open.spotify.com/album/34hptGPWx0q7xhZ4AXJPzg"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175143,
+      "name": "\u015eark\u0131lar Sokaklara Ait",
+      "url": "https://open.spotify.com/track/2HjJTdEdEApv1QrKcMXKqo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef"

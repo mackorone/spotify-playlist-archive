@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-676 songs - 1 day 5 hr 36 min
+677 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Breeze](https://open.spotify.com/track/4Hf8Dzr69UplutFptqGLs0) | [Maajjyyn](https://open.spotify.com/artist/2FFQrnhVGwSpSELR5dfG39) | [Breeze](https://open.spotify.com/album/4FYso3anLawE5xBWbGoMu9) | 2:58 | 2025-05-16 |  |
 | [Brush](https://open.spotify.com/track/2dM72ks3NiGCaCG2clUigk) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Brush](https://open.spotify.com/album/0fED8Ta5z3ZZ4PhSh4ojCt) | 4:43 | 2025-04-18 | 2025-05-03 |
 | [Byzantine](https://open.spotify.com/track/71zcfefEk6z9LwMczxpp56) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [Protonebula](https://open.spotify.com/artist/79QsjitGhOGT7ixKYuWJun), [Glance](https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M), [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m) | [Byzantine](https://open.spotify.com/album/6asKTaEIC7zt9Nb32ZaGV4) | 2:56 | 2023-08-22 | 2024-08-24 |
+| [bâtonnage](https://open.spotify.com/track/70DOM8HiiQo71y4zLTRiS8) | [birdnote](https://open.spotify.com/artist/7MYkDdtnQI7XS31ohILPVY), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [bâtonnage](https://open.spotify.com/album/40fNFWRhjUOgoZOgbfXFka) | 2:16 | 2025-10-24 |  |
 | [C.F.D.](https://open.spotify.com/track/3vitE6XRGDP8SdoDwu40Ty) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:17 | 2023-08-22 | 2024-09-15 |
 | [Camino do Sol](https://open.spotify.com/track/18yhJfsUFVFht4HbnI951r) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Camino do Sol](https://open.spotify.com/album/55bKWTqrOmqZD3GR8mSb2A) | 2:00 | 2025-09-12 |  |
 | [Can't Tell At All](https://open.spotify.com/track/4MBb2iVB9E6ItQRvjbof6e) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Can't Tell At All](https://open.spotify.com/album/4vn4zydCK5o50MTei0AScf) | 2:29 | 2024-10-06 | 2025-05-24 |
@@ -282,7 +283,7 @@
 | [Jour Soleil](https://open.spotify.com/track/4Q3QyzdPOkkbTT43ca3bUY) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 4:32 | 2023-08-22 | 2024-04-19 |
 | [Jumbled](https://open.spotify.com/track/4GRqG2sOqaHKnHkkMaiuMF) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [THE HEIST](https://open.spotify.com/album/0pTmaOqNhIt4Szm0l5pM8W) | 3:25 | 2023-08-22 | 2025-04-12 |
 | [June](https://open.spotify.com/track/1OkdNVyAXTmPwFU0XseH62) | [Iam6teen](https://open.spotify.com/artist/7DivyX8KXF3bq2iAplKTC3) | [Consider The Flowers](https://open.spotify.com/album/2ZNJfoU9GAX4xxEkPHU4yy) | 2:24 | 2025-08-29 | 2025-09-13 |
-| [just being](https://open.spotify.com/track/646wYIxGFK17c9iGlvMAow) | [jlws.](https://open.spotify.com/artist/001otloKcJ6i1ZwMOdxEf3) | [just being](https://open.spotify.com/album/3kkiWn5otgbpaaJP6cLwFg) | 2:48 | 2025-09-12 |  |
+| [just being](https://open.spotify.com/track/646wYIxGFK17c9iGlvMAow) | [jlws.](https://open.spotify.com/artist/001otloKcJ6i1ZwMOdxEf3) | [just being](https://open.spotify.com/album/3kkiWn5otgbpaaJP6cLwFg) | 2:48 | 2025-09-12 | 2025-10-27 |
 | [Karo](https://open.spotify.com/track/7mg3Wz8oXPYVI773QKThWv) | [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Karo](https://open.spotify.com/album/6JNWhYjmthdsi7zQxXXJgh) | 1:54 | 2025-03-14 |  |
 | [Kebab Sauce](https://open.spotify.com/track/0xfbi9XImWDPx2cmuqzFzZ) | [James Iwa](https://open.spotify.com/artist/1fmklyMt530qdVGqeYfB23), [Jo Mayasi](https://open.spotify.com/artist/4mwPFf1mRv53R17AYvoiUK), [Shems Bendali](https://open.spotify.com/artist/0JxUQEHGmTmloT5BoqtHQG) | [Kebab Sauce](https://open.spotify.com/album/2ErhKjzJvbAV07mb7VWD54) | 3:01 | 2023-08-22 | 2025-02-17 |
 | [Keep Cruising](https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA) | [Keep Cruising](https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT) | 3:56 | 2023-08-22 | 2025-04-12 |

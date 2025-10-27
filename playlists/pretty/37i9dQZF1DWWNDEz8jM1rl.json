@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 150244,
+  "num_followers": 150264,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
+        "name": "Conmigo",
+        "url": "https://open.spotify.com/album/6x4RUz4MAkT8SkQS2z1kfM"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Conmigo",
+      "url": "https://open.spotify.com/track/3sseODfORH068xlDZykeXz"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
         "name": "Segunda Vida",
         "url": "https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 157168,
       "name": "Segunda Vida",
       "url": "https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
-        "name": "Conmigo",
-        "url": "https://open.spotify.com/album/6x4RUz4MAkT8SkQS2z1kfM"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rivers",
-          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Conmigo",
-      "url": "https://open.spotify.com/track/3sseODfORH068xlDZykeXz"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -615,6 +615,26 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
+        "name": "De Cabeza",
+        "url": "https://open.spotify.com/album/4oNqFYO3fDYfMS4jWbPZnM"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        },
+        {
+          "name": "Josh Gamez",
+          "url": "https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr"
+        }
+      ],
+      "duration_ms": 189130,
+      "name": "De Cabeza",
+      "url": "https://open.spotify.com/track/6hkWVRUBzzKGtJG8V7dDtr"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
         "name": "Conectao",
         "url": "https://open.spotify.com/album/1fo3maaIHMFeNjeR1KrtKF"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 206367,
       "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
       "url": "https://open.spotify.com/track/5gehKwEBAof8uV76LHq10s"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
-        "name": "De Cabeza",
-        "url": "https://open.spotify.com/album/4oNqFYO3fDYfMS4jWbPZnM"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        },
-        {
-          "name": "Josh Gamez",
-          "url": "https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr"
-        }
-      ],
-      "duration_ms": 189130,
-      "name": "De Cabeza",
-      "url": "https://open.spotify.com/track/6hkWVRUBzzKGtJG8V7dDtr"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "No se Compara",
-        "url": "https://open.spotify.com/album/5MioxF7HO3pKJhbdHfu5y4"
-      },
-      "artists": [
-        {
-          "name": "Jairon High",
-          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
-        }
-      ],
-      "duration_ms": 162751,
-      "name": "No se Compara",
-      "url": "https://open.spotify.com/track/0VGrYOOefuaJSlr0OHmDOR"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/3Dvdnm4MB1ZvZwEtRAjpSc"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 202500,
       "name": "Oro",
       "url": "https://open.spotify.com/track/0WjfH61yW1TBoFgughJXvX"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "No se Compara",
+        "url": "https://open.spotify.com/album/5MioxF7HO3pKJhbdHfu5y4"
+      },
+      "artists": [
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        }
+      ],
+      "duration_ms": 162751,
+      "name": "No se Compara",
+      "url": "https://open.spotify.com/track/0VGrYOOefuaJSlr0OHmDOR"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
+        "name": "BUENO",
+        "url": "https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG"
+      },
+      "artists": [
+        {
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
+        },
+        {
+          "name": "Isaani Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/4x8OSQZsomr7H00K1sBCbk"
+        }
+      ],
+      "duration_ms": 168214,
+      "name": "BUENO",
+      "url": "https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
         "name": "Ni\u00f1os De Iglesia",
         "url": "https://open.spotify.com/album/07nUnS3pfK554wgcxyERFh"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 210690,
       "name": "La Bandera",
       "url": "https://open.spotify.com/track/4TokDL5lQ2HZPv8D718orZ"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
-        "name": "BUENO",
-        "url": "https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG"
-      },
-      "artists": [
-        {
-          "name": "Nate Diaz",
-          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
-        },
-        {
-          "name": "Isaani Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/4x8OSQZsomr7H00K1sBCbk"
-        }
-      ],
-      "duration_ms": 168214,
-      "name": "BUENO",
-      "url": "https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
+        "name": "Yo Soy Cristiano",
+        "url": "https://open.spotify.com/album/3ezTbT0FVV4rumNvbqXqRr"
+      },
+      "artists": [
+        {
+          "name": "LifeBanda",
+          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
+        },
+        {
+          "name": "La Cuarta Tribu",
+          "url": "https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7"
+        }
+      ],
+      "duration_ms": 203368,
+      "name": "Yo Soy Cristiano",
+      "url": "https://open.spotify.com/track/3bVfrPbeyFvNtpxDRCevEM"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
         "name": "Del Agua Al Cielo",
         "url": "https://open.spotify.com/album/1OCvOFV7UCnBknPshXgXaC"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 209316,
       "name": "Del Agua Al Cielo",
       "url": "https://open.spotify.com/track/1eDMdg30D6ylaY3cFhKeva"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
-        "name": "Yo Soy Cristiano",
-        "url": "https://open.spotify.com/album/3ezTbT0FVV4rumNvbqXqRr"
-      },
-      "artists": [
-        {
-          "name": "LifeBanda",
-          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
-        },
-        {
-          "name": "La Cuarta Tribu",
-          "url": "https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7"
-        }
-      ],
-      "duration_ms": 203368,
-      "name": "Yo Soy Cristiano",
-      "url": "https://open.spotify.com/track/3bVfrPbeyFvNtpxDRCevEM"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
+        "name": "SE\u00d1ALES",
+        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
+      },
+      "artists": [
+        {
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+        }
+      ],
+      "duration_ms": 135737,
+      "name": "TE ENCONTRE",
+      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
         "name": "Jesucristo Me Toco (En Vivo)",
         "url": "https://open.spotify.com/album/2NP0fYbcms52HQgQlticFX"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 219559,
       "name": "Jesucristo Me Toco - En Vivo",
       "url": "https://open.spotify.com/track/3ykdbXSC9DYF3CXqlvCs3J"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
-        "name": "SE\u00d1ALES",
-        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
-      },
-      "artists": [
-        {
-          "name": "Lilo Music",
-          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
-        }
-      ],
-      "duration_ms": 135737,
-      "name": "TE ENCONTRE",
-      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Amor Verdadero",
-        "url": "https://open.spotify.com/album/7LwKfRyfgSkUI3OEHJgnKy"
-      },
-      "artists": [
-        {
-          "name": "Abel Xanders",
-          "url": "https://open.spotify.com/artist/6crMnOzo3xkwwhgKuh4s6c"
-        }
-      ],
-      "duration_ms": 203271,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "Yeshua Hamashiaj - MelGod (Remix)",
         "url": "https://open.spotify.com/album/2XTIYiYuAmD7oIQBlp6Eeg"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 169146,
       "name": "Tu Luz",
       "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "Amor Verdadero",
+        "url": "https://open.spotify.com/album/7LwKfRyfgSkUI3OEHJgnKy"
+      },
+      "artists": [
+        {
+          "name": "Abel Xanders",
+          "url": "https://open.spotify.com/artist/6crMnOzo3xkwwhgKuh4s6c"
+        }
+      ],
+      "duration_ms": 203271,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "NADA QUE TEMER",
-        "url": "https://open.spotify.com/album/1QhzHrtufsIm7Wrkx7lzC1"
-      },
-      "artists": [
-        {
-          "name": "Roberto Rosso",
-          "url": "https://open.spotify.com/artist/1j4W3yOBthwGj4wWrGPtfA"
-        },
-        {
-          "name": "Joe Gozo",
-          "url": "https://open.spotify.com/artist/5WxYUvlCb3r2fUlJwEIGUn"
-        }
-      ],
-      "duration_ms": 201679,
-      "name": "NADA QUE TEMER",
-      "url": "https://open.spotify.com/track/1xhzIlWnh3lKkEfm0FNsbT"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "Fiesta En El Cielo",
         "url": "https://open.spotify.com/album/6cvwD6EYJWcwoUO6bNFEU6"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 200000,
       "name": "Fiesta En El Cielo",
       "url": "https://open.spotify.com/track/7lqCftrOWY6tGbhuJfAUNI"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "NADA QUE TEMER",
+        "url": "https://open.spotify.com/album/1QhzHrtufsIm7Wrkx7lzC1"
+      },
+      "artists": [
+        {
+          "name": "Roberto Rosso",
+          "url": "https://open.spotify.com/artist/1j4W3yOBthwGj4wWrGPtfA"
+        },
+        {
+          "name": "Joe Gozo",
+          "url": "https://open.spotify.com/artist/5WxYUvlCb3r2fUlJwEIGUn"
+        }
+      ],
+      "duration_ms": 201679,
+      "name": "NADA QUE TEMER",
+      "url": "https://open.spotify.com/track/1xhzIlWnh3lKkEfm0FNsbT"
     },
     {
       "added_at": "2025-09-14 08:28:23",

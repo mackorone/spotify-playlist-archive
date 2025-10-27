@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 481533,
+  "num_followers": 481508,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAACxWkC+M6VHWx7OYvgV6Zk+",
+  "snapshot_id": "aPwTAAAAAAAqIsx+yQViqzAnOscqSzYZ",
   "tracks": [
     {
       "added_at": null,
@@ -235,18 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MY FACE STILL HURTS FROM SMILING",
-        "url": "https://open.spotify.com/album/2YoR3iqOT0HH62KRJN39w2"
+        "name": "Who Did The Body",
+        "url": "https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH"
       },
       "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 103875,
-      "name": "BOP IT!",
-      "url": "https://open.spotify.com/track/6sCQYWvTIOIinEgO1d1JJV"
+      "duration_ms": 149173,
+      "name": "Freak Show",
+      "url": "https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv"
     },
     {
       "added_at": null,
@@ -283,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MY FACE STILL HURTS FROM SMILING",
+        "url": "https://open.spotify.com/album/2YoR3iqOT0HH62KRJN39w2"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 103875,
+      "name": "BOP IT!",
+      "url": "https://open.spotify.com/track/6sCQYWvTIOIinEgO1d1JJV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rumors (feat. Cardi B)",
         "url": "https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 172832,
       "name": "Rumors (feat. Cardi B)",
       "url": "https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Did The Body",
-        "url": "https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH"
-      },
-      "artists": [
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        },
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 149173,
-      "name": "Freak Show",
-      "url": "https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv"
     },
     {
       "added_at": null,
@@ -746,15 +746,11 @@
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Tierra Whack",
-          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
         }
       ],
-      "duration_ms": 118021,
-      "name": "INTERNET (FEAT. TIERRA WHACK)",
-      "url": "https://open.spotify.com/track/5c9B681VEiWXMaF36GjW7P"
+      "duration_ms": 49905,
+      "name": "IT\u2019S THAT DEEP",
+      "url": "https://open.spotify.com/track/5Mfe0EbFDeK14VcyAyiwnc"
     },
     {
       "added_at": null,
@@ -814,11 +810,15 @@
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
         }
       ],
-      "duration_ms": 49905,
-      "name": "IT\u2019S THAT DEEP",
-      "url": "https://open.spotify.com/track/5Mfe0EbFDeK14VcyAyiwnc"
+      "duration_ms": 118021,
+      "name": "INTERNET (FEAT. TIERRA WHACK)",
+      "url": "https://open.spotify.com/track/5c9B681VEiWXMaF36GjW7P"
     },
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let 'em Say",
-        "url": "https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp"
+        "name": "Juice (Breakbot Mix)",
+        "url": "https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB"
       },
       "artists": [
         {
@@ -864,13 +864,13 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         },
         {
-          "name": "Caroline Smith",
-          "url": "https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE"
+          "name": "Breakbot",
+          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
         }
       ],
-      "duration_ms": 200578,
-      "name": "Let 'em Say",
-      "url": "https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ"
+      "duration_ms": 172453,
+      "name": "Juice - Breakbot Mix",
+      "url": "https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP"
     }
   ],
   "unique_name": "This Is Lizzo",

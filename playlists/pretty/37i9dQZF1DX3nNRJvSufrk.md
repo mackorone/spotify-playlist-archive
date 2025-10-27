@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,004 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,010 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 28 | [Bounce That Booty \- Jackmaster Werks Remix](https://open.spotify.com/track/6Ta2yIK2q5GAs2tqTLRLX5) | [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH), [Jackmaster Werks](https://open.spotify.com/artist/2eRGQtdPsIbK1HwWdWMPJN) | [Bounce That Booty \(Jackmaster Werks Remix\)](https://open.spotify.com/album/77SNTASc4iAYl3y5WfAZOS) | 2:44 |
 | 29 | [fucK iT uP](https://open.spotify.com/track/5mZa0ucjIfMPpa2XFhdF16) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [ON LIFE, Vol\. 2](https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu) | 2:42 |
 | 30 | [Overture of Spaldin](https://open.spotify.com/track/764tyXjLix45eNDYsWIFxw) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 3:52 |
-| 31 | [Below Zero](https://open.spotify.com/track/3I4bWAn64bYRlNankRD511) | [DJ Nate](https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM) | [Da Trak Genious](https://open.spotify.com/album/08fSEliSx03pGtS0C9RMkl) | 2:49 |
-| 32 | [8 Bit Shit](https://open.spotify.com/track/1Fugmy42LXbsW0IsJJcr0m) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw) | [Next Life](https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC) | 4:37 |
+| 31 | [8 Bit Shit](https://open.spotify.com/track/1Fugmy42LXbsW0IsJJcr0m) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw) | [Next Life](https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC) | 4:37 |
+| 32 | [Below Zero](https://open.spotify.com/track/3I4bWAn64bYRlNankRD511) | [DJ Nate](https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM) | [Da Trak Genious](https://open.spotify.com/album/08fSEliSx03pGtS0C9RMkl) | 2:49 |
 | 33 | [Wouldn't Get Far](https://open.spotify.com/track/24GUxWledUuwzCm4XEUatd) | [Young Smoke](https://open.spotify.com/artist/0ehqzJzgBzhTRcOd0BqgCs) | [Bangs & Works Vol\. 2 \(The Best Of Chicago Footwork\)](https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt) | 3:00 |
 | 34 | [ICE CREAM](https://open.spotify.com/track/5Bs3ufnc5SfXGPYQdeLrGx) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [ON LIFE](https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR) | 3:14 |
 | 35 | [Dnb Spaceout](https://open.spotify.com/track/6nAOS8cst8SYqzMAyrRtMv) | [DJ Tre](https://open.spotify.com/artist/6so1AgXg57ZYwyhe9dhhYS) | [Next Life](https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC) | 3:13 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 53 | [Afrika Jungle Them](https://open.spotify.com/track/6FHGAzQKr7CnrmlRwWnjZd) | [DSS](https://open.spotify.com/artist/2T4IqxlbDbMsjHF0kljX0f) | [Afrika Jungle Them EP](https://open.spotify.com/album/3ktYpr3qQwRxWmVpKlqkNZ) | 3:12 |
 | 54 | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/track/0x8GxrGOhZLJJWve0qMryZ) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/album/6nUlE97QCne6C6AYAdFY3F) | 3:56 |
 | 55 | [No Cap 4 2020 \- SBF14](https://open.spotify.com/track/2MPzyS96YOHV8789Bk8j9p) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [No Cap 4 2020 \(SBF14\)](https://open.spotify.com/album/5MgKGMeW2RO46jiF0R1v2R) | 2:37 |
-| 56 | [L](https://open.spotify.com/track/5NhmNspdkZwdMYeebLY1Hi) | [CRZKNY](https://open.spotify.com/artist/1FGPwtHOMV3xV8qtoci5po) | [T3 TRAXX, Vol\. 2](https://open.spotify.com/album/0VXeDXXyazcUW5kbzSOWSH) | 3:06 |
-| 57 | [Good Days](https://open.spotify.com/track/6vAMZ2r4RwgoC6L47owv1U) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H) | [Perfecto](https://open.spotify.com/album/3SGneAajBWiCia1mHvVs2w) | 2:49 |
-| 58 | [Slanted \- BSN Posse Remix](https://open.spotify.com/track/2bZty9jSWZiv4rWQqeQJAA) | [Tim Parker](https://open.spotify.com/artist/3LBR9DFhfM9nUjdu1gi7lI), [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU) | [Slanted](https://open.spotify.com/album/0lP2c6I9kE1rULPnvACaSA) | 3:46 |
+| 56 | [Good Days](https://open.spotify.com/track/6vAMZ2r4RwgoC6L47owv1U) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H) | [Perfecto](https://open.spotify.com/album/3SGneAajBWiCia1mHvVs2w) | 2:49 |
+| 57 | [Slanted \- BSN Posse Remix](https://open.spotify.com/track/2bZty9jSWZiv4rWQqeQJAA) | [Tim Parker](https://open.spotify.com/artist/3LBR9DFhfM9nUjdu1gi7lI), [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU) | [Slanted](https://open.spotify.com/album/0lP2c6I9kE1rULPnvACaSA) | 3:46 |
+| 58 | [L](https://open.spotify.com/track/5NhmNspdkZwdMYeebLY1Hi) | [CRZKNY](https://open.spotify.com/artist/1FGPwtHOMV3xV8qtoci5po) | [T3 TRAXX, Vol\. 2](https://open.spotify.com/album/0VXeDXXyazcUW5kbzSOWSH) | 3:06 |
 | 59 | [+3 \(feat\. DJ Rashad, DJ Paypal & Nasty Nigel\)](https://open.spotify.com/track/7LjIWJdk5Z70ZoclGOSOat) | [Nick Hook](https://open.spotify.com/artist/4ICbI408d4uYagVEL3xf7S), [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [DJ Paypal](https://open.spotify.com/artist/4hH4fEXPg3qpTDlmdNOO01), [Nasty Nigel](https://open.spotify.com/artist/42W0OUrWwVQXuHfKan5R49) | [Relationships](https://open.spotify.com/album/0x1yjRNnoer1e1H3bJOUiI) | 3:32 |
 | 60 | [Narcissus](https://open.spotify.com/track/3MEYgmIqsjW4qlW1SoflGQ) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Ways](https://open.spotify.com/album/2PqGGOZm4IPKiXzLZpJULH) | 3:41 |
 | 61 | [Pop Drop](https://open.spotify.com/track/1IrZcCsY92EhaqCA2QVSsH) | [DJ Paypal](https://open.spotify.com/artist/4hH4fEXPg3qpTDlmdNOO01), [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Computers Smarter Than People](https://open.spotify.com/album/3Hj551CuSFPhth9J6ffqcG) | 2:37 |

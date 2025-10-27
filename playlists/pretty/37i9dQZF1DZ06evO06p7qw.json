@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 186560,
+  "num_followers": 186599,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAABrXLkXJaSEzEuDJQDAn+Yf",
+  "snapshot_id": "aPwTAAAAAACB98k1+Hd0C3GZ7/np+lAF",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las De Infante",
+        "url": "https://open.spotify.com/album/1AkLQlVCOPPuRzfwPwgpZH"
+      },
+      "artists": [
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 175737,
+      "name": "Historia De Un Amor",
+      "url": "https://open.spotify.com/track/4kF52Us8ae35E230x84Vht"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PERFECTO",
         "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
       },
@@ -523,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 281390,
-      "name": "Una y Otra Vez - En Vivo Desde El Auditorio Nacional",
-      "url": "https://open.spotify.com/track/7qFiF4M4mTtvUkADadj8o2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eterno",
         "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
       },
@@ -555,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las De Infante",
-        "url": "https://open.spotify.com/album/1AkLQlVCOPPuRzfwPwgpZH"
+        "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
       },
       "artists": [
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 175737,
-      "name": "Historia De Un Amor",
-      "url": "https://open.spotify.com/track/4kF52Us8ae35E230x84Vht"
+      "duration_ms": 281390,
+      "name": "Una y Otra Vez - En Vivo Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/7qFiF4M4mTtvUkADadj8o2"
     },
     {
       "added_at": null,

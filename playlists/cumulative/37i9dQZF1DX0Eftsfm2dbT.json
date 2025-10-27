@@ -40375,6 +40375,28 @@
     },
     {
       "album": {
+        "name": "Yokubari",
+        "url": "https://open.spotify.com/album/6qi8oyQMoejMOwSck2nUJe"
+      },
+      "artists": [
+        {
+          "name": "Xansei",
+          "url": "https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz"
+        },
+        {
+          "name": "Leon Fanourakis",
+          "url": "https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141300,
+      "name": "Yokubari",
+      "url": "https://open.spotify.com/track/1nYHjhlc80ln2ajFZsiupl"
+    },
+    {
+      "album": {
         "name": "Secure",
         "url": "https://open.spotify.com/album/0jxof92mKNDfGfVaJFR1uQ"
       },

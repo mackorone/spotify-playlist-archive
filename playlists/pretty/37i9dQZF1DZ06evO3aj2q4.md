@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 
 > This is Evanescence\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,350 likes - 46 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,400 likes - 46 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 | 45 | [Across The Universe](https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Across The Universe](https://open.spotify.com/album/3EsATrrGKDb76NIdrOMk2F) | 3:42 |
 | 46 | [Tourniquet \- Live From Le Zénith,France/2004](https://open.spotify.com/track/2IR6jzSjOjp8X3Ib4SYDI8) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:17 |
 
-Snapshot ID: `aPrBgAAAAADMZujRFsA6yDWjSuuZ5q9p`
+Snapshot ID: `aPwTAAAAAAAfzREw2hMfrUiwF0gtpyyX`

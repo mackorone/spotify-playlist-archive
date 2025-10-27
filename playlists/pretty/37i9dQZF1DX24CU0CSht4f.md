@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24CU0CSht4f.md) - [plain]
 
 > Enjoy the world of “Sgt\. Frog”!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,968 likes - 64 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,975 likes - 64 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

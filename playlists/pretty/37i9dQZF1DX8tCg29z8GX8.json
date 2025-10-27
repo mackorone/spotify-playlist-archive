@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 17932,
+  "num_followers": 17939,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,30 @@
     {
       "added_at": "2025-10-24 09:46:06",
       "album": {
+        "name": "Gymnastic",
+        "url": "https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "duration_ms": 210566,
+      "name": "Gymnastic",
+      "url": "https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m"
+    },
+    {
+      "added_at": "2025-10-24 09:46:06",
+      "album": {
         "name": "Party No Dey Stop",
         "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
       },
@@ -439,30 +463,6 @@
       "duration_ms": 188411,
       "name": "SOMETHING",
       "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
-    },
-    {
-      "added_at": "2025-10-24 09:46:06",
-      "album": {
-        "name": "Gymnastic",
-        "url": "https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        },
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
-        }
-      ],
-      "duration_ms": 210566,
-      "name": "Gymnastic",
-      "url": "https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m"
     },
     {
       "added_at": "2025-10-24 09:46:06",
@@ -551,22 +551,22 @@
     {
       "added_at": "2025-10-24 09:46:06",
       "album": {
-        "name": "Screaming Beauty",
-        "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
       },
       "artists": [
         {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         },
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 161454,
-      "name": "Screaming Beauty",
-      "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
+      "duration_ms": 178225,
+      "name": "Bandana",
+      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
     },
     {
       "added_at": "2025-10-24 09:46:06",
@@ -587,22 +587,22 @@
     {
       "added_at": "2025-10-24 09:46:06",
       "album": {
-        "name": "Bandana",
-        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
+        "name": "Screaming Beauty",
+        "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
         },
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 178225,
-      "name": "Bandana",
-      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+      "duration_ms": 161454,
+      "name": "Screaming Beauty",
+      "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
     },
     {
       "added_at": "2025-10-24 09:46:06",
@@ -715,22 +715,18 @@
     {
       "added_at": "2025-10-24 09:46:06",
       "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/5bolp7EDlLNan3nQIQwpOD"
+        "name": "SAME TIMBS",
+        "url": "https://open.spotify.com/album/0AjcqAkU6McINORVRb5bZV"
       },
       "artists": [
         {
-          "name": "Wendy Shay",
-          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Gonaboy",
+          "url": "https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s"
         }
       ],
-      "duration_ms": 169285,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/4sckyDjgswzH5RBBHTNlax"
+      "duration_ms": 141176,
+      "name": "SAME TIMBS",
+      "url": "https://open.spotify.com/track/6kSFCS2GbbctaZ4KbWTqrA"
     },
     {
       "added_at": "2025-10-24 09:46:06",
@@ -755,6 +751,26 @@
     {
       "added_at": "2025-10-24 09:46:06",
       "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/5bolp7EDlLNan3nQIQwpOD"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/4sckyDjgswzH5RBBHTNlax"
+    },
+    {
+      "added_at": "2025-10-24 09:46:06",
+      "album": {
         "name": "Shoulder",
         "url": "https://open.spotify.com/album/04v5bEZUuDeS0orgjeaTJZ"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 215593,
       "name": "Shoulder",
       "url": "https://open.spotify.com/track/59BXqiS3Bee0Cx7gjpuJBJ"
-    },
-    {
-      "added_at": "2025-10-24 09:46:06",
-      "album": {
-        "name": "SAME TIMBS",
-        "url": "https://open.spotify.com/album/0AjcqAkU6McINORVRb5bZV"
-      },
-      "artists": [
-        {
-          "name": "Gonaboy",
-          "url": "https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "SAME TIMBS",
-      "url": "https://open.spotify.com/track/6kSFCS2GbbctaZ4KbWTqrA"
     },
     {
       "added_at": "2025-10-24 09:46:06",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2025-10-24 09:46:06",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/5sqPvkTgAI1FIjUA3ZR38O"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 238555,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/16uuguJjHf7d7gyxpnGwOn"
-    },
-    {
-      "added_at": "2025-10-24 09:46:06",
-      "album": {
         "name": "Vth 2",
         "url": "https://open.spotify.com/album/5BRuNa1MCmOQFc7164uNXd"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 134117,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/2utcd67JnYjlDaXQ92beai"
+    },
+    {
+      "added_at": "2025-10-24 09:46:06",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/5sqPvkTgAI1FIjUA3ZR38O"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 238555,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/16uuguJjHf7d7gyxpnGwOn"
     },
     {
       "added_at": "2025-10-24 09:46:06",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-10-24 09:46:06",
       "album": {
-        "name": "Put Am on God",
-        "url": "https://open.spotify.com/album/5MYUW4xuYLfc5LCFLIxVqc"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        }
-      ],
-      "duration_ms": 159905,
-      "name": "Put Am on God",
-      "url": "https://open.spotify.com/track/6Qw5ZCRSOXLL5WlDb4YkN3"
-    },
-    {
-      "added_at": "2025-10-24 09:46:06",
-      "album": {
         "name": "Believe Me",
         "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 211265,
       "name": "Believe Me",
       "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
+    },
+    {
+      "added_at": "2025-10-24 09:46:06",
+      "album": {
+        "name": "Put Am on God",
+        "url": "https://open.spotify.com/album/5MYUW4xuYLfc5LCFLIxVqc"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "duration_ms": 159905,
+      "name": "Put Am on God",
+      "url": "https://open.spotify.com/track/6Qw5ZCRSOXLL5WlDb4YkN3"
     },
     {
       "added_at": "2025-10-24 09:46:06",
@@ -1499,18 +1499,22 @@
     {
       "added_at": "2025-10-24 09:46:06",
       "album": {
-        "name": "Alhaji Popping",
-        "url": "https://open.spotify.com/album/5fqnuvFLEnDRaxnEKY13QQ"
+        "name": "Jaara",
+        "url": "https://open.spotify.com/album/5KZ601NSbyEiolRw2Li0Xw"
       },
       "artists": [
         {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
         }
       ],
-      "duration_ms": 156233,
-      "name": "Alhaji Popping",
-      "url": "https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7"
+      "duration_ms": 163686,
+      "name": "Jaara",
+      "url": "https://open.spotify.com/track/1TbSH5lB7BZy2zUSkBSzvF"
     }
   ],
   "unique_name": "Troski Rhythms",

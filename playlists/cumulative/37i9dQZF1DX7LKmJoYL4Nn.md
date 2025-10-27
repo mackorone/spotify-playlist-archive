@@ -4,7 +4,7 @@
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-198 songs - 12 hr 59 min
+199 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [You're Speculation](https://open.spotify.com/track/5Rp7oI0yJU9tI7hXurrtSV) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [あんさんぶるスターズ！！ ユニットソングCD ALKALOID](https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L) | 3:41 | 2025-01-14 | 2025-09-21 |
 | [しょーがいゼッタイそーあい宣言♥](https://open.spotify.com/track/6D8hIrDUUlNs7ipUxtQMan) | [Special for Princess!](https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3) | [しょーがいゼッタイそーあい宣言♥](https://open.spotify.com/album/6U9eFKCOMs0AiLPxgVReJl) | 3:17 | 2024-10-08 |  |
 | [らびゅ&ピース伝説](https://open.spotify.com/track/7LrGUS1U2GIkbk4Akth9XF) | [PM6:∞](https://open.spotify.com/artist/2GvcPHWg5MaQk9s3RPKiFv), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [PM6:∞「らびゅ&ピース伝説」あんさんぶるスターズ！！ ⁠SELECTION 10 UNIT SONG](https://open.spotify.com/album/193HSvLV9U3ruKbDAEju5l) | 3:45 | 2025-08-24 |  |
+| [アンリミテッド☆パワー!!!!!](https://open.spotify.com/track/3irrwUpeNuanOUlS9IUL57) | [流星隊/守沢千秋\(CV.帆世雄一\)、深海奏汰\(CV.西山宏太朗\)、南雲鉄虎\(CV.中島ヨシキ\)、高峯翠\(CV.渡辺拓海\)、仙石忍\(CV.新田杏樹\)](https://open.spotify.com/artist/1McImYokA5QMesgOLKNpnl) | [あんさんぶるスターズ！ アルバムシリーズ 流星隊](https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe) | 4:30 | 2025-09-16 |  |
 | [エメラルドプラネット](https://open.spotify.com/track/1JfvP6CDhv0exkrjzZOBpj) | [Switch/逆先夏目\(CV.野島健児\)、青葉つむぎ\(CV.石川界人\)、春川宙\(CV.山本和臣\)](https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV) | [あんさんぶるスターズ！ アルバムシリーズ Switch](https://open.spotify.com/album/0479uOQcSG1f0TMSfcL62u) | 3:51 | 2024-04-26 | 2025-01-24 |
 | [エンドレスヴィーデ \- Game Edit](https://open.spotify.com/track/1Y3zlrI3V32ljmtFDjPgHY) | [フラタニティ/氷鷹 北斗\(CV.前野 智昭\)、朱桜 司\(CV.土田 玲央\)、朔間 零\(CV.増田 俊樹\)、斎宮 宗\(CV.高橋 広樹\)、天城 燐音\(CV.阿座上 洋平\)](https://open.spotify.com/artist/5bPtVx4Mln56ZipwGTI0ZP) | [あんさんぶるスターズ！！ フラタニティ「エンドレスヴィーデ」 \(Game Edit\)](https://open.spotify.com/album/0OUW7LbjLcSY3WP9Xu7VBv) | 2:12 | 2025-02-28 | 2025-06-10 |
 | [スキスキハンター♡](https://open.spotify.com/track/4s3WJBqODAeXk7kHlwq0Nh) | [Special for Princess!](https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3) | [スキスキハンター♡](https://open.spotify.com/album/0G67I9Ba3ayQHq7S22orfn) | 3:58 | 2024-10-08 |  |
@@ -156,7 +157,7 @@
 | [デートプランA to Z \- 2021 Ver.](https://open.spotify.com/track/0u5eO3Envu8dvHZuIh1Wp5) | [√AtoZ/羽風 薫\(CV.細貝 圭\)、守沢千秋\(CV.帆世雄一\)、椎名ニキ\(CV.山口智広\)、逆先夏目\(CV.野島健児\)、天満 光\(CV.池田純矢\)](https://open.spotify.com/artist/3AYVE3zBAMeNwBkdPu3Ce9) | [あんさんぶるスターズ！！ シャッフルユニットソング コレクション \(vol.01 2021 Ver.\)](https://open.spotify.com/album/6xL3VYapyGi6eUJUSUA166) | 3:03 | 2024-04-26 | 2024-07-21 |
 | [ネビュラ](https://open.spotify.com/track/4M6AlJLhEON9MRCLm4rwYJ) | [Double Face/三毛縞 斑\(CV.鳥海 浩輔\)、桜河 こはく\(CV.海渡 翼\)](https://open.spotify.com/artist/3dtzZMV1ZuvWrpmR1s89ju) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Double Face](https://open.spotify.com/album/5pFkbfmCi2LynP74V4eenl) | 3:31 | 2024-04-26 | 2024-12-17 |
 | [ハニートラップ・マリアージュ](https://open.spotify.com/track/0gr9gmL1e9bHsnD1JiSSRZ) | [Crazy:B](https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Crazy:B「ハニートラップ・マリアージュ」あんさんぶるスターズ！！ ESアイドルソング season6](https://open.spotify.com/album/4UxzlvHAJyLSMA7YPevnSb) | 4:05 | 2025-06-13 |  |
-| [ハニーミルクはお好みで](https://open.spotify.com/track/1C5wgl35vBuflcyAsYMec0) | [UNDEAD/朔間零\(CV.増田俊樹\)、羽風薫\(CV.細貝圭\)、大神晃牙\(CV.小野友樹\)、乙狩アドニス\(CV.羽多野渉\)](https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP) | [あんさんぶるスターズ！ アルバムシリーズ UNDEAD](https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR) | 4:06 | 2024-04-26 |  |
+| [ハニーミルクはお好みで](https://open.spotify.com/track/1C5wgl35vBuflcyAsYMec0) | [UNDEAD/朔間零\(CV.増田俊樹\)、羽風薫\(CV.細貝圭\)、大神晃牙\(CV.小野友樹\)、乙狩アドニス\(CV.羽多野渉\)](https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP) | [あんさんぶるスターズ！ アルバムシリーズ UNDEAD](https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR) | 4:06 | 2024-04-26 | 2025-10-27 |
 | [ハロウィン・ランデブー](https://open.spotify.com/track/5flbNqi1DBVQkTZR1SALCY) | [MaM](https://open.spotify.com/artist/5haPsx8AiGH7BAgWdWKl74), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [MaM「ハロウィン・ランデブー」あんさんぶるスターズ！！ ESアイドルソング season5](https://open.spotify.com/album/05TqJzyb4R2ShnKHmiEcqa) | 3:50 | 2025-04-28 |  |
 | [ハンズクラフト](https://open.spotify.com/track/1NmE0ok9KopsDDVmvZbcwM) | [MaM/三毛縞斑\(CV.鳥海浩輔\)](https://open.spotify.com/artist/6uEoSIAMWYdGObbvqfI9nd) | [Double Face「No name yet」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7nbT3Z3HUtfybX6EVVw7Tb) | 4:48 | 2025-01-14 | 2025-10-01 |
 | [パラダイム・リバーシ! \- Game Edit](https://open.spotify.com/track/7cYaHEeUt6Kdk1W7rLeah2) | [Puffy☆Bunny/日々樹 渉\(CV.江口 拓也\)、葵 ひなた\(CV.斉藤 壮馬\)、仙石 忍\(CV.新田 杏樹\)、天城 一彩\(CV.梶原 岳人\)、影片 みか\(CV.大須賀 純\)](https://open.spotify.com/artist/7sjszWcNjZM6sAKH3PRfyn) | [あんさんぶるスターズ！！ Puffy☆Bunny「パラダイム・リバーシ! 」 \(Game Edit\)](https://open.spotify.com/album/7xbBxtVFkI3g9PKY1WwFLP) | 2:14 | 2025-02-28 | 2025-07-09 |

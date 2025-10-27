@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med AKA Lisa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,944 likes - 166 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,962 likes - 166 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

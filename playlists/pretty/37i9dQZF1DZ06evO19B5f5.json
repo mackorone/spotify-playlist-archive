@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAAD2crIde1GFTFC0bMeI0vkH",
+  "snapshot_id": "aPwTAAAAAACJFnyIzr5R9rJxwbq50VGB",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost World",
-        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
+        "name": "Time To Say Goodbye",
+        "url": "https://open.spotify.com/album/7A84WRvV1EJzbcGAQkmanY"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 193500,
-      "name": "Latest Ghost",
-      "url": "https://open.spotify.com/track/1eH3x83ILpL75tdfPBQqq0"
+      "duration_ms": 188468,
+      "name": "Time To Say Goodbye",
+      "url": "https://open.spotify.com/track/7afNGpGU4kfwKYG5RBqaFy"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time To Say Goodbye",
-        "url": "https://open.spotify.com/album/7A84WRvV1EJzbcGAQkmanY"
+        "name": "Ghost World",
+        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 188468,
-      "name": "Time To Say Goodbye",
-      "url": "https://open.spotify.com/track/7afNGpGU4kfwKYG5RBqaFy"
+      "duration_ms": 193500,
+      "name": "Latest Ghost",
+      "url": "https://open.spotify.com/track/1eH3x83ILpL75tdfPBQqq0"
     },
     {
       "added_at": null,
@@ -123,18 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost World",
-        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
+        "name": "Empathy (MUNA Remix)",
+        "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
       },
       "artists": [
         {
           "name": "Lauren Aquilina",
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 217131,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/3AfcCZtlstI2rIorom3CbD"
+      "duration_ms": 188369,
+      "name": "Empathy - MUNA Remix",
+      "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
     },
     {
       "added_at": null,
@@ -155,22 +159,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empathy (MUNA Remix)",
-        "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
+        "name": "Ghost World",
+        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
       },
       "artists": [
         {
           "name": "Lauren Aquilina",
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 188369,
-      "name": "Empathy - MUNA Remix",
-      "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
+      "duration_ms": 217131,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3AfcCZtlstI2rIorom3CbD"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 216578,
-      "name": "Kicks",
-      "url": "https://open.spotify.com/track/4AeL5jqJOg30DBEEqTmdTD"
+      "duration_ms": 196109,
+      "name": "Way Too Good",
+      "url": "https://open.spotify.com/track/1E87WkhGXw3iOn5b44NJRr"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 196109,
-      "name": "Way Too Good",
-      "url": "https://open.spotify.com/track/1E87WkhGXw3iOn5b44NJRr"
+      "duration_ms": 216578,
+      "name": "Kicks",
+      "url": "https://open.spotify.com/track/4AeL5jqJOg30DBEEqTmdTD"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 208972,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1LDfxHCm0G2tFcX1XQimJi"
+      "duration_ms": 238446,
+      "name": "Out Of Our Depth",
+      "url": "https://open.spotify.com/track/0azPcAj5JzQcpI3HTfcQmZ"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 238446,
-      "name": "Out Of Our Depth",
-      "url": "https://open.spotify.com/track/0azPcAj5JzQcpI3HTfcQmZ"
+      "duration_ms": 208972,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1LDfxHCm0G2tFcX1XQimJi"
     },
     {
       "added_at": null,

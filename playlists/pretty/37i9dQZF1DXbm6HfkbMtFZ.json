@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 827804,
+  "num_followers": 827876,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "HEART OF THE MATTER",
+        "url": "https://open.spotify.com/album/0OOVrSL0zg5FMqus5AvW1b"
+      },
+      "artists": [
+        {
+          "name": "Sedric Perry",
+          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
+        }
+      ],
+      "duration_ms": 226779,
+      "name": "HEART OF THE MATTER",
+      "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "HEART OF THE MATTER",
-        "url": "https://open.spotify.com/album/0OOVrSL0zg5FMqus5AvW1b"
-      },
-      "artists": [
-        {
-          "name": "Sedric Perry",
-          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
-        }
-      ],
-      "duration_ms": 226779,
-      "name": "HEART OF THE MATTER",
-      "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "The Miraculous Hump Returns From The Moon",
-        "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
-      },
-      "artists": [
-        {
-          "name": "Sopwith Camel",
-          "url": "https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf"
-        }
-      ],
-      "duration_ms": 314653,
-      "name": "Fazon",
-      "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Telling The Truth",
         "url": "https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 222213,
       "name": "Nantucket Island",
       "url": "https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "The Miraculous Hump Returns From The Moon",
+        "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
+      },
+      "artists": [
+        {
+          "name": "Sopwith Camel",
+          "url": "https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf"
+        }
+      ],
+      "duration_ms": 314653,
+      "name": "Fazon",
+      "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Wiggle Room",
-        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
-      },
-      "artists": [
-        {
-          "name": "Drug Cabin",
-          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
-        }
-      ],
-      "duration_ms": 147893,
-      "name": "Handsome",
-      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Always on My Mind (Acoustic)",
         "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
       },
@@ -1207,6 +1191,38 @@
       "duration_ms": 214820,
       "name": "Always on My Mind (Acoustic)",
       "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Wiggle Room",
+        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
+      },
+      "artists": [
+        {
+          "name": "Drug Cabin",
+          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
+        }
+      ],
+      "duration_ms": 147893,
+      "name": "Handsome",
+      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "My Conversation",
+        "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
+      },
+      "artists": [
+        {
+          "name": "Silas Short",
+          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "My Conversation",
+      "url": "https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1231,22 +1247,6 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "My Conversation",
-        "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
-      },
-      "artists": [
-        {
-          "name": "Silas Short",
-          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "My Conversation",
-      "url": "https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Dark Days [Feat. Sylvan Esso]",
-        "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 181212,
-      "name": "Dark Days [Feat. Sylvan Esso]",
-      "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Strange World",
         "url": "https://open.spotify.com/album/61C4duC2M6Nav2cg6QkIzv"
       },
@@ -1395,6 +1375,22 @@
       "duration_ms": 187185,
       "name": "Strange World",
       "url": "https://open.spotify.com/track/3PoMsuOCkDTFinad2PBlEh"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Sun & Moon",
+        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 165712,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1419,22 +1415,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Sun & Moon",
-        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 165712,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Boonie Town",
         "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
       },
@@ -1447,6 +1427,42 @@
       "duration_ms": 259795,
       "name": "Highschool Steady",
       "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Dark Days [Feat. Sylvan Esso]",
+        "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 181212,
+      "name": "Dark Days [Feat. Sylvan Esso]",
+      "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Tako Tsubo (Extended)",
+        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 268179,
+      "name": "Off to the Side",
+      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Tako Tsubo (Extended)",
-        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
         }
       ],
-      "duration_ms": 268179,
-      "name": "Off to the Side",
-      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
+      "duration_ms": 202720,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "I Don't",
-      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Grapetooth",
         "url": "https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI"
       },
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Lonesome No More",
-        "url": "https://open.spotify.com/album/3Po6WS22068XclNCiZqDIi"
-      },
-      "artists": [
-        {
-          "name": "Laura Jean Anderson",
-          "url": "https://open.spotify.com/artist/2SHGDNcy2dtMu7YSDV19r0"
-        }
-      ],
-      "duration_ms": 187542,
-      "name": "Love You Most",
-      "url": "https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Favorite Kind of People",
         "url": "https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 184776,
       "name": "Favorite Kind of People",
       "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Lonesome No More",
+        "url": "https://open.spotify.com/album/3Po6WS22068XclNCiZqDIi"
+      },
+      "artists": [
+        {
+          "name": "Laura Jean Anderson",
+          "url": "https://open.spotify.com/artist/2SHGDNcy2dtMu7YSDV19r0"
+        }
+      ],
+      "duration_ms": 187542,
+      "name": "Love You Most",
+      "url": "https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Tincture",
-        "url": "https://open.spotify.com/album/4qQzFct5Cd4QOyTfSjLBP6"
-      },
-      "artists": [
-        {
-          "name": "Perfect Binding",
-          "url": "https://open.spotify.com/artist/7guexKHSspsfD9QBco76EY"
-        }
-      ],
-      "duration_ms": 211279,
-      "name": "Tincture",
-      "url": "https://open.spotify.com/track/4nl667qTGv4btKjjCssNuc"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Freedom to Talk",
         "url": "https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 233500,
       "name": "Lament for the Sky",
       "url": "https://open.spotify.com/track/6O20789Z3l8ttvdxHJgzqy"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Tincture",
+        "url": "https://open.spotify.com/album/4qQzFct5Cd4QOyTfSjLBP6"
+      },
+      "artists": [
+        {
+          "name": "Perfect Binding",
+          "url": "https://open.spotify.com/artist/7guexKHSspsfD9QBco76EY"
+        }
+      ],
+      "duration_ms": 211279,
+      "name": "Tincture",
+      "url": "https://open.spotify.com/track/4nl667qTGv4btKjjCssNuc"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Stunning & Atrocious",
-        "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
-      },
-      "artists": [
-        {
-          "name": "FLEECE",
-          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
-        }
-      ],
-      "duration_ms": 217047,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Turn The World On",
         "url": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 215986,
       "name": "Diving (feat. Holly Humberstone)",
       "url": "https://open.spotify.com/track/1HyrqH2wLIEnWm8SGVbytB"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Stunning & Atrocious",
+        "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
+      },
+      "artists": [
+        {
+          "name": "FLEECE",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+        }
+      ],
+      "duration_ms": 217047,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Picture Frame",
-        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
-      },
-      "artists": [
-        {
-          "name": "Hector Morlet",
-          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
-        }
-      ],
-      "duration_ms": 195276,
-      "name": "Picture Frame",
-      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "The Midst of Things",
         "url": "https://open.spotify.com/album/2ayfyjguop22nTbxg5puSZ"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 206344,
       "name": "U Got Me",
       "url": "https://open.spotify.com/track/7L4NuySQbbajDBD8ozjn04"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Picture Frame",
+        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
+      },
+      "artists": [
+        {
+          "name": "Hector Morlet",
+          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
+        }
+      ],
+      "duration_ms": 195276,
+      "name": "Picture Frame",
+      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
     },
     {
       "added_at": "2025-10-24 22:16:10",

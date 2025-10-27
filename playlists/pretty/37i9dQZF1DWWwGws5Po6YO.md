@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Malibu
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,640 likes - 100 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,677 likes - 100 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 43 | [Withdrawal](https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 2:01 |
 | 44 | [Holding Moments](https://open.spotify.com/track/5eKvPgmm9AGChNGQQyKyZs) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [become the sky](https://open.spotify.com/album/3fimGJqkBb61QiQrRiFXNv) | 3:03 |
 | 45 | [Amare](https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Amare](https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f) | 3:46 |
-| 46 | [Billow](https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt) | [Ulla Straus](https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp) | [Big Room](https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE) | 4:27 |
-| 47 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
+| 46 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
+| 47 | [Billow](https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt) | [Ulla Straus](https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp) | [Big Room](https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE) | 4:27 |
 | 48 | [New Dawn](https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 2:44 |
 | 49 | [Strawberry Hill Ascent](https://open.spotify.com/track/7dcAGnZgECMRTDKRM9pmqg) | [Ellen Reid](https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Big Majestic](https://open.spotify.com/album/54PPhxM0V8V87txFsNVWgb) | 2:42 |
 | 50 | [Breathless](https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w), [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [Breathless](https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w) | 3:05 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 60 | [RELUCESCO I](https://open.spotify.com/track/0fRDySUoyDdS1Erd73lztX) | [Sarah Pagé](https://open.spotify.com/artist/045JYB2I42fQLnNRJQSvdN) | [RELUCESCO I](https://open.spotify.com/album/1aTlHOpugpBr2K7IWTb2hg) | 6:59 |
 | 61 | [OUT I](https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK) | [Violeta García](https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ) | [OUT I](https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE) | 4:41 |
 | 62 | [Lear](https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Stuart Dempster](https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK), [Panaiotis](https://open.spotify.com/artist/3nNs3fKoNiAHgx4B6p5fYA) | [Deep Listening](https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC) | 24:56 |
-| 63 | [Let Love Be](https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 4:25 |
-| 64 | [Thinking Iceberg](https://open.spotify.com/track/00cs65Ml2o8b245YEkQrsR) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [Thinking Iceberg](https://open.spotify.com/album/39mihYHeLbVIkXwKAgmujI) | 12:50 |
+| 63 | [Thinking Iceberg](https://open.spotify.com/track/00cs65Ml2o8b245YEkQrsR) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [Thinking Iceberg](https://open.spotify.com/album/39mihYHeLbVIkXwKAgmujI) | 12:50 |
+| 64 | [Let Love Be](https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 4:25 |
 | 65 | [Nana \(Like A Star Made For Me\) \- Julianna Barwick remix](https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 6:00 |
 | 66 | [Absolution](https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 2:24 |
 | 67 | [Silence \- K Theory Flip](https://open.spotify.com/track/0PLxhkXDZk3Cp1kRI8md4q) | [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu), [King Kairos](https://open.spotify.com/artist/79pC1m2ifXKHYwZ3JUEvzQ), [K Theory](https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt) | [Silence \(K Theory Flip\)](https://open.spotify.com/album/0XHlfd6piMXgybsdru9HO6) | 2:38 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 79 | [Bandorai](https://open.spotify.com/track/20JtrLAz7k54Rt3oe8uPWi) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [A Requiem](https://open.spotify.com/album/4Tx7iyvyTnJNNFGLKYWEOD) | 3:01 |
 | 80 | [Big Majestic](https://open.spotify.com/track/7ipNQUa48GOa6gDQiXbRry) | [Ellen Reid](https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka) | [Big Majestic](https://open.spotify.com/album/27Edaf6CUyLSiDnXPRDckq) | 4:50 |
 | 81 | [blue hour](https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [blue hour](https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt) | 2:46 |
-| 82 | [Shiver](https://open.spotify.com/track/636q74X2qVCv5fBdE95woF) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Tempora](https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U) | 8:02 |
-| 83 | [Inspirit \- Extended Version](https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle \- Extended Versions](https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d) | 10:40 |
+| 82 | [Inspirit \- Extended Version](https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle \- Extended Versions](https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d) | 10:40 |
+| 83 | [Shiver](https://open.spotify.com/track/636q74X2qVCv5fBdE95woF) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Tempora](https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U) | 8:02 |
 | 84 | [Cloudbreath](https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 3:07 |
 | 85 | [Drip In The Cave](https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs) | [Katatonic Silentio](https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm) | [Axis Of Light](https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm) | 3:37 |
 | 86 | [CHU / 處](https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [CHU / 處](https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC) | 2:23 |

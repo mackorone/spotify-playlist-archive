@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,446 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,572 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 | 64 | [blue eyes](https://open.spotify.com/track/3J7qngUlqAQOgyKEmYZkLp) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [blue eyes](https://open.spotify.com/album/7KIHq0QV9uwLcmbmZzU6LV) | 2:56 |
 | 65 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 |
 
-Snapshot ID: `AAAAAPme38ojoq/OEUEHodrh1aqHgFUW`
+Snapshot ID: `AAAAAA7pLhowdeAO2E6pM6LBvfV8BBrR`

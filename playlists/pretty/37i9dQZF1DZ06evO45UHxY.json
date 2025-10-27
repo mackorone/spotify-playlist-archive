@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAADF1IKZl8GMmZrT7In1cSPi",
+  "snapshot_id": "aPwTAAAAAAAI2PeZlbpzVapVJ3ON1EWH",
   "tracks": [
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS!",
-        "url": "https://open.spotify.com/album/2L1OGQ2Ds0VttVp7XmPFTk"
+        "name": "Flor de la Ausencia",
+        "url": "https://open.spotify.com/album/2oMDEpNCj5hD1vrN7LqaYn"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 167986,
-      "name": "El cari\u00f1o que perd\u00ed",
-      "url": "https://open.spotify.com/track/4ZtL51s0on7KjzKr9YcJp2"
+      "duration_ms": 196360,
+      "name": "Cari\u00f1o Verdad",
+      "url": "https://open.spotify.com/track/5dvkhIepgnYPnZe68BXYJ6"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flor de la Ausencia",
-        "url": "https://open.spotify.com/album/2oMDEpNCj5hD1vrN7LqaYn"
+        "name": "CORRIDOS!",
+        "url": "https://open.spotify.com/album/2L1OGQ2Ds0VttVp7XmPFTk"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 196360,
-      "name": "Cari\u00f1o Verdad",
-      "url": "https://open.spotify.com/track/5dvkhIepgnYPnZe68BXYJ6"
+      "duration_ms": 167986,
+      "name": "El cari\u00f1o que perd\u00ed",
+      "url": "https://open.spotify.com/track/4ZtL51s0on7KjzKr9YcJp2"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Manicomio",
-        "url": "https://open.spotify.com/album/2yU8o8qKqKD7NRlZu7NNt1"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 191574,
-      "name": "Amor De Manicomio",
-      "url": "https://open.spotify.com/track/2sSFUftb0VboazUCZJ6TKD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "100% Tropical, Vol. 8",
         "url": "https://open.spotify.com/album/4fUo5HuqR1xV11sSGaAF49"
       },
@@ -671,22 +655,6 @@
       "duration_ms": 177600,
       "name": "Cumbiando Con Zeta",
       "url": "https://open.spotify.com/track/7qCGUZmFIlvPp8oupXpSBS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Charangas, Vol. 3",
-        "url": "https://open.spotify.com/album/0UqWpT5GDnIM6KyyPdJTwF"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Llena de Amor",
-      "url": "https://open.spotify.com/track/0thgST7TUDPVuW8wTE1LXH"
     },
     {
       "added_at": null,
@@ -719,6 +687,38 @@
       "duration_ms": 210653,
       "name": "Dime Lo Que Quieras",
       "url": "https://open.spotify.com/track/4TDXDWUIo7thhqXLrqhw1A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Charangas, Vol. 3",
+        "url": "https://open.spotify.com/album/0UqWpT5GDnIM6KyyPdJTwF"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Llena de Amor",
+      "url": "https://open.spotify.com/track/0thgST7TUDPVuW8wTE1LXH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Manicomio",
+        "url": "https://open.spotify.com/album/2yU8o8qKqKD7NRlZu7NNt1"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 191574,
+      "name": "Amor De Manicomio",
+      "url": "https://open.spotify.com/track/2sSFUftb0VboazUCZJ6TKD"
     },
     {
       "added_at": null,

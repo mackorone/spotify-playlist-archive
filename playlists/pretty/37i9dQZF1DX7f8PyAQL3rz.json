@@ -1,6 +1,6 @@
 {
   "description": "em guerra de ego sobra quem?",
-  "num_followers": 1419766,
+  "num_followers": 1419709,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -895,30 +895,6 @@
     {
       "added_at": "2025-10-24 18:45:22",
       "album": {
-        "name": "Sentido \u00e0 Zona Leste",
-        "url": "https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 123508,
-      "name": "Sentido \u00e0 Zona Leste",
-      "url": "https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2"
-    },
-    {
-      "added_at": "2025-10-24 18:45:22",
-      "album": {
         "name": "SALA VERMELHA #48 - Ferrugem",
         "url": "https://open.spotify.com/album/5qABuKPdkUPLPmMYHUGCjX"
       },
@@ -939,6 +915,30 @@
       "duration_ms": 160941,
       "name": "SALA VERMELHA #48 - Ferrugem",
       "url": "https://open.spotify.com/track/0c10YM1tG1hjIuVBStdzTS"
+    },
+    {
+      "added_at": "2025-10-24 18:45:22",
+      "album": {
+        "name": "Sentido \u00e0 Zona Leste",
+        "url": "https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 123508,
+      "name": "Sentido \u00e0 Zona Leste",
+      "url": "https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2"
     },
     {
       "added_at": "2025-10-24 18:45:22",
@@ -1019,6 +1019,34 @@
     {
       "added_at": "2025-10-24 18:45:22",
       "album": {
+        "name": "PEITO FALSO",
+        "url": "https://open.spotify.com/album/0Yh7SE739Q8KPCsiW9DGff"
+      },
+      "artists": [
+        {
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "OLIE",
+          "url": "https://open.spotify.com/artist/3lhjMeQAJL0YU6Hc4MGPTl"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "PEITO FALSO",
+      "url": "https://open.spotify.com/track/6NWfG69zA4RQyksIdwW7jt"
+    },
+    {
+      "added_at": "2025-10-24 18:45:22",
+      "album": {
         "name": "\u00c1rea de Risco",
         "url": "https://open.spotify.com/album/1GmwM4nchLSfQeXgGdyR9b"
       },
@@ -1059,34 +1087,6 @@
       "duration_ms": 180446,
       "name": "Seu Telefone",
       "url": "https://open.spotify.com/track/4tJRy1ODDkckEcvu5lS5tw"
-    },
-    {
-      "added_at": "2025-10-24 18:45:22",
-      "album": {
-        "name": "PEITO FALSO",
-        "url": "https://open.spotify.com/album/0Yh7SE739Q8KPCsiW9DGff"
-      },
-      "artists": [
-        {
-          "name": "Arthurzim",
-          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "OLIE",
-          "url": "https://open.spotify.com/artist/3lhjMeQAJL0YU6Hc4MGPTl"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "PEITO FALSO",
-      "url": "https://open.spotify.com/track/6NWfG69zA4RQyksIdwW7jt"
     },
     {
       "added_at": "2025-10-24 18:45:22",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2025-10-24 18:45:22",
       "album": {
+        "name": "Busco Romance Love Show (Deluxe)",
+        "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Trinidad Cardona",
+          "url": "https://open.spotify.com/artist/2SgLODaTxJskGWHX8TbxtQ"
+        }
+      ],
+      "duration_ms": 195952,
+      "name": "todo lugar - faixa b\u00f4nus",
+      "url": "https://open.spotify.com/track/4j9KOMG49WEL8qY9hs5jpa"
+    },
+    {
+      "added_at": "2025-10-24 18:45:22",
+      "album": {
         "name": "CR\u00d4NICAS",
         "url": "https://open.spotify.com/album/4MId32a3619pi8cFydwvFZ"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 225201,
       "name": "2 GLOCK",
       "url": "https://open.spotify.com/track/3ze023ckWI3osMHZnhLCCT"
-    },
-    {
-      "added_at": "2025-10-24 18:45:22",
-      "album": {
-        "name": "Busco Romance Love Show (Deluxe)",
-        "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Trinidad Cardona",
-          "url": "https://open.spotify.com/artist/2SgLODaTxJskGWHX8TbxtQ"
-        }
-      ],
-      "duration_ms": 195952,
-      "name": "todo lugar - faixa b\u00f4nus",
-      "url": "https://open.spotify.com/track/4j9KOMG49WEL8qY9hs5jpa"
     },
     {
       "added_at": "2025-10-24 18:45:22",

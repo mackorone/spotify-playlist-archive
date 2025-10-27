@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,728 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,726 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 37 | [LV Parano](https://open.spotify.com/track/6J7a6S2F6yMGVlNIfEq2P6) | [Louis Villain](https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv) | [LV Parano](https://open.spotify.com/album/3ekTeWvVUxFxgFhuVL4fm1) | 2:41 |
 | 38 | [młody gandolfini](https://open.spotify.com/track/3tf8gSdD6Ch9Rz4H2uJKOO) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [młody gandolfini](https://open.spotify.com/album/3hzZqUcymHfXpnuo9Czhig) | 2:32 |
 | 39 | [Techno](https://open.spotify.com/track/7j5lyR5RW7JLzXayM4zr8q) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Auer](https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N) | [Techno](https://open.spotify.com/album/6Ng4npzmFeqsysgEQgus6j) | 3:15 |
-| 40 | [Ty Wiesz](https://open.spotify.com/track/0QfTXFJdnx42T8DeTWWwN6) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN), [Jakub Laszuk](https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ) | [Ty Wiesz](https://open.spotify.com/album/3WMrFBSnIzZOucQTEy0uBU) | 2:49 |
-| 41 | [Jabłonie](https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2) | [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV), [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Hinol Polska Wersja](https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg) | [Jabłonie](https://open.spotify.com/album/5OttKKlgmFMDUbTLIERFrL) | 3:12 |
+| 40 | [Jabłonie](https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2) | [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV), [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Hinol Polska Wersja](https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg) | [Jabłonie](https://open.spotify.com/album/5OttKKlgmFMDUbTLIERFrL) | 3:12 |
+| 41 | [Ty Wiesz](https://open.spotify.com/track/0QfTXFJdnx42T8DeTWWwN6) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN), [Jakub Laszuk](https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ) | [Ty Wiesz](https://open.spotify.com/album/3WMrFBSnIzZOucQTEy0uBU) | 2:49 |
 | 42 | [Nie obiecam](https://open.spotify.com/track/6oWYMN1M7M97LTvlRkWfVv) | [Małach](https://open.spotify.com/artist/1s4U0KH826DemEVZgc4Iuu), [Rufuz](https://open.spotify.com/artist/0rYYnTxFACR9nj0pwBpD9n), [Bonson](https://open.spotify.com/artist/2kJ63OVxHAPMMu0AfKa22d), [Małach/Rufuz](https://open.spotify.com/artist/78Rgi3QpIvPGecr69F0D64) | [MATERIAŁ](https://open.spotify.com/album/4xCUeIAuaKwPm3FtbsZBYa) | 3:31 |
 | 43 | [JOHNNY DANG](https://open.spotify.com/track/2Q8WXdzGE4okUzDWbzKH48) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft) | [JOHNNY DANG](https://open.spotify.com/album/37cllReDw2lRsZsOdUl2lT) | 3:00 |
 | 44 | [Wszystkoholik](https://open.spotify.com/track/0I0DpAq8dp1D7pK2ayI5sZ) | [Floral Bugs](https://open.spotify.com/artist/7e6iH8brpvXHIcxlK8WHZK) | [S.I.M.P](https://open.spotify.com/album/4uWRoauI8CergH5xsXTrgN) | 2:12 |

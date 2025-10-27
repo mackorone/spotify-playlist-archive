@@ -4381,6 +4381,24 @@
     },
     {
       "album": {
+        "name": "kh kh kh",
+        "url": "https://open.spotify.com/album/7Ci8zGzBpTU42ZYe2A0BqM"
+      },
+      "artists": [
+        {
+          "name": "Gunge",
+          "url": "https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186428,
+      "name": "Regner med i morgen",
+      "url": "https://open.spotify.com/track/4CrI9DDQhs2r0Mwqo4fuSH"
+    },
+    {
+      "album": {
         "name": "EP",
         "url": "https://open.spotify.com/album/3Teg8wMP5yOVruDXO5ema8"
       },

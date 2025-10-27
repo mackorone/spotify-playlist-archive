@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eSKQLYj7yU.md) - [plain]
 
 > Bluegrass fit for the holiday season
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,022 likes - 111 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,028 likes - 111 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

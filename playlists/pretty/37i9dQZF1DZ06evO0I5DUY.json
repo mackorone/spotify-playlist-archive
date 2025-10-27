@@ -1,12 +1,12 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 232856,
+  "num_followers": 232911,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAABMnWPJ3CXJb9AZH7wtSxMt",
+  "snapshot_id": "aPwTAAAAAADD8Ai5AeFeDS59DF2m4wUw",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Coronas a Mi Madre",
-        "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 193773,
-      "name": "El Muchacho y el Potro",
-      "url": "https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una L\u00e1grima y Un Recuerdo",
         "url": "https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 160253,
       "name": "El Chubasco",
       "url": "https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dos Coronas a Mi Madre",
+        "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 193773,
+      "name": "El Muchacho y el Potro",
+      "url": "https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Dos Amigos",
-        "url": "https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc"
+        "name": "Mis Recuerdos Adios Amigo Del Alma",
+        "url": "https://open.spotify.com/album/66lB6Ab3RKhrlQ29sxWvRx"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 171693,
-      "name": "La Tumba de Mi Madre",
-      "url": "https://open.spotify.com/track/0iEUxWcEaVZaWXh5wDo3bH"
+      "duration_ms": 140640,
+      "name": "Por Ser Tan Pobre",
+      "url": "https://open.spotify.com/track/73BHd7jJqU2JrPXoWLyMK8"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Recuerdos Adios Amigo Del Alma",
-        "url": "https://open.spotify.com/album/66lB6Ab3RKhrlQ29sxWvRx"
+        "name": "Los Dos Amigos",
+        "url": "https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 140640,
-      "name": "Por Ser Tan Pobre",
-      "url": "https://open.spotify.com/track/73BHd7jJqU2JrPXoWLyMK8"
+      "duration_ms": 171693,
+      "name": "La Tumba de Mi Madre",
+      "url": "https://open.spotify.com/track/0iEUxWcEaVZaWXh5wDo3bH"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Decadas de Exitos",
-        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Jesus Malverde",
-      "url": "https://open.spotify.com/track/17hw7UqbbBZrDhDlgXh5eK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4 Decadas 20 Corridos",
         "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 167906,
       "name": "La Discusion Fue Una Yegua",
       "url": "https://open.spotify.com/track/0Z0luHjkzAAX9d4OkpcmAq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Jesus Malverde",
+      "url": "https://open.spotify.com/track/17hw7UqbbBZrDhDlgXh5eK"
     },
     {
       "added_at": null,

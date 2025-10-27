@@ -4,7 +4,7 @@
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-133 songs - 7 hr 43 min
+135 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Little Less Lonely](https://open.spotify.com/track/1TagtwRUJ8S2gxYq7DgD23) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All or Nothing](https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX) | 3:15 | 2025-01-06 | 2025-04-01 |
 | [Little Less Lonely](https://open.spotify.com/track/5KISgft3lX4Gou5ymweGcN) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp) | 3:15 | 2023-06-17 | 2024-12-10 |
 | [Love Away The Night](https://open.spotify.com/track/6AyfvtOk91Iyaa4sfEo9jJ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 3:38 | 2023-06-17 | 2025-10-24 |
-| [Love Away The Night](https://open.spotify.com/track/2K5fjFQdfp8YK0Z0kEmZ1a) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Melinda Schneider](https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW) | [Adam Brand \(Special Bonus Tour Edition\)](https://open.spotify.com/album/6gbQrmthnmtDT6soaOitlD) | 3:38 | 2025-10-26 |  |
+| [Love Away The Night](https://open.spotify.com/track/2K5fjFQdfp8YK0Z0kEmZ1a) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Melinda Schneider](https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW) | [Adam Brand \(Special Bonus Tour Edition\)](https://open.spotify.com/album/6gbQrmthnmtDT6soaOitlD) | 3:38 | 2025-10-26 | 2025-10-27 |
+| [Love Away The Night](https://open.spotify.com/track/1OzoLsteJyXgpk9HD3cZRT) | [Melinda Schneider](https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Oxygen](https://open.spotify.com/album/4gTB1IyWqYUyLX4fgroTW3) | 3:38 | 2025-10-27 |  |
 | [Love Away The Night \- with Adam Brand](https://open.spotify.com/track/5nhyF9rPoP0tjqXNd7BRtj) | [Melinda Schneider](https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Oxygen](https://open.spotify.com/album/30EVdt1AjTXmPDeHDBnxZv) | 3:38 | 2023-06-17 | 2025-10-26 |
 | [Love Is a Lesson](https://open.spotify.com/track/3pcrdFr7EHoqzgIim2QApn) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Wired](https://open.spotify.com/album/3GFZgCAsf4F7tvYF5eU8VJ) | 4:16 | 2025-04-17 | 2025-04-20 |
 | [Love Is A Lesson \(feat\. Adam Brand\)](https://open.spotify.com/track/1x4RA9JlbUloiOb5CqQqoj) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Wired](https://open.spotify.com/album/2YVoRvMleX9NQyNvUC3de0) | 4:16 | 2023-06-27 | 2024-10-29 |
@@ -140,6 +141,7 @@
 | [You Are Not Alone](https://open.spotify.com/track/6CavrLdJAXl9bn0DQEgBm4) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Casey Donovan](https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X) | [Speed Of Life](https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z) | 3:25 | 2023-06-17 | 2024-12-08 |
 | [You Are To Me](https://open.spotify.com/track/1VETQS5PJ9QuEyf0h6mQC9) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/2K37cfIrnYl9iTWzugmGyz) | 3:12 | 2025-10-26 |  |
 | [You Are To Me](https://open.spotify.com/track/2Lij4vqXoPkRfXAI4baQ1c) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO) | 3:12 | 2023-06-17 | 2025-10-26 |
-| [You're A Revhead](https://open.spotify.com/track/5dj1SeeHuxrqOL77UrafQX) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 4:00 | 2023-06-23 |  |
+| [You're A Revhead](https://open.spotify.com/track/5dj1SeeHuxrqOL77UrafQX) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 4:00 | 2023-06-23 | 2025-10-27 |
+| [You're A Revhead](https://open.spotify.com/track/4CnWVEBLRyTfXZ2x39joVU) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/2K37cfIrnYl9iTWzugmGyz) | 4:02 | 2025-10-27 |  |
 
 \*This playlist was first scraped on 2023-06-18. Prior content cannot be recovered.

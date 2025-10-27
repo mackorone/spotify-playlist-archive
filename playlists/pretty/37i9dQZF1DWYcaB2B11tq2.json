@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Christine D'Clario",
-  "num_followers": 486812,
+  "num_followers": 486919,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
+        "name": "Suelto",
+        "url": "https://open.spotify.com/album/6MtthKgel9UaIw3gegtemS"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "duration_ms": 261213,
+      "name": "Suelto",
+      "url": "https://open.spotify.com/track/4gzdXnYl4s10PXMZn1XSlF"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 252456,
       "name": "1000 Pedazos",
       "url": "https://open.spotify.com/track/0BJbrz72CTsOG6wqwEKxTa"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
-        "name": "Suelto",
-        "url": "https://open.spotify.com/album/6MtthKgel9UaIw3gegtemS"
-      },
-      "artists": [
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
-        }
-      ],
-      "duration_ms": 261213,
-      "name": "Suelto",
-      "url": "https://open.spotify.com/track/4gzdXnYl4s10PXMZn1XSlF"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
+        "name": "Listo Para Nuestro Encuentro",
+        "url": "https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O"
+      },
+      "artists": [
+        {
+          "name": "Abel Zavala",
+          "url": "https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "El Padre Que Siempre So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 302425,
       "name": "Babel",
       "url": "https://open.spotify.com/track/1icI9DwXenCxETMEYV0RqP"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
-        "name": "Listo Para Nuestro Encuentro",
-        "url": "https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O"
-      },
-      "artists": [
-        {
-          "name": "Abel Zavala",
-          "url": "https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "El Padre Que Siempre So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -355,6 +355,30 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
+        "name": "Uniendo Cielo Y Tierra",
+        "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
+      },
+      "artists": [
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Toma Tu Lugar",
+          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
+        },
+        {
+          "name": "Lucas Conslie",
+          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
+        }
+      ],
+      "duration_ms": 601586,
+      "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
+      "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
       },
@@ -379,30 +403,6 @@
       "duration_ms": 252493,
       "name": "Socorro",
       "url": "https://open.spotify.com/track/1Xyf243Z7sN1Ekuq2JcGEi"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
-        "name": "Uniendo Cielo Y Tierra",
-        "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
-      },
-      "artists": [
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        },
-        {
-          "name": "Toma Tu Lugar",
-          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
-        },
-        {
-          "name": "Lucas Conslie",
-          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
-        }
-      ],
-      "duration_ms": 601586,
-      "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
-      "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
         "name": "Lo Peor de Mi",
         "url": "https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
         "name": "Gente Comun Sue\u00f1os Extraordinarios",
         "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Cuan Gran Amor",
-        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Que Se Llene Tu Casa",
-      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
         "name": "Despierta Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 645440,
       "name": "Dios Incomparable (Invitado: Marco Barrientos)",
       "url": "https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
+        "name": "Cuan Gran Amor",
+        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Que Se Llene Tu Casa",
+      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 296254,
-      "name": "Tu Fidelidad",
-      "url": "https://open.spotify.com/track/2oYa7geFquIGxUMbRzqqqQ"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
         "name": "Colecci\u00f3n Adoraci\u00f3n",
         "url": "https://open.spotify.com/album/2kAZv7zHLq2y0YyCylgnoo"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 327653,
       "name": "Sum\u00e9rgeme",
       "url": "https://open.spotify.com/track/6Z31l856yEwyJqSBe3qLZ4"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 296254,
+      "name": "Tu Fidelidad",
+      "url": "https://open.spotify.com/track/2oYa7geFquIGxUMbRzqqqQ"
     },
     {
       "added_at": "2025-09-14 09:46:53",

@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 219462,
+  "num_followers": 219467,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAACargbs822plNwhaHeRs2gs",
+  "snapshot_id": "aPwTAAAAAADmKCLuzJ2w0ATzzOtEoOcs",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Answer",
+        "url": "https://open.spotify.com/album/5kGjspBIeXZWFZpdOTs6UP"
+      },
+      "artists": [
+        {
+          "name": "Energies",
+          "url": "https://open.spotify.com/artist/2JGt2NB6hOe8BXhe7uI3sm"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        },
+        {
+          "name": "Rittipo",
+          "url": "https://open.spotify.com/artist/6LgqEPFOAHk2KpfLZFBh7N"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/3WnAo7d6JUBrtDL9KZbbgw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Doom Days",
         "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
@@ -619,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u201c&\u201d (Ampersand), Part Four",
-        "url": "https://open.spotify.com/album/6pczyolQkjlACIuLFXRsHG"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 250346,
-      "name": "Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/6ur07ZhOvtGKeSy1U6o47P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Happier (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/13w2ClweyAqn0sAdeyLnyQ"
       },
@@ -651,6 +663,22 @@
       "duration_ms": 240531,
       "name": "Happier - Slowed + Reverb",
       "url": "https://open.spotify.com/track/3aPsxMIfOgmLmQJvAaElKU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u201c&\u201d (Ampersand), Part Four",
+        "url": "https://open.spotify.com/album/6pczyolQkjlACIuLFXRsHG"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 250346,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/6ur07ZhOvtGKeSy1U6o47P"
     },
     {
       "added_at": null,
@@ -755,34 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Answer",
-        "url": "https://open.spotify.com/album/5kGjspBIeXZWFZpdOTs6UP"
-      },
-      "artists": [
-        {
-          "name": "Energies",
-          "url": "https://open.spotify.com/artist/2JGt2NB6hOe8BXhe7uI3sm"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
-        },
-        {
-          "name": "Rittipo",
-          "url": "https://open.spotify.com/artist/6LgqEPFOAHk2KpfLZFBh7N"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "The Answer",
-      "url": "https://open.spotify.com/track/3WnAo7d6JUBrtDL9KZbbgw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vacation",
         "url": "https://open.spotify.com/album/08RH5oSOsDss5CuJBzaPzz"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u201c&\u201d (Ampersand)",
-        "url": "https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Drawbridge & The Baroness",
-      "url": "https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give Me The Future",
         "url": "https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 173202,
       "name": "Back To The Future",
       "url": "https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u201c&\u201d (Ampersand)",
+        "url": "https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Drawbridge & The Baroness",
+      "url": "https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW"
     },
     {
       "added_at": null,

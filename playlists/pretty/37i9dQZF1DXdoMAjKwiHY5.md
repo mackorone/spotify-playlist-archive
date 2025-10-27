@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoMAjKwiHY5.md) - [plain]
 
 > Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop/rock favorites\. Cover: Counting Crows
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,683 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,705 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

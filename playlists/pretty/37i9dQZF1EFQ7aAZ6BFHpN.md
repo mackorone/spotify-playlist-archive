@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 549 likes - 158 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 550 likes - 158 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 55 | [On The Double](https://open.spotify.com/track/5DgvQdgGwYLqG4yK8owSRr) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [H.F.M\. 2 \(Hunger For More 2\)](https://open.spotify.com/album/0h8gzYOChHoUjn3xt4mDsS) | 2:49 |
 | 56 | [Fishermen, Strawberry and Devil Crab](https://open.spotify.com/track/1mLNo7bMtOrHWwcNKqNbKV) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 4:06 |
 | 57 | [\(I've Got\) Beginner's Luck](https://open.spotify.com/track/6aPqzx06H4yFkO4GnPv21e) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 3:11 |
-| 58 | [I'll Build a Stairway to Paradise](https://open.spotify.com/track/3Hezg6pbMg16P0ULWT27Ef) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Shifting Gears](https://open.spotify.com/album/11gcF1PJkyYAf0OoTshk7h) | 3:17 |
-| 59 | [Things Are Looking Up \(11\-01\-37\)](https://open.spotify.com/track/1H8FWalaTquiuh0U4cXitu) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [Complete Jazz Series 1937 \- 1938](https://open.spotify.com/album/52I99rdurbDQg5MRBbx2em) | 3:21 |
+| 58 | [Things Are Looking Up \(11\-01\-37\)](https://open.spotify.com/track/1H8FWalaTquiuh0U4cXitu) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [Complete Jazz Series 1937 \- 1938](https://open.spotify.com/album/52I99rdurbDQg5MRBbx2em) | 3:21 |
+| 59 | [I'll Build a Stairway to Paradise](https://open.spotify.com/track/3Hezg6pbMg16P0ULWT27Ef) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Shifting Gears](https://open.spotify.com/album/11gcF1PJkyYAf0OoTshk7h) | 3:17 |
 | 60 | [That Certain Feeling](https://open.spotify.com/track/0LErVxjTqak8uoHS33WPZQ) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin Plays Gershwin: The Piano Rolls](https://open.spotify.com/album/4sX0syeh1dyi8s7Gx0m7H0) | 2:47 |
 | 61 | [Summer Life \(feat\. YG\)](https://open.spotify.com/track/7FTI3GKtcp6hr1h6SFL93z) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Skywalker](https://open.spotify.com/album/39z4dxWE6Kpl8NvMdY2L0t) | 3:55 |
 | 62 | [By Strauss](https://open.spotify.com/track/2ciXabBYqwolDxCVl3I0cn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 2:32 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 157 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 158 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `Ab/1xgAAAAAL9YZrem568cFiCTb2DMiK`
+Snapshot ID: `Ab/7ZgAAAAA88e8pBWFwEE/DexCLuk2f`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,463 likes - 69 songs - 3 hr 50 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,468 likes - 77 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,5 +77,13 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 67 | [Father Lucifer \- 2016 Remaster](https://open.spotify.com/track/22lGkc95LBywIGwK0s7duD) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Boys for Pele \(Deluxe Edition\)](https://open.spotify.com/album/7vuSTl6tuWg0CQdmfphkFQ) | 3:42 |
 | 68 | [The Way I Feel Inside](https://open.spotify.com/track/4LxeKPgKy1l37g2vTM77Mu) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/2tJfEX4O0mNPax2wR0q0DQ) | 1:51 |
 | 69 | [Again & Again](https://open.spotify.com/track/3Kh7jZ6QdVJJq63A3xRneN) | [the bird and the bee](https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD) | [the bird and the bee](https://open.spotify.com/album/6a0Cjn8ctxzj67VGrk96IH) | 2:45 |
+| 70 | [Hemisphere Pt\. 2](https://open.spotify.com/track/04OJGaVLI9uNogAQkG4wHu) | [Orson Wells](https://open.spotify.com/artist/6sG6juOduwhzQTnzap9WPw) | [Pneumatics](https://open.spotify.com/album/5Bui8yHG60m3hC9MagW4W0) | 3:19 |
+| 71 | [At Yoshino Mountain](https://open.spotify.com/track/3nj36r8RUc0Qt1keHXPVbl) | [Ancient Infinity Orchestra](https://open.spotify.com/artist/3dGPvXs2gnNuw2RkIQKPqR) | [It's Always About Love](https://open.spotify.com/album/411vwZbdmbe4P2Fu8rY7NA) | 2:00 |
+| 72 | [Place Where I Go](https://open.spotify.com/track/1ivMAc4gwF8d9mEXFHYcbz) | [Keanu Nelson](https://open.spotify.com/artist/0TUcASMdcppH9mH0PzCpKG) | [Place Where I Go](https://open.spotify.com/album/5AW3X0hzbgB10tZVgk6YMk) | 3:36 |
+| 73 | [It's My Life](https://open.spotify.com/track/79tfNOyRszY54zHA9MGMC2) | [Jim Ford](https://open.spotify.com/artist/24caHjJclAtCI8Ld7Az8l1) | [Point of No Return \- Previously Unreleased Masters, a Lost 45 & Rare Demos](https://open.spotify.com/album/60t9l4CsXXtgQo4sKfUlLV) | 2:51 |
+| 74 | [Joneses](https://open.spotify.com/track/33EAtkhNkFjqKFITbXHbED) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Joneses](https://open.spotify.com/album/5WexctoI8ZmxPSEYGXReAF) | 3:30 |
+| 75 | [Seki](https://open.spotify.com/track/08qNRaYrPlY97WAslzovD9) | [The Circling Sun](https://open.spotify.com/artist/6U51RugDKVdqss9kCDx0dQ) | [Orbits](https://open.spotify.com/album/6jEQazZeVrCNhy55PIiojb) | 4:19 |
+| 76 | [Walking by Flashlight \- Thompson Fields Version](https://open.spotify.com/track/5i905CIs4whDxffaFOH4eH) | [Maria Schneider](https://open.spotify.com/artist/61bWkkCyCh1jSBmAKdC7sg), [Maria Schneider Orchestra](https://open.spotify.com/artist/6AUV57pKJN9J0V7JRZmrcF), [Maria Schneider Jazz Orchestra](https://open.spotify.com/artist/4YYi31zfDVuZjx8AR1FlMO) | [The Essential Maria Schneider](https://open.spotify.com/album/5TDoy8L0syQ3EepzY3hkHb) | 5:01 |
+| 77 | [Catsu](https://open.spotify.com/track/0lbQaP751MUEVtK0F4A43C) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [HomeSoon](https://open.spotify.com/album/1uoyioN7yCRAUoVpgZQHHD) | 4:27 |
 
-Snapshot ID: `AAANTytfEbpUFA3K74LBryTJajcO2BbC`
+Snapshot ID: `AAANVUuuaKjSYgFDDaj4DcWMnR3wUpMz`

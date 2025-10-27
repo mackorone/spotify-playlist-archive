@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3250,
+  "num_followers": 3249,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAADLK71Ns9d4zllwU5TVWy73",
+  "snapshot_id": "aPwTAAAAAAB+MoisXqApUN5phgQWbrVG",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moana 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3K7KtvJLEzijZoLJfKsOma"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Villagers of Motunui",
+          "url": "https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm"
+        },
+        {
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 191746,
+      "name": "We're Back",
+      "url": "https://open.spotify.com/track/1t0BoWU7oLtfrOX5XsBXAG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live Your Story",
         "url": "https://open.spotify.com/album/4EZsKG8lQLmphvWsXFaYNx"
       },
@@ -67,26 +95,6 @@
       "duration_ms": 206007,
       "name": "Live Your Story",
       "url": "https://open.spotify.com/track/6dXkX4y7QWoTkhjAnjRw7h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Jaquel Spivey",
-          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
-        }
-      ],
-      "duration_ms": 187960,
-      "name": "Apex Predator",
-      "url": "https://open.spotify.com/track/7pfQ5U5XO54dlwzKcb47sf"
     },
     {
       "added_at": null,
@@ -136,21 +144,45 @@
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         },
         {
-          "name": "Villagers of Motunui",
-          "url": "https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm"
+          "name": "Hual\u0101lai Chung",
+          "url": "https://open.spotify.com/artist/2yQnOZL6KBqo4Ar4glh6F0"
         },
         {
-          "name": "Te Vaka",
-          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
+          "name": "Rose Matafeo",
+          "url": "https://open.spotify.com/artist/6XsikqEx9qFXIAquVK1akU"
+        },
+        {
+          "name": "David Fane",
+          "url": "https://open.spotify.com/artist/5gwLn7twOXJfXjf0oJ7W2D"
         },
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 191746,
-      "name": "We're Back",
-      "url": "https://open.spotify.com/track/7rzMGJGXXkuw2IbyHqdZlp"
+      "duration_ms": 179040,
+      "name": "What Could Be Better Than This?",
+      "url": "https://open.spotify.com/track/0dKpTh3oDHuBTwPlKiCxAF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Jaquel Spivey",
+          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
+        }
+      ],
+      "duration_ms": 187960,
+      "name": "Apex Predator",
+      "url": "https://open.spotify.com/track/7pfQ5U5XO54dlwzKcb47sf"
     },
     {
       "added_at": null,
@@ -171,26 +203,6 @@
       "duration_ms": 181089,
       "name": "Under the Sea - From \"The Little Mermaid Live!\"",
       "url": "https://open.spotify.com/track/0W3JkGTUP2XFCNCIeKDEOX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Cast of Mean Girls",
-          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
-        }
-      ],
-      "duration_ms": 176515,
-      "name": "I'd Rather Be Me",
-      "url": "https://open.spotify.com/track/4vndz7TD2SHRwEKbz158DR"
     },
     {
       "added_at": null,
@@ -240,25 +252,45 @@
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         },
         {
-          "name": "Hual\u0101lai Chung",
-          "url": "https://open.spotify.com/artist/2yQnOZL6KBqo4Ar4glh6F0"
+          "name": "Olivia Foa'i",
+          "url": "https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50"
         },
         {
-          "name": "Rose Matafeo",
-          "url": "https://open.spotify.com/artist/6XsikqEx9qFXIAquVK1akU"
+          "name": "Opetaia Foa'i",
+          "url": "https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH"
         },
         {
-          "name": "David Fane",
-          "url": "https://open.spotify.com/artist/5gwLn7twOXJfXjf0oJ7W2D"
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
         },
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 179040,
-      "name": "What Could Be Better Than This?",
-      "url": "https://open.spotify.com/track/0dKpTh3oDHuBTwPlKiCxAF"
+      "duration_ms": 88360,
+      "name": "We Know The Way (Te Fenua te Malie)",
+      "url": "https://open.spotify.com/track/20QxeN0YcZZiFW8wM6XUck"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Cast of Mean Girls",
+          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
+        }
+      ],
+      "duration_ms": 176515,
+      "name": "I'd Rather Be Me",
+      "url": "https://open.spotify.com/track/4vndz7TD2SHRwEKbz158DR"
     },
     {
       "added_at": null,
@@ -275,26 +307,6 @@
       "duration_ms": 132298,
       "name": "Part of Your World (Reprise) - From \"The Little Mermaid Live!\"",
       "url": "https://open.spotify.com/track/2v7WfLSmtaP09kX74RPTNJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Jaquel Spivey",
-          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
-        }
-      ],
-      "duration_ms": 68692,
-      "name": "A Cautionary Tale",
-      "url": "https://open.spotify.com/track/6JKm5XtUhS2oSl2NRiBXe2"
     },
     {
       "added_at": null,
@@ -319,38 +331,6 @@
       "duration_ms": 162826,
       "name": "I Am Moana (Song of the Ancestors)",
       "url": "https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moana 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Olivia Foa'i",
-          "url": "https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50"
-        },
-        {
-          "name": "Opetaia Foa'i",
-          "url": "https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH"
-        },
-        {
-          "name": "Te Vaka",
-          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 88360,
-      "name": "We Know The Way (Te Fenua te Malie)",
-      "url": "https://open.spotify.com/track/20QxeN0YcZZiFW8wM6XUck"
     },
     {
       "added_at": null,
@@ -386,23 +366,11 @@
         {
           "name": "Jaquel Spivey",
           "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
-        },
-        {
-          "name": "Angourie Rice",
-          "url": "https://open.spotify.com/artist/2WBxsfNZRSQriRDgDgWkTO"
-        },
-        {
-          "name": "Tim Meadows",
-          "url": "https://open.spotify.com/artist/5ll9FhxzUEG7Bl9LAjPX4E"
-        },
-        {
-          "name": "Cast of Mean Girls",
-          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
         }
       ],
-      "duration_ms": 285221,
-      "name": "Revenge Party",
-      "url": "https://open.spotify.com/track/76IYmZf601sdCGQLokyrjW"
+      "duration_ms": 68692,
+      "name": "A Cautionary Tale",
+      "url": "https://open.spotify.com/track/6JKm5XtUhS2oSl2NRiBXe2"
     },
     {
       "added_at": null,
@@ -459,6 +427,38 @@
       "duration_ms": 258933,
       "name": "Scars To Your Beautiful - Rise Cast Version",
       "url": "https://open.spotify.com/track/1rffHCBOEXWWl4FjSPToyE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Jaquel Spivey",
+          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
+        },
+        {
+          "name": "Angourie Rice",
+          "url": "https://open.spotify.com/artist/2WBxsfNZRSQriRDgDgWkTO"
+        },
+        {
+          "name": "Tim Meadows",
+          "url": "https://open.spotify.com/artist/5ll9FhxzUEG7Bl9LAjPX4E"
+        },
+        {
+          "name": "Cast of Mean Girls",
+          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
+        }
+      ],
+      "duration_ms": 285221,
+      "name": "Revenge Party",
+      "url": "https://open.spotify.com/track/76IYmZf601sdCGQLokyrjW"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whispering (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA"
+        "name": "The Word Of Your Body (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw"
       },
       "artists": [
         {
@@ -618,11 +618,15 @@
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Damon J. Gillespie",
+          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
         }
       ],
-      "duration_ms": 211013,
-      "name": "Whispering - Rise Cast Version",
-      "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
+      "duration_ms": 174226,
+      "name": "The Word Of Your Body - Rise Cast Version",
+      "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
     },
     {
       "added_at": null,
@@ -655,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Word Of Your Body (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw"
+        "name": "Whispering (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA"
       },
       "artists": [
         {
@@ -666,15 +670,11 @@
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Damon J. Gillespie",
-          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
         }
       ],
-      "duration_ms": 174226,
-      "name": "The Word Of Your Body - Rise Cast Version",
-      "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
+      "duration_ms": 211013,
+      "name": "Whispering - Rise Cast Version",
+      "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
     },
     {
       "added_at": null,

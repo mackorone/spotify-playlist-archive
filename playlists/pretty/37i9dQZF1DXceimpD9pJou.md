@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Barajas y Gawvi
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,319 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,335 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hombre Nuevo](https://open.spotify.com/track/71YS4ykCSdZgBfXRLOd2Vk) | [HeartBeat Music](https://open.spotify.com/artist/1r9xLwoX9cNdZQL1Weekrd), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5) | [Hombre Nuevo](https://open.spotify.com/album/3viv1vGNFkD2Sro7UtDqFe) | 3:22 |
 | 2 | [Aguacero](https://open.spotify.com/track/6S44kKuIGObYm0jvGpUaQW) | [Barajas](https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw), [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [LUNARIO](https://open.spotify.com/album/1QEegFpH0aL5mbGSSGEYBC) | 4:27 |
 | 3 | [Consejos](https://open.spotify.com/track/68Jf7rJm0abIMKXBNO1og6) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2), [Diamnd El Cientifico](https://open.spotify.com/artist/6cO9lHBHUhwyLxcEuasjWe) | [Consejos](https://open.spotify.com/album/1B2IQoytSybgbWJFqgGlS2) | 3:41 |
-| 4 | [Sublime Gracia](https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [Isamar](https://open.spotify.com/artist/6ZkzyDfFp1LJLJD8fKq6Ph) | [Sublime Gracia](https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX) | 2:46 |
+| 4 | [Sublime Gracia](https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [Isamar](https://open.spotify.com/artist/2drlQvlGLUluWh7iqqB8p7) | [Sublime Gracia](https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX) | 2:46 |
 | 5 | [Salvame](https://open.spotify.com/track/2cJVBYNDaqS24s8tWk7PFh) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Salvame](https://open.spotify.com/album/1JZJpD5JPmhStx5cG4BwPL) | 3:21 |
 | 6 | [Los Trigales](https://open.spotify.com/track/7qRjrjco3sxKHZV68kwfSA) | [Los Voceros de Cristo](https://open.spotify.com/artist/4yUNbtVl2PW9dARZdWuDXu), [Clásico Voceros de Cristo](https://open.spotify.com/artist/16kBC2HBS7TMAhXsm6XRod), [Eduardo Silva](https://open.spotify.com/artist/33IXx7GWAIKAUxMyXS5a56) | [Los Trigales](https://open.spotify.com/album/2xBC49idRHfjhN7eK1cALy) | 3:58 |
 | 7 | [Propósito](https://open.spotify.com/track/63XG1M2GN9XMj7vhRwdBVL) | [Grupo Hesed](https://open.spotify.com/artist/5AqVKdIUY9LUfSAE9sV5DA) | [Propósito](https://open.spotify.com/album/7zdWyp4OBQezz02siTqm4E) | 2:52 |

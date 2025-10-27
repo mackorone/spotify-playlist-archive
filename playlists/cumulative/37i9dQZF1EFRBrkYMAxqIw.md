@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-167 songs - 8 hr 47 min
+168 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Stop Making It Worse](https://open.spotify.com/track/5XJiYEHHCfbghn4Ddbgij3) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:51 | 2024-09-29 |  |
 | [Sweet Dreams](https://open.spotify.com/track/37GXIxCvM0Tq6rwsDHdYO6) | [Naxxos](https://open.spotify.com/artist/2iG0HNCECG2DxXxSUcMhEX) | [Sweet Dreams](https://open.spotify.com/album/0hyddra5kXgkos48Tg3u50) | 3:19 | 2022-05-25 |  |
 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 | 2022-05-25 |  |
-| [Switching Gears](https://open.spotify.com/track/4gIGodi4ksOcavBosvDHRr) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [This Is Wulf](https://open.spotify.com/album/7BIbiX7wrPRaXuJ2RZ37kK) | 3:02 | 2022-05-25 |  |
+| [Switching Gears](https://open.spotify.com/track/4gIGodi4ksOcavBosvDHRr) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [This Is Wulf](https://open.spotify.com/album/7BIbiX7wrPRaXuJ2RZ37kK) | 3:02 | 2022-05-25 | 2025-10-27 |
+| [Switching Gears](https://open.spotify.com/track/66CJDRoZn4xejDsFJ308lu) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [This Is Wulf](https://open.spotify.com/album/4VRC31rQtZ9tISJFRSGbTR) | 3:02 | 2025-10-26 |  |
 | [TEN](https://open.spotify.com/track/1eS4LiGfU3kvjAcvF8jNii) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [TEN](https://open.spotify.com/album/2ockdJ9rBZfHNf36FU4JyH) | 2:09 | 2025-02-09 |  |
 | [Thank You For Breathing](https://open.spotify.com/track/5kTmFfy5oE4hph7PK4nU9Q) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 2:43 | 2024-09-29 |  |
 | [The Lights](https://open.spotify.com/track/3lyva1vdXEt40kkS1hffW0) | [Capa \(Official\)](https://open.spotify.com/artist/2RGj10V2dzEJO92R6v7eGA), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [The Lights](https://open.spotify.com/album/5FdJ9QhTY6Rk1ojFRxXbG1) | 2:50 | 2025-02-01 | 2025-02-09 |

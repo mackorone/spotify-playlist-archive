@@ -290,7 +290,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 170942,
       "name": "A Moment in Time",
       "url": "https://open.spotify.com/track/2kdqKlE8lKL0iEA1GBWsoe"
@@ -4658,6 +4658,32 @@
       "duration_ms": 185624,
       "name": "Connection",
       "url": "https://open.spotify.com/track/6G7lhNuenqgyNrJAPVD2sH"
+    },
+    {
+      "album": {
+        "name": "Conscindo (Ginchy Remix)",
+        "url": "https://open.spotify.com/album/2gY6ffGQH9Mefuflpeyvui"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Wolfgang Gartner",
+          "url": "https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK"
+        },
+        {
+          "name": "Ginchy",
+          "url": "https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Conscindo - Ginchy Remix",
+      "url": "https://open.spotify.com/track/0j7KxqPYlWMauHE37cwNc5"
     },
     {
       "album": {

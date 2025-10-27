@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 73 | [Si Me Quieres](https://open.spotify.com/track/2McIdzQW0Rd79yjhbvHwl9) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [RITMO GLOBAL](https://open.spotify.com/album/5cICfk2kY1AgGe7zRKFMzO) | 2:02 |
 | 74 | [HYPE](https://open.spotify.com/track/2r7Sq6fcnICSiGHw5RJkro) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:39 |
 | 75 | [Malas Decisiones](https://open.spotify.com/track/4dRggoEpvJPAwmCMAO7HvB) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:37 |
-| 76 | [Baby Bye Bye](https://open.spotify.com/track/4V8UCn4kU3dBGqQRz2Lu91) | [Kablito](https://open.spotify.com/artist/51aWHhJ7AjxKmZ4dDUc0sm) | [Baby Bye Bye](https://open.spotify.com/album/4lTbFebL5FTPCyjOwFE9d0) | 2:33 |
-| 77 | [2Y34AM](https://open.spotify.com/track/472YGLU2zeUeqHPnU0GD74) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [2Y34AM](https://open.spotify.com/album/1cfycK1ItL1e6chEZ7SEmi) | 2:57 |
+| 76 | [2Y34AM](https://open.spotify.com/track/472YGLU2zeUeqHPnU0GD74) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [2Y34AM](https://open.spotify.com/album/1cfycK1ItL1e6chEZ7SEmi) | 2:57 |
+| 77 | [Baby Bye Bye](https://open.spotify.com/track/4V8UCn4kU3dBGqQRz2Lu91) | [Kablito](https://open.spotify.com/artist/51aWHhJ7AjxKmZ4dDUc0sm) | [Baby Bye Bye](https://open.spotify.com/album/4lTbFebL5FTPCyjOwFE9d0) | 2:33 |
 | 78 | [Ni De Aquí, Ni De Allá](https://open.spotify.com/track/0ER7nWOV88M9EiNhItsvVA) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:46 |
 | 79 | [Crezco](https://open.spotify.com/track/78Q755u7op1rvSrjbRmSd2) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [SÉ TÚ MISMO](https://open.spotify.com/album/1cG6HAhEp3inaCk3c4gKT3) | 1:36 |
 | 80 | [VIP](https://open.spotify.com/track/5oDwlD8r5zNlVOE6i34tjH) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J) | 1:46 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 90 | [BALLIN'](https://open.spotify.com/track/3c6B6MZyACJ20C1VUdU8lU) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [POR LA CULTURA MIXTAPE VOL\. 1](https://open.spotify.com/album/1OFtSDQuCHuLjDwEqIAqDH) | 2:17 |
 | 91 | [UWU](https://open.spotify.com/track/1cEhypJFllfBA5sGVZFtq3) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [UWU](https://open.spotify.com/album/2DmiIfiNVVEEoPp1gIU7jx) | 2:22 |
 
-Snapshot ID: `Ab/1xgAAAACfNt0RIVF0Z/Dqw6asEPwR`
+Snapshot ID: `Ab/7ZgAAAAAmeu5chKIHBIGY6m8rYAt4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Silvana Estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,433 likes - 102 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,453 likes - 102 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 101 | [las ramas](https://open.spotify.com/track/1VADn46hFBYDxs7eegvOAd) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [anónimo](https://open.spotify.com/album/6oC9BCN4OyTRRi0S9H4n9Y) | 3:01 |
 | 102 | [Dije que sí](https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Decir que sí](https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0) | 2:18 |
 
-Snapshot ID: `AAAAAI+D9VRQ0X3WVrkdfS1F+DrVoP5a`
+Snapshot ID: `AAAAAGyYLgDJdODEZRr9frZSfh9Wly/f`

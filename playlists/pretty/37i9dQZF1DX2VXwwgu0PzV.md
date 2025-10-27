@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Joe L Barnes and Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,922 likes - 110 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,944 likes - 110 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 44 | [Sinner](https://open.spotify.com/track/6ZmYqbCv5h7OeV2DD5LYQB) | [Saelem](https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb) | [Sinner](https://open.spotify.com/album/3no1CBQvHtBz4UfW1w4qNg) | 2:45 |
 | 45 | [Adoration](https://open.spotify.com/track/47odPUY0DR9vwPK6wkWGfu) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Adoration](https://open.spotify.com/album/62rPi7vLE3GCusBcXIcAYC) | 2:35 |
 | 46 | [Cover me](https://open.spotify.com/track/2XeZVmhkVS03hMrRgLr1tA) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Cover me](https://open.spotify.com/album/3MHgnwu3BJY5aKnivu0T1C) | 3:08 |
-| 47 | [Stay](https://open.spotify.com/track/3cE2jfOnbK6cQYwfyfYP5c) | [VonTrap](https://open.spotify.com/artist/5eIys7MbZc5zD0bzktmIZC), [Nomza](https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx) | [Stay](https://open.spotify.com/album/1Y8giwaw17LaP8WAuRcmRa) | 3:03 |
+| 47 | [Stay](https://open.spotify.com/track/3cE2jfOnbK6cQYwfyfYP5c) | [VonTrap](https://open.spotify.com/artist/5eIys7MbZc5zD0bzktmIZC), [Nomza](https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx), [Peer Pressure Mcs](https://open.spotify.com/artist/4M8NUKJUbmc9y0j0GRJcXS) | [Stay](https://open.spotify.com/album/1Y8giwaw17LaP8WAuRcmRa) | 3:03 |
 | 48 | [Tuale](https://open.spotify.com/track/6XgoCyZZtwChb0LiJvOXdc) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Lagos Lover Boy](https://open.spotify.com/album/7C3bmmUT99wEnbrtSJjC4e) | 5:05 |
 | 49 | [Zoe](https://open.spotify.com/track/5yskjc8os5ZUne1uYA9UOX) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Password](https://open.spotify.com/artist/6mkNFFIPEN2lCvBNkGW2nI), [Henri](https://open.spotify.com/artist/7cpzcKMoBUIKVb2PGgT4My) | [Zoe](https://open.spotify.com/album/3ZWdozT3L0B0UdUWgpYXoo) | 3:32 |
 | 50 | [Closer](https://open.spotify.com/track/5JLy3sWl8OzmSlmC4z6oHU) | [AGBoss](https://open.spotify.com/artist/4vAC25npjEUBsmeM4bncJq), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [CU3E](https://open.spotify.com/artist/6wDCqlxiTNXIZDjEdaMbTa) | [Closer](https://open.spotify.com/album/7kRCiDPzgsxkc1TbebR3rB) | 2:46 |

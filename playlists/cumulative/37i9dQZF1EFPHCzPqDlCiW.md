@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-180 songs - 9 hr 32 min
+182 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,9 +126,10 @@
 | [Me Before You](https://open.spotify.com/track/13VyJynuETCwjT17XXZbkL) | [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Hunger](https://open.spotify.com/album/16t2OtzcshZ9wcDMk75hw1) | 3:19 | 2024-01-29 |  |
 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 | 2024-01-29 |  |
 | [Moving Mountains \(feat\. Ollie Green\) \- GATTÜSO Remix](https://open.spotify.com/track/0V3hcG44S4Qg5QgJfQgrEq) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Ollie Green](https://open.spotify.com/artist/2PCKbRUI5rGUwOkGXX2W5U), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Moving Mountains \(feat\. Ollie Green\) \[GATTÜSO Remix\]](https://open.spotify.com/album/3cPMzHoZFWnBKeOUVMCTrq) | 3:02 | 2024-01-29 |  |
-| [Never Forget You](https://open.spotify.com/track/03LXMI84EALrqIKgh5Zl6w) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You \(Amél Remix\)](https://open.spotify.com/album/5GX1hxHNPpyh35tnDp5QFb) | 3:04 | 2025-07-04 |  |
+| [Never Forget You](https://open.spotify.com/track/03LXMI84EALrqIKgh5Zl6w) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You \(Amél Remix\)](https://open.spotify.com/album/5GX1hxHNPpyh35tnDp5QFb) | 3:04 | 2025-07-04 | 2025-10-27 |
 | [Never Forget You](https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You](https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh) | 3:04 | 2025-03-28 | 2025-05-23 |
 | [Never Forget You](https://open.spotify.com/track/2j5qmVNEUwsdOWeSIAYWUT) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You](https://open.spotify.com/album/5AI1a7reUwdeJZRS5h9LcR) | 3:04 | 2025-05-22 | 2025-07-05 |
+| [Never Forget You](https://open.spotify.com/track/5j68TaDRcPBdh27OjKr4l6) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You](https://open.spotify.com/album/5zddDIeVxzTsFyHXaRFwvL) | 3:04 | 2025-10-26 |  |
 | [Never Letting Go](https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Never Letting Go \(feat\. Julia Church\)](https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9) | 2:02 | 2024-10-27 |  |
 | [New Skin](https://open.spotify.com/track/6saeoq9cenoOtXKqLcDvG8) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:15 | 2024-01-29 |  |
 | [Nights Like This](https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Nights Like This](https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi) | 3:10 | 2024-01-29 |  |
@@ -165,6 +166,7 @@
 | [Spiral](https://open.spotify.com/track/5H4bI4Sk5tCMgBRTOU5XkS) | [Rebecca Clements](https://open.spotify.com/artist/3e13PrKuO8pPF0nt8I1zII) | [Spiral](https://open.spotify.com/album/2LPwS46wjPwkWDmeyH0Evj) | 3:43 | 2024-01-29 |  |
 | [Standing in His Shoes](https://open.spotify.com/track/0tClc3XkyyH1JyauQyDRSZ) | [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Standing in His Shoes](https://open.spotify.com/album/7LoVmENUMntLeiwUc01M2C) | 3:13 | 2024-01-29 |  |
 | [Start Again](https://open.spotify.com/track/1FypvNODDT5HbtPbIDsugy) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:40 | 2024-01-29 |  |
+| [Stay Awake](https://open.spotify.com/track/7f71BTXWubBCTIlbEqKeUi) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Stay Awake](https://open.spotify.com/album/5Ev62f2XpQUWw9XdSsYuDL) | 3:28 | 2025-10-26 |  |
 | [Stay Lost \- Cabu Remix](https://open.spotify.com/track/2qcFl2nn5JT8Kt9xpw8bUb) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [Amber\-Simone](https://open.spotify.com/artist/4KqKrtbthkLIucOXM3fGdV), [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Stay Lost \(Cabu Remix\)](https://open.spotify.com/album/5qsEGHO0Y4mLJKDjcEN96W) | 3:46 | 2024-01-29 |  |
 | [Still Got It Bad](https://open.spotify.com/track/2eJCERt6Rra9xLwIEsTxn6) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Still Got It Bad](https://open.spotify.com/album/3SdwPVxWApbnWMDl90lTDU) | 2:21 | 2024-01-29 |  |
 | [Storm Warning](https://open.spotify.com/track/2A5c5E66FvZGhVtqPIyBXg) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/21pu6GFhO61NL2ZgzEsHjm) | 2:22 | 2025-10-08 |  |

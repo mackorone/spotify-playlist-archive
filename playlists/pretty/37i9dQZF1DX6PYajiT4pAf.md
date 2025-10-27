@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > JC Reyes, Tainy x Feid, Young Miko, TINI, Fito y Fitipaldis y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,521 likes - 84 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,518 likes - 84 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

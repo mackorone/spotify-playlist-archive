@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 72076,
+  "num_followers": 72085,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Slideshows",
-        "url": "https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289"
-      },
-      "artists": [
-        {
-          "name": "Thirsty Merc",
-          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "20 Good Reasons",
-      "url": "https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Resolution - EP",
         "url": "https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 256389,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Slideshows",
+        "url": "https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289"
+      },
+      "artists": [
+        {
+          "name": "Thirsty Merc",
+          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "20 Good Reasons",
+      "url": "https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -759,18 +759,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "In The Summertime",
-        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
+        "name": "The Power (15 Year Anniversary Re-Issue)",
+        "url": "https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ"
       },
       "artists": [
         {
-          "name": "Thirsty Merc",
-          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
+          "name": "Vanessa Amorosi",
+          "url": "https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj"
         }
       ],
-      "duration_ms": 228560,
-      "name": "In the Summertime - Single Version",
-      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
+      "duration_ms": 224600,
+      "name": "Absolutely Everybody",
+      "url": "https://open.spotify.com/track/283898Lgbl6LidapOraXiN"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "The Power (15 Year Anniversary Re-Issue)",
-        "url": "https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Amorosi",
-          "url": "https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "Absolutely Everybody",
-      "url": "https://open.spotify.com/track/283898Lgbl6LidapOraXiN"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Watching Angels Mend",
         "url": "https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Reflector",
-        "url": "https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip"
+        "name": "In The Summertime",
+        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
       },
       "artists": [
         {
-          "name": "Killing Heidi",
-          "url": "https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP"
+          "name": "Thirsty Merc",
+          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
         }
       ],
-      "duration_ms": 244866,
-      "name": "Weir",
-      "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
+      "duration_ms": 228560,
+      "name": "In the Summertime - Single Version",
+      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -851,6 +835,22 @@
       "duration_ms": 214093,
       "name": "Is This How You Feel?",
       "url": "https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Reflector",
+        "url": "https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip"
+      },
+      "artists": [
+        {
+          "name": "Killing Heidi",
+          "url": "https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Weir",
+      "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Thirty One",
-        "url": "https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2"
-      },
-      "artists": [
-        {
-          "name": "Jarryd James",
-          "url": "https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "Do You Remember",
-      "url": "https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Counting Down The Days",
         "url": "https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Mousetrap Heart",
-        "url": "https://open.spotify.com/album/0QvmRTObBV5FfYFTnO8qP7"
+        "name": "Thirty One",
+        "url": "https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2"
       },
       "artists": [
         {
-          "name": "Thirsty Merc",
-          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
+          "name": "Jarryd James",
+          "url": "https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s"
         }
       ],
-      "duration_ms": 232840,
-      "name": "Tommy and Krista",
-      "url": "https://open.spotify.com/track/4h64azBMSFV2yRFpavLtqY"
+      "duration_ms": 234866,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Mousetrap Heart",
+        "url": "https://open.spotify.com/album/0QvmRTObBV5FfYFTnO8qP7"
+      },
+      "artists": [
+        {
+          "name": "Thirsty Merc",
+          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
+        }
+      ],
+      "duration_ms": 232840,
+      "name": "Tommy and Krista",
+      "url": "https://open.spotify.com/track/4h64azBMSFV2yRFpavLtqY"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "That's What I'm Talking About",
         "url": "https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 201773,
       "name": "What About Me",
       "url": "https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1139,34 +1155,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Greatest Hits 1994 - 2004",
-        "url": "https://open.spotify.com/album/3eArVEbkPCtNGoCFkFCftz"
+        "name": "Ripcord (Australian Tour Edition)",
+        "url": "https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn"
       },
       "artists": [
         {
-          "name": "Tina Arena",
-          "url": "https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/1XsFwPxVyhouqW6Qu71Ygm"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB"
-      },
-      "artists": [
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
         {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 223040,
-      "name": "Down Under",
-      "url": "https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA"
+      "duration_ms": 184040,
+      "name": "The Fighter",
+      "url": "https://open.spotify.com/track/7EAFj7eJcMF5koWSRJVZcL"
     }
   ],
   "unique_name": "Aussie Pop Classics",

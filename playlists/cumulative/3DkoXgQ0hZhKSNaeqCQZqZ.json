@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Crimson Galaxies",
+        "url": "https://open.spotify.com/album/4iVzbV3AoyVRypYasLf92c"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202349,
+      "name": "Crimson Galaxies",
+      "url": "https://open.spotify.com/track/4IUxeDN8MlRYe9sC2SiItA"
+    },
+    {
+      "album": {
         "name": "friends",
         "url": "https://open.spotify.com/album/4ru2KsLvRuIDc8sWvnycEk"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 568449,
+  "num_followers": 568607,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,26 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
+        "name": "Bewitched (Rework)",
+        "url": "https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 262876,
+      "name": "Bewitched - Rework",
+      "url": "https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
         "name": "C. Schumann: 3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
         "url": "https://open.spotify.com/album/3q0ogG562Nocti3uDkZmAP"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 190866,
       "name": "3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
       "url": "https://open.spotify.com/track/1W6ZSpMRXgeM9iSJxA1xus"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
-        "name": "Bewitched (Rework)",
-        "url": "https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 262876,
-      "name": "Bewitched - Rework",
-      "url": "https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -599,18 +599,22 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "Solon Islandus (Complete Works)",
-        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
+        "name": "Tchaikovsky: Children's Album, Op. 39: No. 21, Sweet Dreams",
+        "url": "https://open.spotify.com/album/10mpmaq2FmGOM3HeUHtis0"
       },
       "artists": [
         {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
         }
       ],
-      "duration_ms": 162374,
-      "name": "Faded Leaves Fall",
-      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
+      "duration_ms": 181040,
+      "name": "Children's Album, Op. 39: No. 21, Sweet Dreams",
+      "url": "https://open.spotify.com/track/3RcqfI7qd4jYgdReTnTPR7"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -631,22 +635,18 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "Tchaikovsky: Children's Album, Op. 39: No. 21, Sweet Dreams",
-        "url": "https://open.spotify.com/album/10mpmaq2FmGOM3HeUHtis0"
+        "name": "Solon Islandus (Complete Works)",
+        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Daniil Trifonov",
-          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 181040,
-      "name": "Children's Album, Op. 39: No. 21, Sweet Dreams",
-      "url": "https://open.spotify.com/track/3RcqfI7qd4jYgdReTnTPR7"
+      "duration_ms": 162374,
+      "name": "Faded Leaves Fall",
+      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
+        "name": "Alexandre Tharaud. \"Voyage en France\"",
+        "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 326400,
+      "name": "Jeux d\u2019eau, M 30",
+      "url": "https://open.spotify.com/track/5DmiFGgPMz8bupvKHrAtu4"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
         "name": "Telemann Collection",
         "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 65080,
       "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
       "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
-        "name": "Alexandre Tharaud. \"Voyage en France\"",
-        "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 326400,
-      "name": "Jeux d\u2019eau, M 30",
-      "url": "https://open.spotify.com/track/5DmiFGgPMz8bupvKHrAtu4"
     },
     {
       "added_at": "2025-10-10 08:36:30",

@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 39021,
+  "num_followers": 39023,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -451,30 +451,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Grieg/Sibelius: Nordic Suites",
-        "url": "https://open.spotify.com/album/2wR13ohGUywejREWOGlwnm"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        },
-        {
-          "name": "Raymond Leppard",
-          "url": "https://open.spotify.com/artist/6RX3X6dI939ANy78YXqWXT"
-        }
-      ],
-      "duration_ms": 318973,
-      "name": "Sigurd Jorsalfar, three Orchestral pieces Op. 56: 2. Intermezzo: Borghild's Dream (Op. 22 No. 2)",
-      "url": "https://open.spotify.com/track/20v4xBAlAHEzTRK00Lmk8w"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Sibelius: Karelia Suite; Swan of Tuonela/Grieg: Holberg Suite",
         "url": "https://open.spotify.com/album/0UEtCD7OMAWij6pzFxjbz8"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 243000,
       "name": "Holberg Suite, Op. 40: 5. Rigaudon (Allegro con brio)",
       "url": "https://open.spotify.com/track/2fPsJT9Q1d5ferqW3brhQP"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Grieg/Sibelius: Nordic Suites",
+        "url": "https://open.spotify.com/album/2wR13ohGUywejREWOGlwnm"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Raymond Leppard",
+          "url": "https://open.spotify.com/artist/6RX3X6dI939ANy78YXqWXT"
+        }
+      ],
+      "duration_ms": 318973,
+      "name": "Sigurd Jorsalfar, three Orchestral pieces Op. 56: 2. Intermezzo: Borghild's Dream (Op. 22 No. 2)",
+      "url": "https://open.spotify.com/track/20v4xBAlAHEzTRK00Lmk8w"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -547,6 +547,26 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
+        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
+        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lyric Pieces IV, Op. 47: No. 3 Melodie",
+      "url": "https://open.spotify.com/track/5iEnou51q2TGpOcT7nqVZm"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
         "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
         "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 390200,
       "name": "Grieg: Cello Sonata in A Minor, Op. 36: II. Andante molto tranquillo",
       "url": "https://open.spotify.com/track/1dQcZRGntODNgU5Pj7tgHO"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
-        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
-        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Lyric Pieces IV, Op. 47: No. 3 Melodie",
-      "url": "https://open.spotify.com/track/5iEnou51q2TGpOcT7nqVZm"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -707,26 +707,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
-        "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 151320,
-      "name": "Grieg: Moods, Op. 73: No. 4, Folk Song",
-      "url": "https://open.spotify.com/track/1Gto2d2iJfpjeP8BAJSDKq"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Grieg/Sibelius: Cello Sonatas",
         "url": "https://open.spotify.com/album/6FI3OssQVr9jVTzAjWSxE3"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 606493,
       "name": "Grieg: Cello Sonata in A Minor, Op. 36: I. Allegro agitato",
       "url": "https://open.spotify.com/track/3h1ato75I6NuK3atUWeQen"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
+        "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 151320,
+      "name": "Grieg: Moods, Op. 73: No. 4, Folk Song",
+      "url": "https://open.spotify.com/track/1Gto2d2iJfpjeP8BAJSDKq"
     },
     {
       "added_at": "2025-09-15 14:00:16",

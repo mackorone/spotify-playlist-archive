@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/this\-year\-the\-fall\-season\-is\-in\-bloom">October newsletter w/ Audrey Hobert is live 🪿</a> Cover: Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,187,740 likes - 200 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,704 likes - 200 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 254500,
       "name": "\u0e15\u0e48\u0e2d\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/315ar0QJiyciYkdVJUGA3w"
@@ -2730,6 +2730,24 @@
       "duration_ms": 247360,
       "name": "\u0e25\u0e39\u0e01\u0e2d\u0e21",
       "url": "https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn"
+    },
+    {
+      "album": {
+        "name": "The First Album",
+        "url": "https://open.spotify.com/album/5dqU6JzyweoetwSDtq2E8I"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220793,
+      "name": "\u0e27\u0e31\u0e14\u0e1b\u0e30\u0e2b\u0e25\u0e48\u0e30? (Test Me)",
+      "url": "https://open.spotify.com/track/0gEewSHZqPiNQa9DqeeUXj"
     },
     {
       "album": {

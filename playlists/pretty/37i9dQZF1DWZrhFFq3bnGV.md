@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Clara Riva
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,156 likes - 95 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,168 likes - 95 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

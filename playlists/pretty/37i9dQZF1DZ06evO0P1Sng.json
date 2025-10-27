@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8225,
+  "num_followers": 8227,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAAACAkvsZmY+WJFuvjtrpKKS",
+  "snapshot_id": "aPwTAAAAAADinMVAvBbn4e98rSWsrxpk",
   "tracks": [
     {
       "added_at": null,
@@ -663,6 +663,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Intenso",
+        "url": "https://open.spotify.com/album/5WJvrQgYVkSaMkdrFpJuJe"
+      },
+      "artists": [
+        {
+          "name": "MC Zaquin",
+          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Kelwin Lopes",
+          "url": "https://open.spotify.com/artist/0s7XyRPQrAAfi9I7OOrHEP"
+        }
+      ],
+      "duration_ms": 136022,
+      "name": "Amor Intenso",
+      "url": "https://open.spotify.com/track/35uDP9LyfJ790dEx9h5TBd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reverse",
+        "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 133193,
+      "name": "Reverse",
+      "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BOLA + 1 BECK",
         "url": "https://open.spotify.com/album/4ZLxvfs4jZvVRmQLIfbtni"
       },
@@ -699,46 +739,6 @@
       "duration_ms": 487619,
       "name": "Pra Sempre",
       "url": "https://open.spotify.com/track/5Cq98QXJoptVVspuRDOkg4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reverse",
-        "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 133193,
-      "name": "Reverse",
-      "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Intenso",
-        "url": "https://open.spotify.com/album/5WJvrQgYVkSaMkdrFpJuJe"
-      },
-      "artists": [
-        {
-          "name": "MC Zaquin",
-          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Kelwin Lopes",
-          "url": "https://open.spotify.com/artist/0s7XyRPQrAAfi9I7OOrHEP"
-        }
-      ],
-      "duration_ms": 136022,
-      "name": "Amor Intenso",
-      "url": "https://open.spotify.com/track/35uDP9LyfJ790dEx9h5TBd"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todos Contra 1",
+        "url": "https://open.spotify.com/album/58YnsBjxrlUOMwgFw44GHd"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Felixxx",
+          "url": "https://open.spotify.com/artist/1iOEXBqcRUWxN5tBxESHxZ"
+        }
+      ],
+      "duration_ms": 163298,
+      "name": "Todos Contra 1",
+      "url": "https://open.spotify.com/track/2bF02iYjemsTLSeOwb9wm7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ZyZy",
         "url": "https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En"
       },
@@ -931,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Contra 1",
-        "url": "https://open.spotify.com/album/58YnsBjxrlUOMwgFw44GHd"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Felixxx",
-          "url": "https://open.spotify.com/artist/1iOEXBqcRUWxN5tBxESHxZ"
-        }
-      ],
-      "duration_ms": 163298,
-      "name": "Todos Contra 1",
-      "url": "https://open.spotify.com/track/2bF02iYjemsTLSeOwb9wm7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FZND DNV",
         "url": "https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5"
       },
@@ -999,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sua Inten\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Spinnheli",
-          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
-        }
-      ],
-      "duration_ms": 131584,
-      "name": "Sua Inten\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milhas",
         "url": "https://open.spotify.com/album/0cfOwK11Z4y0J0NbtkRbUW"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 163720,
       "name": "Milhas",
       "url": "https://open.spotify.com/track/7oUSiJU3pp2m54aFXwCP9q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sua Inten\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Spinnheli",
+          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
+        }
+      ],
+      "duration_ms": 131584,
+      "name": "Sua Inten\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi"
     },
     {
       "added_at": null,
@@ -1095,34 +1095,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "V\u00cdBORA",
-        "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
-      },
-      "artists": [
-        {
-          "name": "funBABE",
-          "url": "https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 205717,
-      "name": "V\u00cdBORA",
-      "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1910",
         "url": "https://open.spotify.com/album/2OpL0wEz7H75Yb62PLNF9g"
       },
@@ -1155,6 +1127,34 @@
       "duration_ms": 517894,
       "name": "1910",
       "url": "https://open.spotify.com/track/7HKydihmOppbDnnLlSJAbF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "V\u00cdBORA",
+        "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
+      },
+      "artists": [
+        {
+          "name": "funBABE",
+          "url": "https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 205717,
+      "name": "V\u00cdBORA",
+      "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
     },
     {
       "added_at": null,
@@ -1363,30 +1363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SALA VERMELHA #21 - Azzy",
-        "url": "https://open.spotify.com/album/1aqNAndcVgnMBVd6BxCak7"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "A.LBeats",
-          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
-        },
-        {
-          "name": "MOVIMENTO",
-          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
-        }
-      ],
-      "duration_ms": 142788,
-      "name": "SALA VERMELHA #21 - Azzy",
-      "url": "https://open.spotify.com/track/7mH5v6QmkYn9c4fDeif8G6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nota$ (Papatracks #3) (Participa\u00e7\u00e3o especial de Papatinho)",
         "url": "https://open.spotify.com/album/1PU300VLz10xB5jMs5OVBn"
       },
@@ -1407,6 +1383,30 @@
       "duration_ms": 214772,
       "name": "Nota$ (Papatracks #3) (Participa\u00e7\u00e3o especial de Papatinho)",
       "url": "https://open.spotify.com/track/3zbMe3OWUAoUH2ptQnqYTY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SALA VERMELHA #21 - Azzy",
+        "url": "https://open.spotify.com/album/1aqNAndcVgnMBVd6BxCak7"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+        },
+        {
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
+        }
+      ],
+      "duration_ms": 142788,
+      "name": "SALA VERMELHA #21 - Azzy",
+      "url": "https://open.spotify.com/track/7mH5v6QmkYn9c4fDeif8G6"
     },
     {
       "added_at": null,

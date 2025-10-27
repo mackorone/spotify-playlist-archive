@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "English songs from Indian artists\nCover: Tejas",
+  "description": "English songs from Indian artists\nCover: Ramya Pothuri",
   "name": "Indian Indie English",
   "tracks": [
     {
@@ -594,7 +594,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 334625,
       "name": "Beyond What's Here",
       "url": "https://open.spotify.com/track/0sk83k1h8DrcrfQ2ywqaop"
@@ -2180,7 +2180,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 220606,
       "name": "ghost",
       "url": "https://open.spotify.com/track/77mRIH0iEMSDycL7JwgPRz"
@@ -4681,6 +4681,24 @@
     },
     {
       "album": {
+        "name": "Over the Moon",
+        "url": "https://open.spotify.com/album/0f7P0KplCgbOXCuZ2RCPQJ"
+      },
+      "artists": [
+        {
+          "name": "axe.shay",
+          "url": "https://open.spotify.com/artist/5nGvxnSGQEICmBXZojfqH7"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236052,
+      "name": "Over the Moon",
+      "url": "https://open.spotify.com/track/47m0YD9ERn5IZIjRcxxJ9B"
+    },
+    {
+      "album": {
         "name": "Overrated",
         "url": "https://open.spotify.com/album/6wdJu0Z74v0zKWnf2oUh8E"
       },
@@ -5244,6 +5262,24 @@
       "duration_ms": 198000,
       "name": "Sad in December",
       "url": "https://open.spotify.com/track/3RBEmnwchGJYy9Ugg50CJt"
+    },
+    {
+      "album": {
+        "name": "Say No More",
+        "url": "https://open.spotify.com/album/1iukZAts5HgvSgFpx6Sjxn"
+      },
+      "artists": [
+        {
+          "name": "axe.shay",
+          "url": "https://open.spotify.com/artist/5nGvxnSGQEICmBXZojfqH7"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Say No More",
+      "url": "https://open.spotify.com/track/5UEEpg4v27qmqnsAyHi7zy"
     },
     {
       "album": {

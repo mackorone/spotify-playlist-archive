@@ -3563,6 +3563,28 @@
     },
     {
       "album": {
+        "name": "Kick 2",
+        "url": "https://open.spotify.com/album/281SmfhMWT4OPQvlUthafC"
+      },
+      "artists": [
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253231,
+      "name": "Nuvve Nuvve",
+      "url": "https://open.spotify.com/track/1xbZ2No4vTyvc5sVcW4T9Q"
+    },
+    {
+      "album": {
         "name": "Disco Raja (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0tgnKdIYWLrzjjNMPk4utV"
       },
@@ -4860,7 +4882,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 278188,
       "name": "Super Machi",
       "url": "https://open.spotify.com/track/3WTHnUPLqVZXSw54PFLtiL"

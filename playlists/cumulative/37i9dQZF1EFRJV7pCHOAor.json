@@ -3183,6 +3183,24 @@
     },
     {
       "album": {
+        "name": "Trampoline",
+        "url": "https://open.spotify.com/album/6Yc22hJMoAe01X3hzGkug5"
+      },
+      "artists": [
+        {
+          "name": "Very Nice Person",
+          "url": "https://open.spotify.com/artist/3yzsPSJ1D0m1ugX9U2yL0P"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197166,
+      "name": "Trampoline",
+      "url": "https://open.spotify.com/track/7p5jd7xEbVLwtuQQBKQhck"
+    },
+    {
+      "album": {
         "name": "Spanish Leather",
         "url": "https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV"
       },

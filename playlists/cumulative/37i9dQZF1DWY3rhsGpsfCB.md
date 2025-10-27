@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-857 songs - 1 day 20 hr 10 min
+858 songs - 1 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,7 +481,7 @@
 | [Monsta Alta](https://open.spotify.com/track/4CzjRsUOISdhNlpB09rIz6) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Monsta Alta & Chérie](https://open.spotify.com/album/5RhWRWtO6UuunZaznnyDce) | 2:50 | 2022-11-18 | 2023-12-05 |
 | [Moonlight](https://open.spotify.com/track/4O4jWAcIvbEDF6lOoW1LT5) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Moonlight](https://open.spotify.com/album/0yMD9zrKIky3GRSNn2VC25) | 2:10 | 2023-09-09 | 2024-01-05 |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-24 | 2023-06-23 |
-| [Most Beautiful Design \(feat\. London On Da Track & Future\)](https://open.spotify.com/track/4trOnPnDeFU0jU8qa5i9xX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Most Beautiful Design](https://open.spotify.com/album/0eaTNeeKhIEHA1SQ0nJjby) | 3:39 | 2024-10-18 |  |
+| [Most Beautiful Design \(feat\. London On Da Track & Future\)](https://open.spotify.com/track/4trOnPnDeFU0jU8qa5i9xX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Most Beautiful Design](https://open.spotify.com/album/0eaTNeeKhIEHA1SQ0nJjby) | 3:39 | 2024-10-18 | 2025-10-27 |
 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-04 | 2023-02-11 |
 | [Moving Train \(Isọkụsọ\)](https://open.spotify.com/track/4z8Kg7Iesslzci72GKyd1C) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Moving Train \(Isọkụsọ\)](https://open.spotify.com/album/2l3bVQ9zj8gAFwR1XyaG2T) | 3:11 | 2025-05-30 | 2025-07-05 |
 | [Mr Heartbreaker](https://open.spotify.com/track/5cBjxlthH8KxsfrXlal3Vv) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Mr Heartbreaker](https://open.spotify.com/album/1tsQ2imLCuZQ3ik9d7MU2f) | 2:55 | 2024-10-25 | 2025-10-17 |
@@ -522,6 +522,7 @@
 | [NOBODY \(feat\. Blxckie\)](https://open.spotify.com/track/2gr6VEG2BdPka9Tz1mAfbi) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [ON AIR](https://open.spotify.com/album/0ARXZhTXu81dsgWcTrlGUn) | 4:14 | 2024-04-19 | 2024-06-01 |
 | [Nobody \- Bloody Civilian Remix](https://open.spotify.com/track/7eecj1HXy8EbnkknaQiaRC) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Nobody \(Bloody Civilian Remix\)](https://open.spotify.com/album/5Aw2jvvET8At5FWFSDQekW) | 3:09 | 2025-07-04 | 2025-09-05 |
 | [Normalize](https://open.spotify.com/track/5ZezTi9duxlzXOGA1kFhMw) | [Most Likely](https://open.spotify.com/artist/22vFHWWAkCnZHkyvzaVqZt), [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [UnitedMasters Presents: Most Likely](https://open.spotify.com/album/1ZjvJj8toyUxbU9YtoSRr4) | 2:21 | 2025-07-18 | 2025-08-01 |
+| [Normally](https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Normally](https://open.spotify.com/album/416GBquOnS63wjc41I2aA8) | 3:55 | 2025-10-24 |  |
 | [Nostalgia](https://open.spotify.com/track/1IOOLV6bwrN4uH4KWHei0R) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Nostalgia](https://open.spotify.com/album/3RA0A7RkflJudveefNw8H7) | 3:36 | 2025-06-20 | 2025-07-05 |
 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 | 2023-12-08 | 2024-10-26 |
 | [not regular](https://open.spotify.com/track/7JRUeL2mhC0AIwYDbKy7DG) | [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [Beezyx](https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso), [Tsuni](https://open.spotify.com/artist/5W7waNb0uh9oWrim0ESWVu) | [dear diary](https://open.spotify.com/album/4QIZHDRxiTCmOp45XXASNu) | 3:24 | 2023-09-09 | 2023-09-29 |

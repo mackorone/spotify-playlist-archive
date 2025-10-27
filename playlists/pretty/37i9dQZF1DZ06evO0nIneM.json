@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 92279,
+  "num_followers": 92292,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAACSBte9fNgoQx/zy7A2E467",
+  "snapshot_id": "aPwTAAAAAACHtnmX20Fr46QVrQwRJcD9",
   "tracks": [
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Het Midden Van Alles",
-        "url": "https://open.spotify.com/album/0x77neZ9jpTsX2RAhdCNB6"
+        "name": "Boven",
+        "url": "https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 278813,
-      "name": "Open Je Ogen",
-      "url": "https://open.spotify.com/track/0TT4Qc6UEJAa9JNq4g714R"
+      "duration_ms": 230146,
+      "name": "Niets Dan Dit",
+      "url": "https://open.spotify.com/track/644xmVsj6GLfnuTtYyLWQx"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boven",
-        "url": "https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6"
+        "name": "In Het Midden Van Alles",
+        "url": "https://open.spotify.com/album/0x77neZ9jpTsX2RAhdCNB6"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 230146,
-      "name": "Niets Dan Dit",
-      "url": "https://open.spotify.com/track/644xmVsj6GLfnuTtYyLWQx"
+      "duration_ms": 278813,
+      "name": "Open Je Ogen",
+      "url": "https://open.spotify.com/track/0TT4Qc6UEJAa9JNq4g714R"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Grasbroek Sessies",
+        "url": "https://open.spotify.com/album/45dg5PNF7RTfYQxM0zgm9b"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Vroeg of Laat",
+      "url": "https://open.spotify.com/track/408DiEYD84e2MvSs0FYaWf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live op Concert at SEA 2015",
         "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 282866,
       "name": "Holiday In Spain (feat. Counting Crows) - Live op Concert at SEA 2015",
       "url": "https://open.spotify.com/track/1f3GoYVrEBNdrfNuxGpwQr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Grasbroek Sessies",
-        "url": "https://open.spotify.com/album/45dg5PNF7RTfYQxM0zgm9b"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "Vroeg of Laat",
-      "url": "https://open.spotify.com/track/408DiEYD84e2MvSs0FYaWf"
     },
     {
       "added_at": null,
@@ -843,22 +843,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live op Concert at SEA 2015",
-        "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
+        "name": "Aan",
+        "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
       },
       "artists": [
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
         }
       ],
-      "duration_ms": 392389,
-      "name": "There is A Light That Never Goes Out / Er Is Een Licht Dat Nooit Uit Zal Gaan (feat. Counting Crows) - Live op Concert at SEA 2015",
-      "url": "https://open.spotify.com/track/3cadYJplGpDjraN9cztMwn"
+      "duration_ms": 263080,
+      "name": "Zachtjes Zingen",
+      "url": "https://open.spotify.com/track/1NXfPvlNg4kuJCgGWYH0Ct"
     }
   ],
   "unique_name": "This Is BL\u00d8F",

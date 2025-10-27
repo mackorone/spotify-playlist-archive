@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Jonna Fraser & Lil Kleine",
-  "num_followers": 140258,
+  "num_followers": 140255,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
+        "name": "Luv Again",
+        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 220606,
+      "name": "Luv Again",
+      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
         "name": "Carrousel",
         "url": "https://open.spotify.com/album/7yTJXbUMRfyHnkRqoXtkLt"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 130546,
       "name": "Carrousel",
       "url": "https://open.spotify.com/track/3L5rczaS3ZiXepUbTIvHAp"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
-        "name": "Luv Again",
-        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 220606,
-      "name": "Luv Again",
-      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 195643,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
         "name": "Ba Ba Bad",
         "url": "https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 144489,
       "name": "Ba Ba Bad",
       "url": "https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 195643,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
+        "name": "Strandje Aan De Maas",
+        "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
+        }
+      ],
+      "duration_ms": 206527,
+      "name": "Stunten",
+      "url": "https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
         "name": "Baddie",
         "url": "https://open.spotify.com/album/0u9XpTRBvmMooQZokHW7il"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 158927,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/4mgYtnnm01NgTKLlMpF10h"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
-        "name": "Strandje Aan De Maas",
-        "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "KA",
-          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
-        }
-      ],
-      "duration_ms": 206527,
-      "name": "Stunten",
-      "url": "https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1319,34 +1319,6 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Deim Van Je",
-        "url": "https://open.spotify.com/album/4t4eaa2CdjvOj0E0ojRqZu"
-      },
-      "artists": [
-        {
-          "name": "Chivv",
-          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
-        },
-        {
-          "name": "Diquenza",
-          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
-        },
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        },
-        {
-          "name": "Geechi",
-          "url": "https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W"
-        }
-      ],
-      "duration_ms": 156854,
-      "name": "Deim Van Je",
-      "url": "https://open.spotify.com/track/4xyLHd9CyBt3ky2BxtwDxL"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
         "name": "OHMA TOKITA",
         "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
       },
@@ -1375,6 +1347,34 @@
       "duration_ms": 207430,
       "name": "Appel Mint Puur",
       "url": "https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
+        "name": "Deim Van Je",
+        "url": "https://open.spotify.com/album/4t4eaa2CdjvOj0E0ojRqZu"
+      },
+      "artists": [
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        },
+        {
+          "name": "Diquenza",
+          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "Geechi",
+          "url": "https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W"
+        }
+      ],
+      "duration_ms": 156854,
+      "name": "Deim Van Je",
+      "url": "https://open.spotify.com/track/4xyLHd9CyBt3ky2BxtwDxL"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
+        "name": "In De Nacht",
+        "url": "https://open.spotify.com/album/7B52kWwf8iXkjpA11lMDp0"
+      },
+      "artists": [
+        {
+          "name": "Shah",
+          "url": "https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13"
+        }
+      ],
+      "duration_ms": 150840,
+      "name": "In De Nacht",
+      "url": "https://open.spotify.com/track/2yiXHStn90Xf7i9DcFv4Wy"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
         "name": "180",
         "url": "https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj"
       },
@@ -1539,38 +1555,6 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "In De Nacht",
-        "url": "https://open.spotify.com/album/7B52kWwf8iXkjpA11lMDp0"
-      },
-      "artists": [
-        {
-          "name": "Shah",
-          "url": "https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13"
-        }
-      ],
-      "duration_ms": 150840,
-      "name": "In De Nacht",
-      "url": "https://open.spotify.com/track/2yiXHStn90Xf7i9DcFv4Wy"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
-        "name": "NASA",
-        "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 144675,
-      "name": "NASA",
-      "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
         "name": "Klop Klop",
         "url": "https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 167684,
       "name": "Meteoriet",
       "url": "https://open.spotify.com/track/1ruXNzERqtHdoXULOAcCsJ"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 144675,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
     },
     {
       "added_at": "2025-10-15 22:00:08",

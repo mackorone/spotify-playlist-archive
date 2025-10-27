@@ -213,6 +213,32 @@
     },
     {
       "album": {
+        "name": "De Que Color Es La Suerte",
+        "url": "https://open.spotify.com/album/7Luhi6dMH1sWR1KhrWrGOD"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221617,
+      "name": "De Que Color Es La Suerte",
+      "url": "https://open.spotify.com/track/2RhyI9fUK2bEn6blowOh9w"
+    },
+    {
+      "album": {
         "name": "De Que Puedo Puedo",
         "url": "https://open.spotify.com/album/6is3m2C4CjKBQzjm36VPR0"
       },
@@ -1220,7 +1246,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-27",
       "duration_ms": 208011,
       "name": "La Elegancia Se Miro",
       "url": "https://open.spotify.com/track/6XJ4CQ5E9c71cTkPHhivAN"

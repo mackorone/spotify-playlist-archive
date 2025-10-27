@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 
 ### [Nu Metal Era](https://open.spotify.com/playlist/37i9dQZF1DXcfZ6moR6J0G)
 
-> John Otto, take 'em to the Matthews Bridge!
+> ...and I’m about to break.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,124,800 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,125,386 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:6Ip8FS7vWT1uKkJSweANQK">Dave</a> and  <a href="spotify:artist:687cZJR45JO7jhk1LHIbgq">Tems</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,088 likes - 185 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094,127 likes - 185 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

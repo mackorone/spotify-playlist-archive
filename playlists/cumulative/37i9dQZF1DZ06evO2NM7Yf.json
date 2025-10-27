@@ -114,7 +114,7 @@
     {
       "album": {
         "name": "American in Paris",
-        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
+        "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
       },
       "artists": [
         {
@@ -122,12 +122,12 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "date_added": "2024-01-10",
+      "date_added": "2025-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164933,
       "name": "American in Paris",
-      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
+      "url": "https://open.spotify.com/track/0qmiXuQjdromX08E2ZjZ4j"
     },
     {
       "album": {
@@ -142,7 +142,43 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
+      "date_removed": "2025-10-27",
+      "duration_ms": 164933,
+      "name": "American in Paris",
+      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
+    },
+    {
+      "album": {
+        "name": "American in Paris",
+        "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Because of Me",
+      "url": "https://open.spotify.com/track/1ISdkmkTJYXUD5av8eCq2D"
+    },
+    {
+      "album": {
+        "name": "American in Paris",
+        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2025-10-27",
       "duration_ms": 182500,
       "name": "Because of Me",
       "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with Hex Cougar
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,569 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,561 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 58 | [B\_DA\_1](https://open.spotify.com/track/2j9s2snPLYnQyW1yUgOgIM) | [SAYMYNAME](https://open.spotify.com/artist/1PP0a3KRZiaqtahgtJ3bdv) | [B\_DA\_1](https://open.spotify.com/album/5K0pNCFCrSDhMTvVaqbg6P) | 2:19 |
 | 59 | [LIKE ME](https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [LIKE ME](https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4) | 3:27 |
 | 60 | [King](https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Antagonist](https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ) | 2:47 |
-| 61 | [Okay](https://open.spotify.com/track/1dCp5pt4c76AOMPasRITAw) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [Okay](https://open.spotify.com/album/0U0i261T4YzOxSVc1M9dIV) | 3:00 |
-| 62 | [SIGNAL](https://open.spotify.com/track/2lI0NirbWze2kWcIsB7Nqo) | [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [London Mars](https://open.spotify.com/artist/2R765Ip6o2SEw6HfxkxD2y) | [4EVR](https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB) | 3:23 |
+| 61 | [SIGNAL](https://open.spotify.com/track/2lI0NirbWze2kWcIsB7Nqo) | [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [London Mars](https://open.spotify.com/artist/2R765Ip6o2SEw6HfxkxD2y) | [4EVR](https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB) | 3:23 |
+| 62 | [Okay](https://open.spotify.com/track/1dCp5pt4c76AOMPasRITAw) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [Okay](https://open.spotify.com/album/0U0i261T4YzOxSVc1M9dIV) | 3:00 |
 | 63 | [KGM \(irl\)\*](https://open.spotify.com/track/6RR2CymUsUTc0cQfaQ3RH7) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [KGM \(irl\)\*](https://open.spotify.com/album/69HD49w55iopcQVFsjSrBX) | 2:38 |
 | 64 | [Like This](https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Like This](https://open.spotify.com/album/4Y59xcMEyR5gPt6CNIXsHe) | 2:13 |
 | 65 | [Diamond](https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Diamond](https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j) | 2:42 |

@@ -1,12 +1,12 @@
 {
   "description": "are we okay? \ud83d\udc99",
-  "num_followers": 205503,
+  "num_followers": 205589,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKhIuk/kvDAmU6IBXF3v6kqXJ3SW",
+  "snapshot_id": "AAAAAAgo9CbnldYc/f6LMeuI8acf0JtX",
   "tracks": [
     {
       "added_at": "2025-10-08 18:24:45",
@@ -75,22 +75,6 @@
     {
       "added_at": "2025-10-08 18:24:45",
       "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 234515,
-      "name": "White Horse (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3"
-    },
-    {
-      "added_at": "2025-10-08 18:24:45",
-      "album": {
         "name": "Mr. Misunderstood",
         "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 179346,
       "name": "Record Year",
       "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
+    },
+    {
+      "added_at": "2025-10-08 18:24:45",
+      "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 234515,
+      "name": "White Horse (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3"
     },
     {
       "added_at": "2025-10-08 18:24:45",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-10-08 18:24:45",
       "album": {
-        "name": "All I've Ever Known",
-        "url": "https://open.spotify.com/album/7uaGO5JlgaqeRyjTQaotsE"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Kay",
-          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
-        }
-      ],
-      "duration_ms": 245987,
-      "name": "Everleave",
-      "url": "https://open.spotify.com/track/0Cs7M3RfiZVeMkzqYl7wtk"
-    },
-    {
-      "added_at": "2025-10-08 18:24:45",
-      "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 301986,
       "name": "A Little Bit Stronger",
       "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
+    },
+    {
+      "added_at": "2025-10-08 18:24:45",
+      "album": {
+        "name": "All I've Ever Known",
+        "url": "https://open.spotify.com/album/7uaGO5JlgaqeRyjTQaotsE"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "duration_ms": 245987,
+      "name": "Everleave",
+      "url": "https://open.spotify.com/track/0Cs7M3RfiZVeMkzqYl7wtk"
     },
     {
       "added_at": "2025-10-08 18:24:45",

@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 231099,
+  "num_followers": 231134,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPrBgAAAAAAK7GBK9BLaz9rEEVWkBy3o",
+  "snapshot_id": "aPwTAAAAAABBpWPLAB8mTogzUbaf3NJB",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Reyes Del Movimiento Alterado",
-        "url": "https://open.spotify.com/album/5SJqYFPqPGWZIZpNC9nbct"
+        "name": "El Rey del Corrido: Ayer, Hoy y Siempre, Vol. 1",
+        "url": "https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl"
       },
       "artists": [
         {
-          "name": "Buknas De Culiacan",
-          "url": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         },
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 168146,
-      "name": "Orden Exigido",
-      "url": "https://open.spotify.com/track/5AqS1GDzzD2qkKAduFca3f"
+      "duration_ms": 195509,
+      "name": "Eleodoro Elenes",
+      "url": "https://open.spotify.com/track/2vvatFK9PsMEjpcolFXcGY"
     },
     {
       "added_at": null,
@@ -508,9 +508,29 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 167499,
-      "name": "Toquezones de Cannabis",
-      "url": "https://open.spotify.com/track/1BFlRcER6IYupiiEVaYvMJ"
+      "duration_ms": 170125,
+      "name": "Leyenda M1",
+      "url": "https://open.spotify.com/track/2I1IVGBwp88bjvY0LrAtAg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Reyes Del Movimiento Alterado",
+        "url": "https://open.spotify.com/album/5SJqYFPqPGWZIZpNC9nbct"
+      },
+      "artists": [
+        {
+          "name": "Buknas De Culiacan",
+          "url": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 168146,
+      "name": "Orden Exigido",
+      "url": "https://open.spotify.com/track/5AqS1GDzzD2qkKAduFca3f"
     },
     {
       "added_at": null,
@@ -527,26 +547,6 @@
       "duration_ms": 190129,
       "name": "Yo Me Quiero Mas",
       "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Rey del Corrido: Ayer, Hoy y Siempre, Vol. 1",
-        "url": "https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 195509,
-      "name": "Eleodoro Elenes",
-      "url": "https://open.spotify.com/track/2vvatFK9PsMEjpcolFXcGY"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 170125,
-      "name": "Leyenda M1",
-      "url": "https://open.spotify.com/track/2I1IVGBwp88bjvY0LrAtAg"
+      "duration_ms": 167499,
+      "name": "Toquezones de Cannabis",
+      "url": "https://open.spotify.com/track/1BFlRcER6IYupiiEVaYvMJ"
     },
     {
       "added_at": null,

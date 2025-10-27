@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music.",
-  "num_followers": 131201,
+  "num_followers": 131192,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Archangel",
-        "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 281500,
-      "name": "Man With a Second Face",
-      "url": "https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "The Heads That Know",
         "url": "https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 423244,
       "name": "The Heads That Know (feat. Comma Dee)",
       "url": "https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "Man With a Second Face",
+      "url": "https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -383,26 +383,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Now U Do",
-        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 158882,
-      "name": "Now U Do - Edit",
-      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Tracks of the Blue Sky",
         "url": "https://open.spotify.com/album/5kCSdyvAeUACIFEspLwr83"
       },
@@ -423,6 +403,42 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
+        "name": "Ooo",
+        "url": "https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 239823,
+      "name": "Ooo",
+      "url": "https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Now U Do",
+        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 158882,
+      "name": "Now U Do - Edit",
+      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
         "name": "Maia Maia",
         "url": "https://open.spotify.com/album/4NmtnN6kK5IMgxzUILmZiu"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 181498,
       "name": "Maia Maia",
       "url": "https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Ooo",
-        "url": "https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 239823,
-      "name": "Ooo",
-      "url": "https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -507,6 +507,22 @@
       "duration_ms": 548560,
       "name": "Two Months Off",
       "url": "https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Where You Need To Be",
+        "url": "https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 253478,
+      "name": "Where You Need To Be",
+      "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -631,38 +647,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Where You Need To Be",
-        "url": "https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 253478,
-      "name": "Where You Need To Be",
-      "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Safe In My Arms / YourLove",
-        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 172129,
-      "name": "YourLove",
-      "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "JUST A BEAT",
         "url": "https://open.spotify.com/album/3mfcOBJlCxcCiL1tnFAmkQ"
       },
@@ -683,42 +667,6 @@
       "duration_ms": 223714,
       "name": "JUST A BEAT",
       "url": "https://open.spotify.com/track/0Ii2qImvnAB6eFNBHFIMk3"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "play it again",
-        "url": "https://open.spotify.com/album/0oCUvYwaTE0lfpVPH1T5t4"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 193100,
-      "name": "play it again",
-      "url": "https://open.spotify.com/track/4kGp3xOS7JdHV5WPZhUBWg"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "I Want You To Know",
-        "url": "https://open.spotify.com/album/2zAwgvpAckW8rG7vgiDCZS"
-      },
-      "artists": [
-        {
-          "name": "Sam Alfred",
-          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
-        },
-        {
-          "name": "Kyle Starkey",
-          "url": "https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe"
-        }
-      ],
-      "duration_ms": 190302,
-      "name": "I Want You To Know",
-      "url": "https://open.spotify.com/track/3lXC7mTOd15oE6nmrG0HLW"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -747,22 +695,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Desire to Stay",
-        "url": "https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL"
-      },
-      "artists": [
-        {
-          "name": "X CLUB.",
-          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "Desire to Stay",
-      "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "After Five",
         "url": "https://open.spotify.com/album/1mkM1tzlp0g7Ysicb8rFXe"
       },
@@ -775,6 +707,74 @@
       "duration_ms": 216253,
       "name": "After Five",
       "url": "https://open.spotify.com/track/4IQyORSJmEUrOFAdUvylW0"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "play it again",
+        "url": "https://open.spotify.com/album/0oCUvYwaTE0lfpVPH1T5t4"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 193100,
+      "name": "play it again",
+      "url": "https://open.spotify.com/track/4kGp3xOS7JdHV5WPZhUBWg"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Safe In My Arms / YourLove",
+        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 172129,
+      "name": "YourLove",
+      "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "I Want You To Know",
+        "url": "https://open.spotify.com/album/2zAwgvpAckW8rG7vgiDCZS"
+      },
+      "artists": [
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        },
+        {
+          "name": "Kyle Starkey",
+          "url": "https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe"
+        }
+      ],
+      "duration_ms": 190302,
+      "name": "I Want You To Know",
+      "url": "https://open.spotify.com/track/3lXC7mTOd15oE6nmrG0HLW"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Desire to Stay",
+        "url": "https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Desire to Stay",
+      "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
     },
     {
       "added_at": "2025-10-16 13:00:01",
