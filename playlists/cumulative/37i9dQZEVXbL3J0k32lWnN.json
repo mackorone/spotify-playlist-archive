@@ -204,7 +204,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 222998,
       "name": "10 Dage",
       "url": "https://open.spotify.com/track/39t0uVgHWyL8SW5At2yiYF"
@@ -12936,7 +12936,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 205869,
       "name": "Fire Uger",
       "url": "https://open.spotify.com/track/2fGbVht5HksMkvkIXvlPzc"
@@ -17364,7 +17364,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 246960,
       "name": "History (feat. James Blake)",
       "url": "https://open.spotify.com/track/6OakIaj4T039vJ8V2AJiWa"
@@ -38010,7 +38010,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 195172,
       "name": "Tag Mig Som Jeg Er",
       "url": "https://open.spotify.com/track/3ng6kO3MEzOMBUDyWJxTHM"
@@ -43673,6 +43673,24 @@
     },
     {
       "album": {
+        "name": "Workin",
+        "url": "https://open.spotify.com/album/6H7EllX7zXYPPgpntMDJo2"
+      },
+      "artists": [
+        {
+          "name": "Merro8",
+          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150285,
+      "name": "Workin",
+      "url": "https://open.spotify.com/track/7APPYAtxoPeYqe7894cwQ8"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -43710,6 +43728,24 @@
       "duration_ms": 177954,
       "name": "Wow Wow (feat. Branco)",
       "url": "https://open.spotify.com/track/2qu0CT9kxrXUIltBW09K7B"
+    },
+    {
+      "album": {
+        "name": "XL-BYG",
+        "url": "https://open.spotify.com/album/32Ev2loIcvWsph87jlExk0"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142622,
+      "name": "XL-BYG",
+      "url": "https://open.spotify.com/track/1AYTzhKxjsOSqaZz9m8TZk"
     },
     {
       "album": {

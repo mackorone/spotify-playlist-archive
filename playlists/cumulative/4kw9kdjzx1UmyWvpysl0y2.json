@@ -19859,6 +19859,24 @@
     },
     {
       "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/16zfXqBtQUAursvZliH6y0"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262971,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/6k7pq4LF7pLq7rgAqwgYGt"
+    },
+    {
+      "album": {
         "name": "The High We Seek",
         "url": "https://open.spotify.com/album/0l1tbGmzd9Z8uCv6j4WPew"
       },

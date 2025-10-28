@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Krb30mPNi6.md) - [plain]
 
 > Podcasts que debes de tener en tu RADAR\. Foto: Dos Cabras Locas
 
-[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 15 songs - 16 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 240 likes - 15 songs - 16 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XpDcTIjeli.md) - [plain]
 
 > Video's zijn alleen beschikbaar met Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,318 likes - 30 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,321 likes - 30 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XpDcTIjeli.md) - [plain]
 | 29 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 |
 | 30 | [Giggerz](https://open.spotify.com/track/3BodUHvt2tNDGWG6fnPQyy) | [DJ.Fresh](https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ), [Nef The Pharaoh](https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz) | [The Tonite Show With Nef The Pharaoh](https://open.spotify.com/album/6CHtSbyDTORtqv0YSP7Qy2) | 2:15 |
 
-Snapshot ID: `AAAAADnxdJU7fv/JCM4lWrfqcEURRXbG`
+Snapshot ID: `AAAAAFMuGKfVmdZmexa7MQFmxHKOXUC9`

@@ -491,6 +491,28 @@
     },
     {
       "album": {
+        "name": "Day One (From \"Interstellar\")",
+        "url": "https://open.spotify.com/album/2m2BNKbcH1b11o0v6mZN9K"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "Day One (From \"Interstellar\")",
+      "url": "https://open.spotify.com/track/7d9rT201eeDnefvKXbEtf8"
+    },
+    {
+      "album": {
         "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
       },
@@ -2386,28 +2408,6 @@
       "duration_ms": 106586,
       "name": "Wish I Could Spend The Day With You",
       "url": "https://open.spotify.com/track/7H1qlREWSW4MgamNSrgZbw"
-    },
-    {
-      "album": {
-        "name": "Zimmer: Day One (From \"Interstellar\")",
-        "url": "https://open.spotify.com/album/2m2BNKbcH1b11o0v6mZN9K"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Hayato Sumino",
-          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
-        }
-      ],
-      "date_added": "2024-12-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194026,
-      "name": "Zimmer: Day One (From \"Interstellar\")",
-      "url": "https://open.spotify.com/track/7d9rT201eeDnefvKXbEtf8"
     },
     {
       "album": {

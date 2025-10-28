@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: INJI
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,799 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,116 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 6 | [4 Minutes](https://open.spotify.com/track/3GPNxZDz7VnzGwuJCxQAKY) | [Danell Arma](https://open.spotify.com/artist/3xksDFio6oCdauPR6UE4Aj) | [4 Minutes](https://open.spotify.com/album/5WXtVoRYAe0i28dQV1KEKy) | 2:44 |
 | 7 | [AM to PM \(feat\. Zoe Wees\)](https://open.spotify.com/track/2LRNDfHieq4ctBuE02zeW9) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [AM to PM \(feat\. Zoe Wees\)](https://open.spotify.com/album/1o9rbjKjVBu7VQq0hzAJK1) | 2:44 |
 | 8 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 |
-| 9 | [Dopamine](https://open.spotify.com/track/4rG7VqNRA9NxXoGD0FKnzD) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Dopamine](https://open.spotify.com/album/26UUDkAk8TuBAj2xSs0ftn) | 2:03 |
+| 9 | [Dopamine \(feat\. Malou\)](https://open.spotify.com/track/4rG7VqNRA9NxXoGD0FKnzD) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Dopamine \(feat\. Malou\)](https://open.spotify.com/album/26UUDkAk8TuBAj2xSs0ftn) | 2:03 |
 | 10 | [Lotus](https://open.spotify.com/track/5MS7BCBeZ8FdXhiFMYBKWT) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Lotus](https://open.spotify.com/album/09mqnSBXKIcaCs0TUFv0Ca) | 3:34 |
 | 11 | [It Gets Better](https://open.spotify.com/track/1I0knbo2FURefTBEQrsz8I) | [Dada Jones](https://open.spotify.com/artist/0cWFj6zZkVsQ4KzXRdgRtW), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [It Gets Better](https://open.spotify.com/album/3XmnX7MwSmmNjUj5G3feBW) | 2:24 |
 | 12 | [yes baby](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [yes baby](https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL) | 2:55 |

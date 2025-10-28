@@ -4,7 +4,7 @@
 
 > New music by ELENA ROSE, Tainy & Feid, Mon Laferte and more! Updates every Friday.
 
-10,787 songs - 23 day 10 hr 9 min
+10,788 songs - 23 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2382,6 +2382,7 @@
 | [Dame Una Noche \- Remix](https://open.spotify.com/track/3yBOBCEkm1E2dPhWhgH3cx) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Dame Una Noche \(Remix\)](https://open.spotify.com/album/65XEDaMYB9O6Gv1LGviDR0) | 3:36 | 2022-01-21 | 2022-01-29 |
 | [Dame Una Oportunidad](https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Dame Una Oportunidad](https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO) | 3:18 | 2023-10-20 | 2023-10-28 |
 | [DAMMN](https://open.spotify.com/track/76MtE1Z54R7kbddLcnNrjV) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [Th3 Trilogy](https://open.spotify.com/artist/7licUnuZSKcHiRNtQ0mmAE) | [DAMMN](https://open.spotify.com/album/07OCLlTIgkoLyNjicF7loh) | 2:55 | 2023-09-01 | 2023-09-09 |
+| [DAMN](https://open.spotify.com/track/61q6DPyrivxS1eCBFwjihP) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [DAMN](https://open.spotify.com/album/1nt5KM4c1zjHatus4OIWTw) | 2:49 | 2025-10-27 |  |
 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 | 2022-08-26 | 2022-09-03 |
 | [Dance With U](https://open.spotify.com/track/2oj6wE7WBxaf9C5s3ALiJ3) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Shrt\_lyf](https://open.spotify.com/artist/3Mw2KRss5x1sHoXQXOv1re) | [Dance With U](https://open.spotify.com/album/2LrInB9iLjGJXVye5Doi9l) | 2:36 | 2023-05-05 | 2023-05-13 |
 | [Dancing with the Devil](https://open.spotify.com/track/7GtktlevDmTHGBaEOqZj8b) | [Nanu](https://open.spotify.com/artist/0NdqwX70EDgH6cXE2Nf6g6) | [Dancing with the Devil](https://open.spotify.com/album/0r0WEvs16POIUAeJ6NoPgm) | 2:34 | 2022-05-13 | 2022-05-20 |

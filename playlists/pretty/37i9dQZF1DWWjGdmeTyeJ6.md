@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Cover: Saint Ludo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,227,151 likes - 254 songs - 13 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,227,097 likes - 254 songs - 13 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -263,4 +263,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 253 | [Object of Desire](https://open.spotify.com/track/1GqR0hjHCPGndDX8D2FtBx) | [Fred Roberts](https://open.spotify.com/artist/4n1vjpbmyeFvTvMJX1TL0v) | [Object of Desire](https://open.spotify.com/album/12K3G8WHbq2DPWwFWRxnPM) | 2:42 |
 | 254 | [PUSHINN](https://open.spotify.com/track/3afe2BTqwgrwrLoOatjxFi) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [PUSHINN](https://open.spotify.com/album/2umT6tMDBC2DDbjCEckF3v) | 2:19 |
 
-Snapshot ID: `AAAAAP4irUv5GZhXK1MpXGTcdMpcZRh1`
+Snapshot ID: `AAAAALM2g2/jOWaDCbIuAsHvZay3Mbhg`

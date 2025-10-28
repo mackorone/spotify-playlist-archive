@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWC2vWhv5hnK.md) - [plain]
 
 > Enjoy music from "Kaiju No\. 8"! ©防衛隊第３部隊 ©松本直也／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,745 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,772 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWC2vWhv5hnK.md) - [plain]
 | 49 | [Kaiju Beats 6 \- MON/KU Remix](https://open.spotify.com/track/2G4cqlry9JUw1EiDuHbSyt) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [MON/KU](https://open.spotify.com/artist/4SpTEmOFzoqGQYI53t13Df) | [「怪獣8号」オリジナル・サウンドトラック](https://open.spotify.com/album/4r7MuwiXbYJpPJT61bB5Pc) | 2:12 |
 | 50 | [Never Break Down](https://open.spotify.com/track/2mA5njLWVILhWSTdqJY4oS) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [THE KAIJU BAND](https://open.spotify.com/artist/7fKZU7edSQKr0OmV9LOhED), [Leo Imai](https://open.spotify.com/artist/052wDw54ZAwrWQraLblXZb) | [「怪獣8号」オリジナル・サウンドトラック](https://open.spotify.com/album/4r7MuwiXbYJpPJT61bB5Pc) | 4:48 |
 
-Snapshot ID: `AAAAAHEN86UGA298Ht0OAwsdHA7bYwz3`
+Snapshot ID: `AAAAAMqDsb3RDS0VzZTFhEjy7TlV+r/S`

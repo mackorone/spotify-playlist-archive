@@ -6,8 +6,104 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAGCBvxumKzAS75g+AzhGLBzN6Wo94g",
+  "snapshot_id": "AAAGDRSb6JwYjKWaJOcx2knnhwSWrols",
   "tracks": [
+    {
+      "added_at": "2025-10-21 08:31:40",
+      "album": {
+        "name": "In:Side",
+        "url": "https://open.spotify.com/album/4WgWsRFDqTRuTBKnIE76n0"
+      },
+      "artists": [
+        {
+          "name": "\u30aa\u30be\u30f3",
+          "url": "https://open.spotify.com/artist/11goo7kMJlP3Z6HC3cae2e"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 268105,
+      "name": "\u898b\u679c\u3066\u306c\u5922\u3092\u751f\u304d\u308b (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2dMga34Pk5EmI3io1BhCdL"
+    },
+    {
+      "added_at": "2025-10-21 08:31:58",
+      "album": {
+        "name": "\u81ea\u4e0b\u624b",
+        "url": "https://open.spotify.com/album/126OBJGNztTTyUxV8Hv7f2"
+      },
+      "artists": [
+        {
+          "name": "saikawa",
+          "url": "https://open.spotify.com/artist/07QJKBA7oc1IFkGNDo7qsB"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 257161,
+      "name": "\u81ea\u4e0b\u624b (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0bBiNkSC16FYbqohT4q9Kt"
+    },
+    {
+      "added_at": "2025-10-21 08:32:21",
+      "album": {
+        "name": "\u3080\u308a",
+        "url": "https://open.spotify.com/album/63xTgnAQPeXxsdlxwVwGcU"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u5b88\u6587\u5b66",
+          "url": "https://open.spotify.com/artist/2PeQLZVv6ueArQHvjjJrjU"
+        },
+        {
+          "name": "\u6625\u65e5\u90e8\u3064\u3080\u304e",
+          "url": "https://open.spotify.com/artist/0EBCs4cCWYXo9XuORvj9OI"
+        }
+      ],
+      "duration_ms": 149555,
+      "name": "\u3080\u308a (feat. \u6625\u65e5\u90e8\u3064\u3080\u304e)",
+      "url": "https://open.spotify.com/track/27kfgJNjDaQPotKUkW1Vj5"
+    },
+    {
+      "added_at": "2025-10-21 08:32:33",
+      "album": {
+        "name": "\u559d\u91c7",
+        "url": "https://open.spotify.com/album/2pQzQKorEIgMG4nvfyzbTp"
+      },
+      "artists": [
+        {
+          "name": "\u30d8\u30eaP",
+          "url": "https://open.spotify.com/artist/68CKjh7lPbAIrWOdDph3LE"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "duration_ms": 224516,
+      "name": "\u559d\u91c7 (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/0Bwv00tdTHozg8CqOX0Xal"
+    },
+    {
+      "added_at": "2025-10-21 08:32:45",
+      "album": {
+        "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb\u306b\u9ad1\u9acf\u306f\u54b2\u304f",
+        "url": "https://open.spotify.com/album/7iaWdIKRvbhldMNfPFeotj"
+      },
+      "artists": [
+        {
+          "name": "\u3055\u307e\u3050\u3089",
+          "url": "https://open.spotify.com/artist/3MVeDEp6pC3HmzAhjR35CG"
+        }
+      ],
+      "duration_ms": 237772,
+      "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb\u306b\u9ad1\u9acf\u306f\u54b2\u304f",
+      "url": "https://open.spotify.com/track/0pHkwOXY6HKFCtiMM7BaQ8"
+    },
     {
       "added_at": "2025-10-14 08:07:48",
       "album": {
@@ -747,102 +843,6 @@
       "duration_ms": 150909,
       "name": "\u8e0a\u308b\u30a2\u30f3\u30c7\u30c3\u30c9 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/6rQgY2EdbHmy0Fi0xSvJJp"
-    },
-    {
-      "added_at": "2025-10-21 08:31:40",
-      "album": {
-        "name": "In:Side",
-        "url": "https://open.spotify.com/album/4WgWsRFDqTRuTBKnIE76n0"
-      },
-      "artists": [
-        {
-          "name": "\u30aa\u30be\u30f3",
-          "url": "https://open.spotify.com/artist/11goo7kMJlP3Z6HC3cae2e"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 268105,
-      "name": "\u898b\u679c\u3066\u306c\u5922\u3092\u751f\u304d\u308b (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/2dMga34Pk5EmI3io1BhCdL"
-    },
-    {
-      "added_at": "2025-10-21 08:31:58",
-      "album": {
-        "name": "\u81ea\u4e0b\u624b",
-        "url": "https://open.spotify.com/album/126OBJGNztTTyUxV8Hv7f2"
-      },
-      "artists": [
-        {
-          "name": "saikawa",
-          "url": "https://open.spotify.com/artist/07QJKBA7oc1IFkGNDo7qsB"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 257161,
-      "name": "\u81ea\u4e0b\u624b (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/0bBiNkSC16FYbqohT4q9Kt"
-    },
-    {
-      "added_at": "2025-10-21 08:32:21",
-      "album": {
-        "name": "\u3080\u308a",
-        "url": "https://open.spotify.com/album/63xTgnAQPeXxsdlxwVwGcU"
-      },
-      "artists": [
-        {
-          "name": "\u5bae\u5b88\u6587\u5b66",
-          "url": "https://open.spotify.com/artist/2PeQLZVv6ueArQHvjjJrjU"
-        },
-        {
-          "name": "\u6625\u65e5\u90e8\u3064\u3080\u304e",
-          "url": "https://open.spotify.com/artist/0EBCs4cCWYXo9XuORvj9OI"
-        }
-      ],
-      "duration_ms": 149555,
-      "name": "\u3080\u308a (feat. \u6625\u65e5\u90e8\u3064\u3080\u304e)",
-      "url": "https://open.spotify.com/track/27kfgJNjDaQPotKUkW1Vj5"
-    },
-    {
-      "added_at": "2025-10-21 08:32:33",
-      "album": {
-        "name": "\u559d\u91c7",
-        "url": "https://open.spotify.com/album/2pQzQKorEIgMG4nvfyzbTp"
-      },
-      "artists": [
-        {
-          "name": "\u30d8\u30eaP",
-          "url": "https://open.spotify.com/artist/68CKjh7lPbAIrWOdDph3LE"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "\u559d\u91c7 (feat. \u5de1\u97f3\u30eb\u30ab)",
-      "url": "https://open.spotify.com/track/0Bwv00tdTHozg8CqOX0Xal"
-    },
-    {
-      "added_at": "2025-10-21 08:32:45",
-      "album": {
-        "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb\u306b\u9ad1\u9acf\u306f\u54b2\u304f",
-        "url": "https://open.spotify.com/album/7iaWdIKRvbhldMNfPFeotj"
-      },
-      "artists": [
-        {
-          "name": "\u3055\u307e\u3050\u3089",
-          "url": "https://open.spotify.com/artist/3MVeDEp6pC3HmzAhjR35CG"
-        }
-      ],
-      "duration_ms": 237772,
-      "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb\u306b\u9ad1\u9acf\u306f\u54b2\u304f",
-      "url": "https://open.spotify.com/track/0pHkwOXY6HKFCtiMM7BaQ8"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 \u30d1\u30ef\u30d5\u30eb\u30dd\u30c3\u30d7\u30b9",

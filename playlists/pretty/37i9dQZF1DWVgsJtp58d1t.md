@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:6Ip8FS7vWT1uKkJSweANQK">Dave</a> and  <a href="spotify:artist:687cZJR45JO7jhk1LHIbgq">Tems</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,127 likes - 185 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094,135 likes - 185 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 92 | [sos](https://open.spotify.com/track/43foJgvtRmkaSm4g5Jax4w) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:16 |
 | 93 | [OUT YA SEATS !](https://open.spotify.com/track/2R7dfZ6up47bHnXz0ehdJ3) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [OUT YA SEATS !](https://open.spotify.com/album/6LCbrDbeS5C9wewoOjs1mC) | 2:50 |
 | 94 | [Boyfriend Forever](https://open.spotify.com/track/25YdOhGSoLaR86Qfx3KzRX) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Boyfriend Forever](https://open.spotify.com/album/6HLIaPZzo4psuQBTlfBg6U) | 2:58 |
-| 95 | [lights](https://open.spotify.com/track/0oVMa3jhgmaDxitZ7ZR3jw) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [noise \( meaning \)](https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ) | 1:34 |
+| 95 | [lights](https://open.spotify.com/track/0oVMa3jhgmaDxitZ7ZR3jw) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [noise \(meaning\)](https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ) | 1:34 |
 | 96 | [Idols & Rivals\_BLUE](https://open.spotify.com/track/0exUriNPARHkRY9s3xlpl5) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [Idols & Rivals\_BLUE](https://open.spotify.com/album/5RB7bAa5ySBzM0PmW9IlXB) | 3:41 |
 | 97 | [STAY](https://open.spotify.com/track/1fyI1vM8byw1wB8eO7bG11) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [STAY](https://open.spotify.com/album/6z6YQWrg8uXoDQXFpNgv2U) | 3:14 |
 | 98 | [Grief, Joy, & Gratitude](https://open.spotify.com/track/4ZuUY7QGuXc4oMjUNJk0w2) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Grief, Joy, & Gratitude](https://open.spotify.com/album/0VlJpvgtQqly0QowpnpQTo) | 3:10 |

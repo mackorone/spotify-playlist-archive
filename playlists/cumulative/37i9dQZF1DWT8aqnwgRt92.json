@@ -12710,7 +12710,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 181303,
       "name": "Me renewed",
       "url": "https://open.spotify.com/track/70FUgJA0n0xIwRBWBQNX8D"
@@ -14500,7 +14500,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 168733,
       "name": "NIJITO",
       "url": "https://open.spotify.com/track/21nildKUIIDIcofFk4a5Yk"
@@ -35119,6 +35119,24 @@
     },
     {
       "album": {
+        "name": "\u5439\u304d\u6d88\u3057\u305f\u706f\u706b",
+        "url": "https://open.spotify.com/album/4nApnOBzSPSjTv2sjBkYOM"
+      },
+      "artists": [
+        {
+          "name": "TOGENASHI TOGEARI",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233189,
+      "name": "\u5439\u304d\u6d88\u3057\u305f\u706f\u706b",
+      "url": "https://open.spotify.com/track/5Wwibw8kFxfb0WShoYW4I0"
+    },
+    {
+      "album": {
         "name": "\u547c\u3073\u58f0",
         "url": "https://open.spotify.com/album/3km07cxiR89dB5dsb13q90"
       },
@@ -38980,6 +38998,24 @@
       "duration_ms": 197025,
       "name": "\u6de1\u304f\u5fae\u304b",
       "url": "https://open.spotify.com/track/2OUnNkuS59ssxA7eS3bBaA"
+    },
+    {
+      "album": {
+        "name": "\u6e26",
+        "url": "https://open.spotify.com/album/7kYLEXVhvTilbDM67hrBub"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189203,
+      "name": "\u6e26",
+      "url": "https://open.spotify.com/track/5J1xalv6l7lze1AvFeLstR"
     },
     {
       "album": {

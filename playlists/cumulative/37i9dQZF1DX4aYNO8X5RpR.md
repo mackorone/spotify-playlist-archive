@@ -4,7 +4,7 @@
 
 > Hours of comforting sounds of thunder and rain.
 
-323 songs - 14 hr 23 min
+324 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Drops And Thunder](https://open.spotify.com/track/00ChJJWChWCHfHDOnsnWvv) | [Amida Nature Sounds](https://open.spotify.com/artist/6ouSV6Bg58MfXLmO7daZiK) | [Drops And Thunder](https://open.spotify.com/album/76jXwUgn06OiCEwod0lZvd) | 2:02 | 2021-11-10 |  |
 | [Dunder](https://open.spotify.com/track/3zTYozWxO2br2ZpjUMp9hm) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Dunder](https://open.spotify.com/album/10rXDSXVcLiiqKRJ2Snlnb) | 3:28 | 2021-11-10 |  |
 | [Earth Rain](https://open.spotify.com/track/678emSwcNj7TVaNlFRt2DC) | [Celestial Noise](https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z) | [Space Rain](https://open.spotify.com/album/456q0OuTOQvx6QuVxdmB3K) | 3:41 | 2023-02-13 |  |
+| [Earthly Thunder](https://open.spotify.com/track/3WalMxwN7DJg5bKwk7DMxN) | [Earthly Delights](https://open.spotify.com/artist/3AhSKCMBK1DWhRGvem6prn) | [Earthly Thunder](https://open.spotify.com/album/0w30DDf2yjB88GxOzCCDZX) | 2:36 | 2025-07-23 |  |
 | [Earthy Rain With Rolling Thunder](https://open.spotify.com/track/0xmwsmYdbXuZDHeixtATZF) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Thunderous Relaxation](https://open.spotify.com/album/57AK2pZaIKBJaWR6SAfGMu) | 4:22 | 2021-11-10 | 2022-03-26 |
 | [El Trueno Desde Arriba](https://open.spotify.com/track/6zfCEuZfzq9vWeG22bj39P) | [Adela Amando](https://open.spotify.com/artist/4MxSvvBZgxyHPAuwKX5srl) | [El Trueno Desde Arriba](https://open.spotify.com/album/16zN24HwT4LSaAbN6xeJMV) | 1:39 | 2023-02-13 | 2023-06-16 |
 | [Electric Dreams](https://open.spotify.com/track/1PVmI01F4mrbD0czddRlyq) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2023-02-13 |  |
@@ -101,7 +102,7 @@
 | [Goddess Of Thunder](https://open.spotify.com/track/6U89RZ2OKLjoKaBm0GHJyd) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Goddess Of Thunder](https://open.spotify.com/album/750KlTBN4XouiJKskT0Jpz) | 2:33 | 2021-11-10 |  |
 | [Goddess Of Thunder](https://open.spotify.com/track/2NJISxdOO1keYuVzst55Jw) | [Earth Thunder Sounds 2021](https://open.spotify.com/artist/3t6LAQAbz3ps937v5Gnc8u) | [Thunder And Lightning Vol\. 2](https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe) | 2:19 | 2023-02-13 |  |
 | [Golden Thunderstorm](https://open.spotify.com/track/31GNsedPV2m9qB1D2LEdIB) | [NC2 LABORATORIES](https://open.spotify.com/artist/4GuuCagyjrhs4IeWuIkkqH) | [Oh, Beautiful Thunder](https://open.spotify.com/album/59sCC7vzp9xwTGPr57HvbD) | 1:32 | 2021-11-10 | 2023-06-16 |
-| [Good Night Nature Rain](https://open.spotify.com/track/3XyCMBq2Q11RBeW3n6gRw4) | [Epic Nature](https://open.spotify.com/artist/02dqJlqEiSm6HAU1sA43RY) | [Good Night Nature Rain](https://open.spotify.com/album/5bOIfjWZ3pyS1zTGm11KgG) | 2:14 | 2021-11-10 |  |
+| [Good Night Nature Rain](https://open.spotify.com/track/3XyCMBq2Q11RBeW3n6gRw4) | [Epic Nature](https://open.spotify.com/artist/02dqJlqEiSm6HAU1sA43RY) | [Good Night Nature Rain](https://open.spotify.com/album/5bOIfjWZ3pyS1zTGm11KgG) | 2:14 | 2021-11-10 | 2025-10-28 |
 | [Graue Wolken](https://open.spotify.com/track/1SVyDxMo3VtdWz1fzegvDy) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Graue Wolken](https://open.spotify.com/album/6rCYUB4w56TeN96r9qdjK1) | 3:28 | 2021-11-10 |  |
 | [Greek Rain and Thunder](https://open.spotify.com/track/0CYwZoze1eTVaYFZTMu0EV) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol\. 2](https://open.spotify.com/album/4lPzsxOS8SHL3mFg6uZMZa) | 1:42 | 2021-11-10 | 2023-06-16 |
 | [Gråa Moln](https://open.spotify.com/track/5hcIHaO2Vy6NmLC704mM8b) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Blixt](https://open.spotify.com/album/5fadcqG9gCtLnafQBJNY27) | 3:28 | 2021-11-10 | 2025-10-26 |

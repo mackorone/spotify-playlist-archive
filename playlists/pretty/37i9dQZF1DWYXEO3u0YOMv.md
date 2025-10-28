@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > <a href="http://www.mappa.co.jp/">MAPPA</a>が紡いできたアニメーションの世界を音楽で辿るプレイリスト。心に残る名曲たちを集めました。<br/>A playlist that traces the animated worlds created by <a href="http://www.mappa.co.jp/">MAPPA</a> through music, featuring a collection of memorable songs that remain in the heart\. © 2025 MAPPA／チェンソーマンプロジェクト ©藤本タツキ／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,109 likes - 172 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,129 likes - 173 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,5 +180,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 170 | [メニメニマニマニ](https://open.spotify.com/track/7EvzUhU6zpdJxAsjNQZ1gN) | [高宮なすの\(CV:鳴海杏子\)](https://open.spotify.com/artist/4YUQrz8swYxgcc9dWV0nIG) | [メニメニマニマニ](https://open.spotify.com/album/0OflLmwcweeJ90j3qShjth) | 4:29 |
 | 171 | [ぬふっとてーきゅうポトラッチ](https://open.spotify.com/track/4b97JiQwit48h8Vn2psTkL) | [Naive](https://open.spotify.com/artist/6mzWUjHwPOYQdKNMQTQmDz) | [てーきゅうBEST](https://open.spotify.com/album/19OuaVZecS5k2SUHwiRDVs) | 3:23 |
 | 172 | [坂道のメロディ](https://open.spotify.com/track/2LHxO6kg6LJrnqcEgaCbkf) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [プレイボール/坂道のメロディ](https://open.spotify.com/album/58aZzjcq1YjDcwTbjHTEii) | 4:43 |
+| 173 | [アルタイル](https://open.spotify.com/track/6ZDIqgS06Rr5gHXLP6c3Xb) | [秦 基博 meets 坂道のアポロン](https://open.spotify.com/artist/6zbJYUN1FfUnEUAJpLHwCD) | [アルタイル](https://open.spotify.com/album/6DjXIcH9EZBhPeL4auVFf7) | 6:01 |
 
 Snapshot ID: `AAAAAABqUN7AM4qGSu0jrSyGY4ua/aMD`

@@ -1,13 +1,121 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 7772,
+  "num_followers": 7775,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAOTKh1sEDVJw5KZxbaqPzDfE/38X/o",
+  "snapshot_id": "AAAOVaCHSV/TB7PKne0gI657uW16myRk",
   "tracks": [
+    {
+      "added_at": "2025-10-27 14:17:35",
+      "album": {
+        "name": "Naked Hunger",
+        "url": "https://open.spotify.com/album/15uXJKrh8sgDvXbWNiCAWF"
+      },
+      "artists": [
+        {
+          "name": "Quiet Village",
+          "url": "https://open.spotify.com/artist/0DoRa03IPuPzfAlD8aMgn9"
+        },
+        {
+          "name": "Vanessa Daou",
+          "url": "https://open.spotify.com/artist/0r13pf5aRSEWKl7m7qMXXT"
+        }
+      ],
+      "duration_ms": 836579,
+      "name": "Naked Hunger - Spoken Word Mix",
+      "url": "https://open.spotify.com/track/2219xSxD0rfZRrrJVeqf0n"
+    },
+    {
+      "added_at": "2025-10-27 14:15:48",
+      "album": {
+        "name": "And the Make Believers",
+        "url": "https://open.spotify.com/album/5quY3ZZ5kEb0gk791v1EqY"
+      },
+      "artists": [
+        {
+          "name": "Eden Burns",
+          "url": "https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2"
+        }
+      ],
+      "duration_ms": 260209,
+      "name": "Vocal Tune",
+      "url": "https://open.spotify.com/track/0LcSDXAKptjaUZoLFD9mK2"
+    },
+    {
+      "added_at": "2025-10-27 14:13:55",
+      "album": {
+        "name": "Den Mahlstrom rauf",
+        "url": "https://open.spotify.com/album/2vBenCO70OMVEg2TIeJn86"
+      },
+      "artists": [
+        {
+          "name": "Acid Pauli",
+          "url": "https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C"
+        }
+      ],
+      "duration_ms": 488933,
+      "name": "Den Mahlstrom rauf",
+      "url": "https://open.spotify.com/track/4EiHXhTq4N28DMkDq1z0Gd"
+    },
+    {
+      "added_at": "2025-10-27 14:14:40",
+      "album": {
+        "name": "Epilogue",
+        "url": "https://open.spotify.com/album/0X7rjLEoNpO01qKEvJkTuw"
+      },
+      "artists": [
+        {
+          "name": "Mike Parker",
+          "url": "https://open.spotify.com/artist/09CEhdsMmOdtetLfiqxFlh"
+        },
+        {
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+        }
+      ],
+      "duration_ms": 340500,
+      "name": "Forward - Donato Dozzy Remix",
+      "url": "https://open.spotify.com/track/1ABkNFoE3wvluVlOjWPTfW"
+    },
+    {
+      "added_at": "2025-10-27 14:15:11",
+      "album": {
+        "name": "Triality",
+        "url": "https://open.spotify.com/album/0b6WC40akN5KkcqSTJtbEA"
+      },
+      "artists": [
+        {
+          "name": "Milian Mori",
+          "url": "https://open.spotify.com/artist/3Ii7znHOABSoivoAZHSO6r"
+        }
+      ],
+      "duration_ms": 292349,
+      "name": "Futurology",
+      "url": "https://open.spotify.com/track/10MSZcCEcB2OqowuwV4hRA"
+    },
+    {
+      "added_at": "2025-10-27 14:16:34",
+      "album": {
+        "name": "Serpentine 3",
+        "url": "https://open.spotify.com/album/6bGAqiK2WS3ReNxYqOvQnq"
+      },
+      "artists": [
+        {
+          "name": "OK EG",
+          "url": "https://open.spotify.com/artist/6NkCtFoOhARKawHaQp9Xc7"
+        },
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        }
+      ],
+      "duration_ms": 342730,
+      "name": "Serpentine 3",
+      "url": "https://open.spotify.com/track/26Zwdz0UFWkffrlwacyVhC"
+    },
     {
       "added_at": "2025-10-15 13:58:52",
       "album": {

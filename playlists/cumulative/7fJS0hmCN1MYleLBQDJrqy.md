@@ -4,7 +4,7 @@
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
 
-90 songs - 3 hr 54 min
+91 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Fata Morgana](https://open.spotify.com/track/0ChKnEMUsi8rZts7tGzUi8) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Gezichten](https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct) | 2:36 | 2025-07-18 |  |
 | [Fikkie](https://open.spotify.com/track/0lLdt9dyVwcLlxr9eSEnrg) | [Daaf](https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ) | [Fikkie](https://open.spotify.com/album/1b143sQ0p9yvz31lZe0KwZ) | 2:47 | 2025-07-18 |  |
 | [Fluitend naar Huis](https://open.spotify.com/track/6Swd0Th7cvQH4bywi4eHak) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 2:12 | 2025-07-18 |  |
-| [Ga Dan!](https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Ga Dan!](https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv) | 2:17 | 2025-07-18 |  |
+| [Ga Dan!](https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Ga Dan!](https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv) | 2:17 | 2025-07-18 | 2025-10-28 |
 | [Gaan We Weg?](https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Gaan We Weg?](https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas) | 2:21 | 2025-07-18 |  |
 | [Gezichten](https://open.spotify.com/track/55dawM1LFdFkQepYdEuidp) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Gezichten](https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct) | 2:10 | 2025-07-18 | 2025-08-23 |
 | [GO BESTFRIEND](https://open.spotify.com/track/6sv1PdrGSGgWYzFqC5mruo) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/6nkkhIZjPv3HVdAeZFLaO5) | 2:14 | 2025-09-26 |  |
@@ -81,6 +81,7 @@
 | [Sex](https://open.spotify.com/track/670BOglfzTjyvst3GdN0Gy) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Samen Tegen Elkaar](https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH) | 3:51 | 2025-07-18 | 2025-09-20 |
 | [Sex in the City](https://open.spotify.com/track/7bxxHkeLFIk3WBj94Z9niI) | [Luca St](https://open.spotify.com/artist/0UUJ3EwkYGvjoIaVlnF6CN), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Sex in the City](https://open.spotify.com/album/72i7yPDGMaGxct2xFMtKXW) | 1:56 | 2025-07-18 |  |
 | [Slaapritme](https://open.spotify.com/track/3LGHMVkY4cG11L1cCvlorP) | [Luca St](https://open.spotify.com/artist/0UUJ3EwkYGvjoIaVlnF6CN), [Johnny Gruter](https://open.spotify.com/artist/4LAfH1KBspP5DhC3hh2DYX) | [Slaapritme](https://open.spotify.com/album/0OibSqR3soZmHDJGtqIgc2) | 2:20 | 2025-07-18 |  |
+| [Slet Van 6VWO](https://open.spotify.com/track/53jSmfDiQYTb8nZp6EAeUo) | [Renee Rose](https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI) | [Slet Van 6VWO](https://open.spotify.com/album/20qnduXkQa5NFb0qstf5PS) | 2:46 | 2025-10-27 |  |
 | [Social Anxiety](https://open.spotify.com/track/35VNc2rWHAkzAmeHCm1ENw) | [Luca St](https://open.spotify.com/artist/0UUJ3EwkYGvjoIaVlnF6CN), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Social Anxiety](https://open.spotify.com/album/0jo7ksf4djmyjDUpDtfdLu) | 2:13 | 2025-07-18 |  |
 | [Solo](https://open.spotify.com/track/6ufY1t4NB1t1snaGOq4tWz) | [Harrie Snijders](https://open.spotify.com/artist/34FVUX7HgK45ek1hEXBX7S) | [Solo](https://open.spotify.com/album/5L3HIALVL4lTeintTAqN31) | 2:06 | 2025-09-26 |  |
 | [Studie Uit](https://open.spotify.com/track/5sHjRyfeGNwu5f2GV0960x) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Studie Uit](https://open.spotify.com/album/4SwDKB3YuJ1qJyqYLsYiBe) | 2:41 | 2025-07-18 |  |

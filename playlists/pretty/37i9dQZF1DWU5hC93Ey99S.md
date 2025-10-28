@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,359 likes - 145 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,523 likes - 145 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 12 | [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 |
 | 13 | [Stay Blessed](https://open.spotify.com/track/40QdEchi3gLmZitmXFef9z) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Alecc Crisostomo](https://open.spotify.com/artist/0K8VpMGpOGfQeqoAx5hSef), [D38](https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe) | [Smiling Through The Pain 2](https://open.spotify.com/album/1WsIrA4LQIfAQyIu3QPZJ7) | 3:41 |
 | 14 | [Run Away](https://open.spotify.com/track/1Urif2vcnbYSMmeFWZFvb2) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Run Away](https://open.spotify.com/album/552v2d3Gh5UcWeTajitNcP) | 4:04 |
-| 15 | [I'm Not Alone \- MPH Remix](https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [I'm Not Alone \(MPH Remix\)](https://open.spotify.com/album/17Ig8wh18XZqSjxfzyXCW5) | 3:35 |
+| 15 | [I'm Not Alone \- MPH Remix](https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [I'm Not Alone \(MPH Remix\)](https://open.spotify.com/album/17Ig8wh18XZqSjxfzyXCW5) | 3:33 |
 | 16 | [Holly](https://open.spotify.com/track/1xXHCKVvxbOWY7w4MNTabh) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Holly](https://open.spotify.com/album/3CW9naOJLZAKJL9JyUFHpO) | 3:14 |
 | 17 | [First Light](https://open.spotify.com/track/5fV7oTa9uIXWDItxcyhHEV) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [First Light](https://open.spotify.com/album/0wM0yQ1NZ5JoubMkc1flpa) | 4:34 |
 | 18 | [Love Me Right](https://open.spotify.com/track/0gFtdNsqdG2Nb4F3S5yW4r) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk), [Jeanne Taylor](https://open.spotify.com/artist/1HnArnhrvMb1hHokXaZ6aR), [Davis](https://open.spotify.com/artist/1UMFvfUUhddeehpyd7D8dw) | [Love Me Right](https://open.spotify.com/album/6wqO50mJ8BsZ3M1SQv2oFV) | 2:40 |

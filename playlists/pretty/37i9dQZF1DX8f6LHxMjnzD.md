@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,486 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,470 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Still So Icy](https://open.spotify.com/track/7cTIf611RVrYtY0jefK51u) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Episodes](https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox) | 3:04 |
 | 40 | [Reputation](https://open.spotify.com/track/5f7a5foJ14JiFiW6ns0vBo) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Reputation](https://open.spotify.com/album/4u0ZwgHIQj1nr53MJwAkSv) | 3:31 |
 
-Snapshot ID: `AAAAANI5NC+jhBZhsFFMGvc/rLi1QN56`
+Snapshot ID: `AAAAAJM+c/xVlUT/LY5AhLScTaom+gsY`

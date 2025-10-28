@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 189838,
+  "num_followers": 189898,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Window Flowers",
+        "url": "https://open.spotify.com/album/0UTQ8hNHAhO8gsu7LT3OEY"
+      },
+      "artists": [
+        {
+          "name": "Liz Cooper",
+          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
+        }
+      ],
+      "duration_ms": 236973,
+      "name": "Hey Man",
+      "url": "https://open.spotify.com/track/2MN4zTUQgzsbHpD8XGpuVF"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Turn It On",
         "url": "https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 270530,
       "name": "Turn It On",
       "url": "https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Window Flowers",
-        "url": "https://open.spotify.com/album/0UTQ8hNHAhO8gsu7LT3OEY"
-      },
-      "artists": [
-        {
-          "name": "Liz Cooper",
-          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
-        }
-      ],
-      "duration_ms": 236973,
-      "name": "Hey Man",
-      "url": "https://open.spotify.com/track/2MN4zTUQgzsbHpD8XGpuVF"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -847,6 +847,38 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Althea",
+        "url": "https://open.spotify.com/album/3mtIlJKedR6XTPhKWqeWaQ"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 252375,
+      "name": "Althea",
+      "url": "https://open.spotify.com/track/7zf6cdLb3qUrba0K5Zc6DI"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Habbie Doobie",
         "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
       },
@@ -891,22 +923,6 @@
       "duration_ms": 311280,
       "name": "Some Sunsick Day",
       "url": "https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Althea",
-        "url": "https://open.spotify.com/album/3mtIlJKedR6XTPhKWqeWaQ"
-      },
-      "artists": [
-        {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
-        }
-      ],
-      "duration_ms": 252375,
-      "name": "Althea",
-      "url": "https://open.spotify.com/track/7zf6cdLb3qUrba0K5Zc6DI"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -971,22 +987,6 @@
       "duration_ms": 219226,
       "name": "Far Out Feeling",
       "url": "https://open.spotify.com/track/6CzVJHTzNbvxdb6wwH4WiQ"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Domino",
-        "url": "https://open.spotify.com/album/5nXc9eJPrasJL63AxYDMS6"
-      },
-      "artists": [
-        {
-          "name": "Nicole Atkins",
-          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
-        }
-      ],
-      "duration_ms": 243769,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/4UPVhpMIAuTUS6NDaEajXI"
     }
   ],
   "unique_name": "Psych & Groove",

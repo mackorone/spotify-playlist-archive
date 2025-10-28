@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Daecolm
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,240 likes - 97 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,220 likes - 97 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 41 | [Join Me](https://open.spotify.com/track/6jexgSaPUkh6tbZLg5b9V9) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl) | [Join Me](https://open.spotify.com/album/67vEjKwyoydrsuiUSSSgvV) | 2:29 |
 | 42 | [Radio Baby](https://open.spotify.com/track/1tz1f4sgl1Ux3Dn1xr4ShN) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Radio Baby](https://open.spotify.com/album/46OD1SlPvr8wRAVIzhipRN) | 2:46 |
 | 43 | [PYHU \(Put Your Hands Up\)](https://open.spotify.com/track/0zKsNJbYwvNTpePcwra0Qq) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Kurd Maverick](https://open.spotify.com/artist/6A3TktZj6p8D0bmbcfZEKE) | [PYHU \(Put Your Hands Up\)](https://open.spotify.com/album/6QHnkcW4h53aBl41i1rAxj) | 2:10 |
-| 44 | [Dopamine](https://open.spotify.com/track/4rG7VqNRA9NxXoGD0FKnzD) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Dopamine](https://open.spotify.com/album/26UUDkAk8TuBAj2xSs0ftn) | 2:03 |
+| 44 | [Dopamine \(feat\. Malou\)](https://open.spotify.com/track/4rG7VqNRA9NxXoGD0FKnzD) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Dopamine \(feat\. Malou\)](https://open.spotify.com/album/26UUDkAk8TuBAj2xSs0ftn) | 2:03 |
 | 45 | [Ocean \- Marlon Hoffstadt Remix](https://open.spotify.com/track/6b4QkHBw1N4eLIa8dBxtWJ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Ocean \(Marlon Hoffstadt Remix\)](https://open.spotify.com/album/52NrxzG4sTry7tFTr5TrFO) | 3:56 |
 | 46 | [Ameonna](https://open.spotify.com/track/2QWVzSa39qQ66oJdIXclo1) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Ameonna](https://open.spotify.com/album/1u2rWWwmEjD7rjUxQ2oYqf) | 7:22 |
 | 47 | [Baby](https://open.spotify.com/track/7f2HMR4UT56WcHPtfdrnKv) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Baby](https://open.spotify.com/album/6dPWbiXDev8kIBHmrqrRkO) | 3:31 |

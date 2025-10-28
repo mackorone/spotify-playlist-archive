@@ -24120,6 +24120,24 @@
     {
       "album": {
         "name": "Dopamine",
+        "url": "https://open.spotify.com/album/4Jf989BL5TCvLh7zrhyhhK"
+      },
+      "artists": [
+        {
+          "name": "Stockanotti",
+          "url": "https://open.spotify.com/artist/1qFwV0tV0kiowdZQPy10Ol"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-08",
+      "duration_ms": 130882,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/2ssFRSwnMhJULFJtiCiSbc"
+    },
+    {
+      "album": {
+        "name": "Dopamine (feat. Malou)",
         "url": "https://open.spotify.com/album/26UUDkAk8TuBAj2xSs0ftn"
       },
       "artists": [
@@ -24136,26 +24154,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 123446,
-      "name": "Dopamine",
+      "name": "Dopamine (feat. Malou)",
       "url": "https://open.spotify.com/track/4rG7VqNRA9NxXoGD0FKnzD"
-    },
-    {
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/4Jf989BL5TCvLh7zrhyhhK"
-      },
-      "artists": [
-        {
-          "name": "Stockanotti",
-          "url": "https://open.spotify.com/artist/1qFwV0tV0kiowdZQPy10Ol"
-        }
-      ],
-      "date_added": "2023-08-31",
-      "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
-      "duration_ms": 130882,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/2ssFRSwnMhJULFJtiCiSbc"
     },
     {
       "album": {

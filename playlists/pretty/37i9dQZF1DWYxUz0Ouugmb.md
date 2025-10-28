@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Merayakan 1000 artis RADAR dengan mendengarkan beberapa artis RADAR Indonesia yang paling banyak diputar\. Cover: Bernadya
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,719 likes - 58 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,727 likes - 58 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

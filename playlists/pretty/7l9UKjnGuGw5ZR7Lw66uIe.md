@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain]
 
 > neler yaşamışım ben ya...
 
-[Mert Çodur](https://open.spotify.com/user/mertcodur) - 278 likes - 28 songs - 1 hr 17 min
+[Mert Çodur](https://open.spotify.com/user/mertcodur) - 277 likes - 28 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

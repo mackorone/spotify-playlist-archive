@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by ELENA ROSE, Tainy & Feid, Mon Laferte and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,539 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,564 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 39 | [YA NO ESTÁS SOLA](https://open.spotify.com/track/7bTLME3Z0vRWAUuDeZYObf) | [Milo Bvgatti](https://open.spotify.com/artist/7lyNgZSgWXCRYXx6y1flAK), [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [YA NO ESTÁS SOLA](https://open.spotify.com/album/6DTVqyumWfK1LQenAafvAx) | 3:17 |
 | 40 | [Un Brindis](https://open.spotify.com/track/10kckdc81Cn1f4LRXhEuVY) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Un Brindis](https://open.spotify.com/album/0uOqaleVNtSBAw1TatUR4p) | 2:52 |
 | 41 | [HICIMO'](https://open.spotify.com/track/2S8QqrpcwvV23IXKlvKuLb) | [Lenexx](https://open.spotify.com/artist/5F77ksxlJCk6Z69gDEk3N8) | [HICIMO'](https://open.spotify.com/album/2s5QUCLPOKqvkYHAdxeBsn) | 2:33 |
-| 42 | [No me creas](https://open.spotify.com/track/4YVeAMz8NusUU7dVDEKAQR) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [No me creas](https://open.spotify.com/album/1ZHB0X6tAelp1Vo8B9LirU) | 3:26 |
-| 43 | [a m a n e c e r](https://open.spotify.com/track/0Jga6DNV1MRTq2wPVPA7yJ) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Cuando Se Acaba La Noche](https://open.spotify.com/album/7HKoEgvUennZLf44WtbA1A) | 2:39 |
-| 44 | [te deseo lo mejor](https://open.spotify.com/track/3QflwtyEumAFDPsqeCVGxk) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb), [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [te deseo lo mejor](https://open.spotify.com/album/55YgE5Aoxt1N0i2EpBMEAE) | 2:32 |
-| 45 | [FÉNIX](https://open.spotify.com/track/6tkpFXONb3TLwIZUGeiXiB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [FÉNIX](https://open.spotify.com/album/6Ex5X0AqZ7PvEtBr4ynksB) | 3:17 |
-| 46 | [OBVIAMENTE!](https://open.spotify.com/track/1w53VeDC57O0jNw7Hfb9Q7) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Maria Daniela Y Su Sonido Lasser](https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4) | [NO LO ENtENDERÍAS!](https://open.spotify.com/album/3LFli0vb9jOAyL3cxknDak) | 2:28 |
-| 47 | [Jeans](https://open.spotify.com/track/3k8OecyCuXi8khi6BlA64t) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Jeans](https://open.spotify.com/album/0GT6nYV0wS2F6K7FKkKKFY) | 3:21 |
-| 48 | [iii\. LaDrogaMásSuaveDelMundo\(!\) · enamoramiento](https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Soulost](https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE) | 4:00 |
-| 49 | [Yo se que ahora](https://open.spotify.com/track/7D2ojES5I83oexAv9nZxCl) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Yo se que ahora](https://open.spotify.com/album/1SMBVCqMJJsXVQ45NqcM7x) | 3:50 |
-| 50 | [fuk it up](https://open.spotify.com/track/7koypxTENyayal0dEFrca3) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [fuk it up](https://open.spotify.com/album/0s4mmxpG4D0HcWvrV8itEB) | 2:37 |
+| 42 | [DAMN](https://open.spotify.com/track/61q6DPyrivxS1eCBFwjihP) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [DAMN](https://open.spotify.com/album/1nt5KM4c1zjHatus4OIWTw) | 2:49 |
+| 43 | [No me creas](https://open.spotify.com/track/4YVeAMz8NusUU7dVDEKAQR) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [No me creas](https://open.spotify.com/album/1ZHB0X6tAelp1Vo8B9LirU) | 3:26 |
+| 44 | [a m a n e c e r](https://open.spotify.com/track/0Jga6DNV1MRTq2wPVPA7yJ) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Cuando Se Acaba La Noche](https://open.spotify.com/album/7HKoEgvUennZLf44WtbA1A) | 2:39 |
+| 45 | [te deseo lo mejor](https://open.spotify.com/track/3QflwtyEumAFDPsqeCVGxk) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb), [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [te deseo lo mejor](https://open.spotify.com/album/55YgE5Aoxt1N0i2EpBMEAE) | 2:32 |
+| 46 | [FÉNIX](https://open.spotify.com/track/6tkpFXONb3TLwIZUGeiXiB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [FÉNIX](https://open.spotify.com/album/6Ex5X0AqZ7PvEtBr4ynksB) | 3:17 |
+| 47 | [OBVIAMENTE!](https://open.spotify.com/track/1w53VeDC57O0jNw7Hfb9Q7) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Maria Daniela Y Su Sonido Lasser](https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4) | [NO LO ENtENDERÍAS!](https://open.spotify.com/album/3LFli0vb9jOAyL3cxknDak) | 2:28 |
+| 48 | [Jeans](https://open.spotify.com/track/3k8OecyCuXi8khi6BlA64t) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Jeans](https://open.spotify.com/album/0GT6nYV0wS2F6K7FKkKKFY) | 3:21 |
+| 49 | [iii\. LaDrogaMásSuaveDelMundo\(!\) · enamoramiento](https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Soulost](https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE) | 4:00 |
+| 50 | [Yo se que ahora](https://open.spotify.com/track/7D2ojES5I83oexAv9nZxCl) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Yo se que ahora](https://open.spotify.com/album/1SMBVCqMJJsXVQ45NqcM7x) | 3:50 |
+| 51 | [fuk it up](https://open.spotify.com/track/7koypxTENyayal0dEFrca3) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [fuk it up](https://open.spotify.com/album/0s4mmxpG4D0HcWvrV8itEB) | 2:37 |
 
-Snapshot ID: `AAAAACHCsx9/yP+HKX45SZVVFsj4o/7q`
+Snapshot ID: `AAAAAIHs0WAkolMKIQNswQkNG6Ycv/hy`

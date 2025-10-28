@@ -1,6 +1,6 @@
 {
   "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Alex Ferreira en portada.",
-  "num_followers": 191949,
+  "num_followers": 191933,
   "original_name": "Pop Folk",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,26 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
+        "name": "Infierno Favorito",
+        "url": "https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 214279,
+      "name": "Infierno Favorito",
+      "url": "https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
         "name": "palacio <3",
         "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
       },
@@ -795,26 +815,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Infierno Favorito",
-        "url": "https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 214279,
-      "name": "Infierno Favorito",
-      "url": "https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "No me Importa",
         "url": "https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Cuesti\u00f3n de Fe",
-        "url": "https://open.spotify.com/album/4RwjMVmtIfqRkpUVkdKlZN"
-      },
-      "artists": [
-        {
-          "name": "ni\u00f1o viejo",
-          "url": "https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9"
-        }
-      ],
-      "duration_ms": 143671,
-      "name": "Cuesti\u00f3n de Fe",
-      "url": "https://open.spotify.com/track/5ktwcFBkWl3W00mqcTIzgw"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "Lo Mejor",
         "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 185727,
       "name": "Lo Mejor",
       "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "Cuesti\u00f3n de Fe",
+        "url": "https://open.spotify.com/album/4RwjMVmtIfqRkpUVkdKlZN"
+      },
+      "artists": [
+        {
+          "name": "ni\u00f1o viejo",
+          "url": "https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9"
+        }
+      ],
+      "duration_ms": 143671,
+      "name": "Cuesti\u00f3n de Fe",
+      "url": "https://open.spotify.com/track/5ktwcFBkWl3W00mqcTIzgw"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
+        "name": "Remedios",
+        "url": "https://open.spotify.com/album/3i4xUcTsaFK4ZjWdxx4uzp"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "duration_ms": 208074,
+      "name": "Remedios",
+      "url": "https://open.spotify.com/track/7EozlnvFrXBD2wl5jdCvDR"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
         "name": "Nadie Me Corta el Pelo Como T\u00fa",
         "url": "https://open.spotify.com/album/0bfXdh6mwJ7AyS8RN8AfdD"
       },
@@ -947,18 +963,18 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Remedios",
-        "url": "https://open.spotify.com/album/3i4xUcTsaFK4ZjWdxx4uzp"
+        "name": "Volver a Creer",
+        "url": "https://open.spotify.com/album/79vM4z2ZJcCQTEFQSJ75tD"
       },
       "artists": [
         {
-          "name": "Gabriela Alatorre",
-          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+          "name": "Paola Meza",
+          "url": "https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0"
         }
       ],
-      "duration_ms": 208074,
-      "name": "Remedios",
-      "url": "https://open.spotify.com/track/7EozlnvFrXBD2wl5jdCvDR"
+      "duration_ms": 190000,
+      "name": "Volver a Creer",
+      "url": "https://open.spotify.com/track/3HrCUfC3oikCStUV7DeCGp"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -979,22 +995,6 @@
       "duration_ms": 213959,
       "name": "Sed de Acci\u00f3n - Re-versi\u00f3n",
       "url": "https://open.spotify.com/track/4c7GjdSskBPh6drENlszMY"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
-        "name": "Volver a Creer",
-        "url": "https://open.spotify.com/album/79vM4z2ZJcCQTEFQSJ75tD"
-      },
-      "artists": [
-        {
-          "name": "Paola Meza",
-          "url": "https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Volver a Creer",
-      "url": "https://open.spotify.com/track/3HrCUfC3oikCStUV7DeCGp"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Un buen d\u00eda",
-        "url": "https://open.spotify.com/album/0TMrSx0D2v9ntzdb5dl6Su"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Un buen d\u00eda",
-      "url": "https://open.spotify.com/track/0ptkjH0iMlPVwkOleKUR5U"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "K\u00e9 MaL (versi\u00f3n tierna)",
         "url": "https://open.spotify.com/album/36XM3kja0ssZwO5UIEiIrt"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
+        "name": "Un buen d\u00eda",
+        "url": "https://open.spotify.com/album/0TMrSx0D2v9ntzdb5dl6Su"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Un buen d\u00eda",
+      "url": "https://open.spotify.com/track/0ptkjH0iMlPVwkOleKUR5U"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
         "name": "desahogo",
         "url": "https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ"
       },
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "El lugar correcto (En Vivo [Live at Carnegie Hall])",
-        "url": "https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "El lugar correcto - En Vivo [Live at Carnegie Hall]",
-      "url": "https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "Polvo De Gigantes",
         "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 153440,
       "name": "Polvo De Gigantes",
       "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "El lugar correcto (En Vivo [Live at Carnegie Hall])",
+        "url": "https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "El lugar correcto - En Vivo [Live at Carnegie Hall]",
+      "url": "https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
+        "name": "Canci\u00f3n de Cuna Para mi Amor",
+        "url": "https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Canci\u00f3n de Cuna Para mi Amor",
+      "url": "https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
         "name": "Natalia Lafourcade Live at Carnegie Hall",
         "url": "https://open.spotify.com/album/18JArdeamDNxXvj1SvtiiY"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 311618,
       "name": "Hubo Algo",
       "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
-        "name": "Canci\u00f3n de Cuna Para mi Amor",
-        "url": "https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Canci\u00f3n de Cuna Para mi Amor",
-      "url": "https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq"
     },
     {
       "added_at": "2025-10-24 06:00:21",

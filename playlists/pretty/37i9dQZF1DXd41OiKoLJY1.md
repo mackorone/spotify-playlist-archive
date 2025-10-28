@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  REVISORS Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,963 likes - 249 songs - 13 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,966 likes - 249 songs - 13 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,861 likes - 72 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,863 likes - 72 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 33 | [Putita Boutique \- Only Fire Remix](https://open.spotify.com/track/4qfvnjicPX7AEotSSwGCTD) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN) | [Putita Boutique \(Only Fire Remix\)](https://open.spotify.com/album/6Fu8GsQNM6yHLgcIbNItFG) | 2:31 |
 | 34 | [POPPER!](https://open.spotify.com/track/41P9Z83VHtkpVYfpmDlkAA) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 1:50 |
 | 35 | [Angelo](https://open.spotify.com/track/1RE8javMEgvmP2dgnKOtgq) | [BIIA](https://open.spotify.com/artist/6aLjZidc4PrcXCrCnLzR6W) | [Angelo](https://open.spotify.com/album/56kRUeySmlEnOhY4qxm3jV) | 3:25 |
-| 36 | [Dolphin \(feat\. Shygirl\)](https://open.spotify.com/track/1bzpFAFvucnsqFwqRB4XHk) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Shark Brain / Dolphin](https://open.spotify.com/album/1RTKS3ogUg57xDJaiW7dBj) | 3:05 |
+| 36 | [Dolphin](https://open.spotify.com/track/1bzpFAFvucnsqFwqRB4XHk) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Shark Brain / Dolphin](https://open.spotify.com/album/1RTKS3ogUg57xDJaiW7dBj) | 3:05 |
 | 37 | [FTRW!](https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [FTRW!](https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR) | 4:11 |
 | 38 | [HooHooHoo](https://open.spotify.com/track/58F73soDs7qmO3tfOeZUhB) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [HooHooHoo](https://open.spotify.com/album/7lGmDW32RDSh3tx3US5FlP) | 4:14 |
 | 39 | [001](https://open.spotify.com/track/6BTCpYcmwGBk4BVgdxQ5ZA) | [Suorcristona](https://open.spotify.com/artist/0Bqog93ANuhgpTLGIzcwza) | [selecta 002](https://open.spotify.com/album/07pr8juqXraD4u2baLrXEE) | 4:33 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-1,799 songs - 3 day 22 hr 45 min
+1,800 songs - 3 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -944,6 +944,7 @@
 | [Mar de Coral](https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Mar de Coral](https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF) | 3:55 | 2025-03-11 | 2025-03-19 |
 | [Maradona \(Tatara\)](https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [Maradona \(Tatara\)](https://open.spotify.com/album/7k2xukz06wN3vKdaRHprPW) | 2:30 | 2024-08-27 | 2024-09-10 |
 | [Marcha de las Malvinas](https://open.spotify.com/track/7H851ulmXQFlBOrLjbyHgj) | [Banda Original Columbia](https://open.spotify.com/artist/5b0UnnfFNudJBMFuvit4fT) | [Al Gran Pueblo Argentino Salud](https://open.spotify.com/album/5fgPIiakOWH45TfTARPIY5) | 2:29 | 2024-04-03 | 2025-04-12 |
+| [Marcha Peronista](https://open.spotify.com/track/6dtdFWroDcxfNgv184UfB2) | [Hugo Del Carril](https://open.spotify.com/artist/42piYricuUve61p8O67daU) | [Marcha Peronista \- Evita Capitana](https://open.spotify.com/album/4rd7N2OBhMK5KeKJZHX9LL) | 2:32 | 2025-10-27 |  |
 | [MARCIANO](https://open.spotify.com/track/7FyTcAV3bjDTMMsOY1X1RF) | [FLAKO STIK](https://open.spotify.com/artist/2ltTl7JjDstSA7QcXCn5ff) | [LA RUTA X MEXICO, Vol\. 1](https://open.spotify.com/album/38xTcKPmTBt1vAq8vNXh0S) | 4:00 | 2024-04-07 | 2024-05-08 |
 | [MARQUINHA DE FITA X TEM Q SER TRABALHO LINDO](https://open.spotify.com/track/4UPuWGSh6t4t4MXFpw9yMG) | [DJ VT DA RUA LARGA](https://open.spotify.com/artist/4E4nRZk05d48CwFmv8KIPa) | [MARQUINHA DE FITA X TEM Q SER TRABALHO LINDO](https://open.spotify.com/album/6Ol6WaFaTZVt2lTOOL4KYJ) | 2:18 | 2024-02-11 | 2024-02-13 |
 | [Mas de lo que hay](https://open.spotify.com/track/3Fc2G2pnzKRXieiooyD4sk) | [ROCKO](https://open.spotify.com/artist/6YCiLWmtu9cK1i7RQJE005) | [SUEÑOS \-Parte uno\-](https://open.spotify.com/album/6jrLPJohPfBLsVrxnlCKtT) | 2:05 | 2024-12-17 | 2024-12-25 |
@@ -1405,7 +1406,7 @@
 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 | 2024-04-16 | 2024-05-04 |
 | [SHEESH](https://open.spotify.com/track/6kAMgHOOsuCoHemVEeeRFn) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:16 | 2024-05-07 | 2024-05-09 |
 | [SHEKI SHEKI VS YO QUIERO LO QUE ME MEREZCO](https://open.spotify.com/track/3QjUo1joS34zOfjgeJu4ax) | [JOEL RMX](https://open.spotify.com/artist/05uh7Xulk4vl0CfF9XkjrQ), [LAALODJ](https://open.spotify.com/artist/06dak3veVkev0ZvQrWPh1V) | [SHEKI SHEKI VS YO QUIERO LO QUE ME MEREZCO](https://open.spotify.com/album/4ts9Z4OqwvkjjB9iTjQrgO) | 3:27 | 2024-03-26 | 2024-04-24 |
-| [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 | 2025-09-04 |  |
+| [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 | 2025-09-04 | 2025-10-28 |
 | [Shot in the Dark](https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Ultimate Sin](https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j) | 4:16 | 2025-07-24 | 2025-08-04 |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-03-12 | 2025-05-07 |
 | [Show Me Love \(with Tyla\)](https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Show Me Love \(with Tyla\)](https://open.spotify.com/album/2JJn1NNlaGZ0iWtjVep9Ti) | 2:56 | 2025-05-07 | 2025-05-12 |

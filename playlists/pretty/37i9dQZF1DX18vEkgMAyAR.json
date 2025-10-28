@@ -871,6 +871,26 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
+        "name": "La Musica",
+        "url": "https://open.spotify.com/album/6XazW7KRkCIZ4Tp7XjoYfG"
+      },
+      "artists": [
+        {
+          "name": "Tamara Dey",
+          "url": "https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9"
+        },
+        {
+          "name": "Jann Klose",
+          "url": "https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR"
+        }
+      ],
+      "duration_ms": 212950,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/1KyLPWLT2H7xMVk92YineV"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
         "name": "Video Games",
         "url": "https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 167680,
       "name": "Demons",
       "url": "https://open.spotify.com/track/2kOoRJBEfRmF8jdBbxmhFl"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
-        "name": "La Musica",
-        "url": "https://open.spotify.com/album/6XazW7KRkCIZ4Tp7XjoYfG"
-      },
-      "artists": [
-        {
-          "name": "Tamara Dey",
-          "url": "https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9"
-        },
-        {
-          "name": "Jann Klose",
-          "url": "https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR"
-        }
-      ],
-      "duration_ms": 212950,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/1KyLPWLT2H7xMVk92YineV"
     },
     {
       "added_at": "2024-05-10 06:34:25",

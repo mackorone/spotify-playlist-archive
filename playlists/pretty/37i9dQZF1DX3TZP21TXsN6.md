@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: JR, Boufi, Graci en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,146 likes - 90 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,141 likes - 90 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NACHT](https://open.spotify.com/track/4btnwHkreHQsLHJHT9KSHa) | [JR](https://open.spotify.com/artist/1uBVAOArtDJV3NOliZbEyN), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [NACHT](https://open.spotify.com/album/2RGCE3LkgtxR53RojrOe7s) | 2:23 |
 | 2 | [Niet Gewoon](https://open.spotify.com/track/3d0oO5PkEgwgOveqKcWMo8) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK) | [Niet Gewoon](https://open.spotify.com/album/2ahYB0y9zVwNVXP6HMiF78) | 2:47 |
-| 3 | [Suàrez](https://open.spotify.com/track/39bmbqSgVjju99mAfKMDL9) | [Graci](https://open.spotify.com/artist/0Wjm2HhRhqlLKQjMyqAnCO) | [Code Rood](https://open.spotify.com/album/7thQr11biDmvi7fde9MidZ) | 2:40 |
-| 4 | [Superman](https://open.spotify.com/track/2QEPdAKf9AKhp6W5Atg4D5) | [Luca St](https://open.spotify.com/artist/0UUJ3EwkYGvjoIaVlnF6CN), [JAH](https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659) | [Superman](https://open.spotify.com/album/7f8QLkGiCPSRL3asvjOQGO) | 2:12 |
-| 5 | [Gnumes Gna](https://open.spotify.com/track/7rBkFjCLrbbXzm4D2dy4Ym) | [AB7](https://open.spotify.com/artist/6n6tlB44JuXjIevREM1HqG), [D.SEL](https://open.spotify.com/artist/4lQRNhAKqn4S8pbHvJykKh) | [Gnumes Gna](https://open.spotify.com/album/6nmyUNhonwSaBTJ21NEpYf) | 2:42 |
-| 6 | [Life Changed](https://open.spotify.com/track/6VYOGwuCJGzkpIROYfss13) | [Leafs](https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il), [EMAGE](https://open.spotify.com/artist/3dHbnberWSCpLL2wOvGBYc) | [Life Changed](https://open.spotify.com/album/1sPya0t7Ht9gPSUyaM0i71) | 2:29 |
-| 7 | [La Famille](https://open.spotify.com/track/5VB4o8PrCn5wfnBRke3uD0) | [Bakss](https://open.spotify.com/artist/69i0htO0gHoR8ufAd678CB) | [La Famille](https://open.spotify.com/album/6TvXjn27e2qTy5o4oX9LZy) | 2:25 |
-| 8 | [Geleden](https://open.spotify.com/track/3JOTZnLzJIy2160hvuGu5B) | [Foncé](https://open.spotify.com/artist/2VYoSgP5JVmpOMm3h9Hb1m), [BFLClyde](https://open.spotify.com/artist/5ybuFtnUioZDYS90bDO4GD) | [Geleden](https://open.spotify.com/album/3ORvTr6eeE2p9d3oQVUchG) | 2:35 |
-| 9 | [Niet Thuis Kom](https://open.spotify.com/track/7hjRcD50o3MX2UStKJUc4N) | [FOCUS](https://open.spotify.com/artist/4LPnjKJNGs4iU3gVbP2fUn), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Niet Thuis Kom](https://open.spotify.com/album/1xm4OmIkkn9zZtl5QeWkpx) | 2:00 |
-| 10 | [Baddie Zoals Jij](https://open.spotify.com/track/0x5MSTlha3rWGgZ0NVXEnm) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Baddie Zoals Jij](https://open.spotify.com/album/7LejBE3T5YwUt4RJ3iWsOX) | 2:39 |
+| 3 | [Baddie Zoals Jij](https://open.spotify.com/track/0x5MSTlha3rWGgZ0NVXEnm) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Baddie Zoals Jij](https://open.spotify.com/album/7LejBE3T5YwUt4RJ3iWsOX) | 2:39 |
+| 4 | [Gnumes Gna](https://open.spotify.com/track/7rBkFjCLrbbXzm4D2dy4Ym) | [AB7](https://open.spotify.com/artist/6n6tlB44JuXjIevREM1HqG), [D.SEL](https://open.spotify.com/artist/4lQRNhAKqn4S8pbHvJykKh) | [Gnumes Gna](https://open.spotify.com/album/6nmyUNhonwSaBTJ21NEpYf) | 2:42 |
+| 5 | [La Famille](https://open.spotify.com/track/5VB4o8PrCn5wfnBRke3uD0) | [Bakss](https://open.spotify.com/artist/69i0htO0gHoR8ufAd678CB) | [La Famille](https://open.spotify.com/album/6TvXjn27e2qTy5o4oX9LZy) | 2:25 |
+| 6 | [Suàrez](https://open.spotify.com/track/39bmbqSgVjju99mAfKMDL9) | [Graci](https://open.spotify.com/artist/0Wjm2HhRhqlLKQjMyqAnCO) | [Code Rood](https://open.spotify.com/album/7thQr11biDmvi7fde9MidZ) | 2:40 |
+| 7 | [Superman](https://open.spotify.com/track/2QEPdAKf9AKhp6W5Atg4D5) | [Luca St](https://open.spotify.com/artist/0UUJ3EwkYGvjoIaVlnF6CN), [JAH](https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659) | [Superman](https://open.spotify.com/album/7f8QLkGiCPSRL3asvjOQGO) | 2:12 |
+| 8 | [Life Changed](https://open.spotify.com/track/6VYOGwuCJGzkpIROYfss13) | [Leafs](https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il), [EMAGE](https://open.spotify.com/artist/3dHbnberWSCpLL2wOvGBYc) | [Life Changed](https://open.spotify.com/album/1sPya0t7Ht9gPSUyaM0i71) | 2:29 |
+| 9 | [Geleden](https://open.spotify.com/track/3JOTZnLzJIy2160hvuGu5B) | [Foncé](https://open.spotify.com/artist/2VYoSgP5JVmpOMm3h9Hb1m), [BFLClyde](https://open.spotify.com/artist/5ybuFtnUioZDYS90bDO4GD) | [Geleden](https://open.spotify.com/album/3ORvTr6eeE2p9d3oQVUchG) | 2:35 |
+| 10 | [Niet Thuis Kom](https://open.spotify.com/track/7hjRcD50o3MX2UStKJUc4N) | [FOCUS](https://open.spotify.com/artist/4LPnjKJNGs4iU3gVbP2fUn), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Niet Thuis Kom](https://open.spotify.com/album/1xm4OmIkkn9zZtl5QeWkpx) | 2:00 |
 | 11 | [D.I.M](https://open.spotify.com/track/5hx7VG8TAvy3sW9DuYKQxA) | [DIM](https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ) | [D.I.M](https://open.spotify.com/album/7MXTvO8RwThj5EZHqjz1sg) | 2:05 |
 | 12 | [HELEMAAL HERRES](https://open.spotify.com/track/7gnyhzKhIKufBX0xmjT35s) | [Rasskulz](https://open.spotify.com/artist/6EG4aueDmBQiVMPfTDku3v), [9V](https://open.spotify.com/artist/1b7dajWPeAyB0hDhs3lyTH) | [HELEMAAL HERRES](https://open.spotify.com/album/4DycpnMgS1gL3dPBwJyYjr) | 3:34 |
-| 13 | [Geen Tijd](https://open.spotify.com/track/0cKZx82SzAZLfXCNi3PyFc) | [Homey](https://open.spotify.com/artist/0rUZZcbB1j3FJFvBvQ86UG) | [Geen Tijd](https://open.spotify.com/album/3hCXol6Dx29vDu43OiFCEE) | 2:24 |
+| 13 | [Geen Tijd](https://open.spotify.com/track/0cKZx82SzAZLfXCNi3PyFc) | [Homey](https://open.spotify.com/artist/0rUZZcbB1j3FJFvBvQ86UG), [Blanke Roy](https://open.spotify.com/artist/2snnqKGi87l4WBaPDp9pFP) | [Geen Tijd](https://open.spotify.com/album/3hCXol6Dx29vDu43OiFCEE) | 2:24 |
 | 14 | [Still Spinnin](https://open.spotify.com/track/2PiKEJTjUKRt8ZjDDVWoj5) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Bens](https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7) | [Still Spinnin](https://open.spotify.com/album/4TamibBDkXQSnUE4h4Jeg5) | 2:49 |
 | 15 | [Likkle Wine \(Juiste Timing\)](https://open.spotify.com/track/2FxPE8qKNH6Ui0RiO6M9MB) | [Miero YIC](https://open.spotify.com/artist/1EV7sNMefC5xUDp0nxxCPQ) | [Likkle Wine \(Juiste Timing\)](https://open.spotify.com/album/6gVMCqNraFsR9oTQulHsag) | 1:55 |
 | 16 | [Misschien](https://open.spotify.com/track/53ob8Azhe5PILzJgunPJjV) | [TB](https://open.spotify.com/artist/32dyZVtIJgvvGCLvCKD87s) | [Misschien](https://open.spotify.com/album/0L07BgKEavDzjtZCkORsuK) | 2:29 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 89 | [Gemaakt Voor Dit](https://open.spotify.com/track/49JvRLdvAz81GLdNfnD7kT) | [NDD](https://open.spotify.com/artist/0wXZFUIlCxAi0Y49ZjCuMV) | [Gemaakt Voor Dit](https://open.spotify.com/album/5YvQ7iIhysANpopMB9qkcj) | 2:43 |
 | 90 | [Thuisbasis](https://open.spotify.com/track/3TlIlIjY45oQMTNyp0kqOw) | [Bakss](https://open.spotify.com/artist/69i0htO0gHoR8ufAd678CB) | [Thuisbasis](https://open.spotify.com/album/3GQOty3Q4xmoMPFVzvUosr) | 2:22 |
 
-Snapshot ID: `AAAAALIvaSgJo5FcBcNjKXeQLwUAIRtw`
+Snapshot ID: `AAAAAPK2D0ObXdudNEsNGNWb/Z7blMu9`

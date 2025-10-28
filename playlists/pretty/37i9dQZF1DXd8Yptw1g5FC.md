@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Salman Tin x Fatma Turgut ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,398 likes - 150 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,402 likes - 150 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 75 | [Aşk Yakışmaz Bana](https://open.spotify.com/track/0SYzBK8k5DJjwxvpgnXXBV) | [Ufukta Delilik Var](https://open.spotify.com/artist/3JkzOdrZ8IHEBlPL1eZJmr) | [Aşk Yakışmaz Bana](https://open.spotify.com/album/4MJbX2ahHrQ3XhEfWgH7jj) | 4:29 |
 | 76 | [Duvarlar](https://open.spotify.com/track/1HkyqpKBTEG3iG2yARH9Fs) | [Vedat Sakman](https://open.spotify.com/artist/6dyj8hW2rSZ30SHlj2KHrT) | [Duvarlar](https://open.spotify.com/album/4e54nJ7SCATlFeMlfWgxln) | 2:53 |
 | 77 | [Sayende](https://open.spotify.com/track/7n1Q4qdh4tUWwkIaoyMfie) | [Faruk Emre](https://open.spotify.com/artist/6ZMAtJfhmmfaFpgmVQwBCa) | [Sayende](https://open.spotify.com/album/6zXgpdonFhNuEfQKdHt6Uu) | 3:07 |
-| 78 | [Senfoni](https://open.spotify.com/track/3EDSMI0pY3YGs8GdsMgahU) | [Lodos E.B](https://open.spotify.com/artist/5K1gCRSaIL3lycZWQi6AFg), [Emar Hoca](https://open.spotify.com/artist/3auZD4rN4J9tpowZxUplLQ) | [Senfoni](https://open.spotify.com/album/4ER2I7GgHZI9FhEqmy2n19) | 4:40 |
+| 78 | [Senfoni](https://open.spotify.com/track/3EDSMI0pY3YGs8GdsMgahU) | [Lodos E.B](https://open.spotify.com/artist/5K1gCRSaIL3lycZWQi6AFg), [Emar Hoca](https://open.spotify.com/artist/5Ca5X3nwongAkjPQHHcXz2) | [Senfoni](https://open.spotify.com/album/4ER2I7GgHZI9FhEqmy2n19) | 4:40 |
 | 79 | [ALO!](https://open.spotify.com/track/7dKx3VCEKddyzx3rFSUCGp) | [Vayensi](https://open.spotify.com/artist/2Z3WBY4GyyfTG60oHtQw1L) | [ALO!](https://open.spotify.com/album/6FjxasHdlsL7KNgPLL4EGW) | 1:52 |
 | 80 | [Hatırla](https://open.spotify.com/track/79Z3BB7HDf5QCUZx5bcaq6) | [Bora](https://open.spotify.com/artist/0EJe5gUmpf6NraeLEyFF7E) | [Hatırla](https://open.spotify.com/album/2bDkMInnjZ8zJ0dcB6YD95) | 1:50 |
 | 81 | [DESERT ROSE](https://open.spotify.com/track/5ieKLsI7TYGgJymHjwBuYt) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [DESERT ROSE](https://open.spotify.com/album/70VSmEvL2TmJAhj8Hv6C6f) | 3:27 |

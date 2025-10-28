@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 212632,
+  "num_followers": 212620,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-10-24 07:37:56",
       "album": {
-        "name": "Lies Lies Lies",
-        "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 198068,
-      "name": "Lies Lies Lies",
-      "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
-    },
-    {
-      "added_at": "2025-10-24 07:37:56",
-      "album": {
         "name": "Death Wish Love (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 223955,
       "name": "Death Wish Love (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2"
+    },
+    {
+      "added_at": "2025-10-24 07:37:56",
+      "album": {
+        "name": "Lies Lies Lies",
+        "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 198068,
+      "name": "Lies Lies Lies",
+      "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
     },
     {
       "added_at": "2025-10-24 07:37:56",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-10-24 07:37:56",
       "album": {
-        "name": "Det L\u00f8ser Seg",
-        "url": "https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W"
-      },
-      "artists": [
-        {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
-        }
-      ],
-      "duration_ms": 132727,
-      "name": "Det L\u00f8ser Seg",
-      "url": "https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S"
-    },
-    {
-      "added_at": "2025-10-24 07:37:56",
-      "album": {
         "name": "GOLF",
         "url": "https://open.spotify.com/album/2ZTc5n62uK6TjSbpURO5Me"
       },
@@ -407,34 +391,18 @@
     {
       "added_at": "2025-10-24 07:37:56",
       "album": {
-        "name": "Se P\u00e5 Meg",
-        "url": "https://open.spotify.com/album/5WaoMzn9JLXkxar2AYt656"
+        "name": "Det L\u00f8ser Seg",
+        "url": "https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W"
       },
       "artists": [
         {
-          "name": "Fjellrev",
-          "url": "https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8"
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
         }
       ],
-      "duration_ms": 159672,
-      "name": "Se P\u00e5 Meg",
-      "url": "https://open.spotify.com/track/5ZoZDdZUCvSSzMDZYrK9EH"
-    },
-    {
-      "added_at": "2025-10-24 07:37:56",
-      "album": {
-        "name": "St. Tropez",
-        "url": "https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 142660,
-      "name": "St. Tropez",
-      "url": "https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X"
+      "duration_ms": 132727,
+      "name": "Det L\u00f8ser Seg",
+      "url": "https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S"
     },
     {
       "added_at": "2025-10-24 07:37:56",
@@ -451,6 +419,22 @@
       "duration_ms": 163624,
       "name": "Pust i bakken",
       "url": "https://open.spotify.com/track/22I2nh2M1TkB7OPzTYidIV"
+    },
+    {
+      "added_at": "2025-10-24 07:37:56",
+      "album": {
+        "name": "Se P\u00e5 Meg",
+        "url": "https://open.spotify.com/album/5WaoMzn9JLXkxar2AYt656"
+      },
+      "artists": [
+        {
+          "name": "Fjellrev",
+          "url": "https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8"
+        }
+      ],
+      "duration_ms": 159672,
+      "name": "Se P\u00e5 Meg",
+      "url": "https://open.spotify.com/track/5ZoZDdZUCvSSzMDZYrK9EH"
     },
     {
       "added_at": "2025-10-24 07:37:56",
@@ -487,6 +471,22 @@
     {
       "added_at": "2025-10-24 07:37:56",
       "album": {
+        "name": "St. Tropez",
+        "url": "https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 142660,
+      "name": "St. Tropez",
+      "url": "https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X"
+    },
+    {
+      "added_at": "2025-10-24 07:37:56",
+      "album": {
         "name": "Tjue \u00e5r",
         "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
       },
@@ -499,26 +499,6 @@
       "duration_ms": 259096,
       "name": "Tjue \u00e5r",
       "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
-    },
-    {
-      "added_at": "2025-10-24 07:37:56",
-      "album": {
-        "name": "Sunshine Baby",
-        "url": "https://open.spotify.com/album/2k7CDnBJQw4sajD2h53o1E"
-      },
-      "artists": [
-        {
-          "name": "Coucheron",
-          "url": "https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D"
-        },
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 179210,
-      "name": "Sunshine Baby",
-      "url": "https://open.spotify.com/track/7pzsqAe78VUADwaO1rdKBQ"
     },
     {
       "added_at": "2025-10-24 07:37:56",
@@ -567,6 +547,26 @@
       "duration_ms": 188067,
       "name": "Sucker For Pain",
       "url": "https://open.spotify.com/track/7uAgfJh0XZWxHYHEf8Y3Ti"
+    },
+    {
+      "added_at": "2025-10-24 07:37:56",
+      "album": {
+        "name": "Sunshine Baby",
+        "url": "https://open.spotify.com/album/2k7CDnBJQw4sajD2h53o1E"
+      },
+      "artists": [
+        {
+          "name": "Coucheron",
+          "url": "https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D"
+        },
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 179210,
+      "name": "Sunshine Baby",
+      "url": "https://open.spotify.com/track/7pzsqAe78VUADwaO1rdKBQ"
     },
     {
       "added_at": "2025-10-24 07:37:56",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-10-24 07:37:56",
       "album": {
-        "name": "On One",
-        "url": "https://open.spotify.com/album/0piWOK8MKvsOxL3FNYOLFY"
-      },
-      "artists": [
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 163364,
-      "name": "On One",
-      "url": "https://open.spotify.com/track/3fn6702K3cgeHDNqtMFtSW"
-    },
-    {
-      "added_at": "2025-10-24 07:37:56",
-      "album": {
         "name": "Egoland",
         "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 170629,
       "name": "Didn't I?",
       "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
+    },
+    {
+      "added_at": "2025-10-24 07:37:56",
+      "album": {
+        "name": "On One",
+        "url": "https://open.spotify.com/album/0piWOK8MKvsOxL3FNYOLFY"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 163364,
+      "name": "On One",
+      "url": "https://open.spotify.com/track/3fn6702K3cgeHDNqtMFtSW"
     },
     {
       "added_at": "2025-10-24 07:37:56",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-10-24 07:37:56",
       "album": {
+        "name": "Samma det",
+        "url": "https://open.spotify.com/album/7MKCQPH6Z9o5uSdIlvK0tp"
+      },
+      "artists": [
+        {
+          "name": "Tigergutt101",
+          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+        }
+      ],
+      "duration_ms": 154042,
+      "name": "Samma det",
+      "url": "https://open.spotify.com/track/3wsLovP5LHvUL4fqqjX0xh"
+    },
+    {
+      "added_at": "2025-10-24 07:37:56",
+      "album": {
         "name": "Bra For Meg",
         "url": "https://open.spotify.com/album/2HxOPVUe7pzIqTNA8eoGcw"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 135125,
       "name": "Bra For Meg",
       "url": "https://open.spotify.com/track/79CijW0BLwU5OvmYNmttyo"
-    },
-    {
-      "added_at": "2025-10-24 07:37:56",
-      "album": {
-        "name": "Samma det",
-        "url": "https://open.spotify.com/album/7MKCQPH6Z9o5uSdIlvK0tp"
-      },
-      "artists": [
-        {
-          "name": "Tigergutt101",
-          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
-        }
-      ],
-      "duration_ms": 154042,
-      "name": "Samma det",
-      "url": "https://open.spotify.com/track/3wsLovP5LHvUL4fqqjX0xh"
     }
   ],
   "unique_name": "ung, dum & lovende",

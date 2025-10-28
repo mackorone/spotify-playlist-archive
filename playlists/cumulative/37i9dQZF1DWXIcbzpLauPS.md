@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Architects
 
-1,384 songs - 3 day 12 hr 36 min
+1,385 songs - 3 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [BITE BACK](https://open.spotify.com/track/2y7sX1o0HqC3OBgIcLjFZM) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [BITE BACK](https://open.spotify.com/album/3BScXuhIsMKsP7cWzIwvIZ) | 2:04 | 2022-04-22 | 2022-06-24 |
 | [Bite My Tongue](https://open.spotify.com/track/1lVVrp2i3VJtqalIxDHcwh) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Bite My Tongue](https://open.spotify.com/album/1yECpaWjbl5Msiip8xPMKs) | 3:29 | 2025-06-20 | 2025-09-20 |
 | [Bite Your Tongue](https://open.spotify.com/track/1lnW6hdkIDZU6JA53R0emi) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [Bite Your Tongue](https://open.spotify.com/album/0nlj4yiTOT5UrrvIHX19MM) | 3:18 | 2023-05-05 | 2024-04-13 |
-| [bitter friend](https://open.spotify.com/track/3qvwWDx9xOH4PmPaTXOj0d) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [EXCESSIVE GUILT](https://open.spotify.com/album/7KeaMmH9Y4ebUiO3dYvhvd) | 1:54 | 2024-08-30 |  |
+| [bitter friend](https://open.spotify.com/track/3qvwWDx9xOH4PmPaTXOj0d) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [EXCESSIVE GUILT](https://open.spotify.com/album/7KeaMmH9Y4ebUiO3dYvhvd) | 1:54 | 2024-08-30 | 2025-10-28 |
 | [Bitter Friend \(feat\. Matt Heafy\)](https://open.spotify.com/track/4nCekuTPAxUJg8n5druzdZ) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Bitter Friend \(feat\. Matt Heafy\)](https://open.spotify.com/album/64Mk40J7fF8l4InpaTBARD) | 2:51 | 2022-07-13 | 2022-07-23 |
 | [Black Gold](https://open.spotify.com/track/1lIvriL7jNztn6JaU5saJc) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [Harmony In Absolution](https://open.spotify.com/album/32uH048DrBtvttFGxo5deB) | 3:41 | 2022-04-08 | 2022-07-01 |
 | [Black Heart](https://open.spotify.com/track/3x55ZUGp740NTVGOySqsBI) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/43U1hVWCs2ir6wZIAxvXnv) | 4:35 | 2022-07-13 | 2022-07-22 |
@@ -976,6 +976,7 @@
 | [Rest Your Head](https://open.spotify.com/track/5odEwsdDs3TzkySwH3t78s) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [And Dying Forever](https://open.spotify.com/album/3s8j7DemV6FuV0EyakQhEq) | 3:08 | 2022-07-13 | 2022-07-16 |
 | [Restless Leg Syndrome](https://open.spotify.com/track/1eSB4u3AapjXrO0baGuc6u) | [Evergreen Terrace](https://open.spotify.com/artist/5YQUrpDa5dkmo9Vk8hHQP9) | [Restless Leg Syndrome](https://open.spotify.com/album/7njZ8bWlAeBR8GDNO8Wl9s) | 2:40 | 2025-07-04 | 2025-07-25 |
 | [Retribution](https://open.spotify.com/track/6hlFMfui1zugK8TNEaFkBs) | [Whispers](https://open.spotify.com/artist/62tqJaaK7ys8tATtp4334R) | [Retribution](https://open.spotify.com/album/4aQbL2fzztxM1wFFzTNfI9) | 4:17 | 2024-11-22 | 2024-11-29 |
+| [Retrograde](https://open.spotify.com/track/7oGMhaCGKwzdj7bu7t82UK) | [If Not For Me](https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd) | [Retrograde](https://open.spotify.com/album/2VXDGSofcL4Ghvd621OVcT) | 3:18 | 2025-10-24 |  |
 | [Return To Tragedy](https://open.spotify.com/track/0sWRSfKSZjO2IMU25ymrfT) | [Heists](https://open.spotify.com/artist/7i04oRstVv5xfCRMppUxuF) | [Return To Tragedy](https://open.spotify.com/album/4rVAfvkDau1nZ5BHaN7ME7) | 3:46 | 2025-05-02 | 2025-06-11 |
 | [Revenge In Carnage](https://open.spotify.com/track/1FNPwBz1RjPGZCCCNVLfZv) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Revenge In Carnage](https://open.spotify.com/album/0ZPJr4S7zSUUgCnapdH0aP) | 2:27 | 2025-09-05 | 2025-10-17 |
 | [Revery](https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Revery](https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE) | 3:12 | 2025-05-23 |  |

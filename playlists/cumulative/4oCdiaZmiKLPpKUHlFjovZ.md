@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring, Money Man, Peezy &amp; Blxst.
 
-193 songs - 8 hr 37 min
+194 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Demons In The Dark](https://open.spotify.com/track/7ePN9wgTZtse3drcVI4YD4) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Demons In The Dark](https://open.spotify.com/album/2b9zu0KdTmeLAdtNSNcvZw) | 2:36 | 2024-10-10 |  |
 | [Diamond Stitching](https://open.spotify.com/track/1cVDuG58Cj3RGe8ySKwY6i) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Diamond Stitching](https://open.spotify.com/album/1SLHvtzblS30JZW9anryTE) | 2:29 | 2025-05-30 | 2025-09-30 |
 | [Different Music](https://open.spotify.com/track/4Cg7xBdI08BcfqwOC3aRfr) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [F.L.I.N.T\. \(Feeling Like I'm Not Through\)](https://open.spotify.com/album/5Jn2jLQVdViuoHPnXpcJu7) | 2:51 | 2025-08-18 |  |
+| [Doing My Best](https://open.spotify.com/track/6uqwaI2tY9QZGyxacHXZ0R) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [GOLDFISH](https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g) | 2:44 | 2025-10-27 |  |
 | [Don't Play That](https://open.spotify.com/track/3IPGG5Niex4hGlXFOYWzp9) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:13 | 2024-01-19 |  |
 | [Dreams](https://open.spotify.com/track/7yZB6fEE2uQdo1TSTCLAtj) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Dreams](https://open.spotify.com/album/3HT15k21n0cZ9T2MPVmt7I) | 2:27 | 2024-06-14 | 2025-03-05 |
 | [Drink Don't Need No Mix \(feat\. BigXthaPlug\)](https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:13 | 2024-06-18 |  |

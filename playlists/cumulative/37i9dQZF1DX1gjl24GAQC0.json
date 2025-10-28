@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your bais K-Pop boy group? (Cover: U-KNOW(\uc720\ub178\uc724\ud638)) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your bais K-Pop boy group? (Cover: ATEEZ) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "BIASBOYS",
   "tracks": [
     {
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 173000,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/4fEjJ11rArx86tbQsQTYY9"
@@ -3971,6 +3971,28 @@
     },
     {
       "album": {
+        "name": "Falling (Feat. Young K (DAY6))",
+        "url": "https://open.spotify.com/album/5acxpHJujhst5CfRUXjQBA"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        },
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Falling (Feat. Young K (DAY6))",
+      "url": "https://open.spotify.com/track/0UBzmHMIjiPCVpoe6gtvfw"
+    },
+    {
+      "album": {
         "name": "NIGHT (Korean ver.)",
         "url": "https://open.spotify.com/album/1BBigQeejhkNHwAB25JNg6"
       },
@@ -4530,6 +4552,24 @@
       "duration_ms": 160146,
       "name": "FREQUENCY - Korean Version",
       "url": "https://open.spotify.com/track/6a6jytQm8K7FNgPM1xrwEb"
+    },
+    {
+      "album": {
+        "name": "From (2018)",
+        "url": "https://open.spotify.com/album/6QkDwRFFoZ3LMFdTvdyfTQ"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "From (2018)",
+      "url": "https://open.spotify.com/track/2Vz3vio26NGctvwnRgURsy"
     },
     {
       "album": {
@@ -9356,7 +9396,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 160000,
       "name": "Overdrop",
       "url": "https://open.spotify.com/track/13o6UaRfD4OO1hkWy4ZcWC"

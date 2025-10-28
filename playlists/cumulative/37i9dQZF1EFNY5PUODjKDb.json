@@ -5,24 +5,6 @@
   "tracks": [
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/3iVEbNFm6egT1IXISUJ8mr"
-      },
-      "artists": [
-        {
-          "name": "artist",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "date_added": "2024-09-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/0uMhFStb8r4YbyHy4HxyWZ"
-    },
-    {
-      "album": {
         "name": "Love Never Dies",
         "url": "https://open.spotify.com/album/0rymLJxRADVhIDmjLtVvhF"
       },
@@ -1124,7 +1106,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 239453,
       "name": "All I Ask of You (from \"The Phantom of the Opera\") [with Kelly Clarkson]",
       "url": "https://open.spotify.com/track/3XbuqATuVYo20LysQKShOW"
@@ -6028,7 +6010,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 235026,
       "name": "I Believe My Heart - From ' The Woman In White'",
       "url": "https://open.spotify.com/track/05MpDaZxZUV5JrS9ZRYzc5"
@@ -9420,7 +9402,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 274266,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/5KVPav34JaKkXwBTJHnPgo"
@@ -17050,6 +17032,24 @@
       "duration_ms": 148680,
       "name": "What A Dreadful Town!...",
       "url": "https://open.spotify.com/track/4N1HAD6xAUNirCx4EcGi6i"
+    },
+    {
+      "album": {
+        "name": "BD Music Presents Ray Charles",
+        "url": "https://open.spotify.com/album/3iVEbNFm6egT1IXISUJ8mr"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "What Have I Done ?",
+      "url": "https://open.spotify.com/track/0uMhFStb8r4YbyHy4HxyWZ"
     },
     {
       "album": {

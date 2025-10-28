@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: KREAM
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,062 likes - 102 songs - 5 hr 4 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,059 likes - 102 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 12 | [On The Floor](https://open.spotify.com/track/6nlaSmUX2DCFjKIjwSAElu) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [On The Floor](https://open.spotify.com/album/3Re1tOsHdxuZYmWEP4I6ZM) | 2:41 |
 | 13 | [So Hï \(VIP Mix\)](https://open.spotify.com/track/2E4ducuUkzT3utPrfElnUc) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [So Hï \(VIP Mix\)](https://open.spotify.com/album/2BgEBlTxbBl7H1sgqRH5Ae) | 4:20 |
 | 14 | [Get Down](https://open.spotify.com/track/4eIimnSW4vhd4Mljoqbaqx) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Down / Shake That](https://open.spotify.com/album/6EniPCrOLspq3Y5lVdvNFC) | 3:30 |
-| 15 | [Get Down](https://open.spotify.com/track/4eIimnSW4vhd4Mljoqbaqx) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Down / Shake That](https://open.spotify.com/album/6EniPCrOLspq3Y5lVdvNFC) | 3:30 |
+| 15 | [Shake That](https://open.spotify.com/track/66iU3D1KZ4X4OrwHjTjU2I) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Get Down / Shake That](https://open.spotify.com/album/6EniPCrOLspq3Y5lVdvNFC) | 2:06 |
 | 16 | [Bakari](https://open.spotify.com/track/0IfjVX1faMxSC6U6G5kqPD) | [Evoxel](https://open.spotify.com/artist/3IXEBhrA2rc227gv7Gj1QV), [Ovadia](https://open.spotify.com/artist/4si1CRQee3VJsckWrIkO7y) | [Bakari](https://open.spotify.com/album/5zTj3xCKqj41N1wo7Til3f) | 3:10 |
 | 17 | [Walk \(feat\. Kwabs\)](https://open.spotify.com/track/38V33Xqt4FUwrtMbJozXK4) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Walk \(feat\. Kwabs\)](https://open.spotify.com/album/4sdOjJNd4xXgRQ3tOeWWEN) | 2:19 |
 | 18 | [Royals](https://open.spotify.com/track/1cHRkDg6mRNfWsN0w3um3J) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [AVA CROWN](https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC) | [Royals](https://open.spotify.com/album/2hzNmiWs6YSc4Zn6RK4Iqd) | 2:18 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 101 | [La Vida \- Radio Edit](https://open.spotify.com/track/6DCNCcgxcMSTBoPdNXcei3) | [dbasser](https://open.spotify.com/artist/5psF4RFR5m6MyLC7whUI2b), [Peter Guzman](https://open.spotify.com/artist/2R3VXlmvfk74W8ZztC7Lp3), [Jose Alves](https://open.spotify.com/artist/3wgghSRJ0p9lOfHiE9D1Y9), [Kaala Shaw](https://open.spotify.com/artist/5tZsSjeLuHAMjvL8Tkrdnf) | [La Vida EP](https://open.spotify.com/album/6Jsb3lrk8UEOaYJKlCMtgg) | 4:48 |
 | 102 | [Era](https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Era](https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp) | 4:44 |
 
-Snapshot ID: `AAAgPieo61TFCw3+zLcxsP3g4uo9tZSM`
+Snapshot ID: `AAAgQXwQ6MAEOiJqCBeFS0uqZHV2QZXC`

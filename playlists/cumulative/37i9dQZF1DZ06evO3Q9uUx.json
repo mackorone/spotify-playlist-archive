@@ -126,7 +126,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 140271,
       "name": "AWAKE",
       "url": "https://open.spotify.com/track/1785aAEXTfWVNB3y3z78en"
@@ -744,6 +744,28 @@
       "duration_ms": 149497,
       "name": "COVER GIRL",
       "url": "https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb"
+    },
+    {
+      "album": {
+        "name": "BIANCA",
+        "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "CRAZY (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6FIDwkC1nomcc2sUWlNIBV"
     },
     {
       "album": {

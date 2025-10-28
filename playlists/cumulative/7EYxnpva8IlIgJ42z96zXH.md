@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more to get summer bod ready!
 
-1,059 songs - 2 day 7 hr 37 min
+1,059 songs - 2 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,7 +450,7 @@
 | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B) | 2:37 | 2022-05-27 | 2023-02-11 |
 | [I Work For A Living](https://open.spotify.com/track/1tb1gfmj8wY7IRqycLhlfT) | [BAVHU](https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd) | [I Work For A Living](https://open.spotify.com/album/6u5rOljadRolM08AdkY1bD) | 3:05 | 2024-04-04 | 2024-07-19 |
 | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB) | 2:44 | 2020-11-03\* | 2021-05-29 |
-| [I'm Not Alone \- MPH Remix](https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [I'm Not Alone \(MPH Remix\)](https://open.spotify.com/album/17Ig8wh18XZqSjxfzyXCW5) | 3:35 | 2025-08-08 |  |
+| [I'm Not Alone \- MPH Remix](https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [I'm Not Alone \(MPH Remix\)](https://open.spotify.com/album/17Ig8wh18XZqSjxfzyXCW5) | 3:33 | 2025-08-08 |  |
 | [I'm Not Alone \- Oliver Heldens & Centre Court Remix](https://open.spotify.com/track/3F7lELsVpEUPKgiWbr1IsB) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Centre Court](https://open.spotify.com/artist/5CyxC6fwavhoRAf1n9n7wh) | [I'm Not Alone \(Oliver Heldens & Centre Court Remix\)](https://open.spotify.com/album/50FgnqIuEEde6NSstSDG4v) | 2:56 | 2025-10-16 |  |
 | [I'm Too Much](https://open.spotify.com/track/3maIQrrrYfP5QxU9cgm0YZ) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [I'm Too Much](https://open.spotify.com/album/2UO9evsFwViITYI0zm6CrW) | 2:43 | 2022-09-16 | 2022-12-10 |
 | [Icarus](https://open.spotify.com/track/4H6bHRSNHD19B9bgsokbsA) | [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha) | [Icarus](https://open.spotify.com/album/3uzIuizGMQQUWe2fmOhrJD) | 3:06 | 2024-11-14 | 2025-03-07 |

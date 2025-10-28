@@ -62668,28 +62668,6 @@
     {
       "album": {
         "name": "Dopamine",
-        "url": "https://open.spotify.com/album/26UUDkAk8TuBAj2xSs0ftn"
-      },
-      "artists": [
-        {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        }
-      ],
-      "date_added": "2025-10-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 123446,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4rG7VqNRA9NxXoGD0FKnzD"
-    },
-    {
-      "album": {
-        "name": "Dopamine",
         "url": "https://open.spotify.com/album/2ohlVmXDuxyEXtt0DvETjd"
       },
       "artists": [
@@ -62722,6 +62700,28 @@
       "duration_ms": 169721,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/2c68HYmE7DdLuu6ExnPSzK"
+    },
+    {
+      "album": {
+        "name": "Dopamine (feat. Malou)",
+        "url": "https://open.spotify.com/album/26UUDkAk8TuBAj2xSs0ftn"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123446,
+      "name": "Dopamine (feat. Malou)",
+      "url": "https://open.spotify.com/track/4rG7VqNRA9NxXoGD0FKnzD"
     },
     {
       "album": {

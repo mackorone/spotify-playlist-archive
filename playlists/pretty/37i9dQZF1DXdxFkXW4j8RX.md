@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Ceaese
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,304 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,295 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 5 | [Canción de una canción](https://open.spotify.com/track/2R0p96ZTDMrxo3I8wCCIhA) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds), [Pablo Ilabaca](https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F) | [Canción de una canción](https://open.spotify.com/album/7Lt5SqNInwkBBuscCKV6iz) | 2:58 |
 | 6 | [Estás Acá](https://open.spotify.com/track/5S7D4nHIgs2oYIafo95xso) | [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Estás Acá](https://open.spotify.com/album/214OzPY6Hrhgafv9t4rAoY) | 2:26 |
 | 7 | [Belize](https://open.spotify.com/track/0yo9e9TdaDq6Evjuhne3CO) | [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Nosecuenta](https://open.spotify.com/artist/4MnlgZ36oltRkkBsEsRXV8) | [Belize](https://open.spotify.com/album/4pqwyhTr7IasEsMxAlvpB1) | 3:02 |
-| 8 | [Verte Cerquita](https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Verte Cerquita](https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv) | 3:52 |
+| 8 | [Verte Cerquita](https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Stailok](https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi) | [Verte Cerquita](https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv) | 3:52 |
 | 9 | [Era para Mi](https://open.spotify.com/track/6XOteB6hlo68QBrgJZG5mg) | [Bubaseta](https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Nekiel](https://open.spotify.com/album/2qTaDW73Jm49ALyCPzGVjD) | 3:32 |
 | 10 | [Fuerte](https://open.spotify.com/track/55U73OnW0XxCZzQ4E08KC2) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Fuerte](https://open.spotify.com/album/2JOpTZhjiZzeD68SsElNkA) | 3:30 |
 | 11 | [Normandía](https://open.spotify.com/track/5xq0gPmumkKHkIzxNZXhgt) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju), [Fat Jota](https://open.spotify.com/artist/2YWJCnpzDqJR5BgvPi0839) | [Normandía](https://open.spotify.com/album/3uRN7b9bawH6k9AaFiqxAW) | 3:26 |

@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,256 songs - 5 day 19 hr 43 min
+2,258 songs - 5 day 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -681,7 +681,7 @@
 | [Masquerade Parade](https://open.spotify.com/track/5WXr7EX614ZvEPgsAIBScz) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Masquerade Parade](https://open.spotify.com/album/7v57E9Kbu6Di4AXnCBkqm5) | 3:54 | 2023-07-11 | 2023-08-02 |
 | [Matatabi](https://open.spotify.com/track/5ESsDYmXOxYf2kgTJ4ANW4) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Matatabi](https://open.spotify.com/album/0J6JjcNYWHJ3mPrMAodZGG) | 2:48 | 2025-07-08 | 2025-10-03 |
 | [Mayonakano Love](https://open.spotify.com/track/4PdTdZSNbi7QOvdwTBbHrr) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Mayonakano Love](https://open.spotify.com/album/5utUgLJkKaQ3tBDW6y6P65) | 3:23 | 2022-09-20 | 2022-10-28 |
-| [Me renewed](https://open.spotify.com/track/70FUgJA0n0xIwRBWBQNX8D) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Me renewed](https://open.spotify.com/album/0jye7DVHeuG4qbSTkdi9G8) | 3:01 | 2025-10-09 |  |
+| [Me renewed](https://open.spotify.com/track/70FUgJA0n0xIwRBWBQNX8D) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Me renewed](https://open.spotify.com/album/0jye7DVHeuG4qbSTkdi9G8) | 3:01 | 2025-10-09 | 2025-10-28 |
 | [Meant to be](https://open.spotify.com/track/7AY2Z88px0W0rSVj2bcaer) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [TOGENASHI](https://open.spotify.com/album/7I0nZ1uqE3Qydi7gyyd187) | 3:29 | 2024-08-27 | 2024-10-12 |
 | [Megane\-Go\-Round](https://open.spotify.com/track/662l75p75lTA2Ah9Et4cMw) | [マサヨシがめがねを忘れた\(小村くんと三重さんとオーイシマサヨシ\)](https://open.spotify.com/artist/7tH2hkmutwX0x90KlxwbTS) | [The Girl I Like Forgot Her Glasses Ending Theme "Megane\-Go\-Round"](https://open.spotify.com/album/12wi1uiKFu9CTxVJ8axs6m) | 3:35 | 2023-08-01 | 2023-10-04 |
 | [Megane\-Go\-Round \(TV Size ver.\)](https://open.spotify.com/track/2ujULpZIqhy51LfAlScicJ) | [マサヨシがめがねを忘れた\(小村くんと三重さんとオーイシマサヨシ\)](https://open.spotify.com/artist/7tH2hkmutwX0x90KlxwbTS) | [Megane\-Go\-Round "TV Size ver."](https://open.spotify.com/album/1Li5RK1m4HTSlZffbbzk66) | 1:29 | 2023-07-11 | 2023-08-02 |
@@ -776,7 +776,7 @@
 | [NewGame](https://open.spotify.com/track/0M7B5jrcAKknAekfe9bWKO) | [AliA](https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB) | [NewGame](https://open.spotify.com/album/4IGWSCReldLUMp0qif46IX) | 2:01 | 2024-04-02 | 2024-04-19 |
 | [NewGame](https://open.spotify.com/track/3C30FJacKSEVBBgOkR8ctM) | [AliA](https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB) | [NewGame](https://open.spotify.com/album/5Tg8l71qFbSsKa38HPXRde) | 2:01 | 2024-04-18 | 2024-07-06 |
 | [NIGHT](https://open.spotify.com/track/4TjypNhCmZhTTBBkD39RiZ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NIGHT](https://open.spotify.com/album/0Wrd4UJLcfFemsSz4PVOaP) | 2:54 | 2024-10-08 | 2025-01-12 |
-| [NIJITO](https://open.spotify.com/track/21nildKUIIDIcofFk4a5Yk) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [NIJITO](https://open.spotify.com/album/2SClyIttdHixmVyFi8EhUB) | 2:48 | 2025-10-02 |  |
+| [NIJITO](https://open.spotify.com/track/21nildKUIIDIcofFk4a5Yk) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [NIJITO](https://open.spotify.com/album/2SClyIttdHixmVyFi8EhUB) | 2:48 | 2025-10-02 | 2025-10-28 |
 | [nina](https://open.spotify.com/track/5zBNxp7XbaKCJohPBMRj8Y) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [nina](https://open.spotify.com/album/5uNF7eY9DrpUoEJ1n4vpAC) | 4:33 | 2024-10-11 | 2024-12-04 |
 | [Nisennen..\. Moshiku wa..\. Nimannen Go no Kimi e](https://open.spotify.com/track/4KYO2hnz2vWH0JHJuWypAf) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Nisennen..\. Moshiku wa..\. Nimannen Go no Kimi e](https://open.spotify.com/album/1jx7pZycE5duql9z0qJNDv) | 4:44 | 2023-11-05 | 2024-01-12 |
 | [nitari](https://open.spotify.com/track/1ZKoFnft58Ak3jujRlUGJQ) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [nitari](https://open.spotify.com/album/17ecQayWxTwcz9o25u8HHE) | 2:43 | 2024-01-16 | 2024-03-27 |
@@ -1861,6 +1861,7 @@
 | [君の背中](https://open.spotify.com/track/4zBX67XTOyX6AqctfQ4neW) | [梟note](https://open.spotify.com/artist/2iWDK6SMyLQ9NTHp4RxUHW) | [君の背中](https://open.spotify.com/album/6jMXKfu9eULGycR7UGbCno) | 3:36 | 2024-10-11 | 2025-01-05 |
 | [君よ 気高くあれ](https://open.spotify.com/track/0rlYL6IQIwLZwYIguyy3l0) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [君よ 気高くあれ](https://open.spotify.com/album/50H81UtyttWHuL3qK9TwLc) | 3:36 | 2022-10-08 | 2023-01-13 |
 | [君色のキセキ](https://open.spotify.com/track/5d10Tu1j69HhxAemyvALHH) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [君色のキセキ](https://open.spotify.com/album/3cWCtsZsIZCJDavXf45nqh) | 4:12 | 2024-04-10 | 2024-04-17 |
+| [吹き消した灯火](https://open.spotify.com/track/5Wwibw8kFxfb0WShoYW4I0) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [吹き消した灯火](https://open.spotify.com/album/4nApnOBzSPSjTv2sjBkYOM) | 3:53 | 2025-10-27 |  |
 | [呼び声](https://open.spotify.com/track/362V5cGtH6blUVswcu8AFR) | [丁](https://open.spotify.com/artist/2FBCBROCrxXD4tC6TmA8t4) | [呼び声](https://open.spotify.com/album/3km07cxiR89dB5dsb13q90) | 4:41 | 2024-04-18 | 2024-07-06 |
 | [咆哮 \- HOKO](https://open.spotify.com/track/1fPkUiufkRpzdYcBKXUP3s) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [咆哮 \(HOKO\)](https://open.spotify.com/album/10zv8Z1MZv4eL8z914Q3TL) | 3:29 | 2025-10-21 |  |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-05-28 | 2022-07-27 |
@@ -2065,6 +2066,7 @@
 | [涙のパレード](https://open.spotify.com/track/2q073U2UJwFSDodhvDMrzS) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [涙のパレード](https://open.spotify.com/album/0svkCL37LBbhg9g2eSGrlk) | 4:04 | 2025-06-28 | 2025-08-06 |
 | [淋しい熱帯魚](https://open.spotify.com/track/1oNBmN9FfWYE94BRiIGeBM) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [淋しい熱帯魚](https://open.spotify.com/album/1hyaup1uQPsURjo4Eja3Lj) | 4:26 | 2023-05-09 | 2023-07-05 |
 | [淡く微か](https://open.spotify.com/track/2OUnNkuS59ssxA7eS3bBaA) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [淡く微か](https://open.spotify.com/album/1qS1QPOmFqm9goorWoVSuz) | 3:17 | 2024-10-17 | 2025-01-08 |
+| [渦](https://open.spotify.com/track/5J1xalv6l7lze1AvFeLstR) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [渦](https://open.spotify.com/album/7kYLEXVhvTilbDM67hrBub) | 3:09 | 2025-10-27 |  |
 | [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 | 2025-05-08 | 2025-07-11 |
 | [灯を護る](https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [灯を護る](https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3) | 3:33 | 2025-10-05 |  |
 | [灯火](https://open.spotify.com/track/52yZji1fkuUScDNuezg2G0) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [灯火](https://open.spotify.com/album/3uz7kZnobQe7o7KEStivTg) | 3:30 | 2025-07-15 | 2025-10-15 |

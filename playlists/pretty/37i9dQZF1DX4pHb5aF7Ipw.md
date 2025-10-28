@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by SAHIL CHEEMA, Riar Saab and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,189 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,188 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 7 | [Dhurandhar \- Title Track \(From "Dhurandhar"\)](https://open.spotify.com/track/3QspmlfK7myCWJWWl2bywt) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb), [Charanjit Ahuja](https://open.spotify.com/artist/5jI1jiicLnii7yjSbAj9xj), [Muhammad Sadiq](https://open.spotify.com/artist/0Wrp7P9HV2JVEKAzU3tLSD), [Ranjit Kaur](https://open.spotify.com/artist/2RB4eCNO29DoHWqjLtPAFY), [Babu Singh Maan](https://open.spotify.com/artist/0CrZKzYlBaQEXqXGNduM4d) | [Dhurandhar \- Title Track \(From "Dhurandhar"\)](https://open.spotify.com/album/6WN60ZpoljxxwYluAGxvqn) | 2:35 |
 | 8 | [SELF TALK](https://open.spotify.com/track/03Ii7zen0qg9frZjmiSmar) | [GAGG E](https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R), [Glixzy](https://open.spotify.com/artist/5ZIksrTp5QKB7uiDofkU8Y), [Numbgod](https://open.spotify.com/artist/2pRlsbIdL2gTiSwdxzGnuY) | [SELF TALK](https://open.spotify.com/album/1aShR6ifIT60BUgS3NSkYS) | 3:36 |
 | 9 | [Jugni](https://open.spotify.com/track/6tNHtbA0v3A7s7uh7BTHN7) | [BABBAR](https://open.spotify.com/artist/3V0hJbYLQa5miET3DigPD2) | [Jugni](https://open.spotify.com/album/7lnJANnoLQMK9uXvkJgQlD) | 2:28 |
-| 10 | [Ocean](https://open.spotify.com/track/32w1N9FHrIEBXZR2tLQhzP) | [SAHIL CHEEMA](https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [AROUND THE CORNER \(Deluxe\)](https://open.spotify.com/album/4UOp8Qnfw8ZiGpVBIMDdbl) | 2:55 |
+| 10 | [Ocean](https://open.spotify.com/track/32w1N9FHrIEBXZR2tLQhzP) | [SAHIL CHEEMA](https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Prodbywizrd](https://open.spotify.com/artist/0ZmMkBzd5XM8fJBFZrJU0W) | [AROUND THE CORNER \(Deluxe\)](https://open.spotify.com/album/4UOp8Qnfw8ZiGpVBIMDdbl) | 2:55 |
 | 11 | [Better Days](https://open.spotify.com/track/722EMijhPURSaH6awFFjqw) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Immortal](https://open.spotify.com/album/6lp0wgZp5lRwSaICc4k6Yk) | 3:19 |
 | 12 | [Piracy](https://open.spotify.com/track/0HBIBnSV8wycBcWufqMUci) | [Raman Brar](https://open.spotify.com/artist/2rQtudwQbw6YDJCZbWj3Hl), [Jashan Brar](https://open.spotify.com/artist/0QdtVLkPwgGujRAwScFz89) | [Piracy](https://open.spotify.com/album/0aAghNO7DURhcMsLnt3C02) | 2:04 |
 | 13 | [Ambar Dream](https://open.spotify.com/track/4AlIzNCUZCI0gyTEZLCDLR) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Hukam](https://open.spotify.com/artist/03OH9jpTJ8nYmuWdGSe5Zr) | [My Name Is Street](https://open.spotify.com/album/47DSxIL2rXYJviOthx59ea) | 3:07 |

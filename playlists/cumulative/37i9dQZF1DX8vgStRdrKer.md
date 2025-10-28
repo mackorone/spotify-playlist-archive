@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-640 songs - 2 day 4 hr 44 min
+641 songs - 2 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 | 2023-09-15 | 2024-03-12 |
 | [All Things Are Possible \(Live\)](https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [All Things Are Possible \(Live\)](https://open.spotify.com/album/5zAoHldAVbalTRk851wI1S) | 4:30 | 2024-04-12 | 2025-06-06 |
 | [All Yours](https://open.spotify.com/track/0yZpq2QPTsVqs6sSbOhtpe) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [All Yours](https://open.spotify.com/album/6xcVt9czkLqIzlEpelhoPv) | 5:09 | 2025-09-12 |  |
-| [Almighty God](https://open.spotify.com/track/58NEx1sxFYC4wb3Y4LL0oW) | [Richy Okechukwu](https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW) | [Almighty God](https://open.spotify.com/album/3I0COoh7CIZsnFvyOuql4j) | 4:40 | 2025-09-26 |  |
+| [Almighty God](https://open.spotify.com/track/58NEx1sxFYC4wb3Y4LL0oW) | [Richy Okechukwu](https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW) | [Almighty God](https://open.spotify.com/album/3I0COoh7CIZsnFvyOuql4j) | 4:40 | 2025-09-26 | 2025-10-28 |
 | [Alpha Omega \(Radio Edit\)](https://open.spotify.com/track/1cjnRNR7aKHrSsVDKFYFnz) | [Helen Yawson](https://open.spotify.com/artist/3ChtrSrR4Klo88Gkp3mCc0) | [Alpha Omega \(Radio Edit\)](https://open.spotify.com/album/5FqdpJR39kJBWzmPTrIzHD) | 5:24 | 2025-06-13 | 2025-07-17 |
 | [Altar \(Hosanna\)](https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Altar \(Hosanna\)](https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko) | 2:52 | 2024-01-26 | 2024-07-12 |
 | [Always On Time](https://open.spotify.com/track/2UEYKgubqd6fp5DBwjXXqa) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Always On Time](https://open.spotify.com/album/1jdKdSOBaFjfBIsd0RwnKa) | 4:01 | 2025-09-26 |  |
@@ -249,6 +249,7 @@
 | [How Great You Are](https://open.spotify.com/track/2uNdZjm6wWzLap2asj1f1S) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g) | [How Great You Are](https://open.spotify.com/album/0jJ8AgkTxfZIyJIVyrdMkc) | 5:18 | 2025-09-19 |  |
 | [Hunger](https://open.spotify.com/track/76QxXnjKzq7E1B4PoLpPFf) | [K\-Medley](https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6) | [Hunger](https://open.spotify.com/album/5vx3A23DhGzGmF3DH5JIkJ) | 11:19 | 2024-11-08 | 2024-12-28 |
 | [I Am](https://open.spotify.com/track/2zrsyufGC2p1LPBp8RzKcP) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [I Am](https://open.spotify.com/album/4jQGnOdxBUGyZKcQIkKvOV) | 7:39 | 2025-07-25 | 2025-10-06 |
+| [I am Excited](https://open.spotify.com/track/5PY8SCjjE6UgZoRZvnpQbY) | [Emon brill](https://open.spotify.com/artist/7h0bNvKAuQUJa1LhEMzjuO), [Emmasings](https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7) | [I am Excited](https://open.spotify.com/album/1SK2Yee76TQBWVGGzjTLG6) | 4:13 | 2025-10-17 |  |
 | [I Am Yours](https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08) | [Tobass Adolphus](https://open.spotify.com/artist/4qkRtDX0A69ZUOxHVL6VUf) | [I Am Yours](https://open.spotify.com/album/0NM7QI7SnozgYJ8Pl5JrRD) | 3:57 | 2023-11-24 | 2024-01-14 |
 | [I Carry Fire](https://open.spotify.com/track/3OqtPMbBFOs3kxCzsG3lYL) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [I Carry Fire](https://open.spotify.com/album/0B3pl5ySe3L4oMakIWcclc) | 6:11 | 2025-09-26 | 2025-10-03 |
 | [I Carry God](https://open.spotify.com/track/0xXddFk3eUcd8SGdkxKOzp) | [Abimbola Funke Fagun](https://open.spotify.com/artist/1EHVpqPo4ZxRBrKqhL49po), [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [I Carry God](https://open.spotify.com/album/2nx9CnLKR95SAONx2Clzqn) | 3:31 | 2024-05-24 | 2024-07-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CT4e4.md) - [plain]
 
 > This is Arvo Pärt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,922 likes - 41 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,933 likes - 41 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CT4e4.md) - [plain]
 | 40 | [Cantus In Memoriam Benjamin Britten](https://open.spotify.com/track/6xhdFuQlw21DneMX61FEH4) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF), [Nigel Short](https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN) | [Serenity \- The Beauty Of Arvo Pärt](https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY) | 6:14 |
 | 41 | [Lamentate: Fragile e conciliante \(Transc\. Osokins for Piano\)](https://open.spotify.com/track/6cuOsovElnIdZLC0d6yF75) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Georgijs Osokins](https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO) | [Pärt: Lamentate: Fragile e conciliante \(Transc\. Osokins for Piano\)](https://open.spotify.com/album/5ehE2GyzuCJOTsTsFFulCH) | 6:41 |
 
-Snapshot ID: `aPwTAAAAAAB0ap/2292URckmr8blcrpq`
+Snapshot ID: `aP1kgAAAAAANs7CgO3zxRM/MIxkf8Zxe`

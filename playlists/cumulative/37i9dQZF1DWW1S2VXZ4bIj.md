@@ -4,7 +4,7 @@
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: YOUNGOHM
 
-562 songs - 1 day 10 hr 9 min
+563 songs - 1 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [WONDERING](https://open.spotify.com/track/0ghEYrlqpL0BBcuEJzKP01) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [HOMETOWN](https://open.spotify.com/album/5XhVclR4Vb6o4TNOzRtVzP) | 2:48 | 2025-10-10 |  |
 | [YOU ALREADY KNOW](https://open.spotify.com/track/6vsPPVol0ZNKux0Zkdg5zj) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [YOU ALREADY KNOW](https://open.spotify.com/album/4xp4UP0eFK2d8UaEAjlskb) | 3:03 | 2024-10-18 | 2024-11-02 |
 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 | 2024-10-11 |  |
+| [กรุงเทพมหานคร](https://open.spotify.com/track/4sQjVDas1lw04lj3NGsoDC) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 3:44 | 2025-10-27 |  |
 | [กลับมาเพื่อบอกลา \(Just To Let Me Know\)](https://open.spotify.com/track/36VP0QLf0R3KqcWeyJxuEO) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW) | [กลับมาเพื่อบอกลา \(Just To Let Me Know\) \- Single](https://open.spotify.com/album/2HgDU0bpa2LwPdFpXJLsBL) | 3:34 | 2024-06-27 | 2025-03-01 |
 | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/track/0e4DnxHb7xjCqEPYv91v6t) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/album/4ul97lR8PnxEgpJnzVEMVC) | 4:10 | 2025-03-21 |  |
 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 | 2025-04-10 |  |
@@ -546,7 +547,7 @@
 | [ใจสมใจ](https://open.spotify.com/track/7CM0OhKIeDodf450PiVEhB) | [TheChanisara](https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox) | [ใจสมใจ](https://open.spotify.com/album/2E3NsLtnddsqzTAXGy58BI) | 3:16 | 2024-06-27 | 2024-10-26 |
 | [ใจหล่น \(Ruined\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/3eU8rU2yr6GFhR6gpWhNBA) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 4:58 | 2025-04-02 | 2025-05-23 |
 | [ใจเป็นนาย กายเป็นบ่าว](https://open.spotify.com/track/1gagehYgkm4azlIyIasuAO) | [เล็ก รัชเมศฐ์](https://open.spotify.com/artist/4zqN3dav6iuwb2djzhhtSz) | [ใจเป็นนาย กายเป็นบ่าว \- Single](https://open.spotify.com/album/4s1mjwdNWPBmrKERf7n0DM) | 4:05 | 2024-11-22 | 2025-06-01 |
-| [ใบพัด](https://open.spotify.com/track/0brFVslPMHgQT6utYAw6Im) | [COPTER](https://open.spotify.com/artist/2uadqiwrZXc9uxxuP3AXsX), [TAKHLI GANG](https://open.spotify.com/artist/7MPbxRBRGAbRHXldxxi8ON) | [ใบพัด](https://open.spotify.com/album/59VSv8U1wMRFY0NuO8SuGS) | 3:23 | 2025-10-17 |  |
+| [ใบพัด](https://open.spotify.com/track/0brFVslPMHgQT6utYAw6Im) | [COPTER](https://open.spotify.com/artist/2uadqiwrZXc9uxxuP3AXsX), [TAKHLI GANG](https://open.spotify.com/artist/7MPbxRBRGAbRHXldxxi8ON) | [ใบพัด](https://open.spotify.com/album/59VSv8U1wMRFY0NuO8SuGS) | 3:23 | 2025-10-17 | 2025-10-28 |
 | [ไกลกว่าดาว \(Million Light\-Years\)](https://open.spotify.com/track/70pOmngGTSMHPjgIqVRFsI) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ไกลกว่าดาว \(Million Light\-Years\)](https://open.spotify.com/album/6USjhvo2kxlFA9cyEBgw6m) | 4:44 | 2025-05-08 | 2025-05-31 |
 | [ไปตี้ \(Roll With Me\) \- From 'GELTY \(GELBOYS VARIETY\)'](https://open.spotify.com/track/71iFacnDkpVGUzqDxjfo5w) | [GELBOYS](https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w), [NEW CHAYAPAK](https://open.spotify.com/artist/0atjgenQFlO5ChPvrXoKqW), [PIDE](https://open.spotify.com/artist/2fBOV1th6k87utX2LYuXeP), [PJ](https://open.spotify.com/artist/7Duv82zy6lhA77CvXIC2N0), [LEON BROCCO](https://open.spotify.com/artist/64BdX5a3XrzsRuc6277LQW) | [ไปตี้ \(Roll With Me\) \[From 'GELTY \(GELBOYS VARIETY\)'\]](https://open.spotify.com/album/0bGQTSy0Sd6i22QUBmD2jP) | 3:00 | 2025-10-17 | 2025-10-25 |
 | [ไฟกลางคืน](https://open.spotify.com/track/4jrnLz46lwAMda5zh3BJgC) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/4ol4L9jgQBKxA46nrakU9Y) | 3:49 | 2025-10-24 |  |

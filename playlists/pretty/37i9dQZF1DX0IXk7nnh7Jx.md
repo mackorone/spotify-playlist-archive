@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <br/>James Paek
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,508 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,525 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You Started Fires](https://open.spotify.com/track/7MSAzuFE518IbCEei4grXh) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [You Started Fires](https://open.spotify.com/album/5GXntm7xZ56kwUBcbJDphV) | 2:49 |
 | 2 | [Be My Peace](https://open.spotify.com/track/7fEb4dVIBpAuVSgBMYsLVQ) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [NIGHT](https://open.spotify.com/album/0F8J7b1Ce2P1PgKGaKLlL3) | 2:30 |
 | 3 | [Lift Me Up](https://open.spotify.com/track/1JlDttyo8qFG5HYhyx0f7z) | [Kid in Flight](https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT) | [Lift Me Up](https://open.spotify.com/album/4cXrlI3APs9uVQJQbW8jIm) | 2:39 |
-| 4 | [Come Away With Me](https://open.spotify.com/track/3EsvvYsnh71pHvMa8inqI4) | [Haynes](https://open.spotify.com/artist/5wviMB3bsPYI9TThkfK64v) | [Come Away With Me](https://open.spotify.com/album/0zhjF3Y2qZfKlxPJaDH1Vy) | 2:39 |
+| 4 | [Come Away With Me](https://open.spotify.com/track/3EsvvYsnh71pHvMa8inqI4) | [ Haynes](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [Come Away With Me](https://open.spotify.com/album/0zhjF3Y2qZfKlxPJaDH1Vy) | 2:39 |
 | 5 | [Deliverance](https://open.spotify.com/track/2J8OaxMbjG25WPenQNWv5s) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Kenzie Frohling](https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR) | [Deliverance](https://open.spotify.com/album/3U1eMnUPBQwb3UOQBmgsPw) | 3:44 |
 | 6 | [Permanent](https://open.spotify.com/track/7dvcjzfLn2cbWHDOlbboE9) | [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Permanent](https://open.spotify.com/album/3VxE9Fnyyk256pE25Q2z6r) | 3:50 |
 | 7 | [What Matters](https://open.spotify.com/track/76loPA8VreActL34EP0F6C) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo) | [What Matters](https://open.spotify.com/album/5JVnBe55nq6AhfwyzPQzXC) | 3:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 74 | [The Gospel](https://open.spotify.com/track/1Ia3lyWy9kZuDsjIW8voZ0) | [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V) | [The Gospel](https://open.spotify.com/album/2IHGF8zeVW7GgpVHVEIqDB) | 3:46 |
 | 75 | [take the reins](https://open.spotify.com/track/2szuqnteaYamAD0QKedrNf) | [Bianca Silver](https://open.spotify.com/artist/5pGOCZ0PkA35ZGyOxgBeHL), [KamiKwazi](https://open.spotify.com/artist/3zMmT9071elwPpL9obVnZw), [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [new day](https://open.spotify.com/album/6PzGGgvyYNm2MJ1noYRjZu) | 2:26 |
 
-Snapshot ID: `AAAAAOETjr350HH1cV9RCvwOwT5XtJ/j`
+Snapshot ID: `AAAAAA9B31DsBzFv5bxu2fEStliRpVQo`

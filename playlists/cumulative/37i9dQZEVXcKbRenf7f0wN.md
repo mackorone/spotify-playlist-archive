@@ -4,7 +4,7 @@
 
 > Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday\. You’ll know when you hear it.
 
-2,923 songs - 8 day 8 hr 30 min
+2,924 songs - 8 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1170,6 +1170,7 @@
 | [I'm Gonna Be Your God](https://open.spotify.com/track/5PILfr1y1m407pGGnXIjf3) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Undisputed Attitude](https://open.spotify.com/album/59xI3W9v5TlptONboeTvbD) | 2:58 | 2023-07-10 | 2023-08-29 |
 | [I'm Insane](https://open.spotify.com/track/1fYhvfLhP5xkA3JXtPHRFV) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Out of the Cellar](https://open.spotify.com/album/1UvSwinO43R792hOmi0off) | 2:56 | 2025-01-27 | 2025-02-04 |
 | [I'm Invisible](https://open.spotify.com/track/2vUBlaU4lhN3jT5vwXCr2W) | [Surgical Meth Machine](https://open.spotify.com/artist/4ogEQQdoJCJwqPgRFyAIXP) | [Surgical Meth Machine](https://open.spotify.com/album/6QjQZuw04uDKse4ai0We8J) | 5:00 | 2024-03-11 | 2024-03-19 |
+| [I'm Now](https://open.spotify.com/track/1WxGEjbVDQWBU92fpuiRdp) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [The Lucky Ones](https://open.spotify.com/album/4vJjnyzNdmoJEEbw8JCMt0) | 2:40 | 2025-10-27 |  |
 | [I'm Sick of You \- Outtake from Early Abandoned Raw Power Session](https://open.spotify.com/track/551qrTQA5O71bpj3Jk6E7V) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(50th Anniversary Legacy Edition\)](https://open.spotify.com/album/6rD578ymApHN2XU7wvjeew) | 6:50 | 2024-11-18 | 2024-11-26 |
 | [I'm So Beautiful](https://open.spotify.com/track/7ayNOJKOx7cyIrNPK3ZU5B) | [Divine](https://open.spotify.com/artist/1wASklF2AQfIVhSBWnUHwz) | [Essential Divine](https://open.spotify.com/album/1x01j1FhOmJ2tNJs37QVi1) | 7:10 | 2025-05-26 | 2025-06-03 |
 | [I'm Still Cheering For The 1980 U.S\. Hockey Team](https://open.spotify.com/track/4nuTEzmtIl2BDhXd3vLff6) | [Oakwood](https://open.spotify.com/artist/26QUnNKXoLwA4M7EPXMVCf) | [Summer](https://open.spotify.com/album/5PU2LUexnhRMVhDYsXMymI) | 2:08 | 2025-01-20 | 2025-01-24 |
@@ -1800,7 +1801,7 @@
 | [Orchid \- 2014 Remaster](https://open.spotify.com/track/7f5pVscGqWGPmzyAJ3thAI) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality \(2014 Remaster\)](https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D) | 1:30 | 2024-12-23 | 2024-12-31 |
 | [Ore D'Amore](https://open.spotify.com/track/2Ib82MPeh9P71iS8u5af2H) | [Mike Patton](https://open.spotify.com/artist/34Ai24gPz5YJ8NbksiNFef) | [Mondo Cane](https://open.spotify.com/album/5uxM1YuInVCNCFKKx18qKj) | 2:52 | 2023-04-24 | 2023-05-02 |
 | [Orgasmatron](https://open.spotify.com/track/4nnT0qigMroABs8CZ84AZP) | [Transmetal](https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT) | [Las Alas del Emperador](https://open.spotify.com/album/6oOyCY2hqezPJ8qeaaZEtz) | 3:38 | 2025-06-09 | 2025-06-24 |
-| [Orphans Of The Smog](https://open.spotify.com/track/0QDFIqPquXBLWLcoLysxXE) | [Death Of Lovers](https://open.spotify.com/artist/1Yw5QKcmAvp0TFLuisxbzB) | [The Acrobat](https://open.spotify.com/album/7hGO2zDU3g2aJ0xEA6sEnM) | 4:21 | 2025-10-20 |  |
+| [Orphans Of The Smog](https://open.spotify.com/track/0QDFIqPquXBLWLcoLysxXE) | [Death Of Lovers](https://open.spotify.com/artist/1Yw5QKcmAvp0TFLuisxbzB) | [The Acrobat](https://open.spotify.com/album/7hGO2zDU3g2aJ0xEA6sEnM) | 4:21 | 2025-10-20 | 2025-10-28 |
 | [Os Guatones y los Pelaos](https://open.spotify.com/track/45NtjmvVZv7jjxjG1E4kYV) | [Tito Fernández](https://open.spotify.com/artist/6Km7WV9r7ozleZwjX1armg) | [Me Gusta el Vino](https://open.spotify.com/album/700KGlUtUOTmecSTZmQNFc) | 2:28 | 2023-10-09 | 2023-10-17 |
 | [Otro Día para Ser](https://open.spotify.com/track/5VkftS3xixRBFbJjWzY2cf) | [Hermetica](https://open.spotify.com/artist/6j6Ld5h0aFgH0VQWQNazS7) | [Victimas del Vaciamiento](https://open.spotify.com/album/2hgHTyBcMQKLsbjnZUBsZb) | 4:58 | 2024-07-22 | 2024-10-01 |
 | [Our Diabolikal Rapture](https://open.spotify.com/track/0WIXvD45IY649f59Frzg4S) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Love Songs Vol\. 666](https://open.spotify.com/album/2p7iWrYivSiCScrpNI4qiD) | 5:20 | 2024-07-29 | 2024-11-07 |

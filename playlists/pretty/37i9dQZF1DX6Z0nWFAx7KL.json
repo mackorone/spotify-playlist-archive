@@ -1,6 +1,6 @@
 {
   "description": "easy breezy music \u2600\ufe0f\u263a\ufe0f",
-  "num_followers": 169076,
+  "num_followers": 169069,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,26 @@
     {
       "added_at": "2025-10-23 22:00:36",
       "album": {
+        "name": "Say You'll Stay (ERIICE Remix)",
+        "url": "https://open.spotify.com/album/4mPJTjfFfZGZIVqotnSNko"
+      },
+      "artists": [
+        {
+          "name": "Koa Rae",
+          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
+        },
+        {
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+        }
+      ],
+      "duration_ms": 167603,
+      "name": "Say You'll Stay - ERIICE Remix",
+      "url": "https://open.spotify.com/track/4YSFy8kCk4YLq5ZnAaZgaP"
+    },
+    {
+      "added_at": "2025-10-23 22:00:36",
+      "album": {
         "name": "Alone With You",
         "url": "https://open.spotify.com/album/7Jq86ZKuOyQSRTEI0UzAhe"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 208500,
       "name": "Alone With You",
       "url": "https://open.spotify.com/track/61C23J1jduYNQVe69XBupp"
-    },
-    {
-      "added_at": "2025-10-23 22:00:36",
-      "album": {
-        "name": "Say You'll Stay (ERIICE Remix)",
-        "url": "https://open.spotify.com/album/4mPJTjfFfZGZIVqotnSNko"
-      },
-      "artists": [
-        {
-          "name": "Koa Rae",
-          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
-        },
-        {
-          "name": "ERIICE",
-          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
-        }
-      ],
-      "duration_ms": 167603,
-      "name": "Say You'll Stay - ERIICE Remix",
-      "url": "https://open.spotify.com/track/4YSFy8kCk4YLq5ZnAaZgaP"
     },
     {
       "added_at": "2025-10-23 22:00:36",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2025-10-23 22:00:36",
       "album": {
-        "name": "Dance Of Love",
-        "url": "https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h"
-      },
-      "artists": [
-        {
-          "name": "LU2VYK",
-          "url": "https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L"
-        },
-        {
-          "name": "Wave94",
-          "url": "https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO"
-        }
-      ],
-      "duration_ms": 147272,
-      "name": "Dance Of Love",
-      "url": "https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6"
-    },
-    {
-      "added_at": "2025-10-23 22:00:36",
-      "album": {
         "name": "Wicked Games",
         "url": "https://open.spotify.com/album/3ZPcDsOHqgiq5DPDgDDyIw"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 159047,
       "name": "Wicked Games",
       "url": "https://open.spotify.com/track/0oriUexHwmSx7J5IJaXHDk"
+    },
+    {
+      "added_at": "2025-10-23 22:00:36",
+      "album": {
+        "name": "Dance Of Love",
+        "url": "https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h"
+      },
+      "artists": [
+        {
+          "name": "LU2VYK",
+          "url": "https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L"
+        },
+        {
+          "name": "Wave94",
+          "url": "https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO"
+        }
+      ],
+      "duration_ms": 147272,
+      "name": "Dance Of Love",
+      "url": "https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6"
     },
     {
       "added_at": "2025-10-23 22:00:36",

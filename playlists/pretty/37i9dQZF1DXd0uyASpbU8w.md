@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Tyla, CIZA, Lee McKrazy, Internet Girl and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,216 likes - 88 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,255 likes - 88 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX76Z8XDsZzF.md) - [plain]
 
 > Sit back, and chill with Bollywood's easygoing hits\. Cover \- Param Sundari
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,945 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,529 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX76Z8XDsZzF.md) - [plain]
 | 6 | [Dekhha Tenu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Dekhha Tenu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/album/1C3FmwSQAbjnZR6GRgnWQc) | 4:41 |
 | 7 | [Saiyaara \(From "Saiyaara"\)](https://open.spotify.com/track/1D35BJlymlh6OLD75WupSF) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Arslan Nizami](https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Saiyaara \(From "Saiyaara"\)](https://open.spotify.com/album/3ETAyPs1TjEcYIpCbYwEbk) | 6:10 |
 | 8 | [Rahein Na Rahein Hum \- From “Thamma”](https://open.spotify.com/track/32zO3qgTwIepwQwVDmaqVe) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Soumyadeep Sarkar](https://open.spotify.com/artist/5PwsbCGrapQnteQhVZod7L), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Rahein Na Rahein Hum \(From “Thamma”\)](https://open.spotify.com/album/7A32EqrWUcrL6fd440i4mm) | 4:00 |
-| 9 | [Tumse Behtar \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/track/7FLVm1D9aP231Da7F2p6zs) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Sunny Sanskari Ki Tulsi Kumari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6JZcE32Yu2DNw7ZhJ76rtx) | 4:28 |
+| 9 | [Tumse Behtar \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/track/7FLVm1D9aP231Da7F2p6zs) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Sunny Sanskari Ki Tulsi Kumari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6JZcE32Yu2DNw7ZhJ76rtx) | 4:28 |
 | 10 | [Tere Ishk Mein \(From "Tere Ishk Mein"\)](https://open.spotify.com/track/39aHB0LHPLDZNwVhMf3DNH) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Tere Ishk Mein \(From "Tere Ishk Mein"\)](https://open.spotify.com/album/3abedjI3sFEqUI7hNu0yzF) | 5:50 |
 | 11 | [Tu Hi Meri Shab Hai \- From "Gangster"](https://open.spotify.com/track/1ufeADg0jivKpOFiAv3PYg) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Gangster \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4iVTKZvu3oFUlnNG4PqYST) | 6:27 |
 | 12 | [Qayde Se \(From "Metro ..\. In Dino"\)](https://open.spotify.com/track/1iiVX4OJ6vo3a4sT3Fe7Ix) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Qayde Se \(From "Metro ..\. In Dino"\)](https://open.spotify.com/album/0n6vwaRFABSyqtdaJafZW5) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX76Z8XDsZzF.md) - [plain]
 | 74 | [Mast Magan](https://open.spotify.com/track/3uL1IBFhg52VcQqOwAG01E) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 4:40 |
 | 75 | [Rabba Main Toh Mar Gaya Oye](https://open.spotify.com/track/0UlJKSmbpSPaRxUnr0lpgH) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 4:40 |
 
-Snapshot ID: `AAAAACT8sEVGPWCqyYFpedRVGPYlBaCV`
+Snapshot ID: `AAAAAJB81NvmA14jIpxA6KVbyfklo8da`

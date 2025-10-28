@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,631 songs - 5 day 17 hr 9 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,636 songs - 5 day 17 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2639,5 +2639,10 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2629 | [Calamity of the Mystic Garden : Doom](https://open.spotify.com/track/26FSgOx628MkyECuyx2wmm) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Calamity of the Mystic Garden : Doom](https://open.spotify.com/album/7p9EDpY1Lbw6XCitgU8HCC) | 3:13 |
 | 2630 | [Escape Your Love](https://open.spotify.com/track/5VLjqzLyHbaa3veM04erMK) | [Cardination](https://open.spotify.com/artist/4toQz3bR47E3eTqP8PssZm) | [Escape Your Love](https://open.spotify.com/album/4pKiVqhw06wWLYZaM0o4Vd) | 3:34 |
 | 2631 | [Make You Scream](https://open.spotify.com/track/5oWBALHkzW3LP5XEXQ1wBX) | [Chaos Clan](https://open.spotify.com/artist/3g25CJbGuTh4ns1ou1I6xc), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Make You Scream EP](https://open.spotify.com/album/0uoSTYXvjTNbz9N9aY5N1C) | 3:09 |
+| 2632 | [The Goblin](https://open.spotify.com/track/6vhQotAehom8VFujubrWiZ) | [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3) | [Witchcraft EP](https://open.spotify.com/album/16M35Kwm2KB55e9hBQL1JV) | 2:51 |
+| 2633 | [Feel Your Body And Mind \- Redux](https://open.spotify.com/track/1ZuM2a2ffMka9IaFN9Csdu) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x), [Dynamax](https://open.spotify.com/artist/4i9mr2dUaV351A9NEXVEEU) | [Eastern Land](https://open.spotify.com/album/5GiM7d2VaR4SDs6trOdsua) | 4:25 |
+| 2634 | [Let Me See You Bounce \- Albino Remix](https://open.spotify.com/track/1eAu4km5jorX77b5NrVxyN) | [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu), [ALBINO](https://open.spotify.com/artist/0ZEaOlMqKyqXsHuLl3Su9b) | [The Bald Treatment EP](https://open.spotify.com/album/7BvAAobqlVsHtaDkB7KmS2) | 1:33 |
+| 2635 | [OSIRIS](https://open.spotify.com/track/4pqa8H9ATQZL8HVz1o517R) | [Bmberjck](https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G), [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [Unlimited Power](https://open.spotify.com/album/3yfSAWaQ8KdqaC7kaSug54) | 3:25 |
+| 2636 | [Lost in the Chaos](https://open.spotify.com/track/38AAnSh1CH8My8pDnJSjY4) | [Suttlek](https://open.spotify.com/artist/6Sz5mHLTshoYjvKtSjWTgd), [PsykoPhonic](https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83) | [Lost in the Chaos](https://open.spotify.com/album/45XtHp3LKrs505pHdrBk1b) | 3:18 |
 
-Snapshot ID: `AAAKkuah8OiInyV/SQOOjZLbfuWZqaIN`
+Snapshot ID: `AAAKl32ziKpGgsyCT8SvaHp6k9z70etm`

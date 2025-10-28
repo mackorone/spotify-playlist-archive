@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 244283,
+  "num_followers": 244301,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPwTAAAAAAAkMOW1WYW4pxl8IqwA0kSr",
+  "snapshot_id": "aP1kgAAAAACe1JR+aWSqEXInClU7lxbf",
   "tracks": [
     {
       "added_at": null,
@@ -1039,6 +1039,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You're Under Arrest (2022 Remaster)",
+        "url": "https://open.spotify.com/album/5ITQ0X0gnSOo89AASdHV2o"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 269408,
+      "name": "Human Nature (2022 Remaster)",
+      "url": "https://open.spotify.com/track/25e6EHX8YyC5hsaipxdHCz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zu & Co.",
         "url": "https://open.spotify.com/album/0akSxAQhZEZ0zicFaYKGpt"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 344506,
       "name": "Dune Mosse",
       "url": "https://open.spotify.com/track/60K0AWXWecDmbmQgCjz7y6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You're Under Arrest (2022 Remaster)",
-        "url": "https://open.spotify.com/album/5ITQ0X0gnSOo89AASdHV2o"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 269408,
-      "name": "Human Nature (2022 Remaster)",
-      "url": "https://open.spotify.com/track/25e6EHX8YyC5hsaipxdHCz"
     }
   ],
   "unique_name": "This Is Miles Davis",

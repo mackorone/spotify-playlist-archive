@@ -4634,7 +4634,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 181382,
       "name": "Easy",
       "url": "https://open.spotify.com/track/3UXBjq1q3UD3618lo1ASYI"
@@ -8692,7 +8692,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 180666,
       "name": "In the Neon",
       "url": "https://open.spotify.com/track/51UjPpj7YIeJ8xMYjmrLtR"
@@ -9432,7 +9432,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 210313,
       "name": "Keep Walkin'",
       "url": "https://open.spotify.com/track/78eKLWFEiP9QigCvronTXN"
@@ -10190,7 +10190,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 188050,
       "name": "LIL BIT KNTRY",
       "url": "https://open.spotify.com/track/77PzlCVmNisJHZhU7p52Mv"
@@ -12821,6 +12821,24 @@
     },
     {
       "album": {
+        "name": "Don't Be Afraid",
+        "url": "https://open.spotify.com/album/22CuGxTihHqn2rODAPpiHI"
+      },
+      "artists": [
+        {
+          "name": "Carla Geneve",
+          "url": "https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248639,
+      "name": "Passing",
+      "url": "https://open.spotify.com/track/4FH09qlE1QpiF3Ol7L2nB8"
+    },
+    {
+      "album": {
         "name": "Past Life",
         "url": "https://open.spotify.com/album/7IUV92EYofObhq0GMPAFVr"
       },
@@ -13092,6 +13110,24 @@
       "duration_ms": 166373,
       "name": "POISON IVY",
       "url": "https://open.spotify.com/track/5TFfsW1UUFWJQKY5vORoW0"
+    },
+    {
+      "album": {
+        "name": "Porch Light (Valley Version)",
+        "url": "https://open.spotify.com/album/6wlSTQlPPQjly70oSZraPn"
+      },
+      "artists": [
+        {
+          "name": "Sara Berki",
+          "url": "https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213893,
+      "name": "Porch Light (Valley Version)",
+      "url": "https://open.spotify.com/track/0XpadPENnHNnUUA0sTqPe2"
     },
     {
       "album": {
@@ -13624,7 +13660,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 180566,
       "name": "Rebel",
       "url": "https://open.spotify.com/track/5DHVH6B3OcjuuURuVV4eKV"
@@ -15542,6 +15578,24 @@
       "duration_ms": 175069,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3kZ0eKvVTT3Eb0Ebh1YdD4"
+    },
+    {
+      "album": {
+        "name": "Stay In Your Lane",
+        "url": "https://open.spotify.com/album/2R2IGEJFuPkOeRp7A1CdN7"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "Stay In Your Lane",
+      "url": "https://open.spotify.com/track/5lOn7OwAXXO1pahwPZgdYY"
     },
     {
       "album": {
@@ -18155,6 +18209,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/0YOp28SVv56MgY6c1ShMmH"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246006,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/3r1aAlW4y7c8nJaXhUxL9Z"
+    },
+    {
+      "album": {
         "name": "Westside",
         "url": "https://open.spotify.com/album/6MiGMLLVMQUdtE12WlvwGj"
       },
@@ -19114,6 +19186,24 @@
       "duration_ms": 165011,
       "name": "Your Villain",
       "url": "https://open.spotify.com/track/4wVC94cEh7rER1zuzFeOsx"
+    },
+    {
+      "album": {
+        "name": "Zombie Party",
+        "url": "https://open.spotify.com/album/1WcwMWbAggW9ypBh8tx4C7"
+      },
+      "artists": [
+        {
+          "name": "Evie Irie",
+          "url": "https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182213,
+      "name": "Zombie Party",
+      "url": "https://open.spotify.com/track/71xsHrR1H4YcPbaC1N4koZ"
     },
     {
       "album": {

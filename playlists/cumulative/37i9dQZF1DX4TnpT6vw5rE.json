@@ -3614,7 +3614,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 192585,
       "name": "Lotus Blume",
       "url": "https://open.spotify.com/track/2XGO8m5DqJVMF80D4SxiXE"
@@ -4180,6 +4180,24 @@
       "duration_ms": 141000,
       "name": "Nyligen",
       "url": "https://open.spotify.com/track/6u5TZEuNThWqVHUWeysPO6"
+    },
+    {
+      "album": {
+        "name": "Oak",
+        "url": "https://open.spotify.com/album/1pqBzqkR97qhMriPbovhPw"
+      },
+      "artists": [
+        {
+          "name": "Weep Year",
+          "url": "https://open.spotify.com/artist/2dY44RNmNsg8vrWHiP7PPq"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Oak",
+      "url": "https://open.spotify.com/track/7Lo7jDbapcmXpebXRyp9Oy"
     },
     {
       "album": {

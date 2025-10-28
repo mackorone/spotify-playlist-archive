@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Jervis Campbell
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,833 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,932 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 | 32 | [The Promise \- Acoustic](https://open.spotify.com/track/6hQURY0zZNovk2TUE0RmIH) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [My Foundation \(Acoustic Sessions\)](https://open.spotify.com/album/0ByPMrEfxEiStXmLORJQ2g) | 3:04 |
 | 33 | [God's Child](https://open.spotify.com/track/0dqYf9C9WienGmhkUUmlR7) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [God's Child](https://open.spotify.com/album/6TlEnEiD85bX9bPyjPX1aR) | 3:16 |
 | 34 | [Walk By Faith](https://open.spotify.com/track/4h2MnwK6EjgQ8LNdhfpzUX) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Walk By Faith](https://open.spotify.com/album/0qZhCwlHaayzHy61hOpZUQ) | 3:33 |
-| 35 | [Better Than Gold](https://open.spotify.com/track/2atkylYaq7ogez2mzHUL2Z) | [Haynza](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [Better Than Gold](https://open.spotify.com/album/2OQuzRB0nbLgIgqjh4weAc) | 2:22 |
+| 35 | [Better Than Gold](https://open.spotify.com/track/2atkylYaq7ogez2mzHUL2Z) | [ Haynes](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [Better Than Gold](https://open.spotify.com/album/2OQuzRB0nbLgIgqjh4weAc) | 2:22 |
 | 36 | [Holy Ghost Town](https://open.spotify.com/track/2nWIazEUVvVGxUFDG1dKxk) | [ELI GABLE](https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY) | [Holy Ghost Town](https://open.spotify.com/album/2Gikg56hpykR34ZE79BntV) | 3:12 |
 | 37 | [You Are Special](https://open.spotify.com/track/1dUJOPTer06nuVsGBGV3q2) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [You Are Special](https://open.spotify.com/album/20QC2wH6zelmNiRIl8txW0) | 4:32 |
 | 38 | [take me up](https://open.spotify.com/track/08FabaAEFMOUHU0LROM95K) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [take me up](https://open.spotify.com/album/6LeWwKA2yk89fLHHP7Bsug) | 2:56 |

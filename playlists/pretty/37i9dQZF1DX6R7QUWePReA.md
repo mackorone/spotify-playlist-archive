@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 
 > Timeless heart\-warming classics from 1940\- 1970 for the holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,391,903 likes - 68 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,392,166 likes - 68 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 | 67 | [The Christmas List](https://open.spotify.com/track/2Vfm43BaQcTY55P6R9WvRe) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Christmas Carousel](https://open.spotify.com/album/0IbfiaKXOENE7Wn3SzLZFd) | 2:39 |
 | 68 | [The Nutcracker, Op\. 71, TH 14, Act II: No\. 14c, Var\. II\. Dance of the Sugar\-Plum Fairy](https://open.spotify.com/track/3C4JNyv2NAT72xm0cDKl0v) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Russian National Orchestra](https://open.spotify.com/artist/1W3sZMluDmealiI6B5awE9), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Tchaikovsky: The Nutcracker, Op\. 71, TH 14](https://open.spotify.com/album/6g8mVkQHQOEczebvw6egrR) | 2:21 |
 
-Snapshot ID: `AAAAAMCbj8vAkwd5UPBrsxuTuXW4n8Mr`
+Snapshot ID: `AAAAANAMVsQiPofYD1S96VY9p9kPiISQ`

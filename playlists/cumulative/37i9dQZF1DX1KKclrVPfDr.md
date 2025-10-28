@@ -4,7 +4,7 @@
 
 > भोजपुरी गाँव देश के माटी के नया संगीतमय सुगंध सुनीं\. Cover: Surabhi Kashyap, Stuti Sinha, Nikita Rai
 
-50 songs - 3 hr 9 min
+51 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [FULAURI BINA CHATNI](https://open.spotify.com/track/6o6I0y3nCi6suPvXCBQeUq) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt), [Shagun Srivastava](https://open.spotify.com/artist/6lndd8QIQWss9ro5cE1wb7) | [FULAURI BINA CHATNI](https://open.spotify.com/album/59eVrJFq82tVu7YQpMPUOH) | 2:56 | 2025-09-15 |  |
 | [Gauwan Ke Batiya](https://open.spotify.com/track/7EbkL9Dk8zETlSOW6eFVrA) | [Anupam Mukherjee](https://open.spotify.com/artist/7DbP9FIaNPK3TFYaG2HrLX) | [Gauwan Ke Batiya](https://open.spotify.com/album/7HaPljcOyqsVcvRD24JbmF) | 5:50 | 2025-09-15 |  |
 | [HARDI Haradiya](https://open.spotify.com/track/7Ealn3Ao3veKdMEbB3AaCM) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1) | [HARDI Haradiya](https://open.spotify.com/album/4ZMPY4CB0mgO2ustutbx2n) | 2:48 | 2025-09-15 |  |
-| [Hathi Lebe Ghoda Lebe](https://open.spotify.com/track/4yHlWqQQtYrCoWmiE793Gm) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw) | [Hathi Lebe Ghoda Lebe](https://open.spotify.com/album/1xBRVmGAlYRFJbgd1vbqb3) | 3:36 | 2025-09-15 |  |
+| [Hathi Lebe Ghoda Lebe](https://open.spotify.com/track/4yHlWqQQtYrCoWmiE793Gm) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw) | [Hathi Lebe Ghoda Lebe](https://open.spotify.com/album/1xBRVmGAlYRFJbgd1vbqb3) | 3:36 | 2025-09-15 | 2025-10-28 |
 | [Holi Khele Raghuveera](https://open.spotify.com/track/6lgbG3DfmZvJ7r1iJYbrN8) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Soni Choudhary Jha](https://open.spotify.com/artist/2j2fBasWl9E4SRsvAWbT8d), [Sugam Singh](https://open.spotify.com/artist/1OBZ7mHS6j53GMTt0nFA57) | [Holi Khele Raghuveera](https://open.spotify.com/album/4qtI6ApG6I8gOHHr3FLLOG) | 3:40 | 2025-09-15 |  |
 | [Jhoomar](https://open.spotify.com/track/5puYLQQCUmDccIgvetH7Hz) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Jhoomar](https://open.spotify.com/album/3I7xxSXgsFVosm6KvD6nbo) | 3:05 | 2025-09-15 |  |
 | [Jiya Kare Dhaka Dhak](https://open.spotify.com/track/2g2Fqd1rTRwaL2r0BjK3Mr) | [Mohini Dwivedi](https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA), [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1) | [Jiya Kare Dhaka Dhak](https://open.spotify.com/album/6T3ImVHWiI0QKUFgWsnSB4) | 3:26 | 2025-09-15 |  |
@@ -46,6 +46,7 @@
 | [Nanad Tora Gauwan](https://open.spotify.com/track/21VWH4J8WTE4dYE7ddQMuA) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Nanad Tora Gauwan](https://open.spotify.com/album/35qQQAFbrbiFoSbNFTS3K3) | 3:39 | 2025-09-15 |  |
 | [Nazariya Se Baat](https://open.spotify.com/track/4c2wzNGvqLq3x6xvgxBX9g) | [Sakshi Singh](https://open.spotify.com/artist/0UJWFdORLnHitbhhps6TKX), [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Nazariya Se Baat](https://open.spotify.com/album/3Nb1wQ050DiRgB7f1ZvwcV) | 2:46 | 2025-09-15 |  |
 | [PATNA WALI MUNIYA](https://open.spotify.com/track/1eNfX9L5Epg8OPPgQPTj8Q) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw), [Lk Laxmikaant](https://open.spotify.com/artist/7qCFqTfOt35oCPFR2iBe3K), [Pankaj Narayan](https://open.spotify.com/artist/3bDA8NEDAIL4AjA8m2zDY8) | [PATNA WALI MUNIYA](https://open.spotify.com/album/4GQY4S99fAQnaYmwpKyUkl) | 4:06 | 2025-09-15 |  |
+| [Puri Tarkari](https://open.spotify.com/track/5LKETVyIhr0twSuqY2NqtZ) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA) | [Puri Tarkari](https://open.spotify.com/album/5ulPeFyEUQ8OYHrAwhfOU7) | 2:54 | 2025-09-15 |  |
 | [Pyaar ka Vyapar](https://open.spotify.com/track/1uZwqNRdcBAviDx2bcJoA2) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw) | [Pyaar ka Vyapar](https://open.spotify.com/album/0oC8Z3ACgjvm2ZprSMhsOP) | 3:24 | 2025-09-15 |  |
 | [Re Sajni](https://open.spotify.com/track/4hiPErACgGGVB6NN3jSH6G) | [Kiran Kashyap](https://open.spotify.com/artist/7FGFKpRL065kNi42y4vsI0) | [Re Sajni](https://open.spotify.com/album/4pkKfwkjUlm9kcuDkItqFx) | 3:10 | 2025-09-15 |  |
 | [Reliya Bairan](https://open.spotify.com/track/1KU4LkDHLMe0LprDcm1n5X) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Reliya Bairan](https://open.spotify.com/album/3qRmFf2z2OLvm2GMIXqr1u) | 5:21 | 2025-09-15 |  |

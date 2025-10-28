@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,719 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,230 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 52 | [fence sitter](https://open.spotify.com/track/3EOlgESZdhj7hSHEwR4r5T) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [fence sitter](https://open.spotify.com/album/0a2FgMMrUzwsnVBqpbVSkk) | 3:38 |
 | 53 | [18 Again](https://open.spotify.com/track/3mJeZKzGkOwhyfBQoNUlph) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Nighttime Religion](https://open.spotify.com/album/08Si3b7WpgvlphZPQ5ihtY) | 2:59 |
 | 54 | [accident](https://open.spotify.com/track/1fhsnAVVCVZlt90lheuA5C) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [accident](https://open.spotify.com/album/1txZIezoR87PmBEO6QPTqK) | 3:17 |
-| 55 | [Walk On Water](https://open.spotify.com/track/5tVlgptSzmCUV3lykOMuuE) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Angel With Tattoos](https://open.spotify.com/album/5SYGTA2ZklWpRXeZDsZeTg) | 3:46 |
+| 55 | [Walk On Water Pt\. II](https://open.spotify.com/track/5tVlgptSzmCUV3lykOMuuE) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Angel With Tattoos](https://open.spotify.com/album/5SYGTA2ZklWpRXeZDsZeTg) | 3:46 |
 | 56 | [LOVE ON ME](https://open.spotify.com/track/1TTBz20UzrRV9KevTfutvd) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [LOVE ON ME](https://open.spotify.com/album/29QSS0FS77NYUOPoidnViy) | 2:18 |
 | 57 | [Cruel Lover](https://open.spotify.com/track/3Mh7mMOetadl22rdUBVbMQ) | [ARI LEE](https://open.spotify.com/artist/2CR4RXDXZVMvjEV3rrEVA7) | [Cruel Lover](https://open.spotify.com/album/2gjIgSUjNaXklJybK2hztB) | 2:27 |
 | 58 | [DESERT ROSE](https://open.spotify.com/track/5ieKLsI7TYGgJymHjwBuYt) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [DESERT ROSE](https://open.spotify.com/album/70VSmEvL2TmJAhj8Hv6C6f) | 3:27 |

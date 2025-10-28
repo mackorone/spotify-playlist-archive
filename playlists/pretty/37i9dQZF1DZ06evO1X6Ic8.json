@@ -1,12 +1,12 @@
 {
   "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 822507,
+  "num_followers": 822561,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPwTAAAAAADSlFMjC6VAVrpyrQl59uRV",
+  "snapshot_id": "aP1kgAAAAAAA3w0IJwfWewEc+4ilHsWM",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 1975 (Deluxe)",
+        "url": "https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Undo",
+      "url": "https://open.spotify.com/track/1gJCEcK3erq2fKGEFc2j7B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAYS BEFORE RODEO",
         "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 285480,
       "name": "Don't Play (feat. The 1975 & Big Sean)",
       "url": "https://open.spotify.com/track/1qXQmENykriAHunVaZc6FW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 1975 (Deluxe)",
-        "url": "https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "Undo",
-      "url": "https://open.spotify.com/track/1gJCEcK3erq2fKGEFc2j7B"
     },
     {
       "added_at": null,

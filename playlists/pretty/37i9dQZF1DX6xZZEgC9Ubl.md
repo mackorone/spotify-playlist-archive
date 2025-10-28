@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: mgk & Trippie Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,628,854 likes - 150 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,628,832 likes - 150 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 12 | [Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/342nD5SIsD90lP8LxkLaLM) | 2:22 |
 | 13 | [MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [TROUBLED MEMORIES!](https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q) | 2:17 |
 | 14 | [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 |
-| 15 | [Comatose](https://open.spotify.com/track/4W6orj6Dwn2k5puHmfqPzS) | [Resentvul](https://open.spotify.com/artist/6ogEi25sdXxNuKmzXB75nH) | [Comatose](https://open.spotify.com/album/5zQOHCZjMhgwfKWtSjVT0M) | 1:30 |
+| 15 | [Comatose](https://open.spotify.com/track/4W6orj6Dwn2k5puHmfqPzS) | [Resentvul](https://open.spotify.com/artist/6ogEi25sdXxNuKmzXB75nH) | [Comatose](https://open.spotify.com/album/5zQOHCZjMhgwfKWtSjVT0M) | 1:36 |
 | 16 | [Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/track/78RdTKcI2CediltTnGLIqr) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/album/1X1uDkDDs2BQiKlghA0gVQ) | 2:30 |
 | 17 | [Looking For You](https://open.spotify.com/track/7C8RxsVy6MsOef3B5lk7TI) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [HATE ME](https://open.spotify.com/album/5XlxyRqG5mr7eG6My0QkVT) | 3:18 |
 | 18 | [UPSET BOULDER](https://open.spotify.com/track/4BOaSGGR7vqOjhoHZdREpz) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [UPSET BOULDER](https://open.spotify.com/album/1LUyXu80KBI7E3prbEPJ7P) | 2:02 |

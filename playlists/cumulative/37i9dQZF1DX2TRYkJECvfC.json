@@ -5509,6 +5509,28 @@
     },
     {
       "album": {
+        "name": "Koyika / The Rise",
+        "url": "https://open.spotify.com/album/0tziyPVebqM613eIjXkzov"
+      },
+      "artists": [
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        },
+        {
+          "name": "Sai Hle",
+          "url": "https://open.spotify.com/artist/5jwK2NSW46p796Xun0s4Tf"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369422,
+      "name": "Koyika",
+      "url": "https://open.spotify.com/track/0DawyHLNAGS63ZjNxgGXJY"
+    },
+    {
+      "album": {
         "name": "8 Hours, Still No Rain EP",
         "url": "https://open.spotify.com/album/0BOaheOSk6cpvXPm3spOx0"
       },
@@ -9698,7 +9720,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 206016,
       "name": "Seagulls",
       "url": "https://open.spotify.com/track/7DGGaogybfys4M7iozhbay"

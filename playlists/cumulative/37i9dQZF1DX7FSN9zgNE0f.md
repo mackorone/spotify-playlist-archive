@@ -4,7 +4,7 @@
 
 > Recorré un viaje por el oscuro éxtasis de WOS!
 
-46 songs - 2 hr 26 min
+51 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,5 +54,10 @@
 | [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 | 2022-06-16 |  |
 | [Sangría \- con WOS](https://open.spotify.com/track/1fJjC8C0BdgUHlKIP2ODQf) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [tatool](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 2:34 | 2022-01-05 |  |
 | [TERRAZA](https://open.spotify.com/track/4Yx9jw2hqVk00uwLRBXKxc) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [TERRAZA](https://open.spotify.com/album/0q1g3Xvfg0qLLNzRNxKLL6) | 3:54 | 2022-01-05 |  |
+| [WOS \- ARRANCARMELO \(En Vivo Argentinos Juniors\)](https://open.spotify.com/track/00PXCllK5zJDEEIDe4QSdq) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [WOS \- ARRANCARMELO \(En Vivo Argentinos Juniors\)](https://open.spotify.com/album/1CJOjBHDQoWXbk3Lf7knxE) | 3:35 | 2025-09-24 |  |
+| [WOS \- CAMBIANDO LA PIEL ft\. Nicki Nicole \(En Vivo Argentinos Juniors\)](https://open.spotify.com/track/3S3M8mvufUSWdnQ1FAL3kK) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [WOS \- CAMBIANDO LA PIEL ft\. Nicki Nicole \(En Vivo Argentinos Juniors\)](https://open.spotify.com/album/7bXXQpxr4Ut6nuseKOUZMZ) | 3:22 | 2025-09-24 |  |
+| [WOS \- CANGURO \(En Vivo Argentinos Juniors\)](https://open.spotify.com/track/71sMo4ehyv6NbkVRPnYvI5) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [WOS \- CANGURO \(En Vivo Argentinos Juniors\)](https://open.spotify.com/album/1WFP56unZBS6um3Sz4An9F) | 4:25 | 2025-09-24 |  |
+| [WOS \- CULPA ft\. Ricardo Mollo \(En Vivo Argentinos Juniors\)](https://open.spotify.com/track/7D6fjQo1TYebBsElkmBZ6Y) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [WOS \- CULPA ft\. Ricardo Mollo \(En Vivo Argentinos Juniors\)](https://open.spotify.com/album/4cah2q8i9rM9FfUKECyfZ0) | 5:05 | 2025-09-24 |  |
+| [WOS \- MIRÁ MAMÁ \(En Vivo Argentinos Juniors\)](https://open.spotify.com/track/60SvKPIojQtp07oUgHr5Uo) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [WOS \- MIRÁ MAMÁ \(En Vivo Argentinos Juniors\)](https://open.spotify.com/album/2RYkCtmyCxvfQoljEGohjV) | 4:01 | 2025-09-24 |  |
 
 \*This playlist was first scraped on 2022-01-24. Prior content cannot be recovered.

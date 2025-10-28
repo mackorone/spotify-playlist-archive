@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > OOOAAAAAA<br/>Todo lo nuevo de música tropical 📸  Un Poco de Ruido & Juanes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,821 likes - 98 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,853 likes - 98 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

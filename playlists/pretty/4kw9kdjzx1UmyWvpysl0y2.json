@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124844,
+  "num_followers": 124840,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUve1jh6ZV+qsaPQMBfc2mkCZzUpaA",
+  "snapshot_id": "AAAUvqfocNeTvvEEAcH1y7PXwwEPRD78",
   "tracks": [
+    {
+      "added_at": "2025-10-27 14:45:00",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/16zfXqBtQUAursvZliH6y0"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        }
+      ],
+      "duration_ms": 262971,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/6k7pq4LF7pLq7rgAqwgYGt"
+    },
     {
       "added_at": "2025-10-24 14:04:41",
       "album": {

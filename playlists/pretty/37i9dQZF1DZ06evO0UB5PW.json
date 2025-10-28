@@ -1,12 +1,12 @@
 {
   "description": "This is Mastodon. The essential tracks, all in one playlist.",
-  "num_followers": 61825,
+  "num_followers": 61830,
   "original_name": "This Is Mastodon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPwTAAAAAAB/si0chTj8VIV4TqSrMgkM",
+  "snapshot_id": "aP1kgAAAAACsTHEXP7aLtNJ5A5tm9hmg",
   "tracks": [
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 259693,
-      "name": "Colony of Birchmen",
-      "url": "https://open.spotify.com/track/6nmsnhkJYvyYu8TheUa0Xf"
+      "duration_ms": 204866,
+      "name": "Crystal Skull",
+      "url": "https://open.spotify.com/track/6H6jikiotP4Ygv5oxPGPDW"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Mountain",
-        "url": "https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 204866,
-      "name": "Crystal Skull",
-      "url": "https://open.spotify.com/track/6H6jikiotP4Ygv5oxPGPDW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hunter (Deluxe)",
         "url": "https://open.spotify.com/album/7lObP1GanG65wToWzufQtq"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 220133,
       "name": "Curl of the Burl",
       "url": "https://open.spotify.com/track/6PPQEvj7UZ2hXM80Qo7gR1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Mountain",
+        "url": "https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 259693,
+      "name": "Colony of Birchmen",
+      "url": "https://open.spotify.com/track/6nmsnhkJYvyYu8TheUa0Xf"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunter",
-        "url": "https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1"
+        "name": "Cold Dark Place",
+        "url": "https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 317720,
-      "name": "The Hunter",
-      "url": "https://open.spotify.com/track/1LCkCkRfvuHMkWaAdXggkP"
+      "duration_ms": 359400,
+      "name": "Cold Dark Place",
+      "url": "https://open.spotify.com/track/23CIAx7uGrtUH5CwRf3BC5"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cold Dark Place",
-        "url": "https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv"
+        "name": "The Hunter",
+        "url": "https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 359400,
-      "name": "Cold Dark Place",
-      "url": "https://open.spotify.com/track/23CIAx7uGrtUH5CwRf3BC5"
+      "duration_ms": 317720,
+      "name": "The Hunter",
+      "url": "https://open.spotify.com/track/1LCkCkRfvuHMkWaAdXggkP"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
       "duration_ms": 330880,
       "name": "The Sparrow",
       "url": "https://open.spotify.com/track/68LvFcDLqo1cejJi9oVVOV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hunter",
-        "url": "https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "Black Tongue",
-      "url": "https://open.spotify.com/track/0KdjtHI5Acg6SMoomxQaCb"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 279840,
       "name": "Stargasm",
       "url": "https://open.spotify.com/track/5QMcwznMFieF1zUUElE5TR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunter",
+        "url": "https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "Black Tongue",
+      "url": "https://open.spotify.com/track/0KdjtHI5Acg6SMoomxQaCb"
     }
   ],
   "unique_name": "This Is Mastodon",

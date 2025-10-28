@@ -30308,7 +30308,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 159294,
       "name": "Kids Can't Sleep",
       "url": "https://open.spotify.com/track/1WOypvJUxOp7wM8F3ByEnP"
@@ -39998,7 +39998,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 263640,
       "name": "Obsolete",
       "url": "https://open.spotify.com/track/0On1SxfkvTOfzvjVgFLK7V"
@@ -43210,6 +43210,24 @@
       "duration_ms": 134968,
       "name": "Pico (feat. Earl Sweatshirt)",
       "url": "https://open.spotify.com/track/5MC1jMWS2eHuckrWe1jE6w"
+    },
+    {
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284608,
+      "name": "Piece Of Heaven",
+      "url": "https://open.spotify.com/track/0gwCQvjDPCTFEq9790FGdC"
     },
     {
       "album": {
@@ -49642,7 +49660,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 184507,
       "name": "Skipping Stones",
       "url": "https://open.spotify.com/track/2PyPCZQ9bDROe3yb3MrM5X"

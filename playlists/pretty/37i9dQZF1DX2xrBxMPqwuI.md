@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xrBxMPqwuI.md) - [plain](/playlists/plain/37i9dQZF1DX2xrBxMPqwuI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2xrBxMPqwuI)
 
-### [Girl Power \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX2xrBxMPqwuI)
+### [Girl Power \(3\)](https://open.spotify.com/playlist/37i9dQZF1DX2xrBxMPqwuI)
 
 > 
 

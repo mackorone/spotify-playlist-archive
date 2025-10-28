@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 449332,
+  "num_followers": 449500,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -380,7 +380,7 @@
           "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
         }
       ],
-      "duration_ms": 234997,
+      "duration_ms": 235045,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
     },
@@ -867,26 +867,6 @@
     {
       "added_at": "2025-10-10 21:01:35",
       "album": {
-        "name": "REESE",
-        "url": "https://open.spotify.com/album/0ImSLM2gJU1EYeWpRFIIon"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 224887,
-      "name": "REESE",
-      "url": "https://open.spotify.com/track/5gdMfPQGOaqrDusCAV5uZ8"
-    },
-    {
-      "added_at": "2025-10-10 21:01:35",
-      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/3zygknadb7Wu6t24FEa79g"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 222672,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/78CcHDIIw093COMGylrkXj"
+    },
+    {
+      "added_at": "2025-10-10 21:01:35",
+      "album": {
+        "name": "REESE",
+        "url": "https://open.spotify.com/album/0ImSLM2gJU1EYeWpRFIIon"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 224887,
+      "name": "REESE",
+      "url": "https://open.spotify.com/track/5gdMfPQGOaqrDusCAV5uZ8"
     },
     {
       "added_at": "2025-10-10 21:01:35",

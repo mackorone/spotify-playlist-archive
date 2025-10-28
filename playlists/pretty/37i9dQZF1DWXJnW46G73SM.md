@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: كريم محسن
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,367 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,415 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 25 | [ثانيتين](https://open.spotify.com/track/36vkM6K9je1e7zv0xWUcAs) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [ثانيتين](https://open.spotify.com/album/0lEuBINrKloO9z5fEwwRcW) | 3:05 |
 | 26 | [Heseeny](https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:33 |
 | 27 | [Qarar Shakhsy Rakam 1](https://open.spotify.com/track/6KsBc7L2kqaihR3CmEUNAy) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Qarar Shakhsy](https://open.spotify.com/album/3srmGnh3GV4nnxyo6UgB5n) | 4:07 |
-| 28 | [LAMA AB’A MAAK](https://open.spotify.com/track/18yDdNv2MAESMMpr2Kp1Jw) | [ESS](https://open.spotify.com/artist/4Ac6dsXygagJvXowyX9btP) | [LAMA AB’A MAAK](https://open.spotify.com/album/6lmUVtdwiCYtp8UzIlVByN) | 2:59 |
+| 28 | [LAMA AB’A MAAK](https://open.spotify.com/track/18yDdNv2MAESMMpr2Kp1Jw) | [ESS](https://open.spotify.com/artist/4Ac6dsXygagJvXowyX9btP), [Bashmohannad](https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m) | [LAMA AB’A MAAK](https://open.spotify.com/album/6lmUVtdwiCYtp8UzIlVByN) | 2:59 |
 | 29 | [Bad Days](https://open.spotify.com/track/1Q1BtmfMhRbzZ6uPV3Xk1r) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 3:15 |
 | 30 | [Ana Wel Amar](https://open.spotify.com/track/3ugRZ02LY4JuNeISmv4bv3) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ana Wel Amar](https://open.spotify.com/album/3OFebAR7SW8jFbBSHwd0oA) | 4:34 |
 | 31 | [shaklekmagnona](https://open.spotify.com/track/4Sh8H0ONFKZRjPwJyrSFzG) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [MATADOR](https://open.spotify.com/album/4p50wCLmX3dorhUIDFIYF2) | 2:29 |

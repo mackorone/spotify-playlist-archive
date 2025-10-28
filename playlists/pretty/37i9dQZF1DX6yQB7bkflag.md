@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,015 likes - 158 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,008 likes - 158 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

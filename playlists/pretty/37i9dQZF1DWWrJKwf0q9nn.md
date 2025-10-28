@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Armin van Buuren & KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,525 likes - 107 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,528 likes - 107 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Put Your Bassline](https://open.spotify.com/track/3IwC6rhjOfEdswlSV6RvzX) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Put Your Bassline](https://open.spotify.com/album/4NOx87J66hA6p5l2t8iyin) | 2:31 |
 | 2 | [Radio Baby](https://open.spotify.com/track/1tz1f4sgl1Ux3Dn1xr4ShN) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Radio Baby](https://open.spotify.com/album/46OD1SlPvr8wRAVIzhipRN) | 2:46 |
-| 3 | [Dopamine](https://open.spotify.com/track/4rG7VqNRA9NxXoGD0FKnzD) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Dopamine](https://open.spotify.com/album/26UUDkAk8TuBAj2xSs0ftn) | 2:03 |
+| 3 | [Dopamine \(feat\. Malou\)](https://open.spotify.com/track/4rG7VqNRA9NxXoGD0FKnzD) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Dopamine \(feat\. Malou\)](https://open.spotify.com/album/26UUDkAk8TuBAj2xSs0ftn) | 2:03 |
 | 4 | [Bodies \(feat\. Bella Perozzi\)](https://open.spotify.com/track/2Qqbqn0qb8PimnpglA4Idn) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DJ All Empty](https://open.spotify.com/artist/1YiRziDwjPYotO0IIRAu5r), [Bella Perozzi](https://open.spotify.com/artist/0cZulQTrbZpr9BdG7v6pR9) | [Bodies \(feat\. Bella Perozzi\)](https://open.spotify.com/album/6INkTaTKXruqZBU1nIlDq4) | 2:58 |
 | 5 | [Destiny](https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Destiny](https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p) | 2:50 |
 | 6 | [Reload](https://open.spotify.com/track/1RePRmJvrCitW9L7RQbzia) | [Symphony of Unity](https://open.spotify.com/artist/3XgyPMGFzQghhrW2xJS8WG), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Reload](https://open.spotify.com/album/5FNHGjugKTG3ar0P6B31XK) | 4:48 |

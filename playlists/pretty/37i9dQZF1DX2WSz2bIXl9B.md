@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain]
 | 9 | [2x03 \| Me Cago Vivo con las parejas de asesinos](https://open.spotify.com/episode/5yh0hX6BReuQXcZJ9jYcJa) | [Me Cago Vivo](https://open.spotify.com/show/7jpFQnRt8uaft5enMfLXxq) | [Me Cago Vivo](https://open.spotify.com/album/7jpFQnRt8uaft5enMfLXxq) | 1:16:17 |
 | 10 | [19\. De la RUINA a una VIDA EXTRAORDINARIA a través de la MEDITACIÓN⎮Tony Espigares](https://open.spotify.com/episode/3ih8ffmkMDq1u59DIoLvrm) | [FLUIR CON EL CAOS](https://open.spotify.com/show/5j40y3EhMwY57jeVPo27i6) | [FLUIR CON EL CAOS](https://open.spotify.com/album/5j40y3EhMwY57jeVPo27i6) | 1:15:18 |
 
-Snapshot ID: `AAAAAHBvvwIkBUeEh/OTQvzCTVsCcZ28`
+Snapshot ID: `AAAAAPK3T5W1OFnW6s18MKn92Lrh/McM`

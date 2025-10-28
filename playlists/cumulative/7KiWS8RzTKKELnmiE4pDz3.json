@@ -10715,6 +10715,24 @@
     },
     {
       "album": {
+        "name": "Don't Sweat The Technique",
+        "url": "https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255200,
+      "name": "Keep The Beat",
+      "url": "https://open.spotify.com/track/5ti4mhcnlDhC2J1CYUYhWQ"
+    },
+    {
+      "album": {
         "name": "Kickback",
         "url": "https://open.spotify.com/album/6chHTU4nfoCUxxKiuO2as0"
       },

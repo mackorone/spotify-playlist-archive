@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,463 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,493 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 49 | [IGNITED](https://open.spotify.com/track/1t0ocUZ9WdvP1145j7h0HM) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [IGNITED](https://open.spotify.com/album/7e95lVONxm71pHFikMCfRa) | 3:53 |
 | 50 | [In Synergy](https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [In Synergy](https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T) | 2:46 |
 
-Snapshot ID: `AAAAAPuklDpIjZWuPO91adwf9CO04PdJ`
+Snapshot ID: `AAAAANLbP9MQM7QxWjet3G5F2nr2VWx4`

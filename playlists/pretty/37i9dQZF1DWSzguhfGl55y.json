@@ -1,6 +1,6 @@
 {
   "description": "In Gedenken an XATAR \ud83e\udd0d",
-  "num_followers": 656186,
+  "num_followers": 656210,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-07-24 13:47:27",
       "album": {
-        "name": "Hinterland",
-        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "Hinterland",
-      "url": "https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc"
-    },
-    {
-      "added_at": "2025-07-24 13:47:27",
-      "album": {
         "name": "MT3",
         "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 231800,
       "name": "Traumreise",
       "url": "https://open.spotify.com/track/1tVhmi6ltumhZtd1pM8Tya"
+    },
+    {
+      "added_at": "2025-07-24 13:47:27",
+      "album": {
+        "name": "Hinterland",
+        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "Hinterland",
+      "url": "https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc"
     },
     {
       "added_at": "2025-07-24 13:47:27",
@@ -859,26 +859,6 @@
     {
       "added_at": "2025-07-24 13:47:27",
       "album": {
-        "name": "Ich bin jung und brauche das Geld",
-        "url": "https://open.spotify.com/album/0NP5dQgW9QSWDRHRoHYZxV"
-      },
-      "artists": [
-        {
-          "name": "Eko Fresh",
-          "url": "https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D"
-        },
-        {
-          "name": "G-Style",
-          "url": "https://open.spotify.com/artist/1lrKKCgkhEG5hY0ogEifVs"
-        }
-      ],
-      "duration_ms": 266573,
-      "name": "Ich bin jung und brauche das Geld (feat. G-Style)",
-      "url": "https://open.spotify.com/track/1ImJQbsJLoHj0YueZO21OT"
-    },
-    {
-      "added_at": "2025-07-24 13:47:27",
-      "album": {
         "name": "Auf einem Auge bl\u00f6d",
         "url": "https://open.spotify.com/album/57g3nxqJgXXQqm5j16VixL"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 550706,
       "name": "Nordisch by Nature",
       "url": "https://open.spotify.com/track/6NYZ0wmDmpMe8NBQcttXKY"
+    },
+    {
+      "added_at": "2025-07-24 13:47:27",
+      "album": {
+        "name": "Ich bin jung und brauche das Geld",
+        "url": "https://open.spotify.com/album/0NP5dQgW9QSWDRHRoHYZxV"
+      },
+      "artists": [
+        {
+          "name": "Eko Fresh",
+          "url": "https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D"
+        },
+        {
+          "name": "G-Style",
+          "url": "https://open.spotify.com/artist/1lrKKCgkhEG5hY0ogEifVs"
+        }
+      ],
+      "duration_ms": 266573,
+      "name": "Ich bin jung und brauche das Geld (feat. G-Style)",
+      "url": "https://open.spotify.com/track/1ImJQbsJLoHj0YueZO21OT"
     },
     {
       "added_at": "2025-07-24 13:47:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sMpq9Fic1i.md) - [plain]
 
 > Music from "BLUELOCK" ©金城宗幸・ノ村優介・講談社／「ブルーロック」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,775 likes - 42 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,806 likes - 42 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

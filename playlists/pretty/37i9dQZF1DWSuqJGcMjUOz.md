@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2025 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,168 likes - 91 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,167 likes - 91 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 3 | [Woodstock](https://open.spotify.com/track/0oBxRhHoaLXn7pK2uaqhuN) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Toutes les rues sont silencieuses](https://open.spotify.com/album/0TiErnEo7n4RpcFM6tTTCa) | 2:58 |
 | 4 | [Africain à Paris](https://open.spotify.com/track/1K3LOinFiIOTmFNmX3XJ3Y) | [Tiken Jah Fakoly](https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e) | [L'Africain](https://open.spotify.com/album/3uPdbl5It4snYAz6JHDTIX) | 3:53 |
 | 5 | [Cette vie](https://open.spotify.com/track/0Or2N5tmmDWWKxL9jTSwGa) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/2Oikyyu7haPirWi37FN3cr) | 2:54 |
-| 6 | [Retiens les rêves](https://open.spotify.com/track/27sn3RfZzADwUpI2kbmrc6) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [PLUS DE REFLETS](https://open.spotify.com/album/673iiuWKaEWX6MqvvN0Cw6) | 3:39 |
+| 6 | [Retiens les rêves](https://open.spotify.com/track/27sn3RfZzADwUpI2kbmrc6) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [PLUS DE REFLETS](https://open.spotify.com/album/673iiuWKaEWX6MqvvN0Cw6) | 3:40 |
 | 7 | [Good Lord](https://open.spotify.com/track/0HLZjlJQj7msam8bnAfDLn) | [Salebarbes](https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB) | [Gin à l'eau salée](https://open.spotify.com/album/0rlN4lEdijFYuWIbad6gx6) | 3:08 |
 | 8 | [Ej m'en fus](https://open.spotify.com/track/7Jvbv41yOSYRFPtwq4zBaA) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [P'tit Belliveau](https://open.spotify.com/album/5SZCCO2cJiLbQ5vUopQxh2) | 2:54 |
 | 9 | [PONT CHAMPLAIN](https://open.spotify.com/track/7B1PN0UWtQqoV1yk1gv06l) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 3:30 |

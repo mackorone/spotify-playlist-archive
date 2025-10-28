@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: <br/>Yazmin Lacey
 
-755 songs - 2 day 4 hr 36 min
+756 songs - 2 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Dance of Time](https://open.spotify.com/track/2hA1bTCNUgGJiAlzriSW8y) | [Zoe Rahman](https://open.spotify.com/artist/3OTQOoagPkd3Jst4VGeXKK) | [Dance of Time](https://open.spotify.com/album/1tnsHFm7RIQolDRsZmgxoY) | 5:47 | 2024-03-08 | 2024-03-12 |
 | [dance tonight](https://open.spotify.com/track/2DLvNxWG0YJS6yDf6KJsmK) | [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24) | [dance tonight](https://open.spotify.com/album/00coMhH2J8lGx01f2FUL8P) | 2:45 | 2024-10-03 | 2025-03-24 |
 | [Dark Side Riddim](https://open.spotify.com/track/5pIjTEPxQx4JJc14CkVlgf) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Dark Side Riddim / Samuel L.Riddim](https://open.spotify.com/album/3xx8mVv8jR6rzFMGcq0VWY) | 5:14 | 2021-12-17 | 2022-07-08 |
-| [Darkest Nights](https://open.spotify.com/track/3XlQoBHOf0QnUm0JrMuXyu) | [Christian Eberhard](https://open.spotify.com/artist/3RZcXznC82doC9NPr4nBAx), [Alejandro Zandes](https://open.spotify.com/artist/4CbBNE8jni9vyYaTVeBwUi) | [Darkest Nights](https://open.spotify.com/album/7k7iBgsyVYInhQ3gjRelV6) | 3:08 | 2024-10-10 |  |
+| [Darkest Nights](https://open.spotify.com/track/3XlQoBHOf0QnUm0JrMuXyu) | [Christian Eberhard](https://open.spotify.com/artist/3RZcXznC82doC9NPr4nBAx), [Alejandro Zandes](https://open.spotify.com/artist/4CbBNE8jni9vyYaTVeBwUi) | [Darkest Nights](https://open.spotify.com/album/7k7iBgsyVYInhQ3gjRelV6) | 3:08 | 2024-10-10 | 2025-10-28 |
 | [Darkness in the Light \(feat\. Ava Joseph & Giacomo Smith\)](https://open.spotify.com/track/3Q1H4z0M8Gm9AHhZ0vzFPq) | [Jas Kayser](https://open.spotify.com/artist/3yjaKJcB25XtIy23oDJjSO), [Ava Joseph](https://open.spotify.com/artist/3qohF4OEF0OXfERIcj5dkH), [Giacomo Smith](https://open.spotify.com/artist/6mW13TDxyopjGM4ZNOr4ex) | [Darkness in the Light \(feat\. Ava Joseph & Giacomo Smith\)](https://open.spotify.com/album/2io2HM1ouTpTFq2tm24Ruy) | 6:18 | 2022-04-08 | 2023-03-09 |
 | [Dat It](https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 4:46 | 2022-07-28 | 2023-07-14 |
 | [Dat It](https://open.spotify.com/track/76qzY2EfLVngIMfdI7PYIf) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kiefer](https://open.spotify.com/artist/147JrO3YiY9nLD40wAlFvi) | [Dat It](https://open.spotify.com/album/5lbcjCoExqZKiaxXgO52Ti) | 4:46 | 2021-12-17 | 2022-07-29 |
@@ -721,6 +721,7 @@
 | [We Give Thanks](https://open.spotify.com/track/6clBGIQRBtCnmMGeHM2g75) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 3:40 | 2022-08-04 | 2023-04-30 |
 | [We Have Each Other](https://open.spotify.com/track/5uTLVdv9ILqGxYIK2xDCuG) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ) | [We Have Each Other](https://open.spotify.com/album/4oEEZYY7VewZhOAxXfFT2Z) | 3:56 | 2024-06-06 | 2025-07-25 |
 | [We Have Each Other \- Marla Kether Remix](https://open.spotify.com/track/24ZAd38hq1QWkbvu5UMfbW) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ), [Plumm](https://open.spotify.com/artist/17goxueRDomjijRHKaaQpT), [Marla Kether](https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU) | [We Have Each Other: Remixed](https://open.spotify.com/album/3PsNU2NkYqaAOYqlCChIHu) | 3:48 | 2025-08-07 |  |
+| [We're Not Free](https://open.spotify.com/track/715GdTHoLH2FOLfZ3GCvi9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [We're Not Free](https://open.spotify.com/album/7nsFzOZtsC433KokTp75Hm) | 4:51 | 2025-10-24 |  |
 | [Welcome To My World](https://open.spotify.com/track/0caY5TK4dj5OrTWgqeRT8y) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Where I'm Meant To Be](https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux) | 7:14 | 2023-09-01 | 2024-05-03 |
 | [Welcome To My World](https://open.spotify.com/track/4yALLcuMLrfslEuqbq6BPn) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 7:14 | 2022-12-23 | 2023-02-05 |
 | [What a Difference a Day Makes \(from the Netflix Limited Series "Black Rabbit"\)](https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [What a Difference a Day Makes \(from the Netflix Limited Series "Black Rabbit"\)](https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l) | 4:21 | 2025-09-04 |  |

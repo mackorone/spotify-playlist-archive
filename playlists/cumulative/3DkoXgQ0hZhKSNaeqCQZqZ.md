@@ -4,7 +4,7 @@
 
 > FurryRadio.com, made for furs, by furs.
 
-409 songs - 21 hr 37 min
+413 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [I Know, I Hear You](https://open.spotify.com/track/4uBVRH3YUy0eSMnxKFVWwZ) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 2:19 | 2024-11-25 |  |
 | [I LOVE BEING NORMAL](https://open.spotify.com/track/1ePCMvoywpQ4eB6VQPsPwe) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [I LOVE BEING NORMAL](https://open.spotify.com/album/5Us6d5XJoDoJlDN903GibE) | 2:08 | 2025-01-07 |  |
 | [I need Sombody](https://open.spotify.com/track/3vypveqsnXyoobkju425wy) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I need Sombody](https://open.spotify.com/album/4uLaHsPdPdlyutC4IvQQyd) | 4:23 | 2024-10-21 |  |
+| [i smoke cigarettes! \(not really\)](https://open.spotify.com/track/7MionYRcWQleclOilIMPCD) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [cheap guitar, cheap songs.](https://open.spotify.com/album/33Fzs7KelOKWDsxvYT9P8x) | 1:44 | 2025-10-27 |  |
 | [I WANNA BE ALIVE](https://open.spotify.com/track/4kDMTYsd387sYIb0P053oo) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [I WANNA BE ALIVE](https://open.spotify.com/album/0yhjAKeMX46S2XwxHgkvMZ) | 3:33 | 2025-04-16 |  |
 | [I Wish I Loved You](https://open.spotify.com/track/4pVOMSYIsddjrvi3LDlqRp) | [a fox named coyote](https://open.spotify.com/artist/2ZLKUQVWLZAVNY0qFGSY69), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [I Wish I Loved You](https://open.spotify.com/album/0uwMsB1SuYN2DElUEU8rMJ) | 4:47 | 2024-07-23 |  |
 | [I've Been Gone](https://open.spotify.com/track/5vwbKI4y8QPHENwh1afdjs) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I've Been Gone](https://open.spotify.com/album/3nkvNUzeXNSoyksBQh5xf6) | 4:30 | 2025-05-17 |  |
@@ -178,6 +179,7 @@
 | [IDONTKNOW](https://open.spotify.com/track/29Edn2FCyusZAwskKU7CPI) | [OkayKirk](https://open.spotify.com/artist/7r9Nf86AyrMUWvbc8krSTx) | [BIG2K](https://open.spotify.com/album/7it5TdR45ltXQ2b5A4vgl6) | 2:06 | 2024-04-11 |  |
 | [if i could meet you there](https://open.spotify.com/track/7FkKYC8ignbsy899QY0KWL) | [lucypawz](https://open.spotify.com/artist/7zjVCfhIUMI3l4p09rfrt7) | [rodeo](https://open.spotify.com/album/6EVIcnK3IAfFqIh1TBIwB7) | 3:08 | 2024-11-18 |  |
 | [if u get lost](https://open.spotify.com/track/5OEDL9OjURGPg0d2FCRFCS) | [ARRYTH](https://open.spotify.com/artist/15FxGdlZMPSCPi5N5PUbKZ) | [if u get lost](https://open.spotify.com/album/2Tjfriw39PTfBHkYQ0eQc0) | 4:31 | 2025-02-23 |  |
+| [im stuck in my ways](https://open.spotify.com/track/1XBwRg51e4v4By4cvjXbQt) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [cheap guitar, cheap songs.](https://open.spotify.com/album/33Fzs7KelOKWDsxvYT9P8x) | 2:44 | 2025-10-27 |  |
 | [Imníoch](https://open.spotify.com/track/7efo4RmYcdwxLiChZHDVjt) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU), [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns) | [Imníoch](https://open.spotify.com/album/1nQSa3IHxEDhHFfXgoVfiV) | 2:36 | 2025-04-28 |  |
 | [In The Night](https://open.spotify.com/track/7eAZzyrEGnMHb4gBWQ2Ak7) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [In The Night](https://open.spotify.com/album/5TBn9CgZCvznaAlWt9lRKj) | 2:34 | 2024-11-18 |  |
 | [inconsequential](https://open.spotify.com/track/6IPfsgy50gRIuCHA2PkZFp) | [claymaw](https://open.spotify.com/artist/2k2lkGzy1eLbw3IEvGJbrx), [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc) | [UPWARD SPIR4L](https://open.spotify.com/album/1EtOu6cstUwTPQk5qTRsaQ) | 2:47 | 2024-07-22 |  |
@@ -350,6 +352,7 @@
 | [SPOOKY](https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva) | [fennecxx](https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2), [DJ ALEX](https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL) | [SPOOKY](https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9) | 1:36 | 2025-01-17 |  |
 | [SPOTS](https://open.spotify.com/track/4xHxs1KKLOntFjaTyzB6aW) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [SPOTS](https://open.spotify.com/album/6xchgBoEKNZjRGaM9EydBo) | 2:26 | 2024-03-15 |  |
 | [SPOTS 2](https://open.spotify.com/track/4duDZn6Idgy9qH9Yl95pTs) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [SPOTS 2](https://open.spotify.com/album/43rqwQewbnqPw1S8EUgOyC) | 2:30 | 2025-08-15 |  |
+| [SSRIs](https://open.spotify.com/track/1fIFWhfMRU9gZOB0flDOzN) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [cheap guitar, cheap songs.](https://open.spotify.com/album/33Fzs7KelOKWDsxvYT9P8x) | 2:01 | 2025-10-27 |  |
 | [Stars Slumbering In The Shade](https://open.spotify.com/track/3NVIDqMy2rnRkHu78Bqwc0) | [Anthemics](https://open.spotify.com/artist/5Resf7AxjXHnKIYgsDgPlv) | [Hiraeth](https://open.spotify.com/album/6adnvm6S8BEKBn6AsyHWd5) | 4:08 | 2023-12-15 |  |
 | [STEREO](https://open.spotify.com/track/6zv74Wofa6MjtFb6g0LSy1) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [STEREO](https://open.spotify.com/album/3t6AnLqqJPmjHG905DSciR) | 2:29 | 2024-07-14 |  |
 | [Stranded](https://open.spotify.com/track/2Fp950faiPewSg3cyRSk8u) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Stranded](https://open.spotify.com/album/7sByh9eDixb9KBnzhcx9oh) | 3:24 | 2024-11-25 |  |
@@ -374,6 +377,7 @@
 | [The General's Dogs](https://open.spotify.com/track/60Agi3R9ZYvncE1aNgOuAX) | [Exit Mouse](https://open.spotify.com/artist/3Ogz8kpK4hhGhHfSPVY7ER) | [The General's Dogs](https://open.spotify.com/album/6LfxDLa7ytzXxtGu9iaDp5) | 2:48 | 2023-06-14 |  |
 | [THE KILL](https://open.spotify.com/track/5UZgQsvQ9LVca5XqDRFbOb) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [THE KILL](https://open.spotify.com/album/14fINCadFpJCCbREk6JVLf) | 3:11 | 2024-08-15 |  |
 | [the largest boy \(ever\)](https://open.spotify.com/track/6pfzmolYBWEEGGCDuCo4Bi) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [Data Soup Demos](https://open.spotify.com/album/5CWYFxQJrUcIJGCCyLVszB) | 1:44 | 2024-11-18 |  |
+| [the life im living](https://open.spotify.com/track/2iFM2U5yL9mjlCXp0zi4PS) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [cheap guitar, cheap songs.](https://open.spotify.com/album/33Fzs7KelOKWDsxvYT9P8x) | 1:46 | 2025-10-27 |  |
 | [the power of manipulation](https://open.spotify.com/track/5kwdyWSTgvkyCvE2E1dp4t) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ) | [the power of manipulation](https://open.spotify.com/album/11Dc7hF7oPmH9ulwn8oIxL) | 3:34 | 2025-09-15 |  |
 | [THE RINGMASTER](https://open.spotify.com/track/6j3GHqe8aOdXk2HjQ8BdOL) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [OodleZz](https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98) | [THE RINGMASTER](https://open.spotify.com/album/0GEWu5SM7yfdnUjqwA3Tu1) | 3:44 | 2025-06-13 |  |
 | [The Tail Song](https://open.spotify.com/track/6nijsxzA8n8oi9kq29Mvdb) | [OkayDonuts](https://open.spotify.com/artist/0Bhx3Xk2I9klcpopBSCcpc) | [The Tail Song](https://open.spotify.com/album/5s9BAlQaGBsonEJQ0B62Wi) | 1:36 | 2023-09-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,894 likes - 110 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,888 likes - 110 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 109 | [Feeling Like a Fish](https://open.spotify.com/track/5mtZMgHYrWee2sPlW3aCR8) | [無稽 Wilke](https://open.spotify.com/artist/6IQTljXmg9iliuQo3g0WFQ), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [Feeling Like a Fish](https://open.spotify.com/album/1KExolwGuXZvWTBi4p2NeV) | 3:23 |
 | 110 | [明日座標 \(王者榮耀十週年版本主題曲\)](https://open.spotify.com/track/3gNdY7cdQckKDto9BP2dDW) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [王者荣耀](https://open.spotify.com/artist/6vLrA8QdatJRsWjKjfFCA8) | [明日座標 \(王者榮耀十週年版本主題曲\)](https://open.spotify.com/album/21I5a0wV47N2L5GSuEolbm) | 4:44 |
 
-Snapshot ID: `AAAAAEawDEh6NPqQkveobSW+fAOk1opY`
+Snapshot ID: `AAAAALzrYv4xjpyzihPB+7EtYI0HaEKm`

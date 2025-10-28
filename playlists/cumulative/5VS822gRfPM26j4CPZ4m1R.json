@@ -1173,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "plateau",
+        "url": "https://open.spotify.com/album/6JlOYEQWx0ZgR0WkeTIuge"
+      },
+      "artists": [
+        {
+          "name": "Stephan Kreussel",
+          "url": "https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232980,
+      "name": "bones",
+      "url": "https://open.spotify.com/track/5obGMp5stzItyTXOmzoiFt"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1os Que Sobran",
         "url": "https://open.spotify.com/album/6nZbtlkiDmpxWxVNpyNMgz"
       },

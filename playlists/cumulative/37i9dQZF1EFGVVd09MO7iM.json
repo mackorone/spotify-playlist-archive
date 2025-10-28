@@ -858,7 +858,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 191693,
       "name": "Anything",
       "url": "https://open.spotify.com/track/5kiD3qnsuhV2YwH4bq93Yc"
@@ -10035,7 +10035,7 @@
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 260290,
+      "duration_ms": 260291,
       "name": "L'EGO Odyssey",
       "url": "https://open.spotify.com/track/7rrxHo95zOEbxtSGPlIRzl"
     },
@@ -12571,6 +12571,28 @@
     },
     {
       "album": {
+        "name": "Nightmares",
+        "url": "https://open.spotify.com/album/6LnIoYdiEmKYH2SBuIlTMi"
+      },
+      "artists": [
+        {
+          "name": "SpeedyTunes",
+          "url": "https://open.spotify.com/artist/7JzWHfANlJQ7aA9HRhUvKE"
+        },
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144011,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/78IrLSSFINroCLIrkym6gV"
+    },
+    {
+      "album": {
         "name": "Hell Hath No Fury",
         "url": "https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE"
       },
@@ -13555,28 +13577,6 @@
     },
     {
       "album": {
-        "name": "Piece By Piece - Music from the Motion Picture",
-        "url": "https://open.spotify.com/album/210rAUA5H4xH6S9J0aHRLE"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Princess Anne High School Fabulous Marching Cavaliers",
-          "url": "https://open.spotify.com/artist/5gFwLXV3kxr7yckCFOCzLP"
-        }
-      ],
-      "date_added": "2024-10-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173216,
-      "name": "Piece By Piece",
-      "url": "https://open.spotify.com/track/2WAwqgBGJb4igeTF07n6OG"
-    },
-    {
-      "album": {
         "name": "Piece By Piece",
         "url": "https://open.spotify.com/album/3RNrlAvXWiF75OZgBqpbQc"
       },
@@ -13596,6 +13596,28 @@
       "duration_ms": 173216,
       "name": "Piece By Piece",
       "url": "https://open.spotify.com/track/34Eq9XKbBktHSP17Yft9Xf"
+    },
+    {
+      "album": {
+        "name": "Piece By Piece - Music from the Motion Picture",
+        "url": "https://open.spotify.com/album/210rAUA5H4xH6S9J0aHRLE"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Princess Anne High School Fabulous Marching Cavaliers",
+          "url": "https://open.spotify.com/artist/5gFwLXV3kxr7yckCFOCzLP"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "Piece By Piece",
+      "url": "https://open.spotify.com/track/2WAwqgBGJb4igeTF07n6OG"
     },
     {
       "album": {

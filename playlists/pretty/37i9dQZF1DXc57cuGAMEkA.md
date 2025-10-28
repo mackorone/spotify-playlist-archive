@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Daniel Caesar, Tyla, Shakira, 緑黄色社会, 離婚伝説 and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,046 likes - 92 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,041 likes - 92 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 69 | [Festival](https://open.spotify.com/track/3Yj2DZImlcmjoEiBy726cW) | [the band apart](https://open.spotify.com/artist/6g7JH6zxP3JTfg7i8bZwbf) | [Festival](https://open.spotify.com/album/4gcHUWURmxGQnpfbVYvcHR) | 3:09 |
 | 70 | [いちごジュースで待ち合わせ](https://open.spotify.com/track/4VCrggbrJxaPLgsdISVHeE) | [浦小雪](https://open.spotify.com/artist/5PHZ4PVOsKViz2yF868wUP) | [シュガーメロウ](https://open.spotify.com/album/44JszxJqVYdrnEMt0HBGjo) | 2:27 |
 | 71 | [SAYONARAKIRAKIRA](https://open.spotify.com/track/2PpDslxv7EgrIt6fyNi8br) | [HINONABE](https://open.spotify.com/artist/5prUoGMqRokR10HEyR4LjD) | [SAYONARAKIRAKIRA](https://open.spotify.com/album/70WalIzMCFmBAER0CtIGib) | 3:42 |
-| 72 | [Walk On Water](https://open.spotify.com/track/5tVlgptSzmCUV3lykOMuuE) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Angel With Tattoos](https://open.spotify.com/album/5SYGTA2ZklWpRXeZDsZeTg) | 3:46 |
+| 72 | [Walk On Water Pt\. II](https://open.spotify.com/track/5tVlgptSzmCUV3lykOMuuE) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Angel With Tattoos](https://open.spotify.com/album/5SYGTA2ZklWpRXeZDsZeTg) | 3:46 |
 | 73 | [Tunes for Suly](https://open.spotify.com/track/4IRNgiLaOrg0RvEWNBjveK) | [野巢 Nosu](https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs) | [Turntable in the Lift](https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk) | 7:06 |
 | 74 | [This Time For Real](https://open.spotify.com/track/2LDTkxBmLRr4ENG0kNQLum) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [This Time For Real](https://open.spotify.com/album/4Tv8PFvKfr1Bb4dOZq9b8Z) | 3:12 |
 | 75 | [Cyclones](https://open.spotify.com/track/771PmqILJ2UmrTClX9Bg5D) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Cyclones](https://open.spotify.com/album/4n3comSTGdUoUbQIJjM5zz) | 3:12 |

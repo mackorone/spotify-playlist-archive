@@ -1,12 +1,12 @@
 {
   "description": "Nieuw: JR, Boufi, Graci en meer",
-  "num_followers": 160146,
+  "num_followers": 160141,
   "original_name": "Fresh Flows",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALIvaSgJo5FcBcNjKXeQLwUAIRtw",
+  "snapshot_id": "AAAAAPK2D0ObXdudNEsNGNWb/Z7blMu9",
   "tracks": [
     {
       "added_at": "2025-10-23 22:00:37",
@@ -47,6 +47,58 @@
     {
       "added_at": "2025-10-23 22:00:37",
       "album": {
+        "name": "Baddie Zoals Jij",
+        "url": "https://open.spotify.com/album/7LejBE3T5YwUt4RJ3iWsOX"
+      },
+      "artists": [
+        {
+          "name": "Sluwe Ollie",
+          "url": "https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx"
+        }
+      ],
+      "duration_ms": 159183,
+      "name": "Baddie Zoals Jij",
+      "url": "https://open.spotify.com/track/0x5MSTlha3rWGgZ0NVXEnm"
+    },
+    {
+      "added_at": "2025-10-23 22:00:37",
+      "album": {
+        "name": "Gnumes Gna",
+        "url": "https://open.spotify.com/album/6nmyUNhonwSaBTJ21NEpYf"
+      },
+      "artists": [
+        {
+          "name": "AB7",
+          "url": "https://open.spotify.com/artist/6n6tlB44JuXjIevREM1HqG"
+        },
+        {
+          "name": "D.SEL",
+          "url": "https://open.spotify.com/artist/4lQRNhAKqn4S8pbHvJykKh"
+        }
+      ],
+      "duration_ms": 162820,
+      "name": "Gnumes Gna",
+      "url": "https://open.spotify.com/track/7rBkFjCLrbbXzm4D2dy4Ym"
+    },
+    {
+      "added_at": "2025-10-23 22:00:37",
+      "album": {
+        "name": "La Famille",
+        "url": "https://open.spotify.com/album/6TvXjn27e2qTy5o4oX9LZy"
+      },
+      "artists": [
+        {
+          "name": "Bakss",
+          "url": "https://open.spotify.com/artist/69i0htO0gHoR8ufAd678CB"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "La Famille",
+      "url": "https://open.spotify.com/track/5VB4o8PrCn5wfnBRke3uD0"
+    },
+    {
+      "added_at": "2025-10-23 22:00:37",
+      "album": {
         "name": "Code Rood",
         "url": "https://open.spotify.com/album/7thQr11biDmvi7fde9MidZ"
       },
@@ -83,26 +135,6 @@
     {
       "added_at": "2025-10-23 22:00:37",
       "album": {
-        "name": "Gnumes Gna",
-        "url": "https://open.spotify.com/album/6nmyUNhonwSaBTJ21NEpYf"
-      },
-      "artists": [
-        {
-          "name": "AB7",
-          "url": "https://open.spotify.com/artist/6n6tlB44JuXjIevREM1HqG"
-        },
-        {
-          "name": "D.SEL",
-          "url": "https://open.spotify.com/artist/4lQRNhAKqn4S8pbHvJykKh"
-        }
-      ],
-      "duration_ms": 162820,
-      "name": "Gnumes Gna",
-      "url": "https://open.spotify.com/track/7rBkFjCLrbbXzm4D2dy4Ym"
-    },
-    {
-      "added_at": "2025-10-23 22:00:37",
-      "album": {
         "name": "Life Changed",
         "url": "https://open.spotify.com/album/1sPya0t7Ht9gPSUyaM0i71"
       },
@@ -119,22 +151,6 @@
       "duration_ms": 149126,
       "name": "Life Changed",
       "url": "https://open.spotify.com/track/6VYOGwuCJGzkpIROYfss13"
-    },
-    {
-      "added_at": "2025-10-23 22:00:37",
-      "album": {
-        "name": "La Famille",
-        "url": "https://open.spotify.com/album/6TvXjn27e2qTy5o4oX9LZy"
-      },
-      "artists": [
-        {
-          "name": "Bakss",
-          "url": "https://open.spotify.com/artist/69i0htO0gHoR8ufAd678CB"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "La Famille",
-      "url": "https://open.spotify.com/track/5VB4o8PrCn5wfnBRke3uD0"
     },
     {
       "added_at": "2025-10-23 22:00:37",
@@ -175,22 +191,6 @@
       "duration_ms": 120048,
       "name": "Niet Thuis Kom",
       "url": "https://open.spotify.com/track/7hjRcD50o3MX2UStKJUc4N"
-    },
-    {
-      "added_at": "2025-10-23 22:00:37",
-      "album": {
-        "name": "Baddie Zoals Jij",
-        "url": "https://open.spotify.com/album/7LejBE3T5YwUt4RJ3iWsOX"
-      },
-      "artists": [
-        {
-          "name": "Sluwe Ollie",
-          "url": "https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx"
-        }
-      ],
-      "duration_ms": 159183,
-      "name": "Baddie Zoals Jij",
-      "url": "https://open.spotify.com/track/0x5MSTlha3rWGgZ0NVXEnm"
     },
     {
       "added_at": "2025-10-23 22:00:37",
@@ -238,6 +238,10 @@
         {
           "name": "Homey",
           "url": "https://open.spotify.com/artist/0rUZZcbB1j3FJFvBvQ86UG"
+        },
+        {
+          "name": "Blanke Roy",
+          "url": "https://open.spotify.com/artist/2snnqKGi87l4WBaPDp9pFP"
         }
       ],
       "duration_ms": 144000,

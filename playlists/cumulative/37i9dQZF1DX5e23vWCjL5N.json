@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Punchline, storytelling, rap italiano. Cover: Ele A",
+  "description": "Punchline, storytelling, rap italiano. Cover: Ernia",
   "name": "Liricisti",
   "tracks": [
     {
@@ -1634,6 +1634,24 @@
       "duration_ms": 212640,
       "name": "Chic",
       "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
+    },
+    {
+      "album": {
+        "name": "Chuniri",
+        "url": "https://open.spotify.com/album/4vyu0GGbcX0ISQFG7Jh2GU"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170487,
+      "name": "Chuniri",
+      "url": "https://open.spotify.com/track/7gxGO2SFjrFz0rRuESbxSB"
     },
     {
       "album": {
@@ -3312,16 +3330,16 @@
           "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
         },
         {
-          "name": "Jack The Smoker",
-          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
-        },
-        {
           "name": "Claver Gold",
           "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
         },
         {
           "name": "Tony lattuga",
           "url": "https://open.spotify.com/artist/0x3chftRLurIXEH7lH4CRS"
+        },
+        {
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
         },
         {
           "name": "SuperApe",

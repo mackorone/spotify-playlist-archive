@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3jMMNK4VZkK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3jMMNK4VZkK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3jMMNK4VZkK)
 
-### [Girl Power](https://open.spotify.com/playlist/37i9dQZF1DX3jMMNK4VZkK)
+### [Girl Power \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX3jMMNK4VZkK)
 
 > Who runs the world? GIRLS!
 

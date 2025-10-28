@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/44XJR1i3Vl2B3acOEYwinE.md) - cumulative - [plain](/playlists/plain/44XJR1i3Vl2B3acOEYwinE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/44XJR1i3Vl2B3acOEYwinE)
 
-### [Power Ballads](https://open.spotify.com/playlist/44XJR1i3Vl2B3acOEYwinE)
+### [Power Ballads \(2\)](https://open.spotify.com/playlist/44XJR1i3Vl2B3acOEYwinE)
 
 > You know you love them...\. Get ready to sing like no one is listening to scores of timeless pop and rock power ballads.
 

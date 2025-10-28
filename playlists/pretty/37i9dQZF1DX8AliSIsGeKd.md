@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Tensnake, Gerd Janson
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,455 likes - 88 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,478 likes - 88 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 5 | [Do It 2025](https://open.spotify.com/track/3VZyL6XeTxp9nCLXHmO0gK) | [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Do It 2025](https://open.spotify.com/album/7mt1gbfEhxdLykkGuqFjET) | 2:29 |
 | 6 | [Walking Home](https://open.spotify.com/track/3Zq8Q1pSiZ8jAtwxZIxGzF) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Walking Home](https://open.spotify.com/album/5NPARhLGbbknEzKPsl8DXl) | 4:00 |
 | 7 | [Desert Shore \- Bonus Track](https://open.spotify.com/track/1crqU5MnU7VygalCyciCtN) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [For Real \(Deluxe Edition\)](https://open.spotify.com/album/4yUNkwpCzc1rMzcyN4e0gX) | 4:38 |
-| 8 | [Feelling](https://open.spotify.com/track/128sGprE8mm3w3TvoYxL3D) | [ARYMÉ](https://open.spotify.com/artist/5zdOlKWTERNvDJXkwMYRX6), [Jawora](https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Feeling](https://open.spotify.com/album/4T4oFex4yMKI4P2iB88Mht) | 3:14 |
+| 8 | [Feeling](https://open.spotify.com/track/128sGprE8mm3w3TvoYxL3D) | [ARYMÉ](https://open.spotify.com/artist/5zdOlKWTERNvDJXkwMYRX6), [Jawora](https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Feeling](https://open.spotify.com/album/4T4oFex4yMKI4P2iB88Mht) | 3:14 |
 | 9 | [Backyard Galaxy](https://open.spotify.com/track/6oGlxroOg1FFP7YJC5gU3H) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Backyard Galaxy](https://open.spotify.com/album/6zLqGy5WHyDfSbalXD92gL) | 4:42 |
 | 10 | [View From Space](https://open.spotify.com/track/0AqVIxGMPk3itw3UvUphWq) | [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE) | [View From Space](https://open.spotify.com/album/6pV5Pw1EUajjQxVYGgTquD) | 3:55 |
 | 11 | [I see all my girls](https://open.spotify.com/track/7nSAxvTZ6MLWmo9tNwhzMQ) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga) | [4 stages of sleep](https://open.spotify.com/album/7L5bocORkONslMh2gG8I1z) | 3:43 |

@@ -151136,28 +151136,6 @@
     {
       "album": {
         "name": "Dopamine",
-        "url": "https://open.spotify.com/album/26UUDkAk8TuBAj2xSs0ftn"
-      },
-      "artists": [
-        {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        }
-      ],
-      "date_added": "2025-10-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 123446,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4rG7VqNRA9NxXoGD0FKnzD"
-    },
-    {
-      "album": {
-        "name": "Dopamine",
         "url": "https://open.spotify.com/album/6CRxXtlUhJoGLBtKV8jEnr"
       },
       "artists": [
@@ -151224,6 +151202,28 @@
       "duration_ms": 174193,
       "name": "Dopamine (feat. Eyelar) [John Summit Remix]",
       "url": "https://open.spotify.com/track/0np5Q0HCkLlUU9NVUCbqHv"
+    },
+    {
+      "album": {
+        "name": "Dopamine (feat. Malou)",
+        "url": "https://open.spotify.com/album/26UUDkAk8TuBAj2xSs0ftn"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123446,
+      "name": "Dopamine (feat. Malou)",
+      "url": "https://open.spotify.com/track/4rG7VqNRA9NxXoGD0FKnzD"
     },
     {
       "album": {

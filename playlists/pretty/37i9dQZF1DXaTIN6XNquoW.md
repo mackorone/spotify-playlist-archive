@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTIN6XNquoW.md) - [plain](/playlists/plain/37i9dQZF1DXaTIN6XNquoW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaTIN6XNquoW)
 
-### [This Is Michael Jackson](https://open.spotify.com/playlist/37i9dQZF1DXaTIN6XNquoW)
+### [This Is Michael Jackson \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXaTIN6XNquoW)
 
 > Jam and remember the time with this collection of hits by the <a href="spotify:artist:3fMbdgg4jU18AjLCKBhRSm">King of Pop</a>!
 

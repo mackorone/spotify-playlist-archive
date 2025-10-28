@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isaias Saad
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,128 likes - 49 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,157 likes - 49 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 10 | [Ser achado Fiel \- Ao Vivo](https://open.spotify.com/track/7Jxh4QfkZxb5jAk7M3iuBN) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Ser Achado Fiel \(Ao Vivo\)](https://open.spotify.com/album/03bzY8cTQctYQqtUmxkmnA) | 8:33 |
 | 11 | [Herege](https://open.spotify.com/track/70qG36V8xybs91PnBQ20jP) | [Vitória Frozi](https://open.spotify.com/artist/3jwuWzaMab2ShLBWS9N1Cr), [Kaleb e Josh](https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW), [Cultura do Céu](https://open.spotify.com/artist/2CzYWEDa8pdDgcwaazooQd) | [Herege](https://open.spotify.com/album/4Mmd3kLvE6bdhDqHc1YbUj) | 9:48 |
 | 12 | [Tudo Que Eu Preciso](https://open.spotify.com/track/78meiWE0AVgNVKOySTm4pG) | [Lucas & Evelyn Cortazio](https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Tudo Que Eu Preciso](https://open.spotify.com/album/2DSYcarcIzjxRVEZ2YofzK) | 5:08 |
-| 13 | [A Maior Certeza \- Ao Vivo](https://open.spotify.com/track/5oTBJ6Pt17MvQEunGE2CJS) | [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L), [NOVO CANTO](https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB), [NOVA](https://open.spotify.com/artist/0ckNfMo73lHTOKQLAtw2oM) | [A Maior Certeza \(Ao Vivo\)](https://open.spotify.com/album/3T7SizuAmTC0ltM7I1GGn8) | 4:54 |
+| 13 | [A Maior Certeza \- Ao Vivo](https://open.spotify.com/track/5oTBJ6Pt17MvQEunGE2CJS) | [NOVA](https://open.spotify.com/artist/0ckNfMo73lHTOKQLAtw2oM), [NOVO CANTO](https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [A Maior Certeza \(Ao Vivo\)](https://open.spotify.com/album/3T7SizuAmTC0ltM7I1GGn8) | 4:54 |
 | 14 | [Canção de Simeão](https://open.spotify.com/track/7sYALSNmMvDCXZDNfckN0b) | [Marcelo Cacilias](https://open.spotify.com/artist/4JKjfrzVzizGyOoK7QfQbV), [Drops INA](https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh) | [Canção de Simeão](https://open.spotify.com/album/1WFqNSQDCbkJjFyNE5dTNw) | 5:27 |
 | 15 | [Reconstrução \- Ao Vivo](https://open.spotify.com/track/56sAVNiFXHBwL6mcGE5Dn0) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT), [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Reconstrução \(Ao Vivo\)](https://open.spotify.com/album/3SjUwvoCF4M0pGmhONjnKB) | 4:20 |
 | 16 | [O Milagre Sou Eu + Deus Está Me Ensinando \(Ao Vivo\)](https://open.spotify.com/track/4JzWqicCz6Qhw3HrVVpLp4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [O Milagre Sou Eu + Deus Está Me Ensinando \(Ao Vivo\)](https://open.spotify.com/album/4zLHJvlN2JAmKaGg9JEx5l) | 6:33 |

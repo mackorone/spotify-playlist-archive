@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Gable Price and Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,301 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,323 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 6 | [Can't Stop Me](https://open.spotify.com/track/6sgDAp47RNTEVrzOMYU0PV) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Can't Stop Me](https://open.spotify.com/album/6r7dvXXA7V2s9aSghRX4Zw) | 3:12 |
 | 7 | [You Started Fires](https://open.spotify.com/track/7MSAzuFE518IbCEei4grXh) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [You Started Fires](https://open.spotify.com/album/5GXntm7xZ56kwUBcbJDphV) | 2:49 |
 | 8 | [Thorns](https://open.spotify.com/track/51ntQprVv963OPeFxdLCJt) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Thorns](https://open.spotify.com/album/5alop0gQAbADANQLRa90uP) | 3:02 |
-| 9 | [If I ever lose my way](https://open.spotify.com/track/6dWU6lGzqsrnVHRcToUa36) | [Haynes](https://open.spotify.com/artist/5wviMB3bsPYI9TThkfK64v) | [If I ever lose my way](https://open.spotify.com/album/4wEKrfWQ1GGlF3dakWmj0Y) | 2:57 |
+| 9 | [If I ever lose my way](https://open.spotify.com/track/6dWU6lGzqsrnVHRcToUa36) | [ Haynes](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [If I ever lose my way](https://open.spotify.com/album/4wEKrfWQ1GGlF3dakWmj0Y) | 2:57 |
 | 10 | [THE NAME ABOVE ALL NAMES](https://open.spotify.com/track/5sv4NwHh8XIwJVCQpCjxKr) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [IT NEEDS TO BE SAID](https://open.spotify.com/album/00yUC4YymAJzSoUJCTgoJY) | 4:57 |
 | 11 | [love me as i am](https://open.spotify.com/track/2Jv2IG9MfvfC2saWaqnqJH) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [love me as i am](https://open.spotify.com/album/4LGRl4mRDLz8b6tyTOtKKq) | 4:42 |
 | 12 | [idols](https://open.spotify.com/track/6gJj2m1SMEywchE08sNY5h) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [idols](https://open.spotify.com/album/5UayLEXFF7eInzLYtalNZh) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 74 | [PAINT A PICTURE](https://open.spotify.com/track/61lvFmM5LK5sScXkIwLYv8) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [I LOVE IT WHEN YOU SMILE](https://open.spotify.com/album/2EgWb3B1ouhc5vpAfJVeiP) | 2:47 |
 | 75 | [Dragonfly](https://open.spotify.com/track/0RirkvWjLrMxQUPWv0zeC6) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Dragonfly / Safe](https://open.spotify.com/album/7jISehZ6nOAEfwabssCNhG) | 3:29 |
 
-Snapshot ID: `AAAAAC/BYZyB5ngTU1rpjo8RkGcDdxPy`
+Snapshot ID: `AAAAANN3ht3x5U4dXXccCFTsMsbQECLt`

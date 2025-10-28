@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: <br/>JINBO the SuperFreak\)
+> Trendy & Chill Korean R&B music\. \(Cover: <br/>DEAN\)
 
-868 songs - 1 day 21 hr 57 min
+869 songs - 1 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [Going](https://open.spotify.com/track/1WAnRiglmcnYck613DhH9Q) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Going](https://open.spotify.com/album/4yA4rbocHJnZuDoDiSVD3A) | 3:15 | 2022-04-22 | 2022-06-28 |
 | [Gold](https://open.spotify.com/track/2FfYNplOlQYWelhK2TeqW1) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC) | [Gold](https://open.spotify.com/album/5DjrsUv4LHT4ThG3FqcI6O) | 2:46 | 2023-01-23 | 2023-02-14 |
 | [gold \(Feat\. Dean\)](https://open.spotify.com/track/0EYOhg4jMf7hCLeQIxlvKL) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [DEAN](https://open.spotify.com/artist/2AP2dAjeRdX48EXcLMXOjf) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:56 | 2022-04-19 | 2022-04-21 |
-| [Gold Skin](https://open.spotify.com/track/2VyBPmbkD188Pib9Ssa2HH) | [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [Jbfm](https://open.spotify.com/album/75abKZ895sjG7Lyp1no40Q) | 3:46 | 2025-10-22 |  |
+| [Gold Skin](https://open.spotify.com/track/2VyBPmbkD188Pib9Ssa2HH) | [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [Jbfm](https://open.spotify.com/album/75abKZ895sjG7Lyp1no40Q) | 3:46 | 2025-10-22 | 2025-10-28 |
 | [Goldfish \(Feat\. Blueny of OuiOui\)](https://open.spotify.com/track/0A44VMmhs42WXCNYJGeDLM) | [yiyona](https://open.spotify.com/artist/5UxbxMzCNo2m4oyAN4GYCv), [Blueny](https://open.spotify.com/artist/3yHT48fEq1Uhl1kgcnIyD0) | [Goldfish \(Feat\. Blueny of OuiOui\)](https://open.spotify.com/album/7JSpdJ3tkyGR7rb34jUaTY) | 3:16 | 2022-12-19 | 2022-12-24 |
 | [GOOD BYE SONG](https://open.spotify.com/track/3hkgdFiadUyNVcXq85NO6W) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [popeye](https://open.spotify.com/artist/4OeZj1CdmhyUHRaOUrU3cg) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 3:10 | 2023-02-14 | 2023-02-22 |
 | [Good Night Good Morning \(GNGM\)](https://open.spotify.com/track/48eI2GnP9gpviBG0NAtT30) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Richboy Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Good Night Good Morning \(GNGM\)](https://open.spotify.com/album/7998eG5cX4aNYpQoBZ9GHG) | 2:48 | 2024-08-30 | 2024-10-10 |
@@ -545,6 +545,7 @@
 | [No Type \(Prod\. hayul\)](https://open.spotify.com/track/022vyzDtNPZjI72vVyt66x) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:53 | 2022-11-09 | 2022-11-23 |
 | [No way](https://open.spotify.com/track/3HXqyLcx0FcD6qZrFZ6GFf) | [Ban Estin](https://open.spotify.com/artist/3VphqJqtfCgQT3Sc5spgUR), [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [No way](https://open.spotify.com/album/5b4Pzx6dW9s4cbIuAMYqCi) | 3:11 | 2022-07-24 | 2022-07-28 |
 | [No worries, I'm good](https://open.spotify.com/track/4knaEneI5Aus0Iro4Kn6PA) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [NOW NOW](https://open.spotify.com/album/2FP4cEo5GPPe1HnQDuOE6C) | 2:49 | 2022-12-03 | 2022-12-10 |
+| [Nocturne 07 \(for aerse\)](https://open.spotify.com/track/3CV5geHX47MIejxoQ9evgA) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Nocturne 07 \(for aerse\)](https://open.spotify.com/album/3cs88X4vsJW3H5O69QC9GN) | 2:32 | 2025-10-27 |  |
 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 | 2022-04-19 | 2023-05-16 |
 | [Not About You](https://open.spotify.com/track/4fVyrplBcb6lVgij1b8pIO) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [blanc](https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL) | 3:56 | 2022-08-12 | 2022-08-19 |
 | [Not Anymore](https://open.spotify.com/track/2HJ5BHQ3pguvRIiCXqXuL7) | [VAITEI](https://open.spotify.com/artist/3ql4XNI00x7aUyzk26dDNO) | [Not Anymore](https://open.spotify.com/album/1qen2YeRQZv51XhBBcie3X) | 2:49 | 2022-06-09 | 2022-06-19 |

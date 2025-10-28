@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 233312,
+  "num_followers": 233381,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
+        "name": "Nada Guardaste",
+        "url": "https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd"
+      },
+      "artists": [
+        {
+          "name": "Ana Bolivar",
+          "url": "https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Nada Guardaste",
+      "url": "https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
         "name": "Esto Es Jesus Culture",
         "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 259700,
       "name": "Porque \u00c9l Vive",
       "url": "https://open.spotify.com/track/7gXW3M4iny57LIpgeGwoY6"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
-        "name": "Nada Guardaste",
-        "url": "https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd"
-      },
-      "artists": [
-        {
-          "name": "Ana Bolivar",
-          "url": "https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Nada Guardaste",
-      "url": "https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -935,26 +935,6 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
-        "name": "Esto Es Jesus Culture",
-        "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 264906,
-      "name": "Glorioso Eres T\u00fa",
-      "url": "https://open.spotify.com/track/25A92qcO6w5ERUwKqt4UwC"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
         "name": "People - En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/3UoN9QrWC7Kbvs0QMuNAXa"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 360229,
       "name": "Por Su Gracia",
       "url": "https://open.spotify.com/track/6fZJwVu9LcQwnZfG3sy12T"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
+        "name": "Esto Es Jesus Culture",
+        "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 264906,
+      "name": "Glorioso Eres T\u00fa",
+      "url": "https://open.spotify.com/track/25A92qcO6w5ERUwKqt4UwC"
     },
     {
       "added_at": "2025-04-06 05:33:25",

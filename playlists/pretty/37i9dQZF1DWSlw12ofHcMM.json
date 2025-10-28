@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1369171,
+  "num_followers": 1369167,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -68,7 +68,7 @@
           "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 154013,
+      "duration_ms": 154106,
       "name": "Bless Yourself",
       "url": "https://open.spotify.com/track/24EBpqFU6sLP9maLdJTht0"
     },
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "The Major Minor Collective (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/0zUSmhg6ccJjjMlR0T5j9j"
-      },
-      "artists": [
-        {
-          "name": "The Picturebooks",
-          "url": "https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo"
-        },
-        {
-          "name": "Leah Wellbaum",
-          "url": "https://open.spotify.com/artist/2IeRkiNiO3aibtTyAWntzp"
-        }
-      ],
-      "duration_ms": 256773,
-      "name": "Beach Seduction (feat. Leah Wellbaum)",
-      "url": "https://open.spotify.com/track/6pd6XXS3cCOrLm0Ey7MDYD"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/0DQe0tsjxE9yfB2dntQmUR"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 204121,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/2J6FjuQNSU0tvcplhtl5AP"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "The Major Minor Collective (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/0zUSmhg6ccJjjMlR0T5j9j"
+      },
+      "artists": [
+        {
+          "name": "The Picturebooks",
+          "url": "https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo"
+        },
+        {
+          "name": "Leah Wellbaum",
+          "url": "https://open.spotify.com/artist/2IeRkiNiO3aibtTyAWntzp"
+        }
+      ],
+      "duration_ms": 256773,
+      "name": "Beach Seduction (feat. Leah Wellbaum)",
+      "url": "https://open.spotify.com/track/6pd6XXS3cCOrLm0Ey7MDYD"
     },
     {
       "added_at": "2024-08-23 15:39:31",

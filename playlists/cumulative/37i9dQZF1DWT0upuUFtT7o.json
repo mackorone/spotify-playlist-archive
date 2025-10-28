@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k"
+      },
+      "artists": [
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198287,
+      "name": "555",
+      "url": "https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3"
+    },
+    {
+      "album": {
         "name": "57+5",
         "url": "https://open.spotify.com/album/5Rt8OWoJOjLu1HQLVYfqSM"
       },
@@ -720,6 +738,24 @@
       "duration_ms": 215680,
       "name": "6 Months Later",
       "url": "https://open.spotify.com/track/79mo9lb6pe8KM873HWo0Tg"
+    },
+    {
+      "album": {
+        "name": "6pm",
+        "url": "https://open.spotify.com/album/0fz0GoHiBaSN5W7zLJK5PF"
+      },
+      "artists": [
+        {
+          "name": "Gordon's Grandson",
+          "url": "https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121062,
+      "name": "6pm",
+      "url": "https://open.spotify.com/track/7089sv3SdB56MofZo1Qsas"
     },
     {
       "album": {
@@ -1316,7 +1352,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 160643,
       "name": "Abigail",
       "url": "https://open.spotify.com/track/46ub00quUTby9VKlkcxtro"
@@ -7226,7 +7262,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 193685,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/0KnfV6ysl1uBbRhcgEK3ff"
@@ -8900,7 +8936,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 147009,
       "name": "Bronco Buster",
       "url": "https://open.spotify.com/track/3yHzzbIjPrpwfNQZt4OMm2"
@@ -9560,7 +9596,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 184053,
       "name": "Call U Back",
       "url": "https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5"
@@ -11498,7 +11534,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 220916,
       "name": "Colour The Stencil",
       "url": "https://open.spotify.com/track/7yPKaYE0aiL587j0gyIU1j"
@@ -14006,10 +14042,28 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 215094,
       "name": "dedication hour",
       "url": "https://open.spotify.com/track/00s6LQX6IlqMdjDosiM3nc"
+    },
+    {
+      "album": {
+        "name": "Deep (love)",
+        "url": "https://open.spotify.com/album/1zsvcEQUBmTeb0xm6Jqbwx"
+      },
+      "artists": [
+        {
+          "name": "ctrl + me",
+          "url": "https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190589,
+      "name": "Deep (love)",
+      "url": "https://open.spotify.com/track/511SfFqSwZu4EzASbYSk39"
     },
     {
       "album": {
@@ -17164,7 +17218,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 394538,
       "name": "Everyone Loves You",
       "url": "https://open.spotify.com/track/2I4zMC2Y7ra08XHD6ZQGl3"
@@ -19341,6 +19395,24 @@
     },
     {
       "album": {
+        "name": "folktale",
+        "url": "https://open.spotify.com/album/4KyXCuJgroPaWXROf1iw9R"
+      },
+      "artists": [
+        {
+          "name": "amelie kalia",
+          "url": "https://open.spotify.com/artist/6rBSFShRZMF8r9ElnmQqjM"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210744,
+      "name": "folktale",
+      "url": "https://open.spotify.com/track/24WFYJSMBbpyczEAuyJ6kg"
+    },
+    {
+      "album": {
         "name": "Follow the Cyborg",
         "url": "https://open.spotify.com/album/1OQ0lvy9RPGBRJH1i8DJes"
       },
@@ -21355,6 +21427,24 @@
     },
     {
       "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/4EgldUGiMe8xgHBfQeknGu"
+      },
+      "artists": [
+        {
+          "name": "For Opal",
+          "url": "https://open.spotify.com/artist/3LCda3gkCgVOICHbZhFvM4"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/42f7jbxl24Ah37L8sGeDUT"
+    },
+    {
+      "album": {
         "name": "Girl at the Park (Driving Song)",
         "url": "https://open.spotify.com/album/27H0z2kSZuOsKtJEmEy0bM"
       },
@@ -22854,6 +22944,24 @@
       "duration_ms": 206628,
       "name": "Grog Log",
       "url": "https://open.spotify.com/track/7yspbTzWXhxFv5zRcZyAnm"
+    },
+    {
+      "album": {
+        "name": "Groupie",
+        "url": "https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172415,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM"
     },
     {
       "album": {
@@ -25812,6 +25920,28 @@
       "duration_ms": 217116,
       "name": "how to never disappoint anyone ever again",
       "url": "https://open.spotify.com/track/5JgeuCPNyfF8k6hMgcEl3e"
+    },
+    {
+      "album": {
+        "name": "how to quit",
+        "url": "https://open.spotify.com/album/6gLbmcqyq51PLRXqR8qWOK"
+      },
+      "artists": [
+        {
+          "name": "mou",
+          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
+        },
+        {
+          "name": "Tim Hart",
+          "url": "https://open.spotify.com/artist/1XUmEGWZ7MpBZ5jkb0l4iP"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149808,
+      "name": "how to quit",
+      "url": "https://open.spotify.com/track/3U65fVLnAlKRnHw70xM8dl"
     },
     {
       "album": {
@@ -33959,6 +34089,24 @@
     },
     {
       "album": {
+        "name": "Love by November",
+        "url": "https://open.spotify.com/album/271PpHys7PbmSZITpzUwZM"
+      },
+      "artists": [
+        {
+          "name": "julip",
+          "url": "https://open.spotify.com/artist/7093KDv5fe6sYv66nUo7kK"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191368,
+      "name": "Love by November",
+      "url": "https://open.spotify.com/track/01jAWYp7hyHRZjg2c7rvf0"
+    },
+    {
+      "album": {
         "name": "Love For The Summer",
         "url": "https://open.spotify.com/album/4PpB87xrWOu41tiOvCMY2O"
       },
@@ -36284,7 +36432,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 254535,
       "name": "Mindflower",
       "url": "https://open.spotify.com/track/57hqFySP2QJFuudulgBeZB"
@@ -36450,7 +36598,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 164428,
       "name": "Mirrorland",
       "url": "https://open.spotify.com/track/41oobhHtYEgpuZfuHjOPAC"
@@ -36486,7 +36634,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 221904,
       "name": "Misfire",
       "url": "https://open.spotify.com/track/7M4gmJjc8JUDY1OVOIUQL3"
@@ -42112,6 +42260,24 @@
       "duration_ms": 155247,
       "name": "pale horse",
       "url": "https://open.spotify.com/track/4ec6YIvFYITEzaEizacIVe"
+    },
+    {
+      "album": {
+        "name": "Pale Song / Love Is",
+        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165460,
+      "name": "Pale Song",
+      "url": "https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8"
     },
     {
       "album": {
@@ -48347,6 +48513,24 @@
     },
     {
       "album": {
+        "name": "Shatter",
+        "url": "https://open.spotify.com/album/72wDJ4NyBOhO6ioR5k5fqs"
+      },
+      "artists": [
+        {
+          "name": "Ken Park",
+          "url": "https://open.spotify.com/artist/7AyoL7nBpOxuFWu706TN1J"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139066,
+      "name": "Shatter",
+      "url": "https://open.spotify.com/track/2NUQYQQr9mJJAERm53z1HK"
+    },
+    {
+      "album": {
         "name": "Dreamstruck",
         "url": "https://open.spotify.com/album/1Xn66YQ6IeTmmja7p7Dufv"
       },
@@ -48596,6 +48780,24 @@
       "duration_ms": 112000,
       "name": "shore~",
       "url": "https://open.spotify.com/track/7a9vLge8TTQospRowC7VVp"
+    },
+    {
+      "album": {
+        "name": "short end of the stick",
+        "url": "https://open.spotify.com/album/6mptPHDLmD1H2tNLrGvdLs"
+      },
+      "artists": [
+        {
+          "name": "William Mcgee",
+          "url": "https://open.spotify.com/artist/1cJ33JB6MnN7qEv6AC4DOq"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201391,
+      "name": "short end of the stick",
+      "url": "https://open.spotify.com/track/3AZIb47EwXjdcU4kcyJECK"
     },
     {
       "album": {
@@ -49728,6 +49930,24 @@
       "duration_ms": 194080,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/2dMfQ4fclU1mzo3YKSpqvF"
+    },
+    {
+      "album": {
+        "name": "Sleeping Away My Prime",
+        "url": "https://open.spotify.com/album/15XvORWwKNSEi6V5ojg5RK"
+      },
+      "artists": [
+        {
+          "name": "DellaXOZ",
+          "url": "https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153802,
+      "name": "Sleeping Away My Prime",
+      "url": "https://open.spotify.com/track/56FzCuIZBTssi5o8nWR7bn"
     },
     {
       "album": {
@@ -52518,7 +52738,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 181117,
       "name": "Still Sweet",
       "url": "https://open.spotify.com/track/4kR1H437UieRbDAcz2s8IP"
@@ -52774,7 +52994,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 191597,
       "name": "Strange Romance",
       "url": "https://open.spotify.com/track/11immKCgPMjtsHmRUvfC71"
@@ -57676,7 +57896,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 251557,
       "name": "Together",
       "url": "https://open.spotify.com/track/0oPtxhUmQ2VzBqI1w258j8"
@@ -60218,6 +60438,24 @@
       "duration_ms": 187629,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/5sZ5AyRhjKSYAh7vqNJXuH"
+    },
+    {
+      "album": {
+        "name": "dance arts center presents",
+        "url": "https://open.spotify.com/album/0FRFxu0vsfD02VbhdcoheD"
+      },
+      "artists": [
+        {
+          "name": "dance arts center",
+          "url": "https://open.spotify.com/artist/3W9ojW2wag9ir2xBwia9QP"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "video",
+      "url": "https://open.spotify.com/track/6OwdKf7VRc4zpLNMzWlUL3"
     },
     {
       "album": {

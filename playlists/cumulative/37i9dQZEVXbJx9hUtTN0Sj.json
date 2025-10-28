@@ -8600,7 +8600,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 144500,
       "name": "Cold",
       "url": "https://open.spotify.com/track/18WbzHfUTnPK1lcDNgMnO0"
@@ -13256,7 +13256,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 227319,
       "name": "Fearful Thing",
       "url": "https://open.spotify.com/track/1kgZgssoMOPX4XJ7U140RT"
@@ -28322,7 +28322,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 156021,
       "name": "No Type",
       "url": "https://open.spotify.com/track/0u66zPJ2e2QDiuwwdyFDIG"
@@ -38988,7 +38988,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 196186,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp"
@@ -39006,7 +39006,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
@@ -43606,7 +43606,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 180604,
       "name": "Wish - Audiomack Trap Symphony Version",
       "url": "https://open.spotify.com/track/3STIi4I7eGMJJJhGRIfVli"
@@ -43682,7 +43682,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-28",
       "duration_ms": 186545,
       "name": "Wonderbaarlijk",
       "url": "https://open.spotify.com/track/74taNj89bwFHW4Xk8HyKrC"
@@ -44874,6 +44874,24 @@
       "duration_ms": 181040,
       "name": "Ze Weet Wat Ze Wil",
       "url": "https://open.spotify.com/track/7e51m54UzeX1hrkNOjo1Qo"
+    },
+    {
+      "album": {
+        "name": "Liedjes uit Sesamstraat",
+        "url": "https://open.spotify.com/album/1wKeZpxoeHvqujOL5qVUpn"
+      },
+      "artists": [
+        {
+          "name": "Sesamstraat",
+          "url": "https://open.spotify.com/artist/0F8NsUB3nQezp0YpxEIJfu"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193040,
+      "name": "Zeven Heksen",
+      "url": "https://open.spotify.com/track/4qMa6JF1k3Dl3Zh8yDWzw9"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Popkillery rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i wszystkich nominowanych utwor\u00f3w w kategorii singiel roku.",
-  "num_followers": 10726,
+  "num_followers": 10724,
   "original_name": "Popkillery 2025: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -971,26 +971,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "DresKot",
-        "url": "https://open.spotify.com/album/2ihF9wkzHATrtn42gNB0uD"
-      },
-      "artists": [
-        {
-          "name": "Paluch",
-          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
-        },
-        {
-          "name": "Szpaku",
-          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "DresKot",
-      "url": "https://open.spotify.com/track/4qTdBXG8gJPVd07jVzuDIY"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "RYK",
         "url": "https://open.spotify.com/album/3HBYk01U0ewV3afzMm8zGH"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 127293,
       "name": "HUTA (gasn\u0105 \u015bwiat\u0142a)",
       "url": "https://open.spotify.com/track/0LvnOg56hsjISUvWuq1xMa"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "DresKot",
+        "url": "https://open.spotify.com/album/2ihF9wkzHATrtn42gNB0uD"
+      },
+      "artists": [
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "DresKot",
+      "url": "https://open.spotify.com/track/4qTdBXG8gJPVd07jVzuDIY"
     },
     {
       "added_at": "2025-04-24 21:35:46",

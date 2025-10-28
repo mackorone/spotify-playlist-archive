@@ -2,9 +2,9 @@
 
 ### [Liricisti](https://open.spotify.com/playlist/37i9dQZF1DX5e23vWCjL5N)
 
-> Punchline, storytelling, rap italiano\. Cover: Ele A
+> Punchline, storytelling, rap italiano\. Cover: Ernia
 
-316 songs - 16 hr 17 min
+317 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Certi Giorni \(feat\. Nitro\)](https://open.spotify.com/track/4nvsA575k8HrEjdQ78Ymvi) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [68 \(Till The End\)](https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW) | 3:14 | 2025-04-18 |  |
 | [CHANELINA SOUBRETTE \(feat\. Disme & Ele A\)](https://open.spotify.com/track/5CZOHxLhZohdhmUotp8SHR) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [CHANELINA SOUBRETTE \(feat\. Disme & Ele A\)](https://open.spotify.com/album/6fKwRnm0PQ64ynXzqCVdHC) | 3:23 | 2025-05-15 |  |
 | [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 | 2022-04-15 |  |
+| [Chuniri](https://open.spotify.com/track/7gxGO2SFjrFz0rRuESbxSB) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Chuniri](https://open.spotify.com/album/4vyu0GGbcX0ISQFG7Jh2GU) | 2:50 | 2025-10-27 |  |
 | [Ciao Bella](https://open.spotify.com/track/5JuidT91MdTPOEDHL4u3fp) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:06 | 2023-11-17 | 2025-01-10 |
 | [Cicatrici \(feat\. Tedua\)](https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:12 | 2022-11-24 | 2023-04-28 |
 | [Città del Fumo PT.2 \(feat\. Vale Pain\)](https://open.spotify.com/track/3hhrUjXOFIR4VqtZjj6dy0) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Città del Fumo PT.2 \(feat\. Vale Pain\)](https://open.spotify.com/album/5o6USQtnT18kqF3eIEQ2VW) | 2:21 | 2024-10-17 | 2025-01-10 |
@@ -157,7 +158,7 @@
 | [L'amore e la violenza \(feat\. Paky & 8blevrai\)](https://open.spotify.com/track/1FZU4LJgp5zKSR9QYfgSBK) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [L'amore e la violenza \(feat\. Paky & 8blevrai\)](https://open.spotify.com/album/0w8qPojpLzeQNbxgMq8aKf) | 4:06 | 2022-06-09 | 2025-06-06 |
 | [l'ultima infedeltà.](https://open.spotify.com/track/4Ti43eDvf3xvRsNOSw8Mrq) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [l'ultima infedeltà.](https://open.spotify.com/album/5H8KtMY8m3JKMoKBXW9maO) | 2:40 | 2025-05-15 |  |
 | [L'ultimo giorno del mondo \(feat\. Guè & Rkomi\)](https://open.spotify.com/track/1X0k6YBIDZDIW3on8uA7uA) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [FAME](https://open.spotify.com/album/1cE5vEGVNAYXOJkrrwqu3P) | 2:31 | 2025-01-30 | 2025-06-27 |
-| [L'unica amica leale](https://open.spotify.com/track/00HXKkGmsb8wSCO7zrWnRI) | [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ), [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz), [Tony lattuga](https://open.spotify.com/artist/0x3chftRLurIXEH7lH4CRS), [SuperApe](https://open.spotify.com/artist/4mVduV1qmIAKGLXHStcdPb) | [L'unica amica leale](https://open.spotify.com/album/6PPtwMJbPw606PzQnPhQU8) | 3:27 | 2025-10-09 |  |
+| [L'unica amica leale](https://open.spotify.com/track/00HXKkGmsb8wSCO7zrWnRI) | [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz), [Tony lattuga](https://open.spotify.com/artist/0x3chftRLurIXEH7lH4CRS), [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS), [SuperApe](https://open.spotify.com/artist/4mVduV1qmIAKGLXHStcdPb) | [L'unica amica leale](https://open.spotify.com/album/6PPtwMJbPw606PzQnPhQU8) | 3:27 | 2025-10-09 |  |
 | [La Bibbia \(feat\. Jake La Furia\)](https://open.spotify.com/track/64UrbR5GVC5xH91ni3WCNc) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [QVC 10 \- Quello Che Vi Consiglio Vol\. 10](https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g) | 2:36 | 2023-12-14 | 2024-02-23 |
 | [La G La U La E pt.2](https://open.spotify.com/track/3PHUQDyGYZhRJFSwbTXnsG) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 2:25 | 2022-04-15 | 2022-11-25 |
 | [La Haine](https://open.spotify.com/track/4HQAiEh8J9MIFmtLzuB24a) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo) | 2:52 | 2022-06-09 | 2022-07-16 |

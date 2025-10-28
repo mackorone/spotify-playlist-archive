@@ -4,7 +4,7 @@
 
 > Playlist
 
-616 songs - 1 day 12 hr 27 min
+617 songs - 1 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Blue](https://open.spotify.com/track/0WIHwtJS11qxWgKtw2qhPR) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Blue](https://open.spotify.com/album/4NrL4M6sp5VMoyXxfUxfZ8) | 3:05 | 2023-10-25 |  |
 | [Blue Blood](https://open.spotify.com/track/2SawSPvB0js6IATRqf69qs) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Blue Blood](https://open.spotify.com/album/1S6KvzowYkJZbGXwt05xiu) | 3:50 | 2023-10-25 |  |
 | [bones](https://open.spotify.com/track/3PINiNx7YoLY1M2LKGEpzo) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [bones](https://open.spotify.com/album/6nw7UPazUokvF5M6g08kH8) | 3:52 | 2025-08-29 |  |
+| [bones](https://open.spotify.com/track/5obGMp5stzItyTXOmzoiFt) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [plateau](https://open.spotify.com/album/6JlOYEQWx0ZgR0WkeTIuge) | 3:52 | 2025-10-27 |  |
 | [Boogie Board](https://open.spotify.com/track/2fxvzbFrmMuTbGdt9t3ReA) | [Sleepy Gaucho](https://open.spotify.com/artist/2Z0oy5DFzgh7kzFBV4Qa3x) | [Sueños Que Sobran](https://open.spotify.com/album/6nZbtlkiDmpxWxVNpyNMgz) | 3:04 | 2023-10-25 |  |
 | [Bower](https://open.spotify.com/track/2eEIkMa5HTRCBG1YE4I4jL) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Bower](https://open.spotify.com/album/7JNHlZOeBqXNAGTMbi8UPt) | 2:54 | 2023-10-25 |  |
 | [Bowling Alley Thug](https://open.spotify.com/track/4hbMHyGiSxyZMAbHzy2upA) | [Surf Hat](https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy) | [Surf Hat](https://open.spotify.com/album/3xM9YASLf1ZnJKQnuvT17S) | 2:59 | 2024-11-15 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-68 songs - 3 hr 55 min
+71 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Avatar: The Last Airbender \- Premiere Main Title](https://open.spotify.com/track/6K7gcKToCb3eWshnhTt857) | [Jeremy Zuckerman](https://open.spotify.com/artist/1fbkVAnlEb34awQtWEDa6W) | [Avatar: The Last Airbender \- Book 1: Water \(Music From The Animated Series\)](https://open.spotify.com/album/3O8AxQ0FXMQw5l7PbHcn8F) | 1:51 | 2025-03-13 |  |
 | [Beyond the Veil](https://open.spotify.com/track/0havnPncOkI1Mmf1Glr9tj) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Shatter Me](https://open.spotify.com/album/2spbck4ETZz1aLq5Fi5phC) | 4:14 | 2025-03-13 |  |
 | [Brain Revolution Girl 2016 ver.](https://open.spotify.com/track/0yb2qOhzja2F2KMuIgcr6L) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:40 | 2025-03-13 |  |
+| [Cerebrawl](https://open.spotify.com/track/7hjygp9ckC3snkqNUQu1F0) | [Laura Shigihara](https://open.spotify.com/artist/2RnGA202UcoKq6KjzQCbNR) | [Plants Vs\. Zombies \(Original Video Game Soundtrack\)](https://open.spotify.com/album/3nG37CdJEbz1c7KrOOQn4Z) | 1:57 | 2025-10-28 |  |
 | [CHERRY + ICE CREAM \- INSTRUMENTAL](https://open.spotify.com/track/2tyTNcltS1ZTjfP27hsdil) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI) | [CHERRY + ICE CREAM \(INSTRUMENTAL\)](https://open.spotify.com/album/1OcCmTKavtRizPMxxuIXyk) | 3:30 | 2025-06-11 |  |
 | [Cogitation of Epochs](https://open.spotify.com/track/1nwNZYLBPOGbHu44gMzld7) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- The Stellar Moments, Vol\. 4 \(Original Game Soundtrack\)](https://open.spotify.com/album/0f743tpBG9DquanCiyBASU) | 2:52 | 2025-03-14 |  |
 | [Coin locker Baby](https://open.spotify.com/track/2A8g4brfM2DG9tS2BbcrHM) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 4:28 | 2025-03-13 |  |
@@ -29,6 +30,7 @@
 | [Frederich von Flotow: Martha: M'apparì](https://open.spotify.com/track/13wg1az2pMhoiuyhcJI0RT) | [Frederich von Flotow](https://open.spotify.com/artist/3bQ1MoRE9KdEq4JVIupInF), [Compagnia D'Opera Italiana](https://open.spotify.com/artist/62hBGinO7qiNJOL5GHC8S9), [Antonello Gotta](https://open.spotify.com/artist/291qBRGY1UOHNkRItyrri9), [Stefano Secco](https://open.spotify.com/artist/2dWEIgmN7VbzmFOEp1GDaR) | [51 Most Loved Opera Arias, Vol\. 4](https://open.spotify.com/album/5VHGu0hLpXAzn0bLry6XWQ) | 3:31 | 2025-03-13 |  |
 | [Gilded Runner](https://open.spotify.com/track/4vhfKGfxS6VAT3cqrmh8oI) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Forest of Jnana and Vidya \(Original Game Soundtrack\)](https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr) | 4:05 | 2025-03-14 |  |
 | [Going Nowhere](https://open.spotify.com/track/79yggxK8HLRYOKUYa2E5S9) | [Gooseworx](https://open.spotify.com/artist/4I31Oaf4lpU501IMCuEHTt), [Evan Alderete](https://open.spotify.com/artist/2TrXT9J7vh2gaEp6Nb0g0K) | [The Amazing Digital Circus \(Original Pilot Soundtrack\)](https://open.spotify.com/album/2SgquMN2FvtGFR5b1Pf4Zy) | 1:34 | 2025-03-13 |  |
+| [Graze the Roof](https://open.spotify.com/track/78sRnSDYbNMAcAh6lX1yG6) | [Laura Shigihara](https://open.spotify.com/artist/2RnGA202UcoKq6KjzQCbNR) | [Plants Vs\. Zombies \(Original Video Game Soundtrack\)](https://open.spotify.com/album/3nG37CdJEbz1c7KrOOQn4Z) | 3:03 | 2025-10-28 |  |
 | [Heaven and Earth as a Chessboard](https://open.spotify.com/track/42MEebWLhNae34fHKwL79g) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Honkai: Star Rail \- Experience the Paths Vol\. 1](https://open.spotify.com/album/2vC63gH9IJx2DyFM3XNIo6) | 1:55 | 2025-03-13 |  |
 | [Himitsuno kingyo](https://open.spotify.com/track/0It3VuYrgX7WOO08tuQ7B4) | [MASA WORKS DESIGN](https://open.spotify.com/artist/4KCNieFVZXwH2iZLX2D0cF) | [ALCATRAZ](https://open.spotify.com/album/018jqv8dikQfpoZaGIV0Cj) | 3:50 | 2025-03-13 |  |
 | [Hustle and Bustle of Ormos](https://open.spotify.com/track/5Jz9y9DNWFKEKlR1edaDfq) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Forest of Jnana and Vidya \(Original Game Soundtrack\)](https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr) | 1:48 | 2025-03-14 |  |
@@ -52,6 +54,7 @@
 | [Rex Incognito](https://open.spotify.com/track/12tLo4zslkJEgl8xXlawbI) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- The Stellar Moments \(Original Game Soundtrack\)](https://open.spotify.com/album/0mSbKAlNwSFHlKL4i3OIsn) | 1:48 | 2025-03-14 |  |
 | [Rex Incognito \- Phonk Remix](https://open.spotify.com/track/1hzXziNfS2TuwVVCayfkKV) | [Atharva Mohite](https://open.spotify.com/artist/5R230YGnc1yfMCZyp9d9Jt) | [Genshin Impact Phonk Collection Vol.1](https://open.spotify.com/album/1BajT0SG2FEqxKd0F0VCTy) | 2:41 | 2025-03-14 |  |
 | [Rhapsodia Roscida](https://open.spotify.com/track/68FoQv9W8G43rx1ce5Oiif) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- The Unfathomable Sand Dunes \(Original Game Soundtrack\)](https://open.spotify.com/album/4JMjkt32NZ9VnPj68Mz7Ra) | 2:49 | 2025-03-14 |  |
+| [Rigor Mormist](https://open.spotify.com/track/0HpyqkpkXeXTkKUVB1WwCu) | [Laura Shigihara](https://open.spotify.com/artist/2RnGA202UcoKq6KjzQCbNR) | [Plants Vs\. Zombies \(Original Video Game Soundtrack\)](https://open.spotify.com/album/3nG37CdJEbz1c7KrOOQn4Z) | 1:52 | 2025-10-28 |  |
 | [SIU](https://open.spotify.com/track/22tot0Y6uKuWdAZnEQyB6g) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 4:38 | 2025-03-13 |  |
 | [Soffia la notte](https://open.spotify.com/track/3BfKUxdpnG24qXFYX2e5XU) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Viaggi in aeromobile](https://open.spotify.com/album/7gPDBvn3SRgtSmVFjqe6xI) | 3:24 | 2025-03-13 |  |
 | [space outlaw](https://open.spotify.com/track/6HOsKk1rBLFBYEnmZvtV7O) | [demon gummies](https://open.spotify.com/artist/186Z7vh8tdbrO3V9ZZIMoJ) | [study with puppycat](https://open.spotify.com/album/3o0E7Qf46ypnjtsB8gIkQo) | 3:35 | 2025-03-13 |  |
