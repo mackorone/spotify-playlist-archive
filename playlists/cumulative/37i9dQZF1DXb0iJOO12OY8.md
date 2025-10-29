@@ -4,7 +4,7 @@
 
 > 🤝
 
-189 songs - 8 hr 50 min
+190 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bless Meg](https://open.spotify.com/track/0bQ6SuPWpMSFXXP3yVlexZ) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bless Meg](https://open.spotify.com/album/37LSdJ7yCR1AbnOuID6fOq) | 2:24 | 2024-11-07 | 2025-04-02 |
 | [BLÅST](https://open.spotify.com/track/0mShuzpXpvDkAdwy3qEDeQ) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [BLÅST](https://open.spotify.com/album/6FBMQBfSe6ShJpDo6OxEye) | 2:48 | 2025-09-04 | 2025-10-08 |
 | [Bonanza \(feat\. Greekazo\)](https://open.spotify.com/track/2Oum9Ze9GhdDUiMaa7FLZ3) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [Roc Boyz, Vol\. 3](https://open.spotify.com/album/4hFby8Laxy4VLwG888kx9g) | 2:18 | 2024-06-27 | 2024-08-16 |
-| [Bra For Meg](https://open.spotify.com/track/79CijW0BLwU5OvmYNmttyo) | [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5), [Erika Norwich](https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK) | [Bra For Meg](https://open.spotify.com/album/2HxOPVUe7pzIqTNA8eoGcw) | 2:15 | 2025-10-02 |  |
+| [Bra For Meg](https://open.spotify.com/track/79CijW0BLwU5OvmYNmttyo) | [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5), [Erika Norwich](https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK) | [Bra For Meg](https://open.spotify.com/album/2HxOPVUe7pzIqTNA8eoGcw) | 2:15 | 2025-10-02 | 2025-10-29 |
 | [Can't Tame Her](https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:16 | 2024-06-27 | 2025-05-12 |
 | [Chaos](https://open.spotify.com/track/52RqMbWDZmNEcj4ogyIDAn) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Chaos](https://open.spotify.com/album/16hB0SDVHnDtThxvcVGi6A) | 3:38 | 2024-09-05 | 2024-09-20 |
 | [Chit Chat](https://open.spotify.com/track/1cRXDCCWTIYyMroXZtbC3G) | [Segertåget](https://open.spotify.com/artist/2ipDTQIxcKOp0YwDcGgO1u) | [Chit Chat](https://open.spotify.com/album/2Fw6u9hJvOOkcm0GJQdqhI) | 2:32 | 2025-06-26 | 2025-08-08 |
@@ -79,6 +79,7 @@
 | [Hva Vil Du](https://open.spotify.com/track/31YHU4e3AaomzCYvuLHXom) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [Hva Vil Du](https://open.spotify.com/album/6ixMSXKsUgGFYyW1nYAaUS) | 2:01 | 2024-11-14 | 2025-01-17 |
 | [Hvert År](https://open.spotify.com/track/6lCuJDgduRfAmgrFyStT3g) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [Hvert År](https://open.spotify.com/album/6HE9CnakRqPFCb4Ra36eQU) | 3:04 | 2025-07-24 | 2025-08-16 |
 | [Hvitt Gull \(Kilroy\)](https://open.spotify.com/track/5Qy0doMqmgxa2D1pGZr0Io) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Hvitt Gull \(Kilroy\)](https://open.spotify.com/album/0hU5JEbaEsODriACbBtUsM) | 2:16 | 2025-01-16 |  |
+| [HYSJ \(ICED\)](https://open.spotify.com/track/3JXoRVmB1XBRx28aP8OoRJ) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [Krobbe](https://open.spotify.com/artist/7GXGB5x4GvnZpl7AnjM3Ej), [UGANG](https://open.spotify.com/artist/68NG7HHIQ3vm9DGnWE52gE) | [HYSJ \(ICED\)](https://open.spotify.com/album/5XfBIt784dpEj7JMVAmx81) | 2:28 | 2025-10-24 |  |
 | [I Sent My Therapist To Therapy](https://open.spotify.com/track/6ofVkSSWsDcnzRCNwrvpXB) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Sent My Therapist To Therapy](https://open.spotify.com/album/23nGL24RjKEvIEbiY2DVob) | 3:00 | 2024-06-27 | 2024-07-15 |
 | [I Wanna Love You \(But I Don't\)](https://open.spotify.com/track/0MSqcBG0MNmyPxXMz0JwDc) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [I Wanna Love You \(But I Don't\) / I hope you die first](https://open.spotify.com/album/6W9bs9ysBRA2CvZKe0kME8) | 4:17 | 2024-08-15 | 2024-08-30 |
 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 | 2024-06-27 | 2024-09-13 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Mitesh Bhatt
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,619 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,646 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [JAANA](https://open.spotify.com/track/2YQo7aCOlLjq7ReonEjT54) | [Mitesh Bhatt](https://open.spotify.com/artist/5V2zDXAqpJilI0wgIYiojJ) | [JAANA](https://open.spotify.com/album/66AwPVyxXp3d0MakpuIKKi) | 3:14 |
-| 2 | [20 Something](https://open.spotify.com/track/2PmkxEUGG1epRsaZ2q6mFs) | [Nitansha](https://open.spotify.com/artist/28md3cATWZym2dKsfv8wvH) | [20 Something](https://open.spotify.com/album/6ngfEYJnkSKku48AOHLDai) | 3:32 |
+| 2 | [20 Something](https://open.spotify.com/track/2PmkxEUGG1epRsaZ2q6mFs) | [Nitansha](https://open.spotify.com/artist/28md3cATWZym2dKsfv8wvH), [BaddMint](https://open.spotify.com/artist/45jH2n7CFwqGXgsHUcxnP3) | [20 Something](https://open.spotify.com/album/6ngfEYJnkSKku48AOHLDai) | 3:32 |
 | 3 | [Dur Kahi Na Jaa Tu](https://open.spotify.com/track/3WSQsfAgTtyfQamWXkOMvd) | [KnoXx](https://open.spotify.com/artist/5RcpRxAwu6hjd2pFg0OdZw), [Aayushi Chatterjee](https://open.spotify.com/artist/6yZUAqALJomS24oZt9kuKR), [Somil Beats](https://open.spotify.com/artist/7IuRc4MaKaIlqp6fujYsEi) | [Dur Kahi Na Jaa Tu](https://open.spotify.com/album/76KR8wnJRymKt92rNhAG2b) | 3:51 |
 | 4 | [Naseeb](https://open.spotify.com/track/5W2hc20sbdk3agcXpYpfBA) | [Sambhav Baxi](https://open.spotify.com/artist/3nATuYrOHrDL1dwzuw8lk2), [Aashee Dhiman](https://open.spotify.com/artist/5Z39IEHHZgMrpDZt2ZFb2L), [Anirudh Varma](https://open.spotify.com/artist/5xTBaD2l30cX83451FAlTj) | [Naseeb](https://open.spotify.com/album/6qSd9jotOLZbhAqD6hsnzi) | 3:30 |
 | 5 | [Bedarda](https://open.spotify.com/track/0XSbK8tMMjplGaOmXk16JK) | [Tushar Raj](https://open.spotify.com/artist/0TDvxnXFpH3jmxl7b2214k), [Mofusion](https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv) | [Bedarda](https://open.spotify.com/album/5VClFpa40Py6hBohtJOfbu) | 2:47 |

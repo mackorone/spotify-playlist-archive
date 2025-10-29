@@ -4494,6 +4494,24 @@
     {
       "album": {
         "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/12cathoKU0frumffV7uCTA"
+      },
+      "artists": [
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104211,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/5pYa3nB6k9VZpBynPrWLIo"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
         "url": "https://open.spotify.com/album/4rFwznUvKfecxIUc5TugBL"
       },
       "artists": [
@@ -7454,7 +7472,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 153207,
       "name": "Missed Calls",
       "url": "https://open.spotify.com/track/0wI4j8xIUq8ql69MokWCE5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Daniel Caesar, Leon Thomas, Alexander Stewart, Selena Gomez, The Strumbellas, Les Trois Accords and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,865 likes - 101 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,812 likes - 101 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 13 | [Private](https://open.spotify.com/track/1735xgk2J8CHCGY2LS1HM6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Private](https://open.spotify.com/album/3ZHB2EDswWPDigqKXI59CL) | 3:49 |
 | 14 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 |
 | 15 | [Ameonna](https://open.spotify.com/track/2QWVzSa39qQ66oJdIXclo1) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Ameonna](https://open.spotify.com/album/1u2rWWwmEjD7rjUxQ2oYqf) | 7:22 |
-| 16 | [BRUK DOWN](https://open.spotify.com/track/6seStQ8B2Bx2Gnis7LF3cr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BRUK DOWN](https://open.spotify.com/album/0BirKooSEo10AItZLSquFo) | 2:45 |
+| 16 | [BRUK DOWN](https://open.spotify.com/track/6seStQ8B2Bx2Gnis7LF3cr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO) | [BRUK DOWN](https://open.spotify.com/album/0BirKooSEo10AItZLSquFo) | 2:45 |
 | 17 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 |
 | 18 | [Feels So Good](https://open.spotify.com/track/26DeYXH95xA9DdcPfPZ8fS) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [My Second Last Album](https://open.spotify.com/album/1lNhmIl6F1c3G7svc0n2SG) | 3:34 |
 | 19 | [Hanging Out In My Head](https://open.spotify.com/track/1xhaaznvVPI1MPqGf6zXmp) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Burning Bridges Into Dust](https://open.spotify.com/album/6RMqbIJ7ffwBsUqJ3vXTV5) | 2:49 |

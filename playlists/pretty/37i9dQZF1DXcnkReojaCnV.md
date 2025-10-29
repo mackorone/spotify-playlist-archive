@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 > <a href="spotify:artist:2SNzxY1OsSCHBLVi77mpPQ">Joe Bonamassa</a> is taking over to share his blues favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,271 likes - 25 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,312 likes - 25 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2797,6 +2797,24 @@
     },
     {
       "album": {
+        "name": "\u30be\u30f3\u30d3\u30e9\u30f3\u30c9\u30b5\u30ac \u3086\u3081\u304e\u3093\u304c\u30d1\u30e9\u30c0\u30a4\u30b9 \u30d5\u30e9\u30f3\u30b7\u30e5\u30b7\u30e5 The Best Paradise",
+        "url": "https://open.spotify.com/album/1k0m2BAv3UyuhSZp1yV8T1"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30e9\u30f3\u30b7\u30e5\u30b7\u30e5",
+          "url": "https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298546,
+      "name": "\u307e\u305f\u305f\u304f\u5b87\u5b99\uff08\u30bd\u30e9\uff09\u306b\u61a7\u308c\u3066",
+      "url": "https://open.spotify.com/track/4vutL5MOKfY8KTXXMmrsVB"
+    },
+    {
+      "album": {
         "name": "\u307e\u3063\u3055\u3089",
         "url": "https://open.spotify.com/album/4hBvsx4tu4hXaYTXveupAp"
       },
@@ -2862,7 +2880,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 361360,
       "name": "\u30a2\u30eb\u30bf\u30a4\u30eb",
       "url": "https://open.spotify.com/track/6ZDIqgS06Rr5gHXLP6c3Xb"

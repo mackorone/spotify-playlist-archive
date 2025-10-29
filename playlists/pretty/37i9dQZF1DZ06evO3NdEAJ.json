@@ -1,12 +1,12 @@
 {
   "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
-  "num_followers": 52249,
+  "num_followers": 52262,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP1kgAAAAADl7KNIoirSpL8zP8ajV2mj",
+  "snapshot_id": "aP62AAAAAACyewNzMPVV5L3QxMRkEhLG",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/2393BbWjPqeNodz7lvaDNN"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Infinito",
-      "url": "https://open.spotify.com/track/3PTvxcESQ2bCtSyY9sMENL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "10/10",
         "url": "https://open.spotify.com/album/0kGyBvtwZXCcZK4kTdXuQb"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 161853,
       "name": "Bingo",
       "url": "https://open.spotify.com/track/5zHkCFv17jKavqJPRZITWJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/2393BbWjPqeNodz7lvaDNN"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/3PTvxcESQ2bCtSyY9sMENL"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Directo Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2MjM2y9U7GXuJAEeiaQRRF"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 172091,
-      "name": "Selfie",
-      "url": "https://open.spotify.com/track/0oBnWqf8EmbZv9q4Bo5OEk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Ti Enamorado",
         "url": "https://open.spotify.com/album/1WGsWVwYWDwVSlZJxEHamf"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 233165,
       "name": "De Ti Enamorado",
       "url": "https://open.spotify.com/track/02MIYH9EHLAHZVu6iIFiNx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Directo Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2MjM2y9U7GXuJAEeiaQRRF"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 172091,
+      "name": "Selfie",
+      "url": "https://open.spotify.com/track/0oBnWqf8EmbZv9q4Bo5OEk"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Te Am\u00e9",
-        "url": "https://open.spotify.com/album/2b6qnwUwY9qjrss0YucU1O"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 242606,
-      "name": "Cuando Te Am\u00e9",
-      "url": "https://open.spotify.com/track/6alHQAMsFdfVqKn7eO8nYF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Otro Canal",
         "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 227196,
       "name": "Lo Dejar\u00eda Todo",
       "url": "https://open.spotify.com/track/2HgLertx97aKmtkVfNymvU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Te Am\u00e9",
+        "url": "https://open.spotify.com/album/2b6qnwUwY9qjrss0YucU1O"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 242606,
+      "name": "Cuando Te Am\u00e9",
+      "url": "https://open.spotify.com/track/6alHQAMsFdfVqKn7eO8nYF"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Leona y El Carcomido",
-        "url": "https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 153478,
-      "name": "La Leona y El Carcomido",
-      "url": "https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Otro Canal",
         "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Leona y El Carcomido",
+        "url": "https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 153478,
+      "name": "La Leona y El Carcomido",
+      "url": "https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Sale Bien",
         "url": "https://open.spotify.com/album/1vm2Uy33Mrv1WNpWxQ0xLv"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 167509,
       "name": "Te Sale Bien",
       "url": "https://open.spotify.com/track/1AOuMm9EJB0S8FviogQcpQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Intento Diez Mil",
-        "url": "https://open.spotify.com/album/2vA069Infjo2PL11CIwDiW"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 149825,
-      "name": "Intento Diez Mil",
-      "url": "https://open.spotify.com/track/2j17wb2STjaPtvddrv82ok"
     },
     {
       "added_at": null,
@@ -559,6 +543,22 @@
       "duration_ms": 194247,
       "name": "Basta",
       "url": "https://open.spotify.com/track/7G9Z2p9GUo86ssw05dRRYH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intento Diez Mil",
+        "url": "https://open.spotify.com/album/2vA069Infjo2PL11CIwDiW"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 149825,
+      "name": "Intento Diez Mil",
+      "url": "https://open.spotify.com/track/2j17wb2STjaPtvddrv82ok"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Retro & Hits",
+        "url": "https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 160568,
+      "name": "No Me Doy por Vencido",
+      "url": "https://open.spotify.com/track/0vtTt7I6lz39voTqajJ7qi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Derrumb\u00e9 a Tus Pies",
         "url": "https://open.spotify.com/album/5BapJqjEnc9bRomteNgQtC"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 204970,
       "name": "Me Derrumb\u00e9 a Tus Pies",
       "url": "https://open.spotify.com/track/6wA9irSsOpsIwoVz1rnt7O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Retro & Hits",
-        "url": "https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 160568,
-      "name": "No Me Doy por Vencido",
-      "url": "https://open.spotify.com/track/0vtTt7I6lz39voTqajJ7qi"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dile",
-        "url": "https://open.spotify.com/album/5n32MK19ShFwMXMuZaCdv3"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 173969,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/0qnpUfpIedBqtJSx6lR0Bh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Retro & Hits",
         "url": "https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj"
       },
@@ -767,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Toca Hacer Lo Tuyo",
-        "url": "https://open.spotify.com/album/2QODDsHHqu9MbRNUSPcrL2"
+        "name": "Dile",
+        "url": "https://open.spotify.com/album/5n32MK19ShFwMXMuZaCdv3"
       },
       "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        },
         {
           "name": "La Fiera de Ojinaga",
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 194432,
-      "name": "Te Toca Hacer Lo Tuyo",
-      "url": "https://open.spotify.com/track/1aGM20rQDiiL03fRgmX1Zc"
+      "duration_ms": 173969,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/0qnpUfpIedBqtJSx6lR0Bh"
     },
     {
       "added_at": null,
@@ -799,6 +779,26 @@
       "duration_ms": 147865,
       "name": "Todo Que Ver",
       "url": "https://open.spotify.com/track/5BbVN7lNgaUq00J1cCPwnR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Toca Hacer Lo Tuyo",
+        "url": "https://open.spotify.com/album/2QODDsHHqu9MbRNUSPcrL2"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        },
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 194432,
+      "name": "Te Toca Hacer Lo Tuyo",
+      "url": "https://open.spotify.com/track/1aGM20rQDiiL03fRgmX1Zc"
     },
     {
       "added_at": null,

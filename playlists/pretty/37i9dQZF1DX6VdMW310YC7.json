@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3915721,
+  "num_followers": 3915967,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 137790,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/5P1uESXjGvtcUpwB8IyWsV"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 125994,
       "name": "life gets hard",
       "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 137790,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -835,30 +835,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "hey",
         "url": "https://open.spotify.com/album/3HLrOVIjvjuFcaUikX5jWH"
       },
@@ -895,22 +871,26 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "On A Clear Day, You Can See Forever",
-        "url": "https://open.spotify.com/album/3FoFmPO5kxgqonzSGWQ8IW"
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
       },
       "artists": [
         {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
         },
         {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
         }
       ],
-      "duration_ms": 219041,
-      "name": "On A Clear Day, You Can See Forever - Edit",
-      "url": "https://open.spotify.com/track/7fR7zOZyrIHUvP1zMOcLbk"
+      "duration_ms": 212000,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -931,6 +911,26 @@
       "duration_ms": 204761,
       "name": "Body",
       "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "On A Clear Day, You Can See Forever",
+        "url": "https://open.spotify.com/album/3FoFmPO5kxgqonzSGWQ8IW"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        },
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 219041,
+      "name": "On A Clear Day, You Can See Forever - Edit",
+      "url": "https://open.spotify.com/track/7fR7zOZyrIHUvP1zMOcLbk"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Give Me Life",
-        "url": "https://open.spotify.com/album/2uQ78onkVkQm9JEfVK78tN"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 213113,
-      "name": "Give Me Life",
-      "url": "https://open.spotify.com/track/1VIFS9J23S0zWLbs5U0f2X"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "Somebody To Love",
         "url": "https://open.spotify.com/album/0H4wuU2aIXCZJCSL2E5y8W"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 230487,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "Give Me Life",
+        "url": "https://open.spotify.com/album/2uQ78onkVkQm9JEfVK78tN"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 213113,
+      "name": "Give Me Life",
+      "url": "https://open.spotify.com/track/1VIFS9J23S0zWLbs5U0f2X"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Teahupoo",
-        "url": "https://open.spotify.com/album/7t395XjOwd8MjYHEsI1tgr"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 202926,
-      "name": "Teahupoo",
-      "url": "https://open.spotify.com/track/5ajDAV7woLiE3fbzjmGJeR"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "Me and You (feat. Vancouver Sleep Clinic)",
         "url": "https://open.spotify.com/album/3I2DyDuoBgTndybTZM0W8B"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 266666,
       "name": "Me and You (feat. Vancouver Sleep Clinic)",
       "url": "https://open.spotify.com/track/115oxLXomzaH8T9ujFBuNP"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "Teahupoo",
+        "url": "https://open.spotify.com/album/7t395XjOwd8MjYHEsI1tgr"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 202926,
+      "name": "Teahupoo",
+      "url": "https://open.spotify.com/track/5ajDAV7woLiE3fbzjmGJeR"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1243,46 +1243,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Wanna Know",
-        "url": "https://open.spotify.com/album/3QLPxAh68K1z8bLdE2uMFL"
-      },
-      "artists": [
-        {
-          "name": "Jack Willard",
-          "url": "https://open.spotify.com/artist/0DIqQmQ7dKsuCPx6LDJWK7"
-        },
-        {
-          "name": "Lovlee",
-          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Wanna Know",
-      "url": "https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "Before The Storm",
-        "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Rinzen",
-          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
-        }
-      ],
-      "duration_ms": 369798,
-      "name": "Before The Storm",
-      "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "Beside You",
         "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
       },
@@ -1315,6 +1275,26 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "Before The Storm",
+        "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+        }
+      ],
+      "duration_ms": 369798,
+      "name": "Before The Storm",
+      "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "Maitri",
         "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 177391,
       "name": "Maitri",
       "url": "https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "Wanna Know",
+        "url": "https://open.spotify.com/album/3QLPxAh68K1z8bLdE2uMFL"
+      },
+      "artists": [
+        {
+          "name": "Jack Willard",
+          "url": "https://open.spotify.com/artist/0DIqQmQ7dKsuCPx6LDJWK7"
+        },
+        {
+          "name": "Lovlee",
+          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Wanna Know",
+      "url": "https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "SWEET LOVIN",
+        "url": "https://open.spotify.com/album/0J02fKiJmJp7DKyEI3lQjR"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "SWEET LOVIN",
+      "url": "https://open.spotify.com/track/5FyaFI5pYPGdhKC6z4Gm0e"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "Above Ground",
         "url": "https://open.spotify.com/album/6g2Kkgl27P6CjSFenP7vKl"
       },
@@ -1411,18 +1427,22 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "SWEET LOVIN",
-        "url": "https://open.spotify.com/album/0J02fKiJmJp7DKyEI3lQjR"
+        "name": "Something Right",
+        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
       },
       "artists": [
         {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        },
+        {
+          "name": "Molly Moonwater",
+          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
         }
       ],
-      "duration_ms": 188346,
-      "name": "SWEET LOVIN",
-      "url": "https://open.spotify.com/track/5FyaFI5pYPGdhKC6z4Gm0e"
+      "duration_ms": 175040,
+      "name": "Something Right",
+      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1451,42 +1471,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Something Right",
-        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
-      },
-      "artists": [
-        {
-          "name": "Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        },
-        {
-          "name": "Molly Moonwater",
-          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Something Right",
-      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 207609,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "I Just Needed This",
         "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
@@ -1507,22 +1491,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/5HLuvzfYjnLfeBqrjh356f"
-      },
-      "artists": [
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        }
-      ],
-      "duration_ms": 238065,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/0CVdlEsyxVK5dikxkx6FOR"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
       },
@@ -1535,6 +1503,22 @@
       "duration_ms": 217617,
       "name": "Blue",
       "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 207609,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1555,6 +1539,22 @@
       "duration_ms": 285595,
       "name": "1973",
       "url": "https://open.spotify.com/track/3fCowMGKkshKs0iwAdxZBd"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5HLuvzfYjnLfeBqrjh356f"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 238065,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/0CVdlEsyxVK5dikxkx6FOR"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Slow Bloom",
-        "url": "https://open.spotify.com/album/4OGPBLRY51SJyMEEaNNWhN"
-      },
-      "artists": [
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "Slow Bloom",
-      "url": "https://open.spotify.com/track/0pHLg1MHxHwQJpHT6xKlVy"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/3l5cjOXlf0QfcvFvu49P6a"
       },
@@ -1723,6 +1707,22 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "Slow Bloom",
+        "url": "https://open.spotify.com/album/4OGPBLRY51SJyMEEaNNWhN"
+      },
+      "artists": [
+        {
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Slow Bloom",
+      "url": "https://open.spotify.com/track/0pHLg1MHxHwQJpHT6xKlVy"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "Everything All At Once",
         "url": "https://open.spotify.com/album/79qIARkVmChtiG0yTcs9Zv"
       },
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3ht2v0Rc9q1RP80wr6zsPi"
-      },
-      "artists": [
-        {
-          "name": "ALSO ASTIR",
-          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
-        },
-        {
-          "name": "Alessandro Martire",
-          "url": "https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf"
-        }
-      ],
-      "duration_ms": 162786,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/3XPBfi63GPgii2rfHLcBN7"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "Another Touch",
         "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 225301,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3ht2v0Rc9q1RP80wr6zsPi"
+      },
+      "artists": [
+        {
+          "name": "ALSO ASTIR",
+          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
+        },
+        {
+          "name": "Alessandro Martire",
+          "url": "https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf"
+        }
+      ],
+      "duration_ms": 162786,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3XPBfi63GPgii2rfHLcBN7"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1919,22 +1919,22 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Loveless (George FitzGerald Remix)",
-        "url": "https://open.spotify.com/album/2UO2UtgxrTozLMUrKOTc2E"
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
       },
       "artists": [
         {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
         },
         {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
         }
       ],
-      "duration_ms": 217298,
-      "name": "Loveless - George FitzGerald Remix",
-      "url": "https://open.spotify.com/track/0zng0Xfmmx2RWykbd0s7Zx"
+      "duration_ms": 251303,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
     }
   ],
   "unique_name": "Chill Tracks",

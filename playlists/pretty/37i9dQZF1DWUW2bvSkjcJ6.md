@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Tyla, Wincent Weiss, Dardan,  Selena Gomez und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,009 likes - 86 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,948 likes - 86 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 37 | [Flügel](https://open.spotify.com/track/07CSj6KCASPztkMp7oyFyX) | [MARNELE](https://open.spotify.com/artist/0IYqTMlpmVrLsnpyHyvbxv), [9inebro](https://open.spotify.com/artist/47YlbKJ9aZM3HVa0lUXHZ0) | [Flügel](https://open.spotify.com/album/25JimCbEnpXhLzOhp7An28) | 2:04 |
 | 38 | [Cross The Border](https://open.spotify.com/track/2KeQTVVUHRvr8blyxs7mbp) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [Cross The Border](https://open.spotify.com/album/1H1HjCXCaFZJMRyOUSXboS) | 4:42 |
 | 39 | [Private](https://open.spotify.com/track/1735xgk2J8CHCGY2LS1HM6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Private](https://open.spotify.com/album/3ZHB2EDswWPDigqKXI59CL) | 3:49 |
-| 40 | [Holy Atlantis](https://open.spotify.com/track/7u2FjJcKrJOcfiR10vnxSn) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Netherworld](https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF) | [Holy Atlantis](https://open.spotify.com/album/6FbfMrCx8r37hzH0HbdFLZ) | 1:56 |
+| 40 | [Holy Atlantis](https://open.spotify.com/track/7u2FjJcKrJOcfiR10vnxSn) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Netherworld](https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF) | [Holy Atlantis](https://open.spotify.com/album/6FbfMrCx8r37hzH0HbdFLZ) | 1:56 |
 | 41 | [Hips Don't Lie \- Spotify Anniversary Version](https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:28 |
 | 42 | [IHR MÖCHTEGERN](https://open.spotify.com/track/6M1SZZHz3FRPFQlrCotp7G) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Schwesta Ewa](https://open.spotify.com/artist/7jDSMakHqXFe8kIaXfz8jD) | [IHR MÖCHTEGERN](https://open.spotify.com/album/6ygqkJXeFxSTMM1FXK15CA) | 2:23 |
 | 43 | [Push](https://open.spotify.com/track/3AR9Sugs4aT9ySDW0HxCE1) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Push](https://open.spotify.com/album/2wH2XtlNwmJ7PXhkS95046) | 3:08 |

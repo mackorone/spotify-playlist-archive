@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Tensnake, Gerd Janson
 
-6,028 songs - 20 day 22 hr 16 min
+6,029 songs - 20 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4653,6 +4653,7 @@
 | [Simulator](https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Simulator](https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ) | 3:40 | 2023-04-20 | 2023-05-12 |
 | [Sinai Ray](https://open.spotify.com/track/4A3ri9SFKKgv5ydmHMAbhQ) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Sinai Ray](https://open.spotify.com/album/5KpoV1UIqmmkVAkZjG4SGs) | 3:49 | 2025-08-28 | 2025-09-19 |
 | [Since 94](https://open.spotify.com/track/6h5wIi5Gi9qAZgnAIHI4bv) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Since 94](https://open.spotify.com/album/5M6NyOFCdJZA83Ty9IJROy) | 5:31 | 2023-06-30 | 2023-07-21 |
+| [Sincerity \(a piece right of your soul\)](https://open.spotify.com/track/6e64yRHmi5RxOg69aYhq5r) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Sincerity \(a piece right of your soul\)](https://open.spotify.com/album/6FuzCc1EcjCIsCOJwuJrVo) | 4:45 | 2025-10-23 |  |
 | [Sinfo](https://open.spotify.com/track/7I6WfQpbPrmP4e7kagEsfI) | [Leo Leonski](https://open.spotify.com/artist/2Q4xYVGbSIQoC7rqSA6Huo) | [Sinfo](https://open.spotify.com/album/2MP3nwS1gjt3saNcCtPY5Y) | 5:29 | 2024-12-19 | 2025-01-24 |
 | [Sing Another Song](https://open.spotify.com/track/7trroykaG1YZDvM20Jwh5O) | [Ramiro Lopez](https://open.spotify.com/artist/3jYkj7h3rgKs5irWBPxjrr), [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB) | [Sing Another Song](https://open.spotify.com/album/23Su94sdXCV5QVIW2Bud1n) | 4:46 | 2022-10-20 | 2022-11-04 |
 | [Singularity \- Radio\-Edit](https://open.spotify.com/track/0FGNjtP8b0UBKcCBiiQ6p7) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK), [VEENMOL](https://open.spotify.com/artist/6GRjb9Ki4EMI6WxeWbvBCa) | [Singularity \(Radio\-Edit\)](https://open.spotify.com/album/6BHicuQI7BCeUkceKsejK0) | 4:07 | 2024-11-21 | 2024-12-13 |

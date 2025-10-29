@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 84323,
+  "num_followers": 84338,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,26 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
+        "name": "Machinegeweer",
+        "url": "https://open.spotify.com/album/3h2VwcTDQIcrALoDxxJYb4"
+      },
+      "artists": [
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "Sjaak",
+          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
+        }
+      ],
+      "duration_ms": 141831,
+      "name": "Machinegeweer",
+      "url": "https://open.spotify.com/track/4iYjA2bBL5PkdfkW2m6w5S"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
         "name": "De Laatste (De Nachtbrakers Remix)",
         "url": "https://open.spotify.com/album/5p8PEyTaHYcWCrYM9JbYOz"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 160000,
       "name": "De Laatste - De Nachtbrakers Remix",
       "url": "https://open.spotify.com/track/75zPlFNjN0P92jD67UMIU2"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
-        "name": "Machinegeweer",
-        "url": "https://open.spotify.com/album/3h2VwcTDQIcrALoDxxJYb4"
-      },
-      "artists": [
-        {
-          "name": "Jebroer",
-          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
-        },
-        {
-          "name": "Sjaak",
-          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
-        }
-      ],
-      "duration_ms": 141831,
-      "name": "Machinegeweer",
-      "url": "https://open.spotify.com/track/4iYjA2bBL5PkdfkW2m6w5S"
     },
     {
       "added_at": "2025-10-21 11:57:23",

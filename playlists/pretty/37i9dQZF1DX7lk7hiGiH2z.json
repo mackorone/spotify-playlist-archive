@@ -1,6 +1,6 @@
 {
   "description": "S\u00fc\u00dfes sonst gibt's Saures! \ud83c\udf83",
-  "num_followers": 55453,
+  "num_followers": 55629,
   "original_name": "Familienzeit: Halloween",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-10-22 17:26:09",
       "album": {
+        "name": "Unter meinem Bett 4",
+        "url": "https://open.spotify.com/album/6urz9b8HGTbqHBYOejq7c4"
+      },
+      "artists": [
+        {
+          "name": "Dota Kehr",
+          "url": "https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Monster & Drachen",
+      "url": "https://open.spotify.com/track/5dWlVr7ZsSosxpoZO2KiHT"
+    },
+    {
+      "added_at": "2025-10-22 17:26:09",
+      "album": {
         "name": "Der haarige Kobold",
         "url": "https://open.spotify.com/album/0Ie5t9xq6DH5yaYw9V3JC2"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 215813,
       "name": "Der haarige Kobold",
       "url": "https://open.spotify.com/track/2XE8wyKC44cWX0G3HmXlmh"
-    },
-    {
-      "added_at": "2025-10-22 17:26:09",
-      "album": {
-        "name": "Unter meinem Bett 4",
-        "url": "https://open.spotify.com/album/6urz9b8HGTbqHBYOejq7c4"
-      },
-      "artists": [
-        {
-          "name": "Dota Kehr",
-          "url": "https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga"
-        }
-      ],
-      "duration_ms": 224986,
-      "name": "Monster & Drachen",
-      "url": "https://open.spotify.com/track/5dWlVr7ZsSosxpoZO2KiHT"
     },
     {
       "added_at": "2025-10-22 17:26:09",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-10-22 17:26:09",
       "album": {
-        "name": "Schaurig-sch\u00f6nes Halloween",
-        "url": "https://open.spotify.com/album/1gGxM8Hy5yywiKO0j3swm5"
-      },
-      "artists": [
-        {
-          "name": "Detlev J\u00f6cker",
-          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
-        }
-      ],
-      "duration_ms": 161760,
-      "name": "Monster Boogie Woogie",
-      "url": "https://open.spotify.com/track/3TVghEo6lj1bcWnfniBlTi"
-    },
-    {
-      "added_at": "2025-10-22 17:26:09",
-      "album": {
         "name": "ertappt",
         "url": "https://open.spotify.com/album/1PGo84U9SPdOiHJVTlgciU"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 150093,
       "name": "Monsterparty",
       "url": "https://open.spotify.com/track/0EBbhEhkxnz4Wvy7A5RP2c"
+    },
+    {
+      "added_at": "2025-10-22 17:26:09",
+      "album": {
+        "name": "Schaurig-sch\u00f6nes Halloween",
+        "url": "https://open.spotify.com/album/1gGxM8Hy5yywiKO0j3swm5"
+      },
+      "artists": [
+        {
+          "name": "Detlev J\u00f6cker",
+          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
+        }
+      ],
+      "duration_ms": 161760,
+      "name": "Monster Boogie Woogie",
+      "url": "https://open.spotify.com/track/3TVghEo6lj1bcWnfniBlTi"
     },
     {
       "added_at": "2025-10-22 17:26:09",
@@ -903,8 +903,8 @@
     {
       "added_at": "2025-10-22 17:26:09",
       "album": {
-        "name": "Kinderlieder f\u00fcr die Party - EP",
-        "url": "https://open.spotify.com/album/1Axi7PGr2v3JLEHHkoLAK7"
+        "name": "Meine Lieblingskinderlieder f\u00fcr Halloween",
+        "url": "https://open.spotify.com/album/1NgmH5DfPZSHFPfzmbLZji"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 130699,
-      "name": "Monsterparty",
-      "url": "https://open.spotify.com/track/43fpx6UumXkrClViE5kfrV"
+      "duration_ms": 164375,
+      "name": "S\u00fc\u00dfes, sonst gibt's Saures",
+      "url": "https://open.spotify.com/track/54zJZ4DNIccdsYjwxtjO2B"
     },
     {
       "added_at": "2025-10-22 17:26:09",
@@ -987,8 +987,8 @@
     {
       "added_at": "2025-10-22 17:26:09",
       "album": {
-        "name": "Meine Lieblingskinderlieder f\u00fcr Halloween",
-        "url": "https://open.spotify.com/album/1NgmH5DfPZSHFPfzmbLZji"
+        "name": "Kinderlieder f\u00fcr die Party - EP",
+        "url": "https://open.spotify.com/album/1Axi7PGr2v3JLEHHkoLAK7"
       },
       "artists": [
         {
@@ -996,41 +996,9 @@
           "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 164375,
-      "name": "S\u00fc\u00dfes, sonst gibt's Saures",
-      "url": "https://open.spotify.com/track/54zJZ4DNIccdsYjwxtjO2B"
-    },
-    {
-      "added_at": "2025-10-22 17:26:09",
-      "album": {
-        "name": "Monsterquatsch und Wackelz\u00e4hne",
-        "url": "https://open.spotify.com/album/4bE9UWQnSHZNN8xfAbSjvE"
-      },
-      "artists": [
-        {
-          "name": "Lila Lindwurm",
-          "url": "https://open.spotify.com/artist/0PFXbbuM2IbvroXt2nGDoj"
-        }
-      ],
-      "duration_ms": 170240,
-      "name": "Monstertanz",
-      "url": "https://open.spotify.com/track/1f7uRXBYPTZlq4uReNhFkY"
-    },
-    {
-      "added_at": "2025-10-22 17:26:09",
-      "album": {
-        "name": "Und die Traummonster (Das Liederalbum zum Kinofilm)",
-        "url": "https://open.spotify.com/album/5rOYhAMUVFcoQSSRvhzEGe"
-      },
-      "artists": [
-        {
-          "name": "Lauras Stern",
-          "url": "https://open.spotify.com/artist/0xY8w0o3cSH3gzx4G4h8qD"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "Monster sind furchtbar",
-      "url": "https://open.spotify.com/track/0hjaUOYr74luB7uhEVswQ9"
+      "duration_ms": 130699,
+      "name": "Monsterparty",
+      "url": "https://open.spotify.com/track/43fpx6UumXkrClViE5kfrV"
     },
     {
       "added_at": "2025-10-22 17:26:09",
@@ -1075,6 +1043,38 @@
       "duration_ms": 173600,
       "name": "Klapprige Knochen",
       "url": "https://open.spotify.com/track/7s7HHMpOqIklT2QAS1Kyyc"
+    },
+    {
+      "added_at": "2025-10-22 17:26:09",
+      "album": {
+        "name": "Und die Traummonster (Das Liederalbum zum Kinofilm)",
+        "url": "https://open.spotify.com/album/5rOYhAMUVFcoQSSRvhzEGe"
+      },
+      "artists": [
+        {
+          "name": "Lauras Stern",
+          "url": "https://open.spotify.com/artist/0xY8w0o3cSH3gzx4G4h8qD"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "Monster sind furchtbar",
+      "url": "https://open.spotify.com/track/0hjaUOYr74luB7uhEVswQ9"
+    },
+    {
+      "added_at": "2025-10-22 17:26:09",
+      "album": {
+        "name": "Monsterquatsch und Wackelz\u00e4hne",
+        "url": "https://open.spotify.com/album/4bE9UWQnSHZNN8xfAbSjvE"
+      },
+      "artists": [
+        {
+          "name": "Lila Lindwurm",
+          "url": "https://open.spotify.com/artist/0PFXbbuM2IbvroXt2nGDoj"
+        }
+      ],
+      "duration_ms": 170240,
+      "name": "Monstertanz",
+      "url": "https://open.spotify.com/track/1f7uRXBYPTZlq4uReNhFkY"
     },
     {
       "added_at": "2025-10-22 17:26:09",

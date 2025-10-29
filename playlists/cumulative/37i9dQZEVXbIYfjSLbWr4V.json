@@ -408,7 +408,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 102631,
       "name": "AGENT-PROVOCATEUR",
       "url": "https://open.spotify.com/track/7BgRKxGurY7Kds8X74mD88"
@@ -5868,7 +5868,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 144624,
       "name": "Rebirth (Intro)",
       "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
@@ -6404,7 +6404,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-28",
+      "date_removed": null,
       "duration_ms": 188399,
       "name": "Slow Dance (feat. Sofia Carson)",
       "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
@@ -8294,7 +8294,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 199284,
       "name": "\u0411\u0430\u043d\u043a\u043e\u043c\u0430\u0442",
       "url": "https://open.spotify.com/track/3rGOoMEEIBonQBGOX48yjB"
@@ -8562,7 +8562,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 88093,
       "name": "\u0431\u043e\u043b\u0435\u043d",
       "url": "https://open.spotify.com/track/4HiXhD2daY4ca5nr977V4e"
@@ -8908,7 +8908,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 80317,
       "name": "\u0432\u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0435",
       "url": "https://open.spotify.com/track/2fB2YDOyz71vTvE4FxfuST"
@@ -10574,13 +10574,13 @@
       },
       "artists": [
         {
-          "name": "\u041f\u041e\u041b\u041c\u0410\u0422\u0415\u0420\u0418",
-          "url": "https://open.spotify.com/artist/3NDasZQ8ZbOssdAPNkZgW1"
+          "name": "\u043f\u043b\u043c",
+          "url": "https://open.spotify.com/artist/2QGVa5v5FvgZGAUCqpXnqx"
         }
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-28",
+      "date_removed": null,
       "duration_ms": 122033,
       "name": "\u043a\u0445\u043c-\u043a\u0445\u043c",
       "url": "https://open.spotify.com/track/0wJ36WwGpJAf40q4Mq95NK"
@@ -12606,7 +12606,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 162526,
       "name": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u041b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
@@ -13228,6 +13228,24 @@
       "duration_ms": 147121,
       "name": "\u0420\u044d\u043f\u0443\u044e",
       "url": "https://open.spotify.com/track/09XF0LbRISAFPtcHgfjfdQ"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0430\u0439\u0442",
+        "url": "https://open.spotify.com/album/4zCiZdq8FJelVaVmT4vXio"
+      },
+      "artists": [
+        {
+          "name": "\u0420\u0430\u043a\u043e\u0432\u0430\u044f \u0412\u044b\u0445\u0443\u0445\u043e\u043b\u044c",
+          "url": "https://open.spotify.com/artist/7y6TkCfv1kEBd6YmloUGLK"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145047,
+      "name": "\u0421\u0430\u0439\u0442",
+      "url": "https://open.spotify.com/track/695k3xSxwunkal37drPMkV"
     },
     {
       "album": {
@@ -15046,7 +15064,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 133475,
       "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV"

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Wax Motif
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,265 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,270 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Run It Up \(feat\. 24Hrs\)](https://open.spotify.com/track/4vCfipe9rh9mJ5aj0tL22x) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Run It Up \(feat\. 24Hrs\)](https://open.spotify.com/album/7pkL6AKMkRxZxavskhAbdf) | 4:42 |
 | 2 | [Think About Us](https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Think About Us](https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V) | 2:58 |
 | 3 | [Put Your Bassline](https://open.spotify.com/track/3IwC6rhjOfEdswlSV6RvzX) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Put Your Bassline](https://open.spotify.com/album/4NOx87J66hA6p5l2t8iyin) | 2:31 |
-| 4 | [BRUK DOWN](https://open.spotify.com/track/6seStQ8B2Bx2Gnis7LF3cr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BRUK DOWN](https://open.spotify.com/album/0BirKooSEo10AItZLSquFo) | 2:45 |
+| 4 | [BRUK DOWN](https://open.spotify.com/track/6seStQ8B2Bx2Gnis7LF3cr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO) | [BRUK DOWN](https://open.spotify.com/album/0BirKooSEo10AItZLSquFo) | 2:45 |
 | 5 | [Destiny](https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Destiny](https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p) | 2:50 |
 | 6 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 |
 | 7 | [ROUND N' ROUND](https://open.spotify.com/track/0zF3Pi5MWidZ9CKIqbIbPj) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq), [SVDKO](https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt) | [ROUND N' ROUND](https://open.spotify.com/album/2hrOqwmVukAmrKbcXtVb2K) | 2:17 |

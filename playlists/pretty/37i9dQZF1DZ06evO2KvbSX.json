@@ -1,12 +1,12 @@
 {
   "description": "This is Lewis Capaldi. The essential tracks, all in one playlist.",
-  "num_followers": 795289,
+  "num_followers": 795390,
   "original_name": "This Is Lewis Capaldi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP1kgAAAAAA/fsOsJP9ASeEPgXHWqvJG",
+  "snapshot_id": "aP62AAAAAAALpOoIjYjKa1bDCevtIu/w",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tough",
-        "url": "https://open.spotify.com/album/0PDuUFWUxyM329z0JnT8GT"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 229282,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/3XXGqZX50zbGqSOup74UH2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Tell The Truth I Can't Believe We Got This Far EP",
         "url": "https://open.spotify.com/album/3m5tsdLE4yPub7Um77Bobi"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 228029,
       "name": "Shallow - BBC Radio 1 Live Lounge",
       "url": "https://open.spotify.com/track/7y2M7zBxC6g8zmkhUvfy7C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/0PDuUFWUxyM329z0JnT8GT"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 229282,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/3XXGqZX50zbGqSOup74UH2"
     },
     {
       "added_at": null,

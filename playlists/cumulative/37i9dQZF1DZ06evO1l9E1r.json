@@ -102,12 +102,12 @@
       },
       "artists": [
         {
-          "name": "Yair Elazar Glotman",
-          "url": "https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B"
-        },
-        {
           "name": "J\u00f3hann J\u00f3hannsson",
           "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Yair Elazar Glotman",
+          "url": "https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B"
         },
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-28",
+      "date_removed": null,
       "duration_ms": 298106,
       "name": "Leaving Home",
       "url": "https://open.spotify.com/track/40D2vS5fPUfudDmYp95Bv8"
@@ -1676,12 +1676,12 @@
       },
       "artists": [
         {
-          "name": "Yair Elazar Glotman",
-          "url": "https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B"
-        },
-        {
           "name": "J\u00f3hann J\u00f3hannsson",
           "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Yair Elazar Glotman",
+          "url": "https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B"
         },
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 121760,
       "name": "Ravine",
       "url": "https://open.spotify.com/track/6AqDWGmP2cZrP0HlF9OWw0"
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 154932,
       "name": "Remembrance of the Past",
       "url": "https://open.spotify.com/track/09kl55xpjRoPksMrDEVWrs"
@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-09",
+      "date_removed": null,
       "duration_ms": 196888,
       "name": "Speak Up",
       "url": "https://open.spotify.com/track/7J1u0DibcEonQFcZukC8XH"

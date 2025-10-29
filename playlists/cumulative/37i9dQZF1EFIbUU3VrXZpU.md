@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZdaKEG7LCXZGLiHuZuJgZ">Missy Elliott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-419 songs - 1 day 3 hr 6 min
+421 songs - 1 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Don't Be Cruel \(feat\. Monica and Beenie Man\)](https://open.spotify.com/track/6MfvrLzrdXUlWJo7QInDXr) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [This Is Not a Test!](https://open.spotify.com/album/4ffXByMAjLpd25ZyzEJNMK) | 4:33 | 2023-12-30 |  |
 | [Don't Judge Me \(feat\. Missy Elliott\)](https://open.spotify.com/track/4QtMuE4AzKhwczUD5cs0qc) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 3:23 | 2023-12-30 |  |
 | [Don't Rush](https://open.spotify.com/track/0ytIn8MgHzZQICJENdRnB4) | [Tha Truth](https://open.spotify.com/artist/5joIIsd003Rsj4sLLxXG4A) | [Makin' Moves Everyday](https://open.spotify.com/album/4lwxGGIjVVy0PJxUSUfmwk) | 4:49 | 2023-12-30 |  |
-| [Dream Big](https://open.spotify.com/track/73dHsSgwFEXMLRDHQ23YCn) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/6YW49fCw3Ig7ZWRKCgP4hv) | 3:35 | 2023-12-30 |  |
+| [Dream Big](https://open.spotify.com/track/2rzDsKMRQtJTuM7srZMCHB) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/7diGUdG0sGckhfAM4lzeJ2) | 3:35 | 2025-10-28 |  |
+| [Dream Big](https://open.spotify.com/track/73dHsSgwFEXMLRDHQ23YCn) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/6YW49fCw3Ig7ZWRKCgP4hv) | 3:35 | 2023-12-30 | 2025-10-29 |
 | [DripDemeanor \(feat\. Sum1\)](https://open.spotify.com/track/0KMlcFVm2XJK2UdPZv5mEW) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Sum1](https://open.spotify.com/artist/2ggLigkDPs42gA1SWSqdoJ) | [DripDemeanor \(feat\. Sum1\)](https://open.spotify.com/album/4rCkpG9ungXXQVazS58SS4) | 3:52 | 2023-12-30 |  |
 | [Everything To Me](https://open.spotify.com/track/4ZOkuIDN8wRczzu1XUYC4y) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Still Standing](https://open.spotify.com/album/74q6SppUb5vWXAltV7B6bA) | 3:16 | 2023-12-30 |  |
 | [Excuse Me](https://open.spotify.com/track/6kShQttNUGkLPDH8cVM84S) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Love Me Back](https://open.spotify.com/album/4FcJwv9ebTXeMuTX1HkK4q) | 3:33 | 2023-12-30 |  |
@@ -263,7 +264,8 @@
 | [NAILS \(feat\. Missy Elliott\)](https://open.spotify.com/track/318MngwqDyMYOzhDcZkUoq) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [NAILS \(feat\. Missy Elliott\)](https://open.spotify.com/album/250tsczCTKdauTN2QJgak4) | 2:51 | 2023-12-30 |  |
 | [Name Ring Bell](https://open.spotify.com/track/63XL3zq0ygCIpcsTmNLLM7) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:08 | 2023-12-30 |  |
 | [Nappy Dugout](https://open.spotify.com/track/7ywGr9MjwmCquZSpa8QodH) | [Blaque](https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ) | [Torch](https://open.spotify.com/album/56W9TJvPDvdPIUggDOGLpu) | 4:00 | 2023-12-30 |  |
-| [Need U Bad](https://open.spotify.com/track/7FwTn0LZZunjRl9Edp57sl) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/6YW49fCw3Ig7ZWRKCgP4hv) | 4:17 | 2023-12-30 |  |
+| [Need U Bad](https://open.spotify.com/track/6JuYYaUXxQQ6z1DV1flgbv) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/7diGUdG0sGckhfAM4lzeJ2) | 4:17 | 2025-10-28 |  |
+| [Need U Bad](https://open.spotify.com/track/7FwTn0LZZunjRl9Edp57sl) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/6YW49fCw3Ig7ZWRKCgP4hv) | 4:17 | 2023-12-30 | 2025-10-29 |
 | [Nervous \(feat\. Lil' Mo\)](https://open.spotify.com/track/1GyoSF4fsmkqXoZHeVAAWq) | [Nicole](https://open.spotify.com/artist/02Vzu6zYysODN6Sxpxoiae) | [Make It Hot](https://open.spotify.com/album/2V21srAwsTtnrZeXv6qQPy) | 3:51 | 2023-12-30 |  |
 | [Never Been](https://open.spotify.com/track/2NHbzIx2KxS54d6BJkXka4) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:03 | 2023-12-30 |  |
 | [NILIRIA \- Missy Elliott Version](https://open.spotify.com/track/1fZGJrxPq82zcHVoYMntZt) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [COUP D'ETAT](https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4) | 2:52 | 2023-12-30 |  |

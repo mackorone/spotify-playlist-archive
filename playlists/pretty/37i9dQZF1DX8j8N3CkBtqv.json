@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring Shashwat Bulusu, Piyush Ambhore and other exciting artists.\n",
-  "num_followers": 98590,
+  "num_followers": 98588,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
-        "name": "Khud Ko Miloon",
-        "url": "https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29"
-      },
-      "artists": [
-        {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
-        }
-      ],
-      "duration_ms": 242714,
-      "name": "Tu Hai Kahan",
-      "url": "https://open.spotify.com/track/2sF7bZubVf0kbuhIaHPojW"
-    },
-    {
-      "added_at": "2025-10-10 07:59:03",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/53HV0iLl1zb4G9CKMZutv8"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 169646,
       "name": "Promises",
       "url": "https://open.spotify.com/track/1M8sf6fVgEgOY1vuEU0CoR"
+    },
+    {
+      "added_at": "2025-10-10 07:59:03",
+      "album": {
+        "name": "Khud Ko Miloon",
+        "url": "https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "duration_ms": 242714,
+      "name": "Tu Hai Kahan",
+      "url": "https://open.spotify.com/track/2sF7bZubVf0kbuhIaHPojW"
     },
     {
       "added_at": "2025-10-17 00:54:13",
@@ -531,18 +531,26 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
-        "name": "Khud Ko Miloon",
-        "url": "https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29"
+        "name": "Ehsaas",
+        "url": "https://open.spotify.com/album/0GgmwDtmhM5633rM5cvbsF"
       },
       "artists": [
         {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        },
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Priyanshi Bansal",
+          "url": "https://open.spotify.com/artist/3JvfRFna73N7YPwdMVW0cN"
         }
       ],
-      "duration_ms": 213724,
-      "name": "Jee Le",
-      "url": "https://open.spotify.com/track/1lnqjp37JJOHsrjCCJ3UJy"
+      "duration_ms": 174275,
+      "name": "Achha Lagta Hai",
+      "url": "https://open.spotify.com/track/6Fk9iNxw9ktkNncyb7PjwH"
     },
     {
       "added_at": "2025-10-10 07:59:03",
@@ -577,6 +585,38 @@
       "url": "https://open.spotify.com/track/3xbEEIT1Nt6sjOCekNBjeV"
     },
     {
+      "added_at": "2025-10-17 00:54:13",
+      "album": {
+        "name": "Main Na Raha",
+        "url": "https://open.spotify.com/album/4G1nVsik96niFdvh7WiXmA"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        }
+      ],
+      "duration_ms": 272141,
+      "name": "Main Na Raha",
+      "url": "https://open.spotify.com/track/2ruXIFfx8OI7uXnzC8Mkc5"
+    },
+    {
+      "added_at": "2025-10-10 07:59:03",
+      "album": {
+        "name": "Khud Ko Miloon",
+        "url": "https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "duration_ms": 213724,
+      "name": "Jee Le",
+      "url": "https://open.spotify.com/track/1lnqjp37JJOHsrjCCJ3UJy"
+    },
+    {
       "added_at": "2025-10-10 07:59:03",
       "album": {
         "name": "Adhoora",
@@ -599,42 +639,18 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
-        "name": "Ehsaas",
-        "url": "https://open.spotify.com/album/0GgmwDtmhM5633rM5cvbsF"
+        "name": "Marammat",
+        "url": "https://open.spotify.com/album/4QIFTipmqIvkyihm5jrVKF"
       },
       "artists": [
         {
-          "name": "Divyam Sodhi",
-          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
-        },
-        {
-          "name": "Khwaab",
-          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
-        },
-        {
-          "name": "Priyanshi Bansal",
-          "url": "https://open.spotify.com/artist/3JvfRFna73N7YPwdMVW0cN"
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
         }
       ],
-      "duration_ms": 174275,
-      "name": "Achha Lagta Hai",
-      "url": "https://open.spotify.com/track/6Fk9iNxw9ktkNncyb7PjwH"
-    },
-    {
-      "added_at": "2025-10-17 00:54:13",
-      "album": {
-        "name": "Main Na Raha",
-        "url": "https://open.spotify.com/album/4G1nVsik96niFdvh7WiXmA"
-      },
-      "artists": [
-        {
-          "name": "Parth Srivastava",
-          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
-        }
-      ],
-      "duration_ms": 272141,
-      "name": "Main Na Raha",
-      "url": "https://open.spotify.com/track/2ruXIFfx8OI7uXnzC8Mkc5"
+      "duration_ms": 196958,
+      "name": "Marammat",
+      "url": "https://open.spotify.com/track/6fHNMaNAoP9D9KVp30CtGL"
     },
     {
       "added_at": "2025-10-10 07:59:03",
@@ -655,26 +671,6 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
-        "name": "pocket friendly: volume i",
-        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
-      },
-      "artists": [
-        {
-          "name": "sudan",
-          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
-        },
-        {
-          "name": "Tejas",
-          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
-        }
-      ],
-      "duration_ms": 167250,
-      "name": "a hiatus",
-      "url": "https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E"
-    },
-    {
-      "added_at": "2025-10-10 07:59:03",
-      "album": {
         "name": "Chaand",
         "url": "https://open.spotify.com/album/1bY2HK0xaFWGf31hCtcUiW"
       },
@@ -691,18 +687,22 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
-        "name": "Marammat",
-        "url": "https://open.spotify.com/album/4QIFTipmqIvkyihm5jrVKF"
+        "name": "pocket friendly: volume i",
+        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
       },
       "artists": [
         {
-          "name": "NAALAYAK",
-          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
+        },
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
         }
       ],
-      "duration_ms": 196958,
-      "name": "Marammat",
-      "url": "https://open.spotify.com/track/6fHNMaNAoP9D9KVp30CtGL"
+      "duration_ms": 167250,
+      "name": "a hiatus",
+      "url": "https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E"
     },
     {
       "added_at": "2025-10-10 07:59:03",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/0emdpRC3rftireFUN9c00x"
     },
     {
-      "added_at": "2025-10-17 00:54:13",
-      "album": {
-        "name": "Love or a Lesson",
-        "url": "https://open.spotify.com/album/6SCtFFbWiWMgbq2zJsPelB"
-      },
-      "artists": [
-        {
-          "name": "Mary Ann Alexander",
-          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
-        }
-      ],
-      "duration_ms": 135929,
-      "name": "Love or a Lesson",
-      "url": "https://open.spotify.com/track/0SmgJN5AfKvvl0A32SrAd0"
-    },
-    {
       "added_at": "2025-10-10 07:59:03",
       "album": {
         "name": "Rukna Nahin Hai",
@@ -831,6 +815,22 @@
       "duration_ms": 243298,
       "name": "Rukna Nahin Hai",
       "url": "https://open.spotify.com/track/3zIZTlSNeoFxR2JJh2Sc7a"
+    },
+    {
+      "added_at": "2025-10-17 00:54:13",
+      "album": {
+        "name": "Love or a Lesson",
+        "url": "https://open.spotify.com/album/6SCtFFbWiWMgbq2zJsPelB"
+      },
+      "artists": [
+        {
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
+        }
+      ],
+      "duration_ms": 135929,
+      "name": "Love or a Lesson",
+      "url": "https://open.spotify.com/track/0SmgJN5AfKvvl0A32SrAd0"
     },
     {
       "added_at": "2025-10-10 07:59:03",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
+        "name": "Jaane Do Mujhe",
+        "url": "https://open.spotify.com/album/5hKv5HdcDLIvWnrAzLVelE"
+      },
+      "artists": [
+        {
+          "name": "Ashu Shukla",
+          "url": "https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1"
+        }
+      ],
+      "duration_ms": 225416,
+      "name": "Jaane Do Mujhe",
+      "url": "https://open.spotify.com/track/5ObqmgGmM3qcLr2Ke5FtT4"
+    },
+    {
+      "added_at": "2025-10-10 07:59:03",
+      "album": {
         "name": "Manmarziyaan",
         "url": "https://open.spotify.com/album/3w5CUX5d46167fkjxLrJOD"
       },
@@ -867,26 +883,6 @@
       "duration_ms": 199285,
       "name": "Manmarziyaan",
       "url": "https://open.spotify.com/track/6p6uc8Y7NiWolmbbxxJDNM"
-    },
-    {
-      "added_at": "2025-10-10 07:59:03",
-      "album": {
-        "name": "I\u2019m Done.",
-        "url": "https://open.spotify.com/album/63D8vNTMTe5xJ2QXXqg0hT"
-      },
-      "artists": [
-        {
-          "name": "Maan Panu",
-          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
-        },
-        {
-          "name": "Mazaak",
-          "url": "https://open.spotify.com/artist/01qn9kID2owHtQLAjKnQuz"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "I\u2019m Done.",
-      "url": "https://open.spotify.com/track/7F9ZukSREowSoIQ2tB6HAm"
     },
     {
       "added_at": "2025-10-10 07:59:03",
@@ -907,18 +903,22 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
-        "name": "Jaane Do Mujhe",
-        "url": "https://open.spotify.com/album/5hKv5HdcDLIvWnrAzLVelE"
+        "name": "I\u2019m Done.",
+        "url": "https://open.spotify.com/album/63D8vNTMTe5xJ2QXXqg0hT"
       },
       "artists": [
         {
-          "name": "Ashu Shukla",
-          "url": "https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1"
+          "name": "Maan Panu",
+          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
+        },
+        {
+          "name": "Mazaak",
+          "url": "https://open.spotify.com/artist/01qn9kID2owHtQLAjKnQuz"
         }
       ],
-      "duration_ms": 225416,
-      "name": "Jaane Do Mujhe",
-      "url": "https://open.spotify.com/track/5ObqmgGmM3qcLr2Ke5FtT4"
+      "duration_ms": 148500,
+      "name": "I\u2019m Done.",
+      "url": "https://open.spotify.com/track/7F9ZukSREowSoIQ2tB6HAm"
     }
   ],
   "unique_name": "Naya Indiestan",

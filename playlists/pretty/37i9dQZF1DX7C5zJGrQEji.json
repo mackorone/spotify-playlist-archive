@@ -1,6 +1,6 @@
 {
   "description": "Tracks crediting NATURE support its conservation.",
-  "num_followers": 9951,
+  "num_followers": 9980,
   "original_name": "feat. NATURE",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,30 @@
     {
       "added_at": "2025-09-24 00:01:01",
       "album": {
+        "name": "Pending (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7nMnJbOpcPuQdP2rIRvWaC"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Anne M\u00fcller",
+          "url": "https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl"
+        }
+      ],
+      "duration_ms": 342400,
+      "name": "Pending (feat. NATURE)",
+      "url": "https://open.spotify.com/track/02CH0iKD7ME2F2pqOqiEaR"
+    },
+    {
+      "added_at": "2025-09-24 00:01:01",
+      "album": {
         "name": "All We Are (feat. NATURE)",
         "url": "https://open.spotify.com/album/7INNPDLpph0YxtMFsZFH9p"
       },
@@ -563,30 +587,6 @@
       "duration_ms": 150272,
       "name": "Naima (feat. NATURE)",
       "url": "https://open.spotify.com/track/1diMMU4dEjZad3i42ldDwN"
-    },
-    {
-      "added_at": "2025-09-24 00:01:01",
-      "album": {
-        "name": "Pending (feat. NATURE)",
-        "url": "https://open.spotify.com/album/7nMnJbOpcPuQdP2rIRvWaC"
-      },
-      "artists": [
-        {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Anne M\u00fcller",
-          "url": "https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl"
-        }
-      ],
-      "duration_ms": 342400,
-      "name": "Pending (feat. NATURE)",
-      "url": "https://open.spotify.com/track/02CH0iKD7ME2F2pqOqiEaR"
     },
     {
       "added_at": "2025-09-24 00:01:01",
@@ -831,22 +831,26 @@
     {
       "added_at": "2025-09-24 00:01:01",
       "album": {
-        "name": "Hot Dog on a Stick (feat. NATURE)",
-        "url": "https://open.spotify.com/album/6quHYanKkIKirUeoNWJ3ew"
+        "name": "Loved & Lost Reprise (feat. NATURE)",
+        "url": "https://open.spotify.com/album/1MNmWztxAHe91S9W2ocyaL"
       },
       "artists": [
         {
-          "name": "Quinn Christopherson",
-          "url": "https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j"
+          "name": "Peter Hall",
+          "url": "https://open.spotify.com/artist/19bzxsP2NNdd22wKEGhKIv"
+        },
+        {
+          "name": "Biophonica",
+          "url": "https://open.spotify.com/artist/1jgAKg29HhmZMWRGfjELQC"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 168260,
-      "name": "Hot Dog on a Stick (feat. NATURE)",
-      "url": "https://open.spotify.com/track/30Ebq0g8zqlTk074KyvfKh"
+      "duration_ms": 274822,
+      "name": "Loved & Lost Reprise (feat. NATURE)",
+      "url": "https://open.spotify.com/track/5uold1wGpiF1Fj2monmTVP"
     },
     {
       "added_at": "2025-09-24 00:01:01",
@@ -875,26 +879,22 @@
     {
       "added_at": "2025-09-24 00:01:01",
       "album": {
-        "name": "Loved & Lost Reprise (feat. NATURE)",
-        "url": "https://open.spotify.com/album/1MNmWztxAHe91S9W2ocyaL"
+        "name": "Hot Dog on a Stick (feat. NATURE)",
+        "url": "https://open.spotify.com/album/6quHYanKkIKirUeoNWJ3ew"
       },
       "artists": [
         {
-          "name": "Peter Hall",
-          "url": "https://open.spotify.com/artist/19bzxsP2NNdd22wKEGhKIv"
-        },
-        {
-          "name": "Biophonica",
-          "url": "https://open.spotify.com/artist/1jgAKg29HhmZMWRGfjELQC"
+          "name": "Quinn Christopherson",
+          "url": "https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 274822,
-      "name": "Loved & Lost Reprise (feat. NATURE)",
-      "url": "https://open.spotify.com/track/5uold1wGpiF1Fj2monmTVP"
+      "duration_ms": 168260,
+      "name": "Hot Dog on a Stick (feat. NATURE)",
+      "url": "https://open.spotify.com/track/30Ebq0g8zqlTk074KyvfKh"
     },
     {
       "added_at": "2025-09-24 00:01:01",

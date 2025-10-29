@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,682 songs - 4 day 5 hr 36 min
+1,683 songs - 4 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,7 @@
 | [Fundus](https://open.spotify.com/track/26qvM8BlLzF9jFsakQwtnx) | [TAIL](https://open.spotify.com/artist/5MdDqXrWH37mpmVqj04VE5) | [Fundus](https://open.spotify.com/album/7qsz4fWA9DyiqNqlze23Ym) | 2:43 | 2024-01-23 | 2024-01-31 |
 | [FUNK FUJIYAMA](https://open.spotify.com/track/3kYxbVz0vRMp2P5RV25Iyw) | [ASAKUSA JINTA](https://open.spotify.com/artist/4lE17OE2xMkQ7M9hZlH5nA) | [FUNK FUJIYAMA / Dontobushi](https://open.spotify.com/album/56dqj2GN17DYtS7gOyuHlq) | 4:05 | 2023-01-31 | 2023-02-15 |
 | [Funktion](https://open.spotify.com/track/3xqpCXPBgkQQctOygx8Epk) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [FIRST LIGHT](https://open.spotify.com/album/7HNFkK46GTSOsEZuKjm3zs) | 2:48 | 2023-02-21 | 2023-03-01 |
-| [Funky Lovely Girl](https://open.spotify.com/track/5tC5E4f9rjRgxsUpr4abHh) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Funky Lovely Girl](https://open.spotify.com/album/5Gqs19b1vhux4Y5tSS364z) | 3:45 | 2025-07-16 |  |
+| [Funky Lovely Girl](https://open.spotify.com/track/5tC5E4f9rjRgxsUpr4abHh) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Funky Lovely Girl](https://open.spotify.com/album/5Gqs19b1vhux4Y5tSS364z) | 3:45 | 2025-07-16 | 2025-10-29 |
 | [Furai](https://open.spotify.com/track/0JlDINY2QfgBGG1HYXeuyV) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Furai](https://open.spotify.com/album/4j0Zj8PZiRK5PL7MqFQA83) | 4:25 | 2023-02-21 | 2023-03-08 |
 | [Futari](https://open.spotify.com/track/5ULKxARl3sQRa9FjkPn9ey) | [カワサキケイ](https://open.spotify.com/artist/0zTen6WNnlPtho3KUkwOTX) | [Elephant](https://open.spotify.com/album/4L87Q0OnGLe89dfaY0ddix) | 3:30 | 2022-11-29 | 2022-12-07 |
 | [FUTURE STORY](https://open.spotify.com/track/3dvIrZ2i48eEE0OS9bQZgc) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy) | [FUTURE STORY](https://open.spotify.com/album/1xVNHk9hWTCM1yYoDwwIuN) | 2:44 | 2024-02-27 | 2024-03-06 |
@@ -948,6 +948,7 @@
 | [Sake Wo Nondemo Kami Niwa Narenai](https://open.spotify.com/track/5VJJUOxZXhYifWnr7oUSSs) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Rock Wa Gawaii](https://open.spotify.com/album/3CVU86j1QXprlZbLXpsBgu) | 2:07 | 2023-10-31 | 2023-11-22 |
 | [Saki e](https://open.spotify.com/track/77mbaz4zACMQYNxg0suF8h) | [RYUTO KASAHARA](https://open.spotify.com/artist/3jBsOn36WAeFeq0c7qt8Oz) | [Saki e](https://open.spotify.com/album/5r5gnTGKTzOY6IwZnGAFFs) | 4:10 | 2023-06-13 | 2023-07-05 |
 | [SALE!](https://open.spotify.com/track/4QQxh7OsmgeXWjAL7b5ILi) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [SALE!](https://open.spotify.com/album/0SitDiR7q5ER298q8L28GT) | 2:59 | 2024-10-16 | 2024-11-13 |
+| [SALT AND PEPPER](https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [SALT AND PEPPER](https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ) | 3:18 | 2025-10-24 |  |
 | [Samurai](https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal Your Heart](https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as) | 3:25 | 2023-12-05 | 2023-12-13 |
 | [samurai](https://open.spotify.com/track/7I8cqnhGcAvgGrZpQ9m0yC) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal your heart](https://open.spotify.com/album/7DMwYGYZLwTPLhgPibhEkq) | 3:25 | 2023-12-05 | 2023-12-07 |
 | [sanagi \- Organic](https://open.spotify.com/track/0YXudnnclq6LulcCn24dVN) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [sanagi \(Organic\)](https://open.spotify.com/album/7CaR17aaqTKRaSrVzHOK7m) | 3:41 | 2023-10-31 | 2023-11-02 |

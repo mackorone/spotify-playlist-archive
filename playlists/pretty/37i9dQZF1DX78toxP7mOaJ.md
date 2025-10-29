@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Liquid Mike
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,691 likes - 152 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,704 likes - 152 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

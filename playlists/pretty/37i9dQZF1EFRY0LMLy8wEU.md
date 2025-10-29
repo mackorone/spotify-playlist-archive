@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 39 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 39 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 23 | [Name Above All Names](https://open.spotify.com/track/5HBJZ3m9HX1aAwAlI2CZQD) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Olivia Stern](https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu) | [i've been meaning to say this...](https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL) | 4:59 |
 | 24 | [Yes Again](https://open.spotify.com/track/7gz3nNlcBgCEvlPZojRqDU) | [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Testament](https://open.spotify.com/album/22RIEnCy5vOAzbMTVNFpKg) | 5:58 |
 | 25 | [Look At What The Blood Has Done](https://open.spotify.com/track/1OOdR0H1l7fC1ynap0I42m) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [i've been meaning to say this...](https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL) | 5:50 |
-| 26 | [Christ And Christ Crucified \(Spontaneous\) \- Live](https://open.spotify.com/track/04hFX9fSewa7eBFZ9LtmLW) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 12:52 |
+| 26 | [Christ and Christ Crucified \(Spontaneous\) \- Live](https://open.spotify.com/track/4saVVi6OV9f2MtwzxD055P) | [MBL Worship](https://open.spotify.com/artist/4cSbFSuaWRrMexs7ywOZgO), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [MBL Moments 2](https://open.spotify.com/album/3698vZdjncbzQgIw0NTLJV) | 10:07 |
 | 27 | [No Orphans In Heaven \(Let It Be So On Earth\)](https://open.spotify.com/track/3zffhEA1Pf2wXz3sCJZ9fb) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [No Orphans In Heaven \(Let It Be So On Earth\)](https://open.spotify.com/album/0ZrAHRRR8NIaoXdXQ1G0ju) | 5:17 |
 | 28 | [Lost In Your Love \- Live](https://open.spotify.com/track/5sKovJKHO8vXmY6sXb2LMo) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Brett Lee Miller](https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 4:15 |
 | 29 | [Be Glorified \- Live](https://open.spotify.com/track/0a0hccemmo7qMCkxtXQdeg) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [All My Life \(Live\)](https://open.spotify.com/album/20OP3HTmQsK5iQCuiC2Sba) | 7:26 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 38 | [Empty Words](https://open.spotify.com/track/4UC5KqAFxGKLZWLI6YiCWm) | [Worship Center Music](https://open.spotify.com/artist/46df2ZIGYEvAR9fMn8lXWT) | [First Love \(Returning\. Communion\. Joy.\)](https://open.spotify.com/album/2vysXZJjiZZa4RXt12OhvU) | 6:08 |
 | 39 | [Jesus the Beloved](https://open.spotify.com/track/6F3qYlwI29KXV8ONsVfWpK) | [TON Piano](https://open.spotify.com/artist/6UZdfxjhzXPhX6V6RSIMsX) | [Jesus the Beloved](https://open.spotify.com/album/1qrjT2tDne3bCcKa1Idj50) | 5:50 |
 
-Snapshot ID: `AcAA6AAAAAAdlZ6nCjAFzw3p1bvhQWl0`
+Snapshot ID: `AcAGpgAAAAAeliYY/ivDyvdy9DHA+3BZ`

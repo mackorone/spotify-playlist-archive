@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 21912,
+  "num_followers": 21915,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP1kgAAAAAAQbnPm3wrJddz8SNZj30me",
+  "snapshot_id": "aP62AAAAAAAgp/87YJ3iOJdgiy+RwLPF",
   "tracks": [
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 138840,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/3XFCgzW3ZikK6wuajGQqMV"
+      "duration_ms": 197106,
+      "name": "Samba Geladio",
+      "url": "https://open.spotify.com/track/5ato8bqvBy7nR8eaG7lR3z"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 197106,
-      "name": "Samba Geladio",
-      "url": "https://open.spotify.com/track/5ato8bqvBy7nR8eaG7lR3z"
+      "duration_ms": 138840,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3XFCgzW3ZikK6wuajGQqMV"
     },
     {
       "added_at": null,
@@ -614,11 +614,15 @@
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 384266,
-      "name": "Goye Kur",
-      "url": "https://open.spotify.com/track/5rffixu4E5Ry8vcBZNSV2c"
+      "duration_ms": 498666,
+      "name": "Roucky (feat.Taj Mahal)",
+      "url": "https://open.spotify.com/track/0M8IIFrmeUonCdKb7WN9lm"
     },
     {
       "added_at": null,
@@ -662,15 +666,11 @@
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 498666,
-      "name": "Roucky (feat.Taj Mahal)",
-      "url": "https://open.spotify.com/track/0M8IIFrmeUonCdKb7WN9lm"
+      "duration_ms": 384266,
+      "name": "Goye Kur",
+      "url": "https://open.spotify.com/track/5rffixu4E5Ry8vcBZNSV2c"
     },
     {
       "added_at": null,

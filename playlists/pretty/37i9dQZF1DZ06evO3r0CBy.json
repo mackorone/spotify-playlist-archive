@@ -1,12 +1,12 @@
 {
   "description": "This is Rodr\u00edguez. The essential tracks, all in one playlist.",
-  "num_followers": 42814,
+  "num_followers": 42819,
   "original_name": "This Is Rodr\u00edguez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP1kgAAAAADBsbJIBDjkWOPNCGKpIGSU",
+  "snapshot_id": "aP62AAAAAADlOOLzXCGoMGLG0OKQfRvF",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/4Tu85opDpfmiM1owf2x6ML"
+        "name": "Rodriguez Rocks: Live In Australia",
+        "url": "https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 355218,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/4WAPTzwWBatGJtaC8qeHLK"
+      "duration_ms": 241348,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/4Fn8wZW99xxM9SJuKNWvJe"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rodriguez Rocks: Live In Australia",
-        "url": "https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0"
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/4Tu85opDpfmiM1owf2x6ML"
       },
       "artists": [
         {
@@ -244,57 +244,9 @@
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 241348,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/4Fn8wZW99xxM9SJuKNWvJe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Attacke",
-        "url": "https://open.spotify.com/album/1NTJot1TTlA1H3goKdzcrp"
-      },
-      "artists": [
-        {
-          "name": "Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
-        }
-      ],
-      "duration_ms": 230713,
-      "name": "Attacke",
-      "url": "https://open.spotify.com/track/45wHa5cP7fMRhA9iEtDBr9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cold Fact",
-        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
-      },
-      "artists": [
-        {
-          "name": "Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "Hate Street Dialogue",
-      "url": "https://open.spotify.com/track/3Y0iZyngvwiGF15eLRttN7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coming From Reality",
-        "url": "https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi"
-      },
-      "artists": [
-        {
-          "name": "Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
-        }
-      ],
-      "duration_ms": 124653,
-      "name": "Silver Words?",
-      "url": "https://open.spotify.com/track/6bJJZt7goGbiTChohY5D6z"
+      "duration_ms": 355218,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/4WAPTzwWBatGJtaC8qeHLK"
     },
     {
       "added_at": null,
@@ -340,9 +292,25 @@
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 201826,
-      "name": "To Whom It May Concern",
-      "url": "https://open.spotify.com/track/0BhwDEYXisE3bcWuV4BSk3"
+      "duration_ms": 124653,
+      "name": "Silver Words?",
+      "url": "https://open.spotify.com/track/6bJJZt7goGbiTChohY5D6z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Attacke",
+        "url": "https://open.spotify.com/album/1NTJot1TTlA1H3goKdzcrp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 230713,
+      "name": "Attacke",
+      "url": "https://open.spotify.com/track/45wHa5cP7fMRhA9iEtDBr9"
     },
     {
       "added_at": null,
@@ -359,6 +327,38 @@
       "duration_ms": 152444,
       "name": "Learnin' the Blues",
       "url": "https://open.spotify.com/track/29bfyiutyuxsWxoq4h6eN2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cold Fact",
+        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "Hate Street Dialogue",
+      "url": "https://open.spotify.com/track/3Y0iZyngvwiGF15eLRttN7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming From Reality",
+        "url": "https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 201826,
+      "name": "To Whom It May Concern",
+      "url": "https://open.spotify.com/track/0BhwDEYXisE3bcWuV4BSk3"
     }
   ],
   "unique_name": "This Is Rodr\u00edguez",

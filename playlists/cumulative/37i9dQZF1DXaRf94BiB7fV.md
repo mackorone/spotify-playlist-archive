@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [20 Something](https://open.spotify.com/track/2PmkxEUGG1epRsaZ2q6mFs) | [Nitansha](https://open.spotify.com/artist/28md3cATWZym2dKsfv8wvH) | [20 Something](https://open.spotify.com/album/6ngfEYJnkSKku48AOHLDai) | 3:32 | 2025-10-22 |  |
+| [20 Something](https://open.spotify.com/track/2PmkxEUGG1epRsaZ2q6mFs) | [Nitansha](https://open.spotify.com/artist/28md3cATWZym2dKsfv8wvH), [BaddMint](https://open.spotify.com/artist/45jH2n7CFwqGXgsHUcxnP3) | [20 Something](https://open.spotify.com/album/6ngfEYJnkSKku48AOHLDai) | 3:32 | 2025-10-22 |  |
 | [24](https://open.spotify.com/track/5RLNv4MOTIjqjA1QMLifzU) | [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS) | [24](https://open.spotify.com/album/2REeKDDX65FT0HApKpTiJk) | 2:35 | 2023-01-11 | 2023-03-23 |
 | [31](https://open.spotify.com/track/2oGYin33bQAA7M2s0pSQQ6) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [31](https://open.spotify.com/album/3E8SGHvPEMc3ivqlwQoBEu) | 3:13 | 2022-01-26 | 2022-03-10 |
 | [3:30 AM](https://open.spotify.com/track/0KhLst5akQvZ5krH9kTKxQ) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [3:30 AM](https://open.spotify.com/album/0Oky6jHElptCgAjWXyp3fe) | 2:29 | 2025-09-24 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mick Jenkins",
-  "num_followers": 1579103,
+  "num_followers": 1579046,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-10-24 04:00:30",
       "album": {
+        "name": "Port Antonio",
+        "url": "https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 316235,
+      "name": "Port Antonio",
+      "url": "https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY"
+    },
+    {
+      "added_at": "2025-10-24 04:00:30",
+      "album": {
         "name": "Alfredo 2",
         "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 221786,
       "name": "Gold Feet (feat. J.I.D.)",
       "url": "https://open.spotify.com/track/6yZPdc1jlYnG9QFG8WnrMm"
-    },
-    {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
-        "name": "Port Antonio",
-        "url": "https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 316235,
-      "name": "Port Antonio",
-      "url": "https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY"
     },
     {
       "added_at": "2025-10-24 04:00:30",
@@ -367,30 +367,6 @@
     {
       "added_at": "2025-10-24 04:00:30",
       "album": {
-        "name": "Alfredo 2",
-        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 235400,
-      "name": "Feeling (feat. Larry June)",
-      "url": "https://open.spotify.com/track/4ig1U15Fek3EOm6lJppxu1"
-    },
-    {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
       },
@@ -411,6 +387,30 @@
       "duration_ms": 186360,
       "name": "Life Is Beautiful",
       "url": "https://open.spotify.com/track/6hh74g3EXXM8dF1Boamcyn"
+    },
+    {
+      "added_at": "2025-10-24 04:00:30",
+      "album": {
+        "name": "Alfredo 2",
+        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 235400,
+      "name": "Feeling (feat. Larry June)",
+      "url": "https://open.spotify.com/track/4ig1U15Fek3EOm6lJppxu1"
     },
     {
       "added_at": "2025-10-24 04:00:30",
@@ -471,26 +471,6 @@
     {
       "added_at": "2025-10-24 04:00:30",
       "album": {
-        "name": "Alfredo 2",
-        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 166720,
-      "name": "Lemon Pepper Steppers",
-      "url": "https://open.spotify.com/track/0JoGpxGXpz5vuam5Fopc4C"
-    },
-    {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 396806,
       "name": "Of Blue (with Mereba)",
       "url": "https://open.spotify.com/track/12Wh0aUUoJUFffOQdY1ouy"
+    },
+    {
+      "added_at": "2025-10-24 04:00:30",
+      "album": {
+        "name": "Alfredo 2",
+        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 166720,
+      "name": "Lemon Pepper Steppers",
+      "url": "https://open.spotify.com/track/0JoGpxGXpz5vuam5Fopc4C"
     },
     {
       "added_at": "2025-10-24 04:00:30",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-10-24 04:00:30",
       "album": {
+        "name": "God Does Like Ugly",
+        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 225723,
+      "name": "For Keeps",
+      "url": "https://open.spotify.com/track/2XXyUvdXTomMQleoui097l"
+    },
+    {
+      "added_at": "2025-10-24 04:00:30",
+      "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 222640,
       "name": "Munyon Canyon",
       "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
-    },
-    {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
-        "name": "God Does Like Ugly",
-        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 225723,
-      "name": "For Keeps",
-      "url": "https://open.spotify.com/track/2XXyUvdXTomMQleoui097l"
     },
     {
       "added_at": "2025-10-24 04:00:30",
@@ -871,6 +871,30 @@
     {
       "added_at": "2025-10-24 04:00:30",
       "album": {
+        "name": "GOLDFISH",
+        "url": "https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 105836,
+      "name": "Mick & Cooley (feat. Conway The Machine)",
+      "url": "https://open.spotify.com/track/7xVeQX25verKvEQsazaNi5"
+    },
+    {
+      "added_at": "2025-10-24 04:00:30",
+      "album": {
         "name": "words i should've said",
         "url": "https://open.spotify.com/album/1X5p3avr90meczOk6qY4BY"
       },
@@ -955,30 +979,6 @@
     {
       "added_at": "2025-10-24 04:00:30",
       "album": {
-        "name": "GOLDFISH",
-        "url": "https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g"
-      },
-      "artists": [
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 105836,
-      "name": "Mick & Cooley (feat. Conway The Machine)",
-      "url": "https://open.spotify.com/track/7xVeQX25verKvEQsazaNi5"
-    },
-    {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
         "name": "W!LD",
         "url": "https://open.spotify.com/album/1gFQ6dGFvpDsHmnr4bPbTV"
       },
@@ -991,6 +991,26 @@
       "duration_ms": 121127,
       "name": "User Guide",
       "url": "https://open.spotify.com/track/27JAvIc1hxDugIP0Q0wnaq"
+    },
+    {
+      "added_at": "2025-10-24 04:00:30",
+      "album": {
+        "name": "MadRaps",
+        "url": "https://open.spotify.com/album/4xrnbBiQQs4mNaVqvOaicV"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "duration_ms": 130263,
+      "name": "Daddy's Girl",
+      "url": "https://open.spotify.com/track/2a3FGFNNn9OJsn7RL70Jhs"
     },
     {
       "added_at": "2025-10-24 04:00:30",
@@ -1015,26 +1035,6 @@
       "duration_ms": 216386,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW"
-    },
-    {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
-        "name": "MadRaps",
-        "url": "https://open.spotify.com/album/4xrnbBiQQs4mNaVqvOaicV"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        }
-      ],
-      "duration_ms": 130263,
-      "name": "Daddy's Girl",
-      "url": "https://open.spotify.com/track/2a3FGFNNn9OJsn7RL70Jhs"
     },
     {
       "added_at": "2025-10-24 04:00:30",

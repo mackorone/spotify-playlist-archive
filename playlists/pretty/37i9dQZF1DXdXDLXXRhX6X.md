@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXDLXXRhX6X.md) - [plain]
 
 > notes from the girls that get it
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,487 likes - 115 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,481 likes - 115 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

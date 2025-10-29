@@ -2743,7 +2743,7 @@
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 182500,
+      "duration_ms": 182000,
       "name": "Kakinada Kaja",
       "url": "https://open.spotify.com/track/3u2YOf3NE8kV8IZgieH8IS"
     },
@@ -3717,6 +3717,24 @@
     },
     {
       "album": {
+        "name": "Maguva",
+        "url": "https://open.spotify.com/album/2DKW5XKHCVKC94w7VgY7gg"
+      },
+      "artists": [
+        {
+          "name": "Aditya Bheemathati",
+          "url": "https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "Maguva",
+      "url": "https://open.spotify.com/track/2asFMnzLmUXIK4aM8sGdgl"
+    },
+    {
+      "album": {
         "name": "Malli",
         "url": "https://open.spotify.com/album/2uOCZDqhcAnydzgnD2cFsI"
       },
@@ -4456,7 +4474,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 265384,
       "name": "Naa Kannula Mungitlo",
       "url": "https://open.spotify.com/track/0AkJ9Jxl5maFX52ObFimk4"
@@ -7036,7 +7054,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 379959,
       "name": "Radha Rishi",
       "url": "https://open.spotify.com/track/2rgep6eTj60gjJTCe1zcqV"

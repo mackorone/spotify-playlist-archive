@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: SIIBU
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,177 likes - 96 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,417 likes - 96 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 28 | [Amen](https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Amen](https://open.spotify.com/album/0Ozxo0wGqTXSUTgUITRWBE) | 3:18 |
 | 29 | [Ngizohlala Nawe \(feat\. Princess Meloh\)](https://open.spotify.com/track/5lfeivPGO7gXCbMfxKGAlH) | [NKR](https://open.spotify.com/artist/3thrhTKemjuoEqfhGZu3i6), [Ayarhkay](https://open.spotify.com/artist/1MD4g1fBpnN0xXpQiQt8pf), [Olefied Khetha](https://open.spotify.com/artist/7encSKpRGCkRR4yF13Shr9), [Princess Meloh](https://open.spotify.com/artist/0KW7KKNYz8POQOtq6Ps6jj) | [Ngizohlala Nawe \(feat\. Princess Meloh\)](https://open.spotify.com/album/6xOYZWbIr7js9wii3B14fv) | 5:01 |
 | 30 | [Goodbye My Love](https://open.spotify.com/track/42WeyWlyK5Ogj0kqb62OxA) | [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [ANSWERS](https://open.spotify.com/album/1j7hTvvLPYdVmAFg31l0az) | 3:42 |
-| 31 | [Ngizmisele](https://open.spotify.com/track/0sSFSV3NiP2i9PzSk65BPa) | [Puleng Phoofolo](https://open.spotify.com/artist/4PV6IJwluKGjXmKLhKFa0E), [Phoka Ea Borwa](https://open.spotify.com/artist/2gTjDZTAufBXDydffPgkq3) | [Ngizmisele](https://open.spotify.com/album/3PQg91Te4i6mqvN3hzoZTH) | 3:45 |
+| 31 | [Ngizmisele](https://open.spotify.com/track/0sSFSV3NiP2i9PzSk65BPa) | [Puleng Phoofolo](https://open.spotify.com/artist/4PV6IJwluKGjXmKLhKFa0E), [Phoka Ea Boroa](https://open.spotify.com/artist/40fbBPZplM3WZsGD658nXI) | [Ngizmisele](https://open.spotify.com/album/3PQg91Te4i6mqvN3hzoZTH) | 3:45 |
 | 32 | [Deda](https://open.spotify.com/track/5Qnm8kfRqAO7uYl18opkUE) | [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm) | [Deda](https://open.spotify.com/album/1oUq2TPAtuKtPuV5pvRdhV) | 4:58 |
 | 33 | [Phendula](https://open.spotify.com/track/1j1nOZttWVaZG8A7WdK9Jw) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Phendula](https://open.spotify.com/album/1sR2TBRnQgPrjkMPqdQHBP) | 3:16 |
 | 34 | [Leseli](https://open.spotify.com/track/002jjd80yTnPGcKpWhGPfO) | [Leomile](https://open.spotify.com/artist/0OptNOG76pN5MwzhzkUaSW), [Kekelingo](https://open.spotify.com/artist/4tNXPWxHHch1TCCXilE1q2) | [Leseli](https://open.spotify.com/album/3e9S79Jl0OPQfaRwZC6tPT) | 5:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Rod Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260,664 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,260,765 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 13 | [BP Music \(feat\. Rob49 & YTB Fatt\)](https://open.spotify.com/track/1KpB3AP8fH7Ld2wqVmU397) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Culture Jam Presents: Legend In My Hood](https://open.spotify.com/album/4Bvbm845mhiltIsO6stBPc) | 2:48 |
 | 14 | [Life After Death](https://open.spotify.com/track/1ebbmrZS4I7SDg2qpJkMgr) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:11 |
 | 15 | [Different Species \(feat\. Gunna\)](https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:04 |
-| 16 | [Better Believe It](https://open.spotify.com/track/78pzMifrZ5atYbTOcEJhEA) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Cory Mo](https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL), [The Midnight Revival](https://open.spotify.com/artist/1KJGxkvJDGwTzcZZG4mFBZ) | [Better Believe It](https://open.spotify.com/album/09EidyxF12e6Us5YpLsMli) | 3:00 |
+| 16 | [Better Believe It](https://open.spotify.com/track/78pzMifrZ5atYbTOcEJhEA) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Cory Mo](https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL), [The Mighty Midnight Revival](https://open.spotify.com/artist/2j10G8XrFSWV5qG1m55J7b) | [Better Believe It](https://open.spotify.com/album/09EidyxF12e6Us5YpLsMli) | 3:00 |
 | 17 | [Till ya Time Up](https://open.spotify.com/track/7zGVrvKdk2ZyEFtUFWNkAY) | [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE), [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T) | [Double Cup, Pt\. 2: Da Re\-up](https://open.spotify.com/album/4iOH872eRBu6NBivx88ROy) | 2:46 |
 | 18 | [Was Hannin \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/7gimGFAQusX7Rf6UNZKN3u) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [CORINIAN](https://open.spotify.com/album/4qtAux5nQUxDiKr7YE12RW) | 3:05 |
 | 19 | [GET IT GIRL](https://open.spotify.com/track/3nIY1qfbRd0dJFjxmqbUq2) | [Reuben Vincent](https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [WELCOME HOME](https://open.spotify.com/album/2qIhMc7ZaIOCavfAbPuedc) | 2:47 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Alice Phoebe Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,636 likes - 90 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,651 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 26 | [Miss](https://open.spotify.com/track/7vBOMoBKb6InbMdQiFwRCO) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Miss](https://open.spotify.com/album/1FzOkO7pp3y2Q8BXffpLsb) | 3:37 |
 | 27 | [Ruth](https://open.spotify.com/track/1RI2qxSeqmZNdA3arPMOTQ) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Ruth](https://open.spotify.com/album/0fIg1hefvvsgnUUm94qiZn) | 5:08 |
 | 28 | [head, shoulders, knees and ankles](https://open.spotify.com/track/7sDf2g3AxsuAQKqghO8Ubg) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [head, shoulders, knees and ankles](https://open.spotify.com/album/2q3cjxX6rCpaYJSPaiTGpN) | 3:12 |
-| 29 | [Homeless Maccabie](https://open.spotify.com/track/6HmyzSvYBa3HQ61vWDKexl) | [Ben Marc](https://open.spotify.com/artist/4sxl9xjKCAmzbtkEHf5lkJ), [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Homeless Maccabie](https://open.spotify.com/album/7lJxerrSsbFu61cjxIFQxM) | 2:58 |
+| 29 | [Homeless Maccabee](https://open.spotify.com/track/6HmyzSvYBa3HQ61vWDKexl) | [Ben Marc](https://open.spotify.com/artist/4sxl9xjKCAmzbtkEHf5lkJ), [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Homeless Maccabee](https://open.spotify.com/album/7lJxerrSsbFu61cjxIFQxM) | 2:58 |
 | 30 | [Fallacies](https://open.spotify.com/track/0Sw5iEPrpHUv48kPbHE9vS) | [Hundreds](https://open.spotify.com/artist/7mTyxMGqsoIl6ofVdtjfux) | [Fallacies](https://open.spotify.com/album/5l7SbdGLDz1Bud5dMyHUlZ) | 3:19 |
 | 31 | [Middle Man](https://open.spotify.com/track/0zPWBQTSVyn7dS2OXU7Ng9) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [The Closest We'll Get](https://open.spotify.com/album/527BKGronR7ZCm9lHLmP8K) | 4:48 |
 | 32 | [never leave the house](https://open.spotify.com/track/2zYO9C48snLb8QM9qV8txg) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [never leave the house](https://open.spotify.com/album/5Wx5sVejGUjOkh2EfIW2cw) | 2:37 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABDWiBxPN0vVksd3UI9BRX5",
+  "snapshot_id": "AAAAAAAAAAAU6+4Bd5UF5K9KlXikC/qp",
   "tracks": [
     {
       "added_at": "2025-10-24 03:00:00",
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 189801,
-      "name": "Rock And Roll All Nite - Super-Fast Outtake",
-      "url": "https://open.spotify.com/track/0aKfJxIYmAsQFAkoG99pGq"
+      "duration_ms": 208712,
+      "name": "Room Service - Extended Outtake",
+      "url": "https://open.spotify.com/track/2vSc2Zvxdz55ecmJGODYSK"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -139,6 +139,38 @@
       "duration_ms": 490901,
       "name": "Attica State - Evolution Documentary",
       "url": "https://open.spotify.com/track/2AxnmBOIcR8RtRkCWpUlqV"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
+        "name": "BEST OF (Volume 2)",
+        "url": "https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Cold - 2025 VERSION",
+      "url": "https://open.spotify.com/track/3iJD97o04av0fRPMmciboH"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
+        "name": "Nebraska '82: Expanded Edition",
+        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 300360,
+      "name": "Losin' Kind - Nebraska Outtakes",
+      "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -179,22 +211,6 @@
       "duration_ms": 163729,
       "name": "It's a Sin - Bryce Miller Monster Mix",
       "url": "https://open.spotify.com/track/7x8qa2Sy6KUSjTq11Kv039"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
-        "name": "Nebraska '82: Expanded Edition",
-        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 300360,
-      "name": "Losin' Kind - Nebraska Outtakes",
-      "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -267,18 +283,18 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "BEST OF (Volume 2)",
-        "url": "https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU"
+        "name": "Everybody Knows",
+        "url": "https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs"
       },
       "artists": [
         {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
         }
       ],
-      "duration_ms": 226500,
-      "name": "Cold - 2025 VERSION",
-      "url": "https://open.spotify.com/track/3iJD97o04av0fRPMmciboH"
+      "duration_ms": 199617,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -315,22 +331,6 @@
       "duration_ms": 593352,
       "name": "\uff1cCELEBRATE\uff1e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c9\u30ec\u30fc - Little Glee Monster 10th Anniversary Live \u201cCELEBRATE\u201d",
       "url": "https://open.spotify.com/track/3HRQlB5arYBrirosCP4Lrq"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
-        "name": "Everybody Knows",
-        "url": "https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 199617,
-      "name": "Everybody Knows",
-      "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
+        "name": "SUFRIENDO DE M\u00c1S",
+        "url": "https://open.spotify.com/album/0qqBC085ppxcVb1D60L812"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "SUFRIENDO DE M\u00c1S",
+      "url": "https://open.spotify.com/track/1HZgbYDx3D7NnZauT1Kuh6"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
         "name": "La Camisa Negra (Versi\u00f3n Cumbia)",
         "url": "https://open.spotify.com/album/0qFbOPF8edLe0DIvwHKhPF"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 228260,
       "name": "La Camisa Negra - Versi\u00f3n Cumbia",
       "url": "https://open.spotify.com/track/7nXmPi9xuGa1yR6vPKTCNG"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
-        "name": "SUFRIENDO DE M\u00c1S",
-        "url": "https://open.spotify.com/album/0qqBC085ppxcVb1D60L812"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "SUFRIENDO DE M\u00c1S",
-      "url": "https://open.spotify.com/track/1HZgbYDx3D7NnZauT1Kuh6"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -491,26 +491,6 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "\u3042\u306a\u305f\u3092\u304b\u305e\u3048\u3066\uff0fAnatawo Kazoete",
-        "url": "https://open.spotify.com/album/0rOyD1OvXiTwM76kN9gXTX"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        },
-        {
-          "name": "TVXQ!",
-          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
-        }
-      ],
-      "duration_ms": 315541,
-      "name": "\u3042\u306a\u305f\u3092\u304b\u305e\u3048\u3066\uff0fAnatawo Kazoete",
-      "url": "https://open.spotify.com/track/4KVVxSjkkOJRr2bWVCZ5bl"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
         "name": "La Rueda de la Fortuna",
         "url": "https://open.spotify.com/album/32aDQ92B1uE2ZVaaHMDIbu"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 201839,
       "name": "La rueda de la fortuna",
       "url": "https://open.spotify.com/track/28N9Ywd3xPZvYx9LUMyICA"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
+        "name": "\u3042\u306a\u305f\u3092\u304b\u305e\u3048\u3066\uff0fAnatawo Kazoete",
+        "url": "https://open.spotify.com/album/0rOyD1OvXiTwM76kN9gXTX"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        },
+        {
+          "name": "TVXQ!",
+          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
+        }
+      ],
+      "duration_ms": 315541,
+      "name": "\u3042\u306a\u305f\u3092\u304b\u305e\u3048\u3066\uff0fAnatawo Kazoete",
+      "url": "https://open.spotify.com/track/4KVVxSjkkOJRr2bWVCZ5bl"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 187249,
-      "name": "You Broke Me Too (feat. Avril Lavigne)",
-      "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
         "name": "In the City",
         "url": "https://open.spotify.com/album/22bZNVYw96xAOKsgwAfbyv"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 229997,
       "name": "In the City",
       "url": "https://open.spotify.com/track/4DQZKpUgBpF9ziGboNAGFg"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 187249,
+      "name": "You Broke Me Too (feat. Avril Lavigne)",
+      "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
+        "name": "I Saw Her Standing There 2 (Shepperton Tour Rehearsal / 1978)",
+        "url": "https://open.spotify.com/album/153WbbfQt3FqHt04PUj0ii"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 209880,
+      "name": "I Saw Her Standing There 2 - Shepperton Tour Rehearsal / 1978",
+      "url": "https://open.spotify.com/track/7zTF0MKT65fABwQ8btx3bM"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/0eZVWhcjULemVSblWXjqnV"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 269031,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/0LaoxSSzKFhhbBQ9fGKxsc"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
-        "name": "Blood Dynasty (Expanded Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 241300,
-      "name": "Moths",
-      "url": "https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -819,18 +819,34 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "I Saw Her Standing There 2 (Shepperton Tour Rehearsal / 1978)",
-        "url": "https://open.spotify.com/album/153WbbfQt3FqHt04PUj0ii"
+        "name": "Wind Of Change (On Stage)",
+        "url": "https://open.spotify.com/album/2dS7qHtDTnNxZjF1OclZWP"
       },
       "artists": [
         {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
         }
       ],
-      "duration_ms": 209880,
-      "name": "I Saw Her Standing There 2 - Shepperton Tour Rehearsal / 1978",
-      "url": "https://open.spotify.com/track/7zTF0MKT65fABwQ8btx3bM"
+      "duration_ms": 305160,
+      "name": "Wind Of Change - On Stage",
+      "url": "https://open.spotify.com/track/3SttHkLRcYG1LnVILfTyA8"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
+        "name": "Blood Dynasty (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 241300,
+      "name": "Moths",
+      "url": "https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -851,22 +867,6 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "Wind Of Change (On Stage)",
-        "url": "https://open.spotify.com/album/2dS7qHtDTnNxZjF1OclZWP"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Wind Of Change - On Stage",
-      "url": "https://open.spotify.com/track/3SttHkLRcYG1LnVILfTyA8"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
         "name": "From Under The Cork Tree (20th Anniversary Deluxe)",
         "url": "https://open.spotify.com/album/3mcEMwTAA2eJUDsUgsdCbc"
       },
@@ -879,38 +879,6 @@
       "duration_ms": 206773,
       "name": "Sophomore Slump Or Comeback Of The Year - Alternate Version",
       "url": "https://open.spotify.com/track/6nOBIcM2728LnIYPJz4Qf5"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 263389,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/43U88NL56TYXF9sR6n7cHM"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
-        "name": "Horizons/West",
-        "url": "https://open.spotify.com/album/5ntbH8ZQsmgZELd2zWCRCs"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 249640,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/4BHLPXPPUKktlQusIjtTgE"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -935,6 +903,22 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
+        "name": "Horizons/West",
+        "url": "https://open.spotify.com/album/5ntbH8ZQsmgZELd2zWCRCs"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 232306,
+      "name": "Distant Suns",
+      "url": "https://open.spotify.com/track/3G1YQH1gv75nlf9ySwuydn"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
         "name": "Inti-Illimani & Los Bunkers (feat. Los Bunkers)",
         "url": "https://open.spotify.com/album/2W8jTKYF6au2HTGz2ie86F"
       },
@@ -951,42 +935,6 @@
       "duration_ms": 217916,
       "name": "Lo que m\u00e1s quiero (feat. Los Bunkers)",
       "url": "https://open.spotify.com/track/1qRHtrLCN91tKBKTOIVle9"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
-        "name": "Everyone's Talking!",
-        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
-        }
-      ],
-      "duration_ms": 180081,
-      "name": "Sugar (feat JoJo)",
-      "url": "https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
-        "name": "Best Of The Death Metal Years 1991-1995",
-        "url": "https://open.spotify.com/album/3vp3EN4CkD6tok4Q5EwjfG"
-      },
-      "artists": [
-        {
-          "name": "Therion",
-          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
-        }
-      ],
-      "duration_ms": 164480,
-      "name": "Ravaged - BONUS: Re-recorded unused song from - 92",
-      "url": "https://open.spotify.com/track/1jX6Djr1TEkBv337kjmrQE"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -1011,6 +959,38 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
+        "name": "Best Of The Death Metal Years 1991-1995",
+        "url": "https://open.spotify.com/album/3vp3EN4CkD6tok4Q5EwjfG"
+      },
+      "artists": [
+        {
+          "name": "Therion",
+          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
+        }
+      ],
+      "duration_ms": 164480,
+      "name": "Ravaged - BONUS: Re-recorded unused song from - 92",
+      "url": "https://open.spotify.com/track/1jX6Djr1TEkBv337kjmrQE"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 263389,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/43U88NL56TYXF9sR6n7cHM"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
         "name": "Cherry Coke",
         "url": "https://open.spotify.com/album/1iVbvkiUE4Cq4QOnxL63Sl"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 189409,
       "name": "Cherry Coke",
       "url": "https://open.spotify.com/track/5XZeaVv3jGm93zjSSkmqYz"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
+        "name": "Everyone's Talking!",
+        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        }
+      ],
+      "duration_ms": 180081,
+      "name": "Sugar (feat JoJo)",
+      "url": "https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "The Devil",
-        "url": "https://open.spotify.com/album/0i9Dvcfm1HbIVvxolNSTIh"
-      },
-      "artists": [
-        {
-          "name": "Blutengel",
-          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "The Devil",
-      "url": "https://open.spotify.com/track/4Y0wWYvofq3ERGmv7i3IvX"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
         "name": "Neil Young Archives Vol. III (1976 - 1987)",
         "url": "https://open.spotify.com/album/1lPZ1QUvIYP7uly8BxoQWx"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 210253,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/1mWDGYOoSA7Md1gaOqzokh"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
+        "name": "The Devil",
+        "url": "https://open.spotify.com/album/0i9Dvcfm1HbIVvxolNSTIh"
+      },
+      "artists": [
+        {
+          "name": "Blutengel",
+          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "The Devil",
+      "url": "https://open.spotify.com/track/4Y0wWYvofq3ERGmv7i3IvX"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
+        "name": "Where Are You Christmas?",
+        "url": "https://open.spotify.com/album/2ThNTAN9IGLdp0xuRLDy0J"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 188545,
+      "name": "Where Are You Christmas?",
+      "url": "https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
         "name": "Eterno Campe\u00f3n (de la Pel\u00edcula \"Eterno\")",
         "url": "https://open.spotify.com/album/1IRfAdewgQrQmlh20ymGlQ"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 142200,
       "name": "Act My Age",
       "url": "https://open.spotify.com/track/6FLgbmA2wN7VGTwkTr0JTm"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
-        "name": "Where Are You Christmas?",
-        "url": "https://open.spotify.com/album/2ThNTAN9IGLdp0xuRLDy0J"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 188545,
-      "name": "Where Are You Christmas?",
-      "url": "https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "El Cielo De Mi Ni\u00f1ez",
-        "url": "https://open.spotify.com/album/0YZBLHARxgsjot2DFuitBN"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
-        },
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 162816,
-      "name": "El Cielo De Mi Ni\u00f1ez",
-      "url": "https://open.spotify.com/track/5xVMXcEtOMSSLw8o0FEo9s"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
         "name": "The Focus Symphony",
         "url": "https://open.spotify.com/album/7Ic0BlXg1N5LZaYyIFZ2iz"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 2849493,
       "name": "The Focus Symphony",
       "url": "https://open.spotify.com/track/4HGxBs0zojnShkCbcK30TH"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
+        "name": "El Cielo De Mi Ni\u00f1ez",
+        "url": "https://open.spotify.com/album/0YZBLHARxgsjot2DFuitBN"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 162816,
+      "name": "El Cielo De Mi Ni\u00f1ez",
+      "url": "https://open.spotify.com/track/5xVMXcEtOMSSLw8o0FEo9s"
     },
     {
       "added_at": "2025-10-24 03:00:00",

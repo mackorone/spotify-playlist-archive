@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > Your festival season soundtrack includes the best Dance, House, Bass and EDM tracks right now!  Cover: Felix Cartal
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,325 likes - 176 songs - 9 hr 6 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,320 likes - 176 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

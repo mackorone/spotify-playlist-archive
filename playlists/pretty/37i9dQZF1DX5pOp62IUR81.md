@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 
 > Step into the music of Marvel with soundtracks from your favorite films and series including Marvel Studios’ Special Presentation: Werewolf By Night, now streaming on Disney+\. © 2025 MARVEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,260 likes - 186 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,250 likes - 186 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 | 185 | [Totally Fine](https://open.spotify.com/track/10F9vRZJFsnB8KGesrzAPy) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Endgame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8) | 4:29 |
 | 186 | [The Real Hero](https://open.spotify.com/track/3KHrXuByzDnDOaVR15rZH7) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Endgame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8) | 5:54 |
 
-Snapshot ID: `AAAAADens5kw+xg96CP3AALgvkKpO9q4`
+Snapshot ID: `AAAAANQr352Kx54MmNR9TDHeQ871m6vl`

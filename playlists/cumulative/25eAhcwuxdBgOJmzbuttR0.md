@@ -4,7 +4,7 @@
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-412 songs - 1 day 4 hr 17 min
+413 songs - 1 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Holy Roller](https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 2:53 | 2023-03-28 |  |
 | [Holy Wars...The Punishment Due \- 2004 Remix](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 | 2023-03-28 |  |
 | [Hospital for Souls](https://open.spotify.com/track/6kuudUd50kADw1HmSGoT6X) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 6:46 | 2023-03-28 |  |
+| [HOT PINK BLOOD](https://open.spotify.com/track/2M1B6RyKn03IOZGPJIHNqU) | [Bunny Mimi](https://open.spotify.com/artist/09wXv9Adm9JViu28oyCC08) | [little lost bunny girl!!](https://open.spotify.com/album/4yNE7vglIMXBOvZMHEJdYa) | 3:18 | 2025-10-28 |  |
 | [HOT SHELLS](https://open.spotify.com/track/79Ln7kg2a3KGwmbGxV7BXW) | [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [CITY MORGUE VOLUME 3: BOTTOM OF THE BARREL](https://open.spotify.com/album/06QKM7WJc1kybQdxhYNdep) | 2:14 | 2023-03-28 |  |
 | [Hurt You](https://open.spotify.com/track/2rFaJ6NRIRWn335tQr8lWD) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:46 | 2023-05-03 |  |
 | [i apologise if you feel something](https://open.spotify.com/track/4mrjzz6ETpW3wosJUYmKoL) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 2:19 | 2023-03-28 |  |

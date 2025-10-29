@@ -309,6 +309,28 @@
     },
     {
       "album": {
+        "name": "Doctor Who: The Caves of Androzani (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3txNZrgbsRxpCONJJDrUsj"
+      },
+      "artists": [
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80053,
+      "name": "Doctor Who (Closing Theme)",
+      "url": "https://open.spotify.com/track/2mvaiLfU1AaxD5BquwAM5f"
+    },
+    {
+      "album": {
         "name": "Doctor Who: The Krotons (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7Cj1bEYBYAFo7AdFW3JlzR"
       },
@@ -456,7 +478,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 80053,
       "name": "Doctor Who - Closing Theme",
       "url": "https://open.spotify.com/track/0E6vubyhXDzrjFkYu1wNP3"
@@ -1158,7 +1180,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 121573,
       "name": "Hannett and Delia synth exchanges track 14",
       "url": "https://open.spotify.com/track/4HdrI3r3t0t4VwikGGhovW"
@@ -1422,7 +1444,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-28",
+      "date_removed": null,
       "duration_ms": 79946,
       "name": "Hannett and Delia synth exchanges track 7",
       "url": "https://open.spotify.com/track/5lCMhaHwhtTgR7OOf5PjYA"

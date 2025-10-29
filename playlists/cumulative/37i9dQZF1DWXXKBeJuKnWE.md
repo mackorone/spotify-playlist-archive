@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Bad Omens
 
-667 songs - 1 day 16 hr 5 min
+668 songs - 1 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,6 +487,7 @@
 | [Sacrifice](https://open.spotify.com/track/0dsiM6v2ANCXRQOiPudPxh) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Sacrifice](https://open.spotify.com/album/5r07n5C93U0Wk4V5jRjK32) | 3:59 | 2025-10-03 |  |
 | [SAFE](https://open.spotify.com/track/5rLk33lqH3R81LUfQ6IPHD) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [SAFE](https://open.spotify.com/album/0FyUHoVMe1FqC7kV79CIMC) | 4:46 | 2025-10-03 | 2025-10-24 |
 | [Salsa Verde](https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Salsa Verde](https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ) | 3:24 | 2025-10-03 |  |
+| [Same Old Song](https://open.spotify.com/track/6pfwu8OzVOuNWLY7aH6fzw) | [Mammoth](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [The End](https://open.spotify.com/album/01ZpbrUjs0ia2snQno4WQb) | 4:06 | 2025-10-23 |  |
 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-11-10 | 2023-07-26 |
 | [Sandman](https://open.spotify.com/track/5hWW4M4pRUANaf3QwhWoxX) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Parasites & Butterflies](https://open.spotify.com/album/5uRq9tAqhsULMA35OL37Uk) | 2:30 | 2025-09-01 | 2025-09-12 |
 | [Saviour II](https://open.spotify.com/track/14FP9BNWHekbC17tqcppOR) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Saviour II](https://open.spotify.com/album/6ehXKNVHjv2GYuhhy7ecwG) | 3:20 | 2022-11-10 | 2023-07-26 |
@@ -667,7 +668,7 @@
 | [WITHER BELOW](https://open.spotify.com/track/0aPa8xNPbvi5HXBqJXVW6g) | [LOVELOST](https://open.spotify.com/artist/4Ty1GcAd0AQ6xwuE6P9Zi6) | [COLLAPSE](https://open.spotify.com/album/0nzdD1BY9vYHzoSMrtlG2R) | 4:13 | 2024-09-20 | 2025-09-12 |
 | [Wonderwall \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 | 2025-02-07 |  |
 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 | 2022-11-10 | 2023-07-26 |
-| [Wrath](https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Wrath](https://open.spotify.com/album/5gnns6pmLUdRjfQnSdFeOb) | 4:33 | 2025-09-11 |  |
+| [Wrath](https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Wrath](https://open.spotify.com/album/5gnns6pmLUdRjfQnSdFeOb) | 4:33 | 2025-09-11 | 2025-10-29 |
 | [Yellowjacket \(feat\. Sam Carter\)](https://open.spotify.com/track/3yk51U329nwdpeIHV0O5ez) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Sam Carter](https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:18 | 2022-11-10 | 2023-07-26 |
 | [You Don't Exist](https://open.spotify.com/track/5abW9yOsPu6zM5KSRseT9p) | [Less Than Hollow](https://open.spotify.com/artist/6YKUQqeyWshUssuIyayCpD) | [You Don't Exist](https://open.spotify.com/album/00Je4CHXNglMBntZyzIUgD) | 3:27 | 2023-07-25 | 2024-03-08 |
 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 | 2023-05-19 | 2023-11-11 |

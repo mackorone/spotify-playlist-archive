@@ -4438,7 +4438,7 @@
 - [Office Garden](/playlists/pretty/37i9dQZF1DX00KQQMCcMxZ.md)
 - [Office Music \(New & Old Hits!\)](/playlists/pretty/4MGjsC9FFb2SlwoNuSdI9d.md)
 - [Office Offensive](/playlists/pretty/37i9dQZF1DXdEXmWwCHnI5.md)
-- [Offizielle Deutsche Streaming\-Charts KW 42.2025 / German Streaming\-Charts](/playlists/pretty/17yrHIa2wUkOVsqdruIy53.md)
+- [Offizielle Deutsche Streaming\-Charts KW 43.2025 / German Streaming\-Charts](/playlists/pretty/17yrHIa2wUkOVsqdruIy53.md)
 - [Old School Hip\-Hop House Party](/playlists/pretty/37i9dQZF1DX30w0JtSIv4j.md)
 - [Old School Metal](/playlists/pretty/37i9dQZF1DX2LTcinqsO68.md)
 - [Old School Reggaeton](/playlists/pretty/37i9dQZF1DX8SfyqmSFDwe.md)

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Latest Hindi drops, right here\. Listen now\. Cover: Thamma
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,553 likes - 76 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,739 likes - 76 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 50 | [Zaar Zaar](https://open.spotify.com/track/2xgPZPMLV7w1kqaEgYEgPz) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy) | [Zaar Zaar](https://open.spotify.com/album/66BeAJEnpz8HbvjnDy500v) | 2:49 |
 | 51 | [Makhna](https://open.spotify.com/track/2coEZ83TYfg33gBJivtaRS) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Makhna/Saavan](https://open.spotify.com/album/2mq1drGHRFBz2yAGxe5VNw) | 2:53 |
 | 52 | [Sukoon \(From "Bhoomi 2025"\)](https://open.spotify.com/track/2biyIvVEqdMCDmVAxMfI5H) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa) | [Sukoon \(From "Bhoomi 2025"\)](https://open.spotify.com/album/40HApg2uDPSMCFnyxWYYS6) | 5:23 |
-| 53 | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/track/4Cp29GrZ9Jxxoke0OeQGuz) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/album/2uFqKj9qt6TkwKdNpFjQ4R) | 2:26 |
+| 53 | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/track/4Cp29GrZ9Jxxoke0OeQGuz) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/album/2uFqKj9qt6TkwKdNpFjQ4R) | 2:26 |
 | 54 | [Jaana Nahi](https://open.spotify.com/track/4b0yYmtJxaS9sO75LTS8rB) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Jaana Nahi](https://open.spotify.com/album/7LsGnu2nlOfoVCTtIBBCDi) | 3:29 |
 | 55 | [Halki Halki Nami \(From "Soulmates"\)](https://open.spotify.com/track/2lhlYNw1IYktdt40YJHwdQ) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Shameer Tandon](https://open.spotify.com/artist/42LjJH3ukomT0Jwx7wcOyA), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Halki Halki Nami \(From "Soulmates"\)](https://open.spotify.com/album/4FW5qQlIbkrzAy5BolBmJc) | 5:03 |
 | 56 | [Tere Gaon](https://open.spotify.com/track/3YNWnHvYHjFLQgjayEdhB9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Stay Vol\. 1](https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql) | 2:54 |

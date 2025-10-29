@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 
 > <a href="spotify:artist:4p5WgeiPSPpqPDs7T6OkWf">ANOTR</a>'s favorite tracks\. Curated by ANOTR\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,976 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,996 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 | 73 | [Dance My Pain Away](https://open.spotify.com/track/2sZrEIyHRqzEB4sBw8X9Jh) | [Rod Lee](https://open.spotify.com/artist/4aOWkQEvWtJHiXuvjYgxJE) | [...and all the pieces matter, Five Years of Music from The Wire \(deluxe version\)](https://open.spotify.com/album/6BPxysOQGjfI9pwei72Njl) | 2:07 |
 | 74 | [Hey Policeman!](https://open.spotify.com/track/0JjwQLQDrCEVYYafRBSQvs) | [Intrinsic Trance](https://open.spotify.com/artist/4GzfeCFpkeW3iPDSHwa4Jj) | [Psychemagik Presents Magik Cyrkles](https://open.spotify.com/album/42NgJC6J91ndKnuxQRJQHz) | 3:16 |
 | 75 | [Automatic](https://open.spotify.com/track/0uoHVRsDwVHtzYLMvRkxtC) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Automatic](https://open.spotify.com/album/4l8HTiPwY1GrY3WNUNOZ8q) | 8:41 |
-| 76 | [Out Of Your League](https://open.spotify.com/track/4qdbCACEpbFWIpKSMa2fZC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 2:20 |
+| 76 | [Out Of Your League \(feat\. Steve Lacy\)](https://open.spotify.com/track/4qdbCACEpbFWIpKSMa2fZC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 2:20 |
 | 77 | [Wet Paint](https://open.spotify.com/track/0EYOSPQ3YWyFG3t5mtOioS) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Razor / Wet Paint](https://open.spotify.com/album/3IpS1N9MBHfACodntx3Txv) | 1:49 |
 | 78 | [Tu Tak Tu Tak Tutiyan \- Elado’s Gulab Jamun Rework](https://open.spotify.com/track/5mhyXRdaxcfSZS6RgghJom) | [Nadeem Khan](https://open.spotify.com/artist/5KFEhzBYzfSOOWM6wpBSfK), [Elado](https://open.spotify.com/artist/6tOqXU5tewaxqFtYCw9NlI) | [Tu Tak Tu Tak Tutiyan \(Elado's Gulab Jamum Rework\)](https://open.spotify.com/album/0bs6BiBkRGI2issxUrBMsy) | 4:07 |
 | 79 | [Music People](https://open.spotify.com/track/3og6H9EY7uK39wRHdnmZ8h) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Silentintroduction](https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss) | 9:41 |

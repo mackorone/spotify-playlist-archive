@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Jireel & Reyn,  Olivia Lobato, Seinabo Sey med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,943 likes - 108 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,927 likes - 108 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 35 | [Good Ol' Days](https://open.spotify.com/track/7BZFBA47IscACSmuGZ67On) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv) | 3:23 |
 | 36 | [sunday night](https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [sunday night](https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre) | 2:47 |
 | 37 | [Smarta Som Barn](https://open.spotify.com/track/4QcZcBqV00tFYrPKfbBfYn) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg), [Fridlyst](https://open.spotify.com/artist/3JNEVqwIPrDatUMQ2qigvt), [Eka Scratch](https://open.spotify.com/artist/0ACHB8RSQg2y8AHPES8xdw) | [Vännäs Beach](https://open.spotify.com/album/68Bdh8cIYk5LyVT49hWHdt) | 5:16 |
-| 38 | [BRUK DOWN](https://open.spotify.com/track/6seStQ8B2Bx2Gnis7LF3cr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BRUK DOWN](https://open.spotify.com/album/0BirKooSEo10AItZLSquFo) | 2:45 |
+| 38 | [BRUK DOWN](https://open.spotify.com/track/6seStQ8B2Bx2Gnis7LF3cr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO) | [BRUK DOWN](https://open.spotify.com/album/0BirKooSEo10AItZLSquFo) | 2:45 |
 | 39 | [MELODY](https://open.spotify.com/track/3SxV2lTylKaXUVd68MqgSm) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [MELODY](https://open.spotify.com/album/0xnPL7EWuvYFkMCEieyJR3) | 2:54 |
 | 40 | [touch me right](https://open.spotify.com/track/4Yl0KI8Vglg2lqCFZrAkVE) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [touch me right](https://open.spotify.com/album/0jXEspP2Amv1FJUJRyLswv) | 3:00 |
 | 41 | [as i wave goodbye](https://open.spotify.com/track/3NsnczRs7xsd7gx89w5Ufo) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [LOVERCORE](https://open.spotify.com/album/75FM00r9Lgdi0YHv7vvzzB) | 2:26 |

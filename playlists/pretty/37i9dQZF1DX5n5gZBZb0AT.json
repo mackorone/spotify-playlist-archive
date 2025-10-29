@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 954918,
+  "num_followers": 955138,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "duration_ms": 142839,
+      "name": "METAMORPHOSIS",
+      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
         "name": "Funk de Beleza",
         "url": "https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 145115,
       "name": "Funk de Beleza - Slowed",
       "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
-        "name": "METAMORPHOSIS",
-        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
-      },
-      "artists": [
-        {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
-        }
-      ],
-      "duration_ms": 142839,
-      "name": "METAMORPHOSIS",
-      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
       "added_at": "2025-07-25 04:00:45",
@@ -455,26 +455,6 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "Mortals Funk Remix",
-        "url": "https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        },
-        {
-          "name": "Warriyo",
-          "url": "https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr"
-        }
-      ],
-      "duration_ms": 146364,
-      "name": "Mortals Funk Remix",
-      "url": "https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
         "name": "MASHA ULTRAFUNK",
         "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 93650,
       "name": "MASHA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
+        "name": "Mortals Funk Remix",
+        "url": "https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        },
+        {
+          "name": "Warriyo",
+          "url": "https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr"
+        }
+      ],
+      "duration_ms": 146364,
+      "name": "Mortals Funk Remix",
+      "url": "https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG"
     },
     {
       "added_at": "2025-07-25 04:00:45",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "PSL",
-        "url": "https://open.spotify.com/album/4hhb7OlsPwdMK0gqpHkrMq"
-      },
-      "artists": [
-        {
-          "name": "2KE",
-          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
-        }
-      ],
-      "duration_ms": 141317,
-      "name": "PSL - Slowed",
-      "url": "https://open.spotify.com/track/2LAYBsmfObMC0IPUHmvDav"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
         "name": "HUMBLE. (SKRILLEX REMIX)",
         "url": "https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 156800,
       "name": "HUMBLE. - SKRILLEX REMIX",
       "url": "https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
+        "name": "PSL",
+        "url": "https://open.spotify.com/album/4hhb7OlsPwdMK0gqpHkrMq"
+      },
+      "artists": [
+        {
+          "name": "2KE",
+          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
+        }
+      ],
+      "duration_ms": 141317,
+      "name": "PSL - Slowed",
+      "url": "https://open.spotify.com/track/2LAYBsmfObMC0IPUHmvDav"
     },
     {
       "added_at": "2025-07-25 04:00:45",

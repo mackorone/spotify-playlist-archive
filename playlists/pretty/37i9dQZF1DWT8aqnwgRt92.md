@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,551,700 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,551,651 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,24 +68,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 58 | [SONO HITOMIDE](https://open.spotify.com/track/6yBhmxHcdF699gWyM6wYY5) | [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N) | [SONO HITOMIDE](https://open.spotify.com/album/4I6yBWHyEdVYigK7QixmTj) | 3:46 |
 | 59 | [Infinity karat](https://open.spotify.com/track/0EcZVK4nEnQshCO1vN1F2A) | [七海うらら](https://open.spotify.com/artist/2ozm6qPMgXtjAPowvV1621) | [Infinity karat](https://open.spotify.com/album/72lwdVn2vzvqAbLmvgFaBf) | 3:53 |
 | 60 | [Stellar Days](https://open.spotify.com/track/56R6MDNhB1lOt4TpPygUoq) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [Stellar Days](https://open.spotify.com/album/1pDRQrG8cWQttO5fEVXHBU) | 4:01 |
-| 61 | [生命換装](https://open.spotify.com/track/6XhPqqciCUQLWZHxbO2mcG) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [生命換装](https://open.spotify.com/album/0FKrcF7rp480YBzAcM9WPo) | 5:40 |
-| 62 | [Black Flame](https://open.spotify.com/track/15xZH2mWpiJuUfdyKzmfN5) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Black Flame](https://open.spotify.com/album/5KPZPRjJgWTCAUgE8b4EkL) | 3:29 |
-| 63 | [SALT AND PEPPER](https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [SALT AND PEPPER](https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ) | 3:18 |
-| 64 | [パンダガール](https://open.spotify.com/track/6762PO2mmGDxT5llosCDPI) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [パンダガール](https://open.spotify.com/album/4PdLITdvYrIyNXQiGseajR) | 3:34 |
-| 65 | [ダイアリー](https://open.spotify.com/track/5Gnig5J8kZVohlZyLql4Mh) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [ダイアリー](https://open.spotify.com/album/7ISMep3bRygs9hXyl1digu) | 3:51 |
-| 66 | [Prologue](https://open.spotify.com/track/24SBU3BmZemHrN32E2HCRI) | [Nornis](https://open.spotify.com/artist/4A1SkseOGbsBI0Q71vdTGx) | [Prologue](https://open.spotify.com/album/5azL6qsn9zoYq0fLyxrubD) | 3:35 |
-| 67 | [Hacha Mecha Wacha Life!](https://open.spotify.com/track/3Q3KF3yA7WykpGrZxZpzOQ) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [Hacha Mecha Wacha Life!](https://open.spotify.com/album/4WKj9C2ZF7FDKaQ5cOmQCR) | 3:52 |
-| 68 | [MELODEA](https://open.spotify.com/track/7kOY5aTH0AYA8V9bQpjjVe) | [SI\-VIS](https://open.spotify.com/artist/3iiwPTKjc9xinrfvPKMhne) | [MELODEA](https://open.spotify.com/album/6Nqn0BynrW6YQQvB5iIcyB) | 3:54 |
-| 69 | [Zettai Shousan!](https://open.spotify.com/track/1CYvQ8BQ3KC0uMoQSs74X5) | [MARUMOCHI from HoneyWorks](https://open.spotify.com/artist/6SE42YkzK2iVXMph1a3Hbp), [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [Zettai Shousan!](https://open.spotify.com/album/1G0lYQIIInsL7ujicfyW5F) | 3:44 |
-| 70 | [POP LIFE](https://open.spotify.com/track/7adbiAgsfhYCSiwGrsLPV8) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [POP LIFE](https://open.spotify.com/album/02RkMgfCqoe4rbknn84VjO) | 3:05 |
-| 71 | [Family](https://open.spotify.com/track/2Wo9a77VqRBA7XEotIIyHI) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Family](https://open.spotify.com/album/4byeRJjo1dF1mMhO3rw3Od) | 3:12 |
-| 72 | [不器用に 君のとなり](https://open.spotify.com/track/47uYk5wuKW62xryZzDXe8Q) | [前島亜美](https://open.spotify.com/artist/61aT3A72eeItBBYdH9kIUP) | [不器用に 君のとなり](https://open.spotify.com/album/76nH5Qt0QlJOf5unTc8pBZ) | 3:49 |
-| 73 | [Happy Yummy Lucky Yummy](https://open.spotify.com/track/0uiar4dte4f9KewN3JcI9D) | [GANG PARADE](https://open.spotify.com/artist/221zNlzeMJxLOPMYUIAaLx) | [Happy Yummy Lucky Yummy](https://open.spotify.com/album/0F3BdaopBdQF6mRHlwLGyj) | 4:07 |
-| 74 | [Miracle](https://open.spotify.com/track/66VleHwDqhWZ6zV0HlqMZD) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Miracle](https://open.spotify.com/album/5snwJIvVt5k9mrW5IAcH95) | 3:15 |
-| 75 | [Bitter end](https://open.spotify.com/track/3fdJXEe9CL4hcGCH2YE0Dc) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Bitter end](https://open.spotify.com/album/4b7PGdXNIxHJz6wvZuy0aW) | 2:46 |
+| 61 | [Black Flame](https://open.spotify.com/track/15xZH2mWpiJuUfdyKzmfN5) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Black Flame](https://open.spotify.com/album/5KPZPRjJgWTCAUgE8b4EkL) | 3:29 |
+| 62 | [SALT AND PEPPER](https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [SALT AND PEPPER](https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ) | 3:18 |
+| 63 | [パンダガール](https://open.spotify.com/track/6762PO2mmGDxT5llosCDPI) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [パンダガール](https://open.spotify.com/album/4PdLITdvYrIyNXQiGseajR) | 3:34 |
+| 64 | [ダイアリー](https://open.spotify.com/track/5Gnig5J8kZVohlZyLql4Mh) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [ダイアリー](https://open.spotify.com/album/7ISMep3bRygs9hXyl1digu) | 3:51 |
+| 65 | [Prologue](https://open.spotify.com/track/24SBU3BmZemHrN32E2HCRI) | [Nornis](https://open.spotify.com/artist/4A1SkseOGbsBI0Q71vdTGx) | [Prologue](https://open.spotify.com/album/5azL6qsn9zoYq0fLyxrubD) | 3:35 |
+| 66 | [Hacha Mecha Wacha Life!](https://open.spotify.com/track/3Q3KF3yA7WykpGrZxZpzOQ) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [Hacha Mecha Wacha Life!](https://open.spotify.com/album/4WKj9C2ZF7FDKaQ5cOmQCR) | 3:52 |
+| 67 | [Zettai Shousan!](https://open.spotify.com/track/1CYvQ8BQ3KC0uMoQSs74X5) | [MARUMOCHI from HoneyWorks](https://open.spotify.com/artist/6SE42YkzK2iVXMph1a3Hbp), [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [Zettai Shousan!](https://open.spotify.com/album/1G0lYQIIInsL7ujicfyW5F) | 3:44 |
+| 68 | [POP LIFE](https://open.spotify.com/track/7adbiAgsfhYCSiwGrsLPV8) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [POP LIFE](https://open.spotify.com/album/02RkMgfCqoe4rbknn84VjO) | 3:05 |
+| 69 | [Family](https://open.spotify.com/track/2Wo9a77VqRBA7XEotIIyHI) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Family](https://open.spotify.com/album/4byeRJjo1dF1mMhO3rw3Od) | 3:12 |
+| 70 | [不器用に 君のとなり](https://open.spotify.com/track/47uYk5wuKW62xryZzDXe8Q) | [前島亜美](https://open.spotify.com/artist/61aT3A72eeItBBYdH9kIUP) | [不器用に 君のとなり](https://open.spotify.com/album/76nH5Qt0QlJOf5unTc8pBZ) | 3:49 |
+| 71 | [またたく宇宙（ソラ）に憧れて](https://open.spotify.com/track/4vutL5MOKfY8KTXXMmrsVB) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [ゾンビランドサガ ゆめぎんがパラダイス フランシュシュ The Best Paradise](https://open.spotify.com/album/1k0m2BAv3UyuhSZp1yV8T1) | 4:58 |
+| 72 | [Happy Yummy Lucky Yummy](https://open.spotify.com/track/0uiar4dte4f9KewN3JcI9D) | [GANG PARADE](https://open.spotify.com/artist/221zNlzeMJxLOPMYUIAaLx) | [Happy Yummy Lucky Yummy](https://open.spotify.com/album/0F3BdaopBdQF6mRHlwLGyj) | 4:07 |
+| 73 | [Miracle](https://open.spotify.com/track/66VleHwDqhWZ6zV0HlqMZD) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Miracle](https://open.spotify.com/album/5snwJIvVt5k9mrW5IAcH95) | 3:15 |
+| 74 | [Bitter end](https://open.spotify.com/track/3fdJXEe9CL4hcGCH2YE0Dc) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Bitter end](https://open.spotify.com/album/4b7PGdXNIxHJz6wvZuy0aW) | 2:46 |
+| 75 | [失敗しないメンヘラの育て方](https://open.spotify.com/track/4wx9Bsd1s8pJZvzrH6gEo9) | [平手友梨奈](https://open.spotify.com/artist/1sv5H7vUHgpozdrgkL1n4k) | [失敗しないメンヘラの育て方](https://open.spotify.com/album/1O4O6tcKNxISmU1pPg3LCW) | 4:19 |
 | 76 | [恋のマジックポーション](https://open.spotify.com/track/6C1E0o5r4dZ2pmA4JwaNQM) | [TRiDENT](https://open.spotify.com/artist/7rZdMuqbboWedMFTA5hsrh) | [恋のマジックポーション](https://open.spotify.com/album/07w6nOfQRefGtRzsqqvAqu) | 3:03 |
-| 77 | [そこに有る灯り](https://open.spotify.com/track/3PVQ7SJlrLOkwdelLzgFBs) | [古川 慎](https://open.spotify.com/artist/7cqs65sOpEfqF5T0XFnAWc) | [そこに有る灯り](https://open.spotify.com/album/2xaomLtOYGwnUkFmBFQIae) | 4:16 |
-| 78 | [Two Of Us](https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Two Of Us](https://open.spotify.com/album/2PvoKRmVnoFAZVcNgcpbhS) | 3:44 |
+| 77 | [Two Of Us](https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Two Of Us](https://open.spotify.com/album/2PvoKRmVnoFAZVcNgcpbhS) | 3:44 |
+| 78 | [Kimino Kasa](https://open.spotify.com/track/6IxJ1EiYBxhyLuttKstVaH) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [Kimino Kasa](https://open.spotify.com/album/2afNt0ns5NiYujnCsFwPfo) | 3:38 |
 | 79 | [yummy goodday](https://open.spotify.com/track/56YtgeLZZz9mWWcbPu569O) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [yummy goodday](https://open.spotify.com/album/2cFgZ4OOUSTsvTek9hqtvT) | 3:20 |
 | 80 | [ties](https://open.spotify.com/track/5JTQj2XIRHxRJz1Xx5uK0S) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [ties](https://open.spotify.com/album/6otcFMuDyGPjWd1SJZTxgN) | 4:09 |
 | 81 | [ライアー](https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq) | [Kucci](https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5) | [ライアー](https://open.spotify.com/album/1sjLQ2qSQZKVF9FOFri3wf) | 3:05 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 92 | [桜風](https://open.spotify.com/track/0OTBKDolD7eOlgtu4MsZxH) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [桜風](https://open.spotify.com/album/4Fvl3bQiYm4ED0o0Z3MQqt) | 3:08 |
 | 93 | [Wanna be](https://open.spotify.com/track/1n9PxPzeyPYuI9DOOQ5aYI) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I), [Shigeru Matsuzaki](https://open.spotify.com/artist/0ciE5qbNDshbartb5qgybu), [TOPHAMHAT\-KYO](https://open.spotify.com/artist/2QGB8HqesnKeA5gcLJ0hiZ) | [Wanna be / ワンモアタイム](https://open.spotify.com/album/3YGnztdXbxSlYGXLehkaVP) | 3:21 |
 | 94 | [生きて、燦々](https://open.spotify.com/track/1syODzS05DNwO7hiFjwn5z) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [生きて、燦々](https://open.spotify.com/album/2hRKTBG9RvaUklnfa9ouip) | 4:08 |
-| 95 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 |
-| 96 | [ミギヒダリ](https://open.spotify.com/track/6oapMHhwhvjN0iQISpORq9) | [Yuka Nagase](https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX) | [ミギヒダリ](https://open.spotify.com/album/67AqcAoP7jxo0pe4iEKP0z) | 3:04 |
-| 97 | [ありふれてたい](https://open.spotify.com/track/7JUmhqWOFG926fT4Q02grA) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [ありふれてたい](https://open.spotify.com/album/1yb4TwVfrN82eRc2cDburT) | 2:49 |
-| 98 | [夢中猫](https://open.spotify.com/track/1FhgrTEc1C96Pm7OeY62RA) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [夢中猫](https://open.spotify.com/album/6CcurU0qUHoUWLhYo9iZyp) | 2:36 |
-| 99 | [Underclass HERO](https://open.spotify.com/track/0tWhtN7KksQk7HzzxMawVY) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [Underclass HERO](https://open.spotify.com/album/3yPtvypfL1CxNnxeztlNQh) | 3:38 |
-| 100 | [Seishun no Silhouette](https://open.spotify.com/track/2OnCG2NrbOLZWYnGzYOqyP) | [H△G](https://open.spotify.com/artist/7GsiDAKduqD0ezEeOWeldb) | [Seishun no Silhouette](https://open.spotify.com/album/1SB0R0wanT4Zg3bbnZJoeh) | 2:40 |
+| 95 | [ミギヒダリ](https://open.spotify.com/track/6oapMHhwhvjN0iQISpORq9) | [Yuka Nagase](https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX) | [ミギヒダリ](https://open.spotify.com/album/67AqcAoP7jxo0pe4iEKP0z) | 3:04 |
+| 96 | [ありふれてたい](https://open.spotify.com/track/7JUmhqWOFG926fT4Q02grA) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [ありふれてたい](https://open.spotify.com/album/1yb4TwVfrN82eRc2cDburT) | 2:49 |
+| 97 | [So Far Away \-THIRD STAGE\-](https://open.spotify.com/track/4tDInjX1DWeE9jJU097YHm) | [SI\-VIS](https://open.spotify.com/artist/3iiwPTKjc9xinrfvPKMhne) | [So Far Away \-THIRD STAGE\-](https://open.spotify.com/album/4KnqhfIkTlRZ33Nythk8so) | 4:07 |
+| 98 | [Empty Heart](https://open.spotify.com/track/6G9crVBk5g4nYHJqanm5qH) | [いれいす](https://open.spotify.com/artist/0mAjhSSPDLbVaBpSXGJDbu) | [Empty Heart](https://open.spotify.com/album/5K19SjIZKO5wdhYICyATYd) | 3:14 |
+| 99 | [夢中猫](https://open.spotify.com/track/1FhgrTEc1C96Pm7OeY62RA) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [夢中猫](https://open.spotify.com/album/6CcurU0qUHoUWLhYo9iZyp) | 2:36 |
+| 100 | [Underclass HERO](https://open.spotify.com/track/0tWhtN7KksQk7HzzxMawVY) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [Underclass HERO](https://open.spotify.com/album/3yPtvypfL1CxNnxeztlNQh) | 3:38 |
 
-Snapshot ID: `AAAAALuMOMD4Agk5t+fs1Q+GBF2Wbuoi`
+Snapshot ID: `AAAAAFWFidc7PZ+nJOa17cbIriT1cW7c`

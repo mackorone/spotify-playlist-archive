@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzMtuZH5xJY.md) - [plain]
 
 > Curl up with a cozy mystery to solve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 62 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

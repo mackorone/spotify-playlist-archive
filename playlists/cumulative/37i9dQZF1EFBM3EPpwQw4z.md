@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-146 songs - 8 hr 31 min
+147 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Caramel \- DCUP vs\. KLP](https://open.spotify.com/track/0v3wZ2dzWkrMZuvmTvaIOY) | [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Versus](https://open.spotify.com/album/0u5F2n2CKwowG4QcI3VBTs) | 4:11 | 2023-12-30 | 2025-07-24 |
 | [Carried Away](https://open.spotify.com/track/1Amotq6v3Sw9JunKiDGJg6) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Milwaukee Banks](https://open.spotify.com/artist/1KWDWLoKAbOSazIATvQUKh) | [Carried Away](https://open.spotify.com/album/7eJSZlNQOVYJj51U9QkpiW) | 3:28 | 2023-12-30 | 2025-07-24 |
 | [Changes](https://open.spotify.com/track/7oLDuG0A70H4v8WTmGALiV) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Changes](https://open.spotify.com/album/2fnf0nNu49HtXi0JYCaJ2e) | 3:09 | 2023-12-30 |  |
+| [Cherry](https://open.spotify.com/track/0ogVsVpcHhUqFW9fnjVXub) | [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Cherry](https://open.spotify.com/album/09ItbJ3SPHMP35arQ3LWpA) | 3:00 | 2025-10-28 |  |
 | [Cleopatra](https://open.spotify.com/track/1USrzze2kdc2ES3lybfy6Y) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Cleopatra](https://open.spotify.com/album/5My6UodXlnLhQNl66eTxDL) | 3:20 | 2023-12-30 |  |
 | [Closer](https://open.spotify.com/track/7yO6s90XJGvMTpb2ZIPp1N) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Closer](https://open.spotify.com/album/7gFbABIINSSKKftlkOR1bf) | 4:19 | 2024-06-21 |  |
 | [Come Closer](https://open.spotify.com/track/0dZJlgZhbXr1PVC4FFhGMX) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Come Closer](https://open.spotify.com/album/0RfCEgu8lzzV77ciyrqnVV) | 3:26 | 2025-06-25 |  |

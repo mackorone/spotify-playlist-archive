@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 385 songs - 22 hr 9 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 387 songs - 22 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -393,5 +393,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 383 | [Gradually Turning into a Dog](https://open.spotify.com/track/7Cx0EGkPdNi0sY9gea0Oez) | [mass](https://open.spotify.com/artist/79t8MOA8gkCjzy3iRrxwRt) | [Gradually Turning into a Dog](https://open.spotify.com/album/1f3pssAleoIFRuMFNVL5D7) | 2:29 |
 | 384 | [BAKENOHANA](https://open.spotify.com/track/3Nyt0xoTlordHqvBR1EvzG) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [BAKENOHANA](https://open.spotify.com/album/0vzjed4BlSLHz6vua0u3OE) | 1:56 |
 | 385 | [JANE DOE](https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [JANE DOE](https://open.spotify.com/album/381FouVeKunSg1WZTnmryL) | 3:55 |
+| 386 | [SickS ckS](https://open.spotify.com/track/2NEUbfNRmFYxd4tlcYgBfF) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [THIS IS JAPANESE GIRL](https://open.spotify.com/album/1uOwGiCEqP2wzogsNBSsiS) | 5:02 |
+| 387 | [すき、きらい](https://open.spotify.com/track/64ttfvrrWBI9mt6B3nrnZH) | [ファントムシータ](https://open.spotify.com/artist/6JO3HrRYUfSMbe71R7RUF2) | [すき、きらい](https://open.spotify.com/album/17CK4Um2qgC3So9LLHYsN4) | 4:25 |
 
-Snapshot ID: `AAAJeDl98u9+vvx9ucPoOG5YwLHDtLA4`
+Snapshot ID: `AAAJevzKxNN9LvuKw6QzpECKERwfxDlg`

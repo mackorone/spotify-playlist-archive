@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 4,079 likes - 101 songs - 5 hr 34 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 4,080 likes - 101 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 | 86 | [旅のゆくえ](https://open.spotify.com/track/7kOzUAVtgt0zovCULJ7oSv) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [旅のゆくえ](https://open.spotify.com/album/79FxBaskvhHUSmrYJsNid1) | 3:34 |
 | 87 | [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 |
 | 88 | [4eVR](https://open.spotify.com/track/3FQajYjHFNemPYasI7HbAI) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [俺だけレベルアップな件 Original Soundtrack](https://open.spotify.com/album/1XtpQSucGXigcvW8qmfZHn) | 2:56 |
-| 89 | [When Wishes Bloom \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/2EMXqSv1xiGy0PfTIB0Uz3) | [Aoiema](https://open.spotify.com/artist/10XKbVG4CEEwWKkcSRAG8D), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [When Wishes Bloom \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/4kxAWubYxgVBB6149n7Pi9) | 4:38 |
+| 89 | [When Wishes Bloom \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/2EMXqSv1xiGy0PfTIB0Uz3) | [Aoiema](https://open.spotify.com/artist/10XKbVG4CEEwWKkcSRAG8D), [内田ましろ](https://open.spotify.com/artist/7arDNJAk4aH7PIG52EWblU), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [When Wishes Bloom \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/4kxAWubYxgVBB6149n7Pi9) | 4:38 |
 | 90 | [Rock\-Solid Hero](https://open.spotify.com/track/6YF7XbKCxeEoH8sETcJekg) | [Masaru Yokoyama](https://open.spotify.com/artist/3RN3VTAcHI62WWV3PlwlLK) | [マッシュル\-MASHLE\- Soundtrack Vol.2](https://open.spotify.com/album/4wwUSUAchrcq0PiukiU1Cs) | 1:37 |
 | 91 | [Apothecary](https://open.spotify.com/track/62kUz7a77fClCwKxoyFeP6) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 2:44 |
 | 92 | [Crunchyroll Anime Awards Theme](https://open.spotify.com/track/7tRWsI0z6X7dV5PHDBPzcN) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Crunchyroll Anime Awards Theme](https://open.spotify.com/album/17lFOjflySH9gg3fLoPG1W) | 5:17 |

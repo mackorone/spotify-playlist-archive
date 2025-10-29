@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover:  The Trews
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,715 likes - 98 songs - 6 hr 1 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,714 likes - 98 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

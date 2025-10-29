@@ -4,7 +4,7 @@
 
 > Xіти та проривні новинки незалежної місцевої музики\. Обкладинка: Monokate
 
-499 songs - 1 day 2 hr 2 min
+500 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Долоні на стелю](https://open.spotify.com/track/349DARyT8qSROTqXsHlwga) | [Гошуля](https://open.spotify.com/artist/7JBcQmTIHmYq0fwJHYPDiQ) | [Долоні на стелю](https://open.spotify.com/album/6crNncwmPVifz4zR4h4zmi) | 3:00 | 2024-08-23 | 2024-09-14 |
 | [Дотепер і Назавжди](https://open.spotify.com/track/1I1aF22ajUjfNW6AItk1ls) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Дотепер і Назавжди](https://open.spotify.com/album/7qLYUo6kFMy6SuBitznKUq) | 2:37 | 2024-12-06 | 2025-03-04 |
 | [Дотики](https://open.spotify.com/track/3KWAQF0u32HmmXfZhEvEgX) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ), [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Дотики](https://open.spotify.com/album/2lrqG9Hp9yeWf5EgXMh7uV) | 2:22 | 2024-06-27 | 2025-03-04 |
+| [Другу](https://open.spotify.com/track/6a8MhVXq4OVOYhCqXPMr2o) | [Nesamovyta](https://open.spotify.com/artist/2QDQwTdMmYzoJ4N0taK2Bn) | [Другу](https://open.spotify.com/album/36WA6DxeJTGyymK8NOu80e) | 2:35 | 2025-10-23 |  |
 | [Дрі\-та\-та](https://open.spotify.com/track/1rp1R6XI2KVNgPyIewuh3d) | [BADWOR7H](https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD), [Повар Даніл](https://open.spotify.com/artist/2eO3iYyG0WiLmfCwsNftCt) | [Дрі\-та\-та](https://open.spotify.com/album/5YAH8DAHCjdcoveHbA1B6U) | 2:07 | 2025-05-30 | 2025-07-01 |
 | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/track/24UrlcD3tsaFufoRuR5BHy) | [Ганна Польська](https://open.spotify.com/artist/2VSBrTn1uztlSxi9zm8nIE), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/album/3oeUpyrFubw2SSiQ1TO5BO) | 2:25 | 2024-06-27 | 2025-03-18 |
 | [Дурності](https://open.spotify.com/track/7FDzyn2TIcKQg03gcqRW8l) | [Гошуля](https://open.spotify.com/artist/7JBcQmTIHmYq0fwJHYPDiQ) | [Дурності](https://open.spotify.com/album/0jWKd0GPvk0VMjC3Sj54EE) | 2:16 | 2024-11-07 | 2024-12-07 |
@@ -427,7 +428,7 @@
 | [Ти](https://open.spotify.com/track/5FZQIsyyDLEVppl4DkOEpW) | [MAKO](https://open.spotify.com/artist/4DEJ9aehclR77b3Zs7WZXj) | [Ти](https://open.spotify.com/album/0lVLnl1QdBe3iq32TkdHRy) | 3:24 | 2024-07-12 | 2024-07-27 |
 | [Ти](https://open.spotify.com/track/0D8UhIjw4A9Fbm1MryNo8c) | [Ницо Потворно](https://open.spotify.com/artist/1AbmsaKuOkDN5bVSunBoIY) | [Аудіоєбологія](https://open.spotify.com/album/2iD7x4fjETShVr4GPUe9HZ) | 2:27 | 2024-06-27 | 2025-06-07 |
 | [ти вір мені](https://open.spotify.com/track/3m1HeWTmpXVAP2eZZXbLd0) | [Твій зайчик пише](https://open.spotify.com/artist/46dJPAcFc9mkxDUlXhSyYh) | [ти вір мені](https://open.spotify.com/album/50J50YjyJZrJG34q9Gb0Xi) | 2:19 | 2025-08-08 | 2025-10-24 |
-| [Ти мене не знаєш](https://open.spotify.com/track/4kzgictzsfIQhlab6T2kdL) | [Лея](https://open.spotify.com/artist/0ByHX7o0SMk0Vad9zqQIiM), [туди\-сюди і смерть](https://open.spotify.com/artist/6PnFs3tKw82t1j8q5bxrzK) | [Ти мене не знаєш](https://open.spotify.com/album/6Vh7u2qs4ly6yjbQZWNsfj) | 2:55 | 2025-10-23 |  |
+| [Ти мене не знаєш](https://open.spotify.com/track/4kzgictzsfIQhlab6T2kdL) | [туди\-сюди і смерть](https://open.spotify.com/artist/6PnFs3tKw82t1j8q5bxrzK), [Лея](https://open.spotify.com/artist/0ByHX7o0SMk0Vad9zqQIiM) | [Ти мене не знаєш](https://open.spotify.com/album/6Vh7u2qs4ly6yjbQZWNsfj) | 2:55 | 2025-10-23 |  |
 | [Ти моє літо](https://open.spotify.com/track/1Garvjk3hx4Wpb8ugPugEM) | [Alina Kosh](https://open.spotify.com/artist/2IJuSA6u3PYaDuAZSxnqSa) | [Ти моє літо](https://open.spotify.com/album/4M4LY8JZLfSTt26n4hA5X2) | 2:08 | 2024-07-12 | 2024-08-24 |
 | [Ти не зможеш мене зрозуміти](https://open.spotify.com/track/4uuDZ3KVcSgrXNJYRQgdwr) | [SHY](https://open.spotify.com/artist/3fF2BjyWjC59uxRfpuqXMt) | [Як Літати і Не Падати](https://open.spotify.com/album/2AQfLacLo6ehjo5QNU6IRP) | 3:26 | 2025-08-08 | 2025-09-17 |
 | [ти підеш](https://open.spotify.com/track/0cZ3hv8sr6awOASXJlPLCv) | [Настя Гонцул](https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt) | [ти підеш](https://open.spotify.com/album/5jZ5nUhuuTui47esfRq3c7) | 2:51 | 2025-10-23 |  |
@@ -445,7 +446,7 @@
 | [Тривожність](https://open.spotify.com/track/4pIqgz9NlhC1R3absr2Cd7) | [PALMYRA](https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj) | [Тривожність](https://open.spotify.com/album/5n3DVH56574zE16S2zufIk) | 3:26 | 2025-04-11 | 2025-04-25 |
 | [Тримай мене](https://open.spotify.com/track/33ve7gKEeUALVEIJPCV0zL) | [Тонка](https://open.spotify.com/artist/2ENRblmO6FgEs7MSj2AuWG) | [Акустичний альбом](https://open.spotify.com/album/48r9xUQrkf39dqp6QYlLAr) | 3:53 | 2024-09-13 | 2024-12-08 |
 | [Тримаєм посадку](https://open.spotify.com/track/1YHbwb0uyDM62d4SUNzmCc) | [Sasha Boole](https://open.spotify.com/artist/2s0YnA9mOGWt5DiDMoDjyy) | [Тримаєм посадку](https://open.spotify.com/album/62450IT2FoI0wMSxlzPu8h) | 2:43 | 2024-06-27 | 2025-03-18 |
-| [Турист](https://open.spotify.com/track/1wOxZWV8uPalOd56howgYy) | [МОВА ЖЕСТІВ](https://open.spotify.com/artist/3qtFDkfyx3jrELVevSmquH) | [Турист](https://open.spotify.com/album/6TSt9htjgn5eKjERLhposl) | 2:56 | 2025-09-16 |  |
+| [Турист](https://open.spotify.com/track/1wOxZWV8uPalOd56howgYy) | [МОВА ЖЕСТІВ](https://open.spotify.com/artist/3qtFDkfyx3jrELVevSmquH) | [Турист](https://open.spotify.com/album/6TSt9htjgn5eKjERLhposl) | 2:56 | 2025-09-16 | 2025-10-29 |
 | [тут там](https://open.spotify.com/track/4DQGcN326v52qQxIFclcc2) | [Moann](https://open.spotify.com/artist/2nrmzxrpM4czHiwaQbfxhQ), [Гурт Дно](https://open.spotify.com/artist/4t9utcHzJznAOIInsK0SQg), [Alex Silakov](https://open.spotify.com/artist/4onFhnZzfEog4oXThDtkZC), [Муха Мухич](https://open.spotify.com/artist/5hp0Ayk22pO8y8igz897Ii), [Caronlil](https://open.spotify.com/artist/3nFkLMCgrZe6ZSVqR501zf) | [тут там](https://open.spotify.com/album/5Tq45X8sRhoX0mh0ckV0SW) | 2:56 | 2025-06-06 | 2025-08-09 |
 | [Тільки в Києві](https://open.spotify.com/track/3iyAfCTVpbomAFbZxretpr) | [Cepasa](https://open.spotify.com/artist/5fJEnhCIEvK6eevDCVJ1k1), [Artem Borodatiuk](https://open.spotify.com/artist/2y8mm7IQmQtr5ZpyY39fdK) | [Тільки в Києві](https://open.spotify.com/album/0HYJSAOFcv7yQuIrvYxCyU) | 3:19 | 2025-05-30 | 2025-09-17 |
 | [Тільки не бреши](https://open.spotify.com/track/1nBKQvdtCQB6vt4x69qSL0) | [сервант](https://open.spotify.com/artist/21THXOs8Q1gAAS95grxylx) | [Тільки не бреши](https://open.spotify.com/album/6IqttDgQZHC05pcI1WTa3k) | 2:05 | 2025-04-11 |  |

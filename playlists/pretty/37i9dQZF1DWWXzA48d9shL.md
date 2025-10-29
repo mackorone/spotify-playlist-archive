@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,849 likes - 100 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,856 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 4 | [HERE WE GO AGAIN](https://open.spotify.com/track/4mGTpDMsOvm8HEmCQYmhKB) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [HERE WE GO AGAIN](https://open.spotify.com/album/6SK56sERumrjdNTsQSmBxF) | 2:30 |
 | 5 | [COUNT YOUR BLESSINGS](https://open.spotify.com/track/0YmcHurKqkzDQeHB8zuzk0) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 4:08 |
 | 6 | [HAND OF GOD](https://open.spotify.com/track/5uU3WcUlNxcbP2nGiTihW8) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [GODHANDUSA](https://open.spotify.com/artist/52XZBIfTRn9iyM7QLf6DmX) | [HAND OF GOD](https://open.spotify.com/album/3iiaoDbegf42GdVGpl7HXc) | 3:50 |
-| 7 | [PSYCHWARD \(with WesGhost\)](https://open.spotify.com/track/4Youy15ONr6X3Y1ss8NICp) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [PSYCHWARD](https://open.spotify.com/album/5oq9z5XNldcl7wTiEamVvo) | 2:53 |
+| 7 | [PSYCHWARD \(with WesGhost\)](https://open.spotify.com/track/4Youy15ONr6X3Y1ss8NICp) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ), [d00mscrvll](https://open.spotify.com/artist/4I1gdwRJ3qocViLIUI0L6b) | [PSYCHWARD](https://open.spotify.com/album/5oq9z5XNldcl7wTiEamVvo) | 2:53 |
 | 8 | [the ghost and the spider](https://open.spotify.com/track/5OMPhfn3sfkowTaluYOPxs) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [the ghost and the spider](https://open.spotify.com/album/18k2UoIPpnKIf4sr5PWeG5) | 3:01 |
 | 9 | [SHOOT SHIT](https://open.spotify.com/track/2DjSXkfco4fnVHHWtvNWHF) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [SHOOT SHIT](https://open.spotify.com/album/3wLkjozc2LEfw90vQ5kAki) | 2:14 |
 | 10 | [NIGHTCRAWLER BABY HOW I’M CREEPIN THRU THE NIGHT](https://open.spotify.com/track/4qQltCVnVGSgHVNrtZg3CO) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [NIGHTCRAWLER](https://open.spotify.com/album/2jadkgPCzUbB6446dfAclT) | 2:20 |

@@ -789,6 +789,28 @@
     },
     {
       "album": {
+        "name": "Day by Day",
+        "url": "https://open.spotify.com/album/04EtmXVW3s2X8k7WWWjzvU"
+      },
+      "artists": [
+        {
+          "name": "\u591c\u672a\u30a2\u30ac\u30ea",
+          "url": "https://open.spotify.com/artist/6fVGwhKnpLfTAbZNHRDxFa"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139384,
+      "name": "Day by Day (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4S0VquF8r6FOVV8WtACURv"
+    },
+    {
+      "album": {
         "name": "PIECE OF POPSTAR -DANCE-",
         "url": "https://open.spotify.com/album/0c6N7COlFIcIZvscnj2xxV"
       },
@@ -826,7 +848,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 207537,
       "name": "days (feat. \u97f3\u8857\u30a6\u30ca)",
       "url": "https://open.spotify.com/track/5da9XLf5tQwdyegjAFQVCl"
@@ -2112,6 +2134,28 @@
       "duration_ms": 254117,
       "name": "Mojito(\u3082\u3072\u30fc\u3068)",
       "url": "https://open.spotify.com/track/1JKYvYLIRRSaOUbE7uEl22"
+    },
+    {
+      "album": {
+        "name": "MONSTRUM",
+        "url": "https://open.spotify.com/album/6RTRebCB2MFpL9X3LY825D"
+      },
+      "artists": [
+        {
+          "name": "\u706f\u9060",
+          "url": "https://open.spotify.com/artist/4AFG29nrsmlj863TBXHjzU"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184477,
+      "name": "MONSTRO (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/61FzrKPx8wWdEs8ngTTaJH"
     },
     {
       "album": {
@@ -3736,7 +3780,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 197796,
       "name": "\u304a\u306a\u304b\u3059\u3044\u305f",
       "url": "https://open.spotify.com/track/6qSwRfhR1yvM3pCX4Pl7EW"
@@ -3780,7 +3824,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 130000,
       "name": "\u3050\u3061\u3083\u3050\u3061\u3083\u306c\u308b\u307d (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1lcgsGNG13YIwvDADZ5ach"
@@ -3954,6 +3998,28 @@
       "duration_ms": 173766,
       "name": "\u3075\u3042\u3063\u304f (feat. KAITO)",
       "url": "https://open.spotify.com/track/65QqidgljhKFWbNmBUQl5I"
+    },
+    {
+      "album": {
+        "name": "\u307e\u305f\u904a\u3093\u3067\u306d",
+        "url": "https://open.spotify.com/album/5l6tWXXbHjJlyn4Heq8KCA"
+      },
+      "artists": [
+        {
+          "name": "\u3056\u3093\u304e",
+          "url": "https://open.spotify.com/artist/4wDMrlrNQiBlMgsZBzGOhP"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143555,
+      "name": "\u307e\u305f\u904a\u3093\u3067\u306d (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/0PtF9GLITTVkHIxMt3nG4x"
     },
     {
       "album": {
@@ -5286,6 +5352,32 @@
       "duration_ms": 187064,
       "name": "\u30cf\u30c3\u30d4\u30fc\u30a2\u30cb\u30de\u30eb\u30ed\u30b1\u30c3\u30c8\u30e9\u30f3\u30c1\u30e3\u30fc",
       "url": "https://open.spotify.com/track/68EgR9SGyt3AIEY2mnwUMN"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30f3\u30b0\u30ea\u30fc\u30b4\u30fc\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/4U5PesaUg9ELUBMjrwboBU"
+      },
+      "artists": [
+        {
+          "name": "\u30bf\u30b1\u30ce\u30b3\u5c11\u5e74",
+          "url": "https://open.spotify.com/artist/1B1jSMK8pabW2JPBgYvF0K"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "\u30cf\u30f3\u30b0\u30ea\u30fc\u30b4\u30fc\u30b9\u30c8 (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/4QOpctSDxbj460IaAOiB5D"
     },
     {
       "album": {
@@ -6832,7 +6924,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 174795,
       "name": "\u661f\u5b99\u30e1\u30e9\u30f3\u30b3\u30ea\u30a2(feat. \u521d\u97f3\u30df\u30af) (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5hXCefbxVfxltkd0CBz8Ud"
@@ -7116,7 +7208,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 168000,
       "name": "\u732b\u3068\u5e78\u798f\u8ad6 (feat. \u521d\u97f3\u30df\u30af&\u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/5GYZ5rBQsbjiTQbUEk7WKB"
@@ -7178,6 +7270,28 @@
       "duration_ms": 219589,
       "name": "\u795e\u98a8",
       "url": "https://open.spotify.com/track/6kaOsnKt6ki85gLXtywYR0"
+    },
+    {
+      "album": {
+        "name": "\u7b2cn\u6b21\u5143",
+        "url": "https://open.spotify.com/album/6a0An8ZFqM6RlwNAOYMhVC"
+      },
+      "artists": [
+        {
+          "name": "32ki",
+          "url": "https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "\u7b2cn\u6b21\u5143 (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/3V6jUQ6qOCNpkzmmMlmS97"
     },
     {
       "album": {

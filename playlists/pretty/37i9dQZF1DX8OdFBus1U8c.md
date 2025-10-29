@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  ThirumaLi and ThudWiser
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,112 likes - 106 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,122 likes - 106 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > most popular tiktok phonk \- best phonk 2025 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,018,455 likes - 123 songs - 5 hr 18 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,018,358 likes - 123 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl](https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24) | 3:14 |
 | 2 | [SIGMA 4 LIFE](https://open.spotify.com/track/77GoiOLkdnA8k8UnaJ6Qp5) | [Phonkmode](https://open.spotify.com/artist/4cPd80ZHHWza8uX24E3QlX) | [SIGMA 4 LIFE](https://open.spotify.com/album/3Vuas2QnrgxMxVvzFPDFxm) | 1:53 |
 | 3 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 |
-| 4 | [TOMA TOMA \(ft\. Nfasis\)](https://open.spotify.com/track/7mKuFtTJtE1pl3MhKv2GU1) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [TOMA TOMA \(ft\. Nfasis\)](https://open.spotify.com/album/4c0LDguP0im6WNGEindyuY) | 1:55 |
+| 4 | [TOMA TOMA \(ft\. Nfasis\)](https://open.spotify.com/track/7mKuFtTJtE1pl3MhKv2GU1) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [d00mscrvll](https://open.spotify.com/artist/4I1gdwRJ3qocViLIUI0L6b) | [TOMA TOMA \(ft\. Nfasis\)](https://open.spotify.com/album/4c0LDguP0im6WNGEindyuY) | 1:55 |
 | 5 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 |
 | 6 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 |
 | 7 | [Gotta Return Some Videotapes](https://open.spotify.com/track/6KgD9qmWE05bMPVGhFQNzL) | [LeDoc](https://open.spotify.com/artist/1i2zxq7wpaoJJarTsrBPK1), [Guantanamo Bae](https://open.spotify.com/artist/0G0RBNB2IT4AhCIMQ8qnos) | [Gotta Return Some Videotapes](https://open.spotify.com/album/3oOtsIhfsCF4ZLG3eYNeRX) | 0:57 |

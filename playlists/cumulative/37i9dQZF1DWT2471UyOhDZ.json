@@ -2202,7 +2202,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 203331,
       "name": "Fantasize",
       "url": "https://open.spotify.com/track/0kAKh3iTGpzSuzCDqx0QtR"
@@ -3539,6 +3539,24 @@
     },
     {
       "album": {
+        "name": "Lake Run Drive",
+        "url": "https://open.spotify.com/album/0swneIkCfAAXIl164byvJy"
+      },
+      "artists": [
+        {
+          "name": "The Man The Myth The Meatslab",
+          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226785,
+      "name": "Lake Run Drive",
+      "url": "https://open.spotify.com/track/3CdtsOH0jiVvJVDDPAZXam"
+    },
+    {
+      "album": {
         "name": "Le Risque",
         "url": "https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol"
       },
@@ -4076,6 +4094,24 @@
       "duration_ms": 267977,
       "name": "Maybe When We're 30",
       "url": "https://open.spotify.com/track/0MYQDeMtfpXFIN5zKYHlYv"
+    },
+    {
+      "album": {
+        "name": "Medium Machine",
+        "url": "https://open.spotify.com/album/4yVAM4UcoUOYoxd2DcRGW0"
+      },
+      "artists": [
+        {
+          "name": "Sports Team",
+          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148071,
+      "name": "Medium Machine",
+      "url": "https://open.spotify.com/track/3xMwy9ljKoGzh9jncmY8iu"
     },
     {
       "album": {
@@ -6260,7 +6296,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 266306,
       "name": "The Sofa",
       "url": "https://open.spotify.com/track/1ssxK9B6clZ8Gku2bYQHTh"

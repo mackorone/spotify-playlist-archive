@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,471 likes - 77 songs - 4 hr 19 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,473 likes - 81 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,5 +85,9 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 75 | [Seki](https://open.spotify.com/track/08qNRaYrPlY97WAslzovD9) | [The Circling Sun](https://open.spotify.com/artist/6U51RugDKVdqss9kCDx0dQ) | [Orbits](https://open.spotify.com/album/6jEQazZeVrCNhy55PIiojb) | 4:19 |
 | 76 | [Walking by Flashlight \- Thompson Fields Version](https://open.spotify.com/track/5i905CIs4whDxffaFOH4eH) | [Maria Schneider](https://open.spotify.com/artist/61bWkkCyCh1jSBmAKdC7sg), [Maria Schneider Orchestra](https://open.spotify.com/artist/6AUV57pKJN9J0V7JRZmrcF), [Maria Schneider Jazz Orchestra](https://open.spotify.com/artist/4YYi31zfDVuZjx8AR1FlMO) | [The Essential Maria Schneider](https://open.spotify.com/album/5TDoy8L0syQ3EepzY3hkHb) | 5:01 |
 | 77 | [Catsu](https://open.spotify.com/track/0lbQaP751MUEVtK0F4A43C) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [HomeSoon](https://open.spotify.com/album/1uoyioN7yCRAUoVpgZQHHD) | 4:27 |
+| 78 | [D'un vieux jardin](https://open.spotify.com/track/4Rxl45SddL0oWaocVtDAOt) | [Lili Boulanger](https://open.spotify.com/artist/2ryY5UTorD1MXmnOcC7jCi), [Emile Naoumoff](https://open.spotify.com/artist/0fRrSOwkvXX4fixN9cdQu2) | [Boulanger, Lili and Nadia: In Memoriam Lili Boulanger](https://open.spotify.com/album/22q9NJ4ph5sqiwjZK6SFoh) | 3:30 |
+| 79 | [Night\-Time Intermission](https://open.spotify.com/track/54bD0lIobLZhybCV06eCTw) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [5:55 \(Nouvelle Edition\)](https://open.spotify.com/album/6VbkZXFdiFyEbwY240h672) | 2:43 |
+| 80 | [Shadows and Sparks](https://open.spotify.com/track/29IESUgB8VqXKnRBhRigHV) | [Turbo Fade](https://open.spotify.com/artist/4nN1OspoRH7RDBbe9ooNOW) | [Shadows and Sparks](https://open.spotify.com/album/0ZJK0oyAiB93A6jT5Lmnz6) | 2:11 |
+| 81 | [kira](https://open.spotify.com/track/3XYF84eNPPvRObZZPHsgla) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [spirit](https://open.spotify.com/album/5wEy1LKkVbEEKnyk9Ql5Ke) | 4:10 |
 
-Snapshot ID: `AAANVUuuaKjSYgFDDaj4DcWMnR3wUpMz`
+Snapshot ID: `AAANWXPMXpiVrTYAN0PvAzHmH1nQ3xy4`

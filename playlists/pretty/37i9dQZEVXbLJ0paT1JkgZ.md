@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,643 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,652 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [2x1](https://open.spotify.com/track/4Vl4Ljum5W4v8w8EiqWTHA) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [2x1](https://open.spotify.com/album/0t69d0sRxg05svWNU3f0v4) | 3:15 |
 | 50 | [MAL PORTA](https://open.spotify.com/track/0Fb8RH9cZJtUsbSE6HM01G) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [NEMJ](https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX) | [WORLDWAI](https://open.spotify.com/album/2StJ33v839ZM3y7yWpG7fg) | 2:20 |
 
-Snapshot ID: `MJLgIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MJQz+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

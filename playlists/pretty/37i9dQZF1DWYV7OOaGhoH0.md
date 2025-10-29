@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Silvana Estrada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,733,027 likes - 109 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,732,814 likes - 109 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

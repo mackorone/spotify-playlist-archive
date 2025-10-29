@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-784 songs - 1 day 22 hr 5 min
+788 songs - 1 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Cross Purposes](https://open.spotify.com/track/1LWNGV4aU7nLCnfIgO2xuJ) | [Novak](https://open.spotify.com/artist/2fb1zlAyUxXYuZnrtLw90x) | [Novak](https://open.spotify.com/album/7wJpbPDD3MhcxblMVKjdg1) | 4:54 | 2024-10-08 | 2024-11-14 |
 | [Cruel](https://open.spotify.com/track/7Ka90WZhBoWgyyoualEHcb) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Cruel](https://open.spotify.com/album/5wbdEyE7lvzohXtsFfvvdZ) | 3:18 | 2024-10-10 | 2024-11-14 |
 | [Crushing](https://open.spotify.com/track/0qS8CNO9bZlCJoGk6jyGXo) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [1992\-1998](https://open.spotify.com/album/2WwcPCIKcAoVlYmIKjd8PO) | 3:51 | 2025-01-18 | 2025-03-02 |
+| [D'un vieux jardin](https://open.spotify.com/track/4Rxl45SddL0oWaocVtDAOt) | [Lili Boulanger](https://open.spotify.com/artist/2ryY5UTorD1MXmnOcC7jCi), [Emile Naoumoff](https://open.spotify.com/artist/0fRrSOwkvXX4fixN9cdQu2) | [Boulanger, Lili and Nadia: In Memoriam Lili Boulanger](https://open.spotify.com/album/22q9NJ4ph5sqiwjZK6SFoh) | 3:30 | 2025-10-29 |  |
 | [Daisy Cutter](https://open.spotify.com/track/2ed6AGgJmYoie95RS1zkTs) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Daisy Cutter](https://open.spotify.com/album/2BGk4RtNgJ10Zh1XqDgsYp) | 3:32 | 2025-09-14 |  |
 | [Dancing with your eyes closed](https://open.spotify.com/track/1QkeomwCeKgXOEWoMHzrXr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Dancing with your eyes closed](https://open.spotify.com/album/56bYgJoNy2rzmrjJQnmoJy) | 3:50 | 2025-03-01 | 2025-05-09 |
 | [Dans le sillage du temps](https://open.spotify.com/track/1HsInZbAD52PAloaHGhJqe) | [Baptiste Dubreuil](https://open.spotify.com/artist/44ms1pwVnGrYVevD6D4AtJ) | [Dans le sillage du temps](https://open.spotify.com/album/1PedxrLz0xa6xTnCutthrn) | 2:02 | 2025-09-16 |  |
@@ -378,6 +379,7 @@
 | [Justice](https://open.spotify.com/track/0f64uzujl3Pn1Tcu5AlbAG) | [Jennifer Castle](https://open.spotify.com/artist/2RzmnX5DXwcryxwUyREPbK) | [Monarch Season](https://open.spotify.com/album/3xduOjWzIFvmMOnk0L4888) | 1:40 | 2024-10-29 | 2024-11-14 |
 | [Kanon](https://open.spotify.com/track/6ffrExn8KtduORXBCt2QfA) | [Enon](https://open.spotify.com/artist/3jJxGc6wl7xvZHSg8tg61V) | [Lost Marbles and Exploded Evidence](https://open.spotify.com/album/0urcGWOT3sDiyjhTup7ELw) | 3:20 | 2024-07-12 | 2024-09-08 |
 | [Ken Hom](https://open.spotify.com/track/1wTd8R2JnpRrggVpYhAk0r) | [Autocamper](https://open.spotify.com/artist/4A81Q5VArMNNHeERStPXYx) | [Summertime](https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC) | 2:46 | 2024-11-17 | 2025-01-12 |
+| [kira](https://open.spotify.com/track/3XYF84eNPPvRObZZPHsgla) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [spirit](https://open.spotify.com/album/5wEy1LKkVbEEKnyk9Ql5Ke) | 4:10 | 2025-10-29 |  |
 | [Kiss Me on the Bus](https://open.spotify.com/track/7b8BgGpMDmNjkOzfMfxCzi) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim](https://open.spotify.com/album/1yO2d1lmmu0tkDf3trvOm7) | 2:53 | 2025-06-15 | 2025-07-04 |
 | [Kitty's Midnight Blessing](https://open.spotify.com/track/3s3JfEWheRv35NIqQ5DpnJ) | [Otto Benson](https://open.spotify.com/artist/7idebBFVTiHclz7stsvsSw), [Max Beirne Shafer](https://open.spotify.com/artist/5SXBLk2wYMZznypiR94wYE) | [Songs Before Bed \(2022\)](https://open.spotify.com/album/7pnz4Fyzrk0dD1HMg3NILk) | 3:14 | 2025-01-11 | 2025-03-02 |
 | [Klonkmelodin](https://open.spotify.com/track/1MdoqTzAV9BPbw1ZbZw9iU) | [Sagor & Swing](https://open.spotify.com/artist/3KIUFqenyBNPkZIQjVnfdX) | [Melodier och fåglar](https://open.spotify.com/album/0f9hohz1u0EeHY8j8RBAQH) | 2:03 | 2024-10-15 | 2024-11-14 |
@@ -483,6 +485,7 @@
 | [New Joy](https://open.spotify.com/track/7wriad6oBytAE04VvbKuno) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [EXCELSIOR](https://open.spotify.com/album/364BvIMiL3BsjqTJ9teX1E) | 3:16 | 2024-04-25 | 2024-05-16 |
 | [New Power](https://open.spotify.com/track/4jss2X2iCZjOU7zAUjc3zW) | [Cindy](https://open.spotify.com/artist/3vUqg3VWCLmEA1es1T4nGn) | [I'm Cindy](https://open.spotify.com/album/3obhwQ6jhn7Yy3ZGL6jwYt) | 3:16 | 2025-04-13 | 2025-05-09 |
 | [News from Verona](https://open.spotify.com/track/3x0QNpUibTxG8ImfedZkZ3) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Knee\-Deep In the North Sea](https://open.spotify.com/album/2A8c5znvmslp2I77dTBV1K) | 4:21 | 2025-06-12 | 2025-07-04 |
+| [Night\-Time Intermission](https://open.spotify.com/track/54bD0lIobLZhybCV06eCTw) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [5:55 \(Nouvelle Edition\)](https://open.spotify.com/album/6VbkZXFdiFyEbwY240h672) | 2:43 | 2025-10-29 |  |
 | [No Big Thing](https://open.spotify.com/track/03iua1rLzMCB9JhFrv5WX4) | [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Death is a Dream](https://open.spotify.com/album/2FhhWX9iOrnmC4o5NCQLRf) | 2:59 | 2025-02-10 | 2025-03-02 |
 | [No Ideology](https://open.spotify.com/track/09CnarDkzHTMaxk2CEBr8k) | [Yoshika Colwell](https://open.spotify.com/artist/3UjZDptt2aZDIw2gKixdkM), [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm) | [This Weather](https://open.spotify.com/album/3lD6HDsjczWFXeQzUYCqQt) | 3:49 | 2024-12-10 | 2025-01-12 |
 | [No Reply at All \- 2007 Remaster](https://open.spotify.com/track/0aeUuMypcIbr5y2oQUKyBV) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Abacab \(2007 Remaster\)](https://open.spotify.com/album/6KSLVAuJx6hWsYEk005uZj) | 4:33 | 2024-04-13 | 2024-05-16 |
@@ -592,6 +595,7 @@
 | [Sepiatone](https://open.spotify.com/track/2jymt1GBsUjaFNNOYDfRDo) | [Sepiatone](https://open.spotify.com/artist/04Urn5thSune3deFvSCPmk) | [In Sepiatone](https://open.spotify.com/album/1Zenx1StQqmVXFiBbVgvzz) | 2:30 | 2024-09-07 | 2024-11-14 |
 | [Serenade](https://open.spotify.com/track/2lQPJWfiPr1v3Yy9y8EfQK) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 2:58 | 2024-07-25 | 2024-09-08 |
 | [Shaded Tree](https://open.spotify.com/track/7IEpUKhnn41bBFb1RF8aBr) | [Good Sad Happy Bad](https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr) | [Shaded Tree](https://open.spotify.com/album/2cV0Yn07F5F3eU4siaQcQo) | 3:23 | 2024-09-30 | 2024-11-14 |
+| [Shadows and Sparks](https://open.spotify.com/track/29IESUgB8VqXKnRBhRigHV) | [Turbo Fade](https://open.spotify.com/artist/4nN1OspoRH7RDBbe9ooNOW) | [Shadows and Sparks](https://open.spotify.com/album/0ZJK0oyAiB93A6jT5Lmnz6) | 2:11 | 2025-10-29 |  |
 | [Shadows of You](https://open.spotify.com/track/7IjKGN0PoY2WkgCtzaFD0K) | [Kenny Brent](https://open.spotify.com/artist/4RUyE7ad8UjPveVk342caj), [Donna Harris](https://open.spotify.com/artist/5jl07lLbiLw6ZwSvHv6B6A) | [Crimetown Soundtrack: Season One](https://open.spotify.com/album/3xeZyjqz7StKQrYeWGK3ye) | 2:17 | 2025-09-10 |  |
 | [She Is Staggering](https://open.spotify.com/track/6hFaRjM7c0QizkgMkZsdwg) | [Polaris](https://open.spotify.com/artist/1ZOKm4ZfrMPjTynDt99aCp) | [Music From The Adventures Of Pete & Pete](https://open.spotify.com/album/1cqCEa8ldM7nwcEINzz8MA) | 3:08 | 2024-10-24 | 2024-11-14 |
 | [She Was My Sweet Heart](https://open.spotify.com/track/0gKJKfxo0ZMAcAx0U4yfbz) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [She's The Queen](https://open.spotify.com/album/3lTZWruVnyOamstEzuVCZH) | 3:48 | 2025-05-27 | 2025-07-04 |

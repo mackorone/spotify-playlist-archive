@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative & rock releases. Cover: The Vices",
+  "description": "Nieuwe alternative & rock releases. Cover: Library Card",
   "name": "New Alternative",
   "tracks": [
     {
@@ -896,6 +896,24 @@
       "duration_ms": 233562,
       "name": "As Alive As You Need Me To Be",
       "url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
+    },
+    {
+      "album": {
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269433,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
     },
     {
       "album": {
@@ -2082,6 +2100,24 @@
       "duration_ms": 167426,
       "name": "Cool Bottle Water Park",
       "url": "https://open.spotify.com/track/67FL1EHWD8xLfcd21j4kky"
+    },
+    {
+      "album": {
+        "name": "DON'T PANIC",
+        "url": "https://open.spotify.com/album/2pKFTpblKdkRpnle4FmcFb"
+      },
+      "artists": [
+        {
+          "name": "VALS ALARM",
+          "url": "https://open.spotify.com/artist/3q1SvFNWA77vrDRqEpgjbS"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199371,
+      "name": "COUGAR SUGAR (ft. BUBU)",
+      "url": "https://open.spotify.com/track/4QHpMKc6AfmnCx2Rt6nuJJ"
     },
     {
       "album": {
@@ -4366,7 +4402,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 175243,
       "name": "Hunting Season",
       "url": "https://open.spotify.com/track/0tKMZFO30VbRFulQzIWxjX"
@@ -4672,7 +4708,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 138053,
       "name": "I'm Tired",
       "url": "https://open.spotify.com/track/05ix9xZFyreXSfwUdX7A3g"
@@ -5057,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "Joan",
+        "url": "https://open.spotify.com/album/3NUNHhr8UHOh9m85gGzNev"
+      },
+      "artists": [
+        {
+          "name": "GUNMOLL",
+          "url": "https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293002,
+      "name": "Joan",
+      "url": "https://open.spotify.com/track/6BFkAIXj3oRs0rGRZb1NOB"
+    },
+    {
+      "album": {
         "name": "DIVE (deluxe)",
         "url": "https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6"
       },
@@ -5209,6 +5263,24 @@
     },
     {
       "album": {
+        "name": "Killing In The Name",
+        "url": "https://open.spotify.com/album/4GkbIh9CmVHoOZXC8W2lCg"
+      },
+      "artists": [
+        {
+          "name": "Inge Lamboo",
+          "url": "https://open.spotify.com/artist/6XpM8vftkvjA114GyLB8hz"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219766,
+      "name": "Killing In The Name",
+      "url": "https://open.spotify.com/track/500dx5anompG5OApakkudx"
+    },
+    {
+      "album": {
         "name": "Kinky",
         "url": "https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN"
       },
@@ -5278,6 +5350,28 @@
       "duration_ms": 162933,
       "name": "Last Girls At The Party",
       "url": "https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT"
+    },
+    {
+      "album": {
+        "name": "Latter Days (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1ALJaB4HB3VGNPb7r9wlQB"
+      },
+      "artists": [
+        {
+          "name": "Blaudzun",
+          "url": "https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM"
+        },
+        {
+          "name": "Yori",
+          "url": "https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174575,
+      "name": "Latter Days",
+      "url": "https://open.spotify.com/track/2CRnmDhG6LAy9qYg4fId01"
     },
     {
       "album": {
@@ -6146,10 +6240,28 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 201372,
       "name": "Mirtazapine",
       "url": "https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR"
+    },
+    {
+      "album": {
+        "name": "Miss",
+        "url": "https://open.spotify.com/album/1FzOkO7pp3y2Q8BXffpLsb"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217700,
+      "name": "Miss",
+      "url": "https://open.spotify.com/track/7vBOMoBKb6InbMdQiFwRCO"
     },
     {
       "album": {
@@ -7364,6 +7476,24 @@
       "duration_ms": 152511,
       "name": "PTRCK",
       "url": "https://open.spotify.com/track/0IhSSRDZyXYZ63KK83O8Fn"
+    },
+    {
+      "album": {
+        "name": "\u2060\u2060Q&A with Myself",
+        "url": "https://open.spotify.com/album/2CpsLBoJm2fNEeHVmJjrG9"
+      },
+      "artists": [
+        {
+          "name": "Admiral Freebee",
+          "url": "https://open.spotify.com/artist/4FmTFdAid9vZwCqOFedhD4"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167840,
+      "name": "Q&A with Myself",
+      "url": "https://open.spotify.com/track/66mONQljiV3pMzODY62f5Q"
     },
     {
       "album": {
@@ -8625,6 +8755,24 @@
     },
     {
       "album": {
+        "name": "Stay Along/Sail On",
+        "url": "https://open.spotify.com/album/6WbNdKPLzCqD0AjDWxxDcP"
+      },
+      "artists": [
+        {
+          "name": "CIEL",
+          "url": "https://open.spotify.com/artist/419lBVMZC4wFzJg8evBZ4g"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148240,
+      "name": "Stay Along/Sail On",
+      "url": "https://open.spotify.com/track/4msV5jT47oAgVnHfX9ZTSQ"
+    },
+    {
+      "album": {
         "name": "Stay In Your Lane",
         "url": "https://open.spotify.com/album/5BtTOMAFKV3byS0EidtQnc"
       },
@@ -9018,6 +9166,24 @@
       "duration_ms": 197706,
       "name": "Talk",
       "url": "https://open.spotify.com/track/2g3c43AWIKXT8hFHV9UlF6"
+    },
+    {
+      "album": {
+        "name": "Talk To Me Too",
+        "url": "https://open.spotify.com/album/5R8K5hptHyhmlBlPhOGPAa"
+      },
+      "artists": [
+        {
+          "name": "L'orne",
+          "url": "https://open.spotify.com/artist/2ZmFjOdUp704kwT939D2Uy"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391625,
+      "name": "Talk To Me Too",
+      "url": "https://open.spotify.com/track/7zA1fsKcnaiKmPDGjBTj3s"
     },
     {
       "album": {
@@ -9587,6 +9753,24 @@
     },
     {
       "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/6dtGHJ6aU8kqQ8FvZyGAx9"
+      },
+      "artists": [
+        {
+          "name": "High Hi",
+          "url": "https://open.spotify.com/artist/3A6l4ONs4PBpq2g4AAjP6M"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/1BCa4RGfJLudmiqJ2fuGKq"
+    },
+    {
+      "album": {
         "name": "The Weather",
         "url": "https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9"
       },
@@ -9732,6 +9916,24 @@
       "duration_ms": 167264,
       "name": "This Is The Way (feat. DMX)",
       "url": "https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK"
+    },
+    {
+      "album": {
+        "name": "This Time For Real",
+        "url": "https://open.spotify.com/album/4Tv8PFvKfr1Bb4dOZq9b8Z"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192368,
+      "name": "This Time For Real",
+      "url": "https://open.spotify.com/track/2LDTkxBmLRr4ENG0kNQLum"
     },
     {
       "album": {
@@ -10340,7 +10542,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 206652,
       "name": "Vampire Bat",
       "url": "https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju"
@@ -10848,7 +11050,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 185133,
       "name": "Won't Obey",
       "url": "https://open.spotify.com/track/3W5cpcTbjcGLwqD4ktR0nY"
@@ -10996,6 +11198,24 @@
       "duration_ms": 183761,
       "name": "X's",
       "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
+    },
+    {
+      "album": {
+        "name": "Oh! The Ocean: X-Rated",
+        "url": "https://open.spotify.com/album/0b1JuXv4B7ohWw8stkW73n"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176613,
+      "name": "X-Rated",
+      "url": "https://open.spotify.com/track/4IFM3n0AIi7XS4qbHqVKjA"
     },
     {
       "album": {

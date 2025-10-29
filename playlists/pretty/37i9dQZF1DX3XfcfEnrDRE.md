@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Gable Price and Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,323 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,356 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 74 | [PAINT A PICTURE](https://open.spotify.com/track/61lvFmM5LK5sScXkIwLYv8) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [I LOVE IT WHEN YOU SMILE](https://open.spotify.com/album/2EgWb3B1ouhc5vpAfJVeiP) | 2:47 |
 | 75 | [Dragonfly](https://open.spotify.com/track/0RirkvWjLrMxQUPWv0zeC6) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Dragonfly / Safe](https://open.spotify.com/album/7jISehZ6nOAEfwabssCNhG) | 3:29 |
 
-Snapshot ID: `AAAAANN3ht3x5U4dXXccCFTsMsbQECLt`
+Snapshot ID: `AAAAAC/BYZyB5ngTU1rpjo8RkGcDdxPy`

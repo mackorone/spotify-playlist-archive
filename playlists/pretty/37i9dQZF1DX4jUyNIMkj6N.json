@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 220010,
+  "num_followers": 220034,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-10-23 22:00:54",
       "album": {
+        "name": "Laminar Flow",
+        "url": "https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42"
+      },
+      "artists": [
+        {
+          "name": "AKA lisa",
+          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
+        }
+      ],
+      "duration_ms": 133613,
+      "name": "forever, for a while",
+      "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
+    },
+    {
+      "added_at": "2025-10-23 22:00:54",
+      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 263880,
       "name": "fare thee well",
       "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
-    },
-    {
-      "added_at": "2025-10-23 22:00:54",
-      "album": {
-        "name": "Alibi",
-        "url": "https://open.spotify.com/album/1H4bbyylsgLeduoQrASeGr"
-      },
-      "artists": [
-        {
-          "name": "Beharie",
-          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE"
     },
     {
       "added_at": "2025-10-23 22:00:54",
@@ -599,6 +599,22 @@
     {
       "added_at": "2025-10-23 22:00:54",
       "album": {
+        "name": "Alibi",
+        "url": "https://open.spotify.com/album/1H4bbyylsgLeduoQrASeGr"
+      },
+      "artists": [
+        {
+          "name": "Beharie",
+          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE"
+    },
+    {
+      "added_at": "2025-10-23 22:00:54",
+      "album": {
         "name": "Tennessee",
         "url": "https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s"
       },
@@ -611,6 +627,26 @@
       "duration_ms": 159697,
       "name": "Tennessee",
       "url": "https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc"
+    },
+    {
+      "added_at": "2025-10-23 22:00:54",
+      "album": {
+        "name": "Find A Home Out There",
+        "url": "https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp"
+      },
+      "artists": [
+        {
+          "name": "Alberta Cross",
+          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
+        },
+        {
+          "name": "L'aupaire",
+          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Find A Home Out There",
+      "url": "https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9"
     },
     {
       "added_at": "2025-10-23 22:00:54",
@@ -631,22 +667,6 @@
     {
       "added_at": "2025-10-23 22:00:54",
       "album": {
-        "name": "Adore",
-        "url": "https://open.spotify.com/album/3F8z3hFHaIeaJogq3hKpS6"
-      },
-      "artists": [
-        {
-          "name": "Beharie",
-          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Adore",
-      "url": "https://open.spotify.com/track/2sENyZSkrNmZcePPnkPszn"
-    },
-    {
-      "added_at": "2025-10-23 22:00:54",
-      "album": {
         "name": "Halloween Costume",
         "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
       },
@@ -659,6 +679,22 @@
       "duration_ms": 149426,
       "name": "Halloween Costume",
       "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
+    },
+    {
+      "added_at": "2025-10-23 22:00:54",
+      "album": {
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/3F8z3hFHaIeaJogq3hKpS6"
+      },
+      "artists": [
+        {
+          "name": "Beharie",
+          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/2sENyZSkrNmZcePPnkPszn"
     },
     {
       "added_at": "2025-10-23 22:00:54",
@@ -695,26 +731,6 @@
     {
       "added_at": "2025-10-23 22:00:54",
       "album": {
-        "name": "Find A Home Out There",
-        "url": "https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp"
-      },
-      "artists": [
-        {
-          "name": "Alberta Cross",
-          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
-        },
-        {
-          "name": "L'aupaire",
-          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "Find A Home Out There",
-      "url": "https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9"
-    },
-    {
-      "added_at": "2025-10-23 22:00:54",
-      "album": {
         "name": "Finding You Again",
         "url": "https://open.spotify.com/album/58rLhkfZO2qYvLBeV1ToiD"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2025-10-23 22:00:54",
       "album": {
-        "name": "Laminar Flow",
-        "url": "https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42"
-      },
-      "artists": [
-        {
-          "name": "AKA lisa",
-          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
-        }
-      ],
-      "duration_ms": 133613,
-      "name": "forever, for a while",
-      "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
-    },
-    {
-      "added_at": "2025-10-23 22:00:54",
-      "album": {
         "name": "Feels like That",
         "url": "https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq"
       },
@@ -779,8 +779,8 @@
     {
       "added_at": "2025-10-23 22:00:54",
       "album": {
-        "name": "UFO",
-        "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
+        "name": "Pixie's Parasol",
+        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 180364,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
+      "duration_ms": 182946,
+      "name": "Pixie's Parasol",
+      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
     },
     {
       "added_at": "2025-10-23 22:00:54",
@@ -807,22 +807,6 @@
       "duration_ms": 151139,
       "name": "anywhere",
       "url": "https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN"
-    },
-    {
-      "added_at": "2025-10-23 22:00:54",
-      "album": {
-        "name": "Walk",
-        "url": "https://open.spotify.com/album/7aoFAfqHjoHj8SyKR8lJEQ"
-      },
-      "artists": [
-        {
-          "name": "Isak Benjamin",
-          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
-        }
-      ],
-      "duration_ms": 225066,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/35zaTORnMc0IqYbgOAeZGN"
     },
     {
       "added_at": "2025-10-23 22:00:54",
@@ -859,22 +843,6 @@
     {
       "added_at": "2025-10-23 22:00:54",
       "album": {
-        "name": "Pixie's Parasol",
-        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Pixie's Parasol",
-      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
-    },
-    {
-      "added_at": "2025-10-23 22:00:54",
-      "album": {
         "name": "Wild Geese, Wild Love / Day 2000 Awake",
         "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
       },
@@ -887,6 +855,38 @@
       "duration_ms": 323386,
       "name": "Wild Geese, Wild Love",
       "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
+    },
+    {
+      "added_at": "2025-10-23 22:00:54",
+      "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 180364,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
+    },
+    {
+      "added_at": "2025-10-23 22:00:54",
+      "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/7aoFAfqHjoHj8SyKR8lJEQ"
+      },
+      "artists": [
+        {
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+        }
+      ],
+      "duration_ms": 225066,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/35zaTORnMc0IqYbgOAeZGN"
     },
     {
       "added_at": "2025-10-23 22:00:54",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-10-23 22:00:54",
       "album": {
-        "name": "venter p\u00e5 noen som venter p\u00e5 noen",
-        "url": "https://open.spotify.com/album/4LLXR5tKNKOxlG9h0FQacF"
-      },
-      "artists": [
-        {
-          "name": "Valkyrien Allstars",
-          "url": "https://open.spotify.com/artist/4E1kp6gNDweuoJ7UIrTbgU"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "Er du ensom har du meg",
-      "url": "https://open.spotify.com/track/2lnRijAqNKDZvpSxoIMJEs"
-    },
-    {
-      "added_at": "2025-10-23 22:00:54",
-      "album": {
         "name": "Peace Song",
         "url": "https://open.spotify.com/album/1bEBNy9nUcZhTCMwc6GDD1"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 170589,
       "name": "Peace Song",
       "url": "https://open.spotify.com/track/2RTGWy7mMTKcLeQiHapuTv"
+    },
+    {
+      "added_at": "2025-10-23 22:00:54",
+      "album": {
+        "name": "venter p\u00e5 noen som venter p\u00e5 noen",
+        "url": "https://open.spotify.com/album/4LLXR5tKNKOxlG9h0FQacF"
+      },
+      "artists": [
+        {
+          "name": "Valkyrien Allstars",
+          "url": "https://open.spotify.com/artist/4E1kp6gNDweuoJ7UIrTbgU"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "Er du ensom har du meg",
+      "url": "https://open.spotify.com/track/2lnRijAqNKDZvpSxoIMJEs"
     },
     {
       "added_at": "2025-10-23 22:00:54",
@@ -971,18 +971,18 @@
     {
       "added_at": "2025-10-23 22:00:54",
       "album": {
-        "name": "Something Good",
-        "url": "https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G"
+        "name": "Mamma og Pappa",
+        "url": "https://open.spotify.com/album/6WpwisMIzyL9deJ4veWlke"
       },
       "artists": [
         {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+          "name": "Jonas Alaska",
+          "url": "https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148"
         }
       ],
-      "duration_ms": 225939,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"
+      "duration_ms": 214008,
+      "name": "Mamma og Pappa",
+      "url": "https://open.spotify.com/track/2oiq7rEbWpXshuTIKnYFPX"
     }
   ],
   "unique_name": "Nordic Folk",

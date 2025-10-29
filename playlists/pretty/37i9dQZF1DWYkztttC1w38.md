@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 
 > Soothing classical music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,652 likes - 84 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,705 likes - 84 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 10 | [Ithaca Suite: IV\. Penelopeia](https://open.spotify.com/track/6Qw6T3l4tyQReC1CkvAhql) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Ithaca Suite/IV\. Penelopeia](https://open.spotify.com/album/0F5yKT6K8NbuXm1KPnPfnC) | 3:48 |
 | 11 | [Look Inside Yourself](https://open.spotify.com/track/52GQU2qUtb25jJEmg9hYcU) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Look Inside Yourself](https://open.spotify.com/album/6S0jnsTpJ5qoskAUyjXIm5) | 3:38 |
 | 12 | [Sapias](https://open.spotify.com/track/7hyHQiO8TcMnUmEsCBNK0g) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke), [Jonathan Stockhammer](https://open.spotify.com/artist/2PIjtepywKZwGT0mZIumrW) | [LIFE](https://open.spotify.com/album/1QZB5pIZbQ4FyPSYSujKfE) | 3:00 |
-| 13 | [Ravel: Pavane pour une infante défunte](https://open.spotify.com/track/2s5bkvRCBhv0sR8PGXGZMX) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Ravel: Pavane pour une infante défunte](https://open.spotify.com/album/4Z4eadBSahvMdFEaZKqwss) | 6:06 |
+| 13 | [Pavane pour une infante défunte, M\. 19](https://open.spotify.com/track/2s5bkvRCBhv0sR8PGXGZMX) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Pavane pour une infante défunte, M\. 19](https://open.spotify.com/album/4Z4eadBSahvMdFEaZKqwss) | 6:06 |
 | 14 | [Anima I](https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Anima I](https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG) | 3:01 |
 | 15 | [Piano Sonata No\. 13 in A Major, D\. 664: II\. Andante](https://open.spotify.com/track/5tuH2Zko07tCoJvvcvrWBQ) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Schubert: Piano Sonata in A Major, D\. 664; in E Minor, D\. 769a; in G Major, D\. 894](https://open.spotify.com/album/4OWWKtFGwUfc3lAKsf4bdG) | 3:51 |
 | 16 | [Pièces Lyriques, Op\. 47 No\. 3: Mélodie](https://open.spotify.com/track/6G6tIDO3rB8FktjkM70GGd) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Shani Diluka](https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73) | [Grieg: Concerto Pour Piano & Pièces Lyriques](https://open.spotify.com/album/63Vpar9SVMT2bnkS7sSXsN) | 4:16 |

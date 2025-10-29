@@ -6243,6 +6243,24 @@
     },
     {
       "album": {
+        "name": "Firestone",
+        "url": "https://open.spotify.com/album/4TaWdHYdwbHPb7kaHK8zjL"
+      },
+      "artists": [
+        {
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183903,
+      "name": "Firestone",
+      "url": "https://open.spotify.com/track/698sDDemmuKfYlRTzE1isu"
+    },
+    {
+      "album": {
         "name": "First And Last",
         "url": "https://open.spotify.com/album/6FPWvl23Upnc7vj5Sh0J2N"
       },
@@ -14776,6 +14794,24 @@
       "duration_ms": 146654,
       "name": "people pleaser",
       "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
+    },
+    {
+      "album": {
+        "name": "mood swings",
+        "url": "https://open.spotify.com/album/2jvTYHZayLQaa6ZPz5qqJe"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176373,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/0UO8qysepsd0eppPu7bYp0"
     },
     {
       "album": {

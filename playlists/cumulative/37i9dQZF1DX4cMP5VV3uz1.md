@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-526 songs - 1 day 6 hr 29 min
+527 songs - 1 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Lexa Lexa \- Ready Eddy Mix \- Mix Cut](https://open.spotify.com/track/2UtKeQZidK6R2jfWHj0G3t) | [Rachel Auburn](https://open.spotify.com/artist/6yMQGxoV5Fgg34STTam8GM), [Ready Eddy](https://open.spotify.com/artist/4rzmdF9vC4LvYBZG1YBwYe) | [The Tidy Boys Annual](https://open.spotify.com/album/6kufXwyn0bnbDF1S2oGKUx) | 5:08 | 2023-12-27 | 2024-01-12 |
 | [Lies](https://open.spotify.com/track/0cNL4jWf1723O9XI14KBus) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj) | [Lies](https://open.spotify.com/album/2T8U5mFu64bzFqi4rkTbqs) | 3:04 | 2024-07-25 | 2025-05-09 |
 | [Light Up](https://open.spotify.com/track/76nEx8wI5dCH3RKM2v0c2y) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Original Sin](https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV) | [Light Up](https://open.spotify.com/album/6CpfHRVUlOcrskTcK6lh7V) | 3:20 | 2025-03-14 | 2025-10-05 |
-| [Limit](https://open.spotify.com/track/6o865bk9l2pHEKtJ8Kosig) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Limit](https://open.spotify.com/album/6HrO5XQCBYC0YzXx4nAv3n) | 3:20 | 2025-06-12 |  |
+| [Limit](https://open.spotify.com/track/6o865bk9l2pHEKtJ8Kosig) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Limit](https://open.spotify.com/album/6HrO5XQCBYC0YzXx4nAv3n) | 3:20 | 2025-06-12 | 2025-10-29 |
 | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC) | 3:09 | 2023-09-22 | 2024-08-09 |
 | [Listen](https://open.spotify.com/track/05D17BU7wl5D6LdAYiKZvn) | [Tesen](https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP) | [Listen](https://open.spotify.com/album/5AqD3DHCwtloPO0oInSadE) | 4:25 | 2024-07-25 | 2024-10-19 |
 | [Lively \(feat\. Jaykae & Blair Muir\)](https://open.spotify.com/track/4LNJEZ4PEOZH6jyJuKEaUP) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [Lively \(feat\. Jaykae & Blair Muir\)](https://open.spotify.com/album/0Z8jfqzvBnUHiSfVBXXniD) | 2:32 | 2022-09-30 | 2024-06-28 |
@@ -522,6 +522,7 @@
 | [Whippet](https://open.spotify.com/track/0iJRGATJdTzyahu6s4S1eY) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Whippet](https://open.spotify.com/album/2IWRdfMEjaA1RHBEtNdkSn) | 4:18 | 2022-09-30 | 2023-05-20 |
 | [Who Are You](https://open.spotify.com/track/2kMOrYZoQRqqzmlnifAqrQ) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Club Glow](https://open.spotify.com/artist/5Cp4WbwocjJxNdVnDnJCaJ) | [Leng Club, Vol\. 1](https://open.spotify.com/album/1KHoOpJC09N123fcp0W1Ej) | 4:37 | 2023-09-22 | 2023-10-07 |
 | [Who's Got The Bag](https://open.spotify.com/track/0fquu5CejT76HhQejc6q7v) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Who's Got The Bag](https://open.spotify.com/album/7wqAIus994VXs9LH05VxdZ) | 2:45 | 2022-09-30 | 2023-05-20 |
+| [Whose It](https://open.spotify.com/track/3HvMWWY1wkKG7MFIVUme1o) | [Sustance](https://open.spotify.com/artist/3069G1J62ioGObj518Umm2), [Sylla](https://open.spotify.com/artist/3X2JC3TRBV13ERKkcIguiG) | [Whose It](https://open.spotify.com/album/2Nsnu2j7lJvxDybj7z5Slp) | 3:24 | 2025-10-23 |  |
 | [Wicked & Bad](https://open.spotify.com/track/29Q5RgWKJFf2SvlKuMgqWV) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Wicked & Bad](https://open.spotify.com/album/4T5Q0KhJLcB7PwtQJCm2NT) | 2:45 | 2025-01-17 | 2025-10-23 |
 | [Wicked & Dark](https://open.spotify.com/track/75LJrHZSecCSZoRiQWIgzA) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb) | [Wicked & Dark](https://open.spotify.com/album/0M2y4miuIWfGsUnQ9prMdW) | 3:10 | 2024-11-22 | 2025-08-23 |
 | [Wildfire](https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Wildfire](https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n) | 3:35 | 2024-08-02 | 2025-05-09 |

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22187,
+  "num_followers": 22190,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -595,26 +595,6 @@
     {
       "added_at": "2025-10-24 18:44:33",
       "album": {
-        "name": "1001 Noites",
-        "url": "https://open.spotify.com/album/3ztMzheeiFr2sy4Ttp85Fz"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "1001 Noites",
-      "url": "https://open.spotify.com/track/4OLaTkv5l7lIVksgS3bZ5p"
-    },
-    {
-      "added_at": "2025-10-24 18:44:33",
-      "album": {
         "name": "Mar de Rosas",
         "url": "https://open.spotify.com/album/3ZWi0l4tbZgHmIt4vhrPxN"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 165000,
       "name": "Mar de Rosas",
       "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
+    },
+    {
+      "added_at": "2025-10-24 18:44:33",
+      "album": {
+        "name": "1001 Noites",
+        "url": "https://open.spotify.com/album/3ztMzheeiFr2sy4Ttp85Fz"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "1001 Noites",
+      "url": "https://open.spotify.com/track/4OLaTkv5l7lIVksgS3bZ5p"
     },
     {
       "added_at": "2025-10-24 18:44:33",
@@ -903,26 +903,6 @@
     {
       "added_at": "2025-10-24 18:44:33",
       "album": {
-        "name": "P\u00f4kas / Mfalme",
-        "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
-      },
-      "artists": [
-        {
-          "name": "Amiri",
-          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
-        },
-        {
-          "name": "Deryck Cabrera",
-          "url": "https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd"
-        }
-      ],
-      "duration_ms": 345022,
-      "name": "P\u00f4kas",
-      "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
-    },
-    {
-      "added_at": "2025-10-24 18:44:33",
-      "album": {
         "name": "fases",
         "url": "https://open.spotify.com/album/2yT1thUgDc2RHUVpv37Uyb"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 163018,
       "name": "fases",
       "url": "https://open.spotify.com/track/65N0Fdt4dgCqjgg2uq6S9o"
+    },
+    {
+      "added_at": "2025-10-24 18:44:33",
+      "album": {
+        "name": "P\u00f4kas / Mfalme",
+        "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
+      },
+      "artists": [
+        {
+          "name": "Amiri",
+          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
+        },
+        {
+          "name": "Deryck Cabrera",
+          "url": "https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd"
+        }
+      ],
+      "duration_ms": 345022,
+      "name": "P\u00f4kas",
+      "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
     },
     {
       "added_at": "2025-10-24 18:44:33",

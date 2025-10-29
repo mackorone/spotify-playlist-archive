@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/4MiV6tlLQ1AS8x69y9LMnP"
+      },
+      "artists": [
+        {
+          "name": "Amazingblaze",
+          "url": "https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "Don't Starve",
+      "url": "https://open.spotify.com/track/49qCXbqIC7jhbveJUGe22K"
+    },
+    {
+      "album": {
         "name": "Hi This Is Flume (Mixtape)",
         "url": "https://open.spotify.com/album/2Vx9FC6Um8i6kEtY7HNswB"
       },

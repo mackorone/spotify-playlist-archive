@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 158252,
+  "num_followers": 158282,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "40 Vallenatos Poderosos",
+        "url": "https://open.spotify.com/album/1Su3Xen1N683ZWf7dNVYPZ"
+      },
+      "artists": [
+        {
+          "name": "Rudigo Vallenato",
+          "url": "https://open.spotify.com/artist/2ys5IS6DgjO7xSMAyPhl2Q"
+        }
+      ],
+      "duration_ms": 294746,
+      "name": "Paro de Mi Corazon",
+      "url": "https://open.spotify.com/track/1yFwCLlghy1oVAjVWs2plD"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Con Encanto Juvenil",
         "url": "https://open.spotify.com/album/1s1TCQtgacmElBiT55Dl6X"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 289173,
       "name": "En Cada Rinc\u00f3n",
       "url": "https://open.spotify.com/track/2SXQfJU9ccIXhEnRvBMdqn"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "40 Vallenatos Poderosos",
-        "url": "https://open.spotify.com/album/1Su3Xen1N683ZWf7dNVYPZ"
-      },
-      "artists": [
-        {
-          "name": "Rudigo Vallenato",
-          "url": "https://open.spotify.com/artist/2ys5IS6DgjO7xSMAyPhl2Q"
-        }
-      ],
-      "duration_ms": 294746,
-      "name": "Paro de Mi Corazon",
-      "url": "https://open.spotify.com/track/1yFwCLlghy1oVAjVWs2plD"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -919,8 +919,8 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 317760,
-      "name": "Entregame Tu Amor",
-      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
+      "duration_ms": 300346,
+      "name": "Nunca Niegues Que Te Amo",
+      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 267840,
+      "name": "A Besitos",
+      "url": "https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Vallenato en Accion: Lo M\u00e1s Grande del Vallenato",
         "url": "https://open.spotify.com/album/2Ew5ixwdQSRVOVS23vCSg5"
       },
@@ -967,6 +983,38 @@
       "duration_ms": 294546,
       "name": "En Carne Propia",
       "url": "https://open.spotify.com/track/2LktG0fR2WsNAF7ebHMqaL"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Mas Cerca De T\u00ed",
+        "url": "https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 298146,
+      "name": "Quiero Que Seas Mi Estrella",
+      "url": "https://open.spotify.com/track/0xkSIbrN1wLCjRHSZjpNHv"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 317760,
+      "name": "Entregame Tu Amor",
+      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -995,40 +1043,8 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 310306,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/1fbRYLGk6VJQheSL5XcFKj"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 300346,
-      "name": "Nunca Niegues Que Te Amo",
-      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Mas Vallenato",
-        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
       "artists": [
         {
@@ -1036,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 283293,
-      "name": "Cuando Casi Te Olvidaba",
-      "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
+      "duration_ms": 246506,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1075,26 +1091,6 @@
       "duration_ms": 273737,
       "name": "Te Ame",
       "url": "https://open.spotify.com/track/2HJI9kZjANmitAqylr44ra"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Celebrando",
-        "url": "https://open.spotify.com/album/2AqL8QyJsL9dB1mLZygptC"
-      },
-      "artists": [
-        {
-          "name": "Beto Zabaleta",
-          "url": "https://open.spotify.com/artist/797OTNZjzrWCZnkRVY1Gtp"
-        },
-        {
-          "name": "Franco Arg\u00fcelles",
-          "url": "https://open.spotify.com/artist/66pMOS7QsO8moXgL0Zza6q"
-        }
-      ],
-      "duration_ms": 322272,
-      "name": "Cuando la Vi",
-      "url": "https://open.spotify.com/track/0sAbSiHZXHdYrUdlbqZOYh"
     },
     {
       "added_at": "2024-03-28 01:45:52",

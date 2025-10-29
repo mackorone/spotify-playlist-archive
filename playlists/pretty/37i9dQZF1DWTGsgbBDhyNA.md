@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 
 > Y esa playlist nueva? 👀 Genuinamente las rolitas más virales para andar con madre… o no? por Aldo De Nigris
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,147 likes - 42 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,613 likes - 42 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

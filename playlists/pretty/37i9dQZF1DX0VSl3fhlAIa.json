@@ -1,6 +1,6 @@
 {
   "description": "Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.",
-  "num_followers": 1521,
+  "num_followers": 1527,
   "original_name": "Kimono R&B",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-09-30 15:00:36",
       "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/7D3tX9U9qzmr0HOiU3GlB7"
+      },
+      "artists": [
+        {
+          "name": "Tina",
+          "url": "https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L"
+        }
+      ],
+      "duration_ms": 346426,
+      "name": "I'll be there",
+      "url": "https://open.spotify.com/track/45wOY8aMv3FgERrGaFxWOd"
+    },
+    {
+      "added_at": "2025-09-30 15:00:36",
+      "album": {
         "name": "KTST",
         "url": "https://open.spotify.com/album/18Nw6tolNXkQ8s9m4x7d4a"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 167482,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/26rDgXiR1lkieexQ2hkBXk"
-    },
-    {
-      "added_at": "2025-09-30 15:00:36",
-      "album": {
-        "name": "Colorado",
-        "url": "https://open.spotify.com/album/7D3tX9U9qzmr0HOiU3GlB7"
-      },
-      "artists": [
-        {
-          "name": "Tina",
-          "url": "https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L"
-        }
-      ],
-      "duration_ms": 346426,
-      "name": "I'll be there",
-      "url": "https://open.spotify.com/track/45wOY8aMv3FgERrGaFxWOd"
     },
     {
       "added_at": "2025-09-30 15:00:36",

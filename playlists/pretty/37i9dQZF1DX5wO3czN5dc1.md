@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: CIZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,722 likes - 57 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,748 likes - 57 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

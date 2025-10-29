@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Mumford & Sons, Hozier
 
-390 songs - 1 day 1 hr 17 min
+392 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-02-13 | 2025-06-25 |
 | [Exhale](https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Exhale](https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60) | 3:16 | 2025-07-18 |  |
 | [Extraordinary Wings](https://open.spotify.com/track/0AhGvGEGReufQjUf1F63H7) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Extraordinary Wings](https://open.spotify.com/album/5e0XCIe5lOajksC70PMlMX) | 5:06 | 2025-01-31 | 2025-02-19 |
-| [Fantasize](https://open.spotify.com/track/0kAKh3iTGpzSuzCDqx0QtR) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [MADDER!](https://open.spotify.com/album/0ZgB3qvHqVJHau24Ckwfgf) | 3:23 | 2025-10-23 |  |
+| [Fantasize](https://open.spotify.com/track/0kAKh3iTGpzSuzCDqx0QtR) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [MADDER!](https://open.spotify.com/album/0ZgB3qvHqVJHau24Ckwfgf) | 3:23 | 2025-10-23 | 2025-10-29 |
 | [Fanzine Made Of Flesh](https://open.spotify.com/track/46nJ1hdWZQwdf2S8V8J9oP) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Fanzine Made Of Flesh](https://open.spotify.com/album/3zUw4o9L638CUXVjUfXfDf) | 4:34 | 2025-01-31 | 2025-02-13 |
 | [Far Out](https://open.spotify.com/track/4My8C3ATCIRDAj0aIf75KC) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Far Out](https://open.spotify.com/album/0ywPmzfGXuZFHoOnlzHNVJ) | 2:47 | 2024-07-18 | 2024-08-15 |
 | [Fashion Week](https://open.spotify.com/track/433HpKlid41v9T6ngkcTfu) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR) | [Fashion Week](https://open.spotify.com/album/7bLFCD6ileG1OIVhKBGugF) | 3:27 | 2024-08-14 | 2024-09-02 |
@@ -199,6 +199,7 @@
 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 | 2024-08-14 | 2025-10-24 |
 | [Kneel](https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Dancing Shoes](https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt) | 3:44 | 2025-07-03 |  |
 | [LA Runaway](https://open.spotify.com/track/3RHpo59t2CgyKlUGH2EXqX) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Night Life](https://open.spotify.com/album/3L09yca8KWKT7vNzVHKyQA) | 5:06 | 2025-03-21 | 2025-06-08 |
+| [Lake Run Drive](https://open.spotify.com/track/3CdtsOH0jiVvJVDDPAZXam) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Lake Run Drive](https://open.spotify.com/album/0swneIkCfAAXIl164byvJy) | 3:46 | 2025-10-23 |  |
 | [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-07-11 | 2025-05-09 |
 | [Lean Into The Wind](https://open.spotify.com/track/7khl86Ck9I8TD0Kj3PnfKB) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Lean Into The Wind](https://open.spotify.com/album/46RHH83L7ShCUAhnYm23Tt) | 3:47 | 2025-05-08 | 2025-07-10 |
 | [LIE DOWN..](https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [LIE DOWN..](https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf) | 5:09 | 2025-01-17 | 2025-06-04 |
@@ -229,6 +230,7 @@
 | [Max Potential](https://open.spotify.com/track/0zzmjCGOlgAsErLtTIfZa6) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Max Potential](https://open.spotify.com/album/5uheFqtWRggoJOZqdIkcIU) | 3:52 | 2025-05-30 | 2025-08-29 |
 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 | 2024-06-14 | 2024-08-14 |
 | [Maybe When We're 30](https://open.spotify.com/track/0MYQDeMtfpXFIN5zKYHlYv) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Maybe When We're 30](https://open.spotify.com/album/3eyTBdnCBCu3BEnrqoCpKM) | 4:27 | 2025-02-28 | 2025-05-09 |
+| [Medium Machine](https://open.spotify.com/track/3xMwy9ljKoGzh9jncmY8iu) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Medium Machine](https://open.spotify.com/album/4yVAM4UcoUOYoxd2DcRGW0) | 2:28 | 2025-10-23 |  |
 | [Mega Circuit](https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Mega Circuit](https://open.spotify.com/album/1hWuBWREfpHifHWl73XraS) | 3:04 | 2025-02-13 | 2025-05-18 |
 | [Melodie Is A Wound](https://open.spotify.com/track/4tajrt0QHkRxOKJ5yYHrGz) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Melodie Is A Wound](https://open.spotify.com/album/5ygWNctbub9K5CBaM8USu5) | 7:37 | 2025-05-08 | 2025-06-21 |
 | [Melodramatic Fanatic](https://open.spotify.com/track/6kJB0UAaSCnFCJMRc5nVze) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Melodramatic Fanatic](https://open.spotify.com/album/4WZlY1rMOLJsJJg0goAPq5) | 4:09 | 2025-05-08 |  |
@@ -346,7 +348,7 @@
 | [The Scene](https://open.spotify.com/track/0h4aBq7QsZiNwwsxQlwQoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Raspberry Moon](https://open.spotify.com/album/3MVdeSmUl32TTzLy6dFFtZ) | 2:21 | 2025-06-20 | 2025-09-04 |
 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 | 2025-09-04 |  |
 | [The Silence That Remains](https://open.spotify.com/track/2c7R7EiIW5s5u8CJGD1JQu) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [The Silence That Remains](https://open.spotify.com/album/4hEx4JzgPX0DxMZ0OA5Y95) | 5:42 | 2024-10-06 | 2025-03-23 |
-| [The Sofa](https://open.spotify.com/track/1ssxK9B6clZ8Gku2bYQHTh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/34fIl0miNnfkRTpejFsDXE) | 4:26 | 2025-07-18 |  |
+| [The Sofa](https://open.spotify.com/track/1ssxK9B6clZ8Gku2bYQHTh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/34fIl0miNnfkRTpejFsDXE) | 4:26 | 2025-07-18 | 2025-10-29 |
 | [The Sound And The Summer](https://open.spotify.com/track/4TydIMmvW6ugl5zEM5KbbJ) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Antidepressants](https://open.spotify.com/album/6N0IlrIaCkdqM4V6u3BYxk) | 3:42 | 2025-09-04 |  |
 | [The Spirit](https://open.spotify.com/track/4WnsGUynB9D65tenA7U5gI) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Tall Tales](https://open.spotify.com/album/6KIRln7GBcc3eO22UDy8T2) | 4:55 | 2025-05-08 | 2025-07-29 |
 | [The Thief](https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [People Who Aren’t There Anymore](https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM) | 3:21 | 2024-06-14 | 2025-03-22 |

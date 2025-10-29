@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-392 songs - 22 hr 41 min
+394 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Shake It Now.](https://open.spotify.com/track/5PQt3xVYvS9kE2N7r8eHxW) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [rendez\-vous](https://open.spotify.com/album/3Oks0VL5KDShvcuNS4LSSJ) | 3:16 | 2023-11-27 |  |
 | [She looks kind of sleepy](https://open.spotify.com/track/4nDsiaMcZwD1fQ8uYC5QyM) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [She looks kind of sleepy](https://open.spotify.com/album/4JUsEqaGD9kmzYWZjgK1j2) | 3:08 | 2025-08-25 |  |
 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-10-14 |  |
+| [SickS ckS](https://open.spotify.com/track/2NEUbfNRmFYxd4tlcYgBfF) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [THIS IS JAPANESE GIRL](https://open.spotify.com/album/1uOwGiCEqP2wzogsNBSsiS) | 5:02 | 2025-10-28 |  |
 | [sifflet](https://open.spotify.com/track/426JELf4IKUDygeeSC2p5Q) | [rillrail](https://open.spotify.com/artist/7poCU746QVt1c794QGAO5d) | [sifflet / identity](https://open.spotify.com/album/5FCe9DeF7McTUnx8Z7msUW) | 3:34 | 2025-04-21 |  |
 | [SISTERS](https://open.spotify.com/track/4vvqRZm4dXnzP07bUGoCj5) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [misérable](https://open.spotify.com/album/1C8X9L62l1qMjyDQjqK5gt) | 2:59 | 2025-06-30 |  |
 | [SIU](https://open.spotify.com/track/22tot0Y6uKuWdAZnEQyB6g) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 4:38 | 2022-03-16 |  |
@@ -261,6 +262,7 @@
 | [けーたいみしてよ](https://open.spotify.com/track/2lM1Qox6qq2bU7zKJyVt9p) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [けーたいみしてよ](https://open.spotify.com/album/4DHNe9ihe9Lnc9i5RkbgX7) | 2:12 | 2024-09-07 |  |
 | [これを依存と呼ぶなら](https://open.spotify.com/track/1Oe45Ze9SwanHB2vL7gY9H) | [MEJIBRAY](https://open.spotify.com/artist/6VeP6EHKYyGJrN60TlAPpo) | [Slivers.exe](https://open.spotify.com/album/3Nh4cuCIR5iHJyv07kCoRL) | 5:40 | 2025-09-16 |  |
 | [さみしいひと](https://open.spotify.com/track/7zzjQ4NWOgAjCdsFGdoFKh) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [NEW ROMANCER](https://open.spotify.com/album/4oXJbsrzcBWP3Jf07jkOGO) | 3:02 | 2024-06-26 |  |
+| [すき、きらい](https://open.spotify.com/track/64ttfvrrWBI9mt6B3nrnZH) | [ファントムシータ](https://open.spotify.com/artist/6JO3HrRYUfSMbe71R7RUF2) | [すき、きらい](https://open.spotify.com/album/17CK4Um2qgC3So9LLHYsN4) | 4:25 | 2025-10-28 |  |
 | [ただ病名が欲しかった](https://open.spotify.com/track/6d3GDEnwhSC2zSpBhN9zaZ) | [kyiku](https://open.spotify.com/artist/5eE5UwQWBq47o0U1K63i6P) | [ただ病名が欲しかった](https://open.spotify.com/album/6eJH1nePY7LemgUbUXmjGY) | 3:14 | 2024-11-18 |  |
 | [たぶん](https://open.spotify.com/track/398dL22bDbKbAmiOnPaq7o) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:16 | 2023-01-03 |  |
 | [だいあるのーと](https://open.spotify.com/track/3c4iCaXVuJaASqIvPLm7ts) | [七草くりむ](https://open.spotify.com/artist/0sGCkyb5YJyxNdfkW7t4mw) | [だいあるのーと](https://open.spotify.com/album/3WCajPUTbYJCW1el4yQCi1) | 2:00 | 2024-08-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1209338,
+  "num_followers": 1209544,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP1kgAAAAAAWc8a2gVNQ8s3lqR92Cwj+",
+  "snapshot_id": "aP62AAAAAABhmg8nt/nWOeX2WvCZDhkH",
   "tracks": [
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humanz (Deluxe)",
-        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Peven Everett",
-          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
-        }
-      ],
-      "duration_ms": 272666,
-      "name": "Strobelite (feat. Peven Everett)",
-      "url": "https://open.spotify.com/track/6XGddj522FQRHXEhBtjiJu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Manifesto (feat. Trueno and Proof)",
         "url": "https://open.spotify.com/album/7HBn6PIN42sUmSe6Ao694s"
       },
@@ -799,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Humanz (Deluxe)",
+        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Peven Everett",
+          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
+        }
+      ],
+      "duration_ms": 272666,
+      "name": "Strobelite (feat. Peven Everett)",
+      "url": "https://open.spotify.com/track/6XGddj522FQRHXEhBtjiJu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Now Now",
         "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
       },
@@ -811,26 +811,6 @@
       "duration_ms": 248493,
       "name": "Kansas",
       "url": "https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gorillaz",
-        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Miho Hatori",
-          "url": "https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja"
-        }
-      ],
-      "duration_ms": 220840,
-      "name": "Re-Hash",
-      "url": "https://open.spotify.com/track/0dYN5MqKzCfdpDb1bgvdsm"
     },
     {
       "added_at": null,
@@ -855,6 +835,26 @@
       "duration_ms": 221386,
       "name": "Momentary Bliss (feat. slowthai and Slaves)",
       "url": "https://open.spotify.com/track/5h5FY6vmtDpgXF91BUexO0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Miho Hatori",
+          "url": "https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja"
+        }
+      ],
+      "duration_ms": 220840,
+      "name": "Re-Hash",
+      "url": "https://open.spotify.com/track/0dYN5MqKzCfdpDb1bgvdsm"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fall",
-        "url": "https://open.spotify.com/album/5jJGGsAztgUEXUHHZ2zrah"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Revolving Doors",
-      "url": "https://open.spotify.com/track/4IekHBYUwUNLILgA9R22OD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Machine, Season One: Strange Timez (Deluxe)",
         "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/5jJGGsAztgUEXUHHZ2zrah"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Revolving Doors",
+      "url": "https://open.spotify.com/track/4IekHBYUwUNLILgA9R22OD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Got the Power (feat. Jehnny Beth) [Claptone Remix]",
         "url": "https://open.spotify.com/album/06RqqeArD7wnwaNBZrY71a"
       },
@@ -971,8 +971,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cracker Island (Deluxe)",
-        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
+        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
+        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
       },
       "artists": [
         {
@@ -980,13 +980,17 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Del The Funky Homosapien",
-          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+          "name": "Peter Hook",
+          "url": "https://open.spotify.com/artist/7yE0pgnhHPnPk4GZVuEpZM"
+        },
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
         }
       ],
-      "duration_ms": 111066,
-      "name": "Captain Chicken (feat. Del The Funky Homosapien)",
-      "url": "https://open.spotify.com/track/24LSAGp2LmT1Kd6y8PPFr2"
+      "duration_ms": 253333,
+      "name": "Aries (feat. Peter Hook and Georgia)",
+      "url": "https://open.spotify.com/track/25Gp0MpGdvrs4hL1u4L2TF"
     }
   ],
   "unique_name": "This Is Gorillaz",

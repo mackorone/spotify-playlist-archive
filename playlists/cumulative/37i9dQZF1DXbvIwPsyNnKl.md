@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Loonie, Arthur Nery
 
-331 songs - 18 hr 31 min
+332 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Blue Maserati](https://open.spotify.com/track/45qFjW431flcxGBBIRQmsp) | [SCOOP DOGG](https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [Blue Maserati](https://open.spotify.com/album/4PbwgOgtqQkVFOdp7VFBw0) | 3:05 | 2025-10-22 |  |
 | [BMW](https://open.spotify.com/track/7C9Knp9FzLY6RwgktmW9Ge) | [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [Leslie](https://open.spotify.com/artist/4ISAzgKYMuonWbDhueeoEq) | [Heartbreak SZN 2](https://open.spotify.com/album/4DMjaQksbK2Ccrevh7Qy1B) | 2:48 | 2023-09-20 | 2024-02-22 |
 | [BNK](https://open.spotify.com/track/3cWuWcQwMxakmBaZCFZkEZ) | [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [BNK](https://open.spotify.com/album/3m1UaRihvthpt8Ss2SOMrV) | 3:16 | 2024-02-14 | 2024-05-09 |
-| [Bonethugs](https://open.spotify.com/track/2TpNXamV2wFVFu7guMmHWo) | [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD), [Abaddon](https://open.spotify.com/artist/74yfTxb5doXjUcv0g1DaMi) | [Bonethugs](https://open.spotify.com/album/5eg5LO51rOWBkQ0EOK6EvN) | 3:39 | 2025-08-13 |  |
+| [Bonethugs](https://open.spotify.com/track/2TpNXamV2wFVFu7guMmHWo) | [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD), [Abaddon](https://open.spotify.com/artist/74yfTxb5doXjUcv0g1DaMi) | [Bonethugs](https://open.spotify.com/album/5eg5LO51rOWBkQ0EOK6EvN) | 3:39 | 2025-08-13 | 2025-10-29 |
 | [Boyfriend](https://open.spotify.com/track/4067uAzJZUHJInwOo7X701) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Boyfriend](https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf) | 4:53 | 2024-08-14 | 2025-09-18 |
 | [Bukas Pa](https://open.spotify.com/track/62I2yNEQVegBCapuS7UPSd) | [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B) | [Bukas Pa](https://open.spotify.com/album/6HVeMy5Sxr3T54MvPYWKE6) | 3:45 | 2024-07-31 | 2024-09-05 |
 | [BULLETPOOF](https://open.spotify.com/track/4vzMyJMRpDb06p5gdQdyAN) | [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B), [Wavyier](https://open.spotify.com/artist/5BiH3cDOIyyAQixJ0JcyNw) | [BULLETPOOF](https://open.spotify.com/album/0Tny996mCnH3DtJ4YRVJMI) | 3:00 | 2025-04-02 | 2025-10-02 |
@@ -113,6 +113,7 @@
 | [G Luv](https://open.spotify.com/track/2O9suqOFtahgIoIwLbWYpP) | [1550 Collective](https://open.spotify.com/artist/6pFVpPXx3hu9oid9hLKWeI) | [G Luv](https://open.spotify.com/album/2Y4kFBXNRJYcaK4p2qZhvx) | 7:16 | 2025-05-28 |  |
 | [GANG KO](https://open.spotify.com/track/6hIn7q8ZpAknIteqnU2Ry0) | [OLG Zak](https://open.spotify.com/artist/3cAaV8C5Lgdvtib9ub4EGs), [Ryouji](https://open.spotify.com/artist/0LxWnRbSp4xZBKzNYjc3V4), [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [GANG KO](https://open.spotify.com/album/3w1V4odtN7KuuEPDZzOTAg) | 3:17 | 2025-01-01 | 2025-03-19 |
 | [Ganun Talaga](https://open.spotify.com/track/7nwD00jIeBrnS0Ay9abC4T) | [1096 Gang](https://open.spotify.com/artist/1HkpK55jsORzgtOURbOeQH) | [Ganun Talaga](https://open.spotify.com/album/0egGF5IBQDYkzc74NLDqwf) | 3:49 | 2024-07-24 | 2024-11-06 |
+| [Get Dat](https://open.spotify.com/track/0tiTHNFceq3bd9oFv8w5fq) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Get Dat](https://open.spotify.com/album/1bsM1bf9DHxnFrnHO7tkun) | 2:10 | 2025-10-29 |  |
 | [Get Low](https://open.spotify.com/track/2kbNBhtgGiTxBuZTCXiQVY) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv) | [Get Low](https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn) | 2:33 | 2023-12-27 | 2025-04-17 |
 | [Get That Peso \(Crank Dat\)](https://open.spotify.com/track/53CyvLDorWmatOzIlYJsHr) | [Matt White](https://open.spotify.com/artist/5wwh2J5HHs38gBfeOUgK93), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [Get That Peso \(Crank Dat\)](https://open.spotify.com/album/1dvuTTGbwRqXvNpvqA1AUS) | 3:19 | 2025-07-23 | 2025-10-16 |
 | [Girl U Gotta Go](https://open.spotify.com/track/54xW6CkZ9slyKusgzgV0Xe) | [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E), [JP Bacallan](https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG) | [2Joints & Harmony](https://open.spotify.com/album/1S6eRgOjstTyFejRWOf58L) | 2:47 | 2025-02-06 | 2025-05-08 |

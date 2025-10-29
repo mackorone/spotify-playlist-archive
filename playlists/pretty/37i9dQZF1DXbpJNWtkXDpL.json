@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
-  "num_followers": 92282,
+  "num_followers": 92278,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "Hesitated",
+        "url": "https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp"
+      },
+      "artists": [
+        {
+          "name": "Jack Rabbit",
+          "url": "https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp"
+        }
+      ],
+      "duration_ms": 160426,
+      "name": "Hesitated",
+      "url": "https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "Bailar",
         "url": "https://open.spotify.com/album/1V2DA85OwMHvNIxFKsVzxt"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 208639,
       "name": "Bailar",
       "url": "https://open.spotify.com/track/2mZ0Wx315hGFz3TgnUX6bg"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "Hesitated",
-        "url": "https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp"
-      },
-      "artists": [
-        {
-          "name": "Jack Rabbit",
-          "url": "https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "Hesitated",
-      "url": "https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Ya no queda nada nada",
-        "url": "https://open.spotify.com/album/1TdeqMkRrs3bVX4FHaOZK6"
-      },
-      "artists": [
-        {
-          "name": "Maria Nastenka",
-          "url": "https://open.spotify.com/artist/3lBHS637GuNHZBVR3GIv1t"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Ya no queda nada nada",
-      "url": "https://open.spotify.com/track/40I8URgHCw8FLR7Ruw6dy0"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Sticky",
         "url": "https://open.spotify.com/album/2YqknpnTeKNkJUJqK8w098"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 158250,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/7w5URvpnvMCDZo7z3wOPrZ"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Ya no queda nada nada",
+        "url": "https://open.spotify.com/album/1TdeqMkRrs3bVX4FHaOZK6"
+      },
+      "artists": [
+        {
+          "name": "Maria Nastenka",
+          "url": "https://open.spotify.com/artist/3lBHS637GuNHZBVR3GIv1t"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Ya no queda nada nada",
+      "url": "https://open.spotify.com/track/40I8URgHCw8FLR7Ruw6dy0"
     },
     {
       "added_at": "2025-10-03 06:00:06",

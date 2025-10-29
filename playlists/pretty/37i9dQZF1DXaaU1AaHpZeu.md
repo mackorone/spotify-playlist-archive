@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con Depresión Sonora en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,072 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,040 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 11 | [El Verdugo](https://open.spotify.com/track/5LOPIEbkLGsgmn4KfLuNAq) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [El Verdugo](https://open.spotify.com/album/7pL9pdUY8j7CnTSJlppQ2m) | 2:52 |
 | 12 | [Mi Amor](https://open.spotify.com/track/3TmS1m0F19Em7XcmK1gNZk) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY), [Anouck The Band](https://open.spotify.com/artist/6JM2EjjDGfDztVwi1wO6Ag) | [Mi Amor](https://open.spotify.com/album/5wJyLHnAsCArgtjp52vUHM) | 2:48 |
 | 13 | [Zorro](https://open.spotify.com/track/3wpwKI50UA6D2kMSd6gOzT) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu) | [Zorro](https://open.spotify.com/album/0safdYHz6zOlYLpBJwMlKs) | 2:14 |
-| 14 | [Pena con Prisa \- radio edit](https://open.spotify.com/track/2OlInoWxzTFlX1Yrmk2gbI) | [Lucano y Los Asoleaos](https://open.spotify.com/artist/2XeD8D3lsRpdECerxMYmRk) | [Pena con Prisa \(Radio edit\)](https://open.spotify.com/album/3nHIFVsknbMEknadJK0ugJ) | 3:27 |
+| 14 | [Pena con Prisa \- radio edit](https://open.spotify.com/track/2OlInoWxzTFlX1Yrmk2gbI) | [Lucano y Los Asoleaos](https://open.spotify.com/artist/2XeD8D3lsRpdECerxMYmRk) | [Pena con Prisa](https://open.spotify.com/album/3nHIFVsknbMEknadJK0ugJ) | 3:27 |
 | 15 | [La Rueda](https://open.spotify.com/track/42OXlU9mpeDlUOGOVnBoUF) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [La Rueda](https://open.spotify.com/album/2wHh1EMdwxfzwgJTPkDIjm) | 3:08 |
 | 16 | [Infierno Favorito](https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Infierno Favorito](https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H) | 3:34 |
 | 17 | [Estahabilidad](https://open.spotify.com/track/31Z965Ce1s5LAwvpebQivj) | [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo), [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre) | [Estahabilidad](https://open.spotify.com/album/3882ahkKEAR5mF8vNmuBFW) | 2:54 |

@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Cornelio Vega y Su Dinast\u00eda en portada.",
-  "num_followers": 518886,
+  "num_followers": 518973,
   "original_name": "Norte\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -439,18 +439,22 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "X Perro",
-        "url": "https://open.spotify.com/album/5bneoIW82fBlBZSoSLSnE3"
+        "name": "CUANDO NADIE LA VE",
+        "url": "https://open.spotify.com/album/3eocAlRtj5bR8ogB2TaSsQ"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 144984,
-      "name": "X Perro",
-      "url": "https://open.spotify.com/track/31YMy2oiue0habrdFfAHTC"
+      "duration_ms": 146417,
+      "name": "CUANDO NADIE LA VE",
+      "url": "https://open.spotify.com/track/2UWESgzYXfiraEusfJbFem"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -471,6 +475,22 @@
       "duration_ms": 159551,
       "name": "Pienso En Ella",
       "url": "https://open.spotify.com/track/2A7bKx16cVAOkLla98qzMx"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "X Perro",
+        "url": "https://open.spotify.com/album/5bneoIW82fBlBZSoSLSnE3"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 144984,
+      "name": "X Perro",
+      "url": "https://open.spotify.com/track/31YMy2oiue0habrdFfAHTC"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -507,26 +527,6 @@
       "duration_ms": 205102,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/04XBgrCUFpffgpTIf92keL"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
-        "name": "CUANDO NADIE LA VE",
-        "url": "https://open.spotify.com/album/3eocAlRtj5bR8ogB2TaSsQ"
-      },
-      "artists": [
-        {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 146417,
-      "name": "CUANDO NADIE LA VE",
-      "url": "https://open.spotify.com/track/2UWESgzYXfiraEusfJbFem"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Mami",
-        "url": "https://open.spotify.com/album/6RUpyrHMlNdwnWnWk5mI8R"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 193843,
-      "name": "Mami",
-      "url": "https://open.spotify.com/track/6hH2mh9ZttaTSCEhjsu9Lb"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "Un Mill\u00f3n De Primaveras",
         "url": "https://open.spotify.com/album/2HSpiTwy6jsiHkZPNr2Otw"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 183114,
       "name": "Un Mill\u00f3n De Primaveras",
       "url": "https://open.spotify.com/track/5ovxPSFmeI3ZadzyySBz1B"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "Mami",
+        "url": "https://open.spotify.com/album/6RUpyrHMlNdwnWnWk5mI8R"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 193843,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/6hH2mh9ZttaTSCEhjsu9Lb"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -903,38 +903,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Atenci\u00f3n Al Cliente",
-        "url": "https://open.spotify.com/album/2KBfFANCWLTpvLUVLvl09O"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "Al Natural",
-      "url": "https://open.spotify.com/track/3K3ZNUBVl9Stt5OXO6HdUa"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 121151,
-      "name": "Que Sube Y Baja (En Vivo)",
-      "url": "https://open.spotify.com/track/6ibESFw31H1shORQnJlNo8"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "NO QUE NO",
         "url": "https://open.spotify.com/album/26GjwBUtY7YmULJpMuiWoN"
       },
@@ -955,6 +923,38 @@
       "duration_ms": 149655,
       "name": "NO QUE NO",
       "url": "https://open.spotify.com/track/4jcRduigE9cWdQ4i8TLAy4"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 121151,
+      "name": "Que Sube Y Baja (En Vivo)",
+      "url": "https://open.spotify.com/track/6ibESFw31H1shORQnJlNo8"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "Atenci\u00f3n Al Cliente",
+        "url": "https://open.spotify.com/album/2KBfFANCWLTpvLUVLvl09O"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "Al Natural",
+      "url": "https://open.spotify.com/track/3K3ZNUBVl9Stt5OXO6HdUa"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Recordando A Mis Viejos",
-        "url": "https://open.spotify.com/album/53Gr8lqnS1EIOaIXnLG2Vw"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 207498,
-      "name": "Ausencia Eterna",
-      "url": "https://open.spotify.com/track/43fY4ZQ1x3Ga0UuKazgbEJ"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "A Ella",
         "url": "https://open.spotify.com/album/1EBMnchSkGgyqMEWZjGHMb"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 227913,
       "name": "A Ella",
       "url": "https://open.spotify.com/track/3vmEsi6T55bcW6jEOJUXZi"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "Recordando A Mis Viejos",
+        "url": "https://open.spotify.com/album/53Gr8lqnS1EIOaIXnLG2Vw"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 207498,
+      "name": "Ausencia Eterna",
+      "url": "https://open.spotify.com/track/43fY4ZQ1x3Ga0UuKazgbEJ"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Tus L\u00e1grimas",
-        "url": "https://open.spotify.com/album/7j5pVPHj0R86GO7MH3I00a"
-      },
-      "artists": [
-        {
-          "name": "La F\u00f3rmula",
-          "url": "https://open.spotify.com/artist/3Cdm0n7u3cH5vVioNaByZ0"
-        }
-      ],
-      "duration_ms": 208295,
-      "name": "Tus L\u00e1grimas",
-      "url": "https://open.spotify.com/track/6gq1Octkv0VQAqFWR5zoBx"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "Al Diablo Tu Ausencia",
         "url": "https://open.spotify.com/album/3dLTkDINGMdEBJOv2nG2Dz"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 204413,
       "name": "Al Diablo Tu Ausencia",
       "url": "https://open.spotify.com/track/7vNoUdhkr9q4BnlKAT6BsN"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "Tus L\u00e1grimas",
+        "url": "https://open.spotify.com/album/7j5pVPHj0R86GO7MH3I00a"
+      },
+      "artists": [
+        {
+          "name": "La F\u00f3rmula",
+          "url": "https://open.spotify.com/artist/3Cdm0n7u3cH5vVioNaByZ0"
+        }
+      ],
+      "duration_ms": 208295,
+      "name": "Tus L\u00e1grimas",
+      "url": "https://open.spotify.com/track/6gq1Octkv0VQAqFWR5zoBx"
     },
     {
       "added_at": "2025-10-17 06:00:27",

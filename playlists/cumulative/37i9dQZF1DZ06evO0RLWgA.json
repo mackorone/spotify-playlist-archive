@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 172400,
       "name": "Mr. Lucky",
       "url": "https://open.spotify.com/track/69lFRWBkVZEFxkQ79wZ9Is"
@@ -1742,6 +1742,28 @@
       "duration_ms": 281440,
       "name": "Mr. Lucky",
       "url": "https://open.spotify.com/track/3MvJHgY3n4VSb4GEKYUlLl"
+    },
+    {
+      "album": {
+        "name": "Mr. Lucky",
+        "url": "https://open.spotify.com/album/3t99XEvm7voCGPI7Od66FZ"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281386,
+      "name": "Mr. Lucky - feat. Robert Cray",
+      "url": "https://open.spotify.com/track/5UEdjD2S5gZwvOVYwIx3oL"
     },
     {
       "album": {

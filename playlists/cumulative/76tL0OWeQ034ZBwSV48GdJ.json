@@ -2387,6 +2387,28 @@
     },
     {
       "album": {
+        "name": "Lebendig",
+        "url": "https://open.spotify.com/album/7EkFA36dJZBWcTtyqAuj2D"
+      },
+      "artists": [
+        {
+          "name": "Lukas Meunier",
+          "url": "https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH"
+        },
+        {
+          "name": "Lilly BG",
+          "url": "https://open.spotify.com/artist/7bCmyVBrPJmOHKQeSO32Wa"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243310,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/0d5MXy7xzpDcefjJjG2ru7"
+    },
+    {
+      "album": {
         "name": "MONEY ON THE DASH - Marlon Hoffstadt aka DJ Daddy Trance Remix",
         "url": "https://open.spotify.com/album/5rAc78sdKRhyxYDCTfp2N8"
       },
@@ -4924,7 +4946,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 228099,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3"

@@ -4,7 +4,7 @@
 
 > 蓮ノ空女学院スクールアイドルクラブ」の楽曲を1つのプレイリストで。Enjoy music from " LoveLive! HASU NO SORA JOGAKUIN SCHOOL IDOL CLUB"\. ©プロジェクトラブライブ！蓮ノ空女学院スクールアイドルクラブ
 
-100 songs - 6 hr 28 min
+101 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [夏めきペイン](https://open.spotify.com/track/148uTsn9kKxChwzOuIIi2l) | [蓮ノ空女学院スクールアイドルクラブ](https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb) | [夏めきペイン](https://open.spotify.com/album/3Vre0ze8CjAYmoNK11UIBC) | 3:23 | 2025-07-08 |  |
 | [天才なのかもしれない](https://open.spotify.com/track/1Z9hZGB7CuqerfB9uMdmpC) | [みらくらぱーく!](https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4) | [アイデンティティ](https://open.spotify.com/album/2wjBV7vm9oxEpANVyigLxp) | 3:48 | 2025-07-08 |  |
 | [希望的プリズム](https://open.spotify.com/track/4OPdlBfFo2R8W3tUQz3mhn) | [DOLLCHESTRA](https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh) | [Sparkly Spot](https://open.spotify.com/album/71rk6vKo7WdBapndKSaeei) | 4:17 | 2025-07-08 |  |
+| [平成ギャルズ!!!!](https://open.spotify.com/track/49SFeta2aqROCS0PQS2Jjh) | [Ruri&To](https://open.spotify.com/artist/7dP4RYAdWwFCtLYhiTs8ME) | [平成ギャルズ!!!!](https://open.spotify.com/album/1awFnzoPBSCYBpLGraMy7F) | 4:04 | 2025-10-28 |  |
 | [幸せのリボン](https://open.spotify.com/track/1llHp5hjcDtlH1SpIGCh7P) | [夕霧綴理 \(CV.佐々木琴子\)](https://open.spotify.com/artist/4cMewyzpRAVF5f6zKzNFIN) | [蓮ノ空女学院スクールアイドルクラブ ～Star Sign Memories～ Yugiri Tsuzuri](https://open.spotify.com/album/46HF4rl1U87ZKxj6rq8QaP) | 3:53 | 2025-07-08 |  |
 | [恋景色昭和ロマン](https://open.spotify.com/track/6rIVZEeWs4t7qbFq87ajQ5) | [スリーズブーケ](https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM) | [おいでよ！石川大観光](https://open.spotify.com/album/2LrYMDymVNT5bBK3RLIXfo) | 3:55 | 2025-07-08 |  |
 | [恥は人生のかきすて](https://open.spotify.com/track/7D3uKdAWAD4lzBEm85cQVS) | [百生吟子 \(CV.櫻井陽菜\)](https://open.spotify.com/artist/17OWS3GLwbFwMpRnasLkyc), [徒町小鈴 \(CV.葉山風花\)](https://open.spotify.com/artist/6iJqpLVq38Vj6XGAnXtCaU), [安養寺姫芽 \(CV.来栖りん\)](https://open.spotify.com/artist/2xe8iVirLnRdn2FKpZCXeW) | [おいでよ！石川大観光](https://open.spotify.com/album/2LrYMDymVNT5bBK3RLIXfo) | 4:00 | 2025-07-08 |  |

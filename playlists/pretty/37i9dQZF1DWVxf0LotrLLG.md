@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,103 likes - 379 songs - 20 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,112 likes - 379 songs - 20 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

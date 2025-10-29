@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 73546,
+  "num_followers": 73553,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Z\u0142oto",
+        "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Duety",
         "url": "https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 263853,
       "name": "Trudno Tak (Razem By\u0107 Nam Ze Sob\u0105)",
       "url": "https://open.spotify.com/track/2XaWRFfWAopw4MjhWzuJ15"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Z\u0142oto",
-        "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
-      "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Smak Sl\u00f3w",
-        "url": "https://open.spotify.com/album/1RIh9Iefgwd46J99dRnTez"
-      },
-      "artists": [
-        {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "Smak s\u0142\u00f3w",
-      "url": "https://open.spotify.com/track/41MO9m7z2mECLpwpX340NU"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "O nich, o Tobie",
         "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 147417,
       "name": "O nich, o Tobie",
       "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Smak Sl\u00f3w",
+        "url": "https://open.spotify.com/album/1RIh9Iefgwd46J99dRnTez"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "Smak s\u0142\u00f3w",
+      "url": "https://open.spotify.com/track/41MO9m7z2mECLpwpX340NU"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Ballady",
-        "url": "https://open.spotify.com/album/7odRFyosv4azI3uenvDJq0"
-      },
-      "artists": [
-        {
-          "name": "Bajm",
-          "url": "https://open.spotify.com/artist/1ckVZCWKKoeh5GhtidoU4D"
-        }
-      ],
-      "duration_ms": 319346,
-      "name": "Dwa serca, dwa smutki",
-      "url": "https://open.spotify.com/track/0hmuqBnZVaud5KU7lMRJlE"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
         "url": "https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Poganie! Kochaj i Obra\u017caj",
-        "url": "https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L"
+        "name": "Ballady",
+        "url": "https://open.spotify.com/album/7odRFyosv4azI3uenvDJq0"
       },
       "artists": [
         {
-          "name": "R\u00f3\u017ce Europy",
-          "url": "https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l"
+          "name": "Bajm",
+          "url": "https://open.spotify.com/artist/1ckVZCWKKoeh5GhtidoU4D"
         }
       ],
-      "duration_ms": 369200,
-      "name": "Jedwab",
-      "url": "https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn"
+      "duration_ms": 319346,
+      "name": "Dwa serca, dwa smutki",
+      "url": "https://open.spotify.com/track/0hmuqBnZVaud5KU7lMRJlE"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1107,6 +1091,22 @@
       "duration_ms": 202127,
       "name": "Pomimo Burz",
       "url": "https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Poganie! Kochaj i Obra\u017caj",
+        "url": "https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3\u017ce Europy",
+          "url": "https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l"
+        }
+      ],
+      "duration_ms": 369200,
+      "name": "Jedwab",
+      "url": "https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Polska nostalgia 60+ Cz. 4",
-        "url": "https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4"
-      },
-      "artists": [
-        {
-          "name": "2 + 1",
-          "url": "https://open.spotify.com/artist/0QEpcs3nm7UnAMcqL2zrcW"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
-      "url": "https://open.spotify.com/track/4ugeq72uzChJZAgvqwD9ub"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Tylko Mnie Kochaj",
         "url": "https://open.spotify.com/album/2oHewePut3hKygGxcCNaLR"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 169813,
       "name": "Tylko mnie kochaj",
       "url": "https://open.spotify.com/track/1LrSloV35nuQQ2FoUA1gIk"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Polska nostalgia 60+ Cz. 4",
+        "url": "https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4"
+      },
+      "artists": [
+        {
+          "name": "2 + 1",
+          "url": "https://open.spotify.com/artist/0QEpcs3nm7UnAMcqL2zrcW"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
+      "url": "https://open.spotify.com/track/4ugeq72uzChJZAgvqwD9ub"
     },
     {
       "added_at": "2025-10-16 09:34:51",

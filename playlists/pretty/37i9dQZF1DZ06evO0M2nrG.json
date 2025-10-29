@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP1kgAAAAAAf9B05jz04karU8LO251/r",
+  "snapshot_id": "aP62AAAAAAB3eh9Z61tfEZKkQNRY5pPD",
   "tracks": [
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dif\u00edcile",
-        "url": "https://open.spotify.com/album/6t85fg00KndK1zWBdyj8ZY"
-      },
-      "artists": [
-        {
-          "name": "Venesti",
-          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "Dif\u00edcile",
-      "url": "https://open.spotify.com/track/12R30HT6UksiNj4ry0hiuy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ella Es Pa MI",
         "url": "https://open.spotify.com/album/2Stw5cW8fi6fvu4f8BBYTV"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 182040,
       "name": "Ella Es Pa MI",
       "url": "https://open.spotify.com/track/4jGNTiWNeLrvb9jadmBhNu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dif\u00edcile",
+        "url": "https://open.spotify.com/album/6t85fg00KndK1zWBdyj8ZY"
+      },
+      "artists": [
+        {
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "Dif\u00edcile",
+      "url": "https://open.spotify.com/track/12R30HT6UksiNj4ry0hiuy"
     },
     {
       "added_at": null,

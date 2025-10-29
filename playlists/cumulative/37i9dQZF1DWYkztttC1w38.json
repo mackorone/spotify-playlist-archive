@@ -1765,6 +1765,28 @@
     },
     {
       "album": {
+        "name": "Pavane pour une infante d\u00e9funte, M. 19",
+        "url": "https://open.spotify.com/album/4Z4eadBSahvMdFEaZKqwss"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366400,
+      "name": "Pavane pour une infante d\u00e9funte, M. 19",
+      "url": "https://open.spotify.com/track/2s5bkvRCBhv0sR8PGXGZMX"
+    },
+    {
+      "album": {
         "name": "Debussy: Orchestral Works, Vol. 6",
         "url": "https://open.spotify.com/album/28JrlwnGD3nKrUTmWoShwW"
       },
@@ -2106,28 +2128,6 @@
       "duration_ms": 366333,
       "name": "Ravel: Miroirs, M. 43: V. La vall\u00e9e des cloches",
       "url": "https://open.spotify.com/track/1vRDKkxMscAH1o8emcDbcw"
-    },
-    {
-      "album": {
-        "name": "Ravel: Pavane pour une infante d\u00e9funte",
-        "url": "https://open.spotify.com/album/4Z4eadBSahvMdFEaZKqwss"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Hayato Sumino",
-          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
-        }
-      ],
-      "date_added": "2024-12-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 366400,
-      "name": "Ravel: Pavane pour une infante d\u00e9funte",
-      "url": "https://open.spotify.com/track/2s5bkvRCBhv0sR8PGXGZMX"
     },
     {
       "album": {

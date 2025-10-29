@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Suzan & Freek, Armin van Buuren & KI/KI, Robert van Hemert, Tyla en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,328 likes - 99 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,317 likes - 99 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 58 | [Pussy Palace](https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 4:01 |
 | 59 | [Derdim](https://open.spotify.com/track/0PDtvj3ZllsSfizbHzi1Z4) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Derdim](https://open.spotify.com/album/3DBSP9L9pMAlGAITrD8KF5) | 2:47 |
 | 60 | [Stay Along/Sail On](https://open.spotify.com/track/4msV5jT47oAgVnHfX9ZTSQ) | [CIEL](https://open.spotify.com/artist/419lBVMZC4wFzJg8evBZ4g) | [Stay Along/Sail On](https://open.spotify.com/album/6WbNdKPLzCqD0AjDWxxDcP) | 2:28 |
-| 61 | [Pinpas](https://open.spotify.com/track/0zKtsWu08TQ2joYfctFCwH) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Vensly](https://open.spotify.com/artist/1yalnSfdVdX8qVMbCodMoA), [Jacob](https://open.spotify.com/artist/2ZWlxqdbnltt0uP7DQZzJb), [CHIO](https://open.spotify.com/artist/17KBGFpwzRiw52IRtvJnYu), [Jermaine Niffer](https://open.spotify.com/artist/2kN7bQzdCZkSBYhzF6k5lY), [Manny](https://open.spotify.com/artist/6KiVn4W8Lqp3xHacePilJT) | [Pinpas](https://open.spotify.com/album/70Jqgixh0hNzgcAf6snUqz) | 2:08 |
+| 61 | [Pinpas](https://open.spotify.com/track/0zKtsWu08TQ2joYfctFCwH) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Vensly](https://open.spotify.com/artist/1yalnSfdVdX8qVMbCodMoA), [Jacob](https://open.spotify.com/artist/2ZWlxqdbnltt0uP7DQZzJb), [CHIO](https://open.spotify.com/artist/17KBGFpwzRiw52IRtvJnYu), [Jermaine Niffer](https://open.spotify.com/artist/2kN7bQzdCZkSBYhzF6k5lY), [Manny](https://open.spotify.com/artist/6KiVn4W8Lqp3xHacePilJT) | [Pinpas](https://open.spotify.com/album/70Jqgixh0hNzgcAf6snUqz) | 1:40 |
 | 62 | [Encrypted](https://open.spotify.com/track/7F49HEqLIVKuK26mOL56CN) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu) | [Encrypted](https://open.spotify.com/album/4eHIDkjphxPvdrsRn8uDYo) | 2:01 |
 | 63 | [Killing In The Name](https://open.spotify.com/track/500dx5anompG5OApakkudx) | [Inge Lamboo](https://open.spotify.com/artist/6XpM8vftkvjA114GyLB8hz) | [Killing In The Name](https://open.spotify.com/album/4GkbIh9CmVHoOZXC8W2lCg) | 3:39 |
 | 64 | [the flood](https://open.spotify.com/track/21WumT4Uxlp1br3wodH9BW) | [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [the flood](https://open.spotify.com/album/7jrAor72rAD5pYUqM88mmw) | 3:27 |

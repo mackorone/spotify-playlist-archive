@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2JtkUgJumiz7K4AblbFlgK.md) - [plain]
 
 > Chilled out, mellow pop from your favourite artists right now\. Cover: Dylan Gossett
 
-[HITS](https://open.spotify.com/user/digster.co.uk) - 355,168 likes - 116 songs - 6 hr 35 min
+[HITS](https://open.spotify.com/user/digster.co.uk) - 355,148 likes - 116 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/2JtkUgJumiz7K4AblbFlgK.md) - [plain]
 | 64 | [I Hope I Packed A Parachute \(feat\. Charlotte Cardin\)](https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 3:37 |
 | 65 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
 | 66 | [Forget Me \- Spotify Singles](https://open.spotify.com/track/2IIMt19xJuWIHVmfpd9jH8) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 3:49 |
-| 67 | [Do You Remember Me \- Sad Version](https://open.spotify.com/track/6TRedAnK1JtRlmPKnXGvKe) | [Heidi Boualili](https://open.spotify.com/artist/1znGTjB6OCLzFGyfFVptp4) | [Do You Remember Me \(Sad Version\)](https://open.spotify.com/album/579lcNEulxFCmO52gX3Lho) | 3:16 |
+| 67 | [Do You Remember Me \- Sad Version](https://open.spotify.com/track/6TRedAnK1JtRlmPKnXGvKe) | [Heidi Boualili](https://open.spotify.com/artist/3frKtH167DQbKyisI1HKQa) | [Do You Remember Me \(Sad Version\)](https://open.spotify.com/album/579lcNEulxFCmO52gX3Lho) | 3:16 |
 | 68 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 |
 | 69 | [Happy Fucking Birthday](https://open.spotify.com/track/6c7xkHPz5RHb19d8zl5iea) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Happy Fucking Birthday](https://open.spotify.com/album/0JZKPex9Offv9HIE7kTuEM) | 3:39 |
 | 70 | [Male Fantasy](https://open.spotify.com/track/4ak9GGe6afmi2HbxEjvhIC) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:14 |

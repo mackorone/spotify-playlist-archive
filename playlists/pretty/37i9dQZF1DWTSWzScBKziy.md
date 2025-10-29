@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Megan Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,499 likes - 99 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,538 likes - 99 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 98 | [Your Love](https://open.spotify.com/track/7pvu7uNMHqULQW3dWYXbSg) | [Kevin Winebarger](https://open.spotify.com/artist/0Mihk33hOz5pYMIDALdiFG) | [Your Love](https://open.spotify.com/album/5CMEgMzRAFGo9wSW4pLkEa) | 3:18 |
 | 99 | [Again Again](https://open.spotify.com/track/61deV82ORZt06deZ42I4Ur) | [SOFYKA](https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq) | [Again Again](https://open.spotify.com/album/2wLpi3IwFOp9GoSTHn4CnE) | 2:47 |
 
-Snapshot ID: `AAAAALqXbl9WoPfH+4ZTvS2nEITw3b/I`
+Snapshot ID: `AAAAAGLfVeiWuvahMjv2y8UWi7Ri8QRE`

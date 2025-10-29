@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,062 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,059 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 59 | [Tyxero Asteri](https://open.spotify.com/track/5AvyefDkaRgDajjqbfN8vv) | [K\. BHTA](https://open.spotify.com/artist/4PePsLhfeGjPogzjcRcP9l), [Giannis Palamidas](https://open.spotify.com/artist/3DbdBCLYKMNrNrGTe5tlOn) | [Tyxero Asteri](https://open.spotify.com/album/4bhg5GI8NJ13q5iYlHyb9T) | 3:52 |
 | 60 | [TI NA NAI AYTO](https://open.spotify.com/track/6WfPI1T8GMo5Thqknubhpy) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0), [Katerine Duska](https://open.spotify.com/artist/40tNdcLMkz7RoHcykLSNwB) | [TI NA NAI AYTO](https://open.spotify.com/album/1NZF6YeQR259jCXfLG8G23) | 2:57 |
 
-Snapshot ID: `AAAAAJOOCUW0Qg+OpnWlEMI2q03qb5q4`
+Snapshot ID: `AAAAAGh955yhM6wesAcoHVg4YL8pn5gw`

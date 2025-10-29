@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Ryan Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,584 likes - 95 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,624 likes - 95 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 94 | [Holla](https://open.spotify.com/track/1q4Perb4ObGoDYG5hwxxJP) | [Olivia King](https://open.spotify.com/artist/1ueZy4kOgGzs9qRwTziSoL) | [Holla](https://open.spotify.com/album/2r1UPZG8Jycyqu962XeOlC) | 2:54 |
 | 95 | [Day of Fire](https://open.spotify.com/track/5VcqlkJrPvX4TJ8d1bfaDq) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Day of Fire](https://open.spotify.com/album/3gQvrPaonjkjYTbsqWXftj) | 3:28 |
 
-Snapshot ID: `AAAAAN0jr+8dgrSfp9NUEjDR7TmaI+Is`
+Snapshot ID: `AAAAANAUIxQrFgvSxv5RM+Gi9mwJtcv7`

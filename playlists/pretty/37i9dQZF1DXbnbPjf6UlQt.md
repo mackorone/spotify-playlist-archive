@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnbPjf6UlQt.md) - [plain]
 
 > Enjoy the 10CM CONCERT \[5.0\] LIVE SET including the voices of them on stage! \(10CM의 무대 멘트와 목소리가 포함된 \[5.0\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,262 likes - 28 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,269 likes - 28 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "All the new music you need to hear right now. Cover: Lily Allen",
-  "num_followers": 587738,
+  "num_followers": 587775,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
@@ -232,16 +232,20 @@
           "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         },
         {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
           "name": "Parris Goebel",
           "url": "https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib"
         },
         {
-          "name": "America Foster",
-          "url": "https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO"
-        },
-        {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "America Foster",
+          "url": "https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO"
         }
       ],
       "duration_ms": 165692,

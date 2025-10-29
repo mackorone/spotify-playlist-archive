@@ -332,7 +332,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 234649,
       "name": "Falling Star (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6iPQ0oKCbAafnMy1Val6eC"
@@ -1193,6 +1193,32 @@
     },
     {
       "album": {
+        "name": "Smell The Rat",
+        "url": "https://open.spotify.com/album/3N9KcpdrnJ7wF2hPNPO5Jo"
+      },
+      "artists": [
+        {
+          "name": "Rulmry.",
+          "url": "https://open.spotify.com/artist/5AVRmAGc8Z21NXZ1UUxySt"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150620,
+      "name": "Smell The Rat (feat. \u521d\u97f3\u30df\u30af&\u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/3QF26drkYQv8qrpknrp4DV"
+    },
+    {
+      "album": {
         "name": "BACK STAGE",
         "url": "https://open.spotify.com/album/3K6t4Cfx2DyMNZWZKPXJ50"
       },
@@ -1416,7 +1442,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 222857,
       "name": "Tsukikage (feat. Hatsune Miku)",
       "url": "https://open.spotify.com/track/0zLXR6greXvG7D80V6dq6Z"
@@ -1842,7 +1868,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 161250,
       "name": "\u3061\u3085\u304d\u3061\u3085\u304d\u30dd\u30b3\u30dd\u30b3\u30dd\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/10uuhDZM2Vefqy7r7wRjwq"
@@ -3928,6 +3954,32 @@
       "duration_ms": 160615,
       "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30d5\u30ec\u30fc\u30d0\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3F5r6J4fkCwJY8kfDUYDm7"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30ad\u30c9\u30ad\uff01",
+        "url": "https://open.spotify.com/album/7uemstlGKKuO4hJanhqXVR"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u308a\u3043",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216320,
+      "name": "\u30c9\u30ad\u30c9\u30ad\uff01 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/74qnE87s1xhS5kJ6StFMXw"
     },
     {
       "album": {
@@ -6327,6 +6379,28 @@
     },
     {
       "album": {
+        "name": "\u5e95\u8a18\u5e78\u6bd2",
+        "url": "https://open.spotify.com/album/6CpdkPjgfJJjkney0JYk6m"
+      },
+      "artists": [
+        {
+          "name": "\u6d77\u98a8\u592a\u967d",
+          "url": "https://open.spotify.com/artist/3C6YK9PmwFy9SGXTW3uC2i"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144926,
+      "name": "\u5e95\u8a18\u5e78\u6bd2 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6K38ItPoah6Z9YCm6NH2QI"
+    },
+    {
+      "album": {
         "name": "\u5fc3\u6ce5\u5922(syndrome)",
         "url": "https://open.spotify.com/album/4XJT6vM6mD6a7FkFFoixVU"
       },
@@ -7303,6 +7377,28 @@
     },
     {
       "album": {
+        "name": "\u78a7\u708e",
+        "url": "https://open.spotify.com/album/3TSTHTHnpFdkoVQlGhdgfU"
+      },
+      "artists": [
+        {
+          "name": "Yoshihi",
+          "url": "https://open.spotify.com/artist/41FN2VKfQzEI9LOX4LFeaI"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270782,
+      "name": "\u78a7\u708e (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/1WfubP4lYiJN3MHwQWrbqx"
+    },
+    {
+      "album": {
         "name": "\u7948\u308a\u306eMELORIA",
         "url": "https://open.spotify.com/album/2TaO73WeCfyCXxQj5FdkGY"
       },
@@ -7344,6 +7440,28 @@
       "duration_ms": 245511,
       "name": "\u79c1\u306e\u604b\u306f\u30d8\u30eb\u30b5\u30f3\u30c0\u30fc (feat. MEIKO)",
       "url": "https://open.spotify.com/track/5YQW3XQmTaGcYQUuzND7ti"
+    },
+    {
+      "album": {
+        "name": "\u7a7a\u594f\u30b8\u30e3\u30f3\u30d7",
+        "url": "https://open.spotify.com/album/7LQs9uCmXAjL26s8j18Swm"
+      },
+      "artists": [
+        {
+          "name": "NanahoshiKangengakudan",
+          "url": "https://open.spotify.com/artist/546Z4c3hsgGSbpUKi298Oo"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176043,
+      "name": "\u7a7a\u594f\u30b8\u30e3\u30f3\u30d7 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/13vxiJvPxuhmvDuVP41Wxb"
     },
     {
       "album": {
@@ -7402,7 +7520,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 203750,
       "name": "\u7dba\u9e97\u4e8b (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/1hIonXsItcWoMghwycUAHx"
@@ -7692,7 +7810,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 150909,
       "name": "\u8e0a\u308b\u30a2\u30f3\u30c7\u30c3\u30c9 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/6rQgY2EdbHmy0Fi0xSvJJp"

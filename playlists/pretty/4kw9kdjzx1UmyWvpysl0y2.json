@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124840,
+  "num_followers": 124836,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUvqfocNeTvvEEAcH1y7PXwwEPRD78",
+  "snapshot_id": "AAAUwEJgTR1n7p7V6WLnetCXUXZScM8G",
   "tracks": [
+    {
+      "added_at": "2025-10-28 14:17:25",
+      "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/3RFCEn1aEh75UvlNpM9CXX"
+      },
+      "artists": [
+        {
+          "name": "Stendahl",
+          "url": "https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo"
+        }
+      ],
+      "duration_ms": 153936,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/2bbjDrZw5OsRy3wtqmfO1N"
+    },
     {
       "added_at": "2025-10-27 14:45:00",
       "album": {
@@ -1119,54 +1135,6 @@
       "duration_ms": 153290,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/7LgqqZZSiEu2ILeWBtwMsq"
-    },
-    {
-      "added_at": "2025-08-07 14:03:41",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/18xJ0JRAmhpsv2JMjTDbE5"
-      },
-      "artists": [
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        }
-      ],
-      "duration_ms": 169130,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/2zflx0uUTi6e8nw25XYvMo"
-    },
-    {
-      "added_at": "2025-08-06 14:41:14",
-      "album": {
-        "name": "From a Certain Point of View",
-        "url": "https://open.spotify.com/album/4Wik1trbWw1xr2E0sZVtH7"
-      },
-      "artists": [
-        {
-          "name": "Rocketman",
-          "url": "https://open.spotify.com/artist/4n3vlLgsdMv4OIoLhKU1CN"
-        }
-      ],
-      "duration_ms": 184585,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/1aNNlMlJDjK6p1U5qZ3DMO"
-    },
-    {
-      "added_at": "2025-08-05 14:44:18",
-      "album": {
-        "name": "Glass Souls",
-        "url": "https://open.spotify.com/album/0ADnJKIlDDtKo0wfK237YH"
-      },
-      "artists": [
-        {
-          "name": "Finding Mero",
-          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Glass Souls",
-      "url": "https://open.spotify.com/track/4bXajrbi7CKAuOGlZcXB97"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

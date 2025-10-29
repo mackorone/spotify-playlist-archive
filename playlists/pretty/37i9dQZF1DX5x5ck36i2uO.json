@@ -703,26 +703,6 @@
     {
       "added_at": "2025-10-22 06:19:58",
       "album": {
-        "name": "INSTANT (feat. SUMIN)",
-        "url": "https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0"
-      },
-      "artists": [
-        {
-          "name": "Park Kyung",
-          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
-        },
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 178860,
-      "name": "INSTANT (feat. SUMIN)",
-      "url": "https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN"
-    },
-    {
-      "added_at": "2025-10-22 06:19:58",
-      "album": {
         "name": "Jbfm",
         "url": "https://open.spotify.com/album/75abKZ895sjG7Lyp1no40Q"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 265898,
       "name": "Same Breed",
       "url": "https://open.spotify.com/track/2t6V3C2YW7GkrmN5lvUjmg"
+    },
+    {
+      "added_at": "2025-10-22 06:19:58",
+      "album": {
+        "name": "INSTANT (feat. SUMIN)",
+        "url": "https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0"
+      },
+      "artists": [
+        {
+          "name": "Park Kyung",
+          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 178860,
+      "name": "INSTANT (feat. SUMIN)",
+      "url": "https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN"
     },
     {
       "added_at": "2025-10-22 06:19:58",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-10-22 06:19:58",
       "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 240094,
-      "name": "Girl in New York (jazz)",
-      "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
-    },
-    {
-      "added_at": "2025-10-22 06:19:58",
-      "album": {
         "name": "House of Girls, Episode 4",
         "url": "https://open.spotify.com/album/3GATj9YiABtlzaoCk7sjdu"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 217333,
       "name": "City Life",
       "url": "https://open.spotify.com/track/0js8Q0TXxvg288AO0MPM0U"
+    },
+    {
+      "added_at": "2025-10-22 06:19:58",
+      "album": {
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 240094,
+      "name": "Girl in New York (jazz)",
+      "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
     },
     {
       "added_at": "2025-10-22 06:19:58",

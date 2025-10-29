@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring SIDEPIECE
 
-1,305 songs - 3 day 3 hr 14 min
+1,306 songs - 3 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 | 2022-06-03 | 2022-07-29 |
 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 | 2022-09-16 | 2023-04-09 |
 | [Bucovina 2023](https://open.spotify.com/track/0gCbPAMhtXptfzsUCac5La) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Shantel](https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA) | [Bucovina 2023](https://open.spotify.com/album/6bXo2rgz9XgOZEaSctxNDm) | 3:07 | 2023-09-01 | 2024-01-13 |
+| [Bullshit](https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Bullshit](https://open.spotify.com/album/1FEG75sVtJaV52VciyVB4y) | 2:58 | 2025-10-24 |  |
 | [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 | 2024-09-20 | 2025-03-10 |
 | [Burn This House](https://open.spotify.com/track/5HYOVRe3chMbHoFnGxdxWC) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Burn This House](https://open.spotify.com/album/54p2xfsHK8EbDCSLsEX956) | 3:35 | 2022-05-27 | 2022-07-28 |
 | [Burnin'](https://open.spotify.com/track/55NFZV4mg6VcXvoB0M65d0) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Burnin'](https://open.spotify.com/album/1ZDMO0PcbHNL0Tdx3ysi9U) | 3:10 | 2023-10-20 | 2024-07-21 |
@@ -656,7 +657,7 @@
 | [Lay Low](https://open.spotify.com/track/3Fg4Zh5pEg6TVSCHZ1XpUp) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Lay Low](https://open.spotify.com/album/49U4muHd77m24ZC0h09385) | 2:09 | 2023-10-27 | 2023-12-16 |
 | [Le Freak \- 2018 Remaster](https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [C'est Chic \(2018 Remaster\)](https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi) | 5:31 | 2022-12-28 | 2023-01-06 |
 | [Legacy](https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Legacy](https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai) | 3:50 | 2023-09-29 | 2024-05-03 |
-| [Legumes](https://open.spotify.com/track/3SoUF3c4hlB1WFjvah1abp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [Legumes](https://open.spotify.com/album/600smbnjXNOHndcU8iPqep) | 4:44 | 2025-08-22 |  |
+| [Legumes](https://open.spotify.com/track/3SoUF3c4hlB1WFjvah1abp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [Legumes](https://open.spotify.com/album/600smbnjXNOHndcU8iPqep) | 4:44 | 2025-08-22 | 2025-10-29 |
 | [Lennon](https://open.spotify.com/track/6KCmJ8VI6VYNRNubSqi0Ck) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Lennon](https://open.spotify.com/album/4Whx04xrZZSzMWhKduRWFI) | 3:25 | 2023-01-06 | 2023-07-01 |
 | [Let Em' Know](https://open.spotify.com/track/3bf3tNE3IjOtBsUzUVc9gs) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Don't Stop EP](https://open.spotify.com/album/75CLnzlKbUiiiNdkiX8F0Z) | 3:21 | 2025-01-31 | 2025-06-14 |
 | [Let It Go \(with Marc E\. Bassy\) \- Vintage Culture Remix](https://open.spotify.com/track/2Rzr9nzXM1yX3NB8CwHWQg) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Let It Go \(with Marc E\. Bassy\) \[Vintage Culture Remix\]](https://open.spotify.com/album/00FT5Wcufsly3rKqLWMIUn) | 3:24 | 2021-03-27\* | 2021-06-03 |

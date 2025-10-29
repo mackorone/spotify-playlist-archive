@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Tkandz
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,458 likes - 98 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,398 likes - 98 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

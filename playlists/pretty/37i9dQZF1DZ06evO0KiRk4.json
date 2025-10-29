@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 573021,
+  "num_followers": 573130,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP1kgAAAAABVq5PuXr119AbpSqBh0YTL",
+  "snapshot_id": "aP62AAAAAACFVpRIeQAyfOBhuHOSgr73",
   "tracks": [
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Big, How Blue, How Beautiful (Deluxe)",
-        "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 216176,
-      "name": "What Kind Of Man",
-      "url": "https://open.spotify.com/track/2kP1ujXHn0mNqFbiT3zob8"
+      "duration_ms": 213560,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/3GS8qG28p2RF6M7S5rFdx5"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+        "name": "How Big, How Blue, How Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 213560,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/3GS8qG28p2RF6M7S5rFdx5"
+      "duration_ms": 216176,
+      "name": "What Kind Of Man",
+      "url": "https://open.spotify.com/track/2kP1ujXHn0mNqFbiT3zob8"
     },
     {
       "added_at": null,
@@ -583,26 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "EDM Party",
-        "url": "https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2"
+        "name": "Between Two Lungs",
+        "url": "https://open.spotify.com/album/1iA9sq6Ldnw1HP1YXpa8jh"
       },
       "artists": [
         {
           "name": "Florence + The Machine",
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        },
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
         }
       ],
-      "duration_ms": 264574,
-      "name": "You Got The Love (Mark Knight Remix) / One",
-      "url": "https://open.spotify.com/track/70m0QxEfeSeeYlqDbZ1e6a"
+      "duration_ms": 287240,
+      "name": "Heavy In Your Arms",
+      "url": "https://open.spotify.com/track/3svizT5TsRqDffORHCmwKn"
     },
     {
       "added_at": null,
@@ -639,18 +631,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Between Two Lungs",
-        "url": "https://open.spotify.com/album/1iA9sq6Ldnw1HP1YXpa8jh"
+        "name": "EDM Party",
+        "url": "https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2"
       },
       "artists": [
         {
           "name": "Florence + The Machine",
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        },
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
         }
       ],
-      "duration_ms": 287240,
-      "name": "Heavy In Your Arms",
-      "url": "https://open.spotify.com/track/3svizT5TsRqDffORHCmwKn"
+      "duration_ms": 264574,
+      "name": "You Got The Love (Mark Knight Remix) / One",
+      "url": "https://open.spotify.com/track/70m0QxEfeSeeYlqDbZ1e6a"
     },
     {
       "added_at": null,

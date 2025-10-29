@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Sueña lindo, corazón..\. 💖✨ Alex Ferreira en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,933 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,924 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 36 | [Dejar llegar](https://open.spotify.com/track/5drbZ0eBIGweQplzN97Vlp) | [Grecia Vallejo](https://open.spotify.com/artist/4jdvzT28t4eW1bk61DqKPI) | [Dejar llegar](https://open.spotify.com/album/5ehJ63uoMptTAfac9cvPDn) | 3:07 |
 | 37 | [No Te Vayas Sin Saber](https://open.spotify.com/track/7DlyoTUiq5lwxoUpz1GKxl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [No Te Vayas Sin Saber](https://open.spotify.com/album/7EP6fqNBUnJcjNirm8UwOJ) | 3:44 |
 | 38 | [Popango](https://open.spotify.com/track/79bZNuOM8V5W8n2DaTpUXf) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/4fbMnFRM48zpSJeSiCRn0n) | 2:44 |
-| 39 | [Me Levanté de la Cama](https://open.spotify.com/track/4V0aNgN7GJUTE59i7MvWnj) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Me Levanté de la Cama](https://open.spotify.com/album/1bn2Cjy3WmM0F3d6x37Bvc) | 3:02 |
-| 40 | [La Peli](https://open.spotify.com/track/4S9B5SAwJhR3mm2SIUitoq) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [La Peli](https://open.spotify.com/album/1kYigrzcZBifp9q9TliUdv) | 3:09 |
-| 41 | [Fondo](https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK) | [Pambo](https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P) | [Lo Que Mi Corazón Desea Mis Ojos Lo Ven](https://open.spotify.com/album/65wy6NAH6RvSyZi1yrSMAP) | 3:32 |
+| 39 | [Infierno Favorito](https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Infierno Favorito](https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H) | 3:34 |
+| 40 | [Me Levanté de la Cama](https://open.spotify.com/track/4V0aNgN7GJUTE59i7MvWnj) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Me Levanté de la Cama](https://open.spotify.com/album/1bn2Cjy3WmM0F3d6x37Bvc) | 3:02 |
+| 41 | [Tal Vez](https://open.spotify.com/track/6J5CJS1fFVJRlkVil5t9Z0) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Tal Vez](https://open.spotify.com/album/7aNC4dqtdKAUgbioBibkFV) | 2:57 |
 | 42 | [Lila Alelí](https://open.spotify.com/track/1pv8kjnd68qQt0dM22reqP) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Lila Alelí](https://open.spotify.com/album/2if5JlMd0QhkF93PKGashv) | 3:25 |
-| 43 | [Tal Vez](https://open.spotify.com/track/6J5CJS1fFVJRlkVil5t9Z0) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Tal Vez](https://open.spotify.com/album/7aNC4dqtdKAUgbioBibkFV) | 2:57 |
-| 44 | [Infierno Favorito](https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Infierno Favorito](https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H) | 3:34 |
+| 43 | [La Peli](https://open.spotify.com/track/4S9B5SAwJhR3mm2SIUitoq) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [La Peli](https://open.spotify.com/album/1kYigrzcZBifp9q9TliUdv) | 3:09 |
+| 44 | [Fondo](https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK) | [Pambo](https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P) | [Lo Que Mi Corazón Desea Mis Ojos Lo Ven](https://open.spotify.com/album/65wy6NAH6RvSyZi1yrSMAP) | 3:32 |
 | 45 | [palacio <3](https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [palacio <3](https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I) | 2:36 |
 | 46 | [Pastillas Pa Dormir](https://open.spotify.com/track/4q0nJgk3gCtBZInE3UNWuE) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Pastillas Pa Dormir](https://open.spotify.com/album/5eSkjglgh218yOdKOyKU9r) | 3:05 |
 | 47 | [la mala racha](https://open.spotify.com/track/4Swzoi4CXARQwhhDU8kjcw) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9), [Seb Rodríguez](https://open.spotify.com/artist/4EJ8UxTgitlv2YdMFnWRJC) | [la mala racha](https://open.spotify.com/album/0vVykKWkLEiGjJ1RpvUNBK) | 3:08 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 53 | [Mantenme pendiente](https://open.spotify.com/track/1i2Rm2W5zoLN4ic5WUQDrn) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Mantenme pendiente](https://open.spotify.com/album/56LYIMOKqLka6eeM2orEEZ) | 4:24 |
 | 54 | [Fuera de Lugar](https://open.spotify.com/track/2mrgI05Xvxm8QG5RxFMHSC) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Fuera de Lugar](https://open.spotify.com/album/2OHUQeAUQzD7XJV4brIs1A) | 2:43 |
 | 55 | [Remedios](https://open.spotify.com/track/7EozlnvFrXBD2wl5jdCvDR) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Remedios](https://open.spotify.com/album/3i4xUcTsaFK4ZjWdxx4uzp) | 3:28 |
-| 56 | [Nadie Me Corta el Pelo Como Tú](https://open.spotify.com/track/0QKl2byffi9u6tDHuKe5OT) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Nadie Me Corta el Pelo Como Tú](https://open.spotify.com/album/0bfXdh6mwJ7AyS8RN8AfdD) | 4:21 |
-| 57 | [Volver a Creer](https://open.spotify.com/track/3HrCUfC3oikCStUV7DeCGp) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0) | [Volver a Creer](https://open.spotify.com/album/79vM4z2ZJcCQTEFQSJ75tD) | 3:10 |
+| 56 | [Volver a Creer](https://open.spotify.com/track/3HrCUfC3oikCStUV7DeCGp) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0) | [Volver a Creer](https://open.spotify.com/album/79vM4z2ZJcCQTEFQSJ75tD) | 3:10 |
+| 57 | [Nadie Me Corta el Pelo Como Tú](https://open.spotify.com/track/0QKl2byffi9u6tDHuKe5OT) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Nadie Me Corta el Pelo Como Tú](https://open.spotify.com/album/0bfXdh6mwJ7AyS8RN8AfdD) | 4:21 |
 | 58 | [Sed de Acción \- Re\-versión](https://open.spotify.com/track/4c7GjdSskBPh6drENlszMY) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Sed de Acción Con Carolina Ross \(Re\-versión\)](https://open.spotify.com/album/6LBOwIpVw50EltrrnZqRAN) | 3:33 |
 | 59 | [Necios](https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj) | 2:42 |
 | 60 | [Medias tintas](https://open.spotify.com/track/0IHQjKyzBW13xzdbRkMHjS) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Después del Norte](https://open.spotify.com/album/6Kues0ohl4IYDZcKS4H8AG) | 2:45 |

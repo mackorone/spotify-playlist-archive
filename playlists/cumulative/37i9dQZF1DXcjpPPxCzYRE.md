@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-444 songs - 1 day 1 hr 26 min
+445 songs - 1 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,11 +267,12 @@
 | [My Ideal](https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [My Ideal](https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4) | 4:43 | 2025-07-31 |  |
 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 | 2024-02-08 | 2024-03-05 |
 | [Mándame una señal](https://open.spotify.com/track/68eNGXDct8WTVLk9v0Oar8) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Mándame una señal](https://open.spotify.com/album/4x8icqp6ellxFGhDzSBC2r) | 4:20 | 2025-06-02 | 2025-07-19 |
+| [nada que hacer](https://open.spotify.com/track/19NWJQ7pBUTeJ61IwHrSi0) | [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [nada que hacer](https://open.spotify.com/album/1roLXbhc1r9dHh2rmM4Jtd) | 3:45 | 2025-10-24 |  |
 | [Naranja Paraíso](https://open.spotify.com/track/2IMlhZ6Sxse3z7ghzRO7qc) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [Naranja Paraíso](https://open.spotify.com/album/60pnmUd6TxVl3cABofrNFI) | 4:18 | 2023-06-09 | 2025-08-01 |
 | [Need The Sun To Break](https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:44 | 2022-11-11 |  |
 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 | 2024-08-23 | 2024-09-25 |
 | [New Balance](https://open.spotify.com/track/6Phf1PBngMsWNVgdWR1Ob7) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [New Balance](https://open.spotify.com/album/3BwYNBWG40dC3p3W8EFB8E) | 2:31 | 2025-03-06 | 2025-06-03 |
-| [Ni el mar](https://open.spotify.com/track/63r2aX604Guzqm31gdA08K) | [Clara Peya](https://open.spotify.com/artist/3VAefaRPtanzJsMLfj9c7S) | [Ni el mar](https://open.spotify.com/album/73Dp7LL5SoyoVSyu6Sxjq0) | 3:23 | 2025-09-18 |  |
+| [Ni el mar](https://open.spotify.com/track/63r2aX604Guzqm31gdA08K) | [Clara Peya](https://open.spotify.com/artist/3VAefaRPtanzJsMLfj9c7S) | [Ni el mar](https://open.spotify.com/album/73Dp7LL5SoyoVSyu6Sxjq0) | 3:23 | 2025-09-18 | 2025-10-29 |
 | [No debería quererte \- Acústico](https://open.spotify.com/track/77oNNJ8T6ZVHbCPhqM9Fry) | [Marina](https://open.spotify.com/artist/5pzsYBjgMTBW6r3B69yK9X) | [No debería quererte EP](https://open.spotify.com/album/7rgrfYTpZObZ6NPHI946PQ) | 2:37 | 2024-04-11 | 2024-06-07 |
 | [NO ES DORMIR](https://open.spotify.com/track/6sxSoBiFmDQP0l05BSA4hB) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [NO ES DORMIR](https://open.spotify.com/album/6x7juu25BeXzXFovRz8zgm) | 2:05 | 2025-06-26 | 2025-07-29 |
 | [No es el momento](https://open.spotify.com/track/5xOfDQ6Tiao8QXBEN49KSM) | [María Parrado](https://open.spotify.com/artist/41sqYvXOn3ATsAQ65G1zx6) | [No es el momento](https://open.spotify.com/album/2ITDn2tR0KFmRwZAh0gmMd) | 2:55 | 2024-12-23 | 2025-01-06 |

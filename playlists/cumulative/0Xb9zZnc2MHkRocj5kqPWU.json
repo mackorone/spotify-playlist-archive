@@ -97,6 +97,28 @@
     },
     {
       "album": {
+        "name": "3 Intermezzi, Op. 117/No. 2 in B-Flat Minor",
+        "url": "https://open.spotify.com/album/56bzkxiNvFyG2jvUkSpCcG"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305462,
+      "name": "3 Intermezzi, Op. 117: 3 Intermezzi, Op. 117/No. 2 in B-Flat Minor",
+      "url": "https://open.spotify.com/track/6XZoq075NOdK5RhibcWARK"
+    },
+    {
+      "album": {
         "name": "3 Intermezzi, Op. 117/No. 1 in E-Flat Major",
         "url": "https://open.spotify.com/album/0yJELcW2IEAD2iXEjLrqp9"
       },
@@ -116,28 +138,6 @@
       "duration_ms": 310019,
       "name": "3 Intermezzi, Op. 117: No. 1 in E-Flat Major",
       "url": "https://open.spotify.com/track/2qMnYj3hfOHDhQamPx3eLp"
-    },
-    {
-      "album": {
-        "name": "3 Intermezzi, Op. 117/No. 2 in B-Flat Minor",
-        "url": "https://open.spotify.com/album/56bzkxiNvFyG2jvUkSpCcG"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "date_added": "2024-08-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 305462,
-      "name": "3 Intermezzi, Op. 117: No. 2 in B-Flat Minor",
-      "url": "https://open.spotify.com/track/6XZoq075NOdK5RhibcWARK"
     },
     {
       "album": {
@@ -228,7 +228,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 353739,
-      "name": "6 Piano Pieces, Op. 118: 6 Piano Pieces, Op. 118/No. 2: Intermezzo in A Major",
+      "name": "6 Piano Pieces, Op. 118: No. 2: Intermezzo in A Major",
       "url": "https://open.spotify.com/track/2hXtkD5vFf6flaZWlVA6HE"
     },
     {
@@ -5321,7 +5321,7 @@
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 372973,
+      "duration_ms": 372666,
       "name": "Piano Trio No. 1 in D Minor, Op. 49: II. Andante con moto tranquillo",
       "url": "https://open.spotify.com/track/4C6NNiKJSjpBKw9DJ8tY3B"
     },
@@ -7346,8 +7346,20 @@
       },
       "artists": [
         {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
           "name": "HAUSER",
           "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
       "date_added": "2024-04-01",
@@ -7393,7 +7405,7 @@
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 91133,
+      "duration_ms": 91128,
       "name": "Two Pieces for Piano Solo: I. Augenblick",
       "url": "https://open.spotify.com/track/5CCZkBpvYzsTaZGfxM3T0g"
     },
@@ -7415,7 +7427,7 @@
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 303803,
+      "duration_ms": 303826,
       "name": "Two Pieces for Piano Solo: II. Wiegenlied",
       "url": "https://open.spotify.com/track/6lYH6XDclBD6ZwPINWl4Oo"
     },

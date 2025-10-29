@@ -2673,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "In The Park / Snakes",
+        "url": "https://open.spotify.com/album/4mSLGNpSxYhhAYfrBPCZF1"
+      },
+      "artists": [
+        {
+          "name": "Marco Strous",
+          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "In The Park",
+      "url": "https://open.spotify.com/track/1QvyykoBSY4DqBNKk7vouQ"
+    },
+    {
+      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/4or3mIae4pphsjbwzkLhyn"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,147,709 likes - 133 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,344 likes - 133 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 81 | [An Unwelcome Friend \(Arr\. M\. Riesman & N\. Muhly for Solo Piano\)](https://open.spotify.com/track/4o7Cql3n8VEsFPk7uVcdYb) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Nicolas Horvath](https://open.spotify.com/artist/6EyYsJlQEb3uHINVS5EIsB) | [Philip Glass: Glassworlds, Vol\. 4 – On Love](https://open.spotify.com/album/4zicFDbhTML35sgtkA6klb) | 4:16 |
 | 82 | [Waltz No\. 9 in A\-Flat Major, Op\. 69 No\. 1 "Farewell"](https://open.spotify.com/track/3OFSj8l51YRq0he0845599) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Chopin: Complete Waltzes](https://open.spotify.com/album/2YeIqBnip7DdRM3EnioPXB) | 3:01 |
 | 83 | [Bulgaria](https://open.spotify.com/track/782rqTD0wtue0vqytqoQxk) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV), [Clara Büsel](https://open.spotify.com/artist/6s2VkU5B3ll5cyPVelI13O), [Leandro Hauxwell](https://open.spotify.com/artist/05wR32yzOF9iIsXlmtiMRu), [Alona Khlevna](https://open.spotify.com/artist/30gg8sWAfaLRlvqC2bex4s), [Gereon Theis](https://open.spotify.com/artist/5ArKJsYmYAb6T8Z2djzVyv), [Vladislav Cojocaru](https://open.spotify.com/artist/6cMbi1smxNWFnchraYE6gF) | [Bulgaria](https://open.spotify.com/album/75CM38oTrrHy8RFzpQeiSc) | 4:01 |
-| 84 | [6 Piano Pieces, Op\. 118: 6 Piano Pieces, Op\. 118/No\. 2: Intermezzo in A Major](https://open.spotify.com/track/2hXtkD5vFf6flaZWlVA6HE) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [6 Piano Pieces, Op\. 118/No\. 2: Intermezzo in A Major](https://open.spotify.com/album/5GLie4IiAzBJHlHe0swGY1) | 5:53 |
+| 84 | [6 Piano Pieces, Op\. 118: No\. 2: Intermezzo in A Major](https://open.spotify.com/track/2hXtkD5vFf6flaZWlVA6HE) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [6 Piano Pieces, Op\. 118/No\. 2: Intermezzo in A Major](https://open.spotify.com/album/5GLie4IiAzBJHlHe0swGY1) | 5:53 |
 | 85 | [Palestrina: Panis angelicus \(Arr\. Diluka for Piano\)](https://open.spotify.com/track/14pcCEXXkbcpIM8e5zgOl1) | [Giovanni Pierluigi da Palestrina](https://open.spotify.com/artist/0BS8IrFmvK1tXenMULjwem), [Shani Diluka](https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73) | [Palestrina: Panis angelicus](https://open.spotify.com/album/77Pfzeq8dElV1ixLqHQerC) | 2:27 |
 | 86 | [The Fabelmans](https://open.spotify.com/track/5T7vBdg23LE9Nzn1YRVBEO) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Simone Pedroni](https://open.spotify.com/artist/0ikPH8Vl2teD0cHKXdCif3) | [The Fabelmans](https://open.spotify.com/album/739mvLsQoXlNtAr3RnV5mB) | 2:28 |
 | 87 | [Respiro 3](https://open.spotify.com/track/15y6K1TTpceurenY3mnIcD) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Respiro 3](https://open.spotify.com/album/12H3VCzTH2Y4IqFTaoBTpf) | 2:38 |

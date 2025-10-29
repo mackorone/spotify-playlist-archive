@@ -4,7 +4,7 @@
 
 > Nieuwe muziek: Suzan & Freek, Armin van Buuren & KI/KI, Robert van Hemert, Tyla en meer...
 
-13,212 songs - 28 day 18 hr 35 min
+13,212 songs - 28 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8923,7 +8923,7 @@
 | [Pinky Promise](https://open.spotify.com/track/4wmTrhqOpMZoh8QSvgW0Rs) | [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH), [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk) | [Pinky Promise](https://open.spotify.com/album/5PkaQBImuFlZ5iyIHhrqGv) | 2:10 | 2024-09-12 | 2024-09-20 |
 | [Pinnacles](https://open.spotify.com/track/74kAlb3OrVl15ZKgfWdxhy) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Dressed Like Boys](https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn) | 3:42 | 2025-08-28 | 2025-09-05 |
 | [Pinocchio Story](https://open.spotify.com/track/1LFnbE1CO2JgSGE5I0mhnC) | [ii](https://open.spotify.com/artist/6qQBfYaI0EVaThO0OH8LPk), [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n) | [Pinocchio Story](https://open.spotify.com/album/1HHSoBijoP48KyDWc2TOT3) | 4:01 | 2025-06-12 | 2025-06-20 |
-| [Pinpas](https://open.spotify.com/track/0zKtsWu08TQ2joYfctFCwH) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Vensly](https://open.spotify.com/artist/1yalnSfdVdX8qVMbCodMoA), [Jacob](https://open.spotify.com/artist/2ZWlxqdbnltt0uP7DQZzJb), [CHIO](https://open.spotify.com/artist/17KBGFpwzRiw52IRtvJnYu), [Jermaine Niffer](https://open.spotify.com/artist/2kN7bQzdCZkSBYhzF6k5lY), [Manny](https://open.spotify.com/artist/6KiVn4W8Lqp3xHacePilJT) | [Pinpas](https://open.spotify.com/album/70Jqgixh0hNzgcAf6snUqz) | 2:08 | 2025-10-23 |  |
+| [Pinpas](https://open.spotify.com/track/0zKtsWu08TQ2joYfctFCwH) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Vensly](https://open.spotify.com/artist/1yalnSfdVdX8qVMbCodMoA), [Jacob](https://open.spotify.com/artist/2ZWlxqdbnltt0uP7DQZzJb), [CHIO](https://open.spotify.com/artist/17KBGFpwzRiw52IRtvJnYu), [Jermaine Niffer](https://open.spotify.com/artist/2kN7bQzdCZkSBYhzF6k5lY), [Manny](https://open.spotify.com/artist/6KiVn4W8Lqp3xHacePilJT) | [Pinpas](https://open.spotify.com/album/70Jqgixh0hNzgcAf6snUqz) | 1:40 | 2025-10-23 |  |
 | [Pinwheel](https://open.spotify.com/track/7aReVO6Kj9EpdsO2rU8qKl) | [Harper Bloom](https://open.spotify.com/artist/57SMUbet36EnQb3LBuXWtV) | [Pinwheel](https://open.spotify.com/album/0nXwkcJewtE7JVH15XGYnj) | 2:24 | 2024-07-04 | 2024-07-12 |
 | [Pipe Down](https://open.spotify.com/track/688zECd3rFRSFq3i5EDf5w) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Pipe Down](https://open.spotify.com/album/5FgmQh0UVoKBqC3tnoBzTz) | 2:55 | 2024-01-18 | 2024-01-26 |
 | [Pipe Opzij](https://open.spotify.com/track/4ZeGQlQNEiQSdtn8mV6LHe) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Met Liefde Uit De Wijk](https://open.spotify.com/album/0QQhifYaaX5Ca8dYi4qKax) | 2:48 | 2023-06-01 | 2023-06-09 |

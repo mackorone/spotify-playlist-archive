@@ -5193,6 +5193,28 @@
     },
     {
       "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/6DsCRRrTQ989S7B0vRGRUz"
+      },
+      "artists": [
+        {
+          "name": "Fryware",
+          "url": "https://open.spotify.com/artist/5hvR80ZuQm5TWMu23iLqiQ"
+        },
+        {
+          "name": "Minnie",
+          "url": "https://open.spotify.com/artist/2Rmz2lT1HgrTkKkeNR0kLd"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214482,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/10u0qaODhMuvveoaaUtze2"
+    },
+    {
+      "album": {
         "name": "Not Enough",
         "url": "https://open.spotify.com/album/7Gy36oXepehl2yyRmhBsSb"
       },

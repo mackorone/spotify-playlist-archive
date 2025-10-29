@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,227 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [PRICHINA](https://open.spotify.com/track/6AtBYccR1N3PLakmiebxiC) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [I.N.I.](https://open.spotify.com/artist/564L14VyLz0lmnlpwX2MBw) | [SAUCE KID 4](https://open.spotify.com/album/4x3QcWrWwD5hCpnGRJNXSE) | 4:04 |
 | 50 | [Май полудях](https://open.spotify.com/track/7rpYxeb9bA0qUa4KdeIfS6) | [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq), [Ivayla](https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt) | [Май полудях](https://open.spotify.com/album/5TjTfDE7PYbHbmbRw7HOI0) | 2:56 |
 
-Snapshot ID: `MJLgIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MJQz+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

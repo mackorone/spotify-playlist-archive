@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 49,557 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 49,545 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 114 | [Я не можу забути тебе \(Ла ла ла\)](https://open.spotify.com/track/5Vwjv29cjGoJBq00UTS9I7) | [United Sexi Boyz](https://open.spotify.com/artist/06lVX5o79O57DxKtScRGnh) | [Я не можу забути тебе \(Ла ла ла\)](https://open.spotify.com/album/4HztPb42EqXKfUiNGW7vrC) | 3:06 |
 | 115 | [No Love](https://open.spotify.com/track/03TPcM9vWUmc8y6LkJAzwJ) | [АДЛИН](https://open.spotify.com/artist/3vw4wtxW7yv7yJSDqkIuUz) | [No Love](https://open.spotify.com/album/6BhuzJJCEd2pU1szzJ4ekU) | 2:07 |
 | 116 | [You're On My Mind Broe](https://open.spotify.com/track/3Owunpwpt5OauLUJKz3rtS) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [You're On My Mind Broe](https://open.spotify.com/album/0BcTCRkpyqIIzpFmP9hWV5) | 2:04 |
-| 117 | [Exhaust Sounds](https://open.spotify.com/track/4GIrEZEB8vGG5sWuXheo1F) | [rider](https://open.spotify.com/artist/5yupl8lnBJSsPJ9Jmujexl) | [Never Forget Vacation 2](https://open.spotify.com/album/51ujIX6Zd1QNMgyoHPR7Du) | 4:25 |
+| 117 | [Exhaust Sounds](https://open.spotify.com/track/4GIrEZEB8vGG5sWuXheo1F) | [rider](https://open.spotify.com/artist/5yupl8lnBJSsPJ9Jmujexl) | [Never Forget Vacation 2 \(Digital Edition\)](https://open.spotify.com/album/51ujIX6Zd1QNMgyoHPR7Du) | 4:25 |
 | 118 | [Above](https://open.spotify.com/track/6rN3jE6Z0twj5raDR0miZH) | [Shavrolet](https://open.spotify.com/artist/0W91WlljwrhgMthk5YFjb8) | [What Comes After?](https://open.spotify.com/album/1taio23UNCsbQUH8wsD9xu) | 4:12 |
 | 119 | [Bounce](https://open.spotify.com/track/4LMVzEFDbxZhQc3iqy0YnL) | [Ihaveonechance](https://open.spotify.com/artist/1STAy1JvQQyNmcykEIh9rM), [Hies](https://open.spotify.com/artist/409aFAfrx44WjovOlThFIm) | [Bounce](https://open.spotify.com/album/4THmSdpu4Zs9fz7Nt5cqyC) | 2:11 |
 | 120 | [GHOST RACING](https://open.spotify.com/track/3ZhaejzfW0KynGVxOkFqU1) | [Zen/it](https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82) | [GHOST RACING](https://open.spotify.com/album/19sHyJZbzfrD0lhOB2WS6B) | 1:56 |

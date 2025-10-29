@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Gaba Ko\u015bciug",
-  "num_followers": 24318,
+  "num_followers": 24323,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,26 @@
     {
       "added_at": "2025-10-21 22:00:25",
       "album": {
+        "name": "Niby to wiem",
+        "url": "https://open.spotify.com/album/5NGVIouWnsDoi0kWFwpjOg"
+      },
+      "artists": [
+        {
+          "name": "Marek Niedzielski",
+          "url": "https://open.spotify.com/artist/3FSYJjsEavVFpzluaiqYoY"
+        },
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "duration_ms": 205375,
+      "name": "Niby to wiem",
+      "url": "https://open.spotify.com/track/1TGP53EWadwAcMCQDzUBL8"
+    },
+    {
+      "added_at": "2025-10-21 22:00:25",
+      "album": {
         "name": "Pojutrze",
         "url": "https://open.spotify.com/album/2wg5VZWYA848fPyVuhLAI0"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 183846,
       "name": "Pojutrze",
       "url": "https://open.spotify.com/track/3lHIx9LQzdH9ujcP5ijKEm"
-    },
-    {
-      "added_at": "2025-10-21 22:00:25",
-      "album": {
-        "name": "Niby to wiem",
-        "url": "https://open.spotify.com/album/5NGVIouWnsDoi0kWFwpjOg"
-      },
-      "artists": [
-        {
-          "name": "Marek Niedzielski",
-          "url": "https://open.spotify.com/artist/3FSYJjsEavVFpzluaiqYoY"
-        },
-        {
-          "name": "Ania Szlagowska",
-          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
-        }
-      ],
-      "duration_ms": 205375,
-      "name": "Niby to wiem",
-      "url": "https://open.spotify.com/track/1TGP53EWadwAcMCQDzUBL8"
     },
     {
       "added_at": "2025-10-21 22:00:25",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-10-21 22:00:25",
       "album": {
-        "name": "M\u00f3w mi tak",
-        "url": "https://open.spotify.com/album/5sKcjO9l9MrrNtwXkx3zJu"
-      },
-      "artists": [
-        {
-          "name": "Blu",
-          "url": "https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K"
-        }
-      ],
-      "duration_ms": 157031,
-      "name": "M\u00f3w mi tak",
-      "url": "https://open.spotify.com/track/2cZTeWBBqX1hjVquW7Vxio"
-    },
-    {
-      "added_at": "2025-10-21 22:00:25",
-      "album": {
         "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
         "url": "https://open.spotify.com/album/6NhKBbD2p8ZxiYzYbcKwFE"
       },
@@ -739,6 +723,38 @@
       "duration_ms": 281200,
       "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
       "url": "https://open.spotify.com/track/1UXLbKlNgAHbPvjGHDY639"
+    },
+    {
+      "added_at": "2025-10-21 22:00:25",
+      "album": {
+        "name": "M\u00f3w mi tak",
+        "url": "https://open.spotify.com/album/5sKcjO9l9MrrNtwXkx3zJu"
+      },
+      "artists": [
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K"
+        }
+      ],
+      "duration_ms": 157031,
+      "name": "M\u00f3w mi tak",
+      "url": "https://open.spotify.com/track/2cZTeWBBqX1hjVquW7Vxio"
+    },
+    {
+      "added_at": "2025-10-21 22:00:25",
+      "album": {
+        "name": "zosta\u0144",
+        "url": "https://open.spotify.com/album/1aVf5Yed3eNAGJ0kRgao2J"
+      },
+      "artists": [
+        {
+          "name": "Treehouse",
+          "url": "https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi"
+        }
+      ],
+      "duration_ms": 138094,
+      "name": "zosta\u0144",
+      "url": "https://open.spotify.com/track/2jQlVcDnyiMjmrQ7XrK70X"
     },
     {
       "added_at": "2025-10-21 22:00:25",
@@ -775,22 +791,6 @@
     {
       "added_at": "2025-10-21 22:00:25",
       "album": {
-        "name": "\u015amia\u0107 si\u0119 i p\u0142aka\u0107",
-        "url": "https://open.spotify.com/album/1viZCuhPFo51923kpMvEfJ"
-      },
-      "artists": [
-        {
-          "name": "Zuza Jab\u0142o\u0144ska",
-          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
-        }
-      ],
-      "duration_ms": 135477,
-      "name": "\u015amia\u0107 si\u0119 i p\u0142aka\u0107",
-      "url": "https://open.spotify.com/track/2Q3Y2eR0Sx90JKWl7H265z"
-    },
-    {
-      "added_at": "2025-10-21 22:00:25",
-      "album": {
         "name": "Sedno",
         "url": "https://open.spotify.com/album/7BdBHF7fDtd5OL5lPiAs75"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 141000,
       "name": "Sedno",
       "url": "https://open.spotify.com/track/184h1j6ZZv26SmoKzv5uHD"
+    },
+    {
+      "added_at": "2025-10-21 22:00:25",
+      "album": {
+        "name": "\u015amia\u0107 si\u0119 i p\u0142aka\u0107",
+        "url": "https://open.spotify.com/album/1viZCuhPFo51923kpMvEfJ"
+      },
+      "artists": [
+        {
+          "name": "Zuza Jab\u0142o\u0144ska",
+          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
+        }
+      ],
+      "duration_ms": 135477,
+      "name": "\u015amia\u0107 si\u0119 i p\u0142aka\u0107",
+      "url": "https://open.spotify.com/track/2Q3Y2eR0Sx90JKWl7H265z"
     },
     {
       "added_at": "2025-10-21 22:00:25",
@@ -847,38 +863,6 @@
     {
       "added_at": "2025-10-21 22:00:25",
       "album": {
-        "name": "zosta\u0144",
-        "url": "https://open.spotify.com/album/1aVf5Yed3eNAGJ0kRgao2J"
-      },
-      "artists": [
-        {
-          "name": "Treehouse",
-          "url": "https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi"
-        }
-      ],
-      "duration_ms": 138094,
-      "name": "zosta\u0144",
-      "url": "https://open.spotify.com/track/2jQlVcDnyiMjmrQ7XrK70X"
-    },
-    {
-      "added_at": "2025-10-21 22:00:25",
-      "album": {
-        "name": "Za d\u0142ugo",
-        "url": "https://open.spotify.com/album/4WoYlU65QF1PxwD4Rykoin"
-      },
-      "artists": [
-        {
-          "name": "Paulina Miku\u0142a",
-          "url": "https://open.spotify.com/artist/5O09f7lRMXJMUMAdzrepht"
-        }
-      ],
-      "duration_ms": 217070,
-      "name": "Za d\u0142ugo",
-      "url": "https://open.spotify.com/track/7At9ZJ0GOf2yuOp5HUOU4q"
-    },
-    {
-      "added_at": "2025-10-21 22:00:25",
-      "album": {
         "name": "Boisz si\u0119",
         "url": "https://open.spotify.com/album/5O7WpfdyHWZiqzIVclkOwX"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 181052,
       "name": "Boisz si\u0119",
       "url": "https://open.spotify.com/track/5OPDVu8yGItlFz8BsVQkF4"
+    },
+    {
+      "added_at": "2025-10-21 22:00:25",
+      "album": {
+        "name": "Za d\u0142ugo",
+        "url": "https://open.spotify.com/album/4WoYlU65QF1PxwD4Rykoin"
+      },
+      "artists": [
+        {
+          "name": "Paulina Miku\u0142a",
+          "url": "https://open.spotify.com/artist/5O09f7lRMXJMUMAdzrepht"
+        }
+      ],
+      "duration_ms": 217070,
+      "name": "Za d\u0142ugo",
+      "url": "https://open.spotify.com/track/7At9ZJ0GOf2yuOp5HUOU4q"
     },
     {
       "added_at": "2025-10-21 22:00:25",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-10-21 22:00:25",
       "album": {
-        "name": "NAD RANEM",
-        "url": "https://open.spotify.com/album/5QXG3wphlrSN8iF97n7Mkv"
-      },
-      "artists": [
-        {
-          "name": "Piotr Odoszewski",
-          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "NAD RANEM",
-      "url": "https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj"
-    },
-    {
-      "added_at": "2025-10-21 22:00:25",
-      "album": {
         "name": "szczerze, mega mocne",
         "url": "https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 153692,
       "name": "szczerze, mega mocne",
       "url": "https://open.spotify.com/track/11kYDoSAlArh9NwUqYkH2v"
+    },
+    {
+      "added_at": "2025-10-21 22:00:25",
+      "album": {
+        "name": "NAD RANEM",
+        "url": "https://open.spotify.com/album/5QXG3wphlrSN8iF97n7Mkv"
+      },
+      "artists": [
+        {
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "NAD RANEM",
+      "url": "https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj"
     },
     {
       "added_at": "2025-10-21 22:00:25",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-10-21 22:00:25",
       "album": {
-        "name": "ernest",
-        "url": "https://open.spotify.com/album/4Q9f6v9fVFZz8MyNgIFozL"
-      },
-      "artists": [
-        {
-          "name": "zofia justy\u0144ska",
-          "url": "https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4"
-        }
-      ],
-      "duration_ms": 263500,
-      "name": "ernest",
-      "url": "https://open.spotify.com/track/4N283rSr7iWXEzdUJE2VRI"
-    },
-    {
-      "added_at": "2025-10-21 22:00:25",
-      "album": {
         "name": "Rzeka",
         "url": "https://open.spotify.com/album/3D3J5dpQAHrawx2KujS2ao"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2025-10-21 22:00:25",
       "album": {
-        "name": "\u017cyczenie",
-        "url": "https://open.spotify.com/album/7cVVnDc6K2zR7ai2yon3f3"
+        "name": "ernest",
+        "url": "https://open.spotify.com/album/4Q9f6v9fVFZz8MyNgIFozL"
       },
       "artists": [
         {
-          "name": "nath",
-          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
+          "name": "zofia justy\u0144ska",
+          "url": "https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4"
         }
       ],
-      "duration_ms": 283068,
-      "name": "\u017cyczenie",
-      "url": "https://open.spotify.com/track/3PJ5RijJmk106e25mnO9Bf"
+      "duration_ms": 263500,
+      "name": "ernest",
+      "url": "https://open.spotify.com/track/4N283rSr7iWXEzdUJE2VRI"
     },
     {
       "added_at": "2025-10-21 22:00:25",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2025-10-21 22:00:25",
       "album": {
+        "name": "\u017cyczenie",
+        "url": "https://open.spotify.com/album/7cVVnDc6K2zR7ai2yon3f3"
+      },
+      "artists": [
+        {
+          "name": "nath",
+          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
+        }
+      ],
+      "duration_ms": 283068,
+      "name": "\u017cyczenie",
+      "url": "https://open.spotify.com/track/3PJ5RijJmk106e25mnO9Bf"
+    },
+    {
+      "added_at": "2025-10-21 22:00:25",
+      "album": {
         "name": "BOOM",
         "url": "https://open.spotify.com/album/43o9D8UKbPHhcpLDBDTsZJ"
       },
@@ -1083,6 +1083,26 @@
       "duration_ms": 164951,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/12l0xfTk73hF16FxASqEwt"
+    },
+    {
+      "added_at": "2025-10-21 22:00:25",
+      "album": {
+        "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
+        "url": "https://open.spotify.com/album/1mo1ZbH9DQDqB17ms82ahA"
+      },
+      "artists": [
+        {
+          "name": "Jadwiga Zarzycka",
+          "url": "https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0"
+        },
+        {
+          "name": "Maria Sadowska",
+          "url": "https://open.spotify.com/artist/4zjvLsSNVpp8A95RZb7ryC"
+        }
+      ],
+      "duration_ms": 206300,
+      "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
+      "url": "https://open.spotify.com/track/0zP8wabUyDzx6O36m9DvOc"
     },
     {
       "added_at": "2025-10-21 22:00:25",
@@ -1115,26 +1135,6 @@
       "duration_ms": 126187,
       "name": "Czas",
       "url": "https://open.spotify.com/track/7qj1lu6yxDl5GTnSItuIdh"
-    },
-    {
-      "added_at": "2025-10-21 22:00:25",
-      "album": {
-        "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
-        "url": "https://open.spotify.com/album/1mo1ZbH9DQDqB17ms82ahA"
-      },
-      "artists": [
-        {
-          "name": "Jadwiga Zarzycka",
-          "url": "https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0"
-        },
-        {
-          "name": "Maria Sadowska",
-          "url": "https://open.spotify.com/artist/4zjvLsSNVpp8A95RZb7ryC"
-        }
-      ],
-      "duration_ms": 206300,
-      "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
-      "url": "https://open.spotify.com/track/0zP8wabUyDzx6O36m9DvOc"
     },
     {
       "added_at": "2025-10-21 22:00:25",

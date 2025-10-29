@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 35643,
+  "num_followers": 35642,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP1kgAAAAABap4+VIVlm4fa7kvQ/SB3n",
+  "snapshot_id": "aP62AAAAAAD0z+8kLyDL9qH4bQOTaYqe",
   "tracks": [
     {
       "added_at": null,
@@ -594,27 +594,15 @@
         {
           "name": "Los Jaivas",
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 302560,
-      "name": "Cholito Pantal\u00f3n Blanco",
-      "url": "https://open.spotify.com/track/3OjqJR8bOY1yNiBGt5iJaV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Volant\u00edn",
-        "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
-      },
-      "artists": [
+        },
         {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Que o la Tumba Ser\u00e1s",
-      "url": "https://open.spotify.com/track/6u3yREOoWqCRdydlHnPmFC"
+      "duration_ms": 361533,
+      "name": "Indio Hermano - Versi\u00f3n 1996",
+      "url": "https://open.spotify.com/track/5L55AmtdsVfoik6jLkzkvV"
     },
     {
       "added_at": null,
@@ -631,6 +619,22 @@
       "duration_ms": 223586,
       "name": "En Tus Horas",
       "url": "https://open.spotify.com/track/6UVAam0rThCwT8mR30a5mV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Volant\u00edn",
+        "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Que o la Tumba Ser\u00e1s",
+      "url": "https://open.spotify.com/track/6u3yREOoWqCRdydlHnPmFC"
     },
     {
       "added_at": null,
@@ -658,15 +662,11 @@
         {
           "name": "Los Jaivas",
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
         }
       ],
-      "duration_ms": 361533,
-      "name": "Indio Hermano - Versi\u00f3n 1996",
-      "url": "https://open.spotify.com/track/5L55AmtdsVfoik6jLkzkvV"
+      "duration_ms": 302560,
+      "name": "Cholito Pantal\u00f3n Blanco",
+      "url": "https://open.spotify.com/track/3OjqJR8bOY1yNiBGt5iJaV"
     },
     {
       "added_at": null,

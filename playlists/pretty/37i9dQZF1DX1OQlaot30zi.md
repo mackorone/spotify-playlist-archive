@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Charlie Charles, Papa V , Capo Plaza, Mecna, Carla Hero e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,481 likes - 105 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,477 likes - 105 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

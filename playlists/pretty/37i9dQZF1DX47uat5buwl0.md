@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 
 > 🔥🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,822 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,794 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 | 74 | [Ça Va](https://open.spotify.com/track/4KIsxUAKHmbnrNqraNs6Yb) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Ça Va](https://open.spotify.com/album/0MmjwvLcZF5y7ocMVV69E3) | 2:10 |
 | 75 | [Dame Un Grrr \- Provi Remix Radio Edit](https://open.spotify.com/track/20fzebeACMzZovFyFW3G0L) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4), [Provi](https://open.spotify.com/artist/09WKhhJl9OZwZEKXRoSnOo) | [Dame Un Grrr \(Provi Remix\)](https://open.spotify.com/album/2GDIY30MqJ2sfnFp7px5Mq) | 2:00 |
 
-Snapshot ID: `AAAAAKfNfWsLNcrCykn2vOtmWm/wPzqX`
+Snapshot ID: `AAAAAGZn6S92/fFjwugouy1LDeoHzbPK`

@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 171696,
       "name": "Can't Be Loved",
       "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
@@ -1522,6 +1522,24 @@
       "duration_ms": 177740,
       "name": "Curse",
       "url": "https://open.spotify.com/track/4iRAcBiQnGo6o99YpKfAel"
+    },
+    {
+      "album": {
+        "name": "Da bist du",
+        "url": "https://open.spotify.com/album/4bSGV5Yq38J8jcwmZugMfQ"
+      },
+      "artists": [
+        {
+          "name": "Steiner & Madlaina",
+          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134750,
+      "name": "Da bist du",
+      "url": "https://open.spotify.com/track/2mJoUvc33ZT3FeuIHeygMF"
     },
     {
       "album": {
@@ -7688,7 +7706,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 225099,
       "name": "Weird Kid",
       "url": "https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s"
@@ -7742,7 +7760,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 219047,
       "name": "What If This World",
       "url": "https://open.spotify.com/track/5iij775fYn7KUTYJPX9SSw"

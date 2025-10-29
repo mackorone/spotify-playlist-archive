@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Mouhous, Pihlaja, Minttu, SHRTY & Bizi,  ELLIMEI ja moni muu  – mukana myös tuoreet Vain elämää \-biisit! 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,925 likes - 118 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,921 likes - 118 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 56 | [Ei aikaa leikkii](https://open.spotify.com/track/5AzAs1wmFCw3Eh3xqOoCTh) | [Olli August](https://open.spotify.com/artist/5rNbjiCW5GOrb9nuSX91Xw) | [Ei aikaa leikkii](https://open.spotify.com/album/7xIdasdhq8JYe0MXAqEGUm) | 2:23 |
 | 57 | [No Jolene](https://open.spotify.com/track/32MwhuIuhW55LawKJa8jyQ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [No Jolene](https://open.spotify.com/album/71R93xVwsFtmiW7nCm4V5h) | 2:37 |
 | 58 | [MAZZALEEN](https://open.spotify.com/track/6AhJ1N1Ua0nhJQa9G4fqyO) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [II](https://open.spotify.com/album/3bYmRWtPWM94WfgoW6QGzL) | 1:48 |
-| 59 | [BRUK DOWN](https://open.spotify.com/track/6seStQ8B2Bx2Gnis7LF3cr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BRUK DOWN](https://open.spotify.com/album/0BirKooSEo10AItZLSquFo) | 2:45 |
+| 59 | [BRUK DOWN](https://open.spotify.com/track/6seStQ8B2Bx2Gnis7LF3cr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO) | [BRUK DOWN](https://open.spotify.com/album/0BirKooSEo10AItZLSquFo) | 2:45 |
 | 60 | [Viimeinkin sut saan](https://open.spotify.com/track/6cAe2eUGkB7jx7Pe60IZFa) | [Michael Bleu](https://open.spotify.com/artist/6C81vSMobAZUiEdCytgolI) | [Viimeinkin sut saan](https://open.spotify.com/album/7iqiJxYzHsFnp6bCY4VHxq) | 2:56 |
 | 61 | [Bracing For Impact](https://open.spotify.com/track/4AcdJoArcqN1FRV7W1SJ1I) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Bracing For Impact](https://open.spotify.com/album/6yQAIt35n1JPwzIfvCxZrI) | 3:14 |
 | 62 | [Sugar High](https://open.spotify.com/track/4wAijWh2EQSASiQUblhC4h) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [Sugar High](https://open.spotify.com/album/4l5nhLF57bPawn8SR6lwrt) | 2:30 |

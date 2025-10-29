@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Zoë Më, Tyla, GIMS and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,518 likes - 110 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,516 likes - 110 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 59 | [Da bist du](https://open.spotify.com/track/2mJoUvc33ZT3FeuIHeygMF) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Da bist du](https://open.spotify.com/album/4bSGV5Yq38J8jcwmZugMfQ) | 2:14 |
 | 60 | [Private](https://open.spotify.com/track/1735xgk2J8CHCGY2LS1HM6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Private](https://open.spotify.com/album/3ZHB2EDswWPDigqKXI59CL) | 3:49 |
 | 61 | [Me & You](https://open.spotify.com/track/5Bm8xLUYc0q5neNXcFPyih) | [NAIJA03](https://open.spotify.com/artist/0T1TgJhJMkg85HlGrCGrPf) | [Me & You](https://open.spotify.com/album/0fO3g4emfJzrmQgalO8sAL) | 2:30 |
-| 62 | [Holy Atlantis](https://open.spotify.com/track/7u2FjJcKrJOcfiR10vnxSn) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Netherworld](https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF) | [Holy Atlantis](https://open.spotify.com/album/6FbfMrCx8r37hzH0HbdFLZ) | 1:56 |
+| 62 | [Holy Atlantis](https://open.spotify.com/track/7u2FjJcKrJOcfiR10vnxSn) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Netherworld](https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF) | [Holy Atlantis](https://open.spotify.com/album/6FbfMrCx8r37hzH0HbdFLZ) | 1:56 |
 | 63 | [IHR MÖCHTEGERN](https://open.spotify.com/track/6M1SZZHz3FRPFQlrCotp7G) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Schwesta Ewa](https://open.spotify.com/artist/7jDSMakHqXFe8kIaXfz8jD) | [IHR MÖCHTEGERN](https://open.spotify.com/album/6ygqkJXeFxSTMM1FXK15CA) | 2:23 |
 | 64 | [Bonjour Madame](https://open.spotify.com/track/37sFwcPt6GH0x5nFtB6YE8) | [Ryan87](https://open.spotify.com/artist/6BzPt6ue95AG1kg9TaJ4LJ) | [Bonjour Madame](https://open.spotify.com/album/51sEne8XiwcY6zjzLs0iHt) | 2:54 |
 | 65 | [Push](https://open.spotify.com/track/3AR9Sugs4aT9ySDW0HxCE1) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Push](https://open.spotify.com/album/2wH2XtlNwmJ7PXhkS95046) | 3:08 |

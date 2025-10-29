@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. GOLF, oskar med k, Sigrid og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,282 likes - 113 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,276 likes - 113 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 42 | [Jeg gjør](https://open.spotify.com/track/1BGJoFbKcE2KgPjgXlEfGw) | [Rakel](https://open.spotify.com/artist/3RiGzcN3Bd1Fmxvu2rxZJk) | [Fremtidige Club Classics](https://open.spotify.com/album/3989wBaVDs68LR4CnNSO81) | 3:07 |
 | 43 | [Pussy Palace](https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 4:01 |
 | 44 | [Energien](https://open.spotify.com/track/78Egb6LbMIAlhqNgSZztBC) | [Linni](https://open.spotify.com/artist/5EnyJ6QaGHnetHxAUD9Xoc) | [Flux Stasis](https://open.spotify.com/album/4BTX4qU7wldWYJ5t9Bne84) | 2:33 |
-| 45 | [BRUK DOWN](https://open.spotify.com/track/6seStQ8B2Bx2Gnis7LF3cr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BRUK DOWN](https://open.spotify.com/album/0BirKooSEo10AItZLSquFo) | 2:45 |
+| 45 | [BRUK DOWN](https://open.spotify.com/track/6seStQ8B2Bx2Gnis7LF3cr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO) | [BRUK DOWN](https://open.spotify.com/album/0BirKooSEo10AItZLSquFo) | 2:45 |
 | 46 | [Gensern din](https://open.spotify.com/track/3WqNWhb51Ij47DftjMVdeT) | [Karen Moe](https://open.spotify.com/artist/7HVTiq4sDE8CnO0jCHldZ0) | [Gensern din](https://open.spotify.com/album/6gDmDlsOQfO6pTjC6rgOHI) | 2:50 |
 | 47 | [Mens Vi Lever](https://open.spotify.com/track/1aHKIPfCASAcYvaQsc2Ja0) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [GOLF](https://open.spotify.com/album/2ZTc5n62uK6TjSbpURO5Me) | 3:00 |
 | 48 | [I'll Always Be Your Girl](https://open.spotify.com/track/3rgZPrOQn2E3sw90NgI6f6) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [There’s Always More That I Could Say](https://open.spotify.com/album/37P2qivB9weEafn1Y2VeF8) | 2:51 |

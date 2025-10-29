@@ -362,7 +362,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 245567,
       "name": "All Behind",
       "url": "https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E"
@@ -8220,7 +8220,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 170604,
       "name": "Nothing's Forever",
       "url": "https://open.spotify.com/track/4uEi9ko1zKiadHF3o1mgEp"
@@ -11807,6 +11807,24 @@
     },
     {
       "album": {
+        "name": "The Way Home",
+        "url": "https://open.spotify.com/album/4A26OKfjMDdQFoMb1S2KsR"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295473,
+      "name": "The Way Home",
+      "url": "https://open.spotify.com/track/6XHRuH6M8oBFOaVLz3abUx"
+    },
+    {
+      "album": {
         "name": "The Weatherman",
         "url": "https://open.spotify.com/album/3a0PORSoyMPnUYKhC2SsFm"
       },
@@ -12820,6 +12838,24 @@
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
+    },
+    {
+      "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/6SRWhcfH94UmcQrvXRuFWS"
+      },
+      "artists": [
+        {
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186079,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3"
     },
     {
       "album": {

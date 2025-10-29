@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: fanclubwallet
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,111 likes - 99 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,106 likes - 99 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 5 | [Kiss](https://open.spotify.com/track/4OwxTsR3IPjFCX0sii5vtP) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Kiss](https://open.spotify.com/album/0d0LjZgArvtjtzX6SnDulV) | 2:48 |
 | 6 | [Feels So Good](https://open.spotify.com/track/26DeYXH95xA9DdcPfPZ8fS) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [My Second Last Album](https://open.spotify.com/album/1lNhmIl6F1c3G7svc0n2SG) | 3:34 |
 | 7 | [Where The Road Goes From Two Lanes Down To One](https://open.spotify.com/track/6paLrQ1OBvr1NSKuoWsUzf) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT), [Michael Feuerstack](https://open.spotify.com/artist/3hQGWHGSGwXM8bY7i884Ey), [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo), [Dany Placard](https://open.spotify.com/artist/5sjde1NFxsXN9EjZyMbhHp) | [Where The Road Goes From Two Lanes Down To One](https://open.spotify.com/album/2VUnmO2J4NM9PlYtg1RAoX) | 6:09 |
-| 8 | [Homeless Maccabie](https://open.spotify.com/track/6HmyzSvYBa3HQ61vWDKexl) | [Ben Marc](https://open.spotify.com/artist/4sxl9xjKCAmzbtkEHf5lkJ), [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Homeless Maccabie](https://open.spotify.com/album/7lJxerrSsbFu61cjxIFQxM) | 2:58 |
+| 8 | [Homeless Maccabee](https://open.spotify.com/track/6HmyzSvYBa3HQ61vWDKexl) | [Ben Marc](https://open.spotify.com/artist/4sxl9xjKCAmzbtkEHf5lkJ), [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Homeless Maccabee](https://open.spotify.com/album/7lJxerrSsbFu61cjxIFQxM) | 2:58 |
 | 9 | [Private](https://open.spotify.com/track/1735xgk2J8CHCGY2LS1HM6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Private](https://open.spotify.com/album/3ZHB2EDswWPDigqKXI59CL) | 3:49 |
 | 10 | [limbo](https://open.spotify.com/track/1jjZSKkkm71iFGjTFVtHxs) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [limbo](https://open.spotify.com/album/19n6SzmWCHrTAnFxFaSXla) | 3:08 |
 | 11 | [Risky Business](https://open.spotify.com/track/5cnmLH9QLOVQbEvcFcIOED) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv), [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Risky Business](https://open.spotify.com/album/3MOuoxECdrCZ2SVwwWTwLe) | 2:54 |

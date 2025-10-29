@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: Frannie Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,105 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,135 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 99 | [Jumping Fences \- GREGATRON Remix](https://open.spotify.com/track/7F3OGOKsNgjfy6Oa7YSLol) | [Kim Viera](https://open.spotify.com/artist/4cmSUhjO83qNmK2AvxKQ41), [Gregatron](https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX) | [Jumping Fences \(GREGATRON Remix\)](https://open.spotify.com/album/3xohme0JhBOoJ9Q4nVrQvC) | 2:41 |
 | 100 | [You](https://open.spotify.com/track/3kGR691eQ4tGl6pGR3x4k7) | [OAKS](https://open.spotify.com/artist/2q3aC3XhYU0I7Uwkib8GvB), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3), [Tapestry Worship](https://open.spotify.com/artist/5vSRguAsGm92WB4exbS87g) | [You](https://open.spotify.com/album/4sa5KEdJno71S1jlsLZyJb) | 3:13 |
 
-Snapshot ID: `AAAAALCJpX8WFj/ujcz272oipKdFEGaw`
+Snapshot ID: `AAAAAGee+mNtELCmHz+bQXy0eFul+hhh`

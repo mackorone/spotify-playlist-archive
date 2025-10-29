@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Tiziano Ferro, Charlie Charles e BLANCO, Lewis Capaldi, Tyla,  Capo Plaza, ANTONIA e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,666 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,656 likes - 90 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 34 | ['Nu veleno amaro](https://open.spotify.com/track/0F20papsE96g2fpQcFcIIA) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | ['Nu veleno amaro](https://open.spotify.com/album/6JG17W5iVXgaUgDfnl3GJE) | 2:47 |
 | 35 | [Cara Allegria \(feat\. MILLE\)](https://open.spotify.com/track/53BapHDV764jmkXhG8GF8r) | [Giulia Mei](https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2), [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Cara Allegria \(feat\. MILLE\)](https://open.spotify.com/album/45ojBW52ZyahwPeTiGCQKA) | 3:29 |
 | 36 | [Per il panico](https://open.spotify.com/track/3lNVhyA1Q25EMX3oWXTJra) | [CARA](https://open.spotify.com/artist/5zB3Q6zAf7VWq0cfiHgzqf) | [Per il panico](https://open.spotify.com/album/6AUdje3pmdHAAOfRygn8gG) | 3:01 |
-| 37 | [BRUK DOWN](https://open.spotify.com/track/6seStQ8B2Bx2Gnis7LF3cr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BRUK DOWN](https://open.spotify.com/album/0BirKooSEo10AItZLSquFo) | 2:45 |
+| 37 | [BRUK DOWN](https://open.spotify.com/track/6seStQ8B2Bx2Gnis7LF3cr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO) | [BRUK DOWN](https://open.spotify.com/album/0BirKooSEo10AItZLSquFo) | 2:45 |
 | 38 | [Ain't Letting You Down](https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Ain't Letting You Down](https://open.spotify.com/album/6Gihz6RXvLYLFxHPMJC7nf) | 4:21 |
 | 39 | [Radio Baby](https://open.spotify.com/track/1tz1f4sgl1Ux3Dn1xr4ShN) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Radio Baby](https://open.spotify.com/album/46OD1SlPvr8wRAVIzhipRN) | 2:46 |
 | 40 | [Io ti conosco](https://open.spotify.com/track/6tudiXYDYxa4rIIzPiq9mM) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) | [Io ti conosco](https://open.spotify.com/album/5xPXvS6HTVlPnwl23Cdz4k) | 3:28 |

@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: Victor Ray",
-  "num_followers": 77620,
+  "num_followers": 77623,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -493,6 +493,22 @@
       "url": "https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0"
     },
     {
+      "added_at": "2025-10-24 13:57:43",
+      "album": {
+        "name": "Nie mam si\u0119 ju\u017c czego ba\u0107",
+        "url": "https://open.spotify.com/album/2JMpOaxEftQzS8okGgDcbo"
+      },
+      "artists": [
+        {
+          "name": "Pola Maj",
+          "url": "https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "Nie mam si\u0119 ju\u017c czego ba\u0107",
+      "url": "https://open.spotify.com/track/2fwA89EScmFJkVkDSeC2G3"
+    },
+    {
       "added_at": "2025-10-01 08:00:31",
       "album": {
         "name": "\u6162\u6162",
@@ -531,22 +547,6 @@
       "duration_ms": 202857,
       "name": "No One Like Us",
       "url": "https://open.spotify.com/track/7bBqR8nZxVy68xS7eUCx4I"
-    },
-    {
-      "added_at": "2025-10-24 13:57:43",
-      "album": {
-        "name": "Nie mam si\u0119 ju\u017c czego ba\u0107",
-        "url": "https://open.spotify.com/album/2JMpOaxEftQzS8okGgDcbo"
-      },
-      "artists": [
-        {
-          "name": "Pola Maj",
-          "url": "https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Nie mam si\u0119 ju\u017c czego ba\u0107",
-      "url": "https://open.spotify.com/track/2fwA89EScmFJkVkDSeC2G3"
     },
     {
       "added_at": "2025-10-01 08:00:31",

@@ -2,9 +2,9 @@
 
 ### [RYM Top 100 Songs \(Updated "Tuesdays"\)](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
 
-> YES SUN KIL MOON YESS SUNN KILL MOON ☠️ \(72\-75\)
+> &quot;Starless&quot; has surpassed the great &quot;A Day in the Life&quot; but they&\#x27;ll surely flippy floppy every \(2\) week\(s\)
 
-102 songs - 13 hr 18 min
+103 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Be Quiet and Drive \(Far Away\)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:59 | 2025-08-06 |  |
 | [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:54 | 2025-08-06 |  |
 | [Blind](https://open.spotify.com/track/0X00CI1vqfB3PmoamimEE9) | [M\. Gira](https://open.spotify.com/artist/0oL7qlH0iZ84b4XP9CGlTM) | [Drainland \(Remastered\)](https://open.spotify.com/album/0KwKxxZd4xFaNJNVblknxD) | 4:35 | 2025-08-06 |  |
-| [Blood Promise](https://open.spotify.com/track/7iBZEqYiQ0635LQ6EfyPIb) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [Swans Are Dead: Live '95\-'97](https://open.spotify.com/album/5Hw3LAaqh5a1cRoKxy6j0Z) | 15:23 | 2025-08-06 |  |
+| [Blood Promise](https://open.spotify.com/track/7iBZEqYiQ0635LQ6EfyPIb) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [Swans Are Dead: Live '95\-'97](https://open.spotify.com/album/5Hw3LAaqh5a1cRoKxy6j0Z) | 15:23 | 2025-08-06 | 2025-10-29 |
 | [Bloodhail](https://open.spotify.com/track/5qZ4c1EBVWpmz1GBaks8Uq) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 5:38 | 2025-08-06 |  |
 | [C.R.E.A.M\. \(Cash Rules Everything Around Me\)](https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:12 | 2025-08-06 |  |
 | [Carry Me Ohio](https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 6:21 | 2025-08-06 |  |
@@ -87,6 +87,7 @@
 | [Starman \- 2012 Remaster](https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:14 | 2025-08-06 |  |
 | [Storm](https://open.spotify.com/track/1HfJV18PHF2UQqh4TuySBJ) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Lift Your Skinny Fists Like Antennas to Heaven](https://open.spotify.com/album/2rT82YYlV9UoxBYLIezkRq) | 22:32 | 2025-08-06 |  |
 | [Strawberry Fields Forever \- Remastered 2009](https://open.spotify.com/track/3Am0IbOxmvlSXro7N5iSfZ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 4:07 | 2025-08-06 |  |
+| [Summer's Gone \-second season ver\-](https://open.spotify.com/track/7qKohSGg9hmRNR9bSO4KUI) | [honeydip](https://open.spotify.com/artist/2UWMhQk46Coymimh2Hky4m) | [Another Sunny Day \-Remastered\-](https://open.spotify.com/album/7zxYI7jjVJGsV3nF2wheBt) | 6:51 | 2025-10-29 |  |
 | [The Blacker The Berry](https://open.spotify.com/track/5Mtt6tZSZA9cXTHGSGpyh0) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 5:28 | 2025-08-06 |  |
 | [The Court Of The Crimson King \- Including "The Return of the Fire Witch" and "The Dance of the Puppets"](https://open.spotify.com/track/05xYoVj6QuFk0U7PVl5Tf2) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M) | 10:02 | 2025-08-06 |  |
 | [The Glow, Pt\. 2](https://open.spotify.com/track/05XSpcg3nm0zpDHd36AZOs) | [The Microphones](https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO) | [The Glow, Pt\. 2](https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl) | 4:58 | 2025-08-06 |  |

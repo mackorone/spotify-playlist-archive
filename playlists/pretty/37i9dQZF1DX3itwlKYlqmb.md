@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3itwlKYlqmb.md) - [plain]
 
 > De está sierra a la otra sierra se divisa <br/>San José\. En portada: Los Alameños de la Sierra
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,307 likes - 87 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,391 likes - 87 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

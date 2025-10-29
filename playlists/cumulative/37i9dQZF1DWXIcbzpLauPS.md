@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Architects
 
-1,385 songs - 3 day 12 hr 39 min
+1,386 songs - 3 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -822,7 +822,7 @@
 | [Nightmare \(The Devil\)](https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Nightmare \(The Devil\)](https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA) | 3:21 | 2024-03-08 | 2025-09-13 |
 | [nights](https://open.spotify.com/track/1I4rlS1d99cwHJ9vRHHTRP) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [nights](https://open.spotify.com/album/1QoYG03O6S0GGvg5WBi3cY) | 2:02 | 2024-04-12 | 2024-08-13 |
 | [Nihilus](https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Nihilus](https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T) | 3:34 | 2022-07-13 | 2022-07-23 |
-| [No Answer](https://open.spotify.com/track/2KrGH8pKA2wFXEJM8HetDH) | [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk), [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Lore](https://open.spotify.com/album/1ieLuRpnnX8EYrzCdZuQSB) | 2:44 | 2024-09-20 |  |
+| [No Answer](https://open.spotify.com/track/2KrGH8pKA2wFXEJM8HetDH) | [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk), [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Lore](https://open.spotify.com/album/1ieLuRpnnX8EYrzCdZuQSB) | 2:44 | 2024-09-20 | 2025-10-29 |
 | [No Dignity](https://open.spotify.com/track/3lN5zEux9kS6wuAOynFQlO) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [No Dignity](https://open.spotify.com/album/0d1OWLprMSKHi4aeeIhpEZ) | 3:29 | 2022-07-13 | 2022-07-20 |
 | [No Evil](https://open.spotify.com/track/1zO6NIKsqvH5p578KXr97T) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [No Evil](https://open.spotify.com/album/5CA2LhicOyfJdDq5vosOpD) | 2:30 | 2023-03-31 | 2023-09-16 |
 | [No Heaven](https://open.spotify.com/track/5nxZSkMS7VpbjEHaCQ39a1) | [For The Fallen Dreams](https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY) | [No Heaven](https://open.spotify.com/album/3UDy59MHq2lMzX04LeH6qa) | 3:24 | 2022-10-21 | 2023-08-19 |
@@ -1235,6 +1235,7 @@
 | [Time Is A Destroyer](https://open.spotify.com/track/2cTYJ0NFVc6a2R3UGfta3s) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Time Is A Destroyer](https://open.spotify.com/album/0sGXZMXEeXv32bKQ3AWh4t) | 2:31 | 2025-09-26 | 2025-10-25 |
 | [Time's Up.](https://open.spotify.com/track/3JVQlolBhjkObQxqKvpX7y) | [Inventure](https://open.spotify.com/artist/4QvznpkSKdSAdbmJVfk9mS) | [Time's Up.](https://open.spotify.com/album/3JaMHKM4va22WLqzWV8AiL) | 3:22 | 2022-07-13 | 2022-07-20 |
 | [Timebomb](https://open.spotify.com/track/56F1dvYo8uAF0pVjJOgZQV) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [Timebomb](https://open.spotify.com/album/0po9VX0DN9hK4g79mwIGqY) | 3:20 | 2024-03-02 | 2024-08-13 |
+| [Timeloss](https://open.spotify.com/track/63tsjFdfIMdxJ2NPhksFIl) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU), [Screamistry](https://open.spotify.com/artist/7CfvatjUCoi2RBmE6sv3n3) | [Timeloss](https://open.spotify.com/album/0Og3VW0rOhlsCYUmwuKrp7) | 3:20 | 2025-10-24 |  |
 | [To The Dance Floor For Shelter](https://open.spotify.com/track/56Vtx5Pdhg0sgmbczxJ5b5) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [To The Dance Floor For Shelter \(feat\. Courtney LaPlante\)](https://open.spotify.com/album/5S9zh1BaFjgNq1TdDNH1Se) | 4:19 | 2024-03-27 | 2024-04-13 |
 | [TO THE FLOWERS](https://open.spotify.com/track/7vEkX5ctStkJ0k6OcYP5lf) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [TO THE FLOWERS](https://open.spotify.com/album/2bZdgsUdxpLHYIQHNCzsaB) | 5:05 | 2024-02-23 | 2024-04-13 |
 | [To The Grave](https://open.spotify.com/track/67GONGzUfUcWyr1pu8QjSF) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [To The Grave](https://open.spotify.com/album/5PL8XHRC49Do7mmLisGNUJ) | 4:07 | 2024-04-12 | 2024-07-13 |

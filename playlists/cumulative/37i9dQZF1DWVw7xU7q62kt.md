@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-677 songs - 1 day 5 hr 38 min
+678 songs - 1 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Goin' Places](https://open.spotify.com/track/5hPSNpGlMkiTtlqsnikJvz) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Goin' Places](https://open.spotify.com/album/66XkfG45HOeDtK9z7m6dzU) | 1:39 | 2025-10-03 |  |
 | [Going Along With It](https://open.spotify.com/track/4KgJmpIxPEnwagCpEgAuYc) | [Sem0r](https://open.spotify.com/artist/5kKtBm0XgwJnI8oudcaupR), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I) | [Going Along With It](https://open.spotify.com/album/3S63qle6fwfLmeKjWLNTwl) | 1:32 | 2025-02-03 |  |
 | [Golden](https://open.spotify.com/track/0puARhK6jKkusREeVYGchX) | [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Golden](https://open.spotify.com/album/0xPEVbpkS6FMtA2JNboDWZ) | 2:10 | 2025-10-03 |  |
+| [Golden Hour](https://open.spotify.com/track/5pYa3nB6k9VZpBynPrWLIo) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Golden Hour](https://open.spotify.com/album/12cathoKU0frumffV7uCTA) | 1:44 | 2025-10-24 |  |
 | [Golden Hour](https://open.spotify.com/track/56gzYeY3J2VVUqF5Fyx0fa) | [XXIII](https://open.spotify.com/artist/1iMewV5kCtODzBgKmPnIq7) | [Golden Hour](https://open.spotify.com/album/4rFwznUvKfecxIUc5TugBL) | 1:26 | 2025-04-18 | 2025-09-13 |
 | [Goldfoil](https://open.spotify.com/track/0SVgLGkpkGz8PI6fdQbMeO) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Goldfoil](https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC) | 2:34 | 2023-08-25 | 2024-09-29 |
 | [Good Things Happen](https://open.spotify.com/track/2GwRZI8nIoVFCAIsf3qaUu) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Aaron Wood](https://open.spotify.com/artist/1ezDfTAgyNgHfoZNRaEEls) | [Good Things Happen](https://open.spotify.com/album/58xqkw3fRhOKsO9f7lDXtY) | 2:49 | 2024-09-06 | 2025-06-21 |
@@ -363,7 +364,7 @@
 | [mira la noche](https://open.spotify.com/track/6wFX7sd6VMY6Fqd29fkgmq) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [mira la noche](https://open.spotify.com/album/2OpONlRS6cr5lYQpJwY8cz) | 1:52 | 2024-08-30 | 2025-05-17 |
 | [Mirage](https://open.spotify.com/track/3c5rfiUp1JvGfdzloQsNGc) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Mirage](https://open.spotify.com/album/4667i9nAB3hdMcWkaFvIii) | 2:02 | 2025-09-12 |  |
 | [Mirrorless](https://open.spotify.com/track/4AZs7dehioqAFsFwTPqgJV) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Mirrorless](https://open.spotify.com/album/0ue5c8ClRc396YaUp0GB4N) | 1:49 | 2025-08-29 |  |
-| [Missed Calls](https://open.spotify.com/track/0wI4j8xIUq8ql69MokWCE5) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t), [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX) | [Missed Calls](https://open.spotify.com/album/6i4TU3QacIgzdkdNWBpvFB) | 2:33 | 2024-11-08 |  |
+| [Missed Calls](https://open.spotify.com/track/0wI4j8xIUq8ql69MokWCE5) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t), [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX) | [Missed Calls](https://open.spotify.com/album/6i4TU3QacIgzdkdNWBpvFB) | 2:33 | 2024-11-08 | 2025-10-29 |
 | [MiSSEDCALL](https://open.spotify.com/track/1gArO52SCQI5R1wPec0yIL) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt), [chillontwo](https://open.spotify.com/artist/2uWSQufkayFL2aw4iCXHBA), [Jordanny Gonzalez](https://open.spotify.com/artist/3H6oEgGXV2D1d7wV1xmXHl) | [MiSSEDCALL](https://open.spotify.com/album/5k1mFclzlc8AUAdwkV38T6) | 2:30 | 2025-09-12 |  |
 | [Mocuba](https://open.spotify.com/track/4MKLZY1A7sTZBJjgRe6DJt) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Mocuba](https://open.spotify.com/album/77okibn84VPQ1fJ2bYBAgc) | 1:49 | 2025-07-11 |  |
 | [Mojave](https://open.spotify.com/track/3JoDvIn0bE0PAO6ICKpDOT) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Mojave](https://open.spotify.com/album/4D8rZuw0TU2n4I34bretGk) | 1:56 | 2024-10-18 | 2025-03-04 |

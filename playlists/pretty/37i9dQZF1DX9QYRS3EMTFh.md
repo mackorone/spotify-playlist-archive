@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Maureen
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,032 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,056 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 37 | [Dans la fiesta](https://open.spotify.com/track/4k2A7j9Wx8PU2QKEd8zqci) | [T\-Matt](https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm), [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Dans la fiesta](https://open.spotify.com/album/00msJVI5gvPi3RRADlUgEy) | 2:42 |
 | 38 | [Cette Soirée Là](https://open.spotify.com/track/1AppEpk1H5ZWjOiZb4zxp7) | [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE), [K\-Rosif](https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV) | [Cette Soirée Là](https://open.spotify.com/album/016cg7egfi4qKhRnMYKXJ8) | 2:10 |
 | 39 | [TA NANA](https://open.spotify.com/track/2lOXSKiuIVezC04uWVWYJx) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa) | [TA NANA](https://open.spotify.com/album/7kd70QeqCdfl6MzMzbGjyF) | 1:57 |
-| 40 | [La vie que je mérite](https://open.spotify.com/track/435gwgVidsnt3ZGlwMbbG4) | [T\-Jy](https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p) | [La vie que je mérite](https://open.spotify.com/album/01D9iEu4EPwAOy8z0IfAKf) | 2:11 |
+| 40 | [La vie que je mérite](https://open.spotify.com/track/435gwgVidsnt3ZGlwMbbG4) | [T\-Jy](https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p), [Yanishi](https://open.spotify.com/artist/2XngitiMW1vEd1VL0CQg2x) | [La vie que je mérite](https://open.spotify.com/album/01D9iEu4EPwAOy8z0IfAKf) | 2:11 |
 | 41 | [TUTTI FRUTTI](https://open.spotify.com/track/3yXPsQnivkVH971uUnXgL7) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I) | [TUTTI FRUTTI](https://open.spotify.com/album/0TOIsCC6EsWjmoQmg2eUjP) | 2:11 |
 | 42 | [Gimmi Punani](https://open.spotify.com/track/3aAJKB3ILEsqRj6HIngU2A) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Gimmi Punani](https://open.spotify.com/album/45VHb3LYmYoM4nNhohf1S7) | 1:53 |
 | 43 | [DOUS KON SIWO](https://open.spotify.com/track/2p3GvLX0ljtIZau3tyiunM) | [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s) | [DOUS KON SIWO](https://open.spotify.com/album/3QtpspHcbL8eaZXEewl6fz) | 2:53 |

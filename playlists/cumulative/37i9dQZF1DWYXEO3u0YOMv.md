@@ -4,7 +4,7 @@
 
 > <a href="http://www.mappa.co.jp/">MAPPA</a>が紡いできたアニメーションの世界を音楽で辿るプレイリスト。心に残る名曲たちを集めました。<br/>A playlist that traces the animated worlds created by <a href="http://www.mappa.co.jp/">MAPPA</a> through music, featuring a collection of memorable songs that remain in the heart\. © 2025 MAPPA／チェンソーマンプロジェクト ©藤本タツキ／集英社
 
-255 songs - 16 hr 26 min
+256 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,10 +158,11 @@
 | [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 | 2023-01-17 |  |
 | [ぬふっとてーきゅうポトラッチ](https://open.spotify.com/track/4b97JiQwit48h8Vn2psTkL) | [Naive](https://open.spotify.com/artist/6mzWUjHwPOYQdKNMQTQmDz) | [てーきゅうBEST](https://open.spotify.com/album/19OuaVZecS5k2SUHwiRDVs) | 3:23 | 2022-05-10 |  |
 | [ばかじゃないのに](https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ばかじゃないのに](https://open.spotify.com/album/6XY8TrEZf0R3xnm6kouGzT) | 4:16 | 2022-05-10 | 2025-09-19 |
+| [またたく宇宙（ソラ）に憧れて](https://open.spotify.com/track/4vutL5MOKfY8KTXXMmrsVB) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [ゾンビランドサガ ゆめぎんがパラダイス フランシュシュ The Best Paradise](https://open.spotify.com/album/1k0m2BAv3UyuhSZp1yV8T1) | 4:58 | 2025-10-28 |  |
 | [まっさら](https://open.spotify.com/track/3ZlbFeHjcbZOX43v4peFWZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [まっさら](https://open.spotify.com/album/4hBvsx4tu4hXaYTXveupAp) | 4:54 | 2022-05-10 |  |
 | [みぎてのうた](https://open.spotify.com/track/1PJwtyi6jDAxGQUNwKj49W) | [Kotringo](https://open.spotify.com/artist/0vCz02RulLug6oS9zzyVF0) | [映画「この世界の片隅に」さらにいくつものサウンドトラック](https://open.spotify.com/album/62ggBxN36q1BKWnzKFGDO7) | 4:49 | 2025-09-18 |  |
 | [らぶじゅてーむ](https://open.spotify.com/track/2NSp2dpqGXBJYTuYccld5G) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [らぶじゅてーむ](https://open.spotify.com/album/2TsUpJ4YDzsX9hBLllwMCa) | 3:15 | 2024-01-25 |  |
-| [アルタイル](https://open.spotify.com/track/6ZDIqgS06Rr5gHXLP6c3Xb) | [秦 基博 meets 坂道のアポロン](https://open.spotify.com/artist/6zbJYUN1FfUnEUAJpLHwCD) | [アルタイル](https://open.spotify.com/album/6DjXIcH9EZBhPeL4auVFf7) | 6:01 | 2025-10-09 |  |
+| [アルタイル](https://open.spotify.com/track/6ZDIqgS06Rr5gHXLP6c3Xb) | [秦 基博 meets 坂道のアポロン](https://open.spotify.com/artist/6zbJYUN1FfUnEUAJpLHwCD) | [アルタイル](https://open.spotify.com/album/6DjXIcH9EZBhPeL4auVFf7) | 6:01 | 2025-10-09 | 2025-10-29 |
 | [インザバックルーム](https://open.spotify.com/track/1fmCImjjMs4pHmQGDmtCc9) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [インザバックルーム](https://open.spotify.com/album/0EkDnS2v3CdqqE6tOM3d89) | 3:26 | 2024-04-14 |  |
 | [ウォーアイニー](https://open.spotify.com/track/4JuGfoVTxBosFrjnE1MFh2) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [可愛女子](https://open.spotify.com/album/5GyItnBLvUZ59iEQRbuuaM) | 3:53 | 2025-10-09 |  |
 | [コノユビトマレ](https://open.spotify.com/track/47ltbGJTejvcljxYfzAlUZ) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [コノユビトマレ](https://open.spotify.com/album/5xpmbprnRWDZfDCF8kCU63) | 4:59 | 2022-05-10 |  |

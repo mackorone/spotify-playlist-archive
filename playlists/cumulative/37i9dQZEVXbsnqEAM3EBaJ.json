@@ -11890,7 +11890,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-28",
+      "date_removed": null,
       "duration_ms": 232306,
       "name": "Distant Suns",
       "url": "https://open.spotify.com/track/3G1YQH1gv75nlf9ySwuydn"
@@ -39544,7 +39544,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 189801,
       "name": "Rock And Roll All Nite - Super-Fast Outtake",
       "url": "https://open.spotify.com/track/0aKfJxIYmAsQFAkoG99pGq"
@@ -39798,6 +39798,24 @@
       "duration_ms": 207712,
       "name": "Room Service - Extended Outtake",
       "url": "https://open.spotify.com/track/5k5NPGI62w7FoMDteQTrVs"
+    },
+    {
+      "album": {
+        "name": "Dressed To Kill (50th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/0oy3z068vYbmyQy7KyMvvu"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208712,
+      "name": "Room Service - Extended Outtake",
+      "url": "https://open.spotify.com/track/2vSc2Zvxdz55ecmJGODYSK"
     },
     {
       "album": {
@@ -52628,7 +52646,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-29",
       "duration_ms": 249640,
       "name": "Undertow",
       "url": "https://open.spotify.com/track/4BHLPXPPUKktlQusIjtTgE"

@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass \ud83d\udef8 with ILLENIUM and HAYLA",
-  "num_followers": 472175,
+  "num_followers": 472174,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-10-24 17:17:46",
       "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/00jC8qEFU0xnbNQpfD8g9X"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        }
-      ],
-      "duration_ms": 165650,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/5xMSUgWj8cLs6MKw2B297Y"
-    },
-    {
-      "added_at": "2025-10-24 17:17:46",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/6IMTzt0m9cTMn97VD8QIFX"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 234000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1XFdS4vhVl4g4vT1AV2kyb"
+    },
+    {
+      "added_at": "2025-10-24 17:17:46",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/00jC8qEFU0xnbNQpfD8g9X"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        }
+      ],
+      "duration_ms": 165650,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/5xMSUgWj8cLs6MKw2B297Y"
     },
     {
       "added_at": "2025-10-24 17:17:46",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-10-24 17:17:46",
       "album": {
-        "name": "Autopilot",
-        "url": "https://open.spotify.com/album/1FPiadUbi6FqEm6nXramIj"
-      },
-      "artists": [
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Autopilot",
-      "url": "https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj"
-    },
-    {
-      "added_at": "2025-10-24 17:17:46",
-      "album": {
         "name": "How You Love Me (Anniversary)",
         "url": "https://open.spotify.com/album/1Vy6CMBaX13CdQgOLklz0L"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 225000,
       "name": "How You Love Me (Anniversary)",
       "url": "https://open.spotify.com/track/5BPLdDCkqFyDsyPDaNlTus"
+    },
+    {
+      "added_at": "2025-10-24 17:17:46",
+      "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/1FPiadUbi6FqEm6nXramIj"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj"
     },
     {
       "added_at": "2025-10-24 17:17:46",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2025-10-24 17:17:46",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/4wKwxTukbhwMmG9dZpEpLX"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Amidy",
-          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
-        }
-      ],
-      "duration_ms": 196233,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/3yH2YuRNJcXfwjgd7nFIMX"
-    },
-    {
-      "added_at": "2025-10-24 17:17:46",
-      "album": {
         "name": "Not Enough",
         "url": "https://open.spotify.com/album/4EyjrQZHAoHovJOvFqn7BN"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 206047,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/7q3vuEjw42Q1hdGQVqRKkx"
+    },
+    {
+      "added_at": "2025-10-24 17:17:46",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/4wKwxTukbhwMmG9dZpEpLX"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        }
+      ],
+      "duration_ms": 196233,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/3yH2YuRNJcXfwjgd7nFIMX"
     },
     {
       "added_at": "2025-10-24 17:17:46",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2025-10-24 17:17:46",
       "album": {
-        "name": "Champagne (feat. Dia Frampton)",
-        "url": "https://open.spotify.com/album/5VnfM3oQTV3OEC2Uq7ssUc"
-      },
-      "artists": [
-        {
-          "name": "yetep",
-          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
-        },
-        {
-          "name": "Dia Frampton",
-          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
-        }
-      ],
-      "duration_ms": 218978,
-      "name": "Champagne (feat. Dia Frampton)",
-      "url": "https://open.spotify.com/track/1kuTUxdFGSPkcVx08BYcvV"
-    },
-    {
-      "added_at": "2025-10-24 17:17:46",
-      "album": {
         "name": "Need You Again",
         "url": "https://open.spotify.com/album/3I9CFa50uQSVc7dosPzNsQ"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 236842,
       "name": "Need You Again",
       "url": "https://open.spotify.com/track/5pk9UVSYYJawxl6D2g9HgL"
+    },
+    {
+      "added_at": "2025-10-24 17:17:46",
+      "album": {
+        "name": "Champagne (feat. Dia Frampton)",
+        "url": "https://open.spotify.com/album/5VnfM3oQTV3OEC2Uq7ssUc"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Dia Frampton",
+          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+        }
+      ],
+      "duration_ms": 218978,
+      "name": "Champagne (feat. Dia Frampton)",
+      "url": "https://open.spotify.com/track/1kuTUxdFGSPkcVx08BYcvV"
     },
     {
       "added_at": "2025-10-24 17:17:46",
@@ -1971,6 +1971,26 @@
     {
       "added_at": "2025-10-24 17:17:46",
       "album": {
+        "name": "Darkest Days (feat. Sandra Yvette)",
+        "url": "https://open.spotify.com/album/0L9qUzPx8fbPP9IaAoUTq5"
+      },
+      "artists": [
+        {
+          "name": "FLOTE",
+          "url": "https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO"
+        },
+        {
+          "name": "Sandra Yvette",
+          "url": "https://open.spotify.com/artist/5oogJiIMNvcoAIiyFk3NTe"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Darkest Days (feat. Sandra Yvette)",
+      "url": "https://open.spotify.com/track/6meFLb7oAeZEZ9FWWyTJul"
+    },
+    {
+      "added_at": "2025-10-24 17:17:46",
+      "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/11ZzN3XPH3M2DuLLAthWxR"
       },
@@ -2011,22 +2031,22 @@
     {
       "added_at": "2025-10-24 17:17:46",
       "album": {
-        "name": "Darkest Days (feat. Sandra Yvette)",
-        "url": "https://open.spotify.com/album/0L9qUzPx8fbPP9IaAoUTq5"
+        "name": "Your Imagination",
+        "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
       },
       "artists": [
         {
-          "name": "FLOTE",
-          "url": "https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO"
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
         },
         {
-          "name": "Sandra Yvette",
-          "url": "https://open.spotify.com/artist/5oogJiIMNvcoAIiyFk3NTe"
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
         }
       ],
-      "duration_ms": 170400,
-      "name": "Darkest Days (feat. Sandra Yvette)",
-      "url": "https://open.spotify.com/track/6meFLb7oAeZEZ9FWWyTJul"
+      "duration_ms": 237696,
+      "name": "Your Imagination",
+      "url": "https://open.spotify.com/track/0M0ac58ggq3FHG849kCfGR"
     },
     {
       "added_at": "2025-10-24 17:17:46",
@@ -2051,26 +2071,6 @@
     {
       "added_at": "2025-10-24 17:17:46",
       "album": {
-        "name": "Your Imagination",
-        "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
-        }
-      ],
-      "duration_ms": 237696,
-      "name": "Your Imagination",
-      "url": "https://open.spotify.com/track/0M0ac58ggq3FHG849kCfGR"
-    },
-    {
-      "added_at": "2025-10-24 17:17:46",
-      "album": {
         "name": "The Nature of Hope",
         "url": "https://open.spotify.com/album/64ZcjP0jb06XnpDf3VxXwm"
       },
@@ -2083,26 +2083,6 @@
       "duration_ms": 210206,
       "name": "Straight Into The Ground",
       "url": "https://open.spotify.com/track/01HgVS08pxNO7CZGoeeBXa"
-    },
-    {
-      "added_at": "2025-10-24 17:17:46",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/4Zvocwxpz5F7kuHGCrP0SC"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "GONE ASTRAY",
-          "url": "https://open.spotify.com/artist/4xTIYqGN4btKj8WRWTyfTA"
-        }
-      ],
-      "duration_ms": 172240,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/2H6AeEJklikbsPRKHhm28J"
     },
     {
       "added_at": "2025-10-24 17:17:46",
@@ -2147,6 +2127,26 @@
       "duration_ms": 206400,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/3zubofIaCuEkZYPcwxQPZs"
+    },
+    {
+      "added_at": "2025-10-24 17:17:46",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/4Zvocwxpz5F7kuHGCrP0SC"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "GONE ASTRAY",
+          "url": "https://open.spotify.com/artist/4xTIYqGN4btKj8WRWTyfTA"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/2H6AeEJklikbsPRKHhm28J"
     },
     {
       "added_at": "2025-10-24 17:17:46",
@@ -2263,6 +2263,26 @@
     {
       "added_at": "2025-10-24 17:17:46",
       "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/4e4Zi2CSqcIr9cMKN9vg6S"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 238175,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6af1RTPe8LUU2nzKQc88zf"
+    },
+    {
+      "added_at": "2025-10-24 17:17:46",
+      "album": {
         "name": "STARLIGHT",
         "url": "https://open.spotify.com/album/5U6PxNsoaS3WTKYcUl0XJq"
       },
@@ -2283,26 +2303,6 @@
       "duration_ms": 192000,
       "name": "STARLIGHT",
       "url": "https://open.spotify.com/track/1pq0fjYwWtYhWrTNjkVCs7"
-    },
-    {
-      "added_at": "2025-10-24 17:17:46",
-      "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/4e4Zi2CSqcIr9cMKN9vg6S"
-      },
-      "artists": [
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
-        }
-      ],
-      "duration_ms": 238175,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6af1RTPe8LUU2nzKQc88zf"
     },
     {
       "added_at": "2025-10-24 17:17:46",
@@ -2687,18 +2687,22 @@
     {
       "added_at": "2025-10-24 17:17:46",
       "album": {
-        "name": "Transcend",
-        "url": "https://open.spotify.com/album/1bgfmOhcYX9Die6K8Lx1fr"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/46bnObxinMvPMfuvTZ5hQr"
       },
       "artists": [
         {
-          "name": "STAR SEED",
-          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "CloudNone",
+          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
         }
       ],
-      "duration_ms": 227200,
-      "name": "Transcend",
-      "url": "https://open.spotify.com/track/1CWRGFM8aTjZqZAGaXNnRI"
+      "duration_ms": 186885,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7CSmSTEKY5eKPqQY3ClZfV"
     },
     {
       "added_at": "2025-10-24 17:17:46",
@@ -2735,6 +2739,22 @@
       "duration_ms": 177662,
       "name": "My Home",
       "url": "https://open.spotify.com/track/6pzdG5KXCi3zGvchmPlCsO"
+    },
+    {
+      "added_at": "2025-10-24 17:17:46",
+      "album": {
+        "name": "Transcend",
+        "url": "https://open.spotify.com/album/1bgfmOhcYX9Die6K8Lx1fr"
+      },
+      "artists": [
+        {
+          "name": "STAR SEED",
+          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Transcend",
+      "url": "https://open.spotify.com/track/1CWRGFM8aTjZqZAGaXNnRI"
     },
     {
       "added_at": "2025-10-24 17:17:46",
@@ -2779,26 +2799,6 @@
     {
       "added_at": "2025-10-24 17:17:46",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/46bnObxinMvPMfuvTZ5hQr"
-      },
-      "artists": [
-        {
-          "name": "Last Heroes",
-          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
-        },
-        {
-          "name": "CloudNone",
-          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
-        }
-      ],
-      "duration_ms": 186885,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/7CSmSTEKY5eKPqQY3ClZfV"
-    },
-    {
-      "added_at": "2025-10-24 17:17:46",
-      "album": {
         "name": "Ghost Of You",
         "url": "https://open.spotify.com/album/4d3lCs0FJglGcfHk3Y5Fl5"
       },
@@ -2839,26 +2839,6 @@
     {
       "added_at": "2025-10-24 17:17:46",
       "album": {
-        "name": "If The World Was Ending",
-        "url": "https://open.spotify.com/album/3P12oVJ6YKmeZXUajqTMEh"
-      },
-      "artists": [
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "Dayce Williams",
-          "url": "https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6"
-        }
-      ],
-      "duration_ms": 248798,
-      "name": "If The World Was Ending",
-      "url": "https://open.spotify.com/track/6TxfKUTPFXpD9TWNVTxXtj"
-    },
-    {
-      "added_at": "2025-10-24 17:17:46",
-      "album": {
         "name": "Dancing With Myself",
         "url": "https://open.spotify.com/album/22NZ46wBNwrQRWFe9qyq00"
       },
@@ -2875,6 +2855,26 @@
       "duration_ms": 163714,
       "name": "Dancing With Myself",
       "url": "https://open.spotify.com/track/3V0WvIVH1TgKTf2ouORpVR"
+    },
+    {
+      "added_at": "2025-10-24 17:17:46",
+      "album": {
+        "name": "If The World Was Ending",
+        "url": "https://open.spotify.com/album/3P12oVJ6YKmeZXUajqTMEh"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Dayce Williams",
+          "url": "https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6"
+        }
+      ],
+      "duration_ms": 248798,
+      "name": "If The World Was Ending",
+      "url": "https://open.spotify.com/track/6TxfKUTPFXpD9TWNVTxXtj"
     },
     {
       "added_at": "2025-10-24 17:17:46",
@@ -2915,22 +2915,22 @@
     {
       "added_at": "2025-10-24 17:17:46",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/4KJYXbx4FPKO7lloJ9oaAU"
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/3p1yNakKEt3OHZMfrPn716"
       },
       "artists": [
         {
-          "name": "Nikademis",
-          "url": "https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP"
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
         },
         {
-          "name": "Luxtides",
-          "url": "https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe"
+          "name": "Danny Olson",
+          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
         }
       ],
-      "duration_ms": 250105,
-      "name": "River",
-      "url": "https://open.spotify.com/track/7mvtaWOIbZ9fKbQOQawhTc"
+      "duration_ms": 240000,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/73LVojFnu6bZ3ae1OOZb7U"
     },
     {
       "added_at": "2025-10-24 17:17:46",
@@ -2959,22 +2959,22 @@
     {
       "added_at": "2025-10-24 17:17:46",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/3p1yNakKEt3OHZMfrPn716"
+        "name": "River",
+        "url": "https://open.spotify.com/album/4KJYXbx4FPKO7lloJ9oaAU"
       },
       "artists": [
         {
-          "name": "Hoang",
-          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+          "name": "Nikademis",
+          "url": "https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP"
         },
         {
-          "name": "Danny Olson",
-          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
+          "name": "Luxtides",
+          "url": "https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/73LVojFnu6bZ3ae1OOZb7U"
+      "duration_ms": 250105,
+      "name": "River",
+      "url": "https://open.spotify.com/track/7mvtaWOIbZ9fKbQOQawhTc"
     },
     {
       "added_at": "2025-10-24 17:17:46",

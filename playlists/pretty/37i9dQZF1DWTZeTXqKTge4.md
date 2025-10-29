@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois, tout frais\. Photo: David Campana
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,886 likes - 72 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,887 likes - 72 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

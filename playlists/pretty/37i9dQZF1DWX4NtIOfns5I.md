@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > alice phoebe lou on the cover🍃
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,250 likes - 147 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,278 likes - 147 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
