@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🐇 Tech house operators, featuring Shinichi Osawa & RHYME
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,953 likes - 120 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,032 likes - 120 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 31 | [Levitate](https://open.spotify.com/track/7c9ESsfSlv6kvfPMA92x1L) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Levitate](https://open.spotify.com/album/1LC5mQp7l4u253zu657uMX) | 2:45 |
 | 32 | [Off The Clock](https://open.spotify.com/track/6VoRHJReczgAxZnnQj0p8F) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Off The Clock](https://open.spotify.com/album/2K1w4YeF4TJ9vDWIWilGQ5) | 3:11 |
 | 33 | [Scream!](https://open.spotify.com/track/4tuImZXjEWmnJ8deyfQ4mq) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [Scream!](https://open.spotify.com/album/6XqfmABvL0163efVSD6YQL) | 3:20 |
-| 34 | [Discoteka](https://open.spotify.com/track/2pc1GCqlVro0yQVULSRNNI) | [G\-POL](https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM), [ARTA](https://open.spotify.com/artist/2YZOfcKLcAlzOe5VNsnTj8) | [Discoteka](https://open.spotify.com/album/5BbjWj8ksPOiNcTdEln3Th) | 2:59 |
+| 34 | [Discoteka](https://open.spotify.com/track/2pc1GCqlVro0yQVULSRNNI) | [G\-POL](https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM), [Arta \(AE\)](https://open.spotify.com/artist/3LV6hrvnTleA3GdzN8RHsM) | [Discoteka](https://open.spotify.com/album/5BbjWj8ksPOiNcTdEln3Th) | 2:59 |
 | 35 | [Got The Floor](https://open.spotify.com/track/6SJsQKpxQxQdpecwCsC304) | [WELKER](https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t) | [Got The Floor](https://open.spotify.com/album/5wm4MfPZPLvriBfJ9WWGad) | 2:43 |
 | 36 | [Afterparty](https://open.spotify.com/track/0G82Tulewo9VilY8l59gQu) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB), [Gaddi](https://open.spotify.com/artist/26KdrZAs1OJbJNI6QOLnVP) | [Afterparty](https://open.spotify.com/album/5CgZ8ciPp1h8DCdovWTQ0p) | 2:55 |
 | 37 | [LA NOCHE](https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ANITA B QUEEN](https://open.spotify.com/artist/2YcZup1n6AW4BxoikeUswf) | [LA NOCHE](https://open.spotify.com/album/3iBDg8qZiUWJy0kiZHI3Cv) | 3:32 |

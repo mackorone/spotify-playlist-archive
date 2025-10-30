@@ -3754,7 +3754,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 218453,
       "name": "Contacto Cero",
       "url": "https://open.spotify.com/track/7zNm10RSB0KhRtP9XhdsVK"
@@ -5540,10 +5540,32 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 165848,
       "name": "EL AMOR DE SU VIDA",
       "url": "https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN"
+    },
+    {
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165848,
+      "name": "EL AMOR DE SU VIDA",
+      "url": "https://open.spotify.com/track/34vXRJ2bCSFiZKQzVUYVOb"
     },
     {
       "album": {
@@ -6460,7 +6482,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -6532,7 +6554,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -12050,7 +12072,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 213430,
       "name": "MONSTRUO",
       "url": "https://open.spotify.com/track/2ToF4unFUMMKGfu7KYhy1j"
@@ -19246,7 +19268,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 175059,
       "name": "Tu jard\u00edn con enanitos",
       "url": "https://open.spotify.com/track/6X8DTIJEgHUjZynuds0E2f"
@@ -20262,7 +20284,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 235336,
       "name": "VeLD\u00c1",
       "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"

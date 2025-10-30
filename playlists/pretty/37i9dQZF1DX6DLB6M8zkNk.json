@@ -1,12 +1,12 @@
 {
   "description": "you're the main character in a romance novel.",
-  "num_followers": 463104,
+  "num_followers": 463478,
   "original_name": "hopeless romantic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKgSWdG2fcgYPpgsQShArim2AF2x",
+  "snapshot_id": "AAAAALcpHwiFN/TuQeBspaezZHXAgyc1",
   "tracks": [
     {
       "added_at": "2025-10-21 10:32:18",
@@ -1556,8 +1556,20 @@
       },
       "artists": [
         {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        },
+        {
           "name": "HAUSER",
           "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
       "duration_ms": 264040,

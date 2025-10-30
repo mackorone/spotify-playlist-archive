@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98 likes - 78 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 99 likes - 78 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 37 | [Horizon vertical](https://open.spotify.com/track/7LkRAV3RI042FnhSg7nKmI) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:37 |
 | 38 | [Oh My](https://open.spotify.com/track/46MSKqBl3pvuSJcp2VR7qD) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Pygmalion](https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx) | 3:18 |
 | 39 | [Essaie encore](https://open.spotify.com/track/792zA7PcYHPDtUoXnYrV5e) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 2:40 |
-| 40 | [Ma wife](https://open.spotify.com/track/3OGISTawri5xIRd4dmmN6N) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Best Life](https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc) | 2:18 |
-| 41 | [1992](https://open.spotify.com/track/0Hzgsewk4Rikq44haxwfTO) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:52 |
+| 40 | [1992](https://open.spotify.com/track/0Hzgsewk4Rikq44haxwfTO) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:52 |
+| 41 | [Ma wife](https://open.spotify.com/track/3OGISTawri5xIRd4dmmN6N) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Best Life](https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc) | 2:18 |
 | 42 | [Adios](https://open.spotify.com/track/4z8pJ74Yw4B4G3SToTzCKL) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:02 |
 | 43 | [2014](https://open.spotify.com/track/7eIAX5Kkm0N3aQCAEa9QsV) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 2:57 |
 | 44 | [C'est ça les z'hommes](https://open.spotify.com/track/3ScPY519jnogbOKNQPav3I) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Carré VIP](https://open.spotify.com/album/2tqPdi5mS2Ol41V81256zd) | 3:37 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 77 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 |
 | 78 | [fade up](https://open.spotify.com/track/6VhmOw8lERbTRs1Al7iy2z) | [Eliias](https://open.spotify.com/artist/36hWlixqFk1ZWlJQYaB5To) | [march 29](https://open.spotify.com/album/1DpoTfAnZAEEIqJ4zqcpJG) | 6:32 |
 
-Snapshot ID: `AcAGfgAAAADZxWgCiJE87gdfJ9llO/wR`
+Snapshot ID: `AcAMZAAAAAB60LbRGFSgnEWzhrXUN5be`

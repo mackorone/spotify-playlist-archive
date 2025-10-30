@@ -1,12 +1,12 @@
 {
   "description": "This is Mi Banda El Mexicano. The essential tracks, all in one playlist.",
-  "num_followers": 77020,
+  "num_followers": 77032,
   "original_name": "This Is Mi Banda El Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAACgqNqe0Mven+VJN0KvpU96",
+  "snapshot_id": "aQAHgAAAAADkX7v9GiB2Pu7DNvDZ/bjQ",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/3sxDYIn1KAZZdDNGHiQGbd"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 220723,
-      "name": "La Chinita",
-      "url": "https://open.spotify.com/track/5W1vsroY1xtc0HdoyGTwnb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Su Majestad con Ustedes",
         "url": "https://open.spotify.com/album/0tltU9sMoyNo9nlBvLxW8Y"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 209214,
       "name": "Mary la Orgullosa",
       "url": "https://open.spotify.com/track/2sMhuCHpYGoK3hF9dciv7F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/3sxDYIn1KAZZdDNGHiQGbd"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 220723,
+      "name": "La Chinita",
+      "url": "https://open.spotify.com/track/5W1vsroY1xtc0HdoyGTwnb"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Canso Ganso",
-        "url": "https://open.spotify.com/album/4ZBaYIEFWuf0OO3znCifyA"
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 195326,
-      "name": "Me Canso Ganso",
-      "url": "https://open.spotify.com/track/1bgUJSTzLGPH9jBAKqVEpz"
+      "duration_ms": 211789,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/41jgSR0JuToMNSF41Wi7uJ"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Bailar... De Caballito!!",
-        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 211789,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/41jgSR0JuToMNSF41Wi7uJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa'que Lo Bailes",
         "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 160426,
       "name": "Las Nachas",
       "url": "https://open.spotify.com/track/2LQ4m8ippuDqoUp1xBNEhh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Canso Ganso",
+        "url": "https://open.spotify.com/album/4ZBaYIEFWuf0OO3znCifyA"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 195326,
+      "name": "Me Canso Ganso",
+      "url": "https://open.spotify.com/track/1bgUJSTzLGPH9jBAKqVEpz"
     },
     {
       "added_at": null,

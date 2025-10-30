@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 473249,
+  "num_followers": 473279,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Falso Brilhante",
+        "url": "https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Velha Roupa Colorida",
+      "url": "https://open.spotify.com/track/7aQWuNqheTpisZfM0gP2oG"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Gil Baiana ao Vivo em Salvador (Ao Vivo)",
         "url": "https://open.spotify.com/album/2HOtF9wjRgFuKefeTJkG4O"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 310596,
       "name": "Emori\u00f4 / Dia da Ca\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/0IwdotkOJ2m9jkJiy8Rzox"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Falso Brilhante",
-        "url": "https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Velha Roupa Colorida",
-      "url": "https://open.spotify.com/track/7aQWuNqheTpisZfM0gP2oG"
     },
     {
       "added_at": "2021-11-26 03:18:52",

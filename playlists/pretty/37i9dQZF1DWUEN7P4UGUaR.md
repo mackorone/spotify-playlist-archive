@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Celestine Donkor
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,578 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,593 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 30 | [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 |
 | 31 | [Okrokrohene](https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Okrokrohene](https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX) | 6:06 |
 | 32 | [You Saved Me](https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [God Reigns](https://open.spotify.com/album/5LJZt7IPdGdbJbYKTcj5YN) | 3:12 |
-| 33 | [Atɛɛne \- Overturned](https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Atɛɛne \(Overturned\)](https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju) | 4:38 |
-| 34 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 |
+| 33 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 |
+| 34 | [Atɛɛne \- Overturned](https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Atɛɛne \(Overturned\)](https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju) | 4:38 |
 | 35 | [Something New](https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:23 |
 | 36 | [Come and See](https://open.spotify.com/track/23GEN8dLBDYRAiDSno0eP2) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Come and See](https://open.spotify.com/album/6Le36V9KISl0nz7lJicj5g) | 5:42 |
 | 37 | [Blessed](https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Blessed](https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP) | 3:38 |
-| 38 | [Agbadza Gospel Medley II \(Live\)](https://open.spotify.com/track/6OOIvZJh0qNUM56BFWx4VT) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Agbadza Gospel Medley II \(Live\)](https://open.spotify.com/album/0a1CiR5KeyKrb3Zwh7Fp3I) | 8:33 |
-| 39 | [Nyansabuakwa Nyame](https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nyansabuakwa Nyame](https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq) | 5:56 |
+| 38 | [Nyansabuakwa Nyame](https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nyansabuakwa Nyame](https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq) | 5:56 |
+| 39 | [Agbadza Gospel Medley II \(Live\)](https://open.spotify.com/track/6OOIvZJh0qNUM56BFWx4VT) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Agbadza Gospel Medley II \(Live\)](https://open.spotify.com/album/0a1CiR5KeyKrb3Zwh7Fp3I) | 8:33 |
 | 40 | [Medaase](https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Medaase](https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj) | 3:19 |
 | 41 | [VICTORY](https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [VICTORY](https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU) | 3:56 |
 | 42 | [Mile \(I Know\)](https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD) | [LUIGI MACLEAN](https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6) | [Mile \(I Know\)](https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2) | 5:42 |

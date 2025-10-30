@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 36695,
+  "num_followers": 36710,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAACraHSieMRlj0vDe1mx5ROs",
+  "snapshot_id": "aQAHgAAAAAA9Sk4Qv095B4nutW22i882",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "123 Victory",
+      "url": "https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hiding Place",
         "url": "https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 214008,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/7vF5RIx2jHtt9Y0OElOZKK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "123 Victory",
-      "url": "https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 175292,
+      "name": "Millionaire (Good Like That)",
+      "url": "https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 388586,
       "name": "Give Me (feat. Mali Music)",
       "url": "https://open.spotify.com/track/5vY1TilwK6G4k5j5gejOV1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 175292,
-      "name": "Millionaire (Good Like That)",
-      "url": "https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 263973,
-      "name": "Before I Die",
-      "url": "https://open.spotify.com/track/7m2iK1UP3anMfXwP3Oc5gF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 368560,
       "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 263973,
+      "name": "Before I Die",
+      "url": "https://open.spotify.com/track/7m2iK1UP3anMfXwP3Oc5gF"
     },
     {
       "added_at": null,
@@ -867,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breakthrough (Music From & Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI"
+      },
+      "artists": [
+        {
+          "name": "Taylor Mosby",
+          "url": "https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 265693,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hello Fear",
         "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 336773,
       "name": "Something About The Name Jesus Pt. 2 (feat. Rance Allen, Marvin Winans, John P. Kee & Isaac Carree)",
       "url": "https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breakthrough (Music From & Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI"
-      },
-      "artists": [
-        {
-          "name": "Taylor Mosby",
-          "url": "https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 265693,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK"
     },
     {
       "added_at": null,

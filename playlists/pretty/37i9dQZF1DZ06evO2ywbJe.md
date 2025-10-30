@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,529 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,540 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 49 | [Agege](https://open.spotify.com/track/20ZRyanoIsmZaIb8LvzUud) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Agege](https://open.spotify.com/album/59wNw140yRT4OQAxRKCjSR) | 3:16 |
 | 50 | [Two Criminals](https://open.spotify.com/track/1pUauvksiTSDA1x4P5vRWb) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [The Erigma II](https://open.spotify.com/album/7jP3LBDKbtPZsDpRrvA1qR) | 3:31 |
 
-Snapshot ID: `aP62AAAAAABVEakJVZoa8kwVVXGCA2rx`
+Snapshot ID: `aQAHgAAAAAA4I+731rvSeKZ+NU33eHk9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,060 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,097 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 20 | [Yo Soy El Pirata](https://open.spotify.com/track/5rzULa4UZ6XbWLIxoMdukv) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Yo Soy El Pirata](https://open.spotify.com/album/3I5LuSJcPwnlA3VFwnQXuh) | 2:48 |
 | 21 | [El De La Selva](https://open.spotify.com/track/4BPuZqbjWIquRpewIY0ygC) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El De La Selva](https://open.spotify.com/album/4vLqOoio32LjRfgOmfbBTm) | 1:58 |
 | 22 | [Que Chulada \- En Vivo](https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 2:02 |
-| 23 | [A Chillar a otra parte](https://open.spotify.com/track/63rF4Hy9aUdzDGjfAWXBZJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Frente a Frente](https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH) | 3:33 |
-| 24 | [En Los Puritos Huesos \- En Vivo](https://open.spotify.com/track/3lrhIGDAi0AELopgjKVJJf) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8) | 2:22 |
+| 23 | [En Los Puritos Huesos \- En Vivo](https://open.spotify.com/track/3lrhIGDAi0AELopgjKVJJf) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8) | 2:22 |
+| 24 | [A Chillar a otra parte](https://open.spotify.com/track/63rF4Hy9aUdzDGjfAWXBZJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Frente a Frente](https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH) | 3:33 |
 | 25 | [Puro Pa’ Delante](https://open.spotify.com/track/7LB36Pf828QzWhZ4F33wXK) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Géminis](https://open.spotify.com/album/2ErW404SVZ8KbcA5y1t33T) | 2:38 |
 | 26 | [HDTPM](https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [HDTPM](https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1) | 2:37 |
 | 27 | [Tatuajes](https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 49 | [Soy el Pirata](https://open.spotify.com/track/4r6VsjYXzkgaxUtE0s22Cm) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:54 |
 | 50 | [AMOR LIMOSNERO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 4:02 |
 
-Snapshot ID: `aP62AAAAAACsmieF8nimfrf0OsUdG9ew`
+Snapshot ID: `aQAHgAAAAAB5IPSIIddJgywFPCzFjPRR`

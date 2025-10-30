@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "All In Now",
+        "url": "https://open.spotify.com/album/4UF1wGJMr5eElectqIcrpv"
+      },
+      "artists": [
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244522,
+      "name": "All In Now",
+      "url": "https://open.spotify.com/track/1uDKjeSKLKEg6eqUh880z1"
+    },
+    {
+      "album": {
         "name": "Moon Music",
         "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
       },

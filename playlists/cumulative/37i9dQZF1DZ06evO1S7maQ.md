@@ -4,7 +4,7 @@
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-150 songs - 10 hr 42 min
+151 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Hungry Heart](https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 3:19 | 2022-01-11 |  |
 | [I Wish I Were Blind \- Live at Van Andel Arena, Grand Rapids, MI \- 8/3/2005](https://open.spotify.com/track/6Y0e8tZkyR5dDxwpDMaPxf) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs on Keys](https://open.spotify.com/album/6pqzdpIh3iUrsuYLehcDq3) | 3:55 | 2023-12-16 | 2023-12-27 |
 | [I Wish It Would Rain](https://open.spotify.com/track/3K6nQf3cw44yC8INLP4xPS) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 3:24 | 2022-11-13 | 2022-12-26 |
-| [I'll See You In My Dreams](https://open.spotify.com/track/2uI2KlfpxGGVnLnpNWdhHS) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 3:29 | 2022-03-09 |  |
+| [I'll See You In My Dreams](https://open.spotify.com/track/2uI2KlfpxGGVnLnpNWdhHS) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 3:29 | 2022-03-09 | 2025-10-30 |
 | [I'm Goin' Down](https://open.spotify.com/track/0VkDedVtP7TQDlaCMq9QVx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 3:29 | 2022-01-11 |  |
 | [I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 2:35 | 2022-01-11 |  |
 | [If I Should Fall Behind](https://open.spotify.com/track/2mOGLiSTUeki1l9t1BBNRQ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Lucky Town](https://open.spotify.com/album/1QhxV1m7N8SppKjXmj510h) | 2:57 | 2022-04-10 |  |
@@ -130,6 +130,7 @@
 | [Sunday Love](https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sunday Love](https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD) | 5:16 | 2025-06-15 | 2025-08-05 |
 | [Tenth Avenue Freeze\-Out](https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:10 | 2022-01-11 |  |
 | [Tenth Avenue Freeze\-Out \- Live at The Shrine, Los Angeles, CA \- 11/16/1990\- Set 2](https://open.spotify.com/track/4iMxpkGdGo2sRqYDgOUVHr) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs on Keys](https://open.spotify.com/album/6pqzdpIh3iUrsuYLehcDq3) | 3:33 | 2023-12-13 | 2023-12-31 |
+| [The Big Payback \- Single B\-side \- 1982](https://open.spotify.com/track/7C5BvEgKzQfcVzGgSqRkkz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska '82: Expanded Edition](https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM) | 1:59 | 2025-10-30 |  |
 | [The Ghost of Tom Joad](https://open.spotify.com/track/4RaxnzmTN4bojbbEYtvXjk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Ghost Of Tom Joad](https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl) | 4:23 | 2022-01-12 |  |
 | [The Power Of Prayer](https://open.spotify.com/track/0bsFL9VF0BQCIvF2cRn0Sk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 3:36 | 2022-01-11 | 2023-04-21 |
 | [The Promised Land](https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:28 | 2022-01-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance a la antigüita con Los Rumberos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,379 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,360 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,18 +91,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 81 | [Mil Vidas](https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Mil Vidas](https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz) | 2:16 |
 | 82 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 |
 | 83 | [Locos](https://open.spotify.com/track/1X5tk3yRvuag1jamgpZ8Lf) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq), [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Locos](https://open.spotify.com/album/2eOzzFSvlXqbkl0SqmxS7B) | 3:38 |
-| 84 | [Radioeléctrica](https://open.spotify.com/track/0hV9eAPfej8pmM4eyzvW5Q) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Radioeléctrica](https://open.spotify.com/album/1Fhf8FY3bLTP4d0yNGjqKl) | 2:59 |
-| 85 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |
-| 86 | [SALUDITOS A LOS EX](https://open.spotify.com/track/2h8nYa160PX2KMfirTRjrR) | [Bolela](https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ) | [SALUDITOS A LOS EX](https://open.spotify.com/album/40NCMctoqXhnDVWPD21bWZ) | 2:53 |
+| 84 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |
+| 85 | [SALUDITOS A LOS EX](https://open.spotify.com/track/2h8nYa160PX2KMfirTRjrR) | [Bolela](https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ) | [SALUDITOS A LOS EX](https://open.spotify.com/album/40NCMctoqXhnDVWPD21bWZ) | 2:53 |
+| 86 | [Radioeléctrica](https://open.spotify.com/track/0hV9eAPfej8pmM4eyzvW5Q) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Radioeléctrica](https://open.spotify.com/album/1Fhf8FY3bLTP4d0yNGjqKl) | 2:59 |
 | 87 | [No Me Importa](https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [No me Importa](https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb) | 2:57 |
 | 88 | [María Bonita](https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Maria Bonita](https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R) | 3:52 |
 | 89 | [Disfruto](https://open.spotify.com/track/0F0Ms8uyynijIoufuJ7c0Q) | [Sindicato Del Ritmo](https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Sindicato Del Ritmo](https://open.spotify.com/album/0HL2RlxUVZK2nNEkliZfrX) | 4:10 |
-| 90 | [Palabras](https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG) | [Palabras](https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef) | 4:04 |
-| 91 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
+| 90 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
+| 91 | [Palabras](https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG) | [Palabras](https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef) | 4:04 |
 | 92 | [La Copa Rota](https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Copa Rota](https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM) | 3:09 |
 | 93 | [Almohada](https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Celebrando Al Príncipe](https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol) | 4:02 |
-| 94 | [Una Mañana](https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM) | [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [Una Mañana](https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX) | 2:51 |
-| 95 | [Lo Mejor](https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Lo Mejor](https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI) | 3:05 |
+| 94 | [Lo Mejor](https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Lo Mejor](https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI) | 3:05 |
+| 95 | [Una Mañana](https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM) | [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [Una Mañana](https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX) | 2:51 |
 | 96 | [Gracias](https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC) | [La Ciencia de Juancho Valencia](https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9) | [Enclave de Bolero](https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy) | 3:27 |
 | 97 | [Pecado Mortal](https://open.spotify.com/track/4r0gvUdP6KabudCSirhxj5) | [Susana Zabaleta](https://open.spotify.com/artist/7JzK970uwxEKUzYUgMvC3Q) | [Pecado Mortal](https://open.spotify.com/album/05VKz27OjRtcTGw1QtW2MP) | 3:07 |
 | 98 | [Idas y Vueltas](https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr) | [Maria Mulata](https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q), [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU) | [Idas y Vueltas](https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO) | 3:52 |

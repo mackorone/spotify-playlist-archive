@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 
 > The biggest songs in Latin America in 2018\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,444 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,500 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 35 | [Mala Mía](https://open.spotify.com/track/62o8KoI44JfN7aYxgTnPvh) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Mala Mía](https://open.spotify.com/album/3Bj8Yd9ANO4KufZkqOmG0W) | 3:03 |
 | 36 | [Sin Pijama](https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama](https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB) | 3:08 |
 | 37 | [Devuelveme](https://open.spotify.com/track/5uvucCRBTkxv7VxIDLOqe7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:08 |
-| 38 | [Aullando](https://open.spotify.com/track/7BuHdm4lQqcyG3qTwdkxus) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Los Campeones del Pueblo "The Big Leagues"](https://open.spotify.com/album/4zbMionGv9W33xjQfoMyuo) | 3:46 |
-| 39 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 |
+| 38 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 |
+| 39 | [Aullando](https://open.spotify.com/track/7BuHdm4lQqcyG3qTwdkxus) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Los Campeones del Pueblo "The Big Leagues"](https://open.spotify.com/album/4zbMionGv9W33xjQfoMyuo) | 3:46 |
 | 40 | [Vuelve](https://open.spotify.com/track/3wGRfBDRNQb0nFDFrUPvq6) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 3:45 |
 | 41 | [Créeme](https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Créeme](https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG) | 3:32 |
 | 42 | [Ibiza](https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:20 |

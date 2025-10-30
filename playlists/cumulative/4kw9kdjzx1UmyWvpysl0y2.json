@@ -14395,6 +14395,28 @@
     },
     {
       "album": {
+        "name": "On Lock",
+        "url": "https://open.spotify.com/album/1WBMCfa1zj68UBeWS6DLLq"
+      },
+      "artists": [
+        {
+          "name": "Dirtyphonics",
+          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
+        },
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "On Lock",
+      "url": "https://open.spotify.com/track/62YgrGZTw1c20Juoy7kFUZ"
+    },
+    {
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/4fb1FjRzLhGhweK3Dg0dae"
       },

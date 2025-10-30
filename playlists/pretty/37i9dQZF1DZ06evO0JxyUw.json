@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 275626,
+  "num_followers": 275640,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAC3gdDTBr5uWev8mcGls9VY",
+  "snapshot_id": "aQAHgAAAAADtg95YB11kGiAYGde8owlq",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE"
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
       "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 252706,
-      "name": "Nobody Wants to Be Lonely (with Christina Aguilera)",
-      "url": "https://open.spotify.com/track/45cVyfWuMAg8RNxmkcpmy9"
+      "duration_ms": 176960,
+      "name": "Falsas Esperanzas",
+      "url": "https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG"
     },
     {
       "added_at": null,
@@ -555,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+        "name": "17",
+        "url": "https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE"
       },
       "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 176960,
-      "name": "Falsas Esperanzas",
-      "url": "https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG"
+      "duration_ms": 252706,
+      "name": "Nobody Wants to Be Lonely (with Christina Aguilera)",
+      "url": "https://open.spotify.com/track/45cVyfWuMAg8RNxmkcpmy9"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 118353,
+  "num_followers": 118348,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADcBMZeeNXyvT2/ScWQJ9a/",
+  "snapshot_id": "aQAHgAAAAAAgQt8XbPSOhWkKE+XUC75+",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desabafo 2",
-        "url": "https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Desabafo 2",
-      "url": "https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 194823,
       "name": "Mundo Covarde",
       "url": "https://open.spotify.com/track/1m9gl7AQLRKDoAJnmbjTAF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desabafo 2",
+        "url": "https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Desabafo 2",
+      "url": "https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw"
     },
     {
       "added_at": null,
@@ -679,30 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camisa 10",
-        "url": "https://open.spotify.com/album/3JUT6jPZXrzkqIBJSSyrno"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "DJ Zullu",
-          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
-        },
-        {
-          "name": "DJ Caetano",
-          "url": "https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ"
-        }
-      ],
-      "duration_ms": 90909,
-      "name": "Camisa 10",
-      "url": "https://open.spotify.com/track/6p8mBeEhoP4aywtAXHbcVT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Mundo Odeia o IG",
         "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
       },
@@ -755,6 +731,30 @@
       "duration_ms": 703157,
       "name": "Diz A\u00ed Qual \u00e9 o Plano?",
       "url": "https://open.spotify.com/track/7pnqm6UEb7SzpDxb53wULT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camisa 10",
+        "url": "https://open.spotify.com/album/3JUT6jPZXrzkqIBJSSyrno"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "DJ Zullu",
+          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
+        },
+        {
+          "name": "DJ Caetano",
+          "url": "https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ"
+        }
+      ],
+      "duration_ms": 90909,
+      "name": "Camisa 10",
+      "url": "https://open.spotify.com/track/6p8mBeEhoP4aywtAXHbcVT"
     },
     {
       "added_at": null,
@@ -907,62 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorrisin de Canto",
-        "url": "https://open.spotify.com/album/4sIFl65wyn2kooQMj1lBFK"
-      },
-      "artists": [
-        {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Lon",
-          "url": "https://open.spotify.com/artist/5FeGhv7je3hPQi2TLslPIl"
-        },
-        {
-          "name": "Os MMs",
-          "url": "https://open.spotify.com/artist/08kff82a1nRH1LSj1VGxq8"
-        },
-        {
-          "name": "DJ Oreia",
-          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
-        },
-        {
-          "name": "SMU",
-          "url": "https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c"
-        },
-        {
-          "name": "CP no Beat",
-          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
-        },
-        {
-          "name": "Ronaldinho Ga\u00facho",
-          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
-        },
-        {
-          "name": "RAP IN CENA",
-          "url": "https://open.spotify.com/artist/7kdYYoCudHnWFDFJhYZTJ2"
-        },
-        {
-          "name": "Analogic Records",
-          "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
-        }
-      ],
-      "duration_ms": 259512,
-      "name": "Sorrisin de Canto",
-      "url": "https://open.spotify.com/track/0rFetX4a8pvro5p0K0Inna"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
         "url": "https://open.spotify.com/album/6oMk1qAJIZC9a02hgQ9Wsv"
       },
@@ -1051,6 +995,62 @@
       "duration_ms": 195553,
       "name": "Ordem do Mano",
       "url": "https://open.spotify.com/track/5dq5AD4ijms2xZTP6a71ho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorrisin de Canto",
+        "url": "https://open.spotify.com/album/4sIFl65wyn2kooQMj1lBFK"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Lon",
+          "url": "https://open.spotify.com/artist/5FeGhv7je3hPQi2TLslPIl"
+        },
+        {
+          "name": "Os MMs",
+          "url": "https://open.spotify.com/artist/08kff82a1nRH1LSj1VGxq8"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        },
+        {
+          "name": "SMU",
+          "url": "https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c"
+        },
+        {
+          "name": "CP no Beat",
+          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
+        },
+        {
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        },
+        {
+          "name": "RAP IN CENA",
+          "url": "https://open.spotify.com/artist/7kdYYoCudHnWFDFJhYZTJ2"
+        },
+        {
+          "name": "Analogic Records",
+          "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
+        }
+      ],
+      "duration_ms": 259512,
+      "name": "Sorrisin de Canto",
+      "url": "https://open.spotify.com/track/0rFetX4a8pvro5p0K0Inna"
     },
     {
       "added_at": null,
@@ -1171,26 +1171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me D\u00e1 Sua M\u00e3o",
-        "url": "https://open.spotify.com/album/2TPngKT3Xh3JMDpwcPrwqB"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 162413,
-      "name": "Me D\u00e1 Sua M\u00e3o",
-      "url": "https://open.spotify.com/track/3by89k8zGClgmQgz9SbtKp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recome\u00e7o",
         "url": "https://open.spotify.com/album/5MoBxDzlYReoWJMSRwxFDp"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 177230,
       "name": "Recome\u00e7o",
       "url": "https://open.spotify.com/track/7cOZisYC7MaDLfavfq86Ed"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me D\u00e1 Sua M\u00e3o",
+        "url": "https://open.spotify.com/album/2TPngKT3Xh3JMDpwcPrwqB"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "Me D\u00e1 Sua M\u00e3o",
+      "url": "https://open.spotify.com/track/3by89k8zGClgmQgz9SbtKp"
     },
     {
       "added_at": null,

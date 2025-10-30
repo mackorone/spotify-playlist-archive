@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6I4Wd6t2Vi3UksytmJquru.md) - [plain]
 
 > Pub &amp; karaoke drinking classics from 70s, 80s, 90s, 00s, 10s &amp; beyond \- right through to closing time in the local.
 
-[Filtr Ireland](https://open.spotify.com/user/filtr.ie) - 49,003 likes - 116 songs - 8 hr 5 min
+[Filtr Ireland](https://open.spotify.com/user/filtr.ie) - 49,008 likes - 116 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/6I4Wd6t2Vi3UksytmJquru.md) - [plain]
 | 15 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
 | 16 | [Zombie](https://open.spotify.com/track/6xy6jNeNTYwjnKTDzMyHw2) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L) | 5:06 |
 | 17 | [Don't Stop Believin'](https://open.spotify.com/track/6ozlrU11YG09ARILrmTmT9) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Pub Songs](https://open.spotify.com/album/3iMFEXxylazdTrXHmGSTF3) | 4:09 |
-| 18 | [Brown Eyed Girl](https://open.spotify.com/track/54PaYoBatkbcyCh06GS49k) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Irish Pub Jukebox](https://open.spotify.com/album/0fNtnnqieFGC3sAP00pq8v) | 3:04 |
+| 18 | [Brown Eyed Girl](https://open.spotify.com/track/54PaYoBatkbcyCh06GS49k) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Irish Pub Jukebox](https://open.spotify.com/album/0fNtnnqieFGC3sAP00pq8v) | 3:06 |
 | 19 | [Love Like This](https://open.spotify.com/track/3Gww33DTuG2DTYgHfLnBJx) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Deluxe\)](https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj) | 3:36 |
 | 20 | [Everywhere](https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In The Night](https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV) | 3:42 |
 | 21 | [It's My Party](https://open.spotify.com/track/0MHjN4EAHNR3wE47fgA3vM) | [Dave Stewart](https://open.spotify.com/artist/0QvweosMwNcdq1IsrGlCi1), [Barbara Gaskin](https://open.spotify.com/artist/0xnTfWT7hHDQVI7Dj18kja) | [It's My Party](https://open.spotify.com/album/6KW91FJIsW4A3m8BRdN213) | 3:50 |

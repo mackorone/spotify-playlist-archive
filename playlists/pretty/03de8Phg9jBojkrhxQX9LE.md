@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,742 likes - 161 songs - 9 hr 1 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,741 likes - 161 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 80 | [When You're Alone](https://open.spotify.com/track/0NRUwfY0NdQMyVGUNd4zoJ) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [When You're Alone](https://open.spotify.com/album/5C2i9udAVAUtZkrMO2X8Cp) | 3:03 |
 | 81 | [OSIRIS](https://open.spotify.com/track/0pIuWH0uf68zkCRXedsJEi) | [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3) | [MIRROR EYES/OSIRIS](https://open.spotify.com/album/7vT9O8xrcicLh174G98x77) | 3:03 |
 | 82 | [Yankee](https://open.spotify.com/track/3asf4hkKu2lmb2c9PQXbsk) | [Phydra](https://open.spotify.com/artist/2JdaYXJWMGUViJhVFhkkcH) | [Yankee](https://open.spotify.com/album/2VxkrjvTIVG3QNmGOLtN21) | 3:42 |
-| 83 | [OGdub](https://open.spotify.com/track/3nPwkr8RE4VfhF80fyDVXJ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [OGdub](https://open.spotify.com/album/0d9SgHDCP04wphWMeEMArX) | 3:26 |
+| 83 | [OK OK](https://open.spotify.com/track/3nPwkr8RE4VfhF80fyDVXJ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [OK OK](https://open.spotify.com/album/0d9SgHDCP04wphWMeEMArX) | 3:26 |
 | 84 | [Friends \(feat\. Linney\)](https://open.spotify.com/track/1EwVDjVhYD5ynVOYLNU65g) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Friends \(feat\. Linney\)](https://open.spotify.com/album/6QkCFMcpBdQmYIbCZHHtoh) | 3:16 |
 | 85 | [Can't Decide](https://open.spotify.com/track/12EIsy8ta9mGwPxcY5zpv8) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [e.motion](https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ) | [MHITR: The Album](https://open.spotify.com/album/4vjx5GK9ZRTU1sJTvqIJuO) | 3:53 |
 | 86 | [Bring The House Down](https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [Bring The House Down](https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG) | 3:42 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 161860,
+  "num_followers": 161924,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAA1R5wvtSGXCCwU+MHcapQt",
+  "snapshot_id": "aQAHgAAAAAB4Vas5PcXAcS3xSHeDkW1F",
   "tracks": [
     {
       "added_at": null,
@@ -107,26 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cash Flow (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 174628,
-      "name": "Cash Flow (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INDUSTRY MACHINE",
         "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 206968,
       "name": "BIG TIME (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cash Flow (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 174628,
+      "name": "Cash Flow (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
     },
     {
       "added_at": null,
@@ -291,6 +291,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "SOUTH GIDI",
+        "url": "https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 375535,
+      "name": "MONEY CONSTANT",
+      "url": "https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -327,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 262973,
-      "name": "Blessed (feat. Damian Marley)",
-      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -367,30 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOUTH GIDI",
-        "url": "https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ"
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
       "artists": [
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
         }
       ],
-      "duration_ms": 375535,
-      "name": "MONEY CONSTANT",
-      "url": "https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve"
+      "duration_ms": 262973,
+      "name": "Blessed (feat. Damian Marley)",
+      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
     },
     {
       "added_at": null,
@@ -411,42 +411,6 @@
       "duration_ms": 227328,
       "name": "Many Ways (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 196146,
-      "name": "Ginger (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Kese (Dance)",
-      "url": "https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT"
     },
     {
       "added_at": null,
@@ -479,6 +443,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Kese (Dance)",
+      "url": "https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 196146,
+      "name": "Ginger (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/5ml5qP7IbT2FDujhSNpSRT"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 233012,
       "name": "Low",
       "url": "https://open.spotify.com/track/4GW2SIyvB5fy8xtK1eO8PS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 250720,
-      "name": "Sweet One",
-      "url": "https://open.spotify.com/track/7BxWEstQxXtjczBE7ErYrE"
     },
     {
       "added_at": null,
@@ -559,6 +543,22 @@
       "duration_ms": 209760,
       "name": "Mood (feat. BNXN)",
       "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 250720,
+      "name": "Sweet One",
+      "url": "https://open.spotify.com/track/7BxWEstQxXtjczBE7ErYrE"
     },
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Refuse to Be Broke: Da Revolution 2",
+        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 261545,
+      "name": "Slow Down (feat. Wiz Kid)",
+      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 195386,
       "name": "Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )",
       "url": "https://open.spotify.com/track/0y8Pu7x5jXgUjOIJvQIF5L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Refuse to Be Broke: Da Revolution 2",
-        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 261545,
-      "name": "Slow Down (feat. Wiz Kid)",
-      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
     },
     {
       "added_at": null,
@@ -907,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2HYcI74UpbMMxLZ1m7Xnfn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made In Lagos: Deluxe Edition",
         "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 203026,
       "name": "Steady",
       "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2HYcI74UpbMMxLZ1m7Xnfn"
     },
     {
       "added_at": null,
@@ -963,46 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S2",
-        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 149170,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/0UEct6UTSjqEex8AHOUf5z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lighter (Wizkid Extended)",
-        "url": "https://open.spotify.com/album/3Tks1gB5di5SbSV0tjFozr"
-      },
-      "artists": [
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 186491,
-      "name": "Lighter - Wizkid Extended",
-      "url": "https://open.spotify.com/track/1SffpfUfYXXcgm84dHrlrD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -1027,8 +987,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
       "artists": [
         {
@@ -1036,9 +996,65 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 205120,
-      "name": "Frames (Who's Gonna Know)",
-      "url": "https://open.spotify.com/track/1xQQJELCro7Fys7pUnHVYv"
+      "duration_ms": 149170,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/0UEct6UTSjqEex8AHOUf5z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOUTH GIDI",
+        "url": "https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "Madumane",
+          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+        }
+      ],
+      "duration_ms": 390796,
+      "name": "ABANGANI (feat. Daliwonga & Madumane)",
+      "url": "https://open.spotify.com/track/19bCtadgZCc7OdqJnITfnG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lighter (Wizkid Extended)",
+        "url": "https://open.spotify.com/album/3Tks1gB5di5SbSV0tjFozr"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 186491,
+      "name": "Lighter - Wizkid Extended",
+      "url": "https://open.spotify.com/track/1SffpfUfYXXcgm84dHrlrD"
     }
   ],
   "unique_name": "This Is Wizkid",

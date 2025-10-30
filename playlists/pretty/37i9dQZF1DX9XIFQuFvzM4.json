@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3629532,
+  "num_followers": 3629389,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "For Once In My Life",
-        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Gets Next to You",
         "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 172320,
       "name": "Tired of Being Alone",
       "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "For Once In My Life",
+        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Dusty In Memphis [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 155506,
       "name": "Hallelujah, I Love Her So",
       "url": "https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Rockin' With Robin",
-        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
-      },
-      "artists": [
-        {
-          "name": "Bobby Day",
-          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
-        }
-      ],
-      "duration_ms": 160080,
-      "name": "Rockin' Robin",
-      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Superfly (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 233600,
       "name": "Superfly",
       "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Rockin' With Robin",
+        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
+      },
+      "artists": [
+        {
+          "name": "Bobby Day",
+          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
+        }
+      ],
+      "duration_ms": 160080,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Story Of Cornelius Brothers & Sister Rose",
-        "url": "https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW"
-      },
-      "artists": [
-        {
-          "name": "Cornelius Brothers & Sister Rose",
-          "url": "https://open.spotify.com/artist/2GFB1Lc67mbqFXTPCM9XzT"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "Too Late To Turn Back Now",
-      "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Superfly: Deluxe 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 300693,
       "name": "Pusherman",
       "url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Story Of Cornelius Brothers & Sister Rose",
+        "url": "https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW"
+      },
+      "artists": [
+        {
+          "name": "Cornelius Brothers & Sister Rose",
+          "url": "https://open.spotify.com/artist/2GFB1Lc67mbqFXTPCM9XzT"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "Too Late To Turn Back Now",
+      "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
     },
     {
       "added_at": "2022-03-28 18:28:56",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Ultimate Jackie Wilson",
-        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Anthology: Jackson 5",
         "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 179226,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Ultimate Jackie Wilson",
+        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Soul Manifesto: 1964-1970",
-        "url": "https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Lean on Me: The Best of Bill Withers",
         "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 228506,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/2WVz9Mtp3E8HCblGiu3nCv"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Soul Manifesto: 1964-1970",
+        "url": "https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "The Very Best Of Rufus Featuring Chaka Khan",
+        "url": "https://open.spotify.com/album/3o8GWA6IiUF6V4r26bF0HS"
+      },
+      "artists": [
+        {
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/0AECVMjxepWdsjDb49JFRd"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "The Very Best of Solomon Burke",
         "url": "https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 159000,
       "name": "Dancing In The Street",
       "url": "https://open.spotify.com/track/5wJcMwXuy1x6EatowWOxha"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "The Very Best Of Rufus Featuring Chaka Khan",
-        "url": "https://open.spotify.com/album/3o8GWA6IiUF6V4r26bF0HS"
-      },
-      "artists": [
-        {
-          "name": "Rufus",
-          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 280040,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/0AECVMjxepWdsjDb49JFRd"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Way I See It",
-        "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
+        "name": "Wish Someone Would Care",
+        "url": "https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY"
       },
       "artists": [
         {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
         }
       ],
-      "duration_ms": 184413,
-      "name": "Love That Girl",
-      "url": "https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz"
+      "duration_ms": 172666,
+      "name": "Time Is On My Side",
+      "url": "https://open.spotify.com/track/6IpxLzChgCbFSJwso2Q84D"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Wish Someone Would Care",
-        "url": "https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY"
+        "name": "The Way I See It",
+        "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
       },
       "artists": [
         {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
         }
       ],
-      "duration_ms": 172666,
-      "name": "Time Is On My Side",
-      "url": "https://open.spotify.com/track/6IpxLzChgCbFSJwso2Q84D"
+      "duration_ms": 184413,
+      "name": "Love That Girl",
+      "url": "https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz"
     },
     {
       "added_at": "2025-07-11 04:00:07",
@@ -1685,22 +1685,6 @@
       "url": "https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R"
     },
     {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Their Very Best (Rerecorded Version)",
-        "url": "https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 129613,
-      "name": "Mama Said (Rerecorded)",
-      "url": "https://open.spotify.com/track/5rrXkymfQdhNBgBZ3BUVbB"
-    },
-    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "If Words Were Flowers",
@@ -1715,6 +1699,22 @@
       "duration_ms": 199640,
       "name": "Can't Hide It",
       "url": "https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Their Very Best (Rerecorded Version)",
+        "url": "https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 129613,
+      "name": "Mama Said (Rerecorded)",
+      "url": "https://open.spotify.com/track/5rrXkymfQdhNBgBZ3BUVbB"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2375,8 +2375,8 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
+        "name": "Number 1's",
+        "url": "https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1"
       },
       "artists": [
         {
@@ -2384,9 +2384,9 @@
           "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Sir Duke",
-      "url": "https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T"
+      "duration_ms": 158040,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2jg4Yc8071puvDRYi22B3a"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2403,22 +2403,6 @@
       "duration_ms": 243760,
       "name": "How Long Do I Have to Wait for You?",
       "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Too Hot To Handle",
-        "url": "https://open.spotify.com/album/3OjfTt27HmGpVd45IuMAT6"
-      },
-      "artists": [
-        {
-          "name": "Heatwave",
-          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
-        }
-      ],
-      "duration_ms": 303533,
-      "name": "Boogie Nights",
-      "url": "https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2459,8 +2443,24 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Number 1's",
-        "url": "https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1"
+        "name": "Too Hot To Handle",
+        "url": "https://open.spotify.com/album/3OjfTt27HmGpVd45IuMAT6"
+      },
+      "artists": [
+        {
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
+        }
+      ],
+      "duration_ms": 303533,
+      "name": "Boogie Nights",
+      "url": "https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
       },
       "artists": [
         {
@@ -2468,9 +2468,9 @@
           "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 158040,
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
-      "url": "https://open.spotify.com/track/2jg4Yc8071puvDRYi22B3a"
+      "duration_ms": 234093,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T"
     }
   ],
   "unique_name": "Feelin' Good",

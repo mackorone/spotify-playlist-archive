@@ -1952,7 +1952,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 127179,
       "name": "AJO",
       "url": "https://open.spotify.com/track/4zrCTfiRoVOXrz3q0sNW5B"
@@ -6236,7 +6236,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
@@ -33845,6 +33845,24 @@
     },
     {
       "album": {
+        "name": "Oneiro Tha 'Nai Ksana (Kounia)",
+        "url": "https://open.spotify.com/album/61gWlmayYlMAWCewqGCTqB"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244922,
+      "name": "Oneiro Tha 'Nai Ksana - Kounia",
+      "url": "https://open.spotify.com/track/25JqyktP3AJulyV4wfthln"
+    },
+    {
+      "album": {
         "name": "Oneiropolos",
         "url": "https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2"
       },
@@ -36310,7 +36328,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 257647,
       "name": "Peta Ta",
       "url": "https://open.spotify.com/track/0UFPiis9uHJcYbTVp0hmkB"

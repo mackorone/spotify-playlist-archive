@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: BOY SODA",
-  "num_followers": 132553,
+  "num_followers": 132567,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -391,18 +391,18 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
-        "name": "HOW DOES IT FEEL?",
-        "url": "https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15"
+        "name": "Telephone Busy",
+        "url": "https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 137689,
-      "name": "HOW DOES IT FEEL?",
-      "url": "https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i"
+      "duration_ms": 195806,
+      "name": "Telephone Busy",
+      "url": "https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC"
     },
     {
       "added_at": "2025-10-23 13:01:09",
@@ -423,18 +423,18 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
-        "name": "Telephone Busy",
-        "url": "https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2"
+        "name": "HOW DOES IT FEEL?",
+        "url": "https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 195806,
-      "name": "Telephone Busy",
-      "url": "https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC"
+      "duration_ms": 137689,
+      "name": "HOW DOES IT FEEL?",
+      "url": "https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i"
     },
     {
       "added_at": "2025-10-23 13:01:09",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
-        "name": "i don\u2019t want your garden",
-        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 225570,
-      "name": "i don\u2019t want your garden",
-      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
-    },
-    {
-      "added_at": "2025-10-23 13:01:09",
-      "album": {
         "name": "Fall From The Light",
         "url": "https://open.spotify.com/album/1djGELF1UPU0WaaG8ChI7m"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 206870,
       "name": "Rage Against The Fatigue",
       "url": "https://open.spotify.com/track/3qP8F1NNIIBiU2mtQytkz9"
+    },
+    {
+      "added_at": "2025-10-23 13:01:09",
+      "album": {
+        "name": "i don\u2019t want your garden",
+        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 225570,
+      "name": "i don\u2019t want your garden",
+      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
     },
     {
       "added_at": "2025-10-23 13:01:09",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2025-10-23 13:01:09",
       "album": {
-        "name": "Hey You",
-        "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/0dSAfRmTB8timCZ1XmPpnj"
       },
       "artists": [
         {
-          "name": "The Belair Lip Bombs",
-          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
         }
       ],
-      "duration_ms": 211313,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
+      "duration_ms": 162266,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR"
     }
   ],
   "unique_name": "Turn Up Aus",

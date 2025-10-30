@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Gaby Amarantos e mais mulheres incríveis no volume máximo! co\-curada por Gaby Amarantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,679 likes - 46 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,682 likes - 46 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 32 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 |
 | 33 | [PASSAÇÃUM \(ÉoQquerida?\)](https://open.spotify.com/track/3jbEgPJLPG1db0mqcEMVwt) | [Clementaum](https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [PASSAÇÃUM \(ÉoQquerida?\)](https://open.spotify.com/album/5ASPla7jB7R8gS9W2HGdJ4) | 2:31 |
 | 34 | [Ogum](https://open.spotify.com/track/7BIr4ioKCmRENNHplZBlo6) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Gira Mundo](https://open.spotify.com/album/5oh1vYj0UR3CT80XPQOPKJ) | 2:48 |
-| 35 | [Q.S.A](https://open.spotify.com/track/23Bu61tvhyo9wq2az3NyK9) | [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93), [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [ft \(pt\. 1\)](https://open.spotify.com/album/3B4cJlGVff9RiNXDHezkhr) | 4:04 |
-| 36 | [É Tudo Meu](https://open.spotify.com/track/3z7YYkTNEpG6FXIuZmfnPg) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [FÚRIA](https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm) | 3:02 |
+| 35 | [É Tudo Meu](https://open.spotify.com/track/3z7YYkTNEpG6FXIuZmfnPg) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [FÚRIA](https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm) | 3:02 |
+| 36 | [Q.S.A](https://open.spotify.com/track/23Bu61tvhyo9wq2az3NyK9) | [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93), [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [ft \(pt\. 1\)](https://open.spotify.com/album/3B4cJlGVff9RiNXDHezkhr) | 4:04 |
 | 37 | [Dollar Euro](https://open.spotify.com/track/3ejJ3fmMXk9V7vMXQtHwYN) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 2:53 |
 | 38 | [Mulher da Amazônia](https://open.spotify.com/track/2nkppTrdoS5Dztms7DvoJ0) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb) | [Mulher da Amazônia](https://open.spotify.com/album/2TCChPcM5XBSiEajXQhlgJ) | 3:41 |
 | 39 | [Oxum](https://open.spotify.com/track/74cfc18Lsm3WoibKvpce27) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Gira Mundo](https://open.spotify.com/album/5oh1vYj0UR3CT80XPQOPKJ) | 2:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Kofee Bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,400 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,415 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

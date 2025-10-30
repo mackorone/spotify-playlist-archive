@@ -4,7 +4,7 @@
 
 > This is El Komander\. The essential tracks, all in one playlist.
 
-91 songs - 4 hr 26 min
+92 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [El Corrido De Everardo \- En Vivo](https://open.spotify.com/track/3rKROLx067SgcAOrZzg2v1) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Corrido De Everardo \(En Vivo\)](https://open.spotify.com/album/2ckQ5uVNtddHHVofCnSPOv) | 3:31 | 2024-01-29 | 2024-03-06 |
 | [El Corrido del Viejon](https://open.spotify.com/track/6NExyM5EiZaBcfKa0F9toD) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:17 | 2024-01-29 |  |
 | [El Ejecutor \(Bonus Track\)](https://open.spotify.com/track/1DhA9CMyDg1XogiU3KLQej) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:28 | 2024-07-15 | 2025-10-06 |
-| [El Empresario](https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Empresario](https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11) | 2:34 | 2024-09-22 |  |
+| [El Empresario](https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Empresario](https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11) | 2:34 | 2024-09-22 | 2025-10-30 |
 | [El Ganadero](https://open.spotify.com/track/0xCClm07GLpGj87j5Wo6Wr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Ganadero](https://open.spotify.com/album/5JPfETECxYvWT7dLrJIlRm) | 3:42 | 2025-07-14 |  |
 | [El Golden Boy](https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Golden Boy](https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS) | 2:40 | 2024-01-29 | 2025-09-27 |
 | [El Katch](https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Katch](https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM) | 2:13 | 2024-01-29 |  |
@@ -69,6 +69,7 @@
 | [Mujer Enamorada](https://open.spotify.com/track/3l00I1zbhGd2gRwdTQL89b) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Mujer Enamorada](https://open.spotify.com/album/2SZLFyJMjzZgJPNJx2RabY) | 2:20 | 2024-01-29 | 2024-09-22 |
 | [No Ocupa La Banda Pa’ Bailar Mi Cuaco](https://open.spotify.com/track/4YHlqCBMgcSi3ZBBMGZ8Uc) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [No Ocupa La Banda Pa’ Bailar Mi Cuaco](https://open.spotify.com/album/2oDscjIVA5YERidGVVlzVT) | 2:33 | 2024-01-29 |  |
 | [No Soy De Modas](https://open.spotify.com/track/6zIuZ3d2omLHovvVAzoCKb) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [No Soy De Modas](https://open.spotify.com/album/2SdmqBcmimSz8LYusIYWzR) | 3:11 | 2024-01-29 | 2024-04-27 |
+| [No Tengas Miedo \(En Vivo\)](https://open.spotify.com/track/0DpeRuOCiSinWQ8u2hO0yH) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde El Nokia](https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK) | 1:23 | 2025-10-30 |  |
 | [Nomás Por Ser Sinaloense](https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Katch](https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM) | 1:57 | 2024-01-29 |  |
 | [Orden Exigido](https://open.spotify.com/track/5AqS1GDzzD2qkKAduFca3f) | [Buknas De Culiacan](https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Los Reyes Del Movimiento Alterado](https://open.spotify.com/album/5SJqYFPqPGWZIZpNC9nbct) | 2:48 | 2025-07-12 |  |
 | [Orden Exigido \(Feat\. Buknas De Culiacan\)](https://open.spotify.com/track/0krRIU2PNSKjYrYXLadazM) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Buknas De Culiacan](https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:48 | 2024-01-29 | 2025-07-12 |

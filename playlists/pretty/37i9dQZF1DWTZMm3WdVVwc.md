@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 
 > 寒い冬は心を暖めるハートフルな楽曲をお供に。あなたの日々に音楽を。
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,851 likes - 99 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,857 likes - 99 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 32 | [inside you](https://open.spotify.com/track/6dxjfasDAe8v56M308tQdz) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [eyes](https://open.spotify.com/album/3FFBo52XG8Iqz2c9NvLJRn) | 3:42 |
 | 33 | [冬がはじまるよ](https://open.spotify.com/track/3l7GLaE6NRaPJHMcy4rYRD) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM) | [君は僕の宝物](https://open.spotify.com/album/3a5aKQqcG1rTAUcs3qYFda) | 3:50 |
 | 34 | [ラブソング](https://open.spotify.com/track/5ezanQZbxISkNLgQUW08Cs) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラブソング](https://open.spotify.com/album/5tSuCB8yf6cvvf6SrtyQnv) | 4:16 |
-| 35 | [I'm Blessed](https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I'm Blessed](https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK) | 3:38 |
+| 35 | [ばらの花](https://open.spotify.com/track/6iyKwsCmtdXvs19uKyBFfS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [TEAM ROCK](https://open.spotify.com/album/0FJnTE821z9cp6edHW1pxB) | 5:01 |
 | 36 | [silent](https://open.spotify.com/track/6c5k0VC9TBzlcKwtjpzFW2) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [silent](https://open.spotify.com/album/1zL4fVzGjGVuX6tMCUXUyg) | 5:08 |
-| 37 | [ばらの花](https://open.spotify.com/track/6iyKwsCmtdXvs19uKyBFfS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [TEAM ROCK](https://open.spotify.com/album/0FJnTE821z9cp6edHW1pxB) | 5:01 |
+| 37 | [I'm Blessed](https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I'm Blessed](https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK) | 3:38 |
 | 38 | [恋人じゃなくなった日](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [恋人じゃなくなった日](https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ) | 3:44 |
 | 39 | [幸せな結末](https://open.spotify.com/track/5osxC77ZVAIXIE5Q3DMUuu) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [幸せな結末](https://open.spotify.com/album/0THQJwnRlNNmlxtoDMp5Rf) | 4:36 |
 | 40 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 46 | [0℃の日曜](https://open.spotify.com/track/6VsSAI7IlsTiXqKuCsuS81) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [ALLSEASON EP.](https://open.spotify.com/album/7enrVhK4zZBVokYXmZXm4L) | 4:10 |
 | 47 | [怪獣の腕のなか](https://open.spotify.com/track/6MqrpdDa19FOxnhWfPsCgo) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [猫とアレルギー](https://open.spotify.com/album/42G6RaP6sG7YOPYSyOFkkK) | 3:44 |
 | 48 | [プライマル](https://open.spotify.com/track/3ngihcNtaHh3ggXwPPpXYv) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [プライマル](https://open.spotify.com/album/5fWcpMjZtpv1lc74m62bwm) | 4:52 |
-| 49 | [お別れの歌](https://open.spotify.com/track/0VwZq35ff2SvvMWOFNrEDc) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [fam fam](https://open.spotify.com/album/1bW2uDVWI51ttFReQYFWQ0) | 3:13 |
-| 50 | [クリスマスキャロルの頃には](https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [稲垣潤一25周年ベスト Rainy Voice](https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of) | 4:29 |
+| 49 | [クリスマスキャロルの頃には](https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [稲垣潤一25周年ベスト Rainy Voice](https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of) | 4:29 |
+| 50 | [お別れの歌](https://open.spotify.com/track/0VwZq35ff2SvvMWOFNrEDc) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [fam fam](https://open.spotify.com/album/1bW2uDVWI51ttFReQYFWQ0) | 3:13 |
 | 51 | [月に吠える](https://open.spotify.com/track/7sLxvJ2Lj4Kf2K6Wa7OEk1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月に吠える](https://open.spotify.com/album/31wNfG1NEvrOjQxI4S1AsV) | 4:25 |
 | 52 | [ゆれる](https://open.spotify.com/track/5KqIUmgtUmFGlylW0cRiwc) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [ひとつになるとき](https://open.spotify.com/album/4wGwmvxA1aqH8Q5ObKN5oA) | 4:59 |
 | 53 | [Moonlight](https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Moonlight](https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN) | 3:29 |
@@ -70,15 +70,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 60 | [Focus](https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Focus](https://open.spotify.com/album/57jgzL9QOFsdEPVKPkYbhh) | 4:17 |
 | 61 | [まっ白](https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [そうかな](https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6) | 4:23 |
 | 62 | [いい時間](https://open.spotify.com/track/3lqUSr3F8gmD7ruydRlky4) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [ひとつになるとき](https://open.spotify.com/album/4wGwmvxA1aqH8Q5ObKN5oA) | 5:37 |
-| 63 | [Snow Men](https://open.spotify.com/track/4EAFrjOpnbkUel0WrD9TTy) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 4:34 |
-| 64 | [冬のうた](https://open.spotify.com/track/13ZrdwZjgT6P1In07B4TBF) | [Kiroro](https://open.spotify.com/artist/279R7zEl7kwZxoMw18Pr9R) | [Kiroroのうた ①](https://open.spotify.com/album/7evQI7Gxwto5ByAD0fiQBF) | 5:45 |
+| 63 | [冬のうた](https://open.spotify.com/track/13ZrdwZjgT6P1In07B4TBF) | [Kiroro](https://open.spotify.com/artist/279R7zEl7kwZxoMw18Pr9R) | [Kiroroのうた ①](https://open.spotify.com/album/7evQI7Gxwto5ByAD0fiQBF) | 5:45 |
+| 64 | [Snow Men](https://open.spotify.com/track/4EAFrjOpnbkUel0WrD9TTy) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 4:34 |
 | 65 | [まっしろ](https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:57 |
 | 66 | [orion](https://open.spotify.com/track/6FHEL65apB44ucTqTfbhtG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [orion](https://open.spotify.com/album/1Vbibus80oIZ7GWnsYLNtp) | 4:43 |
 | 67 | [スノードーム](https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [スノードーム](https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV) | 3:18 |
 | 68 | [夜凪 \(feat\. にしな\)](https://open.spotify.com/track/4peHpL8DSQpDxblRCZEHbd) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [夜凪 \(feat\. にしな\)](https://open.spotify.com/album/4AAjWHXAFXvJ3bScDWyHaU) | 3:27 |
 | 69 | [沫雪](https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [沫雪](https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q) | 3:04 |
-| 70 | [雪の華](https://open.spotify.com/track/0SI0Te2JQTMe05NEmNbje6) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [雪の華](https://open.spotify.com/album/1RGkN7I8uWB4832MPaBzCy) | 5:41 |
-| 71 | [SNOW SOUND](https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SNOW SOUND / 今まで君が泣いた分取り戻そう](https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj) | 4:46 |
+| 70 | [SNOW SOUND](https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SNOW SOUND / 今まで君が泣いた分取り戻そう](https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj) | 4:46 |
+| 71 | [雪の華](https://open.spotify.com/track/0SI0Te2JQTMe05NEmNbje6) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [雪の華](https://open.spotify.com/album/1RGkN7I8uWB4832MPaBzCy) | 5:41 |
 | 72 | [ミルク](https://open.spotify.com/track/3tFY3KX0w4DwynMKepKkUU) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Junior Sweet](https://open.spotify.com/album/6mOQ8WkcSPoIk8w3zA6ZuG) | 3:52 |
 | 73 | [OH MY LITTLE GIRL](https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb) | [Yutaka Ozaki](https://open.spotify.com/artist/7Mo0nFEU6E8fGI0P2u7MOl) | [OH MY LITTLE GIRL](https://open.spotify.com/album/7LEcypSjlXxIQnSSjeIiLj) | 4:36 |
 | 74 | [ニットの帽子](https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [What's Going On?](https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7) | 4:24 |

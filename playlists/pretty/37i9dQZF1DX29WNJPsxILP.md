@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Best of Hindi Hip\-Hop! Cover: SARTHAK BIJALWAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,090 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,112 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

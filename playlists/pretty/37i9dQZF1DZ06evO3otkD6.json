@@ -1,41 +1,13 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 87608,
+  "num_followers": 87639,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAA5T86jn/iXDuGltgGzh8s4",
+  "snapshot_id": "aQAHgAAAAABcvS19HtacYXpK3qRJ21mf",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "CANCI\u00d3N PARA REGRESAR",
-        "url": "https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 254713,
-      "name": "CANCI\u00d3N PARA REGRESAR",
-      "url": "https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG"
-    },
     {
       "added_at": null,
       "album": {
@@ -127,6 +99,34 @@
       "duration_ms": 311346,
       "name": "Ay Haiti!",
       "url": "https://open.spotify.com/track/3FifroUyur8j5mTM78WuXQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CANCI\u00d3N PARA REGRESAR",
+        "url": "https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 254713,
+      "name": "CANCI\u00d3N PARA REGRESAR",
+      "url": "https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG"
     },
     {
       "added_at": null,
@@ -267,38 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 225197,
-      "name": "Heterocrom\u00eda",
-      "url": "https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Luz Sin Gravedad",
-      "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resistir\u00e9",
         "url": "https://open.spotify.com/album/5xl9aTPziZye5Jy5fGsyPh"
       },
@@ -387,6 +355,38 @@
       "duration_ms": 252443,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/0XFQb7pNfT90A7fRxjMWgz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Luz Sin Gravedad",
+      "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 225197,
+      "name": "Heterocrom\u00eda",
+      "url": "https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs"
     },
     {
       "added_at": null,

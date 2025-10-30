@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,870 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,941 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 49 | [Play Play \(feat\. Burna Boy\)](https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big Conspiracy](https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn) | 3:25 |
 | 50 | [Jerusalema \(feat\. Burna Boy & Nomcebo Zikode\) \- Remix](https://open.spotify.com/track/1dmES1X8l1AnFBy2gR3wYA) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Jerusalema \(Deluxe\)](https://open.spotify.com/album/4Kf2NqytdWUKXgnvsRVlLR) | 5:28 |
 
-Snapshot ID: `aP62AAAAAABdhZFaR2Ew1gJdSd3+Ls1A`
+Snapshot ID: `aQAHgAAAAAC6SLCRAc4on9gsIHMD60G3`

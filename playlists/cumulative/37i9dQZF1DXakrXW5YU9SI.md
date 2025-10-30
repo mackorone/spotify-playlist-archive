@@ -4,7 +4,7 @@
 
 > Jesień  z błogimi dźwiękami 🍂
 
-698 songs - 1 day 15 hr 3 min
+699 songs - 1 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [5 milionów influencerek](https://open.spotify.com/track/5iQbpxi3Oquf2ELA6vIFur) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [5 milionów influencerek](https://open.spotify.com/album/2f4NFjKewTTexTmEJbEKiE) | 2:49 | 2024-07-11 | 2024-08-21 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-07-05 | 2024-11-22 |
 | [A COLD PLAY](https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A COLD PLAY](https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS) | 2:59 | 2025-09-19 |  |
-| [Absolutnie, absolutnie](https://open.spotify.com/track/1iB862flnPp3q65orvSfkK) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Miłość](https://open.spotify.com/album/7szu0bHUk5PZOfSXlgu0ZQ) | 3:59 | 2025-09-26 |  |
+| [Absolutnie, absolutnie](https://open.spotify.com/track/1iB862flnPp3q65orvSfkK) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Miłość](https://open.spotify.com/album/7szu0bHUk5PZOfSXlgu0ZQ) | 3:59 | 2025-09-26 | 2025-10-30 |
 | [abyss](https://open.spotify.com/track/40LqINLIDhx5qEJQfG7rnN) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [abyss](https://open.spotify.com/album/3hZjfIVdPdCym1PRPD57JT) | 2:09 | 2025-03-07 | 2025-04-07 |
 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 | 2025-01-24 | 2025-03-01 |
 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-11 | 2024-09-13 |
@@ -245,6 +245,7 @@
 | [I'm in love](https://open.spotify.com/track/2xIGo3LOGsqqJ7gdl4amM1) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [I'm in love](https://open.spotify.com/album/7v6ybJ0OVTGWyjHdSKeffm) | 2:46 | 2025-01-24 | 2025-02-08 |
 | [Idziesz](https://open.spotify.com/track/7kCzLV7fvduN4Ig5TINWJj) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Idziesz](https://open.spotify.com/album/0R2YrqhG7KKTpdjHqqsVL2) | 3:36 | 2025-02-28 | 2025-03-29 |
 | [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 | 2025-03-14 | 2025-05-24 |
+| [If The World Burns Down](https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:52 | 2025-10-23 |  |
 | [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Image](https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD) | 3:32 | 2024-09-12 | 2024-11-04 |
 | [In My Mind](https://open.spotify.com/track/5Kbs5ZbYLGKchaT0C6fqjQ) | [Formeo](https://open.spotify.com/artist/58VDkUTKHrrr5b0P4yszTO) | [In My Mind](https://open.spotify.com/album/1FCcWwRuJplJfGh6gqPILZ) | 3:55 | 2025-02-21 | 2025-03-08 |
 | [In The Middle](https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Hope We Have Fun](https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb) | 2:59 | 2025-05-31 | 2025-09-16 |

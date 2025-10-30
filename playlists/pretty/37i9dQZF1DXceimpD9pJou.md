@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Barajas y Gawvi
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,370 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,373 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 22 | [Muevete en Mi](https://open.spotify.com/track/5UrU3cQn6PNDhUzrIjnkMC) | [Unción Central](https://open.spotify.com/artist/21gVgVclITHmVtT5lrfvHU), [Roberto Orellana](https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN) | [Muevete en Mi](https://open.spotify.com/album/49jnqvXuRHcz85MJeXmlwl) | 5:41 |
 | 23 | [Bendice Alma Mía](https://open.spotify.com/track/11NxjpwM9llBmbo3XAYDwW) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Bendice Alma Mía](https://open.spotify.com/album/0sMclJaxwKDWAozmU1ENAe) | 4:44 |
 | 24 | [En Tu Nombre](https://open.spotify.com/track/7plucZK8XQbeXEWu6t9FGl) | [Toni Romero](https://open.spotify.com/artist/69BWizWNZTCdBWLb1zllgw), [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb) | [En Tu Nombre](https://open.spotify.com/album/4ur5GcEtwszqg8AbcBBKws) | 7:14 |
-| 25 | [Abre La Puerta](https://open.spotify.com/track/2t8pX0Zi8Ck4HYACUu7zCN) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Abre La Puerta](https://open.spotify.com/album/0TCh8QgwRgKhj0xDwRDU1E) | 6:09 |
+| 25 | [Abre La Puerta](https://open.spotify.com/track/2t8pX0Zi8Ck4HYACUu7zCN) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8), [Isaac Ramos](https://open.spotify.com/artist/2CM8oWpCey84yaqw4anuks) | [Abre La Puerta](https://open.spotify.com/album/0TCh8QgwRgKhj0xDwRDU1E) | 6:09 |
 | 26 | [Solo Hay Uno](https://open.spotify.com/track/5jH44HEgVQ5VbrVc833Nx7) | [Joel Rocco](https://open.spotify.com/artist/7sjNSERyTcSvuDsLk9xwpe), [Enoc Parra](https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM) | [Solo Hay Uno](https://open.spotify.com/album/4N5bq61lLYJcR7dSRZHVqZ) | 9:05 |
 | 27 | [La Bendición](https://open.spotify.com/track/6bDaLV8u56T5xP24YhiEfO) | [Jimmy's](https://open.spotify.com/artist/5wKWCZRVBErveTfC1y1vLJ), [Agus Bouquet](https://open.spotify.com/artist/1RbAJ0yLldiFFfDQWrfuO0), [Seba Dentis](https://open.spotify.com/artist/0bd2kMD55K5IHqStBiASXF) | [La Bendición](https://open.spotify.com/album/4i47UkRrIh62IsmPfMcije) | 4:29 |
 | 28 | [De Repente \(Ángeles A Mi Alrededor\)](https://open.spotify.com/track/7dNaidUldfZVXkXUG2REAd) | [Jordan Mateo](https://open.spotify.com/artist/2siiKhqUOAkKoEMA0IUi9W) | [De Repente \(Ángeles A Mi Alrededor\)](https://open.spotify.com/album/2GSakvBMaLUfCJ5B9LYZSO) | 8:04 |

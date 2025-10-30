@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Музика для приємних осінніх прогулянок 🍁
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,620 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,630 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 15 | [The Little Mess You Made](https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Little Mess You Made](https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH) | 3:21 |
 | 16 | [Alleys of My Mind](https://open.spotify.com/track/5edRlXB2uyco1o6ZNCjLGB) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx), [Black Soil](https://open.spotify.com/artist/11qW8E6gUDxAuTvn9VJQnD) | [Alleys of My Mind](https://open.spotify.com/album/51nLeJhY3JcfO6axuGTfqA) | 3:57 |
 | 17 | [забався](https://open.spotify.com/track/6VNyKMoDGkM1GFOAMb1izH) | [макс пташник](https://open.spotify.com/artist/1jT1y7O8NtdUwGfCTZM4JE), [IHRYK](https://open.spotify.com/artist/3N9LWzMGgRlUR9ehu0Qmzv) | [забався](https://open.spotify.com/album/6ImDPICHH57HSqpJrVKHKV) | 2:00 |
-| 18 | [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 |
-| 19 | [Як ніколи](https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Той день](https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo) | 4:30 |
+| 18 | [Як ніколи](https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Той день](https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo) | 4:30 |
+| 19 | [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 |
 | 20 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |
 | 21 | [Baby Brazil feat\. Las Palabras](https://open.spotify.com/track/3NYwBfpXtucYLmt0UehvAg) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Las Palabras](https://open.spotify.com/artist/6j0bjK0T68pJOWGvqRD7ls) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 3:46 |
 | 22 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 38 | [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 |
 | 39 | [Будь зі мною](https://open.spotify.com/track/0dLBJzY1JLNTXdyN3oEZ1d) | [Grohotsky](https://open.spotify.com/artist/42GlDtFvb6lgqHj7oc4SSi) | [Будь зі мною](https://open.spotify.com/album/16G0KLEpkwOfJPZripKxnl) | 3:33 |
 | 40 | [Lucerna](https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Lucerna](https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X) | 6:16 |
-| 41 | [Kava](https://open.spotify.com/track/2PqtiIAHQhZfOH5GTAonYt) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [Kava](https://open.spotify.com/album/7q4ky8FehrlQeEV3llZN9D) | 2:59 |
-| 42 | [Тебе \- собі](https://open.spotify.com/track/5YKrl96QnEDPQNYKTCfokP) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Тебе \- собі](https://open.spotify.com/album/4c9X2MvAHcldczNbYTaP9r) | 2:02 |
+| 41 | [Тебе \- собі](https://open.spotify.com/track/5YKrl96QnEDPQNYKTCfokP) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Тебе \- собі](https://open.spotify.com/album/4c9X2MvAHcldczNbYTaP9r) | 2:02 |
+| 42 | [Kava](https://open.spotify.com/track/2PqtiIAHQhZfOH5GTAonYt) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [Kava](https://open.spotify.com/album/7q4ky8FehrlQeEV3llZN9D) | 2:59 |
 | 43 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 |
 | 44 | [An Excuse \- Abbey Road Version](https://open.spotify.com/track/4HKyA6vXYh1gO1AEkJha7Y) | [Soft Analog](https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82) | [An Excuse / IF YOU DANCE AGAIN](https://open.spotify.com/album/7eaCbCjzOCvCOMh7aa8xsB) | 2:30 |
 | 45 | [Лебідонько](https://open.spotify.com/track/3jvcFXp201IwQ1hGpq0Xoj) | [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [Лебідонько](https://open.spotify.com/album/19UW7SaVHmcUDFXhj2webN) | 2:16 |

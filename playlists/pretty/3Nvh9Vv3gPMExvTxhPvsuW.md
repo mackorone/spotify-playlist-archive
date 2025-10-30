@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Nvh9Vv3gPMExvTxhPvsuW.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 31 songs - 2 hr 29 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 32 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,5 +39,6 @@ pretty - [cumulative](/playlists/cumulative/3Nvh9Vv3gPMExvTxhPvsuW.md) - [plain]
 | 29 | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/album/6Sv0gyjKWyrdij1ToQG6f0) | 4:09 |
 | 30 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 |
 | 31 | [Your Body](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [Your Body](https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN) | 3:48 |
+| 32 | [Corpo e Canção \- Club Mix](https://open.spotify.com/track/0fdnuaaMLkAJb3czxnwKxh) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN) | [Corpo e Canção \(Club Mix\)](https://open.spotify.com/album/6PHYNn7KqOlQxAgETl4ujD) | 4:35 |
 
-Snapshot ID: `AAAAJm2DsS1Jcd3zUaMKcsOlOYd/307i`
+Snapshot ID: `AAAAJzqHXY3yNWbC0dKLwuHbdCzTiymR`

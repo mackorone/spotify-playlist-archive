@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2124416,
+  "num_followers": 2124453,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Thrilled To Be Here",
-        "url": "https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ"
-      },
-      "artists": [
-        {
-          "name": "BAILEN",
-          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
-        }
-      ],
-      "duration_ms": 241120,
-      "name": "Something Tells Me",
-      "url": "https://open.spotify.com/track/6yWn9RKfL1il1b4hFe6H1i"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "Pour It Out Into The Night",
         "url": "https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
+        "name": "Thrilled To Be Here",
+        "url": "https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "duration_ms": 241120,
+      "name": "Something Tells Me",
+      "url": "https://open.spotify.com/track/6yWn9RKfL1il1b4hFe6H1i"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb"
       },
@@ -919,22 +919,6 @@
       "duration_ms": 212945,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
-        "name": "Amidst the Chaos (Bonus Version)",
-        "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 253395,
-      "name": "Orpheus",
-      "url": "https://open.spotify.com/track/3sC62j1Cjeea5tAhcyGcs8"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -959,18 +943,34 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+        "name": "Amidst the Chaos (Bonus Version)",
+        "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
         }
       ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+      "duration_ms": 253395,
+      "name": "Orpheus",
+      "url": "https://open.spotify.com/track/3sC62j1Cjeea5tAhcyGcs8"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Tales Of America (The Second Coming)",
+        "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Lebanon",
+      "url": "https://open.spotify.com/track/1jKG59NQTTCr1tSG9YDzuZ"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -991,18 +991,18 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Tales Of America (The Second Coming)",
-        "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
       },
       "artists": [
         {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 206880,
-      "name": "Lebanon",
-      "url": "https://open.spotify.com/track/1jKG59NQTTCr1tSG9YDzuZ"
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/4SArFlFDyqFOzmlNFS5fDX"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 250346,
-      "name": "Nick Of Time",
-      "url": "https://open.spotify.com/track/1SdkSIyVEBu8o9ZsJnTJqO"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "(watch my moves)",
         "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 332533,
       "name": "Mount Airy Hill (Way Gone)",
       "url": "https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/4SArFlFDyqFOzmlNFS5fDX"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 250346,
+      "name": "Nick Of Time",
+      "url": "https://open.spotify.com/track/1SdkSIyVEBu8o9ZsJnTJqO"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 233039,
-      "name": "I Found Out",
-      "url": "https://open.spotify.com/track/2IxOGK5JJIhi2Alx5BA7oe"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "Stay For Something",
         "url": "https://open.spotify.com/album/7FKbJ9vC8xVqDoD9OAPTBS"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 216946,
       "name": "Stay For Something",
       "url": "https://open.spotify.com/track/5tEREzW79U8O3FIkrGyRNW"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 233039,
+      "name": "I Found Out",
+      "url": "https://open.spotify.com/track/2IxOGK5JJIhi2Alx5BA7oe"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 235240,
+      "name": "Expectations",
+      "url": "https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 151560,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 235240,
-      "name": "Expectations",
-      "url": "https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
+        "name": "Yours in the Morning",
+        "url": "https://open.spotify.com/album/02xpqau9cUbcYGk6chdNO5"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 214919,
+      "name": "Yours in the Morning",
+      "url": "https://open.spotify.com/track/602rw0d0jQLoSCAfqdeY7Z"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
         "name": "Dancin' Around My Grave",
         "url": "https://open.spotify.com/album/06H89MK9A5I2v7Baf2kFSF"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 179582,
       "name": "Dancin' Around My Grave",
       "url": "https://open.spotify.com/track/15iM1wuREVujfuboVzZJSK"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
-        "name": "Yours in the Morning",
-        "url": "https://open.spotify.com/album/02xpqau9cUbcYGk6chdNO5"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 214919,
-      "name": "Yours in the Morning",
-      "url": "https://open.spotify.com/track/602rw0d0jQLoSCAfqdeY7Z"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Sweet Unknown",
-        "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
-      },
-      "artists": [
-        {
-          "name": "Ceramic Animal",
-          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "Sweet Unknown",
-      "url": "https://open.spotify.com/track/6ypf8ClLV8sPrJPp2WwFoh"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "What Happiness Is",
         "url": "https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 201253,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Sweet Unknown",
+        "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
+      },
+      "artists": [
+        {
+          "name": "Ceramic Animal",
+          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
+        }
+      ],
+      "duration_ms": 238933,
+      "name": "Sweet Unknown",
+      "url": "https://open.spotify.com/track/6ypf8ClLV8sPrJPp2WwFoh"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Shaking Hands With Elvis",
-        "url": "https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3"
-      },
-      "artists": [
-        {
-          "name": "August Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 209087,
-      "name": "Hollywood Forever Cemetery",
-      "url": "https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "In the Clouds",
         "url": "https://open.spotify.com/album/6CuxjOJxfOouED6FsDw1SD"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 212047,
       "name": "In the Clouds",
       "url": "https://open.spotify.com/track/559r5jzQgpbEMdXst1yOKG"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Shaking Hands With Elvis",
+        "url": "https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 209087,
+      "name": "Hollywood Forever Cemetery",
+      "url": "https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Don't Let Me Disappear",
-        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 264522,
-      "name": "Don't Let Me Disappear",
-      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "How Low",
         "url": "https://open.spotify.com/album/4c9IVypw3UiHl8wBhqLe5s"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 244160,
       "name": "How Low",
       "url": "https://open.spotify.com/track/6aKbgrbGG8KUU6WNSaOWR9"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Don't Let Me Disappear",
+        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 264522,
+      "name": "Don't Let Me Disappear",
+      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
     },
     {
       "added_at": "2025-05-02 04:00:31",

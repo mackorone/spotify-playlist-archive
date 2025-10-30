@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 12203,
+  "num_followers": 12212,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAACIxQuUdTHoygSokEktBZrb",
+  "snapshot_id": "aQAHgAAAAAAP8uUAH04NxvEqOD8aet0h",
   "tracks": [
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Holy You (Fr\u0112ligious)",
+        "url": "https://open.spotify.com/album/0LDkdvozl55KUGYUFK4lcL"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 243885,
+      "name": "Holy You (Fr\u0112ligious)",
+      "url": "https://open.spotify.com/track/55lD4Bw9nCYceU7TnVc82R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stand out",
         "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
@@ -735,38 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy You (Fr\u0112ligious)",
-        "url": "https://open.spotify.com/album/0LDkdvozl55KUGYUFK4lcL"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 243885,
-      "name": "Holy You (Fr\u0112ligious)",
-      "url": "https://open.spotify.com/track/55lD4Bw9nCYceU7TnVc82R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stand out",
-        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 282786,
-      "name": "Stand Out",
-      "url": "https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Church On The Moon",
         "url": "https://open.spotify.com/album/7tAv6YInjBhHbBjs8tqNlk"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stand out",
+        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 282786,
+      "name": "Stand Out",
+      "url": "https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Victory Live",
         "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
@@ -811,26 +811,6 @@
       "duration_ms": 198226,
       "name": "1-2 (Victory Check) - Live",
       "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "Lena Byrd-Miles",
-          "url": "https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ"
-        }
-      ],
-      "duration_ms": 509186,
-      "name": "Out Of Hiding / How He Loves / Good Good Father - Medley/Live",
-      "url": "https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv"
     },
     {
       "added_at": null,
@@ -867,6 +847,26 @@
       "duration_ms": 505773,
       "name": "I Give You Glory",
       "url": "https://open.spotify.com/track/6FuvrUof9KtgkIuFAta53C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Lena Byrd-Miles",
+          "url": "https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ"
+        }
+      ],
+      "duration_ms": 509186,
+      "name": "Out Of Hiding / How He Loves / Good Good Father - Medley/Live",
+      "url": "https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv"
     },
     {
       "added_at": null,

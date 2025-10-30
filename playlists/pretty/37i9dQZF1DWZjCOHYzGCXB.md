@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 
 > no old maiden type of shoes here 🐬💛🎀🏝️🛍️🩵🩰
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,316 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,304 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 39 | [yes baby](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [yes baby](https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL) | 2:55 |
 | 40 | [Before You Break My Heart](https://open.spotify.com/track/3vbFjvzmJLrdttGuDhGrzi) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:16 |
 | 41 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 |
-| 42 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
+| 42 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
 | 43 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 |
-| 44 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
+| 44 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
 | 45 | [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 |
 | 46 | [Pick It Up \(feat\. Selena Gomez\)](https://open.spotify.com/track/6M1vkKMDQZoh1sbH4asNcF) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:40 |
 | 47 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 72 | [New Romantics](https://open.spotify.com/track/6rZVy6FIG7lSJQMFXHo12z) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe Edition\)](https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR) | 3:50 |
 | 73 | [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 |
 | 74 | [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 |
-| 75 | [Smoochie Girl](https://open.spotify.com/track/0nimVZc4NEpUO0qub6FZRk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochie Girl](https://open.spotify.com/album/3Xy6qL3ZmwqwOGjBkypnlJ) | 3:01 |
-| 76 | [Brick By Brick](https://open.spotify.com/track/3LN7i6dp0VlW9rD5H5uDOJ) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Brick By Brick](https://open.spotify.com/album/4GAfWtz9zZoJhu4jAzNPx5) | 2:39 |
+| 75 | [Brick By Brick](https://open.spotify.com/track/3LN7i6dp0VlW9rD5H5uDOJ) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Brick By Brick](https://open.spotify.com/album/4GAfWtz9zZoJhu4jAzNPx5) | 2:39 |
+| 76 | [Smoochie Girl](https://open.spotify.com/track/0nimVZc4NEpUO0qub6FZRk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochie Girl](https://open.spotify.com/album/3Xy6qL3ZmwqwOGjBkypnlJ) | 3:01 |
 | 77 | [I Just Don't Know You Yet](https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [I Just Don't Know You Yet](https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK) | 3:21 |
 | 78 | [Look At Her Now](https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 2:42 |
 | 79 | [play](https://open.spotify.com/track/43HLGa3iry3gOahaTUGcIM) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [play](https://open.spotify.com/album/4qeSsS64ItU3Jk7NZukO1M) | 2:52 |

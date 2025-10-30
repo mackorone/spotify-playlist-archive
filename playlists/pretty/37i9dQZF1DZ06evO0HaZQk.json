@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 522456,
+  "num_followers": 522470,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAABXytVBXCZFN+778A4+2amC",
+  "snapshot_id": "aQAHgAAAAABfjkgTlkExe8PaeEdZi/bm",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
       "duration_ms": 237000,
       "name": "Amor, Amor de Mis Amores (with Devendra Banhart)",
       "url": "https://open.spotify.com/track/3dB42OEuVNiktvt3V5JRVI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 287266,
-      "name": "Ya No Te Puedo Querer",
-      "url": "https://open.spotify.com/track/75EX2PpOWWhu9eXCuqaBTj"
     },
     {
       "added_at": null,
@@ -731,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
-        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 224533,
-      "name": "Son Amores (That's Amore) (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/10HQmG706HZtAhXRypWw01"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
         "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
       },
@@ -767,6 +731,26 @@
       "duration_ms": 198653,
       "name": "Luz de Luna (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/74dEpDBV7Lb5OJlhRPmRKw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Son Amores (That's Amore) (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/10HQmG706HZtAhXRypWw01"
     },
     {
       "added_at": null,
@@ -951,6 +935,22 @@
       "duration_ms": 236480,
       "name": "Vivir\u00e9 para Ti (feat. Natalia Lafourcade) - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/7mPgkn14P7Ts2hB62XmgtT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 297346,
+      "name": "Mi Lugar Favorito",
+      "url": "https://open.spotify.com/track/7nnOZPlJODFqCPW6FyalYv"
     }
   ],
   "unique_name": "This Is Natalia Lafourcade",

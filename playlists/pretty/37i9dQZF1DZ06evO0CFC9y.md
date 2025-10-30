@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,769 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,779 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,17 +13,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 3 | [The Boy Who Destroyed The World](https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:05 |
 | 4 | [Holy Visions](https://open.spotify.com/track/5DcTkTG3Z4uoQTxIv4LgPZ) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Silver Bleeds the Black Sun...](https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5) | 3:30 |
 | 5 | [The Days Of The Phoenix](https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:27 |
-| 6 | [The Leaving Song Pt\. II](https://open.spotify.com/track/7rFhh71IiBfOCM4EhMwuEb) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:31 |
+| 6 | [Silver And Cold](https://open.spotify.com/track/6RGV97HIkgZJjme2dzilfg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 4:10 |
 | 7 | [Love Like Winter](https://open.spotify.com/track/3cDE9Yn4GrsxSrlMCLdmTT) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 2:45 |
 | 8 | [VOIDWARD, I BEND BACK](https://open.spotify.com/track/1X3cCp55Pui90xhNa8X6zL) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Silver Bleeds the Black Sun...](https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5) | 2:28 |
 | 9 | [Totalimmortal](https://open.spotify.com/track/3pbQW2s8n2KysT7SBIvRdc) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI](https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw) | 2:44 |
-| 10 | [Silver And Cold](https://open.spotify.com/track/6RGV97HIkgZJjme2dzilfg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 4:10 |
+| 10 | [The Leaving Song Pt\. II](https://open.spotify.com/track/7rFhh71IiBfOCM4EhMwuEb) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:31 |
 | 11 | [Prelude 12/21](https://open.spotify.com/track/6hxa24dKfCoe1EA6g0RHNw) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 1:34 |
-| 12 | [Blasphemy & Excess](https://open.spotify.com/track/5BAA4TvfHuuOqNntDkxmXJ) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Silver Bleeds the Black Sun...](https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5) | 3:04 |
+| 12 | [Ash Speck in a Green Eye](https://open.spotify.com/track/3MIpe4qqcTLRKsWEyaxnfx) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Silver Bleeds the Black Sun...](https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5) | 3:18 |
 | 13 | [The Lost Souls](https://open.spotify.com/track/2yQkmsZyxw99iNzgbbkuOn) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 2:42 |
 | 14 | [This Celluloid Dream](https://open.spotify.com/track/46Y9yh2KxmtodypW4bCp6v) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 4:10 |
 | 15 | [Summer Shudder](https://open.spotify.com/track/55BYnMUhDNtRo4HLvay6hk) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:06 |
-| 16 | [Ash Speck in a Green Eye](https://open.spotify.com/track/3MIpe4qqcTLRKsWEyaxnfx) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Silver Bleeds the Black Sun...](https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5) | 3:18 |
+| 16 | [Blasphemy & Excess](https://open.spotify.com/track/5BAA4TvfHuuOqNntDkxmXJ) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Silver Bleeds the Black Sun...](https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5) | 3:04 |
 | 17 | [A Single Second](https://open.spotify.com/track/3kAxXpkSl233HRCa5V8OGr) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Shut Your Mouth And Open Your Eyes](https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB) | 2:12 |
 | 18 | [Dancing Through Sunday](https://open.spotify.com/track/4O5GKVbnQ8U9BxYWu0hIug) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 2:26 |
 | 19 | [Medicate](https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love \(Deluxe\)](https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 49 | [Third Season](https://open.spotify.com/track/5fpGz5nKCVDG97CyWSiXoF) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Shut Your Mouth And Open Your Eyes](https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB) | 2:49 |
 | 50 | [Halloween](https://open.spotify.com/track/5YzAjvec8mCjm2bGppn8Oz) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:58 |
 
-Snapshot ID: `aP62AAAAAAA5gcBq5GCuYaeak7ZQXUzT`
+Snapshot ID: `aQAHgAAAAACFbGi3nCunYRlQiqR3j9wn`

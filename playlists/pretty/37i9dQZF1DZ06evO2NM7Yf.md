@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435 likes - 27 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 434 likes - 27 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 7 | [jesus christ in a mini skirt](https://open.spotify.com/track/24zNxMViyAoKKKqiJ6bAEp) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 3:00 |
 | 8 | [breakup with a friend](https://open.spotify.com/track/4yJxFiGDaCOIB5FlodmBWH) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [breakup with a friend](https://open.spotify.com/album/7FejhBpvLo5ciYkURuFnW7) | 2:42 |
 | 9 | [Emotional Punching Bag](https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional punching bag](https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse) | 2:56 |
-| 10 | [You Make Bad Things Not Suck <3](https://open.spotify.com/track/3EIMsnF6kf3qW8llk5fWtO) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [You Make Bad Things Not Suck <3](https://open.spotify.com/album/4wJEo03dFezG2dEkwDKB13) | 2:33 |
+| 10 | [...but i'd miss you too much!](https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much!](https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz) | 2:58 |
 | 11 | [emotional affair](https://open.spotify.com/track/3U1ImAPjIGErbBVKbgXQ9E) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 3:01 |
-| 12 | [...but i'd miss you too much!](https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much!](https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz) | 2:58 |
+| 12 | [You Make Bad Things Not Suck <3](https://open.spotify.com/track/3EIMsnF6kf3qW8llk5fWtO) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [You Make Bad Things Not Suck <3](https://open.spotify.com/album/4wJEo03dFezG2dEkwDKB13) | 2:33 |
 | 13 | [All the Things You'd Ruin](https://open.spotify.com/track/3XqLS6RCMU25puMAUbioAJ) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin](https://open.spotify.com/album/4fnPZ5TvPAUQpZo5oQEWNn) | 2:46 |
 | 14 | [One Hit Wonder](https://open.spotify.com/track/1U9WaZj7uLTyWovcyJsZ5d) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [One Hit Wonder](https://open.spotify.com/album/0EWCmyfWq1aE0XyUfKrq7l) | 3:20 |
 | 15 | [blasphemy!](https://open.spotify.com/track/3l0M0HdBZ3SsinWP2alYlG) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:58 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 26 | [Who Not to Love](https://open.spotify.com/track/0p69ggdl6UOeBnSf4dn8o8) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/5y0KsMeMor5EGBOtsVIfzw) | 3:05 |
 | 27 | [DO YOU LIKE ME?](https://open.spotify.com/track/3apkBldyjHqAn57yzVtYGH) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:57 |
 
-Snapshot ID: `aP62AAAAAADTdH29uj7xdyBBHXBgJeJQ`
+Snapshot ID: `aQAHgAAAAABfNv9yaxm4tIxonsOWpEtK`

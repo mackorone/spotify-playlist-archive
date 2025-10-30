@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,011 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,982 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 49 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
 | 50 | [Barbie](https://open.spotify.com/track/0wnZP5KJSJ8xmTJmmjOqwr) | [JaidynAlexis](https://open.spotify.com/artist/1bu90rjktSmOd2wveQoIKi) | [Barbie](https://open.spotify.com/album/2YvG8ptg1hzWzX0pXA4bbg) | 2:08 |
 | 51 | [Richtivities](https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Richtivities](https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB) | 2:56 |
-| 52 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
+| 52 | [make you mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [make you mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
 | 53 | [HISS](https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [HISS](https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA) | 3:12 |
 | 54 | [OKLOSER](https://open.spotify.com/track/3EM5ZPDSe1JjSztumpsc5n) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [OKLOSER](https://open.spotify.com/album/6Dp4fwNoZD6Sum7PEheLrJ) | 2:49 |
 | 55 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 |

@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 364630,
+  "num_followers": 364638,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-10-13 15:50:24",
       "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 246813,
+      "name": "Worth It.",
+      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
+    },
+    {
+      "added_at": "2025-10-13 15:50:24",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2025-10-13 15:50:24",
-      "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 246813,
-      "name": "Worth It.",
-      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
     },
     {
       "added_at": "2025-10-13 15:50:24",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-10-13 15:50:24",
       "album": {
-        "name": "Kreise",
-        "url": "https://open.spotify.com/album/7EJ7tw1jSJdW2C0enoLQXS"
-      },
-      "artists": [
-        {
-          "name": "Johannes Oerding",
-          "url": "https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K"
-        }
-      ],
-      "duration_ms": 221533,
-      "name": "Kreise",
-      "url": "https://open.spotify.com/track/1ocmRsEMI6nO9d9BdQbXNI"
-    },
-    {
-      "added_at": "2025-10-13 15:50:24",
-      "album": {
         "name": "GROWING UP IS _____",
         "url": "https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 233587,
       "name": "GROWING UP IS _____",
       "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
+    },
+    {
+      "added_at": "2025-10-13 15:50:24",
+      "album": {
+        "name": "Kreise",
+        "url": "https://open.spotify.com/album/7EJ7tw1jSJdW2C0enoLQXS"
+      },
+      "artists": [
+        {
+          "name": "Johannes Oerding",
+          "url": "https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K"
+        }
+      ],
+      "duration_ms": 221533,
+      "name": "Kreise",
+      "url": "https://open.spotify.com/track/1ocmRsEMI6nO9d9BdQbXNI"
     },
     {
       "added_at": "2025-10-13 15:50:24",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-10-13 15:50:24",
       "album": {
-        "name": "Der letzte Tanz",
-        "url": "https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO"
-      },
-      "artists": [
-        {
-          "name": "Bosse",
-          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
-        }
-      ],
-      "duration_ms": 200100,
-      "name": "Der letzte Tanz",
-      "url": "https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM"
-    },
-    {
-      "added_at": "2025-10-13 15:50:24",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2025-10-13 15:50:24",
       "album": {
-        "name": "Faded Love",
-        "url": "https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345"
+        "name": "Der letzte Tanz",
+        "url": "https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO"
       },
       "artists": [
         {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
         }
       ],
-      "duration_ms": 148345,
-      "name": "Faded Love",
-      "url": "https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa"
+      "duration_ms": 200100,
+      "name": "Der letzte Tanz",
+      "url": "https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM"
     },
     {
       "added_at": "2025-10-13 15:50:24",
@@ -779,6 +763,22 @@
       "duration_ms": 213283,
       "name": "Bad For Me (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
+    },
+    {
+      "added_at": "2025-10-13 15:50:24",
+      "album": {
+        "name": "Faded Love",
+        "url": "https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 148345,
+      "name": "Faded Love",
+      "url": "https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa"
     },
     {
       "added_at": "2025-10-13 15:50:24",
@@ -811,6 +811,26 @@
       "duration_ms": 269538,
       "name": "I Made It",
       "url": "https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y"
+    },
+    {
+      "added_at": "2025-10-13 15:50:24",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv"
+      },
+      "artists": [
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        },
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "duration_ms": 169866,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA"
     },
     {
       "added_at": "2025-10-13 15:50:24",
@@ -851,26 +871,6 @@
     {
       "added_at": "2025-10-13 15:50:24",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv"
-      },
-      "artists": [
-        {
-          "name": "Nico Santos",
-          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
-        },
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 169866,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA"
-    },
-    {
-      "added_at": "2025-10-13 15:50:24",
-      "album": {
         "name": "Angel Eyes",
         "url": "https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-10-13 15:50:24",
       "album": {
-        "name": "Ghost of You",
-        "url": "https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 158063,
-      "name": "Ghost of You",
-      "url": "https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh"
-    },
-    {
-      "added_at": "2025-10-13 15:50:24",
-      "album": {
         "name": "Ask & You Shall Receive",
         "url": "https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 199626,
       "name": "Ask & You Shall Receive",
       "url": "https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe"
+    },
+    {
+      "added_at": "2025-10-13 15:50:24",
+      "album": {
+        "name": "Ghost of You",
+        "url": "https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 158063,
+      "name": "Ghost of You",
+      "url": "https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh"
     },
     {
       "added_at": "2025-10-13 15:50:24",
@@ -983,6 +983,26 @@
     {
       "added_at": "2025-10-13 15:50:24",
       "album": {
+        "name": "Butterflies (feat. FLETCHER)",
+        "url": "https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Butterflies (feat. FLETCHER)",
+      "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
+    },
+    {
+      "added_at": "2025-10-13 15:50:24",
+      "album": {
         "name": "Wild Stare",
         "url": "https://open.spotify.com/album/1dNicYsMG4Beogrx8blBYZ"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 173675,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/4kOlyvj9WiPrI4zpmzKAeA"
-    },
-    {
-      "added_at": "2025-10-13 15:50:24",
-      "album": {
-        "name": "Butterflies (feat. FLETCHER)",
-        "url": "https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Butterflies (feat. FLETCHER)",
-      "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
     },
     {
       "added_at": "2025-10-13 15:50:24",

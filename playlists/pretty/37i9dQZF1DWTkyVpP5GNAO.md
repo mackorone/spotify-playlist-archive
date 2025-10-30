@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Karen Espinosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,907 likes - 80 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,989 likes - 80 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 43 | [Tú Eres Dios](https://open.spotify.com/track/6Ba75b7WwhRuITzZsnKOp2) | [Chanel Novas](https://open.spotify.com/artist/359NLJX4VHDyNLBfybI0Uz), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Tú Eres Dios](https://open.spotify.com/album/0YICEYAaNv9lFBRrKtYtu4) | 9:19 |
 | 44 | [Aleluya, Él Viene Ya](https://open.spotify.com/track/20qAKoemFPaqeDsUqwdxTJ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:58 |
 | 45 | [Eterno Dios](https://open.spotify.com/track/4Us4fYaik1qi2KsTPDp1S4) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Eterno Dios](https://open.spotify.com/album/4C1H7azlbjrDwK2mVwZVpX) | 5:19 |
-| 46 | [Abre La Puerta](https://open.spotify.com/track/2t8pX0Zi8Ck4HYACUu7zCN) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Abre La Puerta](https://open.spotify.com/album/0TCh8QgwRgKhj0xDwRDU1E) | 6:09 |
+| 46 | [Abre La Puerta](https://open.spotify.com/track/2t8pX0Zi8Ck4HYACUu7zCN) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8), [Isaac Ramos](https://open.spotify.com/artist/2CM8oWpCey84yaqw4anuks) | [Abre La Puerta](https://open.spotify.com/album/0TCh8QgwRgKhj0xDwRDU1E) | 6:09 |
 | 47 | [Declaro El Nombre De Jesús](https://open.spotify.com/track/1QW4r3g1mO6VXJnc9C7KfD) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6), [Nestor Manuel](https://open.spotify.com/artist/0f18e4IcPXJ28phCqJdEcP), [Emmanuel y Linda](https://open.spotify.com/artist/5zLxzk3M5pfViB81P2R1aG) | [Declaro El Nombre De Jesús](https://open.spotify.com/album/35250oSZAmbV8dlgjcsI0K) | 5:04 |
 | 48 | [Viento Del Norte](https://open.spotify.com/track/5ZjTZynqsWSyg4LWERVpTT) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p), [Liz Mariel](https://open.spotify.com/artist/4Wz6hNzPp4n6GVd8J34kVc), [Cita Con el Padre](https://open.spotify.com/artist/0L6N5Bc6pyZLndWo930w3a) | [Viento Del Norte](https://open.spotify.com/album/5GoGZLdlMmZtItpeD7dwSJ) | 8:36 |
 | 49 | [Él Está Aquí](https://open.spotify.com/track/4EabNLm20lusvgnrgksH7M) | [Priscila Matiesco](https://open.spotify.com/artist/1wdCbEqpZ64lJTjXbqnD8M), [Selah Worship](https://open.spotify.com/artist/5pkxw9IRzdoM4QpxMi1YNA), [La Catedral](https://open.spotify.com/artist/028xpD94ojZ0WraOcCTkEe), [Brian Orellana](https://open.spotify.com/artist/3quJe8K2N4s5S3uxzyXrDP) | [Él Está Aquí](https://open.spotify.com/album/5pGHgOVlqjhqjXE9hymicj) | 6:35 |

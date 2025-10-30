@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 1043626,
+  "num_followers": 1043788,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,18 @@
     {
       "added_at": "2025-10-24 04:00:02",
       "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
         }
       ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+      "duration_ms": 137790,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T"
     },
     {
       "added_at": "2025-10-24 04:00:02",
@@ -391,6 +387,26 @@
       "duration_ms": 188160,
       "name": "Little Lies",
       "url": "https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU"
+    },
+    {
+      "added_at": "2025-10-24 04:00:02",
+      "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2025-10-24 04:00:02",
@@ -519,22 +535,6 @@
       "duration_ms": 198764,
       "name": "Loop",
       "url": "https://open.spotify.com/track/5MKANTNybiKpBINi93lfj7"
-    },
-    {
-      "added_at": "2025-10-24 04:00:02",
-      "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 137790,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T"
     },
     {
       "added_at": "2025-10-24 04:00:02",
@@ -831,22 +831,18 @@
     {
       "added_at": "2025-10-24 04:00:02",
       "album": {
-        "name": "SLOWLY",
-        "url": "https://open.spotify.com/album/3VmoOOqgRIipO0Qy2k9jE2"
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/3rRynKB1uolIl6HwikbFnS"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
         }
       ],
-      "duration_ms": 168000,
-      "name": "SLOWLY",
-      "url": "https://open.spotify.com/track/4R4ZU6XOQTNqNlADVcRLxp"
+      "duration_ms": 455040,
+      "name": "Ginger",
+      "url": "https://open.spotify.com/track/16lQpZjF3WfsPOo7tJJ8rF"
     },
     {
       "added_at": "2025-10-24 04:00:02",
@@ -879,18 +875,22 @@
     {
       "added_at": "2025-10-24 04:00:02",
       "album": {
-        "name": "Ginger",
-        "url": "https://open.spotify.com/album/3rRynKB1uolIl6HwikbFnS"
+        "name": "SLOWLY",
+        "url": "https://open.spotify.com/album/3VmoOOqgRIipO0Qy2k9jE2"
       },
       "artists": [
         {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
         }
       ],
-      "duration_ms": 455040,
-      "name": "Ginger",
-      "url": "https://open.spotify.com/track/16lQpZjF3WfsPOo7tJJ8rF"
+      "duration_ms": 168000,
+      "name": "SLOWLY",
+      "url": "https://open.spotify.com/track/4R4ZU6XOQTNqNlADVcRLxp"
     },
     {
       "added_at": "2025-10-24 04:00:02",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-10-24 04:00:02",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/0kvc8rqF5vtlKwN78Fa85y"
-      },
-      "artists": [
-        {
-          "name": "NOVEMBER KID",
-          "url": "https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM"
-        }
-      ],
-      "duration_ms": 121818,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/3u6QGMiBRiIr3nprnSBo0s"
-    },
-    {
-      "added_at": "2025-10-24 04:00:02",
-      "album": {
         "name": "Deeplow",
         "url": "https://open.spotify.com/album/1VpXyD7YvGS5rTb9VWRgqs"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 149939,
       "name": "Deeplow",
       "url": "https://open.spotify.com/track/4o9Rvu1tisuOLcuOmD3i55"
+    },
+    {
+      "added_at": "2025-10-24 04:00:02",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/0kvc8rqF5vtlKwN78Fa85y"
+      },
+      "artists": [
+        {
+          "name": "NOVEMBER KID",
+          "url": "https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM"
+        }
+      ],
+      "duration_ms": 121818,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/3u6QGMiBRiIr3nprnSBo0s"
     },
     {
       "added_at": "2025-10-24 04:00:02",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-10-24 04:00:02",
       "album": {
-        "name": "Don't Give Up",
-        "url": "https://open.spotify.com/album/1MuZwe2gViW1Pv3MQrznk5"
-      },
-      "artists": [
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 186562,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/41IzbkTcmjj8EMsMCAw0iM"
-    },
-    {
-      "added_at": "2025-10-24 04:00:02",
-      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/1w0c45yUou9pVM7qe2pvti"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 157440,
       "name": "About U",
       "url": "https://open.spotify.com/track/2gKO4QzaDBhpprwD4XXZFW"
+    },
+    {
+      "added_at": "2025-10-24 04:00:02",
+      "album": {
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/1MuZwe2gViW1Pv3MQrznk5"
+      },
+      "artists": [
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 186562,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/41IzbkTcmjj8EMsMCAw0iM"
     },
     {
       "added_at": "2025-10-24 04:00:02",

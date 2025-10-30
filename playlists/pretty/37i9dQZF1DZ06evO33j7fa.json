@@ -1,13 +1,29 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 59526,
+  "num_followers": 59533,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAABV3DbVmFxRQkj6EDns/SQa",
+  "snapshot_id": "aQAHgAAAAADru6O5upvuv1BdPqfKj3ty",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 119450,
+      "name": "Road",
+      "url": "https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol"
+    },
     {
       "added_at": null,
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 223722,
       "name": "Northern Sky",
       "url": "https://open.spotify.com/track/7pdmBld4yW3WIUkrxHyb5r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
     },
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 289687,
       "name": "One Of These Things First",
       "url": "https://open.spotify.com/track/6wuekNiL0KqFbvfdwuequN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 160925,
-      "name": "Place To Be",
-      "url": "https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF"
     },
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 160925,
+      "name": "Place To Be",
+      "url": "https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 225291,
       "name": "Hazey Jane II",
       "url": "https://open.spotify.com/track/7lDnXMcGYeGnku3H84JlQh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 176950,
-      "name": "Which Will",
-      "url": "https://open.spotify.com/track/4Cg0paoTgxlo2LC85HKaab"
     },
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 176950,
+      "name": "Which Will",
+      "url": "https://open.spotify.com/track/4Cg0paoTgxlo2LC85HKaab"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 283333,
       "name": "At The Chime Of A City Clock",
       "url": "https://open.spotify.com/track/2pcFLtTZRBbYYgXZzExUo8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 119450,
-      "name": "Road",
-      "url": "https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Making Of Five Leaves Left",
-        "url": "https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD"
+        "name": "Made To Love Magic",
+        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
       },
       "artists": [
         {
@@ -260,25 +260,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 100066,
-      "name": "Instrumental - Cambridge, Lent Term / 1968",
-      "url": "https://open.spotify.com/track/0J9G3K0eY0oCmIdCvpdB6S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bryter Layter",
-        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 268354,
-      "name": "Hazey Jane I",
-      "url": "https://open.spotify.com/track/0HheBKrZSsUVyjhUbA3Viu"
+      "duration_ms": 203986,
+      "name": "Hanging On A Star",
+      "url": "https://open.spotify.com/track/3lpkLZfD2RJltSaAGgmoxb"
     },
     {
       "added_at": null,
@@ -299,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 268354,
+      "name": "Hazey Jane I",
+      "url": "https://open.spotify.com/track/0HheBKrZSsUVyjhUbA3Viu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Five Leaves Left",
         "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
       },
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made To Love Magic",
-        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
+        "name": "The Making Of Five Leaves Left",
+        "url": "https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD"
       },
       "artists": [
         {
@@ -324,25 +324,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 203986,
-      "name": "Hanging On A Star",
-      "url": "https://open.spotify.com/track/3lpkLZfD2RJltSaAGgmoxb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bryter Layter",
-        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 176388,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/1Sxvsy65zDmyQBvak4Hc8Q"
+      "duration_ms": 100066,
+      "name": "Instrumental - Cambridge, Lent Term / 1968",
+      "url": "https://open.spotify.com/track/0J9G3K0eY0oCmIdCvpdB6S"
     },
     {
       "added_at": null,
@@ -363,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 176388,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/1Sxvsy65zDmyQBvak4Hc8Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Five Leaves Left",
         "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Making Of Five Leaves Left",
-        "url": "https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "My Love Left With The Rain - Cambridge, Lent Term / 1968",
-      "url": "https://open.spotify.com/track/5IWBbQgkXBNCmdGijw8Hpq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made To Love Magic",
         "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 151400,
       "name": "Clothes Of Sand",
       "url": "https://open.spotify.com/track/6YRcClEQPYq3yGOOgabbn3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Making Of Five Leaves Left",
+        "url": "https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "My Love Left With The Rain - Cambridge, Lent Term / 1968",
+      "url": "https://open.spotify.com/track/5IWBbQgkXBNCmdGijw8Hpq"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Making Of Five Leaves Left",
-        "url": "https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Mickey\u2019s Tune - Cambridge, Lent Term / 1968",
-      "url": "https://open.spotify.com/track/5YUnQbDO1oaHsW0aHDfqdU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made To Love Magic",
         "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 183493,
       "name": "Joey",
       "url": "https://open.spotify.com/track/5LpXrjVkXNFXIzoj5Mf5gw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Making Of Five Leaves Left",
+        "url": "https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Mickey\u2019s Tune - Cambridge, Lent Term / 1968",
+      "url": "https://open.spotify.com/track/5YUnQbDO1oaHsW0aHDfqdU"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Making Of Five Leaves Left",
-        "url": "https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 137240,
-      "name": "Mayfair - 1st Sound Techniques Session, March / 1968",
-      "url": "https://open.spotify.com/track/5t4Qxd68SqjLVwZKnAPoov"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made To Love Magic",
         "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 165986,
       "name": "Magic - Orchestrated Version 2",
       "url": "https://open.spotify.com/track/32Z3miiD5SZgaIkaGEWStf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Making Of Five Leaves Left",
+        "url": "https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 137240,
+      "name": "Mayfair - 1st Sound Techniques Session, March / 1968",
+      "url": "https://open.spotify.com/track/5t4Qxd68SqjLVwZKnAPoov"
     },
     {
       "added_at": null,

@@ -191,6 +191,28 @@
     },
     {
       "album": {
+        "name": "Adoration",
+        "url": "https://open.spotify.com/album/62rPi7vLE3GCusBcXIcAYC"
+      },
+      "artists": [
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155667,
+      "name": "Adoration",
+      "url": "https://open.spotify.com/track/47odPUY0DR9vwPK6wkWGfu"
+    },
+    {
+      "album": {
         "name": "Adoration Song (Radio Edit)",
         "url": "https://open.spotify.com/album/014LujBDnTwzCxIgyIZ6nV"
       },
@@ -2500,7 +2522,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 200724,
       "name": "Decided",
       "url": "https://open.spotify.com/track/24bnanTc0X1wQIxbFojZgc"

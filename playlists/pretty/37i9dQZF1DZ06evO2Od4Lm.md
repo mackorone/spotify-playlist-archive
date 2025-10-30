@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 
 > This is Sufjan Stevens\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,211 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,231 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 42 | [Heaven Thunder](https://open.spotify.com/track/2KFa0LSqxL20wZVeeNpVEr) | [Mina Tindle](https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Heaven Thunder](https://open.spotify.com/album/3GJsSofQBUF4fZMUIZgYnC) | 3:37 |
 | 43 | [It’s Your Own Body And Mind](https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 2:27 |
 | 44 | [Flint \(For the Unemployed and Underpaid\)](https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:43 |
-| 45 | [Abraham](https://open.spotify.com/track/4apmu4PFNpTI4nmzFodKq4) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 2:33 |
-| 46 | [City of Roses](https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Greatest Gift](https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2) | 2:14 |
-| 47 | [Video Game](https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Ascension](https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd) | 4:15 |
-| 48 | [L\-O\-V\-E \(feat\. Chrissy, Luna & Miles\)](https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Chrissy](https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf), [Luna](https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw), [MILES](https://open.spotify.com/artist/2fHmvBw01MQs9FpEaBXglg) | [My Favorite Dream](https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW) | 2:32 |
-| 49 | [Size Too Small](https://open.spotify.com/track/1XGvfHwPS6ze5drjk3fX7y) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 3:04 |
-| 50 | [Lady Macbeth In Chains](https://open.spotify.com/track/0W2a7Ga9auLPDDPQp11iDO) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 3:42 |
+| 45 | [L\-O\-V\-E \(feat\. Chrissy, Luna & Miles\)](https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Chrissy](https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf), [Luna](https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw), [MILES](https://open.spotify.com/artist/2fHmvBw01MQs9FpEaBXglg) | [My Favorite Dream](https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW) | 2:32 |
+| 46 | [Abraham](https://open.spotify.com/track/4apmu4PFNpTI4nmzFodKq4) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 2:33 |
+| 47 | [City of Roses](https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Greatest Gift](https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2) | 2:14 |
+| 48 | [Video Game](https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Ascension](https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd) | 4:15 |
+| 49 | [Lady Macbeth In Chains](https://open.spotify.com/track/0W2a7Ga9auLPDDPQp11iDO) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 3:42 |
+| 50 | [Size Too Small](https://open.spotify.com/track/1XGvfHwPS6ze5drjk3fX7y) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 3:04 |
 
-Snapshot ID: `aP62AAAAAAClp9DedhqkUZ4DV60a4joS`
+Snapshot ID: `aQAHgAAAAAAAlP+s98Gcpjq9lVYLd0QY`

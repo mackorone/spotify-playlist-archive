@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks via ZA\. Cover: Teagan
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,205 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,206 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 8 | [For A Moment](https://open.spotify.com/track/0ccr9xIrszxFYKOCOWqi3X) | [Pixie Whip](https://open.spotify.com/artist/29dQnPAvvIDHL1Gi3CFQVU) | [For A Moment](https://open.spotify.com/album/0O3VscvfgTdwTU7xnKtIoF) | 2:42 |
 | 9 | [I Know You](https://open.spotify.com/track/04DA57z0QD3huzQIZJtJKU) | [David Derman](https://open.spotify.com/artist/7wxxhtLbg3D7B6q4HsYQ3A) | [I Know You](https://open.spotify.com/album/2SyklmHFgPvKVFao1vLiVY) | 3:09 |
 | 10 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
-| 11 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
+| 11 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 |
 | 12 | [Another Realm](https://open.spotify.com/track/5rJF1IPQqg8L11Cfb2p1Uq) | [Anke Richards](https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF) | [Another Realm](https://open.spotify.com/album/25TKi0tDSUdlaytM3fDFVi) | 2:33 |
-| 13 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 |
+| 13 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
 | 14 | [Written In The Stars](https://open.spotify.com/track/4S7ogayWqM9haoU5XALdsy) | [Mikey Mike](https://open.spotify.com/artist/1ppKQgaBBIQtbKS65MDUbq) | [All Of My Tomorrows](https://open.spotify.com/album/3AM8B0FEnBnYZJw7KA0egc) | 3:34 |
 | 15 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
 | 16 | [Fix Myself](https://open.spotify.com/track/5YMo4RRV1qm0855ir87MeO) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Fix Myself](https://open.spotify.com/album/6IOlmcK8SQp9BGGoXHDSW5) | 2:42 |

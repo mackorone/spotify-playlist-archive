@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 
 > musica per quando non sai insomma come
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,872 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,875 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 | 53 | [Backstabber](https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:06 |
 | 54 | [novocaine](https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V) | [GenriX](https://open.spotify.com/artist/6hxcqtqpmf08pTDkffU5xx), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [unfortunately yours,](https://open.spotify.com/album/1fm7CNqCCdnqOoxdb23VTs) | 3:15 |
 | 55 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 |
-| 56 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/10o52EY3moL562KKhd3Cet) | 1:50 |
-| 57 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
+| 56 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
+| 57 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/10o52EY3moL562KKhd3Cet) | 1:50 |
 | 58 | [HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Rotten](https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf) | 2:19 |
 | 59 | [BABYDOLL \(Speed\)](https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL \(Speed\)](https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per) | 2:36 |
 | 60 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 |

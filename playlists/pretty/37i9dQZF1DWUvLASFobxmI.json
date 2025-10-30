@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Cornelio Vega y Su Dinast\u00eda en portada.",
-  "num_followers": 518973,
+  "num_followers": 519095,
   "original_name": "Norte\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,26 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
+        "name": "CUANDO NADIE LA VE",
+        "url": "https://open.spotify.com/album/3eocAlRtj5bR8ogB2TaSsQ"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 146417,
+      "name": "CUANDO NADIE LA VE",
+      "url": "https://open.spotify.com/track/2UWESgzYXfiraEusfJbFem"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
         "name": "Hubi\u00e9ramos",
         "url": "https://open.spotify.com/album/1xwButzEr6n5GRwaxIe7yv"
       },
@@ -439,26 +459,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "CUANDO NADIE LA VE",
-        "url": "https://open.spotify.com/album/3eocAlRtj5bR8ogB2TaSsQ"
-      },
-      "artists": [
-        {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 146417,
-      "name": "CUANDO NADIE LA VE",
-      "url": "https://open.spotify.com/track/2UWESgzYXfiraEusfJbFem"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "Pienso En Ella",
         "url": "https://open.spotify.com/album/1xucgHdQuYiGBrvrmoLnaC"
       },
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "X Perro",
-        "url": "https://open.spotify.com/album/5bneoIW82fBlBZSoSLSnE3"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 144984,
-      "name": "X Perro",
-      "url": "https://open.spotify.com/track/31YMy2oiue0habrdFfAHTC"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "Pistiando y Cantando",
         "url": "https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 184750,
       "name": "Por Que Te Vas De Mi",
       "url": "https://open.spotify.com/track/2sTtOh2i7bBe7ypfj3GUZ4"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "X Perro",
+        "url": "https://open.spotify.com/album/5bneoIW82fBlBZSoSLSnE3"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 144984,
+      "name": "X Perro",
+      "url": "https://open.spotify.com/track/31YMy2oiue0habrdFfAHTC"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -903,26 +903,18 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "NO QUE NO",
-        "url": "https://open.spotify.com/album/26GjwBUtY7YmULJpMuiWoN"
+        "name": "Atenci\u00f3n Al Cliente",
+        "url": "https://open.spotify.com/album/2KBfFANCWLTpvLUVLvl09O"
       },
       "artists": [
         {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        },
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        },
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         }
       ],
-      "duration_ms": 149655,
-      "name": "NO QUE NO",
-      "url": "https://open.spotify.com/track/4jcRduigE9cWdQ4i8TLAy4"
+      "duration_ms": 151573,
+      "name": "Al Natural",
+      "url": "https://open.spotify.com/track/3K3ZNUBVl9Stt5OXO6HdUa"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -943,18 +935,26 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Atenci\u00f3n Al Cliente",
-        "url": "https://open.spotify.com/album/2KBfFANCWLTpvLUVLvl09O"
+        "name": "NO QUE NO",
+        "url": "https://open.spotify.com/album/26GjwBUtY7YmULJpMuiWoN"
       },
       "artists": [
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        },
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        },
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
         }
       ],
-      "duration_ms": 151573,
-      "name": "Al Natural",
-      "url": "https://open.spotify.com/track/3K3ZNUBVl9Stt5OXO6HdUa"
+      "duration_ms": 149655,
+      "name": "NO QUE NO",
+      "url": "https://open.spotify.com/track/4jcRduigE9cWdQ4i8TLAy4"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Abel",
-        "url": "https://open.spotify.com/album/3slA97FYsXA3g5yEZHoy0h"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 186675,
-      "name": "Abel",
-      "url": "https://open.spotify.com/track/33P68E8DVXeEvNLbv0Ja9Y"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "Como Duele El Amor",
         "url": "https://open.spotify.com/album/7kzzev3AtySx9jOHqLca1L"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 219794,
       "name": "Como Duele El Amor",
       "url": "https://open.spotify.com/track/1Ry1bqaAcVekBCM55ZkKou"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "Abel",
+        "url": "https://open.spotify.com/album/3slA97FYsXA3g5yEZHoy0h"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "duration_ms": 186675,
+      "name": "Abel",
+      "url": "https://open.spotify.com/track/33P68E8DVXeEvNLbv0Ja9Y"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Recordando A Mis Viejos",
-        "url": "https://open.spotify.com/album/53Gr8lqnS1EIOaIXnLG2Vw"
+        "name": "El Autobus",
+        "url": "https://open.spotify.com/album/26zikaDQiAxzllZ0K7SQKL"
       },
       "artists": [
         {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+          "name": "Los Pericos Del Arroyo",
+          "url": "https://open.spotify.com/artist/7xVCS0JoEEZchIxluLJL0L"
         }
       ],
-      "duration_ms": 207498,
-      "name": "Ausencia Eterna",
-      "url": "https://open.spotify.com/track/43fY4ZQ1x3Ga0UuKazgbEJ"
+      "duration_ms": 288005,
+      "name": "El Autobus",
+      "url": "https://open.spotify.com/track/4TCQNMUgKddn5nRYxViP9e"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "El Autobus",
-        "url": "https://open.spotify.com/album/26zikaDQiAxzllZ0K7SQKL"
+        "name": "Recordando A Mis Viejos",
+        "url": "https://open.spotify.com/album/53Gr8lqnS1EIOaIXnLG2Vw"
       },
       "artists": [
         {
-          "name": "Los Pericos Del Arroyo",
-          "url": "https://open.spotify.com/artist/7xVCS0JoEEZchIxluLJL0L"
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 288005,
-      "name": "El Autobus",
-      "url": "https://open.spotify.com/track/4TCQNMUgKddn5nRYxViP9e"
+      "duration_ms": 207498,
+      "name": "Ausencia Eterna",
+      "url": "https://open.spotify.com/track/43fY4ZQ1x3Ga0UuKazgbEJ"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1735,6 +1735,22 @@
       "duration_ms": 149571,
       "name": "El Michoacano",
       "url": "https://open.spotify.com/track/3paVHrLxRcgauA9dNzzBx7"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "En Vivo Desde El Norte De Amarillo Tx (En vivo)",
+        "url": "https://open.spotify.com/album/6nlQm6z056f83MA3datYEG"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos Del Arroyo",
+          "url": "https://open.spotify.com/artist/7xVCS0JoEEZchIxluLJL0L"
+        }
+      ],
+      "duration_ms": 168468,
+      "name": "Ebrio De Amor - En vivo",
+      "url": "https://open.spotify.com/track/4dEdIGLQTLzL7w19S9pQEq"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1839,22 +1855,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "En Vivo Desde El Norte De Amarillo Tx (En vivo)",
-        "url": "https://open.spotify.com/album/6nlQm6z056f83MA3datYEG"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos Del Arroyo",
-          "url": "https://open.spotify.com/artist/7xVCS0JoEEZchIxluLJL0L"
-        }
-      ],
-      "duration_ms": 168468,
-      "name": "Ebrio De Amor - En vivo",
-      "url": "https://open.spotify.com/track/4dEdIGLQTLzL7w19S9pQEq"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "ADVERTENCIA",
         "url": "https://open.spotify.com/album/6ctY5tbGpuMzoSCPTXMLYz"
       },
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/35elhNjHYc3GBX5OqY5vrA"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Amanecer",
-          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
-        }
-      ],
-      "duration_ms": 170219,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/1djuH9QUfY6HTEZ7Z8USnD"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "Coraz\u00f3n de Oropel",
         "url": "https://open.spotify.com/album/2a3ChYHrsJ0eNYSrWMkmbP"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 181561,
       "name": "Coraz\u00f3n de Oropel",
       "url": "https://open.spotify.com/track/4ElpgolmbckWlExHAXC39m"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/35elhNjHYc3GBX5OqY5vrA"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        }
+      ],
+      "duration_ms": 170219,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/1djuH9QUfY6HTEZ7Z8USnD"
     },
     {
       "added_at": "2025-10-17 06:00:27",

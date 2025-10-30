@@ -29556,7 +29556,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 64525,
       "name": "Goosebumps Original Theme Song",
       "url": "https://open.spotify.com/track/0gs6G0qcP6yXVBntg8PC3L"
@@ -50728,7 +50728,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 317000,
       "name": "Moon (Feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4vNj2yJpYbzR04yxPrj7vi"
@@ -77606,7 +77606,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-28",
+      "date_removed": null,
       "duration_ms": 196186,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp"
@@ -77624,7 +77624,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
@@ -82516,7 +82516,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 242363,
       "name": "Wake Up Dead Man",
       "url": "https://open.spotify.com/track/1vH32FsKidox24ocf1GXFm"
@@ -86232,7 +86232,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 180604,
       "name": "Wish - Audiomack Trap Symphony Version",
       "url": "https://open.spotify.com/track/3STIi4I7eGMJJJhGRIfVli"
@@ -86428,10 +86428,28 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 321387,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/3nY6mivFNJlCGSlMW9BAFH"
+    },
+    {
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/21ZDKTMPpqMhvDqMl26wVw"
+      },
+      "artists": [
+        {
+          "name": "The Soul Jazz Era",
+          "url": "https://open.spotify.com/artist/42q0fdRod6LWe1q9EdR4SA"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321312,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/3IOtEstEhsoZLYPStcysln"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,528 likes - 92 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,530 likes - 92 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

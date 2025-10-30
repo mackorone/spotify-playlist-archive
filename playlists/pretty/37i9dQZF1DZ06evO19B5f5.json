@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAA7GIF3CIZh10v267pW48zN",
+  "snapshot_id": "aQAHgAAAAAAUF2Y4guzNhHEy0gu49efK",
   "tracks": [
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Remixes)",
-        "url": "https://open.spotify.com/album/16CuH62K4ZWOY3aUYdRuSv"
+        "name": "Isn\u2019t It Strange?",
+        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 242552,
-      "name": "Echoes - Edeema Remix",
-      "url": "https://open.spotify.com/track/43mDq73eZzHuVFB7hrEFn8"
+      "duration_ms": 196109,
+      "name": "Way Too Good",
+      "url": "https://open.spotify.com/track/1E87WkhGXw3iOn5b44NJRr"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isn\u2019t It Strange?",
-        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
+        "name": "Echoes (Remixes)",
+        "url": "https://open.spotify.com/album/16CuH62K4ZWOY3aUYdRuSv"
       },
       "artists": [
         {
@@ -232,25 +232,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 196109,
-      "name": "Way Too Good",
-      "url": "https://open.spotify.com/track/1E87WkhGXw3iOn5b44NJRr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinners",
-        "url": "https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ugly Truth",
-      "url": "https://open.spotify.com/track/7wm1gpbxjhoxhDb69LqFZg"
+      "duration_ms": 242552,
+      "name": "Echoes - Edeema Remix",
+      "url": "https://open.spotify.com/track/43mDq73eZzHuVFB7hrEFn8"
     },
     {
       "added_at": null,
@@ -271,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad People",
-        "url": "https://open.spotify.com/album/49zAhCFGgaSPWJJHUvzNec"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 196660,
-      "name": "Bad People",
-      "url": "https://open.spotify.com/track/2CMA6mhqGhVSn6EQ1StxOa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isn\u2019t It Strange?",
         "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
@@ -303,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hanging By Your Halo",
-        "url": "https://open.spotify.com/album/6928Vsp7ZijstjVHYwxmIR"
+        "name": "Sinners",
+        "url": "https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1"
       },
       "artists": [
         {
@@ -312,9 +280,25 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 195697,
-      "name": "Hanging By Your Halo",
-      "url": "https://open.spotify.com/track/0aLsrFUyCvDC2zYO2aRmMD"
+      "duration_ms": 192000,
+      "name": "Ugly Truth",
+      "url": "https://open.spotify.com/track/7wm1gpbxjhoxhDb69LqFZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad People",
+        "url": "https://open.spotify.com/album/49zAhCFGgaSPWJJHUvzNec"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 196660,
+      "name": "Bad People",
+      "url": "https://open.spotify.com/track/2CMA6mhqGhVSn6EQ1StxOa"
     },
     {
       "added_at": null,
@@ -335,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Square One",
-      "url": "https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isn\u2019t It Strange?",
         "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
@@ -367,22 +335,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "All of #OneSongAWeek",
-        "url": "https://open.spotify.com/album/2nHOL4iMiNN0Sl4oebNEsg"
+        "name": "Hanging By Your Halo",
+        "url": "https://open.spotify.com/album/6928Vsp7ZijstjVHYwxmIR"
       },
       "artists": [
-        {
-          "name": "Frank Hamilton",
-          "url": "https://open.spotify.com/artist/4h1KKGcIKkVPfuH6K7nVYa"
-        },
         {
           "name": "Lauren Aquilina",
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Flaws & Ceilings",
-      "url": "https://open.spotify.com/track/4MNTc0NKgsGQGjC4VAlDD2"
+      "duration_ms": 195697,
+      "name": "Hanging By Your Halo",
+      "url": "https://open.spotify.com/track/0aLsrFUyCvDC2zYO2aRmMD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Square One",
+      "url": "https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME"
     },
     {
       "added_at": null,
@@ -403,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isn\u2019t It Strange?",
         "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
@@ -431,6 +395,26 @@
       "duration_ms": 246888,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/1MNevc3dOPDPRZ3SinWfje"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All of #OneSongAWeek",
+        "url": "https://open.spotify.com/album/2nHOL4iMiNN0Sl4oebNEsg"
+      },
+      "artists": [
+        {
+          "name": "Frank Hamilton",
+          "url": "https://open.spotify.com/artist/4h1KKGcIKkVPfuH6K7nVYa"
+        },
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Flaws & Ceilings",
+      "url": "https://open.spotify.com/track/4MNTc0NKgsGQGjC4VAlDD2"
     },
     {
       "added_at": null,
@@ -467,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 238446,
-      "name": "Out Of Our Depth",
-      "url": "https://open.spotify.com/track/0azPcAj5JzQcpI3HTfcQmZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isn\u2019t It Strange?",
         "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
@@ -499,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Knife",
-        "url": "https://open.spotify.com/album/5lwCJrOOBc4y6xrspWuPsM"
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
       },
       "artists": [
         {
@@ -508,9 +476,25 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 176626,
-      "name": "The Knife",
-      "url": "https://open.spotify.com/track/3OUNyFSFAjddyeErrZJ4e1"
+      "duration_ms": 247000,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 238446,
+      "name": "Out Of Our Depth",
+      "url": "https://open.spotify.com/track/0azPcAj5JzQcpI3HTfcQmZ"
     },
     {
       "added_at": null,
@@ -531,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 208972,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1LDfxHCm0G2tFcX1XQimJi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isn\u2019t It Strange?",
         "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
@@ -559,6 +527,38 @@
       "duration_ms": 258598,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Knife",
+        "url": "https://open.spotify.com/album/5lwCJrOOBc4y6xrspWuPsM"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 176626,
+      "name": "The Knife",
+      "url": "https://open.spotify.com/track/3OUNyFSFAjddyeErrZJ4e1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 208972,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1LDfxHCm0G2tFcX1XQimJi"
     }
   ],
   "unique_name": "This Is Lauren Aquilina",

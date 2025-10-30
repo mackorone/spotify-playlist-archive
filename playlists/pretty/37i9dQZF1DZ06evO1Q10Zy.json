@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 37910,
+  "num_followers": 37920,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAAtpdZ10EWETR2/klgU9G4D",
+  "snapshot_id": "aQAHgAAAAACHPOPE+6KYyGVOEIZOdW15",
   "tracks": [
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Return Of The Tender Lover",
-        "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grown & Sexy",
         "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Return Of The Tender Lover",
+        "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tender Lover",
         "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
       },
@@ -811,6 +811,26 @@
       "duration_ms": 311533,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 195097,
+      "name": "Seamless (with Kehlani)",
+      "url": "https://open.spotify.com/track/6KSlgWFkrNu4r1z0GxZvyB"
     },
     {
       "added_at": null,
@@ -851,22 +871,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls Night Out",
-        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+        "name": "Grown & Sexy",
+        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
       },
       "artists": [
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 195097,
-      "name": "Seamless (with Kehlani)",
-      "url": "https://open.spotify.com/track/6KSlgWFkrNu4r1z0GxZvyB"
+      "duration_ms": 243400,
+      "name": "Grown & Sexy",
+      "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
     },
     {
       "added_at": null,
@@ -931,22 +947,6 @@
       "duration_ms": 259626,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1G4BiWFYJINM6NXJ43sWka"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grown & Sexy",
-        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 243400,
-      "name": "Grown & Sexy",
-      "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
     }
   ],
   "unique_name": "This Is Babyface",

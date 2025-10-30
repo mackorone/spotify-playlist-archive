@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 61534,
+  "num_followers": 61561,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADOp1FfhHrG8EeEM/A7w8Ml",
+  "snapshot_id": "aQAHgAAAAABFwA0gWqwa6TrJ3IAksaVh",
   "tracks": [
     {
       "added_at": null,
@@ -611,54 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Mind If I Do (Deluxe)",
-        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "Bet They're Biting",
-      "url": "https://open.spotify.com/track/2BaZmu4G5QhACqYVoK3Cek"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't My Last Rodeo",
-        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Ain\u2019t Like I Can Hide It",
-      "url": "https://open.spotify.com/track/6Snk73We1i1vuUcd2oRAOA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where Corn Don't Grow",
-        "url": "https://open.spotify.com/album/65ipgpM1Z5TmFj6AAIrP2F"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 243082,
-      "name": "Where Corn Don\u2019t Grow",
-      "url": "https://open.spotify.com/track/6jxQfS8A6yz99wXGpGCLzy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Mind If I Do",
         "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
       },
@@ -679,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ain't My Last Rodeo",
+        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Ain\u2019t Like I Can Hide It",
+      "url": "https://open.spotify.com/track/6Snk73We1i1vuUcd2oRAOA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Behind The Bar",
         "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
       },
@@ -695,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where Corn Don't Grow",
+        "url": "https://open.spotify.com/album/65ipgpM1Z5TmFj6AAIrP2F"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 243082,
+      "name": "Where Corn Don\u2019t Grow",
+      "url": "https://open.spotify.com/track/6jxQfS8A6yz99wXGpGCLzy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Mind If I Do (Deluxe)",
         "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
       },
@@ -704,9 +688,25 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 182933,
-      "name": "Turnin' Dirt",
-      "url": "https://open.spotify.com/track/1waeaqJdejQLKhuHHaL0o1"
+      "duration_ms": 204133,
+      "name": "Bet They're Biting",
+      "url": "https://open.spotify.com/track/2BaZmu4G5QhACqYVoK3Cek"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Mind If I Do",
+        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 198699,
+      "name": "Waitin' All Day",
+      "url": "https://open.spotify.com/track/23FjE9H1VxmyT6D2Q5Tf5D"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Mind If I Do",
-        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 198699,
-      "name": "Waitin' All Day",
-      "url": "https://open.spotify.com/track/23FjE9H1VxmyT6D2Q5Tf5D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Behind The Bar",
         "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 230733,
       "name": "That\u2019s What I\u2019ve Been Told",
       "url": "https://open.spotify.com/track/2TjAkXVq0SU5Q25vLXOjib"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Mind If I Do (Deluxe)",
+        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "Turnin' Dirt",
+      "url": "https://open.spotify.com/track/1waeaqJdejQLKhuHHaL0o1"
     },
     {
       "added_at": null,

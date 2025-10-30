@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! ",
-  "num_followers": 78196,
+  "num_followers": 78206,
   "original_name": "BanG Dream!",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-10-02 16:34:34",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!\u300d",
+        "url": "https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u5712\u305f\u3048(CV:\u5927\u585a\u7d17\u82f1)",
+          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!",
+      "url": "https://open.spotify.com/track/5ycmMZBbaKAISsDxA4iCE7"
+    },
+    {
+      "added_at": "2025-10-02 16:34:34",
+      "album": {
         "name": "Pastel \u00e0 la mode",
         "url": "https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu"
       },
@@ -811,22 +827,6 @@
     {
       "added_at": "2025-10-02 16:34:34",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!\u300d",
-        "url": "https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u5712\u305f\u3048(CV:\u5927\u585a\u7d17\u82f1)",
-          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!",
-      "url": "https://open.spotify.com/track/5ycmMZBbaKAISsDxA4iCE7"
-    },
-    {
-      "added_at": "2025-10-02 16:34:34",
-      "album": {
         "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093 (Cover)",
         "url": "https://open.spotify.com/album/7696xeXqso99cXbV3CfgZV"
       },
@@ -855,38 +855,6 @@
       "duration_ms": 244200,
       "name": "Crow Song - Cover",
       "url": "https://open.spotify.com/track/15rV2JsUB8w2QQP2ys5MCc"
-    },
-    {
-      "added_at": "2025-10-02 16:34:34",
-      "album": {
-        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection",
-        "url": "https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze"
-      },
-      "artists": [
-        {
-          "name": "Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "\u3075\u308f\u3075\u308f\u6642\u9593",
-      "url": "https://open.spotify.com/track/3inIDEYK6C287bLZFRqjv1"
-    },
-    {
-      "added_at": "2025-10-02 16:34:34",
-      "album": {
-        "name": "QUINTET",
-        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
-      },
-      "artists": [
-        {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
-        }
-      ],
-      "duration_ms": 252935,
-      "name": "flame of hope",
-      "url": "https://open.spotify.com/track/6jJpBqyEHynJY4AltSZ6m7"
     },
     {
       "added_at": "2025-10-02 16:34:34",
@@ -944,6 +912,38 @@
       },
       "artists": [
         {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "\u3075\u308f\u3075\u308f\u6642\u9593",
+      "url": "https://open.spotify.com/track/3inIDEYK6C287bLZFRqjv1"
+    },
+    {
+      "added_at": "2025-10-02 16:34:34",
+      "album": {
+        "name": "QUINTET",
+        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "duration_ms": 252935,
+      "name": "flame of hope",
+      "url": "https://open.spotify.com/track/6jJpBqyEHynJY4AltSZ6m7"
+    },
+    {
+      "added_at": "2025-10-02 16:34:34",
+      "album": {
+        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection",
+        "url": "https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze"
+      },
+      "artists": [
+        {
           "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
           "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
         }
@@ -967,6 +967,22 @@
       "duration_ms": 250200,
       "name": "Butter-Fly - Cover",
       "url": "https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk"
+    },
+    {
+      "added_at": "2025-10-02 16:34:34",
+      "album": {
+        "name": "\u3069\u304d\u3069\u304dSING OUT!",
+        "url": "https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm"
+      },
+      "artists": [
+        {
+          "name": "\u6238\u5c71\u9999\u6f84(CAST:\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir"
+        }
+      ],
+      "duration_ms": 249146,
+      "name": "\u3069\u304d\u3069\u304dSING OUT!",
+      "url": "https://open.spotify.com/track/6dEHqdy4TNrFgJ3U8jFY2g"
     },
     {
       "added_at": "2025-10-02 16:34:34",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2025-10-02 16:34:34",
       "album": {
-        "name": "\u3069\u304d\u3069\u304dSING OUT!",
-        "url": "https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm"
-      },
-      "artists": [
-        {
-          "name": "\u6238\u5c71\u9999\u6f84(CAST:\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir"
-        }
-      ],
-      "duration_ms": 249146,
-      "name": "\u3069\u304d\u3069\u304dSING OUT!",
-      "url": "https://open.spotify.com/track/6dEHqdy4TNrFgJ3U8jFY2g"
-    },
-    {
-      "added_at": "2025-10-02 16:34:34",
-      "album": {
         "name": "\u30b4\u30fc\u30ab!\u3054\u30fc\u304b\u3044!?\u30d5\u30a1\u30f3\u30c8\u30e0\u30b7\u30fc\u30d5!",
         "url": "https://open.spotify.com/album/0I6oM7XvOTfzCq4hmUrXFU"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-10-02 16:34:34",
       "album": {
-        "name": "Pastel \u00e0 la mode",
-        "url": "https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu"
-      },
-      "artists": [
-        {
-          "name": "Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
-        }
-      ],
-      "duration_ms": 243766,
-      "name": "\u6c17\u307e\u3050\u308c\u30ed\u30de\u30f3\u30c6\u30a3\u30c3\u30af - Cover",
-      "url": "https://open.spotify.com/track/0S93wlmiORbpfPjG4lsPKC"
-    },
-    {
-      "added_at": "2025-10-02 16:34:34",
-      "album": {
         "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
         "url": "https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 240725,
       "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
       "url": "https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd"
+    },
+    {
+      "added_at": "2025-10-02 16:34:34",
+      "album": {
+        "name": "Pastel \u00e0 la mode",
+        "url": "https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "duration_ms": 243766,
+      "name": "\u6c17\u307e\u3050\u308c\u30ed\u30de\u30f3\u30c6\u30a3\u30c3\u30af - Cover",
+      "url": "https://open.spotify.com/track/0S93wlmiORbpfPjG4lsPKC"
     },
     {
       "added_at": "2025-10-02 16:34:34",
@@ -1236,9 +1236,9 @@
           "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
         }
       ],
-      "duration_ms": 239092,
-      "name": "Symbol IV : Earth",
-      "url": "https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5"
+      "duration_ms": 285665,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/4oqU858FytlLNXhlHq6O3v"
     },
     {
       "added_at": "2025-10-02 16:34:34",
@@ -1316,9 +1316,9 @@
           "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
         }
       ],
-      "duration_ms": 285665,
-      "name": "Ether",
-      "url": "https://open.spotify.com/track/4oqU858FytlLNXhlHq6O3v"
+      "duration_ms": 239092,
+      "name": "Symbol IV : Earth",
+      "url": "https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5"
     },
     {
       "added_at": "2025-10-02 16:34:34",

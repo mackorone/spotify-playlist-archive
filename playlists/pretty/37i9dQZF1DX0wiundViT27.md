@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 
 > a dose of high\-energy alternative songs for your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,384 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,381 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 36 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA) | 2:32 |
 | 37 | [We Don't Wanna Talk](https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 2:39 |
 | 38 | [Burning Down the House](https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek) | 3:38 |
-| 39 | [Wish You The Best](https://open.spotify.com/track/1MtgVw093BemZtwbDZyHqj) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Things Are Different Now](https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg) | 2:54 |
-| 40 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
+| 39 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
+| 40 | [Wish You The Best](https://open.spotify.com/track/1MtgVw093BemZtwbDZyHqj) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Things Are Different Now](https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg) | 2:54 |
 | 41 | [S!CK](https://open.spotify.com/track/1V0zZKhkSJL8GUOERCZmxf) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 3:12 |
 | 42 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 |
 | 43 | [Typhoons](https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:56 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 57 | [Shadow in the Sun](https://open.spotify.com/track/588EtZ99qVxlMWiqRnc41x) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Garden State Vampire](https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l) | 3:11 |
 | 58 | [HandClap](https://open.spotify.com/track/0y3fi7fknIXOxnkbUgzT3n) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [HandClap](https://open.spotify.com/album/2nOO9dl8EVj6zhkis2QHr9) | 3:13 |
 | 59 | [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 |
-| 60 | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf) | 2:35 |
+| 60 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 |
 | 61 | [Life's Coming in Slow \- from GRAN TURISMO 7](https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Life's Coming in Slow \(from GRAN TURISMO 7\)](https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1) | 2:49 |
-| 62 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 |
+| 62 | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf) | 2:35 |
 | 63 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 |
 | 64 | [Someone Who Can](https://open.spotify.com/track/5Rqn1re29PkFLJBzNEcy0v) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Father of Make Believe](https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH) | 3:45 |
 | 65 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 97 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
 | 98 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 |
 | 99 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
-| 100 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 |
+| 100 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
 
 Snapshot ID: `AAAAAFJJXPHItwl8A9HIKUhlNEOCEABc`

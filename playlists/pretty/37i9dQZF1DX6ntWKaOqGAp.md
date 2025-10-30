@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Vaundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,688 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,701 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [偉生人](https://open.spotify.com/track/3g1Ca8PPhR4FBN6a66wkyq) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [偉生人](https://open.spotify.com/album/63x5RuS6pMjBokIF7E7qBw) | 3:28 |
 | 2 | [I](https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [I](https://open.spotify.com/album/2hTHXj7Y8adzK3Z49kKqbr) | 4:06 |
-| 3 | [Gravity](https://open.spotify.com/track/445l20YWwFUp9EWyNB8HeR) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [](https://open.spotify.com/album/null) | 4:26 |
+| 3 | [Gravity](https://open.spotify.com/track/445l20YWwFUp9EWyNB8HeR) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [Gravity / イノセントブルー](https://open.spotify.com/album/7kfIVD1wznLWfIzxjMuJvw) | 4:26 |
 | 4 | [Droopy Eyes](https://open.spotify.com/track/0e6gFVDT07RdwGOxBXcwAg) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Just Punk Rock!](https://open.spotify.com/album/5EfZIqlCrpsWAO7PBXLxv3) | 3:56 |
 | 5 | [Kiseki Wo Mattetatte](https://open.spotify.com/track/1zzakN2yDC8TL2tcathcO9) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Kiseki Wo Mattetatte](https://open.spotify.com/album/6NsaIlN1RzWWPj8jhgPrcQ) | 5:19 |
 | 6 | [1000日間](https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000日間](https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1) | 3:23 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 35 | [隣で](https://open.spotify.com/track/1iDoGybLQ7be9o61iLZvsS) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [隣で](https://open.spotify.com/album/41Btt7aJSTuiB83xuibMT7) | 3:42 |
 | 36 | [梅雨 \- feat.京 英一](https://open.spotify.com/track/0itAw5Q6o1y6TE1GnVPLXW) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL), [京 英一](https://open.spotify.com/artist/0cEgadwEXRPfTZ1Xtg7pFa) | [梅雨 \(feat.京 英一\)](https://open.spotify.com/album/7bkvsUBGECXAHNZzfFDKFw) | 3:51 |
 | 37 | [化け物](https://open.spotify.com/track/2E2vLhJXZPFEsy83jhqU7s) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [化け物](https://open.spotify.com/album/4J7pgtevvLL5ckPVAWIVmr) | 3:55 |
-| 38 | [My Rainy Valentine](https://open.spotify.com/track/742ExTYL23nV58aCPXLHL1) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [](https://open.spotify.com/album/null) | 3:06 |
+| 38 | [My Rainy Valentine](https://open.spotify.com/track/742ExTYL23nV58aCPXLHL1) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [Next Chapter EP](https://open.spotify.com/album/4SCIWRUVXnropcTdbHpL7R) | 3:06 |
 | 39 | [イノセントブルー](https://open.spotify.com/track/5vy2GU5ypxi4DTt8ImfDAP) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [イノセントブルー](https://open.spotify.com/album/1kWmrfi2SEltqcsJ200N44) | 3:23 |
 | 40 | [一粒](https://open.spotify.com/track/5EShSst7RocRlK7MVcGoBl) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [一粒](https://open.spotify.com/album/4PShMJwb8ZdFqPXIAXGyo7) | 3:51 |
 | 41 | [Honne](https://open.spotify.com/track/5zYYNlWxnuD5pejjZZ0B0H) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Honne](https://open.spotify.com/album/7Lu9J9lOKVFNvlrIhgzCe8) | 4:01 |
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 92 | [エンドレスサマー](https://open.spotify.com/track/68IfDjhHNu7ZWTJbc89UKs) | [suiheisen](https://open.spotify.com/artist/2JDltXALEgRIAukd403crv) | [エンドレスサマー](https://open.spotify.com/album/3NvLu5ZToQdTikFtVwHIGt) | 4:28 |
 | 93 | [Zero](https://open.spotify.com/track/7r0U4MVBcnW5IwTFyobyOZ) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [ZERO](https://open.spotify.com/album/15Hk4OVqrIY6iwbNA5ODRq) | 3:49 |
 | 94 | [君に聞きたいひとつのこと](https://open.spotify.com/track/6PAgNC3nJKQny6wHoFtN03) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [君に聞きたいひとつのこと](https://open.spotify.com/album/5bTD1CKUC4jEO0rg6Byp2J) | 5:26 |
-| 95 | [ジレンマ](https://open.spotify.com/track/6XyLt6RO5lQXoIn3XAtie2) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [](https://open.spotify.com/album/null) | 2:44 |
-| 96 | [回想列車](https://open.spotify.com/track/4T8buG0qAbXtfecgOmbhiZ) | [Reaction The Buttha](https://open.spotify.com/artist/7HT7QBLHLQ16iL4W2xjkeX) | [](https://open.spotify.com/album/null) | 2:52 |
+| 95 | [ジレンマ](https://open.spotify.com/track/6XyLt6RO5lQXoIn3XAtie2) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [Seein' Your Ghost](https://open.spotify.com/album/04XIQYcGVoEtwONIjV9DBd) | 2:44 |
+| 96 | [回想列車](https://open.spotify.com/track/4T8buG0qAbXtfecgOmbhiZ) | [Reaction The Buttha](https://open.spotify.com/artist/7HT7QBLHLQ16iL4W2xjkeX) | [still e.p](https://open.spotify.com/album/4ocodshuqc5vfV5Cd0Wdwf) | 2:52 |
 | 97 | [ロックンロール](https://open.spotify.com/track/1Z1UJEecyEfsRwfj7Oq46d) | [でかくてまるい。](https://open.spotify.com/artist/1YHfguoLRlCC98AT9H7Oti) | [ロックンロール](https://open.spotify.com/album/2hjD4nubEze2ZWXMyqtmPh) | 4:32 |
-| 98 | [フラジェール](https://open.spotify.com/track/2q2jhRt35kZFoXKA6HNxb0) | [rubens](https://open.spotify.com/artist/00hFIHBsO61UDTsJ3iym1T) | [](https://open.spotify.com/album/null) | 3:56 |
+| 98 | [フラジェール](https://open.spotify.com/track/2q2jhRt35kZFoXKA6HNxb0) | [rubens](https://open.spotify.com/artist/00hFIHBsO61UDTsJ3iym1T) | [MELT](https://open.spotify.com/album/4qTPu3k41zzLZilDNyGEyD) | 3:56 |
 | 99 | [Naked](https://open.spotify.com/track/5KGU6BgcvqmHiM7fdTHiUU) | [SHAKALABBITS](https://open.spotify.com/artist/1ibfTwhFGhVZWjOoIevFOQ) | [Naked](https://open.spotify.com/album/43Z6Pvd1VPo0uhZhHh9PBi) | 2:46 |
 | 100 | [\(AND\) NOW I SEE THE LIGHT](https://open.spotify.com/track/1CedH7KCdaEN322k8zWPU4) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [\(AND\) NOW I SEE THE LIGHT](https://open.spotify.com/album/6pJHgJfzjiRFrkdEZ4Kgg3) | 3:42 |
 

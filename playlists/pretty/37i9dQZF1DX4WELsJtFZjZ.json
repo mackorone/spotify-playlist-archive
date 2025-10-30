@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1980s. Cover: Luther Vandross",
-  "num_followers": 1602498,
+  "num_followers": 1603230,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "From Time To Time - The Singles Collection",
-        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
-      },
-      "artists": [
-        {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Every Time You Go Away - Radio Edit",
-      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 246040,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "From Time To Time - The Singles Collection",
+        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
+      },
+      "artists": [
+        {
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Every Time You Go Away - Radio Edit",
+      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 254476,
+      "name": "These Dreams",
+      "url": "https://open.spotify.com/track/22wWxHGHRH8gZXNDXRgSqY"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "What's Love Got to Do with It?",
         "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 232906,
       "name": "She's Like the Wind (feat. Wendy Fraser) - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/7BdXRaSlGAzhySfuW3y8h5"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 254476,
-      "name": "These Dreams",
-      "url": "https://open.spotify.com/track/22wWxHGHRH8gZXNDXRgSqY"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
-      },
-      "artists": [
-        {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "Who's Holding Donna Now?",
-      "url": "https://open.spotify.com/track/66rdGSb6FMm0neFXxmJdPQ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "The Immaculate Collection",
         "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 253173,
       "name": "I Don't Wanna Lose You",
       "url": "https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 267733,
+      "name": "Who's Holding Donna Now?",
+      "url": "https://open.spotify.com/track/66rdGSb6FMm0neFXxmJdPQ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Temple Of Low Men",
-        "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Better Be Home Soon",
-      "url": "https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 219893,
       "name": "Your Love Is King",
       "url": "https://open.spotify.com/track/7erXAfnatmoUow8DnbseOY"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Temple Of Low Men",
+        "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Better Be Home Soon",
+      "url": "https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "The Best Of Roxy Music",
+        "url": "https://open.spotify.com/album/6yui99cp2Q3dosoHtiPJk7"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 297306,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Cry Like a Rainstorm Howl Like the Wind",
         "url": "https://open.spotify.com/album/3f8tUCF1ThwqtNdifZiExM"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 211973,
       "name": "Don't Know Much (with Aaron Neville)",
       "url": "https://open.spotify.com/track/5z3ZDMP02xF33yCvPFnct3"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "The Best Of Roxy Music",
-        "url": "https://open.spotify.com/album/6yui99cp2Q3dosoHtiPJk7"
-      },
-      "artists": [
-        {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
-        }
-      ],
-      "duration_ms": 297306,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Simply the Best",
-        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 255186,
-      "name": "We Don't Need Another Hero (Thunderdome)",
-      "url": "https://open.spotify.com/track/1qyJ6XpMHdsJD8pkiA7Qww"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Suddenly (Expanded Edition)",
         "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 234706,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Simply the Best",
+        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 255186,
+      "name": "We Don't Need Another Hero (Thunderdome)",
+      "url": "https://open.spotify.com/track/1qyJ6XpMHdsJD8pkiA7Qww"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Turn Back The Clock",
-        "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hates Jazz",
-          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
-        }
-      ],
-      "duration_ms": 270133,
-      "name": "Turn Back The Clock",
-      "url": "https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "The Essential Cyndi Lauper",
         "url": "https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 241160,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Turn Back The Clock",
+        "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hates Jazz",
+          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
+        }
+      ],
+      "duration_ms": 270133,
+      "name": "Turn Back The Clock",
+      "url": "https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Will To Power",
-        "url": "https://open.spotify.com/album/39hl8vZno6XTES8Drko8uw"
-      },
-      "artists": [
-        {
-          "name": "Will To Power",
-          "url": "https://open.spotify.com/artist/63I04Kj1gXC1LLSVcrOzLN"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Baby, I Love Your Way/Freebird",
-      "url": "https://open.spotify.com/track/0kzSooCGpuphLwn8iTuO9h"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Tug Of War",
         "url": "https://open.spotify.com/album/5g5wxDWLoyR1wyPjGTiD7n"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 226266,
       "name": "Ebony And Ivory - Remixed 2015",
       "url": "https://open.spotify.com/track/3fVSMbeq8tY3G85yxcJwRU"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Will To Power",
+        "url": "https://open.spotify.com/album/39hl8vZno6XTES8Drko8uw"
+      },
+      "artists": [
+        {
+          "name": "Will To Power",
+          "url": "https://open.spotify.com/artist/63I04Kj1gXC1LLSVcrOzLN"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Baby, I Love Your Way/Freebird",
+      "url": "https://open.spotify.com/track/0kzSooCGpuphLwn8iTuO9h"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Black & White (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 231960,
-      "name": "Slow Hand",
-      "url": "https://open.spotify.com/track/3fvDLsiTHPQNgzuMd3Mpb5"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Don't Be Cruel",
         "url": "https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 289533,
       "name": "Rock Wit'cha",
       "url": "https://open.spotify.com/track/7BVMXNnQSswMX8IJeZUb5T"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Black & White (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 231960,
+      "name": "Slow Hand",
+      "url": "https://open.spotify.com/track/3fvDLsiTHPQNgzuMd3Mpb5"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2407,6 +2407,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Being With You",
+        "url": "https://open.spotify.com/album/0QsTRgdl6PSinBK7sElqun"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "Being With You",
+      "url": "https://open.spotify.com/track/5khAYmr8HHFwI3sp0Lw9wp"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Gideon",
         "url": "https://open.spotify.com/album/5bxzSTp85ypZnJHFBD3lNb"
       },
@@ -2423,22 +2439,6 @@
       "duration_ms": 222066,
       "name": "Don't Fall In Love With A Dreamer",
       "url": "https://open.spotify.com/track/6xSrfSM8IvRPzwbC4VjBcg"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Being With You",
-        "url": "https://open.spotify.com/album/0QsTRgdl6PSinBK7sElqun"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "Being With You",
-      "url": "https://open.spotify.com/track/5khAYmr8HHFwI3sp0Lw9wp"
     },
     {
       "added_at": "2023-01-24 23:00:00",

@@ -1,13 +1,61 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Ruby Plume. Artwork by Paola Saliby",
-  "num_followers": 230436,
+  "description": "The best new pop music from new, independent artists.  Cover: Karly Bowman. Artwork by Paola Saliby",
+  "num_followers": 230462,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGEVZymq8aeVDJxD7XMyzGhAc9Xz",
+  "snapshot_id": "AAAAAFhAdoRHFTsXTijdZxGALXIF7P8Z",
   "tracks": [
+    {
+      "added_at": "2025-10-29 04:00:33",
+      "album": {
+        "name": "In My Sleep",
+        "url": "https://open.spotify.com/album/2ceea7b3XHoKXbljZcYSbM"
+      },
+      "artists": [
+        {
+          "name": "Karly Bowman",
+          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
+        }
+      ],
+      "duration_ms": 202060,
+      "name": "In My Sleep",
+      "url": "https://open.spotify.com/track/46LKpy0VOIcUOn9jJhCtTZ"
+    },
+    {
+      "added_at": "2025-10-29 04:00:33",
+      "album": {
+        "name": "Sunny in London",
+        "url": "https://open.spotify.com/album/4oOK9PHAHf4fIlsubcXkHQ"
+      },
+      "artists": [
+        {
+          "name": "Izzy Escobar",
+          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
+        }
+      ],
+      "duration_ms": 229816,
+      "name": "Jackie O",
+      "url": "https://open.spotify.com/track/2YNPU4y8Zs3S3PdFmj1NNO"
+    },
+    {
+      "added_at": "2025-10-29 04:00:33",
+      "album": {
+        "name": "I hate goodbyes",
+        "url": "https://open.spotify.com/album/7hYJX6m92wDB9cnpNgswmb"
+      },
+      "artists": [
+        {
+          "name": "Maddie Ashman",
+          "url": "https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO"
+        }
+      ],
+      "duration_ms": 229484,
+      "name": "I hate goodbyes",
+      "url": "https://open.spotify.com/track/3kbsuPKsw05zfL9Pk8htLV"
+    },
     {
       "added_at": "2025-10-15 04:00:14",
       "album": {

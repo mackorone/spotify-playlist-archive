@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ0ewkTmTo2.md) - [plain]
 
 > Get ready to sing your hearts out with these family friendly road trip classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,497 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,524 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ0ewkTmTo2.md) - [plain]
 | 47 | [Mammas Don't Let Your Babies Grow up to Be Cowboys](https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:32 |
 | 48 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
 | 49 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
-| 50 | [Nice to Meet You](https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 3:10 |
+| 50 | [Take Me to the Beach](https://open.spotify.com/track/2Wop6FEmIstWTMeQb0TXcw) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:47 |
 | 51 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
-| 52 | [I Want It That Way](https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [The Hits\-\-Chapter One](https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r) | 3:33 |
-| 53 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 |
+| 52 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 |
+| 53 | [I Want It That Way](https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [The Hits\-\-Chapter One](https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r) | 3:33 |
 | 54 | [All For You](https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [...Somewhere More Familiar](https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ) | 3:38 |
-| 55 | [Take Me to the Beach](https://open.spotify.com/track/2Wop6FEmIstWTMeQb0TXcw) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:47 |
+| 55 | [Nice to Meet You](https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 3:10 |
 | 56 | [Thank God I'm a Country Boy](https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:13 |
 | 57 | [American Pie](https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [The Best Of Don McLean](https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl) | 8:35 |
 | 58 | [September](https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September](https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd) | 3:35 |
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ0ewkTmTo2.md) - [plain]
 | 71 | [Send Me On My Way](https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [The Best Of / 20th Century Masters The Millennium Collection](https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR) | 4:21 |
 | 72 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/6yEAAIEHu4GcUFptg5W9kI) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [The Breakfast Club](https://open.spotify.com/album/2yrEJ5xNvTdEEFuTtcku9M) | 4:20 |
 | 73 | [Wouldn't It Be Nice \- Remastered 1999](https://open.spotify.com/track/0cx32rX0uZvcJUP92Wkj2y) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys Love Songs](https://open.spotify.com/album/4NnBDxnxiiXiMlssBi9Bsq) | 2:25 |
-| 74 | [I Don't Want to Be](https://open.spotify.com/track/6ich2xMH5AR39V85miIAN8) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot \- Stripped](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) | 3:37 |
-| 75 | [Tubthumping](https://open.spotify.com/track/2JLRcAkPB8JZIIohZarVTr) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [All\-Star Sports Jams](https://open.spotify.com/album/79sAKFjr7TWKw6A94kBKPL) | 3:32 |
+| 74 | [Tubthumping](https://open.spotify.com/track/2JLRcAkPB8JZIIohZarVTr) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [All\-Star Sports Jams](https://open.spotify.com/album/79sAKFjr7TWKw6A94kBKPL) | 3:32 |
+| 75 | [I Don't Want to Be](https://open.spotify.com/track/6ich2xMH5AR39V85miIAN8) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot \- Stripped](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) | 3:37 |
 | 76 | [On the Road Again](https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Forrest Gump \- The Soundtrack](https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk) | 2:28 |
-| 77 | [One Way Or Another](https://open.spotify.com/track/3DiRdaZtPrVdb4U2RIuRWm) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 3:28 |
-| 78 | [Rainbow Connection](https://open.spotify.com/track/1SJ4ycWow4yz6z4oFz8NAG) | [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu) | [The Muppets \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50) | 3:08 |
+| 77 | [Rainbow Connection](https://open.spotify.com/track/1SJ4ycWow4yz6z4oFz8NAG) | [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu) | [The Muppets \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50) | 3:08 |
+| 78 | [One Way Or Another](https://open.spotify.com/track/3DiRdaZtPrVdb4U2RIuRWm) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 3:28 |
 | 79 | [Life is a Highway \- From "Cars"](https://open.spotify.com/track/5YbeJyTQkdSAWe1Ie4sLAl) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Disney/Pixar Greatest](https://open.spotify.com/album/4Tf4nzRuf5W3EvHqigxcmv) | 4:36 |
 | 80 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/3vhJw6V39Gh1PpEMHjiMFO) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 3:31 |
 

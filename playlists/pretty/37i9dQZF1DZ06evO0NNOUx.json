@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 161974,
+  "num_followers": 162278,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADXXYvUiNSXUI7PIGwmSG/k",
+  "snapshot_id": "aQAHgAAAAAD206s9mTbcwUw56/TESoZb",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KEEP IT SIMPLE",
+        "url": "https://open.spotify.com/album/158fyQIUL3fFwVlmC9BxkR"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 140813,
+      "name": "KEEP IT SIMPLE",
+      "url": "https://open.spotify.com/track/1FkxNyq6WAGDvdZ1zjURFz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHILD OF GOD II",
         "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 118000,
       "name": "NOTHING ELSE",
       "url": "https://open.spotify.com/track/10ngdDwCfjLTdFqDnkE2Jg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KEEP IT SIMPLE",
-        "url": "https://open.spotify.com/album/158fyQIUL3fFwVlmC9BxkR"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 140813,
-      "name": "KEEP IT SIMPLE",
-      "url": "https://open.spotify.com/track/1FkxNyq6WAGDvdZ1zjURFz"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALL THE TIME",
-        "url": "https://open.spotify.com/album/51tsjSE6RzCUli9QafZsH2"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 168421,
-      "name": "ALL THE TIME",
-      "url": "https://open.spotify.com/track/56YasbqXFzP3ErHyhLtn26"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOVE IT!",
         "url": "https://open.spotify.com/album/5DppqyfNhiABXmN6lrrmnk"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 174673,
       "name": "MOVE IT!",
       "url": "https://open.spotify.com/track/6dZs0oUsbP92TrYTjgT0WQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALL THE TIME",
+        "url": "https://open.spotify.com/album/51tsjSE6RzCUli9QafZsH2"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "ALL THE TIME",
+      "url": "https://open.spotify.com/track/56YasbqXFzP3ErHyhLtn26"
     },
     {
       "added_at": null,

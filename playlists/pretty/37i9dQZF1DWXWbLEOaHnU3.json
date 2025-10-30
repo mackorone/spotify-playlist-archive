@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 587024,
+  "num_followers": 587097,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Ameno",
+        "url": "https://open.spotify.com/album/4JDtYMAj4gRrKAdWXuGqTT"
+      },
+      "artists": [
+        {
+          "name": "I.GOT.U",
+          "url": "https://open.spotify.com/artist/5hxkmR1SqWzX1fj0Z6kDBJ"
+        },
+        {
+          "name": "RAVE-N",
+          "url": "https://open.spotify.com/artist/5hBMAPBvkQALF1rtGWFtUe"
+        }
+      ],
+      "duration_ms": 156827,
+      "name": "Ameno",
+      "url": "https://open.spotify.com/track/7MDppFVchHTvTRvr4q69z8"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "All One",
         "url": "https://open.spotify.com/album/2lKHitO3IUyPXcHJDoJ29g"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 223561,
       "name": "All One",
       "url": "https://open.spotify.com/track/3qKMjxwl4vD042sGUDzTpx"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Ameno",
-        "url": "https://open.spotify.com/album/4JDtYMAj4gRrKAdWXuGqTT"
-      },
-      "artists": [
-        {
-          "name": "I.GOT.U",
-          "url": "https://open.spotify.com/artist/5hxkmR1SqWzX1fj0Z6kDBJ"
-        },
-        {
-          "name": "RAVE-N",
-          "url": "https://open.spotify.com/artist/5hBMAPBvkQALF1rtGWFtUe"
-        }
-      ],
-      "duration_ms": 156827,
-      "name": "Ameno",
-      "url": "https://open.spotify.com/track/7MDppFVchHTvTRvr4q69z8"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -731,26 +731,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/1lai8kxcQGXWCi8aExE4Iz"
-      },
-      "artists": [
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Mira Feder",
-          "url": "https://open.spotify.com/artist/28UIxSdXGIfySXK5bWtnHL"
-        }
-      ],
-      "duration_ms": 201739,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/16V8meQabrUEUI5GRC8x4K"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Aliyu",
         "url": "https://open.spotify.com/album/7LN85I2vF2ogylhUePHpsY"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 231000,
       "name": "Aliyu",
       "url": "https://open.spotify.com/track/6UO97Q5Rbg7iLAcIiAIZHr"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/1lai8kxcQGXWCi8aExE4Iz"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Mira Feder",
+          "url": "https://open.spotify.com/artist/28UIxSdXGIfySXK5bWtnHL"
+        }
+      ],
+      "duration_ms": 201739,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/16V8meQabrUEUI5GRC8x4K"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Other Days",
-        "url": "https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS"
-      },
-      "artists": [
-        {
-          "name": "Ghost Rider",
-          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
-        },
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        }
-      ],
-      "duration_ms": 245357,
-      "name": "Other Days",
-      "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Stoned (Zanon Remix)",
         "url": "https://open.spotify.com/album/5mynN4RHssWZ4ec1sQm3cM"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 334647,
       "name": "Stoned (Zanon Remix)",
       "url": "https://open.spotify.com/track/3I1WerQ2Qm0dRlklDvOXaH"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Other Days",
+        "url": "https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS"
+      },
+      "artists": [
+        {
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+        },
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        }
+      ],
+      "duration_ms": 245357,
+      "name": "Other Days",
+      "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
     },
     {
       "added_at": "2025-08-15 04:00:20",

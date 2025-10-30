@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 212601,
+  "num_followers": 212592,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,30 @@
     {
       "added_at": "2025-10-24 07:37:56",
       "album": {
+        "name": "HYSJ (ICED)",
+        "url": "https://open.spotify.com/album/5XfBIt784dpEj7JMVAmx81"
+      },
+      "artists": [
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        },
+        {
+          "name": "Krobbe",
+          "url": "https://open.spotify.com/artist/7GXGB5x4GvnZpl7AnjM3Ej"
+        },
+        {
+          "name": "UGANG",
+          "url": "https://open.spotify.com/artist/68NG7HHIQ3vm9DGnWE52gE"
+        }
+      ],
+      "duration_ms": 148404,
+      "name": "HYSJ (ICED)",
+      "url": "https://open.spotify.com/track/3JXoRVmB1XBRx28aP8OoRJ"
+    },
+    {
+      "added_at": "2025-10-24 07:37:56",
+      "album": {
         "name": "fairytale",
         "url": "https://open.spotify.com/album/0GhZQH23THeKz9bXubBEyv"
       },
@@ -755,22 +779,6 @@
       "duration_ms": 149538,
       "name": "fairytale",
       "url": "https://open.spotify.com/track/31hPMfO7V6NNkIGnnqZbD1"
-    },
-    {
-      "added_at": "2025-10-24 07:37:56",
-      "album": {
-        "name": "On One",
-        "url": "https://open.spotify.com/album/0piWOK8MKvsOxL3FNYOLFY"
-      },
-      "artists": [
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 163364,
-      "name": "On One",
-      "url": "https://open.spotify.com/track/3fn6702K3cgeHDNqtMFtSW"
     },
     {
       "added_at": "2025-10-24 07:37:56",
@@ -795,6 +803,22 @@
     {
       "added_at": "2025-10-24 07:37:56",
       "album": {
+        "name": "On One",
+        "url": "https://open.spotify.com/album/0piWOK8MKvsOxL3FNYOLFY"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 163364,
+      "name": "On One",
+      "url": "https://open.spotify.com/track/3fn6702K3cgeHDNqtMFtSW"
+    },
+    {
+      "added_at": "2025-10-24 07:37:56",
+      "album": {
         "name": "En Vakker Dag",
         "url": "https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB"
       },
@@ -807,30 +831,6 @@
       "duration_ms": 150000,
       "name": "En Vakker Dag",
       "url": "https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8"
-    },
-    {
-      "added_at": "2025-10-24 07:37:56",
-      "album": {
-        "name": "HYSJ (ICED)",
-        "url": "https://open.spotify.com/album/5XfBIt784dpEj7JMVAmx81"
-      },
-      "artists": [
-        {
-          "name": "Den BB",
-          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
-        },
-        {
-          "name": "Krobbe",
-          "url": "https://open.spotify.com/artist/7GXGB5x4GvnZpl7AnjM3Ej"
-        },
-        {
-          "name": "UGANG",
-          "url": "https://open.spotify.com/artist/68NG7HHIQ3vm9DGnWE52gE"
-        }
-      ],
-      "duration_ms": 148404,
-      "name": "HYSJ (ICED)",
-      "url": "https://open.spotify.com/track/3JXoRVmB1XBRx28aP8OoRJ"
     },
     {
       "added_at": "2025-10-24 07:37:56",

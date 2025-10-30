@@ -4,7 +4,7 @@
 
 > did your boots start working?
 
-66 songs - 3 hr 48 min
+67 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Country Girl \(Shake It For Me\)](https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe) | 3:45 | 2024-04-02 |  |
 | [Cupid Shuffle](https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:51 | 2024-04-02 |  |
 | [Daddy Lessons](https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 4:47 | 2024-04-02 | 2024-08-10 |
+| [Damn I Love Miami](https://open.spotify.com/track/7t1SuBddByBghdAD47acYa) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Damn I Love Miami](https://open.spotify.com/album/2WzCFW3ywduzHLbPNMrzji) | 2:41 | 2025-10-29 |  |
 | [Dirrty \(feat\. Redman\)](https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:58 | 2024-04-02 |  |
 | [Don't Tell Me](https://open.spotify.com/track/7DOtIhTTpPZyjvbO509hSC) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/3e3PxWKqv7lyZaR5d02abW) | 4:40 | 2024-04-02 |  |
 | [Drinkin' Problem](https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 3:40 | 2024-04-02 |  |

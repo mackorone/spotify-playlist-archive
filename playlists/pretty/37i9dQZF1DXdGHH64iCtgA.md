@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,231 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,273 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 38 | [they told us it was hard, but they were wrong.](https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 6:00 |
 | 39 | [Woodpecker](https://open.spotify.com/track/2ZLX6RCcJLp4uoIH2CwivA) | [Castelle](https://open.spotify.com/artist/4EDL1aHoT46jRLUjubeVNM) | [Woodpecker](https://open.spotify.com/album/0JygTmxFm484atUuryZF2F) | 3:26 |
 | 40 | [TASTY \- Boys Noize Remix](https://open.spotify.com/track/4InDcTU0WkizVukh4Yua0Q) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [TASTY](https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB) | 3:50 |
-| 41 | [collect$$$save](https://open.spotify.com/track/1vMvlL0V2ulcClCfSDmZ8t) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2), [Funkywhat](https://open.spotify.com/artist/4TJJXS1c48aAOf4XcClVYG) | [collect$$$save](https://open.spotify.com/album/1ktAR5Cnf75Cbgxii215PY) | 3:35 |
-| 42 | [Lune est l'autre](https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:53 |
+| 41 | [Lune est l'autre](https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:53 |
+| 42 | [collect$$$save](https://open.spotify.com/track/1vMvlL0V2ulcClCfSDmZ8t) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2), [Funkywhat](https://open.spotify.com/artist/4TJJXS1c48aAOf4XcClVYG) | [collect$$$save](https://open.spotify.com/album/1ktAR5Cnf75Cbgxii215PY) | 3:35 |
 | 43 | [VSOD \- Velvet Sky of Dreams](https://open.spotify.com/track/7D0e3LOMtsHW6Xalv2Tvln) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [VSOD \(Velvet Sky of Dreams\)](https://open.spotify.com/album/1QDtmg8XzUxVFEW9v3tWbK) | 5:42 |
 | 44 | [Strut](https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Strut](https://open.spotify.com/album/7BlIfuZ7PO07szpAjTCKKa) | 3:05 |
 | 45 | [Return to Oz](https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic](https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8) | 7:12 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 95 | [Indie Circus \(feat\. Seafoam Walls\)](https://open.spotify.com/track/6uIO7LPCT5kJ0ivimi1svB) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Sea Foam Walls](https://open.spotify.com/artist/32KC7H62jmp0JsyUPQVexO) | [B.E.M 2.0](https://open.spotify.com/album/1OXyE2AruMF6KLzbONrmLn) | 1:57 |
 | 96 | [LOFF IS ALL YOU SPEED](https://open.spotify.com/track/0rcUKid4bfrHeWu4feQQ9H) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [SITA](https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI) | [LOFF IS ALL YOU SPEED](https://open.spotify.com/album/5q8Bg4uE1LMUDxQPdalwiT) | 3:03 |
 | 97 | [Eatin' Good](https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ) | [Woodcamp](https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3) | [Eatin' Good](https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB) | 3:41 |
-| 98 | [Mount Everest](https://open.spotify.com/track/18wCJcoFmXZ0jfrFhF6cYS) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Mount Everest](https://open.spotify.com/album/0nkyBztSulCRM2vlPR2GF1) | 2:37 |
-| 99 | [I Go \- Soulwax Remix](https://open.spotify.com/track/577TxxoJTaW1BxH6EUDlTS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 6:50 |
+| 98 | [Pain In The Ass \- Original Mix](https://open.spotify.com/track/5WsDRf1ldzeP97rs7lhSDi) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Pain In The Ass](https://open.spotify.com/album/2l263dfPVQ4prf1z2cwqbz) | 6:40 |
+| 99 | [Mount Everest](https://open.spotify.com/track/18wCJcoFmXZ0jfrFhF6cYS) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Mount Everest](https://open.spotify.com/album/0nkyBztSulCRM2vlPR2GF1) | 2:37 |
 | 100 | [Solitary Daze](https://open.spotify.com/track/7vqcDtNvoJn5pXhktc8qe8) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX) | [Solitary Daze](https://open.spotify.com/album/462nMAgJr4l14IqVngpOXM) | 7:43 |
 
 Snapshot ID: `AAAAAPavPfAKNFgdiSWsQq6mq6KAcxuH`

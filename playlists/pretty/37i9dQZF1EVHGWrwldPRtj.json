@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIYcZwbbjckJd>Radiohead</a>, <a href=spotify:playlist:37i9dQZF1EIW59fyjC7s7V>Alex Warren</a>, <a href=spotify:playlist:37i9dQZF1EIX3vr6UVonYQ>Sabrina Carpenter</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIV1hAnuH1ilI>Justin Bieber</a>, <a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a>, <a href=spotify:playlist:37i9dQZF1EIUxlbpoABDJj>wifiskeleton</a> and more",
   "num_followers": 0,
   "original_name": "Chill Mix",
   "owner": {
@@ -11,50 +11,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 229120,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
+      "duration_ms": 163866,
+      "name": "YUKON",
+      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
     },
     {
       "added_at": null,
       "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 189553,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+      "duration_ms": 272394,
+      "name": "Do I Wanna Know?",
+      "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+        "name": "suburban daredevil",
+        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "wifiskeleton",
+          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
+        },
+        {
+          "name": "i wanna be a jack-o-lantern",
+          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
         }
       ],
-      "duration_ms": 183770,
-      "name": "Sugar Talking",
-      "url": "https://open.spotify.com/track/5B3GZOZYXNzWpUXQC42hxZ"
+      "duration_ms": 90067,
+      "name": "Nope your too late i already died",
+      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
     },
     {
       "added_at": null,
@@ -103,42 +107,6 @@
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "suburban daredevil",
-        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
-      },
-      "artists": [
-        {
-          "name": "wifiskeleton",
-          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
-        },
-        {
-          "name": "i wanna be a jack-o-lantern",
-          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
-        }
-      ],
-      "duration_ms": 90067,
-      "name": "Nope your too late i already died",
-      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
     },
     {
       "added_at": null,
@@ -335,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 209831,
-      "name": "Best Part (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -383,6 +331,26 @@
       "duration_ms": 211140,
       "name": "Heart To Heart",
       "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 209831,
+      "name": "Best Part (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON"
     },
     {
       "added_at": null,
@@ -455,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -503,38 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 248807,
-      "name": "White Ferrari",
-      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "YUKON",
-      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lady Lady",
         "url": "https://open.spotify.com/album/04a0v7o8qpGSWDdDoXnLf1"
       },
@@ -547,6 +499,22 @@
       "duration_ms": 301893,
       "name": "Tadow",
       "url": "https://open.spotify.com/track/6FMMd1fixOMmhplCevpjL7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 248807,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
     },
     {
       "added_at": null,
@@ -615,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get You - Single",
-        "url": "https://open.spotify.com/album/5QHoG6laR98M4SZumgSLkB"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 270556,
-      "name": "Japanese Denim",
-      "url": "https://open.spotify.com/track/7IVukH71OXfAu3KudrrizN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"Awaken, My Love!\"",
         "url": "https://open.spotify.com/album/4JCybsNZUXWrK2Jpyn12Ni"
       },
@@ -659,6 +611,22 @@
       "duration_ms": 182306,
       "name": "For the First Time",
       "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get You - Single",
+        "url": "https://open.spotify.com/album/5QHoG6laR98M4SZumgSLkB"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 270556,
+      "name": "Japanese Denim",
+      "url": "https://open.spotify.com/track/7IVukH71OXfAu3KudrrizN"
     },
     {
       "added_at": null,
@@ -731,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Folded",
         "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
       },
@@ -779,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Show Me How",
         "url": "https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ"
       },
@@ -811,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     }
   ],
   "unique_name": "Chill Mix",

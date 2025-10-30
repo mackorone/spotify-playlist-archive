@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342 likes - 104 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 343 likes - 104 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 62 | [Temporary Fix](https://open.spotify.com/track/04ttk2TXHyDsQyp9g6EcdX) | [Dirty Blond](https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM) | [Temporary Fix](https://open.spotify.com/album/4TexJNS9hSTmRILQTSZkcH) | 3:27 |
 | 63 | [Count on Me](https://open.spotify.com/track/0GMmYmTC96fkUncw2frsiy) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [The Trouble with Boys](https://open.spotify.com/album/2UtkESQfPycoEra0XYvys2) | 3:23 |
 | 64 | [Boots and Cats](https://open.spotify.com/track/0EFAopGK0UWb7HMxUjcm0o) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Boots and Cats](https://open.spotify.com/album/15O1SZPiniUiioSioz9Aqq) | 2:25 |
-| 65 | [Alright](https://open.spotify.com/track/3lxLYA80tPMvpni048At5z) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Alright](https://open.spotify.com/album/6MNH5j7RV1tvYBIhPBR76x) | 2:23 |
+| 65 | [Alright](https://open.spotify.com/track/3lxLYA80tPMvpni048At5z) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Alright](https://open.spotify.com/album/6MNH5j7RV1tvYBIhPBR76x) | 2:22 |
 | 66 | [Circles](https://open.spotify.com/track/72na5hu1cHuifzVAPmYCLj) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Circles](https://open.spotify.com/album/2jYKPul21QiYqfFFfyO3KI) | 2:32 |
 | 67 | [Kid At Christmas](https://open.spotify.com/track/6gLlky9cJnppnVKGhvIs90) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Kid At Christmas](https://open.spotify.com/album/4u4yPCB9hXXFYs3A0yKJki) | 3:33 |
 | 68 | [Dancing with You](https://open.spotify.com/track/0p8Hgkkya6bsENOHhmOO1G) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [The Trouble with Boys](https://open.spotify.com/album/2UtkESQfPycoEra0XYvys2) | 3:18 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 103 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
 | 104 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AcAGfgAAAADYjPOeX4JOnMvU9ad9rOvE`
+Snapshot ID: `AcAMWgAAAAAmebWbJE9epmIELFFFd6pp`

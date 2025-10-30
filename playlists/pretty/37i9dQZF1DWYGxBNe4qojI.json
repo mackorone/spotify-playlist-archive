@@ -1,6 +1,6 @@
 {
   "description": "Where it all started. Cover: Jadakiss",
-  "num_followers": 427843,
+  "num_followers": 427937,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-06-01 15:32:33",
       "album": {
+        "name": "The Infamous",
+        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Survival of the Fittest",
+      "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
+    },
+    {
+      "added_at": "2024-06-01 15:32:33",
+      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 226933,
       "name": "Ready or Not",
       "url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp"
-    },
-    {
-      "added_at": "2024-06-01 15:32:33",
-      "album": {
-        "name": "The Infamous",
-        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        }
-      ],
-      "duration_ms": 224533,
-      "name": "Survival of the Fittest",
-      "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
     },
     {
       "added_at": "2024-06-01 15:32:33",

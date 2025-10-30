@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,045 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,058 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 12 | [C.H.S.M](https://open.spotify.com/track/11gvUHIxBEnsCn8sAltFmf) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [C.H.S.M](https://open.spotify.com/album/6WhE39eYeHUcjNuvjoRRVg) | 2:18 |
 | 13 | [Relojito Adiamantado](https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Niño De Oro](https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ) | 2:57 |
 | 14 | [Y Ahora Resulta](https://open.spotify.com/track/42JZ64v29QIWl1U2P6XO62) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Y Ahora Resulta](https://open.spotify.com/album/66WV0hFPUtxWtTwSAzr4ig) | 3:33 |
-| 15 | [D.M.8.](https://open.spotify.com/track/5FlA2DSMSewJsrR00Q9IdZ) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [D.M.8.](https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ) | 4:31 |
-| 16 | [De A De Veras](https://open.spotify.com/track/3C2wa3nyaZl7CCbW9N3oAg) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:42 |
+| 15 | [De A De Veras](https://open.spotify.com/track/3C2wa3nyaZl7CCbW9N3oAg) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:42 |
+| 16 | [D.M.8.](https://open.spotify.com/track/5FlA2DSMSewJsrR00Q9IdZ) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [D.M.8.](https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ) | 4:31 |
 | 17 | [AMOR LIMOSNERO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 4:02 |
 | 18 | [Hablen](https://open.spotify.com/track/6g5tBAygpCM1RSF4igf5j9) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 2:43 |
 | 19 | [Mexican Flan](https://open.spotify.com/track/5EnoBLm3M7rN7XWQ1nfhXv) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 49 | [Gabachas](https://open.spotify.com/track/2R0ElsGmqt2dWLHWcRMbeN) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO) | [Gabachas](https://open.spotify.com/album/4TOQI9fuLr1WOpJ1GSFrJJ) | 2:07 |
 | 50 | [Tierno](https://open.spotify.com/track/4q3WSd89URSGHjMEuZRnCY) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Tierno](https://open.spotify.com/album/4nWpgMsz8BblhTRxZSIohi) | 2:18 |
 
-Snapshot ID: `aP62AAAAAACwCjszRRDNqWG80D6/d7e6`
+Snapshot ID: `aQAHgAAAAACC4owoVQrrbTsBtzZdgdX+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,687 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,753 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 13 | [Angst](https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:44 |
 | 14 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 |
 | 15 | [Wish](https://open.spotify.com/track/0XfNjyJcb7d2ZAscVM4K7J) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Broken](https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw) | 3:46 |
-| 16 | [I'm With Stupid](https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 3:24 |
-| 17 | [mOBSCENE](https://open.spotify.com/track/1YVuJrfHHmD4ilULhAVqPW) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The Golden Age Of Grotesque](https://open.spotify.com/album/3KExM8E3KgpsS2bHVSJzTc) | 3:25 |
+| 16 | [mOBSCENE](https://open.spotify.com/track/1YVuJrfHHmD4ilULhAVqPW) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The Golden Age Of Grotesque](https://open.spotify.com/album/3KExM8E3KgpsS2bHVSJzTc) | 3:25 |
+| 17 | [I'm With Stupid](https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 3:24 |
 | 18 | [Zeig dich](https://open.spotify.com/track/3d3k8g4GTVx9EFIFlOZOEX) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:15 |
 | 19 | [Bombshell](https://open.spotify.com/track/2yY4ojg6wfEFBGVZoJuXqK) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Anyone For Doomsday?](https://open.spotify.com/album/5H2p4hpkLk7JgZrjj79Q4Y) | 3:14 |
 | 20 | [We're In This Together](https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 7:16 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 35 | [DEGENERATE](https://open.spotify.com/track/4xzPvogI6M8kJ1kPr7IrkO) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [DEGENERATE](https://open.spotify.com/album/4msDecysbB1ZE7hjrbrnib) | 3:36 |
 | 36 | [After the Flesh](https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 2:59 |
 | 37 | [Assimilate](https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF) | [Skinny Puppy](https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns) | [Bites](https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA) | 6:56 |
-| 38 | [Guilty](https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:02 |
+| 38 | [Jagdzeit](https://open.spotify.com/track/1mTCbTpcM1nKkH0wGf70Zq) | [Megaherz](https://open.spotify.com/artist/4tM8qmqg5cEZPHNLNQwHeb) | [Götterdämmerung](https://open.spotify.com/album/4JL1w8tZb0C07FcLYQROra) | 4:18 |
 | 39 | [Thieves](https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [The Mind Is a Terrible Thing to Taste](https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5) | 5:01 |
-| 40 | [Jagdzeit](https://open.spotify.com/track/1mTCbTpcM1nKkH0wGf70Zq) | [Megaherz](https://open.spotify.com/artist/4tM8qmqg5cEZPHNLNQwHeb) | [Götterdämmerung](https://open.spotify.com/album/4JL1w8tZb0C07FcLYQROra) | 4:18 |
+| 40 | [Guilty](https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:02 |
 | 41 | [Naitu](https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Global Warning](https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN) | 4:11 |
 | 42 | [A Drug Against War](https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Angst](https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY) | 3:35 |
 | 43 | [FREE TO DIE](https://open.spotify.com/track/5QlaYAjyS0zuoA9zGk4c3R) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [RAT WARS ULTRA EDITION](https://open.spotify.com/album/1YgdGBECp0uqqLvYSlflsS) | 3:41 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 57 | [Many Thanks](https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH) | [Dope Stars Inc.](https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA) | [Terapunk](https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5) | 3:58 |
 | 58 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0) | [Revolting Cocks](https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG) | [Linger Ficken' Good...And Other Barnyard Oddities](https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC) | 5:37 |
 | 59 | [Shut Me Down](https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [A World Lit Only by Fire](https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk) | 4:26 |
-| 60 | [To The Hilt](https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd) | [Die Krupps](https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW) | [Industrial Machine Musick](https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf) | 4:22 |
-| 61 | [Bits and Razors](https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT) | [Rabbit Junk](https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS) | [Bits and Razors](https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb) | 4:03 |
+| 60 | [Bits and Razors](https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT) | [Rabbit Junk](https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS) | [Bits and Razors](https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb) | 4:03 |
+| 61 | [To The Hilt](https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd) | [Die Krupps](https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW) | [Industrial Machine Musick](https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf) | 4:22 |
 | 62 | [Go With The Flow](https://open.spotify.com/track/0ogtgveW3JxxtPE4YVJPaj) | [PAIN](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [I Am](https://open.spotify.com/album/7sJ0AkZceIdAKYiYYjKlwp) | 3:02 |
 | 63 | [Merchant of the Void](https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Merchant of the Void](https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08) | 3:32 |
 | 64 | [Deadened](https://open.spotify.com/track/2Vlfc5hZxy1XY6XtsOF0aD) | [Front Line Assembly](https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F) | [Echogenetic](https://open.spotify.com/album/0f45KbfktTH1dpYgApp979) | 5:48 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 77 | [Out For Blood](https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Out For Blood](https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT) | 3:40 |
 | 78 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 |
 | 79 | [Recharger](https://open.spotify.com/track/3C5jj2rhMP5Qw7AiKyMoWQ) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Re\-Industrialized](https://open.spotify.com/album/3dbC9oQ5is3z8VR4Ninpuv) | 4:09 |
-| 80 | [Alive](https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9) | [CueStack](https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG) | [Alive](https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM) | 4:24 |
-| 81 | [Post Self](https://open.spotify.com/track/3NDXaUSkdIu36ORI7TpB7J) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [Post Self](https://open.spotify.com/album/4yLRI4kaOy4LhSPZ2sCVbE) | 4:28 |
+| 80 | [Post Self](https://open.spotify.com/track/3NDXaUSkdIu36ORI7TpB7J) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [Post Self](https://open.spotify.com/album/4yLRI4kaOy4LhSPZ2sCVbE) | 4:28 |
+| 81 | [Alive](https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9) | [CueStack](https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG) | [Alive](https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM) | 4:24 |
 | 82 | [Killer Quinn](https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Killer Quinn](https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd) | 2:59 |
 | 83 | [In League](https://open.spotify.com/track/6N09DiGe5l8xB8YfCSn2Gx) | [Bile](https://open.spotify.com/artist/7rBp0ChNSds53ArYsOJNSj) | [Sex Reflex \(Remastered\)](https://open.spotify.com/album/0n2vWbnlL0dOAmiY6hRVOK) | 4:52 |
 | 84 | [Haunted](https://open.spotify.com/track/1XwC7lFWY9R8s2qO8iiXxx) | [Ludovico Technique](https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1) | [Haunted](https://open.spotify.com/album/0f2GeuwtgobWCjVFPGHLOX) | 3:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,119 likes - 243 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,118 likes - 243 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 106 | [December Back 2 June](https://open.spotify.com/track/05DCz0eIhcGAb6YpNiwdbv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Santa Baby](https://open.spotify.com/album/5ichhxPbZc7s1azvGRrNsO) | 2:43 |
 | 107 | [Nervous System](https://open.spotify.com/track/6L4gFqY2OumTh17xbnsUnu) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [The Sun](https://open.spotify.com/album/2tUCz7FgWO4Z9Gob0qumxg) | 2:37 |
 | 108 | [Asleep](https://open.spotify.com/track/0dMf8FEScSs8ieHPFlunxn) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [The Space Between](https://open.spotify.com/album/6tHcEzChizk2IXd5Kxl5hs) | 3:49 |
-| 109 | [You Made Your Bed \(So Lay In It\)](https://open.spotify.com/track/1EF3Afeqn4uo33pPHMlI6s) | [Travis Garland](https://open.spotify.com/artist/5tpWDRL3doEgCZdVn4FsNN) | [Travis Garland](https://open.spotify.com/album/1VuIx4XMmSs1hGZk2uCzvO) | 4:04 |
-| 110 | [Love Is Unkind](https://open.spotify.com/track/6pIdNFsaQW7yH4c77FfFqh) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 3:33 |
+| 109 | [Love Is Unkind](https://open.spotify.com/track/6pIdNFsaQW7yH4c77FfFqh) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 3:33 |
+| 110 | [You Made Your Bed \(So Lay In It\)](https://open.spotify.com/track/1EF3Afeqn4uo33pPHMlI6s) | [Travis Garland](https://open.spotify.com/artist/5tpWDRL3doEgCZdVn4FsNN) | [Travis Garland](https://open.spotify.com/album/1VuIx4XMmSs1hGZk2uCzvO) | 4:04 |
 | 111 | [Insomnia](https://open.spotify.com/track/1KynKSyhY1OJzZgQlV3Rda) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:49 |
 | 112 | [I'm Ready \(feat\. Camper\)](https://open.spotify.com/track/3o6hX5T3imF508VycE44lQ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:51 |
 | 113 | [Summer](https://open.spotify.com/track/3y0pDizVSNtDBPWFS2cXC2) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:30 |
@@ -200,8 +200,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 190 | [Loneliness](https://open.spotify.com/track/36C8pBTFMofLEikkkQWRd0) | [Karise Eden](https://open.spotify.com/artist/0dJwWgFktKXVoomwZGmUV8) | [Things I've Done](https://open.spotify.com/album/4WNiIAQqHRgCeLhulhId0r) | 3:50 |
 | 191 | [Fall Tonight](https://open.spotify.com/track/3lOw4G8OgayvKkj5kea7CN) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Fall Tonight](https://open.spotify.com/album/2K1HtU9ddlCjChISLhPNLv) | 3:08 |
 | 192 | [Something In My Eye](https://open.spotify.com/track/7Ct8rxhUnBUfSSWxb0X7em) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:44 |
-| 193 | [Stupid Crazy](https://open.spotify.com/track/4w9s8Ci6Sn8nuW8tWs9lOU) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 1](https://open.spotify.com/album/64wWGauCcGFiuXr9RkjgHd) | 2:15 |
-| 194 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 |
+| 193 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 |
+| 194 | [Stupid Crazy](https://open.spotify.com/track/4w9s8Ci6Sn8nuW8tWs9lOU) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 1](https://open.spotify.com/album/64wWGauCcGFiuXr9RkjgHd) | 2:15 |
 | 195 | [Act Right](https://open.spotify.com/track/4o6IOdfo5PGPwvjmkHQkfd) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:46 |
 | 196 | [Where I Belong](https://open.spotify.com/track/0ThrgSYBDexaGfJMBRXrSa) | [Glowie](https://open.spotify.com/artist/303SwmjLibkh8OJH5xxZOM) | [Where I Belong EP](https://open.spotify.com/album/6FLKHS3sz64yWyvWGSNs3i) | 2:39 |
 | 197 | [Rich](https://open.spotify.com/track/0mLXX67niqacawrE54oMbz) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:57 |
@@ -214,8 +214,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 204 | [Amnesia](https://open.spotify.com/track/52zws8gg9knDauxewOuvNX) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 1:59 |
 | 205 | [Easy to Love](https://open.spotify.com/track/5LSeTPuxZjVCZa5ZcRFDRv) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [FEARLESS](https://open.spotify.com/album/1K6Ysz8y164For9ImmTMtO) | 3:19 |
 | 206 | [More Me Than Ever](https://open.spotify.com/track/3gDHwH3XIzqsFlk3N7MQV9) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [More Me Than Ever](https://open.spotify.com/album/1pcrLuaZJBDRmTQiVdeqSY) | 2:21 |
-| 207 | [Come Down](https://open.spotify.com/track/7scJjopLxCX8tNMUW5R0y9) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 2:23 |
-| 208 | [Dream Hotel](https://open.spotify.com/track/0W2b5N4Z0sXtuDSMiflS7J) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:37 |
+| 207 | [Dream Hotel](https://open.spotify.com/track/0W2b5N4Z0sXtuDSMiflS7J) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:37 |
+| 208 | [Come Down](https://open.spotify.com/track/7scJjopLxCX8tNMUW5R0y9) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 2:23 |
 | 209 | [Anonymous](https://open.spotify.com/track/2EFhov92KxpKbZvWXCjrpJ) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 2:36 |
 | 210 | [You Don't Know](https://open.spotify.com/track/3XeCZ7ccDajr5aNmkpuwDn) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:12 |
 | 211 | [I Might](https://open.spotify.com/track/0qP7Rly316Y10D0wzzlGVk) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 3:22 |
@@ -252,4 +252,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 242 | [Intro](https://open.spotify.com/track/5O8Qhglfsza40ImevHVURy) | [Soul Point](https://open.spotify.com/artist/1Ept3gLGpmaMqUB5nEFmTj) | [Blue Gum St\. 3](https://open.spotify.com/album/3Z69aT615d7CRCE6WdE7zy) | 1:58 |
 | 243 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `AcAGfgAAAAByD4eQFjDfYe+4uSkMY2vh`
+Snapshot ID: `AcAMUAAAAADobW4UL7hGZJHAD5bQx10m`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,889 likes - 60 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,900 likes - 60 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 50 | [Rockabilly Rebel](https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT) | [Hillbilly Hellcats](https://open.spotify.com/artist/11m1eWZOcuGHyNnE2m32SB) | [Our Brand](https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz) | 2:29 |
 | 51 | [Rock 'n' Roll Ruby](https://open.spotify.com/track/5mDMTTHohxXChAaN7w0ROs) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [Rock 'n' Roll Ruby / I'd Rather Be Safe Than Sorry](https://open.spotify.com/album/1gpiATxAWaQu0Kdzk72Izn) | 2:50 |
 | 52 | [Rich Little Bitch](https://open.spotify.com/track/12680M4NXeEB27oywHfCxg) | [Melrose](https://open.spotify.com/artist/7wEF4N6aICDlkHnCy3PLan) | [Melrose](https://open.spotify.com/album/4RE5Q4pm0CqEXpfva5NoXz) | 3:51 |
-| 53 | [Drinking Wine Spo\-Dee\-O\-Dee \- Single Version](https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 2:12 |
-| 54 | [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 |
+| 53 | [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 |
+| 54 | [Drinking Wine Spo\-Dee\-O\-Dee \- Single Version](https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 2:12 |
 | 55 | [Rock\-a\-Cha](https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK) | [Jack Rabbit Slim](https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI) | [From the Waist Down](https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj) | 2:01 |
 | 56 | [Good Rockin' Boogie](https://open.spotify.com/track/7yV2BSU9Nmnw1xv1ldozhJ) | [Sleepy LaBeef](https://open.spotify.com/artist/4TWlhLMKfoIXqJOYxwKhdf) | [Rockabilly 1977](https://open.spotify.com/album/6wCq4bDPpN1sr9KtXq3vYf) | 1:52 |
 | 57 | [Musta Notta Gotta Lotta](https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Musta Notta Gotta Lotta](https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg) | 2:35 |

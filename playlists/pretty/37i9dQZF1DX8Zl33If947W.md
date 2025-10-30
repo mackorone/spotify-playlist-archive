@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,486 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,528 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 4 | [Vielleicht Vielleicht](https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Schlagschatten](https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI) | 3:27 |
 | 5 | [Weißes Haus](https://open.spotify.com/track/2EbO8k2jAHVRMVvUB77nNt) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Schwarzes Herz](https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws) | 2:48 |
 | 6 | [Liebe](https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [30\-11\-80](https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2) | 3:15 |
-| 7 | [Dein ist mein ganzes Herz](https://open.spotify.com/track/030dULvYNT5n8vYpIak51w) | [Heinz Rudolf Kunze](https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ) | [Dein ist mein ganzes Herz](https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy) | 3:33 |
-| 8 | [Ich lass für dich das Licht an](https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Immer in Bewegung](https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0) | 3:32 |
+| 7 | [Ich lass für dich das Licht an](https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Immer in Bewegung](https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0) | 3:32 |
+| 8 | [Dein ist mein ganzes Herz](https://open.spotify.com/track/030dULvYNT5n8vYpIak51w) | [Heinz Rudolf Kunze](https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ) | [Dein ist mein ganzes Herz](https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy) | 3:33 |
 | 9 | [Falle Für Dich](https://open.spotify.com/track/1RUp6d887zj0N9CrTwYb1j) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Falle Für Dich](https://open.spotify.com/album/0P5Ge8SdDUCZRmaLPNUeNH) | 2:30 |
 | 10 | [Was du Liebe nennst](https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Powerbausa](https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa) | 3:23 |
 | 11 | [Wie schön du bist](https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Muttersprache \(Deluxe Version\)](https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc) | 3:38 |
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 22 | [Er gehört zu mir](https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn) | [Marianne Rosenberg](https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ) | [Er gehört zu mir](https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth) | 3:00 |
 | 23 | [Zu dir](https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Zwischen meinen Zeilen \(Deluxe\)](https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd) | 3:03 |
 | 24 | [mailbox](https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Mailbox](https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa) | 2:54 |
-| 25 | [Weiße Haare](https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Weiße Haare](https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j) | 2:49 |
-| 26 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 |
+| 25 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 |
+| 26 | [Weiße Haare](https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Weiße Haare](https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j) | 2:49 |
 | 27 | [Kaum Erwarten](https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Irgendwie anders](https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw) | 3:13 |
 | 28 | [Das Beste](https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3) | [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Laut Gedacht \(Re\-Edition\)](https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo) | 4:44 |
 | 29 | [Wenn Du mich lässt](https://open.spotify.com/track/6Ey7KSTV0Zx0fnxOw6bdK8) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Wenn Du mich lässt](https://open.spotify.com/album/5vWFr4aJCRTNrHAkQIPlgn) | 3:02 |
-| 30 | [Kleiner Finger Schwur](https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Kleiner Finger Schwur](https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn) | 2:48 |
-| 31 | [Nur wegen dir](https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Nur wegen dir](https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl) | 3:23 |
+| 30 | [Nur wegen dir](https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Nur wegen dir](https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl) | 3:23 |
+| 31 | [Kleiner Finger Schwur](https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Kleiner Finger Schwur](https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn) | 2:48 |
 | 32 | [Katharina](https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:00 |
-| 33 | [Ja sagen](https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Ja sagen](https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz) | 2:45 |
-| 34 | [Nur ein bisschen](https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Nur ein bisschen](https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA) | 2:41 |
+| 33 | [Nur ein bisschen](https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Nur ein bisschen](https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA) | 2:41 |
+| 34 | [Ja sagen](https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Ja sagen](https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz) | 2:45 |
 | 35 | [Übermorgen](https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Übermorgen](https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo) | 2:43 |
 | 36 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 |
 | 37 | [Liege wieder wach](https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Liege wieder wach](https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb) | 2:56 |

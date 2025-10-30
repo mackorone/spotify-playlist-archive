@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 
 > This is Lil Baby\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,837 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,873 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Drip Too Hard \(Lil Baby & Gunna\)](https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 |
 | 2 | [Pure Cocaine](https://open.spotify.com/track/577YBGuskWkVDCxZrLRB4v) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 2:34 |
 | 3 | [Freestyle](https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Too Hard](https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt) | 2:42 |
-| 4 | [Bad Bad Bad \(feat\. Lil Baby\)](https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:29 |
-| 5 | [Baby \(Lil Baby feat\. DaBaby\)](https://open.spotify.com/track/5MPPttjfGap2C6j6eKcO6J) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:22 |
+| 4 | [Baby \(Lil Baby feat\. DaBaby\)](https://open.spotify.com/track/5MPPttjfGap2C6j6eKcO6J) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:22 |
+| 5 | [Bad Bad Bad \(feat\. Lil Baby\)](https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:29 |
 | 6 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 |
 | 7 | [Wants and Needs \(feat\. Lil Baby\)](https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 3:12 |
 | 8 | [TOES \(feat\. Lil Baby & Moneybagg Yo\)](https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:16 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 | 47 | [Legends \(with Lil Baby\)](https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Legends \(with Lil Baby\)](https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh) | 3:01 |
 | 48 | [No Sucker \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/6A9wHAasMxed0firnDao1K) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:08 |
 | 49 | [BLINDFOLD \(feat\. Lil Baby\)](https://open.spotify.com/track/02mYw61RoS1vXvkD9Q5dpN) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:34 |
-| 50 | [Pardon My Back \(feat\. Lil Baby\)](https://open.spotify.com/track/2PJe4Z0NdsdAcR0pFBv0BW) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [UY SCUTI](https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD) | 2:39 |
+| 50 | [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 |
 
-Snapshot ID: `aP62AAAAAADC2U8lTK16Xj+bE0gJp5cL`
+Snapshot ID: `aQAHgAAAAACjW9cE5mEct4h6NSLuddEA`

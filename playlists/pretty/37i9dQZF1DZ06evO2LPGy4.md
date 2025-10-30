@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 
 > This is Gerardo Ortiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,894 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,959 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 6 | [Mujer De Piedra](https://open.spotify.com/track/4US4uNDUynAor7UMaQHaxv) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:53 |
 | 7 | [Aerolínea Carrillo](https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 2:54 |
 | 8 | [Dámaso](https://open.spotify.com/track/7yAwyQ2np0KRjeXsGwirez) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 2:39 |
-| 9 | [Amor Confuso](https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:01 |
-| 10 | [Tal Como Eres](https://open.spotify.com/track/217m0uJ8ntyl2Zm1JSABzB) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Tal Como Eres](https://open.spotify.com/album/2wU20CR1rYUTHYbzIy8bBT) | 3:50 |
+| 9 | [Tal Como Eres](https://open.spotify.com/track/217m0uJ8ntyl2Zm1JSABzB) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Tal Como Eres](https://open.spotify.com/album/2wU20CR1rYUTHYbzIy8bBT) | 3:50 |
+| 10 | [Amor Confuso](https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:01 |
 | 11 | [Cara A La Muerte \(En Vivo\)](https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 4:42 |
 | 12 | [Quién Se Anima](https://open.spotify.com/track/1Kxap8UbrmlXcgKBuCysNg) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 1:37 |
 | 13 | [¿Por Qué Terminamos?](https://open.spotify.com/track/1nK0XDR5ZdBfBMfkS5SXRF) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 49 | [Soy De Durango](https://open.spotify.com/track/0UYyOOBVLROnK0gpJp5lOP) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro \(Version Deluxe\)](https://open.spotify.com/album/3g9m0eblVHbLZWGPl58GvX) | 2:39 |
 | 50 | [Ni Hoy Ni Manana](https://open.spotify.com/track/1RUpe8phIE0fjdNIKzOy4V) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 3:29 |
 
-Snapshot ID: `aP62AAAAAABBtLZsFa/WWADdzApE6vmI`
+Snapshot ID: `aQAHgAAAAADJjSIe3b0O7A8RdWtk8ix5`

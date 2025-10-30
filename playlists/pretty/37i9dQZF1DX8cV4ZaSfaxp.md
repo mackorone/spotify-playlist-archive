@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,660 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,666 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 10 | [Chroma Drift](https://open.spotify.com/track/0BA3uoKlu9CsHgXIeAiXmJ) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 3:30 |
 | 11 | [Step By Step](https://open.spotify.com/track/1DSDmBpBFHObaeKo1WTstK) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:29 |
 | 12 | [lovememore.](https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:51 |
-| 13 | [Midnight Cruise](https://open.spotify.com/track/5V07BlPJAYdvu7oF1SkN64) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 2:44 |
-| 14 | [SAY SOMETHING](https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 4:07 |
-| 15 | [Vivid LaLa Love](https://open.spotify.com/track/6jl91VgNuRjpwO0MJQw29F) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [EROS](https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8) | 4:00 |
-| 16 | [pporappippam](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [pporappippam](https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3) | 3:26 |
+| 13 | [SAY SOMETHING](https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 4:07 |
+| 14 | [Midnight Cruise](https://open.spotify.com/track/5V07BlPJAYdvu7oF1SkN64) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 2:44 |
+| 15 | [pporappippam](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [pporappippam](https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3) | 3:26 |
+| 16 | [Vivid LaLa Love](https://open.spotify.com/track/6jl91VgNuRjpwO0MJQw29F) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [EROS](https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8) | 4:00 |
 | 17 | [Mamma Mia](https://open.spotify.com/track/1jbHCJ8EtvoKfMMYy3bAlN) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [카라\(KARA\) 6th Mini Album \[Day&Night\]](https://open.spotify.com/album/3emUMd2AU3S4jF5ryo3CKr) | 3:32 |
 | 18 | [Jam Jam](https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 3:38 |
 | 19 | [FLIGHT](https://open.spotify.com/track/1pvBm1ydKLXorYDdlIAeuj) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [FLIGHT](https://open.spotify.com/album/079CeHOeWqD0AUwmPUIhXv) | 2:47 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 55 | [Haru \(with meenoi\)](https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 3:43 |
 | 56 | [Elastic Love](https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ) | [Choi HEART](https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m) | [Elastic Love](https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC) | 3:38 |
 | 57 | [Sparkling](https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Sparkling](https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp) | 3:51 |
-| 58 | [Lost Star](https://open.spotify.com/track/65oAffhyWVBIJgPix4L5XF) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [My Troublesome Star, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6NhCj3OihiU593wtp0xZ7j) | 3:23 |
-| 59 | [A song from the past](https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [A song from the past](https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC) | 3:55 |
+| 58 | [A song from the past](https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [A song from the past](https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC) | 3:55 |
+| 59 | [Lost Star](https://open.spotify.com/track/65oAffhyWVBIJgPix4L5XF) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [My Troublesome Star, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6NhCj3OihiU593wtp0xZ7j) | 3:23 |
 | 60 | [You Got](https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [WJ STAY?](https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f) | 3:34 |
 | 61 | [5min to heartbreak](https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw) | [Choi HEART](https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m) | [5min to heartbreak](https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa) | 3:20 |
 | 62 | [TALK](https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4) | [TIFFANY](https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4) | [I Just Wanna Dance \- The 1st Mini Album](https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU) | 3:34 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 70 | [THIS CITY](https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [THIS CITY](https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu) | 3:14 |
 | 71 | [여름필름 夏のフィルム \(Summer Film\)](https://open.spotify.com/track/24kPqpfBn3DNDAaeqEXaD0) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [여름필름 夏のフィルム \(Summer Film\)](https://open.spotify.com/album/679TRV9xiCqqOIZa2iwFrq) | 3:13 |
 | 72 | [Ondo \(with LeeHi\)](https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Skyline](https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE) | 4:03 |
-| 73 | [Here, This Moment](https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0) | [ARTLOVEU](https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO) | [Here, This Moment](https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl) | 3:46 |
-| 74 | [Get up](https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Scent](https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN) | 3:57 |
+| 73 | [Get up](https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Scent](https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN) | 3:57 |
+| 74 | [Here, This Moment](https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0) | [ARTLOVEU](https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO) | [Here, This Moment](https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl) | 3:46 |
 | 75 | [I’m not good at](https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS) | [Mitty](https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ) | [I’m not good at](https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc) | 3:43 |
 | 76 | [Cocktail love](https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Cocktail love](https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws) | 3:24 |
 | 77 | [TALK](https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv) | [YOU DAYEON](https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr) | [TALK](https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR) | 3:23 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 94 | [Line 1](https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:17 |
 | 95 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [TrophyCat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 |
 | 96 | [Drive Thru](https://open.spotify.com/track/6QWdR3MXiocvTqsJw4z9eh) | [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o) | [Drive Thru](https://open.spotify.com/album/4kzzDbJLtozPPuBgpdqEMH) | 3:02 |
-| 97 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 |
-| 98 | [What's Your Number?](https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89) | [ZHOUMI](https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH) | [What's Your Number? \- The 2nd Mini Album](https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC) | 4:00 |
+| 97 | [What's Your Number?](https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89) | [ZHOUMI](https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH) | [What's Your Number? \- The 2nd Mini Album](https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC) | 4:00 |
+| 98 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 |
 | 99 | [Virtual World](https://open.spotify.com/track/2eKuOevIr05volaJLCs3NO) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Just because of the sudden wind](https://open.spotify.com/album/3sU1srdjbJdz6pGLGtWWuD) | 3:24 |
 | 100 | [City Breeze & Love Song](https://open.spotify.com/track/0GpGnPA4HhHclOTN81FPKZ) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [City Breeze & Love Song](https://open.spotify.com/album/7y9Th3xuGgoqdulKiAiEZ4) | 3:40 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > as gêmeas com uma enxurrada de refs e quem tem dó é cavaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,256 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,499 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 21 | [Regras](https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh), [Plvco](https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV) | [Regras](https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH) | 2:02 |
 | 22 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
 | 23 | [Acorde](https://open.spotify.com/track/56zyFeSe3ttrjcXeFFskP1) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc), [Xizoh](https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:13 |
-| 24 | [Supercine](https://open.spotify.com/track/2TUs2bn1wBFvNwsUV8nV0F) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P), [Dé Barros](https://open.spotify.com/artist/1IP5A0i2yKTTZjJ9DTlb4x) | [Supercine](https://open.spotify.com/album/69FxwAS8S6e4SjzL4Ngiqj) | 2:38 |
-| 25 | [Minha Competição](https://open.spotify.com/track/4GIU6Qg6uQdy6XmBy70YJK) | [AF!RMA](https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Minha Competição](https://open.spotify.com/album/5TyhogzIXyEWwxPyVzbQ3q) | 2:10 |
+| 24 | [Minha Competição](https://open.spotify.com/track/4GIU6Qg6uQdy6XmBy70YJK) | [AF!RMA](https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Minha Competição](https://open.spotify.com/album/5TyhogzIXyEWwxPyVzbQ3q) | 2:10 |
+| 25 | [Supercine](https://open.spotify.com/track/2TUs2bn1wBFvNwsUV8nV0F) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P), [Dé Barros](https://open.spotify.com/artist/1IP5A0i2yKTTZjJ9DTlb4x) | [Supercine](https://open.spotify.com/album/69FxwAS8S6e4SjzL4Ngiqj) | 2:38 |
 | 26 | [Tô de Nave](https://open.spotify.com/track/5qRmRNCQNFe7bVlUXnUy3Z) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK) | [Tô de Nave](https://open.spotify.com/album/2DDiIuwuXd6mzgJWNxbhDw) | 3:42 |
 | 27 | [Coração Melão](https://open.spotify.com/track/5WJl5D5BtJ1m0DIj6ZKOzT) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Coração Melão](https://open.spotify.com/album/6M6JvZ9nPuldJZHe99vInD) | 4:18 |
 | 28 | [Mate Ou Morra](https://open.spotify.com/track/1uvmo7t9n8bUG4teYI4Wjy) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:17 |

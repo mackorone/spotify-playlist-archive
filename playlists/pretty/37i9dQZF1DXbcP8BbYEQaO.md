@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,038 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,037 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 83 | [Cursed Romantics](https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cursed Romantics](https://open.spotify.com/album/0JKztCLBEY4jKjVSQBWeGE) | 3:10 |
 | 84 | [Smalltown Boy](https://open.spotify.com/track/0FrCX7P2C2hcRTcuhjEvK4) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age Of Consent](https://open.spotify.com/album/7sJwidjwY9gt44I1AioyKm) | 5:03 |
 | 85 | [Lights](https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [An Introduction To Ellie Goulding EP](https://open.spotify.com/album/2zRzPgu8WPe2uLtppHv5uD) | 4:04 |
-| 86 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
+| 86 | [make you mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [make you mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
 | 87 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 88 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 |
 | 89 | [Penthouse in The Sky](https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:35 |

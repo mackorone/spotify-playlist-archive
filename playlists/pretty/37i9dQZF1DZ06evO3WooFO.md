@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 
 > This is blink\-182\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,988 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,030 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 | 46 | [ALL IN MY HEAD](https://open.spotify.com/track/5tf8vizOp6F8KO5ruUz3ee) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 2:42 |
 | 47 | [Cynical](https://open.spotify.com/track/7qLTXx7crEEtkbI2TAflqd) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 1:55 |
 | 48 | [Pin the Grenade](https://open.spotify.com/track/330cmrgtnIj4NtPTYdDOZv) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:59 |
-| 49 | [Natives](https://open.spotify.com/track/1GyBZWdHDFvTz1UxzxeNC0) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 3:55 |
+| 49 | [Up All Night](https://open.spotify.com/track/0sqQ9N6hY0ieocwrgxgJ9F) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 3:19 |
 | 50 | [CAN'T GO BACK](https://open.spotify.com/track/4NryqIxFrAPL41ju1V5b7w) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 2:44 |
 
-Snapshot ID: `aP62AAAAAACw/75Aj1veCdNRisgGEo4I`
+Snapshot ID: `aQAHgAAAAAAVyDZlZabarFe5MpWKO1cT`

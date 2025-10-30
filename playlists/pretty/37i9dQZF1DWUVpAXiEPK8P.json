@@ -1,6 +1,6 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4138907,
+  "num_followers": 4138699,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
@@ -591,18 +591,22 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
-        "name": "DIE FOR MY BITCH",
-        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
+        "name": "Harder Than Ever",
+        "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 129882,
-      "name": "ORANGE SODA",
-      "url": "https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD"
+      "duration_ms": 142273,
+      "name": "Yes Indeed",
+      "url": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ"
     },
     {
       "added_at": "2025-09-05 11:40:44",
@@ -627,22 +631,18 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
-        "name": "Harder Than Ever",
-        "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
+        "name": "DIE FOR MY BITCH",
+        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         }
       ],
-      "duration_ms": 142273,
-      "name": "Yes Indeed",
-      "url": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ"
+      "duration_ms": 129882,
+      "name": "ORANGE SODA",
+      "url": "https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD"
     },
     {
       "added_at": "2025-09-05 11:40:44",
@@ -691,26 +691,6 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 203786,
-      "name": "1, 2 Step (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
-    },
-    {
-      "added_at": "2025-09-05 11:40:44",
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 190476,
       "name": "For The Night (feat. Lil Baby & DaBaby)",
       "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
+    },
+    {
+      "added_at": "2025-09-05 11:40:44",
+      "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 203786,
+      "name": "1, 2 Step (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
     },
     {
       "added_at": "2025-09-05 11:40:44",

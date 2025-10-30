@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,447 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,410 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 5 | [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 |
 | 6 | [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 |
 | 7 | [What's Goin On \(feat\. Lizzo\)](https://open.spotify.com/track/5RpGHqlGHRTGWzNPBKW08D) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 3:24 |
-| 8 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 |
+| 8 | [Truth Hurts](https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:53 |
 | 9 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 |
 | 10 | [Still Bad](https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Still Bad](https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL) | 3:28 |
 | 11 | [YITTY ON YO TITTYS \(FREESTYLE\)](https://open.spotify.com/track/6mzJqQzYatigPwoJrvKlJM) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:28 |
-| 12 | [Truth Hurts](https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:53 |
+| 12 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 |
 | 13 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 |
 | 14 | [Freak Show](https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:29 |
 | 15 | [LEFTRIGHT](https://open.spotify.com/track/3BxzK9fgy9PwYg7Nrj2Dcu) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 49 | [INTERNET \(FEAT\. TIERRA WHACK\)](https://open.spotify.com/track/5c9B681VEiWXMaF36GjW7P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [MY FACE STILL HURTS FROM SMILING](https://open.spotify.com/album/2YoR3iqOT0HH62KRJN39w2) | 1:58 |
 | 50 | [Juice \- Breakbot Mix](https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Juice \(Breakbot Mix\)](https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB) | 2:52 |
 
-Snapshot ID: `aP62AAAAAABlzsxdCCKp9aZ1/OkXqM0P`
+Snapshot ID: `aQAHgAAAAAAyQjm5+p7lWSc4S00xyZOe`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Joaquina en portada.",
-  "num_followers": 36980,
+  "num_followers": 36982,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
+        "name": "Tormentas Inesperadas",
+        "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 264749,
+      "name": "Amanecidos",
+      "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
         "name": "Miedo",
         "url": "https://open.spotify.com/album/0HiImAtftKt8Ob2Viw26PB"
       },
@@ -711,18 +727,22 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "Tormentas Inesperadas",
-        "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
+        "name": "Pelo Suelto",
+        "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
       "artists": [
         {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 264749,
-      "name": "Amanecidos",
-      "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
+      "duration_ms": 204817,
+      "name": "Pelo Suelto",
+      "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -743,26 +763,6 @@
       "duration_ms": 179142,
       "name": "M\u00e1s Cerquita",
       "url": "https://open.spotify.com/track/4uBWOQCmYrXzkUvAPNrzob"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
-        "name": "Pelo Suelto",
-        "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 204817,
-      "name": "Pelo Suelto",
-      "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -803,26 +803,6 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "Lo bien que suenas",
-        "url": "https://open.spotify.com/album/4fqJ4Bvyb6Xawoj3z8NvFy"
-      },
-      "artists": [
-        {
-          "name": "ELYELLA",
-          "url": "https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8"
-        },
-        {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
-        }
-      ],
-      "duration_ms": 210107,
-      "name": "Lo bien que suenas",
-      "url": "https://open.spotify.com/track/22midBO4e4rfuu1AVRDXQ2"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
         "name": "La Salvaci\u00f3n",
         "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 285480,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
+        "name": "Lo bien que suenas",
+        "url": "https://open.spotify.com/album/4fqJ4Bvyb6Xawoj3z8NvFy"
+      },
+      "artists": [
+        {
+          "name": "ELYELLA",
+          "url": "https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8"
+        },
+        {
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        }
+      ],
+      "duration_ms": 210107,
+      "name": "Lo bien que suenas",
+      "url": "https://open.spotify.com/track/22midBO4e4rfuu1AVRDXQ2"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -863,26 +863,6 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "No Volver\u00e9 </3",
-        "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        },
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 171636,
-      "name": "No Volver\u00e9 </3",
-      "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
         "name": "S\u00f3lo Qu\u00e9date En Silencio",
         "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 235360,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
+        "name": "No Volver\u00e9 </3",
+        "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 171636,
+      "name": "No Volver\u00e9 </3",
+      "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "claroqno",
-        "url": "https://open.spotify.com/album/63hfVh7t6qaeyBKYO8wbI7"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 154488,
-      "name": "claroqno",
-      "url": "https://open.spotify.com/track/5kEYcU75XZeEebiPy3XpcT"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
         "name": "Que nadie me llore",
         "url": "https://open.spotify.com/album/7BXY4JP64W7KwKR2hJU1MZ"
       },
@@ -1167,6 +1147,26 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
+        "name": "claroqno",
+        "url": "https://open.spotify.com/album/63hfVh7t6qaeyBKYO8wbI7"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 154488,
+      "name": "claroqno",
+      "url": "https://open.spotify.com/track/5kEYcU75XZeEebiPy3XpcT"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
         "name": "Quito",
         "url": "https://open.spotify.com/album/3R4TPnl5iUd2lXL8zMO4pY"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 179527,
       "name": "Quito",
       "url": "https://open.spotify.com/track/5I7HzntcnFHekSHJNrngcn"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
-        "name": "EL PEOR",
-        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "EL PEOR",
-      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -1215,6 +1199,22 @@
       "duration_ms": 191107,
       "name": "Dame Love - Remix",
       "url": "https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
+        "name": "EL PEOR",
+        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "EL PEOR",
+      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "AL100",
-        "url": "https://open.spotify.com/album/65AMvNY4LjeisjaxbSRBRS"
-      },
-      "artists": [
-        {
-          "name": "Living",
-          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
-        }
-      ],
-      "duration_ms": 189626,
-      "name": "AL100",
-      "url": "https://open.spotify.com/track/2Bd9AwYVFGvk6jT0QCFQIc"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
         "name": "Alta Fidelidad",
         "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 230097,
       "name": "Quisiera Ser Como T\u00fa",
       "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
+        "name": "AL100",
+        "url": "https://open.spotify.com/album/65AMvNY4LjeisjaxbSRBRS"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        }
+      ],
+      "duration_ms": 189626,
+      "name": "AL100",
+      "url": "https://open.spotify.com/track/2Bd9AwYVFGvk6jT0QCFQIc"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "\u00bfC\u00f3mo Te Explico?",
-        "url": "https://open.spotify.com/album/7xwB5SWmLE7U1OiJj2G4ZK"
+        "name": "Lo Que No Quieres Saber",
+        "url": "https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ"
       },
       "artists": [
         {
-          "name": "Dimitri y las brujas",
-          "url": "https://open.spotify.com/artist/1k3U6CLxJlkGEL29oGctSr"
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
         }
       ],
-      "duration_ms": 158769,
-      "name": "\u00bfC\u00f3mo Te Explico?",
-      "url": "https://open.spotify.com/track/2pS5D2KqOw73apT7vjPyrQ"
+      "duration_ms": 153109,
+      "name": "Lo Que No Quieres Saber",
+      "url": "https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt"
     }
   ],
   "unique_name": "Pop Rock Latino",

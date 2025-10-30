@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 217914,
+  "num_followers": 217935,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -48,7 +48,7 @@
           "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
         }
       ],
-      "duration_ms": 230975,
+      "duration_ms": 230976,
       "name": "Valadier",
       "url": "https://open.spotify.com/track/7xrnn0OqogufEwqSvfcLau"
     },
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
+        "name": "From Afar",
+        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
+      },
+      "artists": [
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 297253,
+      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
         "name": "C. Schumann: 3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
         "url": "https://open.spotify.com/album/3q0ogG562Nocti3uDkZmAP"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 190866,
       "name": "3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
       "url": "https://open.spotify.com/track/1W6ZSpMRXgeM9iSJxA1xus"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
-        "name": "From Afar",
-        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
-      },
-      "artists": [
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 297253,
-      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
+        "name": "Solon Islandus (Complete Works)",
+        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 162374,
+      "name": "Faded Leaves Fall",
+      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
         "name": "Faur\u00e9: Berceuse, Op. 16",
         "url": "https://open.spotify.com/album/3q7lJbflaSLEkDu3h5cazc"
       },
@@ -723,18 +739,22 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Solon Islandus (Complete Works)",
-        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
+        "name": "Brahms: 21 Hungarian Dances, WoO 1 & 16 Waltzes, Op. 39",
+        "url": "https://open.spotify.com/album/3D17O5qP9yOhyBThdhBYKY"
       },
       "artists": [
         {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Tal & Groethuysen",
+          "url": "https://open.spotify.com/artist/3jcDwPU3uLhLAt5WZR1suZ"
         }
       ],
-      "duration_ms": 162374,
-      "name": "Faded Leaves Fall",
-      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
+      "duration_ms": 81800,
+      "name": "16 Waltzes, Op. 39 (Version for Piano Duet): No. 15 in A-Flat Major",
+      "url": "https://open.spotify.com/track/6IOWaTG6MUfR4824H2XOjJ"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -759,26 +779,6 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Brahms: 21 Hungarian Dances, WoO 1 & 16 Waltzes, Op. 39",
-        "url": "https://open.spotify.com/album/3D17O5qP9yOhyBThdhBYKY"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Tal & Groethuysen",
-          "url": "https://open.spotify.com/artist/3jcDwPU3uLhLAt5WZR1suZ"
-        }
-      ],
-      "duration_ms": 81800,
-      "name": "16 Waltzes, Op. 39 (Version for Piano Duet): No. 15 in A-Flat Major",
-      "url": "https://open.spotify.com/track/6IOWaTG6MUfR4824H2XOjJ"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
         "name": "Price: String Quartet No. 2 in A Minor: II. Andante cantabile (Arr. Colbert for String Ensemble)",
         "url": "https://open.spotify.com/album/50Cnys8oPsROratizJAoed"
       },
@@ -799,26 +799,6 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Faur\u00e9: Music for Piano",
-        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Christine Croshaw",
-          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
-        }
-      ],
-      "duration_ms": 120493,
-      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
-      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
         "name": "I. Allegro moderato",
         "url": "https://open.spotify.com/album/51i7eo6ivT0dQxYx6eHsVx"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 130746,
       "name": "Passatempo al cembalo, Sonata No. 3 in C Minor: I. Allegro moderato",
       "url": "https://open.spotify.com/track/3R3d9GdiGr5hYHTIwKaVjw"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
+        "name": "Faur\u00e9: Music for Piano",
+        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Christine Croshaw",
+          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
+        }
+      ],
+      "duration_ms": 120493,
+      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
+      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -995,6 +995,26 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
+        "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+        "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Jo\u00e3o Carlos Victor",
+          "url": "https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb"
+        }
+      ],
+      "duration_ms": 354560,
+      "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+      "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
         "name": "Sinfonie Napolitane",
         "url": "https://open.spotify.com/album/76c3khwtHNzubPiSN5RSkp"
       },
@@ -1019,26 +1039,6 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Wachet auf, ruft uns die Stimme, BWV 645",
-        "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Jo\u00e3o Carlos Victor",
-          "url": "https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb"
-        }
-      ],
-      "duration_ms": 354560,
-      "name": "Wachet auf, ruft uns die Stimme, BWV 645",
-      "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
         "name": "Works for Solo Piano",
         "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
       },
@@ -1055,30 +1055,6 @@
       "duration_ms": 122986,
       "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
       "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
-        "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
-        "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Kian Soltani",
-          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
-        },
-        {
-          "name": "Aaron Pilsan",
-          "url": "https://open.spotify.com/artist/2eI6Cks4QJJYwIxqx9W7Mt"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
-      "url": "https://open.spotify.com/track/1ZXpmSQ4FVAiLbCaYvGD2f"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -1119,6 +1095,30 @@
       "duration_ms": 156080,
       "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
       "url": "https://open.spotify.com/track/2DiUfuknJX3bTHw5zgyTnu"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
+        "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
+        "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Kian Soltani",
+          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
+        },
+        {
+          "name": "Aaron Pilsan",
+          "url": "https://open.spotify.com/artist/2eI6Cks4QJJYwIxqx9W7Mt"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
+      "url": "https://open.spotify.com/track/1ZXpmSQ4FVAiLbCaYvGD2f"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
-        }
-      ],
-      "duration_ms": 93400,
-      "name": "Invention No. 14 in B-Flat Major, BWV 785",
-      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
         "name": "Turandot, SC 91: \"Nessun Dorma\" (Arr. for String Orchestra by Matt Naughtin)",
         "url": "https://open.spotify.com/album/6HZioeFJe8Jf71hKMUgpoW"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 188000,
       "name": "Turandot, SC 91: \"Nessun Dorma\" - Arr. for String Orchestra by Matt Naughtin",
       "url": "https://open.spotify.com/track/6a0uCh0i9ICDwLgjuZwhTI"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+        }
+      ],
+      "duration_ms": 93400,
+      "name": "Invention No. 14 in B-Flat Major, BWV 785",
+      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -1732,7 +1732,7 @@
           "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
         }
       ],
-      "duration_ms": 248724,
+      "duration_ms": 248725,
       "name": "Pian Perduto",
       "url": "https://open.spotify.com/track/6aYE1e0ZcLNS6aGOi0ExBM"
     },
@@ -1883,6 +1883,26 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd"
+      },
+      "artists": [
+        {
+          "name": "Ghislaine Reece-Trapp",
+          "url": "https://open.spotify.com/artist/4sQV8wJwA2L2UkVhTbzlkD"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        }
+      ],
+      "duration_ms": 286412,
+      "name": "In Paradisum",
+      "url": "https://open.spotify.com/track/57fN24C59MczUrUj0W7ijr"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
         "name": "I. Thema",
         "url": "https://open.spotify.com/album/3h4QI2qTDymFjAd6sR47WG"
       },
@@ -1903,26 +1923,6 @@
       "duration_ms": 65560,
       "name": "Variations concertantes, Op. 17/MWV Q 19: I. Thema",
       "url": "https://open.spotify.com/track/6niR0Jo6cYUMeNpcRGsIt3"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd"
-      },
-      "artists": [
-        {
-          "name": "Ghislaine Reece-Trapp",
-          "url": "https://open.spotify.com/artist/4sQV8wJwA2L2UkVhTbzlkD"
-        },
-        {
-          "name": "Anna Lapwood",
-          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
-        }
-      ],
-      "duration_ms": 286412,
-      "name": "In Paradisum",
-      "url": "https://open.spotify.com/track/57fN24C59MczUrUj0W7ijr"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -2491,26 +2491,22 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Saint-Sa\u00ebns: Symphonic Poems",
-        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
+        "name": "Klara4Kids: Sterren en Sneeuwvlokken - Klassiek onder de kerstboom",
+        "url": "https://open.spotify.com/album/5hYoeeEAATiqb981lvtdfy"
       },
       "artists": [
         {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+          "name": "Marc-Antoine Charpentier",
+          "url": "https://open.spotify.com/artist/5OvQ8g54fWhffM2x8eCc6s"
         },
         {
-          "name": "Orchestre National de Lille",
-          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
-        },
-        {
-          "name": "Jun Markl",
-          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+          "name": "Andrew Parrott",
+          "url": "https://open.spotify.com/artist/3XHSTHtChESFEiOw1LqKuM"
         }
       ],
-      "duration_ms": 376560,
-      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
-      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
+      "duration_ms": 69693,
+      "name": "Canticum in nativitatem Domini, 'Frigidae noctis umbra': Marche",
+      "url": "https://open.spotify.com/track/6xhtLLQI133wVdxnOZRBKj"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -2535,22 +2531,26 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Klara4Kids: Sterren en Sneeuwvlokken - Klassiek onder de kerstboom",
-        "url": "https://open.spotify.com/album/5hYoeeEAATiqb981lvtdfy"
+        "name": "Saint-Sa\u00ebns: Symphonic Poems",
+        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
       },
       "artists": [
         {
-          "name": "Marc-Antoine Charpentier",
-          "url": "https://open.spotify.com/artist/5OvQ8g54fWhffM2x8eCc6s"
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
         },
         {
-          "name": "Andrew Parrott",
-          "url": "https://open.spotify.com/artist/3XHSTHtChESFEiOw1LqKuM"
+          "name": "Orchestre National de Lille",
+          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
         }
       ],
-      "duration_ms": 69693,
-      "name": "Canticum in nativitatem Domini, 'Frigidae noctis umbra': Marche",
-      "url": "https://open.spotify.com/track/6xhtLLQI133wVdxnOZRBKj"
+      "duration_ms": 376560,
+      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
+      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
     },
     {
       "added_at": "2025-07-02 09:25:11",

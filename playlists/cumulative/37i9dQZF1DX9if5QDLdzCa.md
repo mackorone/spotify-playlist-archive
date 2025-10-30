@@ -4,7 +4,7 @@
 
 > Drift to sleep with the calm sound of crashing waves on the beach.
 
-258 songs - 12 hr 28 min
+259 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Peaceful Lapping Waves](https://open.spotify.com/track/0gUu51zyHEZIWGITqwRtYv) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Calming Coastal Waves](https://open.spotify.com/album/6SFtY6F2Pci0KBqek6Nebq) | 2:48 | 2021-11-10 | 2025-07-22 |
 | [Peaceful Ocean Swell](https://open.spotify.com/track/3I6D33n2ZnmwoTipzfEwsS) | [Luxury Waves Secret Sounds](https://open.spotify.com/artist/12M6hon2b8Y4MFMX56nUK3) | [Luxury Ocean Sounds Vol\. 1](https://open.spotify.com/album/5CgEMFNlqJ0jdzhevzK96F) | 2:27 | 2021-11-10 |  |
 | [Peaceful Ocean Swell](https://open.spotify.com/track/5CEjQkKaqViM0jPnG8DJZW) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Ocean Waves for Sleeping](https://open.spotify.com/album/12lCxJLO2VT5AKc91ua881) | 3:55 | 2021-11-10 |  |
+| [Peaceful Ocean Waves](https://open.spotify.com/track/4YY6fmY800FEe3bgciVNtO) | [Solmer](https://open.spotify.com/artist/7eqdkq0HQG1Q53nCfjCIE4) | [Peaceful Ocean Waves](https://open.spotify.com/album/13EFGTaCV00WAErlhkBuCA) | 3:31 | 2025-09-23 |  |
 | [Peaceful Pacific Waves](https://open.spotify.com/track/2peirdBgKHifNrCMrBsCKh) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Waves of the Monterey Peninsula](https://open.spotify.com/album/40IKIiamZMzBVNMPgrSTpN) | 3:55 | 2021-11-10 |  |
 | [Pebble Beach Waves](https://open.spotify.com/track/74Ccabhzyt1M79qTQ4Jivz) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Coast of Carmel](https://open.spotify.com/album/2xIw3qo8CTPqCsOSQ8qxVd) | 5:42 | 2021-11-10 |  |
 | [Pebbles](https://open.spotify.com/track/29VL3WjP61awCnMvx3NYUp) | [Yin Elements](https://open.spotify.com/artist/1WK6PTezwqF9ckYPdy8jwU) | [Off the Deep Ends](https://open.spotify.com/album/35JLEKkJ13mL1VuBQVQboc) | 4:15 | 2021-11-10 | 2025-02-19 |
@@ -232,7 +233,7 @@
 | [Waves After Midnight](https://open.spotify.com/track/1mDBfN62kGsLNa6qZcsFsK) | [next nature](https://open.spotify.com/artist/0GsJOKuWnueBiINONW4yhg) | [Ocean Sounds](https://open.spotify.com/album/0ridirYvKxFJckbFONyav5) | 2:40 | 2021-11-10 |  |
 | [Waves And Ocean](https://open.spotify.com/track/0704kRxzpTBD6cyw06aVxy) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Soothing Wave Sounds](https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN) | 2:09 | 2021-11-10 |  |
 | [Waves and Sand Sizzle](https://open.spotify.com/track/5IYby2NCqCoc8hGUosxTjY) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Gentle Majestic Ocean Waves](https://open.spotify.com/album/5gffSIi6opT8ifjzrmsQZq) | 3:15 | 2025-07-21 |  |
-| [Waves and Seagulls \(at the Beach in Point Pleasant, New Jersey\)](https://open.spotify.com/track/1DaU7Tzyc1v06k0eIoGCV5) | [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [National Geographic: Water Sounds](https://open.spotify.com/album/5FvTpUy4QVxNs1dmTNyu6P) | 4:51 | 2025-07-21 |  |
+| [Waves and Seagulls \(at the Beach in Point Pleasant, New Jersey\)](https://open.spotify.com/track/1DaU7Tzyc1v06k0eIoGCV5) | [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [National Geographic: Water Sounds](https://open.spotify.com/album/5FvTpUy4QVxNs1dmTNyu6P) | 4:51 | 2025-07-21 | 2025-10-30 |
 | [Waves Before Dawn](https://open.spotify.com/track/6GttsqaEPKPJ0JWk75Ssdy) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Venice Beach Night Waves](https://open.spotify.com/album/6CF71cuLiDydgs6cSnAyPD) | 2:30 | 2021-11-10 |  |
 | [Waves Crashing](https://open.spotify.com/track/0YuKG1kFgb6vLDiQqmBaM3) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Venice Beach Night Waves](https://open.spotify.com/album/6CF71cuLiDydgs6cSnAyPD) | 2:27 | 2021-11-10 |  |
 | [Waves Crashing At The Morning](https://open.spotify.com/track/3VKlyYs7Kn8TxuExd2mRqW) | [Mega Exotic Wave Sounds](https://open.spotify.com/artist/2tyKKR4JcKONjx7FwVvUF2) | [Waves From Around The World](https://open.spotify.com/album/2Z05lMBeRFW6YsoRsXSbbW) | 2:20 | 2022-08-03 |  |

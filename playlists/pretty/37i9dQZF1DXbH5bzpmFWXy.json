@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... CAPO en portada.",
-  "num_followers": 289621,
+  "num_followers": 289618,
   "original_name": "El Barrio MP3 x VGLY ",
   "owner": {
     "name": "Spotify",
@@ -792,7 +792,7 @@
           "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         }
       ],
-      "duration_ms": 196832,
+      "duration_ms": 197091,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
     },
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2025-10-20 23:50:01",
       "album": {
-        "name": "Anda Bien el Nene",
-        "url": "https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 177023,
-      "name": "Anda Bien el Nene",
-      "url": "https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB"
-    },
-    {
-      "added_at": "2025-10-20 23:50:01",
-      "album": {
         "name": "SRT",
         "url": "https://open.spotify.com/album/0NK19kHjoL1Akoyo234nVt"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 174866,
       "name": "SRT",
       "url": "https://open.spotify.com/track/35Z5UYDKI5tyEfEsGMMRaz"
+    },
+    {
+      "added_at": "2025-10-20 23:50:01",
+      "album": {
+        "name": "Anda Bien el Nene",
+        "url": "https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 177023,
+      "name": "Anda Bien el Nene",
+      "url": "https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB"
     },
     {
       "added_at": "2025-10-20 23:50:01",

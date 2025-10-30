@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,498 likes - 150 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,637 likes - 150 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 65 | [Chiquilla Cariñosa](https://open.spotify.com/track/2iYIFcJsRJqve6j2YKJ91e) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Ahy Te Va Kora](https://open.spotify.com/album/6uv5LHEjoT0mvY3AFJG52h) | 2:34 |
 | 66 | [El Ranchero Chido](https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [Super Exitos](https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0) | 2:43 |
 | 67 | [Isla Virgen](https://open.spotify.com/track/64H6jtyJEzjXV1hqN1w3B1) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Enamorado De Ti](https://open.spotify.com/album/0Rt8zwYRxLwfhLqvmQZdzR) | 3:00 |
-| 68 | [Llévame Rosas Y Olvida](https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM) | [Banda Torera Del Valle](https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5) | [Africanos Al Ataque](https://open.spotify.com/album/05W649wdes7jKusqma34Gn) | 3:25 |
-| 69 | [Debajo De Los Laureles](https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:31 |
+| 68 | [Debajo De Los Laureles](https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:31 |
+| 69 | [Llévame Rosas Y Olvida](https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM) | [Banda Torera Del Valle](https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5) | [Africanos Al Ataque](https://open.spotify.com/album/05W649wdes7jKusqma34Gn) | 3:25 |
 | 70 | [Esta Tristeza Mía](https://open.spotify.com/track/0LyxlSgDPmm9nCstkWgZmp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar con Tambora](https://open.spotify.com/album/3Kx7iLgoKnlwsd2D4TapvM) | 3:29 |
 | 71 | [Tri Triki Tri Traka](https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X) | [Banda Guadalajara Express](https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN) | [A Bailar Quebradita Y De Caballito](https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie) | 2:38 |
 | 72 | [Nieves De Enero](https://open.spotify.com/track/1s0Jzgg7S6yR4PAvmJOSfB) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 3:32 |
@@ -103,12 +103,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 93 | [Sufriendo Por Ti](https://open.spotify.com/track/41zxFE1IROf6He43b0RwUd) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Cada Amanecer](https://open.spotify.com/album/71OF2FGR7cCkrrwvHrOZmf) | 2:59 |
 | 94 | [No Podras](https://open.spotify.com/track/2MUeIzWFJAkgVGrKVtWKzf) | [Banda M\-1](https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT) | [Exitos De Banda M\-1](https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ) | 3:25 |
 | 95 | [El Papalotito](https://open.spotify.com/track/39TNrfFgNsQlSaVkMCW3Uv) | [Banda El Pueblito](https://open.spotify.com/artist/15myS3NDS2iwVo2gyCl2rm) | [Los 20 para Coleccionar](https://open.spotify.com/album/61L7qffqpjWVCTbxjFS9QF) | 2:37 |
-| 96 | [No Bailes De Caballito](https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar De Caballito](https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5) | 4:01 |
+| 96 | [Feliz, Feliz](https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:38 |
 | 97 | [Provócame](https://open.spotify.com/track/6NoG8gvg44g2IWaWt3bBfE) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/2hKjSZ3fbwKYWpYr5xTuTN) | 3:00 |
 | 98 | [Frio De Aucencia](https://open.spotify.com/track/3YxSPQh2jQgyxrLdB9tKqK) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Ultimo Trago](https://open.spotify.com/album/6OUv4N8H2dRSmuNXdOFnl3) | 3:09 |
 | 99 | [Que Bonita Te Vez](https://open.spotify.com/track/0WPcxm4Q68rjTnljKv7tzh) | [Banda M\-1](https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT) | [Exitos De Banda M\-1](https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ) | 3:30 |
 | 100 | [Ojitos Mentirosos](https://open.spotify.com/track/0safZ6wr41CsyV6FFEFzpr) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Despertando Una Leyenda](https://open.spotify.com/album/43eKmwrZeVdMXaePAIHpj8) | 3:35 |
-| 101 | [Feliz, Feliz](https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:38 |
+| 101 | [No Bailes De Caballito](https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar De Caballito](https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5) | 4:01 |
 | 102 | [Sangoloteadito](https://open.spotify.com/track/3Eql8puvczeQC4WWgcDv7R) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu) | 2:59 |
 | 103 | [Creo Estar Sonañdo](https://open.spotify.com/track/27PgKTLK5fZovvx4qR43MS) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Ranchero y Mucho Más](https://open.spotify.com/album/22V4Ns9jAEuymbDB6hGrFD) | 2:43 |
 | 104 | [Oye Como Va](https://open.spotify.com/track/5dbZ0arhOVDAELk6pDBucF) | [Banda M\-1](https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT) | [Exitos De Banda M\-1](https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ) | 2:35 |

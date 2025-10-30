@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,474 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,496 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 25 | [Balade](https://open.spotify.com/track/7C13bFjFdELL8ioTMtVbZ5) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Meraki](https://open.spotify.com/album/0wl6FnaTJw4TXzjL1PT5G6) | 3:13 |
 | 26 | [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 |
 | 27 | [Sans Coeur](https://open.spotify.com/track/0F74FBWgkvXjP3V6tRlCx4) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans Coeur](https://open.spotify.com/album/25zx2Wv1z9Xt1Gi15WdFHk) | 2:56 |
-| 28 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 |
+| 28 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:52 |
 | 29 | [Un Poco](https://open.spotify.com/track/3MVTefqbeNX5yHFOmnHy3X) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 2.0](https://open.spotify.com/album/0hl8Hs6SM4NfS5TOrkOfRU) | 3:08 |
 | 30 | [Pilote \(feat\. Hamza\)](https://open.spotify.com/track/12GV2Wr4p1hBWQCrQcVsew) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Enna](https://open.spotify.com/album/0IBVzjJxYn6o69T4FfXMLi) | 3:07 |
 | 31 | [Bande organisée](https://open.spotify.com/track/205HNJ73cgpC0LAOnuQiWT) | [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw), [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Solda](https://open.spotify.com/artist/7FXX45sHqoQoCwqtG0ZV8H), [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [13 Organisé](https://open.spotify.com/artist/19u3RGWKsjmbg9eI6zAiNp) | [Bande organisée](https://open.spotify.com/album/3FrSGEYwEQS2Qx9nPt5WUs) | 5:56 |

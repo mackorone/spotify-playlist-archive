@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,895,008 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,894,884 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 89 | [My Boy](https://open.spotify.com/track/4vQsC1A1LNqKenyh6UyoTN) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/1RS0vQwtq4DpNqb4eYALfP) | 2:43 |
 | 90 | [Here Comes The Light](https://open.spotify.com/track/1F3pjXDkAbTkrcIjUILwCr) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Here Comes The Light \(The B\-Sides\)](https://open.spotify.com/album/4dZFpop6NMrixJRdxhKf8p) | 3:47 |
 | 91 | [Futures](https://open.spotify.com/track/5DLmPL4kE9TYd4VGrAXB0D) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Futures](https://open.spotify.com/album/7FrE61vLahhWW42pYspghx) | 4:45 |
-| 92 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 |
-| 93 | [Rosalee](https://open.spotify.com/track/7oMkfKI0zzYnq4YrnYVd2I) | [Matt Wertz](https://open.spotify.com/artist/6JVRYNneRsYNInT4TNr5vU) | [Rosalee](https://open.spotify.com/album/0XHxTHNLtxSOw47xospaNq) | 2:23 |
+| 92 | [Rosalee](https://open.spotify.com/track/7oMkfKI0zzYnq4YrnYVd2I) | [Matt Wertz](https://open.spotify.com/artist/6JVRYNneRsYNInT4TNr5vU) | [Rosalee](https://open.spotify.com/album/0XHxTHNLtxSOw47xospaNq) | 2:23 |
+| 93 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 |
 | 94 | [Bad Blood](https://open.spotify.com/track/0TDji9s4SDqN0CldK1bBU1) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Bad Blood](https://open.spotify.com/album/1UGw8OmeHw7FbiOEekbGlz) | 2:45 |
 | 95 | [Boris](https://open.spotify.com/track/5XAHYcSWSHmcdZxpQ6pIzS) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Boris](https://open.spotify.com/album/6o4fJMbggSAE836wK0xAz1) | 4:06 |
 | 96 | [High & Unsteady](https://open.spotify.com/track/0krRiYzA0muPIjAWXtct0O) | [Pierce Brothers](https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB) | [High & Unsteady](https://open.spotify.com/album/6CyQXYZQRhh09DoFBAZS57) | 3:43 |

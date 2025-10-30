@@ -1,6 +1,6 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.",
-  "num_followers": 60733,
+  "num_followers": 60722,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
@@ -1869,7 +1869,7 @@
         }
       ],
       "duration_ms": 305462,
-      "name": "3 Intermezzi, Op. 117: 3 Intermezzi, Op. 117/No. 2 in B-Flat Minor",
+      "name": "3 Intermezzi, Op. 117: No. 2 in B-Flat Minor",
       "url": "https://open.spotify.com/track/6XZoq075NOdK5RhibcWARK"
     },
     {
@@ -2120,7 +2120,7 @@
           "url": "https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG"
         }
       ],
-      "duration_ms": 303826,
+      "duration_ms": 303803,
       "name": "Two Pieces for Piano Solo: II. Wiegenlied",
       "url": "https://open.spotify.com/track/6lYH6XDclBD6ZwPINWl4Oo"
     },
@@ -2284,7 +2284,7 @@
           "url": "https://open.spotify.com/artist/6aMKh0D0j5K7z1ECYRHvJP"
         }
       ],
-      "duration_ms": 372666,
+      "duration_ms": 372973,
       "name": "Piano Trio No. 1 in D Minor, Op. 49: II. Andante con moto tranquillo",
       "url": "https://open.spotify.com/track/4C6NNiKJSjpBKw9DJ8tY3B"
     },
@@ -2684,7 +2684,7 @@
           "url": "https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi"
         }
       ],
-      "duration_ms": 195400,
+      "duration_ms": 198217,
       "name": "Kinderszenen, Op. 15: VII. Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/7AUNWrmMYa8zdPUKlimGkx"
     },
@@ -2720,8 +2720,20 @@
       },
       "artists": [
         {
+          "name": "Michel Colombier",
+          "url": "https://open.spotify.com/artist/5zl0vKMseEhdyXv88He8WQ"
+        },
+        {
           "name": "HAUSER",
           "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
       "duration_ms": 306386,
@@ -2760,12 +2772,12 @@
       },
       "artists": [
         {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
-        },
-        {
           "name": "Bed\u0159ich Smetana",
           "url": "https://open.spotify.com/artist/25Eab1kIY1gh0Yo1oV04G4"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
         }
       ],
       "duration_ms": 182208,

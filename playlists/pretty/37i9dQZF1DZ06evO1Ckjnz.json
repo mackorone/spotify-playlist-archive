@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 19982,
+  "num_followers": 19981,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADsFUWYzd0tuTsaYZ+B4FOv",
+  "snapshot_id": "aQAHgAAAAADk71yMyLWkfsmmSlLzAtCS",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nightmare Vacation",
-        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 120964,
-      "name": "OHFR?",
-      "url": "https://open.spotify.com/track/6wign87DUJTlNzrFYQKcut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHOOTING STAR REMIXX (PROD BY JAKOPS)",
         "url": "https://open.spotify.com/album/7FlCBCFnKH1J5ud88NfjzC"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 203573,
       "name": "SHOOTING STAR - BARS REMIXX FEAT. RICO NASTY",
       "url": "https://open.spotify.com/track/5v3qDpknNxse3vx19aJ6RX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nightmare Vacation",
+        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 120964,
+      "name": "OHFR?",
+      "url": "https://open.spotify.com/track/6wign87DUJTlNzrFYQKcut"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nightmare Vacation",
+        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 136829,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Speed It Up (feat. Rico Nasty)",
         "url": "https://open.spotify.com/album/3CJJ9CzPOMItOHiVBctGEa"
       },
@@ -755,38 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nightmare Vacation",
-        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 136829,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/3U1er6n2pSve0xcNVn9eUu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jealous (feat. Rico Nasty)",
         "url": "https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 199680,
       "name": "Jealous (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/3U1er6n2pSve0xcNVn9eUu"
     },
     {
       "added_at": null,
@@ -971,18 +971,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Trap 2",
-        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
+        "name": "Anger Management",
+        "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
       },
       "artists": [
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/77j8WY8VMFEFrX9pZr7HiQ"
+      "duration_ms": 80880,
+      "name": "Relative",
+      "url": "https://open.spotify.com/track/2uQkZcC3640TUy5TivEgXT"
     }
   ],
   "unique_name": "This Is Rico Nasty",

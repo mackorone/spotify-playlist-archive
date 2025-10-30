@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: BOYNEXTDOOR\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,317 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,338 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [Hello Tomorrow](https://open.spotify.com/track/07cmN1rIdiIlclzwP8dgWt) | [The Wind](https://open.spotify.com/artist/3q4h0WRGyR0Qcx88vwyzkd) | [Hello Tomorrow](https://open.spotify.com/album/3c7PNxFn4fLSR5d7pZEpwK) | 2:52 |
 | 50 | [Green we shared](https://open.spotify.com/track/4Qqd4mzQzVGpvPrzq3Dtn8) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Green we shared](https://open.spotify.com/album/22NNNFWoomy7QanPqnkKwr) | 3:39 |
 
-Snapshot ID: `AAAAAG/AtBx45d/y2Td5duzkJSVDFF4x`
+Snapshot ID: `AAAAAF4cvMS7X92CXXLAlrGVx7s/6jIc`

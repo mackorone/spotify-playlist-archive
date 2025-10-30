@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,781 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,858 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 28 | [All Of You](https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday With Ray Ellis And His Orchestra](https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu) | 2:32 |
 | 29 | [I Could Write A Book](https://open.spotify.com/track/04kFa5D5by0or1IN6bI9N7) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Swings Rodgers And Hart](https://open.spotify.com/album/6LArOC2pxaG9rYlTCIIeXN) | 2:09 |
 | 30 | [All I Do Is Dream Of You \- Remastered 1991](https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 2:46 |
-| 31 | [It Had to Be You](https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 2:13 |
+| 31 | [The Man I Love](https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Mystery Lady: Songs of Billie Holiday](https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW) | 4:26 |
 | 32 | [Hallelujah, I Love Him So](https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Ultimate Peggy Lee](https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX) | 2:30 |
-| 33 | [The Man I Love](https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Mystery Lady: Songs of Billie Holiday](https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW) | 4:26 |
+| 33 | [It Had to Be You](https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 2:13 |
 | 34 | [Stardust](https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:14 |
 | 35 | [My Romance](https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:44 |
 | 36 | [The Look of Love](https://open.spotify.com/track/0EiGzshQIaM98eOXdKTGaD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 2:22 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 52 | [Isn't It Romantic](https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:21 |
 | 53 | [You Couldn't Be Cuter](https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Sings The Jerome Kern Song Book, Vol.1 & 2](https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd) | 2:02 |
 | 54 | [April In Paris](https://open.spotify.com/track/4NHNztFS67GSpnU611l74v) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 6:18 |
-| 55 | [My Melancholy Baby](https://open.spotify.com/track/5I6Z43PxKiAJv5qnJ7UYOb) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:39 |
-| 56 | [The More I See You](https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 1:44 |
+| 55 | [The More I See You](https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 1:44 |
+| 56 | [My Melancholy Baby](https://open.spotify.com/track/5I6Z43PxKiAJv5qnJ7UYOb) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:39 |
 | 57 | [The Way You Look Tonight](https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [The Silver Lining \- The Songs of Jerome Kern](https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m) | 2:54 |
 | 58 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/5mRF9wpnR4j6QnRXJCNgoO) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 8:41 |
 | 59 | [Them There Eyes](https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Carmen McRae Sings Lover Man And Other Billie Holiday Classics](https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A) | 2:45 |

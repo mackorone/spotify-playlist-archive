@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 265052,
+  "num_followers": 265041,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAAGSr2Db/j+T8Hek8ZRSgLG",
+  "snapshot_id": "aQAHgAAAAADoCflASJqXOpR8kcC0N8jQ",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 155384,
+      "name": "MULHER DO ANO XD",
+      "url": "https://open.spotify.com/track/0s2SzCYqITp4lKdbxPQoYy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o Vai Embora",
         "url": "https://open.spotify.com/album/6JwoRKYnWd1Dv5z6zfv0bo"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 205785,
       "name": "N\u00e3o Vai Embora",
       "url": "https://open.spotify.com/track/28atBekPVlTdnU4M9Z7udd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 155384,
-      "name": "MULHER DO ANO XD",
-      "url": "https://open.spotify.com/track/0s2SzCYqITp4lKdbxPQoYy"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Olhos Castanhos",
+        "url": "https://open.spotify.com/album/5TUfzNYXahREF4LdxaSoDh"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 205523,
+      "name": "Olhos Castanhos",
+      "url": "https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tudo de bom",
         "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 164760,
       "name": "Tudo de bom",
       "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Olhos Castanhos",
-        "url": "https://open.spotify.com/album/5TUfzNYXahREF4LdxaSoDh"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 205523,
-      "name": "Olhos Castanhos",
-      "url": "https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo"
     },
     {
       "added_at": null,
@@ -983,26 +983,6 @@
       "duration_ms": 179374,
       "name": "MiuMiu",
       "url": "https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo (Deluxe)",
-        "url": "https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "La Cruz",
-          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
-        }
-      ],
-      "duration_ms": 102857,
-      "name": "Rough",
-      "url": "https://open.spotify.com/track/43ZdKF4jpHnnptyooxNXWu"
     }
   ],
   "unique_name": "This Is Lu\u00edsa Sonza",

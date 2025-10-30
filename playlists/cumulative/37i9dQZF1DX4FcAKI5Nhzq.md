@@ -2,7 +2,7 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: WOODZ\)
+> Future K\-Pop hits! \(Cover: &TEAM\)
 
 1,484 songs - 3 day 7 hr 52 min
 

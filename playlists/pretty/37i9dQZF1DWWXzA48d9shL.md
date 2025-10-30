@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,856 likes - 100 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,879 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 31 | [POPTHATRUNK](https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S) | 2:13 |
 | 32 | [paradise](https://open.spotify.com/track/1WVu14ouumvMd7u75jb56H) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [paradise](https://open.spotify.com/album/3hyYXtvZdAoOmuXIpyqyzP) | 3:02 |
 | 33 | [Cosmic Humility Interlude](https://open.spotify.com/track/1NoMJ5WqoxSchoyRd5D8mO) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [Cosmic Humility Interlude](https://open.spotify.com/album/3Dv78VpSDodHqzTs3PUStg) | 2:15 |
-| 34 | [Frank Miller \(Kill Again\)](https://open.spotify.com/track/7HZl2VrEC0wODesG5W5q0o) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Frank Miller \(Kill Again\) / I'm So Glad](https://open.spotify.com/album/39hIwDeKCBkErqbUJ7Q5pJ) | 2:11 |
+| 34 | [Frank Miller \(Kill Again\)](https://open.spotify.com/track/7HZl2VrEC0wODesG5W5q0o) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Frank Miller \(Kill Again\) / I'm So Glad](https://open.spotify.com/album/39hIwDeKCBkErqbUJ7Q5pJ) | 2:03 |
 | 35 | [LIFE SUCKS SO WE FUCK \(feat\. ZillaKami\)](https://open.spotify.com/track/3ykD76bDGfeLUaCiQ7GtJE) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [I HOPE YOU'RE HAPPY](https://open.spotify.com/album/4o38S5wL449A2Ny1iPbP6p) | 2:01 |
 | 36 | [BEAM TO YA HEAD](https://open.spotify.com/track/4SKu9Gc1w54tuF1m4Z0aAM) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [BEAM TO YA HEAD](https://open.spotify.com/album/52caoVYbYAcNNTdAaxh5QP) | 1:48 |
 | 37 | [0% \(feat\. ZillaKami\)](https://open.spotify.com/track/23kiail6YXSTnS2gPCGv8D) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [0% \(feat\. ZillaKami\)](https://open.spotify.com/album/6zwelZygwFIsSOhx16QaJc) | 2:12 |

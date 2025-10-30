@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107 likes - 174 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,106 likes - 174 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 85 | [X Ti](https://open.spotify.com/track/65mhesg9E1dT45P5DYX4wV) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 2:53 |
 | 86 | [La Discusión](https://open.spotify.com/track/5mzp5B1FA5e4fsvnkqyvm1) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:05 |
 | 87 | [Tus Labios](https://open.spotify.com/track/40DnXZoTlTSMWFhpDPLaxi) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/6FUiQAvxP4vICRPNGBS9HG) | 2:55 |
-| 88 | [La Niña](https://open.spotify.com/track/7AMzFTeQSS2FBjMCYb6zxs) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 2:43 |
-| 89 | [Tus Labios \- Remix](https://open.spotify.com/track/6beUeiXO8rabGQ6Qv9vWsD) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:15 |
+| 88 | [Tus Labios \- Remix](https://open.spotify.com/track/6beUeiXO8rabGQ6Qv9vWsD) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:15 |
+| 89 | [La Niña](https://open.spotify.com/track/7AMzFTeQSS2FBjMCYb6zxs) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 2:43 |
 | 90 | [No](https://open.spotify.com/track/2GsVvmnWA33ZRjcTOoCgi4) | [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i) | [No](https://open.spotify.com/album/0LLnOi8dF0yvqw1yKSmTDB) | 4:05 |
 | 91 | [Cosita \(feat\. Sech\)](https://open.spotify.com/track/6ycsFSUUgyOSZiz3P2o1pT) | [Valentino](https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Cosita \(feat\. Sech\)](https://open.spotify.com/album/6uwxNQwvvqBymh2Jalg44n) | 3:58 |
 | 92 | [Dale](https://open.spotify.com/track/3CgFFlhanq6n5yTlEoVesJ) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 2:42 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 173 | [Interludio](https://open.spotify.com/track/1BnmnbRmsZ6fG1qxlLJlZc) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/6FUiQAvxP4vICRPNGBS9HG) | 0:48 |
 | 174 | [Sin DJ](https://open.spotify.com/track/7hwkJDetmwkoVMnG7xoCSu) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [GHETTO CHILD](https://open.spotify.com/album/58pf971AkkgVetgudNWweN) | 2:03 |
 
-Snapshot ID: `AcAGfgAAAADHC/BwNHyrjt0EdrmuMSZs`
+Snapshot ID: `AcAMUAAAAADiij6/ENOIBAK4KrMOp03F`

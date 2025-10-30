@@ -4,7 +4,7 @@
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-111 songs - 7 hr 8 min
+112 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 | 2022-09-16 |  |
 | [Inventing The Wheel](https://open.spotify.com/track/3THN2eGuIxehrQPYhEE0Gr) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer \(Deluxe Edition\)](https://open.spotify.com/album/3nGF3nGNbvyqlwPHbpGof1) | 4:17 | 2024-10-04 | 2024-12-27 |
 | [Inventing The Wheel](https://open.spotify.com/track/5nVBunhfgeCpCl36r12Ac2) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Inventing The Wheel](https://open.spotify.com/album/3T2i1Ia16aqjbchxICe2tw) | 4:17 | 2023-04-06 | 2024-08-25 |
-| [Invisible Chalk](https://open.spotify.com/track/0slesDIGIjKVz9FkivKbE3) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ace](https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV) | 3:28 | 2025-10-23 |  |
+| [Invisible Chalk](https://open.spotify.com/track/0slesDIGIjKVz9FkivKbE3) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ace](https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV) | 3:28 | 2025-10-23 | 2025-10-30 |
 | [John Wayne](https://open.spotify.com/track/61D7FDCFgp9U4h6VgpRN0t) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 4:55 | 2022-09-16 | 2023-01-27 |
 | [L.A\. \(Looking Alive\)](https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:48 | 2022-09-16 |  |
 | [Last Boat To Freedom](https://open.spotify.com/track/4EmXzLFLqPKspA94RIYYM9) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 4:25 | 2022-09-16 | 2023-06-09 |
@@ -72,7 +72,8 @@
 | [Milk And Honey](https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Tales Of America \(The Second Coming\)](https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V) | 2:54 | 2022-09-16 |  |
 | [Modern Man \(feat\. Madison Cunningham\)](https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Modern Man](https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2) | 3:04 | 2022-09-16 |  |
 | [Mummy](https://open.spotify.com/track/6HZlaijnxTAJvnDGpyCc5o) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ace](https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV) | 4:05 | 2025-10-12 |  |
-| [My Full Name](https://open.spotify.com/track/3E0J3bhXAc5J7UCplVLcyS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [My Full Name](https://open.spotify.com/album/6eyXLuSwlVNIOG8JxPVEpH) | 3:19 | 2025-08-17 |  |
+| [My Full Name](https://open.spotify.com/track/3E0J3bhXAc5J7UCplVLcyS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [My Full Name](https://open.spotify.com/album/6eyXLuSwlVNIOG8JxPVEpH) | 3:19 | 2025-08-17 | 2025-10-30 |
+| [My Full Name](https://open.spotify.com/track/54BTdSX1jqE366VPHeGfWh) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ace](https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV) | 3:19 | 2025-10-30 |  |
 | [Neighbor Song \[Feat\. Madison Cunningham\]](https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Neighbor Song \(ft\. Madison Cunningham\)](https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs) | 3:40 | 2023-10-10 |  |
 | [No One Else To Blame](https://open.spotify.com/track/3tICJ9T0zJHV9NRakK8PHw) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No One Else To Blame](https://open.spotify.com/album/4RrYiD9kEUbyPYaWBmgVy8) | 3:02 | 2022-09-16 | 2024-11-13 |
 | [No Surprises](https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No Surprises](https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi) | 3:35 | 2022-09-16 |  |

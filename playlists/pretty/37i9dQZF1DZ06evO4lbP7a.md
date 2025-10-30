@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 
 > This is yama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,700 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,703 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 | 8 | [a.m.3:21](https://open.spotify.com/track/3oZ1DkKe2ZcvPh5Ffv6L0c) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [a.m.3:21](https://open.spotify.com/album/3oALJhgiL5WSZWMRwlMxoV) | 3:28 |
 | 9 | [偽顔](https://open.spotify.com/track/1CuCtAmIi4Gjk3q9wkWOKw) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 2:30 |
 | 10 | [Oz.](https://open.spotify.com/track/1Aq9S5teUzfZucr7rVRpSj) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 3:15 |
-| 11 | [BURN](https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BURN](https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4) | 2:16 |
-| 12 | [血流](https://open.spotify.com/track/0bBl2jjpCFCgRd60BowZoV) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 3:28 |
+| 11 | [血流](https://open.spotify.com/track/0bBl2jjpCFCgRd60BowZoV) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 3:28 |
+| 12 | [BURN](https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BURN](https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4) | 2:16 |
 | 13 | [憧れのままに](https://open.spotify.com/track/6cRZpoOfi9kBOTFxeN8X3t) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:25 |
 | 14 | [アイタリナイ](https://open.spotify.com/track/58tyTrZH1pt8esOLGynycj) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [Noisy Love Songs \- MAISONdes × URUSEIYATSURA Complete Collection \-](https://open.spotify.com/album/25FyQq2VGgXuqw8nWEIRxx) | 2:43 |
 | 15 | [Lost](https://open.spotify.com/track/3sz0hi6mkqq0hfRMN8RGrs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 | 49 | [クリーム（Carpainter Remix）](https://open.spotify.com/track/0OXyGJI74UjtCd86Dgr0GX) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa) | [doku](https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P) | 4:17 |
 | 50 | [いぶき](https://open.spotify.com/track/6Bt9IlFTlLrEn8ZoDGQ60p) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [いぶき](https://open.spotify.com/album/0wf3C30gLk0n3gaMo4CAiW) | 3:17 |
 
-Snapshot ID: `aP62AAAAAAC5T/lyP1H5drHXtnMOFXcS`
+Snapshot ID: `aQAHgAAAAADH7CdGqT44RGnEGP8UpwtF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,229 likes - 50 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,233 likes - 50 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 31 | [Rag Hemant](https://open.spotify.com/track/4pC7qAyC6kcW1JDswFrgNd) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Indian Architexture](https://open.spotify.com/album/4XLInOcNNNzsE6AzZ1coHI) | 28:51 |
 | 32 | [Raga Marwa \- Alap](https://open.spotify.com/track/4gNLtfZf390GJoNeO8T1Fl) | [Kushal Das](https://open.spotify.com/artist/1YIqdGEWAFDGcaSCtCscli) | [Inde Du Nord \- North India : Raga Marwa Surbahar](https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP) | 20:34 |
 | 33 | [Purvi \- Alap & Vilambit](https://open.spotify.com/track/4YWDiGHsCcdW1OjfVDY84w) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 16:51 |
-| 34 | [Gat Drut](https://open.spotify.com/track/1tNhPY0R3XT6ShwSgpwZJX) | [Pandit Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Classical Instrumental \- Pt\. Shivkumar Sharma](https://open.spotify.com/album/4bPvlIsznjSGNfFsVByrEF) | 5:45 |
-| 35 | [Darbari Kanada, Alap](https://open.spotify.com/track/4VXkCcN0Rk0sIOrotrNsnD) | [Vasant Rai](https://open.spotify.com/artist/0weh3Q47P9QCdXInoUNXxt) | [Live At Washington Square Church 1981](https://open.spotify.com/album/4WP2uHgYTDFCFOCEIfCNVE) | 26:13 |
+| 34 | [Darbari Kanada, Alap](https://open.spotify.com/track/4VXkCcN0Rk0sIOrotrNsnD) | [Vasant Rai](https://open.spotify.com/artist/0weh3Q47P9QCdXInoUNXxt) | [Live At Washington Square Church 1981](https://open.spotify.com/album/4WP2uHgYTDFCFOCEIfCNVE) | 26:13 |
+| 35 | [Gat Drut](https://open.spotify.com/track/1tNhPY0R3XT6ShwSgpwZJX) | [Pandit Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Classical Instrumental \- Pt\. Shivkumar Sharma](https://open.spotify.com/album/4bPvlIsznjSGNfFsVByrEF) | 5:45 |
 | 36 | [Rag Marwa, Part 1](https://open.spotify.com/track/5oVsZLthQbDaAeWWyLfDhB) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:25 |
 | 37 | [Raga Purvi](https://open.spotify.com/track/3MggyCyjiU4wxbKtrgV6kn) | [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ) | [Young Masters \- Kala Ramnath](https://open.spotify.com/album/3Cw8FheJhkCRk5a2QDQIhW) | 9:46 |
 | 38 | [Tilak Kamod](https://open.spotify.com/track/1B9Y1TJJYIqtdCZcMXIEv0) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 20:36 |

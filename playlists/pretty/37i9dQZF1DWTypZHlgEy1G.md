@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,041 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,023 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,22 +66,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 56 | [Les Mots Bleus](https://open.spotify.com/track/0iKhilpfx902LV9jUU5x30) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Les mots bleus](https://open.spotify.com/album/46kTt80CYge3BA2IWx4WRh) | 4:10 |
 | 57 | [La bohème](https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 4:05 |
 | 58 | [Je suis venu te dire que je m'en vais](https://open.spotify.com/track/35arjnsPj4gLO8aFclgexb) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Vu De L'Extérieur](https://open.spotify.com/album/352XdbgCcdCMStQtgVDX3X) | 3:19 |
-| 59 | [Vesoul](https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Infiniment](https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf) | 3:06 |
-| 60 | [Fais comme l'oiseau](https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:06 |
-| 61 | [La maladie d'amour](https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La Maladie D'Amour](https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK) | 3:30 |
+| 59 | [Mon vieux](https://open.spotify.com/track/05GcBfZY8Zno2DkWToHyIw) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [Mon Vieux](https://open.spotify.com/album/1i0NyVofMiqLPfZwiiQ79f) | 3:32 |
+| 60 | [Vesoul](https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Infiniment](https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf) | 3:06 |
+| 61 | [Fais comme l'oiseau](https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:06 |
 | 62 | [Emmenez Moi](https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 3:32 |
-| 63 | [Les copains d'abord](https://open.spotify.com/track/1RarFtujsd7NHoe0mFtVLx) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Georges Brassens Gold](https://open.spotify.com/album/1cQnovhPp0wDLyT4HfTLvW) | 4:01 |
-| 64 | [Aline](https://open.spotify.com/track/17ODC17zbOv6MVBDiANvue) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Best Of](https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf) | 2:50 |
-| 65 | [Ne Me Quitte Pas](https://open.spotify.com/track/0B2mpfbg0an33QEYfKGChy) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Infiniment](https://open.spotify.com/album/4d9l1TbzJDhwKylJLwJixn) | 4:11 |
-| 66 | [Poupée de cire, poupée de son](https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [France Gall CD Story](https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb) | 2:33 |
+| 63 | [La maladie d'amour](https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La Maladie D'Amour](https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK) | 3:30 |
+| 64 | [Les copains d'abord](https://open.spotify.com/track/1RarFtujsd7NHoe0mFtVLx) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Georges Brassens Gold](https://open.spotify.com/album/1cQnovhPp0wDLyT4HfTLvW) | 4:01 |
+| 65 | [Aline](https://open.spotify.com/track/17ODC17zbOv6MVBDiANvue) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Best Of](https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf) | 2:50 |
+| 66 | [Ne Me Quitte Pas](https://open.spotify.com/track/0B2mpfbg0an33QEYfKGChy) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Infiniment](https://open.spotify.com/album/4d9l1TbzJDhwKylJLwJixn) | 4:11 |
 | 67 | [Hier encore](https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 2:20 |
-| 68 | [Céline](https://open.spotify.com/track/1dhwnKg62ljkHarJ883N7Z) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB) | 3:08 |
-| 69 | [Mon vieux](https://open.spotify.com/track/05GcBfZY8Zno2DkWToHyIw) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [Mon Vieux](https://open.spotify.com/album/1i0NyVofMiqLPfZwiiQ79f) | 3:32 |
+| 68 | [Poupée de cire, poupée de son](https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [France Gall CD Story](https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb) | 2:33 |
+| 69 | [Céline](https://open.spotify.com/track/1dhwnKg62ljkHarJ883N7Z) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB) | 3:08 |
 | 70 | [Laissons entrer le soleil](https://open.spotify.com/track/2IvsJEIjx8fWfkTWDCuEYm) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Inédits 68\-97](https://open.spotify.com/album/3NBgEG8mdN6GvIsrgC79si) | 3:44 |
 | 71 | [Comme d'habitude](https://open.spotify.com/track/3oHpcWfXvtA6RrzgYahuAT) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Best Of](https://open.spotify.com/album/3ZU8JjHnH8JxGEKfrN7x16) | 4:13 |
 | 72 | [Amoureux de ma femme](https://open.spotify.com/track/6cT38LHvaN11gThHVVkDee) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Les plus grandes chansons](https://open.spotify.com/album/4F6NYEBMBCvvIuj1RQv2vh) | 2:43 |
-| 73 | [Santiano](https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB) | 2:14 |
-| 74 | [La madrague](https://open.spotify.com/track/6S4VGbTsHYtqchpkCx0kxW) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Bonnie And Clyde](https://open.spotify.com/album/4bUHEvMDSA8Y0uIDco133a) | 2:33 |
+| 73 | [La madrague](https://open.spotify.com/track/6S4VGbTsHYtqchpkCx0kxW) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Bonnie And Clyde](https://open.spotify.com/album/4bUHEvMDSA8Y0uIDco133a) | 2:33 |
+| 74 | [Santiano](https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB) | 2:14 |
 | 75 | [Douce France](https://open.spotify.com/track/1YwQo6MrcSn0RQfnk0iG8D) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [Platinum](https://open.spotify.com/album/4WDKGsDi7616S6Egs0quLq) | 3:12 |
 | 76 | [Lady Lay](https://open.spotify.com/track/1qB3PKYW5muVtgi5OEA68t) | [Pierre Groscolas](https://open.spotify.com/artist/3RAqlLiVsYkndio9mey84r) | [Les Plus Grands Tubes 70's](https://open.spotify.com/album/5p9k85pZ6CRxssmNuNZm6c) | 2:55 |
 | 77 | [Vous permettez, monsieur ?](https://open.spotify.com/track/0BZkhtJceF2dcvazRrfguv) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [Le disque d'or \(Remastered\)](https://open.spotify.com/album/79M1hsJkTEt1mOfiIi97Qh) | 3:02 |

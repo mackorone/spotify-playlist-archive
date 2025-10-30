@@ -8006,7 +8006,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 151111,
       "name": "Discoteka",
       "url": "https://open.spotify.com/track/5NsyTXFybW50VUJGiH3vYG"
@@ -10038,10 +10038,28 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 269919,
       "name": "Eyl\u00fclzede",
       "url": "https://open.spotify.com/track/3N2dY8tyTp7XGhsTSigaxT"
+    },
+    {
+      "album": {
+        "name": "Eyl\u00fclzede",
+        "url": "https://open.spotify.com/album/06nofxFB2jYPu1WeavSsnF"
+      },
+      "artists": [
+        {
+          "name": "Nikbinler",
+          "url": "https://open.spotify.com/artist/1jd75hi1uo8CqDnDtVJcnz"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269949,
+      "name": "Eyl\u00fclzede",
+      "url": "https://open.spotify.com/track/1gboFm26jtWaIwc23nDRtK"
     },
     {
       "album": {
@@ -11596,7 +11614,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 118466,
       "name": "gigolo",
       "url": "https://open.spotify.com/track/0zZXEuRkmE44e78mniF5MU"
@@ -14982,7 +15000,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 222458,
       "name": "Ivonny Bonita",
       "url": "https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c"
@@ -17892,7 +17910,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 115294,
       "name": "Lust",
       "url": "https://open.spotify.com/track/2Tf3o75XkU0IS06tYgEuvn"
@@ -18436,7 +18454,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -20078,7 +20096,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 92384,
       "name": "MONTAGEM RUGADA",
       "url": "https://open.spotify.com/track/7hCUHXMZknrymWCyeMx8B6"
@@ -26454,7 +26472,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 185542,
       "name": "SEX LUJI PARI",
       "url": "https://open.spotify.com/track/3HfJ1nDgXHcWX0MJPkLDzU"
@@ -27482,7 +27500,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 155959,
       "name": "Sistemul Lamborghini",
       "url": "https://open.spotify.com/track/4H0l3FUPayEP1khDHXUm28"
@@ -28408,7 +28426,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 125624,
       "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
       "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
@@ -33702,6 +33720,24 @@
     {
       "album": {
         "name": "WE GO UP",
+        "url": "https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "WE GO UP",
+      "url": "https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl"
+    },
+    {
+      "album": {
+        "name": "WE GO UP",
         "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
       },
       "artists": [
@@ -33712,7 +33748,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z"
@@ -35252,7 +35288,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 175324,
       "name": "yes baby",
       "url": "https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA"

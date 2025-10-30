@@ -4,7 +4,7 @@
 
 > De beste Nederlandse muziek vind je hier! Met o.a\. Kensington \(cover\), Frenna, Noano, Bilal Wahib en meer
 
-111 songs - 5 hr 22 min
+112 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Mona Lisa](https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:27 | 2025-07-04 | 2025-08-22 |
 | [Morning](https://open.spotify.com/track/4VQ9pA1QmZW8pdR5T0AB3R) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Morning](https://open.spotify.com/album/4sHcIgIww30W4pqcm9PEKi) | 2:57 | 2025-09-12 |  |
 | [Nachtenlang](https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Nachtenlang](https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh) | 2:55 | 2025-07-04 |  |
+| [Niemand](https://open.spotify.com/track/2ZodgwtywVovNUNIcKDpbD) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Niemand](https://open.spotify.com/album/0dwDG1ALroQL9nw2ieSlLZ) | 3:49 | 2025-10-29 |  |
 | [Nooit Meer Spijt](https://open.spotify.com/track/2h6HTbs5OeIyxsUa6kUeAL) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 2:27 | 2025-07-04 | 2025-08-22 |
 | [oeps](https://open.spotify.com/track/4w7Zhg034GDeMYnpOoZIuu) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [lieve monsters](https://open.spotify.com/album/58hG8DHeDtvVE2IrKq7IOM) | 3:20 | 2025-08-27 |  |
 | [Overdosis](https://open.spotify.com/track/1PHlNckjnBedkWSNhQ6nvr) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Overdosis](https://open.spotify.com/album/32We7ASDADKiivoG5cJGhL) | 2:30 | 2025-08-25 |  |

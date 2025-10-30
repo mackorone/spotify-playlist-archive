@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,675 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,686 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 29 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
 | 30 | [Now She Knows](https://open.spotify.com/track/7nW7leLofx8DTpJ4LYayRi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 3:30 |
 | 31 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
-| 32 | [Plain Sailing](https://open.spotify.com/track/5qZMdIYFvMPRw4Q0Z05zbL) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Plain Sailing](https://open.spotify.com/album/0NLuydOJrzo3WKoIgELNGu) | 4:05 |
-| 33 | [Keep On](https://open.spotify.com/track/7fZTnNUEZSWecuu1iYlobG) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Keep On / Operation](https://open.spotify.com/album/51pDBwHrfZ62Dq8XVjgXFF) | 4:08 |
+| 32 | [Keep On](https://open.spotify.com/track/7fZTnNUEZSWecuu1iYlobG) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Keep On / Operation](https://open.spotify.com/album/51pDBwHrfZ62Dq8XVjgXFF) | 4:08 |
+| 33 | [Plain Sailing](https://open.spotify.com/track/5qZMdIYFvMPRw4Q0Z05zbL) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Plain Sailing](https://open.spotify.com/album/0NLuydOJrzo3WKoIgELNGu) | 4:05 |
 | 34 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
 | 35 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
 | 36 | [Dance With Me](https://open.spotify.com/track/0Z9STl1kCx91DY69p5i1m3) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [Dance With Me](https://open.spotify.com/album/31J1iNzKkTy0ENGnxBx5l0) | 3:21 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 43 | [LMK](https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [LMK](https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6) | 3:53 |
 | 44 | [Without U](https://open.spotify.com/track/1ICrcCa1wdOwEuJB6UxkoH) | [LuvLess](https://open.spotify.com/artist/3nlrFqpQAci9Bx0O5VZ5Hr) | [Without U](https://open.spotify.com/album/4rVXXB9xESq71coxFxVbYh) | 3:29 |
 | 45 | [run away](https://open.spotify.com/track/2SN7ULJRUGp4GWFRAaWTbr) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [run away](https://open.spotify.com/album/4UQZ0IUOWZOrfx7lrTxWEe) | 3:12 |
-| 46 | [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 |
+| 46 | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/track/0QcO66hidLPUiazab9hprm) | [Jonny was Here.](https://open.spotify.com/artist/23nRxsR5E3ALBpT8Cl2Vbv), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/album/13tOrmLKmRMR8KlZE9U9mr) | 3:14 |
 | 47 | [First Light](https://open.spotify.com/track/5fV7oTa9uIXWDItxcyhHEV) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [First Light](https://open.spotify.com/album/0wM0yQ1NZ5JoubMkc1flpa) | 4:34 |
-| 48 | [Rapture in Blue \- Midnight Version](https://open.spotify.com/track/0COxZNIcu4gUrXlUzLBVUT) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Rapture in Blue / Greasy off the Racing Line \(Midnight Versions\)](https://open.spotify.com/album/4mNoMzeIi5IoXbrGMgESWH) | 4:27 |
-| 49 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 |
-| 50 | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/track/0QcO66hidLPUiazab9hprm) | [Jonny was Here.](https://open.spotify.com/artist/23nRxsR5E3ALBpT8Cl2Vbv), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/album/13tOrmLKmRMR8KlZE9U9mr) | 3:14 |
+| 48 | [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 |
+| 49 | [Rapture in Blue \- Midnight Version](https://open.spotify.com/track/0COxZNIcu4gUrXlUzLBVUT) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Rapture in Blue / Greasy off the Racing Line \(Midnight Versions\)](https://open.spotify.com/album/4mNoMzeIi5IoXbrGMgESWH) | 4:27 |
+| 50 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 |
 
 Snapshot ID: `AAAAAMnkw1XehsBpg/TgFDBVee2R84AF`

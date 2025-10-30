@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 
 > This is Manuel Medrano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,705 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,771 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 21 | [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 |
 | 22 | [Quédate](https://open.spotify.com/track/5XXxxfDWGvI6OaXPEniklV) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:03 |
 | 23 | [Hace Tiempo](https://open.spotify.com/track/7Juu11Or4AfppFbtCNW11f) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 2:22 |
-| 24 | [BOLERITO](https://open.spotify.com/track/3HiHhnHqLNB5mlw7lbTrMO) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PORTATE BIEN](https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt) | 3:27 |
-| 25 | [Cielo \(feat\. Nile Rodgers\)](https://open.spotify.com/track/5qH4I7qIkrhxir8UfLG0IY) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Cielo \(feat\. Nile Rodgers\)](https://open.spotify.com/album/7FZJlzMohMoU65vac6hydK) | 3:03 |
+| 24 | [Cielo \(feat\. Nile Rodgers\)](https://open.spotify.com/track/5qH4I7qIkrhxir8UfLG0IY) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Cielo \(feat\. Nile Rodgers\)](https://open.spotify.com/album/7FZJlzMohMoU65vac6hydK) | 3:03 |
+| 25 | [BOLERITO](https://open.spotify.com/track/3HiHhnHqLNB5mlw7lbTrMO) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PORTATE BIEN](https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt) | 3:27 |
 | 26 | [Historia De Un Amor](https://open.spotify.com/track/4kF52Us8ae35E230x84Vht) | [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Las De Infante](https://open.spotify.com/album/1AkLQlVCOPPuRzfwPwgpZH) | 2:55 |
 | 27 | [Me Gustas](https://open.spotify.com/track/7DwLHGbapLZRCIuWS0K6BQ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 2:37 |
 | 28 | [Buena](https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Buena](https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 49 | [Auténtica](https://open.spotify.com/track/5PZh6XWxtHP2Paj5W60PAv) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO \(Deluxe Edition\)](https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC) | 3:24 |
 | 50 | [Amen \- Spanglish Version](https://open.spotify.com/track/19sOMZm85JDQCVJa8S742F) | [Stereo Jane](https://open.spotify.com/artist/2rJ1AerBug0HNEj8gIHazF), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Amen \(Spanglish Version\)](https://open.spotify.com/album/4UP8EcEBwj8LikFk6Qx9CD) | 3:16 |
 
-Snapshot ID: `aP62AAAAAAAiwAvkB2+McNbXiqy6RZMn`
+Snapshot ID: `aQAHgAAAAADatZ7hbrx/SlrsDdmnjA2p`

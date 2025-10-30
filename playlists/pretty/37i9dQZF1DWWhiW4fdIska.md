@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 
 > Legendary blues guitarists\. Cover: Buddy Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,334 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,331 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Still Got The Blues](https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 6:10 |
-| 2 | [Pride and Joy](https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 3:39 |
-| 3 | [The Thrill Is Gone](https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 5:24 |
+| 2 | [The Thrill Is Gone](https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 5:24 |
+| 3 | [Pride and Joy](https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 3:39 |
 | 4 | [Red House](https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:50 |
 | 5 | [Crossroads \- Live](https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:18 |
 | 6 | [Born Under A Bad Sign](https://open.spotify.com/track/0vDn81gdOuRxjbIwcASuiV) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 2:46 |
-| 7 | [Lenny](https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 4:57 |
-| 8 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:58 |
+| 7 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:58 |
+| 8 | [Lenny](https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 4:57 |
 | 9 | [Chains And Things](https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l) | 4:53 |
 | 10 | [Albatross \- 2018 Master](https://open.spotify.com/track/3iTkd7x5X2LIVKu7JNwqHR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 3:11 |
 | 11 | [Be Careful With a Fool](https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Johnny Winter](https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch) | 5:14 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 | 40 | [Tired Of Your Jive \- Live At The International Club, Chicago/1966](https://open.spotify.com/track/5IGQhVuiVCPUtr7gatwbfM) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues Is King \(Live At The International Club, Chicago/1966\)](https://open.spotify.com/album/1iYvqgZGYpBkkkTt37g0ti) | 3:31 |
 | 41 | [It's My Own Fault](https://open.spotify.com/track/35bFBYboT095ukNp4lUYiU) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Ain't Enough Comin' In](https://open.spotify.com/album/4aEPDrXRjEqkI6FTO7UNIA) | 5:16 |
 | 42 | [Don't Drive Me Baby](https://open.spotify.com/track/0YwiXJVTCIqIuqqexiDOym) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Complete Chess Masters](https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl) | 2:39 |
-| 43 | [Somebody Loan Me A Dime](https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 2:59 |
-| 44 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 4:28 |
+| 43 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 4:28 |
+| 44 | [Somebody Loan Me A Dime](https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 2:59 |
 | 45 | [Cuttin' In](https://open.spotify.com/track/3zIFZYaOv5xqtszhnXxYkb) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Gangster Of Love](https://open.spotify.com/album/1Smhg9Z3vsvr4GcMg8cQSp) | 3:15 |
 | 46 | [A Fool No More](https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 7:44 |
 | 47 | [Sure Got Cold After the Rain Fell](https://open.spotify.com/track/30sJmjuLalNSzlRIml1PlJ) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 7:20 |

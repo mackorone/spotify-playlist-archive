@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Homer el Mero Mero en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,998 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,003 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 17 | [956ix](https://open.spotify.com/track/1gPQHFoeqBEdgGHguMyw3P) | [VSR](https://open.spotify.com/artist/160OWDQdMtni2Z33Y4IDDm), [Zavalah](https://open.spotify.com/artist/0AjXdLsgBphKgddIFUKgUX) | [956ix](https://open.spotify.com/album/5eTHnmyCBl2h33gdY89VE8) | 2:54 |
 | 18 | [PECHINCHA](https://open.spotify.com/track/3xxQuHsZH5qvX1CQjZksst) | [Vici](https://open.spotify.com/artist/7tav0bx2uKKIYGW50Lorr4), [minha tia](https://open.spotify.com/artist/1sjDLqdFUHn2rdCzzdgMuc), [Nitcho](https://open.spotify.com/artist/4YgGAofWf2S64SvMbRQdb1), [Leborato](https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq) | [PECHINCHA](https://open.spotify.com/album/2Rhku34nps7zM1q9tiND2d) | 3:05 |
 | 19 | [Culombianas](https://open.spotify.com/track/5eaxLrD1qlb4rc69lyH8XG) | [El Belix](https://open.spotify.com/artist/0lRZ9SbBvD6n3YOzxVEtT5) | [Culombianas](https://open.spotify.com/album/1hf8S4VI37ZJkMHSC7YCtd) | 3:14 |
-| 20 | [Tá Tudo Bem](https://open.spotify.com/track/6kpD3iGNxjAGl6Iy6QfPZ0) | [KidRW](https://open.spotify.com/artist/6KJoJlvK2qnTUngkN0wOVl), [Loch Boy](https://open.spotify.com/artist/265YcZP9Z8kDQndTteQfxE), [Lywie](https://open.spotify.com/artist/69v9KGSOHEYAxVfNnIUuLp) | [Tá Tudo Bem](https://open.spotify.com/album/3OMFbbjQ67t35m8AVrg2gO) | 1:48 |
+| 20 | [Tá Tudo Bem](https://open.spotify.com/track/6kpD3iGNxjAGl6Iy6QfPZ0) | [KidRW](https://open.spotify.com/artist/6KJoJlvK2qnTUngkN0wOVl), [Loch Boy](https://open.spotify.com/artist/265YcZP9Z8kDQndTteQfxE), [Lywie](https://open.spotify.com/artist/4oilLoR9H6iFbqZdUfQvLG) | [Tá Tudo Bem](https://open.spotify.com/album/3OMFbbjQ67t35m8AVrg2gO) | 1:48 |
 | 21 | [En Nadie Confio](https://open.spotify.com/track/4XbMQcSByOFGC344zOX5f7) | [Yutta](https://open.spotify.com/artist/2fa423JZ6J2wEpJRo92hoO), [Kiry Curu](https://open.spotify.com/artist/3nb8360gVWO9vWGE16bE9A), [Vendeta](https://open.spotify.com/artist/7r2wRvzjL4bfBXLmebImud), [KEPI Publishing LLC](https://open.spotify.com/artist/57wTEXzFHic4hHuKzSL7Gl) | [En Nadie Confio](https://open.spotify.com/album/7qRriMSykoUMLgWj5ylO4m) | 3:21 |
 | 22 | [ILEGALMENTE LEGAL](https://open.spotify.com/track/3AUJgvWBAb38hlUjZDvton) | [Big Stan](https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd), [Isek](https://open.spotify.com/artist/12osUSoqPugQPwSFTzcwnd) | [ILEGALMENTE LEGAL](https://open.spotify.com/album/4c3JqKzkI2iUJm9m9Lydle) | 3:09 |
 | 23 | [Boticario](https://open.spotify.com/track/37sJRZIWQeiHwywmhzt6n4) | [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N), [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Maco Maat](https://open.spotify.com/artist/29W1vGuAmmxv2FhBDxmCg9), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX) | [Boticario](https://open.spotify.com/album/4UMogwYKsk6xy2K3qMbE8e) | 3:10 |

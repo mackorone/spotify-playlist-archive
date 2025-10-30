@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">Blush Davis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 441 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 26 | [I Want You](https://open.spotify.com/track/59sRxIltnBLAWzaTeV05xd) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [I Want You](https://open.spotify.com/album/7Dq0zfGilniudyVzvZg3rn) | 2:53 |
 | 27 | [Too Weak](https://open.spotify.com/track/0IwnyVENCHeAnSPA8xcG14) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Coming Home](https://open.spotify.com/album/0Z1WX8Yg9HXmz6Qkl2nhgc) | 4:00 |
 | 28 | [Better Dayz](https://open.spotify.com/track/3Utn7kpHOgv7EQG5XmFzY7) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Accidentally On Purpose \- The 2nd Mini Album](https://open.spotify.com/album/70RduzYb3gbtmVs88CpAHV) | 3:01 |
-| 29 | [Feeling](https://open.spotify.com/track/6FAlvEVVjghOb5WjWRuknl) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Timofey](https://open.spotify.com/artist/6MteslgsqpOUtewd6Pw1Uq) | [Feeling](https://open.spotify.com/album/68YUOdsBc9jRCAidJjSmM5) | 2:48 |
-| 30 | [CHESS \(DAHYUN\)](https://open.spotify.com/track/0dvrmOYJJHSCG9MKyclogF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:29 |
+| 29 | [CHESS \(DAHYUN\)](https://open.spotify.com/track/0dvrmOYJJHSCG9MKyclogF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:29 |
+| 30 | [Feeling](https://open.spotify.com/track/6FAlvEVVjghOb5WjWRuknl) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Timofey](https://open.spotify.com/artist/6MteslgsqpOUtewd6Pw1Uq) | [Feeling](https://open.spotify.com/album/68YUOdsBc9jRCAidJjSmM5) | 2:48 |
 | 31 | [Fragile](https://open.spotify.com/track/7FUA7YopOZWJ38Z4bvagWw) | [S$DD](https://open.spotify.com/artist/1WekWbvgbqnfThxOixlYHw), [TRAILS](https://open.spotify.com/artist/4CSX0R9KLs9HkyqLfiraPQ) | [Fragile](https://open.spotify.com/album/6U4OhqiXPlHvnLwGtNkGlu) | 4:09 |
 | 32 | [BORN TO BREAK YOUR HEART](https://open.spotify.com/track/31OchL4Z3abIvoywvCaXmI) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [THE RUDE AWAKENING OF MR BIG JUICE.](https://open.spotify.com/album/3EkoUqxtpRbsaywozm9Wg5) | 2:39 |
 | 33 | [Turn off the Lights](https://open.spotify.com/track/3TeieiG5zeormUCyJIcF5Z) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75) | [Turn off the Lights](https://open.spotify.com/album/2EsmUBEmNSpSPAUW65C6ng) | 3:08 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 59 | [Meaning \- Inst.](https://open.spotify.com/track/4Y5oE4Xn5VMCRce5UgyIkM) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [\(Me\)moir](https://open.spotify.com/album/1KixiCbpzXKydBJqWiA9kB) | 2:54 |
 | 60 | [tydfl](https://open.spotify.com/track/1iTEUzyDxQRcAbbYWsjT4A) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 2:32 |
 
-Snapshot ID: `AcAGfgAAAABnfHUeY441oF8BW60Rh4It`
+Snapshot ID: `AcAMUAAAAACtY934a7stlLKOdBzX3NCT`

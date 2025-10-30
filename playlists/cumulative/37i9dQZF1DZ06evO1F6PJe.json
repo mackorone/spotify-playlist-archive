@@ -553,6 +553,28 @@
     },
     {
       "album": {
+        "name": "Chains And Things",
+        "url": "https://open.spotify.com/album/1JGZNt476A3wZ0YUwtI3Js"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303773,
+      "name": "Chains And Things",
+      "url": "https://open.spotify.com/track/2uK43c3VurRJmePMQKle84"
+    },
+    {
+      "album": {
         "name": "Don't Explain",
         "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
       },
@@ -1028,7 +1050,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 213826,
       "name": "Driving Wheel",
       "url": "https://open.spotify.com/track/4Lvby06863caCqrmISPYp3"

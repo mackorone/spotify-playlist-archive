@@ -4,7 +4,7 @@
 
 > The ultimate songbook ⏳ feat\. Celeste
 
-602 songs - 1 day 9 hr 44 min
+603 songs - 1 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ain't Misbehavin'](https://open.spotify.com/track/1d0P00e6Esi37XOWiDlvG9) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Ain't Misbehavin'](https://open.spotify.com/album/5mWDJe2FHrLyGSNVux1nw0) | 2:26 | 2024-05-31 | 2024-08-17 |
 | [Align](https://open.spotify.com/track/4TfLejoCdjFhbpWad6FxT5) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Align](https://open.spotify.com/album/5eL07b6I4JKmxnCmLPYsQJ) | 4:28 | 2025-09-11 |  |
 | [All I Need](https://open.spotify.com/track/5vSpEQozVvQmBN14A6m8zY) | [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB) | [All I Need](https://open.spotify.com/album/707DzUEuWroACBGQfOvBOo) | 3:12 | 2025-05-29 | 2025-09-20 |
+| [All In Now](https://open.spotify.com/track/1uDKjeSKLKEg6eqUh880z1) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [All In Now](https://open.spotify.com/album/4UF1wGJMr5eElectqIcrpv) | 4:04 | 2025-10-23 |  |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-04 | 2025-03-14 |
 | [All Out Of Fight](https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL \(Tour Deluxe Edition\)](https://open.spotify.com/album/4hgincUyDza4A228fFQRiK) | 3:32 | 2024-05-31 | 2024-09-21 |
 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 | 2025-10-23 |  |

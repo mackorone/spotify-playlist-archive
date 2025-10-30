@@ -1,12 +1,12 @@
 {
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
-  "num_followers": 6488,
+  "num_followers": 6489,
   "original_name": "This Is The Three Degrees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAABYWAbyZFJj76ztF2OZP7zC",
+  "snapshot_id": "aQAHgAAAAADFLNt3EjfkmSxVzAcMKeue",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "You're the Fool",
-      "url": "https://open.spotify.com/track/3vzbLYeAjvRjc63S1fxSpp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 239160,
       "name": "Jump The Gun",
       "url": "https://open.spotify.com/track/74HHvkOUslEi5ra2hifet1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "You're the Fool",
+      "url": "https://open.spotify.com/track/3vzbLYeAjvRjc63S1fxSpp"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday Music",
-        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Sugar On Sunday",
-      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
         "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 153560,
       "name": "Contact",
       "url": "https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunday Music",
+        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Sugar On Sunday",
+      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Dimensions",
-        "url": "https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 346800,
-      "name": "Magic In The Air",
-      "url": "https://open.spotify.com/track/6130TGiRy7xaXkRQ6P6jSf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When Will I See You Again (Re-Recorded / Remastered)",
         "url": "https://open.spotify.com/album/1cUBWEBaBZMw1KgHzgyKBg"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 203119,
       "name": "T.S.O.P. (The Sound Of Philadelphia) (Re-Recorded / Remastered)",
       "url": "https://open.spotify.com/track/1n9Gm25I5wdx6AxnvgWSgC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Dimensions",
+        "url": "https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 346800,
+      "name": "Magic In The Air",
+      "url": "https://open.spotify.com/track/6130TGiRy7xaXkRQ6P6jSf"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop, soda featuring Carter Vail
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,951 likes - 65 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,966 likes - 65 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,609 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,592 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 51 | [Deixar Partir \- Live Session](https://open.spotify.com/track/4gsoxxhfcVBZ8rIzl2b6HD) | [Emoponto](https://open.spotify.com/artist/5wybIAmMmNUQ4zmwRMODRb), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK) | [Live na Quarentena: Polifonia Online 2020 \(Live Session\)](https://open.spotify.com/album/2pHlcGhSS81dnJ1I1tzw55) | 3:35 |
 | 52 | [Water](https://open.spotify.com/track/4KDcyh5Adgm5zoVC6MuuJe) | [Reffer](https://open.spotify.com/artist/7of9Yjh4D5xYCu0uRwTtsS) | [Reffer](https://open.spotify.com/album/67Ss0dxo4L8RP58aoxVTlb) | 1:56 |
 | 53 | [Dúvida](https://open.spotify.com/track/2MDwOOsDyBdyLUDvE1oUJw) | [IUPI](https://open.spotify.com/artist/6oVKPGpUEElMF5ianQSNUZ) | [As Viagens da Vida](https://open.spotify.com/album/2SYgoE9bAOnW9aexP0DY66) | 3:10 |
-| 54 | [E Tao Raro](https://open.spotify.com/track/67s36dh8Q7Cy01kBesiVlh) | [Darvin](https://open.spotify.com/artist/4qOzfJoSvcBp7dSDlXxwBY) | [Darvin](https://open.spotify.com/album/7BKnHmaLvrw48FAnlyUJAA) | 3:36 |
+| 54 | [É Tão Raro](https://open.spotify.com/track/67s36dh8Q7Cy01kBesiVlh) | [Darvin](https://open.spotify.com/artist/4qOzfJoSvcBp7dSDlXxwBY) | [Darvin](https://open.spotify.com/album/7BKnHmaLvrw48FAnlyUJAA) | 3:36 |
 | 55 | [Lentamente](https://open.spotify.com/track/71pHOZUBFAXxE7g3iDf04f) | [Square](https://open.spotify.com/artist/7dqP3g4hzcHcjJ0GM6Cn3y) | [Maior Que o Céu](https://open.spotify.com/album/3B3qszHZhsmT3ZLYoMdrTi) | 2:17 |
 | 56 | [Duas e Meia](https://open.spotify.com/track/6bUTztNNqxkZVhLuzOmF7V) | [Polara](https://open.spotify.com/artist/2aVrsVaTZsqC5iNqk0zNcR) | [Não Use o Termo](https://open.spotify.com/album/0ZaAlMcWGAnVhYYn1HGCmc) | 1:25 |
 | 57 | [Zé Rico](https://open.spotify.com/track/6wO7hALrBKW5R0j5AbOwer) | [Debate](https://open.spotify.com/artist/5yZRDKk8TfOSxah2NFpnEG) | [EP](https://open.spotify.com/album/4nxp3Q69TuMYntWPhbtBEg) | 3:42 |

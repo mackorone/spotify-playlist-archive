@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 97026,
+  "num_followers": 97036,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADquUqnNhDGfhV+gOvDchkj",
+  "snapshot_id": "aQAHgAAAAADU99MBL2zplMTrAg7ZUAd3",
   "tracks": [
     {
       "added_at": null,
@@ -488,17 +488,13 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         },
         {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        },
-        {
-          "name": "Dariana",
-          "url": "https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv"
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
         }
       ],
-      "duration_ms": 298942,
-      "name": "Escucharte Hablar / Dios Ha Sido Bueno",
-      "url": "https://open.spotify.com/track/502fS8luNIQWgkvsBFu7a0"
+      "duration_ms": 271266,
+      "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
+      "url": "https://open.spotify.com/track/3kmbEbnVlar5dcNtBE4hxx"
     },
     {
       "added_at": null,
@@ -560,13 +556,17 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         },
         {
-          "name": "Waleska Morales",
-          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Dariana",
+          "url": "https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv"
         }
       ],
-      "duration_ms": 271266,
-      "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
-      "url": "https://open.spotify.com/track/3kmbEbnVlar5dcNtBE4hxx"
+      "duration_ms": 298942,
+      "name": "Escucharte Hablar / Dios Ha Sido Bueno",
+      "url": "https://open.spotify.com/track/502fS8luNIQWgkvsBFu7a0"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
       "duration_ms": 371788,
       "name": "Si puedes creer",
       "url": "https://open.spotify.com/track/46Z4MHyYfzHONL5Xc9I7da"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Mill\u00f3n (Kelly Spyker)",
-        "url": "https://open.spotify.com/album/0of9ruVLilhQBR0Z5RSxPi"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "M\u00fasica M\u00e1s Vida",
-          "url": "https://open.spotify.com/artist/6UhhJKLSxxAPmFQ6j8wY1c"
-        }
-      ],
-      "duration_ms": 218521,
-      "name": "Un Mill\u00f3n - Kelly Spyker",
-      "url": "https://open.spotify.com/track/6WWmIrz1sawQoJzZZKjrAJ"
     },
     {
       "added_at": null,
@@ -627,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Santo R\u00edo de Dios",
+        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 301958,
+      "name": "Santo R\u00edo de Dios",
+      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legado",
         "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
       },
@@ -647,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Mill\u00f3n (Kelly Spyker)",
+        "url": "https://open.spotify.com/album/0of9ruVLilhQBR0Z5RSxPi"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "M\u00fasica M\u00e1s Vida",
+          "url": "https://open.spotify.com/artist/6UhhJKLSxxAPmFQ6j8wY1c"
+        }
+      ],
+      "duration_ms": 218521,
+      "name": "Un Mill\u00f3n - Kelly Spyker",
+      "url": "https://open.spotify.com/track/6WWmIrz1sawQoJzZZKjrAJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proyecto AA",
         "url": "https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 165147,
       "name": "Porque T\u00fa Eres bueno",
       "url": "https://open.spotify.com/track/6MRlSkOGex4cx3fcusHFtU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Santo R\u00edo de Dios",
-        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 301958,
-      "name": "Santo R\u00edo de Dios",
-      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dios de Pactos",
-        "url": "https://open.spotify.com/album/4YCOrXZRsLWvj9BZBTS2AR"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 651080,
-      "name": "Dios De Pactos",
-      "url": "https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sana Nuestra Tierra",
         "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 474546,
       "name": "Poderoso Dios",
       "url": "https://open.spotify.com/track/4eMnZja2FGmWuagYRLrQBw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dios de Pactos",
+        "url": "https://open.spotify.com/album/4YCOrXZRsLWvj9BZBTS2AR"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 651080,
+      "name": "Dios De Pactos",
+      "url": "https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 72106,
+  "num_followers": 72109,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/5e055E2MQy4SspHknPO3Km"
+      },
+      "artists": [
+        {
+          "name": "Guy Sebastian",
+          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Angels Brought Me Here",
+      "url": "https://open.spotify.com/track/6lzIABwQGhMa3Xbspb098s"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/69yLePgnX1KDHwneFMg6WF"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Just As I Am",
-        "url": "https://open.spotify.com/album/5e055E2MQy4SspHknPO3Km"
-      },
-      "artists": [
-        {
-          "name": "Guy Sebastian",
-          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Angels Brought Me Here",
-      "url": "https://open.spotify.com/track/6lzIABwQGhMa3Xbspb098s"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Don't Call Me Baby",
         "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Hoops",
-        "url": "https://open.spotify.com/album/09nqIkoFAKnf77GEPBY6x1"
-      },
-      "artists": [
-        {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
-        }
-      ],
-      "duration_ms": 158973,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/3Q4DweD43ffeuELklLMKQk"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 214746,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/09nqIkoFAKnf77GEPBY6x1"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "duration_ms": 158973,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/3Q4DweD43ffeuELklLMKQk"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "The Long Road Back",
-        "url": "https://open.spotify.com/album/5SzHkxYKPIK4LcGaJrgnNU"
-      },
-      "artists": [
-        {
-          "name": "Peter Andre",
-          "url": "https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "Mysterious Girl - Radio Edit",
-      "url": "https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Birds Of Tokyo",
         "url": "https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 218000,
       "name": "Plans",
       "url": "https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "The Long Road Back",
+        "url": "https://open.spotify.com/album/5SzHkxYKPIK4LcGaJrgnNU"
+      },
+      "artists": [
+        {
+          "name": "Peter Andre",
+          "url": "https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "Mysterious Girl - Radio Edit",
+      "url": "https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Love Monster",
-        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
-      },
-      "artists": [
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 170413,
-      "name": "I Said Hi",
-      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Off The Grid",
         "url": "https://open.spotify.com/album/7Mle8fqfjxEnkubFjg3mAe"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 237613,
       "name": "Moments",
       "url": "https://open.spotify.com/track/3ZSR0xQ7strDNRzKCwNL9L"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Love Monster",
+        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 170413,
+      "name": "I Said Hi",
+      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Thirty One",
-        "url": "https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2"
-      },
-      "artists": [
-        {
-          "name": "Jarryd James",
-          "url": "https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "Do You Remember",
-      "url": "https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Counting Down The Days",
         "url": "https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 222653,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/2ZudaDYcCTgqqYPV0TrNn8"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Thirty One",
+        "url": "https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2"
+      },
+      "artists": [
+        {
+          "name": "Jarryd James",
+          "url": "https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd"
     },
     {
       "added_at": "2024-08-05 06:00:58",

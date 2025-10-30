@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: CADU
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,554 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,563 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 71 | [longe.com](https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [longe.com](https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA) | 3:17 |
 | 72 | [23:40](https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:02 |
 | 73 | [Berço de Ouro](https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Berço de Ouro](https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv) | 2:57 |
-| 74 | [Wowó](https://open.spotify.com/track/0rgK8IXF8X9LjRHKkoHM7X) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [Wowó](https://open.spotify.com/album/7hW3od1eNCfIm40UtLCSBP) | 2:24 |
-| 75 | [Liga Quando A Festa Acabar](https://open.spotify.com/track/58e7qocOqK9P3V78CAy38L) | [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Liga Quando A Festa Acabar](https://open.spotify.com/album/0dxvk23gepW1r9YaiRMj2G) | 3:09 |
+| 74 | [Liga Quando A Festa Acabar](https://open.spotify.com/track/58e7qocOqK9P3V78CAy38L) | [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Liga Quando A Festa Acabar](https://open.spotify.com/album/0dxvk23gepW1r9YaiRMj2G) | 3:09 |
+| 75 | [Wowó](https://open.spotify.com/track/0rgK8IXF8X9LjRHKkoHM7X) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [Wowó](https://open.spotify.com/album/7hW3od1eNCfIm40UtLCSBP) | 2:24 |
 
 Snapshot ID: `AAAAAN0wXQ53IAcC7xy+XoEN1kKL4AtV`

@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 45 | [Deixa Jesus Entrar](https://open.spotify.com/track/2OvHz9lXTrOweJFDHHLW2d) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 4:35 |
 | 46 | [Deus É a Resposta](https://open.spotify.com/track/0G07BqkuPbSlgF23eqRbZd) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 5:39 |
 | 47 | [Milagre](https://open.spotify.com/track/4T0AOFnCjlDrsKwgmQWLPw) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 6:37 |
-| 48 | [Fornalha de Fogo](https://open.spotify.com/track/1rJF0zCoqj3twcNoOQGhL6) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 3:52 |
-| 49 | [O Agir de Deus](https://open.spotify.com/track/0NY17bQcQpbDHfDHsvdwlg) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 4:33 |
+| 48 | [O Agir de Deus](https://open.spotify.com/track/0NY17bQcQpbDHfDHsvdwlg) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 4:33 |
+| 49 | [Fornalha de Fogo](https://open.spotify.com/track/1rJF0zCoqj3twcNoOQGhL6) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 3:52 |
 | 50 | [Descansa](https://open.spotify.com/track/6KOESp5FdvTjOax5VlutKk) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz), [Debora Torres](https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx) | [Descansa](https://open.spotify.com/album/0cfY695CUO0I6AdzaJmfVJ) | 6:22 |
 | 51 | [A Obra É Certa](https://open.spotify.com/track/3RbBminSo3jOjmzHjDyDS7) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 3:38 |
 | 52 | [Só Sucesso](https://open.spotify.com/track/07gHICzlgy4Knz1vw2RHTe) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 4:42 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 62 | [Cristo É a Esperança](https://open.spotify.com/track/0gKuqhPZCKoEEZdcBgJF4W) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 5:38 |
 | 63 | [João Viu](https://open.spotify.com/track/56xECx4qsFLwq7LFcC3hgK) | [Raquel Coutinho](https://open.spotify.com/artist/3SFmogeXtsLZ6p6HOWBRNG) | [De Bem Com Deus](https://open.spotify.com/album/0jU9n891TACEZppbJpzImE) | 5:28 |
 
-Snapshot ID: `AcAGpgAAAACmcyQqn+9398+HhoVcpGbe`
+Snapshot ID: `AcAMZAAAAABh6tkvZrFzIIdgQGBTv1uf`

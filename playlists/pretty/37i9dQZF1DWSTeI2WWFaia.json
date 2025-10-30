@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mick Jenkins",
-  "num_followers": 1579046,
+  "num_followers": 1578973,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -71,22 +71,18 @@
     {
       "added_at": "2025-10-24 04:00:30",
       "album": {
-        "name": "Alfredo 2",
-        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
       },
       "artists": [
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 182440,
-      "name": "Shangri La",
-      "url": "https://open.spotify.com/track/7I3cmK1BCShHs3MIZ3rOWF"
+      "duration_ms": 263941,
+      "name": "Funny Papers",
+      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
     },
     {
       "added_at": "2025-10-24 04:00:30",
@@ -227,18 +223,22 @@
     {
       "added_at": "2025-10-24 04:00:30",
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+        "name": "Alfredo 2",
+        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 263941,
-      "name": "Funny Papers",
-      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
+      "duration_ms": 182440,
+      "name": "Shangri La",
+      "url": "https://open.spotify.com/track/7I3cmK1BCShHs3MIZ3rOWF"
     },
     {
       "added_at": "2025-10-24 04:00:30",
@@ -255,30 +255,6 @@
       "duration_ms": 316235,
       "name": "Port Antonio",
       "url": "https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY"
-    },
-    {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
-        "name": "Alfredo 2",
-        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 221786,
-      "name": "Gold Feet (feat. J.I.D.)",
-      "url": "https://open.spotify.com/track/6yZPdc1jlYnG9QFG8WnrMm"
     },
     {
       "added_at": "2025-10-24 04:00:30",
@@ -311,34 +287,6 @@
     {
       "added_at": "2025-10-24 04:00:30",
       "album": {
-        "name": "DRE & SIDNEY",
-        "url": "https://open.spotify.com/album/14zr9swM3mylaPJPYDdnoB"
-      },
-      "artists": [
-        {
-          "name": "Reuben Vincent",
-          "url": "https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ"
-        },
-        {
-          "name": "9th Wonder",
-          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
-        },
-        {
-          "name": "SWEATA",
-          "url": "https://open.spotify.com/artist/6OwF63yz5hwljzTcudIoi1"
-        },
-        {
-          "name": "Raheem DeVaughn",
-          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
-        }
-      ],
-      "duration_ms": 198017,
-      "name": "DRE & SIDNEY",
-      "url": "https://open.spotify.com/track/6hRkR1XWoszUc9QSlnHMvp"
-    },
-    {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3"
       },
@@ -367,6 +315,58 @@
     {
       "added_at": "2025-10-24 04:00:30",
       "album": {
+        "name": "DRE & SIDNEY",
+        "url": "https://open.spotify.com/album/14zr9swM3mylaPJPYDdnoB"
+      },
+      "artists": [
+        {
+          "name": "Reuben Vincent",
+          "url": "https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "SWEATA",
+          "url": "https://open.spotify.com/artist/6OwF63yz5hwljzTcudIoi1"
+        },
+        {
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ],
+      "duration_ms": 198017,
+      "name": "DRE & SIDNEY",
+      "url": "https://open.spotify.com/track/6hRkR1XWoszUc9QSlnHMvp"
+    },
+    {
+      "added_at": "2025-10-24 04:00:30",
+      "album": {
+        "name": "Alfredo 2",
+        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 221786,
+      "name": "Gold Feet (feat. J.I.D.)",
+      "url": "https://open.spotify.com/track/6yZPdc1jlYnG9QFG8WnrMm"
+    },
+    {
+      "added_at": "2025-10-24 04:00:30",
+      "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
       },
@@ -387,6 +387,62 @@
       "duration_ms": 186360,
       "name": "Life Is Beautiful",
       "url": "https://open.spotify.com/track/6hh74g3EXXM8dF1Boamcyn"
+    },
+    {
+      "added_at": "2025-10-24 04:00:30",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 94587,
+      "name": "BULLFROG",
+      "url": "https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v"
+    },
+    {
+      "added_at": "2025-10-24 04:00:30",
+      "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 255263,
+      "name": "Pour The Henny",
+      "url": "https://open.spotify.com/track/1Z1TErSXbCXjEJWKqcpf3V"
+    },
+    {
+      "added_at": "2025-10-24 04:00:30",
+      "album": {
+        "name": "u aint gotta chance",
+        "url": "https://open.spotify.com/album/5YIUemQJKAUs78xxhtYWdq"
+      },
+      "artists": [
+        {
+          "name": "Big L",
+          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 168416,
+      "name": "u aint gotta chance",
+      "url": "https://open.spotify.com/track/4yLiK5atUkQWd16uG5WRuN"
     },
     {
       "added_at": "2025-10-24 04:00:30",
@@ -415,62 +471,6 @@
     {
       "added_at": "2025-10-24 04:00:30",
       "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 94587,
-      "name": "BULLFROG",
-      "url": "https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v"
-    },
-    {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
-        "name": "u aint gotta chance",
-        "url": "https://open.spotify.com/album/5YIUemQJKAUs78xxhtYWdq"
-      },
-      "artists": [
-        {
-          "name": "Big L",
-          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 168416,
-      "name": "u aint gotta chance",
-      "url": "https://open.spotify.com/track/4yLiK5atUkQWd16uG5WRuN"
-    },
-    {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
-        "name": "Infinite",
-        "url": "https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 255263,
-      "name": "Pour The Henny",
-      "url": "https://open.spotify.com/track/1Z1TErSXbCXjEJWKqcpf3V"
-    },
-    {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
@@ -491,26 +491,6 @@
     {
       "added_at": "2025-10-24 04:00:30",
       "album": {
-        "name": "Alfredo 2",
-        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 166720,
-      "name": "Lemon Pepper Steppers",
-      "url": "https://open.spotify.com/track/0JoGpxGXpz5vuam5Fopc4C"
-    },
-    {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
         "name": "Balloonerism",
         "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
       },
@@ -523,6 +503,22 @@
       "duration_ms": 204564,
       "name": "Do You Have A Destination?",
       "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
+    },
+    {
+      "added_at": "2025-10-24 04:00:30",
+      "album": {
+        "name": "Against The World",
+        "url": "https://open.spotify.com/album/7ownkOd8hdu03qJjPNtS3Q"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Against The World",
+      "url": "https://open.spotify.com/track/0xz7ixGInfMaVBUphFymj4"
     },
     {
       "added_at": "2025-10-24 04:00:30",
@@ -547,18 +543,22 @@
     {
       "added_at": "2025-10-24 04:00:30",
       "album": {
-        "name": "Against The World",
-        "url": "https://open.spotify.com/album/7ownkOd8hdu03qJjPNtS3Q"
+        "name": "Alfredo 2",
+        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
       },
       "artists": [
         {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Against The World",
-      "url": "https://open.spotify.com/track/0xz7ixGInfMaVBUphFymj4"
+      "duration_ms": 166720,
+      "name": "Lemon Pepper Steppers",
+      "url": "https://open.spotify.com/track/0JoGpxGXpz5vuam5Fopc4C"
     },
     {
       "added_at": "2025-10-24 04:00:30",
@@ -575,6 +575,22 @@
       "duration_ms": 225723,
       "name": "For Keeps",
       "url": "https://open.spotify.com/track/2XXyUvdXTomMQleoui097l"
+    },
+    {
+      "added_at": "2025-10-24 04:00:30",
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 285805,
+      "name": "Friendly Hallucinations",
+      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
     },
     {
       "added_at": "2025-10-24 04:00:30",
@@ -599,22 +615,6 @@
       "duration_ms": 222640,
       "name": "Munyon Canyon",
       "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
-    },
-    {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 285805,
-      "name": "Friendly Hallucinations",
-      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
     },
     {
       "added_at": "2025-10-24 04:00:30",
@@ -831,6 +831,30 @@
     {
       "added_at": "2025-10-24 04:00:30",
       "album": {
+        "name": "GOLDFISH",
+        "url": "https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 105836,
+      "name": "Mick & Cooley (feat. Conway The Machine)",
+      "url": "https://open.spotify.com/track/7xVeQX25verKvEQsazaNi5"
+    },
+    {
+      "added_at": "2025-10-24 04:00:30",
+      "album": {
         "name": "No Blemishes",
         "url": "https://open.spotify.com/album/3SNDgPKTmIwRMFrBGQsXoX"
       },
@@ -867,30 +891,6 @@
       "duration_ms": 198447,
       "name": "The Omerta",
       "url": "https://open.spotify.com/track/0LI7gvHXbBvt6e8EORDzA1"
-    },
-    {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
-        "name": "GOLDFISH",
-        "url": "https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g"
-      },
-      "artists": [
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 105836,
-      "name": "Mick & Cooley (feat. Conway The Machine)",
-      "url": "https://open.spotify.com/track/7xVeQX25verKvEQsazaNi5"
     },
     {
       "added_at": "2025-10-24 04:00:30",

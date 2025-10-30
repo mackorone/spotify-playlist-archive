@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SDnFW.md) - [plain]
 
 > This is Sam Fender\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,269 likes - 37 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,314 likes - 37 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SDnFW.md) - [plain]
 | 18 | [Play God](https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:45 |
 | 19 | [Poundshop Kardashians](https://open.spotify.com/track/0qWgm1JTDWdfJX9Lsj8mdR) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Poundshop Kardashians](https://open.spotify.com/album/3786cITcKTrcxtezOgZKME) | 2:39 |
 | 20 | [Crumbling Empire](https://open.spotify.com/track/5M4BVWXiOUabQUqdY8eqJt) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 5:07 |
-| 21 | [Spice](https://open.spotify.com/track/7KncmixRfCnvzSsKZnlHt8) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Dead Boys \- EP](https://open.spotify.com/album/35pJYaery52xdW7eQIA2uy) | 2:21 |
+| 21 | [Me and The Dog](https://open.spotify.com/track/5kQrDtjNb2c3l9SfvNOXzq) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 4:12 |
 | 22 | [Dead Boys](https://open.spotify.com/track/7g93COdRFvOxwpxPlvrqLM) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:23 |
-| 23 | [Me and The Dog](https://open.spotify.com/track/5kQrDtjNb2c3l9SfvNOXzq) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 4:12 |
+| 23 | [Spice](https://open.spotify.com/track/7KncmixRfCnvzSsKZnlHt8) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Dead Boys \- EP](https://open.spotify.com/album/35pJYaery52xdW7eQIA2uy) | 2:21 |
 | 24 | [Wild Long Lie](https://open.spotify.com/track/5lQS3Q71OZWEA2tt7TcWai) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 6:04 |
 | 25 | [Little Bull Of Blithe](https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 2:10 |
 | 26 | [Saturday](https://open.spotify.com/track/3kROc4cT1QMKyQdPd0Gbvm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:01 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SDnFW.md) - [plain]
 | 36 | [Howdon Aldi Death Queue](https://open.spotify.com/track/1qMyNePQxHQaU2EULKnSUx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 1:58 |
 | 37 | [Back To Black \- BBC Radio 1 Live Session](https://open.spotify.com/track/3KtKOYmUpcmAU1SzArnFrp) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Back To Black \(BBC Radio 1 Live Session\)](https://open.spotify.com/album/3WuNB1VMKoPtUhm09D1QLt) | 5:12 |
 
-Snapshot ID: `aP62AAAAAAByyqUGBRF3opSgjcPgkBqf`
+Snapshot ID: `aQAHgAAAAABmhstiib2aVljFMGbslr0u`

@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 202869,
+  "num_followers": 202878,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADGOW3XyzZGQ8SxAiJgi2U7",
+  "snapshot_id": "aQAHgAAAAACYRLxBRvUsjypNet7ibZZg",
   "tracks": [
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Not a Regular Person",
+        "url": "https://open.spotify.com/album/2rclhJv98oCvlhYLG9tioj"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 186456,
+      "name": "Not a Regular Person",
+      "url": "https://open.spotify.com/track/0KfgfxTnqfX4IfhVDpPYTd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbreak on a Full Moon",
         "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 293434,
       "name": "Pills & Automobiles (feat. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black)",
       "url": "https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not a Regular Person",
-        "url": "https://open.spotify.com/album/2rclhJv98oCvlhYLG9tioj"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 186456,
-      "name": "Not a Regular Person",
-      "url": "https://open.spotify.com/track/0KfgfxTnqfX4IfhVDpPYTd"
     },
     {
       "added_at": null,

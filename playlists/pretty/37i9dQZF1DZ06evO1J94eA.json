@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 40818,
+  "num_followers": 40831,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAACFvMXGtEHEEb2btk4g0sNF",
+  "snapshot_id": "aQAHgAAAAAAkpuvghcsxV0K1i9coz9LR",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 372266,
-      "name": "Empty Pockets - Remastered 2007",
-      "url": "https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blow-Up (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 106306,
       "name": "Bring Down the Birds - Outtake",
       "url": "https://open.spotify.com/track/3i0meyRRCpIzyMmLdYssGw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 372266,
+      "name": "Empty Pockets - Remastered 2007",
+      "url": "https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+        "name": "'Round Midnight - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 408466,
-      "name": "The Maze - Remastered 2007",
-      "url": "https://open.spotify.com/track/65CdHWCm59ybWzrLEnjKuQ"
+      "duration_ms": 336720,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/4wZqLKnxKcZXTLLwfh0lpp"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
       },
       "artists": [
         {
@@ -464,25 +464,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 361453,
-      "name": "The Eye Of The Hurricane - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "'Round Midnight - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 336720,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/4wZqLKnxKcZXTLLwfh0lpp"
+      "duration_ms": 408466,
+      "name": "The Maze - Remastered 2007",
+      "url": "https://open.spotify.com/track/65CdHWCm59ybWzrLEnjKuQ"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 361453,
+      "name": "The Eye Of The Hurricane - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Possibilities",
         "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 414466,
       "name": "Sister Moon (feat. Sting)",
       "url": "https://open.spotify.com/track/0GiqmR1TtxOTZgf3AIYEp7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 527266,
-      "name": "Little One - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1D8x6XmpSuobQopGIXRo8u"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
       "duration_ms": 308000,
       "name": "Sun Touch",
       "url": "https://open.spotify.com/track/70aN8RYMtTeG85MQADhMhx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 527266,
+      "name": "Little One - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1D8x6XmpSuobQopGIXRo8u"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gershwin's World",
-        "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 286160,
-      "name": "It Ain't Necessarily So",
-      "url": "https://open.spotify.com/track/1yebi3DYxcHXzSFjbeLGMP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cantaloupe Island",
         "url": "https://open.spotify.com/album/1IDF7HrugntNS4NeuzYWgQ"
       },
@@ -695,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speak Like A Child (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
+        "name": "Gershwin's World",
+        "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
       },
       "artists": [
         {
@@ -704,9 +688,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 280146,
-      "name": "Riot",
-      "url": "https://open.spotify.com/track/01L7NrYczCVyoQ91CmCtNw"
+      "duration_ms": 286160,
+      "name": "It Ain't Necessarily So",
+      "url": "https://open.spotify.com/track/1yebi3DYxcHXzSFjbeLGMP"
     },
     {
       "added_at": null,
@@ -723,6 +707,22 @@
       "duration_ms": 535293,
       "name": "I Thought It Was You",
       "url": "https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Speak Like A Child (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 280146,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/01L7NrYczCVyoQ91CmCtNw"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 424560,
-      "name": "Stars in Your Eyes",
-      "url": "https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Head Hunters",
         "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 446000,
       "name": "Hang Up Your Hang Ups",
       "url": "https://open.spotify.com/track/22G8rQDLJTeJzjQWXZErre"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 424560,
+      "name": "Stars in Your Eyes",
+      "url": "https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3"
     },
     {
       "added_at": null,

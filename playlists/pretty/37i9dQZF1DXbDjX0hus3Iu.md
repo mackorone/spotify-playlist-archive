@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,310 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,355 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 30 | [Hold On Loosely](https://open.spotify.com/track/6hQszXJIYhtjmSTmDqZpeU) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [20th Century Masters The Millennium Collection: Best of 38 Special](https://open.spotify.com/album/5gditTVu3JNE5P8T6tafiH) | 4:39 |
 | 31 | [There Goes Another Love Song](https://open.spotify.com/track/5jKdSZtw2yst6FzDJ4yvEV) | [The Outlaws](https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9) | [The Outlaws](https://open.spotify.com/album/5NR8rq89bfEMA7JJGzfFkp) | 3:04 |
 | 32 | [The South's Gonna Do It Again](https://open.spotify.com/track/7HRqpMkcCVVhmKme8bScvl) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 3:57 |
-| 33 | [Don't Misunderstand Me](https://open.spotify.com/track/7uODrkf1XnlIGMyUSCLbLU) | [Rossington Collins Band](https://open.spotify.com/artist/22vadBKWnw6sLJPML2MdKi) | [20th Century Masters: The Millennium Collection: Best Of The Rossington Collins Band](https://open.spotify.com/album/5x7R9IRVTa2Yb1IT14vNoH) | 3:56 |
-| 34 | [Champagne Jam](https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [Champagne Jam](https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt) | 4:33 |
+| 33 | [Champagne Jam](https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [Champagne Jam](https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt) | 4:33 |
+| 34 | [Don't Misunderstand Me](https://open.spotify.com/track/7uODrkf1XnlIGMyUSCLbLU) | [Rossington Collins Band](https://open.spotify.com/artist/22vadBKWnw6sLJPML2MdKi) | [20th Century Masters: The Millennium Collection: Best Of The Rossington Collins Band](https://open.spotify.com/album/5x7R9IRVTa2Yb1IT14vNoH) | 3:56 |
 | 35 | [Battleship Chains](https://open.spotify.com/track/0dJEQ01IPN4ukqRsPrm4ab) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Georgia Satellites](https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel) | 2:57 |
-| 36 | [Pretty Little Lie](https://open.spotify.com/track/6b45yra2a9So8yTNeHZdgt) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [The Whippoorwill](https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi) | 3:34 |
-| 37 | [Third Rate Romance \- Remastered](https://open.spotify.com/track/1oRvLqwJowH9JU0uO1iVzA) | [Amazing Rhythm Aces](https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH) | [Stacked Deck \(Remastered\)](https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9) | 3:21 |
+| 36 | [Third Rate Romance \- Remastered](https://open.spotify.com/track/1oRvLqwJowH9JU0uO1iVzA) | [Amazing Rhythm Aces](https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH) | [Stacked Deck \(Remastered\)](https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9) | 3:21 |
+| 37 | [Pretty Little Lie](https://open.spotify.com/track/6b45yra2a9So8yTNeHZdgt) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [The Whippoorwill](https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi) | 3:34 |
 | 38 | [Gator Country](https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 6:16 |
 | 39 | [Ain't Life Grand](https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Ain't Life Grand](https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU) | 4:47 |
 | 40 | [Crazy](https://open.spotify.com/track/0F4sQ4O7wIHfw6kp1e4Sfi) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Right On Time](https://open.spotify.com/album/0HEuFHATf4xNesfim5EwMr) | 3:34 |

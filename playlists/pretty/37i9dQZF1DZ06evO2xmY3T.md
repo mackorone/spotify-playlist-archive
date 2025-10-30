@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 
 > This is Cardi B\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,961 likes - 41 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,004 likes - 41 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 13 | [Hello](https://open.spotify.com/track/5MnPcgXz4RXqx09nIqvHKX) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:35 |
 | 14 | [Money](https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Money](https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P) | 3:03 |
 | 15 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 |
-| 16 | [Ring \(feat\. Kehlani\)](https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 2:57 |
+| 16 | [Bodak Yellow](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:43 |
 | 17 | [Magnet](https://open.spotify.com/track/7dHblXsJTRemgyIvFNJE7t) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:58 |
 | 18 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 |
 | 19 | [La Modelo](https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 4:15 |
-| 20 | [Bodak Yellow](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:43 |
+| 20 | [Ring \(feat\. Kehlani\)](https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 2:57 |
 | 21 | [Bodega Baddie](https://open.spotify.com/track/4JI9FH3KOYOushudtnZt0z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 1:44 |
 | 22 | [Enough \(Miami\)](https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g) | 2:38 |
 | 23 | [Clout \(feat\. Cardi B\)](https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:25 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 40 | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy) | 2:52 |
 | 41 | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG) | 3:05 |
 
-Snapshot ID: `aP62AAAAAADj9JLQPDyZdAUfLDo4j/VC`
+Snapshot ID: `aQAHgAAAAADCPZ7+51yn02AdBUql8QmI`

@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 80143,
+  "num_followers": 80153,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,22 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "Liten fuggel (Med kommentarer)",
-        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
+        "name": "Godmorgen, s\u00f8ster",
+        "url": "https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G"
       },
       "artists": [
         {
           "name": "Vamp",
           "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
+        },
+        {
+          "name": "Rita Eriksen",
+          "url": "https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da"
         }
       ],
-      "duration_ms": 191173,
-      "name": "Liten fuggel",
-      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
+      "duration_ms": 270693,
+      "name": "Tir n'a Noir",
+      "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
     },
     {
       "added_at": "2025-10-16 22:00:35",
@@ -159,22 +163,18 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "Godmorgen, s\u00f8ster",
-        "url": "https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G"
+        "name": "Liten fuggel (Med kommentarer)",
+        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
       },
       "artists": [
         {
           "name": "Vamp",
           "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
-        },
-        {
-          "name": "Rita Eriksen",
-          "url": "https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da"
         }
       ],
-      "duration_ms": 270693,
-      "name": "Tir n'a Noir",
-      "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
+      "duration_ms": 191173,
+      "name": "Liten fuggel",
+      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
     },
     {
       "added_at": "2025-10-16 22:00:35",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "Hilsen Halvdan",
-        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
-      },
-      "artists": [
-        {
-          "name": "Halvdan Sivertsen",
-          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
-        }
-      ],
-      "duration_ms": 258638,
-      "name": "Sommerfuggel I Vinterland",
-      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
-    },
-    {
-      "added_at": "2025-10-16 22:00:35",
-      "album": {
         "name": "V\u00e5r beste dag",
         "url": "https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 202588,
       "name": "V\u00e5r beste dag",
       "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"
+    },
+    {
+      "added_at": "2025-10-16 22:00:35",
+      "album": {
+        "name": "Hilsen Halvdan",
+        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
+      },
+      "artists": [
+        {
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
+        }
+      ],
+      "duration_ms": 258638,
+      "name": "Sommerfuggel I Vinterland",
+      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
     },
     {
       "added_at": "2025-10-16 22:00:35",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
+        "name": "Havet, Maria",
+        "url": "https://open.spotify.com/album/7rildRXxKhRyYZ1BVzXDgw"
+      },
+      "artists": [
+        {
+          "name": "Maria Haukaas Mittet",
+          "url": "https://open.spotify.com/artist/4Gej6q6wCKccBidZF9lB5B"
+        }
+      ],
+      "duration_ms": 251242,
+      "name": "Havet, Maria",
+      "url": "https://open.spotify.com/track/49WjhJXjsAoYX83Awrl07L"
+    },
+    {
+      "added_at": "2025-10-16 22:00:35",
+      "album": {
         "name": "Kr\u00e5keviks Songbok",
         "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "Havet, Maria",
-        "url": "https://open.spotify.com/album/7rildRXxKhRyYZ1BVzXDgw"
-      },
-      "artists": [
-        {
-          "name": "Maria Haukaas Mittet",
-          "url": "https://open.spotify.com/artist/4Gej6q6wCKccBidZF9lB5B"
-        }
-      ],
-      "duration_ms": 251242,
-      "name": "Havet, Maria",
-      "url": "https://open.spotify.com/track/49WjhJXjsAoYX83Awrl07L"
-    },
-    {
-      "added_at": "2025-10-16 22:00:35",
-      "album": {
         "name": "Ka Du H\u00c3\u00a5pa P\u00c3\u00a5",
         "url": "https://open.spotify.com/album/70x1xmznD1DRiH3ArPVEI9"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "T\u00f8r ikkje leva",
-        "url": "https://open.spotify.com/album/40T4n8U1QyaEQNKzPvHo5D"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        }
-      ],
-      "duration_ms": 221687,
-      "name": "T\u00f8r ikkje leva",
-      "url": "https://open.spotify.com/track/6g4zsCg7X0aYUPCy2Qyypo"
-    },
-    {
-      "added_at": "2025-10-16 22:00:35",
-      "album": {
         "name": "3 sanger",
         "url": "https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 281955,
       "name": "S\u00e5 fullt av ja",
       "url": "https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ"
+    },
+    {
+      "added_at": "2025-10-16 22:00:35",
+      "album": {
+        "name": "T\u00f8r ikkje leva",
+        "url": "https://open.spotify.com/album/40T4n8U1QyaEQNKzPvHo5D"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "duration_ms": 221687,
+      "name": "T\u00f8r ikkje leva",
+      "url": "https://open.spotify.com/track/6g4zsCg7X0aYUPCy2Qyypo"
     },
     {
       "added_at": "2025-10-16 22:00:35",

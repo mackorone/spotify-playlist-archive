@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 
 > lost in a haze
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,498 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,495 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 | 30 | [Candy](https://open.spotify.com/track/6TeJroHNM4rXP4GluTvKXV) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:54 |
 | 31 | [Give It Up 2 Me](https://open.spotify.com/track/3X7wVYr4XpzGgoXmQVnrJo) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [B4 I Breakdown](https://open.spotify.com/album/2KAWX279th7yUtgVIfD6TU) | 2:58 |
 | 32 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 |
-| 33 | [BUTTERFLIES](https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [LUCKY ME](https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP) | 2:43 |
-| 34 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
-| 35 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
+| 33 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
+| 34 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
+| 35 | [BUTTERFLIES](https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [LUCKY ME](https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP) | 2:43 |
 | 36 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 |
 | 37 | [Downers](https://open.spotify.com/track/1fnU60yGjhsP1QY335rH2m) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers](https://open.spotify.com/album/1luS1QdwBrhQzsnbJlyySt) | 3:38 |
 | 38 | [Miss You](https://open.spotify.com/track/5zHB3dyXGTS00HuvgSnBUj) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Miss You](https://open.spotify.com/album/2lNL8dWOB8s3RpJ8RcmNqZ) | 3:51 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 | 56 | [These Days](https://open.spotify.com/track/48R6SMKqCQvrhe0KwDu68u) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [These Days](https://open.spotify.com/album/014qHcg2C7guTMP1y2eISt) | 3:14 |
 | 57 | [Table for Two](https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Table for Two](https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD) | 3:22 |
 | 58 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 |
-| 59 | [What You Need](https://open.spotify.com/track/5cQmw2ggmqGN7IERoGJdZe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 4:10 |
-| 60 | [Imperfect Me](https://open.spotify.com/track/2C5M5oQOLjaTiBAInYxEty) | [INDIA BLUE](https://open.spotify.com/artist/5M91kIFBO3vwGoHceiMugI) | [Imperfect Me](https://open.spotify.com/album/4Du59lDEB6pAv7B89QNtx4) | 3:54 |
+| 59 | [downward spiral](https://open.spotify.com/track/41NLDchtPOKKkSCKtoygBI) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [downward spiral](https://open.spotify.com/album/6B4BCGkmYIQwEjWkV8TybZ) | 2:25 |
+| 60 | [What You Need](https://open.spotify.com/track/5cQmw2ggmqGN7IERoGJdZe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 4:10 |
 
 Snapshot ID: `AAAAAOQFPBwsHDOlo/tDpO3aACQgjUzM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,318 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,328 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 37 | [Black](https://open.spotify.com/track/6APaLjBA0uKDTpHMaGA7eY) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:27 |
 | 38 | [Bleed Into Me](https://open.spotify.com/track/63AK4XR008a8GevrN4Ei5m) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 3:48 |
 | 39 | [Master of Puppets](https://open.spotify.com/track/0P5D7ji9AJi85bEdQhq50a) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy \(Special Edition\)](https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF) | 8:09 |
-| 40 | [Into the Mouth of Hell We March](https://open.spotify.com/track/3sa04MWD0FcOorbzuGfaTZ) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 5:52 |
-| 41 | [Losing My Religion](https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Losing My Religion](https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR) | 4:41 |
-| 42 | [Scattering The Ashes](https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 3:24 |
+| 40 | [Losing My Religion](https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Losing My Religion](https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR) | 4:41 |
+| 41 | [Into the Mouth of Hell We March](https://open.spotify.com/track/3sa04MWD0FcOorbzuGfaTZ) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 5:52 |
+| 42 | [Amongst The Shadows & The Stones](https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 5:40 |
 | 43 | [Inception of the End](https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:48 |
-| 44 | [Shogun](https://open.spotify.com/track/5FaEX9EwutRqVvOZsJ27G3) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 11:54 |
-| 45 | [Dead and Gone](https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 3:46 |
-| 46 | [Amongst The Shadows & The Stones](https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 5:40 |
+| 44 | [Dead and Gone](https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 3:46 |
+| 45 | [Shogun](https://open.spotify.com/track/5FaEX9EwutRqVvOZsJ27G3) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 11:54 |
+| 46 | [Scattering The Ashes](https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 3:24 |
 | 47 | [Anthem \(We Are the Fire\)](https://open.spotify.com/track/36ZvFmD6IuW1nawOBbpC8z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Crusade](https://open.spotify.com/album/42MixogSAsobX5po649Y0j) | 4:03 |
 | 48 | [Forsake Not the Dream](https://open.spotify.com/track/7wZ48cSDxvoofrFS9aG4l0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:20 |
 | 49 | [Brave This Storm](https://open.spotify.com/track/0CdHnV4vaqNDKskubNQWLb) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
 | 50 | [Dig](https://open.spotify.com/track/7nVIE2M0t4sIh3ZkEqrjlY) | [Kevin Sherwood](https://open.spotify.com/artist/0etNimDSQLWFbktPBHQ5vb), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5), [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Call of Duty®: Black Ops 6 \- Zombies "The Tomb" \(Original Soundtrack\)](https://open.spotify.com/album/3xPKKfr1Llm3NU6sF7Zn7C) | 3:49 |
 
-Snapshot ID: `aP62AAAAAABf//WkKXOcDunpe696UlbZ`
+Snapshot ID: `aQAHgAAAAAA4QL/uJOI4h5u8daRneOBE`

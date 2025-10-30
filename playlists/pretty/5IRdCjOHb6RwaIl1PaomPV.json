@@ -1,13 +1,45 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Ms* Gloom, Car Culture, Woesum, and more.",
-  "num_followers": 50750,
+  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Major Lazer, Bennett Coast, and Pegassi.",
+  "num_followers": 50751,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAdWwdFvVadYK+rosSgHa+n3tZdLFdD",
+  "snapshot_id": "AAAddd6yZiU8YWtVD6OyVPh1Zt9CrP0M",
   "tracks": [
+    {
+      "added_at": "2025-10-29 21:23:24",
+      "album": {
+        "name": "BRUK DOWN",
+        "url": "https://open.spotify.com/album/0BirKooSEo10AItZLSquFo"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Parris Goebel",
+          "url": "https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "America Foster",
+          "url": "https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO"
+        }
+      ],
+      "duration_ms": 165692,
+      "name": "BRUK DOWN",
+      "url": "https://open.spotify.com/track/6seStQ8B2Bx2Gnis7LF3cr"
+    },
     {
       "added_at": "2025-10-24 22:05:48",
       "album": {
@@ -35,6 +67,86 @@
       "duration_ms": 125082,
       "name": "Catch Me (feat. Naaz) - Dj Jedag Jedug Remix",
       "url": "https://open.spotify.com/track/2VnuwAuvVHxrRP778xWUG3"
+    },
+    {
+      "added_at": "2025-10-29 21:23:35",
+      "album": {
+        "name": "Fashion For The Mourning",
+        "url": "https://open.spotify.com/album/3I1mbyWW01ZmdUXrpUpyuW"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 217110,
+      "name": "Video Mind",
+      "url": "https://open.spotify.com/track/6i4HXAiCheoAewgY5pxC6c"
+    },
+    {
+      "added_at": "2025-10-29 21:24:31",
+      "album": {
+        "name": "Fashion For The Mourning",
+        "url": "https://open.spotify.com/album/3I1mbyWW01ZmdUXrpUpyuW"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 174052,
+      "name": "Badman",
+      "url": "https://open.spotify.com/track/5UzypuRZAmvW4ySeVIV56D"
+    },
+    {
+      "added_at": "2025-10-29 21:23:52",
+      "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/4QjbL64QEVqwc8VqrZbSPG"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/24ZahOwPra9cPxv6RO1G1R"
+    },
+    {
+      "added_at": "2025-10-29 21:21:46",
+      "album": {
+        "name": "Vanities",
+        "url": "https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "duration_ms": 201012,
+      "name": "So Sweet & Willing",
+      "url": "https://open.spotify.com/track/2XIT9pYAiTCawCmspbwhrh"
+    },
+    {
+      "added_at": "2025-10-29 21:21:49",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7c2Tim7H0rp30NoE8dVbu5"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "duration_ms": 217391,
+      "name": "Final Song",
+      "url": "https://open.spotify.com/track/4cfDpBCWqVdqPE7edNXSGr"
     },
     {
       "added_at": "2025-10-16 20:40:25",
@@ -177,22 +289,6 @@
       "url": "https://open.spotify.com/track/4UVBGuynnWlLYuBInusvBt"
     },
     {
-      "added_at": "2025-10-16 20:40:52",
-      "album": {
-        "name": "Being There",
-        "url": "https://open.spotify.com/album/7FQsBR9c4vvmUwZleFAy4h"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 262886,
-      "name": "Being There",
-      "url": "https://open.spotify.com/track/771ruvsgyt1P1AO4raBel0"
-    },
-    {
       "added_at": "2025-08-15 18:58:51",
       "album": {
         "name": "Pressure",
@@ -239,38 +335,6 @@
       "duration_ms": 236749,
       "name": "We Need To Do Something About That Horse",
       "url": "https://open.spotify.com/track/0R7RCkr8V5XjMyYXJDz7jD"
-    },
-    {
-      "added_at": "2025-10-16 20:39:31",
-      "album": {
-        "name": "take your vibes and go (Dam Swindle Remix)",
-        "url": "https://open.spotify.com/album/1ohCvUgMQuiwwkDINauTsf"
-      },
-      "artists": [
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 333000,
-      "name": "take your vibes and go - Dam Swindle Remix",
-      "url": "https://open.spotify.com/track/0v0v5vFIqp83R0M8y3fdlt"
     },
     {
       "added_at": "2025-10-16 20:44:59",
@@ -941,54 +1005,6 @@
       "url": "https://open.spotify.com/track/1DTxRSFNCay9wpFfy0YBsa"
     },
     {
-      "added_at": "2025-05-16 21:25:54",
-      "album": {
-        "name": "Psychological Musical Warfare 2",
-        "url": "https://open.spotify.com/album/4BCN9570YUwdT695yuSbZ6"
-      },
-      "artists": [
-        {
-          "name": "Varg\u00b2\u2122",
-          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
-        },
-        {
-          "name": "Dj Smokey",
-          "url": "https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy"
-        },
-        {
-          "name": "F1lthy",
-          "url": "https://open.spotify.com/artist/5T7nP09Cdogm9yGfuDipJR"
-        }
-      ],
-      "duration_ms": 206259,
-      "name": "Powder Gets You Hyper",
-      "url": "https://open.spotify.com/track/2MrONxBG1kjkz0aOdUt0Qv"
-    },
-    {
-      "added_at": "2025-05-16 21:25:54",
-      "album": {
-        "name": "Psychological Musical Warfare 2",
-        "url": "https://open.spotify.com/album/4BCN9570YUwdT695yuSbZ6"
-      },
-      "artists": [
-        {
-          "name": "Varg\u00b2\u2122",
-          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
-        },
-        {
-          "name": "Dj Smokey",
-          "url": "https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy"
-        },
-        {
-          "name": "Eurohead",
-          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
-        }
-      ],
-      "duration_ms": 422434,
-      "name": "Evil Drug Music",
-      "url": "https://open.spotify.com/track/0MG4YxAMtCyQJO4FRQDzrU"
-    },
-    {
       "added_at": "2025-05-16 21:27:11",
       "album": {
         "name": "425",
@@ -1509,22 +1525,6 @@
       "url": "https://open.spotify.com/track/66GzXQeE0hFtBusIY0Arll"
     },
     {
-      "added_at": "2025-03-21 17:02:58",
-      "album": {
-        "name": "FAW002 HOVER CAPSULE",
-        "url": "https://open.spotify.com/album/4IwiOzukiPaHgOhiyp9PwF"
-      },
-      "artists": [
-        {
-          "name": "Adam Curtain",
-          "url": "https://open.spotify.com/artist/4qpJJUlBZApA1RptgvHyTy"
-        }
-      ],
-      "duration_ms": 302686,
-      "name": "No Pressure",
-      "url": "https://open.spotify.com/track/1BNXrelCC8HRXUta1oQrf3"
-    },
-    {
       "added_at": "2025-03-21 17:03:53",
       "album": {
         "name": "Protected",
@@ -1539,22 +1539,6 @@
       "duration_ms": 219317,
       "name": "L.L.L",
       "url": "https://open.spotify.com/track/0KUTFU19NDKa8zhszK3ZuE"
-    },
-    {
-      "added_at": "2025-03-21 17:03:58",
-      "album": {
-        "name": "Protected",
-        "url": "https://open.spotify.com/album/2NiKyw8V8L0gNtjCww5rm6"
-      },
-      "artists": [
-        {
-          "name": "Woesum",
-          "url": "https://open.spotify.com/artist/1W9H5eED8Mc5p20B2qo0Qe"
-        }
-      ],
-      "duration_ms": 207897,
-      "name": "Protected",
-      "url": "https://open.spotify.com/track/5qVbwKI8FVQskrQwhwlf5O"
     },
     {
       "added_at": "2025-03-21 17:05:06",
@@ -1815,26 +1799,6 @@
       "duration_ms": 278931,
       "name": "Need Right",
       "url": "https://open.spotify.com/track/6yfA9fcHa6BDSWU8Osy5OO"
-    },
-    {
-      "added_at": "2024-12-18 18:26:51",
-      "album": {
-        "name": "Grey Sky London",
-        "url": "https://open.spotify.com/album/4ByJxSEqBj5myVIGbqiNuI"
-      },
-      "artists": [
-        {
-          "name": "Valee",
-          "url": "https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI"
-        },
-        {
-          "name": "SURF GANG",
-          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Hi Hater Maino",
-      "url": "https://open.spotify.com/track/0xWfbItbiAX3gFQPW9M99u"
     },
     {
       "added_at": "2024-12-18 18:26:41",

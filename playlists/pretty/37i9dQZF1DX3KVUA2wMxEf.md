@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,023 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,072 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 32 | [Puedo esperarte](https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Buenas Noticias](https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n) | 4:11 |
 | 33 | [Lo Más Sincero](https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [YO](https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX) | 3:26 |
 | 34 | [Te Regalo una Promesa](https://open.spotify.com/track/0OEWFr9nOhfuHaeLcuQaHe) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [Mucha Cosa Buena](https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH) | 3:24 |
-| 35 | [Déjalo Fluir](https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:25 |
-| 36 | [Si Tú Me Quieres](https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Si Tú Me Quieres](https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm) | 4:08 |
+| 35 | [Si Tú Me Quieres](https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Si Tú Me Quieres](https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm) | 4:08 |
+| 36 | [Déjalo Fluir](https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:25 |
 | 37 | [Tu Amor](https://open.spotify.com/track/0TM45NFoyeOOMAy6sdxX3n) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Donde Brilla el Sol](https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T) | 4:29 |
 | 38 | [La Mía](https://open.spotify.com/track/62An8eF83X04NLkdnRCIqr) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:46 |
 | 39 | [La Playa](https://open.spotify.com/track/0VFp2NOB2gUYtD1raVIFir) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [La Playa](https://open.spotify.com/album/0LZXfPCtqnaP9y4KsOMSWV) | 3:16 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 47 | [El Árbol](https://open.spotify.com/track/1q2GWueMnvjzYGksW2SBPJ) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [El Árbol](https://open.spotify.com/album/5K0vKNaWvRSNKf0EbgUhSu) | 3:31 |
 | 48 | [La Complicidad](https://open.spotify.com/track/0WtBYZlCYJqYO2eTIG4tb3) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/2KRlM32gIN0saKVJdQfCtr) | 6:03 |
 | 49 | [Bff <3](https://open.spotify.com/track/1i1RYy42uVr7KBCpA5Gjym) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Bff <3](https://open.spotify.com/album/25pzrcoYq32V2h8LNz42Wu) | 2:53 |
-| 50 | [Mas Alla De Tus Ojos](https://open.spotify.com/track/2FnixHCknxlm2G2G0fwwAp) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Vivi En Do](https://open.spotify.com/album/3G5Y8YIt3M9tnfkfhdti8K) | 4:17 |
-| 51 | [Tu Eres Como el Fuego](https://open.spotify.com/track/6BeEanS54uM91bsGiIJ193) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Indica Sound](https://open.spotify.com/artist/64ztB1HA4yaTmSsfcmNWUr) | [Tu Eres Como el Fuego](https://open.spotify.com/album/5V6p6q9Z0qDkTAzDTKtbAT) | 3:31 |
+| 50 | [Tu Eres Como el Fuego](https://open.spotify.com/track/6BeEanS54uM91bsGiIJ193) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Indica Sound](https://open.spotify.com/artist/64ztB1HA4yaTmSsfcmNWUr) | [Tu Eres Como el Fuego](https://open.spotify.com/album/5V6p6q9Z0qDkTAzDTKtbAT) | 3:31 |
+| 51 | [Mas Alla De Tus Ojos](https://open.spotify.com/track/2FnixHCknxlm2G2G0fwwAp) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Vivi En Do](https://open.spotify.com/album/3G5Y8YIt3M9tnfkfhdti8K) | 4:17 |
 | 52 | [Véngase I](https://open.spotify.com/track/54Ep1O9PefiVc2Yw5aKIVL) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/3JwNymycAQq39DHeiqHUFm) | 4:19 |
 | 53 | [Cuando Pienso en Ti](https://open.spotify.com/track/6bk08yC2wyEF8P4o1fcYkw) | [Lion Reggae](https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko) | [Tierra](https://open.spotify.com/album/7KGUoRC4gZdPm5L6elVviz) | 5:19 |
 | 54 | [Me Cambiaste la Vida](https://open.spotify.com/track/0UMOIcwxqq48nBQCYSrrlF) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Una Cosa Es el Ska y Otra Cosa Es el Rocksteady](https://open.spotify.com/album/7rSdsRU8zqM8Jtp0GNDEWE) | 3:29 |

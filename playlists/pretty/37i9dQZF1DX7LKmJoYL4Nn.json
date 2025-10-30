@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 61634,
+  "num_followers": 61644,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-10-28 15:00:03",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
-        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
-      },
-      "artists": [
-        {
-          "name": "Knights/\u6708\u6c38\u30ec\u30aa(CV.\u6d45\u6cbc\u664b\u592a\u90ce)\u3001\u702c\u540d\u6cc9(CV.\u4f0a\u85e4\u30de\u30b5\u30df)\u3001\u6714\u9593\u51db\u6708(CV.\u5c71\u4e0b\u5927\u8f1d)\u3001\u9cf4\u4e0a\u5d50(CV.\u5317\u6751\u8ad2)\u3001\u6731\u685c\u53f8(CV.\u571f\u7530\u73b2\u592e)",
-          "url": "https://open.spotify.com/artist/0MWS0g20z5StsBOML5UZ8A"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "Voice of Sword",
-      "url": "https://open.spotify.com/track/4tKSR384aGgqztbVSIM7V4"
-    },
-    {
-      "added_at": "2025-10-28 15:00:03",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u6d41\u661f\u968a",
         "url": "https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 223333,
       "name": "\u75be\u98a8\u8fc5\u96f7 \u5fcd\u3073\u9053",
       "url": "https://open.spotify.com/track/05CJFdKw6ZvLNV8c0EuCvv"
+    },
+    {
+      "added_at": "2025-10-28 15:00:03",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
+        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
+      },
+      "artists": [
+        {
+          "name": "Knights/\u6708\u6c38\u30ec\u30aa(CV.\u6d45\u6cbc\u664b\u592a\u90ce)\u3001\u702c\u540d\u6cc9(CV.\u4f0a\u85e4\u30de\u30b5\u30df)\u3001\u6714\u9593\u51db\u6708(CV.\u5c71\u4e0b\u5927\u8f1d)\u3001\u9cf4\u4e0a\u5d50(CV.\u5317\u6751\u8ad2)\u3001\u6731\u685c\u53f8(CV.\u571f\u7530\u73b2\u592e)",
+          "url": "https://open.spotify.com/artist/0MWS0g20z5StsBOML5UZ8A"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Voice of Sword",
+      "url": "https://open.spotify.com/track/4tKSR384aGgqztbVSIM7V4"
     },
     {
       "added_at": "2025-10-28 15:00:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,618 likes - 275 songs - 13 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,619 likes - 275 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 76 | [I Don't Wanna Be Saved \(feat\. Tay Keith\)](https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:37 |
 | 77 | [Hood Rats \(with Sukihana\)](https://open.spotify.com/track/7iSPXk5AFvZGhfOSQpisSQ) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:55 |
 | 78 | [If I Tell You](https://open.spotify.com/track/5siRJCkDV0Nm1kEjt4Ku9q) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp) | [LOVE FOR GUALA](https://open.spotify.com/album/3zMEkZNzS5yJDcnqPhIk10) | 3:34 |
-| 79 | [Doin’ It](https://open.spotify.com/track/3BG4lJPJhR3I7zZkxGhNRs) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Federal 3X](https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi) | 2:48 |
-| 80 | [Jane](https://open.spotify.com/track/7g43YzKWtb1NMRcwD896ww) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:22 |
+| 79 | [Jane](https://open.spotify.com/track/7g43YzKWtb1NMRcwD896ww) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:22 |
+| 80 | [Doin’ It](https://open.spotify.com/track/3BG4lJPJhR3I7zZkxGhNRs) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Federal 3X](https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi) | 2:48 |
 | 81 | [Yea!!](https://open.spotify.com/track/1o8n563oEpZzCj4qTIJ0NM) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma](https://open.spotify.com/album/6BsJaQiuPWfXwytfZXQBLm) | 3:11 |
 | 82 | [IT AIN'T SAFE \(feat\. Nardo Wick & Kodak Black\)](https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:50 |
 | 83 | [Ice Spice](https://open.spotify.com/track/4cAPBai2AcHU3dFp7tGt3X) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Ice Spice](https://open.spotify.com/album/2unmBPzkmQNJQcTjRXmfzN) | 3:48 |
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 96 | [FLORIDA FLOW](https://open.spotify.com/track/5VIaKcmQyU9dt4DKN1NOlm) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [JACKBOYS 2](https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb) | 5:28 |
 | 97 | [Ion Get You](https://open.spotify.com/track/0iHqaHGCRwxtaJTOOPjSHy) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [2 Heartless](https://open.spotify.com/album/1XQnW746HBsLJAgZUW9Kyu) | 2:37 |
 | 98 | [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 |
-| 99 | [Wat Be Wrong??](https://open.spotify.com/track/2dTTzrWtpAN98pTYYRbMJB) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 2:11 |
-| 100 | [DomeShuffle](https://open.spotify.com/track/6PnyMfUwWslSSnup9ug9BO) | [STMG DemGuyz](https://open.spotify.com/artist/0jieytrsm8GJJGwTTCAkkq) | [DomeShuffle](https://open.spotify.com/album/36ZiA6JeMcdcuc1uKfrO7m) | 3:54 |
+| 99 | [DomeShuffle](https://open.spotify.com/track/6PnyMfUwWslSSnup9ug9BO) | [STMG DemGuyz](https://open.spotify.com/artist/0jieytrsm8GJJGwTTCAkkq) | [DomeShuffle](https://open.spotify.com/album/36ZiA6JeMcdcuc1uKfrO7m) | 3:54 |
+| 100 | [Wat Be Wrong??](https://open.spotify.com/track/2dTTzrWtpAN98pTYYRbMJB) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 2:11 |
 | 101 | [Life Is Great](https://open.spotify.com/track/1394EvWgfpb0cHpQWTX4zY) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma](https://open.spotify.com/album/6BsJaQiuPWfXwytfZXQBLm) | 2:25 |
 | 102 | [Andale](https://open.spotify.com/track/1X1xjiyToNBcCwA3Ehjran) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/4AlDW3X24TV6bpBh4T4bhk) | 2:48 |
 | 103 | [Mercedes](https://open.spotify.com/track/5LPI0nfzndJ6mjGkCTDPNv) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [I Am Me](https://open.spotify.com/album/4pAz6zuQCyAXFGpVE1yhi6) | 2:01 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 113 | [Ball Forever](https://open.spotify.com/track/3YEvtD0NBLP9fFmvKkrnJN) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:21 |
 | 114 | [Streetlight](https://open.spotify.com/track/2IRTjvSF79KHkvQEyEbn2L) | [Troyman](https://open.spotify.com/artist/0hfCvrogjeBd9cTtAYTyCs) | [Rhythm + Flow Soundtrack: The Final Episode \(Music From The Netflix Original Series\)](https://open.spotify.com/album/3s6cdn3pMduTnseHCBSem1) | 2:29 |
 | 115 | [Voices](https://open.spotify.com/track/4Ley4LFmFVW2wmk8711W3Q) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [UNDERRATED](https://open.spotify.com/album/3jL7EW4fj5JoT8yqImgUBC) | 3:45 |
-| 116 | [Recession Proof \- Bonus](https://open.spotify.com/track/4Lc321KT6dsd2rio7ysntE) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [CM10: Free Game \(Deluxe\)](https://open.spotify.com/album/72iAwt0JTYutgyO8cDsSj6) | 3:31 |
-| 117 | [We Slide \(feat\. Young Thug\)](https://open.spotify.com/track/43JY1IBWONa8J8FqlbNOZ1) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:30 |
+| 116 | [We Slide \(feat\. Young Thug\)](https://open.spotify.com/track/43JY1IBWONa8J8FqlbNOZ1) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:30 |
+| 117 | [Recession Proof \- Bonus](https://open.spotify.com/track/4Lc321KT6dsd2rio7ysntE) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [CM10: Free Game \(Deluxe\)](https://open.spotify.com/album/72iAwt0JTYutgyO8cDsSj6) | 3:31 |
 | 118 | [Bby Pluto](https://open.spotify.com/track/4X8mODoYMS286wauCWV5If) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:40 |
 | 119 | [Got It](https://open.spotify.com/track/2gCZzizzCdcWHqksfvJbpN) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 1:16 |
 | 120 | [Master P \(feat\. Tay Keith\)](https://open.spotify.com/track/6PDiL8QLrNj1Bi85vkZTcK) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Shiesty Season](https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV) | 3:20 |
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 274 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 | 275 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 3:19 |
 
-Snapshot ID: `AcAGfgAAAADP9rPveaOUF2zELt5Iu8Oh`
+Snapshot ID: `AcAMUAAAAACnVIBQsxiZ9uZwTdscL2DA`

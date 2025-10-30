@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Mouhous, Pihlaja, Minttu, SHRTY & Bizi,  ELLIMEI ja moni muu  – mukana myös tuoreet Vain elämää \-biisit! 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,921 likes - 118 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,918 likes - 118 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 23 | [Kultaa](https://open.spotify.com/track/50eX1JtYibpnRVPGqXfweE) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Kultaa](https://open.spotify.com/album/62HSRy8W8RaeRavSVYQyMZ) | 2:54 |
 | 24 | [Rakastut muihin tyttöihin \- Vain elämää kausi 16](https://open.spotify.com/track/335BRtT4zXDIhKshQydslr) | [Jonna Tervomaa](https://open.spotify.com/artist/2oyp9901wXE4E3MLXlwznV) | [Rakastut muihin tyttöihin \(Vain elämää kausi 16\)](https://open.spotify.com/album/03U31164f5f7LZDnLVlnH4) | 2:48 |
 | 25 | [SEX IS POWER](https://open.spotify.com/track/66BCeLy8Pj3ZO0aOsT5Med) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [PRINCESS OF POWER \(DELUXE\)](https://open.spotify.com/album/7KKQfFKPruJ3lHVVtwGuo7) | 3:39 |
-| 26 | [Itsestäänselvää](https://open.spotify.com/track/7r2VVUEfLus5vl1u4bzWGc) | [Ricky\-Tick Big Band](https://open.spotify.com/artist/675Qg2fTWKVFFYEEFvZRTL), [Paleface](https://open.spotify.com/artist/5CNgBVZXUEEGqyzgjUAgDj), [Tommy Lindgren](https://open.spotify.com/artist/5zOhiw5KZ3NFfCRZQmCKf3), [Valtteri Laurell](https://open.spotify.com/artist/1syo5wnTXebY8LEJb0gXb6), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Itsestäänselvää](https://open.spotify.com/album/0UzAVi9kXigzxJYMCoQOcf) | 3:10 |
+| 26 | [Itsestäänselvää](https://open.spotify.com/track/7r2VVUEfLus5vl1u4bzWGc) | [Ricky\-Tick Big Band](https://open.spotify.com/artist/675Qg2fTWKVFFYEEFvZRTL), [Julkinen Sana](https://open.spotify.com/artist/1bLFitomD6UzraAROgqhlZ), [Paleface](https://open.spotify.com/artist/5CNgBVZXUEEGqyzgjUAgDj), [Tommy Lindgren](https://open.spotify.com/artist/5zOhiw5KZ3NFfCRZQmCKf3), [Valtteri Laurell](https://open.spotify.com/artist/1syo5wnTXebY8LEJb0gXb6), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Itsestäänselvää](https://open.spotify.com/album/0UzAVi9kXigzxJYMCoQOcf) | 3:10 |
 | 27 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 |
 | 28 | [Hush Baby, Hurry Slowly](https://open.spotify.com/track/20fkA1ahV9WxHTt03calHi) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [There’s Always More That I Could Say](https://open.spotify.com/album/3lWtOvOTvEWxEjkVCbWyir) | 2:44 |
 | 29 | [Kevin](https://open.spotify.com/track/5r908WOiKW8TvT3CnZVuHJ) | [Tuomas Kauhanen](https://open.spotify.com/artist/61ZSrIBRin3VT35hbvS5UE), [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Kevin](https://open.spotify.com/album/2He8IYMEwBZTnQLpk2zTeF) | 2:26 |

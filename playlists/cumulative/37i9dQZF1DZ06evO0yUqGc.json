@@ -254,9 +254,27 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "date_added": "2025-10-28",
+      "date_added": "2025-10-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 208573,
+      "name": "Everything's Just Wonderful",
+      "url": "https://open.spotify.com/track/2wFzjUNWlF7tYzHW2A3OOe"
+    },
+    {
+      "album": {
+        "name": "Alright, Still (Deluxe)",
+        "url": "https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2025-10-30",
       "duration_ms": 186800,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/0v8bPECK6FcZ5uwipUn3MX"

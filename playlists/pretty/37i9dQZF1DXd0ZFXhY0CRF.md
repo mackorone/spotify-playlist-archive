@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > The women whose music and influence rock our world\. Cover: Nova Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,832 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,835 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 36 | [Forever Overdose](https://open.spotify.com/track/07FeCdaFiJYdynFyJW515F) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Surrender](https://open.spotify.com/album/0UkeBEb0zPrQbuMCCGSxn2) | 3:13 |
 | 37 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 |
 | 38 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 |
-| 39 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA) | 2:32 |
-| 40 | [Choreomania](https://open.spotify.com/track/7xdHw4C522RbsxHL9KD9L6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:33 |
+| 39 | [Choreomania](https://open.spotify.com/track/7xdHw4C522RbsxHL9KD9L6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:33 |
+| 40 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA) | 2:32 |
 | 41 | [U Should Not Be Doing That](https://open.spotify.com/track/6zfVBdPDopmP36NeHd4O2m) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7) | 3:24 |
 | 42 | [Drain the Blood](https://open.spotify.com/track/3kYWrBoFBQGctF0UwgP8N1) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(PA Version\)](https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr) | 3:09 |
 | 43 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 76 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 |
 | 77 | [My House \- feat\. Courtney LaPlante](https://open.spotify.com/track/7wSVu2ZvscLgaHbS5g5m6o) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [My House \(feat\. Courtney LaPlante\)](https://open.spotify.com/album/542T5OevZIJxjdzZs5eBUC) | 4:03 |
 | 78 | [the kids aren't alright](https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:16 |
-| 79 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 |
-| 80 | [Carsick](https://open.spotify.com/track/0KJWZbtuvIdjal4URuxuPX) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/0prx7NS9nlNwrWVicNOXQS) | 2:44 |
+| 79 | [Carsick](https://open.spotify.com/track/0KJWZbtuvIdjal4URuxuPX) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/0prx7NS9nlNwrWVicNOXQS) | 2:44 |
+| 80 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 |
 | 81 | [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 |
 | 82 | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/track/36gQ2Hyr8ErtuxmssOYEOX) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/album/3pS5fcf4omfdgFP14wvmqJ) | 2:18 |
 | 83 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 |

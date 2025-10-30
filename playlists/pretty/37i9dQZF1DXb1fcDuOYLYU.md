@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 
 > These are the talented women of Latin music\. Cover: Paloma Morphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,902 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,931 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 50 | [Mi Salida Contigo](https://open.spotify.com/track/5zMaWQoxNyNo8hJICxNyBK) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 2:55 |
 | 51 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 |
 | 52 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
-| 53 | [Mi Mayor Venganza](https://open.spotify.com/track/2NCmyKVXhY4iPBXaRCajoi) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Pura Salsa](https://open.spotify.com/album/6oMeobuIf0Kmqty5A4WBBm) | 5:13 |
+| 53 | [buenos aires](https://open.spotify.com/track/3eNenN5eoBwMRNPkmoyk81) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:23 |
 | 54 | [AUTOMÁTICO](https://open.spotify.com/track/0poQY3RMThmIiutOGv3yH3) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:55 |
-| 55 | [buenos aires](https://open.spotify.com/track/3eNenN5eoBwMRNPkmoyk81) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:23 |
+| 55 | [Mi Mayor Venganza](https://open.spotify.com/track/2NCmyKVXhY4iPBXaRCajoi) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Pura Salsa](https://open.spotify.com/album/6oMeobuIf0Kmqty5A4WBBm) | 5:13 |
 | 56 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 |
 | 57 | [DE MARAVISHA](https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [DE MARAVISHA](https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI) | 3:23 |
 | 58 | [4TO 23](https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [4TO 23](https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg) | 2:48 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 97 | [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/track/74KvgeiH6BjFD39S4nwxvA) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/album/1CnDy0F1wT923JSznCjUtr) | 3:16 |
 | 98 | [Lentamente](https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:04 |
 | 99 | [Los Besos Que Te Di](https://open.spotify.com/track/0tJ0ZGuHUKJIseLFlPlkXC) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [X Amor](https://open.spotify.com/album/4kMszDo7JTs0FXtEofGelv) | 2:29 |
-| 100 | [Truth Is so Loud](https://open.spotify.com/track/6KOK4CMcOZiOkaRbztg2xA) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Truth Is so Loud](https://open.spotify.com/album/7FIr3efCjLJKs4a9O3iY97) | 3:44 |
+| 100 | [Los Mejores Años](https://open.spotify.com/track/4wrCdbPzT2hJYyzSsqHqHf) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [los mejores años \(notas de diario\)](https://open.spotify.com/album/3Wh0rvyFOKNY3WXeXgVYUp) | 3:21 |
 
 Snapshot ID: `AAAAALLv3+x6OuNDokCyDNXLeRH7bTid`

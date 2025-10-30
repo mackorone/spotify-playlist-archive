@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 635322,
+  "num_followers": 635384,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -348,7 +348,7 @@
           "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
         }
       ],
-      "duration_ms": 144846,
+      "duration_ms": 144562,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-10-23 22:00:34",
       "album": {
-        "name": "Wackelkontakt",
-        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
-      },
-      "artists": [
-        {
-          "name": "Oimara",
-          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
-        }
-      ],
-      "duration_ms": 168801,
-      "name": "Wackelkontakt",
-      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
-    },
-    {
-      "added_at": "2025-10-23 22:00:34",
-      "album": {
         "name": "MONEY ON THE DASH",
         "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 116465,
       "name": "MONEY ON THE DASH - SPED UP",
       "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
+    },
+    {
+      "added_at": "2025-10-23 22:00:34",
+      "album": {
+        "name": "Wackelkontakt",
+        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+      },
+      "artists": [
+        {
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+        }
+      ],
+      "duration_ms": 168801,
+      "name": "Wackelkontakt",
+      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
     },
     {
       "added_at": "2025-10-23 22:00:34",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-10-23 22:00:34",
       "album": {
-        "name": "WHO'S THAT",
-        "url": "https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL"
-      },
-      "artists": [
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        }
-      ],
-      "duration_ms": 140009,
-      "name": "WHO'S THAT",
-      "url": "https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu"
-    },
-    {
-      "added_at": "2025-10-23 22:00:34",
-      "album": {
         "name": "YEAH",
         "url": "https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 141551,
       "name": "YEAH",
       "url": "https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for"
+    },
+    {
+      "added_at": "2025-10-23 22:00:34",
+      "album": {
+        "name": "WHO'S THAT",
+        "url": "https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        }
+      ],
+      "duration_ms": 140009,
+      "name": "WHO'S THAT",
+      "url": "https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu"
     },
     {
       "added_at": "2025-10-23 22:00:34",
@@ -659,6 +659,30 @@
     {
       "added_at": "2025-10-23 22:00:34",
       "album": {
+        "name": "Unendlichkeit (Remix)",
+        "url": "https://open.spotify.com/album/0YbUsjOo1ElaU4MmKpzN9o"
+      },
+      "artists": [
+        {
+          "name": "MilleniumKid",
+          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
+        },
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        },
+        {
+          "name": "The Boy The G",
+          "url": "https://open.spotify.com/artist/0EG0El2Ozcdnw0xJA77DyO"
+        }
+      ],
+      "duration_ms": 172764,
+      "name": "Unendlichkeit (Remix)",
+      "url": "https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN"
+    },
+    {
+      "added_at": "2025-10-23 22:00:34",
+      "album": {
         "name": "Sleepless",
         "url": "https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9"
       },
@@ -683,30 +707,6 @@
       "duration_ms": 165263,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH"
-    },
-    {
-      "added_at": "2025-10-23 22:00:34",
-      "album": {
-        "name": "Unendlichkeit (Remix)",
-        "url": "https://open.spotify.com/album/0YbUsjOo1ElaU4MmKpzN9o"
-      },
-      "artists": [
-        {
-          "name": "MilleniumKid",
-          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
-        },
-        {
-          "name": "JBS",
-          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
-        },
-        {
-          "name": "The Boy The G",
-          "url": "https://open.spotify.com/artist/0EG0El2Ozcdnw0xJA77DyO"
-        }
-      ],
-      "duration_ms": 172764,
-      "name": "Unendlichkeit (Remix)",
-      "url": "https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN"
     },
     {
       "added_at": "2025-10-23 22:00:34",
@@ -903,22 +903,22 @@
     {
       "added_at": "2025-10-23 22:00:34",
       "album": {
-        "name": "DRAGO AUGUSTINO",
-        "url": "https://open.spotify.com/album/5eay977L3PSc3kaq3l7Ouq"
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
       "artists": [
         {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
         },
         {
-          "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
         }
       ],
-      "duration_ms": 157402,
-      "name": "DRAGO AUGUSTINO",
-      "url": "https://open.spotify.com/track/3zadSXykCJFdmRKxsfOQ2h"
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
     },
     {
       "added_at": "2025-10-23 22:00:34",
@@ -943,22 +943,22 @@
     {
       "added_at": "2025-10-23 22:00:34",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
+        "name": "DRAGO AUGUSTINO",
+        "url": "https://open.spotify.com/album/5eay977L3PSc3kaq3l7Ouq"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
         },
         {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
         }
       ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
+      "duration_ms": 157402,
+      "name": "DRAGO AUGUSTINO",
+      "url": "https://open.spotify.com/track/3zadSXykCJFdmRKxsfOQ2h"
     },
     {
       "added_at": "2025-10-23 22:00:34",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2025-10-23 22:00:34",
       "album": {
-        "name": "HURENSOHN",
-        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
       },
       "artists": [
         {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
         }
       ],
-      "duration_ms": 154493,
-      "name": "HURENSOHN",
-      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
+      "duration_ms": 150000,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
     },
     {
       "added_at": "2025-10-23 22:00:34",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2025-10-23 22:00:34",
       "album": {
-        "name": "Big Jet Plane",
-        "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
+        "name": "HURENSOHN",
+        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
       },
       "artists": [
         {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
+      "duration_ms": 154493,
+      "name": "HURENSOHN",
+      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
     },
     {
       "added_at": "2025-10-23 22:00:34",
@@ -1268,7 +1268,7 @@
           "url": "https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf"
         }
       ],
-      "duration_ms": 123292,
+      "duration_ms": 123635,
       "name": "BIKINI GRELL",
       "url": "https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq"
     },
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2025-10-23 22:00:34",
       "album": {
-        "name": "HERZBLATT (AUA AUA)",
-        "url": "https://open.spotify.com/album/0ViUN0lv5zpINiOo7gk4mt"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 160886,
-      "name": "HERZBLATT (AUA AUA)",
-      "url": "https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv"
-    },
-    {
-      "added_at": "2025-10-23 22:00:34",
-      "album": {
         "name": "Transgender",
         "url": "https://open.spotify.com/album/46muHUrkAVYiExmNO11XhI"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 176516,
       "name": "Transgender",
       "url": "https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra"
+    },
+    {
+      "added_at": "2025-10-23 22:00:34",
+      "album": {
+        "name": "HERZBLATT (AUA AUA)",
+        "url": "https://open.spotify.com/album/0ViUN0lv5zpINiOo7gk4mt"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 160886,
+      "name": "HERZBLATT (AUA AUA)",
+      "url": "https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv"
     },
     {
       "added_at": "2025-10-23 22:00:34",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-10-23 22:00:34",
       "album": {
+        "name": "Atlantis (Edit)",
+        "url": "https://open.spotify.com/album/4KZxR1aM8yKwlwYVgMvrJM"
+      },
+      "artists": [
+        {
+          "name": "Netherworld",
+          "url": "https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Atlantis - Edit",
+      "url": "https://open.spotify.com/track/4kPu9zuTvvBf8bE8Na53eg"
+    },
+    {
+      "added_at": "2025-10-23 22:00:34",
+      "album": {
         "name": "Couldn't Care Less (feat. Gia Koka)",
         "url": "https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 145946,
       "name": "Couldn't Care Less (feat. Gia Koka)",
       "url": "https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO"
-    },
-    {
-      "added_at": "2025-10-23 22:00:34",
-      "album": {
-        "name": "Atlantis (Edit)",
-        "url": "https://open.spotify.com/album/4KZxR1aM8yKwlwYVgMvrJM"
-      },
-      "artists": [
-        {
-          "name": "Netherworld",
-          "url": "https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Atlantis - Edit",
-      "url": "https://open.spotify.com/track/4kPu9zuTvvBf8bE8Na53eg"
     },
     {
       "added_at": "2025-10-23 22:00:34",
@@ -1688,29 +1688,9 @@
           "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
         }
       ],
-      "duration_ms": 121771,
+      "duration_ms": 121755,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
-    },
-    {
-      "added_at": "2025-10-23 22:00:34",
-      "album": {
-        "name": "HERZ MACHT BAMM",
-        "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "HERZ MACHT BAMM",
-      "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
     },
     {
       "added_at": "2025-10-23 22:00:34",
@@ -1731,6 +1711,26 @@
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "added_at": "2025-10-23 22:00:34",
+      "album": {
+        "name": "HERZ MACHT BAMM",
+        "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "HERZ MACHT BAMM",
+      "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
     },
     {
       "added_at": "2025-10-23 22:00:34",
@@ -1759,6 +1759,26 @@
     {
       "added_at": "2025-10-23 22:00:34",
       "album": {
+        "name": "King Of My Castle",
+        "url": "https://open.spotify.com/album/6bgKBvSpQlbrGcy7dut6cl"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Agent Zed",
+          "url": "https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc"
+        }
+      ],
+      "duration_ms": 153406,
+      "name": "King Of My Castle",
+      "url": "https://open.spotify.com/track/2NKLeHNNgAd8YE5guUPdL0"
+    },
+    {
+      "added_at": "2025-10-23 22:00:34",
+      "album": {
         "name": "Ich will nur dass du wei\u00dft (IIVEN Remix)",
         "url": "https://open.spotify.com/album/2prLFss2H7K0y4ZY094MZA"
       },
@@ -1779,26 +1799,6 @@
       "duration_ms": 156387,
       "name": "Ich will nur dass du wei\u00dft - IIVEN Remix",
       "url": "https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv"
-    },
-    {
-      "added_at": "2025-10-23 22:00:34",
-      "album": {
-        "name": "King Of My Castle",
-        "url": "https://open.spotify.com/album/6bgKBvSpQlbrGcy7dut6cl"
-      },
-      "artists": [
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Agent Zed",
-          "url": "https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc"
-        }
-      ],
-      "duration_ms": 153406,
-      "name": "King Of My Castle",
-      "url": "https://open.spotify.com/track/2NKLeHNNgAd8YE5guUPdL0"
     },
     {
       "added_at": "2025-10-23 22:00:34",

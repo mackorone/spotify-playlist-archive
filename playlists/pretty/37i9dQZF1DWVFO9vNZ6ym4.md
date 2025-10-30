@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFO9vNZ6ym4.md) - [plain]
 
 > Bringing the energy to hype you up
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,589 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,591 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFO9vNZ6ym4.md) - [plain]
 | 16 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
 | 17 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
 | 18 | [Live In My Truth \(feat\. BC Kingdom & LIZ\)](https://open.spotify.com/track/5lnau4jYpzDIPIavlqQWPy) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [SOPHIE](https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI) | 4:04 |
-| 19 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
+| 19 | [make you mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [make you mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
 | 20 | [storm](https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [storm](https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3) | 4:08 |
-| 21 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
+| 21 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 22 | [1\-800](https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Ironmouse](https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C) | [1\-800](https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI) | 3:29 |
 | 23 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 |
 | 24 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFO9vNZ6ym4.md) - [plain]
 | 46 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
 | 47 | [Don't Wake Me Up](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Don't Wake Me Up](https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg) | 2:34 |
 | 48 | [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 |
-| 49 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
-| 50 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
+| 49 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
+| 50 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 
 Snapshot ID: `AAAAADTrMWVNqBY1tCVqzROhOTauaZqX`

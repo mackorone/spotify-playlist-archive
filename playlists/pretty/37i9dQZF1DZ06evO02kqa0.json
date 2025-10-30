@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 39858,
+  "num_followers": 39864,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADCTNxxRY3+rkTq7fY+tZLe",
+  "snapshot_id": "aQAHgAAAAAB6CWH78g1v5KFszSAr+QU+",
   "tracks": [
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         }
       ],
-      "duration_ms": 121282,
-      "name": "Piangete voi",
-      "url": "https://open.spotify.com/track/15EM1Y7lvtVBOzz9jNgw8o"
+      "duration_ms": 286014,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/1okigbvmDfgCIIgK1LcSDX"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         }
       ],
-      "duration_ms": 286014,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/1okigbvmDfgCIIgK1LcSDX"
+      "duration_ms": 121282,
+      "name": "Piangete voi",
+      "url": "https://open.spotify.com/track/15EM1Y7lvtVBOzz9jNgw8o"
     },
     {
       "added_at": null,
@@ -915,30 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Callas, une invitation \u00e0 l'Op\u00e9ra",
-        "url": "https://open.spotify.com/album/6Hh8uWQx5MwJYEdbx55x6l"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        }
-      ],
-      "duration_ms": 348693,
-      "name": "Norma, Act I Scene 1: \"Casta Diva\"",
-      "url": "https://open.spotify.com/track/1GjCs7OawOfSyjRIw2U7WI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maria Callas: Rossini and Donizetti Arias",
         "url": "https://open.spotify.com/album/6rGI3DRkuJsPmi9JQnkoeb"
       },
@@ -967,8 +943,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maria Callas",
-        "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
+        "name": "La Callas, une invitation \u00e0 l'Op\u00e9ra",
+        "url": "https://open.spotify.com/album/6Hh8uWQx5MwJYEdbx55x6l"
       },
       "artists": [
         {
@@ -976,17 +952,17 @@
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "The Orchestra National De La Radiodiffusion Francaise",
-          "url": "https://open.spotify.com/artist/23AcFWoCqclc6gBvicWS6Y"
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
         },
         {
-          "name": "Georges Pr\u00eatre",
-          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
         }
       ],
-      "duration_ms": 281600,
-      "name": "Louise (1997 Digital Remaster): Depuis le jour o\u00f9 je me suis donn\u00e9e",
-      "url": "https://open.spotify.com/track/5cr3Nss9uamtSe1dtoqIhG"
+      "duration_ms": 348693,
+      "name": "Norma, Act I Scene 1: \"Casta Diva\"",
+      "url": "https://open.spotify.com/track/1GjCs7OawOfSyjRIw2U7WI"
     },
     {
       "added_at": null,
@@ -1059,6 +1035,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maria Callas",
+        "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "The Orchestra National De La Radiodiffusion Francaise",
+          "url": "https://open.spotify.com/artist/23AcFWoCqclc6gBvicWS6Y"
+        },
+        {
+          "name": "Georges Pr\u00eatre",
+          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
+        }
+      ],
+      "duration_ms": 281600,
+      "name": "Louise (1997 Digital Remaster): Depuis le jour o\u00f9 je me suis donn\u00e9e",
+      "url": "https://open.spotify.com/track/5cr3Nss9uamtSe1dtoqIhG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Very Best of Maria Callas",
         "url": "https://open.spotify.com/album/0tREYnFHLtGOkfegsYOBRb"
       },
@@ -1119,30 +1119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maria Callas",
-        "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        }
-      ],
-      "duration_ms": 349666,
-      "name": "La Sonnambula (1997 Digital Remaster): Compagne, temiri amici ....Come per me sereno",
-      "url": "https://open.spotify.com/track/6X0pfR9SGilsf76eerqTys"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Callas sings Great Arias from French Operas - Callas Remastered",
         "url": "https://open.spotify.com/album/1oolP2nPF4furJV0ubUALc"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 318053,
       "name": "Saint-Sa\u00ebns: Samson et Dalila, Op. 47, Act 1: \"Printemps qui commence\" (Dalila)",
       "url": "https://open.spotify.com/track/4m6ytPVequobQIcSBAwuHH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maria Callas",
+        "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        }
+      ],
+      "duration_ms": 349666,
+      "name": "La Sonnambula (1997 Digital Remaster): Compagne, temiri amici ....Come per me sereno",
+      "url": "https://open.spotify.com/track/6X0pfR9SGilsf76eerqTys"
     },
     {
       "added_at": null,
@@ -1247,30 +1247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 1963 Recital at the Th\u00e9\u00e2tre des Champs-Elys\u00e9es, Paris: Works by Berlioz, Bizet, Gluck, Gounod & Massenet (The Original Sound of Maria Callas)",
-        "url": "https://open.spotify.com/album/5VKttFwHQzWoYnbcrE5vTC"
-      },
-      "artists": [
-        {
-          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
-          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
-        },
-        {
-          "name": "Georges Pr\u00eatre",
-          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Manon, Act II Scene 4: \"Je ne suis que faiblesse et fragilit\u00e9 ... Adieu, notre petite table\" (Manon) - 1963 Columbia Recording",
-      "url": "https://open.spotify.com/track/6eg07P34m0Ieq5VWHMNH01"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maria Callas - Popular Music from TV, Films and Opera",
         "url": "https://open.spotify.com/album/3AvOQZYdh8fUIfVEYMgLdj"
       },
@@ -1299,6 +1275,58 @@
       "duration_ms": 196760,
       "name": "Verdi: La Traviata, Act 3 Scene 4: No. 8, Aria \"Addio del passato bei sogni ridenti\"",
       "url": "https://open.spotify.com/track/5Gw5huzU3lUYNXehwRpOnB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The 1963 Recital at the Th\u00e9\u00e2tre des Champs-Elys\u00e9es, Paris: Works by Berlioz, Bizet, Gluck, Gounod & Massenet (The Original Sound of Maria Callas)",
+        "url": "https://open.spotify.com/album/5VKttFwHQzWoYnbcrE5vTC"
+      },
+      "artists": [
+        {
+          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
+          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
+        },
+        {
+          "name": "Georges Pr\u00eatre",
+          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Manon, Act II Scene 4: \"Je ne suis que faiblesse et fragilit\u00e9 ... Adieu, notre petite table\" (Manon) - 1963 Columbia Recording",
+      "url": "https://open.spotify.com/track/6eg07P34m0Ieq5VWHMNH01"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pure - Maria Callas",
+        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Antonino Votto",
+          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
+      "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
     },
     {
       "added_at": null,
@@ -1343,30 +1371,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pure - Maria Callas",
-        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+        "name": "Maria by Callas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xaUzONuVZ28q4dpkKvktc"
       },
       "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "Antonino Votto",
-          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
+          "name": "Orchestra of the San Carlos Opera House, Lisbon",
+          "url": "https://open.spotify.com/artist/6sbBdQ4IdyKtzYfLkKZWj7"
         },
         {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+          "name": "Franco Ghione",
+          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
         }
       ],
-      "duration_ms": 205826,
-      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
-      "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
+      "duration_ms": 204226,
+      "name": "La traviata, Act III Scene 4: No. 8c. \"Addio, del passato\" (Violetta) [Recorded in Lisbon, 1958]",
+      "url": "https://open.spotify.com/track/5efDz32sTEFyvcTjqB8jLY"
     },
     {
       "added_at": null,
@@ -1411,30 +1435,6 @@
       "duration_ms": 455626,
       "name": "Verdi: Rigoletto, Act 1: \"Gualtier Mald\u00e8\u2026 Caro nome\" (Gilda, Borsa, Ceprano, Marullo)",
       "url": "https://open.spotify.com/track/7HonfcsYMRIkEiPI4sTZMU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maria by Callas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xaUzONuVZ28q4dpkKvktc"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra of the San Carlos Opera House, Lisbon",
-          "url": "https://open.spotify.com/artist/6sbBdQ4IdyKtzYfLkKZWj7"
-        },
-        {
-          "name": "Franco Ghione",
-          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "La traviata, Act III Scene 4: No. 8c. \"Addio, del passato\" (Violetta) [Recorded in Lisbon, 1958]",
-      "url": "https://open.spotify.com/track/5efDz32sTEFyvcTjqB8jLY"
     }
   ],
   "unique_name": "This Is Maria Callas",

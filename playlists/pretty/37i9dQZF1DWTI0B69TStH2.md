@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Weather](https://open.spotify.com/track/3RHz375bDU8hYCvk6NMByy) | [Babyhats](https://open.spotify.com/artist/5cqRWXSEk4JOG5hUhQpgON) | [Weather](https://open.spotify.com/album/4WnN67ysS7Z3ul08iceUWx) | 4:14 |
+| 1 | [Weather](https://open.spotify.com/track/3RHz375bDU8hYCvk6NMByy) | [babyhats](https://open.spotify.com/artist/5cqRWXSEk4JOG5hUhQpgON) | [Weather](https://open.spotify.com/album/4WnN67ysS7Z3ul08iceUWx) | 4:14 |
 | 2 | [Nie mam się już czego bać](https://open.spotify.com/track/2fwA89EScmFJkVkDSeC2G3) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Nie mam się już czego bać](https://open.spotify.com/album/2JMpOaxEftQzS8okGgDcbo) | 3:18 |
 | 3 | [Don't Make It Easy](https://open.spotify.com/track/78oGA3xKTcgCjCkjlCSwtQ) | [NO NIE](https://open.spotify.com/artist/4aO9bxxJrjgjmtwhxfvKHg), [ptakova](https://open.spotify.com/artist/6qHcB06FV47cRkAt5QbVwk) | [Into My World](https://open.spotify.com/album/1Ef72hKsISFTYzNzSR9IMh) | 3:20 |
 | 4 | [Nie zostawiaj mnie na później](https://open.spotify.com/track/6g0hp0cY2DfUMyPjlWs4kf) | [Melancholy Hill](https://open.spotify.com/artist/6GHlJaayb651hzenq1MND8) | [Nie zostawiaj mnie na później](https://open.spotify.com/album/42YTz8PUn1pwlEv6TW4UUr) | 3:13 |

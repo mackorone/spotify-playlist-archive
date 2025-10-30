@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,036 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,113 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 49 | [Blood Of Heroes \- Remastered 2004](https://open.spotify.com/track/4fPVJz7EYTqCqgXxLjQrSn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 3:50 |
 | 50 | [A Secret Place \- Remastered 2004 / Remixed](https://open.spotify.com/track/3b1nPEPh9OGSngRUciEv6P) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Cryptic Writings \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL) | 5:24 |
 
-Snapshot ID: `aP62AAAAAAAr7fMz49x3DBUFWJHdF453`
+Snapshot ID: `aQAHgAAAAADPbFyO58BMhbu64G2a/k7P`

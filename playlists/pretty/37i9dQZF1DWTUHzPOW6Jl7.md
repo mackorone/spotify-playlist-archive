@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,261 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,424 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 35 | [Breathe \(feat\. Sean Paul\) \- Rap Version](https://open.spotify.com/track/1BPybPVkDfUjFDvqG04l58) | [Blu Cantrell](https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Bittersweet](https://open.spotify.com/album/6AnYRqJHyeEzt2zviudTMH) | 3:48 |
 | 36 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
 | 37 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 |
-| 38 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
-| 39 | [Thong Song](https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Unleash The Dragon](https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm) | 4:13 |
+| 38 | [Thong Song](https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Unleash The Dragon](https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm) | 4:13 |
+| 39 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
 | 40 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 |
 | 41 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
 | 42 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 |
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 44 | [Move Ya Body](https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW) | [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [Jabba](https://open.spotify.com/artist/3cbRMYnjXAwJYNzxy291JY) | [Nina Sky](https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88) | 3:52 |
 | 45 | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E) | [Blu Cantrell](https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM) | [So Blu](https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU) | 4:10 |
 | 46 | [Partition](https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 5:19 |
-| 47 | [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 |
+| 47 | [You Make Me Wanna...](https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:39 |
 | 48 | [Bills, Bills, Bills](https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:16 |
-| 49 | [You Make Me Wanna...](https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:39 |
-| 50 | [Pour It Up](https://open.spotify.com/track/5r67bGhYXZNqk2m2Wupfmu) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 2:41 |
+| 49 | [Pour It Up](https://open.spotify.com/track/5r67bGhYXZNqk2m2Wupfmu) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 2:41 |
+| 50 | [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 |
 | 51 | [7/11](https://open.spotify.com/track/02M6vucOvmRfMxTXDUwRXu) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:33 |
 | 52 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
 | 53 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: BIG FAF
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,266 likes - 99 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,271 likes - 99 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Backrooted](https://open.spotify.com/track/1v81WO1jntFL3krIjtdlp0) | [BIG FAF](https://open.spotify.com/artist/0zFJWYlu5kGl6TOeJnu52I), [AMO](https://open.spotify.com/artist/0yDxv7OYUefoV03lyOp1LS) | [Backrooted](https://open.spotify.com/album/1APTdA3906OuJI5uc9wd0R) | 3:12 |
+| 1 | [Backrooted](https://open.spotify.com/track/1v81WO1jntFL3krIjtdlp0) | [BIG FAF](https://open.spotify.com/artist/0zFJWYlu5kGl6TOeJnu52I), [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA) | [Backrooted](https://open.spotify.com/album/1APTdA3906OuJI5uc9wd0R) | 3:12 |
 | 2 | [GUNSO LYFE STYLE](https://open.spotify.com/track/3HA5RVJURsK4gsQXoxXryC) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [Harka](https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI), [ENEL](https://open.spotify.com/artist/5UyerN25hRt7bD2tnAvxdg) | [GUNSO LYFE STYLE](https://open.spotify.com/album/0bmYLx8qhUW2h8Wx4EuUEx) | 3:17 |
 | 3 | [Tee Shyne Flow](https://open.spotify.com/track/2TbcC82ZBbUgeEwpI6IaTD) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Skipping Tape Vol.3](https://open.spotify.com/album/6B2Mj4AkEc2mxj0x1ML4AD) | 2:18 |
 | 4 | [KID FRESINO](https://open.spotify.com/track/1R3he92KY93TdSvMl5pwwX) | [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [KID FRESINO](https://open.spotify.com/album/7lTh9pxURUuaktSPVPXsri) | 2:13 |

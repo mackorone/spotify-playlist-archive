@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: Hearts2Hearts\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: Gyubin\(규빈\)\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-507 songs - 1 day 3 hr 44 min
+508 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [AURORA](https://open.spotify.com/track/41GURJxjE5urzLnrw2O2sI) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [cignature 3rd EP Album ‘My Little Aurora’](https://open.spotify.com/album/0Bhl5VhnxFho8slGxiBgZK) | 3:26 | 2023-01-17 | 2023-02-15 |
 | [Aya](https://open.spotify.com/track/6ExdEzXXhZpoNMl5p1BD7z) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 2nd Album Repackage \(Now, We\)](https://open.spotify.com/album/78NxvXVrMKH7s3CZqSQOcK) | 3:34 | 2022-02-14 | 2022-04-19 |
 | [B.B.B.Boo](https://open.spotify.com/track/7AoZUPWvjhcI5Gzke4eF0U) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [HAPPY MOMENT](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) | 3:35 | 2022-04-04 | 2022-04-18 |
-| [BAAM](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Fun to The World](https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3) | 3:28 | 2022-03-29 | 2025-10-21 |
+| [BAAM](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Fun to The World](https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3) | 3:28 | 2022-03-29 |  |
 | [Baby Baby](https://open.spotify.com/track/69VFSkc7Eca09fnUxSL5nw) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [BABYBABY](https://open.spotify.com/album/1xbVi5T6nMgrfmjHhjjVIu) | 3:11 | 2021-11-29 | 2022-06-13 |
 | [Bad Dracula](https://open.spotify.com/track/4z5aqQOYYsvjXuXjjhKVJ2) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:08 | 2022-03-29 | 2022-04-20 |
 | [Banana allergy monkey](https://open.spotify.com/track/2OKDrqLglUNqv1TveF5WGx) | [OH MY GIRL BANHANA](https://open.spotify.com/artist/0X1f2U9bxiC3DhKA8OcvgG) | [BANANA ALLERGY MONKEY](https://open.spotify.com/album/3dGBubYrajwhcnMubZ3H8F) | 3:43 | 2022-04-04 | 2022-05-24 |
@@ -70,6 +70,7 @@
 | [Candy Boy](https://open.spotify.com/track/0SY4Q05g5eazjmgr3Dxr5y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THE STORY BEGINS](https://open.spotify.com/album/3uLLMZwXdtGAD3BAB12jUM) | 2:46 | 2022-01-04 | 2022-07-12 |
 | [Candy Crush](https://open.spotify.com/track/13ykJ1EkyTbiUIpj9WVaNe) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 3 : Candy Crush>](https://open.spotify.com/album/4CDFBhhclanfS0KglX7MWX) | 3:00 | 2024-04-26 | 2024-06-17 |
 | [CANDYFLOSS](https://open.spotify.com/track/3r6v6awkmqrHLj9yKaYZmZ) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:01 | 2022-07-04 | 2023-02-04 |
+| [CAPPUCCINO](https://open.spotify.com/track/1w3fokRBNk1ge6nyEQgmRk) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [CAPPUCCINO](https://open.spotify.com/album/79XKfHFB4DDjK9qsFzGtwr) | 2:57 | 2025-10-29 |  |
 | [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 | 2022-03-29 | 2025-05-08 |
 | [Catch the Stars](https://open.spotify.com/track/2yMIYu0O3TanoqmqpTcoEs) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Catch the Stars](https://open.spotify.com/album/1hwykI4yYe3FTcAhl1gadk) | 3:20 | 2022-01-04 | 2022-07-29 |
 | [Changed Number](https://open.spotify.com/track/1L0kL5aaG3tUwbHECFbdB4) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Changed Number](https://open.spotify.com/album/5bYChUxAMA4r6U8dGwkyFq) | 3:28 | 2022-07-05 | 2022-07-20 |
@@ -258,7 +259,7 @@
 | [Love Me Out Loud](https://open.spotify.com/track/1zFT6Z2zT4Z4kUFnerd9lE) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 3:24 | 2022-07-12 | 2022-08-02 |
 | [Love O'clock](https://open.spotify.com/track/5KVKiMVV9OlJzc22DzGEEr) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 3:56 | 2021-11-29 | 2022-07-19 |
 | [LOVE WHISPER](https://open.spotify.com/track/1xwnvVY9gHdo69PuGQkG1U) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 5th Mini Album <PARALLEL>](https://open.spotify.com/album/2cGPXPXZxEBr6LniuA3ewf) | 3:31 | 2021-11-29 | 2022-07-06 |
-| [Love Your Flower](https://open.spotify.com/track/3YCSEjFJTceJXxzC4gdKei) | [PRIMROSE](https://open.spotify.com/artist/1nE2Iu4qK1fzslPJcLGq66) | [Love Your Flower](https://open.spotify.com/album/4DnObuoZoENbimDi6adEZp) | 3:10 | 2025-09-17 |  |
+| [Love Your Flower](https://open.spotify.com/track/3YCSEjFJTceJXxzC4gdKei) | [PRIMROSE](https://open.spotify.com/artist/1nE2Iu4qK1fzslPJcLGq66) | [Love Your Flower](https://open.spotify.com/album/4DnObuoZoENbimDi6adEZp) | 3:10 | 2025-09-17 | 2025-10-30 |
 | [Loveable](https://open.spotify.com/track/087TC6IfJ8z7fBItvglRRs) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Op.22 Y\-Waltz : in Minor](https://open.spotify.com/album/2CMx2ufebKtglecf9Q1F90) | 2:56 | 2022-10-24 | 2023-05-07 |
 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 | 2022-07-07 | 2022-07-09 |
 | [Lucky](https://open.spotify.com/track/7eirSc5kjfrK1R7Wo06pos) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.3 Chococo Factory](https://open.spotify.com/album/4FcriwGRWvBmjw1NYD87dO) | 3:04 | 2022-04-04 | 2022-04-14 |
@@ -327,7 +328,7 @@
 | [Pinocchio](https://open.spotify.com/track/5IHqT5CMbpc35bh5aomwNK) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Heart](https://open.spotify.com/album/0b1tsnRd7eu0q4qaeCLsQa) | 3:20 | 2021-11-29 | 2022-07-11 |
 | [PIT\-A\-PAT](https://open.spotify.com/track/1eSwiP5R9g2ws39TemiRHi) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICEcoaster: LANE1](https://open.spotify.com/album/1O0JME3VbK4siDIfh6K3Oe) | 3:27 | 2022-03-29 | 2022-04-20 |
 | [Plop Plop](https://open.spotify.com/track/4FGsdwzzlyiNtcHSmXj53B) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [HAPPY MOMENT](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) | 3:14 | 2022-03-29 | 2022-04-21 |
-| [Plot Twist](https://open.spotify.com/track/0yM2lQyf9l3uSA0VCzmojB) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Plot Twist \- 1st EP](https://open.spotify.com/album/5vPdl5YUZ0UJWjmUZJkTwR) | 2:26 | 2025-08-13 |  |
+| [Plot Twist](https://open.spotify.com/track/0yM2lQyf9l3uSA0VCzmojB) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Plot Twist \- 1st EP](https://open.spotify.com/album/5vPdl5YUZ0UJWjmUZJkTwR) | 2:26 | 2025-08-13 | 2025-10-30 |
 | [POM POM POM](https://open.spotify.com/track/4KtNoHpc781qroUhOol1I1) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [UNFRAMED](https://open.spotify.com/album/09fRNZvZnqJqm7024Sa7uP) | 3:25 | 2024-06-17 | 2024-06-26 |
 | [PONYTAIL](https://open.spotify.com/track/25WqQrSThOQktE5Z7cQ5mO) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICEcoaster: LANE1](https://open.spotify.com/album/1O0JME3VbK4siDIfh6K3Oe) | 3:26 | 2022-03-29 | 2022-04-03 |
 | [Ponzona](https://open.spotify.com/track/597wvQ0bqfJgszRg4eDVy1) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [INTO VIOLET](https://open.spotify.com/album/3CjwKaPAPzaHgivlGFjsp4) | 3:11 | 2021-11-29 | 2022-04-19 |

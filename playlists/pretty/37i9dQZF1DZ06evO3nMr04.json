@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1423207,
+  "num_followers": 1423290,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAACOh9ElqWfckSSjeC+v2vX6",
+  "snapshot_id": "aQAHgAAAAACNf3QAKM8uKCm99/TuMxCi",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6"
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
       },
       "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
         }
       ],
-      "duration_ms": 264334,
-      "name": "CARNIVAL",
-      "url": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
+      "duration_ms": 236600,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih"
     },
     {
       "added_at": null,
@@ -411,22 +407,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6"
       },
       "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 236600,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih"
+      "duration_ms": 264334,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "E.T.",
-      "url": "https://open.spotify.com/track/36ux3YuUsGTWPT8fXclS45"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Man On The Moon II: The Legend Of Mr. Rager",
         "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 192253,
       "name": "Erase Me - Main",
       "url": "https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "E.T.",
+      "url": "https://open.spotify.com/track/36ux3YuUsGTWPT8fXclS45"
     },
     {
       "added_at": null,

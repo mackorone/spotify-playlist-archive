@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iRboc.md) - [plain]
 
 > This is Laufey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,904 likes - 37 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,113 likes - 37 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iRboc.md) - [plain]
 | 36 | [James](https://open.spotify.com/track/2y1NtQ2ZfIq0zBUP3tOlbX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z) | 2:55 |
 | 37 | [The Risk](https://open.spotify.com/track/724VTAYwzZowMcN1jC9HF5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Big Bold Beautiful Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47kkQLC0hzwsp0uFdhikZP) | 3:58 |
 
-Snapshot ID: `aP62AAAAAAApGttV/PdBw8XJbMkuESEB`
+Snapshot ID: `aQAHgAAAAAD7Rhjk7trXeVPOOBLk9n8h`

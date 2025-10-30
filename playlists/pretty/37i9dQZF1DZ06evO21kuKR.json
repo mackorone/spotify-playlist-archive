@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 97012,
+  "num_followers": 97023,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAAFq/1QC8fN6skmHpwQYlWa",
+  "snapshot_id": "aQAHgAAAAAAlWG3x2JMiYY169PO4q+qu",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 144032,
+      "name": "Just Say Det",
+      "url": "https://open.spotify.com/track/1X5qFwlfEX1cHpp08hiGlw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SPEAK NOW OR...",
         "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 133136,
       "name": "OUTTA TOWN (feat. BossMan Dlow)",
       "url": "https://open.spotify.com/track/2MzTqKr8Fsu3I5iLUPjLOP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 144032,
-      "name": "Just Say Det",
-      "url": "https://open.spotify.com/track/1X5qFwlfEX1cHpp08hiGlw"
     },
     {
       "added_at": null,

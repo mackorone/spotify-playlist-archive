@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,664 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,691 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 55 | [Behind Your Walls \- Acoustic](https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Behind Your Walls](https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ) | 3:21 |
 | 56 | [Synchronize \- Acoustic Version](https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize \(Acoustic Version\)](https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L) | 2:43 |
 | 57 | [City of Angels \(Acoustic\)](https://open.spotify.com/track/7Jw6Rs78eNe7PfnYz8lRII) | [Jared Leto](https://open.spotify.com/artist/3CtGQ3zIoltHY9CYiuY7op), [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Dallas Buyers Club \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5Eq7NDVWgHCPnkLloTg36m) | 4:26 |
-| 58 | [Muscle Museum \- Live Acoustic Version KCRW 8/3/99](https://open.spotify.com/track/4hfO5Y0VTgzGyyv8EpsNYj) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Muscle Museum](https://open.spotify.com/album/2jdxrIsqbmblMk50Zot9LU) | 4:44 |
-| 59 | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Kroma Strings](https://open.spotify.com/artist/46YYq1tBAbtXp6jB3B3ig3) | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V) | 4:07 |
+| 58 | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Kroma Strings](https://open.spotify.com/artist/46YYq1tBAbtXp6jB3B3ig3) | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V) | 4:07 |
+| 59 | [Muscle Museum \- Live Acoustic Version KCRW 8/3/99](https://open.spotify.com/track/4hfO5Y0VTgzGyyv8EpsNYj) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Muscle Museum](https://open.spotify.com/album/2jdxrIsqbmblMk50Zot9LU) | 4:44 |
 | 60 | [Unintended \- Acoustic Version](https://open.spotify.com/track/2rx43ysBD4sXw5CuhsAWPT) | [Matt Bellamy](https://open.spotify.com/artist/5M76Uwozk3WE3oYE8TNKoR) | [Unintended \[Acoustic Version\]](https://open.spotify.com/album/4h1Etv3O9PHFBwpiZJ8L5b) | 4:02 |
 | 61 | [blindfolded \(acoustic\)](https://open.spotify.com/track/1FEcTIxhkqJAE1RlHnpRO7) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded \(acoustic\)](https://open.spotify.com/album/4yReYM4NUqCJS1jJBme8bW) | 3:24 |
 | 62 | [Sleepwalking \- Unplugged](https://open.spotify.com/track/1oADRDNPNzmNl50HRiQhQD) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking Reimagined](https://open.spotify.com/album/2f8uR6f3g5RbcQbP9PFOC6) | 2:55 |

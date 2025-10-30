@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Apostolia Zoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,933 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,931 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 14 | [Na M' Agapas](https://open.spotify.com/track/419XlcPiQkS7fPsAnnSL25) | [Anastasios Rammos](https://open.spotify.com/artist/4IcdTv3In6GxT24aAGKSSF) | [Deka](https://open.spotify.com/album/2UnmILWDKGhCl9XbSiRcht) | 2:43 |
 | 15 | [Kale..\. Poios Einai Autos?](https://open.spotify.com/track/3RS5AmoANjZz0PXsOUjovL) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Kale..\. Poios Einai Autos?](https://open.spotify.com/album/1p6wochIG0XNOunIdKHdh7) | 2:26 |
 | 16 | [Ola Gia Ola](https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Ola Gia Ola](https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo) | 4:41 |
-| 17 | [Xorepse](https://open.spotify.com/track/3FNGcipuHWekU1KvhdrAwH) | [Michalis Hatzigiannis](https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A), [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu) | [Xorepse](https://open.spotify.com/album/2FJpQ42IEy1G66GmbSuYUs) | 3:48 |
-| 18 | [Gia Tin Epomeni](https://open.spotify.com/track/1Y3hauJlkq8GXIJ1YOnpDH) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [To Diko Mou DNA](https://open.spotify.com/album/1MdLoUTIjsLZNghSQeNnXg) | 2:48 |
+| 17 | [Gia Tin Epomeni](https://open.spotify.com/track/1Y3hauJlkq8GXIJ1YOnpDH) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [To Diko Mou DNA](https://open.spotify.com/album/1MdLoUTIjsLZNghSQeNnXg) | 2:48 |
+| 18 | [Xorepse](https://open.spotify.com/track/3FNGcipuHWekU1KvhdrAwH) | [Michalis Hatzigiannis](https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A), [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu) | [Xorepse](https://open.spotify.com/album/2FJpQ42IEy1G66GmbSuYUs) | 3:48 |
 | 19 | [Kapnogona](https://open.spotify.com/track/5wd1QhMpVIwDB2wKRCkPti) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Kapnogona](https://open.spotify.com/album/2RM0S3esLb4znrNTyq70VF) | 3:04 |
 | 20 | [Katamata](https://open.spotify.com/track/4gizfKGSprKyQgYgwX6BYS) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Katamata](https://open.spotify.com/album/42t8tYGPuZorC82akH5eFS) | 4:40 |
 | 21 | [Planitis Gi](https://open.spotify.com/track/1jhWAV25iQBkWOtIlHe6a0) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Planitis Gi](https://open.spotify.com/album/3NrhsZPgo6Z72XmnDizCTK) | 4:07 |

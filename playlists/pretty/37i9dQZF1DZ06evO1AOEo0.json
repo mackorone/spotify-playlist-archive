@@ -1,12 +1,12 @@
 {
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
-  "num_followers": 37706,
+  "num_followers": 37713,
   "original_name": "This Is Shane & Shane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAAPzV47g9sS+21j69UQnHBB",
+  "snapshot_id": "aQAHgAAAAAAy7Z0iY8MPeJaplVh5nuUf",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 286851,
-      "name": "His Mercy Is More (Live)",
-      "url": "https://open.spotify.com/track/663E0Tn2w7TyDSO4ATGiPD"
+      "duration_ms": 293802,
+      "name": "Is He Worthy (Live)",
+      "url": "https://open.spotify.com/track/2biU8EO9TFZ6lMz8q6A92W"
     },
     {
       "added_at": null,
@@ -424,9 +424,25 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 293802,
-      "name": "Is He Worthy (Live)",
-      "url": "https://open.spotify.com/track/2biU8EO9TFZ6lMz8q6A92W"
+      "duration_ms": 286851,
+      "name": "His Mercy Is More (Live)",
+      "url": "https://open.spotify.com/track/663E0Tn2w7TyDSO4ATGiPD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 371621,
+      "name": "The Lord Is My Salvation",
+      "url": "https://open.spotify.com/track/2hGceYvgFdrhriDL1KKDLF"
     },
     {
       "added_at": null,
@@ -455,22 +471,6 @@
       "duration_ms": 298800,
       "name": "Yahweh (Psalm 84)",
       "url": "https://open.spotify.com/track/5T12pdka57KQjG6kfIlNrk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymns, Vol. 1",
-        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 371621,
-      "name": "The Lord Is My Salvation",
-      "url": "https://open.spotify.com/track/2hGceYvgFdrhriDL1KKDLF"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
-        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 315007,
-      "name": "Psalm 90 (Satisfy Us with Your Love)",
-      "url": "https://open.spotify.com/track/1BsEjM4yjgsTlykhygDeNr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Worship Initiative, Vol. 11",
         "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 348534,
       "name": "Sovereign Over Us",
       "url": "https://open.spotify.com/track/7w9H7pkUh4pxDOzFAGQnza"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 315007,
+      "name": "Psalm 90 (Satisfy Us with Your Love)",
+      "url": "https://open.spotify.com/track/1BsEjM4yjgsTlykhygDeNr"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
-        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 302556,
-      "name": "Psalm 84 (I'm Home)",
-      "url": "https://open.spotify.com/track/6BaCssQMVGSLNElXyrmmGF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Worship Initiative, Vol. 11",
         "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
       },
@@ -719,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns in the Round",
-        "url": "https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf"
+        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
       },
       "artists": [
         {
@@ -728,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 253406,
-      "name": "Be Thou My Vision (Lord You Are) [Acoustic]",
-      "url": "https://open.spotify.com/track/73O5yQB96iucUM1EGwVNhK"
+      "duration_ms": 302556,
+      "name": "Psalm 84 (I'm Home)",
+      "url": "https://open.spotify.com/track/6BaCssQMVGSLNElXyrmmGF"
     },
     {
       "added_at": null,
@@ -755,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
-        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
+        "name": "Hymns in the Round",
+        "url": "https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf"
       },
       "artists": [
         {
@@ -764,9 +748,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 322753,
-      "name": "Psalm 8 (How Majestic Is Your Name)",
-      "url": "https://open.spotify.com/track/4SdrS21OB26xY1hWYTOA4i"
+      "duration_ms": 253406,
+      "name": "Be Thou My Vision (Lord You Are) [Acoustic]",
+      "url": "https://open.spotify.com/track/73O5yQB96iucUM1EGwVNhK"
     },
     {
       "added_at": null,
@@ -787,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 322753,
+      "name": "Psalm 8 (How Majestic Is Your Name)",
+      "url": "https://open.spotify.com/track/4SdrS21OB26xY1hWYTOA4i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Psalms Live",
         "url": "https://open.spotify.com/album/3UzKQzSKz9lo1rGBDm7iFv"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 292379,
       "name": "O Praise the Name (Live)",
       "url": "https://open.spotify.com/track/06JooBbucchucT6w3HaMlR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymns in the Round",
-        "url": "https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 290566,
-      "name": "Turn Your Eyes Upon Jesus (Acoustic)",
-      "url": "https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz"
     },
     {
       "added_at": null,
@@ -835,6 +819,22 @@
       "duration_ms": 261182,
       "name": "Great I Am",
       "url": "https://open.spotify.com/track/21ttJ3sHDRuWEQqOCzbKLv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymns in the Round",
+        "url": "https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 290566,
+      "name": "Turn Your Eyes Upon Jesus (Acoustic)",
+      "url": "https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz"
     },
     {
       "added_at": null,

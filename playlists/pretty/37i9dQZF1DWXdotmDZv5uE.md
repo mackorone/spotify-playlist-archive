@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el alma musical de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,844 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,864 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La Cigarra \(The Cicada\)](https://open.spotify.com/track/1G2RpIZfWkZB6pRYDQNS6S) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Canciones de mi Padre](https://open.spotify.com/album/78tvOl9RNOpoQ5BQ8NOJPo) | 3:49 |
-| 2 | [Grítenme Piedras Del Campo \- En Vivo Desde La Ciudad De México, 2017](https://open.spotify.com/track/5kjPnaA0MRdjsNNgwsU18c) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Grítenme Piedras Del Campo \(En Vivo Desde La Ciudad De México, 2017\)](https://open.spotify.com/album/40EsqK8Wk2WkpZSjP3TK2y) | 3:28 |
+| 1 | [Grítenme Piedras Del Campo \- En Vivo Desde La Ciudad De México, 2017](https://open.spotify.com/track/5kjPnaA0MRdjsNNgwsU18c) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Grítenme Piedras Del Campo \(En Vivo Desde La Ciudad De México, 2017\)](https://open.spotify.com/album/40EsqK8Wk2WkpZSjP3TK2y) | 3:28 |
+| 2 | [La Cigarra \(The Cicada\)](https://open.spotify.com/track/1G2RpIZfWkZB6pRYDQNS6S) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Canciones de mi Padre](https://open.spotify.com/album/78tvOl9RNOpoQ5BQ8NOJPo) | 3:49 |
 | 3 | [Cerro la Silla \(El cerro de la silla\)](https://open.spotify.com/track/7mZzezUiFajmq48Bou5W2v) | [Los Broncos de Reynosa](https://open.spotify.com/artist/3fzjCvgvfaez28s4JTabRS) | [Exitos de Los Broncos de Reynosa](https://open.spotify.com/album/3WuRR3ZB1IFPuDG4pyWdHT) | 2:25 |
 | 4 | [Rigoletito](https://open.spotify.com/track/4L69BoE55Rl105sozTJNfK) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [15 Exitos "Danzones"](https://open.spotify.com/album/3IGN80pC3sPnYgsKq4sVga) | 3:23 |
 | 5 | [Por los Caminos del Sur](https://open.spotify.com/track/7uXqcRxoGWrqSTDKL5BnKo) | [Dueto Caleta](https://open.spotify.com/artist/0eAmmzGvPNjPM5zFVNaQfo) | [Colección Original RCA](https://open.spotify.com/album/3nodJ4wvcNXc1qxyBcHTjg) | 2:40 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 24 | [Zacazonapan](https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN) | [Marimba Orquesta Perla De Chiapas](https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP) | [Vamos A La Fiesta](https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ) | 2:45 |
 | 25 | [La Iguana](https://open.spotify.com/track/1w1Ymv3ICnMEXWgmHMZafH) | [Chuchumbé](https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB) | [¡caramba Niño!](https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC) | 3:56 |
 | 26 | [Huapango 2](https://open.spotify.com/track/4Pthpw4nta7U476XtKWWcM) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Jorge Cristian](https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS) | [Marimbas Y Regional Vol\. 1](https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI) | 1:38 |
-| 27 | [Las Clases del Cha Cha Cha](https://open.spotify.com/track/0vCBgiJZPjYXwVqVcqy8FR) | [Marimba Chiapas](https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5) | [Danzones, Mambos y Cha Cha Chas](https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL) | 2:36 |
-| 28 | [Ra Bacheeza](https://open.spotify.com/track/4Sd88qilKkAOg2T7H1kOZd) | [Binni Gula'za](https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq) | [La Tortuga, Sones Istmeños](https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE) | 3:08 |
+| 27 | [Ra Bacheeza](https://open.spotify.com/track/4Sd88qilKkAOg2T7H1kOZd) | [Binni Gula'za](https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq) | [La Tortuga, Sones Istmeños](https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE) | 3:08 |
+| 28 | [Las Clases del Cha Cha Cha](https://open.spotify.com/track/0vCBgiJZPjYXwVqVcqy8FR) | [Marimba Chiapas](https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5) | [Danzones, Mambos y Cha Cha Chas](https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL) | 2:36 |
 | 29 | [El toro viejo](https://open.spotify.com/track/53ocVd5ZVdwpwHCRuTF33k) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Peerless 80 Aniversario \- 24 Exitos](https://open.spotify.com/album/4LnVq0V93CA5eievIW2Kmo) | 3:21 |
 | 30 | [La Gallina](https://open.spotify.com/track/1fyuoGft4mq0XPi2cGFYRB) | [Chuchumbé](https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB) | [¡caramba Niño!](https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC) | 6:37 |
 | 31 | [Que Bonito](https://open.spotify.com/track/5iWQnAQMgQMhnsO2d1FK4b) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3Yy1uofnPXBT03X7ZQBkg4), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx), [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Mariachi Vol\. 2](https://open.spotify.com/album/12k9uBRmZFFLMajKtlNKDu) | 2:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,889 likes - 75 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,011 likes - 75 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 32 | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf) | 4:04 |
 | 33 | [Orrore!](https://open.spotify.com/track/02BsuUGEo4dNbzioXbEhjJ) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [Orrore!](https://open.spotify.com/album/6HlAOxR2wMWbjEmbZRw7gQ) | 2:38 |
 | 34 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |
-| 35 | [Il veliero](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 5:59 |
+| 35 | [Visitors](https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn) | [Koto](https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0) | [Greatest Hits &amp; Remixes](https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo) | 3:32 |
 | 36 | [I Wanna Be Your Lover](https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ) | [La Bionda](https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i) | [The Collection](https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT) | 3:13 |
 | 37 | [Soldier for Love](https://open.spotify.com/track/5GjD6EKIMA2NxPyorOhdwH) | [Nuovo Testamento](https://open.spotify.com/artist/70MnQHSuHcHizcq5qma5vA) | [Trouble](https://open.spotify.com/album/5R2sk5Pcyz820kMjxobQUN) | 3:12 |
-| 38 | [Visitors](https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn) | [Koto](https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0) | [Greatest Hits &amp; Remixes](https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo) | 3:32 |
+| 38 | [Il veliero](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 5:59 |
 | 39 | [Neutron Dance](https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [The Division](https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV) | 6:36 |
 | 40 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 |
 | 41 | [Tonight](https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO) | [Suzy Q](https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA) | [I Need You Tonite / Tonight](https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67) | 6:30 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 71 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
 | 72 | [Luca \(Protopapa Remix\)](https://open.spotify.com/track/4ZA06tbP3P7GvsNYm9n8g2) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85), [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54) | [Luca \(Protopapa Remix\)](https://open.spotify.com/album/4WFylezzuTH1eMxbu10hjW) | 3:13 |
 | 73 | [Emanuela \(Giu Le Mani\) \- Protopapa Remix](https://open.spotify.com/track/7CrM3VsvrSPTqUzXfZRban) | [Crucchi Gang](https://open.spotify.com/artist/3ArPx3d8MOwCmBx9UDkQig), [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH), [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54) | [Emanuela \(Giu Le Mani\) \[Protopapa Remix\]](https://open.spotify.com/album/3HQn5Q1RsHAWtJ7pzp91sn) | 4:44 |
-| 74 | [Italo Amore \(Musumeci Edit\)](https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5), [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Future Disco: Visions of Love](https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4) | 7:27 |
+| 74 | [My Magic Number \- Club Domani Remix](https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Dita Von Teese](https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz), [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8) | [My Magic Number](https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt) | 5:17 |
 | 75 | [Love Will Save the Day](https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Love Will Save the Day](https://open.spotify.com/album/3rcsmoUcdFRhahxIYhQbbj) | 2:52 |
 
 Snapshot ID: `AAAAAHwgV5XuCMVP1Ftc3rFbA+YDMEwH`

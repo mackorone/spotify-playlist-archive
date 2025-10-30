@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover:  ty dolla sign",
-  "num_followers": 39765,
+  "num_followers": 39787,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,30 @@
     {
       "added_at": "2025-10-24 00:01:30",
       "album": {
+        "name": "Cry No More (feat. Stormzy & Tay Keith)",
+        "url": "https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "duration_ms": 204170,
+      "name": "Cry No More (feat. Stormzy & Tay Keith)",
+      "url": "https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ"
+    },
+    {
+      "added_at": "2025-10-24 00:01:30",
+      "album": {
         "name": "Tequila Ever After",
         "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
       },
@@ -719,30 +743,6 @@
       "duration_ms": 144657,
       "name": "Forget",
       "url": "https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75"
-    },
-    {
-      "added_at": "2025-10-24 00:01:30",
-      "album": {
-        "name": "Cry No More (feat. Stormzy & Tay Keith)",
-        "url": "https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
-        }
-      ],
-      "duration_ms": 204170,
-      "name": "Cry No More (feat. Stormzy & Tay Keith)",
-      "url": "https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ"
     },
     {
       "added_at": "2025-10-24 00:01:30",
@@ -787,30 +787,6 @@
     {
       "added_at": "2025-10-24 00:01:30",
       "album": {
-        "name": "TECHNICIAN",
-        "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Lekaa Beats",
-          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
-      "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
-    },
-    {
-      "added_at": "2025-10-24 00:01:30",
-      "album": {
         "name": "Levels (Explicit)",
         "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
       },
@@ -835,6 +811,30 @@
       "duration_ms": 258105,
       "name": "All Eyes on Me (feat. Burna Boy, Da L.E.S. & JR)",
       "url": "https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h"
+    },
+    {
+      "added_at": "2025-10-24 00:01:30",
+      "album": {
+        "name": "TECHNICIAN",
+        "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
+      "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
     },
     {
       "added_at": "2025-10-24 00:01:30",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-10-24 00:01:30",
       "album": {
-        "name": "ESCAPE PLAN",
-        "url": "https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT"
-      },
-      "artists": [
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "ESCAPE PLAN",
-      "url": "https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm"
-    },
-    {
-      "added_at": "2025-10-24 00:01:30",
-      "album": {
         "name": "Gbagada Express Vol 2: Moving Mad",
         "url": "https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 152947,
       "name": "No Option",
       "url": "https://open.spotify.com/track/3mxm7OJDadZK1HYN9ZP8gf"
+    },
+    {
+      "added_at": "2025-10-24 00:01:30",
+      "album": {
+        "name": "ESCAPE PLAN",
+        "url": "https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "ESCAPE PLAN",
+      "url": "https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm"
     },
     {
       "added_at": "2025-10-24 00:01:30",

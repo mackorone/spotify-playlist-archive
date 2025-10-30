@@ -1,33 +1,13 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 175190,
+  "num_followers": 175259,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAB8uFjyKeflYwpDEtlJ8SBg",
+  "snapshot_id": "aQAHgAAAAABYHVIVizkWf22LXegFabWn",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERRA MADRE",
-        "url": "https://open.spotify.com/album/3URLl7e2bikP9QyXETlnmL"
-      },
-      "artists": [
-        {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 199459,
-      "name": "PERRA MADRE",
-      "url": "https://open.spotify.com/track/5DDmtoFZGkNl1nePtYAcco"
-    },
     {
       "added_at": null,
       "album": {
@@ -115,6 +95,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya No Se Llevan Serenatas (Deluxe)",
+        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 196632,
+      "name": "CHROME HEARTS",
+      "url": "https://open.spotify.com/track/1VwgoKvj7L1PkQTFeFfS6F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PRESIDENTE",
         "url": "https://open.spotify.com/album/0xyBpeAAr8E86J7GH1SNUR"
       },
@@ -139,26 +139,6 @@
       "duration_ms": 181064,
       "name": "PRESIDENTE",
       "url": "https://open.spotify.com/track/4OLT65TRsOx3Iv1TlCcQVb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Se Llevan Serenatas (Deluxe)",
-        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 196632,
-      "name": "CHROME HEARTS",
-      "url": "https://open.spotify.com/track/1VwgoKvj7L1PkQTFeFfS6F"
     },
     {
       "added_at": null,
@@ -264,7 +244,7 @@
           "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         }
       ],
-      "duration_ms": 196832,
+      "duration_ms": 197091,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
     },
@@ -291,26 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amarre",
-        "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Amarre",
-      "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
@@ -327,6 +287,26 @@
       "duration_ms": 230795,
       "name": "Porque Te Vas",
       "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amarre",
+        "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "Amarre",
+      "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
     },
     {
       "added_at": null,
@@ -515,6 +495,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PERRA MADRE",
+        "url": "https://open.spotify.com/album/3URLl7e2bikP9QyXETlnmL"
+      },
+      "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 199459,
+      "name": "PERRA MADRE",
+      "url": "https://open.spotify.com/track/5DDmtoFZGkNl1nePtYAcco"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REGALO DE DIOS",
-        "url": "https://open.spotify.com/album/7v0P9sc9ZS62U6UB9c7B16"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 270328,
-      "name": "REGALO DE DIOS",
-      "url": "https://open.spotify.com/track/1CpICQpUz3ZrHcJs84oAbH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Mamoncita del Insta",
         "url": "https://open.spotify.com/album/4KuUfV5YK4Ru8GHi2V0pB0"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 193193,
       "name": "La Mamoncita del Insta",
       "url": "https://open.spotify.com/track/2nNcHQLFf62ArlArXjBaiY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REGALO DE DIOS",
+        "url": "https://open.spotify.com/album/7v0P9sc9ZS62U6UB9c7B16"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 270328,
+      "name": "REGALO DE DIOS",
+      "url": "https://open.spotify.com/track/1CpICQpUz3ZrHcJs84oAbH"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E$ENCIA",
-        "url": "https://open.spotify.com/album/5LNnHcNU0pQPjCPxRCbKMm"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Cuando Me Veas Con Alguien",
-      "url": "https://open.spotify.com/track/0s7JOp1ffdjxquSyMuNW0v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Se Llevan Serenatas (Deluxe)",
         "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 189869,
       "name": "SARGENTO",
       "url": "https://open.spotify.com/track/4zi3rwIYv1Q6slxn620w8P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "E$ENCIA",
+        "url": "https://open.spotify.com/album/5LNnHcNU0pQPjCPxRCbKMm"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Cuando Me Veas Con Alguien",
+      "url": "https://open.spotify.com/track/0s7JOp1ffdjxquSyMuNW0v"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+        "name": "Ya No Se Llevan Serenatas (Deluxe)",
+        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Pabblo",
+          "url": "https://open.spotify.com/artist/28XlhLkIz0XD4vSJpCFZFY"
+        },
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
         }
       ],
-      "duration_ms": 169758,
-      "name": "M\u00e1s Perr\u00f3n Con los Balenciaga",
-      "url": "https://open.spotify.com/track/0iTAeCd05itdDZFkIkwmq3"
+      "duration_ms": 186853,
+      "name": "WAXHA",
+      "url": "https://open.spotify.com/track/3D00WFXnh4PNMC3PvSTEKK"
     }
   ],
   "unique_name": "This Is Gabito Ballesteros",

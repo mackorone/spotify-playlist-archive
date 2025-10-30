@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37BQGs.md) - [plain]
 
 > This is Hundred Reasons\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792 likes - 32 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 793 likes - 32 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37BQGs.md) - [plain]
 | 25 | [I'll Never Know](https://open.spotify.com/track/6TV1G6fQ8MgSUzNMKqOpxC) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:03 |
 | 26 | [The Chance](https://open.spotify.com/track/3YuzzHz8Ogx62Czbqr2GZg) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 3:32 |
 | 27 | [Cerebra](https://open.spotify.com/track/6dFkhKuX87DaF1W27RmIeD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [One](https://open.spotify.com/album/0smSOxbWaXp2RsCjHTMmQS) | 4:32 |
-| 28 | [Sick Little Masquerade](https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:42 |
-| 29 | [Slow Learner](https://open.spotify.com/track/4tbJPWRVgwCcXAdO1aaWem) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [One](https://open.spotify.com/album/0smSOxbWaXp2RsCjHTMmQS) | 3:17 |
-| 30 | [Boy](https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:58 |
-| 31 | [Break The Glass](https://open.spotify.com/track/1MCsQjTwwzDPVLrOsAlp0b) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:26 |
-| 32 | [Slipping Away](https://open.spotify.com/track/5YrcfV2qcH5cTw9LqvOF2s) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 4:16 |
+| 28 | [Introduction to Pop \(Live\)](https://open.spotify.com/track/6nH9suYXFEaXE8sFyCW6Yy) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Live at the Lemon Grove](https://open.spotify.com/album/5nykFp8cx7wIad1R4rlFc2) | 2:57 |
+| 29 | [Sick Little Masquerade](https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:42 |
+| 30 | [Slow Learner](https://open.spotify.com/track/4tbJPWRVgwCcXAdO1aaWem) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [One](https://open.spotify.com/album/0smSOxbWaXp2RsCjHTMmQS) | 3:17 |
+| 31 | [Boy](https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:58 |
+| 32 | [Break The Glass](https://open.spotify.com/track/1MCsQjTwwzDPVLrOsAlp0b) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:26 |
 
-Snapshot ID: `aP62AAAAAABZoDpXKn1y+nVrkyi9EsO9`
+Snapshot ID: `aQAHgAAAAABiZSSNjrtb0xVfbCZjTQAy`

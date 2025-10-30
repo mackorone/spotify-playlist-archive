@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,006 likes - 133 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,025 likes - 133 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

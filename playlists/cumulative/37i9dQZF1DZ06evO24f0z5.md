@@ -4,7 +4,7 @@
 
 > This is Zona Ganjah\. The essential tracks, all in one playlist.
 
-120 songs - 7 hr 34 min
+123 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Buscar estar](https://open.spotify.com/track/2SbiOwjYdEwPDvGdI9glxW) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/5JwIXJe8JRlVsufRiYi4aG) | 4:11 | 2022-05-25 | 2025-04-14 |
 | [Buscar estar](https://open.spotify.com/track/4lYqQ6d6NvcFMhEmQg5ky7) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/7dUJgg7a8iff1DqhTWzf3d) | 4:11 | 2025-04-14 |  |
 | [Buscándote](https://open.spotify.com/track/0MZ8BVLMsfmzN5UUmqvtqX) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t) | 2:38 | 2022-05-25 | 2025-04-17 |
-| [Buscándote](https://open.spotify.com/track/2bQXmlDoscCAchoOJvFPVb) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/6tsLoPNy8Zs6IGnyPiby0p) | 2:38 | 2025-04-17 |  |
+| [Buscándote](https://open.spotify.com/track/2bQXmlDoscCAchoOJvFPVb) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/6tsLoPNy8Zs6IGnyPiby0p) | 2:38 | 2025-04-17 | 2025-10-30 |
+| [Buscándote](https://open.spotify.com/track/6fNIlun66chXqiuKGiiu4j) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz) | 2:38 | 2025-10-30 |  |
 | [Cada Quien](https://open.spotify.com/track/3mfzjbTk9nHH4fcQ3U2MOz) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mas Alla De La Zona](https://open.spotify.com/album/30wM6jKgNzpMBKGhaNaqnQ) | 3:25 | 2025-04-14 |  |
 | [Cada quien](https://open.spotify.com/track/7rD8eGGIOy2G5yxWlmiQH3) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mas alla de la zona](https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB) | 3:25 | 2022-05-25 | 2025-04-14 |
 | [Camino](https://open.spotify.com/track/4QrpejsTZZ17A9wbpct57e) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:33 | 2022-10-09 | 2022-10-11 |
@@ -28,8 +29,9 @@
 | [Cerca del río](https://open.spotify.com/track/0VIfgwSHb6xjCzgYhBvYdk) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/2c1Ctje54v5kkdc932GsqN) | 5:02 | 2025-04-14 |  |
 | [Cerca del río](https://open.spotify.com/track/5mzjAGV0xeLAQj6fFQUrVO) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/6zkr5NOO12d8ncJreiviA6) | 5:02 | 2022-05-25 | 2025-04-14 |
 | [Colores](https://open.spotify.com/track/4pciFlNvRhxBMYGCgYRZeT) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t) | 8:08 | 2022-06-04 | 2022-10-05 |
-| [Con el diablo al lado](https://open.spotify.com/track/0EDUYQ2fcsoJll6wHMvhrx) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/5WHwDiBnbtMVPXKNoMtDJH) | 3:46 | 2025-04-14 |  |
+| [Con el diablo al lado](https://open.spotify.com/track/0EDUYQ2fcsoJll6wHMvhrx) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/5WHwDiBnbtMVPXKNoMtDJH) | 3:46 | 2025-04-14 | 2025-10-30 |
 | [Con el diablo al lado](https://open.spotify.com/track/6ISRzeO8GUnds3fdZuiPUj) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 3:46 | 2022-05-25 | 2025-04-14 |
+| [Con el diablo al lado](https://open.spotify.com/track/1x4q70rqejsIHgLifQ75r3) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari todo concuerda](https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif) | 3:46 | 2025-10-30 |  |
 | [Con tanto amor](https://open.spotify.com/track/2X4lKV6PvD93ldrmxTPanF) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/0G1VpkWCoM0TQb2pVzILsy) | 3:46 | 2025-04-14 |  |
 | [Con tanto amor](https://open.spotify.com/track/3rFpPKZktSd0uvOdzEXyLv) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 3:46 | 2022-05-25 | 2025-04-14 |
 | [Conquista](https://open.spotify.com/track/17sW761x3jqh4xrgGzVGbt) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/5JwIXJe8JRlVsufRiYi4aG) | 4:25 | 2022-05-25 | 2025-04-14 |
@@ -50,7 +52,8 @@
 | [Es Ignorancia](https://open.spotify.com/track/2VpS3jSmRQRx8jprvjz9qM) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 3:04 | 2022-05-25 | 2025-04-14 |
 | [Es Ignorancia](https://open.spotify.com/track/3I1B6iP8x2oSs52ttcfVl7) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/5WHwDiBnbtMVPXKNoMtDJH) | 3:04 | 2025-04-14 | 2025-10-28 |
 | [Es ignorancia](https://open.spotify.com/track/46Q8tX9yStG64mwCDNW9MF) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari todo concuerda](https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif) | 3:04 | 2025-10-28 |  |
-| [Esa luz](https://open.spotify.com/track/4N5P2ofWNgfYBc1YUS4u3t) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/6tsLoPNy8Zs6IGnyPiby0p) | 3:03 | 2025-04-17 |  |
+| [Esa luz](https://open.spotify.com/track/0KGb64YLoDy5qonAqmY69r) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz) | 3:03 | 2025-10-30 |  |
+| [Esa luz](https://open.spotify.com/track/4N5P2ofWNgfYBc1YUS4u3t) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/6tsLoPNy8Zs6IGnyPiby0p) | 3:03 | 2025-04-17 | 2025-10-30 |
 | [Esa luz](https://open.spotify.com/track/7oybXXuWUzWRZ7SP9swASq) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t) | 3:03 | 2022-05-25 | 2025-04-15 |
 | [Estoy bien](https://open.spotify.com/track/3t6qVkQq25yy44BjjsMbUD) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/0eWRk2qoyQ3YSbdC6Uff8o) | 5:34 | 2022-05-25 | 2025-04-14 |
 | [Estoy bien](https://open.spotify.com/track/5hLdGCCDi8T2jplRUxBmBz) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/6JKua9VUHe4SyVJdfKVJtW) | 5:34 | 2025-04-14 |  |

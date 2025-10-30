@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 140129,
+  "num_followers": 140131,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAACowTrvfrgyQM47zI77zwJs",
+  "snapshot_id": "aQAHgAAAAACTrDMxLw+ZfBKPpX6mw+qH",
   "tracks": [
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chris Tomlin & Friends",
-        "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        },
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 230360,
-      "name": "Who You Are To Me (feat. Lady A)",
-      "url": "https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Awakening (Live)",
         "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
       },
@@ -515,8 +495,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arriving",
-        "url": "https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f"
+        "name": "Chris Tomlin & Friends",
+        "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 230360,
+      "name": "Who You Are To Me (feat. Lady A)",
+      "url": "https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Roar",
+        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 248986,
-      "name": "Your Grace Is Enough",
-      "url": "https://open.spotify.com/track/6nVzKwxkRdm5ZM7rMDCwE1"
+      "duration_ms": 266000,
+      "name": "Nobody Loves Me Like You",
+      "url": "https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Roar",
-        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
+        "name": "Arriving",
+        "url": "https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 266000,
-      "name": "Nobody Loves Me Like You",
-      "url": "https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA"
+      "duration_ms": 248986,
+      "name": "Your Grace Is Enough",
+      "url": "https://open.spotify.com/track/6nVzKwxkRdm5ZM7rMDCwE1"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Lose Sight (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/7CNINxlyvWE15Dees3X5zC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Forever (Instrumental)",
         "url": "https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 480193,
       "name": "Holy Forever - Instrumental",
       "url": "https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Lose Sight (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/7CNINxlyvWE15Dees3X5zC"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
       "duration_ms": 218747,
       "name": "God's Great Dance Floor",
       "url": "https://open.spotify.com/track/2nVmKOoqzbHt5YMT3dzLnp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/55T6hkea97kp6UCZ2CVe0M"
     },
     {
       "added_at": null,
@@ -803,6 +787,22 @@
       "duration_ms": 269678,
       "name": "How Great Thou Art (Until That Day) - Live",
       "url": "https://open.spotify.com/track/4wZZ3hXmK5lgpT4Q1MsYSU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/55T6hkea97kp6UCZ2CVe0M"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The King Is Still The King",
-        "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 253709,
-      "name": "Coming Soon",
-      "url": "https://open.spotify.com/track/0KVP6xN6fPSBUrtVPdskRu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello Love",
         "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 297920,
       "name": "God Of This City",
       "url": "https://open.spotify.com/track/4Eda1y3heYypvl4KRcJcKs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The King Is Still The King",
+        "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 253709,
+      "name": "Coming Soon",
+      "url": "https://open.spotify.com/track/0KVP6xN6fPSBUrtVPdskRu"
     },
     {
       "added_at": null,

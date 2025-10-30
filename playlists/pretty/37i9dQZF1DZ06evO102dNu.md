@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 
 > This is Frank Sinatra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,468 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,518 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 | 38 | [For Once In My Life](https://open.spotify.com/track/3FsrG1TIB79ONER5Fr1cCt) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Way \(Expanded Edition\)](https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn) | 2:51 |
 | 39 | [Rain In My Heart](https://open.spotify.com/track/2JzTfNN8k3O6l42DZMj80Q) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Cycles](https://open.spotify.com/album/4N6a1fTmJmyPJp9HmrNyVO) | 3:21 |
 | 40 | [It Had To Be You](https://open.spotify.com/track/0Ab4lEHfPY98aqtQrKQbUu) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Trilogy: Past, Present & Future](https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe) | 3:54 |
-| 41 | [Drinking Water \(Aqua de Beber\)](https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 2:35 |
-| 42 | [Summer Wind](https://open.spotify.com/track/1KGFGleVVS76wuLiOtS7Iu) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Duets \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya) | 2:33 |
+| 41 | [Summer Wind](https://open.spotify.com/track/1KGFGleVVS76wuLiOtS7Iu) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Duets \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya) | 2:33 |
+| 42 | [Drinking Water \(Aqua de Beber\)](https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 2:35 |
 | 43 | [I'll Never Smile Again](https://open.spotify.com/track/2Pi0rY9FcbaecqO0AyhXbu) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [The Seventeen Number Ones](https://open.spotify.com/album/1HgqHVY48hdhuiacZky4nV) | 3:09 |
 | 44 | [My Kind Of Town](https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra ’65](https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA) | 3:08 |
 | 45 | [Chicago \- Remastered](https://open.spotify.com/track/6uayMGc7bnH9ZPk46APSS3) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Fly With Me \(Expanded Edition\)](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) | 2:14 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 | 47 | [Let Me Try Again \(Laisse Moi le Temps\)](https://open.spotify.com/track/3unwkk28BubxXKFNzVGHMY) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ol' Blue Eyes Is Back](https://open.spotify.com/album/7rume1B0CM3J35YeAYq0zu) | 3:31 |
 | 48 | [One Note Samba \(Samba de Uma Nota So\)](https://open.spotify.com/track/54DTLQMjyF60TY8b4jkKRa) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 2:20 |
 | 49 | [Come Dance With Me \- 1998 Remastered](https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Dance With Me! \(Remastered\)](https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro) | 2:31 |
-| 50 | [More \(Theme From Mondo Cane\)](https://open.spotify.com/track/0a545c4gOsyYupVvliDOy0) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 3:01 |
+| 50 | [I've Got A Crush On You \- Remastered](https://open.spotify.com/track/0RNgCTcn5f7zIfLKjj80FS) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(Remastered / Expanded Edition\)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 2:16 |
 
-Snapshot ID: `aP62AAAAAACzTozzXYdU4wU95ZL5INYU`
+Snapshot ID: `aQAHgAAAAABGU683W1zxgllvj9QhPxL9`

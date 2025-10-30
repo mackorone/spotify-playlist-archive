@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Zlatan
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,018 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,125 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 32 | [SHAOLIN](https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:20 |
 | 33 | [Shoday Kilode](https://open.spotify.com/track/2yXFYJfxL0TwzvN34OO9Hp) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Shoday Kilode](https://open.spotify.com/album/3aeIvHjzG9IxWaqRZVGWXF) | 2:11 |
 | 34 | [HAUSAPIANO \- Remix](https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp) | [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [HAUSAPIANO \(Remix\)](https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ) | 2:17 |
-| 35 | [Hey Jago](https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Rahman Jago](https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS) | [Hey Jago](https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d) | 2:05 |
-| 36 | [Kilogram](https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Kilometer II](https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ) | 2:03 |
+| 35 | [Kilogram](https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Kilometer II](https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ) | 2:03 |
+| 36 | [Hey Jago](https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Rahman Jago](https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS) | [Hey Jago](https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d) | 2:05 |
 | 37 | [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 |
 | 38 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 |
 | 39 | [Attack](https://open.spotify.com/track/4LOTqqso4oE3TCHGekewHg) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:52 |

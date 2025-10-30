@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 329060,
+  "num_followers": 329101,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAD4EmRus6YGMiSRDNxKzFbp",
+  "snapshot_id": "aQAHgAAAAADUtEg2JuqlWRep/UbAv1Fh",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble Deluxe Edition",
-        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Bananza (Belly Dancer)",
-      "url": "https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last",
         "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 218080,
       "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
       "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble Deluxe Edition",
+        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Bananza (Belly Dancer)",
+      "url": "https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv"
     },
     {
       "added_at": null,
@@ -943,22 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 215226,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Intoxication",
         "url": "https://open.spotify.com/album/7l8mmwJiGmke1ojsDdOt4t"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 310733,
       "name": "Clap Again",
       "url": "https://open.spotify.com/track/23Ry2Uwy68rkHdZx0GwfML"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 215226,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5"
     },
     {
       "added_at": null,

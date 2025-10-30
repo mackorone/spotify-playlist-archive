@@ -93,7 +93,7 @@
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 171840,
+      "duration_ms": 171842,
       "name": "All Falls Down",
       "url": "https://open.spotify.com/track/46kXlOq68HXFrhkxGV6qtI"
     },
@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214545,
+      "name": "Better Than This",
+      "url": "https://open.spotify.com/track/7vuTIC1zVc3i5VffKd2cHq"
+    },
+    {
+      "album": {
         "name": "Older (and Wiser)",
         "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
       },
@@ -222,24 +240,6 @@
       "duration_ms": 214546,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/7KLFyoZmcIp6SMrLdd4nKd"
-    },
-    {
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "date_added": "2024-04-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214546,
-      "name": "Better Than This",
-      "url": "https://open.spotify.com/track/7vuTIC1zVc3i5VffKd2cHq"
     },
     {
       "album": {
@@ -411,7 +411,7 @@
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 224960,
+      "duration_ms": 224959,
       "name": "Come Down Soon",
       "url": "https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv"
     },
@@ -509,7 +509,7 @@
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 245720,
+      "duration_ms": 245732,
       "name": "Drunk, Running",
       "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
     },
@@ -1197,7 +1197,7 @@
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 201186,
+      "duration_ms": 201183,
       "name": "Older",
       "url": "https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm"
     },
@@ -1581,7 +1581,7 @@
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 151653,
+      "duration_ms": 151647,
       "name": "Staying",
       "url": "https://open.spotify.com/track/3tcCT8WhAIeRW2Ey9M4bL5"
     },

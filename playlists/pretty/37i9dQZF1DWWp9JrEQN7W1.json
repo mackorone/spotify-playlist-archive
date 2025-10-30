@@ -1,6 +1,6 @@
 {
   "description": "Something cute for baddies doing their hair and make-up.",
-  "num_followers": 424327,
+  "num_followers": 424447,
   "original_name": "Getting Ready \ud83d\udc8b",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-08-26 15:10:57",
       "album": {
+        "name": "PCD",
+        "url": "https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "Buttons",
+      "url": "https://open.spotify.com/track/314QzMOrpNUqWBUozYshf6"
+    },
+    {
+      "added_at": "2024-08-26 15:10:57",
+      "album": {
         "name": "FERXXOCALIPSIS",
         "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 195586,
       "name": "CLASSY 101",
       "url": "https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb"
-    },
-    {
-      "added_at": "2024-08-26 15:10:57",
-      "album": {
-        "name": "PCD",
-        "url": "https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "Buttons",
-      "url": "https://open.spotify.com/track/314QzMOrpNUqWBUozYshf6"
     },
     {
       "added_at": "2024-08-26 15:10:57",
@@ -997,22 +997,6 @@
       "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
     },
     {
-      "added_at": "2025-07-18 04:00:30",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
-    },
-    {
       "added_at": "2024-08-26 15:10:57",
       "album": {
         "name": "channel ORANGE",
@@ -1031,6 +1015,22 @@
       "duration_ms": 304760,
       "name": "Super Rich Kids",
       "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"
+    },
+    {
+      "added_at": "2025-07-18 04:00:30",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
       "added_at": "2024-08-26 15:10:57",

@@ -1,6 +1,6 @@
 {
   "description": "The official playlist for the 67th GRAMMY Awards.",
-  "num_followers": 150271,
+  "num_followers": 150260,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -619,7 +619,7 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Make You Mine",
+        "name": "make you mine",
         "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
       },
       "artists": [
@@ -629,7 +629,7 @@
         }
       ],
       "duration_ms": 221709,
-      "name": "Make You Mine",
+      "name": "make you mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
     },
     {
@@ -1576,7 +1576,7 @@
           "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 201240,
+      "duration_ms": 201233,
       "name": "Neon Pill",
       "url": "https://open.spotify.com/track/0cgyeBU54kjmI54TflMANg"
     },
@@ -1728,7 +1728,7 @@
           "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 191746,
+      "duration_ms": 191813,
       "name": "That's How I'm Feeling",
       "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
     },
@@ -2231,18 +2231,22 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/2NafcOjkNhsr7o3ZGZynHm"
+        "name": "Firm Foundation (He Won't)",
+        "url": "https://open.spotify.com/album/2xoamtc1hV7E47G2LfIZuE"
       },
       "artists": [
         {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+          "name": "Honor & Glory",
+          "url": "https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6"
+        },
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
         }
       ],
-      "duration_ms": 203628,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/5yuP7KsSKbm3S94BGdK4Jy"
+      "duration_ms": 286398,
+      "name": "Firm Foundation (He Won't)",
+      "url": "https://open.spotify.com/track/1XeVdgCil539quM3POT69i"
     }
   ],
   "unique_name": "The GRAMMYs Official Playlist",

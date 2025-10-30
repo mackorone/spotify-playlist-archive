@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,128 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,135 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 37 | [Jumping Machine \(跳楼机\)](https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [Jumping Machine \(跳楼机\)](https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM) | 3:21 |
 | 38 | [一個人想著一個人](https://open.spotify.com/track/3n3zzFH7zzO0gJNaw4RKSm) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [終極一班2 \(電視原聲帶\)](https://open.spotify.com/album/0TB9rXuSN99QhTnI5lYwvM) | 4:03 |
 | 39 | [晴天](https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla) | 4:29 |
-| 40 | [Whiplash](https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) | 3:03 |
+| 40 | [Whiplash](https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK) | 3:03 |
 | 41 | [看着我的眼睛说](https://open.spotify.com/track/7d6eShN6yVeR4Y2Md9uCA4) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [看着我的眼睛说](https://open.spotify.com/album/1rH94s6Uw5ejDiOO5UjpNi) | 4:20 |
 | 42 | [左轉燈 \(1000 Times+1\)](https://open.spotify.com/track/4UwZyC0wEV6XDEAr9kaQhi) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [mac ova seas](https://open.spotify.com/artist/1a3bTQmBNmgiY3U7sMh9pf) | [左轉燈 \(1000 Times+1\)](https://open.spotify.com/album/4i9a1vM9oimwgR1z8zCCxs) | 3:17 |
 | 43 | [What It Sounds Like](https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 4:10 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 47 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 |
 | 48 | [Rich Man](https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:17 |
 | 49 | [FaSHioN](https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:54 |
-| 50 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 |
+| 50 | [Pink Venom](https://open.spotify.com/track/5P3o95Jf0YBQRQ4j2XPpfC) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0S4pP8MBY9p7ngFWIZQAJv) | 3:06 |
 
-Snapshot ID: `MJQz+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MJWFeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

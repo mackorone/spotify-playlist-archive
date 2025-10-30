@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8L1VmOcEBjS.md) - [plain]
 
 > Our editors' picks for the best Latin songs of the year! \#SpotifyWrapped Cover:  Oscar Maydon & Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,345 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,354 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8L1VmOcEBjS.md) - [plain]
 | 33 | [Tengo Un Plan \- Remix](https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tengo Un Plan \(Remix\)](https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH) | 3:35 |
 | 34 | [BADGYAL](https://open.spotify.com/track/3ng8tfwvzR4BBwa9yaMms6) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [SAKURA](https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc) | 4:13 |
 | 35 | [Un Desperdicio](https://open.spotify.com/track/4Pqi8W12YuzAWBvLdJI4ed) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Un Desperdicio](https://open.spotify.com/album/4HYZjxaYN4BZz79100LDd8) | 3:43 |
-| 36 | [Elvira](https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:16 |
+| 36 | [Elvira](https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:17 |
 | 37 | [Volver Al Futuro](https://open.spotify.com/track/33Nj9AdncSmHbCN3QeSZTL) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Volver Al Futuro](https://open.spotify.com/album/0d91zWX7A6i4iPLgJc9oy6) | 3:24 |
 | 38 | [BBY BOO \- REMIX](https://open.spotify.com/track/43PiEypaceH339CSNiggyj) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [BBY BOO \(REMIX\)](https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9) | 4:35 |
 | 39 | [Amor](https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx) | [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Memorias <3](https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA) | 3:22 |

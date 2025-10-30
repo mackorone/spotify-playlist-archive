@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,509 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,533 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 42 | [Ain't That A Bitch](https://open.spotify.com/track/2XFyFJtkbks4OKDE0dxBqK) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 5:25 |
 | 43 | [Adam's Apple](https://open.spotify.com/track/4p3RAb1HkCRugbC8LGSP2K) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 4:33 |
 | 44 | [Get A Grip](https://open.spotify.com/track/0QDTTqEwu5IJ34wql1T03m) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 3:58 |
-| 45 | [Chip Away The Stone](https://open.spotify.com/track/35pqMny3k7bGUzJiUCgZ0H) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Gems](https://open.spotify.com/album/3nuZR1AM7YjuL3xCJix2PZ) | 4:02 |
-| 46 | [Hangman Jury](https://open.spotify.com/track/05eJthbLhxvnWvB3XF9HaQ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:33 |
-| 47 | [Nine Lives](https://open.spotify.com/track/1baMSM7DZXYKVTHyxnYgzd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 4:01 |
+| 45 | [Hangman Jury](https://open.spotify.com/track/05eJthbLhxvnWvB3XF9HaQ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:33 |
+| 46 | [Nine Lives](https://open.spotify.com/track/1baMSM7DZXYKVTHyxnYgzd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 4:01 |
+| 47 | [Chip Away The Stone](https://open.spotify.com/track/35pqMny3k7bGUzJiUCgZ0H) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Gems](https://open.spotify.com/album/3nuZR1AM7YjuL3xCJix2PZ) | 4:02 |
 | 48 | [Sunshine](https://open.spotify.com/track/3GhzPJhE8edsDkaJHz1QsF) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC) | 3:37 |
 | 49 | [Remember \(Walking In The Sand\)](https://open.spotify.com/track/4X0ATVwJsosL3PUvsEeAAs) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Night In The Ruts](https://open.spotify.com/album/2ksXsCYl9lqPQKEESlbPPK) | 4:04 |
 | 50 | [Seasons of Wither](https://open.spotify.com/track/0SsvUArQazkyJjXINv4Wnl) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 5:38 |
 
-Snapshot ID: `aP62AAAAAADABXhIDOHM2iNL7wHJ4OgR`
+Snapshot ID: `aQAHgAAAAACh2pDc4Oe85/87NI/K4KhU`

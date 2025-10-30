@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-4,202 songs - 9 day 13 hr 20 min
+4,203 songs - 9 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1443,6 +1443,7 @@
 | [Going On](https://open.spotify.com/track/1mrmksjfQ5ZyN0kZtYp5BH) | [Melsen](https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO) | [Going On](https://open.spotify.com/album/3flGmWzBd0XsyeeVUqwOHa) | 3:09 | 2025-01-24 | 2025-02-01 |
 | [Going On](https://open.spotify.com/track/6h0ZTPpSl9qT7vmaja9COF) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [MC DT](https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6) | [Going On](https://open.spotify.com/album/4xyoHJX2KL01cxZBEPYI9P) | 2:38 | 2024-11-22 | 2024-11-25 |
 | [Going Under](https://open.spotify.com/track/4b3tHFus0ulksoyDpSrGYY) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Going Under](https://open.spotify.com/album/18qd9Qz8xCZzTnsWnHkp7v) | 2:41 | 2025-04-08 | 2025-04-12 |
+| [Going Up](https://open.spotify.com/track/2FSfukWKbmqkrgHT6zFCLM) | [Truthlive](https://open.spotify.com/artist/7rMMDJat6svdaj3KrksxgL) | [Going Up](https://open.spotify.com/album/0bSGI5Dui2KrOVB1ZBMa4V) | 4:12 | 2025-10-29 |  |
 | [Gold On My Skin](https://open.spotify.com/track/218NlFq3OEhMnXrOKmsFiT) | [vemmu](https://open.spotify.com/artist/4N6M3LwwnTD35I4CiCkGRn) | [Gold On My Skin](https://open.spotify.com/album/2DhlJOeB7SN2OVZyqga0qo) | 3:33 | 2025-10-10 | 2025-10-18 |
 | [Golden](https://open.spotify.com/track/7kwSdAughBiFfR3KnlKdDe) | [GALAFUNK](https://open.spotify.com/artist/5cBXHUwPEFHePvKdQqFYzb) | [Golden](https://open.spotify.com/album/7CDrzr6ft8cfrcWpTv4h5v) | 3:36 | 2024-07-05 | 2024-07-12 |
 | [Gondwana](https://open.spotify.com/track/1U3PN6Za8DMbHhlreRuf6A) | [Dan Cooper](https://open.spotify.com/artist/54SmdKIRQCgROJeyiz9lDY) | [Gondwana](https://open.spotify.com/album/4Zm9rV2r6Wlwl6lq5ij5ks) | 3:49 | 2025-09-05 | 2025-09-13 |

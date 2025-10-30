@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Global.
 
-2,483 songs - 5 day 20 hr 29 min
+2,484 songs - 5 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 | 2023-12-19 | 2024-03-07 |
 | [Belong Together](https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Rockwood](https://open.spotify.com/album/3Kb9vAa1RBNXEQltJpPxwE) | 2:28 | 2024-08-17 | 2024-08-21 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-04-08 | 2024-08-18 |
+| [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-10-29 |  |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-03-25 | 2023-08-20 |
 | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/20BOju91NaEFK5Py4VJ2pp) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\) \[Remix EP\] \[Extended Edition\]](https://open.spotify.com/album/0DqDdZGSQkWQiE0TzBqeLA) | 2:35 | 2021-04-26 | 2021-05-09 |
 | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4) | 2:35 | 2021-04-06 | 2021-04-26 |
@@ -274,7 +275,7 @@
 | [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 | 2023-06-12 | 2023-10-29 |
 | [Blank Space \(Taylor's Version\)](https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-11-06 |
 | [Blind](https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:30 | 2022-12-10 | 2022-12-19 |
-| [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2020-10-10\* |  |
+| [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2020-10-10\* | 2025-10-30 |
 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-05-24 | 2025-06-09 |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-03 | 2023-02-01 |
 | [BLUE](https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:43 | 2024-05-18 | 2024-06-20 |
@@ -1055,8 +1056,8 @@
 | [intro \(end of the world\)](https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 1:32 | 2024-03-09 | 2024-04-21 |
 | [intro \(end of the world\) \- extended](https://open.spotify.com/track/5BBkvXH2jYROUzKIB7WX7S) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd) | 2:41 | 2025-03-29 | 2025-03-31 |
 | [Iris](https://open.spotify.com/track/2mtVxf50BYsKNtQoz8sfzm) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [City of Angels \(Music from the Motion Picture\)](https://open.spotify.com/album/2IxykVOZuS5JdJHjhlD2ds) | 4:49 | 2024-09-06 | 2025-04-29 |
-| [Iris](https://open.spotify.com/track/4DPdJvSMB6hmrjgC5eC85d) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Stay with You](https://open.spotify.com/album/7ttozw5DWCdQaqfzCMevPc) | 4:49 | 2025-05-19 | 2025-10-20 |
-| [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2024-07-27 |  |
+| [Iris](https://open.spotify.com/track/4DPdJvSMB6hmrjgC5eC85d) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Stay with You](https://open.spotify.com/album/7ttozw5DWCdQaqfzCMevPc) | 4:49 | 2025-05-19 |  |
+| [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2024-07-27 | 2025-10-30 |
 | [Iron Man \- 2009 Remaster](https://open.spotify.com/track/755bvJDSA3LNcNuFgBT9LK) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 5:54 | 2025-07-24 | 2025-07-26 |
 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 | 2023-10-28 | 2024-01-10 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-21 |

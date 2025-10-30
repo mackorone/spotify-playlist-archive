@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,457 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,480 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 34 | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9) | 6:15 |
 | 35 | [Yo sé](https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [Yo sé](https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv) | 2:09 |
 | 36 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 |
-| 37 | [Fronteo](https://open.spotify.com/track/0AXKoQuC2NQ8S2QRF0Gu02) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love and Sex](https://open.spotify.com/album/04NPh9S2gPzYveqlJYQ0V8) | 3:23 |
+| 37 | [Fronteo](https://open.spotify.com/track/5SE62j47eAyxSOplRGS6st) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G) | 3:23 |
 | 38 | [Mambinho Brasileño](https://open.spotify.com/track/0c27qjzqEgMLMnWTl5bCU8) | [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4) | [Mambinho Brasileño](https://open.spotify.com/album/072mxyTA0YJiOxk61aID0u) | 3:28 |
 | 39 | [amor de veraNO](https://open.spotify.com/track/6WJ2QzbVnjmPGKpmb6tmmO) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [amor de veraNO](https://open.spotify.com/album/5HcFNQRrln543myn8MwucM) | 3:18 |
 | 40 | [Bajo De La Piel](https://open.spotify.com/track/3sc0Wv64rOuIRVkQO7rrer) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 2:48 |
 | 41 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 |
 | 42 | [444](https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [444](https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16) | 2:55 |
 | 43 | [Si No Es Muy Tarde \- Versión Cumbia](https://open.spotify.com/track/4KRlNVLHn2ZgGvpjnga31N) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Ezequiel Y La Clave](https://open.spotify.com/artist/74CIXR2mbIKC3gRYZQqKdY), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [Si No Es Muy Tarde \- Versión Cumbia](https://open.spotify.com/album/1J9z1luYGjltxRgf8izM3C) | 3:16 |
-| 44 | [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 |
+| 44 | [Es un Secreto](https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi) | 3:10 |
 | 45 | [A las Nueve](https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor Del Pleno Invierno](https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3) | 3:27 |
 | 46 | [blackout 🧊](https://open.spotify.com/track/1KaXG7dVdwMH3gCtiAU39t) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [perfectas](https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl) | 3:02 |
 | 47 | [Tan Lejos](https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Juan Casanova](https://open.spotify.com/artist/6AvKcjNtR1AYU8wN72MvNK) | [El Camino Más Largo](https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX) | 4:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [Loco Enamorado I Varieté \#4](https://open.spotify.com/track/0UaxhDrvCVcCWCqYQUeeFF) | [Tincho Di Salvo & Javi Zurro](https://open.spotify.com/artist/0mDd8pZbNfiDNBrL1qybaK), [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [Loco Enamorado I Varieté \#4](https://open.spotify.com/album/06ENwZMENzIYycxXAfAKYY) | 2:33 |
 | 50 | [Un Osito de Peluche de Taiwán](https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Sigue Tu Camino](https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g) | 4:07 |
 
-Snapshot ID: `MJQz+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MJWFeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

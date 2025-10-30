@@ -1,6 +1,6 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Buckingham Nicks",
-  "num_followers": 583460,
+  "num_followers": 583650,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills, Nash & Young",
-          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
-    },
-    {
-      "added_at": "2025-07-24 23:00:27",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 199342,
       "name": "Lost",
       "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
+    },
+    {
+      "added_at": "2025-07-24 23:00:27",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
     },
     {
       "added_at": "2025-07-24 23:00:27",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Plug in Baby",
-      "url": "https://open.spotify.com/track/2UKARCqDrhkYDoVR4FN5Wi"
-    },
-    {
-      "added_at": "2025-07-24 23:00:27",
-      "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 248454,
       "name": "A Symptom Of Being Human",
       "url": "https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4"
+    },
+    {
+      "added_at": "2025-07-24 23:00:27",
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Plug in Baby",
+      "url": "https://open.spotify.com/track/2UKARCqDrhkYDoVR4FN5Wi"
     },
     {
       "added_at": "2025-07-24 23:00:27",

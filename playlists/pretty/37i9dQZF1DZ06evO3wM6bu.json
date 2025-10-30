@@ -1,12 +1,12 @@
 {
   "description": "This is Westlife. The essential tracks, all in one playlist.",
-  "num_followers": 491355,
+  "num_followers": 491445,
   "original_name": "This Is Westlife",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAACrQ1mhbdbTG4ks/qo9PDej",
+  "snapshot_id": "aQAHgAAAAADaC99kSX7xDI7poOhBhj1f",
   "tracks": [
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where We Are",
-        "url": "https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        }
-      ],
-      "duration_ms": 237533,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/79totVEHvQwTDdgXCXLUMw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild Dreams (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4g3q0igWqgw9vuoR5X6cev"
       },
@@ -787,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face To Face",
-        "url": "https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk"
+        "name": "Where We Are",
+        "url": "https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F"
       },
       "artists": [
         {
@@ -796,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
         }
       ],
-      "duration_ms": 218173,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/0hSW2hFuchG7mtYaeLEHtM"
+      "duration_ms": 237533,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/79totVEHvQwTDdgXCXLUMw"
     }
   ],
   "unique_name": "This Is Westlife",

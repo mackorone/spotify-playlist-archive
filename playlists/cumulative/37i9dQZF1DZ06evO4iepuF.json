@@ -829,6 +829,24 @@
     },
     {
       "album": {
+        "name": "autotune garbage",
+        "url": "https://open.spotify.com/album/4Wjjhnw8bt7Q0qUv8aylOi"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185182,
+      "name": "i do not want to feel",
+      "url": "https://open.spotify.com/track/1jGEGUINPtfoMnEYXRzjrC"
+    },
+    {
+      "album": {
         "name": "DIRECTIONS",
         "url": "https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu"
       },
@@ -1000,7 +1018,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 134126,
       "name": "in my heart",
       "url": "https://open.spotify.com/track/1mMYgbdQWu6nvXVq7LRFio"
@@ -1322,7 +1340,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 152699,
       "name": "microtonal ghost",
       "url": "https://open.spotify.com/track/6YAq0AsR5qLv38dAylq96b"
@@ -1814,7 +1832,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 166400,
       "name": "TALK SHIT!!",
       "url": "https://open.spotify.com/track/5aYP4yt655ZTqsQ2sAeEk7"

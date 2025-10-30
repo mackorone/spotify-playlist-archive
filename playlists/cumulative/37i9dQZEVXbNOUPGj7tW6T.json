@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 162580,
       "name": "Ama Um Maloqueiro",
       "url": "https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED"
@@ -5698,7 +5698,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -5770,7 +5770,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -5935,7 +5935,7 @@
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 132922,
+      "duration_ms": 133384,
       "name": "FAMOSINHA",
       "url": "https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al"
     },
@@ -6740,7 +6740,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "Hasta Que Dios Diga",
       "url": "https://open.spotify.com/track/06s3QtMJVXw1AJX3UfvZG1"
@@ -10146,7 +10146,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 240733,
       "name": "More",
       "url": "https://open.spotify.com/track/0Imc5xRXd0eV9Ln55M1kz6"
@@ -10172,7 +10172,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 240733,
       "name": "More",
       "url": "https://open.spotify.com/track/0rKqFkLnkcZByHMjN60KAn"
@@ -12571,6 +12571,40 @@
     },
     {
       "album": {
+        "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
+        "url": "https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
+      "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
+    },
+    {
+      "album": {
         "name": "PRC",
         "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
       },
@@ -14580,7 +14614,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 352441,
       "name": "Sigue Bailandome",
       "url": "https://open.spotify.com/track/0GmiGIxXDNrePrHBpijYDp"

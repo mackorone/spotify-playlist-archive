@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 
 > Your escape to the world of chill Indian pop\. Cover \- Thoda Thoda Pyaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,982 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,079 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

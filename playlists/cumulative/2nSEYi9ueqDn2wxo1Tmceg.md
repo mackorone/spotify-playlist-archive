@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Georgia</a>
 
-1,557 songs - 4 day 9 hr 21 min
+1,559 songs - 4 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Blessing](https://open.spotify.com/track/14ZagAXGWz5Ycpm0AsZQYZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Blessing](https://open.spotify.com/album/7Aqk8isy5td8NUUmXF3Z3d) | 3:05 | 2022-06-08 | 2022-07-14 |
 | [Blind Date](https://open.spotify.com/track/0UNzzZBuQfZwNJ3mk2PYbm) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [Blind Date](https://open.spotify.com/album/1ZDktqQTTWUktZ0ivTA06P) | 4:05 | 2022-09-28 | 2022-11-03 |
 | [Bliss](https://open.spotify.com/track/3j0KY1cmc7mh86F94dOqFU) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [Bliss](https://open.spotify.com/album/6jGBMVoIICGhkRbPeSfr7b) | 3:52 | 2024-01-24 | 2024-03-07 |
+| [Blue & Gold](https://open.spotify.com/track/0BuFVacij84JZllooIeFn6) | [Madra Salach](https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp) | [Blue & Gold](https://open.spotify.com/album/4UiQ90pVpNq612INRQcO3C) | 3:32 | 2025-10-29 |  |
 | [Blue Kite](https://open.spotify.com/track/3mmPVTmjCRIa7p7cA8lDTh) | [Crack Cloud](https://open.spotify.com/artist/10butpS2A0V5nRIu2YDrKI) | [Blue Kite](https://open.spotify.com/album/22RNSXaulZOIgT9aA8XaTu) | 6:11 | 2024-05-15 | 2024-06-27 |
 | [Blue Marbled Elm Trees](https://open.spotify.com/track/5DeuSsOtWl6vEnepxzrAJ6) | [King Creosote](https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp) | [Blue Marbled Elm Trees](https://open.spotify.com/album/6wF2Wg85euCwati0jG8Svm) | 5:03 | 2023-09-04 | 2023-10-26 |
 | [Blue Over Blue](https://open.spotify.com/track/3GHxQ1rlb8nvZEYRrB7eB2) | [The Clientele](https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0) | [Blue Over Blue](https://open.spotify.com/album/4MdmtxBC2ByJnRWWsYXzw7) | 3:16 | 2023-04-26 | 2023-06-01 |
@@ -429,6 +430,7 @@
 | [Exaltation](https://open.spotify.com/track/45h2ZHVyLHB7YqYMLJINuL) | [RIBBON STAGE](https://open.spotify.com/artist/4f7oDcY7sHQ69tiuRomYRZ) | [Exaltation](https://open.spotify.com/album/514yXOOm36x9tki3LUhU3e) | 1:48 | 2022-09-21 | 2022-10-21 |
 | [Exit Music](https://open.spotify.com/track/3WHGUZGrJiTzi6CTZxH7Dr) | [Martin Courtney](https://open.spotify.com/artist/4JuWruv1jBeWne0sJTUH3k) | [Magic Sign](https://open.spotify.com/album/3Zse3fkovui5xhEx1SQ7qQ) | 2:52 | 2022-06-29 | 2022-08-18 |
 | [Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn) | [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Expression On Your Face](https://open.spotify.com/album/0SylYxgzz1dgwuN4ItVB3u) | 2:53 | 2025-06-18 | 2025-07-24 |
+| [Eyes Closed](https://open.spotify.com/track/7dTZ0dEnpFed6ohli3g5NE) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Eyes Closed](https://open.spotify.com/album/6GTw2AKd5RhtzkMQ9utnGJ) | 2:57 | 2025-10-29 |  |
 | [Face Of God](https://open.spotify.com/track/1TPWOE9KMPihB44CTXyYHE) | [Silverfish](https://open.spotify.com/artist/7Jc4asBe7zfajAZI04Rh90) | [Face Of God](https://open.spotify.com/album/212GSKbV7595aV6uQ2Opef) | 3:23 | 2025-06-18 | 2025-07-24 |
 | [Faded and Golden](https://open.spotify.com/track/5PRaqte3YCXbOUrTC1ljmT) | [Caroline Says](https://open.spotify.com/artist/10U1DbsjhgAqUMcouK267Q) | [Faded and Golden](https://open.spotify.com/album/0uRPSDSldsNPPRQ78Sy6Xl) | 3:13 | 2024-09-25 | 2024-10-31 |
 | [Fairlies](https://open.spotify.com/track/0xqYAKEIAvDslG3rS3YnMy) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Fairlies](https://open.spotify.com/album/2DcmRXCeUVWmKXf8ycrOED) | 4:10 | 2023-05-10 | 2023-06-29 |
@@ -1213,7 +1215,7 @@
 | [Six\-Pack](https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Six\-Pack](https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI) | 3:51 | 2023-01-18 | 2023-02-16 |
 | [Sky Hook](https://open.spotify.com/track/5nZTYnKo1ugzmtP7EHfOWr) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [Guiro EP](https://open.spotify.com/album/0Mh3tPpe3iGnbTjUAXMIxt) | 5:13 | 2023-11-01 | 2023-12-07 |
 | [Skybather](https://open.spotify.com/track/4exWkfYmjDqfSkEtOxmdP2) | [KEG](https://open.spotify.com/artist/5CiQ9m8dPZ3eEV8c2DdHuq) | [Skybather](https://open.spotify.com/album/3K005Cm1fy2PDbvhQE6pqf) | 3:50 | 2025-03-12 | 2025-04-24 |
-| [Slapped By My Life](https://open.spotify.com/track/1fbbToCbUVyJ9GCCgqP5A1) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Slapped By My Life](https://open.spotify.com/album/1RfbYCkmk9RUkG6sdEk2y9) | 2:55 | 2025-09-17 |  |
+| [Slapped By My Life](https://open.spotify.com/track/1fbbToCbUVyJ9GCCgqP5A1) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Slapped By My Life](https://open.spotify.com/album/1RfbYCkmk9RUkG6sdEk2y9) | 2:55 | 2025-09-17 | 2025-10-30 |
 | [Sleeping With the Lights On](https://open.spotify.com/track/6KyA7XFoNsxOxR4gpGgUW0) | [Roy of the Ravers](https://open.spotify.com/artist/1ZUMNqd7GkMq58qxvEzRSo), [Jake Buckley](https://open.spotify.com/artist/6qAkM69vaKTyQ6HtYp8qxP) | [Isle of Acid](https://open.spotify.com/album/0zprvT5BCvWExLDSOMZvbI) | 5:04 | 2025-09-17 | 2025-10-23 |
 | [Slightly Shaking Cells](https://open.spotify.com/track/3ttLpQ2Jsfn8fgwViPKMjC) | [Pozi](https://open.spotify.com/artist/0i1dJNVY6kGU5lUzmwXNhS) | [Smiling Pools](https://open.spotify.com/album/0AOqmNJlKmpoq06wiSk7IO) | 3:28 | 2023-05-24 | 2023-07-06 |
 | [Slugger](https://open.spotify.com/track/3NMXHkEhxF2ijm2KC0wHKU) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Slugger](https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z) | 3:00 | 2024-09-23 | 2024-11-21 |
@@ -1269,7 +1271,7 @@
 | [Stretching Out](https://open.spotify.com/track/6RIfqDG9X528F3lZrVnNU6) | [Quade](https://open.spotify.com/artist/3jRUNsEZI2Zb06hF326tBX) | [Nacre](https://open.spotify.com/album/1AeV4Xx6W0YVwJDhLfxdnK) | 4:10 | 2023-11-29 | 2024-01-25 |
 | [Strike](https://open.spotify.com/track/1QE2k10Dw91OSHy5FNC2EL) | [Tirez Tirez](https://open.spotify.com/artist/7zopVXYKcfoAyJWuNpnOtD) | [Strike](https://open.spotify.com/album/6gQCagpIQGiiCcdBTy9zRU) | 6:15 | 2025-02-12 | 2025-03-13 |
 | [Stump](https://open.spotify.com/track/62ZdXwdsquKzNIajsopirn) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5YoNp5U9MsUvXsTWhVhEFU) | 4:21 | 2022-08-24 | 2022-09-29 |
-| [Stupid Love](https://open.spotify.com/track/0ejzToCE8DzFZcZEjmcfQy) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Stupid Love / Monica](https://open.spotify.com/album/0JyVGQDo5FQu5UPG0Qh559) | 3:41 | 2025-09-17 |  |
+| [Stupid Love](https://open.spotify.com/track/0ejzToCE8DzFZcZEjmcfQy) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Stupid Love / Monica](https://open.spotify.com/album/0JyVGQDo5FQu5UPG0Qh559) | 3:41 | 2025-09-17 | 2025-10-30 |
 | [Submerge FM](https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 3:25 | 2023-04-12 | 2023-05-18 |
 | [Successful Bisexual](https://open.spotify.com/track/7E77hZ0K5aN8B4jawllvlU) | [Tamara & the Dreams](https://open.spotify.com/artist/4QvGoRaJ9pQe1bO54477bt) | [Successful Bisexual](https://open.spotify.com/album/5jWJbylYRywHVdNrotX8vI) | 3:52 | 2025-03-19 | 2025-04-24 |
 | [Suffer One](https://open.spotify.com/track/0Kg30B2rdLeb2Lau5uZIXQ) | [Adult Jazz](https://open.spotify.com/artist/5as7SW1R7ACUdkVtmcG7TG) | [Suffer One](https://open.spotify.com/album/7siwxOUsQ0YEllA61QaCHU) | 5:02 | 2024-03-20 | 2024-05-02 |

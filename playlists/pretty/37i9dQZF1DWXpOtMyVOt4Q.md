@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > chill vibes to soundtrack your gaming session 🎮 👾
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,377 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,385 likes - 50 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 26 | [Pebbles](https://open.spotify.com/track/0OL92n7zIj1up8vY7DQFHg) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Pebbles](https://open.spotify.com/album/1vCG1uGoUIoFeCILsbmq3U) | 1:36 |
 | 27 | [not noise](https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [not noise](https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt) | 2:28 |
 | 28 | [5.50 Am](https://open.spotify.com/track/0e7GJUcTnb1HQZn73goySz) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [5.50 Am](https://open.spotify.com/album/5OoxfVdEtJacEbZcNeV68r) | 2:02 |
-| 29 | [constellations](https://open.spotify.com/track/6Tmhesk2tLiJtJ52Al3nQ1) | [butterfli](https://open.spotify.com/artist/6A3Fdu30Vz62jf3XP5pLy5) | [constellations](https://open.spotify.com/album/2atTpuP3z27zonfsOSU52f) | 2:24 |
-| 30 | [Drifting](https://open.spotify.com/track/6SD1pxax8w0mb4HKFMHB6g) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Drifting](https://open.spotify.com/album/4PgWB31QuLC06bxsG8HXEa) | 2:55 |
+| 29 | [Drifting](https://open.spotify.com/track/6SD1pxax8w0mb4HKFMHB6g) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Drifting](https://open.spotify.com/album/4PgWB31QuLC06bxsG8HXEa) | 2:55 |
+| 30 | [constellations](https://open.spotify.com/track/6Tmhesk2tLiJtJ52Al3nQ1) | [butterfli](https://open.spotify.com/artist/6A3Fdu30Vz62jf3XP5pLy5) | [constellations](https://open.spotify.com/album/2atTpuP3z27zonfsOSU52f) | 2:24 |
 | 31 | [an endless spring](https://open.spotify.com/track/0XIFV4GDAm0eGSpzDQgU5o) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [an endless spring](https://open.spotify.com/album/0EYe6j5EaDj1E4pi2XkYLa) | 1:52 |
 | 32 | [Train Delays](https://open.spotify.com/track/27fserVzR1RsJ0FBkQIzSu) | [BeatsDotCom](https://open.spotify.com/artist/5Qly1NvJNo9y2GcL2AmRwc) | [Train Delays](https://open.spotify.com/album/4bWbawDFa9DwvPjS8tdNr6) | 2:00 |
 | 33 | [Aqua](https://open.spotify.com/track/7ArMWsBYI59MmStLmWAYHj) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Aqua](https://open.spotify.com/album/5prd1riQ0u3Cv0qjBLpbuu) | 1:41 |
 | 34 | [staring contest](https://open.spotify.com/track/5X3KZZrT6nBpwSBr0SY26L) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy) | [don't look down](https://open.spotify.com/album/0pIgfIY5VrYdzAlliFnWdl) | 1:25 |
 | 35 | [Insomnia Dream](https://open.spotify.com/track/4rtJXaHdYeaSOlWnka0xnP) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/4FANqNso2mEWdYcc2Ji4H3) | 2:42 |
 | 36 | [Keys](https://open.spotify.com/track/0ItIy3UqYx2Fark9GZVd2s) | [Ambivvalante](https://open.spotify.com/artist/6X73FARXq8LTDYVQiS1b4i) | [Keys](https://open.spotify.com/album/7z3Lvzo6c1bOLArHy76UOF) | 2:08 |
-| 37 | [lilac](https://open.spotify.com/track/2aIVnvIeWx5gkSi9DAezDF) | [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [lilac](https://open.spotify.com/album/5cluglvJrg5Sa1kpVzh0hK) | 2:02 |
-| 38 | [Destination Unknown](https://open.spotify.com/track/5h6cmdZwbtZKRq9fW0upt6) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Oblivion](https://open.spotify.com/album/32oTot2l5dFqJuxHX3pqyX) | 2:52 |
+| 37 | [Destination Unknown](https://open.spotify.com/track/5h6cmdZwbtZKRq9fW0upt6) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Oblivion](https://open.spotify.com/album/32oTot2l5dFqJuxHX3pqyX) | 2:52 |
+| 38 | [lilac](https://open.spotify.com/track/2aIVnvIeWx5gkSi9DAezDF) | [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [lilac](https://open.spotify.com/album/5cluglvJrg5Sa1kpVzh0hK) | 2:02 |
 | 39 | [amnesia](https://open.spotify.com/track/3vYZ9IEqfFakxgfrJnxuPK) | [lov sum](https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs) | [amnesia](https://open.spotify.com/album/3quW6PLhZ9D7Ex2nRsO47n) | 1:56 |
 | 40 | [Deep Breaths](https://open.spotify.com/track/24tCFs2DAT3Js3kBBalhb0) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Deep Breaths](https://open.spotify.com/album/1tDzraOZEOGevw4RcTLrS0) | 3:02 |
 | 41 | [4pm naps](https://open.spotify.com/track/5i1GoRGX8ZauNcxWZx1oPb) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [4pm naps](https://open.spotify.com/album/1HTKBNjdgZM5otxolfrjci) | 1:54 |

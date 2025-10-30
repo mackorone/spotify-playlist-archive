@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover: Kelvin Sings
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,051 likes - 50 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,065 likes - 50 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 26 | [You Are Great](https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [You Are Great](https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb) | 3:03 |
 | 27 | [Jehovah \(feat\. Chris Brown\)](https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:54 |
 | 28 | [Look Now](https://open.spotify.com/track/6R21beENKQeGyOvBEVvx3A) | [SONOJ ONOJA](https://open.spotify.com/artist/6zHRpFSVzYf53NzQ74UCpM) | [Look Now](https://open.spotify.com/album/7cUJRu8sMzoVZutp79QNQt) | 4:59 |
-| 29 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
-| 30 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
+| 29 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
+| 30 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
 | 31 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 |
 | 32 | [This Is The Gospel](https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [This Is The Gospel](https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn) | 5:05 |
 | 33 | [E Dey Flow](https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [E Dey Flow](https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW) | 2:36 |

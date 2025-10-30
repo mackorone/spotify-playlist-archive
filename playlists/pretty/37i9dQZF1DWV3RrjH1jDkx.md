@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. GOLF, oskar med k, Sigrid og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,276 likes - 113 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,279 likes - 113 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

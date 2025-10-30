@@ -1,12 +1,12 @@
 {
   "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
-  "num_followers": 408719,
+  "num_followers": 408748,
   "original_name": "This Is Metro Boomin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAACZD4iGQrERdT5haYPqCXC6",
+  "snapshot_id": "aQAHgAAAAAAaY2Gz+A7Wtp1d+Z8Z8VPf",
   "tracks": [
     {
       "added_at": null,
@@ -895,6 +895,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Always Be My Fault",
+      "url": "https://open.spotify.com/track/1FIwzmULOKGNmo5bOJqW0P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
         "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
       },
@@ -927,50 +951,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "WE STILL DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
       "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         },
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Always Be My Fault",
-      "url": "https://open.spotify.com/track/1FIwzmULOKGNmo5bOJqW0P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Assume Form",
-        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         },
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 193600,
-      "name": "Mile High (feat. Travis Scott & Metro Boomin)",
-      "url": "https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8"
+      "duration_ms": 211920,
+      "name": "Dreamcatcher (feat. Swae Lee & Travis Scott)",
+      "url": "https://open.spotify.com/track/22ykS8KWpd2r4zcRZ0XMK5"
     },
     {
       "added_at": null,
@@ -995,26 +995,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+        "name": "Assume Form",
+        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         },
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 211920,
-      "name": "Dreamcatcher (feat. Swae Lee & Travis Scott)",
-      "url": "https://open.spotify.com/track/22ykS8KWpd2r4zcRZ0XMK5"
+      "duration_ms": 193600,
+      "name": "Mile High (feat. Travis Scott & Metro Boomin)",
+      "url": "https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8"
     },
     {
       "added_at": null,

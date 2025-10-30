@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 
 > This is Gracie Abrams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,991 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,082 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 | 2 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 3 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 |
 | 4 | [Close To You](https://open.spotify.com/track/5wbg8kepMFoMzHOEuxiI0q) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 3:45 |
-| 5 | [Mess It Up](https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mess It Up](https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf) | 2:51 |
-| 6 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/745JbQYxoYIegHzHTUxETp) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:17 |
+| 5 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/745JbQYxoYIegHzHTUxETp) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:17 |
+| 6 | [Mess It Up](https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mess It Up](https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf) | 2:51 |
 | 7 | [I know it won't work](https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:05 |
 | 8 | [Risk](https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 3:11 |
 | 9 | [I Told You Things](https://open.spotify.com/track/4wkhV8JcGfy1z1inN5C61D) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/7ce3IkZzM0jPo2KfB7iDVU) | 3:41 |
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 | 30 | [Difficult](https://open.spotify.com/track/7llBR7Fy7Fw9zgEQuZp6K7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:18 |
 | 31 | [Felt Good About You](https://open.spotify.com/track/5bjB0xPlN7fR1roEedzQvg) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:44 |
 | 32 | [Mean It](https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mean It](https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl) | 2:51 |
-| 33 | [Death Wish \- Live from The O2 Arena](https://open.spotify.com/track/6WuOYKZbV7CvtaCA7ohYmn) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Death Wish \(Live from The O2 Arena\)](https://open.spotify.com/album/44uIJOur5ep2lIaNmbAHfO) | 3:47 |
-| 34 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
+| 33 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
+| 34 | [Death Wish \- Live from The O2 Arena](https://open.spotify.com/track/6WuOYKZbV7CvtaCA7ohYmn) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Death Wish \(Live from The O2 Arena\)](https://open.spotify.com/album/44uIJOur5ep2lIaNmbAHfO) | 3:47 |
 | 35 | [I Knew It, I Know You \- Live From Vevo](https://open.spotify.com/track/76qpEmu2bVlYCCz5IUcZw1) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 4:16 |
 | 36 | [minor](https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:40 |
-| 37 | [Brush Fire](https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Brush Fire](https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB) | 3:10 |
-| 38 | [Hard to Sleep](https://open.spotify.com/track/3ofi5ZcJjLuRgS3FX4U6yG) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 4:15 |
+| 37 | [Hard to Sleep](https://open.spotify.com/track/3ofi5ZcJjLuRgS3FX4U6yG) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 4:15 |
+| 38 | [Brush Fire](https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Brush Fire](https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB) | 3:10 |
 | 39 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy) | 2:35 |
 | 40 | [Under / Over](https://open.spotify.com/track/6e5UOAU8hWJq7FKbHGPp2y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:21 |
 
-Snapshot ID: `aP62AAAAAACHA9SVtZSlBOEa8SrABpMP`
+Snapshot ID: `aQAHgAAAAADczSJrtuxbGmPy6nifcNfo`

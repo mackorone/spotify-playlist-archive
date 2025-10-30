@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde 🌍 avec Tontons Franglish et KeBlack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,430 likes - 74 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,523 likes - 74 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 68 | [Elle veut](https://open.spotify.com/track/5BBb70qCE08OkPvRlhz89a) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Hybride](https://open.spotify.com/album/0Y1jicwKfOIp4q88Y5n0YK) | 2:20 |
 | 69 | [Technique \(feat\. Gaz Mawete\)](https://open.spotify.com/track/0HBGEZBlXljDGIvV36jC16) | [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay) | [Technique \(feat\. Gaz Mawete\)](https://open.spotify.com/album/2wHhwKN1nWM0gT0BnDAukv) | 2:37 |
 | 70 | [Lelo](https://open.spotify.com/track/1pdNNU2wWIaZifmv9lwU90) | [DJ Faya](https://open.spotify.com/artist/4uWcueZxhQMoolyY5OAYTd), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Lelo](https://open.spotify.com/album/5bMg9qXRHnEnFiZdxSy1tX) | 3:04 |
-| 71 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 |
+| 71 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:52 |
 | 72 | [BALLE DANS LE COEUR](https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D) | [Ikaz Boi](https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BRUT4L](https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC) | 2:40 |
 | 73 | [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 |
 | 74 | [So’oo](https://open.spotify.com/track/6WhL911Vn01ZIt8JcqtRwu) | [KCM](https://open.spotify.com/artist/76zZT6pbBbdHZlSeDLoNVM) | [So’oo](https://open.spotify.com/album/6ymWudiASfHTvE942UX68H) | 2:53 |

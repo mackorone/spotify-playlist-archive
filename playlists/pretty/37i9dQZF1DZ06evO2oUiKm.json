@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 10425,
+  "num_followers": 10431,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADIzpPaWFUdBBh3Zj92u1AA",
+  "snapshot_id": "aQAHgAAAAAD6+mFxIfNclha+h0FCxn5w",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Fly Before You Fall",
+      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When You Believe",
         "url": "https://open.spotify.com/album/5GsYME9CdX571wxD1WgLvi"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 247997,
       "name": "When You Believe",
       "url": "https://open.spotify.com/track/3j4uq0VAGJcrsouND9kSe4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Fly Before You Fall",
-      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
     },
     {
       "added_at": null,
@@ -603,6 +603,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
+        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Scott Alan",
+          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
+        }
+      ],
+      "duration_ms": 238937,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 234731,
       "name": "The Color Purple (Reprise)",
       "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
-        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Scott Alan",
-          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
-        }
-      ],
-      "duration_ms": 284751,
-      "name": "Anything Worth Holding On To",
-      "url": "https://open.spotify.com/track/3SOIpvBhXfCeqSQti8mlj8"
     },
     {
       "added_at": null,
@@ -672,25 +672,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 220972,
-      "name": "A Window",
-      "url": "https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 77077,
-      "name": "Somebody Gonna Love You",
-      "url": "https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval"
+      "duration_ms": 244804,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/2sgqTwYVgjQT3scjsefjDP"
     },
     {
       "added_at": null,
@@ -708,9 +692,25 @@
           "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 238937,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a"
+      "duration_ms": 284751,
+      "name": "Anything Worth Holding On To",
+      "url": "https://open.spotify.com/track/3SOIpvBhXfCeqSQti8mlj8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 77077,
+      "name": "Somebody Gonna Love You",
+      "url": "https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval"
     },
     {
       "added_at": null,
@@ -747,26 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forbidden",
-        "url": "https://open.spotify.com/album/6Rl2UqYTAppPRzaWddbeDR"
+        "name": "She is Risen: Volume One",
+        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
       },
       "artists": [
-        {
-          "name": "Todrick Hall",
-          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
-        },
-        {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 232800,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/2Ik7E8xdOe42xZxM15k8hc"
+      "duration_ms": 259900,
+      "name": "I Don't Know How to Love Him",
+      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
     },
     {
       "added_at": null,
@@ -803,18 +795,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "She is Risen: Volume One",
-        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
+        "name": "Forbidden",
+        "url": "https://open.spotify.com/album/6Rl2UqYTAppPRzaWddbeDR"
       },
       "artists": [
+        {
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        },
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 259900,
-      "name": "I Don't Know How to Love Him",
-      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
+      "duration_ms": 232800,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2Ik7E8xdOe42xZxM15k8hc"
     },
     {
       "added_at": null,

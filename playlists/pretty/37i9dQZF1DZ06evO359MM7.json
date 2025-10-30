@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 440837,
+  "num_followers": 440873,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADC2U8lTK16Xj+bE0gJp5cL",
+  "snapshot_id": "aQAHgAAAAACjW9cE5mEct4h6NSLuddEA",
   "tracks": [
     {
       "added_at": null,
@@ -63,26 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 149040,
-      "name": "Bad Bad Bad (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 142417,
       "name": "Baby (Lil Baby feat. DaBaby)",
       "url": "https://open.spotify.com/track/5MPPttjfGap2C6j6eKcO6J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 149040,
+      "name": "Bad Bad Bad (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
     },
     {
       "added_at": null,
@@ -987,22 +987,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "UY SCUTI",
-        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+        "name": "2step (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif"
       },
       "artists": [
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         },
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Pardon My Back (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/2PJe4Z0NdsdAcR0pFBv0BW"
+      "duration_ms": 163449,
+      "name": "2step (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt"
     }
   ],
   "unique_name": "This Is Lil Baby",

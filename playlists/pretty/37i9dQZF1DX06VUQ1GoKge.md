@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Don’t Sweat It!
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,394 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,386 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 15 | [Happy?](https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:36 |
 | 16 | [Jaded](https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU) | 4:22 |
 | 17 | [RATATATA](https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [RATATATA](https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7) | 3:36 |
-| 18 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 |
-| 19 | [We Got the Moves](https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TEKKNO](https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg) | 3:26 |
+| 18 | [We Got the Moves](https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TEKKNO](https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg) | 3:26 |
+| 19 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 |
 | 20 | [Symphony Of Destruction](https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:06 |
 | 21 | [Gasoline](https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 2:33 |
 | 22 | [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 44 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 |
 | 45 | [Vice Grip](https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:23 |
 | 46 | [Genocidal Humanoidz](https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 2:35 |
-| 47 | [Twilight Of The Thunder God](https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Twilight Of The Thunder God](https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz) | 4:08 |
-| 48 | [War Eternal](https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:16 |
+| 47 | [War Eternal](https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:16 |
+| 48 | [Twilight Of The Thunder God](https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Twilight Of The Thunder God](https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz) | 4:08 |
 | 49 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
 | 50 | [You Only Live Once](https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [The Black Crown](https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L) | 3:12 |
 | 51 | [Out Of Style](https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:22 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 58 | [Black Hole](https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [Black Hole](https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB) | 2:59 |
 | 59 | [on the verge](https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [on the verge](https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230) | 2:14 |
 | 60 | [Moth Into Flame](https://open.spotify.com/track/6F5RvdxWcLOJW7LAGuc24r) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct \(Deluxe\)](https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV) | 5:50 |
-| 61 | [Inhumane](https://open.spotify.com/track/4JpUHYV5xwiBHx9wnTSjh1) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 3:59 |
-| 62 | [Natural Born Killer](https://open.spotify.com/track/4dFI3oZOaZn2iSOEUe1FFO) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Look at Yourself](https://open.spotify.com/album/5d904eRcMkUSIipPixswNM) | 2:37 |
+| 61 | [Natural Born Killer](https://open.spotify.com/track/4dFI3oZOaZn2iSOEUe1FFO) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Look at Yourself](https://open.spotify.com/album/5d904eRcMkUSIipPixswNM) | 2:37 |
+| 62 | [Inhumane](https://open.spotify.com/track/4JpUHYV5xwiBHx9wnTSjh1) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 3:59 |
 | 63 | [Halo](https://open.spotify.com/track/0rlPOzWbNVui2ABuI5OFhL) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Scars](https://open.spotify.com/album/2h9pGOK3WpnKM6sJjILl5E) | 3:15 |
 | 64 | [The World Is Yours](https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:53 |
 | 65 | [No More](https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 3:52 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 85 | [Bye Bye Beautiful](https://open.spotify.com/track/6uwjUM0Y0NfPmLBKVAbUXW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE) | 4:14 |
 | 86 | [Dante](https://open.spotify.com/track/6jjx1KvWK4OAzD0JimzHiY) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Dante](https://open.spotify.com/album/5BC58VTUf4aaoGVkjhtx9U) | 5:46 |
 | 87 | [Keep It In The Family](https://open.spotify.com/track/6S3oeZ5RKR8Tl9DTPAjGLt) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Persistence Of Time \(30th Anniversary Remaster\)](https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA) | 7:08 |
-| 88 | [Night of the Witch](https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Titans of Creation](https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK) | 6:32 |
-| 89 | [The End of All We Know](https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [The End of All We Know](https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi) | 4:11 |
+| 88 | [The End of All We Know](https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [The End of All We Know](https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi) | 4:11 |
+| 89 | [Night of the Witch](https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Titans of Creation](https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK) | 6:32 |
 | 90 | [Necessary Evil](https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Necessary Evil](https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV) | 2:56 |
 | 91 | [Under and Over It](https://open.spotify.com/track/3CBoWhq9cd7WGQZ9EDQVnn) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Standard\)](https://open.spotify.com/album/18bHWmCOOKsAQSHdfFQ0WI) | 3:38 |
 | 92 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6eoXUi0mNXFd2yhqH1sxJK) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Venom](https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP) | 3:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,798 likes - 96 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,806 likes - 96 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 95 | [Viajero Nocturno](https://open.spotify.com/track/1nmKXLM6SMQv4GDyhwsMwz) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Viajero Nocturno](https://open.spotify.com/album/4yRqSzWG3u4PuE2UNpauc3) | 2:47 |
 | 96 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 |
 
-Snapshot ID: `AAAAADwKFh0LOjQVWd+yyYuSDecuJ1XT`
+Snapshot ID: `AAAAACkqj4QWULpS4sOPk9kx7FK9hAz8`

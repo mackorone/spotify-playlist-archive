@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k7CwwZgd48.md) - [plain]
 
 > Our editors' picks for the best Música Mexicana songs of the year! \#SpotifyWrapped Cover: Tito Double P & Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,881 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,929 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k7CwwZgd48.md) - [plain]
 | 26 | [Martes 13](https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Martes 13](https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq) | 2:43 |
 | 27 | [El Beneficio De La Duda](https://open.spotify.com/track/7xJ1scIZpc33lZ7HpcrjCY) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Beneficio De La Duda](https://open.spotify.com/album/0i2GOYC6sONGebCWwtHUf6) | 4:05 |
 | 28 | [SC\-9](https://open.spotify.com/track/03yAV3GfB7jMAEnynZaAEe) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [SC\-9](https://open.spotify.com/album/2OdL2YX4jLC9Yl4oTSPdCs) | 2:45 |
-| 29 | [Elvira](https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:16 |
+| 29 | [Elvira](https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:17 |
 | 30 | [El Plumas](https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Plumas](https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp) | 2:30 |
 | 31 | [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 |
 | 32 | [Cielo Eterno](https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Cielo Eterno \- Spotify Singles](https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme) | 4:04 |

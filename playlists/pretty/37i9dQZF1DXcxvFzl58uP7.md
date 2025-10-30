@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\. Cover: Men I Trust
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,872 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136,883 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 42 | [Prune, You Talk Funny](https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Prune, You Talk Funny](https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo) | 3:32 |
 | 43 | [blue salvia](https://open.spotify.com/track/5g8C2rOTtUCX5GebDsnYgL) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [&SCENE](https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd) | 3:17 |
 | 44 | [Years Roll By](https://open.spotify.com/track/0pVG9Vj40uY2Z7D4afDEPT) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO), [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Years Roll By](https://open.spotify.com/album/6mJGloUq4jFTEoEaThnh6i) | 3:09 |
-| 45 | [Wally](https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Wally](https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI) | 2:08 |
-| 46 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 |
+| 45 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 |
+| 46 | [Wally](https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Wally](https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI) | 2:08 |
 | 47 | [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 |
 | 48 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 |
 | 49 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 78 | [Superfan](https://open.spotify.com/track/4DM5CmW7odKbUlMDAQC1ci) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Superfan](https://open.spotify.com/album/3dHWsC1UPlK52bUS4sVlKV) | 4:28 |
 | 79 | [Wormwood](https://open.spotify.com/track/3W89enABhR4P2BFYvARctH) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Her and All of My Friends](https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK) | 2:59 |
 | 80 | [moviestar](https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [moviestar](https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW) | 2:18 |
-| 81 | [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 |
-| 82 | [Please](https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK) | [Esbie Fonte](https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY) | [Please](https://open.spotify.com/album/7D5FN6JVYSzYfHTGWSx5zy) | 3:36 |
+| 81 | [Please](https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK) | [Esbie Fonte](https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY) | [Please](https://open.spotify.com/album/7D5FN6JVYSzYfHTGWSx5zy) | 3:36 |
+| 82 | [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 |
 | 83 | [Off and On](https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Off and On](https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU) | 4:10 |
 | 84 | [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 |
 | 85 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |

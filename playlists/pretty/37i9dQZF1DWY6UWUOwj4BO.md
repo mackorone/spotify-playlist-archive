@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,105 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,221 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

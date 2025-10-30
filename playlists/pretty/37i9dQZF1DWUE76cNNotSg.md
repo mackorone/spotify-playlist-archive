@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,655 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,718 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 89 | [Oyster Jam](https://open.spotify.com/track/1uUig8GbfDdTSkyKzUnGre) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Levi Hayes](https://open.spotify.com/artist/1W84rz8zMui22NIJufLweu) | [Oyster Jam](https://open.spotify.com/album/33ck38114QxEyYRCdZuS1b) | 2:37 |
 | 90 | [Séquences \- Parcels Remix](https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Séquences \(Remixes\)](https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd) | 4:25 |
 | 91 | [Keep Me Satisfied](https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Me Satisfied](https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM) | 2:25 |
-| 92 | [Baby Blue \(feat\. Oliver Sim\)](https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Anemoia](https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH) | 4:02 |
-| 93 | [Pon Pón](https://open.spotify.com/track/41c8iFH2Q8n87lkrlaRZ1X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 2:58 |
+| 92 | [Pon Pón](https://open.spotify.com/track/41c8iFH2Q8n87lkrlaRZ1X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 2:58 |
+| 93 | [Baby Blue \(feat\. Oliver Sim\)](https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Anemoia](https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH) | 4:02 |
 | 94 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 |
 | 95 | [I Do \- Vandelux Remix](https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [I Do \(Vandelux Remix\)](https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif) | 3:16 |
 | 96 | [open this wall](https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 2:36 |

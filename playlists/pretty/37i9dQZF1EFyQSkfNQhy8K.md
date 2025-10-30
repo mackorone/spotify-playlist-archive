@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,614 likes - 169 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,615 likes - 169 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 42 | [Religiosa](https://open.spotify.com/track/33IHBjSXpamVSajAQ3wSER) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:40 |
 | 43 | [1TRAGO](https://open.spotify.com/track/5t4YUyO8Y45tKUiiKJbB2l) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 3:20 |
 | 44 | [Como Yo :\(](https://open.spotify.com/track/7FH64DotxbhbnAzhN3ztje) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 2:21 |
-| 45 | [Feeling](https://open.spotify.com/track/41MTEQrdiERPZfddek3iSQ) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Unisex](https://open.spotify.com/album/1jBQp6pMhXit5aTC494d9z) | 3:09 |
-| 46 | [COSITA LINDA](https://open.spotify.com/track/6tNGSjIgbSp3B2LOWumkJ0) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:19 |
+| 45 | [COSITA LINDA](https://open.spotify.com/track/6tNGSjIgbSp3B2LOWumkJ0) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:19 |
+| 46 | [Feeling](https://open.spotify.com/track/41MTEQrdiERPZfddek3iSQ) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Unisex](https://open.spotify.com/album/1jBQp6pMhXit5aTC494d9z) | 3:09 |
 | 47 | [Imposible Amor](https://open.spotify.com/track/5oHLjXFztNrS1A1HQ0XFvZ) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 2:53 |
 | 48 | [QueLoQue \(feat\. Paloma Mami\)](https://open.spotify.com/track/7em97lNMDo7LbIZ4Ys5TqV) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Music Is The Weapon](https://open.spotify.com/album/5sfr7pnsTBW9wcQPbxuitJ) | 2:45 |
 | 49 | [Dámelo To’ \(feat\. Myke Towers\)](https://open.spotify.com/track/36CiGk9oRdwTnBDMgKEfjl) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:04 |
@@ -131,16 +131,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 121 | [Me Lo Merezco \- Versión Acústica \- En Las Nubes](https://open.spotify.com/track/78rWBQXG8hhRVknCTIo8j6) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco \- Versión Acústica \(En Las Nubes\)](https://open.spotify.com/album/6Iaa1mYdP9tS5MV57FTypD) | 3:14 |
 | 122 | [FLASHBACK \(feat\. ELENA ROSE\)](https://open.spotify.com/track/2xr5g6oX9oNatnf176Ry2m) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:25 |
 | 123 | [LALALA](https://open.spotify.com/track/0PJxFBDLYshklE1ZhAHp7N) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [LALALA](https://open.spotify.com/album/4sHSMqIoMhxDZUBhZ8Jg4q) | 2:42 |
-| 124 | [Cosas Por Decir](https://open.spotify.com/track/1MpE4mrrhYWAIzp87lM00i) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:39 |
-| 125 | [Catira](https://open.spotify.com/track/1RrkjcfPa9p4ZCo2fL5qnE) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Catira](https://open.spotify.com/album/5N4avOZpzaFrMbB2XJrsCY) | 3:04 |
+| 124 | [Catira](https://open.spotify.com/track/1RrkjcfPa9p4ZCo2fL5qnE) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Catira](https://open.spotify.com/album/5N4avOZpzaFrMbB2XJrsCY) | 3:04 |
+| 125 | [Cosas Por Decir](https://open.spotify.com/track/1MpE4mrrhYWAIzp87lM00i) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:39 |
 | 126 | [Gadejo](https://open.spotify.com/track/1u490Fsf4X6W3Tr1QssTrO) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Gadejo](https://open.spotify.com/album/5cky2nIsUXhnvnqMaPecAv) | 2:13 |
 | 127 | [BORRACHA](https://open.spotify.com/track/0UgEClHQLTnJtDX00L1wlA) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:37 |
 | 128 | [Soy Tu Papá \(feat\. Fernando Palomo\)](https://open.spotify.com/track/2dCk8pFTFvWEt8WzcagGKa) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [SpreadLof](https://open.spotify.com/artist/2mcQK34XJohxAWqROKXm9O), [Fernando Palomo](https://open.spotify.com/artist/0mlE6ychUjCLEw4jNAdbG3) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 4:16 |
 | 129 | [Vamos Pal Espacio](https://open.spotify.com/track/3vAN3P0SooqJ5PmjZam3S0) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:33 |
 | 130 | [Sorpresa](https://open.spotify.com/track/4ILDBuXncvUhknWCKiVvFq) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [KRACK](https://open.spotify.com/album/48jz9xkHGLp3X7dNq4Fljx) | 2:39 |
 | 131 | [Linda Natural](https://open.spotify.com/track/61C5r6fPRxNFoOUG7JQPfH) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Linda Natural](https://open.spotify.com/album/6CQRznzuAM7gKDTlfcrNQx) | 2:22 |
-| 132 | [QUE LE MUERDA](https://open.spotify.com/track/4WGUbeko8BYD39VKpyP72N) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:40 |
-| 133 | [Cabarete](https://open.spotify.com/track/3rWwKIu80IiLkGBRuPxA4y) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Xhess](https://open.spotify.com/artist/00LN1aK0qaChfg0aze4RK4) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:33 |
+| 132 | [Cabarete](https://open.spotify.com/track/3rWwKIu80IiLkGBRuPxA4y) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Xhess](https://open.spotify.com/artist/00LN1aK0qaChfg0aze4RK4) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:33 |
+| 133 | [QUE LE MUERDA](https://open.spotify.com/track/4WGUbeko8BYD39VKpyP72N) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:40 |
 | 134 | [Fenomenal](https://open.spotify.com/track/3vg1cctdWYCeWxzrdzMcNk) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Fenomenal](https://open.spotify.com/album/6ZYraErGewCadNWb1sJ2Vv) | 3:23 |
 | 135 | [Free Hugs](https://open.spotify.com/track/5hzCzZjEXcYbS7WLhwqTu2) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Free Hugs](https://open.spotify.com/album/7EgjqJUACBmntb301Nqij7) | 2:48 |
 | 136 | [Cuidala](https://open.spotify.com/track/6G4zlCgYDXs9FiXf3qLefV) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Me Reinventé](https://open.spotify.com/album/3kRzYH7DIxKJT8SCRYcBH2) | 3:37 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 168 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
 | 169 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `AcAGpgAAAACI3v1M170Hq5On2Z3Zah5m`
+Snapshot ID: `AcAMMgAAAAAoYEIL+FacsfdCGufOPDk5`

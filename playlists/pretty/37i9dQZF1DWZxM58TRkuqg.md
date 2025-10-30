@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Aziz Hedra, Julia Wu
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,125 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,203 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 76 | [Gantung](https://open.spotify.com/track/2R1Eks7GwZb8F8JIfyZEBo) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Gantung](https://open.spotify.com/album/45xtIbXUuprdcTEUqvRpCB) | 3:37 |
 | 77 | [Ambang Rindu](https://open.spotify.com/track/72zTmEfdntRbZMxivVALf8) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Ambang Rindu](https://open.spotify.com/album/27wzqnJ2yA8FnG6mWws5So) | 3:23 |
 | 78 | [Bintang 5](https://open.spotify.com/track/0HoWTALX2BktSIrSmflWSP) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [Puting Beliung](https://open.spotify.com/album/45uKX8IYbs9w5jbDNrRp4K) | 4:06 |
-| 79 | [Pedih \- XX Version](https://open.spotify.com/track/75UZyhOOIfxRqQtBYofuev) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Pedih \(XX Version\)](https://open.spotify.com/album/5mpjdqOPsAqmNmKIkJ7QNT) | 3:50 |
+| 79 | [Pedih \- Upbeat Version](https://open.spotify.com/track/75UZyhOOIfxRqQtBYofuev) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Pedih \(Upbeat Version\)](https://open.spotify.com/album/5mpjdqOPsAqmNmKIkJ7QNT) | 3:50 |
 | 80 | [Memori Kita](https://open.spotify.com/track/793eFZPmSzKDl0sQ0hWr0r) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [LUAP](https://open.spotify.com/album/4t1d7lp7cX2v1HnqhlPuXd) | 2:49 |
 | 81 | [Cendana](https://open.spotify.com/track/0PKoCpeBjGdx6TTXPZVLbM) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Cendana](https://open.spotify.com/album/3tYfzqhCpTXLRrHzwSN2iA) | 3:57 |
 | 82 | [Don't Stop](https://open.spotify.com/track/6WkBMtZ1RAYr8yht4Y8uic) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Forever In The Air](https://open.spotify.com/album/07rCINMa9qmft2nk9beVSZ) | 3:03 |

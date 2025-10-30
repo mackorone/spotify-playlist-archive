@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SVXaM.md) - [plain]
 
 > This is Michael Jackson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,993,802 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,994,218 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,18 +19,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SVXaM.md) - [plain]
 | 9 | [They Don't Care About Us](https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 4:44 |
 | 10 | [Smooth Criminal \- 2012 Remaster](https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad \(Remastered\)](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) | 4:17 |
 | 11 | [Love Never Felt So Good](https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [XSCAPE](https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ) | 4:06 |
-| 12 | [P.Y.T\. \(Pretty Young Thing\)](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 3:59 |
-| 13 | [Thriller](https://open.spotify.com/track/3S2R0EVwBSAVMd5UMgKTL0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 5:57 |
-| 14 | [Off the Wall](https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:06 |
-| 15 | [Heaven Can Wait](https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 4:48 |
-| 16 | [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:06 |
-| 17 | [You Are Not Alone](https://open.spotify.com/track/3AoeaZs8dFemFJr3JdzOL0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 5:45 |
-| 18 | [Black or White](https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 4:14 |
-| 19 | [You Rock My World](https://open.spotify.com/track/1Lhwn4PqeGpM4LTVUowW76) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 5:37 |
+| 12 | [Thriller](https://open.spotify.com/track/3S2R0EVwBSAVMd5UMgKTL0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 5:57 |
+| 13 | [P.Y.T\. \(Pretty Young Thing\)](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 3:59 |
+| 14 | [Heaven Can Wait](https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 4:48 |
+| 15 | [Off the Wall](https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:06 |
+| 16 | [You Are Not Alone](https://open.spotify.com/track/3AoeaZs8dFemFJr3JdzOL0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 5:45 |
+| 17 | [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:06 |
+| 18 | [You Rock My World](https://open.spotify.com/track/1Lhwn4PqeGpM4LTVUowW76) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 5:37 |
+| 19 | [Black or White](https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 4:14 |
 | 20 | [Bad \- 2012 Remaster](https://open.spotify.com/track/2gSNBigeWMVtY3QBIvPAEc) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad \(Remastered\)](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) | 4:07 |
 | 21 | [The Girl Is Mine \(with Paul McCartney\)](https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 3:42 |
-| 22 | [Heal the World](https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 6:24 |
-| 23 | [Don’t Matter To Me \(with Michael Jackson\)](https://open.spotify.com/track/6G8kHiVZ1jW7vHMPVRNZU0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 4:05 |
+| 22 | [Don’t Matter To Me \(with Michael Jackson\)](https://open.spotify.com/track/6G8kHiVZ1jW7vHMPVRNZU0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 4:05 |
+| 23 | [Heal the World](https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 6:24 |
 | 24 | [Say Say Say \- Remastered 2015](https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Pipes Of Peace](https://open.spotify.com/album/6zlKkX99NhLW8IRy77bYmb) | 3:55 |
 | 25 | [Wanna Be Startin' Somethin'](https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 6:03 |
 | 26 | [Dirty Diana](https://open.spotify.com/track/6JZYMxvcoeLD4IifJPvDux) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number Ones](https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SVXaM.md) - [plain]
 | 49 | [Unbreakable](https://open.spotify.com/track/5L9anTQJGLyRObYDYvLWdh) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 6:25 |
 | 50 | [She's Out of My Life](https://open.spotify.com/track/6NGsHLZYGVAkXTFr75WWnn) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:38 |
 
-Snapshot ID: `aP62AAAAAABq0/JVgEw5MXA4vGuVTSbJ`
+Snapshot ID: `aQAHgAAAAAA2jX3Yo89avNTUAYI5XPEl`

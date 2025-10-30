@@ -728,7 +728,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 79578,
       "name": "aromat",
       "url": "https://open.spotify.com/track/5R7rlvOCZj7JvhHZPxilbZ"
@@ -5824,7 +5824,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 179560,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
@@ -6833,6 +6833,24 @@
     },
     {
       "album": {
+        "name": "Stray Cat",
+        "url": "https://open.spotify.com/album/4dbX5SJXnqWF7jBDXsVHji"
+      },
+      "artists": [
+        {
+          "name": "Klypso",
+          "url": "https://open.spotify.com/artist/6Ms0X2j7OXWcNsqEx0BjjQ"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Stray Cat",
+      "url": "https://open.spotify.com/track/1RRaSOx8ISVUJ7ix4xB22Y"
+    },
+    {
+      "album": {
         "name": "ATE",
         "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
       },
@@ -7778,7 +7796,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-28",
+      "date_removed": null,
       "duration_ms": 184075,
       "name": "Who (Acoustic Remix)",
       "url": "https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo"
@@ -8294,7 +8312,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 199284,
       "name": "\u0411\u0430\u043d\u043a\u043e\u043c\u0430\u0442",
       "url": "https://open.spotify.com/track/3rGOoMEEIBonQBGOX48yjB"
@@ -9074,7 +9092,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 260560,
       "name": "\u0412\u0441\u0435\u043b\u0435\u043d\u043d\u0430\u044f \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u0430?",
       "url": "https://open.spotify.com/track/5bkfPKnHLi6AUP3fJA5Xf5"
@@ -10580,7 +10598,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 122033,
       "name": "\u043a\u0445\u043c-\u043a\u0445\u043c",
       "url": "https://open.spotify.com/track/0wJ36WwGpJAf40q4Mq95NK"
@@ -14658,7 +14676,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 173080,
       "name": "\u0424\u043e\u043d\u0430\u0440\u0438",
       "url": "https://open.spotify.com/track/2K373m3ampRHhiR1x5NfBk"

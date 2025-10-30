@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 
 > Grandes hinos da música brasileira para animar sua pista de dança!
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,249 likes - 57 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,279 likes - 57 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 28 | [Timoneiro](https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bebadosamba](https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf) | 3:25 |
 | 29 | [Olhos Coloridos](https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra de Sá \- 1982](https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol) | 4:27 |
 | 30 | [Maracatu Atômico](https://open.spotify.com/track/3cR6v2bOwqi7znC8P5Vs1T) | [Chico Science](https://open.spotify.com/artist/7HnkRhoGqYLTasI52iJoE7), [Nação Zumbi](https://open.spotify.com/artist/4Va55p3P2P96lIgzntievo) | [Afrociberdelia](https://open.spotify.com/album/3cG4WKesy6hUXEPfPcdxs6) | 4:44 |
-| 31 | [Emoriô / Dia da Caça \- Ao Vivo](https://open.spotify.com/track/0IwdotkOJ2m9jkJiy8Rzox) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [Gil Baiana ao Vivo em Salvador \(Ao Vivo\)](https://open.spotify.com/album/2HOtF9wjRgFuKefeTJkG4O) | 5:10 |
-| 32 | [Velha Roupa Colorida](https://open.spotify.com/track/7aQWuNqheTpisZfM0gP2oG) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:14 |
+| 31 | [Velha Roupa Colorida](https://open.spotify.com/track/7aQWuNqheTpisZfM0gP2oG) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:14 |
+| 32 | [Emoriô / Dia da Caça \- Ao Vivo](https://open.spotify.com/track/0IwdotkOJ2m9jkJiy8Rzox) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [Gil Baiana ao Vivo em Salvador \(Ao Vivo\)](https://open.spotify.com/album/2HOtF9wjRgFuKefeTJkG4O) | 5:10 |
 | 33 | [Ovelha Negra](https://open.spotify.com/track/5xpumjGGcdWvqWxYVrd7jI) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Fruto Proibido](https://open.spotify.com/album/48SnM2iORxlYTyCefwJZvs) | 5:38 |
 | 34 | [Vou Festejar \- Ao Vivo](https://open.spotify.com/track/3v6nNd7zI8EPlHflsy2UtC) | [Samba De Raiz](https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4) | [Samba de Raiz \- Ao Vivo](https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc) | 3:15 |
 | 35 | [O Mar Serenou](https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Conto de Areia](https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt) | 2:58 |

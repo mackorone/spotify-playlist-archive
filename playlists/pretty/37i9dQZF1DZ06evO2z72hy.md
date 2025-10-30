@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 
 > This is Gondwana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,102 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,112 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 | 38 | [Si No Fuera](https://open.spotify.com/track/5ohIvkIdzrX3Q9UWqojvkM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:38 |
 | 39 | [Mejor que intentes otra vez](https://open.spotify.com/track/6guOLD8ZATZLXlK7u6NdqT) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:56 |
 | 40 | [Down Under](https://open.spotify.com/track/1lQYp5d5lSNTUZLLsVMjuQ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Down Under](https://open.spotify.com/album/6qdt9fquwz1kjy5LZMmtuV) | 3:36 |
-| 41 | [Sanándonos](https://open.spotify.com/track/3F1y63BIzYhurCLgZlfkaj) | [Shamanes Crew](https://open.spotify.com/artist/6J9Vq69rGl3fJftWDT8jaK), [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Tiano Bless](https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v) | [Tótem](https://open.spotify.com/album/6WzjJdvITFIyMhQ8Y8ZTys) | 4:05 |
+| 41 | [Estoy Volviendo a Mi Hogar](https://open.spotify.com/track/3Sw2qcUGbe8OwhIk2I1Tds) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 4:20 |
 | 42 | [We Push Away Good Memories](https://open.spotify.com/track/37ZfyexbuT4zzAvofCjDCL) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC), [Matthew Jacquette](https://open.spotify.com/artist/7fsjCnNgAkjX9iLny7g0dE) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:24 |
 | 43 | [Absalom](https://open.spotify.com/track/2YgIp3bhveVkGpmu9JyGmr) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:24 |
-| 44 | [Estoy Volviendo a Mi Hogar](https://open.spotify.com/track/3Sw2qcUGbe8OwhIk2I1Tds) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 4:20 |
-| 45 | [Divina verdad](https://open.spotify.com/track/6w9TXZ2DROwK2KUtA41D4N) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:25 |
-| 46 | [Susurro](https://open.spotify.com/track/2TxZ8JAypBhn7GWyzwX4hR) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:14 |
+| 44 | [Sanándonos](https://open.spotify.com/track/3F1y63BIzYhurCLgZlfkaj) | [Shamanes Crew](https://open.spotify.com/artist/6J9Vq69rGl3fJftWDT8jaK), [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Tiano Bless](https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v) | [Tótem](https://open.spotify.com/album/6WzjJdvITFIyMhQ8Y8ZTys) | 4:05 |
+| 45 | [El Beso Que Me da una Rosa](https://open.spotify.com/track/5PYs43QuMcrqq2wVPN0pgu) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 3:28 |
+| 46 | [Divina verdad](https://open.spotify.com/track/6w9TXZ2DROwK2KUtA41D4N) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:25 |
 | 47 | [Warning!](https://open.spotify.com/track/4YvGJze3VIIxtOQzSWaQLg) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:42 |
-| 48 | [El Beso Que Me da una Rosa](https://open.spotify.com/track/5PYs43QuMcrqq2wVPN0pgu) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 3:28 |
+| 48 | [Susurro](https://open.spotify.com/track/2TxZ8JAypBhn7GWyzwX4hR) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:14 |
 | 49 | [Quiero acercarme a ti](https://open.spotify.com/track/5Uyd0HavtHIMTPsDDN82yC) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt), [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Los Rastrillos](https://open.spotify.com/artist/1NEJuKkyrGHKALbX1AaIoy) | [Terc3ra Llamada](https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG) | 2:35 |
 | 50 | [Jah Guide](https://open.spotify.com/track/49HlZ78uRJkjYvUIed53Ko) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:46 |
 
-Snapshot ID: `aP62AAAAAABVQxi8FMsvUP+/AcQ1UZSK`
+Snapshot ID: `aQAHgAAAAADHwLmqzuSlmenDykBZ82se`

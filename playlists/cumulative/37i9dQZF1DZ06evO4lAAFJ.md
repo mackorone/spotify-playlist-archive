@@ -4,18 +4,19 @@
 
 > This is ROSALÍA\. The essential tracks, all in one playlist.
 
-60 songs - 2 hr 50 min
+62 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A NINGÚN HOMBRE \- Cap.11: Poder](https://open.spotify.com/track/0RhO0RV0YKyF05kZ4uQOHW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 1:34 | 2023-11-10 |  |
+| [A NINGÚN HOMBRE \- Cap.11: Poder](https://open.spotify.com/track/0RhO0RV0YKyF05kZ4uQOHW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 1:34 | 2023-11-10 | 2025-10-30 |
 | [A Palé](https://open.spotify.com/track/23zJcKwLf5CeaKVbFhrWgF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [A Palé](https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx) | 2:23 | 2023-11-10 |  |
-| [AISLAMIENTO](https://open.spotify.com/track/3SxJJJbmgDeLpWHa54LIWK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 3:26 | 2023-11-10 |  |
+| [AISLAMIENTO](https://open.spotify.com/track/3SxJJJbmgDeLpWHa54LIWK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 3:26 | 2023-11-10 | 2025-10-30 |
 | [Antes de Morirme \- feat\. ROSALÍA](https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Antes de Morirme \(feat\. ROSALÍA\)](https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5) | 3:19 | 2023-11-10 |  |
 | [Aunque Es De Noche](https://open.spotify.com/track/43MWnijE4yC3hZAjoRQ06N) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Aunque Es De Noche](https://open.spotify.com/album/5gBeXfX0ZfaiDWirzSNeIk) | 4:13 | 2024-08-20 |  |
 | [Aute Cuture](https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Aute Cuture](https://open.spotify.com/album/23irnvaijPHVE7682D4G3f) | 2:27 | 2023-11-10 |  |
 | [BAGDAD \- Cap.7: Liturgia](https://open.spotify.com/track/1zZ7vl1amOLI4GE5oUn0YB) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:02 | 2023-11-10 |  |
 | [Barefoot In The Park \(feat\. ROSALÍA\)](https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:31 | 2023-11-10 |  |
+| [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-10-30 |  |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-11-10 |  |
 | [Besos Moja2](https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:49 | 2023-11-10 |  |
 | [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 | 2023-11-10 |  |
@@ -30,6 +31,7 @@
 | [COMO UN G](https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 4:22 | 2024-10-02 |  |
 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 | 2023-11-10 |  |
 | [Cuando Te Beso \(with ROSALÍA\) \- En Directo](https://open.spotify.com/track/1uAGwsFrgLgjBzp5F5bO3a) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Realmente Volando \(En Directo\)](https://open.spotify.com/album/6ZEninUB9PobSF5FVMyFK9) | 3:17 | 2023-11-10 | 2024-09-16 |
+| [DE AQUÍ NO SALES \- Cap.4: Disputa](https://open.spotify.com/track/0CaiddWO1F3v4nTQGgfk9A) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:24 | 2025-10-30 |  |
 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 | 2024-03-21 | 2025-06-12 |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2023-11-10 |  |
 | [DESPECHÁ RMX](https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [DESPECHÁ RMX](https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP) | 2:50 | 2023-11-10 |  |

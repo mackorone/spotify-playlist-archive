@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 212726,
+  "num_followers": 212746,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAACki9Nx9ljptqOKTKuU9ax/",
+  "snapshot_id": "aQAHgAAAAAB6MTiMqcSidG0wiGfPI2Ok",
   "tracks": [
     {
       "added_at": null,
@@ -767,22 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Hablen",
-        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },
       "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 172501,
-      "name": "Aretes",
-      "url": "https://open.spotify.com/track/5ItFDgE4V1nq9VkDfZTedg"
+      "duration_ms": 189375,
+      "name": "No Dudes de Ti",
+      "url": "https://open.spotify.com/track/6q1rr8W0TudmxomRdHxUWP"
     },
     {
       "added_at": null,
@@ -803,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal, Vol. 2",
-        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+        "name": "Pa Que Hablen",
+        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
       },
       "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 189375,
-      "name": "No Dudes de Ti",
-      "url": "https://open.spotify.com/track/6q1rr8W0TudmxomRdHxUWP"
+      "duration_ms": 172501,
+      "name": "Aretes",
+      "url": "https://open.spotify.com/track/5ItFDgE4V1nq9VkDfZTedg"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 242442,
-      "name": "Tentacion",
-      "url": "https://open.spotify.com/track/1dccdhKRYUcjPVdMGjRQ1H"
+      "duration_ms": 207253,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/1e6iopg5dmxbqJ1Mbhypab"
     },
     {
       "added_at": null,
@@ -867,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal, Vol. 2",
-        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 207253,
-      "name": "La Diabla",
-      "url": "https://open.spotify.com/track/1e6iopg5dmxbqJ1Mbhypab"
+      "duration_ms": 242442,
+      "name": "Tentacion",
+      "url": "https://open.spotify.com/track/1dccdhKRYUcjPVdMGjRQ1H"
     }
   ],
   "unique_name": "This Is Eslabon Armado",

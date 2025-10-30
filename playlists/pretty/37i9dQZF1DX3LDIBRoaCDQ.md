@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk\. Cover: The Damned from DB Burkeman's <a href="https://www.blurringbooks.com/book/crash"> Crash Bang</a>, a book filled with photos & culture from the late ’70s/early ’80s New York, LA & London punk scenes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,601,362 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,601,393 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 42 | [Code Blue](https://open.spotify.com/track/2OEaDUMy7y35mk78ZWcwTC) | [T.S.O.L.](https://open.spotify.com/artist/4oPMm2idleIKLdBWgZilSi) | [Dance With Me](https://open.spotify.com/album/2mxQVQWGyfh0OhVHJVY23t) | 2:08 |
 | 43 | [See No Evil](https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Marquee Moon](https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP) | 3:52 |
 | 44 | [Suburban Home](https://open.spotify.com/track/35PI5Hsq17h723EbyyDFsi) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq) | 1:40 |
-| 45 | [Gut Feeling / \(Slap Your Mammy\)](https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 4:57 |
-| 46 | [TV Party](https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 3:31 |
+| 45 | [TV Party](https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 3:31 |
+| 46 | [Gut Feeling / \(Slap Your Mammy\)](https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 4:57 |
 | 47 | [Los Angeles](https://open.spotify.com/track/75a66iUfwKdJb5n9juvXRI) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Los Angeles](https://open.spotify.com/album/4lgW2v8MOtBxyuQ7erHLgj) | 2:24 |
 | 48 | [Pretty Vacant](https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:18 |
 | 49 | [Natural's Not in It](https://open.spotify.com/track/6Rsf9POXEmgQHzxXr6ubTg) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy) | 3:06 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 63 | [Pills](https://open.spotify.com/track/0EvHaC4YFOFxeDMYXK2QFk) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 2:47 |
 | 64 | [That's Progress](https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd) | [D.O.A.](https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk) | [Last Scream of the Missing Neighbors](https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc) | 3:13 |
 | 65 | [I Love Livin' in the City](https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd) | [Fear](https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS) | [The Record](https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE) | 2:05 |
-| 66 | [I Want Some](https://open.spotify.com/track/1JaEF8ofVVnVPj2UuD2r4N) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Anthology: The Sounds Of Science](https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2) | 2:00 |
-| 67 | [Radio, Radio](https://open.spotify.com/track/68zMm2sG8wCavafCFFYRPg) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [The Best Of The First 10 Years](https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw) | 3:06 |
+| 66 | [Radio, Radio](https://open.spotify.com/track/68zMm2sG8wCavafCFFYRPg) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [The Best Of The First 10 Years](https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw) | 3:06 |
+| 67 | [I Want Some](https://open.spotify.com/track/1JaEF8ofVVnVPj2UuD2r4N) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Anthology: The Sounds Of Science](https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2) | 2:00 |
 | 68 | [Riot](https://open.spotify.com/track/7G3kh6Vtoc46aTS5GztTMD) | [U.K\. Subs](https://open.spotify.com/artist/4wsg78KGu80m8Xk37PY2uG) | [Complete Riot](https://open.spotify.com/album/6XNbcUWRawIjcIpAlW99Bd) | 2:46 |
 | 69 | [Dean's Dream](https://open.spotify.com/track/65ZK2zk1YFTnaD7D4deD37) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Big Lizard In My Back Yard](https://open.spotify.com/album/4idwu1NCDTQ6V6CumtfW93) | 1:49 |
 | 70 | [Homicide](https://open.spotify.com/track/7GEcsoCxXmGJScfZpXBvzQ) | [999](https://open.spotify.com/artist/14IKysoZ0qyGRsIiTk1Ase) | [The Early Stuff \(The UA Years\)](https://open.spotify.com/album/6l84uahnGqx5ipK68CZ7jm) | 4:26 |

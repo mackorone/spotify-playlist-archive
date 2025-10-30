@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Fcukers on the cover bby
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,646 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,712 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 46 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Follow Rivers \(The Magician Remix\)](https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1) | 4:39 |
 | 47 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
 | 48 | [Fluorescent Adolescent](https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:53 |
-| 49 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
-| 50 | [Using You](https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [Using You](https://open.spotify.com/album/7B2LAN3VRvXFBX8EgSotfo) | 3:28 |
+| 49 | [Using You](https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [Using You](https://open.spotify.com/album/7B2LAN3VRvXFBX8EgSotfo) | 3:28 |
+| 50 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
 | 51 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 |
 | 52 | [Crystalised](https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:21 |
 | 53 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 93 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 |
 | 94 | [Sad Sad City](https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o) | [Ghostland Observatory](https://open.spotify.com/artist/2waNUwuthEgcBTFvYo26vo) | [Paparazzi Lightning](https://open.spotify.com/album/2ZNqGfW6cwMGAX5Bu0A92s) | 3:05 |
 | 95 | [Boys Wanna Be Her](https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Impeach My Bush](https://open.spotify.com/album/5CSak2h5F36n6QieudTObv) | 3:55 |
-| 96 | [Easter Pink](https://open.spotify.com/track/4mwswlM0HATHu9SabiiXiY) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Easter Pink](https://open.spotify.com/album/2gN2buJiTuKIl8LjWNP9Z5) | 1:24 |
-| 97 | [Exhilaration](https://open.spotify.com/track/7B8MbvpzBhbhYf3xvzHbba) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Freakquencies: Volume 1](https://open.spotify.com/album/4gaNqy701TUFmsUtIFLfeD) | 3:27 |
+| 96 | [Exhilaration](https://open.spotify.com/track/7B8MbvpzBhbhYf3xvzHbba) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Freakquencies: Volume 1](https://open.spotify.com/album/4gaNqy701TUFmsUtIFLfeD) | 3:27 |
+| 97 | [Easter Pink](https://open.spotify.com/track/4mwswlM0HATHu9SabiiXiY) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Easter Pink](https://open.spotify.com/album/2gN2buJiTuKIl8LjWNP9Z5) | 1:24 |
 | 98 | [Ice Cream](https://open.spotify.com/track/02ISLTUYF5GUjKrL7zvRb9) | [New Young Pony Club](https://open.spotify.com/artist/3kdrMtLybQIl93rXJlvF3w) | [Fantastic Playroom](https://open.spotify.com/album/1v1Yp8sNjnCqx5YRf8ZaJA) | 3:08 |
 | 99 | [one more](https://open.spotify.com/track/1S499avHKKW1ycbMIFd0HL) | [Casual Affairs](https://open.spotify.com/artist/5EESQeFhNh3C79v3mLKe2W) | [one more](https://open.spotify.com/album/3HTS25aTQgzWbAkD4Hys7J) | 2:20 |
 | 100 | [Round and Round](https://open.spotify.com/track/0IpxdHYUGxYvhZTeCdppH6) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [Before Today](https://open.spotify.com/album/4dFE0GGL1lOGd76kx6yl4J) | 5:08 |

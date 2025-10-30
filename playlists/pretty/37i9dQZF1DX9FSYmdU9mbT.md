@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,452,563 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,452,709 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Brasil \- Ao Vivo no Coala Festival](https://open.spotify.com/track/7IeaNWQPnqgUhsdDdmXCs8) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [As Várias Pontas de uma Estrela \(Ao Vivo no Coala Festival\)](https://open.spotify.com/album/72ZE9c4C3akkC7g1flS0A1) | 3:38 |
 | 2 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 |
 | 3 | [Se..\. \(Ao Vivo\)](https://open.spotify.com/track/5ZnmWmQB74hJ9geBL9bY3R) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan "Ao Vivo"](https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7) | 4:47 |
-| 4 | [Acenda o farol](https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brazilian Café](https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg) | 3:12 |
-| 5 | [Samba De Verão](https://open.spotify.com/track/1vt0n3GcAYrsSMue1C6OtC) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 3:07 |
+| 4 | [Samba De Verão](https://open.spotify.com/track/1vt0n3GcAYrsSMue1C6OtC) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 3:07 |
+| 5 | [Acenda o farol](https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brazilian Café](https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg) | 3:12 |
 | 6 | [Relicário \- Ao Vivo](https://open.spotify.com/track/6HhXiy5XZ81Pyv3yCZMtj1) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI) | 4:06 |
 | 7 | [Lança Perfume](https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Hits](https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27) | 2:07 |
 | 8 | [Flor de Lis](https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [A Voz, o Violão, a Música de Djavan](https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf) | 3:45 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 57 | [Mentiras \- Ao Vivo](https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Mentiras \(Ao Vivo\)](https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf) | 2:58 |
 | 58 | [Sábado em Copacabana](https://open.spotify.com/track/0WyaicPVGNCpf1VNqespsI) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Sábado em Copacabana](https://open.spotify.com/album/2ptJ4tkTfQxkFZ7nOStrkF) | 2:49 |
 | 59 | [Samba do Grande Amor \- Ao Vivo](https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Que Tal Um Samba? \(Ao Vivo\)](https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO) | 2:50 |
-| 60 | [Dia Branco \- Ao Vivo \| Bonus Track](https://open.spotify.com/track/1E3W3Gtvm6ayy7fAtaPGQV) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [Solo Contigo \(ao Vivo\) \- Deluxe Edition](https://open.spotify.com/album/5hJLWVGCXTXdZb6kvC4Cgh) | 4:01 |
-| 61 | [Drão](https://open.spotify.com/track/6BMzeMqNHmMtU5ucEWvbW9) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Drão](https://open.spotify.com/album/0sM5ck5n1eDeg6ek2rUOex) | 4:11 |
+| 60 | [Drão](https://open.spotify.com/track/6BMzeMqNHmMtU5ucEWvbW9) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Drão](https://open.spotify.com/album/0sM5ck5n1eDeg6ek2rUOex) | 4:11 |
+| 61 | [Dia Branco \- Ao Vivo \| Bonus Track](https://open.spotify.com/track/1E3W3Gtvm6ayy7fAtaPGQV) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [Solo Contigo \(ao Vivo\) \- Deluxe Edition](https://open.spotify.com/album/5hJLWVGCXTXdZb6kvC4Cgh) | 4:01 |
 | 62 | [Entre a Serpente e a Estrela \- Ao Vivo](https://open.spotify.com/track/5t1XCqqd7HxVd5Aa2T4nIY) | [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [Zé Ramalho Na Paraíba \(Ao Vivo\)](https://open.spotify.com/album/7IBdFBeduRIbjjxyqT8QdA) | 3:33 |
 | 63 | [O Segundo Sol \(Turnê Jardim\-Pomar\) \[Ao Vivo em Porto Alegre\]](https://open.spotify.com/track/4pID7hvPWS15Xu1e2XdraW) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [O Segundo Sol \(Turnê Jardim\-Pomar\) \[Ao Vivo em Porto Alegre\]](https://open.spotify.com/album/2hrS3ADuXuced8UnMTWubm) | 4:13 |
 | 64 | [Canta Canta, Minha Gente \(Minha Gente, Canta Canta\)](https://open.spotify.com/track/2zqT92v0e1lvs5paCOfxwm) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Violões e Cavaquinhos](https://open.spotify.com/album/4kjig7c8AIa2fdt6syvbRh) | 3:11 |

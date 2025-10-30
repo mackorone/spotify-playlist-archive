@@ -1,6 +1,6 @@
 {
   "description": "\u6b4c\u8a5e\u3092\u898b\u306a\u304c\u3089\u3001\u30d2\u30c3\u30c8\u66f2\u3092\u6b4c\u3044\u5c3d\u304f\u305d\u3046 \uff01",
-  "num_followers": 197771,
+  "num_followers": 197778,
   "original_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-09-30 14:02:16",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2qveemGCix2UWsDkepaq7G"
-      },
-      "artists": [
-        {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
-        }
-      ],
-      "duration_ms": 138573,
-      "name": "Mirage (OP Theme to Call of the Night Season 2)",
-      "url": "https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg"
-    },
-    {
-      "added_at": "2025-09-30 14:02:16",
-      "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+    },
+    {
+      "added_at": "2025-09-30 14:02:16",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2qveemGCix2UWsDkepaq7G"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "duration_ms": 138573,
+      "name": "Mirage (OP Theme to Call of the Night Season 2)",
+      "url": "https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg"
     },
     {
       "added_at": "2025-09-30 14:02:16",
@@ -1351,8 +1351,8 @@
     {
       "added_at": "2025-09-30 14:02:16",
       "album": {
-        "name": "\u82b1",
-        "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
       },
       "artists": [
         {
@@ -1360,25 +1360,9 @@
           "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 246699,
-      "name": "\u82b1",
-      "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
-    },
-    {
-      "added_at": "2025-09-30 14:02:16",
-      "album": {
-        "name": "\u30a4\u30f3\u30c7\u30a3\u30b4\u5730\u5e73\u7dda",
-        "url": "https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N"
-      },
-      "artists": [
-        {
-          "name": "SPITZ",
-          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "\u30c1\u30a7\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z"
+      "duration_ms": 229333,
+      "name": "\u30ac\u30fc\u30c7\u30f3",
+      "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
     },
     {
       "added_at": "2025-09-30 14:02:16",
@@ -1395,6 +1379,22 @@
       "duration_ms": 234323,
       "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
       "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
+    },
+    {
+      "added_at": "2025-09-30 14:02:16",
+      "album": {
+        "name": "\u30a4\u30f3\u30c7\u30a3\u30b4\u5730\u5e73\u7dda",
+        "url": "https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N"
+      },
+      "artists": [
+        {
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "\u30c1\u30a7\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z"
     },
     {
       "added_at": "2025-09-30 14:02:16",
@@ -1439,8 +1439,8 @@
     {
       "added_at": "2025-09-30 14:02:16",
       "album": {
-        "name": "LOVE ALL SERVE ALL",
-        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
+        "name": "\u82b1",
+        "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
       },
       "artists": [
         {
@@ -1448,9 +1448,9 @@
           "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 229333,
-      "name": "\u30ac\u30fc\u30c7\u30f3",
-      "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
+      "duration_ms": 246699,
+      "name": "\u82b1",
+      "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
     },
     {
       "added_at": "2025-09-30 14:02:16",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-09-30 14:02:16",
       "album": {
-        "name": "\u7121\u7f6a\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
-        "url": "https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2"
-      },
-      "artists": [
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "\u4e38\u30ce\u5185\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30af",
-      "url": "https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL"
-    },
-    {
-      "added_at": "2025-09-30 14:02:16",
-      "album": {
         "name": "Life Goes On",
         "url": "https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 199333,
       "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
       "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
+    },
+    {
+      "added_at": "2025-09-30 14:02:16",
+      "album": {
+        "name": "\u7121\u7f6a\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
+        "url": "https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "\u4e38\u30ce\u5185\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30af",
+      "url": "https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL"
     },
     {
       "added_at": "2025-09-30 14:02:16",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-09-30 14:02:16",
       "album": {
-        "name": "\u30a8\u30b9\u30ab\u30d1\u30ec\u30fc\u30c9",
-        "url": "https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 324633,
-      "name": "115\u4e07\u30ad\u30ed\u306e\u30d5\u30a3\u30eb\u30e0",
-      "url": "https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7"
-    },
-    {
-      "added_at": "2025-09-30 14:02:16",
-      "album": {
         "name": "\u9006\u5922",
         "url": "https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 307666,
       "name": "\u9006\u5922",
       "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
+    },
+    {
+      "added_at": "2025-09-30 14:02:16",
+      "album": {
+        "name": "\u30a8\u30b9\u30ab\u30d1\u30ec\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 324633,
+      "name": "115\u4e07\u30ad\u30ed\u306e\u30d5\u30a3\u30eb\u30e0",
+      "url": "https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7"
     },
     {
       "added_at": "2025-09-30 14:02:16",

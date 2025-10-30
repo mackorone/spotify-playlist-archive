@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 693556,
+  "num_followers": 693590,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAAYcWmHzeB1D8x5PwfirDQO",
+  "snapshot_id": "aQAHgAAAAAAXgnBc5tIqOKjPsTt0zsXY",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 253453,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/6poribUG9PSY1eudyCjJTS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Breathless",
         "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 289560,
       "name": "Vogue - Edit",
       "url": "https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 253453,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/6poribUG9PSY1eudyCjJTS"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Erotica (PA Version)",
-        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 324733,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Breathless",
         "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 94986,
       "name": "Now I'm Following You (Part I)",
       "url": "https://open.spotify.com/track/0mPPeHgx3Kxj85Olq1hNU7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Erotica (PA Version)",
+        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 324733,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Dress You Up",
-      "url": "https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 273533,
       "name": "American Pie",
       "url": "https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Dress You Up",
+      "url": "https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF"
     },
     {
       "added_at": null,

@@ -173,6 +173,6 @@
 | [يا ترى](https://open.spotify.com/track/0jdJimx5sKSQIk2509Hhvv) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [يا ترى](https://open.spotify.com/album/2v4Lpoa78QNwurwzvQJOih) | 0:35 | 2022-10-20 | 2022-11-09 |
 | [يا ترى](https://open.spotify.com/track/6FC6o08x0Ah6AVl4SVoCMI) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [يا ترى](https://open.spotify.com/album/0pdp0vz5ruqkvmpXjtmAjI) | 0:35 | 2022-06-24 | 2022-11-02 |
 | [يا حبيبة](https://open.spotify.com/track/4rS1EJLl0OJyXkfijXih7Y) | [Alawar](https://open.spotify.com/artist/7hlFz8LW0RDvHdf22JSJVq) | [يا حبيبة](https://open.spotify.com/album/10OMhjxG7IiOFCnbrrU7c4) | 3:06 | 2022-11-08 | 2023-06-07 |
-| [يا ساتر](https://open.spotify.com/track/2ohn9s2Wuv3XHS4OwOsZ4c) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [يا ساتر](https://open.spotify.com/album/1hzmp6AsJRcG7pz9eQko19) | 3:28 | 2024-05-02 |  |
+| [يا ساتر](https://open.spotify.com/track/2ohn9s2Wuv3XHS4OwOsZ4c) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS), [Osama Tariq](https://open.spotify.com/artist/4ctSZFA2205zPcRkbKJOdS) | [يا ساتر](https://open.spotify.com/album/1hzmp6AsJRcG7pz9eQko19) | 3:28 | 2024-05-02 |  |
 
 \*This playlist was first scraped on 2022-07-05. Prior content cannot be recovered.

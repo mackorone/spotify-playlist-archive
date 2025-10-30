@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-141 songs - 7 hr 52 min
+142 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Nave 727 \- En Vivo](https://open.spotify.com/track/5Zk59MAZxwbf6oMulM8P0k) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [No Hay Pedo, Hay Peda \(En Vivo\)](https://open.spotify.com/album/5jaNQ9eqs1mTJwOsEunLY5) | 3:50 | 2024-01-29 | 2025-01-16 |
 | [NO LLORES MÁS](https://open.spotify.com/track/0WBFkBlu7H0l3s7qgEIMqd) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [NO LLORES MÁS](https://open.spotify.com/album/3vXhGGDTFI8BXhAzJLV6qU) | 3:15 | 2024-05-05 | 2024-08-25 |
 | [NO LLORES MÁS](https://open.spotify.com/track/3QROwoRzAm4MP58syg12Zk) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:15 | 2024-10-23 | 2025-07-31 |
-| [NO SOMOS DE ACERO \- En Vivo](https://open.spotify.com/track/0LTbcJRYKe0t9Hiqj81L3E) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Desconocidos Del Valle](https://open.spotify.com/artist/0tByJxiEmQmHJgD0Q49q9m) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 3:55 | 2025-03-04 |  |
+| [NO SOMOS DE ACERO \- En Vivo](https://open.spotify.com/track/0LTbcJRYKe0t9Hiqj81L3E) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Desconocidos Del Valle](https://open.spotify.com/artist/0tByJxiEmQmHJgD0Q49q9m) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 3:55 | 2025-03-04 | 2025-10-30 |
 | [NO TE VAYAS](https://open.spotify.com/track/0K7Zwhax5MtOrNTWHq7l0r) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [NO TE VAYAS](https://open.spotify.com/album/5pdbBSD9DXBPzquZ0g5RxL) | 3:18 | 2024-03-23 | 2024-09-15 |
 | [NO TE VAYAS](https://open.spotify.com/track/4mlKCvR8Rowgm9MKEFa8H4) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:19 | 2024-10-25 | 2025-05-07 |
 | [Pa Que Sepan De Una Vez](https://open.spotify.com/track/2xS2oBq0mCa7O4RbdxBtxL) | [Carlos Y Los Del Monte Sinai](https://open.spotify.com/artist/3bNAwmmGrAz6YTioxIBmXc), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Pa Que Sepan De Una Vez](https://open.spotify.com/album/5lFgevGf7iLk3WOe7Uhz3G) | 2:57 | 2024-01-29 |  |
@@ -140,6 +140,7 @@
 | [TÍO LITO](https://open.spotify.com/track/1kl8WWxQ2chrpQQ97CF1jR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 2:57 | 2024-12-02 | 2024-12-20 |
 | [TÍO LITO](https://open.spotify.com/track/2ciwbD1E3lk13o1zODnJjL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Tío Lito](https://open.spotify.com/album/4jNExfI0rnr7LOtTbUYAzM) | 2:57 | 2024-01-29 | 2024-07-14 |
 | [Un Pase De Lavada \(En Vivo\)](https://open.spotify.com/track/2a9Yj20bS6Np0SF3KKnP7l) | [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Un Pase De Lavada \(En Vivo\)](https://open.spotify.com/album/7pFb4OH3XCpQoIhWOgzOE7) | 3:18 | 2024-01-29 | 2025-01-18 |
+| [VENGO A VER UNOS OJOS \- En Vivo](https://open.spotify.com/track/6IoSW6YT3ZUuO1H9ofvoVU) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Lilo Bermudez](https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 3:38 | 2025-10-30 |  |
 | [VENGO A VER UNOS OJOS \- En Vivo](https://open.spotify.com/track/6i7VnbQMZh8PceE6pxb3xo) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Lilo Bermudez](https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/0NzRPrgHKt6Av8Pap9H5hW) | 3:38 | 2025-03-06 | 2025-03-10 |
 | [Volar Contigo](https://open.spotify.com/track/0zieToB8rxTmoIya3OArDI) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Musica Romantica](https://open.spotify.com/album/6mJe3rqxZVaYauD5NxYAki) | 1:51 | 2024-03-04 | 2024-03-11 |
 | [Vuelve](https://open.spotify.com/track/40n0B9pwCkW8QeD7RflSjL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Vuelve](https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2) | 3:09 | 2024-01-29 | 2025-07-12 |

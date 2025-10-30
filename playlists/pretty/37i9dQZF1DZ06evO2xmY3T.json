@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 686961,
+  "num_followers": 687004,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADj9JLQPDyZdAUfLDo4j/VC",
+  "snapshot_id": "aQAHgAAAAADCPZ7+51yn02AdBUql8QmI",
   "tracks": [
     {
       "added_at": null,
@@ -318,15 +318,11 @@
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 177139,
-      "name": "Ring (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA"
+      "duration_ms": 223712,
+      "name": "Bodak Yellow",
+      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
     },
     {
       "added_at": null,
@@ -394,11 +390,15 @@
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 223712,
-      "name": "Bodak Yellow",
-      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
+      "duration_ms": 177139,
+      "name": "Ring (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA"
     },
     {
       "added_at": null,

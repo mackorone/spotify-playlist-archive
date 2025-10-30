@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-444 songs - 22 hr 18 min
+445 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Catching Fire](https://open.spotify.com/track/0gpJMwZeHBz4TmjWXjax6k) | [J4CKO](https://open.spotify.com/artist/5aang7oD3L1eWq1SCYsMVu), [LostVolts](https://open.spotify.com/artist/4Immb1MDqUWYJgqmvaehef) | [Catching Fire](https://open.spotify.com/album/2YvhwThO6T1h7emgR7Mi9Y) | 2:55 | 2022-12-09 | 2023-02-11 |
 | [Chained \- Soundwars Remix](https://open.spotify.com/track/4ceruJjAtVIvS2JVaimAta) | [Odssey](https://open.spotify.com/artist/6SXyD2Wy3j0fHmq266QJDS), [Soundwars](https://open.spotify.com/artist/1UJ8zippTrIdAmN3yyaEHw) | [Chained \(The Remixes\) \[Soundwars Remix\]](https://open.spotify.com/album/2k2CKRwmV2CKLtx4HUsloJ) | 3:13 | 2025-08-22 | 2025-10-09 |
 | [Champion](https://open.spotify.com/track/50GVy9jKhOOycBJ7gTI12I) | [Mike Bond](https://open.spotify.com/artist/4yroY1dUWxiROWLei7Mude), [Sesco](https://open.spotify.com/artist/0pP0ClsQK7FgtbwuUcVrQV), [Richie Loop](https://open.spotify.com/artist/0fwGtEcJ4v3H0btcbM0KWc) | [Champion](https://open.spotify.com/album/3aDsky9uABrOWVmjgwLfAb) | 2:18 | 2024-04-04 | 2024-11-30 |
+| [Change](https://open.spotify.com/track/4cGJHruHEYC1J52Nr0v2H5) | [Pithman](https://open.spotify.com/artist/102gEOw4rXYB94Y1yUz7fe) | [Change](https://open.spotify.com/album/4PzGhQX3OK44wGxsZVZVUE) | 2:13 | 2025-10-29 |  |
 | [Chase The Sun](https://open.spotify.com/track/18vGqlZqxpAwlepFrqIkOG) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Chase The Sun](https://open.spotify.com/album/4sm3DeCmr4ppnUnxdRtJEG) | 3:03 | 2022-07-29 | 2023-09-09 |
 | [Chasing Bliss](https://open.spotify.com/track/2D3aVWaHfXemcFgn9T50AK) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Chasing Bliss](https://open.spotify.com/album/4VvRpBgvISZ3DcSZp4fNqV) | 3:15 | 2022-07-29 | 2022-10-08 |
 | [City Looks Different](https://open.spotify.com/track/73Q1ftTv3Id2YlIylUQdsK) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jason Walker](https://open.spotify.com/artist/3XBxSfCwYIMBzWmJL7ZJ4U) | [City Looks Different](https://open.spotify.com/album/6ml8hgQ7FjIOC305LOc5gH) | 2:32 | 2022-07-29 | 2023-08-11 |
@@ -103,7 +104,7 @@
 | [Create Yourself](https://open.spotify.com/track/6CRWCIKP9h5WW1DTtkwDY3) | [Oskah](https://open.spotify.com/artist/5z6X6OuE2HnFQY18w3ephk) | [Create Yourself](https://open.spotify.com/album/0YtqJ0tbevIZfhS7mHC8Kk) | 2:54 | 2023-08-11 | 2024-09-28 |
 | [Crystal Clear](https://open.spotify.com/track/5x6klKhKveWNJvg4n9iWPZ) | [Diegx](https://open.spotify.com/artist/3fg2lGUSz1TZ0kYI18fIKU), [Joffrey Lorquet](https://open.spotify.com/artist/2Qb0DQVMfYEGI2kUO9EvKR), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Anthony Meyer](https://open.spotify.com/artist/1vy2gxHoaHJhUQgQaJjHKh) | [Crystal Clear](https://open.spotify.com/album/1m37XnUy8Rv0VKiSa05Xcj) | 3:44 | 2022-07-29 | 2022-09-10 |
 | [Curura](https://open.spotify.com/track/2qrEyfQgY9KsKx7haqzo5S) | [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [Curura](https://open.spotify.com/album/5ownYiFYYBZXWGQJ4txRKf) | 2:22 | 2023-08-21 | 2023-10-14 |
-| [D.O.M.](https://open.spotify.com/track/2ra6kEjaiOJ9SG3z4siPc9) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [D.O.M.](https://open.spotify.com/album/5vvA0gQmuiPMZXkvhtAtMP) | 2:23 | 2025-10-09 |  |
+| [D.O.M.](https://open.spotify.com/track/2ra6kEjaiOJ9SG3z4siPc9) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [D.O.M.](https://open.spotify.com/album/5vvA0gQmuiPMZXkvhtAtMP) | 2:23 | 2025-10-09 | 2025-10-30 |
 | [D.O.M\. \- Bubbling Mix](https://open.spotify.com/track/3tFG2m9G26DLChleU4aWHR) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [D.O.M.](https://open.spotify.com/album/5vvA0gQmuiPMZXkvhtAtMP) | 2:23 | 2025-09-25 | 2025-10-09 |
 | [Damaru](https://open.spotify.com/track/0phauLON2YMdn7EJBxy22K) | [Diego Miranda](https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6), [Mëlbëc](https://open.spotify.com/artist/1sheUnPKG2ZarLC6f1MstP) | [Damaru](https://open.spotify.com/album/4H89g4DpPpX9lxxkjLCsIZ) | 3:31 | 2024-10-22 | 2024-11-30 |
 | [Dance All Night](https://open.spotify.com/track/6xfQjv4RvP5DVaxYYZCRTV) | [Jeckyll & Hyde](https://open.spotify.com/artist/4rBAiM4X8nQq5r8XkW4CM1) | [Dance All Night](https://open.spotify.com/album/1NZMme5AXFMvl8lxsbwPk6) | 2:46 | 2024-03-29 | 2024-05-11 |

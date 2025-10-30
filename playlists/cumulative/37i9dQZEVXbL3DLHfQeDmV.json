@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
+    },
+    {
+      "album": {
         "name": "bbno$",
         "url": "https://open.spotify.com/album/6NnOcPG7uLUSpJTS83Ra1T"
       },
@@ -513,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Halloween Trap Remixes 2025",
+        "url": "https://open.spotify.com/album/5twODzxoqQGWmFnSooVrsk"
+      },
+      "artists": [
+        {
+          "name": "Trap Remix Guys",
+          "url": "https://open.spotify.com/artist/5mJT67kG5MKy7byzJWMN7c"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79523,
+      "name": "Harry Potter - Trap Remix",
+      "url": "https://open.spotify.com/track/08mbeGhGSQaNheBe2DzpRc"
+    },
+    {
+      "album": {
         "name": "Head Shot / Gas In The Truck",
         "url": "https://open.spotify.com/album/3RZnt9xmpoUJC5RoxpPcqx"
       },
@@ -542,7 +578,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "How Was I supposed to Know?",
       "url": "https://open.spotify.com/track/5k6KdTBo6Pio5fonm9QZY6"
@@ -952,7 +988,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 110885,
       "name": "Paid to Exist",
       "url": "https://open.spotify.com/track/3wquNCH2wx2Lb9baWLVKpD"
@@ -1192,7 +1228,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 169472,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5"
@@ -1264,7 +1300,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 123770,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6"
@@ -1358,10 +1394,28 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 321387,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/3nY6mivFNJlCGSlMW9BAFH"
+    },
+    {
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/21ZDKTMPpqMhvDqMl26wVw"
+      },
+      "artists": [
+        {
+          "name": "The Soul Jazz Era",
+          "url": "https://open.spotify.com/artist/42q0fdRod6LWe1q9EdR4SA"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321312,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/3IOtEstEhsoZLYPStcysln"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbL3DLHfQeDmV"

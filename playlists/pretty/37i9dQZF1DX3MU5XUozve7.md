@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070,430 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070,624 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 74 | [Heart Attack American](https://open.spotify.com/track/0k483dcMGE6ylstRbUss1p) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(I\)](https://open.spotify.com/album/2lw3G0wkNGiKASHDAZp2s4) | 2:51 |
 | 75 | [Shoot the Moon](https://open.spotify.com/track/74Y2eYNC5SFEaekY8epIKR) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD) | 3:13 |
 | 76 | [Sugar Youth](https://open.spotify.com/track/62EiqO4OVS0v4H6Y3DtQ3e) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 1:54 |
-| 77 | [Cadillac](https://open.spotify.com/track/2INPZO3P759ZWNgRSmPBUS) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK) | [Destination Unknown \(PA Version\)](https://open.spotify.com/album/4UATOCWLlBFbKOvIHo8jOj) | 2:47 |
-| 78 | [Hurry Up & Die](https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [ROCKNROLL MACHINE](https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm) | 3:27 |
+| 77 | [Hurry Up & Die](https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [ROCKNROLL MACHINE](https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm) | 3:27 |
+| 78 | [Cadillac](https://open.spotify.com/track/2INPZO3P759ZWNgRSmPBUS) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK) | [Destination Unknown \(PA Version\)](https://open.spotify.com/album/4UATOCWLlBFbKOvIHo8jOj) | 2:47 |
 | 79 | [hollywood sucks//](https://open.spotify.com/track/1OGVFkHHzgupyil0N386Q5) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [hollywood sucks//](https://open.spotify.com/album/6EIefsY4fYzZZTGdrEEoH1) | 2:33 |
 | 80 | [Wrong Way](https://open.spotify.com/track/5cPfmNMC3AENizySC5oPu2) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q) | 2:16 |
 | 81 | [Punk Rock And Roll](https://open.spotify.com/track/2bwvIrD9qzR39vHHvYDasm) | [Street Dogs](https://open.spotify.com/artist/0spqoVkfVzRyAPmA6ZY5F9) | [Street Dogs \(Deluxe Edition\)](https://open.spotify.com/album/5MTaJz4tetHALsZ86ghDbC) | 2:34 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 86 | [Devil's Kind](https://open.spotify.com/track/1a6jJSAUgRwpUB7IrwxYOS) | [The Longshot](https://open.spotify.com/artist/6MBlO0toUKQKFi5g0z4u3O) | [Devil's Kind](https://open.spotify.com/album/3z0DqLSBK7xU8SnSYpECps) | 3:01 |
 | 87 | [Knifeman](https://open.spotify.com/track/3jGUd86f3hLJixceqMxHWi) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(III\)](https://open.spotify.com/album/1wV7SCqsLLBObCcrPpc6sZ) | 3:55 |
 | 88 | [Drink](https://open.spotify.com/track/59znVm3764cY4xwUaychMN) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Drink](https://open.spotify.com/album/2HLp80sHFphInGSgbTWdqd) | 3:42 |
-| 89 | [SOS](https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 3:19 |
-| 90 | [smoke break//](https://open.spotify.com/track/1P9VGEZN9L7YbIlsENOtJW) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 3:02 |
+| 89 | [smoke break//](https://open.spotify.com/track/1P9VGEZN9L7YbIlsENOtJW) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 3:02 |
+| 90 | [SOS](https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 3:19 |
 | 91 | [Ac/Dc CD](https://open.spotify.com/track/7quz7tumpgpHaywZaAgUcH) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [AC/DC CD](https://open.spotify.com/album/7AkV4FSIs35jgf2dkWGNWL) | 1:43 |
 | 92 | [Scream Out](https://open.spotify.com/track/78MLd7i4qcG2nknFGRdjjZ) | [The Unseen](https://open.spotify.com/artist/6xEMoIJbN8zgmMpv6Nzt5Z) | [State Of Discontent](https://open.spotify.com/album/38d0nvXUkE55M9vozj9XSS) | 2:51 |
 | 93 | [Nothing Can Stop Me](https://open.spotify.com/track/0ziRMfe23VgL3Gp619AXU4) | [Ignite](https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr) | [A War Against You](https://open.spotify.com/album/1YucLjJNiClZ4C0J3Zi8ao) | 3:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,850 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,876 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 29 | [VEJA BABY \- Versão Alternativa](https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [VEJA BABY \(Versão Alternativa\)](https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ) | 3:22 |
 | 30 | [Rock It](https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Rock It](https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY) | 3:27 |
 | 31 | [A Encomenda da Minha Vida](https://open.spotify.com/track/4hYcZfeUkOw4GoV5APKMdV) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [A Encomenda da Minha Vida](https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR) | 2:58 |
-| 32 | [Leve](https://open.spotify.com/track/0vARspjQ7NZqbFsbI2NqeI) | [Badulaque](https://open.spotify.com/artist/0dAAgcwcLoZkVH9EYgTIrr) | [Leve](https://open.spotify.com/album/1FnlISBProVpJR4idoV4Ag) | 3:08 |
-| 33 | [Não Te Largo, Não Te Troco \- Acústico](https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Não Te Largo, Não Te Troco \(Acústico\)](https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX) | 3:50 |
+| 32 | [Não Te Largo, Não Te Troco \- Acústico](https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Não Te Largo, Não Te Troco \(Acústico\)](https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX) | 3:50 |
+| 33 | [Leve](https://open.spotify.com/track/0vARspjQ7NZqbFsbI2NqeI) | [Badulaque](https://open.spotify.com/artist/0dAAgcwcLoZkVH9EYgTIrr) | [Leve](https://open.spotify.com/album/1FnlISBProVpJR4idoV4Ag) | 3:08 |
 | 34 | [Cafuné](https://open.spotify.com/track/7zjKBYb0C2NxGWLBmrveQl) | [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Cafuné](https://open.spotify.com/album/5iSqDjYcmolXIVFqInrgFl) | 2:02 |
 | 35 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
 | 36 | [Ponto de Vista](https://open.spotify.com/track/1UMDEJN3JtYmSQXoO1HUc5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [FIM](https://open.spotify.com/album/2jh6gWgvkanar5rjM3g1ow) | 3:02 |
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 45 | [O Segundo Sol](https://open.spotify.com/track/4B1A052R2n4HGE9JeieF5K) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [DUDA BEAT & NANDO REIS](https://open.spotify.com/album/4VbIJk7efjjzApqlSeEIra) | 4:22 |
 | 46 | [Passageiro](https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Passageiro](https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm) | 3:39 |
 | 47 | [Ímpar](https://open.spotify.com/track/3vXKSy1vWDvl6DeKUxxpaG) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Amores E Flores](https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne) | 3:30 |
-| 48 | [Eu Nasci Pra Você](https://open.spotify.com/track/06vVPyS7i9LBu6eoBgCBqf) | [Teago Oliveira](https://open.spotify.com/artist/02MYQC9MXXfOcrIwvc4dIS) | [Canções do Velho Mundo](https://open.spotify.com/album/7p7mpxc8y8SWZFDuXhoENq) | 3:36 |
+| 48 | [Não Tem Lua](https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Juliana Linhares](https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN) | [Não Tem Lua](https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh) | 2:59 |
 | 49 | [Mesma Sensação](https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f) | [GEORGIA](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Mesma Sensação](https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500) | 3:14 |
-| 50 | [Não Tem Lua](https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Juliana Linhares](https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN) | [Não Tem Lua](https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh) | 2:59 |
-| 51 | [deixa que eu já vou](https://open.spotify.com/track/4td0kvJluzs9IeqnASVllo) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [deixa que eu já vou](https://open.spotify.com/album/744yL93oUhidi5dTt32T7z) | 3:18 |
-| 52 | [A Day in the Life](https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Milton + esperanza](https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar) | 4:36 |
+| 50 | [Eu Nasci Pra Você](https://open.spotify.com/track/06vVPyS7i9LBu6eoBgCBqf) | [Teago Oliveira](https://open.spotify.com/artist/02MYQC9MXXfOcrIwvc4dIS) | [Canções do Velho Mundo](https://open.spotify.com/album/7p7mpxc8y8SWZFDuXhoENq) | 3:36 |
+| 51 | [A Day in the Life](https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Milton + esperanza](https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar) | 4:36 |
+| 52 | [deixa que eu já vou](https://open.spotify.com/track/4td0kvJluzs9IeqnASVllo) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [deixa que eu já vou](https://open.spotify.com/album/744yL93oUhidi5dTt32T7z) | 3:18 |
 | 53 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
 | 54 | [Medo de Avião](https://open.spotify.com/track/6NNHvJiNoWUOB6QthRA7S1) | [Ana Cañas](https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz) | [Ana Cañas Canta Belchior](https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K) | 4:33 |
-| 55 | [Minha Opinião](https://open.spotify.com/track/6rK1HZYFcmB6UKcWVuG2Jf) | [Lara Estelita](https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH) | [Minha Opinião](https://open.spotify.com/album/5QCfoe3PWZi7907yAlMMrU) | 3:40 |
-| 56 | [Sol de São Paulo](https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp) | [Jay Horsth](https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B) | [Sol de São Paulo](https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y) | 2:54 |
+| 55 | [Sol de São Paulo](https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp) | [Jay Horsth](https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B) | [Sol de São Paulo](https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y) | 2:54 |
+| 56 | [Minha Opinião](https://open.spotify.com/track/6rK1HZYFcmB6UKcWVuG2Jf) | [Lara Estelita](https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH) | [Minha Opinião](https://open.spotify.com/album/5QCfoe3PWZi7907yAlMMrU) | 3:40 |
 | 57 | [Açaí](https://open.spotify.com/track/6K73fSY0NIXJ39rBXw5Nf3) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:43 |
-| 58 | [itajaí](https://open.spotify.com/track/1YORvtFKmOyLdDkr3BE1w8) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [itajaí](https://open.spotify.com/album/3AYHSnmSBTiVmrx0aSAOwF) | 2:32 |
-| 59 | [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 |
-| 60 | [Espelho](https://open.spotify.com/track/51240EZPieH7ahE2B7IFJv) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Espelho](https://open.spotify.com/album/5zn0vUxrEK2ffmPFKl41Nw) | 2:11 |
+| 58 | [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 |
+| 59 | [itajaí](https://open.spotify.com/track/1YORvtFKmOyLdDkr3BE1w8) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [itajaí](https://open.spotify.com/album/3AYHSnmSBTiVmrx0aSAOwF) | 2:32 |
+| 60 | [Todo Azul](https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Todo Azul](https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S) | 2:32 |
 
 Snapshot ID: `AAAAADXzka2LzYP/XdOAkUQJAXeOM/2K`

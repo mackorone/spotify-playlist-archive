@@ -393,6 +393,32 @@
     },
     {
       "album": {
+        "name": "Berghain",
+        "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178853,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
+    },
+    {
+      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
       },
@@ -480,7 +506,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 305703,
       "name": "Blissing Me",
       "url": "https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC"
@@ -752,7 +778,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 399080,
       "name": "Crystalline - Omar Souleyman Remix",
       "url": "https://open.spotify.com/track/1Vi97HM3mDyEQuUoHw4KxS"
@@ -770,7 +796,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 253453,
       "name": "Declare Independence",
       "url": "https://open.spotify.com/track/2ggYtCBapu8Oo6UyECsvsG"
@@ -918,7 +944,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 259064,
       "name": "Fossora",
       "url": "https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK"
@@ -1922,7 +1948,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 218154,
       "name": "Ovule",
       "url": "https://open.spotify.com/track/4mX0h2W7mxcIBh6anDsZMq"
@@ -2560,7 +2586,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 244213,
       "name": "Triumph Of A Heart",
       "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
@@ -2860,7 +2886,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 237346,
       "name": "Who Is It (Carry My Joy On The Left, Carry My Pain On The Right)",
       "url": "https://open.spotify.com/track/7nG7rmmtnAliibLwklkLkb"

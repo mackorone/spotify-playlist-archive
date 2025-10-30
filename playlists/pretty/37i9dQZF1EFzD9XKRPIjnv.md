@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,312 likes - 155 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,314 likes - 155 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 54 | [Pick U Up](https://open.spotify.com/track/2UbuXuTdSC0oR0upCbiLx2) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Pick U Up](https://open.spotify.com/album/7414qD6qDgp0dsbD8LuPEt) | 3:02 |
 | 55 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
 | 56 | [F You I Love You \(feat\. Teyana Taylor\)](https://open.spotify.com/track/27aGlicHJKf5QY20looYlR) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Light of Mine \(Deluxe\)](https://open.spotify.com/album/4UYc2CKvpyr2e1moEY6TL0) | 3:56 |
-| 57 | [move!](https://open.spotify.com/track/5w0zeX3eITqzFU2U112T6Q) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [wanna take this downtown?](https://open.spotify.com/album/4hOt0i0gET0PSwVyNYy25j) | 2:36 |
-| 58 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:15 |
+| 57 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:15 |
+| 58 | [move!](https://open.spotify.com/track/5w0zeX3eITqzFU2U112T6Q) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [wanna take this downtown?](https://open.spotify.com/album/4hOt0i0gET0PSwVyNYy25j) | 2:36 |
 | 59 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 |
 | 60 | [Wishful Thinking](https://open.spotify.com/track/1vJKO2Phq0XB5MoZ6iMx8x) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:40 |
 | 61 | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/track/4jSE5cAaa5rwTyhDSXfwQN) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/album/66wHES29CUsAIaWHkusEka) | 3:58 |
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 92 | [Oblivion](https://open.spotify.com/track/1grOl5UNPBMDtrW96KbNdH) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:28 |
 | 93 | [Together Now](https://open.spotify.com/track/0wGlWyLEXXjeBTpNIPFii0) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [TROLLS Holiday In Harmony](https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT) | 2:56 |
 | 94 | [Céline](https://open.spotify.com/track/7qOlu9FO9p9gphX8hMnO7a) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:25 |
-| 95 | [Bedroom](https://open.spotify.com/track/1XsdYesbGlCoCVgCDF9M88) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Bedroom \- EP](https://open.spotify.com/album/54fyCZL6OtWyBWf9DlQDNW) | 3:34 |
-| 96 | [For Her](https://open.spotify.com/track/62qXENYDqMT6CLE6Ri6WHp) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 5:26 |
-| 97 | [Afterthought](https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:01 |
+| 95 | [Afterthought](https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:01 |
+| 96 | [Bedroom](https://open.spotify.com/track/1XsdYesbGlCoCVgCDF9M88) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Bedroom \- EP](https://open.spotify.com/album/54fyCZL6OtWyBWf9DlQDNW) | 3:34 |
+| 97 | [For Her](https://open.spotify.com/track/62qXENYDqMT6CLE6Ri6WHp) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 5:26 |
 | 98 | [From Scratch](https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:25 |
 | 99 | [Smoke & Mirrors](https://open.spotify.com/track/5olgfv0LjMoUtFe11djz32) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me \(Deluxe\)](https://open.spotify.com/album/3wtzx00sWy8JmQbYXmBa6S) | 3:56 |
 | 100 | [My Kind Of Woman](https://open.spotify.com/track/4QKEdRuZXSSOIFslnWs0Zt) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [The Playlist EP](https://open.spotify.com/album/6t9XXMUjsFc5yuzbA8JfyK) | 3:49 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 154 | [With You Now](https://open.spotify.com/track/4kDyintdUy4pLjF8Dz1wQI) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/1E5oM65g5S0QpdbAzuiPrs) | 3:36 |
 | 155 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 
-Snapshot ID: `AcAGfgAAAACe3efTX5jkt+4dG2zifAwh`
+Snapshot ID: `AcAMWgAAAACuRDwl/EoUj3GkirCeejJC`

@@ -406,7 +406,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 174013,
       "name": "Intermezzo No. 1 in E Minor",
       "url": "https://open.spotify.com/track/150Bw3QbPjlFcjmfJojLLf"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 404426,
       "name": "Jasmine Flower (Arr. Schindler for Piano)",
       "url": "https://open.spotify.com/track/5e1AEXbrepdeMVB8YuRtNQ"
@@ -1172,10 +1172,32 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 139306,
       "name": "The Well-Tempered Clavier I, Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
       "url": "https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude",
+        "url": "https://open.spotify.com/album/638fM7ibl3YWInMONVwmse"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139306,
+      "name": "The Well-Tempered Clavier I, Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
+      "url": "https://open.spotify.com/track/4i8ly7ffzWu8nfKLI8SZFj"
     },
     {
       "album": {

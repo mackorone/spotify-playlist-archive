@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc99 with AFROJACK, Martin Garrix, David Guetta, and Am\u00e9l",
-  "num_followers": 431859,
+  "num_followers": 432122,
   "original_name": "EDM 2025",
   "owner": {
     "name": "Spotify",
@@ -1180,7 +1180,7 @@
           "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 144648,
+      "duration_ms": 144500,
       "name": "Deep In Your Love",
       "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
     },
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2025-10-24 04:00:31",
       "album": {
+        "name": "DNCR / imprint",
+        "url": "https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 187434,
+      "name": "DNCR",
+      "url": "https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA"
+    },
+    {
+      "added_at": "2025-10-24 04:00:31",
+      "album": {
         "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
         "url": "https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 123624,
       "name": "Fire!",
       "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
-    },
-    {
-      "added_at": "2025-10-24 04:00:31",
-      "album": {
-        "name": "DNCR / imprint",
-        "url": "https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 187434,
-      "name": "DNCR",
-      "url": "https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA"
     },
     {
       "added_at": "2025-10-24 04:00:31",
@@ -1807,30 +1807,6 @@
     {
       "added_at": "2025-10-24 04:00:31",
       "album": {
-        "name": "Better Off (Alone, Pt. III)",
-        "url": "https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Vikkstar",
-          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
-        }
-      ],
-      "duration_ms": 151702,
-      "name": "Better Off (Alone, Pt. III)",
-      "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
-    },
-    {
-      "added_at": "2025-10-24 04:00:31",
-      "album": {
         "name": "Euphoria (with Alok)",
         "url": "https://open.spotify.com/album/3lFUdKS5aaxORrnAzj7XIp"
       },
@@ -1855,6 +1831,30 @@
       "duration_ms": 151818,
       "name": "Euphoria (with Alok)",
       "url": "https://open.spotify.com/track/2Fv1x10CiHukDdu96CYeHc"
+    },
+    {
+      "added_at": "2025-10-24 04:00:31",
+      "album": {
+        "name": "Better Off (Alone, Pt. III)",
+        "url": "https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
+        }
+      ],
+      "duration_ms": 151702,
+      "name": "Better Off (Alone, Pt. III)",
+      "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
     },
     {
       "added_at": "2025-10-24 04:00:31",
@@ -2072,7 +2072,7 @@
           "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 150027,
+      "duration_ms": 150000,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/48dpaw8uNJOaOQqh4tuk7p"
     },
@@ -2123,22 +2123,26 @@
     {
       "added_at": "2025-10-24 04:00:31",
       "album": {
-        "name": "The End Of Genesys",
-        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+        "name": "I Remember (John Summit Remix)",
+        "url": "https://open.spotify.com/album/5lCL6lNKV2GPQM5uIgDm03"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         },
         {
-          "name": "Luke Steele",
-          "url": "https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         }
       ],
-      "duration_ms": 190726,
-      "name": "Human Now (feat. Luke Steele)",
-      "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
+      "duration_ms": 240000,
+      "name": "I Remember - John Summit Remix",
+      "url": "https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz"
     },
     {
       "added_at": "2025-10-24 04:00:31",
@@ -2163,26 +2167,22 @@
     {
       "added_at": "2025-10-24 04:00:31",
       "album": {
-        "name": "I Remember (John Summit Remix)",
-        "url": "https://open.spotify.com/album/5lCL6lNKV2GPQM5uIgDm03"
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Luke Steele",
+          "url": "https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0"
         }
       ],
-      "duration_ms": 240000,
-      "name": "I Remember - John Summit Remix",
-      "url": "https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz"
+      "duration_ms": 190726,
+      "name": "Human Now (feat. Luke Steele)",
+      "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
     }
   ],
   "unique_name": "EDM 2025",

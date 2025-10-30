@@ -1,12 +1,12 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 9069,
+  "num_followers": 9071,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAASSRNU8OGMqegy37L/EmHT",
+  "snapshot_id": "aQAHgAAAAAA4/ID3FWrW3zIgeev2mI+Q",
   "tracks": [
     {
       "added_at": null,
@@ -83,8 +83,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waste of Lime",
-        "url": "https://open.spotify.com/album/3gGqLSlnwFU6mBJ7WG4D3B"
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
       "artists": [
         {
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 188106,
-      "name": "Waste of Lime",
-      "url": "https://open.spotify.com/track/5KNQ5MHkfr1Nc9TW8ht9tO"
+      "duration_ms": 196162,
+      "name": "Feel Like This",
+      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
     },
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+        "name": "Waste of Lime",
+        "url": "https://open.spotify.com/album/3gGqLSlnwFU6mBJ7WG4D3B"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 196162,
-      "name": "Feel Like This",
-      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
+      "duration_ms": 188106,
+      "name": "Waste of Lime",
+      "url": "https://open.spotify.com/track/5KNQ5MHkfr1Nc9TW8ht9tO"
     },
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "On Fire (Ingrid Andress Version)",
-      "url": "https://open.spotify.com/track/3wcSCQ0ukXVpSzHjILHlGZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good As Gone",
         "url": "https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 187341,
       "name": "Good As Gone",
       "url": "https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "On Fire (Ingrid Andress Version)",
+      "url": "https://open.spotify.com/track/3wcSCQ0ukXVpSzHjILHlGZ"
     },
     {
       "added_at": null,

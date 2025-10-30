@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,392 songs - 12 day 13 hr 17 min
+5,396 songs - 12 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Back to Life](https://open.spotify.com/track/5Tpqbk3UoaedBF8Z8hNfsq) | [Hilary Roberts](https://open.spotify.com/artist/24YMDJn7c34S76v0pDlgkw) | [Hilary Roberts](https://open.spotify.com/album/0KPyLj972hoeZyrUJaWrg2) | 3:16 | 2024-02-04 | 2024-02-16 |
 | [Back to U](https://open.spotify.com/track/6Dc4wwe3oM62tJV2UOfuay) | [Cameron Sage From](https://open.spotify.com/artist/5708zIMPEnIoEELZNNX6h7) | [Back to U](https://open.spotify.com/album/1HxygMphg2XS1bMv6j2AO7) | 3:15 | 2024-07-27 | 2024-08-08 |
 | [Back to You](https://open.spotify.com/track/4AvX6L0bKiHsyn2idojP9L) | [OH DETROIT](https://open.spotify.com/artist/38ixkgrMcC8pKV0GxpolTR), [Holly Petrie](https://open.spotify.com/artist/1D8JLcZZlONOEL5QY8FZ1r), [Aaron Sokell](https://open.spotify.com/artist/48lqiHffqeGdUbZ8c4h2ym) | [Back to You](https://open.spotify.com/album/2bWhSiFRj9AE9KnHD3QAQ7) | 3:36 | 2020-09-08 | 2020-09-22 |
+| [Back To You](https://open.spotify.com/track/0FhkCNueW9luZor6Fld58p) | [Sophia Wells](https://open.spotify.com/artist/0CqZRjHvwgJ9RhQwPrfsap) | [Back To You](https://open.spotify.com/album/621XvwpJl561ZbXo6J0Nzj) | 4:07 | 2025-10-29 |  |
 | [Back Up](https://open.spotify.com/track/0wAK1EVuMhyz9QyEDDZ1GE) | [Freakonamics](https://open.spotify.com/artist/3Q3uTDE77tN1o0Mjpm7TAk) | [Back Up](https://open.spotify.com/album/4sXfkZc0cUvZ1iM01emOFu) | 2:46 | 2021-03-19 | 2021-04-04 |
 | [Backseat](https://open.spotify.com/track/5omexKXswmpwcF8pqt7kJz) | [Lauren Waller](https://open.spotify.com/artist/1dfsoRdxexXO4hVr8XY6Y8) | [Talking to Myself](https://open.spotify.com/album/4gTc7VIUtcCNVJywAoSNko) | 2:52 | 2023-05-26 | 2023-06-17 |
 | [Backseat](https://open.spotify.com/track/0IDmpYvVJyQgYVVxf8TEMg) | [Louise Goffin](https://open.spotify.com/artist/03sAQYI6xlXSc3bsFU9RCC) | [Backseat](https://open.spotify.com/album/3BIgrmbVxsVjsfL0d5a0WW) | 3:09 | 2025-02-26 | 2025-03-10 |
@@ -3480,6 +3481,7 @@
 | [Outside of Us](https://open.spotify.com/track/5Lz9hBk7YF4E52VNMcUL4S) | [Sasha Sky](https://open.spotify.com/artist/1oEWS0flnmCRKutZMCnsWX) | [Outside of Us](https://open.spotify.com/album/2U5GjrBaRcWjqoiWw6LMVy) | 3:41 | 2024-11-07 | 2024-11-21 |
 | [Outta My Head](https://open.spotify.com/track/29hzYlFXKodzAT46DymQEq) | [Perrin](https://open.spotify.com/artist/13iZhlxhznbmvqO0an4FiN) | [Outta My Head \(Single Pack\)](https://open.spotify.com/album/4FCmSMeDC3OXrwLu0deeZc) | 3:00 | 2024-11-18 | 2024-11-30 |
 | [Outta My Head](https://open.spotify.com/track/6hYsdQ4Ud56goejoqZSj3L) | [Rawdolff](https://open.spotify.com/artist/1uOdznwRu5THtldbzDFTGX), [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Outta My Head](https://open.spotify.com/album/40v4LbJn8Vi7iCMlNspM7v) | 2:52 | 2021-05-21 | 2021-06-06 |
+| [OUTTA YOUR MIND](https://open.spotify.com/track/7Co2H1e4aOidZddRcUOkRK) | [Midnight Pool Party](https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z) | [OUTTA YOUR MIND](https://open.spotify.com/album/2eMtcAvN9ARn5ZgWXU5d60) | 3:36 | 2025-10-29 |  |
 | [Over and Over](https://open.spotify.com/track/2BODXOk8X37RsVZYJd8FXr) | [Anchored Collective](https://open.spotify.com/artist/5V0Y3BgVcnrxJCioMr1mvw), [Arsnøvä](https://open.spotify.com/artist/3vhqqkOtusdgbpr9336aFA), [Jordan Michael](https://open.spotify.com/artist/6l2M8zaAX04yO8DdayNVEP) | [Over and Over](https://open.spotify.com/album/6Ei8dCF1Pu6ehVKdKEDH5f) | 2:29 | 2023-06-22 | 2023-07-15 |
 | [Over It](https://open.spotify.com/track/14ncjajc7MH3h9v9o5vALT) | [OFATE](https://open.spotify.com/artist/49MMXFnJwmXEs6mmn3su2e) | [It Was Fate](https://open.spotify.com/album/18m5RJbSMsfpWg1I4UffsP) | 2:00 | 2025-07-29 | 2025-08-28 |
 | [Over It](https://open.spotify.com/track/2PNrzDBfyIhi39TTU9SwmS) | [Sapphire](https://open.spotify.com/artist/3kgXmmWI2exkLeJa8rgpDw), [Font Leroy](https://open.spotify.com/artist/0anijDuQo24oWERSkIG6VV) | [Over It](https://open.spotify.com/album/08jtyOOWVvnjDkT3UIPpzN) | 2:28 | 2025-02-19 | 2025-03-03 |
@@ -4055,6 +4057,7 @@
 | [Shades of Red](https://open.spotify.com/track/32gfcttbZKV36VW3SKw7fG) | [telco](https://open.spotify.com/artist/6M6obxInga7XUzdpC7irmd) | [My Name Is Not Kaiser](https://open.spotify.com/album/4HVdgHNTCh47P0UAen7MwU) | 3:35 | 2020-09-05 | 2020-09-16 |
 | [Shadow](https://open.spotify.com/track/1keltSbtxb5JeAiCfcVYeh) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Shadow](https://open.spotify.com/album/7n4NbaMVbblA9sIMzVXaej) | 2:51 | 2024-07-12 | 2024-08-11 |
 | [Shadows and Illusions](https://open.spotify.com/track/2PS8qQwAfL7xt3LWsQ13cy) | [Farah Camille](https://open.spotify.com/artist/2oGN4zBzijzBIYvcTNTMZ2) | [Shadows and Illusions](https://open.spotify.com/album/2Uq1c6OE441UdGGafFBUKD) | 3:50 | 2023-03-09 | 2023-04-02 |
+| [Shadows in the Shade](https://open.spotify.com/track/5OYwZXAaT4TlhzRzNDZQu2) | [Sounds of Roo](https://open.spotify.com/artist/1i8dGxAJcYqOwR9N8gdz92) | [Shadows in the Shade](https://open.spotify.com/album/047XVQo9BAVInbhj3v1ckR) | 3:30 | 2025-10-29 |  |
 | [Shake](https://open.spotify.com/track/0NDBXpGQaF4DhDGzFZyMc0) | [Meagher](https://open.spotify.com/artist/2CTpu5JuIZ0hWInDZ5JfA1) | [Shake](https://open.spotify.com/album/3dI7Nme7IkKWwdWJzYQafK) | 2:03 | 2025-06-26 | 2025-07-08 |
 | [Shake Me](https://open.spotify.com/track/5DVptkujQ0eKD1nyTQbIMV) | [The Wonderlands](https://open.spotify.com/artist/5d9MnG7M9Kj02Aa8XQ06mA) | [Shake Me](https://open.spotify.com/album/22E36tAop2YOoHehVdp7dG) | 4:11 | 2023-02-24 | 2023-03-20 |
 | [Shake What Your Mama](https://open.spotify.com/track/4KLiNPRah1bWQyisb2NtoS) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [I'll Be Fine](https://open.spotify.com/album/1MPItEak5Jl1DOupPmKsjj) | 2:47 | 2021-08-31 | 2021-09-16 |
@@ -4397,6 +4400,7 @@
 | [Summer Night](https://open.spotify.com/track/7jUynCzPsg88q5RaT6wmlB) | [whoiswelanski](https://open.spotify.com/artist/2eQWwmvgwyOn6Qh8m1TwN2) | [Summer Night](https://open.spotify.com/album/6obLtylURaybwcV1NeicVM) | 3:40 | 2023-09-15 | 2023-12-14 |
 | [Summer Nights](https://open.spotify.com/track/6wugo04WKfKrP3yqA3q3RH) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Summer Nights](https://open.spotify.com/album/0DR9YcbOqzLOLmZ0oX1QKU) | 2:39 | 2021-10-01 | 2021-10-20 |
 | [Summer Of 21'](https://open.spotify.com/track/6yjeMfISrvInGUMtoT0Yak) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [Summer Of 21'](https://open.spotify.com/album/09teGR79HLyPamFoBKyQve) | 3:09 | 2021-09-24 | 2021-11-19 |
+| [Summer Rain](https://open.spotify.com/track/0NogzhrSyGF10iDdxhYsgn) | [Ross Carlo](https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4) | [Summer Rain](https://open.spotify.com/album/1N02cw4Zj5zYY0UVyLGUxg) | 2:56 | 2025-10-29 |  |
 | [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 | 2023-06-08 | 2023-06-23 |
 | [Summer Slumber](https://open.spotify.com/track/3m0KltLE00jILVEB8SN86i) | [Wovenhome](https://open.spotify.com/artist/10voseQUPYg95GMDV5kKXp), [Orthel](https://open.spotify.com/artist/1FaxDBz1WtMGmevapmUPqZ) | [Summer Slumber](https://open.spotify.com/album/0DNOelMgZ1tpDi2ZQ47xdk) | 3:02 | 2022-06-03 | 2022-06-19 |
 | [Summer Somewhere](https://open.spotify.com/track/5gXjWGcfXAXCtGIRvwtqmY) | [Monsieur Jovoni](https://open.spotify.com/artist/3xuKlsLk8I0Ch7gtyTKD2I), [J.Rovia](https://open.spotify.com/artist/5sF66VPWENlJu10egkIi2k) | [Shonan Drip](https://open.spotify.com/album/4t8kA7oUIwzsl8hF0G4wwd) | 2:16 | 2022-06-03 | 2022-06-19 |

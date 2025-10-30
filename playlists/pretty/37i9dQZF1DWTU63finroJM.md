@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Victor Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,623 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,630 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 10 | [Sana](https://open.spotify.com/track/1HRq9gouGsn78384HYBKsN) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Sana](https://open.spotify.com/album/2zdv3fWQ8jcd2Jfwd0E5px) | 2:42 |
 | 11 | [get better!](https://open.spotify.com/track/2FElV26FnQwjsGzmkh4Dom) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [get better!](https://open.spotify.com/album/44DDyYBv1WXPKfStRoCXPl) | 2:17 |
 | 12 | [Bolo Bolo](https://open.spotify.com/track/3dYnYRTcJSfELlIH3mgNOl) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Sweetburn](https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX) | 3:57 |
-| 13 | [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 |
-| 14 | [WIE?](https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [WIE?](https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj) | 2:46 |
+| 13 | [WIE?](https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [WIE?](https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj) | 2:46 |
+| 14 | [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 |
 | 15 | [Hey You](https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Hey You](https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2) | 3:31 |
 | 16 | [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 |
 | 17 | [Goodbye, My Summer](https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:56 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 21 | [Echoes](https://open.spotify.com/track/0VM4421vCWFJaLeLq1C33b) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Echoes](https://open.spotify.com/album/2t0tzhydw5GN4WiYmqNBts) | 3:14 |
 | 22 | [Drugs Don't Work](https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Hope Came Last](https://open.spotify.com/album/435kjRF6b4PhhLa8cadcLC) | 2:16 |
 | 23 | [When We Play](https://open.spotify.com/track/7bZzYTtOpjYtGi9fd4HFjc) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Xolani Guitars](https://open.spotify.com/artist/0fXj3KTK2tXbxUImfJEF9I) | [Gods window, Pt\. 1](https://open.spotify.com/album/2qDpWACZJ81rK6BJP8aoWD) | 8:33 |
-| 24 | [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 |
-| 25 | [MOMENTO](https://open.spotify.com/track/0lKSSNUWk7baSbP5tbiqnd) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Prayers](https://open.spotify.com/artist/7a0G4CC3dZdKAAzVRnaRGu) | [MOMENTO](https://open.spotify.com/album/5coYkHMjR7MZY6FNh6yDaA) | 2:50 |
+| 24 | [MOMENTO](https://open.spotify.com/track/0lKSSNUWk7baSbP5tbiqnd) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Prayers](https://open.spotify.com/artist/7a0G4CC3dZdKAAzVRnaRGu) | [MOMENTO](https://open.spotify.com/album/5coYkHMjR7MZY6FNh6yDaA) | 2:50 |
+| 25 | [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 |
 | 26 | [Vanity](https://open.spotify.com/track/0AU2a60eNXKv2XP3CkXyos) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Vanity](https://open.spotify.com/album/2r1SLo3tTmw7w1omWMUlkW) | 3:30 |
 | 27 | [Coups de soleil](https://open.spotify.com/track/7z4oEyhuIL5jB45mL4bKLX) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Coups de soleil](https://open.spotify.com/album/1P9eGJfPY8ZYPdVZOndFcm) | 2:27 |
 | 28 | [Seasons](https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Seasons](https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0) | 2:45 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 40 | [favourite jeans](https://open.spotify.com/track/4AuTXxUCBb3hUTowdXTRtm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [25](https://open.spotify.com/album/1mNdKc1N4YKzkLcUNh1vxf) | 3:28 |
 | 41 | [PIZZA PARTY](https://open.spotify.com/track/6R3NX7RBEqt2552Wr0AeIj) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [ESPECTACULAR](https://open.spotify.com/album/60cgkcmF1mxBx2fiB0rz5U) | 2:40 |
 | 42 | [Ingatlah Aku Di Sini](https://open.spotify.com/track/5PGwDL5zm7JpfM8kfg5ebw) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [do you guys \*still\* wanna listen to some electro\-pop music?](https://open.spotify.com/album/2ENuqRm2NrJnLfR2V5ZyK2) | 3:06 |
-| 43 | [RICH](https://open.spotify.com/track/0APma3TkPygErSuwg8y9nn) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [RICH](https://open.spotify.com/album/5As5b3LJnMumsTkQM00x7h) | 2:50 |
-| 44 | [Kaisi Ye Aandhi Thee](https://open.spotify.com/track/7h1OtQaJ6HVMNVPYbNmH7p) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Kaisi Ye Aandhi Thee](https://open.spotify.com/album/1fdzdvL1O03xY27LOxbpkU) | 3:48 |
+| 43 | [Kaisi Ye Aandhi Thee](https://open.spotify.com/track/7h1OtQaJ6HVMNVPYbNmH7p) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Kaisi Ye Aandhi Thee](https://open.spotify.com/album/1fdzdvL1O03xY27LOxbpkU) | 3:48 |
+| 44 | [RICH](https://open.spotify.com/track/0APma3TkPygErSuwg8y9nn) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [RICH](https://open.spotify.com/album/5As5b3LJnMumsTkQM00x7h) | 2:50 |
 | 45 | [twenty three](https://open.spotify.com/track/3CrSjYWQn1MYLDRbNaBzzn) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD), [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [twenty three](https://open.spotify.com/album/3UXfEeyTSTziQL6AVITSsA) | 3:49 |
 | 46 | [Pengagum](https://open.spotify.com/track/4bDVT4vPR2KM2RdOV4mTJL) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Hari Ini, Esok & Selamanya](https://open.spotify.com/album/51KxSLuGPuEtWNcAVgpSkZ) | 4:44 |
 | 47 | [Thua Người Ta](https://open.spotify.com/track/0jtKXWSesIai271sQT6VBC) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [Thua Người Ta](https://open.spotify.com/album/3SFXrBYmq1KiykPeasXh1L) | 3:14 |

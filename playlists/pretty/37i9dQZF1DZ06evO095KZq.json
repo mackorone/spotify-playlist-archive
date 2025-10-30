@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 446165,
+  "num_followers": 446189,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAABk2ohxBv5t8AYBAS+e1SUw",
+  "snapshot_id": "aQAHgAAAAAC5fe+jjPpaQAve2cKOHiQ9",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa las Baby's Y Belikeada",
-        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
       },
       "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 164491,
-      "name": "GDL",
-      "url": "https://open.spotify.com/track/6MYMoJJFzRb1R7hRR2iYL1"
+      "duration_ms": 159613,
+      "name": "Dolor y Amor",
+      "url": "https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398"
     },
     {
       "added_at": null,
@@ -283,18 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolor y Amor",
-        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+        "name": "Pa las Baby's Y Belikeada",
+        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
       "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 159613,
-      "name": "Dolor y Amor",
-      "url": "https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398"
+      "duration_ms": 164491,
+      "name": "GDL",
+      "url": "https://open.spotify.com/track/6MYMoJJFzRb1R7hRR2iYL1"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "10 Kilates (Con Norte\u00f1o)",
+        "url": "https://open.spotify.com/album/3bTNvG7R2BbLUE9zyaLCPt"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 167282,
+      "name": "El Perseverante",
+      "url": "https://open.spotify.com/track/2Kn1fCHlf6ODnYKqCSfBni"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UVV Vol. 8 (En Vivo)",
         "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 194000,
       "name": "Fuerza (En Vivo)",
       "url": "https://open.spotify.com/track/7BYqMtURItgUntm7rkj7jz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "10 Kilates (Con Norte\u00f1o)",
-        "url": "https://open.spotify.com/album/3bTNvG7R2BbLUE9zyaLCPt"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 167282,
-      "name": "El Perseverante",
-      "url": "https://open.spotify.com/track/2Kn1fCHlf6ODnYKqCSfBni"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 152762,
+      "name": "Catarino y los Rurales",
+      "url": "https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dolor y Amor",
         "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 167338,
       "name": "El Mes de Mayo",
       "url": "https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' los Recuerdos, Vol. 2",
-        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 152762,
-      "name": "Catarino y los Rurales",
-      "url": "https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ceja Levantada",
-        "url": "https://open.spotify.com/album/3N9aY6oiHHrSYmXO8ccJvr"
-      },
-      "artists": [
-        {
-          "name": "Alemi Bustos",
-          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 174742,
-      "name": "El Ceja Levantada",
-      "url": "https://open.spotify.com/track/6QdZj30JB1Va41Pn75Km1B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Zorro",
         "url": "https://open.spotify.com/album/4HMkP0BVe9AzwYsMJX7SSZ"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 239201,
       "name": "El Zorro",
       "url": "https://open.spotify.com/track/5U1bP3nRulk7egjqWQSkNA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ceja Levantada",
+        "url": "https://open.spotify.com/album/3N9aY6oiHHrSYmXO8ccJvr"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 174742,
+      "name": "El Ceja Levantada",
+      "url": "https://open.spotify.com/track/6QdZj30JB1Va41Pn75Km1B"
     },
     {
       "added_at": null,

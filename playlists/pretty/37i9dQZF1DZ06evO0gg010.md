@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 
 > This is Fuerza Regida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,203 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,693 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 5 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 |
 | 6 | [Tu Boda](https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Tu Boda](https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA) | 3:45 |
 | 7 | [TU SANCHO](https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 2:57 |
-| 8 | [COMO CAPO](https://open.spotify.com/track/4N1dogCaVWnGyFdPjdqNWF) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [MIJA NO TE ASUSTES](https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO) | 2:45 |
-| 9 | [Chula Vente](https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Chula Vente](https://open.spotify.com/album/2nB2KzRi6sdL83f4l2gpBS) | 4:01 |
-| 10 | [CHROME HEARTS](https://open.spotify.com/track/1VwgoKvj7L1PkQTFeFfS6F) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Ya No Se Llevan Serenatas \(Deluxe\)](https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO) | 3:16 |
+| 8 | [CHROME HEARTS](https://open.spotify.com/track/1VwgoKvj7L1PkQTFeFfS6F) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Ya No Se Llevan Serenatas \(Deluxe\)](https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO) | 3:16 |
+| 9 | [COMO CAPO](https://open.spotify.com/track/4N1dogCaVWnGyFdPjdqNWF) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [MIJA NO TE ASUSTES](https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO) | 2:45 |
+| 10 | [Chula Vente](https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Chula Vente](https://open.spotify.com/album/2nB2KzRi6sdL83f4l2gpBS) | 4:01 |
 | 11 | [ANSIEDAD](https://open.spotify.com/track/1a7onn7lPqqRWul5ogyMyX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 2:31 |
 | 12 | [Seguro Le Dolió](https://open.spotify.com/track/6KslzTHpbnoFGcRUkVgRXc) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Seguro Le Dolió](https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX) | 2:29 |
 | 13 | [PERO NO TE ENAMORES](https://open.spotify.com/track/3w1h7uNU1Dfk2tOaHiIGat) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 49 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 |
 | 50 | [Fama](https://open.spotify.com/track/10HNyyaGuqDwdgQGsUpId6) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE), [GueroX](https://open.spotify.com/artist/7woSBJR4DYUTwRl9cZEREo), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Fue Suerte](https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM) | 3:14 |
 
-Snapshot ID: `aP62AAAAAABeKGRscA+bCKUChgvMypSu`
+Snapshot ID: `aQAHgAAAAAD8loopE4uj1yd4Qly4mUGJ`

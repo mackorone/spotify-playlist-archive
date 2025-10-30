@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,856 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,894 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 45 | [My City of Ruins](https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ) | 4:16 |
 | 46 | [Take on Me](https://open.spotify.com/track/5idADky7mHihopJGObd4hf) | [Lia Rose](https://open.spotify.com/artist/5c1Ag67oqsK5rOUtOmK9J0) | [Take on Me](https://open.spotify.com/album/5bwhlXoiRJorQ0bCavednq) | 3:28 |
 | 47 | [K.](https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [K.](https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO) | 4:29 |
-| 48 | [I Can't Make You Love Me](https://open.spotify.com/track/34APO7yezS12jRpPaUAv8A) | [Cinzia & The Eclipse](https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W) | [I Can't Make You Love Me](https://open.spotify.com/album/4QtMn2R7ATbWQYXxSVcQHx) | 4:51 |
-| 49 | [Every Breath You Take \(Re:Imagined\)](https://open.spotify.com/track/1sz0fuWEAcPkCfG5o7D9KP) | [Denmark + Winter](https://open.spotify.com/artist/3iieFb3WOWJ8tW57Gixt8y) | [Every Breath You Take \(Re:Imagined\)](https://open.spotify.com/album/3SwpbUHJxGoZQnUCtBltcN) | 3:42 |
+| 48 | [Every Breath You Take \(Re:Imagined\)](https://open.spotify.com/track/1sz0fuWEAcPkCfG5o7D9KP) | [Denmark + Winter](https://open.spotify.com/artist/3iieFb3WOWJ8tW57Gixt8y) | [Every Breath You Take \(Re:Imagined\)](https://open.spotify.com/album/3SwpbUHJxGoZQnUCtBltcN) | 3:42 |
+| 49 | [I Can't Make You Love Me](https://open.spotify.com/track/34APO7yezS12jRpPaUAv8A) | [Cinzia & The Eclipse](https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W) | [I Can't Make You Love Me](https://open.spotify.com/album/4QtMn2R7ATbWQYXxSVcQHx) | 4:51 |
 | 50 | [Don't Start Now](https://open.spotify.com/track/5rcjnQLlh7AhGFdZrK07tU) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Don't Start Now](https://open.spotify.com/album/1H9JRwVysbzsH2AUTULZNh) | 3:47 |
 | 51 | [Let Me Love You](https://open.spotify.com/track/64c5q8c5j09YueRimGw4l2) | [The Luck](https://open.spotify.com/artist/1ZiLKiDuHyrckm1ubrrYtK) | [Let Me Love You](https://open.spotify.com/album/6sgv89amcLYzxSUoxjaLls) | 3:04 |
 | 52 | [Youth](https://open.spotify.com/track/4ulix0RIyXmuNLgwPaz46S) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Youth](https://open.spotify.com/album/3QRsoT9KLOyYYkNRtEkpRI) | 2:40 |
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 59 | [Lover](https://open.spotify.com/track/0foJgbkqIYjC8WfEOMMw3i) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Lover](https://open.spotify.com/album/2b5ee3XpZQqmVpHC7gV9Vj) | 2:43 |
 | 60 | [you broke me first](https://open.spotify.com/track/0KAFjeQ6jpmtKP4CW9m5X6) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [you broke me first](https://open.spotify.com/album/0xo6qHMKN7rvr49SAV9imz) | 3:10 |
 | 61 | [Here Comes The Sun \(feat\. dodie\)](https://open.spotify.com/track/2KQlkzT8Gg1lFDU0y5TYeK) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Here Comes The Sun \(feat\. dodie\)](https://open.spotify.com/album/21v5ndluXHghmQaVKvMNUb) | 3:58 |
-| 62 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 |
-| 63 | [Honesty](https://open.spotify.com/track/6TCrhl4UEM2yXZ4uaXa5OY) | [WesternBoy](https://open.spotify.com/artist/2tDK1KYXsOsqTe2ln3We4E) | [Honesty](https://open.spotify.com/album/2otA7Hgaul96xbL6C30GO8) | 3:45 |
+| 62 | [Honesty](https://open.spotify.com/track/6TCrhl4UEM2yXZ4uaXa5OY) | [WesternBoy](https://open.spotify.com/artist/2tDK1KYXsOsqTe2ln3We4E) | [Honesty](https://open.spotify.com/album/2otA7Hgaul96xbL6C30GO8) | 3:45 |
+| 63 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 |
 | 64 | [Blank Space](https://open.spotify.com/track/282mpJjzXHueMKalP5ifxT) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Blank Space](https://open.spotify.com/album/1HozJh2kGkfP40jiGSNndN) | 4:05 |
-| 65 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 |
-| 66 | [Don't Start Now](https://open.spotify.com/track/5WJCqGGc4oqUWR2qzfIsWl) | [Chaz Mazzota](https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM), [Karis](https://open.spotify.com/artist/1U9tVmBqCyiaP2gDSVwDIX) | [Don't Start Now](https://open.spotify.com/album/7KqUfOkPGBNQkoS9um3JCF) | 2:10 |
-| 67 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
-| 68 | [Love](https://open.spotify.com/track/2ixTmOHffy8b5Qh29ctald) | [Kris Orlowski](https://open.spotify.com/artist/05TVdmW8p3d5yYIyvw6B3w) | [Love](https://open.spotify.com/album/0rHBGPkCOQBu6WyfSDmvjh) | 4:01 |
+| 65 | [Don't Start Now](https://open.spotify.com/track/5WJCqGGc4oqUWR2qzfIsWl) | [Chaz Mazzota](https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM), [Karis](https://open.spotify.com/artist/1U9tVmBqCyiaP2gDSVwDIX) | [Don't Start Now](https://open.spotify.com/album/7KqUfOkPGBNQkoS9um3JCF) | 2:10 |
+| 66 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 |
+| 67 | [Love](https://open.spotify.com/track/2ixTmOHffy8b5Qh29ctald) | [Kris Orlowski](https://open.spotify.com/artist/05TVdmW8p3d5yYIyvw6B3w) | [Love](https://open.spotify.com/album/0rHBGPkCOQBu6WyfSDmvjh) | 4:01 |
+| 68 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
 | 69 | [Like a Virgin](https://open.spotify.com/track/1FaxioLjUIAGpuvkDIDQHF) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Like a Virgin](https://open.spotify.com/album/3D6BRQjosyRAjyfAiogrKE) | 3:27 |
 | 70 | [Dancing on My Own](https://open.spotify.com/track/7bqirkzoUJHi16RBEcQiv9) | [Jake McMullen](https://open.spotify.com/artist/0kBHkziT1rQpUBWW08p2dN) | [Dancing on My Own](https://open.spotify.com/album/2CKLz5tHDhnWLYuCgEztHY) | 5:07 |
 | 71 | [Say You'll Be There](https://open.spotify.com/track/6OwDUCgzQOIVcjHA5PBb15) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Say You'll Be There](https://open.spotify.com/album/5AyQKsPpZ0WK6shtBDZGOw) | 3:53 |

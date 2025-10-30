@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-161 songs - 7 hr 38 min
+163 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Different](https://open.spotify.com/track/3vRVnRwfuK1leTPcVtNp6h) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Different](https://open.spotify.com/album/0JeuTRnHiyYPbWagWQq0Qr) | 2:17 | 2025-06-01 |  |
 | [Disclosure](https://open.spotify.com/track/3tRfmb7TerFE7XsQBVGl8l) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [The Fleur Print](https://open.spotify.com/album/6ccDPGKd4UC3rWOokj2DCs) | 3:00 | 2025-06-01 |  |
 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 | 2025-06-01 |  |
+| [DON'T KILL THE PARTY \(feat\. Quavo & Juicy J\)](https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 2:12 | 2025-10-29 |  |
 | [DONNY DARKO \(FEAT\. LIL UZI VERT\)](https://open.spotify.com/track/4Uho2PKf7lBRYfRasw1J0n) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 1:56 | 2025-06-01 |  |
 | [double standard](https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [double standard](https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4) | 3:23 | 2025-06-01 |  |
 | [Down Girl \(feat\. Duki\)](https://open.spotify.com/track/3rfA4Lrix4mhHiKcTI5KX9) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:54 | 2025-06-11 |  |
@@ -96,6 +97,7 @@
 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2025-06-01 |  |
 | [mexico](https://open.spotify.com/track/14edJ3KeWDAQPf13LD4pu9) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS), [Sushiboy Mexico](https://open.spotify.com/artist/2iOPpCRDUV8NyeMxIBlbTz) | [shut the fuck up talking to me](https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ) | 1:11 | 2025-06-01 |  |
 | [mind your business](https://open.spotify.com/track/2qUrmYFAH003q5jG73qHOq) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ) | 2:22 | 2025-06-01 |  |
+| [Mirroronnabenz \(with BNYX®\)](https://open.spotify.com/track/5Vip1MOeAfQ5weKGYBXpI0) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Mirroronnabenz](https://open.spotify.com/album/38mqpaec0dbvLDMiX6Jjox) | 2:22 | 2025-10-29 |  |
 | [Missing Everything](https://open.spotify.com/track/720XllkKq9Pmjk1KOS7Z0F) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Just Got A Lot On My Shoulders](https://open.spotify.com/album/6vxwZzJVRrQKuJK6AcXwbn) | 3:44 | 2025-06-01 |  |
 | [Monkey](https://open.spotify.com/track/3hQSiBi6Bqjy68OhMh2edr) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [LAWSON](https://open.spotify.com/artist/4pMJdsAzstHSaoZnTgvSsV) | [Monkey / Up + Down](https://open.spotify.com/album/6lgnsuDjaDEQkZ8LsaMQYX) | 2:44 | 2025-06-01 |  |
 | [MONTREAL](https://open.spotify.com/track/1VGQzAAmfZaalTHQLddcrT) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [WHY ALWAYS ME?](https://open.spotify.com/album/3HMmoUioYMFszTSEDEg5Jd) | 2:00 | 2025-06-01 |  |

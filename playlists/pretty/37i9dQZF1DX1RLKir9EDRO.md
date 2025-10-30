@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: sıla argun Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,134 likes - 73 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,131 likes - 73 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 72 | [SUCH A LEADER](https://open.spotify.com/track/68mTwxP3vquZSsCNj1gtA5) | [Elif Azim](https://open.spotify.com/artist/45Eehk635oeB2M92fwUqjO) | [SUCH A LEADER](https://open.spotify.com/album/2ANRby7IXkht1phoYmhtJ1) | 4:06 |
 | 73 | [Bile Bile](https://open.spotify.com/track/1wXg79ESBNQ9ZRCs7ZI3EJ) | [Yasemin Koç](https://open.spotify.com/artist/2kMj60GL4WITQFUDTkivyU) | [Bile Bile](https://open.spotify.com/album/6ntrwfnDhbNSRUJzflkKNa) | 3:25 |
 
-Snapshot ID: `AAAAAOc66GbNI4RPAoO6pJw1cct2iIHY`
+Snapshot ID: `AAAAALAoCveUkLJ3Fsg1bHtZcP4GrG+X`

@@ -8271,6 +8271,24 @@
     },
     {
       "album": {
+        "name": "Hold Your Hand",
+        "url": "https://open.spotify.com/album/0vlpAinZBQz0HwEkI1T1qp"
+      },
+      "artists": [
+        {
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164768,
+      "name": "Hold Your Hand",
+      "url": "https://open.spotify.com/track/1xE4VBKGZjPlktET0jEiYX"
+    },
+    {
+      "album": {
         "name": "Operation Funk",
         "url": "https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3"
       },
@@ -16374,7 +16392,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 261502,
       "name": "Roots Run Deep",
       "url": "https://open.spotify.com/track/0BEcQDu4c6PQxPZLvAMuJO"

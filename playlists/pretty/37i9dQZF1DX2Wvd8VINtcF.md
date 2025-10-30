@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Oklou & FKA twigs  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,152 likes - 251 songs - 13 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,182 likes - 251 songs - 13 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

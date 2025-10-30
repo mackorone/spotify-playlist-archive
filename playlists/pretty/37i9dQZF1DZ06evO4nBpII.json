@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1133029,
+  "num_followers": 1133076,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADxox58p/c1i8q5E8p2zdmX",
+  "snapshot_id": "aQAHgAAAAAAb6QnUQo6F+e2QdIoDIATS",
   "tracks": [
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 182506,
-      "name": "Scattered",
-      "url": "https://open.spotify.com/track/2iP4gsbex3yX32fC0kcwMV"
+      "duration_ms": 198466,
+      "name": "Church on Sunday",
+      "url": "https://open.spotify.com/track/1a2aGhclRcNXQ8wq4V06x4"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 198466,
-      "name": "Church on Sunday",
-      "url": "https://open.spotify.com/track/1a2aGhclRcNXQ8wq4V06x4"
+      "duration_ms": 182506,
+      "name": "Scattered",
+      "url": "https://open.spotify.com/track/2iP4gsbex3yX32fC0kcwMV"
     },
     {
       "added_at": null,

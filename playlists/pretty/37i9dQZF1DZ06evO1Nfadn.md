@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,158 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,170 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 38 | [Brinca Brita](https://open.spotify.com/track/0PLFV9ddyrQ7josGKivRTi) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lo Que Son las Cosas](https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi) | 3:14 |
 | 39 | [Dos Camionetas](https://open.spotify.com/track/4MzFbkFoldveCNWW5MCBK2) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:15 |
 | 40 | [Ay Amigo](https://open.spotify.com/track/199n62G0tdmv5LARvuPdPB) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 2:28 |
-| 41 | [Te Necesito](https://open.spotify.com/track/2PluXYGjpAci9UNY0EXhZj) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Metamorfosis](https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy) | 3:10 |
-| 42 | [Lagrimas de Sangre](https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 2:41 |
+| 41 | [Lagrimas de Sangre](https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 2:41 |
+| 42 | [Te Necesito](https://open.spotify.com/track/2PluXYGjpAci9UNY0EXhZj) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Metamorfosis](https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy) | 3:10 |
 | 43 | [Tu Precio](https://open.spotify.com/track/61imLjMVNbHMaHYyR43f6l) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:52 |
 | 44 | [Por una Lágrima](https://open.spotify.com/track/5lMi9SktHdwfast6BALpAQ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 2:38 |
 | 45 | [El Avestruz](https://open.spotify.com/track/2BY17snH63VMOiliE0wKdb) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Mis Favoritas](https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 49 | [La Ranchera Pajona](https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:29 |
 | 50 | [Por Qué Te Querré Tanto](https://open.spotify.com/track/6Qydko2p4Vcr4WmQI615DA) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 2:36 |
 
-Snapshot ID: `aP62AAAAAACdMmrhFhP2+2itA07jUNDC`
+Snapshot ID: `aQAHgAAAAABQhYfxtN2sBUM5aywD9j9h`

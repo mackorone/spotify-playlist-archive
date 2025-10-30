@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,506 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,535 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 34 | [Atmosphere](https://open.spotify.com/track/0yfJlRyn9VEZfonQUIPdkr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/0HJyrlWLM8NLuxsjbvLejV) | 3:02 |
 | 35 | [U Should Not Be Doing That](https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That](https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3) | 3:42 |
 | 36 | [My Body \(feat\. Y&M\)](https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [My Body \(feat\. Y&M\)](https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL) | 2:40 |
-| 37 | [Hotter](https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Hotter](https://open.spotify.com/album/4xVtfO8YPc2cvXwe8Yl7xQ) | 3:10 |
-| 38 | [Ready To Go \(My Addiction\)](https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3) | [Ready To Go \(My Addiction\)](https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo) | 2:24 |
+| 37 | [Ready To Go \(My Addiction\)](https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3) | [Ready To Go \(My Addiction\)](https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo) | 2:24 |
+| 38 | [Hotter](https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Hotter](https://open.spotify.com/album/4xVtfO8YPc2cvXwe8Yl7xQ) | 3:10 |
 | 39 | [Bass Up To The Top](https://open.spotify.com/track/0Z5iboHxPmyilWJQFnHZaY) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Bass Up To The Top](https://open.spotify.com/album/0dPApl3iIct0S2T9lEtxSV) | 3:16 |
 | 40 | [Tension](https://open.spotify.com/track/4PJYVBDYTKwK1hODEfytY7) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Tension](https://open.spotify.com/album/0mNkjg8bqk5QdiIiDcHXcC) | 2:28 |
 | 41 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |

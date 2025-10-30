@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,664 likes - 80 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,985 likes - 80 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 57 | [Jireh \(My Provider\)](https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Jireh \(My Provider\)](https://open.spotify.com/album/4CsmgXl5bQQWHubJdZvNgW) | 2:48 |
 | 58 | [Rahama \(Live\)](https://open.spotify.com/track/4QYJFByYxJpmmpKknW1651) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rahama \(Live\)](https://open.spotify.com/album/3KZjGboiC4GMKw7mo2opPI) | 9:56 |
 | 59 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 |
-| 60 | [Hosanna](https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [All Of The Above](https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D) | 5:30 |
-| 61 | [We will be many](https://open.spotify.com/track/55qF5hzyM6Vv02DOchu0jN) | [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [We will be many](https://open.spotify.com/album/4zBbD33yMF8YXqJPZDhAHX) | 3:14 |
-| 62 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
-| 63 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
+| 60 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
+| 61 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
+| 62 | [We will be many](https://open.spotify.com/track/55qF5hzyM6Vv02DOchu0jN) | [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [We will be many](https://open.spotify.com/album/4zBbD33yMF8YXqJPZDhAHX) | 3:14 |
+| 63 | [Hosanna](https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [All Of The Above](https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D) | 5:30 |
 | 64 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 |
 | 65 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
 | 66 | [That's My King](https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [That's My King](https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA) | 4:10 |

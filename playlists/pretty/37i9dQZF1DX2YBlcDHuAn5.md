@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,574 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,573 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 28 | [Streets of London](https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 3:09 |
 | 29 | [It Takes A Woman](https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [It Takes A Woman](https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR) | 4:06 |
 | 30 | [The Man He Sees in Me](https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Man He Sees in Me](https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt) | 2:45 |
-| 31 | [Highway Queen](https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Highway Queen](https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv) | 3:32 |
-| 32 | [Field Song.](https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Field Song.](https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf) | 2:19 |
+| 31 | [Field Song.](https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Field Song.](https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf) | 2:19 |
+| 32 | [Highway Queen](https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Highway Queen](https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv) | 3:32 |
 | 33 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 |
 | 34 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 |
 | 35 | [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG) | 3:57 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 46 | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb) | 3:31 |
 | 47 | [Back At Your Door](https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:32 |
 | 48 | [Everlastingly](https://open.spotify.com/track/4adqsG2XY26kxpZlQSLyY4) | [The Martial](https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L) | [Everlastingly](https://open.spotify.com/album/09qQhI75Wea2oUagJtYNJe) | 3:14 |
-| 49 | [Dear Maria](https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [May](https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6) | 3:13 |
+| 49 | [One Deep River](https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [One Deep River](https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv) | 4:17 |
 | 50 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 |
 
 Snapshot ID: `AAAAAGqc6Zgr9HrddfHK99FdENJ6IBos`

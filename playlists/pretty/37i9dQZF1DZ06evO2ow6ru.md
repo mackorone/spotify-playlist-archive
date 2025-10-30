@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 
 > This is All Time Low\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,049 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,062 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,21 +23,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 13 | [Viva Las Vagus Nerve](https://open.spotify.com/track/3CiSGl5nsSBxEY6SqZVvBQ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 2:57 |
 | 14 | [Hate This Song](https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Hate This Song](https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA) | 2:55 |
 | 15 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 |
-| 16 | [Kids In The Dark](https://open.spotify.com/track/50oS45iNMFp7pKIQRAWIUP) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 3:36 |
+| 16 | [The Sound of Letting Go](https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:39 |
 | 17 | [Little Bit](https://open.spotify.com/track/7iWKIvsPmDBFSbThJJc9nY) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 2:31 |
-| 18 | [Backseat Serenade](https://open.spotify.com/track/47eL0bckn5g3k5VBwgu969) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:21 |
-| 19 | [The Sound of Letting Go](https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:39 |
-| 20 | [Damned If I Do Ya \(Damned If I Don't\)](https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:07 |
+| 18 | [Kids In The Dark](https://open.spotify.com/track/50oS45iNMFp7pKIQRAWIUP) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 3:36 |
+| 19 | [Backseat Serenade](https://open.spotify.com/track/47eL0bckn5g3k5VBwgu969) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:21 |
+| 20 | [Sleepwalking](https://open.spotify.com/track/06v0btRazrSHDX4s1mXSex) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:07 |
 | 21 | [Cigarettes & Sabotage](https://open.spotify.com/track/2pVgY14uMtB3vcAgwbidvd) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 2:52 |
-| 22 | [Six Feet Under The Stars](https://open.spotify.com/track/3MfRql0HwuxEZzGpoIC832) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:36 |
-| 23 | [Sleepwalking](https://open.spotify.com/track/06v0btRazrSHDX4s1mXSex) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:07 |
-| 24 | [Therapy](https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:44 |
+| 22 | [Damned If I Do Ya \(Damned If I Don't\)](https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:07 |
+| 23 | [Six Feet Under The Stars](https://open.spotify.com/track/3MfRql0HwuxEZzGpoIC832) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:36 |
+| 24 | [Umbrella](https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Umbrella](https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq) | 3:49 |
 | 25 | [Bubblegum](https://open.spotify.com/track/5sIPJN1JAQSda6QyflTmvX) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 2:53 |
-| 26 | [Umbrella](https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Umbrella](https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq) | 3:49 |
+| 26 | [Therapy](https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:44 |
 | 27 | [New Religion \(feat\. Teddy Swims\)](https://open.spotify.com/track/5Vwaft3Bs1oqSPZrviuXnD) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:04 |
-| 28 | [Lost In Stereo](https://open.spotify.com/track/2WO1QXoR1o0R1rYKAxF7Ya) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:47 |
-| 29 | [Something's Gotta Give](https://open.spotify.com/track/1SeefzwSDiFCjRWaBslRIj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 3:09 |
-| 30 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 |
+| 28 | [Something's Gotta Give](https://open.spotify.com/track/1SeefzwSDiFCjRWaBslRIj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 3:09 |
+| 29 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 |
+| 30 | [Lost In Stereo](https://open.spotify.com/track/2WO1QXoR1o0R1rYKAxF7Ya) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:47 |
 | 31 | [Coffee Shop Soundtrack](https://open.spotify.com/track/3j1HTRodSjGtK3YsYMI0XF) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Put Up Or Shut Up](https://open.spotify.com/album/47boQgN4dboq2f0IcvI4Bt) | 3:01 |
 | 32 | [Somewhere in Neverland](https://open.spotify.com/track/4RWAWUoPEcQk0QDj8JGmAz) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:45 |
 | 33 | [Back to You](https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 49 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 |
 | 50 | [Glitter & Crimson](https://open.spotify.com/track/4LpT15R6GqcKGjT92R8kfS) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:03 |
 
-Snapshot ID: `aP62AAAAAAAyLdD6K6RFldqOWOCAPMYf`
+Snapshot ID: `aQAHgAAAAAAcYoJGs/NJhOwLwKQZye0M`

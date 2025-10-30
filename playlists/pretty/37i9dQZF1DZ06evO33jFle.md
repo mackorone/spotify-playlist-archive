@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 
 > This is Jenni Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,879 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,052 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 30 | [Intro: Pimienta y Especies](https://open.spotify.com/track/2n0aVaak5ssmX8DJ9NarQ8) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 0:31 |
 | 31 | [Ajustando Cuentas](https://open.spotify.com/track/3rbtjnfJKzKxvwvaB3zopY) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Ajustando Cuentas](https://open.spotify.com/album/4sGlWWQx6V1fq8ct7T4aFV) | 3:42 |
 | 32 | [Sufriendo a Solas \- En Vivo](https://open.spotify.com/track/2MhTfp7RJMUi7eGgltSyLW) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Paloma Negra Desde Monterrey \(En Vivo\)](https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN) | 3:20 |
-| 33 | [Juro Que Nunca Volveré \- En Vivo](https://open.spotify.com/track/4MQQ60Rvvm31Ecs7bAxecM) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Besos y Copas Desde Hollywood \(En Vivo\)](https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE) | 3:29 |
+| 33 | [Jefa de Jefas](https://open.spotify.com/track/6Lwdlm1EPGrlZhh9BrL415) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 3:00 |
 | 34 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
-| 35 | [Jefa de Jefas](https://open.spotify.com/track/6Lwdlm1EPGrlZhh9BrL415) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 3:00 |
+| 35 | [Juro Que Nunca Volveré \- En Vivo](https://open.spotify.com/track/4MQQ60Rvvm31Ecs7bAxecM) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Besos y Copas Desde Hollywood \(En Vivo\)](https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE) | 3:29 |
 | 36 | [Trono Caído](https://open.spotify.com/track/7EcqOfu60lF12ZSbk34SaZ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 2:38 |
 | 37 | [Que Ganas de No Verte Nunca Más \- Pop](https://open.spotify.com/track/7BcyzX3sgFJht2vhVrXYzl) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 3:53 |
 | 38 | [Querida Socia](https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 49 | [Porque Me Gusta a Morir \- Pop](https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 5:09 |
 | 50 | [La Chacalosa](https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 3:40 |
 
-Snapshot ID: `aP62AAAAAAD/1r6y2v0SFL89tBtg06Yf`
+Snapshot ID: `aQAHgAAAAACB8Xr7wi9ZYL4ZhegNh+O2`

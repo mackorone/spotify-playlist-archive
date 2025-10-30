@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Song Sohee) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: RIO) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -9588,7 +9588,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 416000,
       "name": "KIDS",
       "url": "https://open.spotify.com/track/0YJGr5b7xWWUYpoJ4gwNhy"
@@ -11361,6 +11361,24 @@
     },
     {
       "album": {
+        "name": "Milk Choco Quik",
+        "url": "https://open.spotify.com/album/3QYwzmmg8iTWoq7fkP9UjU"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243498,
+      "name": "Milk Choco Quik",
+      "url": "https://open.spotify.com/track/3WrnIg2bCuP2nBkkdIfIsR"
+    },
+    {
+      "album": {
         "name": "Milky Way Love",
         "url": "https://open.spotify.com/album/2cJ4lRsviJYOqZXiwrfLa4"
       },
@@ -11520,6 +11538,24 @@
       "duration_ms": 217653,
       "name": "Moment",
       "url": "https://open.spotify.com/track/3jYl9vCYKeVDawBCu5iHK5"
+    },
+    {
+      "album": {
+        "name": "Mondegreen",
+        "url": "https://open.spotify.com/album/3ttWXgnbXQWVleBm0Xj8TQ"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193498,
+      "name": "Mondegreen",
+      "url": "https://open.spotify.com/track/7wEmOuZxqVJDPvArxyaSBw"
     },
     {
       "album": {
@@ -16012,7 +16048,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 242648,
       "name": "Someday We Will",
       "url": "https://open.spotify.com/track/12Uv1vygmATfzGCXOK2rMx"
@@ -16106,7 +16142,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 196000,
       "name": "Sometimes (feat. TAEKWOO)",
       "url": "https://open.spotify.com/track/4mqemrVqzIwbCmg47N8rsR"
@@ -16840,7 +16876,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 182320,
       "name": "Stuffy Driver",
       "url": "https://open.spotify.com/track/3ecSR7l6y3cl3ZqQF5HcnC"
@@ -19469,6 +19505,24 @@
     },
     {
       "album": {
+        "name": "My blue wavy room",
+        "url": "https://open.spotify.com/album/7BVdZTMTaqFoXbXXlg1DLr"
+      },
+      "artists": [
+        {
+          "name": "Redoor",
+          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270162,
+      "name": "What can I do? That\u2032s what my heart says",
+      "url": "https://open.spotify.com/track/4P5PXEIBfApVbnDvypi0Li"
+    },
+    {
+      "album": {
         "name": "What Can I Say? (Feat. SHIRT, g0nny)",
         "url": "https://open.spotify.com/album/6SoRYuB2wOtpPaqPTjKjCq"
       },
@@ -20290,7 +20344,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 163000,
       "name": "You",
       "url": "https://open.spotify.com/track/1dq8EPWCE8ld1Roex7fsGz"

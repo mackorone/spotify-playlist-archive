@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 
 > seamless, soft, soulful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,227 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,225 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 | 34 | [Dirty Laundry](https://open.spotify.com/track/2Xtkc0tsVpwdLcFZt5SQ97) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Dirty Laundry](https://open.spotify.com/album/7aSC9q6YLN4hsx0p2ZPH2Q) | 2:36 |
 | 35 | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/track/6pLpm17TjgukQbWU5F6fwo) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Pulsar](https://open.spotify.com/album/1I2vgUWhcovQKIgQK0jHPB) | 5:09 |
 | 36 | [Wonder](https://open.spotify.com/track/3thVzm1lX13dhZ4qOl7dQL) | [Fizzy Orange](https://open.spotify.com/artist/1hSt79a7e2OZzSD3pJgtCZ) | [Wonder](https://open.spotify.com/album/5YalCz9nQenxa8iHuCvaD6) | 2:22 |
-| 37 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 |
-| 38 | [COCONUT PERFUME](https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [COCONUT PERFUME](https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh) | 2:45 |
+| 37 | [COCONUT PERFUME](https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [COCONUT PERFUME](https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh) | 2:45 |
+| 38 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 |
 | 39 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 |
 | 40 | [Pool Party](https://open.spotify.com/track/6g2lOCDWFDjYLscHr6LCoM) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Pool Party](https://open.spotify.com/album/4xlTP2MmCppLdneOt3QGgN) | 2:58 |
 | 41 | [SHOOT ME DOWN](https://open.spotify.com/track/5jLjUQIa8fV6erihJb1App) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 4:52 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 | 50 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
 | 51 | [Four Long Years](https://open.spotify.com/track/3HSsitVWr2v52sq6C2o9fz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:40 |
 | 52 | [Just Come Home with Me Tonight](https://open.spotify.com/track/6zArUpWiIqCJ4dTThzRpxL) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home with Me Tonight](https://open.spotify.com/album/1ClFEzcUmCIcn4zkZs6jjZ) | 4:07 |
-| 53 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
-| 54 | [I'll Be There](https://open.spotify.com/track/4fIw0XD56hLGb7MCEqSs0K) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/3njJDE85untcXnz7ZEhs4a) | 4:10 |
+| 53 | [I'll Be There](https://open.spotify.com/track/4fIw0XD56hLGb7MCEqSs0K) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/3njJDE85untcXnz7ZEhs4a) | 4:10 |
+| 54 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
 | 55 | [Confirmation \(SSBD\)](https://open.spotify.com/track/0gcNTflElPYcxajA1LelYd) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/45gjNMd3mAP0zyTQMOQdGk) | 4:18 |
 | 56 | [BAGELS](https://open.spotify.com/track/5R4tnsOeQ3vkfOwrbEHqDY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [BAGELS](https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy) | 4:12 |
 | 57 | [Your Love](https://open.spotify.com/track/0kY5Rpq4Wn6HUz6nWx8Mta) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Your Love](https://open.spotify.com/album/0kRjiljuqjwUkbsLDczX0w) | 3:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,578 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,567 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 30 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 |
 | 31 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 |
 | 32 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 |
-| 33 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
-| 34 | [Goosebumps](https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps](https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS) | 2:43 |
-| 35 | [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 |
-| 36 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 |
+| 33 | [Goosebumps](https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps](https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS) | 2:43 |
+| 34 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
+| 35 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 |
+| 36 | [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 |
 | 37 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 |
 | 38 | [Rave Out](https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rave Out](https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX) | 2:28 |
 | 39 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 |

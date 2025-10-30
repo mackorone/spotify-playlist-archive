@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124836,
+  "num_followers": 124831,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUwEJgTR1n7p7V6WLnetCXUXZScM8G",
+  "snapshot_id": "AAAUwR7kFlXmOcWvvA+PxuHiiluXGzHP",
   "tracks": [
+    {
+      "added_at": "2025-10-29 15:39:48",
+      "album": {
+        "name": "On Lock",
+        "url": "https://open.spotify.com/album/1WBMCfa1zj68UBeWS6DLLq"
+      },
+      "artists": [
+        {
+          "name": "Dirtyphonics",
+          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
+        },
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "On Lock",
+      "url": "https://open.spotify.com/track/62YgrGZTw1c20Juoy7kFUZ"
+    },
     {
       "added_at": "2025-10-28 14:17:25",
       "album": {

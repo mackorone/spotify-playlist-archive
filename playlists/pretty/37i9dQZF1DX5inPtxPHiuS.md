@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,785 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,783 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 28 | [Ningún Lugar](https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr) | [Los Maricas](https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy) | [IV](https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP) | 2:27 |
 | 29 | [Las Calles del Mundo](https://open.spotify.com/track/5n51OYaZgE3QS8PPO0p1zH) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Ciudad Faro](https://open.spotify.com/album/58sctZs8nWBBUJ8qY956Vk) | 3:35 |
 | 30 | [Te Valgo](https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Te Valgo](https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk) | 3:18 |
-| 31 | [El Beat de Mi Corazón](https://open.spotify.com/track/7A8bgi4lY0aPXCgLemYFjt) | [Ciegossordomudos](https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk) | [En Paz](https://open.spotify.com/album/376OJF2s2NSQi4m2pPmbtw) | 3:22 |
-| 32 | [Rock the Casbah](https://open.spotify.com/track/2qEd8UUUa8tgqBLKh2ojHh) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Rock the Casbah](https://open.spotify.com/album/6QdgKWKyU4Ut7MdPynViir) | 3:30 |
+| 31 | [Rock the Casbah](https://open.spotify.com/track/2qEd8UUUa8tgqBLKh2ojHh) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Rock the Casbah](https://open.spotify.com/album/6QdgKWKyU4Ut7MdPynViir) | 3:30 |
+| 32 | [El Beat de Mi Corazón](https://open.spotify.com/track/7A8bgi4lY0aPXCgLemYFjt) | [Ciegossordomudos](https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk) | [En Paz](https://open.spotify.com/album/376OJF2s2NSQi4m2pPmbtw) | 3:22 |
 | 33 | [Túnel](https://open.spotify.com/track/5geCse4zvXqjXBoobaLuRH) | [Babelgam](https://open.spotify.com/artist/7ETpd7f5DgstJtQIuPqlQM) | [Mar de Hiladas](https://open.spotify.com/album/2UPr9Ibhpn9ac91BwqQbku) | 3:32 |
-| 34 | [Nadie Es Inocente \(feat\. Dilson Diaz & Nicolai Fella\)](https://open.spotify.com/track/4jnp4SOpXZP0Oy0YIBKxcf) | [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5), [Dilson Diaz](https://open.spotify.com/artist/72UArPUG7xctUaf3iXf59r), [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo) | [Pnmt Corrosion](https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96) | 3:30 |
-| 35 | [¿Qué se yo?](https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ) | [Tr3sdeCoraZón](https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M) | [No Hay Tiempo Que Perder](https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy) | 2:57 |
-| 36 | [Sirenas](https://open.spotify.com/track/1PkGzHg95qINSbYbsQWr3u) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Soles Negros](https://open.spotify.com/album/3ofTHUW3ZUlEMBx10gidAG) | 4:00 |
+| 34 | [¿Qué se yo?](https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ) | [Tr3sdeCoraZón](https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M) | [No Hay Tiempo Que Perder](https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy) | 2:57 |
+| 35 | [Sirenas](https://open.spotify.com/track/1PkGzHg95qINSbYbsQWr3u) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Soles Negros](https://open.spotify.com/album/3ofTHUW3ZUlEMBx10gidAG) | 4:00 |
+| 36 | [Nadie Es Inocente \(feat\. Dilson Diaz & Nicolai Fella\)](https://open.spotify.com/track/4jnp4SOpXZP0Oy0YIBKxcf) | [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5), [Dilson Diaz](https://open.spotify.com/artist/72UArPUG7xctUaf3iXf59r), [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo) | [Pnmt Corrosion](https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96) | 3:30 |
 | 37 | [La Clase Que Trabaja](https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [La Clase Que Trabaja](https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe) | 3:07 |
 | 38 | [LVRBOY](https://open.spotify.com/track/4EboiR8ycNdFamgaNcY4bb) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [LVRBOY](https://open.spotify.com/album/5W6bM73YTdbpCZQXH0ZJtE) | 4:09 |
 | 39 | [Frágil](https://open.spotify.com/track/0RrAW7InSmDFgpJ1yLkKxC) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Frágil](https://open.spotify.com/album/2zlHTnoNZOZohSnXXt65GR) | 4:23 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 49 | [Olvidarme de Todo](https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Oso Pardo](https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ) | [Olvidarme de Todo](https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB) | 3:21 |
 | 50 | [Hoy](https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t) | [Cielito Drive](https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY) | [Hoy](https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY) | 4:36 |
 | 51 | [Prende](https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Prende](https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG) | 3:17 |
-| 52 | [Sed](https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Sed](https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn) | 4:59 |
-| 53 | [Engáñate](https://open.spotify.com/track/6RGz1S7FWiya3aLDMUXnJV) | [Pirineos En Llamas](https://open.spotify.com/artist/522pAy9TuhE7aqrhl8tVFd) | [Engáñate](https://open.spotify.com/album/5HXkHlkENQcA6FIqwnmzSC) | 3:01 |
-| 54 | [Cisne](https://open.spotify.com/track/3HEjxQXUOFV8cWLaGDR27g) | [V for Volume](https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz) | [Cisne](https://open.spotify.com/album/7f7pQzEZjRdDZZDEtqWgl3) | 2:34 |
-| 55 | [Antes de Que Sea Muy Tarde](https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Antes de Que Sea Muy Tarde](https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe) | 3:12 |
+| 52 | [Engáñate](https://open.spotify.com/track/6RGz1S7FWiya3aLDMUXnJV) | [Pirineos En Llamas](https://open.spotify.com/artist/522pAy9TuhE7aqrhl8tVFd) | [Engáñate](https://open.spotify.com/album/5HXkHlkENQcA6FIqwnmzSC) | 3:01 |
+| 53 | [Sed](https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Sed](https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn) | 4:59 |
+| 54 | [Antes de Que Sea Muy Tarde](https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Antes de Que Sea Muy Tarde](https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe) | 3:12 |
+| 55 | [Cisne](https://open.spotify.com/track/3HEjxQXUOFV8cWLaGDR27g) | [V for Volume](https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz) | [Cisne](https://open.spotify.com/album/7f7pQzEZjRdDZZDEtqWgl3) | 2:34 |
 | 56 | [Recorrer el Mundo](https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP) | [Recorrer el Mundo](https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw) | 2:58 |
 | 57 | [Solo tú](https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [Solo tú](https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65) | 4:07 |
 | 58 | [Desierto](https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h), [Mateo París](https://open.spotify.com/artist/5g4xkc9ZvfAUuP5UJxvCBG) | [Tierra](https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4) | 3:03 |

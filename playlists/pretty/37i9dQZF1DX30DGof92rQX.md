@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- NAYEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,960 likes - 82 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,978 likes - 82 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 37 | [Iraaday](https://open.spotify.com/track/1vesWA1kY7un9O7AwK29bJ) | [Rizwan Anwar](https://open.spotify.com/artist/06ACrU1xT9S6tPcT2junyQ) | [Iraaday](https://open.spotify.com/album/3OdyaKPaEuxTnVrHckeM68) | 2:51 |
 | 38 | [Mushkil](https://open.spotify.com/track/6o0KGFVabuTEwTQQIYfund) | [AkhSheikh](https://open.spotify.com/artist/0RHvbNbaCTnbRbtn9l6qbc), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [Mushkil](https://open.spotify.com/album/6sbJp11RQP3eYip5QPjc49) | 2:36 |
 | 39 | [Tum Hi Na Samjhe \- A Letter To](https://open.spotify.com/track/2qDvITQxLQ2iXCMgFvH5Ai) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Adnan Dhool Productions](https://open.spotify.com/artist/6cLOQ3WC7p4JIJbDbNJSkl) | [Tum Hi Na Samjhe \(A Letter To\)](https://open.spotify.com/album/4DKArr40zcCq0MpygSh4fR) | 2:48 |
-| 40 | [Aap Ki Yaad](https://open.spotify.com/track/4HbnrDaNkW6CDwdHfYEGr8) | [Ahmed Jahanzeb](https://open.spotify.com/artist/2mwbuz349OET9y5xYFUnrR) | [Aap Ki Yaad](https://open.spotify.com/album/3UWhmzPxb02fJl65JxoEFB) | 5:21 |
+| 40 | [Aap Ki Yaad, 2.0](https://open.spotify.com/track/4HbnrDaNkW6CDwdHfYEGr8) | [Ahmed Jahanzeb](https://open.spotify.com/artist/2mwbuz349OET9y5xYFUnrR) | [Aap Ki Yaad, 2.0](https://open.spotify.com/album/3UWhmzPxb02fJl65JxoEFB) | 5:21 |
 | 41 | [mere yaara](https://open.spotify.com/track/0NMQWfRPVOfCXt7amdONuP) | [Bilal Khalid](https://open.spotify.com/artist/2KsaM9MOzw8IxyaxiN9YXf), [Saif Altaf](https://open.spotify.com/artist/2dIHcU5M4hH1kv6xthhqnV) | [mere yaara](https://open.spotify.com/album/0lSk4Mqwkt9Zr4XT4QC5fF) | 2:51 |
 | 42 | [Haseen](https://open.spotify.com/track/4QXKWV5jNGpBtdLZK1fLrj) | [Khawaja Sami](https://open.spotify.com/artist/7KIv8yIytrldHUWtb1QovU), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv) | [Haseen](https://open.spotify.com/album/6H1INZIjL9urcvjPdnnEsF) | 3:50 |
 | 43 | [tera hi rahoon](https://open.spotify.com/track/0pIK49lkM3k2YiRtP57LWd) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Rithmetic](https://open.spotify.com/artist/3cX78aMow7ykBLA6cTnB3a) | [tera hi rahoon](https://open.spotify.com/album/2dlCdoRF3i0oq2ahBaV4af) | 2:48 |

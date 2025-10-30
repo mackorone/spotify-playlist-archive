@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2648031,
+  "num_followers": 2648028,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Bruised Orange",
-        "url": "https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "That's the Way That the World Goes 'Round",
-      "url": "https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "Joan Armatrading",
         "url": "https://open.spotify.com/album/3BsE4yVwIOxM38hDnzrMlx"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 272333,
       "name": "Love And Affection",
       "url": "https://open.spotify.com/track/6Mnne5V9ZifNID59dswUcZ"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "Bruised Orange",
+        "url": "https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "That's the Way That the World Goes 'Round",
+      "url": "https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Here Comes The Sun (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 290080,
-      "name": "Just Like a Woman",
-      "url": "https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "The Last Of The True Believers",
         "url": "https://open.spotify.com/album/35HzQJGNwaNXWUInoJNz1t"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 279266,
       "name": "Love At The Five & Dime",
       "url": "https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 290080,
+      "name": "Just Like a Woman",
+      "url": "https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1591,8 +1591,8 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE"
+        "name": "Fair and Square",
+        "url": "https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ"
       },
       "artists": [
         {
@@ -1600,9 +1600,9 @@
           "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
         }
       ],
-      "duration_ms": 222866,
-      "name": "Souvenirs",
-      "url": "https://open.spotify.com/track/0YqwZcztnGN3Rjh4yPGmic"
+      "duration_ms": 267133,
+      "name": "Clay Pigeons",
+      "url": "https://open.spotify.com/track/5UDoMj8EIEXrQ4N0UR0nos"
     },
     {
       "added_at": "2025-01-07 16:46:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,972 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,961 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 41 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
 | 42 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 |
 | 43 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 |
-| 44 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
-| 45 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 |
+| 44 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 |
+| 45 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
 | 46 | [Diana \(You Don't Even Know\)](https://open.spotify.com/track/2j8aMIzFC5QhzyMOx7Sbj6) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Diana \(You Don't Even Know\)](https://open.spotify.com/album/2FR8tMHuRmAqxrZChfSyZI) | 3:24 |
 | 47 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 |
 | 48 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |

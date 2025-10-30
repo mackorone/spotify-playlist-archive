@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 702729,
+  "num_followers": 702814,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAAoKBRASS6grhOkv8G77yB9",
+  "snapshot_id": "aQAHgAAAAABvXKM52ynV2YkryJ+uQQDQ",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Think I'm In Love With You",
-      "url": "https://open.spotify.com/track/3Gn1zuHNLtGuGEOXwq0k7e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 213493,
       "name": "You Should Probably Leave",
       "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Think I'm In Love With You",
+      "url": "https://open.spotify.com/track/3Gn1zuHNLtGuGEOXwq0k7e"
     },
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "White Horse",
-      "url": "https://open.spotify.com/track/1DgtQlVNotingln271ZKCx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 240413,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/1DgtQlVNotingln271ZKCx"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 200213,
-      "name": "Scarecrow In The Garden",
-      "url": "https://open.spotify.com/track/2heBToLEB7odACQ3xwb32A"
+      "duration_ms": 216013,
+      "name": "A Simple Song",
+      "url": "https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 216013,
-      "name": "A Simple Song",
-      "url": "https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n"
+      "duration_ms": 200213,
+      "name": "Scarecrow In The Garden",
+      "url": "https://open.spotify.com/track/2heBToLEB7odACQ3xwb32A"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/4Jn2CdZYqtIsPpIRYB1o47"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Man of the Woods",
         "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 278893,
       "name": "Say Something (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "The Fire",
-      "url": "https://open.spotify.com/track/4Jn2CdZYqtIsPpIRYB1o47"
     },
     {
       "added_at": null,

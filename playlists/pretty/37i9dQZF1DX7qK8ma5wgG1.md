@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qK8ma5wgG1.md) - [plain]
 
 > It's okay to cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,743,137 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,743,039 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235665,
+  "num_followers": 235697,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAACb8jhiqPMubiAqYnP5QL6w",
+  "snapshot_id": "aQAHgAAAAABcEuvP6nkfhqSCUFKuUeBL",
   "tracks": [
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danna Paola",
-        "url": "https://open.spotify.com/album/1AKTMo2eJTgo9X37EiGaPR"
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 234413,
-      "name": "El Primer Dia Sin Ti",
-      "url": "https://open.spotify.com/track/0SyiBeCbCEdZolhFoAvz94"
+      "duration_ms": 190360,
+      "name": "Amor Ordinario",
+      "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
     },
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+        "name": "Danna Paola",
+        "url": "https://open.spotify.com/album/1AKTMo2eJTgo9X37EiGaPR"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 190360,
-      "name": "Amor Ordinario",
-      "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
+      "duration_ms": 234413,
+      "name": "El Primer Dia Sin Ti",
+      "url": "https://open.spotify.com/track/0SyiBeCbCEdZolhFoAvz94"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "Calla T\u00fa",
+      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Doble",
         "url": "https://open.spotify.com/album/6tcjrCQj5gp2Tae9WMcCkS"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 198766,
       "name": "El Doble",
       "url": "https://open.spotify.com/track/7bo4UV0Jf987r03w3UMJFi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "Calla T\u00fa",
-      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
     },
     {
       "added_at": null,
@@ -475,6 +475,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kaprichosa",
+        "url": "https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Kaprichosa",
+      "url": "https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "TENEMOS QUE HABLAR",
+      "url": "https://open.spotify.com/track/7yhKchyWUfVj4BGM7yhjX7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enredados",
         "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
       },
@@ -499,38 +531,6 @@
       "duration_ms": 194120,
       "name": "Mi sue\u00f1o ideal",
       "url": "https://open.spotify.com/track/1vWWJKXt6TGw0eFfVO2Xs7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILDSTAR",
-        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 190213,
-      "name": "TENEMOS QUE HABLAR",
-      "url": "https://open.spotify.com/track/7yhKchyWUfVj4BGM7yhjX7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kaprichosa",
-        "url": "https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Kaprichosa",
-      "url": "https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enredados",
-        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 109906,
-      "name": "Mi vida empieza as\u00ed",
-      "url": "https://open.spotify.com/track/41KimlWs5QREjhE8wUVQM6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 185573,
       "name": "Sola",
       "url": "https://open.spotify.com/track/2cjSAsmn2oTNyeAVVum23R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enredados",
+        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 109906,
+      "name": "Mi vida empieza as\u00ed",
+      "url": "https://open.spotify.com/track/41KimlWs5QREjhE8wUVQM6"
     },
     {
       "added_at": null,

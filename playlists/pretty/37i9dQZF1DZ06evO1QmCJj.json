@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 47041,
+  "num_followers": 47049,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAARwIqK5TOur3FI+wEhNQ38",
+  "snapshot_id": "aQAHgAAAAABH26xyvjJMxMAPqnhHjpuA",
   "tracks": [
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 165906,
-      "name": "LA SANTA",
-      "url": "https://open.spotify.com/track/5IkKZvMCle5egJBU7VG4Ly"
+      "duration_ms": 234480,
+      "name": "DRAG\u00d3N",
+      "url": "https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAVE DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 189731,
+      "name": "MISSION005",
+      "url": "https://open.spotify.com/track/2Jc9hT3qjmjGP65XrF1X1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUPERPOP",
         "url": "https://open.spotify.com/album/6V77SSxyvFabMPHt4I5BF8"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAVE DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 189731,
-      "name": "MISSION005",
-      "url": "https://open.spotify.com/track/2Jc9hT3qjmjGP65XrF1X1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL DRAG\u00d3N",
         "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 234480,
-      "name": "DRAG\u00d3N",
-      "url": "https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED"
+      "duration_ms": 165906,
+      "name": "LA SANTA",
+      "url": "https://open.spotify.com/track/5IkKZvMCle5egJBU7VG4Ly"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRX",
-        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
+        "name": "Akelarre",
+        "url": "https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9"
       },
       "artists": [
         {
@@ -712,13 +712,13 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         },
         {
-          "name": "Mimi",
-          "url": "https://open.spotify.com/artist/2Md83aAf213B23IHGVhrtj"
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
         }
       ],
-      "duration_ms": 155904,
-      "name": "SI TE VAS",
-      "url": "https://open.spotify.com/track/5SUgwQeo9vZoDBMm0q20yD"
+      "duration_ms": 202933,
+      "name": "Mujer Bruja",
+      "url": "https://open.spotify.com/track/2o2PFz6MLkKXVDYlzDAVH7"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Akelarre",
-        "url": "https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9"
+        "name": "GRX",
+        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
       },
       "artists": [
         {
@@ -752,13 +752,13 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         },
         {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+          "name": "Mimi",
+          "url": "https://open.spotify.com/artist/2Md83aAf213B23IHGVhrtj"
         }
       ],
-      "duration_ms": 202933,
-      "name": "Mujer Bruja",
-      "url": "https://open.spotify.com/track/2o2PFz6MLkKXVDYlzDAVH7"
+      "duration_ms": 155904,
+      "name": "SI TE VAS",
+      "url": "https://open.spotify.com/track/5SUgwQeo9vZoDBMm0q20yD"
     },
     {
       "added_at": null,

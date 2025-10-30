@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,289,256 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,289,318 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 66 | [You Go to My Head](https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:16 |
 | 67 | [That Doesn't Matter](https://open.spotify.com/track/451vo0g9vAHXx6tZsWrZ8b) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [That Doesn't Matter](https://open.spotify.com/album/4k50CU7lgJN6aIAZqjOreg) | 2:49 |
 | 68 | [People Will Say We're In Love](https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Come Closer](https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39) | 2:58 |
-| 69 | [Like Someone in Love](https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm) | [Reflections of a Voice](https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH) | 4:25 |
-| 70 | [Thank You for Everything](https://open.spotify.com/track/3qgoNaFcs3cYUmPOD0gMKL) | [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3) | [Mellow Tones](https://open.spotify.com/album/3b6kIkydadwHO9xberFMQ5) | 5:55 |
+| 69 | [Thank You for Everything](https://open.spotify.com/track/3qgoNaFcs3cYUmPOD0gMKL) | [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3) | [Mellow Tones](https://open.spotify.com/album/3b6kIkydadwHO9xberFMQ5) | 5:55 |
+| 70 | [Like Someone in Love](https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm) | [Reflections of a Voice](https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH) | 4:25 |
 | 71 | [Moonlight Serenade](https://open.spotify.com/track/6Tw9p1kBeDyv9opkP7oDuF) | [John C\. Reilly](https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G), [Mister Romantic](https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0) | [What's Not To Love?](https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2) | 3:05 |
 | 72 | [The Touch of Your Lips](https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ) | [Richard Shelton](https://open.spotify.com/artist/5jCYSk9xAiet0VnSeYvi1t) | [An Englishman in Love in LA](https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp) | 2:56 |
-| 73 | [Then I'll Be Tired of You](https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Love & the Lack Thereof](https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6) | 6:13 |
-| 74 | [Day by Day](https://open.spotify.com/track/7nCLWAwlLfJgg4xDm4qjyA) | [Brandon Estrada](https://open.spotify.com/artist/32s9nbMhyhXRKma5C6VusV), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Day By Day](https://open.spotify.com/album/2gVd0QcZkUBmJJSD6AL9do) | 3:05 |
+| 73 | [Day by Day](https://open.spotify.com/track/7nCLWAwlLfJgg4xDm4qjyA) | [Brandon Estrada](https://open.spotify.com/artist/32s9nbMhyhXRKma5C6VusV), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Day By Day](https://open.spotify.com/album/2gVd0QcZkUBmJJSD6AL9do) | 3:05 |
+| 74 | [Then I'll Be Tired of You](https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Love & the Lack Thereof](https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6) | 6:13 |
 | 75 | [It Amazes Me](https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw) | [Marie Bergman](https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99) | [Fruit](https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1) | 4:22 |
 | 76 | [Li'l Darlin](https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU) | [Neal Hefti](https://open.spotify.com/artist/3IjVHk8Mo8GBMKyHnwmth8), [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [Li'l Darlin](https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9) | 3:15 |
 | 77 | [I've Been Kicking Myself](https://open.spotify.com/track/0yllbeI1EJEx9kFn5jVgN2) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [I've Been Kicking Myself](https://open.spotify.com/album/0qZYvYJsrTrGUz4XxgMBsq) | 3:14 |

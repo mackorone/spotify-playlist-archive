@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭
 
-395 songs - 20 hr 28 min
+396 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 | 2025-01-16 | 2025-01-31 |
 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 | 2025-06-26 | 2025-08-31 |
 | [Alle vil til himmelen](https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Alle vil til himmelen](https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z) | 2:25 | 2025-08-11 | 2025-08-17 |
+| [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 | 2025-10-23 |  |
 | [Alt til sin tid](https://open.spotify.com/track/6KXuQnp9OlSbxGqXccex47) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Alt til sin tid](https://open.spotify.com/album/5cA6qcqSAJJqyNOcZHuwb0) | 2:07 | 2025-08-14 | 2025-08-29 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-21 | 2025-05-02 |
 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-09 | 2025-06-08 |
@@ -63,7 +64,7 @@
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-10-23 |  |
 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 | 2025-10-16 |  |
 | [Chaos](https://open.spotify.com/track/52RqMbWDZmNEcj4ogyIDAn) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Chaos](https://open.spotify.com/album/16hB0SDVHnDtThxvcVGi6A) | 3:38 | 2024-09-05 | 2024-09-27 |
-| [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 | 2025-01-23 |  |
+| [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 | 2025-01-23 | 2025-10-30 |
 | [Chat](https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Chat](https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF) | 2:19 | 2024-08-29 | 2024-09-06 |
 | [Cherry](https://open.spotify.com/track/2TudsWFxqQy4fJRkMO7TQF) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Cherry](https://open.spotify.com/album/17dAMvsknRZag8Kz8jzY9L) | 2:28 | 2025-07-10 | 2025-07-25 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-27 | 2025-03-28 |

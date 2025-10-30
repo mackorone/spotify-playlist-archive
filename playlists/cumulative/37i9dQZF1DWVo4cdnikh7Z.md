@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Dude
 
-2,060 songs - 5 day 4 hr 29 min
+2,060 songs - 5 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Aaruyire](https://open.spotify.com/track/02cNmOdOc5jeuu0uT7MVQg) | [Kannan Narayanan](https://open.spotify.com/artist/7r0u1R5mKyuh2rA2ke2c9L), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Raththam](https://open.spotify.com/album/6IfcPon7YDloerAbZqJkvf) | 4:13 | 2023-10-11 | 2023-10-14 |
 | [Aaruyire](https://open.spotify.com/track/6svoL2dcXYlF9vC7wl1tlE) | [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Chandru](https://open.spotify.com/artist/6ECyQjgoQexmLt3YShhyr8) | [Raththam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7onlhDv958du9NAFRRAeLF) | 4:13 | 2023-10-11 | 2023-10-24 |
 | [Aaruyire \- From "Diesel"](https://open.spotify.com/track/1CUn6N4tlRsgEMZ3uPQjh1) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Aaruyire \(From "Diesel"\)](https://open.spotify.com/album/2g7RnKZKB2R9pbAwMrd75Z) | 2:08 | 2025-10-03 | 2025-10-16 |
-| [Aaruyire Reprise](https://open.spotify.com/track/5uFeRlKBh8o3Y7MWdMd6q5) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Harish Kalyan](https://open.spotify.com/artist/6BcKl9CndKi18aLEvJa51D), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Diesel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6idFbIHXUjxN9oQHPss8Vl) | 2:08 | 2025-10-15 |  |
+| [Aaruyire Reprise](https://open.spotify.com/track/5uFeRlKBh8o3Y7MWdMd6q5) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Harish Kalyan](https://open.spotify.com/artist/6BcKl9CndKi18aLEvJa51D), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Diesel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6idFbIHXUjxN9oQHPss8Vl) | 0:59 | 2025-10-15 |  |
 | [Aasa Kooda \- From "Think Indie"](https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Sai Smriti](https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc) | [Aasa Kooda \(From "Think Indie"\)](https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5) | 3:35 | 2024-06-19 | 2024-11-05 |
 | [Aasa Orave](https://open.spotify.com/track/6LT7bcpxRV7y2ipQbOvgka) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU) | [Lubber Pandhu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LBvPx4DFCDyRUbfdlu9xk) | 3:46 | 2024-08-29 | 2024-11-28 |
 | [Aasa Orave \(From "Lubber Pandhu"\)](https://open.spotify.com/track/13rxBnVKf9lKXQ5vzG9k8c) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU) | [Aasa Orave \(From "Lubber Pandhu"\)](https://open.spotify.com/album/3pIT45HXPigtN1HoOa8JRR) | 3:46 | 2024-02-22 | 2024-04-06 |

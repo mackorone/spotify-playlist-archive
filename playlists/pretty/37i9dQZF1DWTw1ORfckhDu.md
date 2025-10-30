@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💶 Kannessa Turisti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,524 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,527 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 38 | [Veli](https://open.spotify.com/track/06Jn7UjPJzP99sg0cT49KA) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Naarmuja](https://open.spotify.com/album/4GqH3QQoP5BOlmxTkbq8mg) | 2:56 |
 | 39 | [Muija on näläs](https://open.spotify.com/track/7Maax6CVfXC29rUyed8qS5) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1) | [Muija on näläs](https://open.spotify.com/album/0p3Aaw80uddWeuHo66Q0cs) | 3:22 |
 | 40 | [NRO1 BÄMÄ](https://open.spotify.com/track/6cNFoKcRDKFs2j2aUKxYtt) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [NRO1 BÄMÄ](https://open.spotify.com/album/4Qw9aHxTzjFkWxZsGiwK8z) | 2:34 |
-| 41 | [Itsestäänselvää](https://open.spotify.com/track/7r2VVUEfLus5vl1u4bzWGc) | [Ricky\-Tick Big Band](https://open.spotify.com/artist/675Qg2fTWKVFFYEEFvZRTL), [Paleface](https://open.spotify.com/artist/5CNgBVZXUEEGqyzgjUAgDj), [Tommy Lindgren](https://open.spotify.com/artist/5zOhiw5KZ3NFfCRZQmCKf3), [Valtteri Laurell](https://open.spotify.com/artist/1syo5wnTXebY8LEJb0gXb6), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Itsestäänselvää](https://open.spotify.com/album/0UzAVi9kXigzxJYMCoQOcf) | 3:10 |
+| 41 | [Itsestäänselvää](https://open.spotify.com/track/7r2VVUEfLus5vl1u4bzWGc) | [Ricky\-Tick Big Band](https://open.spotify.com/artist/675Qg2fTWKVFFYEEFvZRTL), [Julkinen Sana](https://open.spotify.com/artist/1bLFitomD6UzraAROgqhlZ), [Paleface](https://open.spotify.com/artist/5CNgBVZXUEEGqyzgjUAgDj), [Tommy Lindgren](https://open.spotify.com/artist/5zOhiw5KZ3NFfCRZQmCKf3), [Valtteri Laurell](https://open.spotify.com/artist/1syo5wnTXebY8LEJb0gXb6), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Itsestäänselvää](https://open.spotify.com/album/0UzAVi9kXigzxJYMCoQOcf) | 3:10 |
 | 42 | [Tehtaan Takuu](https://open.spotify.com/track/0fCPXD3gyyvcGCUDNbWIwf) | [Bulle](https://open.spotify.com/artist/1lXwfUoWuEuKgm6oPTkGQl), [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD), [Taisto Tapulist](https://open.spotify.com/artist/7qg86ebKDwx18tTzUMJyb5) | [Tehtaan Takuu](https://open.spotify.com/album/4eIOlifvxj7isLOfKDgKjX) | 3:20 |
 | 43 | [Kostaa](https://open.spotify.com/track/2OeqKU2TB8glJq5RIY5Xgz) | [NCO](https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1) | [shawty](https://open.spotify.com/album/4YD626R8qGxvwZAPRaaZwK) | 2:55 |
 | 44 | [Ylibuukattu](https://open.spotify.com/track/0tHGD8lfEjbIYgG28aVyDz) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Ylibuukattu](https://open.spotify.com/album/738LkmjU8QxUmHtOq6Waoh) | 2:49 |

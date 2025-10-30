@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 20940,
+  "num_followers": 20949,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAAsmTKYGsYwT4yk2R+RLMV4",
+  "snapshot_id": "aQAHgAAAAAC1+EMBTfTZq3QAXx1v1e5Y",
   "tracks": [
     {
       "added_at": null,
@@ -151,22 +151,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+        "name": "Violence",
+        "url": "https://open.spotify.com/album/25k7hGeNZ7yvgR3D51cRQB"
       },
       "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 186693,
-      "name": "Arco\u00edris",
-      "url": "https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1"
+      "duration_ms": 156715,
+      "name": "Violence",
+      "url": "https://open.spotify.com/track/1xKTpn0PlVvu0dZoxrbgwr"
     },
     {
       "added_at": null,
@@ -187,18 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Violence",
-        "url": "https://open.spotify.com/album/25k7hGeNZ7yvgR3D51cRQB"
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
       },
       "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 156715,
-      "name": "Violence",
-      "url": "https://open.spotify.com/track/1xKTpn0PlVvu0dZoxrbgwr"
+      "duration_ms": 186693,
+      "name": "Arco\u00edris",
+      "url": "https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1"
     },
     {
       "added_at": null,

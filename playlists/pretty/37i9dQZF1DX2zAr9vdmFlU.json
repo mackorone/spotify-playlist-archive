@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 438047,
+  "num_followers": 438036,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -323,26 +323,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Regalo",
-        "url": "https://open.spotify.com/album/512JRiq6UX5wYeFIAXN4KK"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "Regalo",
-      "url": "https://open.spotify.com/track/7mU8ts3VQhufEOMc00vzKX"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Ra\u00edz",
         "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 180640,
       "name": "Cumbia del Mole",
       "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Regalo",
+        "url": "https://open.spotify.com/album/512JRiq6UX5wYeFIAXN4KK"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "Regalo",
+      "url": "https://open.spotify.com/track/7mU8ts3VQhufEOMc00vzKX"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Bienvenido a mi habitaci\u00f3n",
-        "url": "https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp"
-      },
-      "artists": [
-        {
-          "name": "Georgina",
-          "url": "https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b"
-        }
-      ],
-      "duration_ms": 192007,
-      "name": "Bienvenido a mi habitaci\u00f3n",
-      "url": "https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "inmortal",
         "url": "https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 155601,
       "name": "inmortal",
       "url": "https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Bienvenido a mi habitaci\u00f3n",
+        "url": "https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp"
+      },
+      "artists": [
+        {
+          "name": "Georgina",
+          "url": "https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b"
+        }
+      ],
+      "duration_ms": 192007,
+      "name": "Bienvenido a mi habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
-        "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
-      },
-      "artists": [
-        {
-          "name": "Zenet",
-          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
-        }
-      ],
-      "duration_ms": 239800,
-      "name": "Quien Sabe",
-      "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 224261,
       "name": "Price of Life",
       "url": "https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
+        "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "duration_ms": 239800,
+      "name": "Quien Sabe",
+      "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Guajira",
-        "url": "https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V"
-      },
-      "artists": [
-        {
-          "name": "HABIBI",
-          "url": "https://open.spotify.com/artist/3RwYN0Swosf86cRdNn77Jt"
-        },
-        {
-          "name": "Elisabeth Borne",
-          "url": "https://open.spotify.com/artist/3xgdUKPsJSjxeYeLWeLgna"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Guajira",
-      "url": "https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Todo Cambi\u00f3",
         "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 218909,
       "name": "Todo Cambi\u00f3",
       "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Guajira",
+        "url": "https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V"
+      },
+      "artists": [
+        {
+          "name": "HABIBI",
+          "url": "https://open.spotify.com/artist/3RwYN0Swosf86cRdNn77Jt"
+        },
+        {
+          "name": "Elisabeth Borne",
+          "url": "https://open.spotify.com/artist/3xgdUKPsJSjxeYeLWeLgna"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Guajira",
+      "url": "https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Malo Para M\u00ed",
-        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
-      },
-      "artists": [
-        {
-          "name": "Banana Leaf Boy",
-          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
-        }
-      ],
-      "duration_ms": 282415,
-      "name": "Malo Para M\u00ed",
-      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Los Palos",
         "url": "https://open.spotify.com/album/3fTYIIkdPaTguCnNvT7BkY"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 199271,
       "name": "Los Palos",
       "url": "https://open.spotify.com/track/52NTNT8dND7VzOF9jaHJyz"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Malo Para M\u00ed",
+        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
+      },
+      "artists": [
+        {
+          "name": "Banana Leaf Boy",
+          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
+        }
+      ],
+      "duration_ms": 282415,
+      "name": "Malo Para M\u00ed",
+      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
     },
     {
       "added_at": "2025-10-10 04:00:26",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: WOODZ\)
+> Future K\-Pop hits! \(Cover: &TEAM\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,226 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,298 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [HIGH=LOVE](https://open.spotify.com/track/00aGNVAvuz7BbTfXyqIu2E) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [the a\(e\)nd](https://open.spotify.com/album/20AadKt47X13wv79tS33Yv) | 3:11 |
 | 50 | [Awake](https://open.spotify.com/track/0jkTfpiISLOLYnIozYBX0x) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [Awake](https://open.spotify.com/album/1mhkm2sS4ZCj2u7yHsVmBH) | 2:58 |
 
-Snapshot ID: `AAAAAHMGCJE17Mj/6j0IivtM7ntVHGNQ`
+Snapshot ID: `AAAAAFrPbZGwLUN/zgJ8h3HM4L9mXyz3`

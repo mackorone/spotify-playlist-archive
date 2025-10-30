@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,553 likes - 51 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,598 likes - 51 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 50 | [Rato Laka](https://open.spotify.com/track/46NRGSM8TnSkJexKnQtoKw) | [Shebeshxt](https://open.spotify.com/artist/4bDFUYafgZILBp9Yv71mCS), [Naqua SA](https://open.spotify.com/artist/4ZBGTuegA9imRSv755wQVe), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Slidoo Man](https://open.spotify.com/artist/432Q2ltFbOkFFBdAOxEdjD) | [Rato Laka](https://open.spotify.com/album/3mxwqhlLvT40u1dJhTvJmk) | 5:34 |
 | 51 | [US](https://open.spotify.com/track/1xonJzRr8OL83dQdxMOqRU) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es) | [US](https://open.spotify.com/album/0ESCKKZ7PjrVPaKeP3too3) | 1:16 |
 
-Snapshot ID: `AAAAAKnIckyvLtTA5X9bePvoqzUmlPFZ`
+Snapshot ID: `AAAAAFJ82BBMrkmUp2Sa3998Z6DydgU2`

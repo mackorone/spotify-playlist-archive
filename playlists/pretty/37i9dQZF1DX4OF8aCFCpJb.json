@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 70942,
+  "num_followers": 70944,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "N\u00e4r solen g\u00e5r ner",
-        "url": "https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h"
+        "name": "From A Far (2007 Edition)",
+        "url": "https://open.spotify.com/album/3OHHIT1fjnhOigxPE74x9z"
       },
       "artists": [
         {
-          "name": "AKI",
-          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
-        },
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+          "name": "Million Stylez",
+          "url": "https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L"
         }
       ],
-      "duration_ms": 221773,
-      "name": "N\u00e4r solen g\u00e5r ner - Kap10 Reggae Remix",
-      "url": "https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA"
+      "duration_ms": 237733,
+      "name": "Miss Fatty",
+      "url": "https://open.spotify.com/track/3GzN0uzkz3OzVaEsG4my2n"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -115,18 +111,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "From A Far (2007 Edition)",
-        "url": "https://open.spotify.com/album/3OHHIT1fjnhOigxPE74x9z"
+        "name": "N\u00e4r solen g\u00e5r ner",
+        "url": "https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h"
       },
       "artists": [
         {
-          "name": "Million Stylez",
-          "url": "https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L"
+          "name": "AKI",
+          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
+        },
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
         }
       ],
-      "duration_ms": 237733,
-      "name": "Miss Fatty",
-      "url": "https://open.spotify.com/track/3GzN0uzkz3OzVaEsG4my2n"
+      "duration_ms": 221773,
+      "name": "N\u00e4r solen g\u00e5r ner - Kap10 Reggae Remix",
+      "url": "https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -445,7 +445,7 @@
       "artists": [
         {
           "name": "Moncho",
-          "url": "https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc"
+          "url": "https://open.spotify.com/artist/7drzshf32rQvrV5YiZfi2O"
         },
         {
           "name": "Naasty",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Leva",
-        "url": "https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh"
-      },
-      "artists": [
-        {
-          "name": "Issify",
-          "url": "https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM"
-        }
-      ],
-      "duration_ms": 176613,
-      "name": "Leva",
-      "url": "https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "S\u00e5 nice",
         "url": "https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 169500,
       "name": "S\u00e5 nice",
       "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Leva",
+        "url": "https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh"
+      },
+      "artists": [
+        {
+          "name": "Issify",
+          "url": "https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM"
+        }
+      ],
+      "duration_ms": 176613,
+      "name": "Leva",
+      "url": "https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "S\u00e5 fakking fin",
-        "url": "https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA"
-      },
-      "artists": [
-        {
-          "name": "Robinholta",
-          "url": "https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "S\u00e5 fakking fin",
-      "url": "https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
         "url": "https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 214125,
       "name": "Back on track",
       "url": "https://open.spotify.com/track/1yCqXDVbXDyF75VliHTJyv"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "S\u00e5 fakking fin",
+        "url": "https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA"
+      },
+      "artists": [
+        {
+          "name": "Robinholta",
+          "url": "https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "S\u00e5 fakking fin",
+      "url": "https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ"
     },
     {
       "added_at": "2024-06-24 11:19:01",

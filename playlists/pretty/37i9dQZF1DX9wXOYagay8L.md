@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: SIIBU
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,417 likes - 96 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,688 likes - 96 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/7sR4V3QuvyZS8jLzbhUpM2) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/album/5aQWOuuzkvcemieOiW1t7H) | 3:27 |
 | 2 | [Amacala Othando](https://open.spotify.com/track/0BPSspDAsemhtQpcw1Xhpm) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5), [Malungelo](https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4) | [Amacala Othando](https://open.spotify.com/album/0t7rjdzxqkVl0XLv8jky2B) | 4:47 |
-| 3 | [Ngiyeza](https://open.spotify.com/track/3PLlRioGyfXbEY9Mlf4k8X) | [SIIBU](https://open.spotify.com/artist/2YUPgGlOpUW8MqoVBQICdd), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv) | [A Zulu Lover Girl](https://open.spotify.com/album/6quj8KJtq38WLpoyMOjIuL) | 3:25 |
+| 3 | [Ngiyeza](https://open.spotify.com/track/3PLlRioGyfXbEY9Mlf4k8X) | [SIIBU](https://open.spotify.com/artist/2YUPgGlOpUW8MqoVBQICdd), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv) | [A Zulu Lover Girl](https://open.spotify.com/album/6quj8KJtq38WLpoyMOjIuL) | 2:55 |
 | 4 | [Dear Ex Yami](https://open.spotify.com/track/1lOtpeO2I2cjvN2CvbnpGW) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Fanatic SA](https://open.spotify.com/artist/5g2oHSGu7YX4EHoSCKIUqo), [Stallin Matsitsa](https://open.spotify.com/artist/4L0dgq6erLpWok6Snhp1bI), [Caeser](https://open.spotify.com/artist/756OYK25pOSHYUiTr5RWEw), [Ayanda Art](https://open.spotify.com/artist/6vl2O57bwb1wowTzUZIDTv) | [Dear Ex Yami](https://open.spotify.com/album/609M6ab6B7QlgEQnvayL56) | 4:38 |
 | 5 | [Edolobheni](https://open.spotify.com/track/0tFeS01erQ0ISegzQiWZzN) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Amaciko](https://open.spotify.com/album/3tHmkwiPqacINoXkGQ7Dda) | 3:54 |
 | 6 | [Marry me](https://open.spotify.com/track/2SlFyZLbFhRXmqlLU2S87B) | [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs), [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE), [Kinglee Beats](https://open.spotify.com/artist/0vbMPEuWEuSaetTmp50LZP) | [Otherwise, uRight?](https://open.spotify.com/album/6znV0z4e94CXQeSemVjlLI) | 3:45 |

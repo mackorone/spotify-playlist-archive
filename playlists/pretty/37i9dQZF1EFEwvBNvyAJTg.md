@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100 likes - 185 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 103 likes - 185 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 63 | [in the car](https://open.spotify.com/track/5zNJ8sfjLHdmhRlJxNjGfl) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 2 \(og version\)](https://open.spotify.com/album/15h14WTWpQpFWjaw81uD0N) | 2:09 |
 | 64 | [The Power \(feat\. Dizzee Rascal\) \- Radio Edit](https://open.spotify.com/track/6nq8E2aA2xCwGNE36VMiF7) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [Nextlevelism](https://open.spotify.com/album/5IqZHG6yO5SL6biWicPG3Y) | 2:47 |
 | 65 | [Let You](https://open.spotify.com/track/04RDD103rSChGr2X3SbSyC) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Let You](https://open.spotify.com/album/2cezX4lRWqayjA6j82aYyE) | 2:46 |
-| 66 | [What You Waiting For \(feat\. Kylie Minogue\)](https://open.spotify.com/track/3tjNFVYyJwiWAq1XfHWLMj) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 4:11 |
-| 67 | [Hot & Sexy](https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 |
+| 66 | [Hot & Sexy](https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 |
+| 67 | [What You Waiting For \(feat\. Kylie Minogue\)](https://open.spotify.com/track/3tjNFVYyJwiWAq1XfHWLMj) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 4:11 |
 | 68 | [Tonight \(D.I.Y.A\) \- Pitbull Remix](https://open.spotify.com/track/5tLCZ73pEFUzxEd1W4DeCs) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Tonight \(D.I.Y.A\) \[Pitbull Remix\]](https://open.spotify.com/album/0EIZb3DTMZlZt2FLndqpSY) | 2:32 |
 | 69 | [My Shadow](https://open.spotify.com/track/7g2m8xdym2wNCs8vHdXdv3) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:29 |
 | 70 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 184 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 185 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AcAGfgAAAABECa2AfliOfhWR6X6sHW6z`
+Snapshot ID: `AcAMMgAAAAAKM+AbBpKEs3fWeBlSDssX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: gio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,165 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,203 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 77 | [MAYBE I LIED](https://open.spotify.com/track/3Vj2bhLDbvaSYWdf5md3i8) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [ETERNAL](https://open.spotify.com/album/3IiY9xGRGrjHyYx4DpFkLv) | 3:00 |
 | 78 | [ALREADY DEAD](https://open.spotify.com/track/41lHIaVprfFvKNqUtKZf4M) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p) | [ALREADY DEAD](https://open.spotify.com/album/5rT8joMshKbVK67OCf5DOr) | 2:09 |
 | 79 | [Grime Not Gallagher](https://open.spotify.com/track/1NuNyFwgWDF6xSGy3SKznC) | [Bobby Baker](https://open.spotify.com/artist/24mCrmpVV2xgoHxR6ZPNwA), [Nick Brewer](https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Grime Not Gallagher](https://open.spotify.com/album/3uDmyXYFg6AYvf0scR1Z6D) | 2:17 |
-| 80 | [Bigger Than Me](https://open.spotify.com/track/55RwtAhtpaQCEqqi7gCo8P) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Vigilante](https://open.spotify.com/album/3VZ4yCOVPOwge9LSlDtK4X) | 3:24 |
+| 80 | [Bigger Than Me](https://open.spotify.com/track/55RwtAhtpaQCEqqi7gCo8P) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV) | [Vigilante](https://open.spotify.com/album/3VZ4yCOVPOwge9LSlDtK4X) | 3:24 |
 | 81 | [I Ain't Worried](https://open.spotify.com/track/73t0NQMn7cB9maJ4ydNnGS) | [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0) | [Blameless](https://open.spotify.com/album/71y5aQ69P6j4bltUNwCOQb) | 3:42 |
 | 82 | [MAN ABOVE](https://open.spotify.com/track/6j3WTzuSCJIIsgw8giRSmv) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [MAN ABOVE](https://open.spotify.com/album/2cJP4CkasNZFijvuoTLIAo) | 3:08 |
 | 83 | [God 1st](https://open.spotify.com/track/3fr7sRjXYbYz7rf2EdiKXr) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [God 1st](https://open.spotify.com/album/7a33DGV1r0RPgDLBDU2aez) | 2:00 |

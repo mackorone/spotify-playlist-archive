@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,142 likes - 47 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,138 likes - 47 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 28 | [Desse Jeito é Ruim Pra Mim / Perfume / Antes de Dizer Adeus \- Ao vivo](https://open.spotify.com/track/1CehxijvhSszrBS3FuCxBw) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 6:41 |
 | 29 | [Coração Deserto / Ninguém Merece Amar Sozinho / A Primeira Namorada \- Ao Vivo](https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sorriso Eu Gosto No Pagode \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v) | 7:31 |
 | 30 | [Eu estive Aqui \- Ao Vivo](https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:40 |
-| 31 | [CAM GIRL](https://open.spotify.com/track/0b7fhIHDFwmzwOcVCQvB2Y) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [CAM GIRL](https://open.spotify.com/album/2UDItWXKVZ4hhrsjMR3xks) | 3:00 |
+| 31 | [Um Pôr do Sol Na Praia](https://open.spotify.com/track/7JGjgJOUPjyc35carv8hoh) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Um Pôr do Sol Na Praia](https://open.spotify.com/album/1UVkJQfyY6tX2su3aLSgXO) | 3:08 |
 | 32 | [Mande Um Sinal / Sinais \- Ao vivo](https://open.spotify.com/track/7gGCGzNFmW0xjhA8dA3Y5w) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 4:41 |
-| 33 | [Um Pôr do Sol Na Praia](https://open.spotify.com/track/7JGjgJOUPjyc35carv8hoh) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Um Pôr do Sol Na Praia](https://open.spotify.com/album/1UVkJQfyY6tX2su3aLSgXO) | 3:08 |
+| 33 | [CAM GIRL](https://open.spotify.com/track/0b7fhIHDFwmzwOcVCQvB2Y) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [CAM GIRL](https://open.spotify.com/album/2UDItWXKVZ4hhrsjMR3xks) | 3:00 |
 | 34 | [Sinais de fogo \- Ao Vivo](https://open.spotify.com/track/5Uq1ta57YcmShqMyPmVyyO) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 3:21 |
 | 35 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 |
 | 36 | [Sintoma de Amor / Depois do Amor / Agenda \- Ao vivo](https://open.spotify.com/track/6LgkG3CQKp6qejNMpOatMj) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 5:25 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 46 | [Lud Session \#2: Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Lud Session \#2: Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV) | 9:19 |
 | 47 | [Sua Preferida](https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Sua Preferida](https://open.spotify.com/album/4RQvTnJzJbkK0nz6AMKE5O) | 2:31 |
 
-Snapshot ID: `aP62AAAAAAC/J+7csQPrUCiAa838VIHt`
+Snapshot ID: `aQAHgAAAAAD5Ej1aON0lrOcW+dGo884s`

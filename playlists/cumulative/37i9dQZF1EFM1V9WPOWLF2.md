@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/58hAgtMO44tADTax7J2lEG">Albert Hype</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-100 songs - 4 hr 45 min
+103 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [La Luz](https://open.spotify.com/track/3b6c7OG17RpjolAdT1a3x9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [desAMORfosis](https://open.spotify.com/album/5x6WtKftK68fbgtinzgeSG) | 2:02 | 2024-04-05 |  |
 | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/track/1D0Uz2anDZW9s5Y0eiKC2H) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J) | 2:30 | 2024-04-05 |  |
 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/5ycn8M0WNGedabDuaH9mQT) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:15 | 2024-04-05 |  |
+| [LIKE A CHAMPION](https://open.spotify.com/track/73mViHQE6N08rInBWkyaiw) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [POR LA CULTURA MIXTAPE VOL\. 1](https://open.spotify.com/album/1OFtSDQuCHuLjDwEqIAqDH) | 2:12 | 2025-10-29 |  |
 | [Luna Llena](https://open.spotify.com/track/1bWgH8CoRntlH5m3VLkbmu) | [GIGI SALDAÑA](https://open.spotify.com/artist/0EyHu2W0sQlu85nKWfuWVP) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:29 | 2024-04-05 |  |
 | [Malas Decisiones](https://open.spotify.com/track/4dRggoEpvJPAwmCMAO7HvB) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:37 | 2024-04-05 |  |
 | [MENTE \(with Tainy & Mau y Ricky\)](https://open.spotify.com/track/5OVYDbQP9pMKpF0ViSyMty) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [MENTE \(with Tainy & Mau y Ricky\)](https://open.spotify.com/album/3svtbAQNLpKVpUFlArRN3n) | 3:46 | 2024-04-05 |  |
@@ -65,6 +66,7 @@
 | [Noches de Soledad](https://open.spotify.com/track/6wYzqcXiX3orkFVkKZtZkF) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin) | [Noches de Soledad](https://open.spotify.com/album/3HPJ0W9d8RSosSZeZfM7AE) | 3:04 | 2024-04-05 |  |
 | [Online ;\(](https://open.spotify.com/track/4ZL7RxR7Ce5sXDhaWkAaGa) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:42 | 2024-04-05 |  |
 | [Pa' Chile](https://open.spotify.com/track/0xINw5OfMEFpgqfgVnN3Bu) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:39 | 2024-04-05 |  |
+| [PA' TRAS](https://open.spotify.com/track/7tsRxO9A0LraSjikA0kg9C) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [POR LA CULTURA MIXTAPE VOL\. 1](https://open.spotify.com/album/1OFtSDQuCHuLjDwEqIAqDH) | 2:05 | 2025-10-29 |  |
 | [PAPA JOHNS](https://open.spotify.com/track/78priJC6WYdAjjH9CoaXMA) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:28 | 2024-04-05 |  |
 | [PARANOIA.](https://open.spotify.com/track/4fbNiLNjjCTHZAIkcG5aIh) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PARANOIA.](https://open.spotify.com/album/4S65UMxUGogJERqXWAdEXU) | 3:06 | 2025-07-09 |  |
 | [Parece Falso](https://open.spotify.com/track/2OwcfT3oWowyhLKRaBdt59) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Parece Falso](https://open.spotify.com/album/1nRYqTPXNyJtjMeEeMR0J0) | 3:11 | 2024-04-05 |  |
@@ -90,6 +92,7 @@
 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 | 2024-04-05 |  |
 | [Te Felicito](https://open.spotify.com/track/64zcAZeIWHszCGKOSqAogH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:52 | 2024-04-05 |  |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2024-04-05 |  |
+| [Temporary](https://open.spotify.com/track/28zcTRqgD2iVOE4KEKCAxi) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Temporary](https://open.spotify.com/album/4q8Lf22VusXiVGManncPJY) | 3:24 | 2025-10-29 |  |
 | [Tiempo Sin Verte](https://open.spotify.com/track/6c8jkAgbVk44B8SwRi8vQs) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:16 | 2025-01-09 | 2025-04-12 |
 | [TNT](https://open.spotify.com/track/74h5MxKFLCzHFnscai2nbY) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [COLABORACIONES](https://open.spotify.com/album/117GlVLvuRPiZFLprhE61n) | 2:05 | 2024-04-05 |  |
 | [TOA](https://open.spotify.com/track/23t1V5mOAsixIY5RVtTIng) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:15 | 2025-07-09 |  |

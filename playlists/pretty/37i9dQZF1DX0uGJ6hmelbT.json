@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Cantos y Rondas de todos los tiempos para jugar y aprender!",
-  "num_followers": 25718,
+  "num_followers": 25723,
   "original_name": "Jugando y Cantando",
   "owner": {
     "name": "Spotify",
@@ -92,12 +92,12 @@
       },
       "artists": [
         {
-          "name": "Cantiaventuras",
-          "url": "https://open.spotify.com/artist/5xnIrIG5dZQuI1BrrKpGga"
-        },
-        {
           "name": "Canticuentos",
           "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+        },
+        {
+          "name": "Cantiaventuras",
+          "url": "https://open.spotify.com/artist/5xnIrIG5dZQuI1BrrKpGga"
         }
       ],
       "duration_ms": 143649,

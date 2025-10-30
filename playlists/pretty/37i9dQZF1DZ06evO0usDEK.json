@@ -1,13 +1,29 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 48818,
+  "num_followers": 48820,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAAsM4umb6OIp2RfKhUGSOHT",
+  "snapshot_id": "aQAHgAAAAAAfIrhTp553Dra4de/AiZ/Z",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holidays",
+        "url": "https://open.spotify.com/album/53zXFKaTL0QhRqxxuVrYV1"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 233053,
+      "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
+      "url": "https://open.spotify.com/track/61xRAEp807F56tAH3St193"
+    },
     {
       "added_at": null,
       "album": {
@@ -119,26 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Love",
-        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
-      },
-      "artists": [
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/2RcwUh5tvQz9VcDrmhp9fV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roberta Flack & Donny Hathaway",
         "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
       },
@@ -155,6 +151,26 @@
       "duration_ms": 163453,
       "name": "Where Is the Love",
       "url": "https://open.spotify.com/track/65ADTP6Q8mratfOIeKHp7e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born To Love",
+        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
+      },
+      "artists": [
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/2RcwUh5tvQz9VcDrmhp9fV"
     },
     {
       "added_at": null,
@@ -483,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 243360,
+      "name": "Jesse",
+      "url": "https://open.spotify.com/track/3OepQ3fQXOa0Tr6H7RKHn6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Very Best of Roberta Flack",
         "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
       },
@@ -499,22 +531,6 @@
       "duration_ms": 319893,
       "name": "Set the Night to Music (with Maxi Priest) - 2006 Remaster",
       "url": "https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 243360,
-      "name": "Jesse",
-      "url": "https://open.spotify.com/track/3OepQ3fQXOa0Tr6H7RKHn6"
     },
     {
       "added_at": null,
@@ -555,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roberta Flack & Donny Hathaway",
-        "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -591,6 +587,26 @@
       "duration_ms": 243466,
       "name": "You're Lookin' Like Love To Me",
       "url": "https://open.spotify.com/track/3ry3B05LnmDlL43M4UUl3S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roberta Flack & Donny Hathaway",
+        "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8"
     },
     {
       "added_at": null,
@@ -679,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 300560,
+      "name": "Sunday and Sister Jones",
+      "url": "https://open.spotify.com/track/7EIm0unRcbYVfQ7oLXCPOg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -695,22 +727,6 @@
       "duration_ms": 271640,
       "name": "Can We Find Love Again",
       "url": "https://open.spotify.com/track/1G13qSTYRoDhyuFub96Y7P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 300560,
-      "name": "Sunday and Sister Jones",
-      "url": "https://open.spotify.com/track/7EIm0unRcbYVfQ7oLXCPOg"
     },
     {
       "added_at": null,
@@ -747,30 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Lives Forever",
-        "url": "https://open.spotify.com/album/5uBMH0TZQnMyDyMsDpYy1n"
-      },
-      "artists": [
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        },
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 420986,
-      "name": "Here We Go",
-      "url": "https://open.spotify.com/track/4Ro6O6zW2bNaHLNVGixHwF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quiet Fire",
         "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
       },
@@ -803,6 +795,30 @@
       "duration_ms": 266160,
       "name": "IF I'M STILL AROUND TOMORROW (feat. ROBERTA FLACK)",
       "url": "https://open.spotify.com/track/3VjGHCdwCJGCYXuRRnQZI5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Lives Forever",
+        "url": "https://open.spotify.com/album/5uBMH0TZQnMyDyMsDpYy1n"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        },
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 420986,
+      "name": "Here We Go",
+      "url": "https://open.spotify.com/track/4Ro6O6zW2bNaHLNVGixHwF"
     },
     {
       "added_at": null,
@@ -911,26 +927,6 @@
       "duration_ms": 420160,
       "name": "Ballad of the Sad Young Men",
       "url": "https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born To Love",
-        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
-      },
-      "artists": [
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "I Just Came Here To Dance",
-      "url": "https://open.spotify.com/track/0uNqTYH6znvlSHEBkGBVnL"
     }
   ],
   "unique_name": "This Is Roberta Flack",

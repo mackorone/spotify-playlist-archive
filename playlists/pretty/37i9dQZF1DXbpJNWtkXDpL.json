@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
-  "num_followers": 92278,
+  "num_followers": 92273,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "MAYDAY",
-        "url": "https://open.spotify.com/album/2K7GpirzWntlt2T0EthNF1"
-      },
-      "artists": [
-        {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
-        }
-      ],
-      "duration_ms": 113506,
-      "name": "arrancame los labios",
-      "url": "https://open.spotify.com/track/3xmjxQo1eSqn8ouPs9o5vV"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Sin Voz",
         "url": "https://open.spotify.com/album/6aXRA8awYCWrSNlUIiLidw"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 255488,
       "name": "Sin Voz",
       "url": "https://open.spotify.com/track/1q7on6hRi1dJkgshETQd10"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "MAYDAY",
+        "url": "https://open.spotify.com/album/2K7GpirzWntlt2T0EthNF1"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "duration_ms": 113506,
+      "name": "arrancame los labios",
+      "url": "https://open.spotify.com/track/3xmjxQo1eSqn8ouPs9o5vV"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "veranito2k",
-        "url": "https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG"
-      },
-      "artists": [
-        {
-          "name": "FREEKIDS",
-          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "veranito2k",
-      "url": "https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Griselda",
         "url": "https://open.spotify.com/album/4TzdW4hZcL7rgKgiTYkxLO"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 201000,
       "name": "Griselda",
       "url": "https://open.spotify.com/track/7eJyuk6HFHRmbPm6uymimu"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "veranito2k",
+        "url": "https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG"
+      },
+      "artists": [
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "veranito2k",
+      "url": "https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Ni\u00f1os",
-        "url": "https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU"
-      },
-      "artists": [
-        {
-          "name": "La Texana",
-          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Ni\u00f1os",
-      "url": "https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Voz en el Mar",
         "url": "https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 194694,
       "name": "Voz en el Mar",
       "url": "https://open.spotify.com/track/6PxW6AGMLOetOyHF7gjVAH"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Ni\u00f1os",
+        "url": "https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU"
+      },
+      "artists": [
+        {
+          "name": "La Texana",
+          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Ni\u00f1os",
+      "url": "https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Rinconcito en el Cielo",
-        "url": "https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 222855,
-      "name": "Rinconcito en el Cielo",
-      "url": "https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "inconformidable",
         "url": "https://open.spotify.com/album/6oA72A4zOHr3IMr4kC1gS5"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "Rinconcito en el Cielo",
+        "url": "https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 222855,
+      "name": "Rinconcito en el Cielo",
+      "url": "https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "Hesitated",
         "url": "https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp"
       },
@@ -1335,6 +1335,22 @@
       "duration_ms": 160426,
       "name": "Hesitated",
       "url": "https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Pepper",
+        "url": "https://open.spotify.com/album/5ZUAHLGYZheB9ope87iNmm"
+      },
+      "artists": [
+        {
+          "name": "Galvancillo",
+          "url": "https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV"
+        }
+      ],
+      "duration_ms": 202714,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/6ZSjGWn7C6Xw1dRHlNLsCP"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1359,22 +1375,6 @@
       "duration_ms": 208639,
       "name": "Bailar",
       "url": "https://open.spotify.com/track/2mZ0Wx315hGFz3TgnUX6bg"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "Pepper",
-        "url": "https://open.spotify.com/album/5ZUAHLGYZheB9ope87iNmm"
-      },
-      "artists": [
-        {
-          "name": "Galvancillo",
-          "url": "https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV"
-        }
-      ],
-      "duration_ms": 202714,
-      "name": "Pepper",
-      "url": "https://open.spotify.com/track/6ZSjGWn7C6Xw1dRHlNLsCP"
     },
     {
       "added_at": "2025-10-03 06:00:06",

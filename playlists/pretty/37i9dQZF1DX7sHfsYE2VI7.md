@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,517 likes - 70 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,560 likes - 70 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 35 | [Let Me Go](https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:13 |
 | 36 | [Jubel \- Radio Edit](https://open.spotify.com/track/6INwti4FZM31l0lJDKbpxn) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel](https://open.spotify.com/album/2QKdLS1J4yQ20q8ivavV6S) | 3:21 |
 | 37 | [Kids in Love \(feat\. The Night Game\)](https://open.spotify.com/track/5nmHl233yo8XJvaNfdKAWU) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [Kids in Love](https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM) | 4:23 |
-| 38 | [Chase the Sun](https://open.spotify.com/track/2mkBHN67xLpHrpqOuj79Yz) | [Planet Funk](https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4) | [Non Zero Sumness Plus One](https://open.spotify.com/album/4DcIgdBbqm0Fqhmh5RcoCD) | 3:53 |
+| 38 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
 | 39 | [Talisman](https://open.spotify.com/track/4XxbBFfKlXY2E5PN3dHAfz) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:16 |
-| 40 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
+| 40 | [Chase the Sun](https://open.spotify.com/track/2mkBHN67xLpHrpqOuj79Yz) | [Planet Funk](https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4) | [Non Zero Sumness Plus One](https://open.spotify.com/album/4DcIgdBbqm0Fqhmh5RcoCD) | 3:53 |
 | 41 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
 | 42 | [One Too Many Mornings](https://open.spotify.com/track/0lOzGDHcPlUB1ZvXMWQ0Oh) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Exit Planet Dust](https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg) | 4:13 |
 | 43 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 46 | [What's a Girl to Do](https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [A Girl Between Two Worlds](https://open.spotify.com/album/4MGNcuX4Vvhv2hhn1FwtDW) | 7:26 |
 | 47 | [Boy From School](https://open.spotify.com/track/1L8H6AuK4TaMmolSL0N0mR) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:19 |
 | 48 | [Angelica](https://open.spotify.com/track/5Rq2hPEd7UWN6i9tME54dj) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Between Darkness And Wonder](https://open.spotify.com/album/12xoI77eWPK0YfDNRMbEqW) | 3:40 |
-| 49 | [Love Generation \- Radio Edit](https://open.spotify.com/track/77gYpyxmd4b4VXw6qeuPJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Love Generation](https://open.spotify.com/album/2SPdbgwHd6pgrS9yawBB5t) | 3:24 |
-| 50 | [Another Chance](https://open.spotify.com/track/08fMRujpKhEDTanKN9l2ud) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [First Contact](https://open.spotify.com/album/6qu9ns8pdYAWJphzLszkny) | 7:32 |
+| 49 | [Another Chance](https://open.spotify.com/track/08fMRujpKhEDTanKN9l2ud) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [First Contact](https://open.spotify.com/album/6qu9ns8pdYAWJphzLszkny) | 7:32 |
+| 50 | [Love Generation \- Radio Edit](https://open.spotify.com/track/77gYpyxmd4b4VXw6qeuPJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Love Generation](https://open.spotify.com/album/2SPdbgwHd6pgrS9yawBB5t) | 3:24 |
 | 51 | [Hold On](https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:26 |
 | 52 | [Baby](https://open.spotify.com/track/0wPfUQUkWcguy2iUH0BWOT) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 4:24 |
 | 53 | [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 |

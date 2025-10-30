@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,436 likes - 95 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,626 likes - 95 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

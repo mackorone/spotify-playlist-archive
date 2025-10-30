@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DnkVH.md) - [plain]
 
 > This is Kate Bush\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,861 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,877 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,19 +29,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DnkVH.md) - [plain]
 | 19 | [L'Amour Looks Something Like You](https://open.spotify.com/track/5R2Y1z0PEWOYn4FBa01MJd) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 2:28 |
 | 20 | [Rocket Man](https://open.spotify.com/track/2DYOj01jENtD95hQzQywHI) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 4:59 |
 | 21 | [Mother Stands For Comfort](https://open.spotify.com/track/32sI8VkOOpnJxOaS92kEmI) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 3:08 |
-| 22 | [Sat In Your Lap](https://open.spotify.com/track/1PV9UUMqvIFD5uMWyWer3T) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Dreaming](https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo) | 3:29 |
+| 22 | [Night Scented Stock \- 2018 Remaster](https://open.spotify.com/track/6ZYjCeL9704rdBdDI59gRY) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 0:52 |
 | 23 | [Them Heavy People](https://open.spotify.com/track/1eN1L9mXLFepXpMJNSQng8) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 3:05 |
 | 24 | [Mná na hÉireann](https://open.spotify.com/track/0FceQXr3vhS0J3KnGwuBcp) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 2:56 |
-| 25 | [King Of The Mountain](https://open.spotify.com/track/21ZTkAe7nw4kAR1aHyZXSx) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial](https://open.spotify.com/album/7rJhczUZtha1uulvAlYS4j) | 4:53 |
-| 26 | [Night Scented Stock \- 2018 Remaster](https://open.spotify.com/track/6ZYjCeL9704rdBdDI59gRY) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 0:52 |
+| 25 | [Sat In Your Lap](https://open.spotify.com/track/1PV9UUMqvIFD5uMWyWer3T) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Dreaming](https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo) | 3:29 |
+| 26 | [King Of The Mountain](https://open.spotify.com/track/21ZTkAe7nw4kAR1aHyZXSx) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial](https://open.spotify.com/album/7rJhczUZtha1uulvAlYS4j) | 4:53 |
 | 27 | [Symphony in Blue \- 2018 Remaster](https://open.spotify.com/track/1ADI3yWnCH2cgZE9y6Ss0j) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Lionheart \(2018 Remaster\)](https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8) | 3:36 |
 | 28 | [Experiment IV \- Remastered 2025](https://open.spotify.com/track/6DL2DNCbzQiqQ8DhKqgRrf) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 4:54 |
-| 29 | [Somewhere In Between \- 2018 Remaster](https://open.spotify.com/track/49nRB16eio3crw2VprMRHG) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 5:04 |
-| 30 | [Delius \- 2018 Remaster](https://open.spotify.com/track/3dSd4f3KMC3efgKlODlnfZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 2:51 |
+| 29 | [Delius \- 2018 Remaster](https://open.spotify.com/track/3dSd4f3KMC3efgKlODlnfZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 2:51 |
+| 30 | [Somewhere In Between \- 2018 Remaster](https://open.spotify.com/track/49nRB16eio3crw2VprMRHG) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 5:04 |
 | 31 | [There Goes A Tenner](https://open.spotify.com/track/5Bqqqb6wgmWliES8hWXTz2) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Dreaming](https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo) | 3:25 |
 | 32 | [You Want Alchemy? \- Remastered 2025](https://open.spotify.com/track/7CaLGgsH90UmCaRxgPXPkc) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 3:57 |
-| 33 | [Love And Anger \- 2018 Remaster](https://open.spotify.com/track/1u72fgtF6guGfTjwgeHvdQ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 4:42 |
-| 34 | [All We Ever Look For \- 2018 Remaster](https://open.spotify.com/track/0NZW0zqtJ4PF6uJ19701kp) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 3:47 |
+| 33 | [All We Ever Look For \- 2018 Remaster](https://open.spotify.com/track/0NZW0zqtJ4PF6uJ19701kp) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 3:47 |
+| 34 | [Love And Anger \- 2018 Remaster](https://open.spotify.com/track/1u72fgtF6guGfTjwgeHvdQ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 4:42 |
 | 35 | [Hammer Horror](https://open.spotify.com/track/1OeyUaxsSWYqJEzH81X3ue) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Lionheart](https://open.spotify.com/album/7qeRejAsyqrM1hw3LwVPYp) | 4:39 |
 | 36 | [Walk Straight Down The Middle \- Remastered 2025](https://open.spotify.com/track/0ngctIJg5PTBrDWegZHSa1) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 3:48 |
 | 37 | [The Dreaming](https://open.spotify.com/track/2pl1aMLPcte0dHWHSJ1mr0) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Dreaming](https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DnkVH.md) - [plain]
 | 49 | [Rocket's Tail \- 2018 Remaster](https://open.spotify.com/track/3e28PghAqr6vlfIckqsKcJ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 4:07 |
 | 50 | [An Architect's Dream \- 2018 Remaster](https://open.spotify.com/track/0RwmRvaoJKpTMnenlxYMxc) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 4:54 |
 
-Snapshot ID: `aP62AAAAAAALMB/AXq6gts9qRCiKvdjD`
+Snapshot ID: `aQAHgAAAAAAjp71lFARjWHY9n0ayLQyV`

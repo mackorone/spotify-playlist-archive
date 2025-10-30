@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,279 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,284 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 42 | [Talkin' Bout \(feat\. Saweetie\)](https://open.spotify.com/track/66vs64VphiHrtFcLR6Qeav) | [Loui](https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 2:06 |
 | 43 | [Pretty Bitch Freestyle](https://open.spotify.com/track/7Hhtz9zeiTz03DSIcXjV4V) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty Bitch Freestyle](https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK) | 2:09 |
 | 44 | [You Come First \(feat\. Saweetie\)](https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [You Come First \(feat\. Saweetie\)](https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0) | 3:11 |
-| 45 | [That Girl \(feat\. Saweetie\)](https://open.spotify.com/track/0gYIDOQkA4DZQw3wboBiuP) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [That Girl \(feat\. Saweetie\)](https://open.spotify.com/album/109kFKSHQurf4h5JZWgCLk) | 2:27 |
-| 46 | [IDGAF \(feat\. Saweetie\)](https://open.spotify.com/track/0SJfn1uM23DejjkqqM3Xs6) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Certified Pop](https://open.spotify.com/album/2TzLHxrnjTNkOA53atXq8t) | 3:58 |
+| 45 | [IDGAF \(feat\. Saweetie\)](https://open.spotify.com/track/0SJfn1uM23DejjkqqM3Xs6) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Certified Pop](https://open.spotify.com/album/2TzLHxrnjTNkOA53atXq8t) | 3:58 |
+| 46 | [That Girl \(feat\. Saweetie\)](https://open.spotify.com/track/0gYIDOQkA4DZQw3wboBiuP) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [That Girl \(feat\. Saweetie\)](https://open.spotify.com/album/109kFKSHQurf4h5JZWgCLk) | 2:27 |
 | 47 | [High Maintenance](https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 0:49 |
 | 48 | [Tip Toes \(feat\. Quavo\)](https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:51 |
 | 49 | [Richtivities](https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Richtivities](https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB) | 2:56 |
 | 50 | [GIVE IT TO EM \(feat\. Saweetie\)](https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 3:02 |
 
-Snapshot ID: `aP62AAAAAACh5Y2k3uWXJeTk98bD0hYQ`
+Snapshot ID: `aQAHgAAAAADd4JPgpuxIagpYKO5BYJCc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kEIFJ.md) - [plain]
 
 > This is Lil Nas X\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,656 likes - 31 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,658 likes - 31 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kEIFJ.md) - [plain]
 | 30 | [DREAMBOY](https://open.spotify.com/track/2UNrGCSaMhtIY22gaiQuGm) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 3:35 |
 | 31 | [SWISH](https://open.spotify.com/track/1pYuYyYV4JFZblFTPN6xK2) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 3:41 |
 
-Snapshot ID: `aP62AAAAAACX3lwtPIuZb0t1nPL65cLJ`
+Snapshot ID: `aQAHgAAAAACDLoXgOsIWk50ozebkKsfg`

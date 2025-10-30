@@ -2,9 +2,9 @@
 
 ### [Hot Hits Greece](https://open.spotify.com/playlist/37i9dQZF1DX0e5BFIQWSDG)
 
-> Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Eleni Foureira
+> Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Marina Satti
 
-368 songs - 18 hr 13 min
+369 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Eipes](https://open.spotify.com/track/6hetSa5ChpVZ30jcxQNRZf) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Eipes](https://open.spotify.com/album/1H3ahuX2TFGViiP3fon6kh) | 3:40 | 2024-07-01 | 2024-09-17 |
 | [EISAI KALA?](https://open.spotify.com/track/2E8VKbqDuwa9XWJ35K3nhm) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [MAIS](https://open.spotify.com/album/1MZYvJEbIoZDqFEBzbDVVj) | 3:08 | 2025-05-12 | 2025-06-17 |
 | [ELA ELA](https://open.spotify.com/track/2lByStAOzPu4XHPp7ZPX7V) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [ELA ELA](https://open.spotify.com/album/0MvDvf4Zv43yfDVVlXDGd5) | 2:56 | 2025-04-07 | 2025-07-22 |
+| [ELA ELA](https://open.spotify.com/track/3lQC1Q8BHxKLe8lFXR7idT) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:56 | 2025-10-29 |  |
 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 | 2025-10-06 | 2025-10-14 |
 | [EMMONI IDEA](https://open.spotify.com/track/0kcQD5QcAG7jzY1gkHbEDY) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [EMMONI IDEA](https://open.spotify.com/album/5YFnE8E82pTVA3nuU8x5Zb) | 3:07 | 2025-03-24 |  |
 | [EMPODIO](https://open.spotify.com/track/1ZymcsEUTGXdIpqzWn8sZU) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV) | [BABYSHARK](https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG) | 2:33 | 2024-09-02 | 2024-09-17 |
@@ -263,9 +264,9 @@
 | [Pasok](https://open.spotify.com/track/5WuzHndVMAOgcunToFjp4U) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [No Cap](https://open.spotify.com/album/0lQBgLD1s0sFBgE0rEuCz5) | 3:07 | 2024-12-02 | 2024-12-17 |
 | [PATEK](https://open.spotify.com/track/4hP3SgO11Vn5ZPW2UfK73q) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Omar](https://open.spotify.com/artist/2BdbmgQDvk6Sk8mRH1B47g) | [PATEK](https://open.spotify.com/album/0FWFzZwAFVmfyuev4tv0Km) | 2:35 | 2025-09-29 |  |
 | [Pellegrino](https://open.spotify.com/track/78jTlEGnXYGgGo8rAG8aDJ) | [Mikros Kleftis](https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX) | [Pellegrino](https://open.spotify.com/album/33V1BNkhlOWskkF36d4wc1) | 3:39 | 2024-09-09 | 2024-09-24 |
-| [Perastika](https://open.spotify.com/track/0eARZDVq7BlVTnmM3S1LFF) | [Eversor](https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX), [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy) | [Kleisto Kyklwma II](https://open.spotify.com/album/0T1nZct29I3E6NTsPhplNb) | 3:00 | 2025-10-20 |  |
+| [Perastika](https://open.spotify.com/track/0eARZDVq7BlVTnmM3S1LFF) | [Eversor](https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX), [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy) | [Kleisto Kyklwma II](https://open.spotify.com/album/0T1nZct29I3E6NTsPhplNb) | 3:00 | 2025-10-20 | 2025-10-30 |
 | [PERCIE](https://open.spotify.com/track/7r39xkoj9KHHbTvSLM47We) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm) | [ASTRO](https://open.spotify.com/album/5iDNJiIHtU7mzXTBydwRcB) | 2:17 | 2025-05-12 | 2025-06-04 |
-| [PERCO](https://open.spotify.com/track/7nWCBmf2cLyMzXQTnYgSvr) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [ICE C.R.E.A.M.](https://open.spotify.com/album/2kdQSVWNpmSFk1y4g2DQDl) | 2:10 | 2025-08-11 |  |
+| [PERCO](https://open.spotify.com/track/7nWCBmf2cLyMzXQTnYgSvr) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [ICE C.R.E.A.M.](https://open.spotify.com/album/2kdQSVWNpmSFk1y4g2DQDl) | 2:10 | 2025-08-11 | 2025-10-30 |
 | [Persefoni](https://open.spotify.com/track/0ToAz9ISLltQBYevm0Ixv1) | [Solmeister](https://open.spotify.com/artist/24Dj1piBfpK6bL3WwIFq48), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz), [WNCfam](https://open.spotify.com/artist/476rkHvBVYjy6wUFIAA5LJ) | [Persefoni](https://open.spotify.com/album/037pYn0m0VkdWHsEHwJrEd) | 3:38 | 2025-06-03 | 2025-06-24 |
 | [Pes Mou Esy](https://open.spotify.com/track/7w7ow5XrszrokxYGODFPAl) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Pes Mou Esy](https://open.spotify.com/album/2TrkovCZtostIhHXnlm5gV) | 3:18 | 2024-12-16 | 2025-01-21 |
 | [Petheno](https://open.spotify.com/track/5mIZDaHvWBSSFCOdQrlhEd) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm) | [Petheno](https://open.spotify.com/album/12HrnnfJLlsjtOKt7YcD5V) | 2:58 | 2025-01-07 | 2025-04-08 |

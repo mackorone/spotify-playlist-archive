@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 
 > Het zomergevoel met Nederlandstalig ☀️🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,182 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,184 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 | 39 | [Pa Olvidarte](https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers Seizoen 12 \(Aflevering 8 \- Duetten\)](https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi) | 2:51 |
 | 40 | [Missen Zou](https://open.spotify.com/track/2rdAPax7p9QRghy0wKiw6d) | [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Missen Zou](https://open.spotify.com/album/5LeUosB70aEFHeCGO9bdRE) | 2:47 |
 | 41 | [Honderd Keer](https://open.spotify.com/track/35i2wSWfDTxxBMUCNnmosW) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Honderd Keer](https://open.spotify.com/album/6DJkSNTd8UFnKsAXss5zJo) | 3:16 |
-| 42 | [Een Blik In Jouw Ogen](https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Een Blik In Jouw Ogen](https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i) | 3:04 |
-| 43 | [Hotelschool](https://open.spotify.com/track/1R46BVgLnBXkVYAl31rKIF) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1) | 2:21 |
+| 42 | [Hotelschool](https://open.spotify.com/track/1R46BVgLnBXkVYAl31rKIF) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1) | 2:21 |
+| 43 | [Een Blik In Jouw Ogen](https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Een Blik In Jouw Ogen](https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i) | 3:04 |
 | 44 | [Laat Me Lekker Leven](https://open.spotify.com/track/07hyFmBF1oK5Ocz5AwAjlF) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Laat Me Lekker Leven](https://open.spotify.com/album/4hGKlivOCshnQSKUG9gP2q) | 3:11 |
 | 45 | [Zin In De Zomer Man](https://open.spotify.com/track/1ThDzyepNdDRIYhU295DNd) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Zin In De Zomer Man](https://open.spotify.com/album/0fqtF6wuZHItRW9EoNHBOG) | 2:15 |
 | 46 | [Zij Wil Mij](https://open.spotify.com/track/3Falq0rEoroeaZqNp9UDIY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Zij Wil Mij](https://open.spotify.com/album/0NIlQZDDCGRMDuZbujA2ZR) | 2:36 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 | 54 | [Kijk Ons Nou](https://open.spotify.com/track/2yeRk80Qkp5U3ux0oclxFi) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Kijk Ons Nou](https://open.spotify.com/album/5jlNimB3wUAsWQCZJnJznt) | 2:43 |
 | 55 | [Rendez\-Vous](https://open.spotify.com/track/6AxWVxPuRvWfvOtIGxmBH6) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Rendez\-Vous](https://open.spotify.com/album/4AR9RWOsaqaE77hxK54UR7) | 3:18 |
 | 56 | [Seizoenen](https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Seizoenen](https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0) | 3:07 |
-| 57 | [Kadootje](https://open.spotify.com/track/3lobrg5kdSljnSHKzCflxf) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Kadootje](https://open.spotify.com/album/3wUAWcvGbOB5YEDDMW5ljy) | 2:23 |
-| 58 | [Nooit Meer Regen](https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Nooit Meer Regen](https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj) | 3:20 |
+| 57 | [Nooit Meer Regen](https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Nooit Meer Regen](https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj) | 3:20 |
+| 58 | [Kadootje](https://open.spotify.com/track/3lobrg5kdSljnSHKzCflxf) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Kadootje](https://open.spotify.com/album/3wUAWcvGbOB5YEDDMW5ljy) | 2:23 |
 | 59 | [Un Chance](https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Un Chance](https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd) | 2:52 |
 | 60 | [Sexy Lady](https://open.spotify.com/track/1YlHHngcUYlyxB19hVSYYd) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Sexy Lady](https://open.spotify.com/album/0jXeAJGHJKT61UABkNMERu) | 3:16 |
 | 61 | [Ontspanje](https://open.spotify.com/track/48KPcjyxKelpllNWMcUBQ3) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Ontspanje](https://open.spotify.com/album/0qrftwHhC9K9rDHewAQB9N) | 2:40 |

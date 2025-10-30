@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Polo G
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,406 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,415 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 24 | [Only Time](https://open.spotify.com/track/3jZr9yjhzg2GGnvhRsJiua) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Only Time](https://open.spotify.com/album/2Y9KP6WWhMETlq1IwGCE2d) | 3:22 |
 | 25 | [Omote II \- Remix](https://open.spotify.com/track/5dkIeFcy0awNiHvZoQ7O0b) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Omote II \(Remix\)](https://open.spotify.com/album/43L8a35axN51XW9ff7PRNn) | 1:58 |
 | 26 | [DOG HOUSE \(feat\. Julia Wolf & Yeat\)](https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DOG HOUSE](https://open.spotify.com/album/3r4vAHYjjrGp84E0g909W6) | 3:10 |
-| 27 | [Wrongs](https://open.spotify.com/track/1Us1V0tr91CIikNILQt3E6) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Wrongs](https://open.spotify.com/album/64w1Jeq4q8uF1EZFZiq1OT) | 2:58 |
+| 27 | [Wrongs](https://open.spotify.com/track/1Us1V0tr91CIikNILQt3E6) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Wrongs](https://open.spotify.com/album/64w1Jeq4q8uF1EZFZiq1OT) | 2:58 |
 | 28 | [START TO FiNiSH \- S.T.F](https://open.spotify.com/track/2cosCEbJVLuKb9W2dttgBn) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [START TO FiNiSH \- S.T.F](https://open.spotify.com/album/3JlQviJIx9W8AAdIiIrQZz) | 1:56 |
 | 29 | [Gyatt](https://open.spotify.com/track/3srvOwMjHkTEmjphUucVip) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gyatt](https://open.spotify.com/album/6mJonxS4QLPYRzYYmjnZwV) | 2:17 |
 | 30 | [DADE](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 831360,
+  "num_followers": 831486,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAABwVK61g1gEbD3w5u5XWJKo",
+  "snapshot_id": "aQAHgAAAAAAV84PlVfSqoLc713cGhvqa",
   "tracks": [
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tutankamon",
-        "url": "https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 234285,
-      "name": "Quien Diria",
-      "url": "https://open.spotify.com/track/7in3iob45LtO2p6njGZiUT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 245997,
       "name": "VINO TINTO",
       "url": "https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tutankamon",
+        "url": "https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Quien Diria",
+      "url": "https://open.spotify.com/track/7in3iob45LtO2p6njGZiUT"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selfies",
-        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 180007,
-      "name": "Selfies",
-      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 165351,
       "name": "Como Es Arriba Es Abajo",
       "url": "https://open.spotify.com/track/3KTExsIhHiqNHW9XBbTTZd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Selfies",
+        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 180007,
+      "name": "Selfies",
+      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
     },
     {
       "added_at": null,

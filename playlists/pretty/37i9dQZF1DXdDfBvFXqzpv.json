@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 106132,
+  "num_followers": 106134,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 137533,
+      "name": "SAOKO",
+      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "SAOKO",
-      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "BIEN O MAL",
-        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
-        }
-      ],
-      "duration_ms": 237658,
-      "name": "TIERRA ZANTA",
-      "url": "https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Beamer (Bad Boys)",
         "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 195047,
       "name": "Beamer (Bad Boys)",
       "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "BIEN O MAL",
+        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+        }
+      ],
+      "duration_ms": 237658,
+      "name": "TIERRA ZANTA",
+      "url": "https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 220040,
+      "name": "papi bones (feat. shygirl)",
+      "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Supermodel",
         "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 350893,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "CAPRISONGS",
-        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 220040,
-      "name": "papi bones (feat. shygirl)",
-      "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Smallpools",
+        "url": "https://open.spotify.com/album/6DadUIElI6GgDh8XCscyxn"
+      },
+      "artists": [
+        {
+          "name": "Smallpools",
+          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/3c7vquF4xacCmFrxztLUVH"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "A Teen",
         "url": "https://open.spotify.com/album/53iCPeqg2JYDQPj3z4qlsi"
       },
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Smallpools",
-        "url": "https://open.spotify.com/album/6DadUIElI6GgDh8XCscyxn"
-      },
-      "artists": [
-        {
-          "name": "Smallpools",
-          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/3c7vquF4xacCmFrxztLUVH"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "The Trick To Life",
         "url": "https://open.spotify.com/album/5sScGdiKDLwMPQMO688baH"
       },
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "A Little Deeper",
-        "url": "https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn"
-      },
-      "artists": [
-        {
-          "name": "Ms. Dynamite",
-          "url": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Dy-Na-Mi-Tee",
-      "url": "https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "C\u00e9u",
         "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 174653,
       "name": "Malemolencia",
       "url": "https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "A Little Deeper",
+        "url": "https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn"
+      },
+      "artists": [
+        {
+          "name": "Ms. Dynamite",
+          "url": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Dy-Na-Mi-Tee",
+      "url": "https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "B. Inspired",
+        "url": "https://open.spotify.com/album/2hnJVh7gOSbRDHanTb5Lnr"
+      },
+      "artists": [
+        {
+          "name": "Bugzy Malone",
+          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 270266,
+      "name": "Ordinary People (feat. JP Cooper)",
+      "url": "https://open.spotify.com/track/5YmmqeU1a7KsNzvbj4aCGS"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Talkie Walkie",
         "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 289987,
       "name": "ID - Ultra Music Festival Anthem",
       "url": "https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "B. Inspired",
-        "url": "https://open.spotify.com/album/2hnJVh7gOSbRDHanTb5Lnr"
-      },
-      "artists": [
-        {
-          "name": "Bugzy Malone",
-          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 270266,
-      "name": "Ordinary People (feat. JP Cooper)",
-      "url": "https://open.spotify.com/track/5YmmqeU1a7KsNzvbj4aCGS"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Not Waving, But Drowning",
-        "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 283225,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4pjcxC0qgXWZWmcBjzn1az"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Revolve",
         "url": "https://open.spotify.com/album/4BJEBuRutpTG0rW5OEg3iu"
       },
@@ -1639,18 +1619,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+        "name": "Not Waving, But Drowning",
+        "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 249746,
-      "name": "Purple Yellow Red and Blue",
-      "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
+      "duration_ms": 283225,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4pjcxC0qgXWZWmcBjzn1az"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1667,6 +1651,22 @@
       "duration_ms": 236146,
       "name": "Totally",
       "url": "https://open.spotify.com/track/0VzmboMWQmJsFRLN4kNAX5"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "Purple Yellow Red and Blue",
+      "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
     },
     {
       "added_at": "2022-11-02 14:00:00",

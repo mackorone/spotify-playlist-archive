@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">More info here.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,729 likes - 94 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,738 likes - 94 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

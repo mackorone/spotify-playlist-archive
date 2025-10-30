@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7PmlEGx13u9.md) - [plain]
 
 > Certified R&B hits\. Cover: Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,296 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,304 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7PmlEGx13u9.md) - [plain]
 | 34 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 |
 | 35 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
 | 36 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 |
-| 37 | [wASH U AWAY](https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 3:13 |
-| 38 | [Kissing Strangers](https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:08 |
+| 37 | [Kissing Strangers](https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:08 |
+| 38 | [wASH U AWAY](https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 3:13 |
 | 39 | [Patience](https://open.spotify.com/track/67Cp7D1bHpGn3nsRaefokn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:20 |
 | 40 | [FEELINGS ON SILENT \(feat\. Wale\)](https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:29 |
 | 41 | [Wherever I Go](https://open.spotify.com/track/6P76Ve1pRObGGpuUTbYwsA) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 3:01 |

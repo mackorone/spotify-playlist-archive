@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 
 > Old school jams to kick nostalgia up a notch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,896 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,911 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,21 +15,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 | 5 | [Azonto Ghost](https://open.spotify.com/track/0ygTK8RCFVhyOKUNG1n4jz) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Thanks Giving](https://open.spotify.com/album/373gb0j44PcEDNnvZeDn6s) | 3:40 |
 | 6 | [Antenna \- UK Club Mix](https://open.spotify.com/track/6NeLjyLTlygTDu34MdolgQ) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [T.I.N.A.](https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1) | 3:42 |
 | 7 | [Swagger](https://open.spotify.com/track/1rVyxy6CRo3dB5z5oNKZfc) | [Ruff\-N\-Smooth](https://open.spotify.com/artist/4KSIIR6dY7MPuq5WRWfS56), [Stay Jay](https://open.spotify.com/artist/5y43lOR941Xj5lwV2JQwGW) | [Life Is Rough & Smooth](https://open.spotify.com/album/5p9tj9UKG6DSzGg36pVWjl) | 4:43 |
-| 8 | [Toffee](https://open.spotify.com/track/4qnolDQkujcltJIKNoSbnr) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Toffee](https://open.spotify.com/album/5N7oJwI4as7lZpVlh6hRQ0) | 6:00 |
-| 9 | [Move Back](https://open.spotify.com/track/1tvi8tv0eykhNcV1WtaIqO) | [5five](https://open.spotify.com/artist/37zb1JQnDV9dRLatrASEj1) | [Move Back](https://open.spotify.com/album/32SvtOKJRz8UBI6ndreZp3) | 3:57 |
+| 8 | [Move Back](https://open.spotify.com/track/1tvi8tv0eykhNcV1WtaIqO) | [5five](https://open.spotify.com/artist/37zb1JQnDV9dRLatrASEj1) | [Move Back](https://open.spotify.com/album/32SvtOKJRz8UBI6ndreZp3) | 3:57 |
+| 9 | [Toffee](https://open.spotify.com/track/4qnolDQkujcltJIKNoSbnr) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Toffee](https://open.spotify.com/album/5N7oJwI4as7lZpVlh6hRQ0) | 6:00 |
 | 10 | [Aketesia](https://open.spotify.com/track/6D4DkmGGCliXAlqsZVgRkA) | [Kontihene](https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7) | [Nyankonton](https://open.spotify.com/album/3Nu5sSuQWQX7QcZ80GD7vc) | 5:11 |
 | 11 | [Mfa Me Nkoho](https://open.spotify.com/track/4gmJvvotDVCXVKY0ItNDOe) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:59 |
 | 12 | [Ajeei \(feat\. Nana Boroo & Sarkodie\)](https://open.spotify.com/track/3dx6COHzPCAB1JFFMj58gW) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 3:40 |
-| 13 | [Seihor \(feat\. Dblack\)](https://open.spotify.com/track/5iv7WkYexGay1BNXXLWYI1) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e), [D\-Black](https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB) | [Seihor \(feat\. Dblack\)](https://open.spotify.com/album/7os1p9cKa1Mt78qAs1GUeg) | 3:57 |
-| 14 | [Waist & Power](https://open.spotify.com/track/6mtHjfaPzBND2HS2c0UsU3) | [4x4](https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu) | [Waist & Power](https://open.spotify.com/album/2yoVgfL21I1DRDSFuoqjMn) | 5:05 |
+| 13 | [Waist & Power](https://open.spotify.com/track/6mtHjfaPzBND2HS2c0UsU3) | [4x4](https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu) | [Waist & Power](https://open.spotify.com/album/2yoVgfL21I1DRDSFuoqjMn) | 5:05 |
+| 14 | [Seihor \(feat\. Dblack\)](https://open.spotify.com/track/5iv7WkYexGay1BNXXLWYI1) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e), [D\-Black](https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB) | [Seihor \(feat\. Dblack\)](https://open.spotify.com/album/7os1p9cKa1Mt78qAs1GUeg) | 3:57 |
 | 15 | [Wo Onane No](https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [DeYaaa](https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp) | 3:29 |
 | 16 | [Densu](https://open.spotify.com/track/3Bif5CgGVc8fgA27T3whVr) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:16 |
 | 17 | [Odwo](https://open.spotify.com/track/1F3o99FyY2k2YpBUtc7Zr7) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Odwo](https://open.spotify.com/album/6HcOIbMSbKYjec6gzIctbs) | 5:43 |
-| 18 | [Boneshaker](https://open.spotify.com/track/2W93d3UVhKkCf6YgZ6ywBD) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Toffee](https://open.spotify.com/album/5N7oJwI4as7lZpVlh6hRQ0) | 6:46 |
-| 19 | [Kolom](https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv) | [BukBak](https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV) | [Kolom](https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj) | 4:40 |
+| 18 | [Kolom](https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv) | [BukBak](https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV) | [Kolom](https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj) | 4:40 |
+| 19 | [Boneshaker](https://open.spotify.com/track/2W93d3UVhKkCf6YgZ6ywBD) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Toffee](https://open.spotify.com/album/5N7oJwI4as7lZpVlh6hRQ0) | 6:46 |
 | 20 | [Still I Love You](https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:22 |
-| 21 | [Away](https://open.spotify.com/track/4tkRfb5PUoJ7d8epDatZ7g) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Progress](https://open.spotify.com/album/5Tq5ATKhOia0vW66dX8syT) | 5:04 |
-| 22 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 |
+| 21 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 |
+| 22 | [Away](https://open.spotify.com/track/4tkRfb5PUoJ7d8epDatZ7g) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Progress](https://open.spotify.com/album/5Tq5ATKhOia0vW66dX8syT) | 5:04 |
 | 23 | [ABC](https://open.spotify.com/track/1VWsOHwb8bThWcbqYKzh6y) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [ABC Of Love](https://open.spotify.com/album/4laW16BiD24CmfqHGQ5TfH) | 5:37 |
 | 24 | [Abiba](https://open.spotify.com/track/6F0D7wS8XbrClBxhC4Okex) | [Rex Omar](https://open.spotify.com/artist/4IPHkdjugU9e3ACphVpX3s) | [The Collection](https://open.spotify.com/album/0g60elM8DKMcjusfaaQi8x) | 4:55 |
 | 25 | [Africa Money](https://open.spotify.com/track/6zhfuaevbv2CGBmvLv11l6) | [Sidney Barima Oppong](https://open.spotify.com/artist/6flAiqO3WySVk4w8xAEu6W) | [Ghana Awake, Vol\. 1](https://open.spotify.com/album/7HzECIqKqXIIdXACUpzvKO) | 4:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,575 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,684 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 44 | [C.H.S.M](https://open.spotify.com/track/11gvUHIxBEnsCn8sAltFmf) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [C.H.S.M](https://open.spotify.com/album/6WhE39eYeHUcjNuvjoRRVg) | 2:18 |
 | 45 | [Ducati](https://open.spotify.com/track/0tmP3JTNIPazZFYbznBwm7) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ducati](https://open.spotify.com/album/2QmFMHMxWElDAfhdXjM7OM) | 2:28 |
 | 46 | [Adiós Mi Amor](https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:21 |
-| 47 | [Booty Booty](https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Booty Booty](https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E) | 2:30 |
-| 48 | [El Águila Real \(Nave 727\)](https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 3:13 |
+| 47 | [El Águila Real \(Nave 727\)](https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 3:13 |
+| 48 | [Booty Booty](https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Booty Booty](https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E) | 2:30 |
 | 49 | [Te Vi Con Él](https://open.spotify.com/track/3pLvf1cD0QOQ6b8JaU6l4t) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Te Vi Con Él](https://open.spotify.com/album/54ZF7BXU10BXqefAZYaWUY) | 3:07 |
 | 50 | [La Voladora](https://open.spotify.com/track/7FRGDHMVFd3r8dxFzu2xed) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [La Voladora](https://open.spotify.com/album/4SnkVoszi7UkF2KhTG6aLM) | 2:33 |
 
-Snapshot ID: `aP62AAAAAAA+tbJe/pK7HPJ/oTMzSQ+X`
+Snapshot ID: `aQAHgAAAAAAqynD1fCPxdGNrF/wQ7BL9`

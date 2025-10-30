@@ -4,7 +4,7 @@
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-143 songs - 11 hr 21 min
+144 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 | 2023-02-13 |  |
 | [Catalina La O](https://open.spotify.com/track/3uOODK5GtGFNda7J8ty4VJ) | [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [Este Negro Si es Sabroso](https://open.spotify.com/album/4lo8dpD9ro4TeK7KnTYWqe) | 5:12 | 2023-02-13 | 2024-04-19 |
 | [Ché Ché Colé](https://open.spotify.com/track/5qpaGx8k2HKYzOqfYjTiwM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Año Nuevo, Vida Nueva](https://open.spotify.com/album/5mUkfaaM8ioUFphoF0ewKE) | 3:27 | 2020-06-16 | 2022-11-13 |
-| [Ché Ché Colé](https://open.spotify.com/track/0yE5Uqw60fj0pGpsvtDnDQ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Anthology](https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2) | 3:29 | 2020-06-16 |  |
+| [Ché Ché Colé](https://open.spotify.com/track/0yE5Uqw60fj0pGpsvtDnDQ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Anthology](https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2) | 3:29 | 2020-06-16 | 2025-10-30 |
 | [Ché Ché Colé](https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 3:31 | 2020-06-16 | 2024-04-19 |
 | [Como Fue](https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Romántico](https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk) | 2:56 | 2023-02-13 |  |
 | [Como Mi Salsa Ninguna](https://open.spotify.com/track/2pGrvFiWSrqw2POyEEeFui) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda \(Golden Edition\)](https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V) | 6:21 | 2020-06-16 |  |
@@ -49,6 +49,7 @@
 | [El Faisan](https://open.spotify.com/track/0Xfq0sHo3MfYH4Ioa5gxiA) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [El Maestro](https://open.spotify.com/album/6ZqOdeWTqzpR3n3XmgMaK1) | 8:22 | 2024-09-24 | 2025-10-28 |
 | [El Faisán](https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [El Maestro](https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH) | 8:22 | 2023-02-13 | 2024-04-19 |
 | [El Manicero](https://open.spotify.com/track/1xTtQuHbtAh6WvzZZNXbIu) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Éxitos, Vol\. 1](https://open.spotify.com/album/1BoeS73vVRPncBCDWbF3ep) | 4:42 | 2020-06-16 |  |
+| [El Pio Pio](https://open.spotify.com/track/1kU7UlD26gXP3kzKSk9ANC) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Musical Conquest](https://open.spotify.com/album/4OJyl5en2oE93ruuPG3qom) | 4:58 | 2024-09-24 |  |
 | [El Pío Pío](https://open.spotify.com/track/7Ee7jBAQ6iYSDr2pAkwxfw) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv) | [Musical Conquest](https://open.spotify.com/album/6QybGmhiK58QmzzArsI68m) | 4:55 | 2023-02-13 | 2024-04-19 |
 | [El Raton](https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [A Man And His Music](https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89) | 3:50 | 2023-02-13 | 2025-04-12 |
 | [El Ratón](https://open.spotify.com/track/4nB0lLsweZhCQQYIMnFjSB) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Anthology](https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x) | 3:48 | 2023-02-13 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\.  Cover: <a href="spotify:artist:2y4kS2ljmS41pNDNA01P2Q">WHATMORE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,570 likes - 105 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,608 likes - 105 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 104 | [Been Did That \(feat\. Hardrock\)](https://open.spotify.com/track/3z4EH9c8jslqe8i7vydwLj) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU), [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [Molly And Her Week Of Wonders](https://open.spotify.com/album/6ReZujjjI3rWa2P9Qd2YhT) | 2:28 |
 | 105 | [Broken Barbies](https://open.spotify.com/track/6U0BBjRQG2uyoFjDmXSS2n) | [iAMLYRIC](https://open.spotify.com/artist/57tjtvBR1dB7aZQPKmV1Y5) | [Broken Barbies](https://open.spotify.com/album/404SZ5N0p2kS6E6JT90dUx) | 2:49 |
 
-Snapshot ID: `AAAAANzQqKmByAr0GtvKkULeibPUfQmb`
+Snapshot ID: `AAAAABeVIBeqzWYbUz/yaH0XsStPE7Df`

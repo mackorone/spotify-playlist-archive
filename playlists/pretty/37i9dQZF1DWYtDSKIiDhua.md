@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > R&B and good vibe tracks for your current mood\. Cover: Aziz Hedra, Julia Wu
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,926 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,956 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

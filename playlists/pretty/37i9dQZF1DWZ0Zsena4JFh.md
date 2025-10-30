@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > lo alt, raro y cool\. Artemas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,463 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,428 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 40 | [Second Sleep](https://open.spotify.com/track/47N21fn8V8IN392MGlicT5) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Second Sleep / Star Eyes](https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU) | 4:48 |
 | 41 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 |
 | 42 | [Giving Up Air](https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Giving Up Air](https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw) | 4:47 |
-| 43 | [Doggy \(feat\. Love Spells and Truly Young\)](https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU) | [Geezer](https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Truly Young](https://open.spotify.com/artist/6Hqu0lCYGK2QO1vp4rwDMS) | [Doggy \(feat\. Love Spells and Truly Young\)](https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV) | 2:52 |
-| 44 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
+| 43 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
+| 44 | [Doggy \(feat\. Love Spells and Truly Young\)](https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU) | [Geezer](https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Truly Young](https://open.spotify.com/artist/6Hqu0lCYGK2QO1vp4rwDMS) | [Doggy \(feat\. Love Spells and Truly Young\)](https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV) | 2:52 |
 | 45 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
 | 46 | [Noises + JT](https://open.spotify.com/track/36e4mRTGXQL283nBFSA9Tv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:07 |
 | 47 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
-| 48 | [Watch Me Go](https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The Cosmic Selector Vol\. 1](https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp) | 3:06 |
-| 49 | [Earthshaker](https://open.spotify.com/track/3dcAXXsNJb2VgX7k1Okz2L) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Earthshaker](https://open.spotify.com/album/6zVMSQa3VzNxUiC6Z5q954) | 2:59 |
+| 48 | [Earthshaker](https://open.spotify.com/track/3dcAXXsNJb2VgX7k1Okz2L) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Earthshaker](https://open.spotify.com/album/6zVMSQa3VzNxUiC6Z5q954) | 2:59 |
+| 49 | [Watch Me Go](https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The Cosmic Selector Vol\. 1](https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp) | 3:06 |
 | 50 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 |
 
 Snapshot ID: `AAAAAMsdIoJbeO0FMYLL4FQwD+gfhNx2`

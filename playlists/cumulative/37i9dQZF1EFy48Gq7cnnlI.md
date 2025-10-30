@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-141 songs - 7 hr 55 min
+142 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Drunk in the Bathtub](https://open.spotify.com/track/3jPPeZhJ5I6sSDqchAFlx4) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:46 | 2024-10-06 |  |
 | [Everywhere I Go](https://open.spotify.com/track/0QrzN1zybGPr27X6NAkUH6) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Everywhere I Go](https://open.spotify.com/album/0R0LHoYE9Evb7zg94ay6nR) | 2:56 | 2024-02-23 | 2024-07-29 |
 | [Everywhere I Go](https://open.spotify.com/track/1dxA5RleRQ8yu0VA1TXJLY) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Never Better](https://open.spotify.com/album/6jOix6QfFFmpNXx3to7Sct) | 2:56 | 2024-07-28 |  |
+| [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 | 2025-10-29 |  |
 | [Fear Of Missing Out](https://open.spotify.com/track/3SuYCsNMFa61CxlLU6ukNV) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:55 | 2024-06-02 |  |
 | [feather](https://open.spotify.com/track/3nUc4j3R64TGkuJ8s7WVuB) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [i hate rollercoasters](https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9) | 2:27 | 2022-01-07 |  |
 | [Fictional](https://open.spotify.com/track/56xb5xXdUopdjiknbFmC4W) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The In Between](https://open.spotify.com/album/21aE1LtpqO4s48QPnomkIk) | 3:43 | 2023-08-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 97970,
+  "num_followers": 97987,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAACr3xtIiHeWcTz8rdqyj1MG",
+  "snapshot_id": "aQAHgAAAAABb+A+CRpWaP5BEa8xXXH81",
   "tracks": [
     {
       "added_at": null,
@@ -159,26 +159,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 231109,
-      "name": "Sensational (feat. Davido & Lojay)",
-      "url": "https://open.spotify.com/track/44G2gUVQvNNZ6w3i05tR4n"
+      "duration_ms": 139695,
+      "name": "Hip Hop Messiah",
+      "url": "https://open.spotify.com/track/3TOmsQ0PrHgM6WMYKpj0nO"
     },
     {
       "added_at": null,
@@ -223,22 +219,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
       },
       "artists": [
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 139695,
-      "name": "Hip Hop Messiah",
-      "url": "https://open.spotify.com/track/3TOmsQ0PrHgM6WMYKpj0nO"
+      "duration_ms": 231109,
+      "name": "Sensational (feat. Davido & Lojay)",
+      "url": "https://open.spotify.com/track/44G2gUVQvNNZ6w3i05tR4n"
     },
     {
       "added_at": null,
@@ -434,15 +434,11 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 189071,
-      "name": "Offa Me (feat. Victoria Mon\u00e9t)",
-      "url": "https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA"
+      "duration_ms": 195789,
+      "name": "Be There Still",
+      "url": "https://open.spotify.com/track/1FWqWaH781R6T32agyhpFQ"
     },
     {
       "added_at": null,
@@ -506,11 +502,15 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 195789,
-      "name": "Be There Still",
-      "url": "https://open.spotify.com/track/1FWqWaH781R6T32agyhpFQ"
+      "duration_ms": 189071,
+      "name": "Offa Me (feat. Victoria Mon\u00e9t)",
+      "url": "https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA"
     },
     {
       "added_at": null,

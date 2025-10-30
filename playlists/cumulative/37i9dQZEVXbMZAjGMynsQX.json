@@ -3127,6 +3127,32 @@
     },
     {
       "album": {
+        "name": "Berghain",
+        "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178853,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
+    },
+    {
+      "album": {
         "name": "BESAME (feat. Tiago PZK, Khea & Neo Pistea) [Remix]",
         "url": "https://open.spotify.com/album/6rkhVb5zrsbR24Rpno9kHq"
       },
@@ -7204,7 +7230,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 198102,
       "name": "DIOMEDEZ",
       "url": "https://open.spotify.com/track/6qDTm2QbRSLlSmaUSJE6bF"
@@ -9204,7 +9230,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -13306,7 +13332,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -17440,7 +17466,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 213430,
       "name": "MONSTRUO",
       "url": "https://open.spotify.com/track/2ToF4unFUMMKGfu7KYhy1j"
@@ -18936,7 +18962,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 271801,
       "name": "NUBES",
       "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
@@ -20794,6 +20820,32 @@
       "duration_ms": 142041,
       "name": "Piel",
       "url": "https://open.spotify.com/track/6kPCcIAGoTeRrh8qrmKa90"
+    },
+    {
+      "album": {
+        "name": "Pieza Exhibici\u00f3n",
+        "url": "https://open.spotify.com/album/7p5H5BRUqMenAPNZmLsiuX"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283668,
+      "name": "Pieza Exhibici\u00f3n",
+      "url": "https://open.spotify.com/track/6BIeMM4lJYzeVlYP289uDp"
     },
     {
       "album": {
@@ -28510,7 +28562,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-28",
+      "date_removed": null,
       "duration_ms": 218500,
       "name": "Una Vida Pasada",
       "url": "https://open.spotify.com/track/2mLTxNa0bwZX8eNBsuODLX"

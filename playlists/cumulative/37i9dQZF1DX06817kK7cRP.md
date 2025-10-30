@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-226 songs - 9 hr 47 min
+227 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Dinner Party](https://open.spotify.com/track/0jTs2pJwZX2XHNyPyO4p2h) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Dinner Party](https://open.spotify.com/album/1misnUF0YhwPZiEWP7ugsf) | 1:42 | 2024-07-12 |  |
 | [Dive In!](https://open.spotify.com/track/6Y5w1dN90F0jreQGos2ypf) | [Lavender Box](https://open.spotify.com/artist/4qQYvOHb8QQ0E3mwOTPQk9) | [Dive In!](https://open.spotify.com/album/5ZnX85acDURGkTmsOKTUq5) | 2:58 | 2023-10-20 |  |
 | [Do not disturb](https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE) | [Matty Mel Jr](https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW) | [Do not disturb](https://open.spotify.com/album/4RG39enCANdnjbagkDndcp) | 2:59 | 2023-01-26 | 2023-04-21 |
+| [Downtown Breeze](https://open.spotify.com/track/2mXNs28oZuuwkBfwHqenvt) | [Phil Marley](https://open.spotify.com/artist/0Yem4dpcxVT7GJhrSwnyme) | [Downtown Breeze](https://open.spotify.com/album/0gGiTCknsGBx5GP5kWm2ZV) | 2:46 | 2025-02-21 |  |
 | [Drama Is Coming](https://open.spotify.com/track/00m4ed2ZgerPoaSQVL9ZzG) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Philipp Wisser](https://open.spotify.com/artist/6yq9TQlcPAawnjhi6WzqNl) | [Drama Is Coming](https://open.spotify.com/album/1mRsrNmcs59VffdaMaEZhA) | 3:32 | 2024-06-14 | 2024-07-13 |
 | [Dream Away](https://open.spotify.com/track/5YpKD3BpyZu7ggk7byH2BO) | [Palm Beats](https://open.spotify.com/artist/1c9zS9phaYUjbZnzYfGoFx) | [Dream Away](https://open.spotify.com/album/4QEN19VnuysTfDKvMURjfh) | 1:57 | 2023-11-26 | 2024-03-26 |
 | [Driftwood](https://open.spotify.com/track/6dkFwu9Z7HUuz69P2Nr6yF) | [Just Steezy Things](https://open.spotify.com/artist/1WGInLKTtABkRppFt2637E) | [Driftwood](https://open.spotify.com/album/0A6bH7eWnye4Pe25YdCv6g) | 2:19 | 2023-01-12 |  |
@@ -67,7 +68,7 @@
 | [Fever, Fever](https://open.spotify.com/track/7D9UKc1To1SiOrQGcAMjM3) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Fever, Fever](https://open.spotify.com/album/6fl21BaGkpjnUQa5x9V2Vz) | 2:44 | 2023-01-12 |  |
 | [Finish Line](https://open.spotify.com/track/1InvRwwWnE1OKEvsZHb3OG) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [Finish Line](https://open.spotify.com/album/50A6GHBw1sNjVbzVOyyojT) | 1:57 | 2025-02-21 |  |
 | [Flat Out](https://open.spotify.com/track/055fovAr3EQTHeSIgre4ZE) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [Flat Out](https://open.spotify.com/album/1obXVW12h6lb33uWGKUksN) | 2:19 | 2024-03-25 |  |
-| [For the Homies](https://open.spotify.com/track/5uSJS1Oy5XSAAX7kP3LH3s) | [BrandonLee Cierley](https://open.spotify.com/artist/6TCS4quLkqSnAMbwfkKzAt), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [yuckgod](https://open.spotify.com/artist/53FJ7kvKR7Nk7nOo5yGRK7), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Thank You for Waiting](https://open.spotify.com/album/73j9ThF4ukgyeFQq4IGsCe) | 2:03 | 2023-01-12 |  |
+| [For the Homies](https://open.spotify.com/track/5uSJS1Oy5XSAAX7kP3LH3s) | [BrandonLee Cierley](https://open.spotify.com/artist/6TCS4quLkqSnAMbwfkKzAt), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [yuckgod](https://open.spotify.com/artist/53FJ7kvKR7Nk7nOo5yGRK7), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Thank You for Waiting](https://open.spotify.com/album/73j9ThF4ukgyeFQq4IGsCe) | 2:03 | 2023-01-12 | 2025-10-30 |
 | [For Your Love](https://open.spotify.com/track/53I80XJhp46fOGkk6E6iIp) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [For Your Love](https://open.spotify.com/album/2VSNJKmtPXZmKJsmqQDJ1r) | 2:00 | 2025-02-21 |  |
 | [Form Style](https://open.spotify.com/track/56tkSdGCIk4V99j5juZaRj) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Form Style](https://open.spotify.com/album/6TB09Usz0qwlaVmuqp7Bvc) | 2:15 | 2024-06-14 | 2024-08-24 |
 | [Free for All](https://open.spotify.com/track/5b4huQ1YuF8GiJXWlBGpjz) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Free for All](https://open.spotify.com/album/4pdkFcVxWjzUkh7VPYS03k) | 2:43 | 2023-01-12 |  |

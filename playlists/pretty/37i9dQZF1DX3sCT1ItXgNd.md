@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Ana Mena, Abraham Mateo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,079 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,014 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [dónde vamos?](https://open.spotify.com/track/31nuSftdIBHhYDJONrArf0) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [dónde vamos?](https://open.spotify.com/album/5HQ1spfGUUCmqqzXzRvCvH) | 3:08 |
 | 50 | [CUANDO DORMÍAS](https://open.spotify.com/track/5tdYlOGweHW6IGZi1Tfc5N) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [CUANDO DORMÍAS](https://open.spotify.com/album/1MnpfIPUxczjHVKUuAN202) | 3:25 |
 
-Snapshot ID: `AAAAACjkyRIMN9BbH27M+l/A2+OuDSui`
+Snapshot ID: `AAAAANdEwJukwyxZORUbodSVZefq66Wi`

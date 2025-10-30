@@ -305,7 +305,7 @@
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 238826,
+      "duration_ms": 238833,
       "name": "Float Into The Sky",
       "url": "https://open.spotify.com/track/35VPGInrefWbfj8c8S2wXu"
     },
@@ -377,7 +377,7 @@
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 186466,
+      "duration_ms": 186469,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/5WLghRISj6S0G3OziVTaa9"
     },
@@ -413,7 +413,7 @@
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 202733,
+      "duration_ms": 202734,
       "name": "HiFi (True Light)",
       "url": "https://open.spotify.com/track/6W2pDHqWoU81UsvMSFN6pz"
     },
@@ -593,7 +593,7 @@
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 134373,
+      "duration_ms": 134366,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/49ukvVBtVT9Y575F6VY33G"
     },
@@ -618,6 +618,24 @@
     {
       "album": {
         "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201233,
+      "name": "Neon Pill",
+      "url": "https://open.spotify.com/track/0cgyeBU54kjmI54TflMANg"
+    },
+    {
+      "album": {
+        "name": "Neon Pill",
         "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
       },
       "artists": [
@@ -632,24 +650,6 @@
       "duration_ms": 201233,
       "name": "Neon Pill",
       "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
-    },
-    {
-      "album": {
-        "name": "Neon Pill",
-        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "date_added": "2024-06-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201240,
-      "name": "Neon Pill",
-      "url": "https://open.spotify.com/track/0cgyeBU54kjmI54TflMANg"
     },
     {
       "album": {
@@ -723,7 +723,7 @@
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 195760,
+      "duration_ms": 195766,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
     },

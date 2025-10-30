@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,215 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,299 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 31 | [Me Niegas Tanto Amor](https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o) | [Pedro Conga](https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y) | [Salsa Exitos](https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW) | 4:44 |
 | 32 | [Quiero Saber](https://open.spotify.com/track/4NSE3aImn1LeqIMpNEKwVL) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 6:29 |
 | 33 | [Desnúdate Mujer](https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Voy Pa'Encima](https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML) | 4:47 |
-| 34 | [Lo Que Pasó Entre Tú y Yo Pasó](https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Colección De Oro](https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo) | 4:38 |
-| 35 | [En Trance](https://open.spotify.com/track/6TIvLWPw7OTD2lslRmoWEo) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 3:58 |
+| 34 | [En Trance](https://open.spotify.com/track/6TIvLWPw7OTD2lslRmoWEo) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 3:58 |
+| 35 | [Lo Que Pasó Entre Tú y Yo Pasó](https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Colección De Oro](https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo) | 4:38 |
 | 36 | [Canción](https://open.spotify.com/track/28F535MpSIBFy2DtsYbH7L) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Back To Work](https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg) | 4:51 |
 | 37 | [Seda](https://open.spotify.com/track/0nZHEMMycl40jkcaVzKsAF) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:11 |
 | 38 | [Te Regalo el Corazon](https://open.spotify.com/track/6aUDFm5EBgpKJnzzIosTla) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Unity](https://open.spotify.com/album/6FYc1CMNHZYfJeN9h0N7xR) | 4:07 |

@@ -30803,6 +30803,24 @@
     },
     {
       "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/0bSGI5Dui2KrOVB1ZBMa4V"
+      },
+      "artists": [
+        {
+          "name": "Truthlive",
+          "url": "https://open.spotify.com/artist/7rMMDJat6svdaj3KrksxgL"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252631,
+      "name": "Going Up",
+      "url": "https://open.spotify.com/track/2FSfukWKbmqkrgHT6zFCLM"
+    },
+    {
+      "album": {
         "name": "Gold On My Skin",
         "url": "https://open.spotify.com/album/2DhlJOeB7SN2OVZyqga0qo"
       },

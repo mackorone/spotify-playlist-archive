@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,049 likes - 60 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,063 likes - 60 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

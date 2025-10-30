@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,907 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,926 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 34 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 |
 | 35 | [Háblame de Ti](https://open.spotify.com/track/0UAd5a3A1v2yEMFUF66apJ) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 4:18 |
 | 36 | [La Corriente](https://open.spotify.com/track/40Zju5o9KUlk51Vvwqa7mB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:31 |
-| 37 | [Las Curanderas](https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ) | [Laura Murcia](https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K) | [Las Curanderas](https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3) | 3:26 |
+| 37 | [Si Alguna Vez](https://open.spotify.com/track/4ZTWBKgutQg9W9GP4cvxhC) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:53 |
 | 38 | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/3Riytw4egMe357gWrANdAr) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3) | 3:34 |
-| 39 | [Si Alguna Vez](https://open.spotify.com/track/4ZTWBKgutQg9W9GP4cvxhC) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:53 |
+| 39 | [Las Curanderas](https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ) | [Laura Murcia](https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K) | [Las Curanderas](https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3) | 3:26 |
 | 40 | [Cien Años](https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 3:25 |
 | 41 | [Marchita](https://open.spotify.com/track/1ib007yU04BbbwTV1fkPTi) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:46 |
 | 42 | [Que te vaya bonito](https://open.spotify.com/track/1XsYSawDnMWDwQHiEeUzXe) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Chavela Vargas\. Sus 40 Grandes Canciones](https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP) | 3:22 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 56 | [Eso](https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Eso](https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W) | 4:02 |
 | 57 | [Tu Amor No Vale un Bolero](https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Lorena Jimenez](https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu) | [Tu Amor No Vale un Bolero](https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ) | 3:26 |
 | 58 | [Rayando el Sol](https://open.spotify.com/track/0aYUIQyAR6P7R4FtEEG9Ik) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Chavela Vargas](https://open.spotify.com/album/2Z3BXtXY75OOYcJljBozCb) | 2:27 |
-| 59 | [Como una punzada](https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM) | [Silvia & Karmen](https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK), [Eleonor](https://open.spotify.com/artist/4hBaD396LwLdZZyFOtm3xW) | [No tenemos prisa](https://open.spotify.com/album/0F2GJsUVDeIJhKFtB8wWKk) | 3:58 |
-| 60 | [Mejor Ya No Regreses](https://open.spotify.com/track/0uP6f0QwFO3fZVqKC0xNt5) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Mejor Ya No Regreses](https://open.spotify.com/album/3CPEBWb2qzy1DwwNAPlRBF) | 3:45 |
+| 59 | [Mejor Ya No Regreses](https://open.spotify.com/track/0uP6f0QwFO3fZVqKC0xNt5) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Mejor Ya No Regreses](https://open.spotify.com/album/3CPEBWb2qzy1DwwNAPlRBF) | 3:45 |
+| 60 | [Como una punzada](https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM) | [Silvia & Karmen](https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK), [Eleonor](https://open.spotify.com/artist/4hBaD396LwLdZZyFOtm3xW) | [No tenemos prisa](https://open.spotify.com/album/0F2GJsUVDeIJhKFtB8wWKk) | 3:58 |
 | 61 | [Debut Y Despedida](https://open.spotify.com/track/7CvBC3ZivExveWMMjXBYS9) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Cuatro Copas Bohemia En La Finca Altozano \(Parte 1\)](https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23) | 3:03 |
 | 62 | [Lágrimas Negras](https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Lágrimas Negras](https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ) | 5:18 |
 | 63 | [Ni una Gota de Amor](https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 2:31 |

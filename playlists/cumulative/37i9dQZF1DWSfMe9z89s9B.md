@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: Miguel
 
-1,521 songs - 3 day 8 hr 12 min
+1,522 songs - 3 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [2000](https://open.spotify.com/track/30buPDSZ65uTtIooKhU4cu) | [Croosh](https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT) | [310917](https://open.spotify.com/album/6t14DeK1x8c9BpvpTaEL0F) | 2:48 | 2024-03-15 | 2024-05-12 |
 | [2007](https://open.spotify.com/track/4LDPVpLoRZIvSCeLC0Ueyx) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 3:04 | 2023-08-11 | 2023-10-19 |
 | [23rd Street](https://open.spotify.com/track/0mPU13KnWqvIgrfeNkXKLx) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Suspension of Disbelief](https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2) | 3:24 | 2022-12-02 | 2024-01-20 |
-| [2:35 AM](https://open.spotify.com/track/3b3MgbQskkpBb6rSkoIAoh) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [2:35 AM](https://open.spotify.com/album/0GNrin1X4arFTobCUHBOyq) | 4:23 | 2025-07-11 |  |
+| [2:35 AM](https://open.spotify.com/track/3b3MgbQskkpBb6rSkoIAoh) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [2:35 AM](https://open.spotify.com/album/0GNrin1X4arFTobCUHBOyq) | 4:23 | 2025-07-11 | 2025-10-30 |
 | [2MANYTHINGS](https://open.spotify.com/track/0dm5kcMG7XxCcUrKXGUsNg) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [2MANYTHINGS](https://open.spotify.com/album/1lea6sbjaKZ9fOaADXPMRg) | 3:13 | 2022-07-15 | 2023-08-13 |
 | [2ofUs](https://open.spotify.com/track/1c4x14bQbdoNkCZn2lJXgZ) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [2ofUs](https://open.spotify.com/album/2UCnUbRxd1XIDRXZoF7CVb) | 3:20 | 2024-11-15 | 2025-08-16 |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-17 | 2023-03-25 |
@@ -783,6 +783,7 @@
 | [Look To Him](https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Look To Him](https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1) | 4:11 | 2022-08-19 | 2022-12-03 |
 | [Lord, Forgive Me](https://open.spotify.com/track/6OoRRvJWQdAL4nOIFrVKv9) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 4:00 | 2025-08-22 |  |
 | [lost and found](https://open.spotify.com/track/0bcmVu5QWuGSFPXKGTsMrM) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [3 Typa Nights](https://open.spotify.com/album/2Na7pVtwC8nSmU3lBkizub) | 2:24 | 2023-08-04 | 2023-09-22 |
+| [Lost In Heaven](https://open.spotify.com/track/6F6BsQMliL7f8EW8xi4WaI) | [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Lost In Heaven](https://open.spotify.com/album/4GCcR7avPc5YxvkTNulsEM) | 2:42 | 2025-06-06 |  |
 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 | 2021-07-23 | 2022-04-16 |
 | [Louphoria \(with Cruza\)](https://open.spotify.com/track/0E1GJFHAHBQLNyh7VZqDoZ) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 3:46 | 2022-10-28 | 2023-04-29 |
 | [Love](https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Medea](https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM) | 2:36 | 2024-04-05 | 2025-10-26 |

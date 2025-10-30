@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 
 > The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,803 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,842 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 26 | [Lola \- Remastered](https://open.spotify.com/track/7bIQeY33PkduZRmR3h9BIY) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround / Percy](https://open.spotify.com/album/2R0lR3exaV33RnKob1WebK) | 4:02 |
 | 27 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 |
 | 28 | [Brown Sugar](https://open.spotify.com/track/6Gi8vIT6In8RrT2eTKxoVR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/3i3imP9g6gCc6VzeeyduXZ) | 3:48 |
-| 29 | [Dreaming \- Remastered](https://open.spotify.com/track/3W0xbvrZqaao3ZZEDhVQ0r) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4SxhwzlhAfa0FgYHrGfGz8) | 3:08 |
+| 29 | [Dreaming \- Remastered 2001](https://open.spotify.com/track/3W0xbvrZqaao3ZZEDhVQ0r) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4SxhwzlhAfa0FgYHrGfGz8) | 3:08 |
 | 30 | [Cool For Cats](https://open.spotify.com/track/4wZSxAXLNRFfQ0yyaCvHei) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Cool For Cats](https://open.spotify.com/album/1WWmLNVao1zR1wf9YZDb08) | 3:39 |
 | 31 | [Anti Love Song](https://open.spotify.com/track/3zMVsONH6RZv528HANVm3Y) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [Betty Davis](https://open.spotify.com/album/6fNx8ioP99WoRiLidrqrmz) | 4:32 |
 | 32 | [Rock Lobster](https://open.spotify.com/track/0rme3FLbw5o1KLXpJzivjS) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [B\-52's](https://open.spotify.com/album/4VcKXOCUzcrxltYt0Jyqfk) | 6:52 |

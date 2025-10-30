@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Dave, Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 979,017 likes - 90 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 979,006 likes - 90 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 17 | [New Gears \(feat\. Vybz Kartel & Françoise Hardy\)](https://open.spotify.com/track/6v2WTkZpJL3XeO0bo9SO2p) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [International](https://open.spotify.com/album/2KwToo62TPPItxMyg3qxv9) | 2:22 |
 | 18 | [8PM](https://open.spotify.com/track/3CEXwOz5DRkZNlIiHFgPet) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [8PM](https://open.spotify.com/album/2lSP65EeW6axaAeFw3WHHm) | 2:51 |
 | 19 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |
-| 20 | [Wrongs](https://open.spotify.com/track/1Us1V0tr91CIikNILQt3E6) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Wrongs](https://open.spotify.com/album/64w1Jeq4q8uF1EZFZiq1OT) | 2:58 |
+| 20 | [Wrongs](https://open.spotify.com/track/1Us1V0tr91CIikNILQt3E6) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Wrongs](https://open.spotify.com/album/64w1Jeq4q8uF1EZFZiq1OT) | 2:58 |
 | 21 | [GRIME 2.0](https://open.spotify.com/track/1OGK6i258hee6esLcnPeMK) | [Yizzy](https://open.spotify.com/artist/4uCUBeUgVSrYFwLDeklA7g), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [GRIME 2.0](https://open.spotify.com/album/7vlcu9jss42K2mzHTfBzU8) | 2:42 |
 | 22 | [MAGIC](https://open.spotify.com/track/4xAq1L431CBEpYit2yBY48) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [MAGIC](https://open.spotify.com/album/0g3F9EhMbH36hZUO3iSskb) | 2:57 |
 | 23 | [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,853 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,972 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,18 +37,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 27 | [Heaven](https://open.spotify.com/track/2Y34BGd4MdPVzaEk0tbqQj) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Heaven](https://open.spotify.com/album/7ufUDUerN7wKhTTQ6yefmy) | 3:31 |
 | 28 | [Mr.Mr.](https://open.spotify.com/track/3JaMGQXJmtbAhvgl0nBPPN) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Mr\. Mr\. \- The 4th Mini Album](https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj) | 3:55 |
 | 29 | [내 머리가 나빠서](https://open.spotify.com/track/7k1zf9Ch2n8dgNQ0UxbxJ9) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 \(Original Television Soundtrack\)](https://open.spotify.com/album/4jMu4ZrYUtiQNHIZvS42oR) | 4:23 |
-| 30 | [미인아 Bonamana](https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [미인아 \(Bonamana\) \- The 4th Album](https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp) | 3:59 |
-| 31 | [Give it to me](https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [Give It To Me](https://open.spotify.com/album/1nErNFyYvHnuCYvfwrMyoz) | 3:21 |
+| 30 | [Give it to me](https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [Give It To Me](https://open.spotify.com/album/1nErNFyYvHnuCYvfwrMyoz) | 3:21 |
+| 31 | [미인아 Bonamana](https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [미인아 \(Bonamana\) \- The 4th Album](https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp) | 3:59 |
 | 32 | [보여줄게](https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Invitation](https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd) | 3:53 |
 | 33 | [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 |
 | 34 | [Heart Attack](https://open.spotify.com/track/7pm5uhK7xiEM9fQvuCE78l) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [Heart Attack](https://open.spotify.com/album/1VTC6SmzvyPnWsEuQ0clrb) | 3:16 |
-| 35 | [너라고 It's You](https://open.spotify.com/track/2TG8kKgwsyyZU8lZIH6SZ1) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [너라고 It's You](https://open.spotify.com/album/3TC76yhvBNYaVvnzmyZN4J) | 3:51 |
-| 36 | [난리나](https://open.spotify.com/track/7dgO6H1BxXeXfxDkiDN8E9) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Welcome to the BLOCK](https://open.spotify.com/album/6keoJJWt7AOZ3jvznOc5om) | 3:24 |
+| 35 | [난리나](https://open.spotify.com/track/7dgO6H1BxXeXfxDkiDN8E9) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Welcome to the BLOCK](https://open.spotify.com/album/6keoJJWt7AOZ3jvznOc5om) | 3:24 |
+| 36 | [너라고 It's You](https://open.spotify.com/track/2TG8kKgwsyyZU8lZIH6SZ1) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [너라고 It's You](https://open.spotify.com/album/3TC76yhvBNYaVvnzmyZN4J) | 3:51 |
 | 37 | [Alone](https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [ALONE](https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV) | 3:26 |
 | 38 | [Miss Korea](https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [MONOCHROME](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) | 3:55 |
 | 39 | [Rising Sun](https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Rising Sun \- 2nd Album](https://open.spotify.com/album/5AH1QpZf94kaiWuLXbmTIR) | 4:42 |
-| 40 | [Mamacita \(아야야\)](https://open.spotify.com/track/23z7nLq4CD83EyzeeIokkt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAMACITA \- The 7th Album](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) | 3:27 |
-| 41 | [Baby, Don't Cry](https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:53 |
+| 40 | [Baby, Don't Cry](https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:53 |
+| 41 | [Mamacita \(아야야\)](https://open.spotify.com/track/23z7nLq4CD83EyzeeIokkt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAMACITA \- The 7th Album](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) | 3:27 |
 | 42 | [SHAKE IT](https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [SHAKE IT](https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C) | 3:28 |
 | 43 | [Short Hair](https://open.spotify.com/track/05G51ez5Z73NRE0l2QtZfH) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [Short Hair](https://open.spotify.com/album/5JF8b6GKxOIve0KBuT7pzS) | 3:34 |
 | 44 | [Please don’t…](https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The 3rd Album Part.1](https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2) | 3:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto:  Filipe Ret
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,405 likes - 75 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,493 likes - 75 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

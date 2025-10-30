@@ -39,7 +39,6 @@
 | [Diário](https://open.spotify.com/track/4vA8stWY11h9R7zTtWuELJ) | [Noção de Nada](https://open.spotify.com/artist/3hQeREHiEs8BmpWUGZxwyP) | [Trajes e Comportamentos de Acordo Com os Eventos e as Ocasiões](https://open.spotify.com/album/0eEsMVT7ybpkm1gHLTXEgC) | 3:02 | 2023-03-02 |  |
 | [Duas e Meia](https://open.spotify.com/track/6bUTztNNqxkZVhLuzOmF7V) | [Polara](https://open.spotify.com/artist/2aVrsVaTZsqC5iNqk0zNcR) | [Não Use o Termo](https://open.spotify.com/album/0ZaAlMcWGAnVhYYn1HGCmc) | 1:25 | 2023-03-02 |  |
 | [Dúvida](https://open.spotify.com/track/2MDwOOsDyBdyLUDvE1oUJw) | [IUPI](https://open.spotify.com/artist/6oVKPGpUEElMF5ianQSNUZ) | [As Viagens da Vida](https://open.spotify.com/album/2SYgoE9bAOnW9aexP0DY66) | 3:10 | 2023-03-02 |  |
-| [E Tao Raro](https://open.spotify.com/track/67s36dh8Q7Cy01kBesiVlh) | [Darvin](https://open.spotify.com/artist/4qOzfJoSvcBp7dSDlXxwBY) | [Darvin](https://open.spotify.com/album/7BKnHmaLvrw48FAnlyUJAA) | 3:36 | 2023-03-02 |  |
 | [Embedded Needs](https://open.spotify.com/track/20h2ad5YtElrLw3oS6BYFV) | [Garage Fuzz](https://open.spotify.com/artist/5CxFdJDDcUDl0oa0DjrqJs) | [Comfortable Moments](https://open.spotify.com/album/5ssNcQbbj40yEBx3PDb8QL) | 3:46 | 2023-03-02 |  |
 | [Entre o Caos e a \(R\)Evolução](https://open.spotify.com/track/6ct49JoiM1g6akHiSuxXmH) | [Black Days](https://open.spotify.com/artist/4KbbbUQ9pZU363ykioVFB0) | [Entre o Caos e a \(R\)Evolução](https://open.spotify.com/album/7CTNki9wsXtQGnnrMt88uX) | 4:46 | 2023-03-02 |  |
 | [Frio](https://open.spotify.com/track/1nmbGvznG5eK87587Ds0dN) | [Vowe](https://open.spotify.com/artist/0mJuCrQOXP4OBV2D6noZ34) | [Nossa Verdade](https://open.spotify.com/album/4OMojP2UtYT3EetynC47Z7) | 3:18 | 2023-03-02 |  |
@@ -82,6 +81,7 @@
 | [Voltar a Ser Canção](https://open.spotify.com/track/4As0FVE0RhNu5nKYgHa3dN) | [Dom Pedro](https://open.spotify.com/artist/2dn4iIwTZDvX8suARVjwBs) | [Primeiro](https://open.spotify.com/album/0Q6r6sOigwWud4pXvg8BTH) | 4:04 | 2023-03-02 |  |
 | [Water](https://open.spotify.com/track/4KDcyh5Adgm5zoVC6MuuJe) | [Reffer](https://open.spotify.com/artist/7of9Yjh4D5xYCu0uRwTtsS) | [Reffer](https://open.spotify.com/album/67Ss0dxo4L8RP58aoxVTlb) | 1:56 | 2023-03-02 |  |
 | [Zé Rico](https://open.spotify.com/track/6wO7hALrBKW5R0j5AbOwer) | [Debate](https://open.spotify.com/artist/5yZRDKk8TfOSxah2NFpnEG) | [EP](https://open.spotify.com/album/4nxp3Q69TuMYntWPhbtBEg) | 3:42 | 2023-03-02 |  |
+| [É Tão Raro](https://open.spotify.com/track/67s36dh8Q7Cy01kBesiVlh) | [Darvin](https://open.spotify.com/artist/4qOzfJoSvcBp7dSDlXxwBY) | [Darvin](https://open.spotify.com/album/7BKnHmaLvrw48FAnlyUJAA) | 3:36 | 2023-03-02 |  |
 | [Última Canção de Amor](https://open.spotify.com/track/3kLflOI6vXdx8GUdGwZRTJ) | [Hill Valleys](https://open.spotify.com/artist/3wVosBmSz90RTWawTngLeL) | [Rua dos Perdedores, Esquina dos Corações Quebrados](https://open.spotify.com/album/5GF1agGJD07nFCmcuGSFJQ) | 2:41 | 2023-03-02 |  |
 
 \*This playlist was first scraped on 2023-07-23. Prior content cannot be recovered.

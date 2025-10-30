@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqsHDiHLF4k.md) - [plain]
 
 > Innately spellbinding & meditative, absent of endings & beginnings\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,861 likes - 66 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,888 likes - 66 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

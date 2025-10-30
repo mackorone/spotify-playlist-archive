@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 
 > Easy rock for that peaceful, easy feeling\. Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,885 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,091 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 | 90 | [Sara](https://open.spotify.com/track/0q1exbzIDRxqJ6VUKH3seg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 6:22 |
 | 91 | [Don't Stop Believin' \(2024 Remaster\)](https://open.spotify.com/track/5ehcf6UL1TkwozB386cRAp) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Greatest Hits \(2024 Remaster\)](https://open.spotify.com/album/1Gtf2hZQlOGVER16uemmzR) | 4:10 |
 | 92 | [I Will Follow You into the Dark](https://open.spotify.com/track/2ndWbjiiNBEOrlfToKlABE) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/4guW5WPxFzHrXg04FPC9v9) | 3:09 |
-| 93 | [Handbags And Gladrags](https://open.spotify.com/track/3U8UHbqKeR0jlkg8Qlwunr) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Just Enough Education To Perform](https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4) | 4:37 |
-| 94 | [Runaway Train](https://open.spotify.com/track/3Ib3SJV8ZXuLvDiDb2w1As) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Black Gold: The Best Of Soul Asylum](https://open.spotify.com/album/6RARuzN6pIZZnQKwPeY7xQ) | 4:26 |
+| 93 | [Runaway Train](https://open.spotify.com/track/3Ib3SJV8ZXuLvDiDb2w1As) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Black Gold: The Best Of Soul Asylum](https://open.spotify.com/album/6RARuzN6pIZZnQKwPeY7xQ) | 4:26 |
+| 94 | [Handbags And Gladrags](https://open.spotify.com/track/3U8UHbqKeR0jlkg8Qlwunr) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Just Enough Education To Perform](https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4) | 4:37 |
 | 95 | [My Hometown](https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 |
 | 96 | [Simple Man \- Acoustic](https://open.spotify.com/track/4VuKGQiCzE5BdSdvp6Hjoh) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Leave a Whisper \(Deluxe Edition\)](https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l) | 5:20 |
 | 97 | [6th Avenue Heartache](https://open.spotify.com/track/1qEyqHR1xsj2MC4Qy0dsaI) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Bringing Down The Horse](https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh) | 5:37 |

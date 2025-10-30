@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Algernon Cadwallader
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,169 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,204 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,21 +52,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 42 | [Teeth](https://open.spotify.com/track/6d96mLOd9hUdJJVw2KFQAA) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 3:46 |
 | 43 | [Medina Ohio](https://open.spotify.com/track/3bpiG12mjNR0KGZZhtWjnP) | [McCafferty](https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8) | [Medina Ohio](https://open.spotify.com/album/5Tz7YUNbcQr7F5KUxequvN) | 3:38 |
 | 44 | [winning the high school talent show didnt make me more confident like i thought it would](https://open.spotify.com/track/10dYa9nzrib15HF4Z0dMu0) | [empty parking lot](https://open.spotify.com/artist/5PbZSC1skXoz4QHNor8JiB) | [winning the high school talent show didnt make me more confident like i thought it would](https://open.spotify.com/album/0YsUvXxQwssOCVqNS7007m) | 4:15 |
-| 45 | [ps pls call me](https://open.spotify.com/track/6p03ssQvEzWVSQxGGyJIML) | [Dear Maryanne](https://open.spotify.com/artist/7C04Hg3t3Q0sTLw5raMMP8) | [ps pls call me](https://open.spotify.com/album/1y5PrfclvJhAgeHAoHfil7) | 2:34 |
-| 46 | [I really am feeling better](https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [I really am feeling better](https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C) | 2:04 |
+| 45 | [I really am feeling better](https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [I really am feeling better](https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C) | 2:04 |
+| 46 | [ps pls call me](https://open.spotify.com/track/6p03ssQvEzWVSQxGGyJIML) | [Dear Maryanne](https://open.spotify.com/artist/7C04Hg3t3Q0sTLw5raMMP8) | [ps pls call me](https://open.spotify.com/album/1y5PrfclvJhAgeHAoHfil7) | 2:34 |
 | 47 | [Really Big Shrimp](https://open.spotify.com/track/1HrlVqg8nu86YRdMIGOGzT) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Really Big Shrimp](https://open.spotify.com/album/3sOldd5oq7qesemjhPgcei) | 4:07 |
 | 48 | [Nice to Know Ya](https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Nice to Know Ya](https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p) | 2:59 |
 | 49 | [Because I Am My Own Dog](https://open.spotify.com/track/3gBNVDofpuZuFLmnyeFIeR) | [Chase Petra](https://open.spotify.com/artist/1MTlhWSyxv11aeqREGEeb3) | [Lullabies for Dogs](https://open.spotify.com/album/7sVo3dfzwUo17mucey5xgk) | 3:43 |
-| 50 | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 |
-| 51 | [Make Believe](https://open.spotify.com/track/5BbMPShwAVZV1GIvyZxKhR) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [Make Believe](https://open.spotify.com/album/0jPUiEO5dET3XptMgwFrmi) | 3:08 |
+| 50 | [Make Believe](https://open.spotify.com/track/5BbMPShwAVZV1GIvyZxKhR) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [Make Believe](https://open.spotify.com/album/0jPUiEO5dET3XptMgwFrmi) | 3:08 |
+| 51 | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 |
 | 52 | [Gratitude](https://open.spotify.com/track/7DqzvnJveG59t2lrbBOqHc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Foxing](https://open.spotify.com/album/7wtRnGjfT3JMeseYGVzDy3) | 4:13 |
 | 53 | [Easily Undone](https://open.spotify.com/track/6AgYRZ8emI2qW25JAS3vPA) | [Macseal](https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT) | [Permanent Repeat](https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK) | 3:39 |
 | 54 | [I Don't Like Who I Was Then \(feat\. Ryland Heagy of Origami Angel\)](https://open.spotify.com/track/0tsDCPVmJHLFvai2blxIwv) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K), [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY), [Little Kruta](https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe) | [I Don't Like Who I Was Then \(feat\. Ryland Heagy of Origami Angel\)](https://open.spotify.com/album/7HU1L8d9pNdEC95LjjJUDP) | 3:53 |
 | 55 | [Hawk](https://open.spotify.com/track/40zSMkWtGouAxkjMQnB9JT) | [Algernon Cadwallader](https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE) | [Hawk](https://open.spotify.com/album/3nPnmLlFhfpios14irjgSP) | 3:42 |
 | 56 | [ain't it sweet](https://open.spotify.com/track/2TF8s1A5ncPQIREic3gwXn) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [with you in spirit](https://open.spotify.com/album/1tBLn0Ekhfx6WGaH4zRjdp) | 2:57 |
 | 57 | [caffeine cops](https://open.spotify.com/track/6bfvJmIShenDFix2g37t1S) | [Khaki Cuffs](https://open.spotify.com/artist/3lTbmnZS3UoiK7124LWjba) | [khaki cuffs](https://open.spotify.com/album/17hObjjsOomFIBWnYNwYfb) | 2:47 |
-| 58 | [Wisteria](https://open.spotify.com/track/00U358cDNH2xS9B1YTcE0b) | [Michael Cera Palin](https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP) | [We Could Be Brave](https://open.spotify.com/album/7CrSe4ZbLVmW0jJcuwpvOL) | 4:52 |
-| 59 | [closure](https://open.spotify.com/track/3ayeHyZ09bDgxnPfRBS5K2) | [Frat Mouse](https://open.spotify.com/artist/5KyiJcvybfUdX8Qm9OhMy8) | [flea house](https://open.spotify.com/album/4x5p7yXHi64StUzFmDEtRd) | 2:34 |
+| 58 | [closure](https://open.spotify.com/track/3ayeHyZ09bDgxnPfRBS5K2) | [Frat Mouse](https://open.spotify.com/artist/5KyiJcvybfUdX8Qm9OhMy8) | [flea house](https://open.spotify.com/album/4x5p7yXHi64StUzFmDEtRd) | 2:34 |
+| 59 | [Wisteria](https://open.spotify.com/track/00U358cDNH2xS9B1YTcE0b) | [Michael Cera Palin](https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP) | [We Could Be Brave](https://open.spotify.com/album/7CrSe4ZbLVmW0jJcuwpvOL) | 4:52 |
 | 60 | [It Was Real To Me](https://open.spotify.com/track/0frCZbVGC6kdgLGYOewWMz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [It Was Real To Me](https://open.spotify.com/album/2VMwISn56z1TKDg8Yti2k4) | 2:46 |
 | 61 | [Full Speed Ahead](https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy) | [Combat](https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx) | [Stay Golden](https://open.spotify.com/album/3eOka6weED6Atrxap8V15u) | 2:34 |
 | 62 | [the country club](https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 2:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 
 > This is The Jones Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,480 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,478 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 41 | [The More I Get To Know You](https://open.spotify.com/track/69VxpJEzI5FQnsMi9oKx4Y) | [Richard Anthony Davis](https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL), [Emmanuel](https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o), [Chris Ballin](https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W), [Dean Edwards](https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh), [Anthony Drakes](https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza), [Julianne](https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR), [The Sound Principle](https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw) | [Soul Central, Vol\. 1](https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya) | 4:31 |
 | 42 | [Why You Wanna Do That to Me](https://open.spotify.com/track/37qqCwdo1Vx0lKV0t2v3oa) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Keep It Comin'](https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ) | 4:35 |
 | 43 | [Somewhere Alone Tonight](https://open.spotify.com/track/7p8yn1qom6ABw7zFTYvM6b) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:05 |
-| 44 | [Baby I'm Yours](https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 4:14 |
-| 45 | [You're the Only Bargain I've Got](https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant B\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu) | 3:51 |
-| 46 | [Taster of the Honey \(Not Keeper of the Bee\)](https://open.spotify.com/track/6sjotJtpxuxZ3h2J9j65nI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant A\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC) | 2:53 |
+| 44 | [Taster of the Honey \(Not Keeper of the Bee\)](https://open.spotify.com/track/6sjotJtpxuxZ3h2J9j65nI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant A\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC) | 2:53 |
+| 45 | [Baby I'm Yours](https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 4:14 |
+| 46 | [You're the Only Bargain I've Got](https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant B\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu) | 3:51 |
 | 47 | [Sweet Ecstasy](https://open.spotify.com/track/7ohWpJGxqnwVuLq6iQrlz9) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 3:38 |
-| 48 | [What a Fool](https://open.spotify.com/track/5h1Xn0K0ke0E7fey2kXWtW) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 5:44 |
-| 49 | [Don't Be Sorry Be Careful](https://open.spotify.com/track/0sXmIrSxNdjBPcQCvFGe5t) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant B\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu) | 2:48 |
-| 50 | [Come Back](https://open.spotify.com/track/4iVah9x9HIl1Zpo54O4uec) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant A\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC) | 2:35 |
+| 48 | [Come Back](https://open.spotify.com/track/4iVah9x9HIl1Zpo54O4uec) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant A\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC) | 2:35 |
+| 49 | [What a Fool](https://open.spotify.com/track/5h1Xn0K0ke0E7fey2kXWtW) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 5:44 |
+| 50 | [Don't Be Sorry Be Careful](https://open.spotify.com/track/0sXmIrSxNdjBPcQCvFGe5t) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant B\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu) | 2:48 |
 
-Snapshot ID: `aP62AAAAAADZHFodXtDXc2FpggvktEdz`
+Snapshot ID: `aQAHgAAAAABFeG+DwtgurcYQfMZnILlr`

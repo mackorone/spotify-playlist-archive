@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 318293,
+  "num_followers": 318476,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADH5lyzDs5lqgEjJ2JOzM3F",
+  "snapshot_id": "aQAHgAAAAADHta5PBdLkfHVvV8H4+was",
   "tracks": [
     {
       "added_at": null,
@@ -295,18 +295,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Primer D\u00eda Sin Ti",
-        "url": "https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5"
+        "name": "Desde Que Llegaste",
+        "url": "https://open.spotify.com/album/6CDrZFBVkrxaaYOoiP3iLW"
       },
       "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 190876,
-      "name": "Mi Primer D\u00eda Sin Ti",
-      "url": "https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb"
+      "duration_ms": 206322,
+      "name": "Desde Que Llegaste",
+      "url": "https://open.spotify.com/track/5A90OxfOMIGXM2jocXmASG"
     },
     {
       "added_at": null,
@@ -327,22 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Que Llegaste",
-        "url": "https://open.spotify.com/album/6CDrZFBVkrxaaYOoiP3iLW"
+        "name": "Mi Primer D\u00eda Sin Ti",
+        "url": "https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5"
       },
       "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 206322,
-      "name": "Desde Que Llegaste",
-      "url": "https://open.spotify.com/track/5A90OxfOMIGXM2jocXmASG"
+      "duration_ms": 190876,
+      "name": "Mi Primer D\u00eda Sin Ti",
+      "url": "https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb"
     },
     {
       "added_at": null,

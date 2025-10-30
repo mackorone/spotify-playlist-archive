@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > Beloved Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,339 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,364 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 46 | [O Holy Night](https://open.spotify.com/track/7rRhq2CEg8JhFKdtX5vIzz) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:55 |
 | 47 | [Mis Deseos / Feliz Navidad \(with Thalia\)](https://open.spotify.com/track/6ZdxGOaZoNzbGrBLjUcrUs) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 4:24 |
 | 48 | [Llorarás en Navidad](https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [Navidad Mexicana](https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7) | 2:58 |
-| 49 | [Dime Niño ¿de Quien Eres?](https://open.spotify.com/track/0Mrgc3kVm21j2idMBEuDhy) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Villancicos](https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4) | 2:32 |
-| 50 | [Campanas De Plata](https://open.spotify.com/track/5InDcyTXOBg3inzbwbSYQj) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Eterna Navidad \(US Version\)](https://open.spotify.com/album/78v5jMZria78NZVsostS4t) | 2:23 |
+| 49 | [Campanas De Plata](https://open.spotify.com/track/5InDcyTXOBg3inzbwbSYQj) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Eterna Navidad \(US Version\)](https://open.spotify.com/album/78v5jMZria78NZVsostS4t) | 2:23 |
+| 50 | [Dime Niño ¿de Quien Eres?](https://open.spotify.com/track/0Mrgc3kVm21j2idMBEuDhy) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Villancicos](https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4) | 2:32 |
 
 Snapshot ID: `AAAAAEG7PxPiLNpLjibawD8rGvnanSi7`

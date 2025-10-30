@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 731161,
+  "num_followers": 731173,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADEvGCi7ZVtEyRcpMfoMv/4",
+  "snapshot_id": "aQAHgAAAAAB6O9L61J9On8FtgHxkI1GO",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHROMAKOPIA +",
+        "url": "https://open.spotify.com/album/3pj1ebiwii7X06BNZglObJ"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 281413,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/7gTxjr4iQZEuYC6uMPA5SO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -47,30 +63,6 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        }
-      ],
-      "duration_ms": 207454,
-      "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
-      "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
     },
     {
       "added_at": null,
@@ -127,18 +119,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST INTEREST",
-        "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
       "artists": [
         {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
         }
       ],
-      "duration_ms": 127921,
-      "name": "BEST INTEREST",
-      "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"
+      "duration_ms": 207454,
+      "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
+      "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
     },
     {
       "added_at": null,
@@ -195,22 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goblin",
-        "url": "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO"
+        "name": "BEST INTEREST",
+        "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
       },
       "artists": [
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 253386,
-      "name": "She",
-      "url": "https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V"
+      "duration_ms": 127921,
+      "name": "BEST INTEREST",
+      "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"
     },
     {
       "added_at": null,
@@ -279,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolf",
-        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+        "name": "Goblin",
+        "url": "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO"
       },
       "artists": [
         {
@@ -288,13 +284,13 @@
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 319253,
-      "name": "IFHY (feat. Pharrell)",
-      "url": "https://open.spotify.com/track/0NjW4SKY3gbfl2orl1p8hr"
+      "duration_ms": 253386,
+      "name": "She",
+      "url": "https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V"
     },
     {
       "added_at": null,
@@ -358,11 +354,15 @@
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 230066,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/6rqj2zeKhLy3exkuFi6mSz"
+      "duration_ms": 319253,
+      "name": "IFHY (feat. Pharrell)",
+      "url": "https://open.spotify.com/track/0NjW4SKY3gbfl2orl1p8hr"
     },
     {
       "added_at": null,
@@ -423,26 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
       },
       "artists": [
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 121572,
-      "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"
+      "duration_ms": 230066,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/6rqj2zeKhLy3exkuFi6mSz"
     },
     {
       "added_at": null,
@@ -495,6 +487,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 121572,
+      "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -511,30 +527,6 @@
       "duration_ms": 194933,
       "name": "Where This Flower Blooms (feat. Frank Ocean)",
       "url": "https://open.spotify.com/track/6KuXb26rHuRy3ZDse1VRmx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 588139,
-      "name": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
-      "url": "https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz"
     },
     {
       "added_at": null,
@@ -579,6 +571,30 @@
       "duration_ms": 161041,
       "name": "DOGTOOTH",
       "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 588139,
+      "name": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
+      "url": "https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz"
     },
     {
       "added_at": null,
@@ -631,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 206049,
+      "name": "SORRY NOT SORRY",
+      "url": "https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -647,22 +679,6 @@
       "duration_ms": 155292,
       "name": "HOT WIND BLOWS (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 206049,
-      "name": "SORRY NOT SORRY",
-      "url": "https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo"
     },
     {
       "added_at": null,
@@ -975,30 +991,6 @@
       "duration_ms": 204364,
       "name": "BOYFRIEND, GIRLFRIEND (2020 Demo) (feat. YG)",
       "url": "https://open.spotify.com/track/2sFEmuVVAa2klHwhFaT0rR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 146419,
-      "name": "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
-      "url": "https://open.spotify.com/track/7z4xW9WY86uH3gd1V9pfCM"
     }
   ],
   "unique_name": "This Is Tyler, The Creator",

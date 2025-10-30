@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,634 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,643 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 44 | [EGY/KETTŐ](https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [EGY/KETTŐ](https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4) | 4:59 |
 | 45 | [Papírom](https://open.spotify.com/track/1FAhDZwQTbDNxXz83zlq2B) | [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [Papírom](https://open.spotify.com/album/0aBLKzoryaeL5euj0bXxsf) | 2:39 |
 | 46 | [10/10](https://open.spotify.com/track/32OAOWJCY2IweKSGggKWta) | [MAXI](https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [10/10](https://open.spotify.com/album/10cKEAf2bKBFIcWIrsQFKV) | 2:26 |
-| 47 | [Rajosan 3](https://open.spotify.com/track/4HCxfqE1kajYIor6uYHrVP) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Essemm](https://open.spotify.com/artist/3Ys4jFPuyeMWAdBpZWWkhu), [Beat](https://open.spotify.com/artist/2JDv04js6dtvkylyVbDLAD) | [III](https://open.spotify.com/album/0dijkBrCY5rDMXy5JrJij8) | 2:56 |
-| 48 | [Jégszívű lány](https://open.spotify.com/track/167o6hXLQAvk4b4R6kXh3U) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Lidokain](https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ) | 2:34 |
+| 47 | [Jégszívű lány](https://open.spotify.com/track/167o6hXLQAvk4b4R6kXh3U) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Lidokain](https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ) | 2:34 |
+| 48 | [Rajosan 3](https://open.spotify.com/track/4HCxfqE1kajYIor6uYHrVP) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Essemm](https://open.spotify.com/artist/3Ys4jFPuyeMWAdBpZWWkhu), [Beat](https://open.spotify.com/artist/2JDv04js6dtvkylyVbDLAD) | [III](https://open.spotify.com/album/0dijkBrCY5rDMXy5JrJij8) | 2:56 |
 | 49 | [Boldog igazán](https://open.spotify.com/track/335Wifss6mmpkiypUEnsIA) | [DÁNIELFY](https://open.spotify.com/artist/4imSxhDqtkiuKUamV1AL2l), [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [HA MEGÉRKEZEL](https://open.spotify.com/album/0Pr7RO2APWS9vip0G4n8HS) | 3:11 |
 | 50 | [ZHA MAJ DUR](https://open.spotify.com/track/1pveRbNO9ChgyuY37trkLw) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Farkas Pisti](https://open.spotify.com/artist/3S80BK8zfo0nGXKOgG4vo3) | [ZHA MAJ DUR](https://open.spotify.com/album/0QWmGuYzWAkZuvZPzZ8bV3) | 3:39 |
 | 51 | [NINTENDO](https://open.spotify.com/track/5MOlhGLex8jhMeyUPSsanz) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [NINTENDO](https://open.spotify.com/album/5JK5KmPYSR3Ruys8nDUa7c) | 2:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 79 | [Marimba](https://open.spotify.com/track/243WfEVYauoBabr1HDrJMU) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [DOÓR](https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o) | [Marimba](https://open.spotify.com/album/15gAf3ThC9J6qQswJEAFTW) | 2:46 |
 | 80 | [Titkos üzenet](https://open.spotify.com/track/5OdmRZPg8cCOJE6j3wm87X) | [TNT](https://open.spotify.com/artist/0mrz04tAG5y6E8xTJUhLwa) | [Bomba](https://open.spotify.com/album/3zbdVP1otrUnQoxlCvKQMu) | 3:36 |
 
-Snapshot ID: `AAAAAH71eKxWe6uYZz0EmSYFvOKLILmg`
+Snapshot ID: `AAAAALIZ1vfWB42eRI/mRYwrD4wxw5Q3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 
 > I really wish your real name is my last name 🤡
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,212 likes - 88 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,189 likes - 88 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 | 87 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 |
 | 88 | [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 |
 
-Snapshot ID: `AAAAANAeg9IqwKIXHuRJY3LMMT5dTKHr`
+Snapshot ID: `AAAAADSq+7KYLJjhFroVv0S6eywk4DOX`

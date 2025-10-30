@@ -4,7 +4,7 @@
 
 > Single people dey suffer
 
-870 songs - 1 day 18 hr 7 min
+871 songs - 1 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Attention](https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [In The Rough](https://open.spotify.com/album/7kUONXoXGQCZg93xSJph4x) | 2:45 | 2022-07-28 | 2024-06-28 |
 | [Automatic](https://open.spotify.com/track/1yz6NJ6hXpVvaRbllgXQpI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Automatic](https://open.spotify.com/album/3y0yjUEuag7X0HQSc4aqDF) | 2:56 | 2023-01-20 | 2023-01-28 |
 | [Ave Maria](https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Ave Maria](https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS) | 2:47 | 2024-08-02 | 2024-08-26 |
-| [Away](https://open.spotify.com/track/7vp8JafiMNyGSNH4vrHogz) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Away](https://open.spotify.com/album/38zn2ovgLlxDXUPknFLiAB) | 3:05 | 2025-09-05 |  |
+| [Away](https://open.spotify.com/track/7vp8JafiMNyGSNH4vrHogz) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Away](https://open.spotify.com/album/38zn2ovgLlxDXUPknFLiAB) | 3:05 | 2025-09-05 | 2025-10-30 |
 | [Away](https://open.spotify.com/track/2s9OC1yMrccPa9lJpwBmTL) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Yimeeka](https://open.spotify.com/album/4wmJQOsN4UqbcdeaVXuh6a) | 2:18 | 2024-04-26 | 2024-05-17 |
 | [Ayaya](https://open.spotify.com/track/5hVcc3iI2uOf48IMGO8fwH) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Showboy](https://open.spotify.com/album/2FTl3Npv8uiTJ3FEywx2U1) | 2:21 | 2025-08-15 | 2025-10-26 |
 | [Azonto Fiesta \(feat\. Amaarae & Mugeez\)](https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [Road To Fuego](https://open.spotify.com/album/3lMjAgltdk3MBExAXTw7Ux) | 2:51 | 2024-11-22 | 2025-05-11 |
@@ -507,6 +507,7 @@
 | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/track/0M8zgwFqNr6h2yX1405Z8S) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/album/0ozxicCrg2KTyabSeKWV2I) | 4:12 | 2022-11-18 | 2023-01-20 |
 | [meet 4 corner](https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Sweet Songs 4 You](https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg) | 2:50 | 2025-06-27 | 2025-08-26 |
 | [Melody](https://open.spotify.com/track/5HMk6l89LGrGxG7hnlme1y) | [ginius](https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw), [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [Her Notions Since '97](https://open.spotify.com/album/6O0LMIl1QM7YBe4UP9Ofyw) | 2:23 | 2022-08-12 | 2022-08-26 |
+| [MELODY](https://open.spotify.com/track/3SxV2lTylKaXUVd68MqgSm) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [MELODY](https://open.spotify.com/album/0xnPL7EWuvYFkMCEieyJR3) | 2:54 | 2025-10-24 |  |
 | [Men Are Crazy](https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Men Are Crazy](https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi) | 3:06 | 2024-04-05 | 2024-08-30 |
 | [Mentali](https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Mentali](https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH) | 2:30 | 2024-10-12 | 2025-04-07 |
 | [Mercedes](https://open.spotify.com/track/5yddpYI7Hwe7fQv2NLg7l1) | [Samba Peuzzi](https://open.spotify.com/artist/4jXLwmp2AhoxoaPr14fagb), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Mercedes](https://open.spotify.com/album/3qZWv38DiTCaImDx6ylRed) | 3:22 | 2023-01-27 | 2023-03-04 |

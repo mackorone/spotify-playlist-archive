@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 
 > This is Eros Ramazzotti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,138 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,179 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 32 | [Nel cuore lei](https://open.spotify.com/track/7mlmpmwrkMKcU94jXRAaPy) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Sogno](https://open.spotify.com/album/3fKfyzmHnCsdCw4iD3xIch) | 3:43 |
 | 33 | [Un Angel No Es](https://open.spotify.com/track/2dQbR9FMqNdHGsbGErEAuF) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Estilolibre](https://open.spotify.com/album/2f3T6MTtosgsvOUa4a7PHk) | 4:38 |
 | 34 | [Inevitabile \(feat\. Eros Ramazzotti\)](https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Dietro Le Apparenze](https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC) | 3:54 |
-| 35 | [Quanto amore sei](https://open.spotify.com/track/4uZODT0zynKg5TFTLC8fLd) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros](https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r) | 4:18 |
-| 36 | [Si Bastasen un Par de Canciones](https://open.spotify.com/track/6QZw9KXAn1xuZ4FMCSQGgf) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [En Todos Los Sentidos](https://open.spotify.com/album/5jp9HpiAUultIxQR8OBwpH) | 5:10 |
+| 35 | [Si Bastasen un Par de Canciones](https://open.spotify.com/track/6QZw9KXAn1xuZ4FMCSQGgf) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [En Todos Los Sentidos](https://open.spotify.com/album/5jp9HpiAUultIxQR8OBwpH) | 5:10 |
+| 36 | [Quanto amore sei](https://open.spotify.com/track/4uZODT0zynKg5TFTLC8fLd) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros](https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r) | 4:18 |
 | 37 | [Fábula \- Remastered 2021](https://open.spotify.com/track/6E0YAI0iBKV5Dzl3jvnrdW) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias \(2021 Remastered Version\)](https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf) | 4:37 |
 | 38 | [Una Historia Importante \- Remastered 2021](https://open.spotify.com/track/6uulJvNvvJep8eNtOLOOIX) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Heroes De hoy \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc) | 4:13 |
 | 39 | [Stella gemella](https://open.spotify.com/track/5KghKF7Q8cqmOjoZIlyjhT) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Dove C'è Musica](https://open.spotify.com/album/7pDzIMRQxQHkMmCZIdWAok) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 49 | [Yo sin ti \- Remastered 2021](https://open.spotify.com/track/4gXHMiZ4MXRo6nRWzu8oLq) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \[25th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo) | 4:13 |
 | 50 | [Esta Pasando Noviembre](https://open.spotify.com/track/305WmAWejd1NAIPQc9hV6p) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Calma Aparente \(Spanish Version\)](https://open.spotify.com/album/2GblNd4Iw3icXAXPIhKuQa) | 4:10 |
 
-Snapshot ID: `aP62AAAAAAC9SoE3kL2nnKgWbbQJfs9b`
+Snapshot ID: `aQAHgAAAAACiRBaqor0tsK2fSJR9XKf2`

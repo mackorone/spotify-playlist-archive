@@ -1,6 +1,6 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 80s",
-  "num_followers": 116780,
+  "num_followers": 116786,
   "original_name": "Good Feeling 80s",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
         "name": "Super Trouper",
         "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 294720,
       "name": "The Winner Takes It All",
       "url": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
         "name": "At The Close Of A Century",
         "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 262240,
       "name": "I Just Called To Say I Love You",
       "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Crimes Of Passion",
-        "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
-      },
-      "artists": [
-        {
-          "name": "Pat Benatar",
-          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "Hit Me With Your Best Shot",
-      "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
         "name": "Heart Of Stone",
         "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+        "name": "Crimes Of Passion",
+        "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
         }
       ],
-      "duration_ms": 255840,
-      "name": "Buffalo Soldier",
-      "url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
+      "duration_ms": 171266,
+      "name": "Hit Me With Your Best Shot",
+      "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -779,6 +763,22 @@
       "duration_ms": 201693,
       "name": "Any Way You Want It",
       "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 255840,
+      "name": "Buffalo Soldier",
+      "url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Now in a Minute",
-        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
-      },
-      "artists": [
-        {
-          "name": "Donna Lewis",
-          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "I Love You Always Forever",
-      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
         "name": "Branigan",
         "url": "https://open.spotify.com/album/7tDrvcJnNTSIaFmRJVhagA"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 289853,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "Now in a Minute",
+        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
+      },
+      "artists": [
+        {
+          "name": "Donna Lewis",
+          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "I Love You Always Forever",
+      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
     },
     {
       "added_at": "2022-06-08 06:25:05",

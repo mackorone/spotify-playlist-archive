@@ -1,6 +1,6 @@
 {
   "description": "lo alt, raro y cool. Artemas en portada.",
-  "num_followers": 624463,
+  "num_followers": 624428,
   "original_name": "el indie no es un g\u00e9nero ",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-10-24 06:00:16",
       "album": {
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Tarde o temprano",
+      "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
+    },
+    {
+      "added_at": "2025-10-24 06:00:16",
+      "album": {
         "name": "Doggy (feat. Love Spells and Truly Young)",
         "url": "https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 172359,
       "name": "Doggy (feat. Love Spells and Truly Young)",
       "url": "https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU"
-    },
-    {
-      "added_at": "2025-10-24 06:00:16",
-      "album": {
-        "name": "ATP",
-        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Tarde o temprano",
-      "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
     },
     {
       "added_at": "2025-10-24 06:00:16",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-10-24 06:00:16",
       "album": {
-        "name": "The Cosmic Selector Vol. 1",
-        "url": "https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 186987,
-      "name": "Watch Me Go",
-      "url": "https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz"
-    },
-    {
-      "added_at": "2025-10-24 06:00:16",
-      "album": {
         "name": "Earthshaker",
         "url": "https://open.spotify.com/album/6zVMSQa3VzNxUiC6Z5q954"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 179986,
       "name": "Earthshaker",
       "url": "https://open.spotify.com/track/3dcAXXsNJb2VgX7k1Okz2L"
+    },
+    {
+      "added_at": "2025-10-24 06:00:16",
+      "album": {
+        "name": "The Cosmic Selector Vol. 1",
+        "url": "https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 186987,
+      "name": "Watch Me Go",
+      "url": "https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz"
     },
     {
       "added_at": "2025-10-24 06:00:16",

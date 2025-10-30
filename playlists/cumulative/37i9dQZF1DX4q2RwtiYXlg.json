@@ -532,24 +532,6 @@
     {
       "album": {
         "name": "Get A Guitar",
-        "url": "https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "date_added": "2023-12-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 160371,
-      "name": "Get A Guitar",
-      "url": "https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4"
-    },
-    {
-      "album": {
-        "name": "Get A Guitar",
         "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
       },
       "artists": [
@@ -564,6 +546,24 @@
       "duration_ms": 160371,
       "name": "Get A Guitar",
       "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
+    },
+    {
+      "album": {
+        "name": "Get A Guitar",
+        "url": "https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160372,
+      "name": "Get A Guitar",
+      "url": "https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4"
     },
     {
       "album": {

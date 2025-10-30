@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,680 likes - 116 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,988 likes - 116 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 115 | [Soul Elevation](https://open.spotify.com/track/5Pfn4dkyAIJoFz9ulqAkc5) | [Natura Relax](https://open.spotify.com/artist/084iu69ZxshixVfB7rcRg7), [Enchanted Sounds](https://open.spotify.com/artist/2c6l8ejTfqwvp2G2YAzq9M) | [Hang Drum Meditation](https://open.spotify.com/album/3cxLTdp6xaC6OG3iC16rZn) | 1:15 |
 | 116 | [Sound Bath Escape](https://open.spotify.com/track/6fOHkDRcx1Wm7Akrx4f3cp) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Sound Bath Escape](https://open.spotify.com/album/3rL8zuwDNsmKcOBCRgaXCb) | 2:24 |
 
-Snapshot ID: `AAAAAEYfe1WzNVapGKmDq2tWb1mOIzqY`
+Snapshot ID: `AAAAAGAiiF0Ng9IJFz4tZ8z+rCQ7H9Bp`

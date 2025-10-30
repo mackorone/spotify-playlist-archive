@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADpN6P3+i188IJUJdKEw/ZW",
+  "snapshot_id": "aQAHgAAAAABQLZLUb1H4jXpKjcSMGIIy",
   "tracks": [
     {
       "added_at": null,
@@ -248,13 +248,13 @@
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         },
         {
-          "name": "Melissa Bethea",
-          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+          "name": "Greg Kirkland, Jr.",
+          "url": "https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs"
         }
       ],
-      "duration_ms": 104160,
-      "name": "He Loves Us - Live",
-      "url": "https://open.spotify.com/track/1TeuVFbHkHJMHebfgUUUUw"
+      "duration_ms": 203920,
+      "name": "Reckless Love - Live",
+      "url": "https://open.spotify.com/track/5k3Q41ISF9hhovjDnaVwom"
     },
     {
       "added_at": null,
@@ -336,13 +336,13 @@
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         },
         {
-          "name": "Greg Kirkland, Jr.",
-          "url": "https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs"
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
         }
       ],
-      "duration_ms": 203920,
-      "name": "Reckless Love - Live",
-      "url": "https://open.spotify.com/track/5k3Q41ISF9hhovjDnaVwom"
+      "duration_ms": 104160,
+      "name": "He Loves Us - Live",
+      "url": "https://open.spotify.com/track/1TeuVFbHkHJMHebfgUUUUw"
     },
     {
       "added_at": null,
@@ -863,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Holding Back",
-        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
       },
       "artists": [
         {
@@ -872,13 +872,13 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Chris House",
-          "url": "https://open.spotify.com/artist/6VnxEUi7BfcBs9u6YsfTsZ"
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         }
       ],
-      "duration_ms": 552369,
-      "name": "I Am Thankful",
-      "url": "https://open.spotify.com/track/78e5Uq7w3JlVBwEoOVSmac"
+      "duration_ms": 413533,
+      "name": "Everything Is Changed - Live",
+      "url": "https://open.spotify.com/track/0IlKCT84rEbw0PSaoGgDx9"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
       },
       "artists": [
         {
@@ -912,13 +912,37 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+          "name": "Chris House",
+          "url": "https://open.spotify.com/artist/6VnxEUi7BfcBs9u6YsfTsZ"
         }
       ],
-      "duration_ms": 413533,
-      "name": "Everything Is Changed - Live",
-      "url": "https://open.spotify.com/track/0IlKCT84rEbw0PSaoGgDx9"
+      "duration_ms": 552369,
+      "name": "I Am Thankful",
+      "url": "https://open.spotify.com/track/78e5Uq7w3JlVBwEoOVSmac"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Gathering Place Worship Choir",
+          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
+        },
+        {
+          "name": "Katondra Jenkins",
+          "url": "https://open.spotify.com/artist/4siQoXWognMsG9ieD6B2fG"
+        }
+      ],
+      "duration_ms": 502678,
+      "name": "The Newborn King - Live",
+      "url": "https://open.spotify.com/track/1CfKsupM9g6aNrbxOXYv9g"
     },
     {
       "added_at": null,
@@ -947,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Sound",
-        "url": "https://open.spotify.com/album/2KmdWOkXROfYS4NGeKp7yk"
-      },
-      "artists": [
-        {
-          "name": "Full Gospel Baptist Church Fellowship International Ministry of Worship",
-          "url": "https://open.spotify.com/artist/6PJVrZQUx2azXg7XcVagYW"
-        },
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 395426,
-      "name": "You Reign",
-      "url": "https://open.spotify.com/track/19fFT5cKOgn6lgqdVGCESu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Live Reunion: Washington, DC",
         "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
       },
@@ -987,30 +991,6 @@
       "duration_ms": 164966,
       "name": "Incredible God - Live",
       "url": "https://open.spotify.com/track/6qcF5wQapNhjHsTYiHw5gh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy Is Here (Live)",
-        "url": "https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Gathering Place Worship Choir",
-          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
-        },
-        {
-          "name": "Katondra Jenkins",
-          "url": "https://open.spotify.com/artist/4siQoXWognMsG9ieD6B2fG"
-        }
-      ],
-      "duration_ms": 502678,
-      "name": "The Newborn King - Live",
-      "url": "https://open.spotify.com/track/1CfKsupM9g6aNrbxOXYv9g"
     },
     {
       "added_at": null,
@@ -1047,6 +1027,26 @@
       "duration_ms": 329200,
       "name": "You Are Awesome",
       "url": "https://open.spotify.com/track/4h5GMPfnPIHhcZ0yuVWSAw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Sound",
+        "url": "https://open.spotify.com/album/2KmdWOkXROfYS4NGeKp7yk"
+      },
+      "artists": [
+        {
+          "name": "Full Gospel Baptist Church Fellowship International Ministry of Worship",
+          "url": "https://open.spotify.com/artist/6PJVrZQUx2azXg7XcVagYW"
+        },
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 395426,
+      "name": "You Reign",
+      "url": "https://open.spotify.com/track/19fFT5cKOgn6lgqdVGCESu"
     },
     {
       "added_at": null,

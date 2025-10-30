@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 
 > ¡Y qué retumbe la bandona, pariente! Espinoza Paz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,970,186 likes - 150 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,970,424 likes - 150 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 45 | [Enhorabuena](https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Te Voy A Amar](https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC) | 3:14 |
 | 46 | [Compárame](https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [La Otra Cara De La Moneda](https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC) | 3:45 |
 | 47 | [Un loco solitario](https://open.spotify.com/track/0QQROQYcXIlFobzckwOdBx) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 3:12 |
-| 48 | [Hasta El Día De Hoy](https://open.spotify.com/track/7z5jPeiVTBP7bGNk3AY7dg) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:55 |
-| 49 | [Ya No Me Mires Así](https://open.spotify.com/track/300QUH7Q7FncaEo8Fcvwgp) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Acuérdate de Mi](https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY) | 3:04 |
+| 48 | [Ya No Me Mires Así](https://open.spotify.com/track/300QUH7Q7FncaEo8Fcvwgp) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Acuérdate de Mi](https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY) | 3:04 |
+| 49 | [Hasta El Día De Hoy](https://open.spotify.com/track/7z5jPeiVTBP7bGNk3AY7dg) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:55 |
 | 50 | [Para Que Regreses](https://open.spotify.com/track/0EZ5c3oWdpWIaYHvifMqI2) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 3:14 |
 | 51 | [El Antes Y El Después](https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [El Antes Y El Después](https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0) | 3:03 |
 | 52 | [Millonario De Amor](https://open.spotify.com/track/7LCymER3kimMSSMBnuyEub) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 3:42 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 113 | [Adiós Mi Amor](https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:21 |
 | 114 | [El Amor En Carro](https://open.spotify.com/track/4c5ikbelwcfSrtfLVhhxsF) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | [Usted Dirá](https://open.spotify.com/album/4NfRvu5neenFsWyxpG7iuM) | 3:31 |
 | 115 | [La Carta](https://open.spotify.com/track/1ZnzxW8jLzd180IE5Zq6xy) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 1:54 |
-| 116 | [Música Romántica](https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Música Romántica](https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U) | 3:52 |
-| 117 | [Se Va Muriendo Mi Alma](https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Tirando Party](https://open.spotify.com/album/4Abo4Oityt7ycbQwoRmXvC) | 3:56 |
+| 116 | [Se Va Muriendo Mi Alma](https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Tirando Party](https://open.spotify.com/album/4Abo4Oityt7ycbQwoRmXvC) | 3:56 |
+| 117 | [Música Romántica](https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Música Romántica](https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U) | 3:52 |
 | 118 | [El Son De La Rabia \- En Vivo](https://open.spotify.com/track/1vJCOsDg9LZRIZImi0oBb6) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento En Vivo, Vol\. 2](https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz) | 2:59 |
 | 119 | [El Que Se Enamora Pierde](https://open.spotify.com/track/24Yw6Hoi0sPaJKb16uQZGI) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 2:20 |
 | 120 | [Derecho De Antigüedad](https://open.spotify.com/track/37MzlcXgRH5rzTJYcSX2RD) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Romances](https://open.spotify.com/album/3yf7ChHaHsfVTnq7b9c0Xt) | 3:06 |

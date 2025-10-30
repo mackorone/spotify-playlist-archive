@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 67th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,271 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,260 likes - 125 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 33 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 2:58 |
 | 34 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 |
 | 35 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
-| 36 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
+| 36 | [make you mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [make you mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
 | 37 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
 | 38 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 |
 | 39 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 |
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 122 | [Diamante](https://open.spotify.com/track/5eRN0FLIkrRDbpOBZtH6bi) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 2:41 |
 | 123 | [Underestimate Me](https://open.spotify.com/track/3zO4DFfpvGh8CXfN8nhiG0) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [No One Gets Out Alive](https://open.spotify.com/album/30XLu62xz6MZPVHC64ZY7T) | 3:08 |
 | 124 | [When The Sun Shines Again \[Feat\. Posdnuos\]](https://open.spotify.com/track/7dPzrE3hNzxtUIDqKmZY3B) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [Posdnuos](https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7) | [The Auditorium Vol\. 1](https://open.spotify.com/album/1wA3gsTb8pgnKuAyJbAsu0) | 4:45 |
-| 125 | [Tomorrow](https://open.spotify.com/track/5yuP7KsSKbm3S94BGdK4Jy) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Tomorrow](https://open.spotify.com/album/2NafcOjkNhsr7o3ZGZynHm) | 3:23 |
+| 125 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/1XeVdgCil539quM3POT69i) | [Honor & Glory](https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/2xoamtc1hV7E47G2LfIZuE) | 4:46 |
 
 Snapshot ID: `AAAAAIGF7/Q/XcR0lsTDl29hOFKQhvsr`

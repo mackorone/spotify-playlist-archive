@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: SABRI
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,628 likes - 110 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,719 likes - 110 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,19 +13,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 3 | [Don't Speak](https://open.spotify.com/track/3HGP6DStszOkaGl1ZtDYGC) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Don't Speak](https://open.spotify.com/album/6631muX3oR9NCQXOsjrh0V) | 3:14 |
 | 4 | [Unhinged](https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Unhinged](https://open.spotify.com/album/3NQxrzLOQvUi82RbGIMgIA) | 3:04 |
 | 5 | [Never Love](https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Never Love](https://open.spotify.com/album/60WOQEtaq1qwvxgr8LjrxQ) | 3:30 |
-| 6 | [Roots Run Deep](https://open.spotify.com/track/0BEcQDu4c6PQxPZLvAMuJO) | [Jivefunkadelic](https://open.spotify.com/artist/4gOkiobVrWR36e3lXDOVCg) | [Roots Run Deep](https://open.spotify.com/album/48COjvWxUNoLv8aEiOJfrE) | 4:21 |
-| 7 | [On And On](https://open.spotify.com/track/3Bx1qKp9KEPrreple9W0yp) | [Patchwork Inc.](https://open.spotify.com/artist/6Ay4LTevVm24IfC05fZNZH), [Rhea the Second](https://open.spotify.com/artist/7r1eZJsTOC1C4rflEuZtMk) | [Chicago Patchwork](https://open.spotify.com/album/6LyNUsXZ1xzZFaNltuvOlo) | 2:28 |
-| 8 | [Caught Up](https://open.spotify.com/track/6iOvRFd3eBSsbJf7MAKQGl) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jeremy Page](https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2) | [Caught Up](https://open.spotify.com/album/5ucNrxKLiiiqKgSmQfUVxp) | 3:00 |
-| 9 | [You've Got Another Thing Coming \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You've Got Another Thing Coming \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s) | 2:59 |
-| 10 | [Summertime](https://open.spotify.com/track/7lMUgnVPrgN3keoDiVFx3A) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Never Have I Ever](https://open.spotify.com/album/6our4t9vD0EbAzRgVqP7cA) | 2:26 |
-| 11 | [Separate Ways](https://open.spotify.com/track/4rctevsmSetg6Lfe2HD8Li) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Separate Ways](https://open.spotify.com/album/734zTzbpPkDdnILWr9PMzi) | 2:58 |
-| 12 | [Find My Love](https://open.spotify.com/track/3BkkIdPVSl1vQu6lrzsg3l) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Find My Love](https://open.spotify.com/album/5y5BaqS5OvqYO1nXWEVd8m) | 3:41 |
-| 13 | [Speak To Me](https://open.spotify.com/track/1E568TomvGi3FW7NvePXvp) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Speak To Me](https://open.spotify.com/album/3Vbtd1YjWlCO19z2mlfhVs) | 4:19 |
-| 14 | [The Weatherman](https://open.spotify.com/track/1mt0m2cxR2LoJcrdElqVQq) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [The Weatherman](https://open.spotify.com/album/3a0PORSoyMPnUYKhC2SsFm) | 3:30 |
-| 15 | [Maneater](https://open.spotify.com/track/1idMCdMGbEvVPHc66ukBag) | [Lee Lewis](https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D) | [Maneater](https://open.spotify.com/album/2EgNLCN3pXzI4Fyr5Dr7CP) | 3:34 |
-| 16 | [Gimme Your Love](https://open.spotify.com/track/18SHj8qjoiYSzE45RJ7w4E) | [Herman Jones](https://open.spotify.com/artist/42iGrMvfbP1qJ9ugH7SttY) | [Gimme Your Love](https://open.spotify.com/album/4JsHZHSU8ix5UsAwctE8hY) | 6:14 |
-| 17 | [Embody](https://open.spotify.com/track/25Hpfo0rsaClCFsZNdiGrN) | [Tessi Nandi](https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ) | [Embody](https://open.spotify.com/album/5hxgKbNDHmb6jxu0P6jQgz) | 2:47 |
-| 18 | [Technicolour](https://open.spotify.com/track/2nuPzkMggmo4bc57czuAkb) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Technicolour](https://open.spotify.com/album/0rJekyyHBXYANCm4VrO3dk) | 2:43 |
+| 6 | [On And On](https://open.spotify.com/track/3Bx1qKp9KEPrreple9W0yp) | [Patchwork Inc.](https://open.spotify.com/artist/6Ay4LTevVm24IfC05fZNZH), [Rhea the Second](https://open.spotify.com/artist/7r1eZJsTOC1C4rflEuZtMk) | [Chicago Patchwork](https://open.spotify.com/album/6LyNUsXZ1xzZFaNltuvOlo) | 2:28 |
+| 7 | [Caught Up](https://open.spotify.com/track/6iOvRFd3eBSsbJf7MAKQGl) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jeremy Page](https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2) | [Caught Up](https://open.spotify.com/album/5ucNrxKLiiiqKgSmQfUVxp) | 3:00 |
+| 8 | [You've Got Another Thing Coming \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You've Got Another Thing Coming \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s) | 2:59 |
+| 9 | [Summertime](https://open.spotify.com/track/7lMUgnVPrgN3keoDiVFx3A) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Never Have I Ever](https://open.spotify.com/album/6our4t9vD0EbAzRgVqP7cA) | 2:26 |
+| 10 | [Separate Ways](https://open.spotify.com/track/4rctevsmSetg6Lfe2HD8Li) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Separate Ways](https://open.spotify.com/album/734zTzbpPkDdnILWr9PMzi) | 2:58 |
+| 11 | [Find My Love](https://open.spotify.com/track/3BkkIdPVSl1vQu6lrzsg3l) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Find My Love](https://open.spotify.com/album/5y5BaqS5OvqYO1nXWEVd8m) | 3:41 |
+| 12 | [Speak To Me](https://open.spotify.com/track/1E568TomvGi3FW7NvePXvp) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Speak To Me](https://open.spotify.com/album/3Vbtd1YjWlCO19z2mlfhVs) | 4:19 |
+| 13 | [The Weatherman](https://open.spotify.com/track/1mt0m2cxR2LoJcrdElqVQq) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [The Weatherman](https://open.spotify.com/album/3a0PORSoyMPnUYKhC2SsFm) | 3:30 |
+| 14 | [Maneater](https://open.spotify.com/track/1idMCdMGbEvVPHc66ukBag) | [Lee Lewis](https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D) | [Maneater](https://open.spotify.com/album/2EgNLCN3pXzI4Fyr5Dr7CP) | 3:34 |
+| 15 | [Gimme Your Love](https://open.spotify.com/track/18SHj8qjoiYSzE45RJ7w4E) | [Herman Jones](https://open.spotify.com/artist/42iGrMvfbP1qJ9ugH7SttY) | [Gimme Your Love](https://open.spotify.com/album/4JsHZHSU8ix5UsAwctE8hY) | 6:14 |
+| 16 | [Embody](https://open.spotify.com/track/25Hpfo0rsaClCFsZNdiGrN) | [Tessi Nandi](https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ) | [Embody](https://open.spotify.com/album/5hxgKbNDHmb6jxu0P6jQgz) | 2:47 |
+| 17 | [Technicolour](https://open.spotify.com/track/2nuPzkMggmo4bc57czuAkb) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Technicolour](https://open.spotify.com/album/0rJekyyHBXYANCm4VrO3dk) | 2:43 |
+| 18 | [Hold Your Hand](https://open.spotify.com/track/1xE4VBKGZjPlktET0jEiYX) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Hold Your Hand](https://open.spotify.com/album/0vlpAinZBQz0HwEkI1T1qp) | 2:44 |
 | 19 | [The Power](https://open.spotify.com/track/02rMjqSC7MGBe0UBK9kAcg) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [The Power](https://open.spotify.com/album/0aNqCa5cPoFwGYzjCqi0fL) | 3:41 |
 | 20 | [Trouble \- Alternate](https://open.spotify.com/track/07l3VFfy1Q65ey7NmwVlG0) | [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B) | [Trouble \(Alternate\)](https://open.spotify.com/album/1EAU6GTaU8yP8CwscC8ROV) | 4:17 |
 | 21 | [Little Black Dress](https://open.spotify.com/track/6PlcDrN7nKvMB2caDnlWS2) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Little Black Dress](https://open.spotify.com/album/5jSuvKgusy6isCP4pdqGXs) | 3:16 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 109 | [This body](https://open.spotify.com/track/1OMgq21kzpvXOJzE8Cufnx) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Do you feel the same?](https://open.spotify.com/album/5yWWc7zmTtLFxB9aqFWA0N) | 4:20 |
 | 110 | [Own Thing](https://open.spotify.com/track/12Ji6jw8obSZ00XfagBxud) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [Own Thing](https://open.spotify.com/album/22hrrkRhDX1Qr9gGCCLa0H) | 2:41 |
 
-Snapshot ID: `AAAAAHiyD14LLXSapmcq56Fs0msv85Z4`
+Snapshot ID: `AAAAAGlc4Y/KkmuZsniA7ndEecJ7FqQi`

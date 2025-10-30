@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 
 > This is Mariah Carey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,698 likes - 46 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,744 likes - 46 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 | 26 | [Open Arms](https://open.spotify.com/track/5zVY1h1jUFLhZ7fLBjMTK7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:29 |
 | 27 | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/75ganPv831RMYXCwQlWzsN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:39 |
 | 28 | [I Want To Know What Love Is](https://open.spotify.com/track/4ttCCNTaRSKmgFYOmNQzsO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel \(International Version\)](https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0) | 3:27 |
-| 29 | [Heartbreaker \(feat\. JAY\-Z\)](https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:45 |
-| 30 | [Dreamlover](https://open.spotify.com/track/5m9aremBVDMMMAP1tfFCbx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 3:53 |
+| 29 | [Dreamlover](https://open.spotify.com/track/5m9aremBVDMMMAP1tfFCbx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 3:53 |
+| 30 | [Heartbreaker \(feat\. JAY\-Z\)](https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:45 |
 | 31 | [Confetti & Champagne](https://open.spotify.com/track/14ux2WTD9uht020TVWtQGs) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 2:35 |
 | 32 | [Don't Forget About Us](https://open.spotify.com/track/1HkVSmzBbdZ5Bzdd00IZgh) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation Of Mimi \(Ultra Platinum Edition\)](https://open.spotify.com/album/7MMpjM0wynysTbhpvKjHrm) | 3:53 |
 | 33 | [Angels Cry Remix \- Remix](https://open.spotify.com/track/0TJRfA2MIIRd3tTDK9tPPf) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Angels Cry Remix feat\. Ne\-Yo](https://open.spotify.com/album/3SxgnytOcu80ARVznoU6P0) | 3:53 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 | 45 | [Butterfly](https://open.spotify.com/track/3hp4ojt7tHLWwz6SaR7vkw) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:33 |
 | 46 | [Underneath the Stars](https://open.spotify.com/track/1kkbUvmqZiNmWCR9TLd4tO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:33 |
 
-Snapshot ID: `aP62AAAAAAA6ivSPAt28c9B4umqzO1Uf`
+Snapshot ID: `aQAHgAAAAAD2Vh4R8IhAN75oT3r20fTK`

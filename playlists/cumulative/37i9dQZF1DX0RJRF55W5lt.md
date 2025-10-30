@@ -4,7 +4,7 @@
 
 > Classic anthems from a classic era\. Cover: DJ EZ at Drumsheds
 
-164 songs - 13 hr 52 min
+165 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Rewind](https://open.spotify.com/track/5hultE7GeExA3RkTvtsear) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 5:33 | 2023-01-18 |  |
 | [RIP Groove \(Radio Edit\)](https://open.spotify.com/track/6CF9qg5FZFERIUzoYejIzH) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [RIP Groove](https://open.spotify.com/album/4RtEW9RRECxyfNEVN1uUTY) | 3:29 | 2023-08-11 | 2024-04-19 |
 | [RIP Groove \- Radio Edit](https://open.spotify.com/track/47zdicM0GhuAVBNUBvBbf0) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [RIP Groove](https://open.spotify.com/album/1b5NUoEx4BCuzQgg0X2ZXE) | 3:29 | 2023-01-18 | 2023-11-05 |
-| [RIP Groove \- Radio Edit](https://open.spotify.com/track/4nyZjJ9eCaEODIljcQn8gQ) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [Rip Groove](https://open.spotify.com/album/6J4zZWXB1HrAnb2hibIP9v) | 3:29 | 2024-10-06 |  |
+| [RIP Groove \- Radio Edit](https://open.spotify.com/track/4nyZjJ9eCaEODIljcQn8gQ) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [Rip Groove](https://open.spotify.com/album/6J4zZWXB1HrAnb2hibIP9v) | 3:29 | 2024-10-06 | 2025-10-30 |
 | [RIP Groove \- Radio Edit](https://open.spotify.com/track/5FO1NUarjrRlFpOTnyritk) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [RIP Groove](https://open.spotify.com/album/22IqOTt63ddQffgEDoghxf) | 3:29 | 2023-01-18 | 2023-06-18 |
 | [Sambuca](https://open.spotify.com/track/0RTVgbqTQmse8ttPORexQj) | [Wideboys](https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi), [Dennis G.](https://open.spotify.com/artist/7gNfNrp54riRjOw5Z03BDY) | [Pure Garage Rewind](https://open.spotify.com/album/2SUjSPglsVlIv9pom5A9vq) | 3:19 | 2022-12-28 | 2023-01-19 |
 | [Sambuca \- Original Mix \(Radio Edit\) \[feat\. Dennis G\]](https://open.spotify.com/track/4todOcpbt1Kpp4jl5x0r9h) | [Wideboys](https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi), [Dennis G](https://open.spotify.com/artist/3bNcjfsIse2W8WFGwxs5DA) | [Sambuca \(feat\. Dennis G\)](https://open.spotify.com/album/0mN3UsfFUA1JZFsWX8i3kg) | 3:24 | 2023-01-18 |  |
@@ -146,6 +146,7 @@
 | [Taboo \(feat\. Shola Ama\) \- MJ Cole Full Vocal Mix](https://open.spotify.com/track/4B5svMhrwXaCPl242LnYXN) | [Glamma Kid](https://open.spotify.com/artist/5af1NCuQPqXvilvvum6tub), [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Bills 2 Pay](https://open.spotify.com/album/5MjPumbBqd6C5BCO8Kvbdu) | 5:27 | 2024-03-22 |  |
 | [Taboo \- MJ Cole Full Vocal Mix](https://open.spotify.com/track/6B13g4Ma7l650e8Msfq0EK) | [Glamma Kid](https://open.spotify.com/artist/5af1NCuQPqXvilvvum6tub), [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [UK Garage Classics](https://open.spotify.com/album/4Ep1a2fK09LRdmplgIOPH2) | 5:27 | 2022-12-28 | 2023-01-19 |
 | [Teardrops \(Flava 7" Mix\)](https://open.spotify.com/track/49hFJr1GCLuf0d7zeyyjIJ) | [Lovestation](https://open.spotify.com/artist/3LRRdfXOYGIcwLviuwDIf1) | [Teardrops](https://open.spotify.com/album/6AJuYuamYUyOkn34HJ2kH6) | 3:46 | 2022-12-28 |  |
+| [Tell Me It's Real \- Club Asylum Vocal Edit](https://open.spotify.com/track/0JrdX6qQr4r6L3xHsuhuKH) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Kisstory 2014](https://open.spotify.com/album/0REhu6zO4Hovw43GYoTS1M) | 3:35 | 2024-10-06 |  |
 | [The Chant W.E.R](https://open.spotify.com/track/3U3hN333aFVLwFlLvIIMx3) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [4X4, Vol\. 1](https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk) | 6:10 | 2024-05-15 |  |
 | [The Heartless Theme AKA Superglue Riddim](https://open.spotify.com/track/0SlmWUiAHCOOUws7KieJBH) | [Heartless Crew](https://open.spotify.com/artist/4TFwgJ0aP8Jr6rz9ZaIjkV) | [Pure Grime \- The Very Best of Grime](https://open.spotify.com/album/4KoltQiyOJAt1ToaeyKkYj) | 5:57 | 2024-03-22 |  |
 | [The Heartless Theme aka The Superglue Riddim](https://open.spotify.com/track/1OvLBW4JMOiLY1ue4PJrYy) | [Heartless Crew](https://open.spotify.com/artist/4TFwgJ0aP8Jr6rz9ZaIjkV) | [The Heartless Theme aka The Superglue Riddim](https://open.spotify.com/album/3nGNzsceXfu0hXDYVEgz9A) | 5:58 | 2022-12-28 | 2023-11-10 |

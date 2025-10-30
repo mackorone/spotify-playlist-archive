@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,141 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,142 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 33 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 |
 | 34 | [My Dear](https://open.spotify.com/track/38dyoMgDMotr4qX8qlL17j) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [WELL DONE](https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ) | 2:39 |
 | 35 | [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 |
-| 36 | [dandelions](https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [dandelions](https://open.spotify.com/album/4yWnb5waN424BvaVNA7N50) | 3:12 |
-| 37 | [花 \- Ballad](https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR) | 4:07 |
+| 36 | [花 \- Ballad](https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR) | 4:07 |
+| 37 | [dandelions](https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [dandelions](https://open.spotify.com/album/4yWnb5waN424BvaVNA7N50) | 3:12 |
 | 38 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 |
-| 39 | [Sweetest Potion](https://open.spotify.com/track/0rGcQmyySw5SfjEFkIwVGH) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [NOICE](https://open.spotify.com/album/5iSkQWeQWVlnUUkUfjfZQ7) | 2:45 |
+| 39 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 |
 | 40 | [You](https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [You](https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb) | 2:52 |
-| 41 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 |
-| 42 | [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 |
-| 43 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 |
-| 44 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 |
+| 41 | [Sweetest Potion](https://open.spotify.com/track/0rGcQmyySw5SfjEFkIwVGH) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [NOICE](https://open.spotify.com/album/5iSkQWeQWVlnUUkUfjfZQ7) | 2:45 |
+| 42 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 |
+| 43 | [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 |
+| 44 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 |
 | 45 | [One More Time](https://open.spotify.com/track/61PnittYgKfF3xeaalv1kk) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [Zer Nguyễn](https://open.spotify.com/artist/62WhadRyBmRJO56wP9oyPz) | [One More Time](https://open.spotify.com/album/7sPl6AbM7tKDmBkJfDQduP) | 3:39 |
 | 46 | [Paradise](https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Visions](https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq) | 3:25 |
 | 47 | [Close to you](https://open.spotify.com/track/1KPm0gak2346hzH2TeZhir) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT COVER](https://open.spotify.com/album/0mBGh0XeyVwHbh9aceF2Sp) | 3:38 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 62 | [RAIN](https://open.spotify.com/track/0aFUi8kAIUcLEaM6LylNui) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [RAIN](https://open.spotify.com/album/6opQlVBxjiPp5WS0QCuOe3) | 5:06 |
 | 63 | [アイウタ](https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [アイウタ](https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52) | 4:52 |
 | 64 | [Hate to Love](https://open.spotify.com/track/62cT0mioPrrNTrt5Vj8wor) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Hate to Love](https://open.spotify.com/album/1XRIRDIrlLUojdWBerZyFE) | 3:07 |
-| 65 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 |
-| 66 | [朝顔](https://open.spotify.com/track/5vnTYL1H4uGzNaMB14wagO) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [朝顔](https://open.spotify.com/album/5BqiHDJ0KHdOVEIHBred2e) | 5:36 |
+| 65 | [朝顔](https://open.spotify.com/track/5vnTYL1H4uGzNaMB14wagO) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [朝顔](https://open.spotify.com/album/5BqiHDJ0KHdOVEIHBred2e) | 5:36 |
+| 66 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 |
 | 67 | [あなたを愛するように](https://open.spotify.com/track/4hrWAaNzcszm5NKbhah82N) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [Who?](https://open.spotify.com/album/672YB4ykUdCVpHu9UgLa6j) | 3:24 |
 | 68 | [Maya, Maya, Maya](https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Maya, Maya, Maya](https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML) | 2:59 |
 | 69 | [タイムマシーンにのって/家族の風景](https://open.spotify.com/track/1RogcNGrZlyEL7f7YopOOx) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [タイムマシーンにのって/家族の風景](https://open.spotify.com/album/4H9q6q3mKitY81NFKFf03b) | 3:37 |
@@ -94,11 +94,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 84 | [キャンディ](https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Trio & Charm](https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87) | 3:46 |
 | 85 | [Until June](https://open.spotify.com/track/4reIkCla73IpG17FZel0Hf) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [Until June](https://open.spotify.com/album/7xlOzPNL2DyzVzwNoAvFJC) | 3:48 |
 | 86 | [Time](https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [TIME](https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES) | 2:25 |
-| 87 | [With Me](https://open.spotify.com/track/5JucrnLkkmwVTD3dsOI8dt) | [moom](https://open.spotify.com/artist/1q4uUTEtG5tJrPMLdkL1OV) | [With Me](https://open.spotify.com/album/7kdBexFG4rTHmiBl0SZmcH) | 4:16 |
+| 87 | [Caterpillar](https://open.spotify.com/track/4Er5MHdgvsfc2zvqOMQRyI) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Caterpillar](https://open.spotify.com/album/4S1zoniwS9PvDJ6n2GJW8i) | 2:49 |
 | 88 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 |
 | 89 | [なみしぐさ](https://open.spotify.com/track/5lCHvxlOWI6rRGkLEtnopS) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [パレード \(Original Soundtrack\)](https://open.spotify.com/album/0xfFfjCL2W2MEr0fSCf4bh) | 4:48 |
 | 90 | [Feel Those Things \- Edit](https://open.spotify.com/track/5g1PiWaOKr7LGDY5VupNTi) | [Bryony Jarman\-Pinto](https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv) | [Feel Those Things / Riverside](https://open.spotify.com/album/6AqJJfCWmCKZEqM3Mphbso) | 3:32 |
-| 91 | [Caterpillar](https://open.spotify.com/track/4Er5MHdgvsfc2zvqOMQRyI) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Caterpillar](https://open.spotify.com/album/4S1zoniwS9PvDJ6n2GJW8i) | 2:49 |
+| 91 | [With Me](https://open.spotify.com/track/5JucrnLkkmwVTD3dsOI8dt) | [moom](https://open.spotify.com/artist/1q4uUTEtG5tJrPMLdkL1OV) | [With Me](https://open.spotify.com/album/7kdBexFG4rTHmiBl0SZmcH) | 4:16 |
 | 92 | [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 |
 | 93 | [the end of us](https://open.spotify.com/track/5m0GpaJsM3Bk7noJaTH4vf) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [first light](https://open.spotify.com/album/2Xszy3tyIDXRU7GfO1oS0U) | 3:24 |
 | 94 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |

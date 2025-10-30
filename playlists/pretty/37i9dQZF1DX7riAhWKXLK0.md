@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7riAhWKXLK0.md) - [plain]
 
 > <a href="spotify:artist:1vK8NnrPlBlF34LaiFX1SK">Funk Tribu</a>'s favorite tracks\. Updated regularly\. Curated by Funk Tribu\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,292 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,329 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7riAhWKXLK0.md) - [plain]
 | 49 | [Open Up](https://open.spotify.com/track/2icjWtipYEpv3S9btEt7sP) | [KELLAR](https://open.spotify.com/artist/0XpEz6rMdny9FKQ7rqxbDz) | [Open Up](https://open.spotify.com/album/2NHzWZV9nGHyOfUSixNwzC) | 3:09 |
 | 50 | [All I Need](https://open.spotify.com/track/6LcObOqDJdQxkP1qrBk3R0) | [Edo](https://open.spotify.com/artist/6PMcOgk2GpLla0j5ySyakz), [THŪR](https://open.spotify.com/artist/6D0RHeCz6cDV1dE2fSyPQp) | [All I Need](https://open.spotify.com/album/2xgobypOX2225BbBNRphTQ) | 3:23 |
 
-Snapshot ID: `AAAAAAAXtG2ilhtWTiwNjkkgf3LK9fw5`
+Snapshot ID: `AAAAACt2HG6Buo6RDroWY8BEkoQ27f85`

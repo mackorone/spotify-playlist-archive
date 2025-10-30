@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > DJ Japa NK, MC Meno K, MC Ryan SP, Mc Jacaré, DJ DAVI DOGDOG e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,693,346 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,694,372 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 32 | [Olha Onde Eu Tô](https://open.spotify.com/track/10MsXPpQLz5ZrOEZxTtkIm) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Let's Go Rodeo](https://open.spotify.com/album/4NqeEHz29Ime2EZV8AUHkh) | 3:01 |
 | 33 | [Talvez você precise de mim](https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:06 |
 | 34 | [ME POSTOU NO DAILY \- FESTA DO BIG G](https://open.spotify.com/track/4ATO632UaFTJltxCbfBpHI) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9), [Dj Andrabeat](https://open.spotify.com/artist/1Zg9Zp2NMNIBUiazqAHr1C) | [ME POSTOU NO DAILY \- FESTA DO BIG G](https://open.spotify.com/album/1FeuF1Mscwud8pbUCzypMn) | 2:57 |
-| 35 | [FAMOSINHA](https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al) | [Dj Caio Vieira](https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [FAMOSINHA](https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26) | 2:12 |
+| 35 | [FAMOSINHA](https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al) | [Dj Caio Vieira](https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [FAMOSINHA](https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26) | 2:13 |
 | 36 | [Resumindo \- Ao Vivo](https://open.spotify.com/track/6vGZfODFI1FxMImSUbdJhz) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Magia das Estrelas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4ZFPMOKBs7Qv6dfUjrOqxc) | 2:25 |
 | 37 | [OLHO MARROM \- Ao Vivo em Lisboa](https://open.spotify.com/track/1I6TdHxz61Kf9EFje0dQvg) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [OLHO MARROM \- Ao Vivo em Lisboa](https://open.spotify.com/album/4fa3lwn2vSLUTz3HNqcJzM) | 2:25 |
 | 38 | [Saudade Burra \- Ao Vivo](https://open.spotify.com/track/3M4HJl7D77l86gL1QXGJHG) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Transcende \(Ao Vivo\)](https://open.spotify.com/album/7LgfD3r1bBvKvt3GFRlU6l) | 2:37 |

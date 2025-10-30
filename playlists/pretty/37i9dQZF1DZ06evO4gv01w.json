@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 30075,
+  "num_followers": 30077,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADBFhI1Da3iZt0+ugmervjv",
+  "snapshot_id": "aQAHgAAAAADJR2KC0K0k4lhm0WKReZcx",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweetwater (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/46SCZ9Z6zeSU3mB5AbP2kp"
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 140543,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/7bXqvbsH7owO0tjlzHItqX"
+      "duration_ms": 202917,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/6lvL0sBjlBb8WP1FCiWGZc"
     },
     {
       "added_at": null,
@@ -95,8 +95,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
+        "name": "Sweetwater (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/46SCZ9Z6zeSU3mB5AbP2kp"
       },
       "artists": [
         {
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 202917,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/6lvL0sBjlBb8WP1FCiWGZc"
+      "duration_ms": 140543,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/7bXqvbsH7owO0tjlzHItqX"
     },
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mileage",
-        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
-      },
-      "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        },
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/3K0oUB93h6G4DC9EYqe4sW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paint The Roses (Live In Concert)",
         "url": "https://open.spotify.com/album/02FRIUcCGRWYsN7ZeIksRg"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 312824,
       "name": "Mad As A Hatter - Live In Concert",
       "url": "https://open.spotify.com/track/165iM5ZIR7JnNLDBEG8rHb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mileage",
+        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/3K0oUB93h6G4DC9EYqe4sW"
     },
     {
       "added_at": null,

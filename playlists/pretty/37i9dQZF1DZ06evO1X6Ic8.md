@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1X6Ic8.md) - [plain]
 
 > This is The 1975\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,623 likes - 45 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,653 likes - 45 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1X6Ic8.md) - [plain]
 | 44 | [Antichrist](https://open.spotify.com/track/5pmGhj5ToTK2kSinMCS0LJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:43 |
 | 45 | [An Encounter \(Live From The AO Arena, Manchester, 17.02.24\)](https://open.spotify.com/track/2fsNOvKiVlGWRhL0CA0uXR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Still..\. At Their Very Best \(Live From The AO Arena, Manchester, 17.02.24\)](https://open.spotify.com/album/2YXTt0mcAXUSfBcstBn38I) | 0:47 |
 
-Snapshot ID: `aP62AAAAAADmV9VYLFUV0X0e9JVGEJ1m`
+Snapshot ID: `aQAHgAAAAABDD38GwzHac5WfnHPSgZRM`

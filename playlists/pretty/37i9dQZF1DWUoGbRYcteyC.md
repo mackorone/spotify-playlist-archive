@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > Qué bonito se siente el amor\. 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,916,191 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,916,067 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 23 | [Un Beso Menos](https://open.spotify.com/track/107UcGiqICT0mWhzvDCZMK) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Un Beso Menos](https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR) | 3:40 |
 | 24 | [Llegaste Tú](https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
 | 25 | [TUS GAFITAS](https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:47 |
-| 26 | [me late](https://open.spotify.com/track/7AD5wlhpOKjWStxlrUvH1K) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 3:00 |
-| 27 | [samaná](https://open.spotify.com/track/3JkqRmM1gWmIZajzcz6lhW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [samaná](https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR) | 2:40 |
+| 26 | [samaná](https://open.spotify.com/track/3JkqRmM1gWmIZajzcz6lhW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [samaná](https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR) | 2:40 |
+| 27 | [me late](https://open.spotify.com/track/7AD5wlhpOKjWStxlrUvH1K) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 3:00 |
 | 28 | [Lejos de la Ciudad \- con Camilo](https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Lejos de la Ciudad \(con Camilo\)](https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu) | 3:07 |
 | 29 | [La Boda](https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 4:09 |
 | 30 | [Amantes](https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Amantes](https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi) | 3:55 |

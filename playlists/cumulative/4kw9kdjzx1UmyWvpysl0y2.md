@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,103 songs - 2 day 13 hr 44 min
+1,104 songs - 2 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -699,6 +699,7 @@
 | [Odyssey](https://open.spotify.com/track/07S4ihGvHe1jcWfagHL83s) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3), [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [Odyssey](https://open.spotify.com/album/1xyjWXsA94Bj6T1WAhnOUV) | 4:15 | 2024-04-02 | 2024-06-19 |
 | [ok](https://open.spotify.com/track/3yDg9UhdWmFlHsaJaN0GRI) | [Enjac](https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f) | [ok](https://open.spotify.com/album/3beDdopYTPW97ZlnjWhBzm) | 2:45 | 2023-01-25 | 2023-04-12 |
 | [Old School](https://open.spotify.com/track/4PJ2d3KGZ0goovJMHOpxwr) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Old School](https://open.spotify.com/album/7Moh1CwiKkoFwm6R4nVfnV) | 2:42 | 2025-03-10 | 2025-06-04 |
+| [On Lock](https://open.spotify.com/track/62YgrGZTw1c20Juoy7kFUZ) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [On Lock](https://open.spotify.com/album/1WBMCfa1zj68UBeWS6DLLq) | 3:02 | 2025-10-29 |  |
 | [On My Own](https://open.spotify.com/track/74Vj0SPtSEYwBhJIKQiyEG) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [On My Own](https://open.spotify.com/album/4fb1FjRzLhGhweK3Dg0dae) | 2:30 | 2025-09-26 |  |
 | [On The Beach](https://open.spotify.com/track/4I9lRMeXjpHClXcwXRi1nF) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [On The Beach](https://open.spotify.com/album/7CPGdJK8NmryBMVN78m7QY) | 3:12 | 2022-07-27 | 2022-10-08 |
 | [On The Inside](https://open.spotify.com/track/7ADnLRvlp5yDkC5VKvigOO) | [Alex H](https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB), [Matt Sky](https://open.spotify.com/artist/08FqNRAfeLHLh96BdNHljC) | [On The Inside](https://open.spotify.com/album/6YaqphTghJSjHH0zcUYXq9) | 3:28 | 2023-05-15 | 2023-08-10 |

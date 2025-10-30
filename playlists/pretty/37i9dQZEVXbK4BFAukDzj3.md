@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Netherlands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,923 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,933 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 4 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |
 | 5 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
 | 6 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
-| 7 | [Kan Je Me Zien](https://open.spotify.com/track/64AHcDRBv2AvS3NZ6BkIk3) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Kan Je Me Zien](https://open.spotify.com/album/0z0NYIBkyWdg7JbEy3TyNT) | 3:27 |
+| 7 | [Kan Je Me Zien](https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Kan Je Me Zien](https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU) | 3:27 |
 | 8 | [Voorbestemd](https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Voorbestemd](https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK) | 2:58 |
 | 9 | [ZAAZAA](https://open.spotify.com/track/1ViD8tjPZVFZKAC8O7Gmfi) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [bLoOdLine](https://open.spotify.com/album/5yXbtQeFi51B9YKn1X5SR6) | 2:34 |
 | 10 | [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 28 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
 | 29 | [Nachtenlang](https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Nachtenlang](https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh) | 2:55 |
 | 30 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
-| 31 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 |
+| 31 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
 | 32 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 | 33 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
 | 34 | [Echte Liefde Is Te Koop](https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop](https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 49 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
 | 50 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 |
 
-Snapshot ID: `MJQz+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MJWFeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

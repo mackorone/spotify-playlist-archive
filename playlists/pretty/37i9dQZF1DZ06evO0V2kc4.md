@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,043 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,056 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 24 | [Eleanor Rigby](https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 2:20 |
 | 25 | [To Bobby](https://open.spotify.com/track/7BCPRW68OQu98UXC5qDOGe) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 4:01 |
 | 26 | [Last Night I Had The Strangest Dream \- Live](https://open.spotify.com/track/5aLno9zzsZyQI0bEIYOwk1) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 2:29 |
-| 27 | [Forever Young \- Single Version](https://open.spotify.com/track/5q5UESTbbcTM1vEyheQA4u) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete A&M Recordings](https://open.spotify.com/album/1R5up0FfwnF2ZABN9ff85L) | 3:52 |
-| 28 | [Daddy, You Been On My Mind](https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 2:19 |
+| 27 | [Daddy, You Been On My Mind](https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 2:19 |
+| 28 | [Forever Young \- Single Version](https://open.spotify.com/track/5q5UESTbbcTM1vEyheQA4u) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete A&M Recordings](https://open.spotify.com/album/1R5up0FfwnF2ZABN9ff85L) | 3:52 |
 | 29 | [Never Dreamed You'd Leave In Summer](https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 2:45 |
 | 30 | [Joe Hill \- Live](https://open.spotify.com/track/7i6UrbfRiRaR6L7eDdEARY) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 3:01 |
 | 31 | [Gracias A La Vida](https://open.spotify.com/track/438DhujK6gJ3nlWj5QoNsx) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 49 | [One Too Many Mornings](https://open.spotify.com/track/2EEwfPipVVar4QgttlX7UR) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 3:13 |
 | 50 | [Blessed Are](https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:06 |
 
-Snapshot ID: `aP62AAAAAADAFXjzTfREoantERvdgcFN`
+Snapshot ID: `aQAHgAAAAABgdpUWJqoO/z059LxAFLc7`

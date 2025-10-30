@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 34734,
+  "num_followers": 34735,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAAJxmepYCX3/QRlNZoLx/ko",
+  "snapshot_id": "aQAHgAAAAACieG5TfTMXA0XiCnmwUMfA",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wild and Free",
+        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 294106,
+      "name": "Personal Revolution",
+      "url": "https://open.spotify.com/track/18zWYolDSOdfJIEyMLyGWa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cornerstone",
         "url": "https://open.spotify.com/album/2jqGD1iy3gicuNA83FXx9E"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 236730,
       "name": "Cornerstone",
       "url": "https://open.spotify.com/track/5GMU4f9HzsXfap1QGQAwW6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild and Free",
-        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 294106,
-      "name": "Personal Revolution",
-      "url": "https://open.spotify.com/track/18zWYolDSOdfJIEyMLyGWa"
     },
     {
       "added_at": null,
@@ -663,6 +663,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fly Rasta",
+        "url": "https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "U-Roy",
+          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "Fly Rasta (feat. U-Roy)",
+      "url": "https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Rebellion Rises",
+      "url": "https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
       },
@@ -687,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly Rasta",
-        "url": "https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "U-Roy",
-          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "Fly Rasta (feat. U-Roy)",
-      "url": "https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solid Gold",
         "url": "https://open.spotify.com/album/4MfWRzKljDxthyHHCvhaVb"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Rebellion Rises",
-      "url": "https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djin Djin",
         "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
       },
@@ -759,6 +759,38 @@
       "duration_ms": 236746,
       "name": "Sedjedo",
       "url": "https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 238265,
+      "name": "See Dem Fake Leaders",
+      "url": "https://open.spotify.com/track/4gqqpISVZZFunkgIBuo0ht"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild and Free",
+        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "MMMM MMMM",
+      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
     },
     {
       "added_at": null,
@@ -799,38 +831,6 @@
       "duration_ms": 218786,
       "name": "This Train (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 238265,
-      "name": "See Dem Fake Leaders",
-      "url": "https://open.spotify.com/track/4gqqpISVZZFunkgIBuo0ht"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild and Free",
-        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "MMMM MMMM",
-      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
     },
     {
       "added_at": null,

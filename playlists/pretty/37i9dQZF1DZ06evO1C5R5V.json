@@ -1,12 +1,12 @@
 {
   "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 36606,
+  "num_followers": 36613,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAABHQGukAa0pNjkpok69SBdv",
+  "snapshot_id": "aQAHgAAAAACvewQI4EhNv/8Zifipcqcu",
   "tracks": [
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 138298,
-      "name": "A la Basura Se Va",
-      "url": "https://open.spotify.com/track/3NyKFQuBj5DR57rBqw4tiM"
+      "duration_ms": 230016,
+      "name": "Alejandro",
+      "url": "https://open.spotify.com/track/6mDSvFRgZzQDVrXA9vBuMC"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 230016,
-      "name": "Alejandro",
-      "url": "https://open.spotify.com/track/6mDSvFRgZzQDVrXA9vBuMC"
+      "duration_ms": 138298,
+      "name": "A la Basura Se Va",
+      "url": "https://open.spotify.com/track/3NyKFQuBj5DR57rBqw4tiM"
     },
     {
       "added_at": null,
@@ -691,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Igual",
-        "url": "https://open.spotify.com/album/6CU4rWaqP6Jr2rAw3PanKm"
+        "name": "El Mas Grande Homenaje A Los Tigres Del Norte (Reissue)",
+        "url": "https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri"
       },
       "artists": [
-        {
-          "name": "Kerigma",
-          "url": "https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB"
-        },
         {
           "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 219500,
-      "name": "Igual",
-      "url": "https://open.spotify.com/track/1yk2zZ5imHnK1pCSsjVId4"
+      "duration_ms": 306293,
+      "name": "Un D\u00eda A La Vez",
+      "url": "https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu"
     },
     {
       "added_at": null,
@@ -727,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mas Grande Homenaje A Los Tigres Del Norte (Reissue)",
-        "url": "https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri"
+        "name": "Igual",
+        "url": "https://open.spotify.com/album/6CU4rWaqP6Jr2rAw3PanKm"
       },
       "artists": [
+        {
+          "name": "Kerigma",
+          "url": "https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB"
+        },
         {
           "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 306293,
-      "name": "Un D\u00eda A La Vez",
-      "url": "https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu"
+      "duration_ms": 219500,
+      "name": "Igual",
+      "url": "https://open.spotify.com/track/1yk2zZ5imHnK1pCSsjVId4"
     },
     {
       "added_at": null,

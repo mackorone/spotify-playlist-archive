@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 
 > entering my reputation era
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,324 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,437 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 46 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 |
 | 47 | [House Of The Rising Sun](https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Animals](https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa) | 4:31 |
 | 48 | [DARKSIDE](https://open.spotify.com/track/6xlOnm5MITIKtixzJW8R0j) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Wars In A Wonderland](https://open.spotify.com/album/2npzGBEPDOfVLN8ajYm3pZ) | 2:48 |
-| 49 | [Gasoline](https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:19 |
-| 50 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 |
-| 51 | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8) | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD) | 3:00 |
-| 52 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 |
+| 49 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 |
+| 50 | [Gasoline](https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:19 |
+| 51 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 |
+| 52 | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8) | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD) | 3:00 |
 | 53 | [COPYCAT](https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:14 |
 | 54 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 |
 | 55 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 58 | [High Enough](https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr) | 3:51 |
 | 59 | [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 |
 | 60 | [Mad Hatter](https://open.spotify.com/track/5gWtkdgdyt5bZt9i6n3Kqd) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:21 |
-| 61 | [Glitter & Gold](https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 2:56 |
-| 62 | [Desperado](https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:06 |
+| 61 | [Desperado](https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:06 |
+| 62 | [Glitter & Gold](https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 2:56 |
 | 63 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 |
 | 64 | [Money, Money, Money](https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:06 |
 | 65 | [Freak \(feat\. REI AMI\)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXBu5naYCM9.md) - [plain]
 
 > Sun\-kissed and interesting
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,339 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,316 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXBu5naYCM9.md) - [plain]
 | 42 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
 | 43 | [I Hate You, I Love You](https://open.spotify.com/track/38BVN8bbBl2iG9LwdVuk80) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [I Hate You, I Love You](https://open.spotify.com/album/2vzhcD56kRhXSgVw6Yl8is) | 5:29 |
 | 44 | [My Everything](https://open.spotify.com/track/7AnKq274KBoXdauPkKqKBk) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Two Lives](https://open.spotify.com/album/2iRVSj9OgvwzDVPGoYoG2U) | 3:21 |
-| 45 | [Heaven](https://open.spotify.com/track/0em3aeTRdv6AEBdUKkNW8j) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/23UkQx8aKE4IERCFuxpYL0) | 4:02 |
+| 45 | [Heaven](https://open.spotify.com/track/0em3aeTRdv6AEBdUKkNW8j) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/23UkQx8aKE4IERCFuxpYL0) | 4:03 |
 | 46 | [Baby Blue](https://open.spotify.com/track/5gggtAd3rdSO4HYYN9XVpS) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Baby Blue](https://open.spotify.com/album/7FunwVPtYlNJLjDUOfFDUp) | 2:36 |
 | 47 | [Over it Now](https://open.spotify.com/track/1dEoNJiB3BTk1BAXQETASo) | [Chilli Chilton](https://open.spotify.com/artist/1jkQeDN38UmO3PMTayvFUq) | [Over it Now](https://open.spotify.com/album/0elLQpmzjKwbSWLgtUXiv8) | 3:23 |
 | 48 | [All I Ever Asked](https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 |

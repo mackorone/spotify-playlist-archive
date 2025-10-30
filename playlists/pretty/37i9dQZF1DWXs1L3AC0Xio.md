@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,798 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,880 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 68 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 69 | [Hope](https://open.spotify.com/track/5glQ2KQjO3HZCh7TDyegvm) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:38 |
 | 70 | [Our Loved Ones](https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:50 |
-| 71 | [The Last Man On Earth](https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:21 |
-| 72 | [Rx \(Medicate\)](https://open.spotify.com/track/7pV6zXFpCwrrmcosBAtp0o) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Rx \(Medicate\)](https://open.spotify.com/album/1GAkFO17jNudCOK0v1EgiF) | 3:53 |
+| 71 | [Rx \(Medicate\)](https://open.spotify.com/track/7pV6zXFpCwrrmcosBAtp0o) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Rx \(Medicate\)](https://open.spotify.com/album/1GAkFO17jNudCOK0v1EgiF) | 3:53 |
+| 72 | [The Last Man On Earth](https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:21 |
 | 73 | [You](https://open.spotify.com/track/0XaPN9mU1BgLJZhuCxzc6T) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy) | 3:32 |
 | 74 | [Mary Go Round](https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:19 |
 | 75 | [Flawless](https://open.spotify.com/track/1Q7Z7PQlHkuKF1F9fK5VOd) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [28 Days In The Valley](https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d) | 4:02 |

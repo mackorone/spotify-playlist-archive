@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 340881,
+  "num_followers": 340928,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAAR2dYYA5OjkCzlgS4TyI2v",
+  "snapshot_id": "aQAHgAAAAACKhlXGPpKiz+ga0cmv2OV9",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romance Norte\u00f1o",
-        "url": "https://open.spotify.com/album/6OolFCMNSTNv1faRoAdEfG"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "Se Fue Mi Amor",
-      "url": "https://open.spotify.com/track/12DD2WZnlpq72BlsNdv4LK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El \u00c1rbol",
         "url": "https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT"
       },
@@ -323,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Romance Norte\u00f1o",
+        "url": "https://open.spotify.com/album/6OolFCMNSTNv1faRoAdEfG"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "Se Fue Mi Amor",
+      "url": "https://open.spotify.com/track/12DD2WZnlpq72BlsNdv4LK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clave Nueva",
         "url": "https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ"
       },
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 169853,
-      "name": "Temporada En La Sierra",
-      "url": "https://open.spotify.com/track/5q7Fuxm9jsbkui4OfsBvrG"
+      "duration_ms": 166253,
+      "name": "Clave Nueva",
+      "url": "https://open.spotify.com/track/0puyjmma5eQMZJ8hi9DyTt"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 166253,
-      "name": "Clave Nueva",
-      "url": "https://open.spotify.com/track/0puyjmma5eQMZJ8hi9DyTt"
+      "duration_ms": 169853,
+      "name": "Temporada En La Sierra",
+      "url": "https://open.spotify.com/track/5q7Fuxm9jsbkui4OfsBvrG"
     },
     {
       "added_at": null,

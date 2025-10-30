@@ -4,10 +4,11 @@
 
 > This is J\. Cole\. The essential tracks, all in one playlist.
 
-98 songs - 6 hr 3 min
+99 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [4 Your Eyez Only](https://open.spotify.com/track/1vvnYpYEMVB4aq9I6tHIEB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 8:50 | 2025-10-30 |  |
 | [7 Minute Drill](https://open.spotify.com/track/2mhdhTWqT8RhkTlN2yWZZi) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:32 | 2024-04-07 | 2024-04-08 |
 | [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/078lbDGGTqBuTKU3bypXxQ) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 3:28 | 2023-11-10 | 2024-03-18 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2023-11-10 |  |
@@ -87,7 +88,7 @@
 | [Sideline Story](https://open.spotify.com/track/5pIn0ZiclQOMzoFUlgDY0f) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:57 | 2025-10-05 | 2025-10-13 |
 | [Simba](https://open.spotify.com/track/06ytsFiHQ1Y7mYAQcya4zS) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Come Up Mixtape Vol\. 1](https://open.spotify.com/album/3YstvzydeKYGSHDI8J0l37) | 2:36 | 2024-11-25 | 2024-11-29 |
 | [Snow On Tha Bluff](https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Snow On Tha Bluff](https://open.spotify.com/album/0MXpE6m0mEK0r3TuERb9Yd) | 3:55 | 2023-12-13 |  |
-| [Stealth Mode \(feat\. Bas\)](https://open.spotify.com/track/3zyjnHtoi8AtiGgZFnJP7O) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:15 | 2024-04-10 |  |
+| [Stealth Mode \(feat\. Bas\)](https://open.spotify.com/track/3zyjnHtoi8AtiGgZFnJP7O) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:15 | 2024-04-10 | 2025-10-30 |
 | [Stickz N Stonez](https://open.spotify.com/track/1tTKy8pW1dMaXJm7bYrSzA) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:20 | 2024-04-08 | 2024-11-25 |
 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/7DcvwMAiqKJQD1rrdfxSDx) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/album/6p9Y1K9yu3ojyS8fBJXUnp) | 3:20 | 2023-11-10 | 2024-01-09 |
 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:20 | 2024-01-08 |  |

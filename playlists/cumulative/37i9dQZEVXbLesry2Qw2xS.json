@@ -12625,6 +12625,28 @@
     },
     {
       "album": {
+        "name": "Ei viitsi ei saa",
+        "url": "https://open.spotify.com/album/01Vp5wGU80CIRBy7xwlkC2"
+      },
+      "artists": [
+        {
+          "name": "krispoiss",
+          "url": "https://open.spotify.com/artist/4Y9rZFuE6Xj5vjzwsDpvgk"
+        },
+        {
+          "name": "Sidni",
+          "url": "https://open.spotify.com/artist/0znTjwYivoNfxLNDaqTRKt"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126762,
+      "name": "Ei viitsi ei saa",
+      "url": "https://open.spotify.com/track/5JMShJj2mmPqHDY4Fl0op2"
+    },
+    {
+      "album": {
         "name": "Eikellegi Ma",
         "url": "https://open.spotify.com/album/2Up5pRK3HX6NTDnmJ3pCBe"
       },
@@ -21826,7 +21848,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 128126,
       "name": "Iris",
       "url": "https://open.spotify.com/track/2lm8thT1ibHAMk9mT3R4s4"
@@ -22986,7 +23008,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -28870,7 +28892,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"

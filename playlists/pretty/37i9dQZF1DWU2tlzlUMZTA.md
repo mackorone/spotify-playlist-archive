@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Only hits! Cover\- 'Sahiba' by Jasleen Royal and Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,291 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,317 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 34 | [Dard](https://open.spotify.com/track/6bXrlIITUgU0qnmmTnzrXW) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Akash Rajput](https://open.spotify.com/artist/5NCf8mhYVsHtJhk59yYQud) | [Love19](https://open.spotify.com/album/3uovRrWC0V8zckaZAbPoSK) | 2:45 |
 | 35 | [Mahiye Jinna Sohna](https://open.spotify.com/track/0Jiaz0O4AqnJICa9PxHhaR) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 3:01 |
 | 36 | [Bijlee Bijlee](https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Bijlee Bijlee](https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8) | 2:48 |
-| 37 | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw) | [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq) | 4:18 |
-| 38 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
+| 37 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
+| 38 | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw) | [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq) | 4:18 |
 | 39 | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/track/5QVHNa0ppJUOoqSd36ovQS) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/album/3Ptq3ARmJ8iTLBb7M7Bho0) | 3:46 |
 | 40 | [Asal Mein](https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein](https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK) | 3:44 |
 | 41 | [Dance Like](https://open.spotify.com/track/36EPfDEkfLYQLt8Fvced8x) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Dance Like](https://open.spotify.com/album/4eVSYKLFcL0PuWDPzU47li) | 2:51 |

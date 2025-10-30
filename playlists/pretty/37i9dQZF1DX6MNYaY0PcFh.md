@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: 1111
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,435 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,578 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 38 | [Raw](https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Raw](https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak) | 3:12 |
 | 39 | [Weekend](https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Trip](https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW) | [Weekend](https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND) | 3:16 |
 | 40 | [over you](https://open.spotify.com/track/4oDxs30sUOndog6GHHhOMe) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [over you](https://open.spotify.com/album/0S6V0kxRKGxfSMdy5otubJ) | 3:38 |
-| 41 | [LOOK4MYLOVE](https://open.spotify.com/track/3NVBJRH0UiPvqAf0ItonHt) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [LOOK4MYLOVE](https://open.spotify.com/album/3aEwbI3IgFsljshX9Gk9ZD) | 3:40 |
-| 42 | [Gunman](https://open.spotify.com/track/581XtO5wVBE75sIbhsi3E2) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [ATW007](https://open.spotify.com/album/5vWIMn3AuJsvAZoOQe0CQk) | 3:31 |
+| 41 | [Gunman](https://open.spotify.com/track/581XtO5wVBE75sIbhsi3E2) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [ATW007](https://open.spotify.com/album/5vWIMn3AuJsvAZoOQe0CQk) | 3:31 |
+| 42 | [LOOK4MYLOVE](https://open.spotify.com/track/3NVBJRH0UiPvqAf0ItonHt) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [LOOK4MYLOVE](https://open.spotify.com/album/3aEwbI3IgFsljshX9Gk9ZD) | 3:40 |
 | 43 | [GETAWAY](https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [GETAWAY](https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt) | 2:43 |
 | 44 | [Bad Vibe](https://open.spotify.com/track/7JxCZS1QOKf2woQz7mKUYn) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [Bad Vibe](https://open.spotify.com/album/3ZsJNuIQs0saAVggAFYURm) | 2:22 |
 | 45 | [JOY \(By My Side\)](https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [JOY \(By My Side\)](https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g) | 3:42 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 64 | [Time Of Our Lives](https://open.spotify.com/track/1FTyUvELRNIOpiZXjcVW4D) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Time Of Our Lives](https://open.spotify.com/album/0hrtCwQoVienxal6lQVPLJ) | 3:31 |
 | 65 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 |
 | 66 | [Good Life](https://open.spotify.com/track/5Ed9pT75zW25Ig7kM3UB90) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Joe Hunt](https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life](https://open.spotify.com/album/0FlFl8UOEfbmBdfpQWAVHI) | 2:47 |
-| 67 | [Passport](https://open.spotify.com/track/3VJYY6eFLhRyxrCloEW9Ch) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Passport](https://open.spotify.com/album/6KAJubTn2kF6YPQYNaPg3T) | 2:42 |
-| 68 | [Needed You](https://open.spotify.com/track/4K8aOmtSHM45q9O6bN8Hc0) | [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH), [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT) | [Needed You](https://open.spotify.com/album/3xCd2AgD9A19DfwGz41nNp) | 2:03 |
+| 67 | [Needed You](https://open.spotify.com/track/4K8aOmtSHM45q9O6bN8Hc0) | [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH), [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT) | [Needed You](https://open.spotify.com/album/3xCd2AgD9A19DfwGz41nNp) | 2:03 |
+| 68 | [Passport](https://open.spotify.com/track/3VJYY6eFLhRyxrCloEW9Ch) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Passport](https://open.spotify.com/album/6KAJubTn2kF6YPQYNaPg3T) | 2:42 |
 | 69 | [DUWML](https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DUWML](https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1) | 3:10 |
 | 70 | [2 Spirits](https://open.spotify.com/track/21fDO61ssrijFjOXqrBw2n) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [2 Spirits](https://open.spotify.com/album/4Cz8KBru4BGKeTlPJtmIVi) | 2:27 |
 

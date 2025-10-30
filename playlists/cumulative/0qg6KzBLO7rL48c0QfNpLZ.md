@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,281 songs - 2 day 8 hr 34 min
+1,282 songs - 2 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1257,6 +1257,7 @@
 | [Wicked Game](https://open.spotify.com/track/68XRsfvwl3hZiGc9rbuMO8) | [Cal1](https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ), [l'essay](https://open.spotify.com/artist/19X4W851yGGTB4rgz61cBs), [LoudNæss](https://open.spotify.com/artist/3oRaVv5ml3NIVotlPXVl9w) | [Wicked Game](https://open.spotify.com/album/2CBAFqE1YM4PISTL8S1iNr) | 2:37 | 2025-05-30 | 2025-07-05 |
 | [Wicked Game](https://open.spotify.com/track/3GUTO72xMmBI05cHKion9x) | [Fabio Vee](https://open.spotify.com/artist/1KtT51ksm6OrjbhVOUyXMu), [Valentina Mey](https://open.spotify.com/artist/6JbK5mFNIMPcUIfsauhQ4q) | [Wicked Game](https://open.spotify.com/album/5CKOjmssOAhRWr2NzkCkYA) | 2:54 | 2024-08-16 | 2024-12-13 |
 | [Wicked Game](https://open.spotify.com/track/0zGjgy0MGo9zrQZ2h8L64m) | [Summer Dusk](https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [Pherick](https://open.spotify.com/artist/261bs46BCFyBXzTUz9RPJe) | [Wicked Game](https://open.spotify.com/album/1iMa1NxG9yQJTLpRnmJfQZ) | 2:20 | 2025-01-24 | 2025-06-07 |
+| [Wicked Game](https://open.spotify.com/track/3eX4KovuTeNJxFZZT6KeWa) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj) | [Wicked Game](https://open.spotify.com/album/7bQKXzmfZjcdWmYMCr8jZH) | 2:26 | 2025-10-29 |  |
 | [Wilder Woods](https://open.spotify.com/track/56cW7me7gAyY9dhxJtvtzl) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Maynørr](https://open.spotify.com/artist/7hTaKNOFsEi4VlXr0KJMHo) | [Wilder Woods](https://open.spotify.com/album/2wnToIZpxqYWIBscgjvlIO) | 2:50 | 2024-04-19 | 2024-08-10 |
 | [Wish You All the Best](https://open.spotify.com/track/4TII4nhhzE28nrQRGI77QX) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Wish You All the Best](https://open.spotify.com/album/1OSw1uOIxohvXg49jr9Q3j) | 2:13 | 2024-01-18 | 2024-09-15 |
 | [With You](https://open.spotify.com/track/5KmziX1eEpF31OQ31Sl2P1) | [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf), [Lively](https://open.spotify.com/artist/18nz1a1XnTU1vKLqsGzgKa) | [With You](https://open.spotify.com/album/0pWT4fsgGHotvxFktqZ0iW) | 3:12 | 2024-01-12 | 2024-09-10 |

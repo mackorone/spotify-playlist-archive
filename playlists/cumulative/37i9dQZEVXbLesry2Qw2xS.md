@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-2,853 songs - 6 day 9 hr 28 min
+2,854 songs - 6 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -638,6 +638,7 @@
 | [Eesti muld ja eesti süda](https://open.spotify.com/track/2WSggKArI35CaYDOtqCpVT) | [RUJA](https://open.spotify.com/artist/6t6mrN6SRd5Zw6HYKiTCIn) | [Rahvuslik Rokk \(1980\-1984\)](https://open.spotify.com/album/4zVlmpj7Ux91WQAWRh8XBh) | 3:26 | 2025-02-25 | 2025-02-27 |
 | [Eesti, kas sa kuuled?](https://open.spotify.com/track/5GDcVyudHcb7clShxrDII2) | [säm](https://open.spotify.com/artist/6kvEy25jX5e1RtdFn1Eo3X) | [Eesti, kas sa kuuled?](https://open.spotify.com/album/1WEJJC3dfDKg9ndKegxO1j) | 3:27 | 2022-03-02 | 2022-03-10 |
 | [Ei Murra](https://open.spotify.com/track/71rWAvzTIe3UEzLE6prf9v) | [Arop](https://open.spotify.com/artist/61Qtg6OSjyOGYjv5cpXl40), [KiROT](https://open.spotify.com/artist/3U7rdoTyHgdBSmSNcrqguN) | [Südametu](https://open.spotify.com/album/24nHnblpbsCyNZvP1KudI2) | 3:30 | 2024-09-21 | 2024-09-23 |
+| [Ei viitsi ei saa](https://open.spotify.com/track/5JMShJj2mmPqHDY4Fl0op2) | [krispoiss](https://open.spotify.com/artist/4Y9rZFuE6Xj5vjzwsDpvgk), [Sidni](https://open.spotify.com/artist/0znTjwYivoNfxLNDaqTRKt) | [Ei viitsi ei saa](https://open.spotify.com/album/01Vp5wGU80CIRBy7xwlkC2) | 2:06 | 2025-10-29 |  |
 | [Eikellegi Ma](https://open.spotify.com/track/2JiBqZHvX0xipUlU3s4iUw) | [Reket](https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN) | [Eikellegi Ma](https://open.spotify.com/album/2Up5pRK3HX6NTDnmJ3pCBe) | 3:00 | 2021-10-23 | 2021-11-04 |
 | [Eikellegi Ma](https://open.spotify.com/track/3ERRAmfRkQjqxkHUo3aXT0) | [Reket](https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN) | [Palun Puhka](https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D) | 3:00 | 2022-05-07 | 2022-05-14 |
 | [Eks sa ise otsusta](https://open.spotify.com/track/6H185nWC1FcihgEbRKsphB) | [SADU](https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K) | [PROBLEEMID PARADIISIS](https://open.spotify.com/album/42ez3LQ9FDTeFVU8gsHzbH) | 3:14 | 2025-09-25 |  |
@@ -1105,7 +1106,7 @@
 | [Intro](https://open.spotify.com/track/5lVmzrKaqPpPYtF7udoiNq) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 0:36 | 2022-06-18 | 2022-06-20 |
 | [intro](https://open.spotify.com/track/3mWXHOPJ6x7UFXyRdguSia) | [villemdrillem](https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy) | [väljateenitud](https://open.spotify.com/album/5FCfgXuKvAqcHAQ0YHuXhh) | 1:08 | 2023-11-11 | 2023-11-14 |
 | [intro \(end of the world\)](https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 1:32 | 2024-03-09 | 2024-03-11 |
-| [Iris](https://open.spotify.com/track/2lm8thT1ibHAMk9mT3R4s4) | [Qotid](https://open.spotify.com/artist/1pssEG1vKMJhQfwwGhtbNa) | [Iris](https://open.spotify.com/album/6lzlqfsWpP0Cx2Lnhr0erJ) | 2:08 | 2025-08-27 | 2025-10-29 |
+| [Iris](https://open.spotify.com/track/2lm8thT1ibHAMk9mT3R4s4) | [Qotid](https://open.spotify.com/artist/1pssEG1vKMJhQfwwGhtbNa) | [Iris](https://open.spotify.com/album/6lzlqfsWpP0Cx2Lnhr0erJ) | 2:08 | 2025-08-27 |  |
 | [Iris](https://open.spotify.com/track/3qBrPz8ulrgiF1hfECAZw3) | [Qotid](https://open.spotify.com/artist/1pssEG1vKMJhQfwwGhtbNa) | [Iris](https://open.spotify.com/album/5Oyf6M8raXiIpZJAOJtPcn) | 2:08 | 2025-06-21 | 2025-08-28 |
 | [Iron Man \- 2009 Remaster](https://open.spotify.com/track/755bvJDSA3LNcNuFgBT9LK) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 5:54 | 2025-07-24 | 2025-07-26 |
 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 | 2023-10-28 | 2023-11-26 |
@@ -1165,7 +1166,7 @@
 | [Junya pt 2](https://open.spotify.com/track/7soCc4TpT99bOhJoCiMqFN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:02 | 2021-08-31 | 2021-09-02 |
 | [Just A Lil Bit](https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:57 | 2025-08-09 | 2025-08-11 |
 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 | 2023-08-07 | 2023-08-10 |
-| [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-05-31 |  |
+| [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-05-31 | 2025-10-30 |
 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 | 2024-09-07 | 2024-09-09 |
 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-03-22 | 2025-03-24 |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-10-19 | 2023-05-12 |
@@ -1457,7 +1458,7 @@
 | [MAMMAMIA](https://open.spotify.com/track/7oJ3Nb3LIY1ond1fHF3xio) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:06 | 2023-05-20 | 2023-05-23 |
 | [man at the garden](https://open.spotify.com/track/0d9BfcBk5iBUC78VmTXGgY) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 3:53 | 2024-11-23 | 2024-11-25 |
 | [man at the garden](https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:53 | 2024-11-24 | 2024-11-30 |
-| [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-09-16 |  |
+| [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-09-16 | 2025-10-30 |
 | [Manchild](https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:33 | 2025-08-30 | 2025-09-10 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-07 | 2025-07-03 |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-03-20 | 2022-03-27 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,074 likes - 48 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,087 likes - 48 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Fall In Love Too Easily](https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:21 |
 | 2 | [The Touch Of Your Lips](https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 2:42 |
-| 3 | [Let's Get Lost](https://open.spotify.com/track/0UZFhlhUMrYyzzyOHkylM3) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:43 |
-| 4 | [How High The Moon](https://open.spotify.com/track/1qagJUT7uzS8eAkDJmO8QG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Keepnews Collection\)](https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ) | 3:38 |
+| 3 | [How High The Moon](https://open.spotify.com/track/1qagJUT7uzS8eAkDJmO8QG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Keepnews Collection\)](https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ) | 3:38 |
+| 4 | [Let's Get Lost](https://open.spotify.com/track/0UZFhlhUMrYyzzyOHkylM3) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:43 |
 | 5 | [My Funny Valentine](https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:21 |
 | 6 | [Autumn In New York](https://open.spotify.com/track/7oehX4YTJOAwGFaAW1yvcs) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Quartet Vol\. 2 \(Chet Baker in Paris Vol\. 2\)](https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu) | 7:07 |
 | 7 | [Stardust](https://open.spotify.com/track/2g1iBv7SXxiXX0IEG4lz2k) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 4:46 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 21 | [But Not For Me \- Vocal Version](https://open.spotify.com/track/3pfbQmD5xGH9Tcc7GqGfSL) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:04 |
 | 22 | [You're My Thrill](https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:59 |
 | 23 | [Born To Be Blue](https://open.spotify.com/track/5Z0HDixFz1mtvPOXLtCKU9) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 4:06 |
-| 24 | [September Song](https://open.spotify.com/track/7cAe8OwCDQA9FcoGcSGbgH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Riverside Profiles: Chet Baker](https://open.spotify.com/album/6yMw4xOPSnjJF3gt1Kcr5S) | 3:03 |
-| 25 | [I've Grown Accustomed To Her Face](https://open.spotify.com/track/4mDUnJXdRS9XuZSmCp9EFB) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 4:12 |
+| 24 | [I've Grown Accustomed To Her Face](https://open.spotify.com/track/4mDUnJXdRS9XuZSmCp9EFB) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 4:12 |
+| 25 | [September Song](https://open.spotify.com/track/7cAe8OwCDQA9FcoGcSGbgH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Riverside Profiles: Chet Baker](https://open.spotify.com/album/6yMw4xOPSnjJF3gt1Kcr5S) | 3:03 |
 | 26 | [When Your Lover Has Gone](https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:54 |
 | 27 | [Summertime](https://open.spotify.com/track/0xUR9H98jgwFKhwrv9yQXI) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Quartet Vol\. 2 \(Chet Baker in Paris Vol\. 2\)](https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu) | 4:15 |
 | 28 | [Alone Together \- Mono](https://open.spotify.com/track/1F4FRutCMOnvypcDa4JGiW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 6:52 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 32 | [You'd Be So Nice To Come Home To \- Mono](https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 4:36 |
 | 33 | [The More I See You](https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 3:06 |
 | 34 | [It Could Happen To You](https://open.spotify.com/track/5QxoGg03WwYV3bbwgOAGwK) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Essential Standards](https://open.spotify.com/album/0whq7qknr3srbyrfSwSj6L) | 2:52 |
-| 35 | [I Wish You Love](https://open.spotify.com/track/1gF8EnsbcFBaYsNig7LhtN) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:12 |
-| 36 | [Trav'lin Light](https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 3:44 |
+| 35 | [Trav'lin Light](https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 3:44 |
+| 36 | [I Wish You Love](https://open.spotify.com/track/1gF8EnsbcFBaYsNig7LhtN) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:12 |
 | 37 | [While My Lady Sleeps \(take 10\) \- Alternate Take](https://open.spotify.com/track/2ISbOB1Xu6F3YlyP5n6J9d) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 4:22 |
 | 38 | [You And The Night And The Music](https://open.spotify.com/track/6XW2ye6BhEVoPhvmfjhPR2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Plays For Lovers](https://open.spotify.com/album/3jQuxFEqWFodjerF11Mq1y) | 4:07 |
 | 39 | [I'm Glad There Is You \- Remaster/2004](https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sextet](https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u) | 3:14 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 47 | [Ergo \- Remastered 2004](https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Ensemble \(Expanded Edition / Remastered\)](https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c) | 3:11 |
 | 48 | [Darn That Dream \- Live At The Tiffany Club, Los Angeles, CA., 1954](https://open.spotify.com/track/6VQDwRTDemiSXkRiNawCYL) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [West Coast Live](https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k) | 12:07 |
 
-Snapshot ID: `aP62AAAAAADiRuj7uNJcbMz1MyaMfuwA`
+Snapshot ID: `aQAHgAAAAAAiXA3p0Psl8EAetoH/NMXZ`

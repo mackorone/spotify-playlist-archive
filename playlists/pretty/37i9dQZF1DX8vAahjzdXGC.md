@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Hearts2Hearts, Daniel Caesar, Henry Moodie, Stephanie Poetri dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,790 likes - 116 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,806 likes - 116 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

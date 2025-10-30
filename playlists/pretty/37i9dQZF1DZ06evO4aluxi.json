@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 18811,
+  "num_followers": 18813,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADTwZZrA4Hl/pCwRMfXv2u5",
+  "snapshot_id": "aQAHgAAAAABRu8DQw05Tgd8t6yrWY1Vh",
   "tracks": [
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere Down The Road",
-        "url": "https://open.spotify.com/album/0JUPgkd0kgGqVxVAZTEsKY"
+        "name": "Straight Ahead (Remastered)",
+        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 222396,
-      "name": "Better Than A Hallelujah",
-      "url": "https://open.spotify.com/track/6RlliUfY8hTxnaK85e6D5Z"
+      "duration_ms": 200986,
+      "name": "Thy Word",
+      "url": "https://open.spotify.com/track/58OoLCgCm83Wogp7JLl30g"
     },
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight Ahead (Remastered)",
-        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
+        "name": "Somewhere Down The Road",
+        "url": "https://open.spotify.com/album/0JUPgkd0kgGqVxVAZTEsKY"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 200986,
-      "name": "Thy Word",
-      "url": "https://open.spotify.com/track/58OoLCgCm83Wogp7JLl30g"
+      "duration_ms": 222396,
+      "name": "Better Than A Hallelujah",
+      "url": "https://open.spotify.com/track/6RlliUfY8hTxnaK85e6D5Z"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Straight Ahead (Remastered)",
+        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Doubly Good To You - Remastered",
+      "url": "https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FAITHFUL: Go and Speak",
         "url": "https://open.spotify.com/album/0mm5FD6nio4NSm9YMa0Vum"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight Ahead (Remastered)",
-        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Doubly Good To You - Remastered",
-      "url": "https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legacy...Hymns & Faith",
         "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 252333,
-      "name": "Raining On The Inside",
-      "url": "https://open.spotify.com/track/5bZJhaDjmiyd3mmorGRRGS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Still And Know... Hymns & Faith",
         "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 267026,
       "name": "Jesus, Take All Of Me (Just As I Am)",
       "url": "https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 252333,
+      "name": "Raining On The Inside",
+      "url": "https://open.spotify.com/track/5bZJhaDjmiyd3mmorGRRGS"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
       "duration_ms": 198546,
       "name": "Could I Have This Dance",
       "url": "https://open.spotify.com/track/0eXpvoN6ReEXq8jAMDOxxD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        },
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 290600,
-      "name": "These are the Days (feat. Amy Grant)",
-      "url": "https://open.spotify.com/track/0e2r8Zr2AwxTMynkTMCkMg"
     },
     {
       "added_at": null,
@@ -779,6 +759,26 @@
       "duration_ms": 233200,
       "name": "Be Still And Know",
       "url": "https://open.spotify.com/track/3WD7NRVmvnoNwVf3NtufTc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 290600,
+      "name": "These are the Days (feat. Amy Grant)",
+      "url": "https://open.spotify.com/track/0e2r8Zr2AwxTMynkTMCkMg"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Alone (Remastered)",
-        "url": "https://open.spotify.com/album/1zlf9fxadKTjVlWLrg1bYT"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 156346,
-      "name": "All I Ever Have To Be",
-      "url": "https://open.spotify.com/track/2DIfq3gn9mHzWwvP1UIxNn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unguarded",
         "url": "https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 260440,
       "name": "Galileo",
       "url": "https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Alone (Remastered)",
+        "url": "https://open.spotify.com/album/1zlf9fxadKTjVlWLrg1bYT"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 156346,
+      "name": "All I Ever Have To Be",
+      "url": "https://open.spotify.com/track/2DIfq3gn9mHzWwvP1UIxNn"
     },
     {
       "added_at": null,

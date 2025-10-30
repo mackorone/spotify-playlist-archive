@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Banda Mix & Eugenia Quevedo.",
-  "num_followers": 774801,
+  "num_followers": 774909,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,26 @@
     {
       "added_at": "2025-10-24 13:24:03",
       "album": {
+        "name": "Otro D\u00eda M\u00e1s",
+        "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "La Contra",
+          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
+        }
+      ],
+      "duration_ms": 202342,
+      "name": "Otro D\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
+    },
+    {
+      "added_at": "2025-10-24 13:24:03",
+      "album": {
         "name": "En Otra Vida - Versi\u00f3n Cuarteto",
         "url": "https://open.spotify.com/album/5iMYvZp2PQDHiC1s3P4rRA"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 148200,
       "name": "En Otra Vida - Versi\u00f3n Cuarteto",
       "url": "https://open.spotify.com/track/1K11lq4qn0DdPfljQcHkNE"
-    },
-    {
-      "added_at": "2025-10-24 13:24:03",
-      "album": {
-        "name": "Otro D\u00eda M\u00e1s",
-        "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "La Contra",
-          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
-        }
-      ],
-      "duration_ms": 202342,
-      "name": "Otro D\u00eda M\u00e1s",
-      "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
     },
     {
       "added_at": "2025-10-24 13:24:03",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-10-24 13:24:03",
       "album": {
+        "name": "No Me Ense\u00f1aste",
+        "url": "https://open.spotify.com/album/2uqxph6GlzZTfrbclmvixl"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        }
+      ],
+      "duration_ms": 192523,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/3TuVuXJAEhajh7BfWY9Ad9"
+    },
+    {
+      "added_at": "2025-10-24 13:24:03",
+      "album": {
         "name": "No Puedo Fingirlo",
         "url": "https://open.spotify.com/album/300aT1T1b5w3BVlKnwxSDB"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 220753,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6"
-    },
-    {
-      "added_at": "2025-10-24 13:24:03",
-      "album": {
-        "name": "No Me Ense\u00f1aste",
-        "url": "https://open.spotify.com/album/2uqxph6GlzZTfrbclmvixl"
-      },
-      "artists": [
-        {
-          "name": "Valentina Marquez",
-          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
-        }
-      ],
-      "duration_ms": 192523,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/3TuVuXJAEhajh7BfWY9Ad9"
     },
     {
       "added_at": "2025-10-24 13:24:03",
@@ -987,6 +987,26 @@
     {
       "added_at": "2025-10-24 13:24:03",
       "album": {
+        "name": "Si tu no vuelves / Tu misterioso alguien (En Vivo)",
+        "url": "https://open.spotify.com/album/4Uny4FGxGwA9WBYCxwbTvO"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        },
+        {
+          "name": "Maximiliano Mur\u00faa",
+          "url": "https://open.spotify.com/artist/7hNABZM9cObZ9c4uzO9w4a"
+        }
+      ],
+      "duration_ms": 259604,
+      "name": "Si tu no vuelves / Tu misterioso alguien - En Vivo",
+      "url": "https://open.spotify.com/track/2dLOhL6DX6VR0ZLYiui5hb"
+    },
+    {
+      "added_at": "2025-10-24 13:24:03",
+      "album": {
         "name": "Por Ese Hombre (En Vivo)",
         "url": "https://open.spotify.com/album/0BtiuO6dlmwCn5ZNLC1XI0"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 242000,
       "name": "Por Ese Hombre - En Vivo",
       "url": "https://open.spotify.com/track/0S33HwsUNnsCay68WOcHbS"
-    },
-    {
-      "added_at": "2025-10-24 13:24:03",
-      "album": {
-        "name": "Si tu no vuelves / Tu misterioso alguien (En Vivo)",
-        "url": "https://open.spotify.com/album/4Uny4FGxGwA9WBYCxwbTvO"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        },
-        {
-          "name": "Maximiliano Mur\u00faa",
-          "url": "https://open.spotify.com/artist/7hNABZM9cObZ9c4uzO9w4a"
-        }
-      ],
-      "duration_ms": 259604,
-      "name": "Si tu no vuelves / Tu misterioso alguien - En Vivo",
-      "url": "https://open.spotify.com/track/2dLOhL6DX6VR0ZLYiui5hb"
     },
     {
       "added_at": "2025-10-24 13:24:03",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-10-24 13:24:03",
       "album": {
-        "name": "Imag\u00ednate (En Vivo)",
-        "url": "https://open.spotify.com/album/0d2hnjRggNyqLk4Y7l8Fsb"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        }
-      ],
-      "duration_ms": 153809,
-      "name": "Imag\u00ednate - En Vivo",
-      "url": "https://open.spotify.com/track/4MpquRs20zncElQWfdMXpw"
-    },
-    {
-      "added_at": "2025-10-24 13:24:03",
-      "album": {
         "name": "Ay Amor",
         "url": "https://open.spotify.com/album/3pP8sHt6ddUHJ4CHPcGmnh"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 199296,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/4pMpoj9TNQg9ZlfG3fE7W2"
+    },
+    {
+      "added_at": "2025-10-24 13:24:03",
+      "album": {
+        "name": "Imag\u00ednate (En Vivo)",
+        "url": "https://open.spotify.com/album/0d2hnjRggNyqLk4Y7l8Fsb"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "duration_ms": 153809,
+      "name": "Imag\u00ednate - En Vivo",
+      "url": "https://open.spotify.com/track/4MpquRs20zncElQWfdMXpw"
     },
     {
       "added_at": "2025-10-24 13:24:03",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2025-10-24 13:24:03",
       "album": {
-        "name": "C\u00f3mo Lo Hizo - No Podr\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/1x5XZIoKDX8imxr09pCewy"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        },
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        }
-      ],
-      "duration_ms": 516080,
-      "name": "C\u00f3mo Lo Hizo - No Podr\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/7iweOnBgTeHU1VPSVQRyIC"
-    },
-    {
-      "added_at": "2025-10-24 13:24:03",
-      "album": {
         "name": "En otra vida (En Vivo)",
         "url": "https://open.spotify.com/album/0Ujtg97hUUgW4pabzGnMuB"
       },
@@ -1319,22 +1299,6 @@
       "duration_ms": 139465,
       "name": "En otra vida - En Vivo",
       "url": "https://open.spotify.com/track/07IixpZJQJZSvNAWiLOfck"
-    },
-    {
-      "added_at": "2025-10-24 13:24:03",
-      "album": {
-        "name": "Tu Amante En Secreto",
-        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
-      },
-      "artists": [
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "Piensa en M\u00ed (En Vivo)",
-      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
     },
     {
       "added_at": "2025-10-24 13:24:03",
@@ -1363,18 +1327,18 @@
     {
       "added_at": "2025-10-24 13:24:03",
       "album": {
-        "name": "A Toda Fiesta",
-        "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
+        "name": "Tu Amante En Secreto",
+        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
       },
       "artists": [
         {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
         }
       ],
-      "duration_ms": 208906,
-      "name": "Amor Infiel",
-      "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
+      "duration_ms": 224680,
+      "name": "Piensa en M\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
     },
     {
       "added_at": "2025-10-24 13:24:03",
@@ -1391,6 +1355,42 @@
       "duration_ms": 327488,
       "name": "Como Te Va Mi Amor - Hasta Hoy",
       "url": "https://open.spotify.com/track/1hJtbQKy4IRhaCHRnqxLgu"
+    },
+    {
+      "added_at": "2025-10-24 13:24:03",
+      "album": {
+        "name": "A Toda Fiesta",
+        "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Amor Infiel",
+      "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
+    },
+    {
+      "added_at": "2025-10-24 13:24:03",
+      "album": {
+        "name": "C\u00f3mo Lo Hizo - No Podr\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/1x5XZIoKDX8imxr09pCewy"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "duration_ms": 516080,
+      "name": "C\u00f3mo Lo Hizo - No Podr\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/7iweOnBgTeHU1VPSVQRyIC"
     },
     {
       "added_at": "2025-10-24 13:24:03",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-10-24 13:24:03",
       "album": {
-        "name": "La \u00daltima Granada (DQV Premium)",
-        "url": "https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        }
-      ],
-      "duration_ms": 182532,
-      "name": "La \u00daltima Granada (DQV Premium)",
-      "url": "https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79"
-    },
-    {
-      "added_at": "2025-10-24 13:24:03",
-      "album": {
         "name": "Que Te Vuelva Amor",
         "url": "https://open.spotify.com/album/2TiQN4ZPday9QtHELjhqtB"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 150764,
       "name": "Que Te Vuelva Amor",
       "url": "https://open.spotify.com/track/5Y2hlEF263cIINL3UItXCi"
+    },
+    {
+      "added_at": "2025-10-24 13:24:03",
+      "album": {
+        "name": "La \u00daltima Granada (DQV Premium)",
+        "url": "https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 182532,
+      "name": "La \u00daltima Granada (DQV Premium)",
+      "url": "https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79"
     },
     {
       "added_at": "2025-10-24 13:24:03",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2025-10-24 13:24:03",
       "album": {
+        "name": "Mi Otra Mitad",
+        "url": "https://open.spotify.com/album/5thIpx6IS6laCgbVeRsu0H"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        }
+      ],
+      "duration_ms": 178943,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/3OYiGZYV6ZoRrqN1mwr1Ie"
+    },
+    {
+      "added_at": "2025-10-24 13:24:03",
+      "album": {
         "name": "Esto Se Acab\u00f3",
         "url": "https://open.spotify.com/album/1usW30QraosvadgKpteABF"
       },
@@ -1759,22 +1775,6 @@
     {
       "added_at": "2025-10-24 13:24:03",
       "album": {
-        "name": "Mi Otra Mitad",
-        "url": "https://open.spotify.com/album/5thIpx6IS6laCgbVeRsu0H"
-      },
-      "artists": [
-        {
-          "name": "Valentina Marquez",
-          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
-        }
-      ],
-      "duration_ms": 178943,
-      "name": "Mi Otra Mitad",
-      "url": "https://open.spotify.com/track/3OYiGZYV6ZoRrqN1mwr1Ie"
-    },
-    {
-      "added_at": "2025-10-24 13:24:03",
-      "album": {
         "name": "Ni Lo Pienses",
         "url": "https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y"
       },
@@ -1787,6 +1787,22 @@
       "duration_ms": 254053,
       "name": "Usted Se Me Llevo la Vida",
       "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
+    },
+    {
+      "added_at": "2025-10-24 13:24:03",
+      "album": {
+        "name": "Libre al Fin",
+        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
+      },
+      "artists": [
+        {
+          "name": "Walter Romero",
+          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
     },
     {
       "added_at": "2025-10-24 13:24:03",
@@ -1807,22 +1823,6 @@
       "duration_ms": 163468,
       "name": "JULIETA & ROMEO (En Vivo)",
       "url": "https://open.spotify.com/track/6e37baiPTAaS5J5UZexFzG"
-    },
-    {
-      "added_at": "2025-10-24 13:24:03",
-      "album": {
-        "name": "Libre al Fin",
-        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
-      },
-      "artists": [
-        {
-          "name": "Walter Romero",
-          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
     },
     {
       "added_at": "2025-10-24 13:24:03",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2025-10-24 13:24:03",
       "album": {
-        "name": "En El Gran Rex",
-        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
-      },
-      "artists": [
-        {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Un Mill\u00f3n de Rosas",
-      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
-    },
-    {
-      "added_at": "2025-10-24 13:24:03",
-      "album": {
         "name": "Ta' Buenisimo",
         "url": "https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 235920,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
+    },
+    {
+      "added_at": "2025-10-24 13:24:03",
+      "album": {
+        "name": "En El Gran Rex",
+        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Un Mill\u00f3n de Rosas",
+      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
     },
     {
       "added_at": "2025-10-24 13:24:03",

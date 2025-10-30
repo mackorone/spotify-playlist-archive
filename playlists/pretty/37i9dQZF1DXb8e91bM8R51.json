@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 52852,
+  "num_followers": 52857,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-10-24 18:39:32",
       "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 263941,
+      "name": "Funny Papers",
+      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
+    },
+    {
+      "added_at": "2025-10-24 18:39:32",
+      "album": {
         "name": "Blick Sum (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 192266,
       "name": "Blick Sum (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
-    },
-    {
-      "added_at": "2025-10-24 18:39:32",
-      "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 263941,
-      "name": "Funny Papers",
-      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
     },
     {
       "added_at": "2025-10-24 18:39:32",
@@ -507,6 +507,26 @@
     {
       "added_at": "2025-10-24 18:39:32",
       "album": {
+        "name": "float 2.0",
+        "url": "https://open.spotify.com/album/1r4QvO5mB5VncnRaIKcBQA"
+      },
+      "artists": [
+        {
+          "name": "Kairo Keyz",
+          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
+        },
+        {
+          "name": "Thiago Sub",
+          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
+        }
+      ],
+      "duration_ms": 110464,
+      "name": "float 2.0",
+      "url": "https://open.spotify.com/track/1nPuPXBojDHIsoY0DCXDxm"
+    },
+    {
+      "added_at": "2025-10-24 18:39:32",
+      "album": {
         "name": "Stop Giving Me Advice",
         "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 242453,
       "name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
       "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
-    },
-    {
-      "added_at": "2025-10-24 18:39:32",
-      "album": {
-        "name": "float 2.0",
-        "url": "https://open.spotify.com/album/1r4QvO5mB5VncnRaIKcBQA"
-      },
-      "artists": [
-        {
-          "name": "Kairo Keyz",
-          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
-        },
-        {
-          "name": "Thiago Sub",
-          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
-        }
-      ],
-      "duration_ms": 110464,
-      "name": "float 2.0",
-      "url": "https://open.spotify.com/track/1nPuPXBojDHIsoY0DCXDxm"
     },
     {
       "added_at": "2025-10-24 18:39:32",
@@ -1910,11 +1910,19 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
         }
       ],
-      "duration_ms": 195950,
-      "name": "N95",
-      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
+      "duration_ms": 239026,
+      "name": "Die Hard",
+      "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
     },
     {
       "added_at": "2025-10-24 18:39:32",

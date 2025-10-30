@@ -4,7 +4,7 @@
 
 > This is Lily Allen\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 41 min
+47 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Dream A Little Dream](https://open.spotify.com/track/5fZaORfoLqj4fIRqbHA9Bz) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Swings Both Ways \(Deluxe Edition\)](https://open.spotify.com/album/4yY8NL5zw83iBAvqVuUAL4) | 3:33 | 2025-10-28 |  |
 | [Drivin' Me Wild](https://open.spotify.com/track/1UvHbGEsb66bPueCDFUgJS) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Finding Forever](https://open.spotify.com/album/0XFFBEzvJ7Zit24MY5oVV3) | 3:42 | 2025-10-28 |  |
 | [Everyone's at It](https://open.spotify.com/track/3nnpX2OcY7wvZUUabuEk9d) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You](https://open.spotify.com/album/2OUL7ZpAvUaWyylZ1lXpe0) | 4:38 | 2025-10-28 |  |
-| [Friday Night](https://open.spotify.com/track/0v8bPECK6FcZ5uwipUn3MX) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:06 | 2025-10-28 |  |
+| [Everything's Just Wonderful](https://open.spotify.com/track/2wFzjUNWlF7tYzHW2A3OOe) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:28 | 2025-10-30 |  |
+| [Friday Night](https://open.spotify.com/track/0v8bPECK6FcZ5uwipUn3MX) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:06 | 2025-10-28 | 2025-10-30 |
 | [Fuck You](https://open.spotify.com/track/5st5644IlBmKiiRE73UsoZ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You](https://open.spotify.com/album/2OUL7ZpAvUaWyylZ1lXpe0) | 3:39 | 2025-10-28 |  |
 | [Hard out Here](https://open.spotify.com/track/3U3BXlwNTkCx7lW9m1H9RY) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Hard out Here](https://open.spotify.com/album/1fby4GbTbNwhaWosafXOmH) | 3:31 | 2025-10-28 |  |
 | [Him](https://open.spotify.com/track/3XbSdPCqIfK0BOOjqtNdfa) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:18 | 2025-10-28 |  |

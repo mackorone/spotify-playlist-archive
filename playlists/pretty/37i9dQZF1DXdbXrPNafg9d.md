@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Hether
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,297,368 likes - 170 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,297,286 likes - 170 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

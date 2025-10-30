@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie classics\. Cover: Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,031 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,105 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 29 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 |
 | 30 | [Fuimos Amor](https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 4:09 |
 | 31 | [Brillo Mio](https://open.spotify.com/track/7eCDfoEl8UGeWqcpRO5lgz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bálsamo](https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ) | 3:16 |
-| 32 | [¿Qué Se Siente Que Me Gustes Tanto?](https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:04 |
-| 33 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
+| 32 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
+| 33 | [¿Qué Se Siente Que Me Gustes Tanto?](https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:04 |
 | 34 | [Quiero Que Me Llames](https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 4:18 |
 | 35 | [Bailar Contigo](https://open.spotify.com/track/4hi9OTFKomNUlAIhp1fmap) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:38 |
 | 36 | [Te Miro Para Ver Si Me Ves Mirarte](https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [SOS](https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P) | 4:35 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 53 | [Ta Que Tiembla](https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:48 |
 | 54 | [Espero](https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [O Marineros](https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I) | 4:26 |
 | 55 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
-| 56 | [fuckhim \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:32 |
-| 57 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 |
+| 56 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 |
+| 57 | [fuckhim \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:32 |
 | 58 | [Reflexión del Pasto](https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Reflexión del Pasto](https://open.spotify.com/album/28GYUNMKd575GwnofewUEI) | 1:46 |
 | 59 | [Rotos](https://open.spotify.com/track/6B3CJsedKXeVTXIBQn6kwR) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh) | 3:43 |
 | 60 | [Bailar Bien, Bailar Mal](https://open.spotify.com/track/669xNVrjraLRBLrVBf7sUU) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [GP](https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t) | 3:45 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 62 | [El Invento](https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa) | 2:33 |
 | 63 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 |
 | 64 | [Oro](https://open.spotify.com/track/6XTYDLahRhEf98TOPk0y96) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh) | 3:26 |
-| 65 | [Nydia](https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 4:13 |
-| 66 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
+| 65 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
+| 66 | [Nydia](https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 4:13 |
 | 67 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
 | 68 | [Flamingo](https://open.spotify.com/track/0KuIShA8b0JR6X94q8JuoV) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Nuestra](https://open.spotify.com/album/7kSxnf1JIMeFMIKKC5xDtt) | 4:45 |
 | 69 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 84 | [Sunlight](https://open.spotify.com/track/1AEseSSIT59rfreQOvtaI9) | [Besos](https://open.spotify.com/artist/0g5ILGFHqkc89g0arxKvMk) | [Sunlight](https://open.spotify.com/album/7CaiIBfrajnAyCfv6p6IPb) | 3:06 |
 | 85 | [Dos que uno](https://open.spotify.com/track/3V2sqiqXuRUaK1gv1ugbdp) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 4:22 |
 | 86 | [¿Ypqsp?](https://open.spotify.com/track/0llXdaOFchJsMrPJTikF9D) | [Como Las Movies](https://open.spotify.com/artist/6GXCmKUYqrkqzwKAe5U67v) | [¿Ypqsp?](https://open.spotify.com/album/2uhxgkK5p7FmO1KQ0IPjmX) | 4:32 |
-| 87 | [A letter to my younger self](https://open.spotify.com/track/1jjfOsxZ1Z1bovYbguK7bB) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Dreaming Lucid](https://open.spotify.com/album/4hoEfnmAs0gjUhQOFZLk6O) | 2:18 |
-| 88 | [That's Playa](https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Verano Panorámico](https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N) | 2:07 |
+| 87 | [That's Playa](https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Verano Panorámico](https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N) | 2:07 |
+| 88 | [A letter to my younger self](https://open.spotify.com/track/1jjfOsxZ1Z1bovYbguK7bB) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Dreaming Lucid](https://open.spotify.com/album/4hoEfnmAs0gjUhQOFZLk6O) | 2:18 |
 | 89 | [Colors](https://open.spotify.com/track/4S86HrFNj1b7vL0oY4QGao) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp) | 3:33 |
 | 90 | [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 |
 | 91 | [Week 4](https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v) | [The Acapulco Express](https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N) | [Month One](https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE) | 5:10 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 96 | [Hate My Face](https://open.spotify.com/track/7h631DjBj4j7aFMFwEA7ma) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Hate My Face](https://open.spotify.com/album/2UUBmbPIewpO7axHpYeScJ) | 3:01 |
 | 97 | [Whatchu Know?](https://open.spotify.com/track/2aIBLMcUJzzBFj0jgQC7bN) | [Sam Sky](https://open.spotify.com/artist/2YiWowjyYqKEXuAle5oNDU) | [Whatchu Know?](https://open.spotify.com/album/29JesIS2vuVrFVtoOp3mur) | 3:48 |
 | 98 | [I Know It](https://open.spotify.com/track/7uLJUEnHIbLNyjRltSd1Eg) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/6SVzbiS8FloyayLerrRMiY) | 2:31 |
-| 99 | [Brillas](https://open.spotify.com/track/6VuUMo1TusnqBxLTnr3hOI) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R) | 3:46 |
-| 100 | [American Spirits](https://open.spotify.com/track/01w1oN1WO5aOThHnLBN8eS) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [III](https://open.spotify.com/album/2C3iXsSSv1K73fxClTDgEW) | 2:50 |
+| 99 | [American Spirits](https://open.spotify.com/track/01w1oN1WO5aOThHnLBN8eS) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [III](https://open.spotify.com/album/2C3iXsSSv1K73fxClTDgEW) | 2:50 |
+| 100 | [Brillas](https://open.spotify.com/track/6VuUMo1TusnqBxLTnr3hOI) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R) | 3:46 |
 
 Snapshot ID: `AAAAAGy4wryUAAYdDOLsPhcPcWiMpbNv`

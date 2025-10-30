@@ -8134,7 +8134,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 147383,
       "name": "DIAMANT",
       "url": "https://open.spotify.com/track/4T0l4QajiX7Izn5gzLmRiK"
@@ -12238,7 +12238,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -17472,7 +17472,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 245840,
       "name": "Kato Tebe Vtori Nyama",
       "url": "https://open.spotify.com/track/3LzpgBBMv6aFmUYu7dfdhg"
@@ -29378,7 +29378,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 125225,
       "name": "SHE GI SMACHKAM",
       "url": "https://open.spotify.com/track/0sS12JT8JBGHIyFb2ZnfYS"
@@ -34727,6 +34727,32 @@
     },
     {
       "album": {
+        "name": "Topa Topa",
+        "url": "https://open.spotify.com/album/5wOqRUxTWqDqMDEIX8bE2r"
+      },
+      "artists": [
+        {
+          "name": "Andrea",
+          "url": "https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw"
+        },
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202499,
+      "name": "Topa Topa",
+      "url": "https://open.spotify.com/track/1qHWI1NYKH5GkyFO18p2Uq"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -36194,6 +36220,24 @@
       "duration_ms": 195787,
       "name": "Vinagi",
       "url": "https://open.spotify.com/track/0yA4mGnEd1eQyTxBI2H99L"
+    },
+    {
+      "album": {
+        "name": "Notarialno zaveren",
+        "url": "https://open.spotify.com/album/2YYmbSctz57pLARmtiFZ1h"
+      },
+      "artists": [
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Vinovna",
+      "url": "https://open.spotify.com/track/4v7xSragiMZEfvpTvIaIdu"
     },
     {
       "album": {
@@ -41166,7 +41210,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 188181,
       "name": "\u041a\u0430\u043f\u0443\u0447\u0438\u043d\u0430",
       "url": "https://open.spotify.com/track/0dBBOeVLEIysM0EqCbO7dJ"
@@ -41736,7 +41780,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 196666,
       "name": "\u041c\u0430\u043c\u0430 \u043d\u0435 \u0434\u0430\u0432\u0430",
       "url": "https://open.spotify.com/track/2l0H1o8guCuGekEgyaE8Of"
@@ -43236,7 +43280,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 175483,
       "name": "\u041e\u0442\u043a\u0430\u0447\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/3fEpl8LU6WyIuE3C9P6pfI"
@@ -43934,7 +43978,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 195862,
       "name": "\u0420\u0435\u0436\u0435, \u0420\u0435\u0436\u0435",
       "url": "https://open.spotify.com/track/1r8idx9lRikl6t0qA8Nqvm"

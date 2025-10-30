@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-678 songs - 1 day 5 hr 40 min
+679 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Familiar](https://open.spotify.com/track/0eLUwTgJuz6K9dL12GGlgp) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Familiar](https://open.spotify.com/album/2zQBzQieDGZKzHZ8ve78XL) | 2:08 | 2024-12-13 |  |
 | [Farewell](https://open.spotify.com/track/3Ag1s6QNlZyu6snGQIIxzf) | [JAMMI](https://open.spotify.com/artist/7xtiaT1jm9ea1LcG9JxmSL), [sha\-quest](https://open.spotify.com/artist/2pvGNqZefMQhTEy1k64c1P), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Farewell](https://open.spotify.com/album/4kyM8jLGH13XIiApUMl1Fx) | 3:20 | 2025-04-11 | 2025-08-30 |
 | [Feels Like Yesterday](https://open.spotify.com/track/12mCpmQFWTW9D5pWGDrHmI) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [Feels Like Yesterday](https://open.spotify.com/album/58jpCi5IRbnK1C40ZvCbLk) | 2:09 | 2024-08-23 | 2025-04-26 |
+| [Fields](https://open.spotify.com/track/6DGmI9u4RiSIbbSJOqMDKc) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Fields](https://open.spotify.com/album/5H2oHjZ0rrVt5rcpvtSnfU) | 2:04 | 2025-10-24 |  |
 | [Filigrani](https://open.spotify.com/track/4IWWbsB2He38Nt6TPpwghj) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Filigrani](https://open.spotify.com/album/6UFvVhCn9womYqY42Qj0Z3) | 3:28 | 2023-11-24 | 2025-04-12 |
 | [Final Cut](https://open.spotify.com/track/6GR7dWU8WAa4wzrN8gcWma) | [Coloured Rocks](https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Final Cut](https://open.spotify.com/album/7DLf40HXuMcDUiEeft37Cq) | 1:58 | 2025-05-09 |  |
 | [Find Me](https://open.spotify.com/track/2qKRD4hHB07aMhVgX1HqmP) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Find Me / Shades](https://open.spotify.com/album/4JCPlvl6RyLgEPBUQP3HnT) | 1:50 | 2025-06-27 | 2025-07-20 |
@@ -609,7 +610,7 @@
 | [The Start of Something New](https://open.spotify.com/track/4yX8YNUdCdxMpujziFkQsq) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Amess](https://open.spotify.com/artist/2lWv7a6ohSVtXArF7q4dWc) | [The Start of Something New](https://open.spotify.com/album/39iK92ccFFjt6iqwLJxxHJ) | 2:05 | 2025-05-16 | 2025-09-13 |
 | [The Sunrise Fool](https://open.spotify.com/track/24s4OlQJtHIy36eYrSss9s) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Sunrise Fool](https://open.spotify.com/album/3aF7jsWfr5K70XL0tV0ca6) | 2:54 | 2024-10-25 | 2024-11-16 |
 | [The Thought Of You](https://open.spotify.com/track/2XDGo6fLUZffz3qDG2KK6R) | [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Brothers In Arms](https://open.spotify.com/album/7vXHQJOYzE2EyT25auM7NO) | 2:44 | 2025-05-09 | 2025-05-24 |
-| [The Winds Of Change](https://open.spotify.com/track/6PjuBpVOA9n1xJEoQzhT8O) | [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm), [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [The Winds Of Change](https://open.spotify.com/album/6eZYiqVq6c8FhlScZMpNZi) | 2:42 | 2024-12-13 |  |
+| [The Winds Of Change](https://open.spotify.com/track/6PjuBpVOA9n1xJEoQzhT8O) | [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm), [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [The Winds Of Change](https://open.spotify.com/album/6eZYiqVq6c8FhlScZMpNZi) | 2:42 | 2024-12-13 | 2025-10-30 |
 | [Think](https://open.spotify.com/track/7lWUihuAyFjZYP3Dat33LW) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Think](https://open.spotify.com/album/5sGzy7P3phhuXHbdEV8JUt) | 4:06 | 2025-08-22 | 2025-08-30 |
 | [Thinkgood](https://open.spotify.com/track/7aVZjXb2mBHnzNIt8T3oyU) | [Gianni](https://open.spotify.com/artist/1qOhp9sUeynPwEfyY6kX6c), [404beats](https://open.spotify.com/artist/18QH5J2MZ8yb62h7Jt6X0H) | [Thinkgood](https://open.spotify.com/album/4dnbVgFWnopxOcG9IWIBo7) | 1:53 | 2025-08-22 | 2025-08-30 |
 | [This Was Once Out of Shape](https://open.spotify.com/track/3qhJWC50lNxxiBcB35SyaA) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/2vC0VZmlbWEEC46w06CWvp) | 3:47 | 2024-03-20 | 2024-05-06 |

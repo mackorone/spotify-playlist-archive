@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 
 > This is DannyLux\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,685 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,692 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 20 | [Sal De Mi Mente](https://open.spotify.com/track/34VdhciQ6LFncMIqTqPHAr) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOS FUIMOS DE CASA](https://open.spotify.com/album/6lF8ObAEQlS32QC3A28uz4) | 2:55 |
 | 21 | [SIRENA](https://open.spotify.com/track/0Ap4GNJxy2n1Z0tJcXU9GE) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 4:13 |
 | 22 | [24:7](https://open.spotify.com/track/02SyNfy3oA30Mnw8c0iCMb) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [24:7](https://open.spotify.com/album/3S9EK27YNoSrqH35mVB93R) | 3:01 |
-| 23 | [BALENCIAGA](https://open.spotify.com/track/7neUFP4lHE6KBnc1saodk7) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [PORTATE BIEN](https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt) | 3:25 |
+| 23 | [rompo esquemas](https://open.spotify.com/track/3YQBN90z1f6cpYANeWPdWT) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [PÁJARO AZUL](https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO) | 3:19 |
 | 24 | [DECIR ADIOS "OYE NARRADOR" \(with Cuco\)](https://open.spotify.com/track/4AZrS6z6r4T7vpBRE7doUG) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Cuco](https://open.spotify.com/artist/2uEzrLeDsui4CXSdelYFBf) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:48 |
 | 25 | [VIAJA CONMIGO \(feat\. Jasiel Nuñez, Yng Naz\) \- Remix](https://open.spotify.com/track/3jUi2kxcsmnc23QtgXve4p) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 3:34 |
-| 26 | [rompo esquemas](https://open.spotify.com/track/3YQBN90z1f6cpYANeWPdWT) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [PÁJARO AZUL](https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO) | 3:19 |
+| 26 | [BALENCIAGA](https://open.spotify.com/track/7neUFP4lHE6KBnc1saodk7) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [PORTATE BIEN](https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt) | 3:25 |
 | 27 | [KATY PERRY \(feat\. Sheeno\)](https://open.spotify.com/track/0Xe7TQSVYiVaEDp5wowgsa) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO) | [KATY PERRY \(feat\. Sheeno\)](https://open.spotify.com/album/3YSe6mMaoDQivChU76JHlh) | 2:35 |
 | 28 | [ME CAMBIASTE \(with Eslabon Armado\)](https://open.spotify.com/track/0cAy6Iu6GQcFegbu9RMK1R) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Eslabon Armado](https://open.spotify.com/artist/3qd5K0Y3u1cYQd5uNTrsVj) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:45 |
 | 29 | [Perdón](https://open.spotify.com/track/5w3mQk0oyXswjY9yNRjawb) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 49 | [HOUSE OF LUX 2](https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 2:25 |
 | 50 | [Chilling](https://open.spotify.com/track/7IFVhvCIOErs01u8YvBSZg) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [De Moda](https://open.spotify.com/album/5kH5Ko4QOTDkihrWaTBhoz) | 2:04 |
 
-Snapshot ID: `aP62AAAAAACaYv1q/mqNfxFwP+gqIcvE`
+Snapshot ID: `aQAHgAAAAACcY2q6PLNx+wwqUmGwwJk0`

@@ -1,6 +1,6 @@
 {
   "description": "Hits to boost your mood and fill you with happiness!",
-  "num_followers": 6348292,
+  "num_followers": 6348359,
   "original_name": "Happy Hits!",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
-        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
-      },
-      "artists": [
-        {
-          "name": "Edison Lighthouse",
-          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 170640,
       "name": "I Forgot That You Existed",
       "url": "https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+      },
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Magic In The Hamptons (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK"
-      },
-      "artists": [
-        {
-          "name": "Social House",
-          "url": "https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 164640,
-      "name": "Magic In The Hamptons (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Rain On Me (with Ariana Grande)",
         "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Magic In The Hamptons (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK"
+      },
+      "artists": [
+        {
+          "name": "Social House",
+          "url": "https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 164640,
+      "name": "Magic In The Hamptons (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Sweetest Pie",
-        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 201334,
-      "name": "Sweetest Pie",
-      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Sweetest Pie",
+        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 201334,
+      "name": "Sweetest Pie",
+      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "31 Minutes to Takeoff",
-        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/6jg5SRvdGxvJ0DzNV0UqEK"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Car Keys (Ayla)",
         "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 147211,
       "name": "Car Keys (Ayla)",
       "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "31 Minutes to Takeoff",
+        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/6jg5SRvdGxvJ0DzNV0UqEK"
     },
     {
       "added_at": "2024-06-13 22:00:00",

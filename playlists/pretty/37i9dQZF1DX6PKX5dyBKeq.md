@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Dave, Kano
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,399,035 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,399,130 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 10 | [No Comment](https://open.spotify.com/track/16YfvpZgzzdxzrulTpIwvB) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [No Comment](https://open.spotify.com/album/7lJucfUoSX4vCCDAa0Nyss) | 3:02 |
 | 11 | [Crazy Love](https://open.spotify.com/track/00S54Je0ffaNP8ClzQPjWy) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Crazy Love](https://open.spotify.com/album/1d7YlcfbkKjTZi061rJYlo) | 2:00 |
 | 12 | [Trouble](https://open.spotify.com/track/1kvHfHpoqF3zm3bGgjUoYh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Mazza\_l20](https://open.spotify.com/artist/00IiVt687EdR9JnSoJN7IA) | [Trouble](https://open.spotify.com/album/013oyxu6GZfmFsjsDGIlNO) | 3:07 |
-| 13 | [Wrongs](https://open.spotify.com/track/1Us1V0tr91CIikNILQt3E6) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Wrongs](https://open.spotify.com/album/64w1Jeq4q8uF1EZFZiq1OT) | 2:58 |
+| 13 | [Wrongs](https://open.spotify.com/track/1Us1V0tr91CIikNILQt3E6) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Wrongs](https://open.spotify.com/album/64w1Jeq4q8uF1EZFZiq1OT) | 2:58 |
 | 14 | [LV Sandals](https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:51 |
 | 15 | [Kat Slater \- Native Remedies Remix](https://open.spotify.com/track/0lkEQmDMMgoNIKL7drwOzA) | [Tim Duzit](https://open.spotify.com/artist/4piDtKqW65wHWGs0TW2T8T) | [Kat Slater \(Native Remedies Remix\)](https://open.spotify.com/album/29VAIC1Ua4Vyw15jBe8fiU) | 1:49 |
 | 16 | [Pain](https://open.spotify.com/track/18JvmiOefHtdJFq7fP1FgG) | [Asco](https://open.spotify.com/artist/78tb5IXVdgoNDphZXWMN0r) | [Perfect Timing](https://open.spotify.com/album/45ZE2WOzDZEpVxaha9y5by) | 3:36 |

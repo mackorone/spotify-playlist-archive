@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 
 > This is Vicente Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,103,190 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,103,305 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 | 49 | [Ella](https://open.spotify.com/track/4pZBAD4pdv4A5WqjsYGiJk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Mexicano en la México](https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm) | 2:34 |
 | 50 | [Los Mandados](https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Pesar De Todo](https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso) | 2:58 |
 
-Snapshot ID: `aP62AAAAAABWKju/PirFkGJ4yg4gE2Al`
+Snapshot ID: `aQAHgAAAAADwjQ6spYrWI5db/Bl4lLpR`

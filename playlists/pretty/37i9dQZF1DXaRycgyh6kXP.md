@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,365 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,446 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,14 +73,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 63 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 |
 | 64 | [The stars vs creatures](https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 5:14 |
 | 65 | [All I Need](https://open.spotify.com/track/4XE1zWdwAyTxmzOom1wM3h) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL), [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Flowerdrum](https://open.spotify.com/album/2nTAmXD5n7KSDEWTpdtXCk) | 4:08 |
-| 66 | [Odyssey](https://open.spotify.com/track/1luDTOkUqKMQ8gQvB3U3gO) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Dan Heath](https://open.spotify.com/artist/0DHqlyxrbPpHcR8MQqP14P) | [Odyssey](https://open.spotify.com/album/4OiAIm1kS30F3QOgmmfC3L) | 3:25 |
-| 67 | [Walking Flames](https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 4:10 |
+| 66 | [Walking Flames](https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 4:10 |
+| 67 | [Odyssey](https://open.spotify.com/track/1luDTOkUqKMQ8gQvB3U3gO) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Dan Heath](https://open.spotify.com/artist/0DHqlyxrbPpHcR8MQqP14P) | [Odyssey](https://open.spotify.com/album/4OiAIm1kS30F3QOgmmfC3L) | 3:25 |
 | 68 | [FTLOG](https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [FTLOG](https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l) | 4:07 |
 | 69 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
 | 70 | [If You Love Her \- Private Agenda Remix](https://open.spotify.com/track/6I4ABgetb4Q4vYXyq1JcxK) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD), [Private Agenda](https://open.spotify.com/artist/0Ach9AicviOrwIPxUPntnA) | [If You Love Her \(Private Agenda Remix\)](https://open.spotify.com/album/6IGhR8LbCzR5lj8TyunJmZ) | 4:04 |
 | 71 | [Holding Hands](https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Holding Hands](https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J) | 2:50 |
-| 72 | [Bridges](https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Nedja](https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN) | [Heart \- EP](https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP) | 3:01 |
-| 73 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 |
+| 72 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 |
+| 73 | [Bridges](https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Nedja](https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN) | [Heart \- EP](https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP) | 3:01 |
 | 74 | [Pura](https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Pura](https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c) | 2:51 |
 | 75 | [Ohh Baby](https://open.spotify.com/track/4P19q3dSHap2uHkqRsF4YS) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Space Drag](https://open.spotify.com/album/0IRRsRMpxLm9wkQyFtoSfx) | 5:08 |
 | 76 | [X\-Dream](https://open.spotify.com/track/76sVe0f6NIgZo690KZyEEd) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [X\-Dream](https://open.spotify.com/album/6BSiu2BYuTWsLO8EyXpmgV) | 4:21 |

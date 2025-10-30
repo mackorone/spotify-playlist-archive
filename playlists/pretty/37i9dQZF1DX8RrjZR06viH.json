@@ -1,6 +1,6 @@
 {
   "description": "H\u00f8sten er her! \ud83c\udf42\n",
-  "num_followers": 101068,
+  "num_followers": 101070,
   "original_name": "h\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-10-23 22:00:49",
       "album": {
+        "name": "Love & Hyperbole (Deluxe)",
+        "url": "https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 192355,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt"
+    },
+    {
+      "added_at": "2025-10-23 22:00:49",
+      "album": {
         "name": "Nobody Lives Here",
         "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
       },
@@ -367,18 +383,22 @@
     {
       "added_at": "2025-10-23 22:00:49",
       "album": {
-        "name": "Love & Hyperbole (Deluxe)",
-        "url": "https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC"
+        "name": "Southern Star (feat. AURORA)",
+        "url": "https://open.spotify.com/album/09ffeND0KDUNaU5UvzHioj"
       },
       "artists": [
         {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 192355,
-      "name": "Clean",
-      "url": "https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt"
+      "duration_ms": 304760,
+      "name": "Southern Star (feat. AURORA)",
+      "url": "https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II"
     },
     {
       "added_at": "2025-10-23 22:00:49",
@@ -435,26 +455,6 @@
     {
       "added_at": "2025-10-23 22:00:49",
       "album": {
-        "name": "Southern Star (feat. AURORA)",
-        "url": "https://open.spotify.com/album/09ffeND0KDUNaU5UvzHioj"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 304760,
-      "name": "Southern Star (feat. AURORA)",
-      "url": "https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II"
-    },
-    {
-      "added_at": "2025-10-23 22:00:49",
-      "album": {
         "name": "Tjue \u00e5r",
         "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-10-23 22:00:49",
       "album": {
-        "name": "SKJORTE & SLIPS",
-        "url": "https://open.spotify.com/album/2EmNWkiQvPfcyXZqbVsNnM"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "SKJORTE & SLIPS",
-      "url": "https://open.spotify.com/track/0XX70hZPPFTnPQRL7NlWYO"
-    },
-    {
-      "added_at": "2025-10-23 22:00:49",
-      "album": {
         "name": "Jeg sp\u00f8r for en venn",
         "url": "https://open.spotify.com/album/1fwGUwoY9ipUsVm45sCiJy"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 193148,
       "name": "Jeg sp\u00f8r for en venn",
       "url": "https://open.spotify.com/track/2icHHKPqztIkn5neapSswk"
+    },
+    {
+      "added_at": "2025-10-23 22:00:49",
+      "album": {
+        "name": "SKJORTE & SLIPS",
+        "url": "https://open.spotify.com/album/2EmNWkiQvPfcyXZqbVsNnM"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "SKJORTE & SLIPS",
+      "url": "https://open.spotify.com/track/0XX70hZPPFTnPQRL7NlWYO"
     },
     {
       "added_at": "2025-10-23 22:00:49",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-10-23 22:00:49",
       "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/1MQRxIVZfu0T2UM5Z5x8Sz"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/4VuQDgGCITUEMT5NWKvWFK"
+    },
+    {
+      "added_at": "2025-10-23 22:00:49",
+      "album": {
         "name": "jeg holder pusten til du drar",
         "url": "https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 193134,
       "name": "Propaganda",
       "url": "https://open.spotify.com/track/5zGu3uII70nzOzgPbPZcfZ"
-    },
-    {
-      "added_at": "2025-10-23 22:00:49",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/1MQRxIVZfu0T2UM5Z5x8Sz"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/4VuQDgGCITUEMT5NWKvWFK"
     },
     {
       "added_at": "2025-10-23 22:00:49",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-10-23 22:00:49",
       "album": {
-        "name": "05050",
-        "url": "https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
-        }
-      ],
-      "duration_ms": 186739,
-      "name": "DESPU\u00c9S DE LA FERIA",
-      "url": "https://open.spotify.com/track/0gi0UeiivFSkgrc8Bw7m4x"
-    },
-    {
-      "added_at": "2025-10-23 22:00:49",
-      "album": {
         "name": "Milk and Honey",
         "url": "https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 210807,
       "name": "Milk and Honey",
       "url": "https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK"
+    },
+    {
+      "added_at": "2025-10-23 22:00:49",
+      "album": {
+        "name": "05050",
+        "url": "https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "duration_ms": 186739,
+      "name": "DESPU\u00c9S DE LA FERIA",
+      "url": "https://open.spotify.com/track/0gi0UeiivFSkgrc8Bw7m4x"
     },
     {
       "added_at": "2025-10-23 22:00:49",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-10-23 22:00:49",
       "album": {
-        "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
-        "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
-      "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
-    },
-    {
-      "added_at": "2025-10-23 22:00:49",
-      "album": {
         "name": "Hva vi kunne bli",
         "url": "https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2025-10-23 22:00:49",
       "album": {
+        "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
+        "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
+      "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
+    },
+    {
+      "added_at": "2025-10-23 22:00:49",
+      "album": {
         "name": "What Happened To The Heart? (Deluxe)",
         "url": "https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 201413,
       "name": "Hearts Intuition",
       "url": "https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH"
-    },
-    {
-      "added_at": "2025-10-23 22:00:49",
-      "album": {
-        "name": "Give Me Your Love Back",
-        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 176097,
-      "name": "Give Me Your Love Back",
-      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
     },
     {
       "added_at": "2025-10-23 22:00:49",
@@ -959,6 +943,22 @@
       "duration_ms": 264731,
       "name": "Sover du",
       "url": "https://open.spotify.com/track/7BJNNmsQHnZBd1A5sRXQ5H"
+    },
+    {
+      "added_at": "2025-10-23 22:00:49",
+      "album": {
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
     },
     {
       "added_at": "2025-10-23 22:00:49",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-10-23 22:00:49",
       "album": {
-        "name": "Ole Lukk\u00f8ye",
-        "url": "https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ"
-      },
-      "artists": [
-        {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
-        }
-      ],
-      "duration_ms": 265726,
-      "name": "Ole Lukk\u00f8ye",
-      "url": "https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ"
-    },
-    {
-      "added_at": "2025-10-23 22:00:49",
-      "album": {
         "name": "eu te amo beb\u00ea",
         "url": "https://open.spotify.com/album/5AXj1uz4Ltn2R4bVtMQiuH"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2025-10-23 22:00:49",
       "album": {
+        "name": "Ole Lukk\u00f8ye",
+        "url": "https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 265726,
+      "name": "Ole Lukk\u00f8ye",
+      "url": "https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ"
+    },
+    {
+      "added_at": "2025-10-23 22:00:49",
+      "album": {
         "name": "BOY",
         "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 151666,
       "name": "BOY",
       "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
-    },
-    {
-      "added_at": "2025-10-23 22:00:49",
-      "album": {
-        "name": "Oh Love (Acoustic)",
-        "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
-      },
-      "artists": [
-        {
-          "name": "Emilie Nicolas",
-          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
-        }
-      ],
-      "duration_ms": 201774,
-      "name": "Oh Love - Acoustic",
-      "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
     },
     {
       "added_at": "2025-10-23 22:00:49",
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2025-10-23 22:00:49",
       "album": {
-        "name": "Hold ut",
-        "url": "https://open.spotify.com/album/0SlOVlA86frJaQXSMi75YQ"
+        "name": "Oh Love (Acoustic)",
+        "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
       },
       "artists": [
         {
-          "name": "Bendik",
-          "url": "https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo"
+          "name": "Emilie Nicolas",
+          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
         }
       ],
-      "duration_ms": 145935,
-      "name": "Min",
-      "url": "https://open.spotify.com/track/36lRSnUiM2e2pNqPOEhgZg"
+      "duration_ms": 201774,
+      "name": "Oh Love - Acoustic",
+      "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
     },
     {
       "added_at": "2025-10-23 22:00:49",
@@ -1283,6 +1267,22 @@
       "duration_ms": 198200,
       "name": "25",
       "url": "https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg"
+    },
+    {
+      "added_at": "2025-10-23 22:00:49",
+      "album": {
+        "name": "Hold ut",
+        "url": "https://open.spotify.com/album/0SlOVlA86frJaQXSMi75YQ"
+      },
+      "artists": [
+        {
+          "name": "Bendik",
+          "url": "https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo"
+        }
+      ],
+      "duration_ms": 145935,
+      "name": "Min",
+      "url": "https://open.spotify.com/track/36lRSnUiM2e2pNqPOEhgZg"
     },
     {
       "added_at": "2025-10-23 22:00:49",
@@ -1371,38 +1371,6 @@
     {
       "added_at": "2025-10-23 22:00:49",
       "album": {
-        "name": "A Little Too Lost Sometimes",
-        "url": "https://open.spotify.com/album/1hgILChVJdx3d1s6CqUUnb"
-      },
-      "artists": [
-        {
-          "name": "RABO",
-          "url": "https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf"
-        }
-      ],
-      "duration_ms": 228426,
-      "name": "A Little Too Lost Sometimes",
-      "url": "https://open.spotify.com/track/5T5sOXwBzka5WAdy6jahsV"
-    },
-    {
-      "added_at": "2025-10-23 22:00:49",
-      "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
-    },
-    {
-      "added_at": "2025-10-23 22:00:49",
-      "album": {
         "name": "Coming Home (from NRK-scenen at P3 Gull) [feat. Ruben, Chris Holsten, Hillari, Anna Lille]",
         "url": "https://open.spotify.com/album/7ylc8QuYzhUA3aM66QOfFf"
       },
@@ -1435,6 +1403,22 @@
     {
       "added_at": "2025-10-23 22:00:49",
       "album": {
+        "name": "A Little Too Lost Sometimes",
+        "url": "https://open.spotify.com/album/1hgILChVJdx3d1s6CqUUnb"
+      },
+      "artists": [
+        {
+          "name": "RABO",
+          "url": "https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf"
+        }
+      ],
+      "duration_ms": 228426,
+      "name": "A Little Too Lost Sometimes",
+      "url": "https://open.spotify.com/track/5T5sOXwBzka5WAdy6jahsV"
+    },
+    {
+      "added_at": "2025-10-23 22:00:49",
+      "album": {
         "name": "Beautifully Ordinary",
         "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 304812,
       "name": "To Be Loved",
       "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
+    },
+    {
+      "added_at": "2025-10-23 22:00:49",
+      "album": {
+        "name": "Greatest Escape",
+        "url": "https://open.spotify.com/album/5ppxndA4gJ9oKfjdOSYwob"
+      },
+      "artists": [
+        {
+          "name": "When Saints Go Machine",
+          "url": "https://open.spotify.com/artist/0E7PsXA3qAN3NCycrWDFaf"
+        }
+      ],
+      "duration_ms": 160031,
+      "name": "Sometimes Love's Just Not Enough",
+      "url": "https://open.spotify.com/track/6kDtzoykztCOLMyz5T2KRh"
     },
     {
       "added_at": "2025-10-23 22:00:49",

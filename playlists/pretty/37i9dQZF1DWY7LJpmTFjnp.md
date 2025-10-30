@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Meme del Real en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 985,456 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 985,398 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 32 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 |
 | 33 | [Lago en el Cielo](https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 5:08 |
 | 34 | [Las flores](https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 2:15 |
-| 35 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 |
-| 36 | [El Colmo](https://open.spotify.com/track/1devU3Tqs5bMqo1GtWQhoa) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Anoche](https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC) | 2:40 |
+| 35 | [El Colmo](https://open.spotify.com/track/1devU3Tqs5bMqo1GtWQhoa) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Anoche](https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC) | 2:40 |
+| 36 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 |
 | 37 | [Aunque no sea conmigo](https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Hijos del pueblo](https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl) | 3:32 |
 | 38 | [Sognare](https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Defecto Perfecto](https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx) | 5:13 |
 | 39 | [Rastaman\- Dita](https://open.spotify.com/track/5kUf3gMXG6lTJkfQWLZSsP) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Apocalypshit](https://open.spotify.com/album/2Kd0lXsX8jlXwnoRrAnRiQ) | 3:48 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 59 | [Envenéname](https://open.spotify.com/track/5zixUJB0UpnKpYND6LFXzQ) | [Los Concorde](https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA) | [Envenéname](https://open.spotify.com/album/6aIFbmb0fLDE2nHQWnjPxH) | 3:45 |
 | 60 | [Te quiero](https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Te quiero](https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe) | 3:34 |
 | 61 | [Mi vida sin tu vida](https://open.spotify.com/track/3juCArYNEUHsMNRDlRZL2s) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi vida sin tu vida](https://open.spotify.com/album/6wiPssuqdqZ5oaNxqmkZQa) | 3:22 |
-| 62 | [La Cometierra](https://open.spotify.com/track/00uZGqztLivbtlWdZEVS2A) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [La Cometierra](https://open.spotify.com/album/3dU4u5kI17xxZljHrz6hDv) | 2:55 |
-| 63 | [Fugaz \(feat\. Rubén Albarrán\) \- En Vivo](https://open.spotify.com/track/3UymFgXyRZun9nBxj4tiVI) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 5:48 |
+| 62 | [Fugaz \(feat\. Rubén Albarrán\) \- En Vivo](https://open.spotify.com/track/3UymFgXyRZun9nBxj4tiVI) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 5:48 |
+| 63 | [La Cometierra](https://open.spotify.com/track/00uZGqztLivbtlWdZEVS2A) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [La Cometierra](https://open.spotify.com/album/3dU4u5kI17xxZljHrz6hDv) | 2:55 |
 | 64 | [Sin Rencor](https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:52 |
 | 65 | [Florecita Rockera](https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 2:57 |
 | 66 | [Juguete](https://open.spotify.com/track/1AP0YC81s5Gxk3wUIoQE5Q) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Juguete](https://open.spotify.com/album/1SEsHTEsKqNHVogHOV96xT) | 3:36 |

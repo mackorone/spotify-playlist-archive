@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,521 likes - 60 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,541 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 56 | [El Rey De La Puntualidad](https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Qué Pide La Gente](https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0) | 6:42 |
 | 57 | [Bang! Bang!](https://open.spotify.com/track/7wguzZQ79ZzR1WljM25BD6) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [Joe Cuba \- El Alcalde Del Barrio](https://open.spotify.com/album/5A204B0ZpW2ZYANvA4tSyL) | 4:08 |
 | 58 | [Periodico De Ayer](https://open.spotify.com/track/3Hv1DCU3Z0mPJa7UjqD0IG) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy) | 6:47 |
-| 59 | [Ché Ché Colé](https://open.spotify.com/track/0yE5Uqw60fj0pGpsvtDnDQ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Anthology](https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2) | 3:29 |
+| 59 | [El Pio Pio](https://open.spotify.com/track/1kU7UlD26gXP3kzKSk9ANC) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Musical Conquest](https://open.spotify.com/album/4OJyl5en2oE93ruuPG3qom) | 4:58 |
 | 60 | [Tiene Sabor \(feat\. Omara Portuondo\)](https://open.spotify.com/track/659r0xM5pXvb5sUQG3Yl28) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Lost and Found](https://open.spotify.com/album/3y7CeywdF5PUHpDJriC9tC) | 3:17 |
 
 Snapshot ID: `AAAAALzy49DUtpr9lCXQ/SU4NDhnXQ6L`

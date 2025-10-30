@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 
 > La banda sonora para tus cenas en casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,524 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,496 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 62 | [Sweet Pea](https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Supply And Demand](https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo) | 2:09 |
 | 63 | [Love's a Stranger](https://open.spotify.com/track/279LczresTWVkCsdLwgJSZ) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Warhaus](https://open.spotify.com/album/0v7z6pf34VKMECP0Bmbxi3) | 3:26 |
 | 64 | [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 |
-| 65 | [\(Getting Some\) Fun out of Life](https://open.spotify.com/track/1WWVlkmJSdLBSiqF2m8Ex2) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Dreamland](https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB) | 3:12 |
-| 66 | [Golden Cage](https://open.spotify.com/track/4Pz7iN649aBn2TwcxBRF8Z) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Dreams](https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf) | 4:02 |
+| 65 | [Golden Cage](https://open.spotify.com/track/4Pz7iN649aBn2TwcxBRF8Z) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Dreams](https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf) | 4:02 |
+| 66 | [\(Getting Some\) Fun out of Life](https://open.spotify.com/track/1WWVlkmJSdLBSiqF2m8Ex2) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Dreamland](https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB) | 3:12 |
 | 67 | [Desafinado](https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 4:08 |
 | 68 | [All of Me](https://open.spotify.com/track/4zGap9GhyeMN1QleAmvR1F) | [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81), [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Bossa Covers](https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye) | 4:10 |
 | 69 | [Tous les garçons et les filles \- Stereo Mix](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Tous les garçons et les filles](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 84 | [C’est Magnifique](https://open.spotify.com/track/1pd6iv2ZyzhdCdwvkLbjMM) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [Sunset In The Blue](https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq) | 4:52 |
 | 85 | [Girls Just Wanna Have Fun \- Acoustic](https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY) | 2:52 |
 | 86 | [Hang on Little Tomato](https://open.spotify.com/track/3Np6QCfJumv3C09gt3Iuxd) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [China Forbes](https://open.spotify.com/artist/3eBVmYkS103Lfh4IPH0H9A), [Thomas M\. Lauderdale](https://open.spotify.com/artist/6YTL8wArPzRzIUAIT7N80O), [Patrick Abbey](https://open.spotify.com/artist/656bsqVbqXfpSVH4L8kKim) | [Hang on Little Tomato](https://open.spotify.com/album/6DDLD8lHmQEXWRAnghp7io) | 3:16 |
-| 87 | [Dance Me To The End Of Love](https://open.spotify.com/track/5ztIul377mylwHJkCnIWbn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV), [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/5Abc3wXAy8U1f79eVn7AGd) | 3:55 |
-| 88 | [Volver](https://open.spotify.com/track/1uhQ3H3TSDX9Bq9Oz6uHWV) | [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D) | [Mujeres](https://open.spotify.com/album/5oE1VEtOYkkJJiRkZ7KbgB) | 3:37 |
+| 87 | [Volver](https://open.spotify.com/track/1uhQ3H3TSDX9Bq9Oz6uHWV) | [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D) | [Mujeres](https://open.spotify.com/album/5oE1VEtOYkkJJiRkZ7KbgB) | 3:37 |
+| 88 | [Dance Me To The End Of Love](https://open.spotify.com/track/5ztIul377mylwHJkCnIWbn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV), [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/5Abc3wXAy8U1f79eVn7AGd) | 3:55 |
 | 89 | [Lágrimas negras](https://open.spotify.com/track/2G6bY2enGuwmluoAAMQ0mj) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 3:47 |
 | 90 | [Desafinado](https://open.spotify.com/track/2GW4RDBkjLWUDjumnHB3K1) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Ultimate Guitar Classics 1951\-1961](https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito) | 1:58 |
 | 91 | [No Rain \- Remastered 2002](https://open.spotify.com/track/4ptSL1o2pRgNvrC4wsN1Pl) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Best Of Blind Melon](https://open.spotify.com/album/4Kr7DLs5Ds3e4VAqlo2vqZ) | 3:37 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 97 | [La Fugitiva \(with Kevin Johansen\)](https://open.spotify.com/track/1jmDkMtuAQJgSiN9AulFcx) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:14 |
 | 98 | [Havana \- Bossa Nova](https://open.spotify.com/track/0Tl1pHPHtn8WHMakC5VrVM) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Jacira](https://open.spotify.com/artist/5OcIpjam1QtlWktCiKGNzd), [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT) | [Havana \(Bossa Nova\)](https://open.spotify.com/album/3b3HGOoRb1eTmI6ilMRvWG) | 4:10 |
 | 99 | [El amor contigo](https://open.spotify.com/track/058K19d3MSe088Cgf3QlN0) | [Yasmin Levy](https://open.spotify.com/artist/1XDkuk3pjmco8Mkd93Qxbu), [Javier Limón](https://open.spotify.com/artist/001TRduQniM6dsJbQpMsbJ) | [Sentir](https://open.spotify.com/album/4gxaBylPClHaSjbfuzJA9P) | 3:32 |
-| 100 | [Estoy como nunca](https://open.spotify.com/track/3aTSo5FtNDv6PQJFV9Jmxa) | [Eliades Ochoa](https://open.spotify.com/artist/5kzBZ1hAd7xSzNUbGxACee) | [Estoy Como Nunca](https://open.spotify.com/album/1R0WJw960zHMiruda6o1Lb) | 5:01 |
+| 100 | [Aves](https://open.spotify.com/track/40xybgjTNRocHrl3c8NfuR) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Midair](https://open.spotify.com/album/5l97IRN5PKVVhU9n0Wn59n) | 4:07 |
 
 Snapshot ID: `AAAAAM0QXwifUQxHbVSO7oXNxtprxxp9`

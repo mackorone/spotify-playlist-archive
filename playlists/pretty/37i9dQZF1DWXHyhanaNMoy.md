@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Mensa ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,588 likes - 74 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,587 likes - 74 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

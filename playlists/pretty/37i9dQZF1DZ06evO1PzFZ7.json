@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152558,
+  "num_followers": 152556,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAC8Qx1jQFVaV77wfFCi2T6V",
+  "snapshot_id": "aQAHgAAAAADJSmMCZuW07Y6kDzQ08cjE",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gotitas Saladas",
+        "url": "https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 203021,
+      "name": "Gotitas Saladas",
+      "url": "https://open.spotify.com/track/5Sas859pm039G13F5wEuyK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aguachile",
         "url": "https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 182858,
       "name": "CASTIGO",
       "url": "https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gotitas Saladas",
-        "url": "https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 203021,
-      "name": "Gotitas Saladas",
-      "url": "https://open.spotify.com/track/5Sas859pm039G13F5wEuyK"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 287277,
-      "name": "Te Quiero para M\u00ed",
-      "url": "https://open.spotify.com/track/0F4yOUbUuoo4lC5Qet3uHd"
+      "duration_ms": 324365,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 324365,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq"
+      "duration_ms": 287277,
+      "name": "Te Quiero para M\u00ed",
+      "url": "https://open.spotify.com/track/0F4yOUbUuoo4lC5Qet3uHd"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Jinete",
+        "url": "https://open.spotify.com/album/1OdaWoKbUOD1HTf85M7lfF"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 192146,
+      "name": "El Jinete",
+      "url": "https://open.spotify.com/track/190VKP3lFhbQA2HvGQxosC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mexicano Hasta los Huesos",
         "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 178150,
       "name": "Que Me Entierren Con la Banda",
       "url": "https://open.spotify.com/track/6EubqUdydkHdtnXStHOlVN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Jinete",
-        "url": "https://open.spotify.com/album/1OdaWoKbUOD1HTf85M7lfF"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 192146,
-      "name": "El Jinete",
-      "url": "https://open.spotify.com/track/190VKP3lFhbQA2HvGQxosC"
     },
     {
       "added_at": null,

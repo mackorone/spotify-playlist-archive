@@ -1,6 +1,6 @@
 {
   "description": "A lazy Sunday vibe, whatever day of the week it is.",
-  "num_followers": 114723,
+  "num_followers": 114748,
   "original_name": "Sunday Mood",
   "owner": {
     "name": "Spotify",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2025-08-31 17:30:28",
       "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "Inside And Out",
+      "url": "https://open.spotify.com/track/6rouj6pwJgrh6whnljzXPd"
+    },
+    {
+      "added_at": "2025-08-31 17:30:28",
+      "album": {
         "name": "Heart of Gold (with Bon Iver)",
         "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 172190,
       "name": "Heart of Gold (with Bon Iver)",
       "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
-    },
-    {
-      "added_at": "2025-08-31 17:30:28",
-      "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 257920,
-      "name": "Inside And Out",
-      "url": "https://open.spotify.com/track/6rouj6pwJgrh6whnljzXPd"
     },
     {
       "added_at": "2025-08-31 17:30:28",

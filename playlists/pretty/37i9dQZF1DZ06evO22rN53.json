@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Ray. The essential tracks, all in one playlist.",
-  "num_followers": 4596,
+  "num_followers": 4605,
   "original_name": "This Is Victor Ray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAACt28RtFUWbbQ5j/BYPa2lq",
+  "snapshot_id": "aQAHgAAAAADU40ZKD2jd78QlHCoJG2rc",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I WILL.",
-        "url": "https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 171391,
-      "name": "World At My Feet",
-      "url": "https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hearts Break and People Change",
         "url": "https://open.spotify.com/album/7jcAisouiCZza66ewku13M"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 209787,
       "name": "Hearts Break and People Change",
       "url": "https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I WILL.",
+        "url": "https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 171391,
+      "name": "World At My Feet",
+      "url": "https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S"
     },
     {
       "added_at": null,

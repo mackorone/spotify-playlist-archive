@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 
 > My name is pink
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,027 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,199 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 71 | [What Dreams Are Made Of](https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [The Lizzie McGuire Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh) | 4:02 |
 | 72 | [Pink Friday Girls](https://open.spotify.com/track/44L2bY93uD65CEHWbozpx4) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:46 |
 | 73 | [Bubble Pop Electric](https://open.spotify.com/track/2bx879t8gUpxkQ0avl8xTf) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Johnny Vulture](https://open.spotify.com/artist/698jqy5RzKp9XzvSiNbCDy) | [Love\. Angel\. Music\. Baby\. \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:42 |
-| 74 | [Want U Back](https://open.spotify.com/track/6E11E0lT5Zy7yb6iT3y8DN) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sticks & Stones](https://open.spotify.com/album/16liSbjaxbH0oamsQlqJ4Z) | 3:34 |
-| 75 | [SUPERSCAR](https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [SUPERSCAR](https://open.spotify.com/album/2pElP8JopnqWCAEujfbhBL) | 3:14 |
+| 74 | [SUPERSCAR](https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [SUPERSCAR](https://open.spotify.com/album/2pElP8JopnqWCAEujfbhBL) | 3:14 |
+| 75 | [Want U Back](https://open.spotify.com/track/6E11E0lT5Zy7yb6iT3y8DN) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sticks & Stones](https://open.spotify.com/album/16liSbjaxbH0oamsQlqJ4Z) | 3:34 |
 
 Snapshot ID: `AAAAAN458ley0K60UA1bywtpbC3nPgfl`

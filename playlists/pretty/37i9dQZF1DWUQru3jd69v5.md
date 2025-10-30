@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Lorenzza in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,809 likes - 75 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,802 likes - 75 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 30 | [DICI](https://open.spotify.com/track/2WnVeNMmuEOQIetaaKamuN) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [DICI](https://open.spotify.com/album/7Gy4beE5UupnDYHyhkgrqc) | 2:08 |
 | 31 | [X prometaz\*\*\*](https://open.spotify.com/track/5RT74Rs8raBmN26uiCtXVd) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [X prometaz\*\*\*](https://open.spotify.com/album/05bn1GQdB5iI8gIpNVCFf2) | 2:07 |
 | 32 | [SHOOTERA](https://open.spotify.com/track/1q6SqbZRu1tlansDvEm0BC) | [Malsho](https://open.spotify.com/artist/1QoHY2jVpZqUrqnpZjA811) | [SHOOTERA](https://open.spotify.com/album/0PoVdNn8vlLW3pSJI9tis7) | 2:00 |
-| 33 | [My Mind](https://open.spotify.com/track/4y1BUtM87yeI77uEr6NsSY) | [Vanno](https://open.spotify.com/artist/2czX0gDaOHr74vdQOIoVm3), [RT](https://open.spotify.com/artist/53jy9KonR3xKonPZZLA8Bn), [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3), [BPOLO](https://open.spotify.com/artist/2pHOoXAbSf05Cps6sJkCVN) | [My Mind](https://open.spotify.com/album/5l2lOz7lkMeayMeVyaczZ0) | 3:12 |
+| 33 | [My Mind](https://open.spotify.com/track/4y1BUtM87yeI77uEr6NsSY) | [Vanno](https://open.spotify.com/artist/2czX0gDaOHr74vdQOIoVm3), [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3), [RT](https://open.spotify.com/artist/53jy9KonR3xKonPZZLA8Bn), [BPOLO](https://open.spotify.com/artist/2pHOoXAbSf05Cps6sJkCVN) | [My Mind](https://open.spotify.com/album/5l2lOz7lkMeayMeVyaczZ0) | 3:12 |
 | 34 | [DIECIMILA](https://open.spotify.com/track/5zuJIXxTNfgCVJzaTJmfnx) | [elliot](https://open.spotify.com/artist/3qeFjeE8OEYCyQFZtKOoDb), [IMAGE](https://open.spotify.com/artist/5yoQorniq2A9X70OIRU7c2) | [DIECIMILA](https://open.spotify.com/album/1E5OdJ5pegFJVwlQ4AV6fH) | 2:19 |
 | 35 | [Grondaie \(feat\. Rioda Forego\)](https://open.spotify.com/track/4o8UzBjMmIwRyWozMzHzWr) | [Lamia](https://open.spotify.com/artist/5wkscBCRsDw7WNh3NFWgp3), [Volta](https://open.spotify.com/artist/42lHANs4mX9viD3VW6G7LK), [Rioda Forego](https://open.spotify.com/artist/1rYsyz2yjhrU0UfI9ldGiV) | [Grondaie \(feat\. Rioda Forego\)](https://open.spotify.com/album/5yQ3PQeY66JpXJaO3XIcWB) | 2:28 |
 | 36 | [Cliché](https://open.spotify.com/track/0yquUscm5I8TmN8HDnFCLy) | [Sandro](https://open.spotify.com/artist/79EBRCQLb57c8PAiqM6l7e), [Garo](https://open.spotify.com/artist/3LEndOLAA0VrPnxGrBhVci) | [Prima Pietra](https://open.spotify.com/album/1PiHoO29CZHu23wZKlHGS1) | 2:40 |

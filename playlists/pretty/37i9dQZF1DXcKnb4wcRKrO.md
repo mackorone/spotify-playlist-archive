@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 
 > Golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,070 likes - 113 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,275 likes - 113 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 | 112 | [Empty.](https://open.spotify.com/track/4oOKNkUzGkjwI3nBoRuc4q) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Would appear to be jazz.](https://open.spotify.com/album/5XjZB8V2VFP8yPaMsB1NSJ) | 1:51 |
 | 113 | [Now I See](https://open.spotify.com/track/0DBRTvXViJcg76r9EQ6ngu) | [Redeyes](https://open.spotify.com/artist/6bFVG82TmMLbnFFBqG9LYa) | [Now I See](https://open.spotify.com/album/6wn5623NAokok2nuscutZK) | 3:46 |
 
-Snapshot ID: `AAAAAJCgtmAwxxBMeaLy3Uv/ACegFqBG`
+Snapshot ID: `AAAAAO5SrtGdC915c3/lqoUDIIzZ9XGJ`

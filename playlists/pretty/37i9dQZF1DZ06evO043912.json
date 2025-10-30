@@ -1,12 +1,12 @@
 {
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
-  "num_followers": 6767,
+  "num_followers": 6770,
   "original_name": "This Is King Sunny Ade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADhVKiQJczkaIS145ziZAMr",
+  "snapshot_id": "aQAHgAAAAAB/y1tzAW46EKq1Yo3hN56+",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Degrees North",
-        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 540106,
-      "name": "Ariya",
-      "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "E Dide [Get Up]",
         "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 194026,
       "name": "Ode La Alaga",
       "url": "https://open.spotify.com/track/3MjF9ApEZlJXKQrPTU14Mv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 540106,
+      "name": "Ariya",
+      "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 217973,
-      "name": "Oro Towo Baseti",
-      "url": "https://open.spotify.com/track/53nr4M3BGTXAa5hyT4SmQf"
+      "duration_ms": 424266,
+      "name": "Afai Bowon",
+      "url": "https://open.spotify.com/track/7wvmy07qOM1oCkxfEcPqLz"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 424266,
-      "name": "Afai Bowon",
-      "url": "https://open.spotify.com/track/7wvmy07qOM1oCkxfEcPqLz"
+      "duration_ms": 217973,
+      "name": "Oro Towo Baseti",
+      "url": "https://open.spotify.com/track/53nr4M3BGTXAa5hyT4SmQf"
     },
     {
       "added_at": null,

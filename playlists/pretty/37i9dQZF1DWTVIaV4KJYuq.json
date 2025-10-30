@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 706893,
+  "num_followers": 706911,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 227927,
       "name": "Somewhere Only We know - Live from Spotify, London",
       "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
     },
     {
-      "added_at": "2025-08-29 04:00:33",
-      "album": {
-        "name": "I'll Stand By You",
-        "url": "https://open.spotify.com/album/6dMYjwP3Bjo0u9CAXgS9Xd"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 247113,
-      "name": "I'll Stand By You",
-      "url": "https://open.spotify.com/track/0CFx0MleGtaqvNUrJhGl3B"
-    },
-    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Spotify Singles",
@@ -807,6 +791,22 @@
       "duration_ms": 239346,
       "name": "Dreams - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg"
+    },
+    {
+      "added_at": "2025-08-29 04:00:33",
+      "album": {
+        "name": "I'll Stand By You",
+        "url": "https://open.spotify.com/album/6dMYjwP3Bjo0u9CAXgS9Xd"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 247113,
+      "name": "I'll Stand By You",
+      "url": "https://open.spotify.com/track/0CFx0MleGtaqvNUrJhGl3B"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 236666,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229574,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "(500) Days of Summer (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 132493,
+      "name": "Please, Please, Please, Let Me Get What I Want",
+      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Rocket Man",
         "url": "https://open.spotify.com/album/2ybfxBbMNc3lyY3ekDuDy4"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 174127,
       "name": "Rocket Man",
       "url": "https://open.spotify.com/track/5ujvc1IFzGeBn2hsDX2n6w"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "(500) Days of Summer (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 132493,
-      "name": "Please, Please, Please, Let Me Get What I Want",
-      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Home Again / It's Too Late",
-        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 230813,
       "name": "Unchained Melody (feat. The Chapin Sisters)",
       "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "added_at": "2024-10-18 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Sueño A Marte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,946 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,957 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 13 | [El Lago Del Alma](https://open.spotify.com/track/59kj2ypafaGxDX0yDZrNqW) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [El Lago Del Alma](https://open.spotify.com/album/1LC7xXRFlSZOYCnUeGXvyW) | 2:17 |
 | 14 | [Nubes](https://open.spotify.com/track/03DwGjU8lK4wiDdgSett0i) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [Nubes](https://open.spotify.com/album/7t0vBigNHXs9SuwH1AaJXd) | 3:14 |
 | 15 | [tdbn](https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:14 |
-| 16 | [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 |
+| 16 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 |
 | 17 | [De Viaje](https://open.spotify.com/track/5Alh9ZUF8clLNm1UmFLcSv) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Super 8](https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu) | 4:14 |
-| 18 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 |
+| 18 | [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 |
 | 19 | [casa de espejos](https://open.spotify.com/track/5S9LIPJ2RCaowPdxDIByRp) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [casa de espejos](https://open.spotify.com/album/5mURp5KUNgHFfOLcQ42brK) | 2:21 |
 | 20 | [Viajar en Metro](https://open.spotify.com/track/7FDjq6dp6gUjsqsSWchDZ1) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Los Movimientos](https://open.spotify.com/album/5y42cHtbjVLQhuLWbcEwja) | 5:02 |
 | 21 | [Lejos de Mí](https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Lejos de Mí](https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk) | 3:16 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 30 | [vampiro](https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08) | [Kiddie Gang](https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg) | [vampiro](https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4) | 2:58 |
 | 31 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 |
 | 32 | [Mapas](https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP) | [Rayo](https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9) | [Jungla](https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC) | 3:03 |
-| 33 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 |
-| 34 | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8) | [Coma Pony](https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9) | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2) | 3:08 |
+| 33 | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8) | [Coma Pony](https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9) | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2) | 3:08 |
+| 34 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 |
 | 35 | [What’s holding you?](https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Chambers](https://open.spotify.com/album/0m1gWnu2DZOnk0lIqSbyBh) | 4:58 |
 | 36 | [Sailor](https://open.spotify.com/track/4TdfjUGOTNgBFUtCWXGKu4) | [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN) | [Sailor](https://open.spotify.com/album/0008B9l9FQcE2EMP3Avbch) | 4:14 |
 | 37 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 |

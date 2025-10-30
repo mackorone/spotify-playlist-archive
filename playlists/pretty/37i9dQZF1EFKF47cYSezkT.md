@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 32 | [Cruise Control](https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 2](https://open.spotify.com/album/6yy1V5XpYgD9u7s6mDBxxL) | 3:22 |
 | 33 | [3D Woman](https://open.spotify.com/track/1BNJP9eruFJyNKvbe6J2m7) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [One Bad Night](https://open.spotify.com/album/0kIaHXgYSK2eE5Makr8vdK) | 3:05 |
 | 34 | [American Adrenaline](https://open.spotify.com/track/5UFAGUdeoNHlm0Y6nLH8Fo) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [KAWALA Collection](https://open.spotify.com/album/2Pv5jT6q20fLACpKLLZpIt) | 2:43 |
-| 35 | [Talk to Me](https://open.spotify.com/track/7IWE8DBJVrIas5nODDWK4h) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/1trxnFmxnQgpGBQRupbTjZ) | 2:53 |
-| 36 | [Echoes](https://open.spotify.com/track/3UXZT8ySbWDR5lwD9MS2KM) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Atmosphere](https://open.spotify.com/album/483EKCZkSrdOZ5dEsew7sV) | 3:20 |
+| 35 | [Echoes](https://open.spotify.com/track/3UXZT8ySbWDR5lwD9MS2KM) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Atmosphere](https://open.spotify.com/album/483EKCZkSrdOZ5dEsew7sV) | 3:20 |
+| 36 | [Talk to Me](https://open.spotify.com/track/7IWE8DBJVrIas5nODDWK4h) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/1trxnFmxnQgpGBQRupbTjZ) | 2:53 |
 | 37 | [Hitch Hiking](https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:50 |
 | 38 | [To The Girl That Gets Him Next](https://open.spotify.com/track/5tfY4sv86EelJYS14Qm8Lj) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA) | [I'd Step On Lego For You.](https://open.spotify.com/album/2AdpJvtbF0pGyrincYRjWG) | 2:33 |
 | 39 | [Sacrifice](https://open.spotify.com/track/7ohIVwjfkygpO1Nr3L2Utl) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Sacrifice](https://open.spotify.com/album/0CvatjEeK2b1YHWWxfJC9U) | 3:17 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 65 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 66 | [Not Forever](https://open.spotify.com/track/79vrFGr0QHTgV4hvLELx0X) | [Iilysh Retallick](https://open.spotify.com/artist/6iCyXopvbv85uT2ltUaGOW) | [Not Forever](https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04) | 3:14 |
 
-Snapshot ID: `AcAGfgAAAABUl+z3ed0dHjocW7vQJbod`
+Snapshot ID: `AcAMZAAAAACTCks382SBx1xsF9LhVT5j`

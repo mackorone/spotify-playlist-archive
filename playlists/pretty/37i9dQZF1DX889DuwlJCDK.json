@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA5JYFCahweYsDRz7lYqhmImo5Vb",
+  "snapshot_id": "AAAAAN5oRHhKMSc8dPb836e/RFHFjD12",
   "tracks": [
     {
       "added_at": "2025-10-21 15:47:45",
@@ -651,18 +651,18 @@
     {
       "added_at": "2025-10-21 15:47:45",
       "album": {
-        "name": "\u56db\u5b63\u56de\u751f",
-        "url": "https://open.spotify.com/album/4voeIX26mHuytm5jUAAhQl"
+        "name": "\u756a",
+        "url": "https://open.spotify.com/album/1AROmBu8zaHxRoUqLT4Spm"
       },
       "artists": [
         {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+          "name": "\u30ab\u30e9\u30ce\u30a2",
+          "url": "https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m"
         }
       ],
-      "duration_ms": 146624,
-      "name": "\u56db\u5b63\u56de\u751f",
-      "url": "https://open.spotify.com/track/33RoMsSYspTo6ybIRrHBtD"
+      "duration_ms": 189632,
+      "name": "\u756a",
+      "url": "https://open.spotify.com/track/5tz8W0O2a8XYl7JNBQvb6q"
     },
     {
       "added_at": "2025-10-21 15:47:45",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-10-21 15:47:45",
       "album": {
-        "name": "\u756a",
-        "url": "https://open.spotify.com/album/1AROmBu8zaHxRoUqLT4Spm"
-      },
-      "artists": [
-        {
-          "name": "\u30ab\u30e9\u30ce\u30a2",
-          "url": "https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m"
-        }
-      ],
-      "duration_ms": 189632,
-      "name": "\u756a",
-      "url": "https://open.spotify.com/track/5tz8W0O2a8XYl7JNBQvb6q"
-    },
-    {
-      "added_at": "2025-10-21 15:47:45",
-      "album": {
         "name": "BEAT",
         "url": "https://open.spotify.com/album/6lSiYV5LPdVrw1gTXF51ww"
       },
@@ -779,22 +763,6 @@
     {
       "added_at": "2025-10-21 15:47:45",
       "album": {
-        "name": "\u83eb",
-        "url": "https://open.spotify.com/album/216vfpaQDaZ4CbHMs7WRRG"
-      },
-      "artists": [
-        {
-          "name": "Chevon",
-          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
-        }
-      ],
-      "duration_ms": 176965,
-      "name": "\u83eb",
-      "url": "https://open.spotify.com/track/4vVIlJbofRcrzIfNkgdFDK"
-    },
-    {
-      "added_at": "2025-10-21 15:47:45",
-      "album": {
         "name": "\u6708\u3068\u79c1\u306e\u304b\u304f\u308c\u3093\u307c",
         "url": "https://open.spotify.com/album/2m5P7dfPDOQWQ6g9XY2zg7"
       },
@@ -807,6 +775,22 @@
       "duration_ms": 233360,
       "name": "\u6708\u3068\u79c1\u306e\u304b\u304f\u308c\u3093\u307c",
       "url": "https://open.spotify.com/track/4YA60SxvRK6Pmjw0CelABs"
+    },
+    {
+      "added_at": "2025-10-21 15:47:45",
+      "album": {
+        "name": "\u83eb",
+        "url": "https://open.spotify.com/album/216vfpaQDaZ4CbHMs7WRRG"
+      },
+      "artists": [
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "duration_ms": 176965,
+      "name": "\u83eb",
+      "url": "https://open.spotify.com/track/4vVIlJbofRcrzIfNkgdFDK"
     },
     {
       "added_at": "2025-10-21 15:47:45",
@@ -843,6 +827,22 @@
     {
       "added_at": "2025-10-21 15:47:45",
       "album": {
+        "name": "\u967d\u708e",
+        "url": "https://open.spotify.com/album/3mflbnscwixIKrLVNAbcCd"
+      },
+      "artists": [
+        {
+          "name": "Cidergirl",
+          "url": "https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn"
+        }
+      ],
+      "duration_ms": 230100,
+      "name": "\u967d\u708e",
+      "url": "https://open.spotify.com/track/6InQXgBzElIEwneMkGHoFC"
+    },
+    {
+      "added_at": "2025-10-21 15:47:45",
+      "album": {
         "name": "Yankeee",
         "url": "https://open.spotify.com/album/7LvXABP7sYlKHSnYpRY1Zc"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 213433,
       "name": "\u308b\u3066\u3093",
       "url": "https://open.spotify.com/track/6nnlidVjXQpOVS8cfnr82o"
-    },
-    {
-      "added_at": "2025-10-21 15:47:45",
-      "album": {
-        "name": "\u967d\u708e",
-        "url": "https://open.spotify.com/album/3mflbnscwixIKrLVNAbcCd"
-      },
-      "artists": [
-        {
-          "name": "Cidergirl",
-          "url": "https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn"
-        }
-      ],
-      "duration_ms": 230100,
-      "name": "\u967d\u708e",
-      "url": "https://open.spotify.com/track/6InQXgBzElIEwneMkGHoFC"
     },
     {
       "added_at": "2025-10-21 15:47:45",
@@ -923,22 +907,6 @@
     {
       "added_at": "2025-10-21 15:47:45",
       "album": {
-        "name": "\u307e\u307c\u308d\u3057",
-        "url": "https://open.spotify.com/album/4kRIWTZBs1zQmFvzC1bv7H"
-      },
-      "artists": [
-        {
-          "name": "the shes gone",
-          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
-        }
-      ],
-      "duration_ms": 242100,
-      "name": "\u307e\u307c\u308d\u3057",
-      "url": "https://open.spotify.com/track/1cE22ArAMXBNnWYHaWK0cT"
-    },
-    {
-      "added_at": "2025-10-21 15:47:45",
-      "album": {
         "name": "Teenage Blue",
         "url": "https://open.spotify.com/album/7Cl8PRnOGdqyW5ljiI929U"
       },
@@ -951,6 +919,22 @@
       "duration_ms": 222973,
       "name": "Teenage Blue",
       "url": "https://open.spotify.com/track/2sHAaIjQgkE53BTaWKsg5F"
+    },
+    {
+      "added_at": "2025-10-21 15:47:45",
+      "album": {
+        "name": "\u307e\u307c\u308d\u3057",
+        "url": "https://open.spotify.com/album/4kRIWTZBs1zQmFvzC1bv7H"
+      },
+      "artists": [
+        {
+          "name": "the shes gone",
+          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
+        }
+      ],
+      "duration_ms": 242100,
+      "name": "\u307e\u307c\u308d\u3057",
+      "url": "https://open.spotify.com/track/1cE22ArAMXBNnWYHaWK0cT"
     },
     {
       "added_at": "2025-10-21 15:47:45",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2025-10-21 15:47:45",
       "album": {
+        "name": "Let's eat food",
+        "url": "https://open.spotify.com/album/0s0ed6peiGYTHvg5Pjx6E9"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        }
+      ],
+      "duration_ms": 187912,
+      "name": "Let's eat food",
+      "url": "https://open.spotify.com/track/5gjQz3TrfWTD0M1jYRHhli"
+    },
+    {
+      "added_at": "2025-10-21 15:47:45",
+      "album": {
         "name": "\u706f\u706b\u306e\u307b\u3068\u308a",
         "url": "https://open.spotify.com/album/5QZTSfYxStyS67dYkMUp3c"
       },
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2025-10-21 15:47:45",
       "album": {
-        "name": "Let's eat food",
-        "url": "https://open.spotify.com/album/0s0ed6peiGYTHvg5Pjx6E9"
+        "name": "\u7d76\u547d",
+        "url": "https://open.spotify.com/album/7JPyPAGHYOuc1NL5VhxYbz"
       },
       "artists": [
         {
-          "name": "Mega Shinnosuke",
-          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+          "name": "\u795e\u304c\u6b8b\u3057\u305f\u5922\u3092\u55b0\u3046\u3002",
+          "url": "https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o"
         }
       ],
-      "duration_ms": 187912,
-      "name": "Let's eat food",
-      "url": "https://open.spotify.com/track/5gjQz3TrfWTD0M1jYRHhli"
+      "duration_ms": 276705,
+      "name": "\u7d76\u547d",
+      "url": "https://open.spotify.com/track/2vVl8HMaKTH4iv3HD70JjP"
     },
     {
       "added_at": "2025-10-21 15:47:45",
@@ -1399,22 +1399,6 @@
       "duration_ms": 225213,
       "name": "\u6b7b\u306c\u307b\u3069\u3042\u3044\u305f\u3044\u304b\u3089\u3001\u3060\u304b\u3089\u3042\u3044\u306b\u884c\u304f\u3088",
       "url": "https://open.spotify.com/track/2Iz75qsbWrWMsV381lqmhy"
-    },
-    {
-      "added_at": "2025-10-21 15:47:45",
-      "album": {
-        "name": "\u7d76\u547d",
-        "url": "https://open.spotify.com/album/7JPyPAGHYOuc1NL5VhxYbz"
-      },
-      "artists": [
-        {
-          "name": "\u795e\u304c\u6b8b\u3057\u305f\u5922\u3092\u55b0\u3046\u3002",
-          "url": "https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o"
-        }
-      ],
-      "duration_ms": 276705,
-      "name": "\u7d76\u547d",
-      "url": "https://open.spotify.com/track/2vVl8HMaKTH4iv3HD70JjP"
     },
     {
       "added_at": "2025-10-21 15:47:45",
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2025-10-21 15:47:45",
       "album": {
+        "name": "\u7fa4\u9752\u9003\u907f\u884c",
+        "url": "https://open.spotify.com/album/3KT6LjzhUU2Fu6FR21MjbK"
+      },
+      "artists": [
+        {
+          "name": "Oisicle Melonpan",
+          "url": "https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "\u7fa4\u9752\u9003\u907f\u884c",
+      "url": "https://open.spotify.com/track/06LFvBt7HHGlJUTSmaEFZM"
+    },
+    {
+      "added_at": "2025-10-21 15:47:45",
+      "album": {
         "name": "\u304a\u3069\u308b\u3089\u3044\u304a\u3093",
         "url": "https://open.spotify.com/album/156xUbteR44M344qWAgPdn"
       },
@@ -1483,22 +1483,6 @@
       "duration_ms": 244320,
       "name": "\u304a\u3069\u308b\u3089\u3044\u304a\u3093",
       "url": "https://open.spotify.com/track/577u27gsOMyPGhLzUfM408"
-    },
-    {
-      "added_at": "2025-10-21 15:47:45",
-      "album": {
-        "name": "\u7fa4\u9752\u9003\u907f\u884c",
-        "url": "https://open.spotify.com/album/3KT6LjzhUU2Fu6FR21MjbK"
-      },
-      "artists": [
-        {
-          "name": "Oisicle Melonpan",
-          "url": "https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "\u7fa4\u9752\u9003\u907f\u884c",
-      "url": "https://open.spotify.com/track/06LFvBt7HHGlJUTSmaEFZM"
     },
     {
       "added_at": "2025-10-21 15:47:45",
@@ -1535,22 +1519,6 @@
     {
       "added_at": "2025-10-21 15:47:45",
       "album": {
-        "name": "Hey!Calling",
-        "url": "https://open.spotify.com/album/1GFijGd5eWRdJsZqH6gnmC"
-      },
-      "artists": [
-        {
-          "name": "ChoQMay",
-          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Hey!Calling",
-      "url": "https://open.spotify.com/track/03NqG8N4NmnmATTayqmqFg"
-    },
-    {
-      "added_at": "2025-10-21 15:47:45",
-      "album": {
         "name": "the outside wind",
         "url": "https://open.spotify.com/album/39xIFAMfalUllex8wpOkqN"
       },
@@ -1567,18 +1535,18 @@
     {
       "added_at": "2025-10-21 15:47:45",
       "album": {
-        "name": "\u30eb\u30c3\u30af\u30a2\u30c3\u30c8\u30df\u30fc",
-        "url": "https://open.spotify.com/album/1tzE86plPYE5MSi87kLWLD"
+        "name": "Hey!Calling",
+        "url": "https://open.spotify.com/album/1GFijGd5eWRdJsZqH6gnmC"
       },
       "artists": [
         {
-          "name": "\u30ac\u30e9\u30af\u30bf",
-          "url": "https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA"
+          "name": "ChoQMay",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
         }
       ],
-      "duration_ms": 144306,
-      "name": "\u30eb\u30c3\u30af\u30a2\u30c3\u30c8\u30df\u30fc",
-      "url": "https://open.spotify.com/track/2T41XBXEgCEPJGsiVSUqtP"
+      "duration_ms": 237333,
+      "name": "Hey!Calling",
+      "url": "https://open.spotify.com/track/03NqG8N4NmnmATTayqmqFg"
     },
     {
       "added_at": "2025-10-21 15:47:45",
@@ -1595,6 +1563,22 @@
       "duration_ms": 221470,
       "name": "\u30e9\u30d7\u30bd\u30c7\u30a3",
       "url": "https://open.spotify.com/track/1UELk4WT2YPMrjFGttcBHR"
+    },
+    {
+      "added_at": "2025-10-21 15:47:45",
+      "album": {
+        "name": "\u30eb\u30c3\u30af\u30a2\u30c3\u30c8\u30df\u30fc",
+        "url": "https://open.spotify.com/album/1tzE86plPYE5MSi87kLWLD"
+      },
+      "artists": [
+        {
+          "name": "\u30ac\u30e9\u30af\u30bf",
+          "url": "https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA"
+        }
+      ],
+      "duration_ms": 144306,
+      "name": "\u30eb\u30c3\u30af\u30a2\u30c3\u30c8\u30df\u30fc",
+      "url": "https://open.spotify.com/track/2T41XBXEgCEPJGsiVSUqtP"
     },
     {
       "added_at": "2025-10-21 15:47:45",
@@ -1635,6 +1619,22 @@
       "duration_ms": 132154,
       "name": "\u30c7\u30c3\u30c9\u30a8\u30f3\u30c9",
       "url": "https://open.spotify.com/track/3LwGHyXnRDA76mFfR79ZF3"
+    },
+    {
+      "added_at": "2025-10-21 15:47:45",
+      "album": {
+        "name": "\u30e9\u30b9\u30c8\u30d1\u30ec\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/68xzcGcJmy4Hs4pGxQQxyx"
+      },
+      "artists": [
+        {
+          "name": "Dannie May",
+          "url": "https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "\u30e9\u30b9\u30c8\u30d1\u30ec\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/2v1xHWFZETW3dfgI3VnYvD"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

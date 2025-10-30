@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,955 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,974 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 49 | [Desatinos](https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:59 |
 | 50 | [Amar O Morir](https://open.spotify.com/track/0WGw8hRQjJFwz0fNyrj91A) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 3:56 |
 
-Snapshot ID: `aP62AAAAAAAFD28Nb9erqzwKW1H9xgqi`
+Snapshot ID: `aQAHgAAAAADGCrnyGpBGICriiV5stxhc`

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Lottie
 
-4,317 songs - 9 day 21 hr 52 min
+4,319 songs - 9 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2928,6 +2928,7 @@
 | [pisces rising](https://open.spotify.com/track/5YtNc9xhtF8S9MbZnYi6sv) | [Donatachi](https://open.spotify.com/artist/1Ejb0qXc2xRtK7hphBeOHY), [Chymes](https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4) | [donatachi.com](https://open.spotify.com/album/0zPUTpFzmfRY0ZzPeViQUY) | 3:20 | 2021-12-28 | 2022-01-13 |
 | [Piss Take](https://open.spotify.com/track/0TjGzUpcSdbbDF0siZgmxE) | [Ike\(from\)Pluto](https://open.spotify.com/artist/7dkycYt1q8L3sp4IFWLRUS) | [Piss Take](https://open.spotify.com/album/77ZtwrZ7v54ZEm1yu7BUNr) | 1:58 | 2023-04-12 | 2023-04-27 |
 | [PITIFUL BITCH](https://open.spotify.com/track/2emUAjccTVPhA5PDrsrPwP) | [LAU](https://open.spotify.com/artist/1MSiHoB30UwWTlenagC5gy) | [PITIFUL BITCH](https://open.spotify.com/album/1ix1NZwWZyJ4tK64lcfFmI) | 2:11 | 2022-09-21 | 2022-10-27 |
+| [pixeldust 18+](https://open.spotify.com/track/3g26F5dbTkGlszlSkXqvaC) | [Eli Wan](https://open.spotify.com/artist/0qhHbyKPbVyS51pjxelspT) | [pixeldust 18+](https://open.spotify.com/album/7tZZv29EgyItYDGeac8lNL) | 3:33 | 2025-10-28 |  |
 | [PJ Princess](https://open.spotify.com/track/57WXvDR29SEJls7IKMaWWr) | [Baby Zionov](https://open.spotify.com/artist/4RLTd4Vi9dfNeEKMnmylaO) | [PJ Princess](https://open.spotify.com/album/4o4QeGHMTx4SJcuCXEyzy2) | 4:00 | 2022-04-06 | 2022-04-21 |
 | [Place To Speak](https://open.spotify.com/track/1MOgTSslmMoqS6WxejCXcg) | [Hey! Astro](https://open.spotify.com/artist/1kqvSaPRrMEjWr4wEi9pfl) | [Place To Speak](https://open.spotify.com/album/7fHzXzG8xBcyISqEY2DpLP) | 2:21 | 2022-06-15 | 2022-07-07 |
 | [Place Where I Go](https://open.spotify.com/track/1ivMAc4gwF8d9mEXFHYcbz) | [Keanu Nelson](https://open.spotify.com/artist/0TUcASMdcppH9mH0PzCpKG) | [Place Where I Go](https://open.spotify.com/album/5AW3X0hzbgB10tZVgk6YMk) | 3:36 | 2025-03-26 | 2025-05-07 |
@@ -3395,6 +3396,7 @@
 | [Small Talk](https://open.spotify.com/track/3Qq1xMkJbqfdKdRlMrjIIc) | [Clay Western](https://open.spotify.com/artist/2P6v6oHKqOcoK4tMlfQgHr) | [Small Talk](https://open.spotify.com/album/46m5geKYxRRokCGGkOvWeq) | 4:24 | 2024-09-24 | 2024-11-06 |
 | [Small Talk](https://open.spotify.com/track/0cWoDB45Hfbr3YdlBpdpFd) | [Xela](https://open.spotify.com/artist/47I0yLO8ngQPM0XDcdX3OB) | [In The Grey](https://open.spotify.com/album/00uIFKhWf9CzKwIEIYBtNr) | 3:13 | 2023-03-08 | 2023-04-05 |
 | [Small Town](https://open.spotify.com/track/5kPFrAGxafUtLrSTFCmX29) | [Angela Rose](https://open.spotify.com/artist/6BlgAXtCandje5taAzGd8D) | [Small Town](https://open.spotify.com/album/1G6TS0CWF8vJ3U1WwOgYzr) | 3:13 | 2022-03-23 | 2022-04-07 |
+| [Small Town Rockstar](https://open.spotify.com/track/3s9Lpdkd3LTWhJaOCSZuC4) | [Hannah Brewer](https://open.spotify.com/artist/0MYPoaaBk0uz7ZrS2VHFWk) | [Small Town Rockstar](https://open.spotify.com/album/30P9jA994KCtu5iaWqq6dA) | 3:17 | 2025-10-28 |  |
 | [Smashmouth](https://open.spotify.com/track/4cHSvShogdjsAdT50ysxds) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Smashmouth](https://open.spotify.com/album/5r27LuZamggikuwdMeKpuQ) | 3:12 | 2021-12-28 | 2022-01-13 |
 | [SMILE](https://open.spotify.com/track/5HE2WW4xWWMMFLRNvlPqYI) | [bKIDD](https://open.spotify.com/artist/0VMrLeJ3ASWqhpfbJnUiD1), [Dei Hamo](https://open.spotify.com/artist/1Xx40ueLyOU9IaT3qwHzUL) | [SMILE](https://open.spotify.com/album/6RQ0O05c5k7pi9zINlZyKP) | 3:06 | 2024-04-16 | 2024-06-26 |
 | [smile ヾ\( ˃ᴗ˂ \)◞ • \*✰](https://open.spotify.com/track/07iXbIYJrEohDdhBfIsMgo) | [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [smile ヾ\( ˃ᴗ˂ \)◞ • \*✰](https://open.spotify.com/album/6v16QlvP6VKAZNTsWqXsK9) | 2:43 | 2023-11-22 | 2023-11-30 |

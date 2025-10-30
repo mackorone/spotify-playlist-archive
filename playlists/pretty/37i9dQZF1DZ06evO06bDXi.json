@@ -1,12 +1,12 @@
 {
   "description": "This is Itzhak Perlman. The essential tracks, all in one playlist.",
-  "num_followers": 14436,
+  "num_followers": 14438,
   "original_name": "This Is Itzhak Perlman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADPjRl4aFLlq83fd/yStZaY",
+  "snapshot_id": "aQAHgAAAAABPfqiw/G+vBENDJYSHq4n9",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kreisler: Collection",
-        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
+        "name": "Schindler's List",
+        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
       },
       "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Liebesleid",
-      "url": "https://open.spotify.com/track/02Tn72DTvZNFJmstTQmJ2D"
+      "duration_ms": 352240,
+      "name": "I Could Have Done More",
+      "url": "https://open.spotify.com/track/52PSKy15gHNoaidUT4i5vt"
     },
     {
       "added_at": null,
@@ -427,26 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Schindler's List",
-        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
+        "name": "Kreisler: Collection",
+        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
       },
       "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
         }
       ],
-      "duration_ms": 352240,
-      "name": "I Could Have Done More",
-      "url": "https://open.spotify.com/track/52PSKy15gHNoaidUT4i5vt"
+      "duration_ms": 194000,
+      "name": "Liebesleid",
+      "url": "https://open.spotify.com/track/02Tn72DTvZNFJmstTQmJ2D"
     },
     {
       "added_at": null,
@@ -467,50 +467,6 @@
       "duration_ms": 140626,
       "name": "3 Violin Duets (1996 Digital Remaster): I. Praeludium",
       "url": "https://open.spotify.com/track/3gzBQYifQ6i1NYnE7oaHZp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kreisler: Collection",
-        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
-      },
-      "artists": [
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
-        }
-      ],
-      "duration_ms": 872840,
-      "name": "The Devil's Trill",
-      "url": "https://open.spotify.com/track/6b6EmPElw09fWyaY7yzo5N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vivaldi: The Four Seasons",
-        "url": "https://open.spotify.com/album/4eEJooUkzenp7lZTtfbIP7"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Israel Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\": II. Largo e pianissimo sempre",
-      "url": "https://open.spotify.com/track/7okHiZwiZD9nILstUvueqA"
     },
     {
       "added_at": null,
@@ -543,22 +499,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paganini: 24 Caprices",
-        "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
+        "name": "Vivaldi: The Four Seasons",
+        "url": "https://open.spotify.com/album/4eEJooUkzenp7lZTtfbIP7"
       },
       "artists": [
         {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Israel Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
         }
       ],
-      "duration_ms": 147960,
-      "name": "Paganini: 24 Caprices, Op. 1: No. 5 in A Minor",
-      "url": "https://open.spotify.com/track/5ssmGCSyagkxJFjuFezUsY"
+      "duration_ms": 192533,
+      "name": "Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\": II. Largo e pianissimo sempre",
+      "url": "https://open.spotify.com/track/7okHiZwiZD9nILstUvueqA"
     },
     {
       "added_at": null,
@@ -579,6 +539,26 @@
       "duration_ms": 318973,
       "name": "Prelude and Allegro in the style of Pugnani",
       "url": "https://open.spotify.com/track/6xRMRhHfCurZcsEudMb7RR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 5 in A Minor",
+      "url": "https://open.spotify.com/track/5ssmGCSyagkxJFjuFezUsY"
     },
     {
       "added_at": null,
@@ -631,6 +611,26 @@
       "duration_ms": 946800,
       "name": "Bach, JS: Partita for Solo Violin No. 2 in D Minor, BWV 1004: V. Chaconne",
       "url": "https://open.spotify.com/track/5Z1kjTgKJVWvEizpZc3G1S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kreisler: Collection",
+        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+        }
+      ],
+      "duration_ms": 872840,
+      "name": "The Devil's Trill",
+      "url": "https://open.spotify.com/track/6b6EmPElw09fWyaY7yzo5N"
     },
     {
       "added_at": null,
@@ -763,34 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivaldi: Le quattro stagioni",
-        "url": "https://open.spotify.com/album/6C6a2lqcgoIHMtTpTAOT5z"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Israel Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
-        },
-        {
-          "name": "Zubin Mehta",
-          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
-        }
-      ],
-      "duration_ms": 146560,
-      "name": "The Four Seasons, Winter, Violin Concerto in F Minor, RV 297, Op. 8 No. 4: II. Largo",
-      "url": "https://open.spotify.com/track/5ABUTY3DZLUzd07TQLyP5U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brahms: Violin Concerto, Op. 77",
         "url": "https://open.spotify.com/album/0zXYmGACZoy8QU6YpwpnDL"
       },
@@ -815,6 +787,34 @@
       "duration_ms": 500293,
       "name": "Brahms: Violin Concerto in D Major, Op. 77: III. Allegro giocoso, ma non troppo vivace",
       "url": "https://open.spotify.com/track/55NalIUC671ie5eaNJAHjt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivaldi: Le quattro stagioni",
+        "url": "https://open.spotify.com/album/6C6a2lqcgoIHMtTpTAOT5z"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Israel Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
+        },
+        {
+          "name": "Zubin Mehta",
+          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
+        }
+      ],
+      "duration_ms": 146560,
+      "name": "The Four Seasons, Winter, Violin Concerto in F Minor, RV 297, Op. 8 No. 4: II. Largo",
+      "url": "https://open.spotify.com/track/5ABUTY3DZLUzd07TQLyP5U"
     },
     {
       "added_at": null,
@@ -851,6 +851,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bach: Solo Violin Sonatas",
+        "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: IV. Presto",
+      "url": "https://open.spotify.com/track/7ftsdGd4xeqDvpTjJbCdyO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Schindler's List",
         "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
       },
@@ -875,22 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Solo Violin Sonatas",
-        "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
+        "name": "Kreisler: Collection",
+        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
         }
       ],
-      "duration_ms": 210373,
-      "name": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: IV. Presto",
-      "url": "https://open.spotify.com/track/7ftsdGd4xeqDvpTjJbCdyO"
+      "duration_ms": 184440,
+      "name": "Liebesfreud",
+      "url": "https://open.spotify.com/track/4bgGnxb4CmEuzOcj3FKH7j"
     },
     {
       "added_at": null,
@@ -919,22 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kreisler: Collection",
-        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
       },
       "artists": [
         {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
         },
         {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         }
       ],
-      "duration_ms": 184440,
-      "name": "Liebesfreud",
-      "url": "https://open.spotify.com/track/4bgGnxb4CmEuzOcj3FKH7j"
+      "duration_ms": 86106,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 16 in G Minor",
+      "url": "https://open.spotify.com/track/52biJNbmbzCVyN8o0lbImY"
     },
     {
       "added_at": null,
@@ -963,22 +983,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paganini: 24 Caprices",
-        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
+        "name": "Bach: Solo Violin Sonatas",
+        "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
       },
       "artists": [
         {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         }
       ],
-      "duration_ms": 86106,
-      "name": "Paganini: 24 Caprices, Op. 1: No. 16 in G Minor",
-      "url": "https://open.spotify.com/track/52biJNbmbzCVyN8o0lbImY"
+      "duration_ms": 267000,
+      "name": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: I. Adagio",
+      "url": "https://open.spotify.com/track/3sf6l4HQPrR3lNvaR42Sgy"
     },
     {
       "added_at": null,
@@ -1007,22 +1027,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Solo Violin Sonatas",
-        "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: I. Adagio",
-      "url": "https://open.spotify.com/track/3sf6l4HQPrR3lNvaR42Sgy"
+      "duration_ms": 144133,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 10 in G Minor",
+      "url": "https://open.spotify.com/track/6TaNlxkOgkxrJ9AP9X9Spg"
     },
     {
       "added_at": null,
@@ -1055,22 +1075,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paganini: 24 Caprices",
-        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
+        "name": "Bach: Violin Concertos & Double Concerto",
+        "url": "https://open.spotify.com/album/4r6CvvGGuDI4ecr8hBDwxR"
       },
       "artists": [
         {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
         }
       ],
-      "duration_ms": 144133,
-      "name": "Paganini: 24 Caprices, Op. 1: No. 10 in G Minor",
-      "url": "https://open.spotify.com/track/6TaNlxkOgkxrJ9AP9X9Spg"
+      "duration_ms": 240466,
+      "name": "Bach, JS: Concerto for Two Violins in D Minor, BWV 1043: I. Vivace",
+      "url": "https://open.spotify.com/track/4UPdXvBV6gJid5N1aVB4wJ"
     },
     {
       "added_at": null,
@@ -1119,38 +1151,6 @@
       "duration_ms": 286000,
       "name": "Violin Sonata in E Minor, K. 304: II. Tempo di menuetto \u2013 Dolce",
       "url": "https://open.spotify.com/track/5hMdbFndHhgOcojT7KKwNA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bach: Violin Concertos & Double Concerto",
-        "url": "https://open.spotify.com/album/4r6CvvGGuDI4ecr8hBDwxR"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Pinchas Zukerman",
-          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "duration_ms": 240466,
-      "name": "Bach, JS: Concerto for Two Violins in D Minor, BWV 1043: I. Vivace",
-      "url": "https://open.spotify.com/track/4UPdXvBV6gJid5N1aVB4wJ"
     },
     {
       "added_at": null,

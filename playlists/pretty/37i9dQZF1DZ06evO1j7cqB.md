@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,220 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,221 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 35 | [Holding On \(feat\. Eivør\)](https://open.spotify.com/track/1vtjHODXUuhsVc2BN60N9L) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 3:33 |
 | 36 | [Theme from Black Sails](https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Black Sails \(A Starz Original Series Soundtrack\)](https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU) | 3:17 |
 | 37 | [Lullaby of the Giants](https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:43 |
-| 38 | [Old Tom Bombadil \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/18jteTWXqIdaHOkfLjHWWT) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 3:10 |
+| 38 | [Golden Leaves \(feat\. Benjamin Walker\)](https://open.spotify.com/track/0Zajq1D26zg3VXxr22Lr1l) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Benjamin Walker](https://open.spotify.com/artist/7lqxJdBjjbhT7Ap9XJAYDw) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 3:18 |
 | 39 | [We Two Might Be One](https://open.spotify.com/track/5hkKbu2LAMapCRA2wAMZa4) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Blood of my Blood \(Season 1 Original Series Soundtrack\)](https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6) | 7:33 |
 | 40 | [The New Fraser's Ridge](https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 2:57 |
 | 41 | [The Echo and the River](https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Brown](https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 2:21 |
-| 42 | [Golden Leaves \(feat\. Benjamin Walker\)](https://open.spotify.com/track/0Zajq1D26zg3VXxr22Lr1l) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Benjamin Walker](https://open.spotify.com/artist/7lqxJdBjjbhT7Ap9XJAYDw) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 3:18 |
+| 42 | [Old Tom Bombadil \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/18jteTWXqIdaHOkfLjHWWT) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 3:10 |
 | 43 | [Raindrop Becoming an Ocean](https://open.spotify.com/track/4cB3O55dXAJVXZh8J9rivU) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Blood of my Blood \(Season 1 Original Series Soundtrack\)](https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6) | 3:46 |
 | 44 | [Brianna and Roger Theme](https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V) | 3:24 |
 | 45 | [Godzilla Main Title](https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Godzilla: King of the Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 49 | [Foundation Main Title](https://open.spotify.com/track/61oU2dZYvjGXhQtMXlgTau) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Foundation: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/3xRBZlhm5VSV255M3JfTFG) | 1:26 |
 | 50 | [The Black Rose](https://open.spotify.com/track/65bVC6KYo6AEzSBIuah9BE) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Brown](https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 3:26 |
 
-Snapshot ID: `aP62AAAAAACmoCo52NcpQyh0YjgaQdgT`
+Snapshot ID: `aQAHgAAAAAAvXcQC8HVy5imOBNHhiUkX`

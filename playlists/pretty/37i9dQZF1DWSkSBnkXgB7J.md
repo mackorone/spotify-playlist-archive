@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > The exciting new music on our radar in the Middle East and North Africa\.  Cover: Nour
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,720 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,723 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 38 | [Momken Aeesh](https://open.spotify.com/track/53ossgJfdQhNVoVBPKd4Qz) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Momken Aeesh](https://open.spotify.com/album/3Lcv7m0jw02fisyQPh7qmQ) | 4:47 |
 | 39 | [Barki Byesmaani](https://open.spotify.com/track/0pdY5q4BOh6GflEQrC3PJy) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Barki Byesmaani](https://open.spotify.com/album/08QoXsgdXFkqowiniOio2x) | 1:54 |
 | 40 | [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 |
-| 41 | [يا ساتر](https://open.spotify.com/track/2ohn9s2Wuv3XHS4OwOsZ4c) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [يا ساتر](https://open.spotify.com/album/1hzmp6AsJRcG7pz9eQko19) | 3:28 |
+| 41 | [يا ساتر](https://open.spotify.com/track/2ohn9s2Wuv3XHS4OwOsZ4c) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS), [Osama Tariq](https://open.spotify.com/artist/4ctSZFA2205zPcRkbKJOdS) | [يا ساتر](https://open.spotify.com/album/1hzmp6AsJRcG7pz9eQko19) | 3:28 |
 | 42 | [DeAd!](https://open.spotify.com/track/2KZlYhnbbKAKEcl5ihHnzH) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [SAV!OR](https://open.spotify.com/album/15QrrCTSgLqBsj692zEViZ) | 2:28 |
 | 43 | [So7ba](https://open.spotify.com/track/1DtIhU3SdE5pRqP8fpEC7T) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [Mâle\-Chanceux](https://open.spotify.com/album/2W3tkAvXR3UVVYrzkHh9t9) | 2:53 |
 | 44 | [Ghanili](https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghanili](https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI) | 2:57 |

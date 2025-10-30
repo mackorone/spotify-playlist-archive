@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 511695,
+  "num_followers": 511736,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAD31zAs/ato1E1CV2qP1Zm0",
+  "snapshot_id": "aQAHgAAAAAC7IFzN3Z+0Vvk7iaUaQFHR",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para M\u00ed",
+        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/7DpuFVTvhJyTTRBm7DzKRX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Eterno Amor Secreto",
         "url": "https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 232321,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para M\u00ed",
-        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Se\u00f1ora",
-      "url": "https://open.spotify.com/track/7DpuFVTvhJyTTRBm7DzKRX"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Mariposas",
-        "url": "https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0"
+        "name": "Nada Es Color De Rosa",
+        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 226933,
-      "name": "Ahora Entendi",
-      "url": "https://open.spotify.com/track/3ExYgqotmwh9sG0hs3Zjqw"
+      "duration_ms": 255493,
+      "name": "Me Olvidar\u00e1s",
+      "url": "https://open.spotify.com/track/3702UGFpHLtMh25rZoSbVx"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Es Color De Rosa",
-        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
+        "name": "Entre Mariposas",
+        "url": "https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 255493,
-      "name": "Me Olvidar\u00e1s",
-      "url": "https://open.spotify.com/track/3702UGFpHLtMh25rZoSbVx"
+      "duration_ms": 226933,
+      "name": "Ahora Entendi",
+      "url": "https://open.spotify.com/track/3ExYgqotmwh9sG0hs3Zjqw"
     },
     {
       "added_at": null,

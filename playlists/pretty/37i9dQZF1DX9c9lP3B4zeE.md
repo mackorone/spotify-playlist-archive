@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9lP3B4zeE.md) - [plain]
 
 > The soundtrack to Spotify House at SXSW Sydney 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,538 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,534 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

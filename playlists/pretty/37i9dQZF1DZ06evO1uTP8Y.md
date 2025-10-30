@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,498 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,510 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 13 | [London Summers](https://open.spotify.com/track/43JEzpUepmETKeTwqLWauB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:37 |
 | 14 | [Fine By Myself](https://open.spotify.com/track/6wPAtoGq4fvAHALzbgEjFP) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:43 |
 | 15 | [SEARCHING](https://open.spotify.com/track/3E0t3JhtlA1YcYyQ1EdS98) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 2:30 |
-| 16 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 |
+| 16 | [You're Stuck](https://open.spotify.com/track/5lqrfNrGrMfNlPxcCrlmyp) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 4:04 |
 | 17 | [Patience](https://open.spotify.com/track/67Cp7D1bHpGn3nsRaefokn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:20 |
 | 18 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
-| 19 | [You're Stuck](https://open.spotify.com/track/5lqrfNrGrMfNlPxcCrlmyp) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 4:04 |
+| 19 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 |
 | 20 | [Repercussions](https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Repercussions](https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu) | 3:00 |
 | 21 | [Obi's Interlude](https://open.spotify.com/track/0ezr3Dznf70W0Ug1NJ4cyf) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:56 |
 | 22 | [All That It Takes](https://open.spotify.com/track/5ZtqkkX8XRfgmgxnxedI0C) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:30 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 42 | [Kainji Dam](https://open.spotify.com/track/2np8ayJn9afyhbQMOA0lz3) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Kainji Dam](https://open.spotify.com/album/5gpeAlOIVUoIIuK6BErUUF) | 2:54 |
 | 43 | [BE FREE](https://open.spotify.com/track/4exp12So2KjvsPwmN2L7r8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [PDF/BE FREE](https://open.spotify.com/album/3JXY3hqrj0r0dOTJjem5p1) | 3:23 |
 | 44 | [Benzimma](https://open.spotify.com/track/1vGkLLtRHyRYYPkkJ6xAQx) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 3:06 |
-| 45 | [Karma](https://open.spotify.com/track/7v7YYdxFBodag2pewkvBkX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Karma](https://open.spotify.com/album/1LKp2QTO5E0oEAj6Y5FkcG) | 2:31 |
-| 46 | [On & On](https://open.spotify.com/track/4cHS3iwBUgwxvqxmXJLF2M) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [On & On](https://open.spotify.com/album/1IMJ0uxEzNCCRAA1F25DZu) | 3:17 |
+| 45 | [On & On](https://open.spotify.com/track/4cHS3iwBUgwxvqxmXJLF2M) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [On & On](https://open.spotify.com/album/1IMJ0uxEzNCCRAA1F25DZu) | 3:17 |
+| 46 | [Karma](https://open.spotify.com/track/7v7YYdxFBodag2pewkvBkX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Karma](https://open.spotify.com/album/1LKp2QTO5E0oEAj6Y5FkcG) | 2:31 |
 | 47 | [Passenger](https://open.spotify.com/track/3E2fuhgEvnbE5HmnYCFOs0) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Passenger](https://open.spotify.com/album/3erGHG8l977nwtLkLjhlMC) | 3:16 |
 | 48 | [What You Need](https://open.spotify.com/track/5cQmw2ggmqGN7IERoGJdZe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 4:10 |
 | 49 | [Twenny\-Nine After Two](https://open.spotify.com/track/5ce2bzeaOxryegSgVkzM7u) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Maybe I’m Best Alone](https://open.spotify.com/album/6gjIEUtHdzYvBGYAIFuvDt) | 2:45 |
 | 50 | [Na You](https://open.spotify.com/track/2X61NkgiKmrZz1c2WHSieA) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Marzi](https://open.spotify.com/artist/3n9c9SsiabKzoNqyjoWYdY) | [Na You](https://open.spotify.com/album/4wV1PM9TN583HAak6iCIQX) | 3:30 |
 
-Snapshot ID: `aP62AAAAAADvvVHxchQtVW0SJMRnNn3q`
+Snapshot ID: `aQAHgAAAAABia/tSEvfFba0B0JPWjQQQ`

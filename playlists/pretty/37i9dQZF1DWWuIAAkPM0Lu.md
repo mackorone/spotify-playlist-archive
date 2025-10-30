@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Lord Siva, Ella Augusta & Kris, Gobs og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,058 likes - 106 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,062 likes - 106 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

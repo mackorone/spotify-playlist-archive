@@ -7484,8 +7484,20 @@
       },
       "artists": [
         {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        },
+        {
           "name": "HAUSER",
           "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
       "date_added": "2024-02-23",
@@ -12339,7 +12351,7 @@
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 372666,
+      "duration_ms": 372973,
       "name": "Piano Trio No. 1 in D Minor, Op. 49: II. Andante con moto tranquillo",
       "url": "https://open.spotify.com/track/4C6NNiKJSjpBKw9DJ8tY3B"
     },
@@ -13743,28 +13755,6 @@
     },
     {
       "album": {
-        "name": "solari",
-        "url": "https://open.spotify.com/album/5pweojtaklLhDo7qdNVEBr"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        },
-        {
-          "name": "Hayato Sumino",
-          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
-        }
-      ],
-      "date_added": "2024-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165693,
-      "name": "Sakamoto: solari",
-      "url": "https://open.spotify.com/track/1yp9xapvzXJ6b7jin86HjO"
-    },
-    {
-      "album": {
         "name": "saltvatten",
         "url": "https://open.spotify.com/album/5VD9rqpIxYnC45MIctC1Gv"
       },
@@ -14123,7 +14113,7 @@
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 281688,
+      "duration_ms": 281689,
       "name": "Sibyl",
       "url": "https://open.spotify.com/track/5e7ZqygmgjXopvIjJmWOES"
     },
@@ -14330,6 +14320,28 @@
       "duration_ms": 171349,
       "name": "Solace Waltz",
       "url": "https://open.spotify.com/track/6ROdmcUcemAkfrf5gQIFe9"
+    },
+    {
+      "album": {
+        "name": "solari",
+        "url": "https://open.spotify.com/album/5pweojtaklLhDo7qdNVEBr"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165693,
+      "name": "solari",
+      "url": "https://open.spotify.com/track/1yp9xapvzXJ6b7jin86HjO"
     },
     {
       "album": {

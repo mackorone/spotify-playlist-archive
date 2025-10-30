@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 
 > This is beabadoobee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,686 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,703 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 | 47 | [Charlie Brown](https://open.spotify.com/track/1NBQUtKSQdu7Nlw2isLxAV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 2:32 |
 | 48 | [Angry Song](https://open.spotify.com/track/3b8FrA74Tm4y22Zzi01Yk4) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 1:08 |
 | 49 | [Silver Into Rain](https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:21 |
-| 50 | [Dye It Red](https://open.spotify.com/track/02EKM4d0J6AftgttumTzzB) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:09 |
+| 50 | [Sun More Often](https://open.spotify.com/track/1qkKf2v0cE3BVePzQQEQq3) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Space Cadet](https://open.spotify.com/album/1R5kPLo5rJAgp161g5hOFQ) | 4:01 |
 
-Snapshot ID: `aP62AAAAAAB3rIHyVV5wH8t/BGJ9CAPA`
+Snapshot ID: `aQAHgAAAAAAk8iDkcMwswnQjLrjfwHr2`

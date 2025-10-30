@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,125 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,143 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 10 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 | 11 | [Cerveja De Garrafa \(Fumaça Que Eu Faço\) \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Atitude 67 \(Ao Vivo\)](https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n) | 3:30 |
 | 12 | [Meu Mundo](https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Hariel](https://open.spotify.com/artist/09bMYbg60r42iQsG8afMnA), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [18K](https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo) | 4:44 |
-| 13 | [Cobertor de Orelha \- Ao Vivo](https://open.spotify.com/track/1XCKlzIqaehohdUTihetGN) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Misturadin \(Ao Vivo\)](https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4) | 2:36 |
-| 14 | [Evoluiu](https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Evoluiu](https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W) | 2:59 |
+| 13 | [Evoluiu](https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Evoluiu](https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W) | 2:59 |
+| 14 | [Cobertor de Orelha \- Ao Vivo](https://open.spotify.com/track/1XCKlzIqaehohdUTihetGN) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Misturadin \(Ao Vivo\)](https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4) | 2:36 |
 | 15 | [Vai malandra \(feat\. Tropkillaz & DJ Yuri Martins\)](https://open.spotify.com/track/6u0EAxf1OJTLS7CvInuNd7) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9) | [Vai malandra \(feat\. Tropkillaz & DJ Yuri Martins\)](https://open.spotify.com/album/64qlhmKkqbgdezGE9vP5YK) | 3:21 |
 | 16 | [Propaganda \- Ao Vivo](https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:21 |
 | 17 | [Por Supuesto](https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:06 |

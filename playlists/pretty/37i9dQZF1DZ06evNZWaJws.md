@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 
 > This is Los Tucanes De Tijuana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,881 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,928 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 | 15 | [Las Heladas](https://open.spotify.com/track/50sTMaXwK2k8ZTgnLNuHhE) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 2:44 |
 | 16 | [Cien Por Uno](https://open.spotify.com/track/64VeKDD6z3P2UnDl8nphc4) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos De Primera Plana](https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz) | 3:45 |
 | 17 | [Soy Todo Tuyo](https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Soy Todo Tuyo](https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx) | 3:07 |
-| 18 | [Se Fue Mi Amor](https://open.spotify.com/track/12DD2WZnlpq72BlsNdv4LK) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Romance Norteño](https://open.spotify.com/album/6OolFCMNSTNv1faRoAdEfG) | 3:28 |
-| 19 | [El Diablo \(Tema De La Película "El Infierno"\)](https://open.spotify.com/track/5yFBa03KP98kIbOQkD2UeT) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Árbol](https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT) | 3:18 |
-| 20 | [Temporada En La Sierra](https://open.spotify.com/track/5q7Fuxm9jsbkui4OfsBvrG) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Clave Nueva](https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ) | 2:49 |
+| 18 | [El Diablo \(Tema De La Película "El Infierno"\)](https://open.spotify.com/track/5yFBa03KP98kIbOQkD2UeT) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Árbol](https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT) | 3:18 |
+| 19 | [Se Fue Mi Amor](https://open.spotify.com/track/12DD2WZnlpq72BlsNdv4LK) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Romance Norteño](https://open.spotify.com/album/6OolFCMNSTNv1faRoAdEfG) | 3:28 |
+| 20 | [Clave Nueva](https://open.spotify.com/track/0puyjmma5eQMZJ8hi9DyTt) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Clave Nueva](https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ) | 2:46 |
 | 21 | [Tus Verdades](https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:35 |
 | 22 | [El Papa de Los Pollitos](https://open.spotify.com/track/3KAcYTn1jBKdqnep5HjI7e) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Papá De Los Pollitos](https://open.spotify.com/album/4ZnliQGsaaGr7O2SLtDuHG) | 3:19 |
 | 23 | [Las Heladas \(En Vivo\)](https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Arriba La Tía, Desde Las Vegas \(En Vivo\)](https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO) | 2:46 |
-| 24 | [Clave Nueva](https://open.spotify.com/track/0puyjmma5eQMZJ8hi9DyTt) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Clave Nueva](https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ) | 2:46 |
+| 24 | [Temporada En La Sierra](https://open.spotify.com/track/5q7Fuxm9jsbkui4OfsBvrG) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Clave Nueva](https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ) | 2:49 |
 | 25 | [Mundo De Amor](https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:49 |
 | 26 | [La Piñata](https://open.spotify.com/track/0g1Qhh4ijd51TcpV53O8dU) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Plata ..\. Tucanazos Censurados](https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf) | 3:07 |
 | 27 | [Gripa Colombiana](https://open.spotify.com/track/33Kxt0fCaltxIuIOzM7hfs) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos De Primera Plana](https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 | 49 | [Yo Las Pongo](https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Yo Las Pongo](https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF) | 3:11 |
 | 50 | [El MZ](https://open.spotify.com/track/3PBqV2WG8gGZbZJP3EbU8i) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos A Quema Ropa](https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK) | 3:17 |
 
-Snapshot ID: `aP62AAAAAAAR2dYYA5OjkCzlgS4TyI2v`
+Snapshot ID: `aQAHgAAAAACKhlXGPpKiz+ga0cmv2OV9`

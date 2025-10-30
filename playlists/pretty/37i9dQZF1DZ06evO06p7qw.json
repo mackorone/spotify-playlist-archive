@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 186705,
+  "num_followers": 186771,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAAiwAvkB2+McNbXiqy6RZMn",
+  "snapshot_id": "aQAHgAAAAADatZ7hbrx/SlrsDdmnjA2p",
   "tracks": [
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PORTATE BIEN",
-        "url": "https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt"
-      },
-      "artists": [
-        {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
-        },
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 207882,
-      "name": "BOLERITO",
-      "url": "https://open.spotify.com/track/3HiHhnHqLNB5mlw7lbTrMO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cielo (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/7FZJlzMohMoU65vac6hydK"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 183422,
       "name": "Cielo (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/5qH4I7qIkrhxir8UfLG0IY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PORTATE BIEN",
+        "url": "https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt"
+      },
+      "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 207882,
+      "name": "BOLERITO",
+      "url": "https://open.spotify.com/track/3HiHhnHqLNB5mlw7lbTrMO"
     },
     {
       "added_at": null,

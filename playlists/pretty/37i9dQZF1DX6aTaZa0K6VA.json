@@ -1,6 +1,6 @@
 {
   "description": "en mi showgirl era \ud83e\udde1 Foto: Taylor Swift",
-  "num_followers": 6663802,
+  "num_followers": 6663766,
   "original_name": "Pop Up",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-10-24 06:00:20",
       "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
-    },
-    {
-      "added_at": "2025-10-24 06:00:20",
-      "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "added_at": "2025-10-24 06:00:20",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
       "added_at": "2025-10-24 06:00:20",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-10-24 06:00:20",
       "album": {
-        "name": "Azizam",
-        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 162029,
-      "name": "Azizam",
-      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
-    },
-    {
-      "added_at": "2025-10-24 06:00:20",
-      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 245493,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+    },
+    {
+      "added_at": "2025-10-24 06:00:20",
+      "album": {
+        "name": "Azizam",
+        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 162029,
+      "name": "Azizam",
+      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
     },
     {
       "added_at": "2025-10-24 06:00:20",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-10-24 06:00:20",
       "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+    },
+    {
+      "added_at": "2025-10-24 06:00:20",
+      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -819,23 +835,7 @@
     {
       "added_at": "2025-10-24 06:00:20",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 223398,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
-    },
-    {
-      "added_at": "2025-10-24 06:00:20",
-      "album": {
-        "name": "Make You Mine",
+        "name": "make you mine",
         "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
       },
       "artists": [
@@ -845,7 +845,7 @@
         }
       ],
       "duration_ms": 221709,
-      "name": "Make You Mine",
+      "name": "make you mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
     },
     {
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-10-24 06:00:20",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
-    },
-    {
-      "added_at": "2025-10-24 06:00:20",
-      "album": {
         "name": "This Is Acting",
         "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 217746,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa"
+    },
+    {
+      "added_at": "2025-10-24 06:00:20",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
       "added_at": "2025-10-24 06:00:20",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-10-24 06:00:20",
       "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231833,
+      "name": "Blank Space (Taylor's Version)",
+      "url": "https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS"
+    },
+    {
+      "added_at": "2025-10-24 06:00:20",
+      "album": {
         "name": "FUNNY little FEARS",
         "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
       },
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2025-10-24 06:00:20",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 231833,
-      "name": "Blank Space (Taylor's Version)",
-      "url": "https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS"
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
       "added_at": "2025-10-24 06:00:20",
@@ -1387,22 +1403,6 @@
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
-    },
-    {
-      "added_at": "2025-10-24 06:00:20",
-      "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
       "added_at": "2025-10-24 06:00:20",

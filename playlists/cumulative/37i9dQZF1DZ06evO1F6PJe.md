@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-203 songs - 17 hr 42 min
+204 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Broken Record](https://open.spotify.com/track/5SC1EaTcQ4ndI9sQkHpjVT) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 6:58 | 2025-07-20 |  |
 | [Burning Hell](https://open.spotify.com/track/48sF2RpuNbsHok1EEBucuv) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 6:49 | 2022-08-10 | 2022-10-08 |
 | [Chains And Things](https://open.spotify.com/track/1nfPffRWvEZtcKqgrrMAR2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [B.B\. King's Blues Summit 100, Vol\. II](https://open.spotify.com/album/3CF0t7Ma6fTi97UZZKaZHh) | 5:03 | 2025-10-19 |  |
+| [Chains And Things](https://open.spotify.com/track/2uK43c3VurRJmePMQKle84) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Chains And Things](https://open.spotify.com/album/1JGZNt476A3wZ0YUwtI3Js) | 5:03 | 2025-10-30 |  |
 | [Chocolate Jesus](https://open.spotify.com/track/2EGzr81qumpLxgL8pFzJxZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 2:39 | 2022-09-08 | 2022-09-16 |
 | [Cold](https://open.spotify.com/track/77UCjH91weMHQBTqeHV6Gs) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Black Country Communion 2](https://open.spotify.com/album/6F5WxD9Ld5ZgVA9JDQ4RAM) | 6:55 | 2022-09-19 | 2023-10-11 |
 | [Cold Shot](https://open.spotify.com/track/3nybK0LsyqhOtIlJxoktiQ) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Cold Shot](https://open.spotify.com/album/3kymnLXtiqdEiqwL2BR4SO) | 5:01 | 2025-10-05 |  |
@@ -58,7 +59,7 @@
 | [Drive By The Exit Sign](https://open.spotify.com/track/04wkTLItUFl3HTyFtpgDfr) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 4:19 | 2025-07-28 | 2025-09-05 |
 | [Drive By The Exit Sign](https://open.spotify.com/track/3bDiDVYhu3pa2B6vO7uNuH) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Drive By The Exit Sign](https://open.spotify.com/album/5OIdB1EF1zWV52qAbOCt3v) | 4:19 | 2025-05-25 | 2025-07-28 |
 | [Driving Towards the Daylight](https://open.spotify.com/track/4i8D5dh2n2B1mUWgQSC5ZO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Driving Towards The Daylight](https://open.spotify.com/album/5AjDtAXzFEQPbfZSAnIM5R) | 4:49 | 2022-08-05 |  |
-| [Driving Wheel](https://open.spotify.com/track/4Lvby06863caCqrmISPYp3) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 3:33 | 2023-03-26 |  |
+| [Driving Wheel](https://open.spotify.com/track/4Lvby06863caCqrmISPYp3) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 3:33 | 2023-03-26 | 2025-10-30 |
 | [Dry Stick \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/1OYL19WV8Gf1Gx42AS45Xw) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Ain't Done With The Blues](https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50) | 4:42 | 2025-08-03 |  |
 | [Dust Bowl](https://open.spotify.com/track/1i7QbG73o4liXhmbtaT7Z3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:33 | 2022-08-05 |  |
 | [Early In The Morning](https://open.spotify.com/track/7gwjlDfaewwtfJmhLbxIRg) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [In My Veins](https://open.spotify.com/album/3NDa3UNLrvpZrW1PkJ0gV3) | 5:30 | 2024-09-16 | 2024-09-20 |

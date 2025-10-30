@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women who open up the pit\. Cover: Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,993 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,061 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 50 | [Perfume Of The Timeless](https://open.spotify.com/track/4UNYF5dLLQ9acbNxenGTpc) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 8:12 |
 | 51 | [I Wish You Were Dead](https://open.spotify.com/track/0jGmBA9jESBGNHE9FK6mST) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Sleepless Empire](https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8) | 2:52 |
 | 52 | [The Path To Decay](https://open.spotify.com/track/4uaQ7adjRXgBWuSzlAH9vS) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE), [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi) | [The 13th Floor](https://open.spotify.com/album/4n9Gd9GTci9XdXsadWTlTp) | 4:17 |
-| 53 | [Solace In Silence](https://open.spotify.com/track/7iPMmMz3b54nslPvGmE4ou) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK) | [Solace In Silence](https://open.spotify.com/album/5EzOzRQPmRqxVHxxKEOHU9) | 2:56 |
-| 54 | [Karate](https://open.spotify.com/track/4H3FpMCBuyUfYjyxeaCeC3) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Metal Resistance](https://open.spotify.com/album/2Xzz2rVZIwoJr1S3btHPho) | 4:23 |
+| 53 | [Karate](https://open.spotify.com/track/4H3FpMCBuyUfYjyxeaCeC3) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Metal Resistance](https://open.spotify.com/album/2Xzz2rVZIwoJr1S3btHPho) | 4:23 |
+| 54 | [Solace In Silence](https://open.spotify.com/track/7iPMmMz3b54nslPvGmE4ou) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK) | [Solace In Silence](https://open.spotify.com/album/5EzOzRQPmRqxVHxxKEOHU9) | 2:56 |
 | 55 | [Battle Ready](https://open.spotify.com/track/7J9tkRgN26YmIHXl4fnVlp) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Sevas Tra](https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA) | 4:21 |
 | 56 | [Reincarnation](https://open.spotify.com/track/40BsFOkZsT8WznGkJFUCuN) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Beyond The Black](https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy) | 4:13 |
 | 57 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
@@ -80,15 +80,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 70 | [Neon Lights](https://open.spotify.com/track/1SiIFmd9cSHOfE43NSP10x) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Sorrowbreaker](https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q) | 3:10 |
 | 71 | [Popular Monster](https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Popular Monster](https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC) | 3:50 |
 | 72 | [Fresh Blood, Fresh Pussy](https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [Witch Club Satan](https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp) | 3:35 |
-| 73 | [Blood Dynasty](https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/31wydmj2g8I7IcLDYSknfQ) | 3:51 |
-| 74 | [WORTHY](https://open.spotify.com/track/24RN4xJgLkwBd7L3oj2qiw) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [WORTHY](https://open.spotify.com/album/2923AbK68sIv0GtpseOWOp) | 3:42 |
+| 73 | [WORTHY](https://open.spotify.com/track/24RN4xJgLkwBd7L3oj2qiw) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [WORTHY](https://open.spotify.com/album/2923AbK68sIv0GtpseOWOp) | 3:42 |
+| 74 | [Blood Dynasty](https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/31wydmj2g8I7IcLDYSknfQ) | 3:51 |
 | 75 | [Year of the Rat](https://open.spotify.com/track/3tSPzD7A31dohGDH2DAAhZ) | [Tristania](https://open.spotify.com/artist/2EOmvmVtYMTgn45w9mWUTV) | [Rubicon](https://open.spotify.com/album/6dlToGhcA5HASShTBq60Q8) | 4:35 |
 | 76 | [The Plague On Both Your Houses](https://open.spotify.com/track/3VauFwfAiJ4wm3EWc8P3iY) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [World Domination](https://open.spotify.com/album/1PMmd57x3WmnxAbns3ptpy) | 3:58 |
 | 77 | [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 |
 | 78 | [Scatterbrain](https://open.spotify.com/track/10d58mW3UzVjqU1CR6opaF) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Scatterbrain](https://open.spotify.com/album/3sfCEzZLGJqHyHSUbzyagV) | 2:48 |
 | 79 | [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 |
-| 80 | [Breathe You In](https://open.spotify.com/track/680R0ratdk9o2M6nko18GG) | [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Breathe You In](https://open.spotify.com/album/4tEKPkZKnt44d7hRQHLBfc) | 3:40 |
-| 81 | [Cloaked](https://open.spotify.com/track/05mgMVDS9j4Wtci4MVSJWU) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Where Myth Becomes Memory](https://open.spotify.com/album/6feZT48cizyeg8cFVjX8pO) | 3:54 |
+| 80 | [Cloaked](https://open.spotify.com/track/05mgMVDS9j4Wtci4MVSJWU) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Where Myth Becomes Memory](https://open.spotify.com/album/6feZT48cizyeg8cFVjX8pO) | 3:54 |
+| 81 | [Breathe You In](https://open.spotify.com/track/680R0ratdk9o2M6nko18GG) | [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Breathe You In](https://open.spotify.com/album/4tEKPkZKnt44d7hRQHLBfc) | 3:40 |
 | 82 | [Wicked Woman](https://open.spotify.com/track/0s0ik3hbf0S1EgYfjX8TrF) | [Coven](https://open.spotify.com/artist/6eTKX1Kyy9gMamdDyj736Y) | [Witchcraft Destroys Minds And Reaps Souls](https://open.spotify.com/album/3aJozZhPbj8hKmJePJ2LtF) | 2:57 |
 | 83 | [Oblivion](https://open.spotify.com/track/5dzYU61TsySgEzeMId5Ona) | [Softspoken](https://open.spotify.com/artist/3y8JSazi8hWvLiSFXQqGIk) | [Martyr](https://open.spotify.com/album/7E3VtHkaCp5Yqqg29Tcb5K) | 3:53 |
 | 84 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 |

@@ -4673,6 +4673,32 @@
     },
     {
       "album": {
+        "name": "Bum Bum",
+        "url": "https://open.spotify.com/album/0tb91KS25kJgIYEOUuRFwT"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Alofoke Music",
+          "url": "https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169336,
+      "name": "BUM BUM",
+      "url": "https://open.spotify.com/track/2rZFlwRuJbAbEK6JQ4UYyN"
+    },
+    {
+      "album": {
         "name": "Bumbow",
         "url": "https://open.spotify.com/album/2vIjVoo1FdOJNROl2NQs2H"
       },
@@ -7062,7 +7088,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 115161,
       "name": "Crazy Design - Que Rica",
       "url": "https://open.spotify.com/track/6lq4TRhilKo0nka9BcfyB1"
@@ -21720,7 +21746,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 122125,
       "name": "MamaZota",
       "url": "https://open.spotify.com/track/61cv6dbBrjXWykPZCFXzoY"
@@ -21774,7 +21800,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 105091,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/2WNPfZJA4tUJw4FF47YTl4"
@@ -22660,7 +22686,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-28",
+      "date_removed": null,
       "duration_ms": 173573,
       "name": "ME GUSTAS CC",
       "url": "https://open.spotify.com/track/4Hkp1TiYqGYhknFwtUsbqd"
@@ -26862,7 +26888,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 133669,
       "name": "PA TRIPEA \" HUAN62",
       "url": "https://open.spotify.com/track/1cQ7ErDwwKNqFzPo9L3uKI"

@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-788 songs - 1 day 22 hr 18 min
+789 songs - 1 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,6 +630,7 @@
 | [Song of the Highest Tower](https://open.spotify.com/track/4QgvvCRrK6ilJp2xaDLlJx) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Alien Sunset](https://open.spotify.com/album/1aycNgUsDVj8pmuJ2x1Y8G) | 6:53 | 2025-04-15 | 2025-04-28 |
 | [Sospetti E Tenerezze](https://open.spotify.com/track/51FtXU9pPeXA4PV1pgh39g) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Senza Sapere Niente Di Lei \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7iWJnjKnHwxHAnIfNIJrDP) | 4:26 | 2025-09-28 |  |
 | [Soul City](https://open.spotify.com/track/1bg23PKffo3LYltL0yNBC5) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Lushlife](https://open.spotify.com/album/6FtTHRQ1AM733k7dJBKDrI) | 3:42 | 2025-07-08 | 2025-09-11 |
+| [Soulsides](https://open.spotify.com/track/7njVyqzN7SfrGHvOo4hXGX) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Gentle Eyes](https://open.spotify.com/album/0GgRhNd77djlIJTndk2G1M) | 4:28 | 2025-10-29 |  |
 | [Space : Unadorned](https://open.spotify.com/track/0UqPxh5QwZza8CDU4vmrES) | [Kendra Smith](https://open.spotify.com/artist/4baSCyV2xPPhakoOEOltou) | [Five Ways of Disappearing](https://open.spotify.com/album/6WmyaI6ciyv0XPfyQtf2NE) | 5:01 | 2024-07-12 | 2024-09-08 |
 | [Space and Time](https://open.spotify.com/track/7IZXUoILTWAX5LRRkogRG2) | [Emma Russack](https://open.spotify.com/artist/1Uk2WvbKqPrA19SbAO9miy) | [Space and Time](https://open.spotify.com/album/1Ygk2W8N1jbTdkcSy8UDgP) | 2:36 | 2024-06-17 | 2024-07-12 |
 | [Spangle](https://open.spotify.com/track/2UWiko8D4Oqi4qnELqlNup) | [Should](https://open.spotify.com/artist/3Wqa6m6qXA9wA2YriCtWuY) | [Feed Like Fishes](https://open.spotify.com/album/6VsQ41UfJyJ9gyOUAit5Kv) | 3:21 | 2025-07-10 | 2025-09-11 |

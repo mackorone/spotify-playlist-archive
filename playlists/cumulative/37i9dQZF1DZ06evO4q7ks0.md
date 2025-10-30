@@ -4,7 +4,7 @@
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-70 songs - 4 hr 24 min
+71 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [I Can't Be With You](https://open.spotify.com/track/4X0YxjnkSXCeVcYOkkAsyH) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:07 | 2025-03-08 | 2025-09-05 |
 | [I Can't Be With You \- 2025 Remastered](https://open.spotify.com/track/2JNllfsg7fMN18EJB9VrLT) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 3:07 | 2025-09-05 |  |
 | [I Can't Be With You \- Live From Woodstock '94](https://open.spotify.com/track/2Tj9Il1Tm14WAyqeXEh0NB) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [I Can't Be With You / Zombie](https://open.spotify.com/album/7iCCgdnZEdN0fJE1pxQ7yv) | 3:12 | 2025-07-27 | 2025-08-23 |
+| [I Don't Need](https://open.spotify.com/track/7d692pWIL03a9OOSgagDzU) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 3:31 | 2025-10-30 |  |
 | [I Still Do](https://open.spotify.com/track/7EJvwHjf9NKCmYBBGOuwQS) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 3:16 | 2025-03-08 |  |
 | [I'm Still Remembering](https://open.spotify.com/track/47y3AKHvLSLgZ1doP75cbU) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:48 | 2025-04-05 |  |
 | [In the End](https://open.spotify.com/track/4hckTii6dURNqlfS9JNjjK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 2:56 | 2025-03-08 |  |
@@ -50,7 +51,7 @@
 | [Reason](https://open.spotify.com/track/33pQD4Uj57np7exb4ETJLq) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Dreaming My Dreams With You](https://open.spotify.com/album/4ftBEHJfbJz1awnWnhztdl) | 2:01 | 2025-03-08 | 2025-10-07 |
 | [Ridiculous Thoughts](https://open.spotify.com/track/4qeRLhbW4CszknXMSUYrS4) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 4:31 | 2025-03-08 | 2025-09-06 |
 | [Ridiculous Thoughts \- 2025 Remastered](https://open.spotify.com/track/0s5hFVQIEpNGAChxCbypmb) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 4:31 | 2025-09-06 |  |
-| [Rupture](https://open.spotify.com/track/5VRwfyvT38wkVeedq3GuG4) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:16 | 2025-03-08 |  |
+| [Rupture](https://open.spotify.com/track/5VRwfyvT38wkVeedq3GuG4) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:16 | 2025-03-08 | 2025-10-30 |
 | [Salvation](https://open.spotify.com/track/1ayRJ4dlr48VJ3FK6uPq2i) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 2:22 | 2025-03-08 |  |
 | [Schizophrenic Playboy](https://open.spotify.com/track/6FdVdYNgEbbWbtIyQh8fPL) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 3:39 | 2025-03-08 |  |
 | [Shattered](https://open.spotify.com/track/155I1ffphVdq7fCeMH597u) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:42 | 2025-03-08 |  |

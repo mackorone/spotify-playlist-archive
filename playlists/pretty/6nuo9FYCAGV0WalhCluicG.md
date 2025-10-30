@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6nuo9FYCAGV0WalhCluicG.md) - [plain]
 
 > From the roads to the globe, UK Rap is life\. The hottest new UK rap, hip\-hop, grime, &amp; drill in 2025\. Cover: Nemzzz
 
-[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 72,175 likes - 104 songs - 4 hr 54 min
+[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 72,176 likes - 104 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

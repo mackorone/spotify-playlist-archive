@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PDs1UFaoxq.md) - [plain]
 
 > Welcome to Beechwood Island\. Listen to the music from We Were Liars, a new original series now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,006 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,018 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [We Were Liars Main Theme](https://open.spotify.com/track/4fdkbrPc2qtxrvEAqf6kqj) | [Michael Suby](https://open.spotify.com/artist/14DCy8OXwq8SfwQRsaMDmi) | [We Were Liars \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/3Gt1tacotfCTvbPDUIDcp2) | 1:04 |
-| 2 | [What's The Rumpus?](https://open.spotify.com/track/6saGhA8ruqmwecXc5kNesC) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:26 |
+| 2 | [What's The Rumpus?](https://open.spotify.com/track/6saGhA8ruqmwecXc5kNesC) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:23 |
 | 3 | [Forever](https://open.spotify.com/track/2319gHincsCeSmc19Efi2j) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
 | 4 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
 | 5 | [Coming In Hot](https://open.spotify.com/track/0VCwpPmYaY6NSVgCcnwcXZ) | [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [The Voyage](https://open.spotify.com/album/4Wc8fiVO7umE90hLr3NCXJ) | 3:23 |

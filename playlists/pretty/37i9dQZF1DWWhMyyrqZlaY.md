@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhMyyrqZlaY.md) - [plain]
 
 > Los corridos más placosos que suenan en las calles\. Chuyin en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,686,279 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,686,900 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhMyyrqZlaY.md) - [plain]
 | 31 | [Smith \(with Junior H & Fuerza Regida\)](https://open.spotify.com/track/7B97c1nFupBOAm2VkehisZ) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Smith \(with Junior H & Fuerza Regida\)](https://open.spotify.com/album/5aEITSyO4myoBATpXIEdmi) | 3:28 |
 | 32 | [NO PASA NADA](https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [NO PASA NADA](https://open.spotify.com/album/1GYvleTMaxQUICBntl1rau) | 2:16 |
 | 33 | [PRIMO](https://open.spotify.com/track/1RkkjNnU8I4PDrzkZHECWf) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRIMO](https://open.spotify.com/album/1fazhvRXDXyxNJ1hIm1VBa) | 2:44 |
-| 34 | [Elvira](https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:16 |
+| 34 | [Elvira](https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:17 |
 | 35 | [NO SON DORITOS](https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [No Son Doritos](https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc) | 2:40 |
 | 36 | [Mas Altas Que Bajadas](https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:13 |
 | 37 | [Giza](https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Giza](https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy) | 2:57 |

@@ -1,13 +1,37 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 646617,
+  "num_followers": 647154,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAABO6XGO3cL3xGHxZB2kkxN4",
+  "snapshot_id": "aQAHgAAAAADcX55bN7/VgVNuElUUqhMG",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Berghain",
+        "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 178853,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
+    },
     {
       "added_at": null,
       "album": {
@@ -83,26 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alter Ego",
-        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 179789,
-      "name": "New Woman (feat. ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/5UmfBGfRJgjZ8CdhgffabQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -119,6 +123,26 @@
       "duration_ms": 188106,
       "name": "LA FAMA",
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/5UmfBGfRJgjZ8CdhgffabQ"
     },
     {
       "added_at": null,
@@ -383,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 182657,
+      "name": "BAGDAD - Cap.7: Liturgia",
+      "url": "https://open.spotify.com/track/1zZ7vl1amOLI4GE5oUn0YB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew"
       },
@@ -419,22 +459,6 @@
       "duration_ms": 176590,
       "name": "VAMPIROS",
       "url": "https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 182657,
-      "name": "BAGDAD - Cap.7: Liturgia",
-      "url": "https://open.spotify.com/track/1zZ7vl1amOLI4GE5oUn0YB"
     },
     {
       "added_at": null,
@@ -523,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omega (feat. Ralphie Choo)",
-        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Omega (feat. Ralphie Choo)",
-      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mal Querer",
         "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
       },
@@ -559,58 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aute Cuture",
-        "url": "https://open.spotify.com/album/23irnvaijPHVE7682D4G3f"
+        "name": "Omega (feat. Ralphie Choo)",
+        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
       },
       "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 147626,
-      "name": "Aute Cuture",
-      "url": "https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 262200,
-      "name": "COMO UN G",
-      "url": "https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JACKBOYS",
-        "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
         }
       ],
-      "duration_ms": 244873,
-      "name": "HIGHEST IN THE ROOM (feat. ROSAL\u00cdA & Lil Baby) - REMIX",
-      "url": "https://open.spotify.com/track/7h0d2h0fUmzbs7zeFigJPn"
+      "duration_ms": 169500,
+      "name": "Omega (feat. Ralphie Choo)",
+      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
     },
     {
       "added_at": null,
@@ -635,6 +603,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "COMO UN G",
+      "url": "https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aute Cuture",
+        "url": "https://open.spotify.com/album/23irnvaijPHVE7682D4G3f"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 147626,
+      "name": "Aute Cuture",
+      "url": "https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mal Querer",
         "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
       },
@@ -644,9 +644,33 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 94223,
-      "name": "A NING\u00daN HOMBRE - Cap.11: Poder",
-      "url": "https://open.spotify.com/track/0RhO0RV0YKyF05kZ4uQOHW"
+      "duration_ms": 144541,
+      "name": "DE AQU\u00cd NO SALES - Cap.4: Disputa",
+      "url": "https://open.spotify.com/track/0CaiddWO1F3v4nTQGgfk9A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JACKBOYS",
+        "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 244873,
+      "name": "HIGHEST IN THE ROOM (feat. ROSAL\u00cdA & Lil Baby) - REMIX",
+      "url": "https://open.spotify.com/track/7h0d2h0fUmzbs7zeFigJPn"
     },
     {
       "added_at": null,
@@ -683,42 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fucking Money Man",
-        "url": "https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 138370,
-      "name": "Milion\u00e0ria",
-      "url": "https://open.spotify.com/track/2K3bjojp1sCLdMMoO5lJ2p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RR",
-        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "PROMESA",
-      "url": "https://open.spotify.com/track/75rqqKvzJCGv2oq9C4yFDt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Juro Que",
         "url": "https://open.spotify.com/album/3XV0gPorxF6TtGScGJChxG"
       },
@@ -731,6 +719,22 @@
       "duration_ms": 170075,
       "name": "Juro Que",
       "url": "https://open.spotify.com/track/3ZwQCZ2LuYwuQ6R1p1CJ3w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fucking Money Man",
+        "url": "https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 138370,
+      "name": "Milion\u00e0ria",
+      "url": "https://open.spotify.com/track/2K3bjojp1sCLdMMoO5lJ2p"
     },
     {
       "added_at": null,
@@ -755,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "RR",
+        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "PROMESA",
+      "url": "https://open.spotify.com/track/75rqqKvzJCGv2oq9C4yFDt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MOTOMAMI +",
         "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
       },
@@ -767,6 +791,74 @@
       "duration_ms": 120991,
       "name": "CHIRI",
       "url": "https://open.spotify.com/track/3CBaIz3eftJCf9GHycFanL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oral",
+        "url": "https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 222737,
+      "name": "Oral",
+      "url": "https://open.spotify.com/track/3re91K41XNVsViNbCPumTw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aunque Es De Noche",
+        "url": "https://open.spotify.com/album/5gBeXfX0ZfaiDWirzSNeIk"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 253108,
+      "name": "Aunque Es De Noche",
+      "url": "https://open.spotify.com/track/43MWnijE4yC3hZAjoRQ06N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fucking Money Man",
+        "url": "https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Dio$ No$ Libre Del Dinero",
+      "url": "https://open.spotify.com/track/5m9l5wILQ9iiLd8csLeR5v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 89749,
+      "name": "LAX",
+      "url": "https://open.spotify.com/track/2N3YZ075lq9z1ObaAiX6l1"
     },
     {
       "added_at": null,
@@ -791,54 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fucking Money Man",
-        "url": "https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Dio$ No$ Libre Del Dinero",
-      "url": "https://open.spotify.com/track/5m9l5wILQ9iiLd8csLeR5v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aunque Es De Noche",
-        "url": "https://open.spotify.com/album/5gBeXfX0ZfaiDWirzSNeIk"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 253108,
-      "name": "Aunque Es De Noche",
-      "url": "https://open.spotify.com/track/43MWnijE4yC3hZAjoRQ06N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 89749,
-      "name": "LAX",
-      "url": "https://open.spotify.com/track/2N3YZ075lq9z1ObaAiX6l1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KiCk i",
         "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
       },
@@ -855,26 +899,6 @@
       "duration_ms": 227401,
       "name": "KLK",
       "url": "https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oral",
-        "url": "https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 222737,
-      "name": "Oral",
-      "url": "https://open.spotify.com/track/3re91K41XNVsViNbCPumTw"
     },
     {
       "added_at": null,
@@ -907,22 +931,6 @@
       "duration_ms": 34918,
       "name": "Thank Yu :)",
       "url": "https://open.spotify.com/track/1nsHEIMiqiPzlwaZu5ykZG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 206869,
-      "name": "AISLAMIENTO",
-      "url": "https://open.spotify.com/track/3SxJJJbmgDeLpWHa54LIWK"
     }
   ],
   "unique_name": "This Is ROSAL\u00cdA",

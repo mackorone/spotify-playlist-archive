@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 名誉伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,897 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,904 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [decay \- Crowdfunding Acoustic Version](https://open.spotify.com/track/7JYDt0pe2AG1tRoPSmks84) | [Rie fu](https://open.spotify.com/artist/4dP04Y2d6esI6cwOiAozgg) | [Rie fu \(Anniversary Edition\)](https://open.spotify.com/album/7D6CdlI0lCM5vmf1oV4Cdp) | 3:20 |
 | 80 | [You](https://open.spotify.com/track/1UvmIaG2Wa5VY1OVXV4lET) | [Nikki Azura](https://open.spotify.com/artist/4cb9du9A1PESEC8EfAxLbE) | [You](https://open.spotify.com/album/1ca0Qoc0PPA4FkhhJZ9ryH) | 3:09 |
 
-Snapshot ID: `AAAAAF+kl8moZFvK2x62UMTFVeyKmaRw`
+Snapshot ID: `AAAAAKQh0BA+KGsJF3Xu7MmrMfGtyPvd`

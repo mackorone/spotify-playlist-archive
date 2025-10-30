@@ -4,7 +4,7 @@
 
 > Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: Henry Moodie
 
-340 songs - 18 hr 25 min
+341 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-09 | 2025-03-07 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-10-25 | 2025-04-18 |
 | [Before & After You](https://open.spotify.com/track/7sdKAteX5dtVv7Aopkgyif) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Before & After You](https://open.spotify.com/album/7tkmHJLmcowIUfp7unuckc) | 3:48 | 2025-07-03 |  |
+| [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-10-29 |  |
 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 | 2025-10-09 |  |
 | [BLISS](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [BLISS](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 | 2025-05-08 | 2025-10-03 |
 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 | 2025-04-17 | 2025-08-15 |

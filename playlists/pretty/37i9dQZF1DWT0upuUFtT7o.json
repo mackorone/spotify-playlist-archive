@@ -1,13 +1,33 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Afternoon Bike Ride",
-  "num_followers": 252872,
+  "num_followers": 252890,
   "original_name": " Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ6ogPvQOdmigyXLFnv9zjrLuGBU",
+  "snapshot_id": "AAAAAFnvpziYRHxgpMLaVqSI6bC7sEUj",
   "tracks": [
+    {
+      "added_at": "2025-10-29 21:23:40",
+      "album": {
+        "name": "Dancin' In The Streets",
+        "url": "https://open.spotify.com/album/7cRn8O6Z0BHY6jGpduuUKZ"
+      },
+      "artists": [
+        {
+          "name": "Rat Heart",
+          "url": "https://open.spotify.com/artist/4bM1ixwFMF5CJhL1Bi7c3e"
+        },
+        {
+          "name": "Cansu Kandemir",
+          "url": "https://open.spotify.com/artist/40psfIeWHQLuytUKWzxrFv"
+        }
+      ],
+      "duration_ms": 369424,
+      "name": "NOT 2NITE (feat. Cansu Kandemir)",
+      "url": "https://open.spotify.com/track/3deDVVLNFHoLccEarFE6UZ"
+    },
     {
       "added_at": "2025-10-27 12:54:35",
       "album": {

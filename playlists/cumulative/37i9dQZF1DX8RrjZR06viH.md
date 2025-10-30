@@ -4,13 +4,13 @@
 
 > Høsten er her! 🍂
 
-272 songs - 14 hr 9 min
+273 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [25](https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [25](https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt) | 3:18 | 2024-09-12 |  |
 | [25 bare fem år til](https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [25 bare fem år til](https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L) | 2:45 | 2024-10-03 | 2025-09-03 |
-| [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2024-07-04 |  |
+| [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2024-07-04 | 2025-10-30 |
 | [A Little Too Lost Sometimes](https://open.spotify.com/track/5T5sOXwBzka5WAdy6jahsV) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [A Little Too Lost Sometimes](https://open.spotify.com/album/1hgILChVJdx3d1s6CqUUnb) | 3:48 | 2025-10-16 |  |
 | [A Lovestory](https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [A Lovestory](https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT) | 3:04 | 2025-01-09 |  |
 | [A Potion For Love](https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Potion For Love](https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0) | 3:36 | 2024-06-27 | 2025-05-03 |
@@ -226,6 +226,7 @@
 | [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 | 2024-09-19 |  |
 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 | 2025-09-25 |  |
 | [Something Like This \(feat\. Dagny\)](https://open.spotify.com/track/2GtHpx7Q1xlmLBRx70i6oa) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Mad Women](https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk) | 3:23 | 2024-07-18 | 2024-11-24 |
+| [Sometimes Love's Just Not Enough](https://open.spotify.com/track/6kDtzoykztCOLMyz5T2KRh) | [When Saints Go Machine](https://open.spotify.com/artist/0E7PsXA3qAN3NCycrWDFaf) | [Greatest Escape](https://open.spotify.com/album/5ppxndA4gJ9oKfjdOSYwob) | 2:40 | 2025-10-23 |  |
 | [Sommartid](https://open.spotify.com/track/3uUj87Ly0W4x1jKfqGKm53) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Sommartid](https://open.spotify.com/album/0lndeVsfBcdlWxkDGOvvXs) | 2:54 | 2024-06-27 | 2024-10-25 |
 | [Sommer i Norge](https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Sommer i Norge](https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh) | 2:49 | 2024-06-27 | 2025-09-19 |
 | [Sommerflørt](https://open.spotify.com/track/7ELUUCWIHlyWIPlO2u1WT8) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Sommerflørt](https://open.spotify.com/album/7gJqpQ14ZDjTGyGzqRqFxC) | 2:41 | 2024-06-27 | 2025-08-26 |

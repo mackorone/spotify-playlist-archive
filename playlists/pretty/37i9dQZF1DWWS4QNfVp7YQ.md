@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,721 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,750 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 26 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |
 | 27 | [Toa Pa' Mi](https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK) | [NEAS DON'T CRY](https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD) | 3:02 |
 | 28 | [vaMos](https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Dj Zetian](https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy), [Dj Monst3r5](https://open.spotify.com/artist/2DAs7dxh1jqGtGmK9DWeAe) | [vaMos](https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr) | 2:51 |
-| 29 | [Alegría](https://open.spotify.com/track/1Ktzh5ku3Uej6jKls3cNWN) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:22 |
-| 30 | [Mi Cumbia! \(feat\. Alan Rosales\)](https://open.spotify.com/track/52hcPddnEyaFkVv0w8iz8e) | [El Dusty](https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB) | [Locos Only](https://open.spotify.com/album/4X7fhsjH4xxh8s8mYWlSLS) | 2:51 |
+| 29 | [Mi Cumbia! \(feat\. Alan Rosales\)](https://open.spotify.com/track/52hcPddnEyaFkVv0w8iz8e) | [El Dusty](https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB) | [Locos Only](https://open.spotify.com/album/4X7fhsjH4xxh8s8mYWlSLS) | 2:51 |
+| 30 | [Alegría](https://open.spotify.com/track/1Ktzh5ku3Uej6jKls3cNWN) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:22 |
 | 31 | [Alócate](https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR) | [Kanimals](https://open.spotify.com/artist/3hx0wwEpx37nuc9BGXboPp) | [Alócate](https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk) | 3:21 |
-| 32 | [Menea la Cadera](https://open.spotify.com/track/5lIiJYBLyrSybHA9rb5q8q) | [Cumbia Latin Band](https://open.spotify.com/artist/3cP35T1YmIDyrwfHrIVbeh) | [Cumbia Tribal](https://open.spotify.com/album/1RcKsmXVkFk6GV6a7ViVyK) | 2:43 |
-| 33 | [La Guarachita](https://open.spotify.com/track/2r7YwMHKoc3vYcspMqZSii) | [Clap Freckles](https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD) | [La Guarachita](https://open.spotify.com/album/2C2H8OBZcdDZGOMxpg6jXG) | 2:59 |
+| 32 | [La Guarachita](https://open.spotify.com/track/2r7YwMHKoc3vYcspMqZSii) | [Clap Freckles](https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD) | [La Guarachita](https://open.spotify.com/album/2C2H8OBZcdDZGOMxpg6jXG) | 2:59 |
+| 33 | [Menea la Cadera](https://open.spotify.com/track/5lIiJYBLyrSybHA9rb5q8q) | [Cumbia Latin Band](https://open.spotify.com/artist/3cP35T1YmIDyrwfHrIVbeh) | [Cumbia Tribal](https://open.spotify.com/album/1RcKsmXVkFk6GV6a7ViVyK) | 2:43 |
 | 34 | [Brindemos Por Ellas](https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Baby Joss](https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn) | [Brindemos Por Ellas](https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs) | 3:28 |
 | 35 | [Costars](https://open.spotify.com/track/5UYVlRMSVmel4NohDcLK0o) | [DJ TETRIS](https://open.spotify.com/artist/6LgjuGF7FuYQ0Ycx9a4oqA) | [Que Suene Mexico, Vol\. 3](https://open.spotify.com/album/1fL1fq4l7HoOBgnsTGxxz3) | 3:15 |
 | 36 | [Fuego](https://open.spotify.com/track/09E7BhLRJzvbZu764omlgl) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [DJ Mouse](https://open.spotify.com/artist/1Drh9VlADqYyM1RXvTVvsk) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:05 |

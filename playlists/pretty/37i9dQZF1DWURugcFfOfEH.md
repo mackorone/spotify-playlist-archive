@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 
 > good vibes, all day every day
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,403 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,488 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 | 14 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
 | 15 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 |
 | 16 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 |
-| 17 | [Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:56 |
-| 18 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 |
+| 17 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 |
+| 18 | [Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:56 |
 | 19 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 20 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
 | 21 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 | 44 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 45 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 |
 | 46 | [Lose My Cool](https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:34 |
-| 47 | [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 |
-| 48 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
+| 47 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
+| 48 | [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 |
 | 49 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
 | 50 | [Sunny](https://open.spotify.com/track/42AsgO0005lineLVc1aSOL) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Sunny](https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh) | 2:37 |
 | 51 | [Mannequin Love](https://open.spotify.com/track/4csm3bIilOko37LEVW1v8P) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 3:27 |
@@ -81,16 +81,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 | 71 | [Early](https://open.spotify.com/track/6AcFiVsHvDtat3rmHNK2Nf) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Early](https://open.spotify.com/album/5Q7XISk90DAYHFghAvKYI9) | 3:13 |
 | 72 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 |
 | 73 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
-| 74 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 |
+| 74 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 |
 | 75 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
-| 76 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 |
+| 76 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 |
 | 77 | [Self Sabotage](https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Self Sabotage](https://open.spotify.com/album/1xL7LvJtJlAjWPrtA7Aj0v) | 2:25 |
 | 78 | [Blackpool Boulevard \- Edit](https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Blackpool Boulevard](https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R) | 3:35 |
 | 79 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 |
 | 80 | [Kinky](https://open.spotify.com/track/2kIDECuRDbagrRqLOY3Mnm) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [1](https://open.spotify.com/album/76OFhgPO6W6WMwm6KlKX0Y) | 2:14 |
 | 81 | [Fucking Wizardry](https://open.spotify.com/track/2vcv0Aagjdd3mxkYDSqWXq) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Prioritise Pleasure](https://open.spotify.com/album/6Q4b8zTe5hFiDaUxNOiBih) | 3:52 |
-| 82 | [MAMA'S EYES](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MAMA'S EYES](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 |
-| 83 | [Last 100](https://open.spotify.com/track/39WFZVKifA8Fl2TZI2kp0S) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:00 |
+| 82 | [Last 100](https://open.spotify.com/track/39WFZVKifA8Fl2TZI2kp0S) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:00 |
+| 83 | [MAMA'S EYES](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MAMA'S EYES](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 |
 | 84 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
 | 85 | [God Talks Back](https://open.spotify.com/track/6upguv1cl65uzFbKxvruFI) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [God Talks Back](https://open.spotify.com/album/1OdVoqvuL37xqJB36iOaxN) | 2:52 |
 | 86 | [All I Need](https://open.spotify.com/track/3aMyQSDW0DJ7LTOkrd29hU) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All I Need](https://open.spotify.com/album/4ZXK260CRmgXgQ5tCs1hmk) | 3:36 |

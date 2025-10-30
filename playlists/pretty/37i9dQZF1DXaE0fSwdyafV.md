@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > It's the witching hours\. Cover: Paris Paloma
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,741 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,847 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 30 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 |
 | 31 | [Dreams](https://open.spotify.com/track/1lbXEepatjRVjoG8pZMtdp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:14 |
 | 32 | [Hearing Damage](https://open.spotify.com/track/1fTtPH0xGwFOXM5VlkxOX1) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Hearing Damage](https://open.spotify.com/album/5SCfET4lGs65o4Jgb7hZ2f) | 5:03 |
-| 33 | [Age of Consent \- 2015 Remaster](https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Power Corruption and Lies](https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ) | 5:15 |
-| 34 | [I Put a Spell On You](https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [At Home with Screamin' Jay Hawkins](https://open.spotify.com/album/2lKtE0pl4RtMD2bUwKzdcz) | 2:24 |
+| 33 | [I Put a Spell On You](https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [At Home with Screamin' Jay Hawkins](https://open.spotify.com/album/2lKtE0pl4RtMD2bUwKzdcz) | 2:24 |
+| 34 | [Age of Consent \- 2015 Remaster](https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Power Corruption and Lies](https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ) | 5:15 |
 | 35 | [Cosmic Love](https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:15 |
 | 36 | [Roseblood](https://open.spotify.com/track/2qV5Ce0sMlFsrseRO5CTMU) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE) | 4:51 |
 | 37 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 71 | [willow \- moonlit witch version](https://open.spotify.com/track/5XkJj6sV2XLMaURdmdXgNx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [willow \(moonlit witch version\)](https://open.spotify.com/album/5rZ2dHO8pco3A7cYToyvR0) | 3:28 |
 | 72 | [Crystals](https://open.spotify.com/track/4nnHOJqInr9r8c7RxuiT9j) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin \(Deluxe\)](https://open.spotify.com/album/1m3D8gkm3nOvIXNR1SvDFA) | 4:03 |
 | 73 | [Same Old Energy](https://open.spotify.com/track/7qkfs7TdDhaZ9l4YUf2UeU) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Same Old Energy](https://open.spotify.com/album/6omiQi8kZwpEznvECFHDj0) | 3:28 |
-| 74 | [The Hanging Tree](https://open.spotify.com/track/2PaKvBW6cpNp6DxdpZyjn5) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Hanging Tree](https://open.spotify.com/album/2CuwE8reOOjtnd9bHLtDD0) | 2:51 |
-| 75 | [Waking The Witch](https://open.spotify.com/track/1f4J04qKp7y3UJCxbUOr7z) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:18 |
+| 74 | [Waking The Witch](https://open.spotify.com/track/1f4J04qKp7y3UJCxbUOr7z) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:18 |
+| 75 | [The Hanging Tree](https://open.spotify.com/track/2PaKvBW6cpNp6DxdpZyjn5) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Hanging Tree](https://open.spotify.com/album/2CuwE8reOOjtnd9bHLtDD0) | 2:51 |
 
 Snapshot ID: `AAAAAMcED+vaTyRnUKi/Eby5E8yiYAQi`

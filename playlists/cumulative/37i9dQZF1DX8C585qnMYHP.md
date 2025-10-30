@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists\. <a href="spotify:artist:7nfBxjb99prCqaT3wk87u5">Samba Jean\-Baptiste</a> on cover\. Artwork by Thami Nabil
 
-2,113 songs - 6 day 19 hr 54 min
+2,114 songs - 6 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1987,7 +1987,7 @@
 | [W1 Sprokla](https://open.spotify.com/track/2D4zZ1OwJP2WjVbAj926bT) | [Index For Working Musik](https://open.spotify.com/artist/30pElb7BpcpII86h5dRpYK) | [W1 Sprokla](https://open.spotify.com/album/28dZkYCyUdUlNXrZEZdxp4) | 12:14 | 2023-09-13 | 2023-11-30 |
 | [Wabi](https://open.spotify.com/track/22AQbl2FNd3ZhRvTOlaRTP) | [J\. Albert](https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK) | [Young American Artist](https://open.spotify.com/album/7uO5lLWW2Nv3G01Yt7lpGP) | 3:29 | 2021-03-06 | 2021-06-04 |
 | [Wait Up](https://open.spotify.com/track/79uDI5OnWIIj4Za02naBzE) | [Gloomer](https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas) | [Wait Up](https://open.spotify.com/album/4ZVhySJ3eOpZtRVcg2MPDR) | 2:53 | 2022-08-31 | 2022-09-22 |
-| [Waiting pt 1](https://open.spotify.com/track/06ctaytGDUM1piASlJKz7C) | [Jane Paknia](https://open.spotify.com/artist/1Zoaf3n6LhFuN5Ir3Ab4yM) | [Waiting pt 1](https://open.spotify.com/album/6FMZxQoI210OHfL2jVCJdA) | 2:12 | 2025-04-24 |  |
+| [Waiting pt 1](https://open.spotify.com/track/06ctaytGDUM1piASlJKz7C) | [Jane Paknia](https://open.spotify.com/artist/1Zoaf3n6LhFuN5Ir3Ab4yM) | [Waiting pt 1](https://open.spotify.com/album/6FMZxQoI210OHfL2jVCJdA) | 2:12 | 2025-04-24 | 2025-10-30 |
 | [Wake In Might](https://open.spotify.com/track/5Ad2MmfRQlCue9adixQyrw) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Wake In Might](https://open.spotify.com/album/0nagJCtUtrv3ap1WEQexiQ) | 3:31 | 2023-10-25 | 2023-11-30 |
 | [Waking](https://open.spotify.com/track/1BArfEJsfdQ1MsgMpYIe4r) | [Aphir](https://open.spotify.com/artist/5FjAJK7JsaOahbaAwIxtE4) | [Pomegranate Tree](https://open.spotify.com/album/3U9SXVT4dkgkuWaL8tAbQu) | 2:55 | 2022-10-05 | 2022-11-10 |
 | [WALK LIKE](https://open.spotify.com/track/0zAwd1PM87cO0UIXEOi6Gy) | [Mahne Frame](https://open.spotify.com/artist/0O1hTTSAVlJKFo7urBx6FI) | [WALK LIKE](https://open.spotify.com/album/48JsSe6jHzY2R9VV2CXSOj) | 3:02 | 2023-11-08 | 2024-03-07 |
@@ -2042,6 +2042,7 @@
 | [Winded](https://open.spotify.com/track/0mKGYmfGwTfEyfUkgoOwCZ) | [biased](https://open.spotify.com/artist/5IcKb8EjHON0CVHtrP6Us5) | [63N3RD](https://open.spotify.com/album/6X206Ws0Yw2mpA6m7kagU4) | 5:07 | 2025-03-28 |  |
 | [Window](https://open.spotify.com/track/3b0AuqT3ghwDbUXXExwgoe) | [Cosmic Neighbourhood](https://open.spotify.com/artist/20jBFovpOUwDnYWNqdnTp4) | [Gatherings](https://open.spotify.com/album/5YGYciOp33ctilmWlgV0h0) | 2:43 | 2023-08-01 | 2024-01-11 |
 | [Window Sill Song](https://open.spotify.com/track/2hB0WBIk6FFqqqbW6lyw15) | [SML](https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj) | [Small Medium Large](https://open.spotify.com/album/3DpHrOJuKw6QSfcvLNanRO) | 2:03 | 2024-08-21 | 2024-10-09 |
+| [Windows](https://open.spotify.com/track/2dlInC7fYSDzTXKOVMlmLD) | [Scratching](https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn) | [Windows](https://open.spotify.com/album/0sMeW7EWTcCKtrbHmTdeFn) | 3:41 | 2025-10-24 |  |
 | [Winged Chamber Music](https://open.spotify.com/track/4cWfC7sCXiY45V2iHqJ42y) | [Llyr](https://open.spotify.com/artist/4Erv8i9Ko03nn8k4KajWIV) | [Winged Chamber Music](https://open.spotify.com/album/4o7m7v5hRL3KXMvtL70W3a) | 6:11 | 2021-05-20 | 2021-07-29 |
 | [Wings](https://open.spotify.com/track/4kBI9DGHmIVFlpLDWCvkyi) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Ruff Dog](https://open.spotify.com/album/1e8PvuiK4lZLOdeZkE1mqR) | 4:23 | 2021-01-15 | 2022-01-19 |
 | [Winter Swells](https://open.spotify.com/track/30rkpVLpRCFruE5xJWtBgx) | [SOON](https://open.spotify.com/artist/6wOcvUF3DLdeWvTwNN4x29) | [SOON](https://open.spotify.com/album/1MbRol1myet6rmdUeTYZf5) | 9:52 | 2022-03-09 | 2022-04-28 |

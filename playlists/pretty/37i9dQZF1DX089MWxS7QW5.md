@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Ellui\(엘루이\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,923 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,930 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [MUSIC \(Feat\. LEE CHANHYUK\)](https://open.spotify.com/track/3SYveDpgawfdQtiMDlm4gi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [MUSIC](https://open.spotify.com/album/1dWHATlZ1wxvpTwCUV0TR0) | 2:39 |
 | 50 | [what we had](https://open.spotify.com/track/14u6EgH6LkumPzEmJTggtG) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [what we had](https://open.spotify.com/album/2cJKI9QLquRkirz7tSNNY2) | 3:00 |
 
-Snapshot ID: `AAAAADPxqMLJ9fQ7wgv+o1RtttE7tVk3`
+Snapshot ID: `AAAAADv67MbbMhW5skPaPQ5kVR9IVtOK`

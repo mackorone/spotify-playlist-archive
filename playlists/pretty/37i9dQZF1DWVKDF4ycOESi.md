@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Tiziano Ferro, Charlie Charles e BLANCO, Lewis Capaldi, Tyla,  Capo Plaza, ANTONIA e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,656 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,655 likes - 90 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

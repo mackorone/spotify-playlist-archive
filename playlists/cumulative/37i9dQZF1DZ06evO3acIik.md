@@ -4,7 +4,7 @@
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-117 songs - 6 hr 7 min
+118 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Days Are Getting Shorter](https://open.spotify.com/track/3W0o9jlcLsJceWgw9r1HNE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Days Are Getting Shorter](https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w) | 5:34 | 2025-04-24 |  |
 | [deserve](https://open.spotify.com/track/5Zt5MQYztxNlvqOF0kmrOS) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [deserve / energy](https://open.spotify.com/album/1IbLj6D3Ju2larSueFQtib) | 1:46 | 2025-03-08 | 2025-03-09 |
 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 | 2022-09-14 |  |
+| [Devotion](https://open.spotify.com/track/4AyHlEuenAyjMOifhsjBBd) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Devotion](https://open.spotify.com/album/5W8SvJTwnL2joYd7J5yu7L) | 2:20 | 2025-10-30 |  |
 | [DISTRACTION](https://open.spotify.com/track/2BGyjLA7era3GunIrwqASc) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 3:00 | 2024-07-25 |  |
 | [Do You Remember?](https://open.spotify.com/track/4mUiMU73neKW4eIT6KMBdb) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 2:58 | 2024-09-29 |  |
 | [Don't Be Afraid to Fly](https://open.spotify.com/track/54cthKyZakydPsIydH8PI5) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Don't Be Afraid to Fly](https://open.spotify.com/album/5fvi8Ak4JKHq3O49Dz1011) | 3:03 | 2022-09-14 | 2022-10-13 |
@@ -121,7 +122,7 @@
 | [Wisdomless Boy](https://open.spotify.com/track/1LATTtzqNO4o9MDxEbl2nC) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [As We Walk into Forever](https://open.spotify.com/album/0aPre0n3wWL8Ha8hd7E7YB) | 3:19 | 2022-09-14 | 2022-10-13 |
 | [Wonderful God](https://open.spotify.com/track/52aMpFt6JO2JdQXVgXqlYp) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Bedroom Gospel](https://open.spotify.com/album/3oL22RU5HyMueIZAE9UAIc) | 3:47 | 2025-08-09 |  |
 | [Wonderful God \(feat\. Jonathan Ogden\)](https://open.spotify.com/track/6DRTaqEscCrnhsrjR69wnN) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Bedroom Gospel](https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk) | 3:47 | 2022-09-14 | 2025-08-09 |
-| [Yes, You Love Me.](https://open.spotify.com/track/0Aj3GRorN6QAFwwZlqXz6T) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Lofi](https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi) | 1:58 | 2022-09-14 |  |
+| [Yes, You Love Me.](https://open.spotify.com/track/0Aj3GRorN6QAFwwZlqXz6T) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Lofi](https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi) | 1:58 | 2022-09-14 | 2025-10-30 |
 | [You Changed on Me.](https://open.spotify.com/track/0xOsSPCBAs2vU5PN9gJ3kz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 2:04 | 2024-09-29 |  |
 | [You Make Me Feel Loved](https://open.spotify.com/track/4NUvU9yvJHA28kD3bND0y2) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Seraphim](https://open.spotify.com/album/5niX6tQuih2cmvFbMazeiM) | 2:40 | 2025-07-21 |  |
 | [Your Love Has Called Me Back](https://open.spotify.com/track/0ObkGoEBWzsWHvO9AcxptJ) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 4:04 | 2022-09-14 | 2025-10-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 
 > This is Bon Iver\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,862 likes - 49 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,894 likes - 49 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 | 20 | [Blood Bank](https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 4:45 |
 | 21 | [Michicant](https://open.spotify.com/track/43d83eCd7GzmVOKsLwV3QN) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 3:45 |
 | 22 | [Day One](https://open.spotify.com/track/6QJVQSuMC77psM4vgPo31D) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:33 |
-| 23 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
-| 24 | [Sins Of The Father \(Feat\. Bon Iver\)](https://open.spotify.com/track/4sR1YmFteF3r6axe0ms915) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Son Of Spergy](https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ) | 7:50 |
+| 23 | [Sins Of The Father \(Feat\. Bon Iver\)](https://open.spotify.com/track/4sR1YmFteF3r6axe0ms915) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Son Of Spergy](https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ) | 7:50 |
+| 24 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
 | 25 | [Lump Sum](https://open.spotify.com/track/6MpKc6ceAd2fAMEpkLxkiF) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:21 |
 | 26 | [Everything Is Peaceful Love](https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:30 |
 | 27 | [Minnesota, WI](https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 3:52 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 | 48 | [Marion](https://open.spotify.com/track/4Pzg3KLuXxPJ2eFsPiN134) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 2:21 |
 | 49 | [715 \- CR∑∑KS](https://open.spotify.com/track/4fLfKKoIWroefEjqpMDid7) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 2:12 |
 
-Snapshot ID: `aP62AAAAAADDjd1aQo1PYHEX91lGtSDW`
+Snapshot ID: `aQAHgAAAAADiS+qYLV/jM65aQYF2v5IC`

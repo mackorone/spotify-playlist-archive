@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,534 likes - 387 songs - 19 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,534 likes - 388 songs - 19 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -391,9 +391,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 381 | [Always Treat Her Like a Baby](https://open.spotify.com/track/7MLknqjAQRaBfDLVWbB8Uu) | [Keith Anderson](https://open.spotify.com/artist/23ZvRmOzjptyDsn4c4UfbA) | [Chip Deffaa's Say It with Music: The Irving Berlin Saga \(The Cast Album\)](https://open.spotify.com/album/0ZA1yb3FoJSwMNeqXrMjrd) | 0:58 |
 | 382 | [Together](https://open.spotify.com/track/4bR91QE1bsLSIkZjbSPVO0) | [Luiz Mello](https://open.spotify.com/artist/5WS12Gfr9YC0tSU5epsr8B) | [O Melhor do Piano Ao Cair da Tarde: Internacional](https://open.spotify.com/album/1LPLofIXeODbqtD7TJ4vjP) | 3:51 |
 | 383 | [Down in My Heart](https://open.spotify.com/track/5i2htOvtGdlfn5yNNUtR7f) | [Matthew Nardozzi](https://open.spotify.com/artist/4Ak3IP9Vd0WoRHmoujkYLi), [Emily Bordonaro](https://open.spotify.com/artist/59uWpNe0EoXl5FafMgJTKZ) | [Chip Deffaa's Irving Berlin: Love Songs and Such](https://open.spotify.com/album/0bxORsYeZ3Ixz5qHm1hkt8) | 2:35 |
-| 384 | [Ooh! Maybe It's You](https://open.spotify.com/track/1ZAc9CTdBKSgUsjMeVrJDl) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [King of Jazz: The Complete A to Z Collection, Vol\. 32](https://open.spotify.com/album/7xDycDL2p7FqgmneJCtHm0) | 2:33 |
-| 385 | [If the Managers Only Thought the Same as Mother](https://open.spotify.com/track/664TLQWAxRTpjx7CkmYs78) | [Mariah Hill](https://open.spotify.com/artist/2bkTlUlgH6gYD79a6vVCxO) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:23 |
-| 386 | [They Always Follow Me Around](https://open.spotify.com/track/26DUrnMBUJ6DQGdhzMgNxa) | [Jon Peterson](https://open.spotify.com/artist/07NsCTxS9SkrG7UHDw0dAy) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:27 |
-| 387 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
+| 384 | [They Call It Dancing](https://open.spotify.com/track/4YWHE8SDILJWqjn4F6XyJk) | [Charles Franklin](https://open.spotify.com/artist/6d9SBgm6DqjiYAqWI8Xtdl) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 1:29 |
+| 385 | [Ooh! Maybe It's You](https://open.spotify.com/track/1ZAc9CTdBKSgUsjMeVrJDl) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [King of Jazz: The Complete A to Z Collection, Vol\. 32](https://open.spotify.com/album/7xDycDL2p7FqgmneJCtHm0) | 2:33 |
+| 386 | [If the Managers Only Thought the Same as Mother](https://open.spotify.com/track/664TLQWAxRTpjx7CkmYs78) | [Mariah Hill](https://open.spotify.com/artist/2bkTlUlgH6gYD79a6vVCxO) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:23 |
+| 387 | [They Always Follow Me Around](https://open.spotify.com/track/26DUrnMBUJ6DQGdhzMgNxa) | [Jon Peterson](https://open.spotify.com/artist/07NsCTxS9SkrG7UHDw0dAy) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:27 |
+| 388 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
 
-Snapshot ID: `AcAGsAAAAADBpXKClunSQ0HS9Fy4I/Xk`
+Snapshot ID: `AcAMUAAAAABndhu64MIBMO7UkvtOiqPj`

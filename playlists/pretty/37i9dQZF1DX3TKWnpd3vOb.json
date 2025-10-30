@@ -103,22 +103,6 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/6cGJXwXv5rDaRjQwCzPcOn"
-      },
-      "artists": [
-        {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
-        }
-      ],
-      "duration_ms": 197225,
-      "name": "Claroscuro",
-      "url": "https://open.spotify.com/track/2mNju7Y612LKv6Lrdr9E6J"
-    },
-    {
-      "added_at": "2025-09-05 03:00:38",
-      "album": {
         "name": "Ella es de Ella",
         "url": "https://open.spotify.com/album/0ysyQSkGKg5GxdlrbxDwyp"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 272542,
       "name": "Ella es de Ella",
       "url": "https://open.spotify.com/track/3NBJ3ZHjVLKhROv9vyB449"
+    },
+    {
+      "added_at": "2025-09-05 03:00:38",
+      "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/6cGJXwXv5rDaRjQwCzPcOn"
+      },
+      "artists": [
+        {
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+        }
+      ],
+      "duration_ms": 197225,
+      "name": "Claroscuro",
+      "url": "https://open.spotify.com/track/2mNju7Y612LKv6Lrdr9E6J"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -691,18 +691,22 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Rocanrol de los Misterios",
-        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
+        "name": "Al otro lado del canal",
+        "url": "https://open.spotify.com/album/60nnIm6s1dPSEdd68kYI2V"
       },
       "artists": [
         {
-          "name": "Congreso",
-          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
+          "name": "El C\u00f3modo Silencio De Los Que Hablan Poco",
+          "url": "https://open.spotify.com/artist/3HrR1EoGCQa4Cl2fv2QyTk"
+        },
+        {
+          "name": "Saskya",
+          "url": "https://open.spotify.com/artist/4uPlycZpVvQGZMf9RKFzNo"
         }
       ],
-      "duration_ms": 259329,
-      "name": "Rocanrol de los Misterios",
-      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
+      "duration_ms": 155849,
+      "name": "Al otro lado del canal",
+      "url": "https://open.spotify.com/track/55er5KcKNggTKgedq7EElN"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -739,22 +743,18 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Al otro lado del canal",
-        "url": "https://open.spotify.com/album/60nnIm6s1dPSEdd68kYI2V"
+        "name": "Rocanrol de los Misterios",
+        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
       },
       "artists": [
         {
-          "name": "El C\u00f3modo Silencio De Los Que Hablan Poco",
-          "url": "https://open.spotify.com/artist/3HrR1EoGCQa4Cl2fv2QyTk"
-        },
-        {
-          "name": "Saskya",
-          "url": "https://open.spotify.com/artist/4uPlycZpVvQGZMf9RKFzNo"
+          "name": "Congreso",
+          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
         }
       ],
-      "duration_ms": 155849,
-      "name": "Al otro lado del canal",
-      "url": "https://open.spotify.com/track/55er5KcKNggTKgedq7EElN"
+      "duration_ms": 259329,
+      "name": "Rocanrol de los Misterios",
+      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "\u00cdcaro",
-        "url": "https://open.spotify.com/album/0PNzBHZUXpSsehZx7kzYii"
-      },
-      "artists": [
-        {
-          "name": "tortugan\u00f3nima",
-          "url": "https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR"
-        }
-      ],
-      "duration_ms": 277809,
-      "name": "\u00cdcaro",
-      "url": "https://open.spotify.com/track/3uc0lXpV31UPnZiMV9eUXi"
-    },
-    {
-      "added_at": "2025-09-05 03:00:38",
-      "album": {
         "name": "Lo Que Dicen",
         "url": "https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 243566,
       "name": "Lo Que Dicen",
       "url": "https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio"
+    },
+    {
+      "added_at": "2025-09-05 03:00:38",
+      "album": {
+        "name": "\u00cdcaro",
+        "url": "https://open.spotify.com/album/0PNzBHZUXpSsehZx7kzYii"
+      },
+      "artists": [
+        {
+          "name": "tortugan\u00f3nima",
+          "url": "https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR"
+        }
+      ],
+      "duration_ms": 277809,
+      "name": "\u00cdcaro",
+      "url": "https://open.spotify.com/track/3uc0lXpV31UPnZiMV9eUXi"
     },
     {
       "added_at": "2025-09-05 03:00:38",

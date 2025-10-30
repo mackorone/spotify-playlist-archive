@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best new pop music from new, independent artists\.  Cover: Ruby Plume\. Artwork by Paola Saliby
+> The best new pop music from new, independent artists\.  Cover: Karly Bowman\. Artwork by Paola Saliby
 
-4,278 songs - 9 day 1 hr 55 min
+4,281 songs - 9 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1822,6 +1822,7 @@
 | [i hate 1st dates](https://open.spotify.com/track/5hRMLeMCXo7EC7uJfe9kQH) | [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [i hate 1st dates](https://open.spotify.com/album/3oohxGSBp3TZzox2F69jMN) | 2:56 | 2022-10-26 | 2022-12-01 |
 | [i hate all my friends \(sometimes\)](https://open.spotify.com/track/0n017buB2gn4kgD4Ys2txM) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [i hate all my friends \(sometimes\)](https://open.spotify.com/album/1HCzrb87SKKWF2WqltMA5Q) | 3:04 | 2020-10-13\* | 2021-01-15 |
 | [I Hate Cardio](https://open.spotify.com/track/5w6EF3wgPvME78cSrxnIuj) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [I Hate Cardio](https://open.spotify.com/album/0pP7mQFtuoZ9q5BU6Nj3Yc) | 3:29 | 2022-09-21 | 2022-11-10 |
+| [I hate goodbyes](https://open.spotify.com/track/3kbsuPKsw05zfL9Pk8htLV) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [I hate goodbyes](https://open.spotify.com/album/7hYJX6m92wDB9cnpNgswmb) | 3:49 | 2025-10-29 |  |
 | [I Hate It Here](https://open.spotify.com/track/0QZHEzzLxXoxrW6slYz8WX) | [Merchant](https://open.spotify.com/artist/0LeF7pSSkRsPpWXBZ791Mf) | [I Hate It Here](https://open.spotify.com/album/3yvp8wGUloWdfoFqSve277) | 3:06 | 2022-01-12 | 2022-01-26 |
 | [I Hate It When You Touch Me](https://open.spotify.com/track/06Pn8nZ0jtAta7D8YmzFnX) | [May Payne](https://open.spotify.com/artist/3LaskN16OIcRjfovf4my7Z) | [I Hate It When You Touch Me](https://open.spotify.com/album/6hhcqPnR7dUwKTA92hzseA) | 4:40 | 2023-05-31 | 2023-08-03 |
 | [I Hate Love](https://open.spotify.com/track/1lNpREl86qbYCmcf8KOxyq) | [Melody Federer](https://open.spotify.com/artist/1bPTsrS42w3Gfg2Rk5eZki) | [I Hate Love](https://open.spotify.com/album/2q5MJKuMeZ7CaJnZt0DCtx) | 3:06 | 2021-02-17 | 2021-05-20 |
@@ -1968,6 +1969,7 @@
 | [In My Dreams](https://open.spotify.com/track/0xkJtyc4vuH20Jh2hBP2Cz) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [In My Dreams](https://open.spotify.com/album/4o5bjgOnRh30EGMBjHSJwZ) | 3:37 | 2022-01-19 | 2022-03-10 |
 | [In My Dreams](https://open.spotify.com/track/5qaiXKVKbIyqAQ7xmEZlcZ) | [Rachel Leo](https://open.spotify.com/artist/7nvGqdG2C213Fb4ItZyxuQ) | [In My Dreams](https://open.spotify.com/album/78G8I9RToPRKWIHxoCM4os) | 2:53 | 2023-08-16 | 2023-10-12 |
 | [In My Head](https://open.spotify.com/track/4PLCUtyxpGDobR5uFBOxKC) | [Hitha](https://open.spotify.com/artist/4X7nk8ktaWZ1GjWZ47AEo6) | [In My Head](https://open.spotify.com/album/0zfAF3eCujPNdPyql8zkyW) | 2:39 | 2022-10-19 | 2022-12-01 |
+| [In My Sleep](https://open.spotify.com/track/46LKpy0VOIcUOn9jJhCtTZ) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [In My Sleep](https://open.spotify.com/album/2ceea7b3XHoKXbljZcYSbM) | 3:22 | 2025-10-29 |  |
 | [In My Space](https://open.spotify.com/track/1xBtnSp5hNB20Da3YcvvfZ) | [romeinparis](https://open.spotify.com/artist/7McKMA1gQvGDNlpP0GjjPX) | [In My Space](https://open.spotify.com/album/3Ea8r0jEwTaLSygqGucRJs) | 2:43 | 2025-08-13 | 2025-10-23 |
 | [In My Way](https://open.spotify.com/track/3AOUYGyqGHbLFfqqw0cyzi) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Way](https://open.spotify.com/album/7yzDaKrhtMh0FYZ1k9U8fE) | 2:03 | 2021-05-27 | 2021-07-22 |
 | [In the Air](https://open.spotify.com/track/4eN7jLcGgrww5MXXFnxgSw) | [Jakes & Max](https://open.spotify.com/artist/4k5zmxaANcrXrTBEWF01fS) | [In the Air](https://open.spotify.com/album/0B3X3KsicplkdY53HS2dnp) | 3:09 | 2021-09-16 | 2021-10-28 |
@@ -2029,6 +2031,7 @@
 | [Itsy Bitsy](https://open.spotify.com/track/00fhKpPny0gmIZnUXKzHXh) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Itsy Bitsy](https://open.spotify.com/album/5vMRBI41FHQFbyEbD8CHgS) | 2:56 | 2020-12-08 | 2021-01-15 |
 | [i’ve been thinking](https://open.spotify.com/track/0U5NSAv0aEcW2JSzFk6dKj) | [Ava Della Pietra](https://open.spotify.com/artist/5whBm2Wk9GvITjOclp8nQX) | [i’ve been thinking](https://open.spotify.com/album/0bSJgM583VrwSSGMRKb6QP) | 3:03 | 2022-03-23 | 2022-04-14 |
 | [jackie](https://open.spotify.com/track/5gmszQA3QQASFTpGXMFcPz) | [Anya Gupta](https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL) | [jackie](https://open.spotify.com/album/1JEA214QFBJj9zT3wbOtzq) | 3:22 | 2023-01-11 | 2023-02-23 |
+| [Jackie O](https://open.spotify.com/track/2YNPU4y8Zs3S3PdFmj1NNO) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Sunny in London](https://open.spotify.com/album/4oOK9PHAHf4fIlsubcXkHQ) | 3:49 | 2025-10-29 |  |
 | [Jackie Onassis](https://open.spotify.com/track/3OH7EyT8CgvW34AZLn8D79) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Jackie Onassis](https://open.spotify.com/album/0yTuTdnNybyhwLTpgbl4Br) | 3:45 | 2020-10-13\* | 2021-01-15 |
 | [JACKSON](https://open.spotify.com/track/4crGyHHrBE4tB6x9q01iwH) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [JACKSON](https://open.spotify.com/album/0Q2xVIyvAp01gBhLZeEGPV) | 2:19 | 2021-01-15 | 2021-02-10 |
 | [Jamie](https://open.spotify.com/track/2B0fu0TfiTc0CpHftjukD2) | [KENNADI](https://open.spotify.com/artist/0MPcKBJhYCwYqnvOpQCLzl) | [Jamie](https://open.spotify.com/album/7EguGrDxCjsqZN7cTwRh7i) | 3:06 | 2023-05-03 | 2023-06-15 |

@@ -965,6 +965,24 @@
     },
     {
       "album": {
+        "name": "Ceas",
+        "url": "https://open.spotify.com/album/3LwcKNu5TCotj5TQkRAe1S"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "date_added": "2025-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Ceas",
+      "url": "https://open.spotify.com/track/13z5L59DoeLSYIfzWjriG6"
+    },
+    {
+      "album": {
         "name": "Cel mai fericit de pe p\u01cem\u00e2nt",
         "url": "https://open.spotify.com/album/43nr0Uq55xpAKnKceuwocs"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,039 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,083 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 7 | [Pela Última Vez \- Ao Vivo](https://open.spotify.com/track/6B7ot6Wlqf7zt3FCkYl2FJ) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi) | 2:42 |
 | 8 | [Deixa Eu \- Ao Vivo](https://open.spotify.com/track/2Hw0LzrD6ic8AckKBxJhiO) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/2lmUmRXPsds8n2YU68dalX) | 2:38 |
 | 9 | [Apaga Apaga Apaga \- Ao Vivo](https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Toma Essa Verdade \(Ao Vivo\)](https://open.spotify.com/album/6vour1AXVo2RNRspJQjQoV) | 2:58 |
-| 10 | [FAMOSINHA](https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al) | [Dj Caio Vieira](https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [FAMOSINHA](https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26) | 2:12 |
+| 10 | [FAMOSINHA](https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al) | [Dj Caio Vieira](https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [FAMOSINHA](https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26) | 2:13 |
 | 11 | [Ilusão De Ótica \- Ao Vivo](https://open.spotify.com/track/44CTudFZ0kbaIF9n0jk7oU) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Envolvente \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/1OkdRmcGgEGkotlkG1E9q2) | 2:59 |
 | 12 | [Última Saudade \- Ao Vivo](https://open.spotify.com/track/4y93vvzu2h8MITw7YyUTcI) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 2:30 |
 | 13 | [Ama Um Maloqueiro](https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Ama Um Maloqueiro](https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [DENTRO DA LAND ROVER \- Ao Vivo](https://open.spotify.com/track/5BI4zdNsBNEBSPzYkO2EXZ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [DEBAIXO DO MEU CHAPÉU, Vol\. 2](https://open.spotify.com/album/4k1l6rmHL1FL5rURdvJ5Kg) | 2:39 |
 | 50 | [Não é o Lugar, é a Pessoa](https://open.spotify.com/track/3WvQaS0tluzeCN1KR5tiFi) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Não é o Lugar, é a Pessoa](https://open.spotify.com/album/5r9XKN6hu56jJ1rAnCybTm) | 2:56 |
 
-Snapshot ID: `MJQz+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MJWFeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

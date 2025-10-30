@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 
 > Sweat it out with your favorite country workout songs\. Cover: Carrie Underwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,308 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,322 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 48 | [It Ain't My Fault](https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Pawn Shop](https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT) | 3:36 |
 | 49 | [Look What God Gave Her](https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 2:48 |
 | 50 | [Ain't Worth the Whiskey](https://open.spotify.com/track/3OZVqx1YsqDDkxQ6TnmHtn) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Cole Swindell](https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH) | 3:11 |
-| 51 | [Pontoon](https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Tornado](https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB) | 3:32 |
-| 52 | [Round Here](https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:35 |
+| 51 | [Round Here](https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:35 |
+| 52 | [Pontoon](https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Tornado](https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB) | 3:32 |
 | 53 | [Cowboy Casanova](https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 3:56 |
 | 54 | [Crash and Burn](https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:10 |
 | 55 | [Flatliner \(feat\. Dierks Bentley\)](https://open.spotify.com/track/0WyFpxYlBCgH1gMXd26OOr) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [You Should Be Here](https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei) | 2:57 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 85 | [Last Name](https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:01 |
 | 86 | [Free And Easy \(Down The Road I Go\)](https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Greatest Hits / Every Mile A Memory 2003 \- 2008](https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6) | 3:21 |
 | 87 | [Almost Maybes](https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes](https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD) | 2:59 |
-| 88 | [Stop Draggin' Your Boots](https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Stop Draggin' Your Boots](https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP) | 2:44 |
-| 89 | [Girl In A Country Song](https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Start Here](https://open.spotify.com/album/3MpmJPwKgMQ6hkGVlRwOpj) | 3:37 |
+| 88 | [Girl In A Country Song](https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Start Here](https://open.spotify.com/album/3MpmJPwKgMQ6hkGVlRwOpj) | 3:37 |
+| 89 | [Stop Draggin' Your Boots](https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Stop Draggin' Your Boots](https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP) | 2:44 |
 | 90 | [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 |
 | 91 | [Gold](https://open.spotify.com/track/4iy69rTUn8cAY8Q8q9vfOw) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gold](https://open.spotify.com/album/2NLp3E2m7Z9JnoLR6eOJYI) | 2:47 |
 | 92 | [Stay A Little Longer](https://open.spotify.com/track/6rqxivjFHp8K0yMiefG56g) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Stay A Little Longer](https://open.spotify.com/album/35Xy4nfPeJxythKy00E0Vq) | 5:35 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 96 | [The Weekend](https://open.spotify.com/track/2sSgZkaAOIfkzNDhndiLvZ) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [The Devil Don't Sleep \(Deluxe / Big Machine Radio Release Special\)](https://open.spotify.com/album/2lHWa2z1E8GjdHlOOUULmG) | 3:08 |
 | 97 | [Dangerous](https://open.spotify.com/track/1MX19fnaW1OUQoglWTYaOo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 2:27 |
 | 98 | [Country Girl \(Shake It For Me\)](https://open.spotify.com/track/0yD66650JxhqKbW76C2qCo) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/4ybWq0AegFFAvHULAe7q0K) | 3:45 |
-| 99 | [How Country Feels](https://open.spotify.com/track/6aUhfNWYnMThF3TGtuYUUu) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6) | 3:05 |
-| 100 | [ONE BEER](https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 2:53 |
+| 99 | [ONE BEER](https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 2:53 |
+| 100 | [How Country Feels](https://open.spotify.com/track/6aUhfNWYnMThF3TGtuYUUu) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6) | 3:05 |
 
 Snapshot ID: `AAAAANjSMeHUOtvfAMEMhbNE6iHXlyYi`

@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 569010,
+  "num_followers": 569226,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
+        "name": "From Afar",
+        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
+      },
+      "artists": [
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 297253,
+      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
         "name": "C. Schumann: 3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
         "url": "https://open.spotify.com/album/3q0ogG562Nocti3uDkZmAP"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 190866,
       "name": "3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
       "url": "https://open.spotify.com/track/1W6ZSpMRXgeM9iSJxA1xus"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
-        "name": "From Afar",
-        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
-      },
-      "artists": [
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 297253,
-      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -407,26 +407,6 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
-        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Lieder ohne Worte, Op. 19, No. 1",
-      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
         "name": "Ponce: Estrellita (Arr. Abril & Barrueco for Guitar)",
         "url": "https://open.spotify.com/album/0ztyoeKvYBlkX64d5W8lKx"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 176585,
       "name": "Estrellita (Arr. Abril & Barrueco for Guitar)",
       "url": "https://open.spotify.com/track/01yRkgF7l1pdFSCehiI7o9"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
+        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
+        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Lieder ohne Worte, Op. 19, No. 1",
+      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "Respiro 1",
-        "url": "https://open.spotify.com/album/3QbInQ4qlPnjsvt8u0tjzL"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        }
-      ],
-      "duration_ms": 181983,
-      "name": "Respiro 1",
-      "url": "https://open.spotify.com/track/0UpLrGfkWvoJVVAuju5AeV"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
         "name": "PRISM, Vol. 2",
         "url": "https://open.spotify.com/album/3CtkXehVMrzsWW0yxHR9rk"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 285400,
       "name": "Clair de lune, CD 82/3 (Arr. Parkin & Kaner-Lidstr\u00f6m for Saxophone & Ensemble)",
       "url": "https://open.spotify.com/track/1IvmHz5w80JVPwqFluuZsc"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
+        "name": "Respiro 1",
+        "url": "https://open.spotify.com/album/3QbInQ4qlPnjsvt8u0tjzL"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "duration_ms": 181983,
+      "name": "Respiro 1",
+      "url": "https://open.spotify.com/track/0UpLrGfkWvoJVVAuju5AeV"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
+        "name": "Solon Islandus (Complete Works)",
+        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 162374,
+      "name": "Faded Leaves Fall",
+      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
         "name": "Tchaikovsky: Children's Album, Op. 39: No. 21, Sweet Dreams",
         "url": "https://open.spotify.com/album/10mpmaq2FmGOM3HeUHtis0"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 181040,
       "name": "Children's Album, Op. 39: No. 21, Sweet Dreams",
       "url": "https://open.spotify.com/track/3RcqfI7qd4jYgdReTnTPR7"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
-        "name": "Solon Islandus (Complete Works)",
-        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 162374,
-      "name": "Faded Leaves Fall",
-      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -755,6 +755,26 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
+        "name": "Brahms: 21 Hungarian Dances, WoO 1 & 16 Waltzes, Op. 39",
+        "url": "https://open.spotify.com/album/3D17O5qP9yOhyBThdhBYKY"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Tal & Groethuysen",
+          "url": "https://open.spotify.com/artist/3jcDwPU3uLhLAt5WZR1suZ"
+        }
+      ],
+      "duration_ms": 81800,
+      "name": "16 Waltzes, Op. 39 (Version for Piano Duet): No. 15 in A-Flat Major",
+      "url": "https://open.spotify.com/track/6IOWaTG6MUfR4824H2XOjJ"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
         "name": "Corea: Children's Song No. 1",
         "url": "https://open.spotify.com/album/4v9sxGj2nTgRz1FQi2GoXE"
       },
@@ -795,46 +815,6 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "Brahms: 21 Hungarian Dances, WoO 1 & 16 Waltzes, Op. 39",
-        "url": "https://open.spotify.com/album/3D17O5qP9yOhyBThdhBYKY"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Tal & Groethuysen",
-          "url": "https://open.spotify.com/artist/3jcDwPU3uLhLAt5WZR1suZ"
-        }
-      ],
-      "duration_ms": 81800,
-      "name": "16 Waltzes, Op. 39 (Version for Piano Duet): No. 15 in A-Flat Major",
-      "url": "https://open.spotify.com/track/6IOWaTG6MUfR4824H2XOjJ"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
-        "name": "Faur\u00e9: Music for Piano",
-        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Christine Croshaw",
-          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
-        }
-      ],
-      "duration_ms": 120493,
-      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
-      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
         "name": "Schumann: Myrthen, Op.25 - Version For Cello And Piano, 24. Du bist wie eine Blume",
         "url": "https://open.spotify.com/album/0nNceg0mOYKmxH1p8NhNSK"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 110000,
       "name": "Myrthen, Op. 25 - Version for Cello and Piano: XXIV. Du bist wie eine Blume",
       "url": "https://open.spotify.com/track/5dFZW6bwvbFYDHXSTQRSgC"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
+        "name": "Faur\u00e9: Music for Piano",
+        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Christine Croshaw",
+          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
+        }
+      ],
+      "duration_ms": 120493,
+      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
+      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -1616,17 +1616,17 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        },
-        {
           "name": "John Eliot Gardiner",
           "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
         }
       ],
-      "duration_ms": 131479,
-      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
-      "url": "https://open.spotify.com/track/1SSaWY93eyPcEOtDyMaMab"
+      "duration_ms": 138239,
+      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
+      "url": "https://open.spotify.com/track/6AG7ekfWoiYTY6gyiEebCN"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -1724,17 +1724,17 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
           "name": "English Baroque Soloists",
           "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
         }
       ],
-      "duration_ms": 138239,
-      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
-      "url": "https://open.spotify.com/track/6AG7ekfWoiYTY6gyiEebCN"
+      "duration_ms": 131479,
+      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
+      "url": "https://open.spotify.com/track/1SSaWY93eyPcEOtDyMaMab"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -1879,6 +1879,26 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
+        "name": "Klara4Kids: Sterren en Sneeuwvlokken - Klassiek onder de kerstboom",
+        "url": "https://open.spotify.com/album/5hYoeeEAATiqb981lvtdfy"
+      },
+      "artists": [
+        {
+          "name": "Marc-Antoine Charpentier",
+          "url": "https://open.spotify.com/artist/5OvQ8g54fWhffM2x8eCc6s"
+        },
+        {
+          "name": "Andrew Parrott",
+          "url": "https://open.spotify.com/artist/3XHSTHtChESFEiOw1LqKuM"
+        }
+      ],
+      "duration_ms": 69693,
+      "name": "Canticum in nativitatem Domini, 'Frigidae noctis umbra': Marche",
+      "url": "https://open.spotify.com/track/6xhtLLQI133wVdxnOZRBKj"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
         "name": "Saint-Sa\u00ebns: Symphonic Poems",
         "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
       },
@@ -1899,26 +1919,6 @@
       "duration_ms": 376560,
       "name": "Sarabande et rigaudon, Op. 93: Sarabande",
       "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
-        "name": "Klara4Kids: Sterren en Sneeuwvlokken - Klassiek onder de kerstboom",
-        "url": "https://open.spotify.com/album/5hYoeeEAATiqb981lvtdfy"
-      },
-      "artists": [
-        {
-          "name": "Marc-Antoine Charpentier",
-          "url": "https://open.spotify.com/artist/5OvQ8g54fWhffM2x8eCc6s"
-        },
-        {
-          "name": "Andrew Parrott",
-          "url": "https://open.spotify.com/artist/3XHSTHtChESFEiOw1LqKuM"
-        }
-      ],
-      "duration_ms": 69693,
-      "name": "Canticum in nativitatem Domini, 'Frigidae noctis umbra': Marche",
-      "url": "https://open.spotify.com/track/6xhtLLQI133wVdxnOZRBKj"
     },
     {
       "added_at": "2025-10-10 08:36:30",

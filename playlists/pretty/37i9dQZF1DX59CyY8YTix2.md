@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 板歯目
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,768 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,771 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 40 | [Coming\-of\-age Story](https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 3:34 |
 | 41 | [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 |
 | 42 | [ブルーモーション](https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ブルーモーション](https://open.spotify.com/album/5KLKpuOrCE8Gfc5Blx1anM) | 3:31 |
-| 43 | [シェードの埃は延長](https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [シェードの埃は延長](https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ) | 3:52 |
-| 44 | [鏡に恋して](https://open.spotify.com/track/1DrDELqHERt3YQ0Q4y5MDK) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [SOME BUDDY](https://open.spotify.com/album/03noS9IVsR6kLzt5PVa9Dn) | 3:35 |
+| 43 | [鏡に恋して](https://open.spotify.com/track/1DrDELqHERt3YQ0Q4y5MDK) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [SOME BUDDY](https://open.spotify.com/album/03noS9IVsR6kLzt5PVa9Dn) | 3:35 |
+| 44 | [シェードの埃は延長](https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [シェードの埃は延長](https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ) | 3:52 |
 | 45 | [月並みに輝け](https://open.spotify.com/track/22IFbzcuLrK7ZAoj6Ms9I0) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [月並みに輝け / 今、僕、アンダーグラウンドから](https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT) | 4:07 |
 | 46 | [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 |
 | 47 | [月と私のかくれんぼ](https://open.spotify.com/track/4YA60SxvRK6Pmjw0CelABs) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [月と私のかくれんぼ](https://open.spotify.com/album/2m5P7dfPDOQWQ6g9XY2zg7) | 3:53 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 52 | [Ready to Rock](https://open.spotify.com/track/6RmznWIj65w4YPTcfVfmpt) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Ready to Rock](https://open.spotify.com/album/70YvxjBBrnc812iiPAzZ05) | 3:26 |
 | 53 | [普通 \- FUTSUU \- Ending Theme to SAKAMOTO DAYS](https://open.spotify.com/track/1qlReORrShNTOYtRgjYLvk) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [普通 \- FUTSUU \- Ending Theme to SAKAMOTO DAYS](https://open.spotify.com/album/1yDDZCaYQK2LTdU7kAMO40) | 3:04 |
 | 54 | [白日のもと](https://open.spotify.com/track/12NL4lcmDpoWwFNyq0lf1d) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [実験中 / 白日のもと](https://open.spotify.com/album/1vVyhztEqbzHqPLKsGjIk9) | 3:30 |
-| 55 | [共犯者](https://open.spotify.com/track/3L02mPxuIbCb0HIT1ACVYF) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [共犯者](https://open.spotify.com/album/0xqedXwS4p3NdG7NNS0n0i) | 2:30 |
-| 56 | [PEAK TIME](https://open.spotify.com/track/6AnigJs8uZ41ANllM0vfRS) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [PEAK TIME](https://open.spotify.com/album/4uHcA8aXhHoBTCrkSGctjv) | 3:46 |
+| 55 | [PEAK TIME](https://open.spotify.com/track/6AnigJs8uZ41ANllM0vfRS) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [PEAK TIME](https://open.spotify.com/album/4uHcA8aXhHoBTCrkSGctjv) | 3:46 |
+| 56 | [共犯者](https://open.spotify.com/track/3L02mPxuIbCb0HIT1ACVYF) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [共犯者](https://open.spotify.com/album/0xqedXwS4p3NdG7NNS0n0i) | 2:30 |
 | 57 | [キラキラの灰](https://open.spotify.com/track/0u0fZBgvRjNbzmiLyW6ITX) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [キラキラの灰](https://open.spotify.com/album/3k6e6pejyoAWZExzb2p8f2) | 4:07 |
 | 58 | [ブラックボックス](https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ブラックボックス](https://open.spotify.com/album/1TulMUgDxLY8Yy5gaauvMD) | 4:06 |
 | 59 | [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 66 | [あいっ！](https://open.spotify.com/track/51VQ67Vil17hljDo2VgopE) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [あいっ！](https://open.spotify.com/album/5Ba1suGdWD1IFXx6DEq9Um) | 1:59 |
 | 67 | [踊っていたいわ](https://open.spotify.com/track/3MN2qDrRBUCe4m3yJ8zTcS) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [handmade](https://open.spotify.com/album/04lBkRbV1tnWD42ZV0ZBTi) | 3:03 |
 | 68 | [ナイスアイディア！](https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ナイスアイディア！](https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU) | 3:15 |
-| 69 | [ひまわり](https://open.spotify.com/track/2KskwqOHY43u6gRn4fVSLX) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [ひまわり](https://open.spotify.com/album/0WceqWQ4ASE8Vliz7i4yAp) | 2:52 |
-| 70 | [ライアー](https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq) | [Kucci](https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5) | [ライアー](https://open.spotify.com/album/1sjLQ2qSQZKVF9FOFri3wf) | 3:05 |
-| 71 | [ぼくのベガ](https://open.spotify.com/track/5dwCKq8kPkHFJqirFDW86x) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ぼくのベガ](https://open.spotify.com/album/17uwafUZxHryGDgUoNgn4x) | 3:32 |
-| 72 | [Zen](https://open.spotify.com/track/1xmVwW1NP4Hygz2GqTeS14) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Zen](https://open.spotify.com/album/71vAsqLRt39WSKfA4eJYba) | 3:34 |
-| 73 | [No one](https://open.spotify.com/track/02f1kLS0yKhvEHI7Lt7NWD) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [No one](https://open.spotify.com/album/1BECn2HvgHI7XT9nDeQI9x) | 3:06 |
+| 69 | [ライアー](https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq) | [Kucci](https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5) | [ライアー](https://open.spotify.com/album/1sjLQ2qSQZKVF9FOFri3wf) | 3:05 |
+| 70 | [ひまわり](https://open.spotify.com/track/2KskwqOHY43u6gRn4fVSLX) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [ひまわり](https://open.spotify.com/album/0WceqWQ4ASE8Vliz7i4yAp) | 2:52 |
+| 71 | [No one](https://open.spotify.com/track/02f1kLS0yKhvEHI7Lt7NWD) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [No one](https://open.spotify.com/album/1BECn2HvgHI7XT9nDeQI9x) | 3:06 |
+| 72 | [ぼくのベガ](https://open.spotify.com/track/5dwCKq8kPkHFJqirFDW86x) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ぼくのベガ](https://open.spotify.com/album/17uwafUZxHryGDgUoNgn4x) | 3:32 |
+| 73 | [Zen](https://open.spotify.com/track/1xmVwW1NP4Hygz2GqTeS14) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Zen](https://open.spotify.com/album/71vAsqLRt39WSKfA4eJYba) | 3:34 |
 | 74 | [A8番出口](https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [A8番出口](https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl) | 3:35 |
 | 75 | [RE RESCUE](https://open.spotify.com/track/1i5u28LuH3TddcRfOC7Y8U) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [RE RESCUE](https://open.spotify.com/album/09trgNdBYNAfi6bKzqLFbP) | 3:53 |
 
-Snapshot ID: `AAAAAIXOyLsykC0dqz9rY+skyYe2semR`
+Snapshot ID: `AAAAAHyqIUMu1CZVD4okKnfqZPArPNWF`

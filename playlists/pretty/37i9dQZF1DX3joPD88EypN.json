@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 89854,
+  "num_followers": 89896,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 236520,
+      "name": "The Circle",
+      "url": "https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
         "name": "No Cure",
         "url": "https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 280226,
       "name": "Oslo",
       "url": "https://open.spotify.com/track/1sAV0zncNjmZT2fg9YVKs2"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
-        "name": "Opening",
-        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 236520,
-      "name": "The Circle",
-      "url": "https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Illegal Hit",
-        "url": "https://open.spotify.com/album/2oGkhIUyrcsJrLN9A7kxgD"
-      },
-      "artists": [
-        {
-          "name": "Yttling Jazz",
-          "url": "https://open.spotify.com/artist/0sHY32geV56IzTbEEomMFG"
-        }
-      ],
-      "duration_ms": 238903,
-      "name": "Illegal Hit",
-      "url": "https://open.spotify.com/track/5KB9sxu9umqrgFypIgwivj"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "\u00d8yne",
         "url": "https://open.spotify.com/album/65XiTzSauL308WmdSrQfLS"
       },
@@ -559,22 +543,6 @@
       "duration_ms": 210000,
       "name": "\u00d8yne",
       "url": "https://open.spotify.com/track/1D1r7hg9V2qpjo3bVR2Tcp"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
-        "name": "Begging",
-        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
-      },
-      "artists": [
-        {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
-        }
-      ],
-      "duration_ms": 294986,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -599,6 +567,38 @@
       "duration_ms": 330106,
       "name": "The Olive Branch",
       "url": "https://open.spotify.com/track/6n779fPy8vZt917vozCGZT"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Begging",
+        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
+      },
+      "artists": [
+        {
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+        }
+      ],
+      "duration_ms": 294986,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Illegal Hit",
+        "url": "https://open.spotify.com/album/2oGkhIUyrcsJrLN9A7kxgD"
+      },
+      "artists": [
+        {
+          "name": "Yttling Jazz",
+          "url": "https://open.spotify.com/artist/0sHY32geV56IzTbEEomMFG"
+        }
+      ],
+      "duration_ms": 238903,
+      "name": "Illegal Hit",
+      "url": "https://open.spotify.com/track/5KB9sxu9umqrgFypIgwivj"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
+        "name": "tide",
+        "url": "https://open.spotify.com/album/2PI9rOUfbuuN7FoQWlAuzG"
+      },
+      "artists": [
+        {
+          "name": "Bugge Wesseltoft",
+          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "tide",
+      "url": "https://open.spotify.com/track/3oL0879uE3RmjqrUNJzae8"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
         "name": "Gefion",
         "url": "https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 270586,
       "name": "And They All Came Marching Out Of The Woods",
       "url": "https://open.spotify.com/track/6jBw9vdYnh6iO1ufKaBkYw"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
-        "name": "tide",
-        "url": "https://open.spotify.com/album/2PI9rOUfbuuN7FoQWlAuzG"
-      },
-      "artists": [
-        {
-          "name": "Bugge Wesseltoft",
-          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "tide",
-      "url": "https://open.spotify.com/track/3oL0879uE3RmjqrUNJzae8"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "1905",
-        "url": "https://open.spotify.com/album/4TDH0V9wovLfjn88nNW7En"
-      },
-      "artists": [
-        {
-          "name": "Aki Rissanen",
-          "url": "https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "1905",
-      "url": "https://open.spotify.com/track/1iFEtO5D8YHIEJj8xkWiX2"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Up in the Sky",
         "url": "https://open.spotify.com/album/0B9LlcC7hecto7aL1xAqyL"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 273600,
       "name": "Up in the Sky",
       "url": "https://open.spotify.com/track/3mNDE8hsMlcrm85ROH5jKv"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "1905",
+        "url": "https://open.spotify.com/album/4TDH0V9wovLfjn88nNW7En"
+      },
+      "artists": [
+        {
+          "name": "Aki Rissanen",
+          "url": "https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "1905",
+      "url": "https://open.spotify.com/track/1iFEtO5D8YHIEJj8xkWiX2"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Return to Mind",
-        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 284880,
-      "name": "Taplow",
-      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Oh, Jaco!",
         "url": "https://open.spotify.com/album/0i2i4vMnJ8hv5fJreuHWc5"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 360769,
       "name": "Oh, Jaco!",
       "url": "https://open.spotify.com/track/33FJyAQRTd8GKjku7DvYun"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Return to Mind",
+        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 284880,
+      "name": "Taplow",
+      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Perfectly Unhappy",
-        "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        },
-        {
-          "name": "Andy Sheppard",
-          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
-        }
-      ],
-      "duration_ms": 336533,
-      "name": "Naked Trees",
-      "url": "https://open.spotify.com/track/7c37pjEMpRpKyTSF3Yrz2f"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Bay Of Rainbows (Live At The Jazz Standard, New York / 2017)",
         "url": "https://open.spotify.com/album/7E6lXyBvHGKpw4zgQllpdU"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 514933,
       "name": "Red Hook - Live",
       "url": "https://open.spotify.com/track/6GZ5LgI8dM3Ynj7J05kANS"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Perfectly Unhappy",
+        "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        },
+        {
+          "name": "Andy Sheppard",
+          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
+        }
+      ],
+      "duration_ms": 336533,
+      "name": "Naked Trees",
+      "url": "https://open.spotify.com/track/7c37pjEMpRpKyTSF3Yrz2f"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
+        "name": "Lycka till med musiken",
+        "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
+      },
+      "artists": [
+        {
+          "name": "Agnas Bros",
+          "url": "https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp"
+        }
+      ],
+      "duration_ms": 544093,
+      "name": "9",
+      "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
         "name": "Sanctus",
         "url": "https://open.spotify.com/album/4bnFbID19CQHZDXyr61Qr9"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 308173,
       "name": "Sanctus",
       "url": "https://open.spotify.com/track/3spHdmdcQ1Qs3XnyGNZEYA"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
-        "name": "Lycka till med musiken",
-        "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
-      },
-      "artists": [
-        {
-          "name": "Agnas Bros",
-          "url": "https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp"
-        }
-      ],
-      "duration_ms": 544093,
-      "name": "9",
-      "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Point of View",
-        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid",
-          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
-        }
-      ],
-      "duration_ms": 249386,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Being",
         "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
       },
@@ -1535,26 +1519,18 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "And Then Comes The Night",
-        "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
+        "name": "Point of View",
+        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
       },
       "artists": [
         {
-          "name": "Mats Eilertsen",
-          "url": "https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh"
-        },
-        {
-          "name": "Harmen Fraanje",
-          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
-        },
-        {
-          "name": "Thomas Str\u00f8nen",
-          "url": "https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY"
+          "name": "Kjetil Mulelid",
+          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
         }
       ],
-      "duration_ms": 392653,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
+      "duration_ms": 249386,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1583,6 +1559,30 @@
       "duration_ms": 528100,
       "name": "Point of no return",
       "url": "https://open.spotify.com/track/13FM6MFlLvMqhNVYCgRHZ6"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "And Then Comes The Night",
+        "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
+      },
+      "artists": [
+        {
+          "name": "Mats Eilertsen",
+          "url": "https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh"
+        },
+        {
+          "name": "Harmen Fraanje",
+          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
+        },
+        {
+          "name": "Thomas Str\u00f8nen",
+          "url": "https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY"
+        }
+      ],
+      "duration_ms": 392653,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/02YJLBnDnOjD4LhXlXAnn1"
-      },
-      "artists": [
-        {
-          "name": "Alexi Tuomarila",
-          "url": "https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5"
-        }
-      ],
-      "duration_ms": 380789,
-      "name": "August",
-      "url": "https://open.spotify.com/track/5bdsv29lbznQ9ZGar91W56"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "When shadows dance",
         "url": "https://open.spotify.com/album/4SLMUd9aFAzqP4jCSL6XNy"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 278693,
       "name": "When shadows dance",
       "url": "https://open.spotify.com/track/6XZ5SLSJ5G9ZgDYZnFIULd"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/02YJLBnDnOjD4LhXlXAnn1"
+      },
+      "artists": [
+        {
+          "name": "Alexi Tuomarila",
+          "url": "https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5"
+        }
+      ],
+      "duration_ms": 380789,
+      "name": "August",
+      "url": "https://open.spotify.com/track/5bdsv29lbznQ9ZGar91W56"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/0pQQ091wlhGXqGzpdV6aW7"
-      },
-      "artists": [
-        {
-          "name": "Agnes Darelid",
-          "url": "https://open.spotify.com/artist/7btMzx5phlm78f1z2irPQ1"
-        },
-        {
-          "name": "Liliana Zavala",
-          "url": "https://open.spotify.com/artist/318joJnkZbXBwp9t8DGqyx"
-        }
-      ],
-      "duration_ms": 350720,
-      "name": "Anten",
-      "url": "https://open.spotify.com/track/1kTvRa6n1mCKUcyw9djisF"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Origin Story",
         "url": "https://open.spotify.com/album/7v2HxxReiFQJZuwrf2ty3K"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 348149,
       "name": "Origin Story",
       "url": "https://open.spotify.com/track/7GUUMi4uAhyBLr0btnmyaY"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/0pQQ091wlhGXqGzpdV6aW7"
+      },
+      "artists": [
+        {
+          "name": "Agnes Darelid",
+          "url": "https://open.spotify.com/artist/7btMzx5phlm78f1z2irPQ1"
+        },
+        {
+          "name": "Liliana Zavala",
+          "url": "https://open.spotify.com/artist/318joJnkZbXBwp9t8DGqyx"
+        }
+      ],
+      "duration_ms": 350720,
+      "name": "Anten",
+      "url": "https://open.spotify.com/track/1kTvRa6n1mCKUcyw9djisF"
     },
     {
       "added_at": "2025-09-26 11:32:08",

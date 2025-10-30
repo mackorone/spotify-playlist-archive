@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 
 > LAS CANCIONES MÁS 🔥🔥🔥 LUX LUX 🙏 LUX LUX
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,650 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,789 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

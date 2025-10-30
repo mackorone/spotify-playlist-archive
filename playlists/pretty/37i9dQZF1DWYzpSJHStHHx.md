@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,784 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,754 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,15 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 24 | [Poppies](https://open.spotify.com/track/4oiZ494M5fJgMhdqew0n8p) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [News of the Universe](https://open.spotify.com/album/1GUFHInzictK6bRxCdRUft) | 3:32 |
 | 25 | [Mystic Rabbit](https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI) | [Mystic Braves](https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js) | [Mystic Braves](https://open.spotify.com/album/5CCSf3Ggf0oPVMC3arbLck) | 4:03 |
 | 26 | [Soft Rock Band](https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Soft Rock Band](https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m) | 8:12 |
-| 27 | [Riding the Wind](https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Bouquet](https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew) | 2:51 |
-| 28 | [Southerly](https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [For The Dreams](https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1) | 3:45 |
+| 27 | [Southerly](https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [For The Dreams](https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1) | 3:45 |
+| 28 | [Riding the Wind](https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Bouquet](https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew) | 2:51 |
 | 29 | [State Of Hawaii](https://open.spotify.com/track/1HSDvM0DRdNOqtx0kOfa3M) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [State Of Hawaii](https://open.spotify.com/album/5541RSz3RaWpTrymgn7c9h) | 4:15 |
 | 30 | [Sun Rise Swell](https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA) | [Santino Surfers](https://open.spotify.com/artist/0rhvpJA9qFkdTot8R8AdaQ) | [Santino Surfers](https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP) | 6:17 |
-| 31 | [twenty bucks \(the friend song\)](https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V) | [boxboys](https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9) | [twenty bucks \(the friend song\)](https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB) | 1:53 |
-| 32 | [Yes](https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe) | [Room Service](https://open.spotify.com/artist/2uUXIzIj1xEIyauiajWeyo) | [Things Left to Do](https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg) | 3:40 |
+| 31 | [Yes](https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe) | [Room Service](https://open.spotify.com/artist/2uUXIzIj1xEIyauiajWeyo) | [Things Left to Do](https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg) | 3:40 |
+| 32 | [twenty bucks \(the friend song\)](https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V) | [boxboys](https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9) | [twenty bucks \(the friend song\)](https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB) | 1:53 |
 | 33 | [Thrift Store](https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Thrift Store](https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ) | 2:14 |
-| 34 | [Killin' the Vibe](https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3) | [Ducktails](https://open.spotify.com/artist/5FQbU5Lrb4pFcW45ZgZzMx) | [III: Arcade Dynamics](https://open.spotify.com/album/1qJHtKPrmdreEmFOPPrTcf) | 4:19 |
-| 35 | [always learning not what to do](https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt) | [Surf Rock Is Dead](https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd) | [Existential Playboy](https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J) | 2:14 |
+| 34 | [always learning not what to do](https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt) | [Surf Rock Is Dead](https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd) | [Existential Playboy](https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J) | 2:14 |
+| 35 | [Killin' the Vibe](https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3) | [Ducktails](https://open.spotify.com/artist/5FQbU5Lrb4pFcW45ZgZzMx) | [III: Arcade Dynamics](https://open.spotify.com/album/1qJHtKPrmdreEmFOPPrTcf) | 4:19 |
 | 36 | [Sunlight](https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Sunlight](https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl) | 3:51 |
 | 37 | [Bangkok](https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ) | [Alaaska](https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK) | [Bangkok](https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv) | 3:32 |
 | 38 | [Alright, Alright](https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8) | [Easy Honey](https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj) | [Ooooo](https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5) | 2:34 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 66 | [Postcode Lover](https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Postcode Lover](https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre) | 2:45 |
 | 67 | [Ceviche](https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE) | [The Audio Visual Drop Kicks](https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI) | [Ceviche](https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i) | 4:05 |
 | 68 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 |
-| 69 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
-| 70 | [Simpin'](https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Simpin'](https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze) | 3:33 |
+| 69 | [Simpin'](https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Simpin'](https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze) | 3:33 |
+| 70 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
 | 71 | [Heat Stroke](https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA) | [Heat Wave](https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s) | [Heat Stroke](https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR) | 3:27 |
 | 72 | [Spice It Up](https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Spice It Up](https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ) | 2:26 |
 | 73 | [Carol](https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd) | [SweetLipp](https://open.spotify.com/artist/7tBfbnypPbK5fYNPBV0vCV) | [Carol](https://open.spotify.com/album/2HdWhxRkD2gNGVwV7Xd1X7) | 2:40 |

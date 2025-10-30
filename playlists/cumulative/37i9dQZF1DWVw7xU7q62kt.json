@@ -3635,6 +3635,24 @@
     },
     {
       "album": {
+        "name": "Fields",
+        "url": "https://open.spotify.com/album/5H2oHjZ0rrVt5rcpvtSnfU"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Fields",
+      "url": "https://open.spotify.com/track/6DGmI9u4RiSIbbSJOqMDKc"
+    },
+    {
+      "album": {
         "name": "Filigrani",
         "url": "https://open.spotify.com/album/6UFvVhCn9womYqY42Qj0Z3"
       },
@@ -12674,7 +12692,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 162575,
       "name": "The Winds Of Change",
       "url": "https://open.spotify.com/track/6PjuBpVOA9n1xJEoQzhT8O"

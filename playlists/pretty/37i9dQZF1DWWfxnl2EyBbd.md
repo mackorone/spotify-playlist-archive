@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > Unwind and relax to the soft sound of jazz piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,300 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,335 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 27 | [Good Night My Love](https://open.spotify.com/track/2eFOwHmDqSq3CCGG6pdpjB) | [Myles Dale](https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG) | [Good Night My Love](https://open.spotify.com/album/1XRcJXl7Vog98zHq8YI1Q1) | 3:12 |
 | 28 | [The Opposite Corner](https://open.spotify.com/track/676hef7iLF9stIZAYifYfz) | [Hveiti Brauo](https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK) | [The Opposite Corner](https://open.spotify.com/album/3wjvtmCqr1rEHAOfyUgls0) | 2:38 |
 | 29 | [always you](https://open.spotify.com/track/6CiSQLqDIwgyJKLbYsKXwR) | [Niels Henningsen](https://open.spotify.com/artist/6j9utDobDDjqHOlkOlpg0x) | [always you](https://open.spotify.com/album/2vnxbOxcXicmqlAfXsV2x4) | 2:43 |
-| 30 | [Tales of the night breeze](https://open.spotify.com/track/6anvx91Qu1k2zNABNIYDOK) | [Ilse Fisher](https://open.spotify.com/artist/2WWIVn4Edfmjx7pD5t4kPt) | [Tales of the night breeze](https://open.spotify.com/album/1aonWpWS7U4VY1nZU0k9Ch) | 3:02 |
-| 31 | [Grindavik](https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Grindavik](https://open.spotify.com/album/2tShsuIGN8rKlEXTv46tnB) | 3:04 |
+| 30 | [Grindavik](https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Grindavik](https://open.spotify.com/album/2tShsuIGN8rKlEXTv46tnB) | 3:04 |
+| 31 | [Tales of the night breeze](https://open.spotify.com/track/6anvx91Qu1k2zNABNIYDOK) | [Ilse Fisher](https://open.spotify.com/artist/2WWIVn4Edfmjx7pD5t4kPt) | [Tales of the night breeze](https://open.spotify.com/album/1aonWpWS7U4VY1nZU0k9Ch) | 3:02 |
 | 32 | [You Will Be Missed](https://open.spotify.com/track/5qaKVpCQbyGTTPxUQmpNXJ) | [Myles Dale](https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG) | [You Will Be Missed](https://open.spotify.com/album/3VCu5J7956xMk28p2TVkHf) | 2:50 |
 | 33 | [Look at the Moon](https://open.spotify.com/track/50UZdAaPu71v0haQr2vLKg) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [Look at the Moon](https://open.spotify.com/album/1yAUVbxGkA3JqvijlHPmtW) | 2:48 |
 | 34 | [Minding Omni](https://open.spotify.com/track/1KKairxiB06JDRBDtLtfOB) | [Joseph Cole](https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l) | [Minding Omni](https://open.spotify.com/album/58AhL1pQIPmfQc5xSbJWwm) | 2:17 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 63 | [Midnight on 5th Avenue](https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Midnight on 5th Avenue](https://open.spotify.com/album/5e3YlISXye6cegkORKd27J) | 3:00 |
 | 64 | [Quite a dilemma](https://open.spotify.com/track/0pqVwU2Qh0DqWtCM2Z34R0) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Quite a dilemma](https://open.spotify.com/album/0SWqBR8eqW0LqgJXrPUQcI) | 2:55 |
 | 65 | [Drift Away](https://open.spotify.com/track/70bHt1pbqpofJt4JaP6TUD) | [Nova Blanche](https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf) | [Drift Away](https://open.spotify.com/album/76BJgGibNh2LYqQfZETaQR) | 2:45 |
-| 66 | [Last thought](https://open.spotify.com/track/4NxOiE9mgIrdo3aCyD0vCi) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [Last thought](https://open.spotify.com/album/3xJcKbBZtAWKeSEOOeLDAe) | 2:49 |
-| 67 | [promenade](https://open.spotify.com/track/2r451wKpR4AKtqD0bvAyAR) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [promenade](https://open.spotify.com/album/7Ctg2u11AefozpBYpyT9qb) | 2:43 |
+| 66 | [promenade](https://open.spotify.com/track/2r451wKpR4AKtqD0bvAyAR) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [promenade](https://open.spotify.com/album/7Ctg2u11AefozpBYpyT9qb) | 2:43 |
+| 67 | [Last thought](https://open.spotify.com/track/4NxOiE9mgIrdo3aCyD0vCi) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [Last thought](https://open.spotify.com/album/3xJcKbBZtAWKeSEOOeLDAe) | 2:49 |
 | 68 | [Peace is overrated](https://open.spotify.com/track/0sV95W6PXJco0npkcS4UOW) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Peace is overrated](https://open.spotify.com/album/0mZgqTeAGrfUFANgOuRJ1i) | 2:52 |
 | 69 | [I'm Safe with You](https://open.spotify.com/track/2GlF8jXAeJXy30Fz7xnHTY) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [I'm Safe with You](https://open.spotify.com/album/151qGQLppGbygpN7utgNj8) | 2:27 |
 | 70 | [Seat for Two](https://open.spotify.com/track/1OfaNgaWjSA9HiedH84LPE) | [Suwonah Nolja](https://open.spotify.com/artist/1HFudkZUUEr5MiMSsPng4B) | [Seat for Two](https://open.spotify.com/album/6jcfxHvEQhlBqNr45FAgY5) | 2:38 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 87 | [Time to Go Home](https://open.spotify.com/track/7CygJxe6oFIuwdWw8eadq5) | [Morgan Meir](https://open.spotify.com/artist/7HdYC7Q87kENtjqLlTf6x9) | [Time to Go Home](https://open.spotify.com/album/0Bsg4sc3NLfWk0KJN4q8Tu) | 3:21 |
 | 88 | [It's Probably True](https://open.spotify.com/track/5IyPuOrKPiLirp64hEfvG5) | [Kim Lawrence](https://open.spotify.com/artist/6uRFzRVkhIKxnOohUy45N4) | [It's Probably True](https://open.spotify.com/album/0Txq2OlEdEfyh8eUXpuPz7) | 2:52 |
 | 89 | [No More Talk](https://open.spotify.com/track/2a2BJiTnJrD0qnf6FtbiMW) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [No More Talk](https://open.spotify.com/album/6NB7QDJfD9DbmkoHKrSwA0) | 2:42 |
-| 90 | [A Fourth Thought](https://open.spotify.com/track/163uckCvEz1DOUbpDqjJ7V) | [Alur Mcrose](https://open.spotify.com/artist/4yKXNGfD6RAqqj8VmLQSvF) | [A Fourth Thought](https://open.spotify.com/album/2C2Qx2Gu3J2rpV1nflr0zE) | 2:27 |
-| 91 | [Glimpses](https://open.spotify.com/track/0VnkjcBfivHlr8mVOUBhJd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Glimpses](https://open.spotify.com/album/648vxZjA8JRJ27UqggddM3) | 2:43 |
+| 90 | [Glimpses](https://open.spotify.com/track/0VnkjcBfivHlr8mVOUBhJd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Glimpses](https://open.spotify.com/album/648vxZjA8JRJ27UqggddM3) | 2:43 |
+| 91 | [A Fourth Thought](https://open.spotify.com/track/163uckCvEz1DOUbpDqjJ7V) | [Alur Mcrose](https://open.spotify.com/artist/4yKXNGfD6RAqqj8VmLQSvF) | [A Fourth Thought](https://open.spotify.com/album/2C2Qx2Gu3J2rpV1nflr0zE) | 2:27 |
 | 92 | [Bewitched](https://open.spotify.com/track/1cnHFlrnkjFcXA7np39uAd) | [Oliver Smith](https://open.spotify.com/artist/50mD2f9PAcpylaGDNNkBk2) | [Bewitched](https://open.spotify.com/album/2Q5XyVFJf8Lloo3zLhltgJ) | 2:39 |
 | 93 | [A Few Horizons](https://open.spotify.com/track/2s2stQDViffflCkrdkC8MD) | [Harper Avery](https://open.spotify.com/artist/6wkcjnTRQKVK4YoRcWgy8L) | [A Few Horizons](https://open.spotify.com/album/4mx4n0shq5AdIy5TfFNaGP) | 2:20 |
 | 94 | [For One Night Only](https://open.spotify.com/track/0HOhMMTzxpW8xygjVSxgpt) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [For One Night Only](https://open.spotify.com/album/0XXtHDAZ0LARMC649OzMap) | 2:45 |
 | 95 | [Moonlit Moods](https://open.spotify.com/track/1l3zd90ouLAM4yEwmRSQUK) | [Lecce Mchano](https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR) | [Moonlit Moods](https://open.spotify.com/album/75mZ4x4uJIz5pdvOpvdjls) | 2:12 |
 | 96 | [Blue Haze](https://open.spotify.com/track/2RWBFmndDrRQOcax4mfhvw) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Blue Haze](https://open.spotify.com/album/6PdHcC7kDnhl2p94foGcjL) | 1:41 |
 | 97 | [The old train](https://open.spotify.com/track/5ymsU4g64so81Y4LyFs2PJ) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [The old train](https://open.spotify.com/album/0AMT378RSZtNOXrzDNkkZJ) | 3:03 |
-| 98 | [Ten dollars fare](https://open.spotify.com/track/4pnEoWfFUzVnLSizTVZLW5) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [Ten dollars fare](https://open.spotify.com/album/1HgcrMPxGBS1PzYmtOaKhm) | 2:59 |
-| 99 | [Here with Me](https://open.spotify.com/track/1Ea4Xe2SCtPJmdeJk4bI17) | [Jakob Schröder](https://open.spotify.com/artist/2bZm8QiZFS3VRCfRqVP5kE) | [Here with Me](https://open.spotify.com/album/5zn6x74Z6tctMhmWTHBxHf) | 3:17 |
+| 98 | [Here with Me](https://open.spotify.com/track/1Ea4Xe2SCtPJmdeJk4bI17) | [Jakob Schröder](https://open.spotify.com/artist/2bZm8QiZFS3VRCfRqVP5kE) | [Here with Me](https://open.spotify.com/album/5zn6x74Z6tctMhmWTHBxHf) | 3:17 |
+| 99 | [Ten dollars fare](https://open.spotify.com/track/4pnEoWfFUzVnLSizTVZLW5) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [Ten dollars fare](https://open.spotify.com/album/1HgcrMPxGBS1PzYmtOaKhm) | 2:59 |
 | 100 | [Right Up](https://open.spotify.com/track/4fxc65XRk6q6EfUpdhBTP3) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Right Up](https://open.spotify.com/album/1bh9rnAoHm9lRBzsZJy74i) | 3:12 |
 
 Snapshot ID: `AAAAAMPOhpE09D4/Z1wha3DJ0YV9G08O`

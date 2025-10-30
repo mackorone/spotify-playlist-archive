@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096 likes - 191 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097 likes - 191 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 34 | [Unica](https://open.spotify.com/track/33b2wX9d0kxqxhi7lcsC1A) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:38 |
 | 35 | [La Modelo](https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 4:15 |
 | 36 | [ANTES QUE SE ACABE](https://open.spotify.com/track/7kjEqI6eZ7YlFrGhxixnlN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:41 |
-| 37 | [Loco Enamorado](https://open.spotify.com/track/0ftNNfxBAJJeN0E7iq27fZ) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Christian Daniel](https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V) | [A Cámara Lenta](https://open.spotify.com/album/6m8uWpqYf0g6DnIWw7nu4l) | 4:12 |
-| 38 | [A Solas \(Remix\)](https://open.spotify.com/track/1fXEkSum1vbTa3w0yvYzYW) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 4:33 |
+| 37 | [A Solas \(Remix\)](https://open.spotify.com/track/1fXEkSum1vbTa3w0yvYzYW) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 4:33 |
+| 38 | [Loco Enamorado](https://open.spotify.com/track/0ftNNfxBAJJeN0E7iq27fZ) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Christian Daniel](https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V) | [A Cámara Lenta](https://open.spotify.com/album/6m8uWpqYf0g6DnIWw7nu4l) | 4:12 |
 | 39 | [Te Quemaste](https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [ADN](https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi) | 3:19 |
 | 40 | [Keii](https://open.spotify.com/track/5eEQCfq7MXQr6aHLNRUZLs) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Keii](https://open.spotify.com/album/30FZign4ARPElEZ23nU0ns) | 3:30 |
 | 41 | [Tú No Lo Amas](https://open.spotify.com/track/0fLOPPoyIaPTe8dm2Mrft3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:34 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 190 | [Fire](https://open.spotify.com/track/6fGjKSs0onPKmsjA4ZwDPp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Mr.Phillips](https://open.spotify.com/artist/500Pu8sBollg8xWSu9TR3E) | [The Last Album](https://open.spotify.com/album/30t1kkG1NrdaCnr4NppWzs) | 3:45 |
 | 191 | [24 Horas](https://open.spotify.com/track/0r10aAQk6Em9NEYhMXaNDZ) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 3:00 |
 
-Snapshot ID: `AcAGpgAAAAD4n+jVdlwS4ndevN14mmz0`
+Snapshot ID: `AcAMMgAAAACoqX/BJ6Nr/PSTO2kZnsPA`

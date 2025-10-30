@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 49828,
+  "num_followers": 49832,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADpD6XSyoF6U5pYr+iEMjbo",
+  "snapshot_id": "aQAHgAAAAADOGG9OKIw2ual8HTgxHdCu",
   "tracks": [
     {
       "added_at": null,
@@ -67,8 +67,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/4w6qmr3nn6fJQPUpbnfouc"
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
       },
       "artists": [
         {
@@ -76,9 +76,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 188885,
-      "name": "Surrounded",
-      "url": "https://open.spotify.com/track/2Al9P5vRKol3YoqDIjWLwH"
+      "duration_ms": 238211,
+      "name": "Drunk Driving",
+      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
     },
     {
       "added_at": null,
@@ -99,8 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/4w6qmr3nn6fJQPUpbnfouc"
       },
       "artists": [
         {
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 238211,
-      "name": "Drunk Driving",
-      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
+      "duration_ms": 188885,
+      "name": "Surrounded",
+      "url": "https://open.spotify.com/track/2Al9P5vRKol3YoqDIjWLwH"
     },
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Austin",
-        "url": "https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 274716,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sellout",
         "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 165699,
       "name": "Good Die Young",
       "url": "https://open.spotify.com/track/6vBbirJ0n9L0j1XPtWlG6T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Austin",
+        "url": "https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 274716,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV"
     },
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 243797,
-      "name": "Cabo",
-      "url": "https://open.spotify.com/track/46Tqp6TCGO2vQZyztZy8Te"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Werewolf",
         "url": "https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 222578,
       "name": "Werewolf",
       "url": "https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 243797,
+      "name": "Cabo",
+      "url": "https://open.spotify.com/track/46Tqp6TCGO2vQZyztZy8Te"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 306057,
-      "name": "YellaBush Road",
-      "url": "https://open.spotify.com/track/31gBArPt7AgI5zNzCbX1DW"
+      "duration_ms": 233226,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/1TfdaAkmYnnQcQ6pxKX3sP"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 233226,
-      "name": "So Low",
-      "url": "https://open.spotify.com/track/1TfdaAkmYnnQcQ6pxKX3sP"
+      "duration_ms": 306057,
+      "name": "YellaBush Road",
+      "url": "https://open.spotify.com/track/31gBArPt7AgI5zNzCbX1DW"
     },
     {
       "added_at": null,

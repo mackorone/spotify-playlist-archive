@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1338706,
+  "num_followers": 1338598,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
+        "name": "Equus Caballus",
+        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Carried Away",
+      "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
         "name": "Crazymad, For Me",
         "url": "https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 200414,
       "name": "Give Me All Your Love",
       "url": "https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "Equus Caballus",
-        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Carried Away",
-      "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "This Wasn't Meant For You Anyway",
-        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 270826,
-      "name": "You Noticed",
-      "url": "https://open.spotify.com/track/6Tgas0pOMx9sG8cRx5JaUX"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "It Isn\u2019t Perfect But It Might Be (Wurli Version / from \u201cBridget Jones: Mad About the Boy\u201d Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1f5gzU1yaaCtdUl84bnWZI"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 123000,
       "name": "It Isn\u2019t Perfect But It Might Be - Wurli Version / from \u201cBridget Jones: Mad About the Boy\u201d Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/5ntN26ZK08HVxGpN29vebJ"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 270826,
+      "name": "You Noticed",
+      "url": "https://open.spotify.com/track/6Tgas0pOMx9sG8cRx5JaUX"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/3YEP83sxNbOfRmnXfxFpFW"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 148597,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
         "name": "Falling Into Place (ft. Debbie)",
         "url": "https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 200000,
       "name": "Falling Into Place (ft. Debbie)",
       "url": "https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/3YEP83sxNbOfRmnXfxFpFW"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 148597,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Hearts Break and People Change",
-        "url": "https://open.spotify.com/album/7jcAisouiCZza66ewku13M"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 209787,
-      "name": "Hearts Break and People Change",
-      "url": "https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "1:5",
         "url": "https://open.spotify.com/album/2x618fYTKtUfUXMtFmznqu"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 237139,
       "name": "1:5",
       "url": "https://open.spotify.com/track/4KkXlAj7HIXcKNquwVty43"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Hearts Break and People Change",
+        "url": "https://open.spotify.com/album/7jcAisouiCZza66ewku13M"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 209787,
+      "name": "Hearts Break and People Change",
+      "url": "https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/1GuTKVeOdoJSNaMZadsL5c"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 171901,
+      "name": "Fade Into A Dream",
+      "url": "https://open.spotify.com/track/35iZzmaczlIzgSoThF3WdI"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
         "name": "One Door Closes (feat. Breland)",
         "url": "https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 187084,
       "name": "One Door Closes (feat. Breland)",
       "url": "https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/1GuTKVeOdoJSNaMZadsL5c"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 171901,
-      "name": "Fade Into A Dream",
-      "url": "https://open.spotify.com/track/35iZzmaczlIzgSoThF3WdI"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1201,6 +1201,22 @@
       "url": "https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F"
     },
     {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "You Are The Morning",
+        "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
+      },
+      "artists": [
+        {
+          "name": "jasmine.4.t",
+          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
+        }
+      ],
+      "duration_ms": 276437,
+      "name": "Guy Fawkes Tesco Dissociation",
+      "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
+    },
+    {
       "added_at": "2025-09-04 23:00:13",
       "album": {
         "name": "How to Win At Solitaire",
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "You Are The Morning",
-        "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU"
       },
       "artists": [
         {
-          "name": "jasmine.4.t",
-          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
+          "name": "Jol\u00e9",
+          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
         }
       ],
-      "duration_ms": 276437,
-      "name": "Guy Fawkes Tesco Dissociation",
-      "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
+      "duration_ms": 185826,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1247,22 +1263,6 @@
       "duration_ms": 210691,
       "name": "Reach Out And Kiss Me",
       "url": "https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU"
-      },
-      "artists": [
-        {
-          "name": "Jol\u00e9",
-          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
+        "name": "Be Still",
+        "url": "https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "duration_ms": 241531,
+      "name": "Be Still",
+      "url": "https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
         "name": "The Last Showgirl (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G"
       },
@@ -1369,38 +1385,6 @@
       "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
     },
     {
-      "added_at": "2025-09-04 23:00:13",
-      "album": {
-        "name": "His Loss",
-        "url": "https://open.spotify.com/album/1pyc1F50zOzklKlCaX1OEn"
-      },
-      "artists": [
-        {
-          "name": "Natalie 2V",
-          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
-        }
-      ],
-      "duration_ms": 150839,
-      "name": "His Loss",
-      "url": "https://open.spotify.com/track/5JoippRoB40L2kD9WBydn7"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "Be Still",
-        "url": "https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Schub",
-          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
-        }
-      ],
-      "duration_ms": 241531,
-      "name": "Be Still",
-      "url": "https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza"
-    },
-    {
       "added_at": "2025-08-06 11:57:20",
       "album": {
         "name": "The Seize",
@@ -1415,6 +1399,22 @@
       "duration_ms": 214401,
       "name": "The Seize",
       "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
+    },
+    {
+      "added_at": "2025-09-04 23:00:13",
+      "album": {
+        "name": "His Loss",
+        "url": "https://open.spotify.com/album/1pyc1F50zOzklKlCaX1OEn"
+      },
+      "artists": [
+        {
+          "name": "Natalie 2V",
+          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
+        }
+      ],
+      "duration_ms": 150839,
+      "name": "His Loss",
+      "url": "https://open.spotify.com/track/5JoippRoB40L2kD9WBydn7"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1563,38 +1563,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Paint My Bedroom Black",
-        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 229713,
-      "name": "Paint My Bedroom Black",
-      "url": "https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "Call Them And Tell Them You Love Them",
-        "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
-      },
-      "artists": [
-        {
-          "name": "Tamzene",
-          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
-        }
-      ],
-      "duration_ms": 191912,
-      "name": "Too Many Times",
-      "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "In This Room - EP",
         "url": "https://open.spotify.com/album/02nRWWSavnbiiUjRJ3M5Cr"
       },
@@ -1623,6 +1591,38 @@
       "duration_ms": 141320,
       "name": "steal my soul",
       "url": "https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Call Them And Tell Them You Love Them",
+        "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
+      },
+      "artists": [
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "duration_ms": 191912,
+      "name": "Too Many Times",
+      "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 229713,
+      "name": "Paint My Bedroom Black",
+      "url": "https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe"
     },
     {
       "added_at": "2025-08-06 11:57:20",

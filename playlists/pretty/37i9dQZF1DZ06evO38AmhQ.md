@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 
 > This is John Williamson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,020 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,017 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 | 26 | [Goodbye Blinky Bill](https://open.spotify.com/track/1ec2wAxjnu7cr5WHqPHJTD) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [J.W.'s Family Album](https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC) | 3:30 |
 | 27 | [A Flag of Our Own](https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Waratah St.](https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN) | 3:30 |
 | 28 | [Amazing Day](https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Warragul](https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl) | 3:12 |
-| 29 | [Campfire on the Road](https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [The Way It Is](https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx) | 3:35 |
-| 30 | [Cydi](https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Hillbilly Road](https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII) | 3:00 |
+| 29 | [Cydi](https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Hillbilly Road](https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII) | 3:00 |
+| 30 | [Campfire on the Road](https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [The Way It Is](https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx) | 3:35 |
 | 31 | [The Truckies Wife](https://open.spotify.com/track/4MY4eaNaoe8ChfbEmWqvNJ) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Boomerang Café](https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G) | 5:05 |
 | 32 | [Papa Whisky November](https://open.spotify.com/track/5GHyi4qF0TEZKPhTi4CmhQ) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 3:19 |
 | 33 | [The Shed](https://open.spotify.com/track/6HDThdBIQptMjGvt37SMpI) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Road Thru The Heart](https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 | 49 | [Aussie Balladeer](https://open.spotify.com/track/5VWbVfY2IVdK7qQAjYXeAd) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mulga to Mangoes](https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG) | 2:53 |
 | 50 | [If You Wanna Be An Aussie](https://open.spotify.com/track/0t2JQxdUJi1BksoQw5xfA5) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [How Many Songs](https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI) | 2:39 |
 
-Snapshot ID: `aP62AAAAAAAsUy8HLbmkCHM3hHSBSkTd`
+Snapshot ID: `aQAHgAAAAACBMsy7lMC8Z+KPaPLtn0KI`

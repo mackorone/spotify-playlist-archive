@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Kehlani
 
-4,624 songs - 10 day 1 hr 52 min
+4,625 songs - 10 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2318,6 +2318,7 @@
 | [Lost Souls](https://open.spotify.com/track/09LayYu4H29tQgYUkphLMm) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Lost Souls](https://open.spotify.com/album/3yfrVuOJ2LD44FTXmEnE7O) | 2:55 | 2024-01-19 | 2024-02-24 |
 | [Lost Time](https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Lost Time](https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X) | 2:52 | 2024-05-03 | 2024-06-22 |
 | [Lost To The Moon](https://open.spotify.com/track/5IHO4GcaF8ex9oLww2kh4S) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Lost To The Moon](https://open.spotify.com/album/4FIqjEd8BlFta4bHD4WLNN) | 4:04 | 2025-04-04 | 2025-05-17 |
+| [Lost With My Lover](https://open.spotify.com/track/0jHRdFm5ZcQ8lejsfWrDxu) | [Josh Kye](https://open.spotify.com/artist/0qtgGtFrIG8RnZIWjsD53h) | [Lost With My Lover](https://open.spotify.com/album/5yYAMLJAxAtaU2SNAXYyC0) | 3:46 | 2025-10-24 |  |
 | [Lost Without U](https://open.spotify.com/track/3j9PrQ2tvVzkLhQcPPBFrf) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Lost Without U](https://open.spotify.com/album/68BKLPF3wZi6NeV9qT7Ob2) | 3:38 | 2024-02-23 | 2024-04-13 |
 | [Lost Without You](https://open.spotify.com/track/2Bz9qC7TvfyodUa1LQHsF6) | [ØHENRY](https://open.spotify.com/artist/4zL1qNBQ4ZVhWFUXbyFCqI) | [Lost Without You](https://open.spotify.com/album/5cxi7ACAnvzpTKf08AnYCp) | 2:35 | 2025-01-11 | 2025-03-08 |
 | [Lotus](https://open.spotify.com/track/2br2quscIgIQPEqWm5D0ij) | [Teon Gibbs](https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk), [Cameron James](https://open.spotify.com/artist/4L2lMQeDAR8VxA0ZiMR9hT) | [Lotus](https://open.spotify.com/album/0VbNjw3SaV5OcLkUOnsPI4) | 3:16 | 2023-11-10 | 2024-01-13 |

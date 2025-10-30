@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 > ¡Lo mejor de los charros cantores! Antonio Aguilar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,154,598 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,154,695 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 52 | [Lástima Que Seas Ajena](https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lastima Que Seas Ajena](https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX) | 4:17 |
 | 53 | [Tu enamorado](https://open.spotify.com/track/0s9KS4SRdpSuDBulhroP9V) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:09 |
 | 54 | [Un Mundo Raro](https://open.spotify.com/track/6l13zG1kziZAn5LnaIqFjv) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Ella...La Que Se Fue](https://open.spotify.com/album/6nXy5pKpv1JY4WLqZczzcH) | 3:48 |
-| 55 | [El Adolorido](https://open.spotify.com/track/48GVUFn3gtM9taw5aZYlge) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 2:58 |
+| 55 | [Nadie Es Eterno](https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Hombre Derecho](https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl) | 3:08 |
 | 56 | [Esclavo y Amo](https://open.spotify.com/track/3iwRXRVCaxXJYP9E2mEesX) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Amigo Organillero](https://open.spotify.com/album/2Rv1ejNPg23IdQQhlZxdOQ) | 2:59 |
 | 57 | [No Me Sé Rajar](https://open.spotify.com/track/7AwZAlZqOgYbmg9KoHFFi8) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Que Manera Te Olvido](https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz) | 2:24 |
 | 58 | [Tata Dios](https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:29 |
 | 59 | [Ella](https://open.spotify.com/track/2STwUtOKrzqmNF23NSS0ey) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 2:49 |
-| 60 | [Nadie Es Eterno](https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Hombre Derecho](https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl) | 3:08 |
+| 60 | [El Adolorido](https://open.spotify.com/track/48GVUFn3gtM9taw5aZYlge) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 2:58 |
 | 61 | [Las Rejas No Matan](https://open.spotify.com/track/4XawDdKDqVXESh3qsBjxli) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 3:08 |
 | 62 | [Para Siempre](https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:51 |
 | 63 | [El Jinete](https://open.spotify.com/track/7rvTNx03Rl9R9uO4wMqB9G) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Miguel Aceves Mejía](https://open.spotify.com/album/1kT6rtJaVnbltJIRR8jbl6) | 2:59 |

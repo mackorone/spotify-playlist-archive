@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > pa ponerte más mami 🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,793 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,768 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 20 | [Ride Or Die, Pt\. 2 \(with Villano Antillano & Tokischa\)](https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Ride Or Die, Pt\. 2](https://open.spotify.com/album/0KSwPzRWwU14SH8QUCwfM0) | 2:38 |
 | 21 | [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 |
 | 22 | [LA INOCENTE](https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:22 |
-| 23 | [capaz \(merengueton\)](https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [capaz \(merengueton\)](https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV) | 2:53 |
+| 23 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 |
 | 24 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
-| 25 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 |
+| 25 | [capaz \(merengueton\)](https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [capaz \(merengueton\)](https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV) | 2:53 |
 | 26 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 |
 | 27 | [Rompe](https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino En Directo](https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy) | 3:08 |
 | 28 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |

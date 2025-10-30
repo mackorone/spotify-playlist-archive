@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-1,169 songs - 2 day 13 hr 52 min
+1,170 songs - 2 day 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Bejeweled](https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-10-22 | 2022-10-24 |
 | [Bellakr](https://open.spotify.com/track/4R5yYpjZedXJwosjSMUSFb) | [Diego Letelier](https://open.spotify.com/artist/18ll52U80YWJSUdVT36d4V) | [Bellakr](https://open.spotify.com/album/7cHNp5l6PqA1xv274bvJj5) | 2:51 | 2024-01-10 | 2024-01-12 |
 | [Bemaste](https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Bemaste](https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO) | 2:24 | 2023-01-19 | 2023-01-27 |
+| [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-10-29 |  |
 | [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 | 2022-07-09 | 2022-11-23 |
 | [BESAME \(feat\. Tiago PZK, Khea & Neo Pistea\) \- Remix](https://open.spotify.com/track/3GD6eImRvT0zgr8cQnokUq) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [BESAME \(feat\. Tiago PZK, Khea & Neo Pistea\) \[Remix\]](https://open.spotify.com/album/6rkhVb5zrsbR24Rpno9kHq) | 4:44 | 2024-04-18 | 2024-07-31 |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-03-25 | 2023-07-09 |
@@ -971,7 +972,7 @@
 | [TAMBIÉN](https://open.spotify.com/track/39Pc4a04VgCtcc7m0XKi9M) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 2:19 | 2024-10-08 | 2024-12-09 |
 | [Tamo Chelo](https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Tamo Chelo](https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD) | 1:52 | 2022-01-16 | 2022-06-08 |
 | [Tan Lejos](https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Juan Casanova](https://open.spotify.com/artist/6AvKcjNtR1AYU8wN72MvNK) | [El Camino Más Largo](https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX) | 4:58 | 2025-03-13 |  |
-| [Tan Nervioso](https://open.spotify.com/track/0sf2srhosDzfozt7AfF1vO) | [LA NUEVA ESCUELA](https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx) | [Tan Nervioso](https://open.spotify.com/album/3JXr7EvKGQOReoiPpFZ4AJ) | 3:27 | 2024-07-15 |  |
+| [Tan Nervioso](https://open.spotify.com/track/0sf2srhosDzfozt7AfF1vO) | [LA NUEVA ESCUELA](https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx) | [Tan Nervioso](https://open.spotify.com/album/3JXr7EvKGQOReoiPpFZ4AJ) | 3:27 | 2024-07-15 | 2025-10-30 |
 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 | 2022-05-07 | 2022-09-11 |
 | [Tarzan](https://open.spotify.com/track/2WuIvu6jnM0a6qho8bL4h3) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp), [La Kikada](https://open.spotify.com/artist/7Fpb4yEAPfiQfY0Bx0uLm5) | [Tarzan](https://open.spotify.com/album/3vhqthzJQx6ZF1AQsyprGD) | 3:15 | 2024-05-15 | 2024-05-24 |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-27 | 2024-09-08 |

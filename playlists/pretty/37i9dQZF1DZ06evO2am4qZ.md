@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,994 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,993 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 32 | [Bitches luv Kunt](https://open.spotify.com/track/79dFiwDYTb0w5xq0TWxaQl) | [Fetish](https://open.spotify.com/artist/3g3F7yWVfcFrd0aO2VXTXW), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [KLUBFETISH](https://open.spotify.com/album/0YWta22ockLSMT0EA4I07s) | 2:46 |
 | 33 | [Focused](https://open.spotify.com/track/0R86U2o1voaXPzvL5QrNWE) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:46 |
 | 34 | [Dancing Queen](https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:09 |
-| 35 | [A Ballad for Homegirls \(feat\. Baby Tate\)](https://open.spotify.com/track/2onp5lGTSamwuGlmfeHNJW) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 4:22 |
-| 36 | [Eenie Meenie](https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Eenie Meenie](https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l) | 2:22 |
+| 35 | [Eenie Meenie](https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Eenie Meenie](https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l) | 2:22 |
+| 36 | [A Ballad for Homegirls \(feat\. Baby Tate\)](https://open.spotify.com/track/2onp5lGTSamwuGlmfeHNJW) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 4:22 |
 | 37 | [Super Sick](https://open.spotify.com/track/2owaOpvrM3m6l7p3q8eAKc) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 2:06 |
 | 38 | [Dirty Girl \(with Baby Tate\)](https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Ms\. Out Tonight](https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq) | 3:29 |
 | 39 | [DAMN DANIEL \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/7yAhHmdoPORDtJIxtugoNY) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [2000AND4EVA](https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt) | 2:52 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 45 | [Olipop](https://open.spotify.com/track/5YhmPL3vhBGSMKt39oCwWH) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 1:44 |
 | 46 | [Wig](https://open.spotify.com/track/1Vx3GtCAj9Hl5tajqA7McX) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 2:42 |
 | 47 | [What's Love](https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 4:10 |
-| 48 | [Don’t Even Think About It \(with Baby Tate\)](https://open.spotify.com/track/0RZJ2iTypYLPaN9bdQMuIK) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:12 |
-| 49 | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/track/4I8BPrBeb1LjE4QHFYBJvP) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:04 |
-| 50 | [Fine](https://open.spotify.com/track/1crxMZzlCfCFMcuBID0Exf) | [Izye](https://open.spotify.com/artist/73fhQEN7dIjU6svM8ez3yv), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Fine](https://open.spotify.com/album/73UsWRce52p5IBTy8gDf4M) | 2:51 |
+| 48 | [Fine](https://open.spotify.com/track/1crxMZzlCfCFMcuBID0Exf) | [Izye](https://open.spotify.com/artist/73fhQEN7dIjU6svM8ez3yv), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Fine](https://open.spotify.com/album/73UsWRce52p5IBTy8gDf4M) | 2:51 |
+| 49 | [Don’t Even Think About It \(with Baby Tate\)](https://open.spotify.com/track/0RZJ2iTypYLPaN9bdQMuIK) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:12 |
+| 50 | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/track/4I8BPrBeb1LjE4QHFYBJvP) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:04 |
 
-Snapshot ID: `aP62AAAAAADTO9GnP50NWHuv01CPY6oZ`
+Snapshot ID: `aQAHgAAAAABGN8gFa/wYKZMw+wxOgxKR`

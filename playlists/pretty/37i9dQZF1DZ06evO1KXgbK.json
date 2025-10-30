@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAA81zlXGPgN9O4d8LZkKqx7",
+  "snapshot_id": "aQAHgAAAAAAxKvcvDIyto6tbtKCwqLnM",
   "tracks": [
     {
       "added_at": null,
@@ -167,34 +167,6 @@
       "duration_ms": 176093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honky Tonk Angels",
-        "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        },
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        },
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        }
-      ],
-      "duration_ms": 138093,
-      "name": "Lovesick Blues (with Patsy Cline)",
-      "url": "https://open.spotify.com/track/4VX5F5jHoVO8g9SiEFzBTb"
     },
     {
       "added_at": null,
@@ -763,6 +735,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Honky Tonk Angels",
+        "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        },
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        },
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "duration_ms": 138093,
+      "name": "Lovesick Blues (with Patsy Cline)",
+      "url": "https://open.spotify.com/track/4VX5F5jHoVO8g9SiEFzBTb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rockstar (Deluxe)",
         "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
       },
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Dolly Parton",
+        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To All The Girls...",
         "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 241880,
       "name": "From Here to the Moon and Back (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/1SG91Ocs6KjP8DQlPmITgU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Dolly Parton",
-        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO"
     },
     {
       "added_at": null,

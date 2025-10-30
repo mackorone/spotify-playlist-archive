@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,571,775 likes - 70 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,572,244 likes - 70 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 26 | [Cada Vez Mais Gostosa](https://open.spotify.com/track/6v6MmJlw7elqJUty23mvS4) | [Dj Tchouzen](https://open.spotify.com/artist/2nRKgPUikjmFOJ1UBmh8Fy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [Cada Vez Mais Gostosa](https://open.spotify.com/album/4QruqlNqDMXyQYOp5oLUq1) | 2:13 |
 | 27 | [Baile do Panta](https://open.spotify.com/track/5AoOD6SAzOOE6jwxvRIBPq) | [Nego Trufa](https://open.spotify.com/artist/62Gt9kCSVSxobYTVkrowRy), [Dj TC](https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6) | [Baile do Panta](https://open.spotify.com/album/6sPc0S84IlwDrHbPmPV424) | 2:09 |
 | 28 | [Ama Um Maloqueiro](https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Ama Um Maloqueiro](https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S) | 2:42 |
-| 29 | [FAMOSINHA](https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al) | [Dj Caio Vieira](https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [FAMOSINHA](https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26) | 2:12 |
+| 29 | [FAMOSINHA](https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al) | [Dj Caio Vieira](https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [FAMOSINHA](https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26) | 2:13 |
 | 30 | [P do Pecado \- Ao Vivo](https://open.spotify.com/track/7EknynLJTt9YMm1HL37s5D) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [P do Pecado \(Ao Vivo\)](https://open.spotify.com/album/2JyYavPMFsaTRZFrc77bc3) | 3:12 |
 | 31 | [Fica de Quatão](https://open.spotify.com/track/17gBJOuwAuQ98vmQaW0Rfk) | [DJ Biel Divulga](https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o), [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [Mc Lekão](https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ) | [Fica de Quatão](https://open.spotify.com/album/2pmXmv1sVOAp0DYgvXBYkk) | 2:13 |
 | 32 | [Encosta na Parede](https://open.spotify.com/track/4EVIYtNeI4O8h0lmE0wycC) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Teko Bolado](https://open.spotify.com/artist/0hl7gXAUNmCr3cyhoE5Yga), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Encosta na Parede](https://open.spotify.com/album/4Lx2IrKx6HwDR1kEfXh2F0) | 2:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,601 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,592 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 40 | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd) | 2:40 |
 | 41 | [Zanotti](https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 4:26 |
 | 42 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 |
-| 43 | [fairytale](https://open.spotify.com/track/31hPMfO7V6NNkIGnnqZbD1) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [fairytale](https://open.spotify.com/album/0GhZQH23THeKz9bXubBEyv) | 2:29 |
-| 44 | [On One](https://open.spotify.com/track/3fn6702K3cgeHDNqtMFtSW) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [On One](https://open.spotify.com/album/0piWOK8MKvsOxL3FNYOLFY) | 2:43 |
+| 43 | [HYSJ \(ICED\)](https://open.spotify.com/track/3JXoRVmB1XBRx28aP8OoRJ) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [Krobbe](https://open.spotify.com/artist/7GXGB5x4GvnZpl7AnjM3Ej), [UGANG](https://open.spotify.com/artist/68NG7HHIQ3vm9DGnWE52gE) | [HYSJ \(ICED\)](https://open.spotify.com/album/5XfBIt784dpEj7JMVAmx81) | 2:28 |
+| 44 | [fairytale](https://open.spotify.com/track/31hPMfO7V6NNkIGnnqZbD1) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [fairytale](https://open.spotify.com/album/0GhZQH23THeKz9bXubBEyv) | 2:29 |
 | 45 | [BIPOLAR](https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Kaja Gunnufsen](https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:50 |
-| 46 | [En Vakker Dag](https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [En Vakker Dag](https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB) | 2:30 |
-| 47 | [HYSJ \(ICED\)](https://open.spotify.com/track/3JXoRVmB1XBRx28aP8OoRJ) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [Krobbe](https://open.spotify.com/artist/7GXGB5x4GvnZpl7AnjM3Ej), [UGANG](https://open.spotify.com/artist/68NG7HHIQ3vm9DGnWE52gE) | [HYSJ \(ICED\)](https://open.spotify.com/album/5XfBIt784dpEj7JMVAmx81) | 2:28 |
+| 46 | [On One](https://open.spotify.com/track/3fn6702K3cgeHDNqtMFtSW) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [On One](https://open.spotify.com/album/0piWOK8MKvsOxL3FNYOLFY) | 2:43 |
+| 47 | [En Vakker Dag](https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [En Vakker Dag](https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB) | 2:30 |
 | 48 | [FaceTime](https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Okej att dö](https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B) | 2:24 |
 | 49 | [Djevelens Salong](https://open.spotify.com/track/5D6svoWxjXsiSDc5iBfeNT) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi), [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [Djevelens Salong](https://open.spotify.com/album/37LVW3GvXut6cdPr89QHRn) | 2:41 |
 | 50 | [Samma det](https://open.spotify.com/track/3wsLovP5LHvUL4fqqjX0xh) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Samma det](https://open.spotify.com/album/7MKCQPH6Z9o5uSdIlvK0tp) | 2:34 |

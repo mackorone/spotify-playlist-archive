@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,186 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,254 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 30 | [go!](https://open.spotify.com/track/5t2y268snYiNava21XWxMZ) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [TRUE MAGIC](https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM) | 2:11 |
 | 31 | [IN THE RAIN x XDM](https://open.spotify.com/track/1V33peoBd9zVqKX5xUIjuh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IN THE RAIN](https://open.spotify.com/album/6ny2h77H2ss1kMCsxtY22L) | 3:14 |
 | 32 | [KURU KURU HARAJUKU](https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [KURU KURU HARAJUKU](https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP) | 4:17 |
-| 33 | [Clockwork Dub](https://open.spotify.com/track/13rcE5fNdeR8fL7Y7DwSaA) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Lost City Archives, Vol\. 4](https://open.spotify.com/album/6K44LrVGB7csp6698Bly9a) | 4:54 |
-| 34 | [Dry Action Pump](https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [ALL HAZE](https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ) | 4:19 |
-| 35 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
+| 33 | [Dry Action Pump](https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [ALL HAZE](https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ) | 4:19 |
+| 34 | [Clockwork Dub](https://open.spotify.com/track/13rcE5fNdeR8fL7Y7DwSaA) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Lost City Archives, Vol\. 4](https://open.spotify.com/album/6K44LrVGB7csp6698Bly9a) | 4:54 |
+| 35 | [wo ai ni \- Shinichi Osawa Remix](https://open.spotify.com/track/0SMRll97QhuWoiqSkLKwzt) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [wo ai ni](https://open.spotify.com/album/09bLG3oFSKVqvPG3tk5AzV) | 3:33 |
 | 36 | [WOKE UP x XDM](https://open.spotify.com/track/1a5Dhd82KaUqmz3sQEDNbs) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [XDM Unidentified Waves](https://open.spotify.com/album/1z3VCBUJBHkpDHtzOZP205) | 3:09 |
-| 37 | [Beautiful Moment \- Original Floor Mix](https://open.spotify.com/track/0DpqLVjEXKrH0eo9kzlkCe) | [Hideo Kobayashi](https://open.spotify.com/artist/0gV5bvZtcmDvLJb1IUD9MM), [Christa](https://open.spotify.com/artist/4Eig764BKXeMMzJ3tKTuHp) | [Republica Cafe Gold \(Compiled by Marco Fullone\)](https://open.spotify.com/album/1RZEMH8G4czKTZBauBLDHy) | 5:26 |
-| 38 | [wo ai ni \- Shinichi Osawa Remix](https://open.spotify.com/track/0SMRll97QhuWoiqSkLKwzt) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [wo ai ni](https://open.spotify.com/album/09bLG3oFSKVqvPG3tk5AzV) | 3:33 |
+| 37 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
+| 38 | [Beautiful Moment \- Original Floor Mix](https://open.spotify.com/track/0DpqLVjEXKrH0eo9kzlkCe) | [Hideo Kobayashi](https://open.spotify.com/artist/0gV5bvZtcmDvLJb1IUD9MM), [Christa](https://open.spotify.com/artist/4Eig764BKXeMMzJ3tKTuHp) | [Republica Cafe Gold \(Compiled by Marco Fullone\)](https://open.spotify.com/album/1RZEMH8G4czKTZBauBLDHy) | 5:26 |
 | 39 | [Wwww](https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf) | [DJ Nobu](https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9) | [ON\-Netoh](https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT) | 6:15 |
 | 40 | [Say Less](https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu) | [勢喜遊](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [Say Less](https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX) | 2:43 |
 | 41 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |

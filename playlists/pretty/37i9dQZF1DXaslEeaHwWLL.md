@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 
 > The biggest songs in Latin America in 2017\. Cover: Daddy Yankee & Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,654 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,703 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 | 10 | [Ahora Dice](https://open.spotify.com/track/5lhcHMDQpNwhM62lSOrvLf) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Ahora Dice](https://open.spotify.com/album/4aaDxJmUbZuIsBHSRclIre) | 4:30 |
 | 11 | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:40 |
 | 12 | [Escápate Conmigo \(feat\. Ozuna\)](https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Victory](https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k) | 3:52 |
-| 13 | [Vuelve](https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Vuelve](https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO) | 4:39 |
-| 14 | [El Amante](https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:39 |
+| 13 | [El Amante](https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:39 |
+| 14 | [Vuelve](https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Vuelve](https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO) | 4:39 |
 | 15 | [Robarte un Beso](https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:14 |
 | 16 | [El Farsante](https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:53 |
 | 17 | [Mayores](https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:23 |

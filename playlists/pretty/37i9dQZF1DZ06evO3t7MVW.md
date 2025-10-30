@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,898 likes - 47 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,908 likes - 47 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 16 | [Choice Is Yours \(with Slightly Stoopid\)](https://open.spotify.com/track/1azvKxDb5Vkph2KR7aq1Cx) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 5:05 |
 | 17 | [Visions \(with Stick Figure\)](https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Visions](https://open.spotify.com/album/4Suls86gUFWBN7rP3MKphB) | 3:47 |
 | 18 | [Coming Home](https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:43 |
-| 19 | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF) | 4:34 |
+| 19 | [Treasure \(with Stick Figure\)](https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO) | [Stay High](https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Treasure \(with Stick Figure\)](https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS) | 3:22 |
 | 20 | [In This Love](https://open.spotify.com/track/3u1bKblfqeghD3grk3Le2w) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 4:12 |
-| 21 | [Treasure \(with Stick Figure\)](https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO) | [Stay High](https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Treasure \(with Stick Figure\)](https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS) | 3:22 |
+| 21 | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF) | 4:34 |
 | 22 | [Above the Storm](https://open.spotify.com/track/1mOQwe1UcsuK3l3MGFtim6) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:54 |
 | 23 | [Home \(with Stick Figure\)](https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Home \(with Stick Figure\)](https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG) | 3:30 |
 | 24 | [Fire on the Horizon](https://open.spotify.com/track/7mnk9W0umx7q4Vo4FjtOot) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 5:27 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 41 | [Hawaii Song](https://open.spotify.com/track/3rqNbu3pkx6wthuAXAtaGd) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/2ecSuU7MQZI5CH7Mhjxc50) | 5:04 |
 | 42 | [Golden Hour](https://open.spotify.com/track/3K7g0NbCyMC2G1BpL4gVxX) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:26 |
 | 43 | [Slow Ride](https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Slow Ride](https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX) | 3:52 |
-| 44 | [Natural Mystic](https://open.spotify.com/track/6zRTifE3Ianv6ClqYTIwQC) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Natural Mystic](https://open.spotify.com/album/5xwwqaY5S4blxRznTfrHwe) | 3:15 |
-| 45 | [Showdown \(with Collie Buddz\)](https://open.spotify.com/track/3z9AA2p7kCDX8Ds8Donb7l) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:25 |
+| 44 | [Showdown \(with Collie Buddz\)](https://open.spotify.com/track/3z9AA2p7kCDX8Ds8Donb7l) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:25 |
+| 45 | [Natural Mystic](https://open.spotify.com/track/6zRTifE3Ianv6ClqYTIwQC) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Natural Mystic](https://open.spotify.com/album/5xwwqaY5S4blxRznTfrHwe) | 3:15 |
 | 46 | [Under Arrest](https://open.spotify.com/track/3z5vTjTWPIzyujnDVDySMT) | [Alific](https://open.spotify.com/artist/4Kv7Splj4TPpJdZkkNd78K), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Echoes From The Soul](https://open.spotify.com/album/1Yj99B7hugPMgtJHMyPNte) | 3:50 |
 | 47 | [Livin' It](https://open.spotify.com/track/7Jc9CbbxW8c1VVUIRdrpyL) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/2ecSuU7MQZI5CH7Mhjxc50) | 5:59 |
 
-Snapshot ID: `aP62AAAAAAAPmudxpen0rmbqco6sJOwg`
+Snapshot ID: `aQAHgAAAAADhjXgEBZjmd9kb/fmwDJa+`

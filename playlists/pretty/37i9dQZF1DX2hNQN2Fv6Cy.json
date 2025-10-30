@@ -1,6 +1,6 @@
 {
   "description": "90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.",
-  "num_followers": 212367,
+  "num_followers": 212651,
   "original_name": "R&B Classics Party",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Cassie (U.S. Version)",
+        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
+      },
+      "artists": [
+        {
+          "name": "Cassie",
+          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 224440,
       "name": "21 Questions",
       "url": "https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Cassie (U.S. Version)",
-        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
-      },
-      "artists": [
-        {
-          "name": "Cassie",
-          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
-        }
-      ],
-      "duration_ms": 192213,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Man Down",
-      "url": "https://open.spotify.com/track/1Bx0zEdVjkFlV27iKaePug"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/1Bx0zEdVjkFlV27iKaePug"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 294866,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Duets: The Final Chapter",
         "url": "https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 286186,
       "name": "Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2005 Remaster",
       "url": "https://open.spotify.com/track/4GIsskMpViPkt0uzPJTJSp"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 294866,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 261800,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/5rPzPAaOUceS8HiAculegz"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Disturbing Tha Peace Presents Bobby Valentino",
         "url": "https://open.spotify.com/album/6tiqcLj9TP3qaxWUbNuPYn"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 260066,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6kLZ1DzSxBkNVvdQm6CX0N"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 261800,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/5rPzPAaOUceS8HiAculegz"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 269400,
-      "name": "U Don't Have to Call",
-      "url": "https://open.spotify.com/track/5PCJldueshnwqQVjS16543"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "The Dynasty: Roc La Familia",
         "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 227866,
       "name": "I Just Wanna Love U (Give It 2 Me)",
       "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 269400,
+      "name": "U Don't Have to Call",
+      "url": "https://open.spotify.com/track/5PCJldueshnwqQVjS16543"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "A Day in the Life",
+        "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
+      },
+      "artists": [
+        {
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+        },
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 280880,
+      "name": "Georgy Porgy (feat. Faith Evans)",
+      "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Jagged Little Thrill",
         "url": "https://open.spotify.com/album/6aJHauR45e8XzoEeUgENtE"
       },
@@ -1783,26 +1803,6 @@
       "duration_ms": 249026,
       "name": "Let's Get Married (feat. Run) - ReMarqable Remix",
       "url": "https://open.spotify.com/track/0mDSPvA2OAgIsSiGGGAesm"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "A Day in the Life",
-        "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
-      },
-      "artists": [
-        {
-          "name": "Eric Ben\u00e9t",
-          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
-        },
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 280880,
-      "name": "Georgy Porgy (feat. Faith Evans)",
-      "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2151,26 +2151,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Pain Is Love",
-        "url": "https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf"
-      },
-      "artists": [
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
-        }
-      ],
-      "duration_ms": 257066,
-      "name": "Livin' It Up",
-      "url": "https://open.spotify.com/track/52gqeRlrBE7hqMlRxEsi6y"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/6nUnNpoLKWpb9qxhYiT98S"
       },
@@ -2195,18 +2175,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Life After Death (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2sRdk7s8ObFBEn3ZoPmE5r"
+        "name": "Pain Is Love",
+        "url": "https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf"
       },
       "artists": [
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
         }
       ],
-      "duration_ms": 230053,
-      "name": "Hypnotize",
-      "url": "https://open.spotify.com/track/2ujbOwvdiH020TO5EucGiX"
+      "duration_ms": 257066,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/52gqeRlrBE7hqMlRxEsi6y"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2227,6 +2211,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Life After Death (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2sRdk7s8ObFBEn3ZoPmE5r"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 230053,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/2ujbOwvdiH020TO5EucGiX"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Chris Brown",
         "url": "https://open.spotify.com/album/2gRm1k9fVkhTfZDHvBI2sR"
       },
@@ -2239,6 +2239,22 @@
       "duration_ms": 229040,
       "name": "Yo (Excuse Me Miss)",
       "url": "https://open.spotify.com/track/1zpu1PZ8ecmcX525Z3X8cl"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Rappa Ternt Sanga",
+        "url": "https://open.spotify.com/album/67kj88d9xbscqqG8EdMpIu"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "I'm Sprung",
+      "url": "https://open.spotify.com/track/0F7rEdewJ6cSLylOZZpDu7"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2259,22 +2275,6 @@
       "duration_ms": 245093,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/0zaWQBwkfh9OmK77CiDmRI"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Rappa Ternt Sanga",
-        "url": "https://open.spotify.com/album/67kj88d9xbscqqG8EdMpIu"
-      },
-      "artists": [
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 231040,
-      "name": "I'm Sprung",
-      "url": "https://open.spotify.com/track/0F7rEdewJ6cSLylOZZpDu7"
     },
     {
       "added_at": "2024-07-15 07:37:26",

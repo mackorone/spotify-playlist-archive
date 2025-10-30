@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Original Koffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,187,483 likes - 110 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,187,199 likes - 110 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 81 | [My Kinda Girl](https://open.spotify.com/track/3ca9aWbM7H6j138sWF4fPG) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Never Ending](https://open.spotify.com/album/6pJrd3qBSNWEeidE1W0Ukd) | 4:14 |
 | 82 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ) | 4:03 |
 | 83 | [My World](https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:18 |
-| 84 | [Too Late to Lie](https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Too Late to Lie](https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj) | 3:39 |
+| 84 | [Currency Called Time](https://open.spotify.com/track/6SDAQpax26v24Q1p7JApWL) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [Currency Called Time](https://open.spotify.com/album/5pCiaqaJQiTzbSRSP2rd2s) | 3:41 |
 | 85 | [Cool Down](https://open.spotify.com/track/7ktaE00AVIPqSNkyQ4GVEe) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Cool Down](https://open.spotify.com/album/4AGbPjkx87jkHek4TEoE93) | 4:02 |
-| 86 | [Currency Called Time](https://open.spotify.com/track/6SDAQpax26v24Q1p7JApWL) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [Currency Called Time](https://open.spotify.com/album/5pCiaqaJQiTzbSRSP2rd2s) | 3:41 |
+| 86 | [Too Late to Lie](https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Too Late to Lie](https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj) | 3:39 |
 | 87 | [Egaux](https://open.spotify.com/track/2dS4meH8cow2zKTXLMeSXQ) | [Nuttea](https://open.spotify.com/artist/65LSKdbofg1NdWkaLSVXKc), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Egaux](https://open.spotify.com/album/4aGx8deIzw92Dib4AH5PrC) | 3:04 |
 | 88 | [Sticky](https://open.spotify.com/track/4smyzd6JsDctqs5Fy104LL) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Universal Cure](https://open.spotify.com/album/2dqWoTG0zlhoy2iY4ZGaGf) | 3:29 |
 | 89 | [Think About You \- Notion Mix](https://open.spotify.com/track/698qfbrci5r8U0EKceXhml) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Think About You \(Notion Mix\)](https://open.spotify.com/album/3LDQk8fS6P9E2lJVO0vUY4) | 3:14 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 91 | [Dinero](https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Dinero](https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj) | 2:53 |
 | 92 | [Love That Don't Change](https://open.spotify.com/track/5Grg0T6Warm8nAXeD1LE5d) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Zion I Kings](https://open.spotify.com/artist/3fvdJGrr5hUYtqoYJkhvCj) | [Love That Don't Change](https://open.spotify.com/album/63kwJPFzIUVO0uulgw7tFe) | 3:16 |
 | 93 | [Refugee](https://open.spotify.com/track/1lIYXCQKvrKD4Y08sKf9kv) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Refugee](https://open.spotify.com/album/13BBjiT3oxvADdeD4n4qb7) | 3:30 |
-| 94 | [If You Only Knew](https://open.spotify.com/track/7kXo7sb4Lz9sBNW5KT8Zk7) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [If You Only Knew](https://open.spotify.com/album/4rpHnpIibaiGM1WVUHkvIk) | 4:01 |
-| 95 | [Slave Driver \- Jamaican Version](https://open.spotify.com/track/3f6Rdsc0t4mufxpACj4Gzi) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 2:53 |
+| 94 | [Slave Driver \- Jamaican Version](https://open.spotify.com/track/3f6Rdsc0t4mufxpACj4Gzi) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 2:53 |
+| 95 | [If You Only Knew](https://open.spotify.com/track/7kXo7sb4Lz9sBNW5KT8Zk7) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [If You Only Knew](https://open.spotify.com/album/4rpHnpIibaiGM1WVUHkvIk) | 4:01 |
 | 96 | [Mountain Top](https://open.spotify.com/track/6hqpa3TiYUz8RYZZf1drrR) | [Biga\*Ranx](https://open.spotify.com/artist/5rgdw8NVhnxWL8Poo6HsiX) | [Mountain Top](https://open.spotify.com/album/0KM7iPKWcc9rUeXV0mmdVg) | 2:20 |
 | 97 | [Steamers a Bubble](https://open.spotify.com/track/16hOumjVFbwTmkZ0n7rDf3) | [Jah9](https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH) | [Steamers a Bubble](https://open.spotify.com/album/6gr7NaB0xIz3vxbonltlty) | 4:17 |
 | 98 | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY) | 3:42 |

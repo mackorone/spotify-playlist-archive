@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 41045,
+  "num_followers": 41058,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAACwCjszRRDNqWG80D6/d7e6",
+  "snapshot_id": "aQAHgAAAAACC4owoVQrrbTsBtzZdgdX+",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D.M.8.",
-        "url": "https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Miguel Comando",
-          "url": "https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm"
-        }
-      ],
-      "duration_ms": 271541,
-      "name": "D.M.8.",
-      "url": "https://open.spotify.com/track/5FlA2DSMSewJsrR00Q9IdZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NataKong",
         "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 222732,
       "name": "De A De Veras",
       "url": "https://open.spotify.com/track/3C2wa3nyaZl7CCbW9N3oAg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D.M.8.",
+        "url": "https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Miguel Comando",
+          "url": "https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm"
+        }
+      ],
+      "duration_ms": 271541,
+      "name": "D.M.8.",
+      "url": "https://open.spotify.com/track/5FlA2DSMSewJsrR00Q9IdZ"
     },
     {
       "added_at": null,

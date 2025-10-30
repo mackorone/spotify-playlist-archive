@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxPM4nWdhyI.md) - [plain]
 
 > All his biggest hits, in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,632,461 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,632,466 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxPM4nWdhyI.md) - [plain]
 | 40 | [Magical](https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:14 |
 | 41 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 |
 | 42 | [Blue](https://open.spotify.com/track/3SWLFqvadQmOMpEfrp4FMU) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 2:33 |
-| 43 | [Heaven](https://open.spotify.com/track/76TjANw8kPHPJDv8X8chQp) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 4:02 |
+| 43 | [Heaven](https://open.spotify.com/track/76TjANw8kPHPJDv8X8chQp) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 4:03 |
 | 44 | [Supermarket Flowers](https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:41 |
 | 45 | [I See Fire](https://open.spotify.com/track/5pY3ovFxbvAg7reGZjJQSp) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:59 |
 | 46 | [Bloodstream](https://open.spotify.com/track/5v4sZRuvWDcisoOk1PFv6T) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 5:00 |

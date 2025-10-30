@@ -1,12 +1,12 @@
 {
   "description": "This is Pearl Jam. The essential tracks, all in one playlist.",
-  "num_followers": 793645,
+  "num_followers": 793683,
   "original_name": "This Is Pearl Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAC3XKX8R03ebGMQZ/TNfY2a",
+  "snapshot_id": "aQAHgAAAAABuxgLe9e3/AyegYzZNf+mz",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "rearviewmirror (greatest hits 1991-2003)",
-        "url": "https://open.spotify.com/album/6JWofs9yE9d4Bh2R40u92W"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 223800,
-      "name": "State of Love and Trust",
-      "url": "https://open.spotify.com/track/6GUoi7rEtaX4grD61qr0uP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lightning Bolt",
         "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 262893,
       "name": "Future Days",
       "url": "https://open.spotify.com/track/22sDLvlzAJzH0BHiMSOfRP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "rearviewmirror (greatest hits 1991-2003)",
+        "url": "https://open.spotify.com/album/6JWofs9yE9d4Bh2R40u92W"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 223800,
+      "name": "State of Love and Trust",
+      "url": "https://open.spotify.com/track/6GUoi7rEtaX4grD61qr0uP"
     },
     {
       "added_at": null,

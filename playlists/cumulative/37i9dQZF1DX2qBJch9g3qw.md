@@ -4,7 +4,7 @@
 
 > lost in a haze
 
-60 songs - 3 hr 27 min
+61 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Don't](https://open.spotify.com/track/3pXF1nA74528Edde4of9CC) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:18 | 2025-09-18 |  |
 | [Don't Cry Mama](https://open.spotify.com/track/6FRR67NLpX4lUjnCVhwfe4) | [Saskia](https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB) | [Don't Cry Mama](https://open.spotify.com/album/79GK5Ec1fgvxqUGkgwkg77) | 3:37 | 2025-09-18 |  |
 | [Downers](https://open.spotify.com/track/1fnU60yGjhsP1QY335rH2m) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers](https://open.spotify.com/album/1luS1QdwBrhQzsnbJlyySt) | 3:38 | 2025-09-18 |  |
+| [downward spiral](https://open.spotify.com/track/41NLDchtPOKKkSCKtoygBI) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [downward spiral](https://open.spotify.com/album/6B4BCGkmYIQwEjWkV8TybZ) | 2:25 | 2025-09-18 |  |
 | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 | 2025-09-18 |  |
 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 | 2025-09-18 |  |
 | [Fall in Love With Her](https://open.spotify.com/track/3qk0TOeA6WtKsLbwQC8I8J) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Fall In Love With Her](https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9) | 4:05 | 2025-09-18 |  |
@@ -36,7 +37,7 @@
 | [i might](https://open.spotify.com/track/7G5msnKmV8flQ7IvQJfv9n) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [i might](https://open.spotify.com/album/4A1o93hNqwkiNYnexYvlYp) | 2:50 | 2025-09-18 |  |
 | [I Want You Around](https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:32 | 2025-09-18 |  |
 | [I Wish you Roses](https://open.spotify.com/track/35SbrfbaSpGUBX7e5BPega) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:39 | 2025-09-18 |  |
-| [Imperfect Me](https://open.spotify.com/track/2C5M5oQOLjaTiBAInYxEty) | [INDIA BLUE](https://open.spotify.com/artist/5M91kIFBO3vwGoHceiMugI) | [Imperfect Me](https://open.spotify.com/album/4Du59lDEB6pAv7B89QNtx4) | 3:54 | 2025-09-18 |  |
+| [Imperfect Me](https://open.spotify.com/track/2C5M5oQOLjaTiBAInYxEty) | [INDIA BLUE](https://open.spotify.com/artist/5M91kIFBO3vwGoHceiMugI) | [Imperfect Me](https://open.spotify.com/album/4Du59lDEB6pAv7B89QNtx4) | 3:54 | 2025-09-18 | 2025-10-30 |
 | [In the Morning](https://open.spotify.com/track/3pRyeZCIGdaO84RSBj9Bj7) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 4:06 | 2025-09-18 |  |
 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 | 2025-09-18 |  |
 | [it all ends with us](https://open.spotify.com/track/4XAfqNOaiPj8WZw7r7pNYL) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [it all ends with us](https://open.spotify.com/album/6HZA7wSrjCAwRC9x1BQG1J) | 3:46 | 2025-09-18 |  |

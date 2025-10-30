@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Dipinto e Frezza in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,990 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,004 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 43 | [MISFITS \(feat\. Cecchy\)](https://open.spotify.com/track/7IoXhbM2I7w22a8Ge4HbjF) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Niko Beatz](https://open.spotify.com/artist/38KfktpTerKDEMxWtbSdCH), [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN) | [Angeli Violenti](https://open.spotify.com/album/6pKpBKHov6EhhP362AeFLm) | 3:19 |
 | 44 | [HASTA LA MUERTE](https://open.spotify.com/track/7rb3Fo6N2NhbsBlCtNjYUk) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [HASTA LA MUERTE](https://open.spotify.com/album/7BO0UzQeDgHK3g1rYcw4M5) | 2:34 |
 | 45 | [GHETTO STORY](https://open.spotify.com/track/1vbayyJl9wjEbA4Ck5biYI) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [GHETTO STORY](https://open.spotify.com/album/5jrLRThUMyz6d3YJmgeoPp) | 3:00 |
-| 46 | [Mafia](https://open.spotify.com/track/1C58r5MSFMBnEUB2xdYWPL) | [LM219](https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ), [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn), [Babywyne](https://open.spotify.com/artist/55hqNIuyJgDQhJrW5NSfVk) | [Mafia](https://open.spotify.com/album/0lS792KdxxZ40DepYbVfpF) | 2:45 |
+| 46 | [Mafia](https://open.spotify.com/track/1C58r5MSFMBnEUB2xdYWPL) | [LM219](https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ), [Babywyne](https://open.spotify.com/artist/55hqNIuyJgDQhJrW5NSfVk) | [Mafia](https://open.spotify.com/album/0lS792KdxxZ40DepYbVfpF) | 2:45 |
 | 47 | [ME VULEV FA RUOSS](https://open.spotify.com/track/5ZBIeRCyYvb0nGEtsvuth8) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:53 |
 | 48 | [DEMONIA](https://open.spotify.com/track/6sm1I8KQUPFAp6peLEFuZe) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [DEMONIA](https://open.spotify.com/album/1fnvtjULnkhp25og59Xciv) | 2:29 |
 | 49 | [BEE](https://open.spotify.com/track/4ZTlsr3kmSylBKSTP7f2oR) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 2:45 |

@@ -1,6 +1,6 @@
 {
   "description": "Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!",
-  "num_followers": 238290,
+  "num_followers": 238429,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-09-14 08:34:45",
       "album": {
+        "name": "Thirsty",
+        "url": "https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 415133,
+      "name": "Never Would Have Made It",
+      "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
+    },
+    {
+      "added_at": "2025-09-14 08:34:45",
+      "album": {
         "name": "I'll Fly Away (feat. Benjamin William Hastings)",
         "url": "https://open.spotify.com/album/1G1dXoBVTVsHi8ckSxwl0z"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 180936,
       "name": "I'll Fly Away (feat. Benjamin William Hastings)",
       "url": "https://open.spotify.com/track/2wyDAbsLjAysWOWr6q5NGB"
-    },
-    {
-      "added_at": "2025-09-14 08:34:45",
-      "album": {
-        "name": "Thirsty",
-        "url": "https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 415133,
-      "name": "Never Would Have Made It",
-      "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
     },
     {
       "added_at": "2025-09-14 08:34:45",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-09-14 08:34:45",
       "album": {
-        "name": "Walk Through Fire",
-        "url": "https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t"
-      },
-      "artists": [
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        }
-      ],
-      "duration_ms": 193274,
-      "name": "Walk Through Fire",
-      "url": "https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c"
-    },
-    {
-      "added_at": "2025-09-14 08:34:45",
-      "album": {
         "name": "a light in me",
         "url": "https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 191547,
       "name": "a light in me",
       "url": "https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4"
+    },
+    {
+      "added_at": "2025-09-14 08:34:45",
+      "album": {
+        "name": "Walk Through Fire",
+        "url": "https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "duration_ms": 193274,
+      "name": "Walk Through Fire",
+      "url": "https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c"
     },
     {
       "added_at": "2025-09-14 08:34:45",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-09-14 08:34:45",
       "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/3WvpV7qKTFAWnQDUwfIi0v"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        }
-      ],
-      "duration_ms": 249640,
-      "name": "Oceans (Where Feet May Fail) - Radio Version",
-      "url": "https://open.spotify.com/track/3CJZVGg64NKFXU4wYbKzXs"
-    },
-    {
-      "added_at": "2025-09-14 08:34:45",
-      "album": {
         "name": "OOWEE",
         "url": "https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 148363,
       "name": "OOWEE",
       "url": "https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u"
+    },
+    {
+      "added_at": "2025-09-14 08:34:45",
+      "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/3WvpV7qKTFAWnQDUwfIi0v"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "duration_ms": 249640,
+      "name": "Oceans (Where Feet May Fail) - Radio Version",
+      "url": "https://open.spotify.com/track/3CJZVGg64NKFXU4wYbKzXs"
     },
     {
       "added_at": "2025-09-14 08:34:45",
@@ -1215,18 +1215,22 @@
     {
       "added_at": "2025-09-14 08:34:45",
       "album": {
-        "name": "Everything_",
-        "url": "https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1"
+        "name": "Again And Again",
+        "url": "https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn"
       },
       "artists": [
         {
-          "name": "Jon",
-          "url": "https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q"
+          "name": "Land of Color",
+          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+        },
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
         }
       ],
-      "duration_ms": 231151,
-      "name": "Everything_",
-      "url": "https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq"
+      "duration_ms": 189106,
+      "name": "Again And Again",
+      "url": "https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA"
     },
     {
       "added_at": "2025-09-14 08:34:45",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2025-09-14 08:34:45",
       "album": {
-        "name": "Again And Again",
-        "url": "https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn"
+        "name": "Everything_",
+        "url": "https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1"
       },
       "artists": [
         {
-          "name": "Land of Color",
-          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
-        },
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q"
         }
       ],
-      "duration_ms": 189106,
-      "name": "Again And Again",
-      "url": "https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA"
+      "duration_ms": 231151,
+      "name": "Everything_",
+      "url": "https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq"
     },
     {
       "added_at": "2025-09-14 08:34:45",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2025-09-14 08:34:45",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/34Dz65C8XBmWJ3CZwJjGcz"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 215555,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/64mFiDTrYuDVXONvfRKyen"
-    },
-    {
-      "added_at": "2025-09-14 08:34:45",
-      "album": {
         "name": "Sweeter",
         "url": "https://open.spotify.com/album/43y1ttbhckLH6AV9i8oR0q"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 216583,
       "name": "Sweeter",
       "url": "https://open.spotify.com/track/5JhK3XsKHNrfejHmonKTto"
+    },
+    {
+      "added_at": "2025-09-14 08:34:45",
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/34Dz65C8XBmWJ3CZwJjGcz"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 215555,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/64mFiDTrYuDVXONvfRKyen"
     },
     {
       "added_at": "2025-09-14 08:34:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 
 > The Indie highlights of 2013\. Cover: HAIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,853 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,873 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 93 | [Only](https://open.spotify.com/track/1hrar0wbUsvgSUpUXR5Wq0) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z) | 4:28 |
 | 94 | [Avant Gardener](https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [The Double EP: A Sea of Split Peas](https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej) | 5:12 |
 | 95 | [An Ocean In Between The Waves](https://open.spotify.com/track/4Rw5ErjPrtzAa4lJz4KfxM) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 7:11 |
-| 96 | [This Song Is Not About A Girl](https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p) | 4:14 |
-| 97 | [Song For Zula](https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho De Lujo \(Deluxe Edition\)](https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1) | 6:10 |
+| 96 | [Song For Zula](https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho De Lujo \(Deluxe Edition\)](https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1) | 6:10 |
+| 97 | [This Song Is Not About A Girl](https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p) | 4:14 |
 | 98 | [New Flesh](https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL) | 2:47 |
 | 99 | [Berlin](https://open.spotify.com/track/57A6HbITtifBco2NbF7Qq8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z) | 2:54 |
-| 100 | [Entertainment](https://open.spotify.com/track/3KRJUa3Z1Zfupr7Zs6JByx) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/3T66rLQ5rVheco76XLrlTY) | 3:40 |
+| 100 | [So Good At Being in Trouble](https://open.spotify.com/track/5VarZFY00sO54HErJ3TPCI) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/41C5iULlHU9sMYiekI75Pn) | 3:50 |
 
 Snapshot ID: `AAAAAIZb7qHxOGB7qEdbKZ3R32L25wma`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: Mr Thela
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,764 likes - 69 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,832 likes - 69 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Come Thela 4 Me](https://open.spotify.com/track/3KWK9WOS87SeLV5QHaH5AO) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [Captain](https://open.spotify.com/artist/3jx1PdNhWfsvfBOCCipqrO), [We Dem Boyz](https://open.spotify.com/artist/0UiPZvfKIwLbsxGZcQCWhq) | [Come Thela 4 Me](https://open.spotify.com/album/6ZMyQxJFwPcNgn2oir8k7r) | 2:52 |
+| 1 | [Come Thela 4 Me](https://open.spotify.com/track/3KWK9WOS87SeLV5QHaH5AO) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [Captain](https://open.spotify.com/artist/5UcsPC18QWPz4WKvuzaanA), [We Dem Boyz](https://open.spotify.com/artist/0UiPZvfKIwLbsxGZcQCWhq) | [Come Thela 4 Me](https://open.spotify.com/album/6ZMyQxJFwPcNgn2oir8k7r) | 2:52 |
 | 2 | [Da Skoro \(feat\. DJ Lag\)](https://open.spotify.com/track/5cZ8gcUyakIIOOLwYZdrjW) | [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [Da Skoro \(feat\. DJ Lag\)](https://open.spotify.com/album/6pKmKLwY30wQl7h6xLung4) | 4:34 |
 | 3 | [Inte ncane](https://open.spotify.com/track/2TuiWcU2IsCwg9hwDR9nQJ) | [Babes Wodumo](https://open.spotify.com/artist/3jfVtv9mWfW0c5b3Fx440e), [Dee Traits](https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv), [Baba Ka Simba](https://open.spotify.com/artist/2PFCdbVntzCFVCbPCSMAWt), [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Niseni](https://open.spotify.com/artist/4Jeq4ZaG5hFygSgqyxSN1J), [Gallo](https://open.spotify.com/artist/7wQ3LDvN0qqvASIRotgQhm) | [Mabheshingo](https://open.spotify.com/album/1urUU7VzsczTZBPHJxNHhL) | 4:40 |
 | 4 | [Last Dance](https://open.spotify.com/track/4UDysN1OGxyovYsOm6nUGt) | [Afro Tech Boyz](https://open.spotify.com/artist/79FvZ8T3TzuN1bDoEZuSlB) | [Last Dance](https://open.spotify.com/album/1F0mYbxstDi7z9qgQ1joky) | 5:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 
 > This is Jorja Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,132 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,154 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 | 18 | [Loving You \(feat\. Maverick Sabre\)](https://open.spotify.com/track/3Jx1s38DVgJJwuoxAGi7kh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/4AT8IOeR5ZntLmTOeCj75j) | 2:32 |
 | 19 | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg) | 2:40 |
 | 20 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
-| 21 | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/album/6NwDHbB35rZjIQsRPSkaF5) | 3:18 |
-| 22 | [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:15 |
+| 21 | [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:15 |
+| 22 | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/album/6NwDHbB35rZjIQsRPSkaF5) | 3:18 |
 | 23 | [Peng Black Girls Remix \- A COLORS SHOW](https://open.spotify.com/track/7L15RIYFpoiHKJQNHsYhWM) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Peng Black Girls Remix \- A COLORS SHOW](https://open.spotify.com/album/472cjeBcWY3uAAJtxnpM4z) | 3:26 |
 | 24 | [Burn](https://open.spotify.com/track/099qKQ9zvTWcMDsNsasKpI) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:34 |
 | 25 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 | 49 | [Bussdown](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 |
 | 50 | [Lately Remix \(feat\. Craig David\)](https://open.spotify.com/track/5WpBfclrPYNsoqAVeJE5vC) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa) | 2:06 |
 
-Snapshot ID: `aP62AAAAAABUBXxMgCvghTN6LaeR75eo`
+Snapshot ID: `aQAHgAAAAAB87oaGpc8fvGGYmxZOBppi`

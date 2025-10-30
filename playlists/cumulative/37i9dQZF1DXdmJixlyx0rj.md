@@ -2,9 +2,9 @@
 
 ### [Electronii\[K\]](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: <br/>애리 \(AIRY\)\)
+> New & best K\-Electronic music is here\. \(Cover: The Deep\)
 
-276 songs - 15 hr 43 min
+277 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [BT14U](https://open.spotify.com/track/7I9ZGWFLz1AqaLEZqdeqHf) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [BT14U](https://open.spotify.com/album/6gdt5PwXLMsneqABEgilwQ) | 4:56 | 2024-06-28 | 2024-10-08 |
 | [Business Man](https://open.spotify.com/track/0P2DSaj99Qmq1ZtuTIdvCV) | [AEILO](https://open.spotify.com/artist/2OC4EQktpfmvqoCTeFi0gZ) | [Business Man](https://open.spotify.com/album/41LT0FtbmpSFpnAZ37mEoz) | 2:57 | 2024-08-05 | 2024-09-18 |
 | [Butterfly](https://open.spotify.com/track/5LRhz7ACO25w0sa1BXF6Av) | [ChoA](https://open.spotify.com/artist/4Nw7hgyeIEP5w5ehrMNKpq), [Juncoco](https://open.spotify.com/artist/1VO8DNH2pIBgyrjNz9V7Td) | [Butterfly](https://open.spotify.com/album/31mGG6ijRDvh5CccbgO8wT) | 2:53 | 2024-07-16 | 2024-08-28 |
-| [calling](https://open.spotify.com/track/373l9Z3SGKIG6vpI4Xkusi) | [AIRY](https://open.spotify.com/artist/5wcyZGHnvGc4lhk1JZLvak) | [B,U.D](https://open.spotify.com/album/5ZMfDCehMmruX4hEhH7GBC) | 6:38 | 2025-10-23 |  |
+| [calling](https://open.spotify.com/track/373l9Z3SGKIG6vpI4Xkusi) | [AIRY](https://open.spotify.com/artist/5wcyZGHnvGc4lhk1JZLvak) | [B,U.D](https://open.spotify.com/album/5ZMfDCehMmruX4hEhH7GBC) | 6:38 | 2025-10-23 | 2025-10-30 |
 | [Catch Me If You Can](https://open.spotify.com/track/3pwUWPoXCyCk3s4TiAMxk3) | [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ) | [Catch Me If You Can](https://open.spotify.com/album/27NAxJQBKFRNNC3mpcunGv) | 2:41 | 2024-04-05 | 2024-08-18 |
 | [CHEMISTRY \(ROMderful Remix\)](https://open.spotify.com/track/4IakLOd0LViDhdsWKQkPio) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [THE RMXS: VOL\. 1](https://open.spotify.com/album/1U9kCtpLIvR3ahateASXvW) | 3:02 | 2024-04-18 | 2024-06-21 |
 | [Chi Mat Ba Ram+Rollin’ \- Remix](https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> Part.1\-2](https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1) | 3:47 | 2024-06-28 | 2025-10-23 |
@@ -156,6 +156,7 @@
 | [Lose You](https://open.spotify.com/track/4zIdRT2HNsDmqPLGblw84B) | [Sielo](https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP) | [Lose You](https://open.spotify.com/album/7JA5UFGSEQVPlU9yXnZwWw) | 2:37 | 2024-04-05 | 2024-09-25 |
 | [Love](https://open.spotify.com/track/4gnZKUQtXzldlD9DrsobBu) | [DUE](https://open.spotify.com/artist/4150G9GrM7VzaOzUmPCf5m) | [Love](https://open.spotify.com/album/3vxt1CGDkDtZOgSkfPqkw4) | 2:20 | 2024-06-28 | 2024-09-22 |
 | [Love Eternally \(feat\. JUNNY\)](https://open.spotify.com/track/20YNEkOUj8r3jHscotaGpe) | [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Love Eternally \(feat\. JUNNY\)](https://open.spotify.com/album/3GyXdxYwhVyzlMfUlDBczH) | 3:57 | 2025-10-23 |  |
+| [Lucky Star](https://open.spotify.com/track/3dmcBgER1RS6vTFbQVVVjt) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Lucky Star](https://open.spotify.com/album/18CDp77BRitLM2EWJG48OR) | 2:42 | 2025-10-29 |  |
 | [Make A Wish \(Birthday Song\) \- Wuki Remix](https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [iScreaM Vol.6 : Make A Wish / 90's Love Remix](https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd) | 3:14 | 2024-04-05 |  |
 | [Matrix](https://open.spotify.com/track/0pq1uP0bcw4LjkHIVUGpQD) | [CHOIYUDAM](https://open.spotify.com/artist/5ZxJkaRLQ6nN49PpNNxpbQ) | [NEO](https://open.spotify.com/album/0lKlR6X16nIC1oN2Auuk9g) | 2:11 | 2024-05-23 | 2024-06-29 |
 | [maybe baby](https://open.spotify.com/track/1zqbsVEYjCCloTKL3yiWhS) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [E](https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw) | 1:52 | 2025-04-02 |  |

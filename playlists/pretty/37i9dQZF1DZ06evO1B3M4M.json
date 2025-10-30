@@ -1,12 +1,12 @@
 {
   "description": "This is James Newton Howard. The essential tracks, all in one playlist.",
-  "num_followers": 14915,
+  "num_followers": 14917,
   "original_name": "This Is James Newton Howard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAABpvxLZvOwNBc+HXvn2nNOI",
+  "snapshot_id": "aQAHgAAAAAAwag4wBk7ZeLGi2khbJu+D",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunger Games: Mockingjay, Part 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 196626,
-      "name": "Primrose - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/7LYllitjUEHCcCbuUlqEVF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Village",
         "url": "https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G"
       },
@@ -591,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
+        "name": "The Hunger Games: Mockingjay, Part 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK"
       },
       "artists": [
         {
@@ -600,25 +584,9 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 116189,
-      "name": "Tina Takes Newt In / Macusa Headquarters",
-      "url": "https://open.spotify.com/track/6ijP8nX229lru6paMOhwFr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 97200,
-      "name": "Fantastic Beasts Theme - Solo Piano",
-      "url": "https://open.spotify.com/track/18b656dcOv1olz14Xj5EZi"
+      "duration_ms": 196626,
+      "name": "Primrose - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/7LYllitjUEHCcCbuUlqEVF"
     },
     {
       "added_at": null,
@@ -643,6 +611,38 @@
       "duration_ms": 150440,
       "name": "Hope",
       "url": "https://open.spotify.com/track/0ByRFYqhIaKQqWXShfoOTw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 97200,
+      "name": "Fantastic Beasts Theme - Solo Piano",
+      "url": "https://open.spotify.com/track/18b656dcOv1olz14Xj5EZi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 116189,
+      "name": "Tina Takes Newt In / Macusa Headquarters",
+      "url": "https://open.spotify.com/track/6ijP8nX229lru6paMOhwFr"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Village",
+        "url": "https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 91426,
+      "name": "I Cannot See His Color - Score",
+      "url": "https://open.spotify.com/track/1kah7CwP1lws4gMPbopnPe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 280213,
       "name": "Leta's Flashback",
       "url": "https://open.spotify.com/track/37KTm0gyJRtgxWocQ5QDur"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Village",
-        "url": "https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 361520,
-      "name": "What Are You Asking Me? - Score",
-      "url": "https://open.spotify.com/track/7uwfXNvdJjqUVt8oMDF181"
     },
     {
       "added_at": null,
@@ -868,33 +868,25 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 554026,
-      "name": "Why so Serious?",
-      "url": "https://open.spotify.com/track/1wdoaja3ueHHvzobn2jE2n"
+      "duration_ms": 221973,
+      "name": "Introduce a Little Anarchy",
+      "url": "https://open.spotify.com/track/2LfWRXYCr1jM3RkEDOY8Dj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Night After Night (Music from the Movies of M. Night Shyamalan)",
-        "url": "https://open.spotify.com/album/6bZ512Kffdbv911Mbxi1ui"
+        "name": "The Village",
+        "url": "https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G"
       },
       "artists": [
         {
           "name": "James Newton Howard",
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        },
-        {
-          "name": "Hilary Hahn",
-          "url": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
-        },
-        {
-          "name": "Jean-Yves Thibaudet",
-          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
         }
       ],
-      "duration_ms": 278360,
-      "name": "The Village: Morning",
-      "url": "https://open.spotify.com/track/6fv5zOzFVGSJBF2N8NCgG2"
+      "duration_ms": 361520,
+      "name": "What Are You Asking Me? - Score",
+      "url": "https://open.spotify.com/track/7uwfXNvdJjqUVt8oMDF181"
     }
   ],
   "unique_name": "This Is James Newton Howard",

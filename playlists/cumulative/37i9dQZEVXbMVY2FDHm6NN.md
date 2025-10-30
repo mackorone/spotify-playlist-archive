@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-751 songs - 1 day 19 hr 16 min
+752 songs - 1 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,8 @@
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-09-08 | 2023-09-30 |
 | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 | 2023-04-14 | 2023-04-22 |
 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2023-11-03 | 2024-07-06 |
-| [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-30 |  |
+| [Pink Venom](https://open.spotify.com/track/5P3o95Jf0YBQRQ4j2XPpfC) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0S4pP8MBY9p7ngFWIZQAJv) | 3:06 | 2025-10-24 |  |
+| [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-30 | 2025-10-30 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-21 | 2024-09-14 |
 | [Pleasure](https://open.spotify.com/track/72AAKt6SQmRbYSvVKP34QD) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Pleasure](https://open.spotify.com/album/55xKiaSWQ1BABKnueyYsSN) | 2:48 | 2025-05-30 | 2025-06-28 |
 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 | 2024-02-23 | 2024-04-20 |
@@ -461,8 +462,8 @@
 | [When I Was Your Man](https://open.spotify.com/track/0B7wvvmu9EISAwZnOpjhNI) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/4xWulj18AGahlyuZPulaGe) | 3:33 | 2024-09-13 | 2024-09-21 |
 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2024-09-13 | 2024-09-17 |
 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2024-01-05 | 2024-02-10 |
-| [Whiplash](https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) | 3:03 | 2024-10-25 |  |
-| [Whiplash](https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK) | 3:03 | 2024-11-01 | 2025-10-05 |
+| [Whiplash](https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) | 3:03 | 2024-10-25 | 2025-10-30 |
+| [Whiplash](https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK) | 3:03 | 2024-11-01 |  |
 | [Whiplash](https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU) | 3:03 | 2024-10-25 | 2025-10-29 |
 | [White Christmas \(with V of BTS\)](https://open.spotify.com/track/7134tEHq45eL6am9oVazZU) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [White Christmas \(with V of BTS\)](https://open.spotify.com/album/07IeFJu4WPp8f98lnkHe8L) | 2:53 | 2024-12-13 | 2025-01-04 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-26 |  |

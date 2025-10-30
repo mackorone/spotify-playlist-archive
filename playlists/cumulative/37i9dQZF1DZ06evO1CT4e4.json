@@ -46,7 +46,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 79262,
       "name": "7 Magnificat-Antiphons: No. 1, O Weisheit",
       "url": "https://open.spotify.com/track/7sCaSMmXKuYNICfazqkXX6"
@@ -72,7 +72,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 141471,
       "name": "7 Magnificat-Antiphons: No. 2, O Adonai",
       "url": "https://open.spotify.com/track/3OwgcVXrVg9jkxEsq3v2hK"
@@ -98,7 +98,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 59705,
       "name": "7 Magnificat-Antiphons: No. 3, O Spross aus Isais Wurzel",
       "url": "https://open.spotify.com/track/7sL5mNRt7sHbYCgjRjeuiZ"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 141731,
       "name": "7 Magnificat-Antiphons: No. 5, O Morgenstern",
       "url": "https://open.spotify.com/track/3JYiZbWHhodannmHLo2TtF"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 88003,
       "name": "7 Magnificat-Antiphons: No. 6, O K\u00f6nig aller V\u00f6lker",
       "url": "https://open.spotify.com/track/13zjRHMBjLn7yFwMqUy1Xj"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 172119,
       "name": "7 Magnificat-Antiphons: No. 7, O Immanuel",
       "url": "https://open.spotify.com/track/7pFZ2SwTpwY8aTBSoBHz4q"
@@ -336,10 +336,36 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 301932,
       "name": "And I Heard a Voice\u2026",
       "url": "https://open.spotify.com/track/3q0qNPcmiDheomdMfZd1Yv"
+    },
+    {
+      "album": {
+        "name": "Arvo P\u00e4rt: The Deer's Cry",
+        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490920,
+      "name": "And One of the Pharisees...",
+      "url": "https://open.spotify.com/track/5UmWNrOHKKvsuwl6DhdSIM"
     },
     {
       "album": {
@@ -366,7 +392,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 316093,
       "name": "Beatus Petronius",
       "url": "https://open.spotify.com/track/7aMuMFqF717QGbMdk9cxbS"
@@ -451,6 +477,36 @@
     },
     {
       "album": {
+        "name": "Arvo P\u00e4rt: Tractus",
+        "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        },
+        {
+          "name": "Tallinn Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566293,
+      "name": "Cantique des degr\u00e9s",
+      "url": "https://open.spotify.com/track/1NXUKupy1SizGnr4wR9pTd"
+    },
+    {
+      "album": {
         "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
         "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
       },
@@ -500,7 +556,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 293306,
       "name": "Da Pacem Domine",
       "url": "https://open.spotify.com/track/4fahbTGB4AG0G2aoAnSFbe"
@@ -548,7 +604,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 321600,
       "name": "Da pacem Domine",
       "url": "https://open.spotify.com/track/50aQeTHs9CMhVNhc7kUvhl"
@@ -574,7 +630,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 92146,
       "name": "Drei Hirtenkinder aus F\u00e1tima",
       "url": "https://open.spotify.com/track/2Z8H9xYg27MLnviLZ1uMfF"
@@ -604,7 +660,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 128053,
       "name": "Estonian Lullaby (Version for Female Choir & Strings)",
       "url": "https://open.spotify.com/track/6biheP4A6BoSbXV6J3sFtB"
@@ -652,7 +708,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 614333,
       "name": "Fratres (Version for Strings & Percussion)",
       "url": "https://open.spotify.com/track/0iCBry8uGq4XL48x76b2EQ"
@@ -748,7 +804,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-21",
+      "date_removed": null,
       "duration_ms": 285493,
       "name": "F\u00fcr Jan van Eyck",
       "url": "https://open.spotify.com/track/43iHQ7h54AachjoHhJIBEO"
@@ -774,7 +830,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 155200,
       "name": "Greater Antiphons: II. O Adonai",
       "url": "https://open.spotify.com/track/0iz1xlYV6bYLIpXbutCxbN"
@@ -800,7 +856,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 105493,
       "name": "Greater Antiphons: IV. O Key of David",
       "url": "https://open.spotify.com/track/7zs8s3QBMXf25Y0Isi1xFp"
@@ -826,7 +882,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 119866,
       "name": "Greater Antiphons: V. O Morning Star",
       "url": "https://open.spotify.com/track/11LoTLEDTgI4dHYCj7MIDs"
@@ -852,7 +908,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 91400,
       "name": "Greater Antiphons: VI. O King of All People",
       "url": "https://open.spotify.com/track/6G6kVgCd0DDXpvCnIhCXST"
@@ -926,7 +982,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 177640,
       "name": "Kanon Pokajanen: Ikos",
       "url": "https://open.spotify.com/track/0pHBH03L7OiV5kw7roU05Z"
@@ -1004,7 +1060,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 479533,
       "name": "Kanon Pokajanen: Ode V",
       "url": "https://open.spotify.com/track/16g7VkScYmSC2bAqRoDaRw"
@@ -1030,10 +1086,66 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 498573,
       "name": "Kanon Pokajanen: Ode VI",
       "url": "https://open.spotify.com/track/2PNEEvDHAGdslbD03Mjj4i"
+    },
+    {
+      "album": {
+        "name": "P\u00e4rt: And I Heard a Voice\u2026",
+        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239206,
+      "name": "Kleine Litanei",
+      "url": "https://open.spotify.com/track/2jOWbcKkslo88SVKQOMTYz"
+    },
+    {
+      "album": {
+        "name": "Arvo P\u00e4rt: Tractus",
+        "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Maria Listra",
+          "url": "https://open.spotify.com/artist/1IgLtPfQtkvDMPtmhSlttw"
+        },
+        {
+          "name": "Tallinn Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 835200,
+      "name": "L'abb\u00e9 Agathon",
+      "url": "https://open.spotify.com/track/0lC8cVUN3S0ZTGoBzVQJbp"
     },
     {
       "album": {
@@ -1056,6 +1168,36 @@
       "duration_ms": 401800,
       "name": "Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
       "url": "https://open.spotify.com/track/6cuOsovElnIdZLC0d6yF75"
+    },
+    {
+      "album": {
+        "name": "Arvo P\u00e4rt: Tractus",
+        "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        },
+        {
+          "name": "Tallinn Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449386,
+      "name": "Littlemore Tractus",
+      "url": "https://open.spotify.com/track/5O2hS75kNiRorTT6o6PrmP"
     },
     {
       "album": {
@@ -1126,10 +1268,62 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 161026,
       "name": "Morning Star",
       "url": "https://open.spotify.com/track/0YsOmHmPAUsTyDQP3uPzdL"
+    },
+    {
+      "album": {
+        "name": "Arvo P\u00e4rt: The Deer's Cry",
+        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296986,
+      "name": "Most Holy Mother of God",
+      "url": "https://open.spotify.com/track/1dfc3iE4B7OTMAwLYFYYCU"
+    },
+    {
+      "album": {
+        "name": "P\u00e4rt: And I Heard a Voice\u2026",
+        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 650000,
+      "name": "O Holy Father Nicholas",
+      "url": "https://open.spotify.com/track/0wD9XLtbl3dsOSDm9gPz8q"
     },
     {
       "album": {
@@ -1248,7 +1442,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 238520,
       "name": "Sequentia",
       "url": "https://open.spotify.com/track/6qiehLuElgUdQlxN0CGgYv"
@@ -1292,7 +1486,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 621160,
       "name": "Spiegel im Spiegel",
       "url": "https://open.spotify.com/track/5hADOw1WHlKQRSysOoGkUj"
@@ -1452,7 +1646,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 300360,
       "name": "Summa",
       "url": "https://open.spotify.com/track/3QhZeB8kHijuxEMcWdVA5C"
@@ -1524,9 +1718,35 @@
           "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 678586,
+      "name": "Symphony No. 1 \"Polyphonic\": I. Canons",
+      "url": "https://open.spotify.com/track/5geidohxFYXnTHnGGCm4pl"
+    },
+    {
+      "album": {
+        "name": "Arvo P\u00e4rt: The Symphonies",
+        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "NFM Wroc\u0142aw Philharmonic",
+          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 287373,
       "name": "Symphony No. 2: III",
       "url": "https://open.spotify.com/track/4C9DIuIqyXlPEyV7Z56KxH"
@@ -1556,6 +1776,32 @@
       "duration_ms": 348080,
       "name": "Symphony No. 3: II. Pi\u00f9 mosso \u2013",
       "url": "https://open.spotify.com/track/3IWRSAKlUNxApJPX57CPTB"
+    },
+    {
+      "album": {
+        "name": "Arvo P\u00e4rt: The Symphonies",
+        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "NFM Wroc\u0142aw Philharmonic",
+          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488706,
+      "name": "Symphony No. 4 \"Los Angeles\": III. Insistentemente \u2013 Con intimo sentimento \u2013 Deciso",
+      "url": "https://open.spotify.com/track/0BYRoMmBnczcHdhOwHqyAq"
     },
     {
       "album": {
@@ -1608,6 +1854,32 @@
       "duration_ms": 250746,
       "name": "The Deer's Cry",
       "url": "https://open.spotify.com/track/4Fjv84kmmnz02yCyAsHYxb"
+    },
+    {
+      "album": {
+        "name": "Arvo P\u00e4rt: Tractus",
+        "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Tallinn Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 752973,
+      "name": "These Words\u2026",
+      "url": "https://open.spotify.com/track/2t2K02f366I69a4ZBfgSwh"
     },
     {
       "album": {
@@ -1682,6 +1954,58 @@
       "duration_ms": 223000,
       "name": "Vater unser",
       "url": "https://open.spotify.com/track/1ydSSd3qrfhef9cmoB5j7p"
+    },
+    {
+      "album": {
+        "name": "Silentium",
+        "url": "https://open.spotify.com/album/0yy8tXDKjL8JG9AD99MDwQ"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Camerata RCO",
+          "url": "https://open.spotify.com/artist/7oeMiCBtLMf4mMrqezpyVj"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210133,
+      "name": "Vater Unser (Arr. for trombone & string ensemble)",
+      "url": "https://open.spotify.com/track/0mslCUgV2EULxe5BhwYHaU"
+    },
+    {
+      "album": {
+        "name": "Arvo P\u00e4rt: Tractus",
+        "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        },
+        {
+          "name": "Tallinn Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177626,
+      "name": "Veni creator",
+      "url": "https://open.spotify.com/track/1IbO6gnssVeQ6wKTpGCw7j"
     },
     {
       "album": {

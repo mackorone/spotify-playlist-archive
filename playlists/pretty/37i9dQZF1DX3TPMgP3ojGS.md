@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,790 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,857 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 22 | [Le Recueillement](https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Le Recueillement](https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6) | 2:27 |
 | 23 | [Quiet Eyes](https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Quiet Eyes](https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0) | 2:21 |
 | 24 | [Before You](https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Before You](https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn) | 2:22 |
-| 25 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 |
-| 26 | [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 |
+| 25 | [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 |
+| 26 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 |
 | 27 | [Wish](https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Wish](https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya) | 2:48 |
 | 28 | [Muse](https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT) | [Ina Lawson](https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP) | [Muse](https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3) | 2:13 |
 | 29 | [Fiume](https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Fiume](https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk) | 2:20 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 37 | [Dreamt, far hope...](https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Dreamt, far hope...](https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF) | 2:19 |
 | 38 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 |
 | 39 | [Nostalgia](https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Nostalgia](https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK) | 2:52 |
-| 40 | [Onward](https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Onward](https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i) | 2:14 |
-| 41 | [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 |
-| 42 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 |
+| 40 | [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 |
+| 41 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 |
+| 42 | [Onward](https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Onward](https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i) | 2:14 |
 | 43 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 |
 | 44 | [Candles](https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Candles](https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn) | 2:52 |
 | 45 | [Evening Star](https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Evening Star](https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65) | 2:08 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 49 | [One More Story](https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Songs Of Sundown](https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI) | 2:20 |
 | 50 | [Turn](https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Under](https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs) | 2:39 |
 | 51 | [Air from Air](https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Air from Air](https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r) | 3:19 |
-| 52 | [A Time Long Ago](https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [A Time Long Ago](https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj) | 2:15 |
-| 53 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 |
+| 52 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 |
+| 53 | [A Time Long Ago](https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [A Time Long Ago](https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj) | 2:15 |
 | 54 | [Bona Fide](https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Bona Fide](https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC) | 2:37 |
 | 55 | [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 |
 | 56 | [Come close](https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Come close](https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6) | 2:50 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 62 | [The Coming Day](https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [The Coming Day](https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa) | 2:32 |
 | 63 | [Deja](https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Deja](https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq) | 2:25 |
 | 64 | [To New Beginnings](https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [To New Beginnings](https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui) | 2:09 |
-| 65 | [Felt Improv No\. 4](https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Felt Improv No\. 4](https://open.spotify.com/album/1nKAO1c4f6iVYEarQHaHg4) | 2:05 |
-| 66 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 |
+| 65 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 |
+| 66 | [Felt Improv No\. 4](https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Felt Improv No\. 4](https://open.spotify.com/album/1nKAO1c4f6iVYEarQHaHg4) | 2:05 |
 | 67 | [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 |
 | 68 | [Ellie](https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Ellie](https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw) | 2:58 |
 | 69 | [Without End](https://open.spotify.com/track/5w3O0ONMHCM9YmTS96fplL) | [Aksel Krystad](https://open.spotify.com/artist/6HWqfAvhFGVzX04XxDZBVw) | [Without End](https://open.spotify.com/album/7ICabDvPYVzaAOL0Nt7JxD) | 2:12 |
@@ -99,13 +99,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 89 | [The Gift](https://open.spotify.com/track/0PCduL4v5QEEKqeRUv7TEC) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Prehension](https://open.spotify.com/album/5hh0izzUUhsDp54kcijlKK) | 3:45 |
 | 90 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 |
 | 91 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 |
-| 92 | [Wish Your Way](https://open.spotify.com/track/3W6Tx6pKOD4O97uTIYwoEZ) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Wish Your Way](https://open.spotify.com/album/7IVtgJuuzuYcxmV8DlAqnE) | 2:42 |
-| 93 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 |
+| 92 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 |
+| 93 | [Wish Your Way](https://open.spotify.com/track/3W6Tx6pKOD4O97uTIYwoEZ) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Wish Your Way](https://open.spotify.com/album/7IVtgJuuzuYcxmV8DlAqnE) | 2:42 |
 | 94 | [Début](https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk) | [Mélanie Laurent](https://open.spotify.com/artist/7HS5tD2CPw2AgG4AgWpxpN) | [En t'attendant](https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W) | 2:40 |
 | 95 | [Tone of Love](https://open.spotify.com/track/3Z0n8POAcDQCSyxA06cqbW) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Tone of Love](https://open.spotify.com/album/5Q23RuwpOqhN28KtBOdnGp) | 3:18 |
 | 96 | [Travelling](https://open.spotify.com/track/2OKEAPTngkO7ogItXRPHwC) | [James Spiteri](https://open.spotify.com/artist/4kJAoV5i0XPIAoGRN4bVJJ) | [A New Beginning](https://open.spotify.com/album/5MtcpLLduxsOal79cT835i) | 3:57 |
-| 97 | [Blue Skies Are Coming](https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Lupi](https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68) | 2:52 |
-| 98 | [A Time of Wonder](https://open.spotify.com/track/2SiUDrcdc9iewegA0TmH6s) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 2:49 |
+| 97 | [A Time of Wonder](https://open.spotify.com/track/2SiUDrcdc9iewegA0TmH6s) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 2:49 |
+| 98 | [Blue Skies Are Coming](https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Lupi](https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68) | 2:52 |
 | 99 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 |
 | 100 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 |
 

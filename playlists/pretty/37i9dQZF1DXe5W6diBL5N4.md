@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: BIG Naughty, 10CM\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,090 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,112 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

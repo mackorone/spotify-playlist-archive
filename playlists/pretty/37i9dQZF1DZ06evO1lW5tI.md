@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lW5tI.md) - [plain]
 
 > This is Khruangbin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,300 likes - 43 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,318 likes - 43 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
 | 2 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 |
-| 3 | [People Everywhere \(Still Alive\)](https://open.spotify.com/track/0jaFQzTV7zKwuys2YGLpaC) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/32MaUU5gk5Ig0nHC9G5VNX) | 2:39 |
+| 3 | [White Gloves](https://open.spotify.com/track/7g18n5nxV5ep8ugBR3BmHD) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/32MaUU5gk5Ig0nHC9G5VNX) | 3:38 |
 | 4 | [May Ninth](https://open.spotify.com/track/5yVGW2o9LXaiiS4I3HUM3k) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:12 |
 | 5 | [So We Won't Forget](https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 4:58 |
 | 6 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 |
-| 7 | [White Gloves](https://open.spotify.com/track/7g18n5nxV5ep8ugBR3BmHD) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/32MaUU5gk5Ig0nHC9G5VNX) | 3:38 |
+| 7 | [People Everywhere \(Still Alive\)](https://open.spotify.com/track/0jaFQzTV7zKwuys2YGLpaC) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/32MaUU5gk5Ig0nHC9G5VNX) | 2:39 |
 | 8 | [August 10](https://open.spotify.com/track/2MIavWMdvbYuRoA2Cw6VkN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y) | 4:25 |
 | 9 | [A Calf Born In Winter](https://open.spotify.com/track/3uR4I2H3X3CwNiwJOUPqlq) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Calf Born in Winter](https://open.spotify.com/album/4Jc3Vg4MHHDahhPWbHm8nM) | 3:29 |
 | 10 | [Midnight](https://open.spotify.com/track/7pnVHbcqbmP7LA1ey3ydvu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 5:14 |
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lW5tI.md) - [plain]
 | 19 | [Master Of Life](https://open.spotify.com/track/7yvwoYqlw8t1piF4spNPsV) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Infamous Bill](https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB) | 3:01 |
 | 20 | [Juegos y Nubes](https://open.spotify.com/track/231a0JtwO0iYOeHsjbFVzI) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 2:04 |
 | 21 | [Mr\. White](https://open.spotify.com/track/7pdfs3Tnc5tSg3z5jnInvQ) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/32MaUU5gk5Ig0nHC9G5VNX) | 4:58 |
-| 22 | [Summer Madness \- Exclusive Cover Version](https://open.spotify.com/track/5FpOcTfCOpPovAxnYcwrKQ) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Late Night Tales: Khruangbin](https://open.spotify.com/album/2pqebJQi4AP1zUFSHY561K) | 3:21 |
+| 22 | [Lady and Man](https://open.spotify.com/track/6izNOFapl67iFcq8OPdwby) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y) | 4:18 |
 | 23 | [The No.3](https://open.spotify.com/track/4RTRdh9HzUPLEsqbdS6R9c) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Infamous Bill](https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB) | 2:43 |
-| 24 | [Lady and Man](https://open.spotify.com/track/6izNOFapl67iFcq8OPdwby) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y) | 4:18 |
+| 24 | [Summer Madness \- Exclusive Cover Version](https://open.spotify.com/track/5FpOcTfCOpPovAxnYcwrKQ) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Late Night Tales: Khruangbin](https://open.spotify.com/album/2pqebJQi4AP1zUFSHY561K) | 3:21 |
 | 25 | [The Man Who Took My Sunglasses](https://open.spotify.com/track/311z1vOX1Gpv2jaSyVE88T) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/32MaUU5gk5Ig0nHC9G5VNX) | 2:13 |
 | 26 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |
 | 27 | [The No.4](https://open.spotify.com/track/4hqW5pzyGljsAP7S9wjq7T) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Infamous Bill](https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB) | 3:41 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lW5tI.md) - [plain]
 | 42 | [Cómo Te Quiero](https://open.spotify.com/track/6y9t7mXJVzBGQG4XhHy8Li) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 4:02 |
 | 43 | [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 |
 
-Snapshot ID: `aP62AAAAAADhKERN3GMK8XOAbtKuEjJC`
+Snapshot ID: `aQAHgAAAAABv1s+yKJJn9R/wG10m3gFc`

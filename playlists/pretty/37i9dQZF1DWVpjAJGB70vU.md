@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > The country that made country cool\. Cover: George Strait
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,101,719 likes - 150 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,102,197 likes - 150 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,14 +53,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 43 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
 | 44 | [I'm Gonna Be Somebody](https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 4:04 |
 | 45 | [Don't Let Our Love Start Slippin' Away](https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [I Still Believe In You](https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS) | 3:44 |
-| 46 | [She Thinks My Tractor's Sexy](https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 4:08 |
+| 46 | [Livin' On Love](https://open.spotify.com/track/15gU2OepIEbeNTBbes6pIF) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Who I Am](https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39) | 3:49 |
 | 47 | [Lesson In Leavin'](https://open.spotify.com/track/2g0BAZVaLlK8GeTVzF6hQ6) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:39 |
-| 48 | [There's Your Trouble](https://open.spotify.com/track/69m9WDPBvemwujQwdONslk) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:13 |
+| 48 | [She Thinks My Tractor's Sexy](https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 4:08 |
 | 49 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [It's All About to Change](https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW) | 2:32 |
-| 50 | [Livin' On Love](https://open.spotify.com/track/15gU2OepIEbeNTBbes6pIF) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Who I Am](https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39) | 3:49 |
+| 50 | [There's Your Trouble](https://open.spotify.com/track/69m9WDPBvemwujQwdONslk) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:13 |
 | 51 | [I Can Still Make Cheyenne](https://open.spotify.com/track/7yQMZQeiSKnvEgimeGPVhi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Blue Clear Sky](https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG) | 4:16 |
-| 52 | [She's Got It All](https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [I Will Stand](https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO) | 3:25 |
-| 53 | [I'm in a Hurry \(And Don't Know Why\)](https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [American Pride](https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce) | 2:48 |
+| 52 | [I'm in a Hurry \(And Don't Know Why\)](https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [American Pride](https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce) | 2:48 |
+| 53 | [She's Got It All](https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [I Will Stand](https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO) | 3:25 |
 | 54 | [Indian Outlaw](https://open.spotify.com/track/1fYypIR0kaFzaSRbzvtjl9) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Not A Moment Too Soon](https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc) | 3:02 |
 | 55 | [Tell Me Why](https://open.spotify.com/track/3Vfj2JGXayXgc0c9J4gJ8m) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Tell Me Why](https://open.spotify.com/album/0118657h8IVC4b37XaOjBp) | 3:50 |
 | 56 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 73 | [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 |
 | 74 | [Party Crowd](https://open.spotify.com/track/57IEs29xqMQaAkjQ8iQuI0) | [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Out With A Bang](https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9) | 3:18 |
 | 75 | [Independence Day](https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [The Way That I Am](https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d) | 3:24 |
-| 76 | [Wink](https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [No Doubt About It](https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON) | 2:42 |
-| 77 | [Sticks and Stones](https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Sticks and Stones](https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq) | 3:38 |
+| 76 | [Sticks and Stones](https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Sticks and Stones](https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq) | 3:38 |
+| 77 | [Wink](https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [No Doubt About It](https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON) | 2:42 |
 | 78 | [Poor, Poor Pitiful Me](https://open.spotify.com/track/1ak2K9SpHCjnDbxmNFxr6P) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Just The Same](https://open.spotify.com/album/2zUyHKwlBjczKdmYTykB8a) | 3:10 |
 | 79 | [The Way You Love Me](https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 3:06 |
 | 80 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 |
@@ -152,11 +152,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 142 | [Down To My Last Teardrop](https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [What Do I Do With Me](https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa) | 3:30 |
 | 143 | [What Part of No](https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Watch Me](https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87) | 2:44 |
 | 144 | [He Thinks He'll Keep Her](https://open.spotify.com/track/5ANnHcFKjGAC98A7Qkaepd) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [The Essential Mary Chapin Carpenter](https://open.spotify.com/album/5XZgZAIHcrnQwcAWq4Tbn9) | 4:03 |
-| 145 | [Bigger Than the Beatles](https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Life's So Funny](https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA) | 3:57 |
-| 146 | [In a Different Light](https://open.spotify.com/track/1qkGJN690UpX3leaGGC4Wq) | [Doug Stone](https://open.spotify.com/artist/4epBFW4UHEmgjIK5xOrBhk) | [Doug Stone](https://open.spotify.com/album/4PoyxCrUUWbCA98AmlStnM) | 3:28 |
+| 145 | [In a Different Light](https://open.spotify.com/track/1qkGJN690UpX3leaGGC4Wq) | [Doug Stone](https://open.spotify.com/artist/4epBFW4UHEmgjIK5xOrBhk) | [Doug Stone](https://open.spotify.com/album/4PoyxCrUUWbCA98AmlStnM) | 3:28 |
+| 146 | [Bigger Than the Beatles](https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Life's So Funny](https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA) | 3:57 |
 | 147 | [How Can I Help You Say Goodbye](https://open.spotify.com/track/04f1rOkeyOqYQQzPJZk9JS) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Only What I Feel](https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB) | 4:58 |
 | 148 | [I Think About You](https://open.spotify.com/track/31zLkaElQKtj8hDigVB31n) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [I Think About You](https://open.spotify.com/album/6ngZLbm52ebfzfIxYIybvu) | 3:26 |
 | 149 | [I Feel Lucky](https://open.spotify.com/track/7GswRwV5zQcMsys9niOQ87) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [Come On Come On](https://open.spotify.com/album/1PLDejXS69FJQ19iwzEPvY) | 3:31 |
-| 150 | [Tempted](https://open.spotify.com/track/0zfwY9c8RGR0Z32u1Ouu9C) | [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Tempted](https://open.spotify.com/album/0yKfHkH7qL4XO8lXlGMGQg) | 3:13 |
+| 150 | [Why Didn't I Think of That](https://open.spotify.com/track/3w3oF0IAR3A14cnKhecsNV) | [Doug Stone](https://open.spotify.com/artist/4epBFW4UHEmgjIK5xOrBhk) | [From the Heart](https://open.spotify.com/album/36m9tDH81Nn65T9qoGqWdl) | 3:11 |
 
 Snapshot ID: `AAAAADXu62MgpF+OhKQgux9CY4qZVoNK`

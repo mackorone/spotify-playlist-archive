@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 27 | [Believe In The Wrong Things](https://open.spotify.com/track/45CZwozIAJgbWlIzEjCRf5) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Counting Flies](https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD) | 3:33 |
 | 28 | [Bloom](https://open.spotify.com/track/56qwKyIluESgf6AfXO3CAf) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS) | 4:37 |
 
-Snapshot ID: `aP62AAAAAABpGLR9B8Jk380AFTcW/8Tb`
+Snapshot ID: `aQAHgAAAAADFVLKBDIVYhLcim0QrQEyo`

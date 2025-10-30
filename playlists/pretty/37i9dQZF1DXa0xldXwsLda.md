@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > ¡Buen provecho!
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,820 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,825 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 61 | [Thunder](https://open.spotify.com/track/0H20PIDhzGnoOOYE6VC1TX) | [Fink's Mood](https://open.spotify.com/artist/1iUB72crNwlgJybWBA5Fl8) | [Thunder](https://open.spotify.com/album/5DphHIaiZBFZvI1epMUjMZ) | 2:51 |
 | 62 | [Burbujas De Amor](https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Burbujas De Amor](https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq) | 4:03 |
 | 63 | [Sonreír \- Versión Acústica](https://open.spotify.com/track/6bK1Dzmy41YKrGVitOejNu) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Sonreír \(Versión Acústica\)](https://open.spotify.com/album/2VCywjBXVt95NBSE2QsT80) | 3:28 |
-| 64 | [Pronto](https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Pronto](https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ) | 3:48 |
-| 65 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 |
+| 64 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 |
+| 65 | [Pronto](https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Pronto](https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ) | 3:48 |
 | 66 | [Without Me](https://open.spotify.com/track/7zsC3MRs9FgcloMoctORr9) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [Without Me](https://open.spotify.com/album/46TA2IQDWrJWKRrcGYgMim) | 2:10 |
 | 67 | [Epitafio](https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Epitafio](https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK) | 2:37 |
 | 68 | [Amor Papaya en Invierno](https://open.spotify.com/track/4TZ0kv6Elbb4cTsoNXxBZJ) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Amor Papaya](https://open.spotify.com/album/4SedZWefA0qnDU6mnDiXI6) | 3:25 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 90 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 |
 | 91 | [me haces bien](https://open.spotify.com/track/4I31qeJXdtVgG7a7RIxPTj) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [MALOS Y BUENOS RECUERDOS](https://open.spotify.com/album/3rwYRSMbEuUiuxqDmgZUhJ) | 2:52 |
 | 92 | [Cuando Me Enamoro](https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Euphoria \(Standard US/Latin version\)](https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD) | 3:20 |
-| 93 | [Eres Tú](https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 3:48 |
-| 94 | [Can’t Help Falling in Love](https://open.spotify.com/track/7uuEfUMuPeQ7RlSWa0cES2) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/32BVrPjwweOQcHKKpxgE4l) | 3:21 |
+| 93 | [Can’t Help Falling in Love](https://open.spotify.com/track/7uuEfUMuPeQ7RlSWa0cES2) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/32BVrPjwweOQcHKKpxgE4l) | 3:21 |
+| 94 | [Eres Tú](https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 3:48 |
 | 95 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/2Gq0jYYpUnuw7rG81bMXya) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO) | 3:03 |
 | 96 | [Cruz de Navajas](https://open.spotify.com/track/1J4r7ztWO9jLCSID0fXVU9) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Ana, Jose, Nacho \(TF1 Co\-Production\)](https://open.spotify.com/album/5IL38XjAFliyeLvngPqB83) | 5:04 |
 | 97 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/4TIaGP6idg1KZ5lSrGvjZw) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Respiro \(Cap\. 8\)](https://open.spotify.com/album/0nbH40OtNF4gU2Ilxn5BCo) | 3:41 |

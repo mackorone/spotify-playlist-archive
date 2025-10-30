@@ -351,6 +351,28 @@
     },
     {
       "album": {
+        "name": "Damn I Love Miami",
+        "url": "https://open.spotify.com/album/2WzCFW3ywduzHLbPNMrzji"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161651,
+      "name": "Damn I Love Miami",
+      "url": "https://open.spotify.com/track/7t1SuBddByBghdAD47acYa"
+    },
+    {
+      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },

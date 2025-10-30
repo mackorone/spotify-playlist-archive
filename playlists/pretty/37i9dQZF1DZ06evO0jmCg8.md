@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,427 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,433 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 20 | [March of the Miscreants](https://open.spotify.com/track/145Uavh1IEvv1xyG8AWAU8) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:49 |
 | 21 | [A Million Suns](https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 3:45 |
 | 22 | [No Gods, No Masters](https://open.spotify.com/track/2SR0CHOWgkVt0nLI9YwYti) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:14 |
-| 23 | [Poisoned Arrow](https://open.spotify.com/track/0mO1FN8MXytVZfZYpC5i56) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 3:51 |
+| 23 | [Sunset over the Empire](https://open.spotify.com/track/5nPCIvymgNTiXN7hMMTbdX) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:03 |
 | 24 | [The Pendulum](https://open.spotify.com/track/3FJUmtBF0JWQC2O3bpYq6f) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 3:42 |
 | 25 | [We Will Rise](https://open.spotify.com/track/0KtQaeUT372b7vRProw9Sm) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:06 |
 | 26 | [First Day in Hell](https://open.spotify.com/track/7uqohNjCnZ8sZd5S2vh5vx) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:48 |
-| 27 | [Sunset over the Empire](https://open.spotify.com/track/5nPCIvymgNTiXN7hMMTbdX) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:03 |
+| 27 | [Poisoned Arrow](https://open.spotify.com/track/0mO1FN8MXytVZfZYpC5i56) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 3:51 |
 | 28 | [Vivre Libre](https://open.spotify.com/track/2gZCrKkVbvwyXVfhzeYXU4) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:07 |
 | 29 | [As the Pages Burn](https://open.spotify.com/track/3BkqtdD3Vc90C3JFtTTVqI) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:01 |
 | 30 | [Reason to Believe](https://open.spotify.com/track/02gIPDHCTuKgKEl2VlgPzt) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 49 | [Silent Wars](https://open.spotify.com/track/53ErZun9BFfUwC6UNKdxiE) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:14 |
 | 50 | [Enter the Machine](https://open.spotify.com/track/2aCRmGHUonyqFAq6cTv4a3) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 2:02 |
 
-Snapshot ID: `aP62AAAAAACc32UcGtfYCGdyvfPn0u2a`
+Snapshot ID: `aQAHgAAAAABQ3iamWrFrxfUyGFlD59Mm`

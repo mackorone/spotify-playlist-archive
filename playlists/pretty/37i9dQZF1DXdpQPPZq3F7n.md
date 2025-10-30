@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\.  Cover \- Saiyaara
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,692,281 likes - 75 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,692,866 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Sunn Mere Yaar Ve \- From "Param Sundari"](https://open.spotify.com/track/4aNDTU2GctEyflO4FsNAxk) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Sunn Mere Yaar Ve \(From "Param Sundari"\)](https://open.spotify.com/album/2uqxxLpRB6lPqaEWbDPCc1) | 3:12 |
 | 75 | [Preet Re \- From "Dhadak 2"](https://open.spotify.com/track/5IWLDqsSnQgBjXGiryDtTk) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Preet Re \(From "Dhadak 2"\)](https://open.spotify.com/album/52eZ4RK6xNKnRFAqtLOSu3) | 3:16 |
 
-Snapshot ID: `AAAAAPC1ctGuB2+BGylUt3UiClDMsoVa`
+Snapshot ID: `AAAAAOj5aJOmQ2dmgRpNyqb1We9xudcT`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 
 > 100% soul et funk !
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,367 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,369 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 | 56 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:15 |
 | 57 | [Just an Illusion](https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6) | 6:27 |
 | 58 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 |
-| 59 | [Ma quale idea](https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Italian Classics: Pino D'Angiò Collection, Vol\. 1](https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp) | 4:22 |
-| 60 | [You Give Me Something](https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 3:19 |
+| 59 | [You Give Me Something](https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 3:19 |
+| 60 | [Ma quale idea](https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Italian Classics: Pino D'Angiò Collection, Vol\. 1](https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp) | 4:22 |
 
 Snapshot ID: `AAAAAER+piW+93tNuYEK5/0ORPoFIUYb`

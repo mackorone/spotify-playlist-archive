@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,403 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,470 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 33 | [Stand by me, Stand by you.](https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 |
 | 34 | [HAPPY BIRTHDAY](https://open.spotify.com/track/4FMz2RFrbDGzJO7K4D0vS3) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [MAGIC](https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn) | 4:18 |
 | 35 | [カゲロウ](https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ZERO](https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0) | 3:11 |
-| 36 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 |
-| 37 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
+| 36 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
+| 37 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 |
 | 38 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 |
 | 39 | [オールドファッション](https://open.spotify.com/track/0Xn30nT5EKFPsWvpiJ2Iav) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [MAGIC](https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn) | 4:14 |
 | 40 | [Love Syndrome](https://open.spotify.com/track/5vz9Mt6ssUXU2yAyRySza9) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [Love Syndrome](https://open.spotify.com/album/7zclHBdRYGqdE9yWurx9kU) | 2:52 |
 | 41 | [Wherever you are](https://open.spotify.com/track/7a7EIFzJLd7lcDRgThMQgm) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Nicheシンドローム](https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa) | 4:55 |
-| 42 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
-| 43 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
+| 42 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
+| 43 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
 | 44 | [Toki Yo Tomare](https://open.spotify.com/track/6VedlO2MtaEjAITax6vQyg) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Toki Yo Tomare](https://open.spotify.com/album/34XoGWHnpRwZZieuoUN6sP) | 3:08 |
 | 45 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 |
 | 46 | [W / X / Y](https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) | 4:38 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 53 | [I LOVE...](https://open.spotify.com/track/5wWLNNwMAehpj83FU4Lz0m) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1) | 4:42 |
 | 54 | [恋風邪にのせて](https://open.spotify.com/track/1IFyAcFGKEoAcdFa8WwLk0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:15 |
 | 55 | [Apollo](https://open.spotify.com/track/40yE0gCybjI6ND0hCac2ft) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [WiND](https://open.spotify.com/album/55Ajgl4mS2poq5DFRPNoQl) | 3:43 |
-| 56 | [青と夏](https://open.spotify.com/track/0a3587n25Xhw098UeEbeJq) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [青と夏](https://open.spotify.com/album/3U7I6bqhI8IsRvPLLaVN6v) | 4:30 |
-| 57 | [花束のかわりにメロディーを](https://open.spotify.com/track/2028QNsVTmp5IF7UK4ZnaE) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [PROUD](https://open.spotify.com/album/4SjdEVbkMDRQgY8qcWYLHd) | 5:09 |
-| 58 | [I hate this love song](https://open.spotify.com/track/0HwDv2bXxdQnGUJhAuGAqG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [I hate this love song](https://open.spotify.com/album/0R8wB8JasgURZHtMHwRjm4) | 3:18 |
-| 59 | [君の為のキミノウタ](https://open.spotify.com/track/56Cdqx7BdhEsUUMctdORvU) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 5:13 |
+| 56 | [花束のかわりにメロディーを](https://open.spotify.com/track/2028QNsVTmp5IF7UK4ZnaE) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [PROUD](https://open.spotify.com/album/4SjdEVbkMDRQgY8qcWYLHd) | 5:09 |
+| 57 | [青と夏](https://open.spotify.com/track/0a3587n25Xhw098UeEbeJq) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [青と夏](https://open.spotify.com/album/3U7I6bqhI8IsRvPLLaVN6v) | 4:30 |
+| 58 | [君の為のキミノウタ](https://open.spotify.com/track/56Cdqx7BdhEsUUMctdORvU) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 5:13 |
+| 59 | [I hate this love song](https://open.spotify.com/track/0HwDv2bXxdQnGUJhAuGAqG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [I hate this love song](https://open.spotify.com/album/0R8wB8JasgURZHtMHwRjm4) | 3:18 |
 | 60 | [超最強](https://open.spotify.com/track/0bcZS6ifbiPHNFZNX71fiK) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [ときめきルールブック](https://open.spotify.com/album/33nAHJehmLBpYd7bbqPDNR) | 3:19 |
 | 61 | [題名のない今日](https://open.spotify.com/track/6skNbV22epX2yHu4O2hYSx) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 |
 | 62 | [プロローグ](https://open.spotify.com/track/4YMukCV1BsdK8V9kZoQpT6) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [プロローグ](https://open.spotify.com/album/3MOKzDaMiqSc04I04oiELA) | 5:02 |

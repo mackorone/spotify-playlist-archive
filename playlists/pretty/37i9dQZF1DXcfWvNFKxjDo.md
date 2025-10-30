@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Daecolm
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,218 likes - 97 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,250 likes - 97 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

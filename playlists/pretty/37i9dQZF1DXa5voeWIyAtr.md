@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5voeWIyAtr.md) - [plain]
 
 > pongámonos de acuerdo: nos vamos a querer o ahí la vamos a dejar o de nuevo aparentar que aquí no ha pasado nada 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,351 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,357 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5voeWIyAtr.md) - [plain]
 | 45 | [A TU NOMBRE](https://open.spotify.com/track/0ItgotO5txriRAp6lXMHJ7) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 4:07 |
 | 46 | [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 |
 | 47 | [MILES DE ROSAS](https://open.spotify.com/track/0N9YbdsoDv3SwT8wt4S5rT) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 4:11 |
-| 48 | [Elvira](https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:16 |
+| 48 | [Elvira](https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:17 |
 | 49 | [Se Acabo \- En Vivo](https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Se Acabo \(En Vivo\)](https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR) | 3:50 |
 | 50 | [Porque Te Vas](https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Porque Te Vas](https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX) | 3:50 |
 | 51 | [Con La Novedad](https://open.spotify.com/track/0bXO2vrEE0eDj09u6cLfca) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Asi Es Esto](https://open.spotify.com/album/4lHHw27lVO65tENDGJgxrr) | 3:59 |

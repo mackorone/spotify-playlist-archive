@@ -4,7 +4,7 @@
 
 > This is Frank Sinatra\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 9 min
+63 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Homesick \-\- That's All](https://open.spotify.com/track/46PMpnd62rwRX6wk3UNnd5) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Columbia Years \(1943\-1952\) The Complete Recordings](https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv) | 3:22 | 2024-12-01 | 2024-12-13 |
 | [I Get A Kick Out Of You](https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra And Swingin' Brass](https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X) | 3:14 | 2024-11-30 |  |
 | [I'll Never Smile Again](https://open.spotify.com/track/2Pi0rY9FcbaecqO0AyhXbu) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [The Seventeen Number Ones](https://open.spotify.com/album/1HgqHVY48hdhuiacZky4nV) | 3:09 | 2024-11-30 |  |
+| [I've Got A Crush On You \- Remastered](https://open.spotify.com/track/0RNgCTcn5f7zIfLKjj80FS) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(Remastered / Expanded Edition\)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 2:16 | 2025-10-30 |  |
 | [I've Got The World On A String](https://open.spotify.com/track/13apJo5WpOSe3qmfIYOCp2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Platinum](https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj) | 2:08 | 2024-11-30 |  |
 | [I've Got You Under My Skin \- Remastered 1998](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 3:43 | 2024-11-30 |  |
 | [In The Wee Small Hours Of The Morning \- Remastered 1998](https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [In The Wee Small Hours](https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX) | 3:00 | 2024-11-30 |  |
@@ -37,7 +38,7 @@
 | [Luck Be A Lady](https://open.spotify.com/track/3AgY5gLURlcdYBVGv1RVm7) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Kind Of Broadway](https://open.spotify.com/album/4pA0MHfxB10F9Q8HhoItIh) | 5:14 | 2024-11-30 | 2025-04-25 |
 | [Moon River](https://open.spotify.com/track/2KNMqqNd3sLfeN4ukKduRT) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 3:19 | 2024-11-30 |  |
 | [Moonlight In Vermont \- Remastered 1998](https://open.spotify.com/track/1ymaji9iiLLfPOq91srHeH) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Fly With Me \(Expanded Edition\)](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) | 3:32 | 2024-12-20 | 2025-04-09 |
-| [More \(Theme From Mondo Cane\)](https://open.spotify.com/track/0a545c4gOsyYupVvliDOy0) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 3:01 | 2024-11-30 |  |
+| [More \(Theme From Mondo Cane\)](https://open.spotify.com/track/0a545c4gOsyYupVvliDOy0) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 3:01 | 2024-11-30 | 2025-10-30 |
 | [My Funny Valentine](https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Young Lovers](https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur) | 2:30 | 2024-11-30 |  |
 | [My Kind Of Town](https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra ’65](https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA) | 3:08 | 2024-11-30 |  |
 | [My Way](https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Way \(Expanded Edition\)](https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn) | 4:36 | 2024-11-30 |  |

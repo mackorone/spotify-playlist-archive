@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Orville Peck
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,678 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,668 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 53 | [Playing Old Games](https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Pete Lindberg](https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6) | [Playing Old Games](https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP) | 3:29 |
 | 54 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
 | 55 | [Yellow Room](https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:19 |
-| 56 | [I Thought You Were Somebody Else](https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:16 |
-| 57 | [This Masquerade](https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [This Masquerade](https://open.spotify.com/album/1otvDymvVShCQLgSWp869e) | 3:12 |
+| 56 | [This Masquerade](https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [This Masquerade](https://open.spotify.com/album/1otvDymvVShCQLgSWp869e) | 3:12 |
+| 57 | [I Thought You Were Somebody Else](https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:16 |
 | 58 | [Black & Blue](https://open.spotify.com/track/529y37n9VZXubT1KlWM78i) | [Zephaniah OHora](https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY) | [Listening to the Music](https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO) | 3:10 |
 | 59 | [My Heart Skips A Beat](https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Secret Sisters](https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI) | 2:23 |
 | 60 | [Fuck With Sad Girls](https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV) | [Bonnie Whitmore](https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9) | [Fuck With Sad Girls](https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni) | 4:38 |
@@ -80,15 +80,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 70 | [Love All Night \(Work All Day\)](https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Love All Night \(Work All Day\)](https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt) | 3:33 |
 | 71 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 |
 | 72 | [True Love's Face](https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [True Love's Face](https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK) | 3:20 |
-| 73 | [That's How I Feel](https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Every Single Star](https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2) | 2:43 |
-| 74 | [Margo](https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU) | [Haroula Rose](https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG) | [Margo](https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk) | 3:40 |
+| 73 | [Margo](https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU) | [Haroula Rose](https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG) | [Margo](https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk) | 3:40 |
+| 74 | [That's How I Feel](https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Every Single Star](https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2) | 2:43 |
 | 75 | [Tides](https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6) | [Gold Child](https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc) | [Tides](https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4) | 3:40 |
 | 76 | [BROKEN PIECES](https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:02 |
 | 77 | [Ice Cream and Liquor](https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO) | [The Reckless Electric](https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM) | [Comeback](https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb) | 3:26 |
 | 78 | [Long Haul](https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:01 |
 | 79 | [All The Way Back](https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/6ymIp6VYMvGrIjtzlj0gzi) | 3:01 |
-| 80 | [You Don't Own Me](https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [You Don't Own Me](https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe) | 2:48 |
-| 81 | [Howard Hughes Blues](https://open.spotify.com/track/4b0bqJ5otqOIycisoiiKs2) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE), [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Dear John](https://open.spotify.com/album/5tRGxNTSlav2KGfMrRN1L6) | 2:50 |
+| 80 | [Howard Hughes Blues](https://open.spotify.com/track/4b0bqJ5otqOIycisoiiKs2) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE), [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Dear John](https://open.spotify.com/album/5tRGxNTSlav2KGfMrRN1L6) | 2:50 |
+| 81 | [You Don't Own Me](https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [You Don't Own Me](https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe) | 2:48 |
 | 82 | [Off My Back](https://open.spotify.com/track/5c1Mw3e1zEcaYV1SP5jeot) | [Becky Warren](https://open.spotify.com/artist/3mTESq7qkYJ5k6WiEAY9Uk) | [War Surplus](https://open.spotify.com/album/6n3fXuHW9h48ZQkSCRqnfK) | 2:24 |
 | 83 | [Broken Wing](https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A) | [Evil](https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD) | [Broken Wing](https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr) | 4:35 |
 | 84 | [Finger on the Button](https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3) | [Blue Cactus](https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n) | [Finger on the Button](https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r) | 3:44 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 96 | [Walkin' After Midnight](https://open.spotify.com/track/5TklECQ3x2MybRjaeIsTlm) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/7nicBOHkAJ944utrDrR3kv) | 2:34 |
 | 97 | [Half a Heart Keychain](https://open.spotify.com/track/6Ff6tdQfdEyHm71P6mLpc5) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Half a Heart Keychain](https://open.spotify.com/album/3pglOjTAYQHnd8uZu9g86j) | 3:20 |
 | 98 | [Better Way](https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 4:15 |
-| 99 | [Holy Ghost Fire](https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 3:59 |
-| 100 | [Tehachapi](https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:07 |
+| 99 | [Good Kisser](https://open.spotify.com/track/4PcNBh7bpbk5kpe4rwllY5) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Good Kisser](https://open.spotify.com/album/6wlY5ll8yN2ZEgp7qBrgU4) | 3:38 |
+| 100 | [Holy Ghost Fire](https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 3:59 |
 
 Snapshot ID: `AAAAAFInd+tl3MHBNhrgfxEQY+OYgV6l`

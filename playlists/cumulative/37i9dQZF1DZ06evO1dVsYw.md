@@ -4,7 +4,7 @@
 
 > This is Racionais MC's\. The essential tracks, all in one playlist.
 
-45 songs - 4 hr 10 min
+46 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Mano na Porta do Bar \- Ao Vivo](https://open.spotify.com/track/5GYBM7QhacNgVzzZNUXfEr) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 4:11 | 2023-12-23 |  |
 | [Mente do Vilão](https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais Mc's](https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4) | 4:30 | 2023-09-18 |  |
 | [Mil Faces de um Homem Leal \(Marighella\)](https://open.spotify.com/track/5MYKqp6J8rstffAQBCE2nl) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Mil Faces de um Homem Leal \(Marighella\)](https://open.spotify.com/album/1hqniVJju4Nj9qGJR2ZeIR) | 9:58 | 2023-09-18 |  |
-| [Mágico de Oz](https://open.spotify.com/track/6G6FR1CEiuwkEbp33ryGAY) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 7:36 | 2023-09-18 |  |
+| [Mágico de Oz](https://open.spotify.com/track/6G6FR1CEiuwkEbp33ryGAY) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 7:36 | 2023-09-18 | 2025-10-30 |
 | [Negro Drama](https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 6:51 | 2023-09-18 |  |
 | [Negro Drama \- Ao Vivo](https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 5:54 | 2023-12-23 | 2024-01-21 |
 | [Negro Drama \- Ao Vivo](https://open.spotify.com/track/5oSIB0TeXUQsmYifDfKIFx) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Musicas para Churrasco, Vol.1 \(Ao Vivo\) \[Delux Edition\]](https://open.spotify.com/album/5Tna37qsQnWE9aLPHNPmah) | 5:21 | 2024-02-28 |  |
@@ -42,6 +42,7 @@
 | [Periferia / Sample: Fim De Semana No Parque](https://open.spotify.com/track/7hXQTTsfyeIiT7TB1ilBel) | [Helião](https://open.spotify.com/artist/4E18TGN1tOs6QTHAOupZgV), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ) | [Guerreiro, Guerreira](https://open.spotify.com/album/5CGbKL3fvKpdcU1i8VP3Zo) | 4:27 | 2023-09-18 |  |
 | [Preto Zica](https://open.spotify.com/track/1gD4sDZi8BaHunIj4zNF8B) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [DJ CIA](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Cores & Valores](https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m) | 2:03 | 2023-09-18 |  |
 | [Pânico na Zona Sul \- Ao Vivo](https://open.spotify.com/track/7pD1bfCSOr5i5VN8k4OeR0) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 3:15 | 2023-12-25 | 2025-03-01 |
+| [Qual Mentira Vou Acreditar](https://open.spotify.com/track/6hxdEJHw5qPaA4r0GFGkhj) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 7:41 | 2025-10-30 |  |
 | [Racistas Otários](https://open.spotify.com/track/0zGuJbbRk2QV18xHxvHB1Z) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Holocausto Urbano](https://open.spotify.com/album/5xQx7NRZ0P9s03owKob8iP) | 5:45 | 2023-09-18 | 2023-11-11 |
 | [Somos o Que Somos](https://open.spotify.com/track/2u9TNvu3s7bvuzluO18B0P) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [DJ CIA](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Cores & Valores](https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m) | 1:07 | 2023-09-18 |  |
 | [Tempos Difíceis](https://open.spotify.com/track/6ieCyW9A3EzOtXChxJwXsh) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Holocausto Urbano](https://open.spotify.com/album/5xQx7NRZ0P9s03owKob8iP) | 4:03 | 2023-09-18 | 2023-12-26 |

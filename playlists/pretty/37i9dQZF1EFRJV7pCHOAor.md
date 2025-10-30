@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592 likes - 194 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 601 likes - 194 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 110 | [Wires in the Way](https://open.spotify.com/track/1GF3IKjo6zIDi3OjjRZjwG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 2:10 |
 | 111 | [PETTING ZOO](https://open.spotify.com/track/6dOoNq2InmdP57QnF6HdBU) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:16 |
 | 112 | [be mine this christmas](https://open.spotify.com/track/2TYcxKCale4adLTwDRKkmV) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 3:23 |
-| 113 | [Impurities](https://open.spotify.com/track/2jkQ4W13nSGGkUrkRt7ihK) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 3:49 |
-| 114 | [Crush](https://open.spotify.com/track/19ddrF8BsiVVYszpeWjb6y) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 3:46 |
+| 113 | [Crush](https://open.spotify.com/track/19ddrF8BsiVVYszpeWjb6y) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 3:46 |
+| 114 | [Impurities](https://open.spotify.com/track/2jkQ4W13nSGGkUrkRt7ihK) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 3:49 |
 | 115 | [ALL THE WAY](https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:21 |
 | 116 | [Complete](https://open.spotify.com/track/1Pn1My4kHwVdwumCRCCzXX) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:22 |
 | 117 | [Shades Of Blue](https://open.spotify.com/track/1TpeT2PWnAv9NDbqK1qy6J) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [There's Alot Going On](https://open.spotify.com/album/5ebtbHmQ7WZpgKtH8ir14W) | 4:46 |
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 123 | [I Want Mo \(with London On Da Track\)](https://open.spotify.com/track/4IFIvreLx7CxwT0iRmWZLD) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [BOSS MAN](https://open.spotify.com/album/3jPpeRUHcgC8ZkDT7MgUg3) | 2:06 |
 | 124 | [Personally](https://open.spotify.com/track/0j3tmysUmOvbXno7km0T2T) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:31 |
 | 125 | [Wave](https://open.spotify.com/track/7F8eFixvj36lYMLtObtRrj) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:49 |
-| 126 | [Hot Shit](https://open.spotify.com/track/4bzKnckkoLhwvTtWV3nir9) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [WWW.](https://open.spotify.com/album/3kzNF51mp30QXF3yck4nwL) | 3:39 |
-| 127 | [MOVING FAST](https://open.spotify.com/track/49la9sBOr2hm9T3CZibj22) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:21 |
+| 126 | [MOVING FAST](https://open.spotify.com/track/49la9sBOr2hm9T3CZibj22) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:21 |
+| 127 | [Hot Shit](https://open.spotify.com/track/4bzKnckkoLhwvTtWV3nir9) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [WWW.](https://open.spotify.com/album/3kzNF51mp30QXF3yck4nwL) | 3:39 |
 | 128 | [Tramuntana](https://open.spotify.com/track/3aZTZQ3mu6GihdOry4xqpV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 3:55 |
 | 129 | [SAFE SPACE](https://open.spotify.com/track/1xwa32HgXQvkRxVTB2qP0U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:14 |
 | 130 | [EVERYTHING HALLELUJAH](https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 4:08 |
@@ -144,12 +144,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 134 | [Do Not Disturb](https://open.spotify.com/track/31yeukBk5aAtzOoayBHsvg) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [The Everlasting Wave](https://open.spotify.com/album/6AcXp7TeRyCNbyeNJSEMIL) | 3:56 |
 | 135 | [Wanna Come Thru](https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Wanna Come Thru](https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF) | 2:11 |
 | 136 | [Bet Up](https://open.spotify.com/track/46kj7wlaxNfNz4MpvD8l67) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Superstar Creature](https://open.spotify.com/album/6FaFi9FuUH3VoXDZzQl02N) | 2:07 |
-| 137 | [Mr\. Neighbor](https://open.spotify.com/track/5k9f5oNVRSBdDoGa5W9toI) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:46 |
-| 138 | [DOTTED LINE](https://open.spotify.com/track/5Oc0vVCEHfBvQ26H4a8qcY) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:27 |
+| 137 | [DOTTED LINE](https://open.spotify.com/track/5Oc0vVCEHfBvQ26H4a8qcY) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:27 |
+| 138 | [Mr\. Neighbor](https://open.spotify.com/track/5k9f5oNVRSBdDoGa5W9toI) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:46 |
 | 139 | [All 4 You](https://open.spotify.com/track/5X2zwPMd2gNNIWQdvyU3TY) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Smyle \(Extended\)](https://open.spotify.com/album/7ramtTKrOVLzbPjzGbSJgr) | 4:35 |
 | 140 | [Pretty Boy](https://open.spotify.com/track/1E95q68SQxX1dDzYGjHJ1s) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 3:09 |
-| 141 | [Be Careful With Me](https://open.spotify.com/track/4JOsabaJ1et99Ulb1E9GIE) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/0bIXnppwOEeFqEUV0vqJJn) | 3:16 |
-| 142 | [WHEN IT'S OVER](https://open.spotify.com/track/3OevAJaJmLNY1PKK1b18bz) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:34 |
+| 141 | [WHEN IT'S OVER](https://open.spotify.com/track/3OevAJaJmLNY1PKK1b18bz) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:34 |
+| 142 | [Be Careful With Me](https://open.spotify.com/track/4JOsabaJ1et99Ulb1E9GIE) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/0bIXnppwOEeFqEUV0vqJJn) | 3:16 |
 | 143 | [Symphony](https://open.spotify.com/track/0DmnKmJpwUnHZHStMyJZkN) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS), [Teddy Jackson](https://open.spotify.com/artist/77kaHO7hihRt7OyrspYSdd) | [WWW.](https://open.spotify.com/album/3kzNF51mp30QXF3yck4nwL) | 3:37 |
 | 144 | [midsummer pipe dream](https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [midsummer pipe dream](https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH) | 2:36 |
 | 145 | [Help Myself](https://open.spotify.com/track/73Q1cq5YHpqZHrhOE21lhW) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Paradise](https://open.spotify.com/album/0yCW3blpXzA0owDGQVQ5xY) | 3:33 |
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 193 | [Without You \- Downtempo Workout Mix](https://open.spotify.com/track/09dEqoOt2ERaafwHplzjAf) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [50 Pop Workout Downtempo](https://open.spotify.com/album/6kuOWQcfva1CAmyJ3IifMN) | 4:36 |
 | 194 | [Trampoline](https://open.spotify.com/track/7p5jd7xEbVLwtuQQBKQhck) | [Very Nice Person](https://open.spotify.com/artist/3yzsPSJ1D0m1ugX9U2yL0P) | [Trampoline](https://open.spotify.com/album/6Yc22hJMoAe01X3hzGkug5) | 3:17 |
 
-Snapshot ID: `AcAGsAAAAADJFuEfbWWKRkjsURmmGvtZ`
+Snapshot ID: `AcAMRgAAAABv0SJJXD9455ZLwzj2qFgF`

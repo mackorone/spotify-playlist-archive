@@ -1,6 +1,6 @@
 {
   "description": "Certified R&B hits. Cover: Leon Thomas",
-  "num_followers": 62296,
+  "num_followers": 62304,
   "original_name": "Certi: R&B",
   "owner": {
     "name": "Spotify",
@@ -216,7 +216,7 @@
           "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 148517,
+      "duration_ms": 148377,
       "name": "ART",
       "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
     },
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-10-23 23:00:18",
       "album": {
+        "name": "COMING HOME",
+        "url": "https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 188206,
+      "name": "Kissing Strangers",
+      "url": "https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts"
+    },
+    {
+      "added_at": "2025-10-23 23:00:18",
+      "album": {
         "name": "wHIMSY",
         "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 193714,
       "name": "wASH U AWAY",
       "url": "https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x"
-    },
-    {
-      "added_at": "2025-10-23 23:00:18",
-      "album": {
-        "name": "COMING HOME",
-        "url": "https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 188206,
-      "name": "Kissing Strangers",
-      "url": "https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts"
     },
     {
       "added_at": "2025-10-23 23:00:18",

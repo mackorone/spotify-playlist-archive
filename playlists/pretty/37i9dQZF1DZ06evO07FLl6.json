@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 244302,
+  "num_followers": 244319,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADYBFi4XUUacWeyraEZNqmS",
+  "snapshot_id": "aQAHgAAAAAA0vPzufTOAyQll0GEf/7z9",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Doo-Bop",
+        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 297440,
+      "name": "The Doo-Bop Song",
+      "url": "https://open.spotify.com/track/6lbzLUoma85KVbQqBpvBrw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 154340,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bags' Groove (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
       },
@@ -655,38 +687,6 @@
       "duration_ms": 293640,
       "name": "Doxy - Remastered 2009",
       "url": "https://open.spotify.com/track/3vZIYc2V9Ql80jWI2ZApEC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 154340,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doo-Bop",
-        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 297440,
-      "name": "The Doo-Bop Song",
-      "url": "https://open.spotify.com/track/6lbzLUoma85KVbQqBpvBrw"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miles Ahead (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "The Duke",
-      "url": "https://open.spotify.com/track/39ctrlu5OoDcVzP0nHvmv3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tutu",
         "url": "https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 316666,
       "name": "Tutu",
       "url": "https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miles Ahead (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "The Duke",
+      "url": "https://open.spotify.com/track/39ctrlu5OoDcVzP0nHvmv3"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Day In Paris",
-        "url": "https://open.spotify.com/album/7hVkQzpMwyDTTTvYjkKVeU"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 219640,
-      "name": "What's New",
-      "url": "https://open.spotify.com/track/4OtXw7fTLV53s7kYlhqUDP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Embraceable",
         "url": "https://open.spotify.com/album/2j5GUDLnu0vbZCK1fgHo7c"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 243600,
       "name": "Out Of Nowhere",
       "url": "https://open.spotify.com/track/5cA3pwT15ubAZeJR0gRppU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Day In Paris",
+        "url": "https://open.spotify.com/album/7hVkQzpMwyDTTTvYjkKVeU"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "What's New",
+      "url": "https://open.spotify.com/track/4OtXw7fTLV53s7kYlhqUDP"
     },
     {
       "added_at": null,

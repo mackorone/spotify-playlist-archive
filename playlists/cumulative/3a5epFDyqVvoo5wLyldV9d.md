@@ -4,7 +4,7 @@
 
 > 
 
-882 songs - 2 day 21 hr 19 min
+883 songs - 2 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Maimouna Cherie](https://open.spotify.com/track/6KYQEFOlw5T3LSCDgsvX4O) | [Vincent Ahehehinnou](https://open.spotify.com/artist/1EYbriX2mbaKMLdc5T77uj) | [Best Woman \(Analog Africa Dance Edition No\. 5\)](https://open.spotify.com/album/3y8lKrtACN6hXQjvEQIEWP) | 8:38 | 2023-01-23 |  |
 | [Main Akeli Raat Jawan](https://open.spotify.com/track/4rGvQIhbqN5XMBPg9Ncllb) | [Ajit Singh](https://open.spotify.com/artist/1tmWfgiOMGLjKQS6XGkIyx), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Purana Mandir \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JGCo7abJV74z7rmy8MTv7) | 5:27 | 2022-09-20 |  |
 | [Mais Que Nada](https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Foursider](https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0) | 2:39 | 2021-05-27 |  |
+| [Maitá](https://open.spotify.com/track/0rqZWIhGrMaPSDlE31Ret1) | [Doris Monteiro](https://open.spotify.com/artist/5bQiwDxCWfLPAXOAshBFCa) | [Doris Monteiro Agora](https://open.spotify.com/album/7GegUpqaiQCDwjjgTH9sph) | 2:52 | 2025-10-29 |  |
 | [Makiyaj](https://open.spotify.com/track/64zkMDZGsUBsqBaogoSRDS) | [Jules\-Henry Malaki](https://open.spotify.com/artist/70lZoqm8bQmomgLlPH9nAB) | [Makiyaj](https://open.spotify.com/album/2UFo1SSLCCCWmpfbyCULNp) | 4:29 | 2024-08-27 |  |
 | [Makom Ma Bobe](https://open.spotify.com/track/2lxVuMHkR7pdgW7PRJuWc0) | [Jeannette Ndiaye](https://open.spotify.com/artist/2trDKGvhEsWjDTHlELK7Mw) | [Makom Ma Bobe](https://open.spotify.com/album/1Nr08g59RjVPV73XqJkZPy) | 4:27 | 2021-06-01 |  |
 | [Mal Mi Goa](https://open.spotify.com/track/0377nNcsymeUDxEaUsOemm) | [Gordon Koang](https://open.spotify.com/artist/4LsJGFIGPI5c0sOeKFtjQ1) | [Unity](https://open.spotify.com/album/66kjRjllHcoW1aXmC5yMgQ) | 7:50 | 2021-02-26 |  |

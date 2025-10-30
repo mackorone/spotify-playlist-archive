@@ -1,6 +1,6 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 50863,
+  "num_followers": 50869,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
@@ -387,8 +387,8 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h"
+        "name": "Abel",
+        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 221080,
-      "name": "Oncemil",
-      "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
+      "duration_ms": 181933,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 179720,
+      "name": "Que Corran",
+      "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Soundamerica",
         "url": "https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Circolog\u00eda",
-        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 179720,
-      "name": "Que Corran",
-      "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Las Antenas",
         "url": "https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz"
       },
@@ -475,8 +475,8 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Abel",
-        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
+        "name": "11",
+        "url": "https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 181933,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu"
+      "duration_ms": 221080,
+      "name": "Oncemil",
+      "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Las Antenas",
-        "url": "https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 273240,
-      "name": "Alas Rotas",
-      "url": "https://open.spotify.com/track/2oSSdWH52JwRKbGgkZkk83"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "El Club De Los Martes",
         "url": "https://open.spotify.com/album/0BDe1xU84IYJoM6kZi3z9G"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 239360,
       "name": "Se te nota",
       "url": "https://open.spotify.com/track/4qlb4cHm1GmndU5p3Z5s4T"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Las Antenas",
+        "url": "https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 273240,
+      "name": "Alas Rotas",
+      "url": "https://open.spotify.com/track/2oSSdWH52JwRKbGgkZkk83"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Hasta el Final",
-        "url": "https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ"
+        "name": "A\u00f1os Luz",
+        "url": "https://open.spotify.com/album/4cam3fnP6L0YYcib0EDmhO"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 256255,
-      "name": "Del Olvido",
-      "url": "https://open.spotify.com/track/6w7EejAq22cFNV5Yo4Vrlt"
+      "duration_ms": 193246,
+      "name": "A\u00f1os Luz",
+      "url": "https://open.spotify.com/track/4SQFu2eDYHTD9DdRVG3vU3"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "A\u00f1os Luz",
-        "url": "https://open.spotify.com/album/4cam3fnP6L0YYcib0EDmhO"
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ"
       },
       "artists": [
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
         }
       ],
-      "duration_ms": 193246,
-      "name": "A\u00f1os Luz",
-      "url": "https://open.spotify.com/track/4SQFu2eDYHTD9DdRVG3vU3"
+      "duration_ms": 256255,
+      "name": "Del Olvido",
+      "url": "https://open.spotify.com/track/6w7EejAq22cFNV5Yo4Vrlt"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Deshoras",
-        "url": "https://open.spotify.com/album/7F5vE3C3nYca5gflNrBMiB"
+        "name": "Perlas & Conchas",
+        "url": "https://open.spotify.com/album/2KQaaRXoshRbFQXuaVAoFo"
       },
       "artists": [
         {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "F\u00e9mina",
+          "url": "https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR"
         }
       ],
-      "duration_ms": 214333,
-      "name": "Deshoras",
-      "url": "https://open.spotify.com/track/2WyhoctUbgmlm4Ff2RBzvm"
+      "duration_ms": 294112,
+      "name": "Agradezco",
+      "url": "https://open.spotify.com/track/3H4FCuCyAVZVgGCkYSLEu3"
     }
   ],
   "unique_name": "Los 2010 Argentina",

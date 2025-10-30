@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,179 likes - 65 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,203 likes - 65 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 17 | [Cheats and Liars](https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:48 |
 | 18 | [They Don't Make Them Like You Anymore](https://open.spotify.com/track/5bpefadeY6xmGgkXkylqSt) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Tattoo \(Remastered 2017\)](https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg) | 4:04 |
 | 19 | [Songs Of Yesterday](https://open.spotify.com/track/7jYXoudEWfERVDFZHM8Nfw) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Free](https://open.spotify.com/album/2yZXtlCUGjaOYBGc9qqeay) | 3:35 |
-| 20 | [Railway And Gun](https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7) | [Taste](https://open.spotify.com/artist/4Se7TFuKKQVCzttyri6bg3) | [On The Boards](https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8) | 3:36 |
-| 21 | [Confessin' The Blues](https://open.spotify.com/track/3AaXHBFpwXWmtg3kcfuwhQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [12 X 5](https://open.spotify.com/album/2Hnje5QVKaPVNuGJ5yHC7Z) | 2:47 |
+| 20 | [Confessin' The Blues](https://open.spotify.com/track/3AaXHBFpwXWmtg3kcfuwhQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [12 X 5](https://open.spotify.com/album/2Hnje5QVKaPVNuGJ5yHC7Z) | 2:47 |
+| 21 | [Railway And Gun](https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7) | [Taste](https://open.spotify.com/artist/4Se7TFuKKQVCzttyri6bg3) | [On The Boards](https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8) | 3:36 |
 | 22 | [Junior's Wailing \- 21st Century Version](https://open.spotify.com/track/7IUA28oFz78kpRUx8rDK49) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Wailing Again](https://open.spotify.com/album/7uNZi23dwmDzuvyXw0tiL2) | 3:59 |
 | 23 | [I Ain't Superstitious](https://open.spotify.com/track/1Hm9E70VKLq37oTLESiP6o) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 4:51 |
 | 24 | [Won't Be Taken Down](https://open.spotify.com/track/5s5hWAZii6ahuLEyVXG2L9) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Eyes Wide Open](https://open.spotify.com/album/64VYTykrTBKltig6Li2JLF) | 5:57 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 49 | [Too Far Gone](https://open.spotify.com/track/6gq6I59uWHNtSwE1g0YUdR) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Means of Escape](https://open.spotify.com/album/5ggSAkCilktDjDmUx2OmVu) | 6:06 |
 | 50 | [Cry Me A River](https://open.spotify.com/track/1LbYEPf6Qvjxx3adcMUtW5) | [The Steampacket](https://open.spotify.com/artist/5sPaD3cDvvV5gzjWmZCOr4) | [The First Super Group](https://open.spotify.com/album/7CtD9yd4joJ2EZOwYp4aE6) | 2:46 |
 | 51 | [My Baby's Good to Me](https://open.spotify.com/track/0v5TdcJwcraaD757Unagp6) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 2:50 |
-| 52 | [Back Street Crawler \(Don't Need You No More\) \- Single Guitar Track Number 14](https://open.spotify.com/track/5n8EWlQ0z0yQ2ZSpy38dXe) | [Paul Kossoff](https://open.spotify.com/artist/3RWZcKPLfAHGMwQ6prAnXP) | [Back Street Crawler](https://open.spotify.com/album/3pkH2bhYueXjSIp61EXo4J) | 4:31 |
+| 52 | [Jo Ann](https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Them](https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ) | 2:55 |
 | 53 | [Blues Deluxe](https://open.spotify.com/track/5HB3pcue65MRxXbIDSXpTA) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 7:30 |
-| 54 | [Jo Ann](https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Them](https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ) | 2:55 |
+| 54 | [Back Street Crawler \(Don't Need You No More\) \- Single Guitar Track Number 14](https://open.spotify.com/track/5n8EWlQ0z0yQ2ZSpy38dXe) | [Paul Kossoff](https://open.spotify.com/artist/3RWZcKPLfAHGMwQ6prAnXP) | [Back Street Crawler](https://open.spotify.com/album/3pkH2bhYueXjSIp61EXo4J) | 4:31 |
 | 55 | [Gotta Get to Know You](https://open.spotify.com/track/0nORptIh3WnyVEkcYcQJRo) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat](https://open.spotify.com/album/436NeoRUt1APoubE867iBx) | 7:43 |
 | 56 | [12 Gauge](https://open.spotify.com/track/60oxeLK5l66VXKfruuj6zX) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [12 Gauge](https://open.spotify.com/album/0tM7YbnVjiIa2ACqeZB3hg) | 2:20 |
 | 57 | [Sittin' And Thinkin' \- Mono Version](https://open.spotify.com/track/0umo8TT1q9CQbOwfjHHK1O) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Their First LP \(Mono Version\)](https://open.spotify.com/album/3S64E4pbZbfsB7gJWxrRDT) | 2:57 |

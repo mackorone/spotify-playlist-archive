@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 7153,
+  "num_followers": 7163,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAACN4HhDHfWNwgxYKWM9400A",
+  "snapshot_id": "aQAHgAAAAADtBJO6OHjrZb+6ii1sHA5O",
   "tracks": [
     {
       "added_at": null,
@@ -510,11 +510,15 @@
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 134736,
-      "name": "Lock Up",
-      "url": "https://open.spotify.com/track/4mMPMgxDded2eGZdwbRwET"
+      "duration_ms": 164571,
+      "name": "Play (feat. Fave)",
+      "url": "https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO"
     },
     {
       "added_at": null,
@@ -578,35 +582,11 @@
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Play (feat. Fave)",
-      "url": "https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different Lane",
-        "url": "https://open.spotify.com/album/2LCzcEsKLehVVuwGT2Sd6F"
-      },
-      "artists": [
-        {
-          "name": "larrylanes",
-          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 132185,
-      "name": "All Eyes On Me",
-      "url": "https://open.spotify.com/track/7fz52tAQ79hRZ5q5GTQ8aC"
+      "duration_ms": 134736,
+      "name": "Lock Up",
+      "url": "https://open.spotify.com/track/4mMPMgxDded2eGZdwbRwET"
     },
     {
       "added_at": null,
@@ -631,6 +611,26 @@
       "duration_ms": 202301,
       "name": "Ali (Remix)",
       "url": "https://open.spotify.com/track/3LuGbLJYZi0A4QJPADyQjg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Lane",
+        "url": "https://open.spotify.com/album/2LCzcEsKLehVVuwGT2Sd6F"
+      },
+      "artists": [
+        {
+          "name": "larrylanes",
+          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 132185,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/7fz52tAQ79hRZ5q5GTQ8aC"
     },
     {
       "added_at": null,

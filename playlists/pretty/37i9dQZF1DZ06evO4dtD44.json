@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 61963,
+  "num_followers": 61962,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAABWLr38KhVMQyzSw0Aq4I9M",
+  "snapshot_id": "aQAHgAAAAACKsw0s4EJsdAHhZMw491sd",
   "tracks": [
     {
       "added_at": null,
@@ -523,26 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/7B3DBrDOxHU0qBhbTjvYvK"
+        "name": "Amoroso",
+        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
       },
       "artists": [
         {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 76293,
-      "name": "Cordeiro de Nan\u00e3",
-      "url": "https://open.spotify.com/track/0nABAnYXsLibLk3NOIAAlu"
+      "duration_ms": 259200,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/7gYM9I0k3OTAh2RHlspaxN"
     },
     {
       "added_at": null,
@@ -571,18 +563,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amoroso",
-        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/7B3DBrDOxHU0qBhbTjvYvK"
       },
       "artists": [
         {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 259200,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/7gYM9I0k3OTAh2RHlspaxN"
+      "duration_ms": 76293,
+      "name": "Cordeiro de Nan\u00e3",
+      "url": "https://open.spotify.com/track/0nABAnYXsLibLk3NOIAAlu"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
       "duration_ms": 129720,
       "name": "Bim Bom - Live At Carnegie Hall/1964",
       "url": "https://open.spotify.com/track/09DlYtkNWHPwbLjM3VBlR1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amoroso",
+        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 387133,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/55mCj2LMr3csP88djkFpPN"
     },
     {
       "added_at": null,
@@ -639,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amoroso",
-        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 387133,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/55mCj2LMr3csP88djkFpPN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do the Bossa Nova",
         "url": "https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 258733,
       "name": "Deve Ser Amor (It Must Be Love)",
       "url": "https://open.spotify.com/track/69QK0UBbAX20uVhjXMX5t4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amoroso",
+        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 526200,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/2yEpIibskkd64N9l5NsuJC"
     },
     {
       "added_at": null,
@@ -715,22 +731,6 @@
       "duration_ms": 264226,
       "name": "It Might As Well Be Spring - Live At Carnegie Hall",
       "url": "https://open.spotify.com/track/0Tc4zN8q4CD71XJ7Wbjotz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amoroso",
-        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 526200,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/2yEpIibskkd64N9l5NsuJC"
     },
     {
       "added_at": null,

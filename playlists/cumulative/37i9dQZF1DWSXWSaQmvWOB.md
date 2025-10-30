@@ -4,7 +4,7 @@
 
 > New soul\-infused music! Cover: SABRI
 
-1,185 songs - 2 day 23 hr 51 min
+1,186 songs - 2 day 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [Hold On](https://open.spotify.com/track/2G69Y6ZJgrhUdcY9TvD1Lc) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [The Royal Escape](https://open.spotify.com/album/3E7HkIBOCy3x0KEPePU5hz) | 4:11 | 2021-05-07 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-07-04 |  |
 | [Hold Ya \(feat\. Lawrence\)](https://open.spotify.com/track/5Wbk2PYCUJ58gYbustxRrq) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Hold Ya](https://open.spotify.com/album/5J1pJlwV1CY96h9d8QnPOC) | 3:43 | 2020-07-18 | 2021-02-28 |
+| [Hold Your Hand](https://open.spotify.com/track/1xE4VBKGZjPlktET0jEiYX) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Hold Your Hand](https://open.spotify.com/album/0vlpAinZBQz0HwEkI1T1qp) | 2:44 | 2025-10-29 |  |
 | [Holy Ghost](https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:36 | 2022-07-28 | 2023-06-08 |
 | [Home](https://open.spotify.com/track/6GNo0HXkZfpzTPe4mIFJdm) | [Flo Naegeli](https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa) | [Home](https://open.spotify.com/album/2fTOavx9kJweCysjqeHp1L) | 3:19 | 2024-03-14 | 2024-06-29 |
 | [Homespun](https://open.spotify.com/track/0NmtuRJJAVhAN2w637Brpt) | [Glenn Astro](https://open.spotify.com/artist/6NjPS5yGVTioKlN7NsA6Is), [Ajnascent](https://open.spotify.com/artist/2f1VWkEx9QnpNefXzl9f8H) | [Homespun](https://open.spotify.com/album/0v9hrKG8Ez0v1Nv6ETcwYF) | 3:49 | 2020-10-02 | 2021-01-09 |
@@ -841,7 +842,7 @@
 | [Rolling Back](https://open.spotify.com/track/1irJhcpldknFoEzcqO75qB) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 3:43 | 2023-03-17 | 2023-08-16 |
 | [Rolodex](https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK) | [Jonny Kosmo](https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx) | [Light Speaks the Quilt](https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov) | 2:56 | 2022-12-02 | 2023-06-08 |
 | [Rome](https://open.spotify.com/track/4tIQSUOeS5lUt0z9bo7I7H) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Rome](https://open.spotify.com/album/63PWuzq9CUkvVjHTfZXPqe) | 3:47 | 2020-03-25\* | 2020-07-03 |
-| [Roots Run Deep](https://open.spotify.com/track/0BEcQDu4c6PQxPZLvAMuJO) | [Jivefunkadelic](https://open.spotify.com/artist/4gOkiobVrWR36e3lXDOVCg) | [Roots Run Deep](https://open.spotify.com/album/48COjvWxUNoLv8aEiOJfrE) | 4:21 | 2025-10-08 |  |
+| [Roots Run Deep](https://open.spotify.com/track/0BEcQDu4c6PQxPZLvAMuJO) | [Jivefunkadelic](https://open.spotify.com/artist/4gOkiobVrWR36e3lXDOVCg) | [Roots Run Deep](https://open.spotify.com/album/48COjvWxUNoLv8aEiOJfrE) | 4:21 | 2025-10-08 | 2025-10-30 |
 | [Round 'n Round](https://open.spotify.com/track/6l00DjYvvJJAPm4RHtXUuU) | [Shaynah](https://open.spotify.com/artist/4U7FCOOzMmHazZNQ6eK7RG) | [Chapter 22: NAKED](https://open.spotify.com/album/1ftnFdq2bfUhNP5zP8pil6) | 2:18 | 2024-09-11 | 2024-10-05 |
 | [Royal \(Recall\)](https://open.spotify.com/track/3B6NAE4xPwzeGDMy0yMNY2) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Royal \(Recall\)](https://open.spotify.com/album/6DWmlOGZadzy75IdJ6NOop) | 2:54 | 2021-02-28 | 2021-04-23 |
 | [Royal Cologne](https://open.spotify.com/track/1Ms9FqdbzWzDkv6KSJE10U) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Royal Cologne](https://open.spotify.com/album/4FTJg1p495RegTI5viSwQr) | 3:56 | 2021-07-10 | 2022-07-20 |

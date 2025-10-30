@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Trendy & Chill Korean R&B music\. \(Cover: <br/>DEAN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,095,242 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,095,225 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 57 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz) | 2:55 |
 | 58 | [Dope Lovers](https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:20 |
 | 59 | [Last night \(Guitar by Park Juwon\)](https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS) | [JxW](https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D) | [JxW 1st Single Album 'THIS MAN'](https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN) | 2:56 |
-| 60 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 |
-| 61 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 |
+| 60 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 |
+| 61 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 |
 | 62 | [Candy](https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:47 |
 | 63 | [Forever Only](https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Forever Only \- SM STATION : NCT LAB](https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8) | 3:16 |
 | 64 | [Apocalypse](https://open.spotify.com/track/53bnkcyDpei0ZlC30au1t7) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 2:56 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 68 | [Mood](https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:02 |
 | 69 | [By My Side](https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [By My Side](https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS) | 3:26 |
 | 70 | [Pineapple Slice](https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 3:15 |
-| 71 | [CHA CHA CHA](https://open.spotify.com/track/6yTVgo0aw7LGUm4WHGjRxy) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [CHA CHA CHA](https://open.spotify.com/album/7bSsW44d0shyAIfX9sXPFV) | 2:55 |
-| 72 | [Birthday](https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [Birthday \- SM STATION : NCT LAB](https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr) | 3:41 |
+| 71 | [Birthday](https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [Birthday \- SM STATION : NCT LAB](https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr) | 3:41 |
+| 72 | [CHA CHA CHA](https://open.spotify.com/track/6yTVgo0aw7LGUm4WHGjRxy) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [CHA CHA CHA](https://open.spotify.com/album/7bSsW44d0shyAIfX9sXPFV) | 2:55 |
 | 73 | [Mars](https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:07 |
-| 74 | [MIRROR](https://open.spotify.com/track/322ZFlJ5zhErQhaOXnZ1di) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Flash and Core](https://open.spotify.com/album/6adDt7KDDnY7Kdtyazkr8N) | 3:08 |
-| 75 | [All My Poetry](https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:35 |
+| 74 | [All My Poetry](https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:35 |
+| 75 | [MIRROR](https://open.spotify.com/track/322ZFlJ5zhErQhaOXnZ1di) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Flash and Core](https://open.spotify.com/album/6adDt7KDDnY7Kdtyazkr8N) | 3:08 |
 
 Snapshot ID: `AAAAAP/fIueDM2LiaPoJNuPjtnTtJeeP`

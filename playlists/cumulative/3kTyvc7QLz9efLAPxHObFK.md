@@ -4,7 +4,7 @@
 
 > 
 
-2,643 songs - 5 day 17 hr 48 min
+2,644 songs - 5 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1288,6 +1288,7 @@
 | [Keep On Dreaming \- Radio Edit](https://open.spotify.com/track/0chqg68ipglRIeCssF4qCc) | [Riko](https://open.spotify.com/artist/6VZ658qB3goLJXy084ROQs), [Scotty C](https://open.spotify.com/artist/0SlUHkCgZV3EDrqbdZrP9i) | [Keep On Dreaming](https://open.spotify.com/album/3cZN87SLlqVDNyGvE90Pga) | 4:42 | 2023-10-24 |  |
 | [Keep On Fallin'](https://open.spotify.com/track/7zH5HTbN9GrIxjBG78AAlD) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Pinotello](https://open.spotify.com/artist/1WjmW8uqn4LwwsJxrDMM4d) | [Keep On Fallin'](https://open.spotify.com/album/6RHcCw3z9a4z80w5nsnD8n) | 2:17 | 2025-02-23 |  |
 | [Keep On Raving](https://open.spotify.com/track/1hUZ6NIKm4xF1PiKmv7EnI) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [BREVKIN](https://open.spotify.com/album/3Elsd1dMiZfACBTZieeJXJ) | 3:42 | 2023-05-13 |  |
+| [Keep On Running](https://open.spotify.com/track/1uRPuxmtBndMqgDWNxIB2v) | [ALPHI](https://open.spotify.com/artist/6TUS92w9xO24LS2EzuRR2M) | [Keep On Running](https://open.spotify.com/album/7AW7wlmmiSxsScW5TxKAmC) | 2:26 | 2025-10-29 |  |
 | [Keep On Running](https://open.spotify.com/track/23JSgucWpNgoMNUORRSa9b) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Keep On Running](https://open.spotify.com/album/2PkP3JcAbjDc6P13Pnqah8) | 2:15 | 2024-07-26 |  |
 | [Keep on Waiting](https://open.spotify.com/track/3wgeAZSrg18b2gHjx3y6tX) | [ExaMelodica](https://open.spotify.com/artist/6VY7xbxDWoFBAViageVD0X) | [Keep on Waiting](https://open.spotify.com/album/6VmgMRjwUCrCztONYYqJr1) | 2:24 | 2024-03-08 |  |
 | [KEEP UP](https://open.spotify.com/track/5vnlWpaoUuU0kzQP5WlMO9) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9) | [KEEP UP](https://open.spotify.com/album/3P6OpoCXYfgi9XUgWHGnuN) | 2:05 | 2025-08-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,100 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,128 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 10 | [No Tengo Tiempo](https://open.spotify.com/track/5xOW6mtZzHEtnLfekkg5fO) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Lo Más Prendido de Rockdrigo González](https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ) | 4:25 |
 | 11 | [Mi Muñequita Sintética](https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 3:08 |
 | 12 | [María](https://open.spotify.com/track/0GMNzFmH1JTNBbA09az4Vw) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 4:24 |
-| 13 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
+| 13 | [El Esqueleto](https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Victimas Del Doctor Cerebro](https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv) | 3:41 |
 | 14 | [Pobre soñador](https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [25 años](https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L) | 3:50 |
-| 15 | [El Esqueleto](https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Victimas Del Doctor Cerebro](https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv) | 3:41 |
+| 15 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
 | 16 | [El No Lo Mato](https://open.spotify.com/track/2hntX3w48OucbEqoLoDnPZ) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Delincuentes Con Placa](https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn) | 4:13 |
 | 17 | [Barco Azul \- Remastered 2000](https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered 2000\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 6:58 |
 | 18 | [Me Dijiste](https://open.spotify.com/track/630TIL2bWuseStelIhFT6L) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:30 |
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 60 | [El y Yo](https://open.spotify.com/track/2H1uTK1SvKijag9Xofk7vO) | [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Fe](https://open.spotify.com/album/48SFSSTFxF8Hlih5D2t5Jb) | 2:46 |
 | 61 | [Esta Vez](https://open.spotify.com/track/42RFJrVk4jAnMKJAOkd3c1) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 3:41 |
 | 62 | [Tocando el Cielo](https://open.spotify.com/track/3pE3ecB6BsdzovRRtcieRB) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 3:35 |
-| 63 | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M) | 4:32 |
+| 63 | [Los Versos de la Catrina](https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Los Versos de la Catrina](https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7) | 4:07 |
 | 64 | [Abuso de autoridad](https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:03 |
-| 65 | [La Casa del Sol Naciente](https://open.spotify.com/track/0ERFRaw7HSx8AOfT0Ud7Nl) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [La Casa del Sol Naciente](https://open.spotify.com/album/1qk6ORoMNgYkJiqxHn86VW) | 3:43 |
-| 66 | [Los Versos de la Catrina](https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Los Versos de la Catrina](https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7) | 4:07 |
+| 65 | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M) | 4:32 |
+| 66 | [La Casa del Sol Naciente](https://open.spotify.com/track/0ERFRaw7HSx8AOfT0Ud7Nl) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [La Casa del Sol Naciente](https://open.spotify.com/album/1qk6ORoMNgYkJiqxHn86VW) | 3:43 |
 | 67 | [Hipócrita](https://open.spotify.com/track/5Ct7MKwBBOuBr8uTh8uisv) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:11 |
 | 68 | [Metro Balderas \(Estación del metro Balderas\)](https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 4:48 |
 | 69 | [Oye Cantinero](https://open.spotify.com/track/2P5ujdnvH3G4MNwWLUY129) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:42 |

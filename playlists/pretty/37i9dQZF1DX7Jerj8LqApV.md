@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,832,954 likes - 40 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,832,972 likes - 40 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 32 | [Randomantic](https://open.spotify.com/track/3lOpUMMUskknPD3dJR2MkT) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Reid Alert](https://open.spotify.com/album/2H4wJMAmm6r9WxMFwmXpj9) | 4:04 |
 | 33 | [Kisame](https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [Kisame](https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe) | 3:32 |
 | 34 | [Namumula](https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Namumula](https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc) | 2:54 |
-| 35 | [Alipin](https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [BANDROOM SESSIONS EPISODE 1](https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2) | 3:54 |
-| 36 | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 |
-| 37 | [Hindi Ako Mawawala](https://open.spotify.com/track/7kP8dbiMKm83kOAmy1GcuQ) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Hindi Ako Mawawala](https://open.spotify.com/album/3Xs46eH5aOqsGPdCYalWOS) | 4:43 |
-| 38 | [Lifetime](https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime](https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H) | 2:51 |
-| 39 | [Time](https://open.spotify.com/track/1OvE4CwaIZJ89Eq0qXGCEF) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:44 |
+| 35 | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 |
+| 36 | [Hindi Ako Mawawala](https://open.spotify.com/track/7kP8dbiMKm83kOAmy1GcuQ) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Hindi Ako Mawawala](https://open.spotify.com/album/3Xs46eH5aOqsGPdCYalWOS) | 4:43 |
+| 37 | [Alipin](https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [BANDROOM SESSIONS EPISODE 1](https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2) | 3:54 |
+| 38 | [Time](https://open.spotify.com/track/1OvE4CwaIZJ89Eq0qXGCEF) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:44 |
+| 39 | [Lifetime](https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime](https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H) | 2:51 |
 | 40 | [Tanging Ikaw](https://open.spotify.com/track/1mT8L0Da9RmYbx9TUpqU1y) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Tanging Ikaw](https://open.spotify.com/album/5Vo9ijLxjWDZfl11vJhc4a) | 2:56 |
 
 Snapshot ID: `AAAAAAQXuKalukOBXCq8mIKbv8y9O60P`

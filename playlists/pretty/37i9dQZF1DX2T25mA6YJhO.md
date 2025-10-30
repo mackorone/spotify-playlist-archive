@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Bum Motion Club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,274 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,276 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

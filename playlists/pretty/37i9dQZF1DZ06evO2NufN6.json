@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 967367,
+  "num_followers": 967488,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADKuvpwU/Qfi1oe1tSfmKhL",
+  "snapshot_id": "aQAHgAAAAADNjysvNS9Out41d9JQUymi",
   "tracks": [
     {
       "added_at": null,
@@ -155,18 +155,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "K.I.D.S.",
-        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
       "artists": [
         {
           "name": "Mac Miller",
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 164631,
-      "name": "Nikes on My Feet",
-      "url": "https://open.spotify.com/track/7cAFB83sEKAmwekVvQtGZj"
+      "duration_ms": 216000,
+      "name": "My Favorite Part",
+      "url": "https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt"
     },
     {
       "added_at": null,
@@ -180,9 +184,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 287040,
-      "name": "Ladders",
-      "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
+      "duration_ms": 345133,
+      "name": "Self Care",
+      "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx"
     },
     {
       "added_at": null,
@@ -203,22 +207,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+        "name": "K.I.D.S.",
+        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
       },
       "artists": [
         {
           "name": "Mac Miller",
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 216000,
-      "name": "My Favorite Part",
-      "url": "https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt"
+      "duration_ms": 164631,
+      "name": "Nikes on My Feet",
+      "url": "https://open.spotify.com/track/7cAFB83sEKAmwekVvQtGZj"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 345133,
-      "name": "Self Care",
-      "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx"
+      "duration_ms": 287040,
+      "name": "Ladders",
+      "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
-        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 243034,
-      "name": "BDE Bonus",
-      "url": "https://open.spotify.com/track/4Pafh2Ndd9O4NgO53rqJxI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "That's Life (feat. Mac Miller & Sia)",
         "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
       },
@@ -655,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "K.I.D.S.",
-        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
+        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
+        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
       },
       "artists": [
         {
@@ -664,9 +648,25 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 157540,
-      "name": "Kool Aid & Frozen Pizza",
-      "url": "https://open.spotify.com/track/0SwxuVBPfjqR2kCnpDDnqp"
+      "duration_ms": 243034,
+      "name": "BDE Bonus",
+      "url": "https://open.spotify.com/track/4Pafh2Ndd9O4NgO53rqJxI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GO:OD AM (10th Anniversary)",
+        "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 78014,
+      "name": "Doors",
+      "url": "https://open.spotify.com/track/3gxEBah97U5N7UKFBBJrQR"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
       "duration_ms": 319272,
       "name": "We (feat. CeeLo Green)",
       "url": "https://open.spotify.com/track/4k5UZm89ZX0YAHUp55zpt9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "K.I.D.S.",
+        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 157540,
+      "name": "Kool Aid & Frozen Pizza",
+      "url": "https://open.spotify.com/track/0SwxuVBPfjqR2kCnpDDnqp"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GO:OD AM (10th Anniversary)",
-        "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 78014,
-      "name": "Doors",
-      "url": "https://open.spotify.com/track/3gxEBah97U5N7UKFBBJrQR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 272973,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 223794,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/2CNaYt7KbFqUrATbZZPY21"
     },
     {
       "added_at": null,
@@ -771,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+        "name": "GO:OD AM (10th Anniversary)",
+        "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
       },
       "artists": [
         {
@@ -780,9 +796,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 223794,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/2CNaYt7KbFqUrATbZZPY21"
+      "duration_ms": 283226,
+      "name": "Cable Box",
+      "url": "https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe"
     },
     {
       "added_at": null,
@@ -847,22 +863,6 @@
       "duration_ms": 222119,
       "name": "5 Dollar Pony Rides",
       "url": "https://open.spotify.com/track/1xKGnsdKOh8jx8pzSZAgXE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GO:OD AM (10th Anniversary)",
-        "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "Cable Box",
-      "url": "https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe"
     }
   ],
   "unique_name": "This Is Mac Miller",

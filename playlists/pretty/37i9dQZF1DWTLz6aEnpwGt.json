@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 67045,
+  "num_followers": 67067,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -623,26 +623,6 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Bach: Goldberg Variations, BWV 988",
-        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Beatrice Rana",
-          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
-      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
         "name": "Bach: Piano Concertos, BWV 1052, 1055, 1056 & 1058",
         "url": "https://open.spotify.com/album/176OxBRRhHPSkqRLFhc1FB"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 483600,
       "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: I. Allegro",
       "url": "https://open.spotify.com/track/47HPTrKutwt8n3ZNsmbH7S"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Beatrice Rana",
+          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
+      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
     },
     {
       "added_at": "2025-01-24 04:00:20",

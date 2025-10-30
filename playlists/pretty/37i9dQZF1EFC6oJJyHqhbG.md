@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,697 likes - 145 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,698 likes - 145 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 126 | [Worst in Me](https://open.spotify.com/track/4trfqZ3V0XpLvPL6h6Wr2s) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:42 |
 | 127 | [Open Your Eyes](https://open.spotify.com/track/1AddvxH9HumxaQ8av44opX) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:59 |
 | 128 | [Paranoid](https://open.spotify.com/track/1TYHs2GR0pmimgXyy9HYXY) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [The Return \(Deadly Deluxe\)](https://open.spotify.com/album/4pAQW3M2Fe7jNTBe64CtKX) | 3:19 |
-| 129 | [I Hold Her](https://open.spotify.com/track/0pZp5Hz42oDNKztTbS0Ops) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 3:09 |
-| 130 | [Ferocious](https://open.spotify.com/track/0vHpQeHjHhsSpnMhQRPA09) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [The Sequel](https://open.spotify.com/album/7MOu9tp7BiEexvtVahvllb) | 3:24 |
+| 129 | [Ferocious](https://open.spotify.com/track/0vHpQeHjHhsSpnMhQRPA09) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [The Sequel](https://open.spotify.com/album/7MOu9tp7BiEexvtVahvllb) | 3:24 |
+| 130 | [I Hold Her](https://open.spotify.com/track/0pZp5Hz42oDNKztTbS0Ops) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 3:09 |
 | 131 | [Resurrection](https://open.spotify.com/track/6kUVHH4fLCNHdtGgsRmsdJ) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [The Return \(Deadly Deluxe\)](https://open.spotify.com/album/4pAQW3M2Fe7jNTBe64CtKX) | 3:33 |
 | 132 | [Everything but You](https://open.spotify.com/track/0Ev9jxRhaY7YzxSh2fhMWj) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:39 |
 | 133 | [Green Grass](https://open.spotify.com/track/6ymEuVSzJHo2buCkyTyUgC) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:20 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 144 | [Let Me Live](https://open.spotify.com/track/2qjXFcLQ3sCFz0b225XVk9) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Hotel Rock Bottom](https://open.spotify.com/album/1eMHqaoJVquw5uorVOtCiu) | 3:36 |
 | 145 | [Make It Happen](https://open.spotify.com/track/1E1dsesLy4AYVTPtTyQEe8) | [Hybrid the Rapper](https://open.spotify.com/artist/5Ewzso9cYxwUpYYfDgcBo0), [Double](https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2) | [King of Collab](https://open.spotify.com/album/3ISMRSukyD4PM2t4HpBO1p) | 3:29 |
 
-Snapshot ID: `AcAGpgAAAAABM7J77Af3IKu1KI2iBbaA`
+Snapshot ID: `AcAMMgAAAADUj1iFXWYbHSUj5MFwaViW`

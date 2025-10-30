@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-800 songs - 1 day 17 hr 16 min
+801 songs - 1 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [In Love Today](https://open.spotify.com/track/3JhpsFR2yZhprzqXuzwGqj) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [In Love Today](https://open.spotify.com/album/3dKHCgmYp0ZTtS3UAwtFmn) | 2:45 | 2025-03-27 | 2025-05-31 |
 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 | 2024-07-01 | 2024-08-01 |
 | [In My Dreams](https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [In My Dreams](https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia) | 4:50 | 2024-09-19 | 2024-10-04 |
-| [in plain sight](https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [in plain sight](https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8) | 2:25 | 2025-08-14 |  |
+| [in plain sight](https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [in plain sight](https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8) | 2:25 | 2025-08-14 | 2025-10-30 |
 | [In The Dark](https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:05 | 2025-10-23 |  |
 | [In The Living Room](https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [In The Living Room](https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ) | 4:23 | 2024-10-10 | 2025-01-25 |
 | [Ingen Yin uden Yang \(feat\. Mille\)](https://open.spotify.com/track/3x8aAHTDLJzKN7B8GE5Qjt) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [Ingen Yin uden Yang \(feat\. Mille\)](https://open.spotify.com/album/6TaVspANJfwne5UYy3mQyE) | 2:54 | 2025-08-07 | 2025-09-20 |
@@ -576,6 +576,7 @@
 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 | 2025-01-24 | 2025-04-11 |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-07-01 | 2024-08-17 |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-07-01 | 2024-07-27 |
+| [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 | 2025-10-23 |  |
 | [Rush](https://open.spotify.com/track/0ppdjEVfuHUZQYK8t9uJ9Q) | [Saveus](https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt) | [Rush](https://open.spotify.com/album/643BzXAzVnCV2YBxSCJfpe) | 2:32 | 2024-09-05 | 2024-12-06 |
 | [Ryggen Mod Muren](https://open.spotify.com/track/5kCbaKeAqsStnSE4QXsvTo) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Rene Hjerter Vinder Altid](https://open.spotify.com/album/4MPDu8E05I0dsGCi8A73oM) | 3:04 | 2025-05-29 | 2025-06-29 |
 | [Rødt Flag](https://open.spotify.com/track/1VjZ7NI007heu9eEIJmSpC) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Rødt Flag](https://open.spotify.com/album/53PoYW0S0j9fmhcMiRixwP) | 2:27 | 2025-08-14 | 2025-08-29 |

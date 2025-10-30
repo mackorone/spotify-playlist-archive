@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Afternoon Bike Ride
 
-3,563 songs - 8 day 5 hr 19 min
+3,564 songs - 8 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2200,6 +2200,7 @@
 | [nosebleed](https://open.spotify.com/track/5FOa8mwaYEWk5kvYIVrG9q) | [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [nosebleed](https://open.spotify.com/album/1MF9qX3ubVtPcNSMGdyOAF) | 4:53 | 2024-02-07 | 2024-03-14 |
 | [Nosebleeds](https://open.spotify.com/track/4CsOuaRG4Zz0pUyeVQP2YC) | [Sarah Crean](https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0) | [Nosebleeds](https://open.spotify.com/album/3Xtqahi4LmS1JxvE5Rd0kY) | 3:23 | 2025-02-05 | 2025-03-13 |
 | [Nosebleeds](https://open.spotify.com/track/5VDrRxafQlpZy7Ew4HvVME) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Nosebleeds](https://open.spotify.com/album/1LHu52Xd1vR1xBQ5VOwtpy) | 3:35 | 2023-10-25 | 2023-11-30 |
+| [NOT 2NITE \(feat\. Cansu Kandemir\)](https://open.spotify.com/track/3deDVVLNFHoLccEarFE6UZ) | [Rat Heart](https://open.spotify.com/artist/4bM1ixwFMF5CJhL1Bi7c3e), [Cansu Kandemir](https://open.spotify.com/artist/40psfIeWHQLuytUKWzxrFv) | [Dancin' In The Streets](https://open.spotify.com/album/7cRn8O6Z0BHY6jGpduuUKZ) | 6:09 | 2025-10-29 |  |
 | [not alrite](https://open.spotify.com/track/3KAGEOIppg472G3SCPrsSx) | [Moonbreak](https://open.spotify.com/artist/6tfT0UbUUfC3sortvhIh6x) | [not alrite](https://open.spotify.com/album/3CORW0zUiaxUHlSRcOlNij) | 3:09 | 2022-02-16 | 2022-03-10 |
 | [not cool anymore,](https://open.spotify.com/track/4iabzEk5WL3yipdTR7uohI) | [Morgan Reese](https://open.spotify.com/artist/4Ro2elWptpQoQOLV1F2JoR) | [not cool anymore,](https://open.spotify.com/album/59rErSG1epNkuycKrGf44A) | 3:25 | 2021-10-19 | 2022-01-13 |
 | [Not Right Now](https://open.spotify.com/track/1YiW312xN7I3BrvuQrDsKM) | [Saskia Curry](https://open.spotify.com/artist/07iZM8WX9JLatZ1Pnco6sM) | [Not Right Now](https://open.spotify.com/album/2APRIJufvrpLuvE8r7dagb) | 4:10 | 2023-01-11 | 2023-02-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NTaVu69yI9.md) - [plain]
 
 > 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,149 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,144 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NTaVu69yI9.md) - [plain]
 | 87 | [love somebody like you](https://open.spotify.com/track/0ltO5bci13M68sTnEctBxR) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [love somebody like you](https://open.spotify.com/album/13NYDkzyuRQC8aQLCcyl54) | 3:47 |
 | 88 | [say it first](https://open.spotify.com/track/0XSncrobBZoW1A0bFh8Ttx) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [oh, how perfect](https://open.spotify.com/album/5xNYe96E1oMXdS1FdboZZv) | 2:39 |
 | 89 | [Paper Mache World](https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:59 |
-| 90 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 |
-| 91 | [Luv Note](https://open.spotify.com/track/4wnvVlqdz6o7eLtbeS5sYR) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz) | 3:30 |
+| 90 | [Luv Note](https://open.spotify.com/track/4wnvVlqdz6o7eLtbeS5sYR) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz) | 3:30 |
+| 91 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 |
 | 92 | [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 |
 | 93 | [Knock Me Off My Feet](https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:07 |
 | 94 | [Love The Things You Do](https://open.spotify.com/track/1ONzZIqZm1F9dEOPMDjdEi) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Love The Things You Do](https://open.spotify.com/album/4PWJm5KgebAlYm2c1pg11p) | 3:53 |

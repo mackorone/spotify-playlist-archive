@@ -1,6 +1,6 @@
 {
   "description": "Country music to accompany you on the open road. Cover: Lainey Wilson",
-  "num_followers": 445563,
+  "num_followers": 445707,
   "original_name": "Country Drive",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-10-24 04:00:28",
       "album": {
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 193929,
+      "name": "Slow Dance In A Parking Lot",
+      "url": "https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9"
+    },
+    {
+      "added_at": "2025-10-24 04:00:28",
+      "album": {
         "name": "I Ain't Comin' Back",
         "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 175271,
       "name": "I Ain't Comin' Back (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
-    },
-    {
-      "added_at": "2025-10-24 04:00:28",
-      "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 193929,
-      "name": "Slow Dance In A Parking Lot",
-      "url": "https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9"
     },
     {
       "added_at": "2025-10-24 04:00:28",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-10-24 04:00:28",
       "album": {
-        "name": "Body Like A Back Road",
-        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "Body Like A Back Road",
-      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
-    },
-    {
-      "added_at": "2025-10-24 04:00:28",
-      "album": {
         "name": "Wildflowers and Wild Horses",
         "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 216573,
       "name": "Wildflowers and Wild Horses (Single Version)",
       "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
+    },
+    {
+      "added_at": "2025-10-24 04:00:28",
+      "album": {
+        "name": "Body Like A Back Road",
+        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
     },
     {
       "added_at": "2025-10-24 04:00:28",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-10-24 04:00:28",
       "album": {
+        "name": "Pretty Little Poison",
+        "url": "https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Pretty Little Poison",
+      "url": "https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8"
+    },
+    {
+      "added_at": "2025-10-24 04:00:28",
+      "album": {
         "name": "Pour Me A Drink",
         "url": "https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 195122,
       "name": "Pour Me A Drink (Feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
-    },
-    {
-      "added_at": "2025-10-24 04:00:28",
-      "album": {
-        "name": "Pretty Little Poison",
-        "url": "https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "Pretty Little Poison",
-      "url": "https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8"
     },
     {
       "added_at": "2025-10-24 04:00:28",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-10-24 04:00:28",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
-    },
-    {
-      "added_at": "2025-10-24 04:00:28",
-      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 233869,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
+    },
+    {
+      "added_at": "2025-10-24 04:00:28",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
     },
     {
       "added_at": "2025-10-24 04:00:28",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2025-10-24 04:00:28",
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
-    },
-    {
-      "added_at": "2025-10-24 04:00:28",
-      "album": {
         "name": "Fully Loaded: God's Country",
         "url": "https://open.spotify.com/album/4Kd33JPxTOcjTM29FrKoyT"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 194866,
       "name": "Nobody But You (Duet with Gwen Stefani)",
       "url": "https://open.spotify.com/track/5M8goiFYynmNxhueYW6grR"
+    },
+    {
+      "added_at": "2025-10-24 04:00:28",
+      "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
     },
     {
       "added_at": "2025-10-24 04:00:28",
@@ -2035,18 +2035,18 @@
     {
       "added_at": "2025-10-24 04:00:28",
       "album": {
-        "name": "3,2,1",
-        "url": "https://open.spotify.com/album/5IPdGQ46nrjHlnBLpU5oGQ"
+        "name": "Life With You",
+        "url": "https://open.spotify.com/album/0rONiLVsTjT9XVGtJWEu6z"
       },
       "artists": [
         {
-          "name": "Tucker Wetmore",
-          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+          "name": "Kelsey Hart",
+          "url": "https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb"
         }
       ],
-      "duration_ms": 158333,
-      "name": "3,2,1",
-      "url": "https://open.spotify.com/track/2mxyToKuuc2JGhxBNlJzUh"
+      "duration_ms": 156813,
+      "name": "Life With You",
+      "url": "https://open.spotify.com/track/38QnGbDW7KgVylfma7ZWV5"
     },
     {
       "added_at": "2025-10-24 04:00:28",
@@ -2067,18 +2067,18 @@
     {
       "added_at": "2025-10-24 04:00:28",
       "album": {
-        "name": "Life With You",
-        "url": "https://open.spotify.com/album/0rONiLVsTjT9XVGtJWEu6z"
+        "name": "3,2,1",
+        "url": "https://open.spotify.com/album/5IPdGQ46nrjHlnBLpU5oGQ"
       },
       "artists": [
         {
-          "name": "Kelsey Hart",
-          "url": "https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb"
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
         }
       ],
-      "duration_ms": 156813,
-      "name": "Life With You",
-      "url": "https://open.spotify.com/track/38QnGbDW7KgVylfma7ZWV5"
+      "duration_ms": 158333,
+      "name": "3,2,1",
+      "url": "https://open.spotify.com/track/2mxyToKuuc2JGhxBNlJzUh"
     },
     {
       "added_at": "2025-10-24 04:00:28",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2025-10-24 04:00:28",
       "album": {
-        "name": "Beers And Sunshine",
-        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 178278,
-      "name": "Beers And Sunshine",
-      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
-    },
-    {
-      "added_at": "2025-10-24 04:00:28",
-      "album": {
         "name": "Wishful Drinking (with Sam Hunt)",
         "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 194544,
       "name": "Wishful Drinking (with Sam Hunt)",
       "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
+    },
+    {
+      "added_at": "2025-10-24 04:00:28",
+      "album": {
+        "name": "Beers And Sunshine",
+        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 178278,
+      "name": "Beers And Sunshine",
+      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
     },
     {
       "added_at": "2025-10-24 04:00:28",

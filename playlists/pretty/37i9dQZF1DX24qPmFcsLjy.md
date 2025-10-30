@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 
 > Allerbeste songs van de 80's! Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,547 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,575 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 53 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [Platinum & Gold Collection](https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc) | 4:49 |
 | 54 | [The Best \- Edit](https://open.spotify.com/track/2W2ieVidLIx9TDvxu0ZT6F) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Simply the Best](https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4) | 4:15 |
 | 55 | [1999](https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 6:19 |
-| 56 | [A Good Heart](https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX) | [Feargal Sharkey](https://open.spotify.com/artist/3zk5lgbVEre0rKRBqiKt0T) | [Feargal Sharkey](https://open.spotify.com/album/1fnuPLerUrbVfzcHyY6H5N) | 4:41 |
-| 57 | [Stop Loving You](https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [The Seventh One](https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3) | 4:29 |
+| 56 | [Stop Loving You](https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [The Seventh One](https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3) | 4:29 |
+| 57 | [A Good Heart](https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX) | [Feargal Sharkey](https://open.spotify.com/artist/3zk5lgbVEre0rKRBqiKt0T) | [Feargal Sharkey](https://open.spotify.com/album/1fnuPLerUrbVfzcHyY6H5N) | 4:41 |
 | 58 | [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 3:51 |
 | 59 | [Jump \- 2004 Remaster](https://open.spotify.com/track/0Z7O8GMQShj9TJrm2yX1R6) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [The Very Best of Van Halen \(UK Release\)](https://open.spotify.com/album/4RJcoQhc3aupccH9YnZ69o) | 4:04 |
 | 60 | [Live Is Life \- Live](https://open.spotify.com/track/5AUByBgSqf3a9Sgtp142D2) | [Opus](https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47) | [Millennium Edition](https://open.spotify.com/album/4y5NvuKT134WXPTQBdCRLG) | 4:17 |

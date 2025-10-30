@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 
 > 来日希望！ライブで観たい注目の海外アーティストを特集。cover: Mei Semones
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,640 likes - 48 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,642 likes - 48 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

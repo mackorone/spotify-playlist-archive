@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 
 > This is J\. Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,325 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,367 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 |
 | 2 | [Power Trip \(feat\. Miguel\)](https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:01 |
 | 3 | [Work Out](https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:55 |
-| 4 | [All I Want Is You \(feat\. J\. Cole\)](https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 4:55 |
+| 4 | [MIDDLE CHILD](https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc) | 3:33 |
 | 5 | [Wet Dreamz](https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:59 |
-| 6 | [MIDDLE CHILD](https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc) | 3:33 |
+| 6 | [All I Want Is You \(feat\. J\. Cole\)](https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 4:55 |
 | 7 | [Huntin’ Wabbitz](https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:42 |
 | 8 | [Can't Get Enough](https://open.spotify.com/track/3mTpegrOwRn0oJjv4TSbEE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:45 |
 | 9 | [Love Yourz](https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:31 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 | 47 | [h u n g e r \. o n \. h i l l s i d e \(with Bas\)](https://open.spotify.com/track/5BwQjRasNcdRPuVWKcHto2) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:58 |
 | 48 | [Too Deep for the Intro](https://open.spotify.com/track/3v6oMGduetl7GA67POX9Dm) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Friday Night Lights](https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg) | 3:45 |
 | 49 | [Sacrifices \(with EARTHGANG & J\. Cole feat\. Smino & Saba\)](https://open.spotify.com/track/7wTA0NKIm6T7nP2kaymU2a) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 6:22 |
-| 50 | [Stealth Mode \(feat\. Bas\)](https://open.spotify.com/track/3zyjnHtoi8AtiGgZFnJP7O) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:15 |
+| 50 | [4 Your Eyez Only](https://open.spotify.com/track/1vvnYpYEMVB4aq9I6tHIEB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 8:50 |
 
-Snapshot ID: `aP62AAAAAABQJG/VaTQjz54T4iSgdf9L`
+Snapshot ID: `aQAHgAAAAAAwBQnXvo17Xc72X1teANAI`

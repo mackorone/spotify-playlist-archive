@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from, Faizal Tahir, Dato' Sri Siti Nurhaliza, Lesti, Tyla, Henry Moodie, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,323 likes - 128 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,327 likes - 128 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

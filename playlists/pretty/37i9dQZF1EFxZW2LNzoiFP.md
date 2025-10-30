@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119 likes - 271 songs - 15 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 120 likes - 271 songs - 15 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 73 | [Can't Show My Face](https://open.spotify.com/track/6qTlCSela5oHJkKy9NVOgC) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/7GoPa8H2OoqADzSwrFwyHy) | 4:09 |
 | 74 | [Full English \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0meLhgQuFjfdWXAmBz4ahP) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:31 |
 | 75 | [Drugs](https://open.spotify.com/track/7M6OVjQ0stYHLMciIYseHN) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 3:38 |
-| 76 | [Rose Colored](https://open.spotify.com/track/7GygXkOwsYrl3IeQxMhwRO) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 5:01 |
-| 77 | [Hang Up The Lights](https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:40 |
+| 76 | [Hang Up The Lights](https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:40 |
+| 77 | [Rose Colored](https://open.spotify.com/track/7GygXkOwsYrl3IeQxMhwRO) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 5:01 |
 | 78 | [More or Less](https://open.spotify.com/track/245wE0alBsD7324R2Xm7uh) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/7GoPa8H2OoqADzSwrFwyHy) | 3:20 |
 | 79 | [Unwind](https://open.spotify.com/track/6QWCZNtYt8BbNcdYUv4Kzv) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Unwind](https://open.spotify.com/album/21cxEpXX3hKwNAVh62yspi) | 2:58 |
 | 80 | [woozy](https://open.spotify.com/track/2OJpoFLYK2ZZdxbZX7t7ul) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw) | [fka kyko EP](https://open.spotify.com/album/08Uz0ACnlwb9o4cdy6ylyN) | 2:51 |
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 122 | [untangle me](https://open.spotify.com/track/4vea5nsz7JIZSeuVjoNhTh) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [untangle me](https://open.spotify.com/album/33kXDytIFx1v9FgmYcj0oB) | 1:45 |
 | 123 | [Little Less](https://open.spotify.com/track/2wZ1kI1A7jeygVj2B3y9sk) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:12 |
 | 124 | [Happy New Year](https://open.spotify.com/track/0TkUwdRLk2cDqFNYZnFdl5) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 4:08 |
-| 125 | [Signs](https://open.spotify.com/track/46WV8PRXuffo5wdjUyBK9m) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Signs](https://open.spotify.com/album/34m0cr4M2wEZrD17TdNnPn) | 1:50 |
-| 126 | [High on You](https://open.spotify.com/track/3A2n4QNrHMiwUlonQcpwFp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:51 |
+| 125 | [High on You](https://open.spotify.com/track/3A2n4QNrHMiwUlonQcpwFp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:51 |
+| 126 | [Signs](https://open.spotify.com/track/46WV8PRXuffo5wdjUyBK9m) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Signs](https://open.spotify.com/album/34m0cr4M2wEZrD17TdNnPn) | 1:50 |
 | 127 | [Ambroxyde](https://open.spotify.com/track/5Jj9nsX0EuynTtg7100XOB) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:57 |
 | 128 | [Not Asking For Much](https://open.spotify.com/track/5rqVZtMRNUJt5drXwXMVxv) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [FK IT](https://open.spotify.com/album/7naXZDFuKYmQtJrmRdJFc7) | 3:35 |
 | 129 | [Hiroshima](https://open.spotify.com/track/1V7sNlhbDeAcgX0Hp5NkJw) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 3:31 |
@@ -266,9 +266,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 256 | [123456](https://open.spotify.com/track/7zVTLv5K9qk73GVtOyCL3c) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 3:01 |
 | 257 | [Lipstick](https://open.spotify.com/track/2m7NmDAmBpLGfFCZYkCgIb) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:44 |
 | 258 | [Marshmallow Skies](https://open.spotify.com/track/3zhKMXmlvaqw7BNZbsIwEt) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:10 |
-| 259 | [Stop at Nothing](https://open.spotify.com/track/5R3wv0N46GmsivDglesuHn) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:30 |
-| 260 | [Sweet Mary Jane](https://open.spotify.com/track/5XNLPRYoskTuyPOnpMpRSy) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 4:49 |
-| 261 | [When I Disappear](https://open.spotify.com/track/6Ci0jIXNYTc0jGNyMUZk0r) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 4:32 |
+| 259 | [Sweet Mary Jane](https://open.spotify.com/track/5XNLPRYoskTuyPOnpMpRSy) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 4:49 |
+| 260 | [When I Disappear](https://open.spotify.com/track/6Ci0jIXNYTc0jGNyMUZk0r) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 4:32 |
+| 261 | [Stop at Nothing](https://open.spotify.com/track/5R3wv0N46GmsivDglesuHn) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:30 |
 | 262 | [What'll I Do](https://open.spotify.com/track/0pnZEpLAkS86u7CM7I6GQS) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 1:12 |
 | 263 | [L35af](https://open.spotify.com/track/7uMHUtc2byarVewjq6bpYm) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:07 |
 | 264 | [Drives Me Wild](https://open.spotify.com/track/4pzGUTJEWL4JjuJyZBZjCA) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 3:24 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 270 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 | 271 | [Moving On](https://open.spotify.com/track/2WFd4EE5LLW0hqwyMTS7iS) | [R E N](https://open.spotify.com/artist/1uUI6SnnLWwpurgqePyxRv) | [Moving On](https://open.spotify.com/album/0aSBgOE9wpT7qw00WXjzWL) | 4:08 |
 
-Snapshot ID: `AcAGfgAAAACPM1WWU6eeM7PebIYAgNZS`
+Snapshot ID: `AcAMRgAAAAA/h3555LYC2xa3jsDrITyu`

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Dotan
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,024 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,029 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Last Goodbyes](https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Last Goodbyes](https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk) | 3:23 |
-| 2 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 |
-| 3 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 |
-| 4 | [Bones](https://open.spotify.com/track/55KnFJZVQEsS9aEKni2XQ0) | [Josua Peter](https://open.spotify.com/artist/1cOAQlxoO4hLqaCHeJEDFt) | [Bones](https://open.spotify.com/album/2MtGjWXXG2Dr7fRlhxNgrv) | 2:51 |
-| 5 | [Firestone](https://open.spotify.com/track/698sDDemmuKfYlRTzE1isu) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Firestone](https://open.spotify.com/album/4TaWdHYdwbHPb7kaHK8zjL) | 3:03 |
-| 6 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
-| 7 | [Better Or Worse](https://open.spotify.com/track/5c09miCbkmZviJyPEmxdxy) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Better Or Worse](https://open.spotify.com/album/5U3pZ4BfzGzs5d4kql49QU) | 2:50 |
+| 2 | [Better Or Worse](https://open.spotify.com/track/5c09miCbkmZviJyPEmxdxy) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Better Or Worse](https://open.spotify.com/album/5U3pZ4BfzGzs5d4kql49QU) | 2:50 |
+| 3 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 |
+| 4 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 |
+| 5 | [Bones](https://open.spotify.com/track/55KnFJZVQEsS9aEKni2XQ0) | [Josua Peter](https://open.spotify.com/artist/1cOAQlxoO4hLqaCHeJEDFt) | [Bones](https://open.spotify.com/album/2MtGjWXXG2Dr7fRlhxNgrv) | 2:51 |
+| 6 | [Firestone](https://open.spotify.com/track/698sDDemmuKfYlRTzE1isu) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Firestone](https://open.spotify.com/album/4TaWdHYdwbHPb7kaHK8zjL) | 3:03 |
+| 7 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
 | 8 | [Down & Low](https://open.spotify.com/track/0qNnAU811gL8qaeNZY6Vqh) | [Denzel Chain](https://open.spotify.com/artist/1OcgVkMH2tgrwIjhrsCqT0) | [Down & Low](https://open.spotify.com/album/6EzOrBHp4Kjwnpisi6Sry3) | 2:49 |
 | 9 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
 | 10 | [the flood](https://open.spotify.com/track/21WumT4Uxlp1br3wodH9BW) | [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [the flood](https://open.spotify.com/album/7jrAor72rAD5pYUqM88mmw) | 3:27 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 89 | [Unconditional](https://open.spotify.com/track/2mpoTHp955e9ojKaA2Yb9b) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Unconditional](https://open.spotify.com/album/665ddrCgPJLmhnGjWJmmRj) | 3:32 |
 | 90 | [First And Last](https://open.spotify.com/track/031LyFUhBoUHMZfCIZNQns) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [First And Last](https://open.spotify.com/album/6FPWvl23Upnc7vj5Sh0J2N) | 2:58 |
 
-Snapshot ID: `AAAAAKwz+TXldPL+lB5O4c8mxB3NAHE7`
+Snapshot ID: `AAAAAL/nGl1V7Qfj1SwZ/rsHPLN06cS5`

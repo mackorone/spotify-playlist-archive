@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 ### [^\_^ All kittydog songs](https://open.spotify.com/playlist/4PTwL8zhsUOQU9yYVJjn8N)
 
-> Includes instrumentals , collabs, ect ect
+> Includes instrumentals , collabs, ect blahblah balb yeah their other songs are on her soundcloud ! These r js all the song they made on spotify
 
 [beanspace](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 352 likes - 195 songs - 6 hr 33 min
 
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 | 194 | [i'm down](https://open.spotify.com/track/7uzi1qfd28lYxjJDxhiH5y) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Peachii](https://open.spotify.com/artist/3iB8jGXtuPgCJFk4vEA2Bn), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Heart After Dark](https://open.spotify.com/album/2I0VYlIm2Ilkojw3maV72G) | 4:38 |
 | 195 | [Anymore](https://open.spotify.com/track/6pfSkblIvBclJXPvFcwNaf) | [MADAME SCARLETT](https://open.spotify.com/artist/4mg8GHGlnYZLHI57YAPU1P), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [ANYMORE](https://open.spotify.com/album/7zB4u0DjsIia8iT1Or7FXF) | 2:12 |
 
-Snapshot ID: `AAAAlN8ECsevXVF1CNkVpQR+FjwR74Aq`
+Snapshot ID: `AAAAlW4K2y1LCAJ4xiK4srKzDdlo0qF/`

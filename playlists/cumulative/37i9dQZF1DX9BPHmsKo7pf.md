@@ -4,7 +4,7 @@
 
 > Cele mai de succes 50 de hituri în România\. Cover: Alex Botea, Luis Gabriel
 
-233 songs - 11 hr 12 min
+234 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Cateodata](https://open.spotify.com/track/5zYHomneLIlzBbexs7coaY) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 | 2025-02-10 | 2025-06-17 |
 | [CATWALK](https://open.spotify.com/track/1e4njXWgyhXbD1Yb7BEzaR) | [AdelinMM](https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU) | [CATWALK](https://open.spotify.com/album/3EsNYn0zNhPXDLScyyUvxr) | 3:12 | 2025-10-22 |  |
 | [Ce Motor](https://open.spotify.com/track/0D5akM6cy8rXkd0BLSiJAA) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [Ce Motor](https://open.spotify.com/album/5qMOmOxtVZx47Y9UTX5gFe) | 2:06 | 2025-10-13 |  |
+| [Ceas](https://open.spotify.com/track/13z5L59DoeLSYIfzWjriG6) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Ceas](https://open.spotify.com/album/3LwcKNu5TCotj5TQkRAe1S) | 2:34 | 2025-10-26 |  |
 | [Cel mai fericit de pe pǎmânt](https://open.spotify.com/track/7cq7xzEWmWWXy2okyYcZmX) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Cel mai fericit de pe pǎmânt](https://open.spotify.com/album/43nr0Uq55xpAKnKceuwocs) | 3:10 | 2025-04-14 |  |
 | [CHAMPAIN & VACAY](https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 | 2025-07-14 | 2025-08-05 |
 | [Cine N\-a Gresit Vreodata](https://open.spotify.com/track/7Lt9GmQADKBkE5ch07n8fY) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Cine N\-a Gresit Vreodata](https://open.spotify.com/album/5YUQ5Ez8erJt1jilUbDBUh) | 3:18 | 2024-11-11 | 2025-05-06 |

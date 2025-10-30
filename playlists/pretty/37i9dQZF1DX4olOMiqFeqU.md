@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 ### [OPM Favorites](https://open.spotify.com/playlist/37i9dQZF1DX4olOMiqFeqU)
 
-> 100% Pinoy hits from your favorite artists! Cover: juan karlos
+> 100% Pinoy hits from your favorite artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,483,497 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,483,606 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 30 | [Dalangin](https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dalangin](https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV) | 4:12 |
 | 31 | [Fallen](https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Fallen](https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7) | 3:21 |
 | 32 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 |
-| 33 | [LASIK](https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 3:45 |
-| 34 | [Pa\-umaga](https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Pa\-umaga](https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE) | 3:09 |
+| 33 | [Pa\-umaga](https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Pa\-umaga](https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE) | 3:09 |
+| 34 | [LASIK](https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 3:45 |
 | 35 | [Give Me Your Forever](https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 |
 | 36 | [Leaves](https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Leaves](https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y) | 5:10 |
 | 37 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 39 | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD) | 4:01 |
 | 40 | [Pauwi Nako](https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr) | [PDL](https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU), [Bullet D](https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Pauwi Nako](https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh) | 5:41 |
 | 41 | [Patlang](https://open.spotify.com/track/2OaAviEYdZQz2dCRsJQKBf) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Patlang](https://open.spotify.com/album/0vax7CV3zjlPXUTlzfwbwn) | 3:50 |
-| 42 | [Burnout](https://open.spotify.com/track/0ZCCbW4Aym7b5QdQUKfVdv) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Sa Wakas](https://open.spotify.com/album/5TgWcKNeogXr2cPNDcXZRb) | 3:30 |
-| 43 | [Mahika](https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 3:21 |
+| 42 | [Mahika](https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 3:21 |
+| 43 | [Burnout](https://open.spotify.com/track/0ZCCbW4Aym7b5QdQUKfVdv) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Sa Wakas](https://open.spotify.com/album/5TgWcKNeogXr2cPNDcXZRb) | 3:30 |
 | 44 | [Nobela](https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC) | [Join The Club](https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT) | [Nobela](https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV) | 4:51 |
 | 45 | [Magkabilang Mundo](https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Love And Soul](https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl) | 3:56 |
 | 46 | [Sagip](https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Sagip](https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO) | 3:52 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-681 songs - 1 day 18 hr 22 min
+682 songs - 1 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [123456](https://open.spotify.com/track/2CFpkbOfYe23ZoMfufNKVB) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [1 Hari Yang Cerah](https://open.spotify.com/album/3BSay8BCZZFWaLlSIqt4D2) | 3:39 | 2025-07-09 | 2025-09-24 |
 | [18](https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:08 | 2022-12-16 | 2023-06-02 |
 | [24/7](https://open.spotify.com/track/304uzYXYjPulJpLRJzuesX) | [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD), [Harris J.](https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE) | [CECE](https://open.spotify.com/album/2srEXvWETNxPbjLgG8B1k1) | 3:04 | 2021-11-12 | 2022-01-22 |
+| [33x](https://open.spotify.com/track/0I3I9hgBRat6HR5Gzy26jx) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Memorandum](https://open.spotify.com/album/2ZI3XeIrCM1PsOtK3rlMth) | 7:14 | 2025-10-29 |  |
 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 | 2021-03-27\* | 2021-04-24 |
 | [365](https://open.spotify.com/track/2Br3KpvIH0QtZh6TeNBRso) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:19 | 2021-12-18 | 2021-12-24 |
 | [365](https://open.spotify.com/track/7j01rdHvXniCA8f1x0NTUG) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [365](https://open.spotify.com/album/66ATAuPBpHYXytPUXzCCwi) | 3:19 | 2021-12-06 | 2021-12-19 |
@@ -308,7 +309,7 @@
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-29 | 2021-06-27 |
 | [Kita Bikin Romantis](https://open.spotify.com/track/45A0Se2c4HciOCyB5Z0XJJ) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [CAN MACHINES FALL IN LOVE?](https://open.spotify.com/album/163yHPYgK5ScZO4YF1fYeB) | 3:56 | 2024-06-04 | 2024-06-06 |
 | [Kita Bikin Romantis](https://open.spotify.com/track/7geh51STedQfizitdiNPCg) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Kita Bikin Romantis](https://open.spotify.com/album/0empe1Mwd55VSS0tqE6gRo) | 3:56 | 2024-03-16 | 2024-04-29 |
-| [Kita Ke Sana](https://open.spotify.com/track/5DqSZFvWvSWg5eyCDi0CuW) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/0DMdiWcqnutCi81EqBXkF8) | 4:42 | 2025-07-05 |  |
+| [Kita Ke Sana](https://open.spotify.com/track/5DqSZFvWvSWg5eyCDi0CuW) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/0DMdiWcqnutCi81EqBXkF8) | 4:42 | 2025-07-05 | 2025-10-30 |
 | [Kita Usahakan Lagi](https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Kita Usahakan Lagi](https://open.spotify.com/album/0gOmfHG7fEF7dq72Q7jl9q) | 3:53 | 2025-05-13 | 2025-09-19 |
 | [Kita usahakan rumah itu](https://open.spotify.com/track/5Egm9N7FnzsThl1CFXB2mm) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 3:31 | 2025-04-16 | 2025-10-21 |
 | [Know Me Too Well \(with Danna Paola\)](https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [New Hope Club](https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn) | 3:20 | 2021-06-08 | 2021-12-16 |
@@ -436,7 +437,7 @@
 | [Pelangi](https://open.spotify.com/track/5BgZ1bi8xeWVxmg12RfWzv) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4JJsEIGWQzfjAgWiUEkuot) | 3:37 | 2021-12-10 | 2022-05-15 |
 | [penjaga hati](https://open.spotify.com/track/6i9Ci0IN1q1GcnhdbKU7kZ) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:20 | 2024-06-22 |  |
 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2023-10-07 | 2024-06-23 |
-| [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 | 2024-10-15 | 2025-10-29 |
+| [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 | 2024-10-15 |  |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-02-19 | 2023-05-06 |
 | [Peradaban](https://open.spotify.com/track/4YxEeCKhUl1DawPzsxCPbq) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Peradaban](https://open.spotify.com/album/3xlryrSJ3mQ3eY4CGd9ow5) | 5:39 | 2025-08-30 | 2025-09-11 |
 | [Peri Cintaku](https://open.spotify.com/track/1ZBZ8jvJbeIWaP7oJheEgq) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Magnolya](https://open.spotify.com/album/3yUBpUAsQeuAu9R86wiukG) | 4:19 | 2022-07-30 | 2022-10-09 |
@@ -587,7 +588,7 @@
 | [Tak Dianggap](https://open.spotify.com/track/66L6oBm77vpXuLCRX31iNX) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Melangkah](https://open.spotify.com/album/2y28ojd9lBvtJjgoGgCLov) | 2:59 | 2024-10-12 | 2024-10-16 |
 | [Tak Ingin Usai](https://open.spotify.com/track/0OHr74BS1CEwyZsyY9kml2) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 4:38 | 2023-05-20 | 2023-09-22 |
 | [Tak Ingin Usai](https://open.spotify.com/track/1b0aDgrG775i4sPQgJGmkU) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tak Ingin Usai](https://open.spotify.com/album/2DskseIWepQ89TxfXn3MtY) | 4:38 | 2022-05-23 | 2023-05-21 |
-| [Tak Kan Hilang](https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tak Kan Hilang](https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5) | 4:01 | 2022-11-15 |  |
+| [Tak Kan Hilang](https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tak Kan Hilang](https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5) | 4:01 | 2022-11-15 | 2025-10-30 |
 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 | 2023-01-28 |  |
 | [Tak Selalu Memiliki \- Ipar Adalah Maut Original Soundtrack](https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Selalu Memiliki \(Ipar Adalah Maut Original Soundtrack\)](https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu) | 4:20 | 2024-06-15 | 2024-10-10 |
 | [Takbiran \- Version 1](https://open.spotify.com/track/6KDMvbS7HC1znTxEImTgYj) | [Ustad Jefri Al Buchori](https://open.spotify.com/artist/3Zp5ohlk0onRRpRLe0afzx), [H\. Aswan Faisal](https://open.spotify.com/artist/1mIbIeu7TYCr4VLKQIhEGP) | [Takbiran](https://open.spotify.com/album/3D5VqeyM9HoUglShCjlqpC) | 12:36 | 2021-05-14 | 2021-05-15 |

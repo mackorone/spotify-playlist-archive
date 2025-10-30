@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 
 > Buenas vibras para limpiar la casa! The best vibes to keep the house clean!
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,903 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,814 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 | 16 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 |
 | 17 | [Ella Y Yo \- Featuring Don Omar](https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:27 |
 | 18 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 |
-| 19 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
-| 20 | [Ciega, Sordomuda](https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 4:27 |
+| 19 | [Ciega, Sordomuda](https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 4:27 |
+| 20 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 21 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 |
 | 22 | [Necio \(feat\. Carlos Santana\)](https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:24 |
 | 23 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 | 51 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 |
 | 52 | [Oye Mujer](https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 4:19 |
 | 53 | [Oye Mi Canto](https://open.spotify.com/track/3J6vrRMz6EfwH2sgYiyNhc) | [N.O.R.E.](https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [Gemstar](https://open.spotify.com/artist/5WooWF4HvIcgW0BDA2VBPN), [Big Mato](https://open.spotify.com/artist/0tG3OtnzCjdbL1ZVkDprlS) | [N.O.R.E\. Y La Familia](https://open.spotify.com/album/0RLMAxS9mhy149lu93u7GA) | 4:00 |
-| 54 | [Volví a Nacer](https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Corazón Profundo \(Versión Deluxe\)](https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl) | 3:42 |
-| 55 | [Su Veneno](https://open.spotify.com/track/709hAukJxapqTU9VhsiQm0) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 4:00 |
+| 54 | [Su Veneno](https://open.spotify.com/track/709hAukJxapqTU9VhsiQm0) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 4:00 |
+| 55 | [Volví a Nacer](https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Corazón Profundo \(Versión Deluxe\)](https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl) | 3:42 |
 | 56 | [Te Extraño \- Bachata Version](https://open.spotify.com/track/0muI8DpTEpLqqibPm3sKYf) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Xtreme](https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi) | 3:32 |
 | 57 | [17 Años](https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:01 |
 | 58 | [I Know You Want Me \(Calle Ocho\)](https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Pitbull Starring In Rebelution](https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI) | 3:57 |

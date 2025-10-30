@@ -4,17 +4,18 @@
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 4 min
+57 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I'm Gonna\) Run Away](https://open.spotify.com/track/4ZGPKMzNGHl08kkS44Mg6k) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:28 | 2025-03-08 |  |
 | [A.C.D.C.](https://open.spotify.com/track/6Ewuk64UgA3MFArybxROJR) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8) | 3:20 | 2025-03-08 |  |
 | [Androgynous](https://open.spotify.com/track/6KmPsYpaZzZBCXPmiVdiCB) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Bad Reputation \(Music from the Original Motion Picture\)](https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja) | 3:11 | 2025-03-08 |  |
-| [Backlash](https://open.spotify.com/track/5bzOdHdkOO8fjfhNfdFJJs) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:28 | 2025-04-16 |  |
+| [Backlash](https://open.spotify.com/track/5bzOdHdkOO8fjfhNfdFJJs) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:28 | 2025-04-16 | 2025-10-30 |
 | [Bad as We Can Be](https://open.spotify.com/track/5xBnwSHVVnoibWwoWt9pMa) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Unvarnished \(Expanded Edition\)](https://open.spotify.com/album/5zYm8Y47mCuyRHYsLk22sL) | 3:53 | 2025-09-03 | 2025-09-17 |
 | [Bad Karma \(feat\. Joan Jett\)](https://open.spotify.com/track/47KegqqrzpKw0jdHFWqtNb) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:08 | 2025-03-08 |  |
 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 | 2025-03-08 |  |
+| [Band Intros \- Live](https://open.spotify.com/track/0dOQ4qzbfNVB5zEvCreGgX) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K), [Blackhearts](https://open.spotify.com/artist/5mJzqDKepWgcC9IeHNTCKa) | [I Love Rock 'N' Roll \(Live At The New York Bottom Line, Dec 20th 1980\)](https://open.spotify.com/album/6fG2kqSgt8sM99iJj3keTJ) | 0:39 | 2025-10-30 |  |
 | [Cherry Bomb](https://open.spotify.com/track/5Eald1GAoLr6NNtOkgOaMO) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Glorious Results of a Misspent Youth \(Expanded Edition\)](https://open.spotify.com/album/75T1W71zi6uGCXQPwodRQd) | 2:35 | 2025-03-08 |  |
 | [Crimson and Clover](https://open.spotify.com/track/4do0Z0rHdFUV3RSMxMQsdq) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 3:17 | 2025-03-08 |  |
 | [Different](https://open.spotify.com/track/7z9pbrqVIennjBW8BfqYY2) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Unvarnished \(Expanded Edition\)](https://open.spotify.com/album/5zYm8Y47mCuyRHYsLk22sL) | 3:36 | 2025-05-07 |  |

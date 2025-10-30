@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > alt, folk, and indie rock sprinkled into this sonic melting pot\. Cover: Goldie Boutilier
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,633 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,600 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 55 | [Mistakes](https://open.spotify.com/track/5Pdy7tkX4AjEEN9zlAlWUu) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Mistakes / Fairview Feeling](https://open.spotify.com/album/1hvZoZcwgET0uCQLnENLWr) | 3:18 |
 | 56 | [Old Tricks](https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [Old Tricks](https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV) | 2:28 |
 | 57 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 |
-| 58 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 |
-| 59 | [And They Called Her California](https://open.spotify.com/track/0hGjJ09ClfSjrGZFvs73LJ) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Long Way Home](https://open.spotify.com/album/2p9oJBiFjBfz46rAa2lQ4x) | 3:57 |
+| 58 | [And They Called Her California](https://open.spotify.com/track/0hGjJ09ClfSjrGZFvs73LJ) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Long Way Home](https://open.spotify.com/album/2p9oJBiFjBfz46rAa2lQ4x) | 3:57 |
+| 59 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 |
 | 60 | [She Wants To Go Dancing](https://open.spotify.com/track/3CTBfot80XAOyuaJ1jcN5z) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [She Wants To Go Dancing](https://open.spotify.com/album/1UuqWBMwyWnevv8qMBCzyO) | 3:08 |
 | 61 | [Vertigo](https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vertigo](https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky) | 2:28 |
-| 62 | [If Our Love Is Dead](https://open.spotify.com/track/4cdUz71Ov5QPEErCiQli6u) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [If Our Love Is Dead](https://open.spotify.com/album/3Y2J3JxHDBLXcGLw4Nr7xn) | 2:53 |
-| 63 | [Your House](https://open.spotify.com/track/20xfgpCbTJBDjrTFh916Av) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Your House](https://open.spotify.com/album/5bVyceWVMG2ArRJBXapami) | 3:47 |
+| 62 | [Your House](https://open.spotify.com/track/20xfgpCbTJBDjrTFh916Av) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Your House](https://open.spotify.com/album/5bVyceWVMG2ArRJBXapami) | 3:47 |
+| 63 | [If Our Love Is Dead](https://open.spotify.com/track/4cdUz71Ov5QPEErCiQli6u) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [If Our Love Is Dead](https://open.spotify.com/album/3Y2J3JxHDBLXcGLw4Nr7xn) | 2:53 |
 | 64 | [Triple Marathon](https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Triple Marathon](https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh) | 2:37 |
 | 65 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 |
 | 66 | [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 79 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 |
 | 80 | [Body](https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Body](https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3) | 3:20 |
 | 81 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 |
-| 82 | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG) | 2:47 |
-| 83 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 |
+| 82 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 |
+| 83 | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG) | 2:47 |
 | 84 | [Call Me \(Whatever You Like\)](https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:00 |
 | 85 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 |
 | 86 | [When We Were Close](https://open.spotify.com/track/4QsXlCYFMNpVUzSR9UwWup) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 3:57 |

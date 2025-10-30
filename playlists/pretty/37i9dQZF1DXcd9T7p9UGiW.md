@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Shalipoppi & Gunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,084 likes - 79 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,096 likes - 79 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

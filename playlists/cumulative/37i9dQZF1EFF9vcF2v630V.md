@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-102 songs - 5 hr 45 min
+103 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,5 +110,6 @@
 | [Wild](https://open.spotify.com/track/1kEc9ep3rFqhwG4OlqbjLH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:32 | 2022-09-08 |  |
 | [Wild](https://open.spotify.com/track/0nxBz99N3KlrQQlhnm6vg0) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Wild](https://open.spotify.com/album/63iOoFuxyGJSKT0PPBY7PU) | 3:34 | 2023-12-13 | 2024-01-31 |
 | [Wonderland](https://open.spotify.com/track/2nLS48VLLSsZTw2e4bVJ8o) | [Roxen](https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP), [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Wonderland](https://open.spotify.com/album/282XaxNiNZggEVcTusGRTt) | 2:50 | 2022-09-08 |  |
+| [You](https://open.spotify.com/track/1UkMkpEd2HOs3cAddRuCbG) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [You](https://open.spotify.com/album/5IhXY6RINc1PZR5YCsw0M3) | 3:33 | 2025-10-29 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

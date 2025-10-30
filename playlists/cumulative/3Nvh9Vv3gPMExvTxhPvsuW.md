@@ -4,12 +4,13 @@
 
 > 
 
-32 songs - 2 hr 34 min
+33 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Café Del Mar \- Three 'N One Radio Edit](https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:49 | 2024-08-30 |  |
 | [Catch Feels Get High](https://open.spotify.com/track/3T2frfWU5vhWdrvCKY67jZ) | [Shaolin Cowboy](https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD) | [Catch Feels Get High](https://open.spotify.com/album/0x6pl26jND4Gw4akomXVXE) | 3:42 | 2024-08-08 |  |
+| [Corpo e Canção \- Club Mix](https://open.spotify.com/track/0fdnuaaMLkAJb3czxnwKxh) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN) | [Corpo e Canção \(Club Mix\)](https://open.spotify.com/album/6PHYNn7KqOlQxAgETl4ujD) | 4:35 | 2025-10-29 |  |
 | [Crosses \- Eelke Kleijn Radio Edit](https://open.spotify.com/track/0oCzneVGA0eFy6vwWXMQs5) | [Chicco Secci](https://open.spotify.com/artist/75ZfHgMEPhflnOwKuKJWnX), [Fabio B.](https://open.spotify.com/artist/3n2W18VCk7CPmj0p3EIfQ5), [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Studio Ibiza](https://open.spotify.com/album/1in0exJxZtOYv3uUDUG2Ov) | 2:53 | 2024-07-20 |  |
 | [Destination Lost \- Arodes Remix](https://open.spotify.com/track/2cKpgUaXNzIiwlANgArO4v) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y), [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47) | [Destination Lost \(Arodes Remix\)](https://open.spotify.com/album/7itD2UVLurRsZQ2BURIU4U) | 3:02 | 2024-07-23 |  |
 | [Domestik](https://open.spotify.com/track/1OumlYgtTlQgwSMwFm0TtH) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB), [Ben Malone](https://open.spotify.com/artist/2zOgqOWn43vcjNdEnxsC6f) | [Domestik](https://open.spotify.com/album/5uBuxALCZV5va0XOJVlCsf) | 3:46 | 2023-05-05 |  |

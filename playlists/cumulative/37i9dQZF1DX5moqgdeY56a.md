@@ -4,7 +4,7 @@
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-176 songs - 10 hr 19 min
+177 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Corrido De Lucio Vázquez \(Los Pavo Reales\)](https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos](https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq) | 2:57 | 2022-09-22 | 2023-12-25 |
 | [Cruz de Olvido](https://open.spotify.com/track/7gFj8NlJJ9KwkFvKaQwzxA) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 3:45 | 2024-04-09 |  |
 | [Cuando Dos Almas](https://open.spotify.com/track/5Fp3A1Ciwa7z1FOhZx0e4a) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Cuando Dos Almas](https://open.spotify.com/album/7JXIq8P1uvpr02mjwpTuU1) | 3:06 | 2024-04-09 | 2025-05-29 |
+| [Cucurrucucu Paloma](https://open.spotify.com/track/1IQ7XkK4TSwLLHrDSXMGDj) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 4:18 | 2024-04-09 |  |
 | [Cucurrucucú Paloma](https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 4:41 | 2024-04-09 |  |
 | [Cómo Fui A Enamorarme De Ti](https://open.spotify.com/track/7MaFKBLhW220azgglkJiws) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:33 | 2024-04-09 |  |
 | [Debajo de los Laureles](https://open.spotify.com/track/3r69JkhzLRama3LQ10qE54) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Allá en el Rancho Grande \(Vol\. 13\)](https://open.spotify.com/album/0aO9zcz6Tf28fWy3PgZ7Ti) | 2:31 | 2024-04-09 |  |
@@ -84,7 +85,7 @@
 | [Juan Charrasqueado](https://open.spotify.com/track/7i1qfU3QQu1ls53CA8Lrvc) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos Antonio Aguilar](https://open.spotify.com/album/31FNBMRcI9dGKHkxx4ZtlD) | 3:42 | 2024-04-09 |  |
 | [La Chancla](https://open.spotify.com/track/5ovyJ1Ayxtnjyj1WLTpmkV) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras De Relajo](https://open.spotify.com/album/5XSfn3l7pMziDMwZJIq03E) | 3:43 | 2024-04-09 | 2024-07-29 |
 | [La Chancla](https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 3:44 | 2021-12-13 | 2024-04-19 |
-| [La Chancla](https://open.spotify.com/track/42fLdVjXz6aU02oMKUKNQQ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nueva Tradición](https://open.spotify.com/album/2vdSOHJ3ruarPaifT2LXjF) | 3:33 | 2023-10-13 |  |
+| [La Chancla](https://open.spotify.com/track/42fLdVjXz6aU02oMKUKNQQ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nueva Tradición](https://open.spotify.com/album/2vdSOHJ3ruarPaifT2LXjF) | 3:33 | 2023-10-13 | 2025-10-30 |
 | [La Chancla, el Chivo, Puño de Tierra](https://open.spotify.com/track/61Bjgk8Vrb3hY5MPcZj7FO) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [MTV Unplugged](https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob) | 7:42 | 2022-09-22 | 2022-11-13 |
 | [La Cima del Cielo](https://open.spotify.com/track/6YfR85OhPZ330CQ1Md3Onh) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Ida y Vuelta](https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR) | 5:07 | 2024-04-09 | 2025-10-19 |
 | [La Cruda](https://open.spotify.com/track/3cYKALfM9lV80IDeApmkB8) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [El Tren Lento](https://open.spotify.com/album/0hXX2N3BkF9Uv4Qp80hEde) | 4:09 | 2024-04-09 | 2025-04-18 |

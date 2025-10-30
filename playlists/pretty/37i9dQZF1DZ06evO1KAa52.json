@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 662706,
+  "num_followers": 662741,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAABeTrxwWtRStCgId+TxD0q4",
+  "snapshot_id": "aQAHgAAAAAB7feNG7zNpB285t+q0iAtP",
   "tracks": [
     {
       "added_at": null,
@@ -131,42 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XSCAPE",
-        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 246026,
-      "name": "Love Never Felt So Good",
-      "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FutureSex/LoveSounds",
-        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 252973,
-      "name": "Summer Love",
-      "url": "https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Curtis",
         "url": "https://open.spotify.com/album/5VfBwkAoSsQwtZjPU0Gr7h"
       },
@@ -187,6 +151,42 @@
       "duration_ms": 247946,
       "name": "Ayo Technology",
       "url": "https://open.spotify.com/track/36Hwcla06Q5BCr59CL0sBp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FutureSex/LoveSounds",
+        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 252973,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XSCAPE",
+        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 246026,
+      "name": "Love Never Felt So Good",
+      "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"
     },
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 20/20 Experience (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 326280,
-      "name": "Suit & Tie (feat. JAY-Z)",
-      "url": "https://open.spotify.com/track/6vt0I1cw1YmAIKDJvHVIM5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/7M83W7iXqtZ2qjYCOXvgWj"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 243720,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/2ORrgw8M0ZbrFlm5cpaKCv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 326280,
+      "name": "Suit & Tie (feat. JAY-Z)",
+      "url": "https://open.spotify.com/track/6vt0I1cw1YmAIKDJvHVIM5"
     },
     {
       "added_at": null,
@@ -584,17 +584,13 @@
           "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
         },
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
         }
       ],
-      "duration_ms": 152160,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/4dNKAlFAjUqelFX5ganK7Y"
+      "duration_ms": 81666,
+      "name": "BroZone's Back",
+      "url": "https://open.spotify.com/track/02xkg0KUfiytfbnwAevy1p"
     },
     {
       "added_at": null,
@@ -684,13 +680,17 @@
           "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
         },
         {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 81666,
-      "name": "BroZone's Back",
-      "url": "https://open.spotify.com/track/02xkg0KUfiytfbnwAevy1p"
+      "duration_ms": 152160,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/4dNKAlFAjUqelFX5ganK7Y"
     },
     {
       "added_at": null,
@@ -932,7 +932,7 @@
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 208026,
+      "duration_ms": 208028,
       "name": "No Angels",
       "url": "https://open.spotify.com/track/3Llg6UrxeStZxQJNjEQrlM"
     },
@@ -1008,29 +1008,9 @@
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 260120,
+      "duration_ms": 260113,
       "name": "Drown",
       "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything I Thought It Was",
-        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "Paradise (feat. *NSYNC)",
-      "url": "https://open.spotify.com/track/6tcYpyw4rr5mTqDidS29IY"
     },
     {
       "added_at": null,
@@ -1055,6 +1035,26 @@
       "duration_ms": 245080,
       "name": "4 Minutes (feat. Justin Timberlake and Timbaland)",
       "url": "https://open.spotify.com/track/0NeZ8Bhhu3Vt5qCKLdvxpw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 266824,
+      "name": "Paradise (feat. *NSYNC)",
+      "url": "https://open.spotify.com/track/6tcYpyw4rr5mTqDidS29IY"
     },
     {
       "added_at": null,

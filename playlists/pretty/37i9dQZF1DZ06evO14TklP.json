@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 16742,
+  "num_followers": 16756,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAABpFa5HLC0mWujY+uxWSrh1",
+  "snapshot_id": "aQAHgAAAAACFJgdufqt1DNTU3TuiAwNK",
   "tracks": [
     {
       "added_at": null,
@@ -200,13 +200,13 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
         }
       ],
-      "duration_ms": 117056,
-      "name": "Megaloman\u00edaca",
-      "url": "https://open.spotify.com/track/3clfhHrwPNWtN2KlHfzEIi"
+      "duration_ms": 118541,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/1HVXbcklvh8FTdEtMrOmHt"
     },
     {
       "added_at": null,
@@ -288,13 +288,13 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
         }
       ],
-      "duration_ms": 118541,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/1HVXbcklvh8FTdEtMrOmHt"
+      "duration_ms": 117056,
+      "name": "Megaloman\u00edaca",
+      "url": "https://open.spotify.com/track/3clfhHrwPNWtN2KlHfzEIi"
     },
     {
       "added_at": null,
@@ -663,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tanto Faz",
+        "url": "https://open.spotify.com/album/5KpJdmvfZhyew4cg0GLqHS"
+      },
+      "artists": [
+        {
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/7s6Raq8Yvdhjsa38Bnpp8t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reuni\u00e3o Dos Cria",
         "url": "https://open.spotify.com/album/2oqaYk1IfIY8HwOinCT2Pq"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 228283,
       "name": "Reuni\u00e3o Dos Cria",
       "url": "https://open.spotify.com/track/08rJlLJtCWCENyxjkPM3Ns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tanto Faz",
-        "url": "https://open.spotify.com/album/5KpJdmvfZhyew4cg0GLqHS"
-      },
-      "artists": [
-        {
-          "name": "Black Queen",
-          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Tanto Faz",
-      "url": "https://open.spotify.com/track/7s6Raq8Yvdhjsa38Bnpp8t"
     },
     {
       "added_at": null,

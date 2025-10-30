@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 292125,
+  "num_followers": 292121,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-07-25 20:22:20",
       "album": {
+        "name": "Nenhuma Outra Mulher",
+        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 147025,
+      "name": "Nenhuma Outra Mulher",
+      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
+    },
+    {
+      "added_at": "2025-07-25 20:22:20",
+      "album": {
         "name": "n\u00e3o te amo mais",
         "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 133921,
       "name": "n\u00e3o te amo mais",
       "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
-    },
-    {
-      "added_at": "2025-07-25 20:22:20",
-      "album": {
-        "name": "Nenhuma Outra Mulher",
-        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 147025,
-      "name": "Nenhuma Outra Mulher",
-      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
     },
     {
       "added_at": "2025-07-25 20:22:20",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2025-07-25 20:22:20",
       "album": {
+        "name": "Versos e Voos",
+        "url": "https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "Modestto",
+          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Tudo de Novo",
+      "url": "https://open.spotify.com/track/6vQIoINz0yzZoGCbC2NE5p"
+    },
+    {
+      "added_at": "2025-07-25 20:22:20",
+      "album": {
         "name": "Voc\u00ea Falou pra Mim",
         "url": "https://open.spotify.com/album/3C4GwIc7117OxDuu66G248"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 141120,
       "name": "Voc\u00ea Falou pra Mim",
       "url": "https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1"
-    },
-    {
-      "added_at": "2025-07-25 20:22:20",
-      "album": {
-        "name": "Versos e Voos",
-        "url": "https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ"
-      },
-      "artists": [
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        },
-        {
-          "name": "Modestto",
-          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Tudo de Novo",
-      "url": "https://open.spotify.com/track/6vQIoINz0yzZoGCbC2NE5p"
     },
     {
       "added_at": "2025-07-25 20:22:20",
@@ -1627,30 +1627,6 @@
     {
       "added_at": "2025-07-25 20:22:20",
       "album": {
-        "name": "Quem Vai Ser?",
-        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Lopes",
-          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 157918,
-      "name": "Quem Vai Ser?",
-      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
-    },
-    {
-      "added_at": "2025-07-25 20:22:20",
-      "album": {
         "name": "Risco de se Apaixonar",
         "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
       },
@@ -1671,22 +1647,26 @@
     {
       "added_at": "2025-07-25 20:22:20",
       "album": {
-        "name": "Seu Z\u00e9",
-        "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
+        "name": "Quem Vai Ser?",
+        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
       },
       "artists": [
         {
-          "name": "Gu",
-          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
+          "name": "Mar\u00edlia Lopes",
+          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
         },
         {
-          "name": "IVYO",
-          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 136430,
-      "name": "Seu Z\u00e9",
-      "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
+      "duration_ms": 157918,
+      "name": "Quem Vai Ser?",
+      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
     },
     {
       "added_at": "2025-07-25 20:22:20",
@@ -1735,6 +1715,26 @@
       "duration_ms": 171585,
       "name": "Pra todo mundo que \u00e9 emocionado",
       "url": "https://open.spotify.com/track/6Hedc0amuGreddUN16w30s"
+    },
+    {
+      "added_at": "2025-07-25 20:22:20",
+      "album": {
+        "name": "Seu Z\u00e9",
+        "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
+      },
+      "artists": [
+        {
+          "name": "Gu",
+          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
+        },
+        {
+          "name": "IVYO",
+          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+        }
+      ],
+      "duration_ms": 136430,
+      "name": "Seu Z\u00e9",
+      "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
     },
     {
       "added_at": "2025-07-25 20:22:20",

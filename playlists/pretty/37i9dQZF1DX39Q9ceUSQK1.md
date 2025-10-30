@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Library Card
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,928 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,927 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

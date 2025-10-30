@@ -5028,7 +5028,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 268515,
       "name": "Bu A\u015fk Fazla Sana",
       "url": "https://open.spotify.com/track/3Ommpa2aE0RU3F04BedepA"
@@ -16025,6 +16025,24 @@
     },
     {
       "album": {
+        "name": "A\u015f\u0131\u011f\u0131m H\u00e2l\u00e2",
+        "url": "https://open.spotify.com/album/26zTtSG5cpSRvIS7ibxG0O"
+      },
+      "artists": [
+        {
+          "name": "Ebru G\u00fcnde\u015f",
+          "url": "https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225355,
+      "name": "Mah\u015fer",
+      "url": "https://open.spotify.com/track/57JAKbr7SgTUFeb4Y41ZWd"
+    },
+    {
+      "album": {
         "name": "Mah\u015fer",
         "url": "https://open.spotify.com/album/6feh1gWrVrm2mCgHrCUTyN"
       },
@@ -21202,7 +21220,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 138229,
       "name": "Senin Olsun",
       "url": "https://open.spotify.com/track/6IRuWQvn6p0ite4H4s7J2n"
@@ -24980,7 +24998,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 221941,
       "name": "Yine Sevebilirim",
       "url": "https://open.spotify.com/track/50Ygo82IfoBCWlo8zBs5Fa"

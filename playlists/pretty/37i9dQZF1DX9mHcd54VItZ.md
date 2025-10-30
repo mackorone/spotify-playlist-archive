@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Sophia Frank & Erin Elliot
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,236 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,248 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 13 | [Dis Okay](https://open.spotify.com/track/15JYg6CvzKYMpaAivyC65P) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Dis Okay](https://open.spotify.com/album/1fKwNlSRfPn3yyIdY18hKP) | 3:01 |
 | 14 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
 | 15 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
-| 16 | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb), [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK) | 2:47 |
+| 16 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
 | 17 | [Stem uit die Noorde](https://open.spotify.com/track/7mDUU8xUjmxwBKefes3w6l) | [Joshua Na Die Reën](https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW), [Seuns van Vlug](https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE) | [Stem uit die Noorde](https://open.spotify.com/album/7nWJzSFDoQkaa8vSNPjce6) | 3:58 |
-| 18 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
+| 18 | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb), [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK) | 2:47 |
 | 19 | [Hoe Was Jou Jaar?](https://open.spotify.com/track/2rOTTsCF3EUFdhzGnBnmv1) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Pretoria](https://open.spotify.com/album/3q3LTH5VGq6fDxOJfVZkjU) | 3:28 |
 | 20 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
 | 21 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 47 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
 | 48 | [Dis DDP](https://open.spotify.com/track/20dcGX9oluIKJuZiA3Jrwj) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Dis DDP](https://open.spotify.com/album/5snLx064m6EgaqnR1r0sES) | 3:15 |
 | 49 | [Doen Sy Bes](https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Nou Toer Ons!](https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89) | 2:58 |
-| 50 | [Bokbefok](https://open.spotify.com/track/0YwiKZs3LZ7nIyHYTX8fb1) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Bokbefok](https://open.spotify.com/album/4ZLqEGdLtWa98K7bA9hcPo) | 2:47 |
+| 50 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
 
 Snapshot ID: `AAAAAMIpUU2MhT5GchemcaSsVUlOhU7b`

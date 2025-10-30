@@ -1,13 +1,33 @@
 {
   "description": "This is Lang Lang. The essential tracks, all in one playlist.",
-  "num_followers": 29034,
+  "num_followers": 29039,
   "original_name": "This Is Lang Lang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAACnic3gRwDCDmSqIB9X8zWv",
+  "snapshot_id": "aQAHgAAAAACzMsrpAySRzYodCzV6FBVv",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "J.S. Bach: The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude",
+        "url": "https://open.spotify.com/album/638fM7ibl3YWInMONVwmse"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 139306,
+      "name": "The Well-Tempered Clavier I, Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
+      "url": "https://open.spotify.com/track/4i8ly7ffzWu8nfKLI8SZFj"
+    },
     {
       "added_at": null,
       "album": {
@@ -27,26 +47,6 @@
       "duration_ms": 391506,
       "name": "Ave Maria, S. 558/12",
       "url": "https://open.spotify.com/track/2VM3HhUnmswDIm3aILbrpd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 139306,
-      "name": "The Well-Tempered Clavier I, Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
-      "url": "https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU"
     },
     {
       "added_at": null,
@@ -95,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Feed the Birds (From \"Mary Poppins\")",
+        "url": "https://open.spotify.com/album/4EuuQEBkpgL8bwsfUFCk2A"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 261308,
+      "name": "Feed the Birds - From \"Mary Poppins\"",
+      "url": "https://open.spotify.com/track/2vz6Zep5xyCIAZgIroYL1X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Liszt - My Piano Hero",
         "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 293146,
       "name": "Liebestraum No. 3 in A-Flat Major, S. 541 / 3",
       "url": "https://open.spotify.com/track/2u9VGZmVz7Rm01SfDgzcfA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feed the Birds (From \"Mary Poppins\")",
-        "url": "https://open.spotify.com/album/4EuuQEBkpgL8bwsfUFCk2A"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 261308,
-      "name": "Feed the Birds - From \"Mary Poppins\"",
-      "url": "https://open.spotify.com/track/2vz6Zep5xyCIAZgIroYL1X"
     },
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liszt - My Piano Hero",
-        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Consolation No. 3 in D-Flat Major, S. 172",
-      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Magic",
         "url": "https://open.spotify.com/album/1rEECaYPfrTMA7gDIXcOGk"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 56066,
       "name": "Klavierst\u00fcck in F Major, K. 33b",
       "url": "https://open.spotify.com/track/5O7SV284GeCFqs0wGfpYqb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liszt - My Piano Hero",
+        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 259573,
+      "name": "Consolation No. 3 in D-Flat Major, S. 172",
+      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clementi: Sonatina No. 1 in C Major, Op. 36",
-        "url": "https://open.spotify.com/album/5kgoUIpuqAhaLQvQYjvySr"
-      },
-      "artists": [
-        {
-          "name": "Muzio Clementi",
-          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 89280,
-      "name": "Piano Sonatina in C Major, Op. 36 No. 1: II. Andante",
-      "url": "https://open.spotify.com/track/22h3ELV6U6g0gRcLTB6VY3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liszt - My Piano Hero",
         "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 287986,
       "name": "La campanella in G-Sharp Minor (From \"Grandes \u00e9tudes de Paganini\", S. 141/3)",
       "url": "https://open.spotify.com/track/2Hnurh1BcigGbCGFOb4Uid"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clementi: Sonatina No. 1 in C Major, Op. 36",
+        "url": "https://open.spotify.com/album/5kgoUIpuqAhaLQvQYjvySr"
+      },
+      "artists": [
+        {
+          "name": "Muzio Clementi",
+          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 89280,
+      "name": "Piano Sonatina in C Major, Op. 36 No. 1: II. Andante",
+      "url": "https://open.spotify.com/track/22h3ELV6U6g0gRcLTB6VY3"
     },
     {
       "added_at": null,
@@ -959,22 +959,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lang Lang at Royal Albert Hall",
-        "url": "https://open.spotify.com/album/1SATY0ddfZt1ybNSeYBLp9"
+        "name": "Chopin Gold",
+        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
       },
       "artists": [
         {
-          "name": "Manuel Ponce",
-          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 174013,
-      "name": "Intermezzo No. 1 in E Minor",
-      "url": "https://open.spotify.com/track/150Bw3QbPjlFcjmfJojLLf"
+      "duration_ms": 373173,
+      "name": "Nocturne No. 8 In D Flat, Op. 27 No. 2 - Live",
+      "url": "https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF"
     },
     {
       "added_at": null,
@@ -1019,22 +1019,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chopin Gold",
-        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
+        "name": "Piano Book (Encore Edition)",
+        "url": "https://open.spotify.com/album/2lAoaPfFfBkOQPTcLBZ6pI"
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 373173,
-      "name": "Nocturne No. 8 In D Flat, Op. 27 No. 2 - Live",
-      "url": "https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF"
+      "duration_ms": 404426,
+      "name": "Jasmine Flower (Arr. Schindler for Piano)",
+      "url": "https://open.spotify.com/track/5e1AEXbrepdeMVB8YuRtNQ"
     }
   ],
   "unique_name": "This Is Lang Lang",

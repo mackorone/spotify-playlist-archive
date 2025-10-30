@@ -1,6 +1,6 @@
 {
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Ajebutter",
-  "num_followers": 109225,
+  "num_followers": 109241,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
-        "name": "Girlie-Pop!",
-        "url": "https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 123950,
-      "name": "Girlie-Pop!",
-      "url": "https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
         "name": "Ah Well",
         "url": "https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 195505,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/6BZ2DNapAPgzNDMz3tozhU"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
+        "name": "Girlie-Pop!",
+        "url": "https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 123950,
+      "name": "Girlie-Pop!",
+      "url": "https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
-        "name": "Sweet Renegade",
-        "url": "https://open.spotify.com/album/3FN1G4f4mrSUKsX7RIyiet"
-      },
-      "artists": [
-        {
-          "name": "LUUKHANYO",
-          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Sweet Renegade",
-      "url": "https://open.spotify.com/track/6NSfP2NDllklKgMUSIUeFj"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
         "name": "Bossa Nova",
         "url": "https://open.spotify.com/album/0GctVrad0vDtgAVybtRiWR"
       },
@@ -875,38 +859,18 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
-        "name": "S.M.O.",
-        "url": "https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy"
+        "name": "Sweet Renegade",
+        "url": "https://open.spotify.com/album/3FN1G4f4mrSUKsX7RIyiet"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "LUUKHANYO",
+          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
         }
       ],
-      "duration_ms": 270329,
-      "name": "S.M.O.",
-      "url": "https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
-        "name": "Lock In",
-        "url": "https://open.spotify.com/album/5ziFmKymfaKOe3b1axOjjS"
-      },
-      "artists": [
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 173839,
-      "name": "Lock In",
-      "url": "https://open.spotify.com/track/69u0Cv7EK6HoRDtfhb7vrv"
+      "duration_ms": 189000,
+      "name": "Sweet Renegade",
+      "url": "https://open.spotify.com/track/6NSfP2NDllklKgMUSIUeFj"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -931,6 +895,42 @@
       "duration_ms": 159000,
       "name": "Kinda Girl",
       "url": "https://open.spotify.com/track/1eQK7snhG7m9XdXVjqjyBg"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
+        "name": "Lock In",
+        "url": "https://open.spotify.com/album/5ziFmKymfaKOe3b1axOjjS"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 173839,
+      "name": "Lock In",
+      "url": "https://open.spotify.com/track/69u0Cv7EK6HoRDtfhb7vrv"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
+        "name": "S.M.O.",
+        "url": "https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 270329,
+      "name": "S.M.O.",
+      "url": "https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -987,6 +987,22 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
+        "name": "WINGS CAN GROW ANYWHERE",
+        "url": "https://open.spotify.com/album/0VVdUmeJducDFoKMxNjr6z"
+      },
+      "artists": [
+        {
+          "name": "UZUAZO",
+          "url": "https://open.spotify.com/artist/2eWQApP8OBlD7X7YOUXjYQ"
+        }
+      ],
+      "duration_ms": 215181,
+      "name": "Can I",
+      "url": "https://open.spotify.com/track/4bFhZLFW1wa8TdYYKgF0PF"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
         "name": "Sweetest Time",
         "url": "https://open.spotify.com/album/1hsqYq7l4qAkEUEbzl1qtW"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 154074,
       "name": "Sweetest Time",
       "url": "https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
-        "name": "WINGS CAN GROW ANYWHERE",
-        "url": "https://open.spotify.com/album/0VVdUmeJducDFoKMxNjr6z"
-      },
-      "artists": [
-        {
-          "name": "UZUAZO",
-          "url": "https://open.spotify.com/artist/2eWQApP8OBlD7X7YOUXjYQ"
-        }
-      ],
-      "duration_ms": 215181,
-      "name": "Can I",
-      "url": "https://open.spotify.com/track/4bFhZLFW1wa8TdYYKgF0PF"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -1195,6 +1195,42 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
+        "name": "Nobody Badder",
+        "url": "https://open.spotify.com/album/1noSivqDiu16wO4i99I9u0"
+      },
+      "artists": [
+        {
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
+        },
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "duration_ms": 160359,
+      "name": "FEELINGS",
+      "url": "https://open.spotify.com/track/1ksmsfxb4XCOKD0JdYaznz"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
+        "name": "On Time",
+        "url": "https://open.spotify.com/album/20k3vSq3WUt0dRqfTmwyHI"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "duration_ms": 229282,
+      "name": "On Time",
+      "url": "https://open.spotify.com/track/1ZKMJ2MqdbzaS0fkzsIly1"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
         "name": "Lost My Mind",
         "url": "https://open.spotify.com/album/2OKt1XZRrtqkpf649qNbzf"
       },
@@ -1219,42 +1255,6 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
-        "name": "On Time",
-        "url": "https://open.spotify.com/album/20k3vSq3WUt0dRqfTmwyHI"
-      },
-      "artists": [
-        {
-          "name": "Neon Adejo",
-          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
-        }
-      ],
-      "duration_ms": 229282,
-      "name": "On Time",
-      "url": "https://open.spotify.com/track/1ZKMJ2MqdbzaS0fkzsIly1"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
-        "name": "Nobody Badder",
-        "url": "https://open.spotify.com/album/1noSivqDiu16wO4i99I9u0"
-      },
-      "artists": [
-        {
-          "name": "Smada",
-          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
-        },
-        {
-          "name": "Mellissa",
-          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
-        }
-      ],
-      "duration_ms": 160359,
-      "name": "FEELINGS",
-      "url": "https://open.spotify.com/track/1ksmsfxb4XCOKD0JdYaznz"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
         "name": "London Girl",
         "url": "https://open.spotify.com/album/2uyF33o6b18qEYofn0wUju"
       },
@@ -1271,6 +1271,22 @@
       "duration_ms": 134791,
       "name": "London Girl",
       "url": "https://open.spotify.com/track/16gePMnstRp7cVNeHTT7cP"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
+        "name": "Dumb",
+        "url": "https://open.spotify.com/album/1Mt0hkW325LIAoeBO8Loue"
+      },
+      "artists": [
+        {
+          "name": "Noir",
+          "url": "https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/0PFx2A7OrtPGVMbelKt2GS"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -1295,22 +1311,6 @@
       "duration_ms": 181959,
       "name": "2AM",
       "url": "https://open.spotify.com/track/7t8s2vubxLWWIV614tquv3"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
-        "name": "Dumb",
-        "url": "https://open.spotify.com/album/1Mt0hkW325LIAoeBO8Loue"
-      },
-      "artists": [
-        {
-          "name": "Noir",
-          "url": "https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/0PFx2A7OrtPGVMbelKt2GS"
     },
     {
       "added_at": "2025-10-24 00:01:29",

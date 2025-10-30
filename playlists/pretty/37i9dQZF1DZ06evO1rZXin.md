@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,847 likes - 42 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,849 likes - 42 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 | 37 | [Busca Amor](https://open.spotify.com/track/6Rxrnu77wkUmv5RufRc5Pi) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 2:37 |
 | 38 | [La Víbora Peligrosa](https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Víbora Peligrosa](https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss) | 2:29 |
 | 39 | [Meneaito](https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Meneaito](https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4) | 3:37 |
-| 40 | [Me He Quedado Solo](https://open.spotify.com/track/6UEb9HmWZnaj5tYWhf6v2O) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 3:01 |
-| 41 | [Aunque Te Enamores](https://open.spotify.com/track/1nFZVvBqero0LnSsH23NAd) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 2:59 |
+| 40 | [Aunque Te Enamores](https://open.spotify.com/track/1nFZVvBqero0LnSsH23NAd) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 2:59 |
+| 41 | [Me He Quedado Solo](https://open.spotify.com/track/6UEb9HmWZnaj5tYWhf6v2O) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 3:01 |
 | 42 | [Te Voy A Olvidar](https://open.spotify.com/track/7t7onEgU8E9ayFIVh9FI7G) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 3:00 |
 
-Snapshot ID: `aP62AAAAAABJT6ga0f6iL+6DbPFzPi82`
+Snapshot ID: `aQAHgAAAAAAcfVD8Zd4f75eHhBhk/BcZ`

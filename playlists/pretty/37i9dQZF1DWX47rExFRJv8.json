@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 106444,
+  "num_followers": 106500,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-07-13 01:13:49",
       "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 150027,
+      "name": "MALAMENTE - Cap.1: Augurio",
+      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
+    },
+    {
+      "added_at": "2024-07-13 01:13:49",
+      "album": {
         "name": "Los Campeones del Pueblo \"The Big Leagues\"",
         "url": "https://open.spotify.com/album/4zbMionGv9W33xjQfoMyuo"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 226200,
       "name": "Aullando",
       "url": "https://open.spotify.com/track/7BuHdm4lQqcyG3qTwdkxus"
-    },
-    {
-      "added_at": "2024-07-13 01:13:49",
-      "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 150027,
-      "name": "MALAMENTE - Cap.1: Augurio",
-      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
     },
     {
       "added_at": "2024-07-13 01:13:49",

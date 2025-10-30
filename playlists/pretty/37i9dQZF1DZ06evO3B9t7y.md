@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 
 > This is Carín León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,143 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,300 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 44 | [Tú Me Gustas](https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tú Me Gustas](https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC) | 3:26 |
 | 45 | [Guaro \(Remix\)](https://open.spotify.com/track/5sMHuOIvtsSuFZafTcF19Q) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM), [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX), [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv), [Juan Pablo Navarrete](https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi) | [Guaro \(Remix\)](https://open.spotify.com/album/1YiKQVj2jiaNCmuOjGASsq) | 3:42 |
 | 46 | [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Los Honorables](https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL) | [Borrachera Con Los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:08 |
-| 47 | [Cuando La Vida Sea Trago](https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cuando La Vida Sea Trago](https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x) | 2:53 |
-| 48 | [Aunque tú no lo sepas](https://open.spotify.com/track/1sZzTN6MOnagdaHMd0n5lm) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:14 |
+| 47 | [Aunque tú no lo sepas](https://open.spotify.com/track/1sZzTN6MOnagdaHMd0n5lm) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:14 |
+| 48 | [Cuando La Vida Sea Trago](https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cuando La Vida Sea Trago](https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x) | 2:53 |
 | 49 | [Nos Extraño \(En Vivo\)](https://open.spotify.com/track/0mCdGgntnPIE6RWueVSwyV) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K) | 3:00 |
 | 50 | [Deja De Chingarme](https://open.spotify.com/track/6j8uzLF1cyZbfpg6HX10xi) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 2:59 |
 
-Snapshot ID: `aP62AAAAAAAx6TqE0J22WS84GpZXyZMZ`
+Snapshot ID: `aQAHgAAAAADw4GNXFfbR8zyGWGjoUOsa`

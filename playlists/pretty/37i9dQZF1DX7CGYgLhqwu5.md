@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,472 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,487 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 94 | [She Thinks I Still Care \- Single Version](https://open.spotify.com/track/5pwqtpAazoPh1G3txEIPAB) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Best Of](https://open.spotify.com/album/4HucnJEyRrftVJCYfMzWDp) | 2:33 |
 | 95 | [Swinging Doors](https://open.spotify.com/track/6Ja76N5EcdHrZCGfsWNeGo) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Super Hits Collection \- 32 Songs \- Swinging Doors](https://open.spotify.com/album/7inmfUQJ4jioW0GSVxpgpe) | 2:52 |
 | 96 | [A Six Pack To Go](https://open.spotify.com/track/6ac7GUlfon5ezqPvDYPixS) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0) | [20 Greatest Hits](https://open.spotify.com/album/5P6rEZ32MTCZubNbXSP9AM) | 2:09 |
-| 97 | [Together Again](https://open.spotify.com/track/7FFD8nuOoXfrVFNTFvC6GO) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [Together Again / My Heart Skips a Beat](https://open.spotify.com/album/168zSwI3kwZ1xfXa6x4iap) | 2:28 |
+| 97 | [Love's Gonna Live Here](https://open.spotify.com/track/0svhKL5JfIxASjbmEkxXKV) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:04 |
 | 98 | [Phantom 309](https://open.spotify.com/track/3fNQkYKo7VHZBk8GWyqGAq) | [Red Sovine](https://open.spotify.com/artist/7wVgfy012qNvQ607JM5Qsf) | [20 All Time Greatest Hits](https://open.spotify.com/album/48aF0MyVsxQgWYBF9SUR4k) | 3:23 |
 | 99 | [Walk Through This World With Me](https://open.spotify.com/track/21SxnQOkzD11IO3qToKvaG) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Walk Through This World With Me](https://open.spotify.com/album/06AQF06cw5or7c4IXr0Kjk) | 2:17 |
 | 100 | [Lonesome 7\-7203](https://open.spotify.com/track/6ZW6ND4N7oKkUhKqWZhjyk) | [Hawkshaw Hawkins](https://open.spotify.com/artist/0fX1VRKNIBwg3qD7oe2IVV) | [20 Greatest Hits](https://open.spotify.com/album/3xyu25a0dgVUf3JeDXql9i) | 2:46 |

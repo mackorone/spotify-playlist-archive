@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,078,187 likes - 50 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,078,356 likes - 50 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 25 | [I Disappear](https://open.spotify.com/track/46tSt69Xw10Ej8Rn7wJmFt) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [I Disappear](https://open.spotify.com/album/7cJ4oRwyJ5BU1oj29AquOM) | 4:26 |
 | 26 | [Ride The Lightning \- Remastered](https://open.spotify.com/track/2O7UGwJPVlix15Wn4sa5vw) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe / Remastered\)](https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx) | 6:36 |
 | 27 | [Hero of the Day \- Remastered](https://open.spotify.com/track/0nB11Yb0wGnGcoQ26cyoc4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV) | 4:21 |
-| 28 | [Harvester of Sorrow](https://open.spotify.com/track/6qgYe6noMKsElSoPg9yS91) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | […And Justice for All \(Remastered\)](https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1) | 5:45 |
-| 29 | [Holier Than Thou \- Remastered 2021](https://open.spotify.com/track/6c5Ft6sEfLjVxL2wkgxBtv) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered 2021\)](https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb) | 3:47 |
+| 28 | [Holier Than Thou \- Remastered 2021](https://open.spotify.com/track/6c5Ft6sEfLjVxL2wkgxBtv) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered 2021\)](https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb) | 3:47 |
+| 29 | [Harvester of Sorrow](https://open.spotify.com/track/6qgYe6noMKsElSoPg9yS91) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | […And Justice for All \(Remastered\)](https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1) | 5:45 |
 | 30 | [Welcome Home \(Sanitarium\) \- Remastered](https://open.spotify.com/track/1FPSkRkDlthbAceSIIWc4C) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Deluxe Box Set / Remastered\)](https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm) | 6:27 |
 | 31 | [Lux Æterna](https://open.spotify.com/track/6eXWc7irALyENtbAD2TTOT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 3:21 |
 | 32 | [Mama Said \- Remastered](https://open.spotify.com/track/2pFg7eERlKmCcdI3FlEuAc) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV) | 5:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 49 | [Fight Fire With Fire \- Remastered](https://open.spotify.com/track/6ckozbGmOusAnLT2LEbERy) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Remastered\)](https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc) | 4:44 |
 | 50 | [The Shortest Straw](https://open.spotify.com/track/4hvo7eCLfhs7dFr0mpk3zi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | […And Justice for All \(Remastered\)](https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1) | 6:35 |
 
-Snapshot ID: `aP62AAAAAAA+uXeb0GStZsfp1YK06VbF`
+Snapshot ID: `aQAHgAAAAACZtarF92WjKNW6v2mBjPVu`

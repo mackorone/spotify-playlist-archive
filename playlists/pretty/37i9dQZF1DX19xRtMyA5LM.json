@@ -1,12 +1,12 @@
 {
   "description": "De beste tracks in WS\u2757\ufe0fCover: Topperig",
-  "num_followers": 710051,
+  "num_followers": 710063,
   "original_name": "Woordenschat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPmU1snRg8tmMZqD+r9a/Cuj+kZP",
+  "snapshot_id": "AAAAANGkPJJDxh/LQhKo3Tk4WFKOn/0k",
   "tracks": [
     {
       "added_at": "2025-10-23 22:00:37",
@@ -99,6 +99,30 @@
     {
       "added_at": "2025-10-23 22:00:37",
       "album": {
+        "name": "Doolhof",
+        "url": "https://open.spotify.com/album/3FPIq2ubwc17mIJz5l7YvX"
+      },
+      "artists": [
+        {
+          "name": "Philly",
+          "url": "https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj"
+        },
+        {
+          "name": "Bokke8",
+          "url": "https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB"
+        },
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        }
+      ],
+      "duration_ms": 229439,
+      "name": "Doolhof",
+      "url": "https://open.spotify.com/track/0ynjDe416FmCL2grDmj75r"
+    },
+    {
+      "added_at": "2025-10-23 22:00:37",
+      "album": {
         "name": "Alcantara",
         "url": "https://open.spotify.com/album/4w79VeLMd0PpNWE4Q66zfR"
       },
@@ -163,30 +187,6 @@
       "duration_ms": 160909,
       "name": "Tijdloos",
       "url": "https://open.spotify.com/track/2U1gVZP0llaQvyWJ8ITszA"
-    },
-    {
-      "added_at": "2025-10-23 22:00:37",
-      "album": {
-        "name": "Doolhof",
-        "url": "https://open.spotify.com/album/3FPIq2ubwc17mIJz5l7YvX"
-      },
-      "artists": [
-        {
-          "name": "Philly",
-          "url": "https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj"
-        },
-        {
-          "name": "Bokke8",
-          "url": "https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB"
-        },
-        {
-          "name": "Isab\u00e8l Usher",
-          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
-        }
-      ],
-      "duration_ms": 229439,
-      "name": "Doolhof",
-      "url": "https://open.spotify.com/track/0ynjDe416FmCL2grDmj75r"
     },
     {
       "added_at": "2025-10-23 22:00:37",

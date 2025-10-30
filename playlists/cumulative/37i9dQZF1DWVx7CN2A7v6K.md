@@ -4,7 +4,7 @@
 
 > A  blend of J\-pop to soundtrack your perfect matcha moment.
 
-100 songs - 6 hr 35 min
+102 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [トーキョーレギー](https://open.spotify.com/track/5floNyItopWZyB4IzKrJtW) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [SEYCHELLES](https://open.spotify.com/album/7BQPfd39YTObQGamGhDF7g) | 4:20 | 2025-10-26 |  |
 | [ハレの日に \- Harenohini](https://open.spotify.com/track/41bU6Anbt3NPBdGLzpEcal) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [ハレの日に \- Harenohini](https://open.spotify.com/album/3aaRYkHau7tGCBcVMAlTWY) | 4:37 | 2025-10-26 |  |
 | [ハレンチ](https://open.spotify.com/track/2BfzhBl79bcPOHHXAXJkTY) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 3:18 | 2025-10-26 |  |
+| [パンダガール](https://open.spotify.com/track/6762PO2mmGDxT5llosCDPI) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [パンダガール](https://open.spotify.com/album/4PdLITdvYrIyNXQiGseajR) | 3:34 | 2025-10-29 |  |
 | [ピアフ](https://open.spotify.com/track/18dvOWJvmNvEkolNJ2tRNS) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 5:37 | 2025-10-26 |  |
 | [フィナーレ。](https://open.spotify.com/track/5qIlqZyWVeQeQ7weYYvrKv) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [my dream box](https://open.spotify.com/album/2CDzWjtellhxylZYYOmMPN) | 4:04 | 2025-10-26 |  |
 | [ブルーアンバー](https://open.spotify.com/track/35MeePbBnryubkVG0v8GbI) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ブルーアンバー](https://open.spotify.com/album/3PHKqNh7HXpmblwGJpcNC0) | 3:27 | 2025-10-26 |  |
@@ -76,7 +77,7 @@
 | [奏\(かなで\)](https://open.spotify.com/track/5RbMlPFL4gVyEHW2lEOuzG) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [夏雲ノイズ](https://open.spotify.com/album/3YV5ztLRDjPYgtVvu8LswR) | 5:28 | 2025-10-26 |  |
 | [好きだから。](https://open.spotify.com/track/02xwA3Ej9NPetftp9V7VZ3) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [好きだから。](https://open.spotify.com/album/0Yp3xThk83SwBN8yP2IaTS) | 4:58 | 2025-10-26 |  |
 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 | 2025-10-26 |  |
-| [忘れてください](https://open.spotify.com/track/7raKnLKyQSatDiVVpiZDds) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [忘れてください](https://open.spotify.com/album/4XrhbakQbPTttIIBdAKBIb) | 3:38 | 2025-10-26 |  |
+| [忘れてください](https://open.spotify.com/track/7raKnLKyQSatDiVVpiZDds) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [忘れてください](https://open.spotify.com/album/4XrhbakQbPTttIIBdAKBIb) | 3:38 | 2025-10-26 | 2025-10-30 |
 | [忘れられないの](https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 3:58 | 2025-10-26 |  |
 | [恋風](https://open.spotify.com/track/6QGuDk8tY8Lan39gTWtXWK) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [恋風](https://open.spotify.com/album/2YnF0m9IK3ZEApvRVb7tqo) | 3:02 | 2025-10-26 |  |
 | [悲しみがとまらない　I CAN'T STOP THE LONELINESS](https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:23 | 2025-10-26 |  |
@@ -94,7 +95,8 @@
 | [灯を護る](https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [灯を護る](https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3) | 3:33 | 2025-10-26 |  |
 | [猫](https://open.spotify.com/track/6sIx7Cn37DGEhjy9hBP8Gx) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [僕たちがやりました](https://open.spotify.com/album/0jf58OGRFXs8NG5hcUCJb0) | 4:36 | 2025-10-26 |  |
 | [白日](https://open.spotify.com/track/172fMG26G2OoEzzg0wn26r) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [CEREMONY](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) | 4:36 | 2025-10-26 |  |
-| [真夏の果実](https://open.spotify.com/track/3AVLsBieDGotYuo5RPEL64) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [真夏の果実](https://open.spotify.com/album/6yqQMQGUPlrEHUC8WHHwp1) | 4:39 | 2025-10-26 |  |
+| [真夏の果実](https://open.spotify.com/track/3AVLsBieDGotYuo5RPEL64) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [真夏の果実](https://open.spotify.com/album/6yqQMQGUPlrEHUC8WHHwp1) | 4:39 | 2025-10-26 | 2025-10-30 |
+| [真実](https://open.spotify.com/track/2iRYzIJmIrANFCcJpGsu1V) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [I believe](https://open.spotify.com/album/7tZXe8kZRmMhG8G9FAlt1X) | 4:26 | 2025-10-29 |  |
 | [秒針を噛む](https://open.spotify.com/track/4HgsPAX3MmMgIT60hJ4W4U) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 4:20 | 2025-10-26 |  |
 | [空](https://open.spotify.com/track/298ROhlpzNNOujR3q9XkP0) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [空](https://open.spotify.com/album/1ukg4OCTuWIJpBsbACk7Kp) | 3:39 | 2025-10-26 |  |
 | [花](https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw) | 4:06 | 2025-10-26 |  |

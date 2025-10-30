@@ -1,12 +1,12 @@
 {
   "description": "This is Tems. The essential tracks, all in one playlist.",
-  "num_followers": 127737,
+  "num_followers": 127799,
   "original_name": "This Is Tems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAACwKbINFRrXZg90akYML/72",
+  "snapshot_id": "aQAHgAAAAABImMypuACdejq1NhQAYhKl",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "I THINK YOU'RE SPECIAL",
+      "url": "https://open.spotify.com/track/0mQLFm42be28X8yKBTiHP3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Isaka II (6am) [with Tems, Omah Lay, Thukuthela, JAZZWRLD, Lekaa Beats]",
         "url": "https://open.spotify.com/album/1Ba4tVkFViKy6KmRyd9adZ"
       },
@@ -87,26 +107,6 @@
       "duration_ms": 285239,
       "name": "Isaka II (6am) [with Tems, Omah Lay, Thukuthela, JAZZWRLD, Lekaa Beats]",
       "url": "https://open.spotify.com/track/4lz4aKs60vUoyZP4pNy3aD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SWAG II",
-        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "I THINK YOU'RE SPECIAL",
-      "url": "https://open.spotify.com/track/0mQLFm42be28X8yKBTiHP3"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 
 > Allerbeste songs uit de 60's\. Cover: Shocking Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,709 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,715 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 | 57 | [Come See About Me](https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:43 |
 | 58 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 3:01 |
 | 59 | [Oh Well, Pt\. 1 \- 2013 Remaster](https://open.spotify.com/track/0QdagWnOd3GzMCBu57efgp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Then Play On \(2013 Remaster; Expanded Edition\)](https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR) | 3:22 |
-| 60 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
+| 60 | [Suzie Q](https://open.spotify.com/track/6Jp0GuFxAYbTdre1uUPgaB) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Creedence Clearwater Revival \(Expanded Edition\)](https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2) | 8:37 |
 | 61 | [Everlasting Love](https://open.spotify.com/track/40XXjm2pU6LGZkLq5VmkaQ) | [Love Affair](https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux) | [The Everlasting Love Affair](https://open.spotify.com/album/2BX02XIupm6Sw7cdaT7gVX) | 3:02 |
-| 62 | [Suzie Q](https://open.spotify.com/track/6Jp0GuFxAYbTdre1uUPgaB) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Creedence Clearwater Revival \(Expanded Edition\)](https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2) | 8:37 |
+| 62 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
 | 63 | [I Heard It Through The Grapevine](https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 3:16 |
 | 64 | [River Deep \- Mountain High](https://open.spotify.com/track/44BmNSqH9uZV5OfIjGcER3) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [River Deep\-Mountain High](https://open.spotify.com/album/1CbC5Rms2iIhgxvlyslNJh) | 3:34 |
 | 65 | [It Was A Very Good Year](https://open.spotify.com/track/2ID3rNM3hFBjqrLcV0Wr0y) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [September Of My Years \(Expanded Edition\)](https://open.spotify.com/album/3DdN3GRJj8YS0V0fiyXtbt) | 4:27 |

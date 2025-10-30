@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-30",
       "duration_ms": 185806,
       "name": "Away",
       "url": "https://open.spotify.com/track/7vp8JafiMNyGSNH4vrHogz"
@@ -10220,6 +10220,28 @@
       "duration_ms": 143030,
       "name": "Melody",
       "url": "https://open.spotify.com/track/5HMk6l89LGrGxG7hnlme1y"
+    },
+    {
+      "album": {
+        "name": "MELODY",
+        "url": "https://open.spotify.com/album/0xnPL7EWuvYFkMCEieyJR3"
+      },
+      "artists": [
+        {
+          "name": "Lamix",
+          "url": "https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174491,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/3SxV2lTylKaXUVd68MqgSm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-846 songs - 1 day 16 hr 58 min
+847 songs - 1 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -764,7 +764,7 @@
 | [Temporal Drowsing](https://open.spotify.com/track/1L2NrXYDrr1E2wfTFdqbee) | [Whispering Dunes](https://open.spotify.com/artist/5v1HNa0v5ZP8ME4E8rxhGN) | [Temporal Drowsing](https://open.spotify.com/album/5PuEvkGd3taUYcyoYmI0As) | 3:17 | 2025-06-25 |  |
 | [Terra Nova](https://open.spotify.com/track/7aPjlboH22kTdOj6iu4Uhd) | [David Bengloff](https://open.spotify.com/artist/68dr8j57cUoepznTIrbHcm) | [Terra Nova](https://open.spotify.com/album/1Kn4YVvS8pafeyOFK0kiqX) | 2:44 | 2024-03-06 | 2025-02-13 |
 | [Textures](https://open.spotify.com/track/5Z9FEOYBnrYPThpIuvgi5P) | [Moontonic](https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO) | [Textures](https://open.spotify.com/album/5KJVBVLLzcsPVmUAufJZaK) | 2:20 | 2025-07-01 |  |
-| [Thankful](https://open.spotify.com/track/3lg0FcUIHr382sEe5fWuZw) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [Thankful](https://open.spotify.com/album/30JXAmmvqLOTxPSafb9l1V) | 2:41 | 2025-02-14 |  |
+| [Thankful](https://open.spotify.com/track/3lg0FcUIHr382sEe5fWuZw) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [Thankful](https://open.spotify.com/album/30JXAmmvqLOTxPSafb9l1V) | 2:41 | 2025-02-14 | 2025-10-30 |
 | [The Arco](https://open.spotify.com/track/1Gv5jmYpcXBAKhiCaDjHNW) | [Quadrant Beta](https://open.spotify.com/artist/7c1VTKyjBDzeUERgDiz46f) | [The Arco](https://open.spotify.com/album/5JE4Xl3HU0o5Zgr1iurkdJ) | 3:23 | 2023-03-23 | 2024-02-09 |
 | [The Free Air](https://open.spotify.com/track/4Bi9PXnI1ZDErQlgDgT4y9) | [Soliaga](https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8) | [The Free Air](https://open.spotify.com/album/2xxUugRqE6aPAwjJsXzmgW) | 3:22 | 2024-02-08 | 2024-03-07 |
 | [The Frost Line](https://open.spotify.com/track/64JVF5lbu1ntooT77veOgN) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [The Frost Line](https://open.spotify.com/album/342mUFxbqazehOlAa9lOH1) | 3:14 | 2025-10-08 |  |
@@ -819,6 +819,7 @@
 | [Veilless](https://open.spotify.com/track/23y3iLdIBGDsCmZ2W6R7LT) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [Veilless](https://open.spotify.com/album/5g3U1Y4eqaNcSffpD61Syy) | 2:18 | 2023-03-23 | 2024-05-05 |
 | [Verdensrommet](https://open.spotify.com/track/3IVrwyHQPdZBchIDkPHfZf) | [Aksel Møller](https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS) | [Verdensrommet](https://open.spotify.com/album/2VwVc76UbyMhPSiUfUnkR0) | 3:02 | 2024-07-09 | 2025-10-03 |
 | [Versuchen](https://open.spotify.com/track/5dhj9EMLIeq5R1zEo3PSni) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Versuchen](https://open.spotify.com/album/6n04Dj1nhdwLCmm3421TC0) | 2:16 | 2023-03-23 | 2024-02-09 |
+| [Vespera](https://open.spotify.com/track/2c8z7wq9HJEwZToAg95DfH) | [Elio Vane](https://open.spotify.com/artist/3KdplR6fQigF6Octm8lqOV) | [Vespera](https://open.spotify.com/album/7jBqT6wsgVL6Ia52EFgahR) | 2:40 | 2025-10-08 |  |
 | [Vila](https://open.spotify.com/track/0jyK7saNqvRSHlp0HU00z3) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Återhämtning](https://open.spotify.com/album/5JmOVXdiaiknwkK3JHyiev) | 3:48 | 2023-03-23 | 2024-02-09 |
 | [Vilán](https://open.spotify.com/track/6Qsxgw4T1okHKm2oPkLOxC) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Vilán](https://open.spotify.com/album/0KtmA9WEB6qOALuKvLrvY5) | 2:51 | 2023-03-23 | 2024-02-09 |
 | [vindur](https://open.spotify.com/track/6cJq37QktSAzv6bdUq0Bdc) | [Atli Þórirsson](https://open.spotify.com/artist/7JhDZrYjtUBmTG4j61iIr4) | [vindur](https://open.spotify.com/album/7Kq9BZt3SVPSMHYcIRkeKy) | 2:33 | 2023-03-23 | 2024-02-09 |

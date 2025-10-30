@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,842 likes - 90 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,844 likes - 90 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 31 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
 | 32 | [Boyfriend \- Acoustic Version](https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe Acoustic](https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7) | 3:07 |
 | 33 | [Barquinho de papel](https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 |
-| 34 | [Meant to Be \- Acoustic](https://open.spotify.com/track/7bu8i7HwACY0m1H5lXFSpw) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Meant to Be \(Acoustic\)](https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI) | 2:38 |
-| 35 | [Mad World \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 2:53 |
+| 34 | [Mad World \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 2:53 |
+| 35 | [Meant to Be \- Acoustic](https://open.spotify.com/track/7bu8i7HwACY0m1H5lXFSpw) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Meant to Be \(Acoustic\)](https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI) | 2:38 |
 | 36 | [I'm Good \(Blue\) \- Acoustic](https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\) \[Acoustic\]](https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY) | 2:18 |
 | 37 | [Crazy in Love](https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Crazy in Love](https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd) | 3:38 |
 | 38 | [How to Save a Life \- Live in Nashville, TN \- December 2006](https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Acoustic In Nashville \- Bootleg No\. 2](https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp) | 4:29 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 60 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
 | 61 | [Rise \- Acoustic](https://open.spotify.com/track/64TfjW0Ebj9Uq0ik2OfmE7) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Rise \(Acoustic\)](https://open.spotify.com/album/4M4lVwxi3BpaAmv9hMIzrm) | 3:52 |
 | 62 | [Mistakes](https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Mistakes](https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ) | 2:29 |
-| 63 | [pequena \- Ao Vivo](https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q) | 2:54 |
-| 64 | [thank u, next \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:37 |
+| 63 | [thank u, next \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:37 |
+| 64 | [pequena \- Ao Vivo](https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q) | 2:54 |
 | 65 | [Burning \- Recorded At RAK Studios, London](https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 3:51 |
 | 66 | [Mande um Sinal \- Acústico](https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Mande um Sinal \(Acústico\)](https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq) | 3:58 |
 | 67 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 206248,
+  "num_followers": 206245,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAABTMORJOAZif+XSTus5YYTc",
+  "snapshot_id": "aQAHgAAAAAAbf82W3toPpAPZdXmZt3z/",
   "tracks": [
     {
       "added_at": null,
@@ -207,26 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand In Your Love (Radio Version)",
-        "url": "https://open.spotify.com/album/2Hj6wZap379k7FpV2totRj"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Stand In Your Love (Radio Version)",
-      "url": "https://open.spotify.com/track/4d6i3I2AgCx8CD54Tjr5pF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 395161,
       "name": "Back To Life (Live)",
       "url": "https://open.spotify.com/track/44aTdoCcquVC4xvX0YgZLn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stand In Your Love (Radio Version)",
+        "url": "https://open.spotify.com/album/2Hj6wZap379k7FpV2totRj"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Stand In Your Love (Radio Version)",
+      "url": "https://open.spotify.com/track/4d6i3I2AgCx8CD54Tjr5pF"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Up Here",
-        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
-        }
-      ],
-      "duration_ms": 318115,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/59vLGHrpzwcwyPbQBG0KZy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revival's In The Air (Live)",
         "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 382600,
       "name": "Egypt (Live)",
       "url": "https://open.spotify.com/track/2OoaLn8pQfXWjjImmZwp8w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        }
+      ],
+      "duration_ms": 318115,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/59vLGHrpzwcwyPbQBG0KZy"
     },
     {
       "added_at": null,
@@ -939,6 +939,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elohim (Live)",
+        "url": "https://open.spotify.com/album/2tZSh33eyL3zDIbC73nVdJ"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Aubree Archibeck",
+          "url": "https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t"
+        }
+      ],
+      "duration_ms": 447670,
+      "name": "Elohim - Live From Church",
+      "url": "https://open.spotify.com/track/7crAY5NVt4JB7oDEy7rEI6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Have It All (Live)",
         "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
       },
@@ -959,8 +979,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elohim (Live)",
-        "url": "https://open.spotify.com/album/2tZSh33eyL3zDIbC73nVdJ"
+        "name": "I Want Jesus (Live)",
+        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
       },
       "artists": [
         {
@@ -968,13 +988,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Aubree Archibeck",
-          "url": "https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t"
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
         }
       ],
-      "duration_ms": 447670,
-      "name": "Elohim - Live From Church",
-      "url": "https://open.spotify.com/track/7crAY5NVt4JB7oDEy7rEI6"
+      "duration_ms": 369923,
+      "name": "I Want Jesus - Live",
+      "url": "https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y"
     },
     {
       "added_at": null,
@@ -999,26 +1019,6 @@
       "duration_ms": 479771,
       "name": "Son Of Suffering (Live)",
       "url": "https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Want Jesus (Live)",
-        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "John Wilds",
-          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
-        }
-      ],
-      "duration_ms": 369923,
-      "name": "I Want Jesus - Live",
-      "url": "https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y"
     },
     {
       "added_at": null,

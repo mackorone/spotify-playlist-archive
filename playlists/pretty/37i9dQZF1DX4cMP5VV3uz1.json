@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 165752,
+  "num_followers": 165759,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,26 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Stush",
+          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
+        }
+      ],
+      "duration_ms": 212671,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
         "name": "Out Of Control",
         "url": "https://open.spotify.com/album/5Fzg5JxyGtVdt10KoyHwYc"
       },
@@ -987,26 +1007,6 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU"
-      },
-      "artists": [
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        },
-        {
-          "name": "Stush",
-          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
-        }
-      ],
-      "duration_ms": 212671,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
         "name": "Rockstar Bass",
         "url": "https://open.spotify.com/album/2PEU5vtNeeFsMPfku7lY4T"
       },
@@ -1027,6 +1027,26 @@
       "duration_ms": 206896,
       "name": "Rockstar Bass",
       "url": "https://open.spotify.com/track/2zivCVM48VJ0zT7Vbtn1Ga"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
+        "name": "Dutty",
+        "url": "https://open.spotify.com/album/5dfawAgRpWLQxOkQb1mT8v"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 210642,
+      "name": "Dutty",
+      "url": "https://open.spotify.com/track/40QBWI7oVfaKSPsRm4J0uF"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1091,42 +1111,6 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Dutty",
-        "url": "https://open.spotify.com/album/5dfawAgRpWLQxOkQb1mT8v"
-      },
-      "artists": [
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 210642,
-      "name": "Dutty",
-      "url": "https://open.spotify.com/track/40QBWI7oVfaKSPsRm4J0uF"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
-        "name": "Romance EP",
-        "url": "https://open.spotify.com/album/2DMEFv7wDdSCICaYXGZ1EL"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Mudcrab",
-      "url": "https://open.spotify.com/track/1awqLWOY994AEUtnHM9Nlp"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
         "name": "MMM",
         "url": "https://open.spotify.com/album/4RCXmMIMNSRZZauSVHjSkw"
       },
@@ -1147,22 +1131,18 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "The Samurai",
-        "url": "https://open.spotify.com/album/4KixaoegcviwhbvACyYj1H"
+        "name": "Romance EP",
+        "url": "https://open.spotify.com/album/2DMEFv7wDdSCICaYXGZ1EL"
       },
       "artists": [
         {
-          "name": "Hoax",
-          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
-        },
-        {
-          "name": "Purple Velvet Curtains",
-          "url": "https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO"
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
         }
       ],
-      "duration_ms": 231586,
-      "name": "The Samurai",
-      "url": "https://open.spotify.com/track/1CfQ6NhnjR4JO9wnHKzleb"
+      "duration_ms": 282000,
+      "name": "Mudcrab",
+      "url": "https://open.spotify.com/track/1awqLWOY994AEUtnHM9Nlp"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1183,6 +1163,26 @@
       "duration_ms": 279069,
       "name": "On Your Feet",
       "url": "https://open.spotify.com/track/75KWXVroEfF79xQPDOG9js"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
+        "name": "The Samurai",
+        "url": "https://open.spotify.com/album/4KixaoegcviwhbvACyYj1H"
+      },
+      "artists": [
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        },
+        {
+          "name": "Purple Velvet Curtains",
+          "url": "https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "The Samurai",
+      "url": "https://open.spotify.com/track/1CfQ6NhnjR4JO9wnHKzleb"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
+        "name": "Satan's Alley",
+        "url": "https://open.spotify.com/album/12GOuAO4h3wsOrHHOwCPFs"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "duration_ms": 244114,
+      "name": "Satan's Alley",
+      "url": "https://open.spotify.com/track/0hMFRwnaH2l3vAPfwp0m8h"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
       },
@@ -1263,22 +1283,26 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Satan's Alley",
-        "url": "https://open.spotify.com/album/12GOuAO4h3wsOrHHOwCPFs"
+        "name": "Sell My Soul (VIP)",
+        "url": "https://open.spotify.com/album/0i1uC1hcfO2iAZELFriz5N"
       },
       "artists": [
         {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
         },
         {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+          "name": "Justin Hawkes",
+          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
+        },
+        {
+          "name": "Kumarion",
+          "url": "https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27"
         }
       ],
-      "duration_ms": 244114,
-      "name": "Satan's Alley",
-      "url": "https://open.spotify.com/track/0hMFRwnaH2l3vAPfwp0m8h"
+      "duration_ms": 176571,
+      "name": "Sell My Soul - VIP",
+      "url": "https://open.spotify.com/track/4KrFmNJ0QThBfcsda3HOnx"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1335,6 +1359,22 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
+        "name": "Foreshadow / Third Kit",
+        "url": "https://open.spotify.com/album/61WgIYQeew0VOM10AdHOAC"
+      },
+      "artists": [
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        }
+      ],
+      "duration_ms": 224914,
+      "name": "Foreshadow",
+      "url": "https://open.spotify.com/track/5HbUnTEsbEplFBEUvVVlvZ"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
         "name": "Losing Control (VIP)",
         "url": "https://open.spotify.com/album/724fbPLMgQqdijbtl1ioFd"
       },
@@ -1351,22 +1391,6 @@
       "duration_ms": 200228,
       "name": "Losing Control - VIP",
       "url": "https://open.spotify.com/track/2OR9mJmSrgyJSmkEo9RWFW"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
-        "name": "Foreshadow / Third Kit",
-        "url": "https://open.spotify.com/album/61WgIYQeew0VOM10AdHOAC"
-      },
-      "artists": [
-        {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
-        }
-      ],
-      "duration_ms": 224914,
-      "name": "Foreshadow",
-      "url": "https://open.spotify.com/track/5HbUnTEsbEplFBEUvVVlvZ"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1427,30 +1451,6 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Sell My Soul (VIP)",
-        "url": "https://open.spotify.com/album/0i1uC1hcfO2iAZELFriz5N"
-      },
-      "artists": [
-        {
-          "name": "Bensley",
-          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
-        },
-        {
-          "name": "Justin Hawkes",
-          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
-        },
-        {
-          "name": "Kumarion",
-          "url": "https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "Sell My Soul - VIP",
-      "url": "https://open.spotify.com/track/4KrFmNJ0QThBfcsda3HOnx"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
         "name": "Posra",
         "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Champion Ting / Mouse Trap",
-        "url": "https://open.spotify.com/album/7z4JzoJBb3pgCPIbhGpmQl"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "Champion Ting",
-      "url": "https://open.spotify.com/track/1suL6QTR6nYHmvLkWaRMGs"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/66taP1euWf9VFCgzyeepb3"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 248300,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3eq1Yyh6tRpYDf7tWCdeoo"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
+        "name": "Champion Ting / Mouse Trap",
+        "url": "https://open.spotify.com/album/7z4JzoJBb3pgCPIbhGpmQl"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "duration_ms": 202971,
+      "name": "Champion Ting",
+      "url": "https://open.spotify.com/track/1suL6QTR6nYHmvLkWaRMGs"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
+        "name": "Whose It",
+        "url": "https://open.spotify.com/album/2Nsnu2j7lJvxDybj7z5Slp"
+      },
+      "artists": [
+        {
+          "name": "Sustance",
+          "url": "https://open.spotify.com/artist/3069G1J62ioGObj518Umm2"
+        },
+        {
+          "name": "Sylla",
+          "url": "https://open.spotify.com/artist/3X2JC3TRBV13ERKkcIguiG"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Whose It",
+      "url": "https://open.spotify.com/track/3HvMWWY1wkKG7MFIVUme1o"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
         "name": "Outta Order",
         "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
       },
@@ -1587,6 +1607,26 @@
       "duration_ms": 235885,
       "name": "Outta Order",
       "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
+        "name": "Badman Step",
+        "url": "https://open.spotify.com/album/13bBhTnCsyILAAepNbfHXp"
+      },
+      "artists": [
+        {
+          "name": "Jamezy",
+          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
+        },
+        {
+          "name": "Sweetie Irie",
+          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
+        }
+      ],
+      "duration_ms": 200914,
+      "name": "Badman Step",
+      "url": "https://open.spotify.com/track/16KnLD7KaNZfL5sMs8kmWR"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1659,46 +1699,6 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Badman Step",
-        "url": "https://open.spotify.com/album/13bBhTnCsyILAAepNbfHXp"
-      },
-      "artists": [
-        {
-          "name": "Jamezy",
-          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
-        },
-        {
-          "name": "Sweetie Irie",
-          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
-        }
-      ],
-      "duration_ms": 200914,
-      "name": "Badman Step",
-      "url": "https://open.spotify.com/track/16KnLD7KaNZfL5sMs8kmWR"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
-        "name": "Need Me So",
-        "url": "https://open.spotify.com/album/436ZStM0BChnsKqvBdU1ki"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        },
-        {
-          "name": "DON DARKOE",
-          "url": "https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Need Me So",
-      "url": "https://open.spotify.com/track/1ouVPdv49QKSSiBfCOw6zL"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
         "name": "THE WAY I ROLL",
         "url": "https://open.spotify.com/album/7D50ajSo5ltD3MPQVksYlC"
       },
@@ -1719,22 +1719,22 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Whose It",
-        "url": "https://open.spotify.com/album/2Nsnu2j7lJvxDybj7z5Slp"
+        "name": "Need Me So",
+        "url": "https://open.spotify.com/album/436ZStM0BChnsKqvBdU1ki"
       },
       "artists": [
         {
-          "name": "Sustance",
-          "url": "https://open.spotify.com/artist/3069G1J62ioGObj518Umm2"
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
         },
         {
-          "name": "Sylla",
-          "url": "https://open.spotify.com/artist/3X2JC3TRBV13ERKkcIguiG"
+          "name": "DON DARKOE",
+          "url": "https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql"
         }
       ],
-      "duration_ms": 204137,
-      "name": "Whose It",
-      "url": "https://open.spotify.com/track/3HvMWWY1wkKG7MFIVUme1o"
+      "duration_ms": 180000,
+      "name": "Need Me So",
+      "url": "https://open.spotify.com/track/1ouVPdv49QKSSiBfCOw6zL"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "PURPOSE",
-        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
-      },
-      "artists": [
-        {
-          "name": "Blooom",
-          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
-        },
-        {
-          "name": "Maksim MC",
-          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
-        }
-      ],
-      "duration_ms": 167314,
-      "name": "PURPOSE",
-      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
         "name": "Brick Lane (feat. D Double E, Morrisson & Catching Cairo)",
         "url": "https://open.spotify.com/album/3c7tJnWUuYVCpcmeia459g"
       },
@@ -1867,46 +1847,22 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Bad Boy Horns",
-        "url": "https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt"
+        "name": "PURPOSE",
+        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
       },
       "artists": [
         {
-          "name": "Kelvin 373",
-          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
         },
         {
-          "name": "Waeys",
-          "url": "https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9"
-        },
-        {
-          "name": "Selecta J-Man",
-          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
+          "name": "Maksim MC",
+          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
         }
       ],
-      "duration_ms": 252342,
-      "name": "Bad Boy Horns",
-      "url": "https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
-        "name": "Way Back When",
-        "url": "https://open.spotify.com/album/3k73KfnQhfXxaHZmVbl6iO"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        },
-        {
-          "name": "Virus Syndicate",
-          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Way Back When",
-      "url": "https://open.spotify.com/track/7apK76b48hQ5ZDceVlgLOM"
+      "duration_ms": 167314,
+      "name": "PURPOSE",
+      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1931,22 +1887,26 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/0FEnXxXa9qM9GJaL4o69SD"
+        "name": "Bad Boy Horns",
+        "url": "https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt"
       },
       "artists": [
         {
-          "name": "AC13",
-          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
+          "name": "Kelvin 373",
+          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
         },
         {
-          "name": "Ragdoll",
-          "url": "https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl"
+          "name": "Waeys",
+          "url": "https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9"
+        },
+        {
+          "name": "Selecta J-Man",
+          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
         }
       ],
-      "duration_ms": 200423,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/2ehJK0PvxALIbdFtVAFfAV"
+      "duration_ms": 252342,
+      "name": "Bad Boy Horns",
+      "url": "https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1975,6 +1935,46 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/0FEnXxXa9qM9GJaL4o69SD"
+      },
+      "artists": [
+        {
+          "name": "AC13",
+          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
+        },
+        {
+          "name": "Ragdoll",
+          "url": "https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl"
+        }
+      ],
+      "duration_ms": 200423,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/2ehJK0PvxALIbdFtVAFfAV"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
+        "name": "Way Back When",
+        "url": "https://open.spotify.com/album/3k73KfnQhfXxaHZmVbl6iO"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        },
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Way Back When",
+      "url": "https://open.spotify.com/track/7apK76b48hQ5ZDceVlgLOM"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
         "name": "Frequency",
         "url": "https://open.spotify.com/album/1g8qlyA71RSrEmU1I9FOzu"
       },
@@ -1991,26 +1991,6 @@
       "duration_ms": 189500,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/1CpWvNIGcsDYHd1ZL7uY9v"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
-        "name": "Flex / Who Pree",
-        "url": "https://open.spotify.com/album/6aIiR6OUlH3NLuif02zW0Q"
-      },
-      "artists": [
-        {
-          "name": "Gray",
-          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
-        },
-        {
-          "name": "Stush",
-          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
-        }
-      ],
-      "duration_ms": 177613,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/43iYOEIWFCAmffD6Xs7Blz"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -2035,6 +2015,26 @@
       "duration_ms": 208457,
       "name": "Bad Sound - Isaac Maya Remix",
       "url": "https://open.spotify.com/track/7BAfA05A0WeeKNC32oYxWF"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
+        "name": "Flex / Who Pree",
+        "url": "https://open.spotify.com/album/6aIiR6OUlH3NLuif02zW0Q"
+      },
+      "artists": [
+        {
+          "name": "Gray",
+          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
+        },
+        {
+          "name": "Stush",
+          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
+        }
+      ],
+      "duration_ms": 177613,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/43iYOEIWFCAmffD6Xs7Blz"
     }
   ],
   "unique_name": "Proper Naughty ",

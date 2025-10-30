@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Minttu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,701 likes - 66 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,712 likes - 66 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

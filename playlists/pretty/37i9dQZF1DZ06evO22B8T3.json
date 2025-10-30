@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1308469,
+  "num_followers": 1308453,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAAqwTHQFsyUEI/bon+5AAvK",
+  "snapshot_id": "aQAHgAAAAADpMwldUU56G68CjfesLRHo",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+        "name": "Me Tiene Mal",
+        "url": "https://open.spotify.com/album/5lVYwFSulUNmH38NtjdHYV"
       },
       "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 256519,
-      "name": "Cuando Te Bes\u00e9",
-      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
+      "duration_ms": 250697,
+      "name": "Me Tiene Mal",
+      "url": "https://open.spotify.com/track/1lI3pfm02Fw6zajcGyxJsg"
     },
     {
       "added_at": null,
@@ -111,18 +107,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Tiene Mal",
-        "url": "https://open.spotify.com/album/5lVYwFSulUNmH38NtjdHYV"
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
       "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 250697,
-      "name": "Me Tiene Mal",
-      "url": "https://open.spotify.com/track/1lI3pfm02Fw6zajcGyxJsg"
+      "duration_ms": 256519,
+      "name": "Cuando Te Bes\u00e9",
+      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
     },
     {
       "added_at": null,

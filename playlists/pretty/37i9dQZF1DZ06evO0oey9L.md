@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,683 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,691 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 36 | [Se Oyen Recio Los Disparos](https://open.spotify.com/track/6qqICh8gOle9spzdSru35F) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 3:06 |
 | 37 | [Miran La Apariencia](https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:16 |
 | 38 | [Barrio Xolo](https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:06 |
-| 39 | [Dime x Que](https://open.spotify.com/track/67SiSGW15EcJe8muSJUNzU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Dime x Que](https://open.spotify.com/album/6ucVQoyr47QMbtc963azmg) | 2:53 |
-| 40 | [Paris & Grecia](https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Santiago Rdgz](https://open.spotify.com/artist/5RZmXdBhExWcBGjyZVSy1u), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [Juan Soler](https://open.spotify.com/artist/62we2Z4MfYSQknQesr1111) | [Paris & Grecia](https://open.spotify.com/album/3kufVIruxrPYRml0XECQka) | 2:45 |
+| 39 | [Paris & Grecia](https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Santiago Rdgz](https://open.spotify.com/artist/5RZmXdBhExWcBGjyZVSy1u), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [Juan Soler](https://open.spotify.com/artist/62we2Z4MfYSQknQesr1111) | [Paris & Grecia](https://open.spotify.com/album/3kufVIruxrPYRml0XECQka) | 2:45 |
+| 40 | [Dime x Que](https://open.spotify.com/track/67SiSGW15EcJe8muSJUNzU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Dime x Que](https://open.spotify.com/album/6ucVQoyr47QMbtc963azmg) | 2:53 |
 | 41 | [WAX](https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:17 |
 | 42 | [El Exceso Me Encanto](https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [El Exceso Me Encanto](https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0) | 2:40 |
 | 43 | [La Fiesta Ya Empezo](https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 49 | [Diamantes De Esfera](https://open.spotify.com/track/2G7lzDzR0Bz3x7LoD3r27I) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:00 |
 | 50 | [Al Millon Ando Yo](https://open.spotify.com/track/6NvAr4wSu5QmZjv141KRoZ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 2:24 |
 
-Snapshot ID: `aP62AAAAAABPfJNcJ9F0IQrQv2NLpBny`
+Snapshot ID: `aQAHgAAAAAD7AJFucV+fbQuHACt0zel9`

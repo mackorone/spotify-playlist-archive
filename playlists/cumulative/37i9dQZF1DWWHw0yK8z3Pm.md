@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: The Strumbellas
 
-617 songs - 1 day 13 hr 31 min
+618 songs - 1 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [68 \- Live](https://open.spotify.com/track/1cXJEjvnjVpAIVx5scVLY8) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/51JORfnib4vdjiXHAouErb) | 3:28 | 2023-09-08 | 2024-04-19 |
 | [68 \- Live](https://open.spotify.com/track/40TGxZwQQG6cDHelPqiQSp) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Live at Bo Bash 2021](https://open.spotify.com/album/58QZnkI7wZjq1OhHyBoo0M) | 3:28 | 2023-03-24 | 2023-09-14 |
 | [A Different Kind of Light](https://open.spotify.com/track/3u6wgdJSBtdusakLXnlFlE) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [A Different Kind of Light](https://open.spotify.com/album/3qX9FYZfQZNRr01F8P6AES) | 4:23 | 2022-08-26 | 2023-04-22 |
-| [A Good Sign](https://open.spotify.com/track/71bZM5Ds5U2sXxZJ30gsRO) | [Terra Lightfoot](https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq) | [Home Front](https://open.spotify.com/album/4blqqHdmSZJRL56US4mo8N) | 2:59 | 2025-10-17 |  |
+| [A Good Sign](https://open.spotify.com/track/71bZM5Ds5U2sXxZJ30gsRO) | [Terra Lightfoot](https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq) | [Home Front](https://open.spotify.com/album/4blqqHdmSZJRL56US4mo8N) | 2:59 | 2025-10-17 | 2025-10-30 |
 | [A Heart of Gold Is Hard to Find](https://open.spotify.com/track/5E6pYKegSu23icZLcIRCok) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [A Heart of Gold Is Hard to Find](https://open.spotify.com/album/6r7LEqLEJtrKiBkYKgBegM) | 2:20 | 2023-04-21 | 2024-02-18 |
 | [A Heart Of Gold Is Hard To Find](https://open.spotify.com/track/5yFs9fL1eIVT034HV8282J) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [A Heart of Gold Is Hard to Find](https://open.spotify.com/album/06JtBYFdMrc26oPswxRFQY) | 2:20 | 2024-02-16 | 2024-04-19 |
 | [A Lesson In Leavin’](https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [A Lesson In Leavin'](https://open.spotify.com/album/3rfYnj51q8xxwyn0NFjIyu) | 3:24 | 2025-07-25 |  |
@@ -95,6 +95,7 @@
 | [Broadview](https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Broadview](https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK) | 4:05 | 2023-08-25 | 2023-10-08 |
 | [Broken Heart of Mine](https://open.spotify.com/track/51gGRkh26NzsARpwOIHQ2X) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Stand in the Joy](https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49) | 3:52 | 2023-04-14 | 2023-06-24 |
 | [Broken Record](https://open.spotify.com/track/7JLELSaYvnK7lm4NHuRVEO) | [Bob Sumner](https://open.spotify.com/artist/6vgVIpaKWcjKvu8nqe5iBg) | [Broken Record](https://open.spotify.com/album/7ykEG2RL9QFSLFWBl7TbnH) | 3:18 | 2022-05-13 | 2023-04-22 |
+| [Burn Away](https://open.spotify.com/track/2f4e4a0ddIZ91CJ8ESjoV7) | [Cal Buckley](https://open.spotify.com/artist/18xvkpqAKICbkw8MvRecqQ) | [Burn Away](https://open.spotify.com/album/0vbjTFTkiPJSaJBeSCumJF) | 3:03 | 2025-10-06 |  |
 | [Burn Me Once \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/1wB4su0ngpr8Rnh96So3vJ) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:20 | 2023-12-08 | 2025-10-18 |
 | [Burn, Burn, Burn](https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Burn, Burn, Burn](https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR) | 4:28 | 2023-08-04 | 2025-10-18 |
 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 | 2023-04-21 | 2024-06-08 |

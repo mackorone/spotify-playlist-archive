@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: This is Lorelei
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,385 likes - 148 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,373 likes - 148 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

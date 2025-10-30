@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Camille Yembe
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,587 likes - 65 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,580 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 31 | [ENCORE!](https://open.spotify.com/track/5HEAExffQ9taEhirCvDKZS) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [ENCORE!](https://open.spotify.com/album/65SZnjdnG7PQt6HruiqQUY) | 2:06 |
 | 32 | [L'angle mort](https://open.spotify.com/track/6iI71ISS7X0T5nHHRYyjG9) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [L'angle mort](https://open.spotify.com/album/4CK0HSqv3dn1WfO0owPk28) | 2:22 |
 | 33 | [Crush](https://open.spotify.com/track/6KUSsnsYl1DVT2K6sHmsV7) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [La loi du papillon](https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3) | 3:14 |
-| 34 | [ALED](https://open.spotify.com/track/41hl3QWKVaFZMZTNZhrARK) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [EXIT](https://open.spotify.com/album/5k2kGcJwHBWckBy9aeKkGy) | 3:21 |
+| 34 | [ALED](https://open.spotify.com/track/41hl3QWKVaFZMZTNZhrARK) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [EXIT](https://open.spotify.com/album/5k2kGcJwHBWckBy9aeKkGy) | 3:20 |
 | 35 | [Mute](https://open.spotify.com/track/34UQRhA2ojdzFFa8EMygwP) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Mute](https://open.spotify.com/album/4PSAXUqddfh2lOwj9Hf0NA) | 2:53 |
 | 36 | [leader price](https://open.spotify.com/track/4DzSa5hqOPvoqE6cwt4Iav) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [grandes surfaces](https://open.spotify.com/album/4AOcbCgPxu07O1lEK2mnJQ) | 2:53 |
 | 37 | [La symphonie des éclairs](https://open.spotify.com/track/1E9HERI5XdI9ZZIgCw51QS) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 3:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,333 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,338 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 34 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 |
 | 35 | [想和你說說話](https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [愛的對白](https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV) | 3:05 |
 | 36 | [晴時多雲偶想你](https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [晴時多雲偶想你](https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a) | 4:48 |
-| 37 | [在這個清晨](https://open.spotify.com/track/2ZiTY57vnyNlTvRvQI7ZCY) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [在這個清晨](https://open.spotify.com/album/4ancqmWTgf0EvyCc0R6FcZ) | 3:40 |
+| 37 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
 | 38 | [等待你那天](https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [等待你那天](https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw) | 4:00 |
-| 39 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
+| 39 | [在這個清晨](https://open.spotify.com/track/2ZiTY57vnyNlTvRvQI7ZCY) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [在這個清晨](https://open.spotify.com/album/4ancqmWTgf0EvyCc0R6FcZ) | 3:40 |
 | 40 | [最後一根稻草](https://open.spotify.com/track/6NGAGgLTGxrWDQ53xra6Bb) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [最後一根稻草](https://open.spotify.com/album/7ivVAyNQMDiTMfE1RDp9oy) | 3:44 |
 | 41 | [旅行中忘記](https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [T.I.A.](https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi) | 3:54 |
 | 42 | [一起浪費時光的安全感](https://open.spotify.com/track/5yS3QUbj5ukfTVETtGmyGJ) | [楊宜蓉Wooly](https://open.spotify.com/artist/4yhGqaSsVlCIYDs7jb7F6a) | [一起浪費時光的安全感](https://open.spotify.com/album/1ekFKiOOaXT1za6Ef7HYJS) | 3:28 |

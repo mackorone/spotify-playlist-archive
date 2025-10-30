@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf42",
-  "num_followers": 141384,
+  "num_followers": 141411,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2025-10-24 04:01:02",
       "album": {
+        "name": "The Good Part",
+        "url": "https://open.spotify.com/album/5Un6QRQcTrPlf9HvcZ4Xd1"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "The Good Part",
+      "url": "https://open.spotify.com/track/7cCscSBdKzNWalP42xkNUM"
+    },
+    {
+      "added_at": "2025-10-24 04:01:02",
+      "album": {
         "name": "Uh Oh",
         "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 228613,
       "name": "Uh Oh",
       "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
-    },
-    {
-      "added_at": "2025-10-24 04:01:02",
-      "album": {
-        "name": "The Good Part",
-        "url": "https://open.spotify.com/album/5Un6QRQcTrPlf9HvcZ4Xd1"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "The Good Part",
-      "url": "https://open.spotify.com/track/7cCscSBdKzNWalP42xkNUM"
     },
     {
       "added_at": "2025-10-24 04:01:02",
@@ -407,18 +407,18 @@
     {
       "added_at": "2025-10-24 04:01:02",
       "album": {
-        "name": "Answers",
-        "url": "https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a"
+        "name": "A Week in Nashville",
+        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
       },
       "artists": [
         {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
         }
       ],
-      "duration_ms": 167732,
-      "name": "Answers",
-      "url": "https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch"
+      "duration_ms": 178823,
+      "name": "I Came Here to Leave You",
+      "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
     },
     {
       "added_at": "2025-10-24 04:01:02",
@@ -443,18 +443,18 @@
     {
       "added_at": "2025-10-24 04:01:02",
       "album": {
-        "name": "A Week in Nashville",
-        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
+        "name": "Answers",
+        "url": "https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 178823,
-      "name": "I Came Here to Leave You",
-      "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
+      "duration_ms": 167732,
+      "name": "Answers",
+      "url": "https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch"
     },
     {
       "added_at": "2025-10-24 04:01:02",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-10-24 04:01:02",
       "album": {
-        "name": "Un r\u00eave",
-        "url": "https://open.spotify.com/album/5ZJuJVEBM397cCYUpRfcb8"
-      },
-      "artists": [
-        {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
-        }
-      ],
-      "duration_ms": 191186,
-      "name": "Un r\u00eave",
-      "url": "https://open.spotify.com/track/0y8j2uk4HhhbcQKHy6feeE"
-    },
-    {
-      "added_at": "2025-10-24 04:01:02",
-      "album": {
         "name": "C'est tout, c'est rien",
         "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 173515,
       "name": "C'est tout, c'est rien",
       "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
+    },
+    {
+      "added_at": "2025-10-24 04:01:02",
+      "album": {
+        "name": "Un r\u00eave",
+        "url": "https://open.spotify.com/album/5ZJuJVEBM397cCYUpRfcb8"
+      },
+      "artists": [
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "duration_ms": 191186,
+      "name": "Un r\u00eave",
+      "url": "https://open.spotify.com/track/0y8j2uk4HhhbcQKHy6feeE"
     },
     {
       "added_at": "2025-10-24 04:01:02",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-10-24 04:01:02",
       "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
-      },
-      "artists": [
-        {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Passe ton chemin",
-      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
-    },
-    {
-      "added_at": "2025-10-24 04:01:02",
-      "album": {
         "name": "La mort des \u00e9toiles",
         "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 259733,
       "name": "La mort des \u00e9toiles",
       "url": "https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr"
+    },
+    {
+      "added_at": "2025-10-24 04:01:02",
+      "album": {
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+      },
+      "artists": [
+        {
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Passe ton chemin",
+      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
     },
     {
       "added_at": "2025-10-24 04:01:02",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-10-24 04:01:02",
       "album": {
-        "name": "Beau Bassin",
-        "url": "https://open.spotify.com/album/6YQ0k2zg4JThc0snaxgaeb"
-      },
-      "artists": [
-        {
-          "name": "Niall Mutter",
-          "url": "https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w"
-        }
-      ],
-      "duration_ms": 157420,
-      "name": "Beau Bassin",
-      "url": "https://open.spotify.com/track/3gMWoY91kSBm4TQwfxONUl"
-    },
-    {
-      "added_at": "2025-10-24 04:01:02",
-      "album": {
         "name": "Les joailliers (piano, voix)",
         "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 197111,
       "name": "Les joailliers (piano, voix)",
       "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
+    },
+    {
+      "added_at": "2025-10-24 04:01:02",
+      "album": {
+        "name": "Beau Bassin",
+        "url": "https://open.spotify.com/album/6YQ0k2zg4JThc0snaxgaeb"
+      },
+      "artists": [
+        {
+          "name": "Niall Mutter",
+          "url": "https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w"
+        }
+      ],
+      "duration_ms": 157420,
+      "name": "Beau Bassin",
+      "url": "https://open.spotify.com/track/3gMWoY91kSBm4TQwfxONUl"
     },
     {
       "added_at": "2025-10-24 04:01:02",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-10-24 04:01:02",
       "album": {
-        "name": "Elle danse",
-        "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
-      },
-      "artists": [
-        {
-          "name": "Mimi O'Bonsawin",
-          "url": "https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt"
-        }
-      ],
-      "duration_ms": 149015,
-      "name": "Elle danse",
-      "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
-    },
-    {
-      "added_at": "2025-10-24 04:01:02",
-      "album": {
         "name": "Swimmer",
         "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 187800,
       "name": "Tu ne seras jamais l\u00e0",
       "url": "https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL"
+    },
+    {
+      "added_at": "2025-10-24 04:01:02",
+      "album": {
+        "name": "Elle danse",
+        "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
+      },
+      "artists": [
+        {
+          "name": "Mimi O'Bonsawin",
+          "url": "https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt"
+        }
+      ],
+      "duration_ms": 149015,
+      "name": "Elle danse",
+      "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
     },
     {
       "added_at": "2025-10-24 04:01:02",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-10-24 04:01:02",
       "album": {
-        "name": "Cycle d\u00e9licat",
-        "url": "https://open.spotify.com/album/4hqEE1IiUlsdMHN5bNjclK"
-      },
-      "artists": [
-        {
-          "name": "Simon Lachance",
-          "url": "https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim"
-        }
-      ],
-      "duration_ms": 169346,
-      "name": "Lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7gftmvH7kAgf7ZM71Fyj3g"
-    },
-    {
-      "added_at": "2025-10-24 04:01:02",
-      "album": {
         "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
         "url": "https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 187893,
       "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
       "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
+    },
+    {
+      "added_at": "2025-10-24 04:01:02",
+      "album": {
+        "name": "Cycle d\u00e9licat",
+        "url": "https://open.spotify.com/album/4hqEE1IiUlsdMHN5bNjclK"
+      },
+      "artists": [
+        {
+          "name": "Simon Lachance",
+          "url": "https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim"
+        }
+      ],
+      "duration_ms": 169346,
+      "name": "Lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7gftmvH7kAgf7ZM71Fyj3g"
     },
     {
       "added_at": "2025-10-24 04:01:02",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2025-10-24 04:01:02",
       "album": {
-        "name": "Mixtape (part. 3)",
-        "url": "https://open.spotify.com/album/1JsS8yGtuPAL4Obkp9xIeS"
+        "name": "Altogether Unaccompanied, Vol. V",
+        "url": "https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT"
       },
       "artists": [
         {
-          "name": "Baroque Baroque",
-          "url": "https://open.spotify.com/artist/1QqhblRxfwVnkkCVgJkQ9I"
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 162500,
-      "name": "Carrousel",
-      "url": "https://open.spotify.com/track/7tXDdUUQNJqHtGB8Gsfqv4"
+      "duration_ms": 140178,
+      "name": "Silver and Red",
+      "url": "https://open.spotify.com/track/3F1E4OIeBjrsLUiukpbxsa"
     },
     {
       "added_at": "2025-10-24 04:01:02",

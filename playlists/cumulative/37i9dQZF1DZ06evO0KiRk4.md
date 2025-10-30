@@ -4,11 +4,11 @@
 
 > This is Florence + The Machine\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 32 min
+51 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Addicted To Love](https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:19 | 2025-10-28 |  |
+| [Addicted To Love](https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:19 | 2025-10-28 | 2025-10-30 |
 | [Big God](https://open.spotify.com/track/1NcXkWB3UwXfMt8izByICb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 4:01 | 2025-10-28 |  |
 | [Breath Of Life](https://open.spotify.com/track/4NMD8KWxZwCrff9uHhVqSn) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials](https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g) | 4:08 | 2025-10-28 |  |
 | [Cassandra](https://open.spotify.com/track/0z2BVrzRVNvmnFF37mDhev) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 4:17 | 2025-10-28 |  |
@@ -49,6 +49,7 @@
 | [South London Forever](https://open.spotify.com/track/3MZ7TxuXNnwYXm2KZGap5g) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 4:22 | 2025-10-28 |  |
 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/57yeWyaoeTt26p0dlEZukQ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ceremonials](https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g) | 3:38 | 2025-10-28 |  |
 | [Stand By Me](https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Songs From Final Fantasy XV](https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO) | 4:05 | 2025-10-28 |  |
+| [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 | 2025-10-30 |  |
 | [The End Of Love](https://open.spotify.com/track/1tpkN6z0Zd3wphAd3DASDX) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 4:41 | 2025-10-28 |  |
 | [Tiny Dancer](https://open.spotify.com/track/69sJBJdGogAYV74hmB0ORK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 6:01 | 2025-10-28 |  |
 | [What Kind Of Man](https://open.spotify.com/track/2kP1ujXHn0mNqFbiT3zob8) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 3:36 | 2025-10-28 |  |

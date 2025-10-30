@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-217 songs - 11 hr 57 min
+218 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Dead Man Walking](https://open.spotify.com/track/4j6lDQ7Nl4ClcTtur36CMN) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:16 | 2025-06-06 |  |
 | [Dead Presidents \(feat\. Jon Bellion\)](https://open.spotify.com/track/5zxTvYR4KtFVBdOVKWdLKM) | [Travis Mendes](https://open.spotify.com/artist/3PXLYt1l21hYC4eLDGVgT1), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Closure](https://open.spotify.com/album/14YwIucMmKcVi6IW2P9vt8) | 3:33 | 2025-06-06 |  |
 | [Death of Me](https://open.spotify.com/track/6K6zrtwS8CMXmPgorq22cq) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 4:02 | 2025-06-06 |  |
+| [DEFENSELESS](https://open.spotify.com/track/6BldH7peblFKnRUxHX0Ms8) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [DEFENSELESS](https://open.spotify.com/album/1iUmL0eYABJ74DcFBx6F7A) | 2:30 | 2025-10-29 |  |
 | [Deserve You](https://open.spotify.com/track/5NU40QTlXrDUJzDBdv79bg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:07 | 2025-06-06 |  |
 | [diamonds](https://open.spotify.com/track/4ESFcKe9Dumyh85dwevUWc) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:59 | 2025-06-06 |  |
 | [Die For You \(feat\. Dominic Fike\)](https://open.spotify.com/track/7aely3H8kMj9o0gt6vXHE1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2025-06-06 |  |

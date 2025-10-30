@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22190,
+  "num_followers": 22198,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-10-24 18:44:33",
       "album": {
+        "name": "Un Afrito",
+        "url": "https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Un Afrito",
+      "url": "https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc"
+    },
+    {
+      "added_at": "2025-10-24 18:44:33",
+      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
-    },
-    {
-      "added_at": "2025-10-24 18:44:33",
-      "album": {
-        "name": "Un Afrito",
-        "url": "https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Un Afrito",
-      "url": "https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc"
     },
     {
       "added_at": "2025-10-24 18:44:33",
@@ -575,26 +575,6 @@
     {
       "added_at": "2025-10-24 18:44:33",
       "album": {
-        "name": "Repare",
-        "url": "https://open.spotify.com/album/0rswlyKUDeI9dEbz9KgQOE"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 202245,
-      "name": "Repare",
-      "url": "https://open.spotify.com/track/5GDYaL3iDyvpIIGdnyYS1R"
-    },
-    {
-      "added_at": "2025-10-24 18:44:33",
-      "album": {
         "name": "Mar de Rosas",
         "url": "https://open.spotify.com/album/3ZWi0l4tbZgHmIt4vhrPxN"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 165000,
       "name": "Mar de Rosas",
       "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
+    },
+    {
+      "added_at": "2025-10-24 18:44:33",
+      "album": {
+        "name": "Repare",
+        "url": "https://open.spotify.com/album/0rswlyKUDeI9dEbz9KgQOE"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 202245,
+      "name": "Repare",
+      "url": "https://open.spotify.com/track/5GDYaL3iDyvpIIGdnyYS1R"
     },
     {
       "added_at": "2025-10-24 18:44:33",

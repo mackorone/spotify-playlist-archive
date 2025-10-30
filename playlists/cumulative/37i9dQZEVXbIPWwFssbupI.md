@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,481 songs - 5 day 10 hr 21 min
+2,482 songs - 5 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Belong Together](https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Rockwood](https://open.spotify.com/album/3Kb9vAa1RBNXEQltJpPxwE) | 2:28 | 2024-08-17 | 2024-09-18 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-06-16 | 2024-08-18 |
 | [Bentayga](https://open.spotify.com/track/6CNgL0k8WWLLsoSn19Wf0y) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [D&P à vie](https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF) | 4:37 | 2025-04-26 | 2025-05-03 |
+| [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-10-29 |  |
 | [Berline noire](https://open.spotify.com/track/7qROyJQ41KImPuBsJ7d8cU) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 3:15 | 2021-11-28 | 2021-12-02 |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-03-25 | 2023-10-30 |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-10 |
@@ -366,7 +367,7 @@
 | [Bruxelles je t’aime](https://open.spotify.com/track/4sOjKbpa7RLZVRNxcO26eb) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Bruxelles je t'aime](https://open.spotify.com/album/72XwipnC6NWfEd5BIWAXMp) | 3:48 | 2021-10-23 | 2021-12-05 |
 | [Brûle](https://open.spotify.com/track/4SsSjoHtxj70UG5W88i0Dy) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [M.A.N \(Black Roses & Lost Feelings\)](https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE) | 3:31 | 2022-03-20 | 2022-04-16 |
 | [BRÛLURES INDIENNES](https://open.spotify.com/track/24vDSi6wZW34oY8sTrgQf7) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 2:57 | 2023-03-18 | 2023-03-23 |
-| [BTRD](https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [BTRD](https://open.spotify.com/album/3W3X5NelHHpoxgoGg8V9CB) | 2:20 | 2025-08-15 |  |
+| [BTRD](https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [BTRD](https://open.spotify.com/album/3W3X5NelHHpoxgoGg8V9CB) | 2:20 | 2025-08-15 | 2025-10-30 |
 | [Business \(feat\. Naza\)](https://open.spotify.com/track/2Qzt61URbXBb9N2MSVDoDv) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:50 | 2023-06-14 | 2023-08-24 |
 | [Businessman](https://open.spotify.com/track/6Ut71PoNsLM9ubj5uLI7m4) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [R.A.T](https://open.spotify.com/album/2UJVbFBTuYHtwHk9FvkgGU) | 2:59 | 2025-07-01 | 2025-07-03 |
 | [Busy](https://open.spotify.com/track/1DVdbIySidKt0RdRrh7gg1) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Busy](https://open.spotify.com/album/6M9oPmqJzL4j4rQ2kZPPzu) | 2:35 | 2025-09-02 | 2025-09-04 |

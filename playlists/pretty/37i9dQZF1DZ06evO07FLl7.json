@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAABG80W0hAljz/sRsJ09GHsc",
+  "snapshot_id": "aQAHgAAAAABq8b49rt6uDRwNY+ceursC",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00e1ssia Reis",
+        "url": "https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 198784,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/4nrBZ1bxeP1JYL0jykNWOK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ostenta\u00e7\u00e3o da Cultura",
         "url": "https://open.spotify.com/album/5DpUob8vu7Fy8SgoBDfaeg"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 165333,
       "name": "Ostenta\u00e7\u00e3o da Cultura",
       "url": "https://open.spotify.com/track/048xJoXrJeWu1dtVy3clRZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e1ssia Reis",
-        "url": "https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 198784,
-      "name": "Primavera",
-      "url": "https://open.spotify.com/track/4nrBZ1bxeP1JYL0jykNWOK"
     },
     {
       "added_at": null,
@@ -715,6 +715,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bem Longe do Fim",
+        "url": "https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 213088,
+      "name": "Bem Longe do Fim",
+      "url": "https://open.spotify.com/track/2j3dKkYkaknKhACoUxlPMs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pr\u00f3spera",
+        "url": "https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 210182,
+      "name": "Me Diga",
+      "url": "https://open.spotify.com/track/7KA1Jat97Xaq1eKJKnIjRq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pr\u00f3spera D+",
         "url": "https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj"
       },
@@ -731,38 +763,6 @@
       "duration_ms": 240000,
       "name": "Me Beije",
       "url": "https://open.spotify.com/track/5jrcXyG8dp23qC71owIgNh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pr\u00f3spera",
-        "url": "https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 213198,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/2xDxwmGw4q5LRo8duRC0z5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bem Longe do Fim",
-        "url": "https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 213088,
-      "name": "Bem Longe do Fim",
-      "url": "https://open.spotify.com/track/2j3dKkYkaknKhACoUxlPMs"
     },
     {
       "added_at": null,
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 210182,
-      "name": "Me Diga",
-      "url": "https://open.spotify.com/track/7KA1Jat97Xaq1eKJKnIjRq"
+      "duration_ms": 213198,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/2xDxwmGw4q5LRo8duRC0z5"
     },
     {
       "added_at": null,

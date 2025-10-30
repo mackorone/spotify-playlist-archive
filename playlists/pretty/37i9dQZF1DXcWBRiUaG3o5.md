@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,888 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,157,722 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 52 | [Blanket](https://open.spotify.com/track/25CXUUZD2FDegmlHePvXvw) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Nordic Mellow](https://open.spotify.com/album/4pejz8zu3H1IwCIRAaAAOD) | 3:05 |
 | 53 | [Patchwork Heart](https://open.spotify.com/track/3ZfHhFVluSjgm9CNyuRvfp) | [Justin Wade Tam](https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi) | [Patchwork Heart](https://open.spotify.com/album/74fsUTkt92NugL0NSAN9Wk) | 3:59 |
 | 54 | [The Bells](https://open.spotify.com/track/0Lrw2If9v68OrhrOw1FV3C) | [From Indian Lakes](https://open.spotify.com/artist/3YvQkjWJ5ykJVUNP7YbTy9) | [Acoustic EP](https://open.spotify.com/album/7qrefGYj0VGyK601YKgxsx) | 4:44 |
-| 55 | [Ballroom](https://open.spotify.com/track/5cJukjG0TQDW3sfW5d7NO2) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 4:06 |
-| 56 | [I Should Live in Salt \- The National Cover \- Live from Spotify, London](https://open.spotify.com/track/1LF3VWJhOqD2VuuruLMSmu) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Spotify Live](https://open.spotify.com/album/315m5F9Xqwhfptakbs0fG8) | 4:12 |
+| 55 | [I Should Live in Salt \- The National Cover \- Live from Spotify, London](https://open.spotify.com/track/1LF3VWJhOqD2VuuruLMSmu) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Spotify Live](https://open.spotify.com/album/315m5F9Xqwhfptakbs0fG8) | 4:12 |
+| 56 | [Ballroom](https://open.spotify.com/track/5cJukjG0TQDW3sfW5d7NO2) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 4:06 |
 | 57 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 |
 | 58 | [Some Kind of Heaven](https://open.spotify.com/track/2lObD7vBRT6ZjyORWDIzLD) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Some Kind of Heaven](https://open.spotify.com/album/6XeaMbpgFQXOvE0QtQOIhH) | 5:10 |
 | 59 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 79 | [I Will Be Blessed](https://open.spotify.com/track/6cBUCs1geaG9q6HQPzRyL0) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG) | 5:31 |
 | 80 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 |
 | 81 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/4JKHACLkotsxdKNF9vJYOS) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/378rFsWTa7DZ8nZVHSaA18) | 3:39 |
-| 82 | [Poison & Wine](https://open.spotify.com/track/3wsZYuHJrk3lssa7V7jvye) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:39 |
-| 83 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 |
-| 84 | [I Knew This Would Be Love](https://open.spotify.com/track/6r44uyKRo3jKFRkThTZBXu) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Fire Escape](https://open.spotify.com/album/0bY6NsCY29oavs7TUmKUvD) | 3:30 |
+| 82 | [I Knew This Would Be Love](https://open.spotify.com/track/6r44uyKRo3jKFRkThTZBXu) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Fire Escape](https://open.spotify.com/album/0bY6NsCY29oavs7TUmKUvD) | 3:30 |
+| 83 | [Poison & Wine](https://open.spotify.com/track/3wsZYuHJrk3lssa7V7jvye) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:39 |
+| 84 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 |
 | 85 | [Before the Sun](https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Before the Sun](https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2) | 2:48 |
 | 86 | [All Is Well](https://open.spotify.com/track/77vpyfnzo1ROWQERRRe21h) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [All Is Well](https://open.spotify.com/album/2p28pzBcrJHjxCBgWV9Exa) | 4:16 |
 | 87 | [Motion Sickness \(Demo \- Bonus Track\)](https://open.spotify.com/track/2JxSX1MtCIAxHGlas7ysJs) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/1p16WxrdVBNIAAxbpZMWJR) | 4:24 |

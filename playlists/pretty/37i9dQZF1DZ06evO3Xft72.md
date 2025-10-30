@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 
 > This is Def Leppard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,211 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,238 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 49 | [Stand By Me](https://open.spotify.com/track/1889ajXyw09z2Mh3hSNxb6) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Stand By Me](https://open.spotify.com/album/5AUCHgDd5Wx8BfQrQsyyTs) | 3:10 |
 | 50 | [Personal Jesus \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Spotify Singles](https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6) | 3:56 |
 
-Snapshot ID: `aP62AAAAAABiWo1q2tV68W24wxv8H+9o`
+Snapshot ID: `aQAHgAAAAACVeC2/3KZbQJRoMtWwgu0l`

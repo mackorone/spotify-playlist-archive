@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,122 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,118 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 20 | [Lettre à France](https://open.spotify.com/track/7wOv0Qd3aKaDEw0QplvJzl) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Coucou Me Revoilou](https://open.spotify.com/album/3wqj1dmx9XqLSdPGwaWEDk) | 4:50 |
 | 21 | [Alexandrie Alexandra](https://open.spotify.com/track/2e9Sa881KIjKK0y86iNZ6C) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Magnolias for Ever](https://open.spotify.com/album/3Q7plxq5RjD1ba3L6vslrM) | 4:22 |
 | 22 | [Je survivrai](https://open.spotify.com/track/5y74lcKWh9u3F7NP1bcUXV) | [Regine](https://open.spotify.com/artist/2RhiWS0GZaDS22fguBZ1f2) | [Les 50 plus belles chansons](https://open.spotify.com/album/1ZTF0dEVmL0sXSUecpvBu0) | 3:10 |
-| 23 | [Je suis malade](https://open.spotify.com/track/4Qzdktws811tv59fMf7CBz) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [Je Suis Malade](https://open.spotify.com/album/6TdQpl3zNMInvcyJLrkBM0) | 4:09 |
-| 24 | [Du côte de chez Swann](https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH) | [Dave](https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg) | [Dave](https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o) | 3:00 |
-| 25 | [La ballade des gens heureux](https://open.spotify.com/track/0hO4TgWkyR3XiI6P3x731B) | [Gérard Lenorman](https://open.spotify.com/artist/5yyYswdvKadmf03amOvBDx) | [Les plus belles chansons de Gérard Lenorman](https://open.spotify.com/album/7yjQwjm48h8sP04y5w2thf) | 3:17 |
-| 26 | [Si maman si \- Remasterisé en 2004](https://open.spotify.com/track/6NvKOWV0UnBPAaO76D4JxS) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Dancing Disco \(Remasterisé en 2004\)](https://open.spotify.com/album/2OV5w1EvwvFUcn0PEoFAxB) | 2:58 |
+| 23 | [Du côte de chez Swann](https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH) | [Dave](https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg) | [Dave](https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o) | 3:00 |
+| 24 | [Je suis malade](https://open.spotify.com/track/4Qzdktws811tv59fMf7CBz) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [Je Suis Malade](https://open.spotify.com/album/6TdQpl3zNMInvcyJLrkBM0) | 4:09 |
+| 25 | [Si maman si \- Remasterisé en 2004](https://open.spotify.com/track/6NvKOWV0UnBPAaO76D4JxS) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Dancing Disco \(Remasterisé en 2004\)](https://open.spotify.com/album/2OV5w1EvwvFUcn0PEoFAxB) | 2:58 |
+| 26 | [La ballade des gens heureux](https://open.spotify.com/track/0hO4TgWkyR3XiI6P3x731B) | [Gérard Lenorman](https://open.spotify.com/artist/5yyYswdvKadmf03amOvBDx) | [Les plus belles chansons de Gérard Lenorman](https://open.spotify.com/album/7yjQwjm48h8sP04y5w2thf) | 3:17 |
 | 27 | [Sur la route de Memphis](https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Sur La Route De Memphis](https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ) | 2:53 |
 | 28 | [Gigi l'amoroso](https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 7:28 |
 | 29 | [Mamy Blue](https://open.spotify.com/track/0DB1tWW1bAnixC5MaWuLHX) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Visage](https://open.spotify.com/album/0npsDEKpr3sMr0AGjIFZ7f) | 3:52 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 39 | [J'ai dix ans](https://open.spotify.com/track/3pWBtajUyESxMhyxWD78zR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [J'ai dix ans](https://open.spotify.com/album/61ELXLv7SrKIdL3Gf22ERQ) | 3:02 |
 | 40 | [On ira tous au paradis](https://open.spotify.com/track/58bRgUVRgeHrrGfqR7v96k) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Best Of 2003](https://open.spotify.com/album/6uoHpvJlZvaREOR1Z3Lu8i) | 4:33 |
 | 41 | [Téléphone\-moi](https://open.spotify.com/track/5zILwyLYKdDRgMBfuOZYob) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Téléphone\-moi / Tu m'avais dit \- Single](https://open.spotify.com/album/3Z8ys5UIyDtytg6pfsKAUS) | 3:10 |
-| 42 | [Le téléphone pleure](https://open.spotify.com/track/4cAeq0pjjvWxFfy7NL3XSD) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ), [Frédérique](https://open.spotify.com/artist/38dqh4zX6r6OBMW0cjtjSI) | [Le mal aimé / Le téléphone pleure](https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD) | 4:05 |
-| 43 | [La musique](https://open.spotify.com/track/3fVhJWtJvWOFWriulfKBh3) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Il Est Mort Le Soleil](https://open.spotify.com/album/0MFLG2QTNGADxHK0kH8tWd) | 3:27 |
+| 42 | [La musique](https://open.spotify.com/track/3fVhJWtJvWOFWriulfKBh3) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Il Est Mort Le Soleil](https://open.spotify.com/album/0MFLG2QTNGADxHK0kH8tWd) | 3:27 |
+| 43 | [Le téléphone pleure](https://open.spotify.com/track/4cAeq0pjjvWxFfy7NL3XSD) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ), [Frédérique](https://open.spotify.com/artist/38dqh4zX6r6OBMW0cjtjSI) | [Le mal aimé / Le téléphone pleure](https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD) | 4:05 |
 | 44 | [L'aigle noir](https://open.spotify.com/track/1GAMoIHawNWhdq0a22vT4E) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [Les 50 Plus Belles Chansons De Barbara](https://open.spotify.com/album/23ZuuZarpj66WtoFqbmN12) | 4:54 |
 | 45 | [Ça balance pas mal à Paris \- Remasterisé en 2002](https://open.spotify.com/track/3MyUnoqEPeCANpFyLYXBhN) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4), [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Pour Me Comprendre \(40 titres\)](https://open.spotify.com/album/1Nkz53Btm6laHVLRo595DZ) | 2:16 |
 | 46 | [Où sont les femmes](https://open.spotify.com/track/0aWA84zzPPadF7I0N9tSRb) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Paris By Night](https://open.spotify.com/album/7wMa3V484gRTpUFKvZ8GkZ) | 6:16 |

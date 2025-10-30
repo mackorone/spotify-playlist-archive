@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RExasEAf6p.md) - [plain]
 
 > To: You, From: Anna <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,239 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,236 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

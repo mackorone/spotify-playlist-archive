@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIeCFU20wRm.md) - [plain]
 
 > Enter another dimension of classical music with these atmospheric Sci\-fi soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,664 likes - 47 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,754 likes - 47 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIeCFU20wRm.md) - [plain]
 | 4 | [Luke and Leia \- From "Star Wars: Return Of The Jedi"](https://open.spotify.com/track/0bYiHGOcXqFaxa0H6ru88X) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Anne\-Sophie Mutter](https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn), [The Recording Arts Orchestra of Los Angeles](https://open.spotify.com/artist/3AoVnyEmfQVpxlVQOfooj1) | [Across The Stars](https://open.spotify.com/album/6UY5OurZWrE8FVVBFMvn7K) | 5:01 |
 | 5 | [Overture](https://open.spotify.com/track/1wlLWCKOYy3o2GlVR1szY2) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [TRON: Legacy](https://open.spotify.com/album/2GC8kfyiyPjyheUUWyEY8F) | 2:28 |
 | 6 | [Memory Is A Voyager](https://open.spotify.com/track/6p5OZvP8NGfKSjdqr5o3g8) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Spaceman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hdVK33BZMAAtFM428XGqr) | 2:56 |
-| 7 | [Sakamoto: solari](https://open.spotify.com/track/1yp9xapvzXJ6b7jin86HjO) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [solari](https://open.spotify.com/album/5pweojtaklLhDo7qdNVEBr) | 2:45 |
+| 7 | [solari](https://open.spotify.com/track/1yp9xapvzXJ6b7jin86HjO) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [solari](https://open.spotify.com/album/5pweojtaklLhDo7qdNVEBr) | 2:45 |
 | 8 | [Make History](https://open.spotify.com/track/3cs78hXzKzrsx2xexZZYHr) | [Danny Bensi and Saunder Jurriaans](https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2) | [Night Sky \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2nmesQ2rKBppaPu8kcKf62) | 1:13 |
 | 9 | [Obi\-Wan](https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Obi\-Wan Kenobi \(Original Soundtrack\)](https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma) | 4:06 |
 | 10 | [Invasion Main Title \- From "Invasion"](https://open.spotify.com/track/1jYHpFrJkXfDfOGlLDevTS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Invasion Main Title \(From "Invasion"\)](https://open.spotify.com/album/4nTgXALKpr4TfilVVM7dNG) | 1:16 |

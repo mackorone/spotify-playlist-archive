@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Myshaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,597 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,628 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 64 | [Come Over \- Radio Version](https://open.spotify.com/track/2aDH6OBWFOHDt1OSz2IwBt) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Come Over](https://open.spotify.com/album/1bc5Ork15j61m1sdKnC5t5) | 4:04 |
 | 65 | [Power of Love \- Reggae](https://open.spotify.com/track/5FW9a89r3hjYtOCyuDMORD) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN) | [Power of Love \(Reggae\)](https://open.spotify.com/album/4Dmq6VCmupTaY7YOZhz089) | 3:15 |
 | 66 | [Island King](https://open.spotify.com/track/6eDyCEs63asmKPLRIBL3wc) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs), [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6) | [This Is X](https://open.spotify.com/album/1Ll3kmja01oIbbLKJkLv7t) | 3:49 |
-| 67 | [One Way](https://open.spotify.com/track/3NEXN45dcu8xBrjRvSgKon) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [One Way](https://open.spotify.com/album/424aV8BFksWTncxaEKmGD5) | 3:08 |
-| 68 | [Milk & Honey](https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Milk & Honey](https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2) | 4:20 |
+| 67 | [Milk & Honey](https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Milk & Honey](https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2) | 4:20 |
+| 68 | [One Way](https://open.spotify.com/track/3NEXN45dcu8xBrjRvSgKon) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [One Way](https://open.spotify.com/album/424aV8BFksWTncxaEKmGD5) | 3:08 |
 | 69 | [Better Off On A Beach](https://open.spotify.com/track/4ZOoHIATFCuBrvQnsGbFbm) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Last Sip of Summer](https://open.spotify.com/album/0XiXSefXS6syX87Z6UQ5vo) | 3:06 |
 | 70 | [That's The Way It Is](https://open.spotify.com/track/7KqpvPegNT530G3nAIfZ49) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Folau](https://open.spotify.com/artist/0jj9Os8Krjis4OFaps08Km) | [That's The Way It Is](https://open.spotify.com/album/6pbOzrWNjX71ImAKpJSlvu) | 3:51 |
 | 71 | [Fill up](https://open.spotify.com/track/2UsNajkLbFnlv5W66kye1c) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN), [High Watah](https://open.spotify.com/artist/2DbSnI45Eg3JrxL9L307hi) | [Fill up](https://open.spotify.com/album/66OW4rYGHM6ZtugV4FIiBL) | 2:55 |

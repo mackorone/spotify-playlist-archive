@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. Curada por Sol Ortega.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,907 likes - 23 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,910 likes - 23 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 13 | [Queen Of Swords](https://open.spotify.com/track/2PSjplBcb9xHYgZdTurg88) | [Desirée Falessi](https://open.spotify.com/artist/3YPJmqPLtlrRR4oiJquoNF) | [Queen Of Swords](https://open.spotify.com/album/7eHRGdkgXkVP8nVkxLrCa0) | 6:41 |
 | 14 | [Máquina De Experiencias](https://open.spotify.com/track/4H3ahu5ghqt7PwKr2ff2TA) | [PAMPA](https://open.spotify.com/artist/5tWAMlHCmAZl5gJQJjFwmS) | [Barreras Mentales](https://open.spotify.com/album/7yGaBonx8PctSKnPlf4mmY) | 5:00 |
 | 15 | [Gatekeeper](https://open.spotify.com/track/2N82rmvgNW6ApPIeR3uJ0C) | [TINKERHELL](https://open.spotify.com/artist/0Y1HdImRNp7q0Qfw8dhmWF) | [Gatekeeper](https://open.spotify.com/album/7Ibyl4ZQcPOvJBlxtM3f5Q) | 6:33 |
-| 16 | [Maniac Girl](https://open.spotify.com/track/5tQXuFK64dK0sQ7j5oHRsm) | [Gina Demarchi](https://open.spotify.com/artist/7hqmhjZKJeV1zIxWcpBKNY) | [Lady Tazz presents Hermanas \(Part Two\)](https://open.spotify.com/album/48Sgw03L7rcXljlwKMhlWG) | 5:24 |
-| 17 | [Nothing Feels Right](https://open.spotify.com/track/5Q66rYlhfXkhrJ3F80FIxE) | [Julieta Kopp](https://open.spotify.com/artist/5fczVg2llLHrH7bqRerVH6) | [Clergy 10 Years \| Echo](https://open.spotify.com/album/0LnF4BpITs92ejMuaciBJt) | 5:54 |
+| 16 | [Nothing Feels Right](https://open.spotify.com/track/5Q66rYlhfXkhrJ3F80FIxE) | [Julieta Kopp](https://open.spotify.com/artist/5fczVg2llLHrH7bqRerVH6) | [Clergy 10 Years \| Echo](https://open.spotify.com/album/0LnF4BpITs92ejMuaciBJt) | 5:54 |
+| 17 | [Maniac Girl](https://open.spotify.com/track/5tQXuFK64dK0sQ7j5oHRsm) | [Gina Demarchi](https://open.spotify.com/artist/7hqmhjZKJeV1zIxWcpBKNY) | [Lady Tazz presents Hermanas \(Part Two\)](https://open.spotify.com/album/48Sgw03L7rcXljlwKMhlWG) | 5:24 |
 | 18 | [8 Bit Robot](https://open.spotify.com/track/0YkrjTgapBLGdF71CGtiBi) | [Melanie Massa](https://open.spotify.com/artist/2WgwO7cZsu6jA0XbGKnZE3) | [Vanishes](https://open.spotify.com/album/44FNhylmi7hN78Mr9w4ohF) | 6:18 |
 | 19 | [Stay](https://open.spotify.com/track/4p2XptEA66p6QBpPo75CG7) | [Pert](https://open.spotify.com/artist/17HOo5fFjJngXgPQhwUAf0) | [Stay](https://open.spotify.com/album/0EUb4OCzSjUASNg1jwzH3K) | 4:43 |
 | 20 | [The labyrinth trapped you](https://open.spotify.com/track/3sO1Vc43sVbprXnpRpv0rr) | [Cia Rebeck](https://open.spotify.com/artist/6xUdgbtLYC7vFdAKr5nP44) | [The labyrinth trapped you \[DK004\]](https://open.spotify.com/album/1VUSzqXDKRCfX5o8mpC9dp) | 5:31 |

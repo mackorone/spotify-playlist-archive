@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,249 likes - 75 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,437 likes - 75 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 33 | [Norðrljós](https://open.spotify.com/track/0Sjps7HTP1MUPUXqBMXTt0) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Norðrljós](https://open.spotify.com/album/4UC8HNvhmz0b0ZspOcbmCa) | 3:20 |
 | 34 | [Ella](https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Ella](https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9) | 3:54 |
 | 35 | [The Elm](https://open.spotify.com/track/6kGb58FphWqHUAbDQyw72G) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Lunar Falls](https://open.spotify.com/album/1HUzttzwHcJeFyIBGeLXL3) | 3:30 |
-| 36 | [Vindr](https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR) | [Asynje](https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ), [Nanna Barslev](https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI) | [Galdr](https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn) | 5:18 |
-| 37 | [Umai](https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ) | [Shireen](https://open.spotify.com/artist/5seY97ZUURo9gKO34z2G06) | [Matriarch](https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD) | 6:18 |
+| 36 | [Umai](https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ) | [Shireen](https://open.spotify.com/artist/5seY97ZUURo9gKO34z2G06) | [Matriarch](https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD) | 6:18 |
+| 37 | [Vindr](https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR) | [Asynje](https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ), [Nanna Barslev](https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI) | [Galdr](https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn) | 5:18 |
 | 38 | [Blot](https://open.spotify.com/track/0YYZwCwlj4LVEsQxPPJJmf) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Blot](https://open.spotify.com/album/1ADhesMd0cTTjL8Vv44Idf) | 5:13 |
 | 39 | [Spine](https://open.spotify.com/track/5RH4pMfRt8d0jZQjk0fx3q) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Spine](https://open.spotify.com/album/4suNaIAqTmYMRHobGkoNQK) | 4:03 |
 | 40 | [Gnosis](https://open.spotify.com/track/6cn4fBdGfBaBhhEB67V39P) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Gnosis](https://open.spotify.com/album/1YzQD6gRvgqJrjHPe4spGF) | 4:35 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 51 | [Akva \- Live](https://open.spotify.com/track/5sCfp94Viu01VFQlNL1Zf2) | [KAUAN](https://open.spotify.com/artist/2QgzO1Z5XYu9zj3nOYsXUa) | [Akva \(Live\)](https://open.spotify.com/album/0vJfKqs1FC63IShbggiyyu) | 6:44 |
 | 52 | [Huginn ok Muninn](https://open.spotify.com/track/2Xxvm29k94TTwGmAX7UhBA) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Huginn ok Muninn](https://open.spotify.com/album/29kFr26QuyvyBsRyzwrFkb) | 5:13 |
 | 53 | [Ethel](https://open.spotify.com/track/2kDFEgMbmQ0rmt1mAeI7fp) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [Ethel](https://open.spotify.com/album/4IbI4W9JAiPWXUMFmkXjVG) | 3:39 |
-| 54 | [Adler fliegen](https://open.spotify.com/track/0zhifYXC21jjDwivaFBgQU) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Adler fliegen](https://open.spotify.com/album/2sRCokQ9XwnEPPGt5OwbYL) | 3:38 |
-| 55 | [Hersir](https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Hersir](https://open.spotify.com/album/0A00Ykp2mAq35Ob6sQmqzD) | 2:25 |
+| 54 | [Hersir](https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Hersir](https://open.spotify.com/album/0A00Ykp2mAq35Ob6sQmqzD) | 2:25 |
+| 55 | [Adler fliegen](https://open.spotify.com/track/0zhifYXC21jjDwivaFBgQU) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Adler fliegen](https://open.spotify.com/album/2sRCokQ9XwnEPPGt5OwbYL) | 3:38 |
 | 56 | [Set the Sails](https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA) | [Storm Seeker](https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c) | [Set the Sails](https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c) | 3:16 |
 | 57 | [Anaia](https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC) | [IANAI](https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh), [Client N](https://open.spotify.com/artist/4ItT2MdjEl4l5HrxkWT9QF) | [Sunir](https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA) | 6:38 |
 | 58 | [Breaking from the Fold](https://open.spotify.com/track/6UKKQXlf8CC719Ra5LlCfv) | [Triddana](https://open.spotify.com/artist/0roc2y8jlLS01zexM1Uumb) | [Breaking from the Fold](https://open.spotify.com/album/6QCAQYvJvxs6CxKij68p1F) | 4:02 |

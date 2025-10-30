@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAU6+4Bd5UF5K9KlXikC/qp",
+  "snapshot_id": "AAAAAAAAAABd54dv7dC/9swHKtArLjti",
   "tracks": [
     {
       "added_at": "2025-10-24 03:00:00",
@@ -27,18 +27,18 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "Seek & Destroy",
-        "url": "https://open.spotify.com/album/1HGpNVvKDpSUu8dbnItK47"
+        "name": "In The End (from the Memento Mori Sessions)",
+        "url": "https://open.spotify.com/album/5UyZdsqROt34B6fGR6j1zm"
       },
       "artists": [
         {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 414560,
-      "name": "Seek & Destroy",
-      "url": "https://open.spotify.com/track/0YpQy96LlfTKcaKM8M9E0J"
+      "duration_ms": 203997,
+      "name": "In The End - from the Memento Mori Sessions",
+      "url": "https://open.spotify.com/track/7bHzLpZBL0gl71VYoTqgpF"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -67,6 +67,22 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
+        "name": "Seek & Destroy",
+        "url": "https://open.spotify.com/album/1HGpNVvKDpSUu8dbnItK47"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 414560,
+      "name": "Seek & Destroy",
+      "url": "https://open.spotify.com/track/0YpQy96LlfTKcaKM8M9E0J"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
         "name": "Lizard (2025 David Singleton Elemental Mix)",
         "url": "https://open.spotify.com/album/1UfojoqiWBYbUd3hM2RGt3"
       },
@@ -76,25 +92,9 @@
           "url": "https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Dawn Song - Elemental Mix",
-      "url": "https://open.spotify.com/track/2pUaG7WEO6wIOkjyWVojLN"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
-        "name": "In The End (from the Memento Mori Sessions)",
-        "url": "https://open.spotify.com/album/5UyZdsqROt34B6fGR6j1zm"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 203997,
-      "name": "In The End - from the Memento Mori Sessions",
-      "url": "https://open.spotify.com/track/7bHzLpZBL0gl71VYoTqgpF"
+      "duration_ms": 172000,
+      "name": "Lady Of The Dancing Water - Elemental Mix",
+      "url": "https://open.spotify.com/track/5ZeAmUfZcTnVmxnL9PGF3j"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "Nebraska '82: Expanded Edition",
-        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 300360,
-      "name": "Losin' Kind - Nebraska Outtakes",
-      "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
         "name": "I Can't Give Everything Away E.P",
         "url": "https://open.spotify.com/album/2jrcP1ebPB2bMqG2xSjL9b"
       },
@@ -215,6 +199,22 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
+        "name": "Nebraska '82: Expanded Edition",
+        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 300360,
+      "name": "Losin' Kind - Nebraska Outtakes",
+      "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
         "name": "Conduit of Dawn",
         "url": "https://open.spotify.com/album/0Jsk5A6omZXTAIbwskWjhK"
       },
@@ -251,18 +251,18 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "Music For Everyone Vol .2",
-        "url": "https://open.spotify.com/album/3Pf5Jtp5XIBNVoxAC6Ig4i"
+        "name": "Everybody Knows",
+        "url": "https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs"
       },
       "artists": [
         {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
         }
       ],
-      "duration_ms": 190194,
-      "name": "The Pattern",
-      "url": "https://open.spotify.com/track/00cLtR2kbecamCC4HVQe0o"
+      "duration_ms": 199617,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "Everybody Knows",
-        "url": "https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs"
+        "name": "Music For Everyone Vol .2",
+        "url": "https://open.spotify.com/album/3Pf5Jtp5XIBNVoxAC6Ig4i"
       },
       "artists": [
         {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 199617,
-      "name": "Everybody Knows",
-      "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
+      "duration_ms": 190194,
+      "name": "The Pattern",
+      "url": "https://open.spotify.com/track/00cLtR2kbecamCC4HVQe0o"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -315,26 +315,6 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "Little Glee Monster 10th Anniversary Live \u201cCELEBRATE\u201d",
-        "url": "https://open.spotify.com/album/7ll27GNHhdjotiF508lz5b"
-      },
-      "artists": [
-        {
-          "name": "Little Glee Monster",
-          "url": "https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp"
-        },
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 593352,
-      "name": "\uff1cCELEBRATE\uff1e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c9\u30ec\u30fc - Little Glee Monster 10th Anniversary Live \u201cCELEBRATE\u201d",
-      "url": "https://open.spotify.com/track/3HRQlB5arYBrirosCP4Lrq"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
         "name": "Forever (Legendary Edition)",
         "url": "https://open.spotify.com/album/2eWMDbh3Igz3si1aX4a7Wv"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 205509,
       "name": "I Wrote You A Song (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/4NfzPsD8owLf1tdIDbLb7c"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
+        "name": "Little Glee Monster 10th Anniversary Live \u201cCELEBRATE\u201d",
+        "url": "https://open.spotify.com/album/7ll27GNHhdjotiF508lz5b"
+      },
+      "artists": [
+        {
+          "name": "Little Glee Monster",
+          "url": "https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp"
+        },
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 593352,
+      "name": "\uff1cCELEBRATE\uff1e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c9\u30ec\u30fc - Little Glee Monster 10th Anniversary Live \u201cCELEBRATE\u201d",
+      "url": "https://open.spotify.com/track/3HRQlB5arYBrirosCP4Lrq"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
+        "name": "Rueda De Las Emociones",
+        "url": "https://open.spotify.com/album/2F4NWhbEdnH7frz7rQJG7E"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "duration_ms": 186070,
+      "name": "Rueda De Las Emociones",
+      "url": "https://open.spotify.com/track/01bBP7aVniuH73VNsYej7Y"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
         "name": "La Camisa Negra (Versi\u00f3n Cumbia)",
         "url": "https://open.spotify.com/album/0qFbOPF8edLe0DIvwHKhPF"
       },
@@ -419,46 +435,22 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "Rueda De Las Emociones",
-        "url": "https://open.spotify.com/album/2F4NWhbEdnH7frz7rQJG7E"
+        "name": "La Rueda de la Fortuna",
+        "url": "https://open.spotify.com/album/32aDQ92B1uE2ZVaaHMDIbu"
       },
       "artists": [
         {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        },
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
         }
       ],
-      "duration_ms": 186070,
-      "name": "Rueda De Las Emociones",
-      "url": "https://open.spotify.com/track/01bBP7aVniuH73VNsYej7Y"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
-        "name": "\u2605 V\u00eda Lo Orozco \u2605",
-        "url": "https://open.spotify.com/album/47KX5jJMeO0vaFamzQIEjN"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        },
-        {
-          "name": "Javiera Parra",
-          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
-        },
-        {
-          "name": "Nando Garc\u00eda",
-          "url": "https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf"
-        },
-        {
-          "name": "Laurela",
-          "url": "https://open.spotify.com/artist/6fw8yY5PcFEUHwCXH5dsHP"
-        }
-      ],
-      "duration_ms": 241393,
-      "name": "Oro \ud81a\udd13",
-      "url": "https://open.spotify.com/track/6AnTV3S5dzZvlUEbkwAcbO"
+      "duration_ms": 201839,
+      "name": "La rueda de la fortuna",
+      "url": "https://open.spotify.com/track/28N9Ywd3xPZvYx9LUMyICA"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -487,26 +479,6 @@
       "duration_ms": 233000,
       "name": "Oyeloh",
       "url": "https://open.spotify.com/track/6kqxIuiUZ0UTAFg1PWqypl"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
-        "name": "La Rueda de la Fortuna",
-        "url": "https://open.spotify.com/album/32aDQ92B1uE2ZVaaHMDIbu"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        },
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        }
-      ],
-      "duration_ms": 201839,
-      "name": "La rueda de la fortuna",
-      "url": "https://open.spotify.com/track/28N9Ywd3xPZvYx9LUMyICA"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -643,6 +615,42 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
+        "name": "Misogyny",
+        "url": "https://open.spotify.com/album/1UzUVAimqdkb7u4YEFAvr2"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 188768,
+      "name": "Misogyny",
+      "url": "https://open.spotify.com/track/4Oy6eTbEaMj1ouejqVt0N3"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
+        "name": "Sex & Death",
+        "url": "https://open.spotify.com/album/4tavJ3FRjrTqUHMs9wCKU2"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        },
+        {
+          "name": "Killed By Deaf",
+          "url": "https://open.spotify.com/artist/6wGlLIhHRd6ipikm5x3EnB"
+        }
+      ],
+      "duration_ms": 124600,
+      "name": "Sex & Death",
+      "url": "https://open.spotify.com/track/4B5OpVsHLNEUSJJnCXetu0"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
       },
@@ -679,42 +687,6 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "Sex & Death",
-        "url": "https://open.spotify.com/album/4tavJ3FRjrTqUHMs9wCKU2"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        },
-        {
-          "name": "Killed By Deaf",
-          "url": "https://open.spotify.com/artist/6wGlLIhHRd6ipikm5x3EnB"
-        }
-      ],
-      "duration_ms": 124600,
-      "name": "Sex & Death",
-      "url": "https://open.spotify.com/track/4B5OpVsHLNEUSJJnCXetu0"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
-        "name": "Misogyny",
-        "url": "https://open.spotify.com/album/1UzUVAimqdkb7u4YEFAvr2"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 188768,
-      "name": "Misogyny",
-      "url": "https://open.spotify.com/track/4Oy6eTbEaMj1ouejqVt0N3"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
         "name": "Lovin\u2019 You",
         "url": "https://open.spotify.com/album/3fijEGcrAekKI671fBSQqq"
       },
@@ -727,26 +699,6 @@
       "duration_ms": 264440,
       "name": "Heavy News",
       "url": "https://open.spotify.com/track/32Jbn1IXeii4UTgYleslgA"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
-        "name": "Creatures of Chaos (feat. Theory of a Deadman)",
-        "url": "https://open.spotify.com/album/1RQT8ZutB8ORXrEIp1x7Jc"
-      },
-      "artists": [
-        {
-          "name": "The Rasmus",
-          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
-        },
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Creatures of Chaos (feat. Theory of a Deadman)",
-      "url": "https://open.spotify.com/track/7G2M8F2ytUFbE1LtMthviD"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -771,18 +723,22 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "I Saw Her Standing There 2 (Shepperton Tour Rehearsal / 1978)",
-        "url": "https://open.spotify.com/album/153WbbfQt3FqHt04PUj0ii"
+        "name": "Creatures of Chaos (feat. Theory of a Deadman)",
+        "url": "https://open.spotify.com/album/1RQT8ZutB8ORXrEIp1x7Jc"
       },
       "artists": [
         {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        },
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
         }
       ],
-      "duration_ms": 209880,
-      "name": "I Saw Her Standing There 2 - Shepperton Tour Rehearsal / 1978",
-      "url": "https://open.spotify.com/track/7zTF0MKT65fABwQ8btx3bM"
+      "duration_ms": 201290,
+      "name": "Creatures of Chaos (feat. Theory of a Deadman)",
+      "url": "https://open.spotify.com/track/7G2M8F2ytUFbE1LtMthviD"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -803,6 +759,22 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
+        "name": "I Saw Her Standing There 2 (Shepperton Tour Rehearsal / 1978)",
+        "url": "https://open.spotify.com/album/153WbbfQt3FqHt04PUj0ii"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 209880,
+      "name": "I Saw Her Standing There 2 - Shepperton Tour Rehearsal / 1978",
+      "url": "https://open.spotify.com/track/7zTF0MKT65fABwQ8btx3bM"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
         "name": "Road to Rouen (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7fBIvX1GNDgPE8OAi7wmiW"
       },
@@ -819,22 +791,6 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "Wind Of Change (On Stage)",
-        "url": "https://open.spotify.com/album/2dS7qHtDTnNxZjF1OclZWP"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Wind Of Change - On Stage",
-      "url": "https://open.spotify.com/track/3SttHkLRcYG1LnVILfTyA8"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
         "name": "Blood Dynasty (Expanded Deluxe Edition)",
         "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
       },
@@ -847,6 +803,22 @@
       "duration_ms": 241300,
       "name": "Moths",
       "url": "https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
+        "name": "Wind Of Change (On Stage)",
+        "url": "https://open.spotify.com/album/2dS7qHtDTnNxZjF1OclZWP"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Wind Of Change - On Stage",
+      "url": "https://open.spotify.com/track/3SttHkLRcYG1LnVILfTyA8"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -883,26 +855,6 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "Age of Aquarius",
-        "url": "https://open.spotify.com/album/3ZXd4o2kk2UjDcfpQnZjMN"
-      },
-      "artists": [
-        {
-          "name": "Perturbator",
-          "url": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
-        },
-        {
-          "name": "Alcest",
-          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
-        }
-      ],
-      "duration_ms": 619573,
-      "name": "Age of Aquarius",
-      "url": "https://open.spotify.com/track/1JcM4MxvCEqIsN3r0Ap6qX"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
         "name": "Horizons/West",
         "url": "https://open.spotify.com/album/5ntbH8ZQsmgZELd2zWCRCs"
       },
@@ -912,29 +864,9 @@
           "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
         }
       ],
-      "duration_ms": 232306,
-      "name": "Distant Suns",
-      "url": "https://open.spotify.com/track/3G1YQH1gv75nlf9ySwuydn"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
-        "name": "Inti-Illimani & Los Bunkers (feat. Los Bunkers)",
-        "url": "https://open.spotify.com/album/2W8jTKYF6au2HTGz2ie86F"
-      },
-      "artists": [
-        {
-          "name": "Inti-Illimani",
-          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
-        },
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 217916,
-      "name": "Lo que m\u00e1s quiero (feat. Los Bunkers)",
-      "url": "https://open.spotify.com/track/1qRHtrLCN91tKBKTOIVle9"
+      "duration_ms": 249640,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/4BHLPXPPUKktlQusIjtTgE"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -959,18 +891,22 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "Best Of The Death Metal Years 1991-1995",
-        "url": "https://open.spotify.com/album/3vp3EN4CkD6tok4Q5EwjfG"
+        "name": "Inti-Illimani & Los Bunkers (feat. Los Bunkers)",
+        "url": "https://open.spotify.com/album/2W8jTKYF6au2HTGz2ie86F"
       },
       "artists": [
         {
-          "name": "Therion",
-          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        },
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
         }
       ],
-      "duration_ms": 164480,
-      "name": "Ravaged - BONUS: Re-recorded unused song from - 92",
-      "url": "https://open.spotify.com/track/1jX6Djr1TEkBv337kjmrQE"
+      "duration_ms": 217916,
+      "name": "Lo que m\u00e1s quiero (feat. Los Bunkers)",
+      "url": "https://open.spotify.com/track/1qRHtrLCN91tKBKTOIVle9"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -991,18 +927,38 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "Cherry Coke",
-        "url": "https://open.spotify.com/album/1iVbvkiUE4Cq4QOnxL63Sl"
+        "name": "Age of Aquarius",
+        "url": "https://open.spotify.com/album/3ZXd4o2kk2UjDcfpQnZjMN"
       },
       "artists": [
         {
-          "name": "Emarosa",
-          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+          "name": "Perturbator",
+          "url": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
+        },
+        {
+          "name": "Alcest",
+          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
         }
       ],
-      "duration_ms": 189409,
-      "name": "Cherry Coke",
-      "url": "https://open.spotify.com/track/5XZeaVv3jGm93zjSSkmqYz"
+      "duration_ms": 619573,
+      "name": "Age of Aquarius",
+      "url": "https://open.spotify.com/track/1JcM4MxvCEqIsN3r0Ap6qX"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
+        "name": "Best Of The Death Metal Years 1991-1995",
+        "url": "https://open.spotify.com/album/3vp3EN4CkD6tok4Q5EwjfG"
+      },
+      "artists": [
+        {
+          "name": "Therion",
+          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
+        }
+      ],
+      "duration_ms": 164480,
+      "name": "Ravaged - BONUS: Re-recorded unused song from - 92",
+      "url": "https://open.spotify.com/track/1jX6Djr1TEkBv337kjmrQE"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -1023,6 +979,38 @@
       "duration_ms": 180081,
       "name": "Sugar (feat JoJo)",
       "url": "https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
+        "name": "The Devil",
+        "url": "https://open.spotify.com/album/0i9Dvcfm1HbIVvxolNSTIh"
+      },
+      "artists": [
+        {
+          "name": "Blutengel",
+          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "The Devil",
+      "url": "https://open.spotify.com/track/4Y0wWYvofq3ERGmv7i3IvX"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
+        "name": "Cherry Coke",
+        "url": "https://open.spotify.com/album/1iVbvkiUE4Cq4QOnxL63Sl"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "duration_ms": 189409,
+      "name": "Cherry Coke",
+      "url": "https://open.spotify.com/track/5XZeaVv3jGm93zjSSkmqYz"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -1055,22 +1043,6 @@
       "duration_ms": 210253,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/1mWDGYOoSA7Md1gaOqzokh"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
-        "name": "The Devil",
-        "url": "https://open.spotify.com/album/0i9Dvcfm1HbIVvxolNSTIh"
-      },
-      "artists": [
-        {
-          "name": "Blutengel",
-          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "The Devil",
-      "url": "https://open.spotify.com/track/4Y0wWYvofq3ERGmv7i3IvX"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -1127,22 +1099,6 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "CRY MORRY",
-        "url": "https://open.spotify.com/album/6F7JNpuUPuxKWDnsn7fufR"
-      },
-      "artists": [
-        {
-          "name": "mama.",
-          "url": "https://open.spotify.com/artist/0yCsusacKrR1dqmgIJty1F"
-        }
-      ],
-      "duration_ms": 95029,
-      "name": "\u6c34\u6b7b\u4f53\u3067\u898b\u3064\u304b\u308b",
-      "url": "https://open.spotify.com/track/7KNCXzQj7lgR3VLuJw67kK"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/4uujRzS9mKerxDDf3GcbhO"
       },
@@ -1159,18 +1115,18 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "Where Are You Christmas?",
-        "url": "https://open.spotify.com/album/2ThNTAN9IGLdp0xuRLDy0J"
+        "name": "CRY MORRY",
+        "url": "https://open.spotify.com/album/6F7JNpuUPuxKWDnsn7fufR"
       },
       "artists": [
         {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          "name": "mama.",
+          "url": "https://open.spotify.com/artist/0yCsusacKrR1dqmgIJty1F"
         }
       ],
-      "duration_ms": 188545,
-      "name": "Where Are You Christmas?",
-      "url": "https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1"
+      "duration_ms": 95029,
+      "name": "\u6c34\u6b7b\u4f53\u3067\u898b\u3064\u304b\u308b",
+      "url": "https://open.spotify.com/track/7KNCXzQj7lgR3VLuJw67kK"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -1211,6 +1167,22 @@
       "duration_ms": 142200,
       "name": "Act My Age",
       "url": "https://open.spotify.com/track/6FLgbmA2wN7VGTwkTr0JTm"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
+        "name": "Where Are You Christmas?",
+        "url": "https://open.spotify.com/album/2ThNTAN9IGLdp0xuRLDy0J"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 188545,
+      "name": "Where Are You Christmas?",
+      "url": "https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1"
     },
     {
       "added_at": "2025-10-24 03:00:00",
@@ -1307,26 +1279,6 @@
     {
       "added_at": "2025-10-24 03:00:00",
       "album": {
-        "name": "El Cielo De Mi Ni\u00f1ez",
-        "url": "https://open.spotify.com/album/0YZBLHARxgsjot2DFuitBN"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
-        },
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 162816,
-      "name": "El Cielo De Mi Ni\u00f1ez",
-      "url": "https://open.spotify.com/track/5xVMXcEtOMSSLw8o0FEo9s"
-    },
-    {
-      "added_at": "2025-10-24 03:00:00",
-      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/4HsXytmoILivrPcyPDJ6h6"
       },
@@ -1343,6 +1295,26 @@
       "duration_ms": 240000,
       "name": "Healing",
       "url": "https://open.spotify.com/track/1L7govHKhECvhB1sg6QxGx"
+    },
+    {
+      "added_at": "2025-10-24 03:00:00",
+      "album": {
+        "name": "El Cielo De Mi Ni\u00f1ez",
+        "url": "https://open.spotify.com/album/0YZBLHARxgsjot2DFuitBN"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 162816,
+      "name": "El Cielo De Mi Ni\u00f1ez",
+      "url": "https://open.spotify.com/track/5xVMXcEtOMSSLw8o0FEo9s"
     },
     {
       "added_at": "2025-10-24 03:00:00",

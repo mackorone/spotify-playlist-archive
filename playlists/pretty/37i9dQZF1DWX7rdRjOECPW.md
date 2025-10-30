@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Der Sommer neigt sich dem Ende 🥲 \- und das waren die Sommerhits  2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,598,066 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,597,887 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 59 | [Burn](https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Burn](https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE) | 2:38 |
 | 60 | [Kumbaya](https://open.spotify.com/track/4y6rZU5JCcDrksYDq7CMAY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Kumbaya](https://open.spotify.com/album/7oZ3sI01WJZqdo1ijWxKrO) | 3:02 |
 | 61 | [Home \(feat\. Tom Walker\)](https://open.spotify.com/track/76Cui452ccAdNSbiileyhZ) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Home \(feat\. Tom Walker\)](https://open.spotify.com/album/5EygxhcU2bCDPUirGRF3UE) | 3:16 |
-| 62 | [Shine Like Stars](https://open.spotify.com/track/1k2OaUl9NGaBA4wa3Ommvc) | [Benji](https://open.spotify.com/artist/4VmGrnGFwIKUkAGfKfeVOo) | [Shine Like Stars](https://open.spotify.com/album/1I2mvRHxNIPa5HeHaVjtWn) | 3:46 |
-| 63 | [Summer Baby](https://open.spotify.com/track/1OH0dxRdfoKbZG9ubxiT7I) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb) | [Summer Baby](https://open.spotify.com/album/7la8ldIlZqwMs1hgFFJVPG) | 2:23 |
+| 62 | [Summer Baby](https://open.spotify.com/track/1OH0dxRdfoKbZG9ubxiT7I) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb) | [Summer Baby](https://open.spotify.com/album/7la8ldIlZqwMs1hgFFJVPG) | 2:23 |
+| 63 | [Shine Like Stars](https://open.spotify.com/track/1k2OaUl9NGaBA4wa3Ommvc) | [Benji](https://open.spotify.com/artist/4VmGrnGFwIKUkAGfKfeVOo) | [Shine Like Stars](https://open.spotify.com/album/1I2mvRHxNIPa5HeHaVjtWn) | 3:46 |
 | 64 | [Born Again](https://open.spotify.com/track/04S8gIcwrcm97fNZKtSGXX) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Born Again](https://open.spotify.com/album/3sCDeEFzmAnapVbmkLGKmt) | 3:37 |
 | 65 | [Away](https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Away](https://open.spotify.com/album/32uPiN6yCNSZI6AJ5BmylD) | 3:58 |
 | 66 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [By Your Side \(In My Mind\)](https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy) | 2:57 |

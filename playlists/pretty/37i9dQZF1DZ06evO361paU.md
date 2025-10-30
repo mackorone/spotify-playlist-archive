@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 
 > This is Lenny Kravitz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,200 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,231 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 18 | [The Chamber](https://open.spotify.com/track/3qvFtKlZ9MV0VYUeZ3EC2A) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH) | 4:57 |
 | 19 | [Calling All Angels](https://open.spotify.com/track/2nxzEMUmIhSJeGBaXgh30x) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 5:12 |
 | 20 | [Human](https://open.spotify.com/track/5HwyIGJ82WAAC49zsFoI8i) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 4:27 |
-| 21 | [Borders \[Feat\. Lenny Kravitz\]](https://open.spotify.com/track/11mnQTviVTw9tazgtV4hGA) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ghetto Lenny's Love Songs](https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF) | 3:53 |
-| 22 | [If You Can't Say No](https://open.spotify.com/track/5J221XVh7Kxg2bC4IWQ19n) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 5:17 |
+| 21 | [If You Can't Say No](https://open.spotify.com/track/5J221XVh7Kxg2bC4IWQ19n) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 5:17 |
+| 22 | [Borders \[Feat\. Lenny Kravitz\]](https://open.spotify.com/track/11mnQTviVTw9tazgtV4hGA) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ghetto Lenny's Love Songs](https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF) | 3:53 |
 | 23 | [Believe](https://open.spotify.com/track/6x9t21Gl6bRhOrgigur7wK) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 4:54 |
 | 24 | [I'll Be Waiting](https://open.spotify.com/track/2HPVtKMWRlP1r9ODenvePM) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [It Is Time For A Love Revolution](https://open.spotify.com/album/5n8PfxHoukvHzyRmzr1Eqb) | 4:19 |
 | 25 | [Believe In Me](https://open.spotify.com/track/7aJjhQlplwtUS7emsLIEWC) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Lenny](https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU) | 4:40 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 38 | [California](https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 2:36 |
 | 39 | [Paralyzed](https://open.spotify.com/track/3q44HY8PBUSUVFuy8Uboxh) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 4:28 |
 | 40 | [Is It Me, Is It You](https://open.spotify.com/track/69IRcCUIKG2CecXMGJd057) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus \(Deluxe\)](https://open.spotify.com/album/1V4I2ePRIjgcxuGDJ3YF9G) | 3:51 |
-| 41 | [Eleutheria](https://open.spotify.com/track/7datu36O7lY60kKBOan48U) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 4:53 |
+| 41 | [Sugar](https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:58 |
 | 42 | [Minister Of Rock 'N Roll](https://open.spotify.com/track/0pafggX0BBzTFibjc9VeL7) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 3:34 |
 | 43 | [It’s Just Another Fine Day \(In This Universe of Love\)](https://open.spotify.com/track/4UE5VK4SyBvR21OU2O3h9P) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 6:19 |
 | 44 | [5 More Days 'Til Summer](https://open.spotify.com/track/6s6wtH2xGE4PIT4NlcRqqE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 4:02 |
-| 45 | [Sugar](https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:58 |
+| 45 | [Eleutheria](https://open.spotify.com/track/7datu36O7lY60kKBOan48U) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 4:53 |
 | 46 | [Lady](https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 4:15 |
 | 47 | [Ride \(Edit\)](https://open.spotify.com/track/1nBZjJhrHIFy1vavFiluy9) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ride \(Edit\)](https://open.spotify.com/album/3P0bUyvkWgzD8IwVobUwZo) | 3:40 |
 | 48 | [More Than Anything In This World](https://open.spotify.com/track/1UWyfK84h7uPHMEPf8qba2) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 3:28 |
 | 49 | [Circus \- Acoustic Version](https://open.spotify.com/track/40YtxwWmxuoqnRE7BIbIqM) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus \(Deluxe\)](https://open.spotify.com/album/1V4I2ePRIjgcxuGDJ3YF9G) | 5:13 |
 | 50 | [Little Girl's Eyes](https://open.spotify.com/track/3JvKhMWM71THA9WIX6x8o6) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 7:44 |
 
-Snapshot ID: `aP62AAAAAABvCrn2P+1nYTzeuvPGddFn`
+Snapshot ID: `aQAHgAAAAADhEne6APQPlOuKz6Pagb4+`

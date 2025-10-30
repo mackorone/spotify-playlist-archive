@@ -2,7 +2,7 @@
 
 ### [^\_^ All kittydog songs](https://open.spotify.com/playlist/4PTwL8zhsUOQU9yYVJjn8N)
 
-> Includes instrumentals , collabs, ect ect
+> Includes instrumentals , collabs, ect blahblah balb yeah their other songs are on her soundcloud ! These r js all the song they made on spotify
 
 196 songs - 6 hr 35 min
 

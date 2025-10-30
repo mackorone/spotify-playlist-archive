@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 
 > This is Sum 41\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,984 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,986 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 27 | [Handle This](https://open.spotify.com/track/6qi4wZ9nexHsIVWFFgE3wW) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:37 |
 | 28 | [Speak Of The Devil](https://open.spotify.com/track/3zdg1IMqKog1YNRpTjKDOB) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:58 |
 | 29 | [Waiting On A Twist Of Fate](https://open.spotify.com/track/4UuGBLZH6ANkF51PqLeXfP) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:46 |
-| 30 | [Turning Away](https://open.spotify.com/track/4y6UbERZs3PZ0qsPYqe0Cq) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:50 |
-| 31 | [Breaking The Chain](https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 4:03 |
+| 30 | [Breaking The Chain](https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 4:03 |
+| 31 | [Turning Away](https://open.spotify.com/track/4y6UbERZs3PZ0qsPYqe0Cq) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:50 |
 | 32 | [So Long Goodbye](https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:01 |
 | 33 | [I Can't Wait](https://open.spotify.com/track/3kuuGbu0mZbMqZ8gNKiXyo) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:05 |
 | 34 | [Rhythms](https://open.spotify.com/track/6t8phlQc47YhAF38sucBRw) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 49 | [Reason To Believe](https://open.spotify.com/track/4DJVmSP42li51r1C8zhURQ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 3:28 |
 | 50 | [The New Sensation](https://open.spotify.com/track/66rEcw8rK6iCc0UesDdqxs) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:50 |
 
-Snapshot ID: `aP62AAAAAAATyw8cbeXoU0u0WOmJ4x3N`
+Snapshot ID: `aQAHgAAAAAAYSfoAt3Q0vR0HwsYECBz4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1In9sy8Har4.md) - [plain]
 
 > The Official Snabba Cash Playlist\. Season 2 out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,814 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,816 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1In9sy8Har4.md) - [plain]
 | 15 | [Showstopper](https://open.spotify.com/track/2UxfXcmgmOIXQ5IqFxmZ1m) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Showstopper](https://open.spotify.com/album/3o68LAOwOy2TtJAAVCARPr) | 3:42 |
 | 16 | [Pulsar \(Sunrise Mix\)](https://open.spotify.com/track/2JGaeoz6KkmIylzGDIh77v) | [Eric Johnston](https://open.spotify.com/artist/74bHfGeqXhoELReCSP12cC) | [Electric Techno](https://open.spotify.com/album/0eeb9JYFmLLX4U8n1KK8Ox) | 5:19 |
 | 17 | [Gang Gang](https://open.spotify.com/track/2oyxiJUNdmcy8LY8UPaICk) | [Linda Pira](https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Legendarisk](https://open.spotify.com/album/0vxpKzAHf6U2z9u2rnWcrZ) | 2:16 |
-| 18 | [SKY](https://open.spotify.com/track/2nSkwEWIYJwoRjnnzTiX8c) | [Fungz](https://open.spotify.com/artist/12mbpzyxvmv9X0hEascBqo), [Blacky](https://open.spotify.com/artist/4vPryUsOzD7R9daRuvKwFz), [Abidaz](https://open.spotify.com/artist/58RMTlPJKbmpmVk1AmRK3h) | [SKY](https://open.spotify.com/album/6c83Xh6rod4WS7kQXLWcgy) | 3:02 |
+| 18 | [SKY](https://open.spotify.com/track/2nSkwEWIYJwoRjnnzTiX8c) | [Fungz](https://open.spotify.com/artist/12mbpzyxvmv9X0hEascBqo), [Blacky](https://open.spotify.com/artist/3b5AYOwf4OsPvls9v0PdeQ), [Abidaz](https://open.spotify.com/artist/58RMTlPJKbmpmVk1AmRK3h) | [SKY](https://open.spotify.com/album/6c83Xh6rod4WS7kQXLWcgy) | 3:02 |
 | 19 | [PEDIGREE](https://open.spotify.com/track/5ZoxbOd8nxtvzti0Ao7zSC) | [BENNETT](https://open.spotify.com/artist/0SiKXP7Ak60VxFUEcLFz8R) | [OCH DU HETER?](https://open.spotify.com/album/7CRGuS2wu8jgln4U3MRobe) | 3:24 |
 | 20 | [GANGSTER](https://open.spotify.com/track/6Wv079faQo140DbgBt0M3z) | [Lilla Namo](https://open.spotify.com/artist/2DsNd8GBB1y1J0XMq0nT6s) | [QUEENS](https://open.spotify.com/album/6VlXFys7aE3UOesOrd6SPf) | 3:03 |
 

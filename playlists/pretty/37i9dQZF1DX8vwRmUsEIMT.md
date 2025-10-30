@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Lily Allen
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,775 likes - 79 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,818 likes - 79 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 68 | [God Owes Me Money](https://open.spotify.com/track/6MmXxggQZ12nAVpeIeEXLT) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Owes Me Money](https://open.spotify.com/album/7tbEM7bL2urcY7uRoUyA78) | 3:21 |
 | 69 | [Two Years](https://open.spotify.com/track/2a9A4x3SfWSztDTMaUkNAG) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Two Years](https://open.spotify.com/album/7vU5EsVxO1ermbSGIRifkn) | 2:52 |
 | 70 | [Closer](https://open.spotify.com/track/3YrsjzxSlmE0x7PS5k4hqG) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Closer](https://open.spotify.com/album/0aOPrsRJgYeTYse9crHB1J) | 4:40 |
-| 71 | [Wrongs](https://open.spotify.com/track/1Us1V0tr91CIikNILQt3E6) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Wrongs](https://open.spotify.com/album/64w1Jeq4q8uF1EZFZiq1OT) | 2:58 |
+| 71 | [Wrongs](https://open.spotify.com/track/1Us1V0tr91CIikNILQt3E6) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Wrongs](https://open.spotify.com/album/64w1Jeq4q8uF1EZFZiq1OT) | 2:58 |
 | 72 | [You You You](https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You You You / Audrey Hepburn](https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu) | 2:46 |
 | 73 | [Stay In Your Lane](https://open.spotify.com/track/57PrllRlE4s9GIKnEzUcYv) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Stay In Your Lane](https://open.spotify.com/album/5BtTOMAFKV3byS0EidtQnc) | 3:14 |
 | 74 | [Disarray](https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Disarray](https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW) | 5:10 |

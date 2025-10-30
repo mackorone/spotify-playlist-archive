@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,191 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,178 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 24 | [Alegria](https://open.spotify.com/track/1SYDXvP1rahganh8t5plez) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:28 |
 | 25 | [Concrete Jungle](https://open.spotify.com/track/1vOUHuPjdTdxsyV42EOJbe) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/2ZGuZwHna0GJ8ApFJWoE9M) | 3:32 |
 | 26 | [Sonho Bossa Nova](https://open.spotify.com/track/2TE7vDdfiipXdXCcU7IKox) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Dança Entre Casais](https://open.spotify.com/album/6dI3aSsEFqAP5GDjG70WvA) | 3:52 |
-| 27 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
-| 28 | [Rio da Bossa Nova](https://open.spotify.com/track/5FjLOA14hdUgVqamAPvyVI) | [Beto Villares](https://open.spotify.com/artist/5buchbVIeExunKNBkTCxlt), [Ambulante Discos](https://open.spotify.com/artist/40WawbjztKIQFOdQRCQjLG) | [Excelentes Lugares Bonitos](https://open.spotify.com/album/1owWux16F84jwfPxHpds4w) | 3:26 |
+| 27 | [Rio da Bossa Nova](https://open.spotify.com/track/5FjLOA14hdUgVqamAPvyVI) | [Beto Villares](https://open.spotify.com/artist/5buchbVIeExunKNBkTCxlt), [Ambulante Discos](https://open.spotify.com/artist/40WawbjztKIQFOdQRCQjLG) | [Excelentes Lugares Bonitos](https://open.spotify.com/album/1owWux16F84jwfPxHpds4w) | 3:26 |
+| 28 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
 | 29 | [Ameixa](https://open.spotify.com/track/1OUvK0EOLn3Fef5t5tPhBf) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Fejuca](https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj) | [Ameixa](https://open.spotify.com/album/2EJPk2icebxltZSxX37dHz) | 4:06 |
 | 30 | [Quem Tem Um Amigo \(Tem Tudo\) \(feat\. Zeca Pagodinho & Tokyo Ska Paradise Orchestra\)](https://open.spotify.com/track/3t7dahQw060tKGj9PsXvH6) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Quem Tem Um Amigo \(Tem Tudo\)](https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3) | 4:09 |
 | 31 | [Notificação Ligada](https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq) | [Julian Campos](https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR) | [28](https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r) | 2:22 |

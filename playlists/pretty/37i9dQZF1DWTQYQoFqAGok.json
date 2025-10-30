@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 64240,
+  "num_followers": 64242,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -245,20 +245,20 @@
       "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
+      "added_at": "2023-04-12 01:24:34",
       "album": {
-        "name": "...Un Poco M\u00e1s",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
       },
       "artists": [
         {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
         }
       ],
-      "duration_ms": 370613,
-      "name": "Al Son de la Marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+      "duration_ms": 238000,
+      "name": "Jazztepec",
+      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
     },
     {
       "added_at": "2023-03-16 20:51:30",
@@ -279,6 +279,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "...Un Poco M\u00e1s",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 370613,
+      "name": "Al Son de la Marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Grandes de la Musica Instrumental",
         "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 113613,
       "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
       "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
-    },
-    {
-      "added_at": "2023-04-12 01:24:34",
-      "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Jazztepec",
-      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -407,22 +407,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Para Ser Libre",
-        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
-      },
-      "artists": [
-        {
-          "name": "Hilvana",
-          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
-        }
-      ],
-      "duration_ms": 193332,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Qui\u00e9n Eres T\u00fa?",
         "url": "https://open.spotify.com/album/6627kcDKivQe10EdHUDmok"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 350746,
       "name": "Qui\u00e9n Eres T\u00fa?",
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Para Ser Libre",
+        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
+      },
+      "artists": [
+        {
+          "name": "Hilvana",
+          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
+        }
+      ],
+      "duration_ms": 193332,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
     },
     {
       "added_at": "2022-08-16 16:23:25",
@@ -583,22 +583,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Oropeza Tr\u00edo",
-          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
-        }
-      ],
-      "duration_ms": 393786,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "D\u00edas Lentos",
         "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
       },
@@ -615,22 +599,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
-        "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
       },
       "artists": [
         {
-          "name": "Dannah Garay",
-          "url": "https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK"
-        },
-        {
-          "name": "Oscar Stagnaro",
-          "url": "https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3"
+          "name": "Adri\u00e1n Oropeza Tr\u00edo",
+          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
         }
       ],
-      "duration_ms": 217840,
-      "name": "Deb\u00ed Llorar",
-      "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
+      "duration_ms": 393786,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
     },
     {
       "added_at": "2022-08-09 18:38:23",
@@ -651,6 +631,26 @@
       "duration_ms": 182970,
       "name": "Tukumtak",
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
+        "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
+      },
+      "artists": [
+        {
+          "name": "Dannah Garay",
+          "url": "https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK"
+        },
+        {
+          "name": "Oscar Stagnaro",
+          "url": "https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3"
+        }
+      ],
+      "duration_ms": 217840,
+      "name": "Deb\u00ed Llorar",
+      "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -771,6 +771,30 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Triology",
+        "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
+      },
+      "artists": [
+        {
+          "name": "Eddie G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
+        },
+        {
+          "name": "Alberto Medina",
+          "url": "https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z"
+        },
+        {
+          "name": "Pablo Prieto",
+          "url": "https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25"
+        }
+      ],
+      "duration_ms": 428720,
+      "name": "Once I Loved",
+      "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Semillas De Copinol",
         "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
       },
@@ -803,30 +827,6 @@
       "duration_ms": 304213,
       "name": "Nada Es Para Siempre",
       "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Triology",
-        "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
-      },
-      "artists": [
-        {
-          "name": "Eddie G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
-        },
-        {
-          "name": "Alberto Medina",
-          "url": "https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z"
-        },
-        {
-          "name": "Pablo Prieto",
-          "url": "https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25"
-        }
-      ],
-      "duration_ms": 428720,
-      "name": "Once I Loved",
-      "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
     },
     {
       "added_at": "2021-07-28 16:44:28",

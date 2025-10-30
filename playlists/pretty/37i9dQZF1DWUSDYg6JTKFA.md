@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Find hope in Him in every note of these songs full of faith!
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,173 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,178 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 13 | [That's The Thing About Praise](https://open.spotify.com/track/3jWIXPUA6KAHoatVUAaxBv) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Benjamin William Hastings](https://open.spotify.com/album/1K9dbdsz6jagqTAkrHHSmk) | 3:57 |
 | 14 | [I Am Not Alone \- Live](https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 5:33 |
 | 15 | [God Is With Us](https://open.spotify.com/track/7LQMnGF4OAVX6JBqBpr9p5) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [God Is With Us](https://open.spotify.com/album/6nQo0N1ep6600BCQheax8w) | 3:46 |
-| 16 | [Oh Child](https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 2:41 |
-| 17 | [Hold On](https://open.spotify.com/track/27oqAdEmp480usR8hPV5Iq) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:55 |
+| 16 | [Hold On](https://open.spotify.com/track/27oqAdEmp480usR8hPV5Iq) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:55 |
+| 17 | [Oh Child](https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 2:41 |
 | 18 | [He Knows](https://open.spotify.com/track/1sglby2dgYxUyca0wcBRhw) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:28 |
 | 19 | [More Than Able \(feat\. Chandler Moore & Tiffany Hudson\)](https://open.spotify.com/track/0W8ibUIT6xe9LtWNJmyPim) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [More Than Able \(feat\. Chandler Moore & Tiffany Hudson\)](https://open.spotify.com/album/6Vb59gcwclWzcY5iFkrTOV) | 9:58 |
 | 20 | [Born Again](https://open.spotify.com/track/6UPzYldiFNx9jssIxwuyYv) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Wide Open](https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B) | 2:55 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 83 | [Big God](https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Big God](https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1) | 3:11 |
 | 84 | [If Everything Falls](https://open.spotify.com/track/1zGVjJFDiDEdbPad3Ge8gw) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [If Everything Falls](https://open.spotify.com/album/0IlodMh8kMQMmOsTznKfwz) | 3:53 |
 | 85 | [No Longer Slaves \(Radio Version\) \[feat\. Jonathan David Helser & Melissa Helser\]](https://open.spotify.com/track/37sWianweYMt42ZoSABn6y) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [No Longer Slaves \(Radio Version\) \[feat\. Jonathan David Helser & Melissa Helser\]](https://open.spotify.com/album/3R0kFFdsc82KAmQlH1WqG0) | 4:07 |
-| 86 | [Even Then](https://open.spotify.com/track/1y6Xu9iSTxUeUjDJyfu61e) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/68jTvE3jFe31IaDI6GdJFK) | 3:16 |
-| 87 | [My Light](https://open.spotify.com/track/2KD4v8UbJi44ZaPLeTm5t5) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [My Light](https://open.spotify.com/album/4pBtX6lfkeENkYIQ2vpus2) | 2:27 |
+| 86 | [My Light](https://open.spotify.com/track/2KD4v8UbJi44ZaPLeTm5t5) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [My Light](https://open.spotify.com/album/4pBtX6lfkeENkYIQ2vpus2) | 2:27 |
+| 87 | [Even Then](https://open.spotify.com/track/1y6Xu9iSTxUeUjDJyfu61e) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/68jTvE3jFe31IaDI6GdJFK) | 3:16 |
 | 88 | [Seasons](https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Christmas: The Peace Project](https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o) | 4:34 |
 | 89 | [Anything Can Happen \- Live](https://open.spotify.com/track/4C04WkKNOs4UoNTjHG8wm9) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Mayra Alvarez](https://open.spotify.com/artist/6zfJL7QGH50WkaMzJt1ztg) | [Anything Can Happen \(Live\)](https://open.spotify.com/album/2AUNTD6sYGwubSBMGGVyCz) | 4:01 |
 | 90 | [Hope Has a Name](https://open.spotify.com/track/6qzEwrOf3GGrqH7ijrxLli) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Million Lifetimes](https://open.spotify.com/album/6c0wkMQRpJeXiDgv74lklV) | 4:48 |

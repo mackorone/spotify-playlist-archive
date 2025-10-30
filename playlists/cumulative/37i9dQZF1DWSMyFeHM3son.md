@@ -78,7 +78,7 @@
 | [Flaws](https://open.spotify.com/track/67wABU4SjBlnDHB0KiU3HL) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/64fQ94AVziavTPdnkCS6Nj) | 3:38 | 2021-12-10 | 2022-04-20 |
 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 | 2024-01-22 |  |
 | [FOOLS](https://open.spotify.com/track/0tjfognbowyFM3RHTdxjPK) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:40 | 2021-12-10 | 2022-07-20 |
-| [Forrest Gump](https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:14 | 2021-12-10 |  |
+| [Forrest Gump](https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:14 | 2021-12-10 | 2025-10-30 |
 | [Gasoline](https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:19 | 2021-12-10 |  |
 | [Genesis](https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE) | 4:15 | 2021-12-10 | 2022-07-26 |
 | [Ghost](https://open.spotify.com/track/6tVOf8ZrPUUraR4rfFkoSG) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Room 93](https://open.spotify.com/album/2OIDVh8ubFC6sJs5wpZMP9) | 2:33 | 2021-12-10 | 2022-07-29 |
@@ -226,6 +226,6 @@
 | [Young And Beautiful](https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Young And Beautiful](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) | 3:56 | 2024-01-22 |  |
 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 | 2021-12-10 | 2022-04-21 |
 | [Youth](https://open.spotify.com/track/6tqzOYuE3lrNVPDgtF3MjM) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/6E76aabodIl5DW5BTEZPHG) | 4:13 | 2021-12-10 | 2022-05-24 |
-| [Youth](https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:50 | 2021-12-10 | 2025-10-29 |
+| [Youth](https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:50 | 2021-12-10 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

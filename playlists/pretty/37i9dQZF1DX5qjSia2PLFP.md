@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:4Uwx6qzRn0kA9sz6cCDpBO">Tkandz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,060 likes - 70 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,107 likes - 70 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 69 | [Eh](https://open.spotify.com/track/3pg4tQGG58DvyEI2PlCoYt) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Kman 6ixx](https://open.spotify.com/artist/5np2XqLanbxQzpEVFG0big) | [Eh](https://open.spotify.com/album/2Cib8n91qqK0FthCEE1NOX) | 2:47 |
 | 70 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 |
 
-Snapshot ID: `AAAAAEi9WlPle+wwwfOaPPu57u3bAwc7`
+Snapshot ID: `AAAAAMUD2tlBJ2DS3PyzMOwg+7LeqK/r`

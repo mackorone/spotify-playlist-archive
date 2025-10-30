@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Charlie Charles, Papa V , Capo Plaza, Mecna, Carla Hero e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,477 likes - 105 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,483 likes - 105 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 42 | [ADIOS](https://open.spotify.com/track/3DHsRuEJ7X5qxO5Am7YapB) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF), [Manerre](https://open.spotify.com/artist/2nuiMd2OKi9w052MfRims6) | [ADIOS](https://open.spotify.com/album/1LJdSX2CB8tDDt8YYag917) | 2:30 |
 | 43 | [bicchieri rotti](https://open.spotify.com/track/7uIT2e193lm1cMbvXDkVxA) | [Quest](https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw) | [bicchieri rotti](https://open.spotify.com/album/5fhYZviYzWggnePU5NVUNJ) | 2:47 |
 | 44 | [X prometaz\*\*\*](https://open.spotify.com/track/5RT74Rs8raBmN26uiCtXVd) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [X prometaz\*\*\*](https://open.spotify.com/album/05bn1GQdB5iI8gIpNVCFf2) | 2:07 |
-| 45 | [Mafia](https://open.spotify.com/track/1C58r5MSFMBnEUB2xdYWPL) | [LM219](https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ), [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn), [Babywyne](https://open.spotify.com/artist/55hqNIuyJgDQhJrW5NSfVk) | [Mafia](https://open.spotify.com/album/0lS792KdxxZ40DepYbVfpF) | 2:45 |
+| 45 | [Mafia](https://open.spotify.com/track/1C58r5MSFMBnEUB2xdYWPL) | [LM219](https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ), [Babywyne](https://open.spotify.com/artist/55hqNIuyJgDQhJrW5NSfVk) | [Mafia](https://open.spotify.com/album/0lS792KdxxZ40DepYbVfpF) | 2:45 |
 | 46 | [In Corridoio](https://open.spotify.com/track/6Y9jLIVGPe5tEXPkIuKfQC) | [Nader Shah](https://open.spotify.com/artist/0hzphYnZcEjlCT5nesxeV1) | [In corridoio](https://open.spotify.com/album/5tz32vRk91jiEh69I1t6yi) | 2:42 |
 | 47 | [Fuori dal mood](https://open.spotify.com/track/2w33ahLECv5jphiqRdA1MR) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [WVNNV](https://open.spotify.com/artist/1Z6904tiByLNOKUPLldxwp) | [Fuori dal mood](https://open.spotify.com/album/4lfUqx4OgXuDOfJ1xz97en) | 2:24 |
 | 48 | [Cose mai viste](https://open.spotify.com/track/0xiUhANBL83q9ulMKePbxG) | [Laïoung](https://open.spotify.com/artist/4RrtqH6egYYBfJrnLkhINz) | [Cose mai viste](https://open.spotify.com/album/1juxYaCBAkQaocWG03NMr9) | 3:43 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 85318,
+  "num_followers": 85328,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAABf//WkKXOcDunpe696UlbZ",
+  "snapshot_id": "aQAHgAAAAAA4QL/uJOI4h5u8daRneOBE",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shogun (Special Edition)",
-        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 352013,
-      "name": "Into the Mouth of Hell We March",
-      "url": "https://open.spotify.com/track/3sa04MWD0FcOorbzuGfaTZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shogun (Special Edition)",
+        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 352013,
+      "name": "Into the Mouth of Hell We March",
+      "url": "https://open.spotify.com/track/3sa04MWD0FcOorbzuGfaTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What The Dead Men Say",
         "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 204570,
-      "name": "Scattering The Ashes",
-      "url": "https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u"
+      "duration_ms": 340288,
+      "name": "Amongst The Shadows & The Stones",
+      "url": "https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shogun (Special Edition)",
-        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 714986,
-      "name": "Shogun",
-      "url": "https://open.spotify.com/track/5FaEX9EwutRqVvOZsJ27G3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silence in the Snow (Special Edition)",
         "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shogun (Special Edition)",
+        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 714986,
+      "name": "Shogun",
+      "url": "https://open.spotify.com/track/5FaEX9EwutRqVvOZsJ27G3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What The Dead Men Say",
         "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 340288,
-      "name": "Amongst The Shadows & The Stones",
-      "url": "https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB"
+      "duration_ms": 204570,
+      "name": "Scattering The Ashes",
+      "url": "https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u"
     },
     {
       "added_at": null,

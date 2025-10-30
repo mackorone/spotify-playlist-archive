@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,643 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,657 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 22 | [Pierrot](https://open.spotify.com/track/411fZBnpfU4eIDIZmDKswx) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:50 |
 | 23 | [My World](https://open.spotify.com/track/2Xiaplc23BureS4EDeE8xa) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 1:47 |
 | 24 | [Hello Bitches](https://open.spotify.com/track/72ysGFB4mZTgQsPqN9PzPS) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Hello Bitches](https://open.spotify.com/album/1pu6aEuAKBdTdQLSbfBNTG) | 2:58 |
-| 25 | [Go Go](https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:55 |
-| 26 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 |
+| 25 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 |
+| 26 | [Go Go](https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:55 |
 | 27 | [Good Parts \(when the quality is bad but I am\)](https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:36 |
 | 28 | [Kick It](https://open.spotify.com/track/3VN74YiIjtY5ouKahBjmRX) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/3qw2vm3uqKT3EIg95wbg83) | 3:11 |
 | 29 | [Anyone But You \(Feat\. MIRYO of Brown Eyed Girls\)](https://open.spotify.com/track/2Sprbw65iHnDNsmgbSoH7C) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [Miryo](https://open.spotify.com/artist/6wJGHv6dfPrZxFoZXXwtLO) | [Blooming Wings](https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP) | 2:28 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 53 | [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 |
 | 54 | [Pity Party](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Pity Party](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) | 3:10 |
 | 55 | [S.A.D](https://open.spotify.com/track/4m5fpN1QBvFPepYfmnXoa0) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [The Volunteers](https://open.spotify.com/album/4AvTCepiyBgj75o8ldFp6M) | 3:36 |
-| 56 | [Break](https://open.spotify.com/track/6ZY5lLjDmK6Bzon5vseYLn) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [12](https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE) | 3:04 |
-| 57 | [Goddess Level](https://open.spotify.com/track/0bFZXAWYbhEpcQKNvEJ7Ut) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Stamp On It \- The 1st Mini Album](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) | 3:11 |
-| 58 | [SHE'S FINE](https://open.spotify.com/track/7LbK25YpQpA44NVfJEC1EA) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [She's Fine](https://open.spotify.com/album/51k1opN4HpJph3cxAbuSah) | 2:31 |
-| 59 | [Flexing On My Ex](https://open.spotify.com/track/44iPFLk5ZdXu8wivdlTcJB) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 3:04 |
+| 56 | [Goddess Level](https://open.spotify.com/track/0bFZXAWYbhEpcQKNvEJ7Ut) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Stamp On It \- The 1st Mini Album](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) | 3:11 |
+| 57 | [Break](https://open.spotify.com/track/6ZY5lLjDmK6Bzon5vseYLn) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [12](https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE) | 3:04 |
+| 58 | [Flexing On My Ex](https://open.spotify.com/track/44iPFLk5ZdXu8wivdlTcJB) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 3:04 |
+| 59 | [SHE'S FINE](https://open.spotify.com/track/7LbK25YpQpA44NVfJEC1EA) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [She's Fine](https://open.spotify.com/album/51k1opN4HpJph3cxAbuSah) | 2:31 |
 | 60 | [나 홀로 집에 Home Alone](https://open.spotify.com/track/1Hp7T2xCx2AAfWejmJEdsP) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/5iolZ8XVFQP8lxZVBMXESZ) | 3:22 |
 
 Snapshot ID: `AAAAAKed2sQIHljp33QbVqI7gLboruVq`

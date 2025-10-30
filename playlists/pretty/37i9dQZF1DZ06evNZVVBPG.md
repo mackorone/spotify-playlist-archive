@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 
 > This is Lana Del Rey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,736,533 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,736,838 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 | 8 | [Chemtrails Over The Country Club](https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:31 |
 | 9 | [Salvatore](https://open.spotify.com/track/21qg0IBZf8R12qHd9A3AA4) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:41 |
 | 10 | [West Coast](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:16 |
-| 11 | [Stargirl Interlude](https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 1:51 |
-| 12 | [Sweet Carolina](https://open.spotify.com/track/1Hezl8gsPpfK3N2by41Wxb) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 3:21 |
+| 11 | [Sweet Carolina](https://open.spotify.com/track/1Hezl8gsPpfK3N2by41Wxb) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 3:21 |
+| 12 | [Stargirl Interlude](https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 1:51 |
 | 13 | [Video Games](https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu) | 4:41 |
 | 14 | [Sad Girl](https://open.spotify.com/track/11MyiSGZSYSmhhqwGUTtAq) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:17 |
 | 15 | [Art Deco](https://open.spotify.com/track/5jqNQZBwbZWQXPWfo0ygZF) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 | 49 | [Freak](https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:55 |
 | 50 | [In My Feelings](https://open.spotify.com/track/269xqcgGTN9PlivhUkOLhX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 3:58 |
 
-Snapshot ID: `aP62AAAAAADlZlM1x6766yR3fkoDI4/p`
+Snapshot ID: `aQAHgAAAAAAw0ID5aHSQPenaQvXuefrT`

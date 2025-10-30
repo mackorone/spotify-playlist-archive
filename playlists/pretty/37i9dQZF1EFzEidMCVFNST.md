@@ -286,8 +286,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 276 | [Forte Candidata \- Ao Vivo](https://open.spotify.com/track/0ArhfmiDFGqmEZE33xXH1S) | [Lipe & Lyan](https://open.spotify.com/artist/0V8z8kSUX83Zq7KKaqEJxD) | [Daqui pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/0ZGqMMjqP184TbUgVRNRfK) | 2:35 |
 | 277 | [Sem Querer Bebendo](https://open.spotify.com/track/7vF1hkvVDgPANldNKUTmsM) | [Mateuz M7](https://open.spotify.com/artist/007crq5snynGRn6kUTU4ww) | [Do Piseiro ao Pagodin](https://open.spotify.com/album/2pRsNZMtfIo5N574fuelhw) | 2:48 |
 | 278 | [Mentiroso](https://open.spotify.com/track/16JSs1ibLtVydL4Mf43w7x) | [Railan Soares](https://open.spotify.com/artist/1ZiAbjeFlD1GqnyYzDBLRQ), [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth) | [Mentiroso](https://open.spotify.com/album/2QJKRsYTO9IXpPaGJUlgcf) | 2:22 |
-| 279 | [Caras e bocas](https://open.spotify.com/track/5aSWdEReJnQVje2xKAfC9o) | [Renno](https://open.spotify.com/artist/3yWtLbJMXNarBl4CQRA1go) | [Pra dançar curtir e beber](https://open.spotify.com/album/4wmnObrGXUAT7ukQSQ20ve) | 2:24 |
-| 280 | [Apaga Apaga Apaga](https://open.spotify.com/track/0AblU4v5EVSvYuH2iddLox) | [Chupando Halles](https://open.spotify.com/artist/0AZuVrycUN3ZPRBIY4Wca0) | [Chupando Halles \(Ao Vivo em Aracaju\)](https://open.spotify.com/album/0jV4XKftXfuBFzwoL9J0DJ) | 4:12 |
+| 279 | [Apaga Apaga Apaga](https://open.spotify.com/track/0AblU4v5EVSvYuH2iddLox) | [Chupando Halles](https://open.spotify.com/artist/0AZuVrycUN3ZPRBIY4Wca0) | [Chupando Halles \(Ao Vivo em Aracaju\)](https://open.spotify.com/album/0jV4XKftXfuBFzwoL9J0DJ) | 4:12 |
+| 280 | [Caras e bocas](https://open.spotify.com/track/5aSWdEReJnQVje2xKAfC9o) | [Renno](https://open.spotify.com/artist/3yWtLbJMXNarBl4CQRA1go) | [Pra dançar curtir e beber](https://open.spotify.com/album/4wmnObrGXUAT7ukQSQ20ve) | 2:24 |
 | 281 | [Tira o Olho](https://open.spotify.com/track/0PiEYXPvlMj0rL9S2Ihv3a) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA) | [Gabriel Gava](https://open.spotify.com/album/3KWrWyF0nrj6SL77zlutWr) | 2:50 |
 | 282 | [Mordida e Carinho](https://open.spotify.com/track/6ndDchFJol1XKQQ4GmMqei) | [Bia Brasil](https://open.spotify.com/artist/6pdabG7kszf6TdiJYHH1zx) | [Boteco da Novinha](https://open.spotify.com/album/0qBFDBVwVGkpqzJrbvJkBj) | 1:59 |
 | 283 | [Tudo Menos Eu](https://open.spotify.com/track/4EODLyr6AaSmJf1t8RVGBO) | [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V), [MVP Hits](https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi) | [Country Brasil](https://open.spotify.com/album/2xerAMTP9g0Xb4JDitakRY) | 3:00 |
@@ -314,4 +314,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 304 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 | 305 | [De Boa na Lagoa](https://open.spotify.com/track/2JyEtXPdofr92XjnEEI4NH) | [Adriel Salim](https://open.spotify.com/artist/4xwzb6gEDDp5IpAnoASRuy) | [Aumenta o Paredão \(Verão 2023\)](https://open.spotify.com/album/6quXWSGETr7nugA7XM4vf8) | 2:48 |
 
-Snapshot ID: `AcAGfgAAAACUwbylLDYCMA0hQ3K++kb2`
+Snapshot ID: `AcAMUAAAAAD3PaVam2Hkmt95YcJnhkCY`

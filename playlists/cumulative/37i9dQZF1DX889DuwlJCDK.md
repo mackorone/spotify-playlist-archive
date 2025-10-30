@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: マルシィ
 
-1,410 songs - 3 day 13 hr 2 min
+1,411 songs - 3 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -981,6 +981,7 @@
 | [ライブハウス](https://open.spotify.com/track/2TllIeufj3YpsDVETticsu) | [桃色ドロシー](https://open.spotify.com/artist/5nrw2BHopVukes0JJ960VA) | [ライブハウス](https://open.spotify.com/album/2imgacgcWtxIiz5DID2aYf) | 3:30 | 2024-04-30 | 2024-06-01 |
 | [ライムライト](https://open.spotify.com/track/7seQjvjrQzh8OueltGeDgw) | [DeNeel](https://open.spotify.com/artist/4Z4FrPA5tZFztkxVw4XfdX) | [ライムライト](https://open.spotify.com/album/3piJmNSSwqdmr6hZnqJwTg) | 2:47 | 2025-03-18 | 2025-06-04 |
 | [ラクトアイス](https://open.spotify.com/track/27a1P32LnDyHeGti6CbcNY) | [Crab 蟹 Club](https://open.spotify.com/artist/2Po8LYeurfstvqMOLCTTs6) | [ラクトアイス](https://open.spotify.com/album/4gYVgGhjb2RwHleLTSgZCV) | 4:28 | 2025-02-04 | 2025-02-12 |
+| [ラストパレード](https://open.spotify.com/track/2v1xHWFZETW3dfgI3VnYvD) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [ラストパレード](https://open.spotify.com/album/68xzcGcJmy4Hs4pGxQQxyx) | 2:49 | 2025-10-21 |  |
 | [ラストライブ](https://open.spotify.com/track/7Jy3tDChEXMDXvO223c0VR) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ラストライブ](https://open.spotify.com/album/1RBl7BPBmZYRiwD5fcuf4Q) | 2:49 | 2025-02-11 | 2025-06-04 |
 | [ラズベリー](https://open.spotify.com/track/3JLpngLNxVRL6JLaBqqMpo) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラズベリー](https://open.spotify.com/album/0hszj3ElKlD0MYdcZg4vrR) | 3:35 | 2023-07-27 | 2024-06-01 |
 | [ラブソング](https://open.spotify.com/track/1C0FeicvqookSh1qXpJlvi) | [でかくてまるい。](https://open.spotify.com/artist/1YHfguoLRlCC98AT9H7Oti) | [ラブソング](https://open.spotify.com/album/3qN33IzFxzolRHaxhNltw2) | 5:25 | 2025-04-15 | 2025-05-07 |
@@ -1090,7 +1091,7 @@
 | [告白](https://open.spotify.com/track/1tr7UxB7IQ7WHt04IPo9DO) | [アルコサイト](https://open.spotify.com/artist/7hk5b4YhnFsoCX8OFZQ58s) | [告白](https://open.spotify.com/album/50OzPaoa28jLICf7A5ZfrY) | 2:59 | 2025-04-01 | 2025-04-09 |
 | [喜怒哀楽](https://open.spotify.com/track/3jRp2IETgPfv44mIUUEiKf) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [喜怒哀楽](https://open.spotify.com/album/7oXS72ywdPr7Vgs1ZrRWuq) | 4:37 | 2024-03-05 | 2024-04-19 |
 | [嘘](https://open.spotify.com/track/3o2SLXjygTwqq2Ps7mw4pd) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [嘘](https://open.spotify.com/album/4jlChAhPrMneWcOprITjbi) | 1:13 | 2024-04-23 | 2024-05-01 |
-| [四季回生](https://open.spotify.com/track/33RoMsSYspTo6ybIRrHBtD) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [四季回生](https://open.spotify.com/album/4voeIX26mHuytm5jUAAhQl) | 2:26 | 2025-07-22 |  |
+| [四季回生](https://open.spotify.com/track/33RoMsSYspTo6ybIRrHBtD) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [四季回生](https://open.spotify.com/album/4voeIX26mHuytm5jUAAhQl) | 2:26 | 2025-07-22 | 2025-10-30 |
 | [四畳半の大水槽](https://open.spotify.com/track/2NFKMPcmosd1t16XKwrbd4) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [Spice](https://open.spotify.com/album/6ehMXMFt2giw59ZK47VzP3) | 5:17 | 2024-09-03 | 2024-09-18 |
 | [回転してから考える](https://open.spotify.com/track/7w69JQtytnNBDltP8LBqgl) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃダメになって](https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s) | 4:13 | 2023-08-08 | 2023-08-18 |
 | [図星](https://open.spotify.com/track/3XuEnlECOZKAAkiMn75f4g) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [JUKEBOX](https://open.spotify.com/album/0ojK6G6NEpXSyOR3FcKcSd) | 4:55 | 2024-09-17 | 2024-10-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 
 > This is Fall Out Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,746 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,767 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 | 49 | [Start Today](https://open.spotify.com/track/3DZSUGnqwJwQIoUbHPcSqu) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Start Today](https://open.spotify.com/album/7yj4Fc4cus1NY80wfIcSf0) | 2:02 |
 | 50 | [The Pros and Cons of Breathing](https://open.spotify.com/track/3koOoLN69AAiw5JCQNaZMe) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:21 |
 
-Snapshot ID: `aP62AAAAAADa+LcvlimPej2yd1qs/6Qw`
+Snapshot ID: `aQAHgAAAAAAiSc+tU096wr6EjHyOToPk`

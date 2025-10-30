@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 
 > This is RAYE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,191 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,398 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 | 49 | [Dreamer \- Compound Version](https://open.spotify.com/track/7Coulic7di20MlW1bEytkQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:58 |
 | 50 | [Overture\. \- Live at the Royal Albert Hall](https://open.spotify.com/track/2aU4dNaEpGQIp1oGkmJlBZ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx) | [My 21st Century Symphony\. \(Live at the Royal Albert Hall\)](https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP) | 1:37 |
 
-Snapshot ID: `aP62AAAAAAA17w/Usad67cfoiKzEF634`
+Snapshot ID: `aQAHgAAAAABxbnspAfSkHDhjk+BBFPAM`

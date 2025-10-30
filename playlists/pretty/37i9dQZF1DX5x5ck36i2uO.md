@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,458 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,472 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 14 | [Journey](https://open.spotify.com/track/0ecHDdv7sgeV7KNIUwwR4R) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:53 |
 | 15 | [tears](https://open.spotify.com/track/3VJGO89ULwVFAe6q0sKn6R) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [tears](https://open.spotify.com/album/4NCgay1BBCiIn6kl3F1S0P) | 2:07 |
 | 16 | [City Life](https://open.spotify.com/track/3yp1VIzV5AjvvzzrgJ18SM) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:15 |
-| 17 | [Where It All Started Remix \(Feat\. Verbal Jint, Beenzino\)](https://open.spotify.com/track/6baSXVPXg8OUoXnRt2tGrp) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Where It All Started Remix](https://open.spotify.com/album/2toAZkTdVUj5LdSdUY9NF2) | 3:43 |
-| 18 | [Girl, Interrupted](https://open.spotify.com/track/1cBNzkPsAdI7XJaKIsjKUk) | [2xxx](https://open.spotify.com/artist/4cMtnnGdRvh8KIi2RA7ZeU), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Life](https://open.spotify.com/album/2vEU8SL0eLzr3P9jjagEw3) | 3:00 |
+| 17 | [Girl, Interrupted](https://open.spotify.com/track/1cBNzkPsAdI7XJaKIsjKUk) | [2xxx](https://open.spotify.com/artist/4cMtnnGdRvh8KIi2RA7ZeU), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Life](https://open.spotify.com/album/2vEU8SL0eLzr3P9jjagEw3) | 3:00 |
+| 18 | [Where It All Started Remix \(Feat\. Verbal Jint, Beenzino\)](https://open.spotify.com/track/6baSXVPXg8OUoXnRt2tGrp) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Where It All Started Remix](https://open.spotify.com/album/2toAZkTdVUj5LdSdUY9NF2) | 3:43 |
 | 19 | [YESMAN \(feat\. Roh Yun Ha\)](https://open.spotify.com/track/31Mq4iNnukk3wngb6ePLgD) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 3:09 |
 | 20 | [Champagne](https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:06 |
-| 21 | [i \(Feat\. Jung Yup\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Jungyup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:55 |
-| 22 | [I Get Lifted X Beenzino](https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [WALKIN', Vol\. 1](https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E) | 4:17 |
+| 21 | [I Get Lifted X Beenzino](https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [WALKIN', Vol\. 1](https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E) | 4:17 |
+| 22 | [i \(Feat\. Jung Yup\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Jungyup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:55 |
 | 23 | [Used To Be](https://open.spotify.com/track/2lbL9ybEcabfosjaM7tYOr) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Used To Be](https://open.spotify.com/album/0fTJlZVOWY9h7hvK7KGH42) | 2:57 |
 | 24 | [WITHOUT ME](https://open.spotify.com/track/0w9YTapeo8WSqMnUFRM6fO) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 2:53 |
 | 25 | [羊皮先生](https://open.spotify.com/track/3cSxRgG3Wz84Aeigw3Hu6x) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [浮世擊](https://open.spotify.com/album/3vS0CFZxM60af5Y195yu2J) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [Light](https://open.spotify.com/track/1PvnbvwAaZgj1x9D20ppBS) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Millionaire Poetry](https://open.spotify.com/album/2iqRyGFGVwHsSgKvc6EuDv) | 3:20 |
 | 50 | [Good night night \(Feat\. pH\-1\)](https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:48 |
 
-Snapshot ID: `AAAAAFr9Lk9AX7JygsDTg2qI16WhWDin`
+Snapshot ID: `AAAAAH+tC17Z+RYv1UrsYG+zQuF1wqm1`

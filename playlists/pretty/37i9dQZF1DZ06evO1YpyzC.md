@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,942 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,946 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 24 | [Lose It](https://open.spotify.com/track/7epGknfpAlH1u33S71Ur1o) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 2:58 |
 | 25 | [What's Mine Is Yours](https://open.spotify.com/track/1cG3sQOVItzKsvHzkCzuke) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 3:36 |
 | 26 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 |
-| 27 | [I Am](https://open.spotify.com/track/5OYu7glZ8Ks8N1fPEmrtOX) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 4:08 |
+| 27 | [Gorgeous](https://open.spotify.com/track/1lpqJ8XnJS9tXbXmkN2CH8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 3:05 |
 | 28 | [Short Skirt Weather](https://open.spotify.com/track/6PN7QeNItfzZBpCTQvsLyq) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:14 |
 | 29 | [Body Talk](https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Body Talk](https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I) | 2:27 |
 | 30 | [Used to Love You Sober](https://open.spotify.com/track/6V3wTb4VVDWRw3YEDgc6Py) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Chapter 1 \- EP](https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0) | 3:01 |
-| 31 | [Gorgeous](https://open.spotify.com/track/1lpqJ8XnJS9tXbXmkN2CH8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 3:05 |
+| 31 | [I Am](https://open.spotify.com/track/5OYu7glZ8Ks8N1fPEmrtOX) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 4:08 |
 | 32 | [For My Daughter](https://open.spotify.com/track/2moC0T4mGwmP8dUDostr2g) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:43 |
 | 33 | [Saturday Nights REMIX](https://open.spotify.com/track/0W5oXFrxZNBTIS1eMW9Ofz) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Saturday Nights REMIX](https://open.spotify.com/album/5lvoXvi6z9JX8blblImfsb) | 3:31 |
 | 34 | [Worship You](https://open.spotify.com/track/0nUGOvjXk6Vc9ecQanZXUQ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Worship You](https://open.spotify.com/album/2PMjEMiY2OBlbaLgGFSfLt) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 49 | [Hometown](https://open.spotify.com/track/2NqHZYzBWUHbbpDDgdGWJL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:24 |
 | 50 | [Country Classic](https://open.spotify.com/track/2iQ9sF1pVNmYLIv8fHhYPb) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:55 |
 
-Snapshot ID: `aP62AAAAAACdNbpKi96uiRNWxYCsnlJ9`
+Snapshot ID: `aQAHgAAAAABEPXlddEkZzwb78zeQX5rv`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Mitch Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,728 likes - 73 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,758 likes - 73 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 72 | [Desperate \(Send Your Spirit\) \- Live](https://open.spotify.com/track/6xwksv4bwpkw9rrwKCAUdD) | [Capital City Music](https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH), [Harvest](https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV) | [Desperate \(Send Your Spirit\) \[Live\]](https://open.spotify.com/album/0qfRl94QFWvhii9zMecHlq) | 7:05 |
 | 73 | [ALL EYES ON HIM](https://open.spotify.com/track/4rrRJO6faiekyd0zkzXzeI) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX), [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [ALL EYES ON HIM](https://open.spotify.com/album/0XDCEy0TNubAgJdCAxC9IS) | 5:27 |
 
-Snapshot ID: `AAAAAOKYb5xh1he2nSKnAY+3t9xlcgFw`
+Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`

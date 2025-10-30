@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,558 songs - 3 day 12 hr 44 min
+1,559 songs - 3 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1105,6 +1105,7 @@
 | [Piedras en la Ventana](https://open.spotify.com/track/6a78lsclHfvHEMES2X5BT7) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 2:56 | 2025-04-05 | 2025-04-07 |
 | [Piel de Cordero](https://open.spotify.com/track/04d4GpLedinwpfctvgOIhY) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [Piel de Cordero](https://open.spotify.com/album/5VIiMnuhe882wXxhOdXGdf) | 3:33 | 2022-04-22 | 2022-12-04 |
 | [Piel de Cordero](https://open.spotify.com/track/43Tf6aMFSw2vP7IHBWsA1R) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [Piel de Cordero](https://open.spotify.com/album/4m55xXBvpVcsO3CHXAJItH) | 3:33 | 2022-03-30 | 2022-04-23 |
+| [Pieza Exhibición](https://open.spotify.com/track/6BIeMM4lJYzeVlYP289uDp) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Pieza Exhibición](https://open.spotify.com/album/7p5H5BRUqMenAPNZmLsiuX) | 4:43 | 2025-10-29 |  |
 | [PIN PIN](https://open.spotify.com/track/51tMYALx6Lkrte41DoWIPq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:39 | 2021-04-26 | 2021-06-12 |
 | [PIRIBIRI](https://open.spotify.com/track/2hRbzHXrvjPj8GssfHKCDM) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [PIRIBIRI](https://open.spotify.com/album/39PzdNyRud28HsVXIQFRMe) | 2:56 | 2023-08-08 | 2023-10-03 |
 | [PISTA DE ATERRIZAJE](https://open.spotify.com/track/4tArGA8NXqO2YIp9t1tGCu) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 2:14 | 2025-05-20 | 2025-05-26 |
@@ -1406,7 +1407,7 @@
 | [Todo Lit](https://open.spotify.com/track/1oxSzLgFPeFm5o6y7Bxie9) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 4:01 | 2024-01-20 | 2024-01-22 |
 | [Tokicha](https://open.spotify.com/track/5uPGtSSHtN28xUhX7W4eAp) | [J Castle](https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Tokicha](https://open.spotify.com/album/6zAlmaTBclBxZ63eeWHPSe) | 2:21 | 2025-03-05 | 2025-03-28 |
 | [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2022-01-15 | 2022-04-10 |
-| [top diesel](https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:09 | 2025-06-10 |  |
+| [top diesel](https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:09 | 2025-06-10 | 2025-10-30 |
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-02-25 | 2023-03-15 |
 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 | 2024-05-25 | 2024-05-27 |
 | [Toy en el Mic](https://open.spotify.com/track/3DeZc9cOc1DM8YNoJV8lAv) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 2:17 | 2023-10-06 | 2023-10-15 |

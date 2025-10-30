@@ -1,6 +1,6 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 202407,
+  "num_followers": 202426,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,26 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
+        "name": "Debussy: Deux arabesques: Arabesque No. 1",
+        "url": "https://open.spotify.com/album/5Btir3Nai2A2d3SMbHLOFI"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Tiffany Poon",
+          "url": "https://open.spotify.com/artist/6GoYLHh7cVvUyGjXbFKlDS"
+        }
+      ],
+      "duration_ms": 232480,
+      "name": "Deux arabesques, L. 66: Arabesque No. 1",
+      "url": "https://open.spotify.com/track/1eRJRTr2tIZLkJ3gqq6a7w"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
         "name": "Ave Maria (Meditation on the Prelude by J. S. Bach)",
         "url": "https://open.spotify.com/album/7nWKkPJ44GahKfhhcV62o3"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 153679,
       "name": "Ave Maria (Meditation on the Prelude by J. S. Bach)",
       "url": "https://open.spotify.com/track/3BxsNGnXXzwaI7qfh82EyA"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
-        "name": "Debussy: Deux arabesques: Arabesque No. 1",
-        "url": "https://open.spotify.com/album/5Btir3Nai2A2d3SMbHLOFI"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Tiffany Poon",
-          "url": "https://open.spotify.com/artist/6GoYLHh7cVvUyGjXbFKlDS"
-        }
-      ],
-      "duration_ms": 232480,
-      "name": "Deux arabesques, L. 66: Arabesque No. 1",
-      "url": "https://open.spotify.com/track/1eRJRTr2tIZLkJ3gqq6a7w"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "Snowfall",
-        "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
         "name": "Sea Notes",
         "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 128684,
       "name": "Flight of the Sea Birds",
       "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "The House with a View",
-        "url": "https://open.spotify.com/album/36G6cLrEniO07qHgkLflTX"
-      },
-      "artists": [
-        {
-          "name": "Goldb\u00e6k",
-          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
-        }
-      ],
-      "duration_ms": 141200,
-      "name": "The House with a View",
-      "url": "https://open.spotify.com/track/5NgZtc9b3TFDtdtKYT5YAV"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
         "name": "Everything Is Everything Else",
         "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 281841,
       "name": "Everything Is Everything Else",
       "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
+        "name": "The House with a View",
+        "url": "https://open.spotify.com/album/36G6cLrEniO07qHgkLflTX"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "The House with a View",
+      "url": "https://open.spotify.com/track/5NgZtc9b3TFDtdtKYT5YAV"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "S\u00f3liton",
-        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 122347,
-      "name": "S\u00f3liton",
-      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
         "name": "Swan Lake Story",
         "url": "https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 170375,
       "name": "Swan Lake Story, Op. 1",
       "url": "https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
+        "name": "S\u00f3liton",
+        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 122347,
+      "name": "S\u00f3liton",
+      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -883,26 +883,6 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "First Time Of Heaven (Piano and Strings)",
-        "url": "https://open.spotify.com/album/5J4JVqt7PgLD5RzwYt5FjG"
-      },
-      "artists": [
-        {
-          "name": "Charlie Ward",
-          "url": "https://open.spotify.com/artist/2DAW0Yp7gDtFqrJk4v3zt2"
-        },
-        {
-          "name": "Kelly Lerner",
-          "url": "https://open.spotify.com/artist/1qEe8TfUNdAIGm9ZBe23hO"
-        }
-      ],
-      "duration_ms": 136521,
-      "name": "First Time Of Heaven - Piano and Strings",
-      "url": "https://open.spotify.com/track/28xXlF8sz0TgNL52WI7VkT"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
         "name": "Orpheus. Hommage \u00e0 Saint-Sa\u00ebns",
         "url": "https://open.spotify.com/album/3ygvZKfgahI5BQfOFqV0FJ"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 248613,
       "name": "Piano Trio No. 2 in E Minor, Op. 92: III. Andante con moto",
       "url": "https://open.spotify.com/track/0gV4E8Muwz7pCkzxmyCYmG"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
+        "name": "First Time Of Heaven (Piano and Strings)",
+        "url": "https://open.spotify.com/album/5J4JVqt7PgLD5RzwYt5FjG"
+      },
+      "artists": [
+        {
+          "name": "Charlie Ward",
+          "url": "https://open.spotify.com/artist/2DAW0Yp7gDtFqrJk4v3zt2"
+        },
+        {
+          "name": "Kelly Lerner",
+          "url": "https://open.spotify.com/artist/1qEe8TfUNdAIGm9ZBe23hO"
+        }
+      ],
+      "duration_ms": 136521,
+      "name": "First Time Of Heaven - Piano and Strings",
+      "url": "https://open.spotify.com/track/28xXlF8sz0TgNL52WI7VkT"
     },
     {
       "added_at": "2025-10-03 10:20:21",

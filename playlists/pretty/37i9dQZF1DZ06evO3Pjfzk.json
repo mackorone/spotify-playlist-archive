@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 101617,
+  "num_followers": 101658,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADjS7BBAlg32utU66MPMHz6",
+  "snapshot_id": "aQAHgAAAAABrmq0cOgBPnrjT5IUPEAqr",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forever (Legendary Edition)",
+        "url": "https://open.spotify.com/album/2eWMDbh3Igz3si1aX4a7Wv"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 205509,
+      "name": "I Wrote You A Song (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/4NfzPsD8owLf1tdIDbLb7c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lainey Wilson - EP",
         "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
       },
@@ -627,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever (Legendary Edition)",
-        "url": "https://open.spotify.com/album/2eWMDbh3Igz3si1aX4a7Wv"
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
       },
       "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 205509,
-      "name": "I Wrote You A Song (with Lainey Wilson)",
-      "url": "https://open.spotify.com/track/4NfzPsD8owLf1tdIDbLb7c"
+      "duration_ms": 201653,
+      "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+      "url": "https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP"
     },
     {
       "added_at": null,
@@ -663,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+        "name": "Workin' Overtime",
+        "url": "https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O"
       },
       "artists": [
         {
@@ -672,9 +688,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 201653,
-      "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-      "url": "https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP"
+      "duration_ms": 197685,
+      "name": "Workin' Overtime",
+      "url": "https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD"
     },
     {
       "added_at": null,
@@ -695,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Workin' Overtime",
-        "url": "https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O"
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
       },
       "artists": [
         {
@@ -704,9 +720,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 197685,
-      "name": "Workin' Overtime",
-      "url": "https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD"
+      "duration_ms": 239013,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/3p2brffzUnKntkWawtYQd9"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
       "duration_ms": 174891,
       "name": "Microphone",
       "url": "https://open.spotify.com/track/6cueuTpOgXVUWd5dPkNGU8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 239013,
-      "name": "Rolling Stone",
-      "url": "https://open.spotify.com/track/3p2brffzUnKntkWawtYQd9"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lainey Wilson - EP",
-        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/5dTHvmgkPqjYk8aW6LxZos"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
         "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 140413,
       "name": "WWDD",
       "url": "https://open.spotify.com/track/7AXmVQNJ93e9k2TLLU3ybl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/5dTHvmgkPqjYk8aW6LxZos"
     },
     {
       "added_at": null,

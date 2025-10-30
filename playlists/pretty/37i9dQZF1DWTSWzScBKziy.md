@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Megan Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,538 likes - 99 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,563 likes - 99 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 10 | [Scales](https://open.spotify.com/track/6sxUl1pvN1EUD1fSVyEu7Y) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [m us eum](https://open.spotify.com/album/0YK6l5Aewg08BqpuC8W5S3) | 3:21 |
 | 11 | [At The Table](https://open.spotify.com/track/0bKJZa5lv1KsL6UKiDAdJK) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [At The Table](https://open.spotify.com/album/4V1Evh0o7deYLAKbKbuWn3) | 1:34 |
 | 12 | [not alone](https://open.spotify.com/track/3PKCtiaRoDhrtnRuNBelaq) | [Meyta](https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc) | [not alone](https://open.spotify.com/album/3k0JfPDoQf2NQxVNakBo2o) | 2:17 |
-| 13 | [All That I Am](https://open.spotify.com/track/1cmSJaNKWE4lJ1Eqiaiyyh) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Hannah Boesen](https://open.spotify.com/artist/0d7nS7ib9mUoByL6PyBEMx) | [All That I Am](https://open.spotify.com/album/1RlQyS6TsQgEdTBjwC0LKN) | 4:01 |
+| 13 | [All That I Am](https://open.spotify.com/track/1cmSJaNKWE4lJ1Eqiaiyyh) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Hannah Boesen](https://open.spotify.com/artist/3jcuHlyRJaIgJEaAE4MPv9) | [All That I Am](https://open.spotify.com/album/1RlQyS6TsQgEdTBjwC0LKN) | 4:01 |
 | 14 | [Cold Of The Night](https://open.spotify.com/track/1hVu0KC031qLlIn8UPsDe7) | [Ivan Castro](https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14) | [Cold Of The Night](https://open.spotify.com/album/118XTpb5m0rG05GIh2tXhV) | 3:43 |
 | 15 | [Ghost In The Graveyard](https://open.spotify.com/track/1WDdUGEtoKS4N7mUoFyayE) | [Caleb & John](https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0) | [Ghost In The Graveyard](https://open.spotify.com/album/6JcsXlAkt86iTMkQLSsNxO) | 2:51 |
 | 16 | [Hold Your Horses](https://open.spotify.com/track/4kalM0AOxmSfuAKYs64O7V) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars](https://open.spotify.com/album/3Bvpjj5AeTxIrmlaKHK1O4) | 3:10 |

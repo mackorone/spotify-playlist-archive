@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,366 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,379 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 36 | [Dariel El Sabroso](https://open.spotify.com/track/1xSddOArIP3TskCVjUprYZ) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Mis 30 Aniversario \(Vol\. 2\)](https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx) | 3:22 |
 | 37 | [Chica Traviesa](https://open.spotify.com/track/7zXxlCRQ1UGq2twIEuhlnD) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Expansion](https://open.spotify.com/artist/3TMPTLwsdt24hPu8TActJN) | [Chica Traviesa](https://open.spotify.com/album/1oxBe1xqSV6sfevAmtc8Qt) | 3:05 |
 | 38 | [Voy A Pintar Mi Raya \- En Vivo](https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 4:32 |
-| 39 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
-| 40 | [Ya Duele Menos](https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ya Duele Menos](https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW) | 3:04 |
+| 39 | [Ya Duele Menos](https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ya Duele Menos](https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW) | 3:04 |
+| 40 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
 | 41 | [Medias Negras](https://open.spotify.com/track/36aWKc0gB1dt2bh9YLlUD6) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Medias Negras](https://open.spotify.com/album/47un1dVrmVaaNT1PGvEU2d) | 3:07 |
 | 42 | [Carta Abierta \- En Vivo](https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:28 |
 | 43 | [Mi Ranchito \- En Vivo](https://open.spotify.com/track/46rZ3cUjOuzxpJqI9lCaHP) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Grupo X30](https://open.spotify.com/artist/3q5RR1RLDShDlGMYRr8t4B), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Mi Ranchito](https://open.spotify.com/album/5nQkFKC4AuQrK5yzIE338z) | 2:54 |
 | 44 | [Nomas Este Rey](https://open.spotify.com/track/5EHxtBNN4nRHncJTJIhJzn) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 4:19 |
 | 45 | [Siempre Trabajando](https://open.spotify.com/track/7nK9RJn7XNg5RaRE6v2eQm) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 2:11 |
-| 46 | [Misa De Cuerpo Presente](https://open.spotify.com/track/3bxCgdxcVwlUTiyu64tdyu) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:22 |
-| 47 | [Tonieladas](https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Tonieladas \(feat\. Kanales\)](https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX) | 3:20 |
+| 46 | [Tonieladas](https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Tonieladas \(feat\. Kanales\)](https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX) | 3:20 |
+| 47 | [Misa De Cuerpo Presente](https://open.spotify.com/track/3bxCgdxcVwlUTiyu64tdyu) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:22 |
 | 48 | [Como Le Hago](https://open.spotify.com/track/5gCDxyrF7ruOPnAX2FRhLC) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Los Paisanos de Sinaloa](https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ) | [Como Le Hago](https://open.spotify.com/album/4EaSJa0LsA6Iq1w01Uwedq) | 3:47 |
 | 49 | [Mi Sueno Seria](https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:30 |
 | 50 | [Se Me Agüitó](https://open.spotify.com/track/26ejebTudwx94xrQxrdNgh) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Se Me Agüitó](https://open.spotify.com/album/51YMAnkG9rMuNXXejqCFNB) | 3:23 |
 
-Snapshot ID: `aP62AAAAAACkN/4VgmyVriLiIT/O/hRN`
+Snapshot ID: `aQAHgAAAAADb5qRLhZbnNZqg6wIi7ssg`

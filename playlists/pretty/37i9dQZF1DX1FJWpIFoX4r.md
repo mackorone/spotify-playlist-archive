@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1FJWpIFoX4r.md) - [plain]
 
 > A beautifully wicked tale of privilege and desire\. Listen to the music from Saltburn, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,829 likes - 34 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,832 likes - 34 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1FJWpIFoX4r.md) - [plain]
 | 17 | [Felix Amica](https://open.spotify.com/track/2dtRoZSU49jCGS6wnuum5T) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Saltburn \(Original Motion Picture Score\)](https://open.spotify.com/album/4uR9mrMic9dHCOHEFfRnxd) | 2:35 |
 | 18 | [Spit Roast](https://open.spotify.com/track/6Huqy9WdEE3rMazEQgajn2) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk) | [Saltburn \(Original Motion Picture Score\)](https://open.spotify.com/album/4uR9mrMic9dHCOHEFfRnxd) | 2:55 |
 | 19 | [Journey to Saltburn](https://open.spotify.com/track/0DcwCfvZRJw7gnHfNN0VKg) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Saltburn \(Original Motion Picture Score\)](https://open.spotify.com/album/4uR9mrMic9dHCOHEFfRnxd) | 1:19 |
-| 20 | [I Loved Him/ Oliver Quick!](https://open.spotify.com/track/4MwmV8AyVxExjhweONK4WR) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M), [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2) | [Saltburn \(Original Motion Picture Score\)](https://open.spotify.com/album/4uR9mrMic9dHCOHEFfRnxd) | 3:27 |
+| 20 | [I Loved Him/ Oliver Quick!](https://open.spotify.com/track/4MwmV8AyVxExjhweONK4WR) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Saltburn \(Original Motion Picture Score\)](https://open.spotify.com/album/4uR9mrMic9dHCOHEFfRnxd) | 3:27 |
 | 21 | [The Maze](https://open.spotify.com/track/2OblLc3bkrzSoYWVgUAKeq) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Saltburn \(Original Motion Picture Score\)](https://open.spotify.com/album/4uR9mrMic9dHCOHEFfRnxd) | 2:21 |
 | 22 | [NFI'D](https://open.spotify.com/track/2Vbb9eqNGZbjobENUeIUiC) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Saltburn \(Original Motion Picture Score\)](https://open.spotify.com/album/4uR9mrMic9dHCOHEFfRnxd) | 1:38 |
 | 23 | [Throwing Pebbles](https://open.spotify.com/track/6uV3UG0aD8bKJ3aSwIespd) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Saltburn \(Original Motion Picture Score\)](https://open.spotify.com/album/4uR9mrMic9dHCOHEFfRnxd) | 1:51 |

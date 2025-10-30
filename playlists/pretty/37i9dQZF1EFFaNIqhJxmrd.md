@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 75 | [end of the world](https://open.spotify.com/track/1ZoCqQEuhoOEW4PQhVDovL) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [the wind is picking up](https://open.spotify.com/album/0zo7swJcqnoxLTWvBAtl19) | 3:09 |
 | 76 | [Våran första sommar](https://open.spotify.com/track/0uHdKs2SAfPhrTKRqIRCJD) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [TAMPA](https://open.spotify.com/album/1RJj36DweXkCPIJQNCwpQh) | 4:34 |
 | 77 | [What Are You Scared Of?](https://open.spotify.com/track/6bQbqDiDlIExnHx5wncoYL) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Mad Women](https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk) | 3:09 |
-| 78 | [see u in hell](https://open.spotify.com/track/3suM9B29A2FimaDylB8bYY) | [Torine](https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo) | [see u in hell](https://open.spotify.com/album/1KslMikReK0lh6VFOEuo22) | 2:37 |
-| 79 | [Saltvatten](https://open.spotify.com/track/3HSGRCxQNn67uVhtjFMnju) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Saltvatten](https://open.spotify.com/album/20vHV2i2Xsq1fKZ7WwKMZz) | 3:46 |
+| 78 | [Saltvatten](https://open.spotify.com/track/3HSGRCxQNn67uVhtjFMnju) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Saltvatten](https://open.spotify.com/album/20vHV2i2Xsq1fKZ7WwKMZz) | 3:46 |
+| 79 | [see u in hell](https://open.spotify.com/track/3suM9B29A2FimaDylB8bYY) | [Torine](https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo) | [see u in hell](https://open.spotify.com/album/1KslMikReK0lh6VFOEuo22) | 2:37 |
 | 80 | [Ingenting har gjort så ont](https://open.spotify.com/track/4aNxEqnVKKjbkwx3TdvJX7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:26 |
 | 81 | [Ljuger för mig själv](https://open.spotify.com/track/3zCm30Ye2uvSnny2TlIddt) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:08 |
 | 82 | [Follow Your Heart](https://open.spotify.com/track/2LvmiyPIdtW6T3pybKwcSc) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 2:21 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 110 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 |
 | 111 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `AcAGpgAAAACk2SenNPQtEhIwES4OL/1J`
+Snapshot ID: `AcAMMgAAAADWBY3+uRtyX+dWKTve3Vo4`

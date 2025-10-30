@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,356 likes - 180 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,357 likes - 180 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 73 | [10/10](https://open.spotify.com/track/0s2vC5MwdoLvQ8PdNBjUGX) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream \(Bonus Track Version\)](https://open.spotify.com/album/66M3ZXJLIgROFqMla74reu) | 3:06 |
 | 74 | [U12](https://open.spotify.com/track/18aacKBjManeCW688A6IGf) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:23 |
 | 75 | [She Said](https://open.spotify.com/track/1UNWD6R5EOFklUHKZZvww2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:47 |
-| 76 | [It Even Rains In LA](https://open.spotify.com/track/5bZncPtqBgaIEtaFaH60Sg) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:35 |
-| 77 | [Here All Night](https://open.spotify.com/track/5sGAAbdvqyRifmUt0IeQia) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 2:56 |
+| 76 | [Here All Night](https://open.spotify.com/track/5sGAAbdvqyRifmUt0IeQia) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 2:56 |
+| 77 | [It Even Rains In LA](https://open.spotify.com/track/5bZncPtqBgaIEtaFaH60Sg) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:35 |
 | 78 | [Open Always Wins](https://open.spotify.com/track/7lqkrW4NxWuC8nVW1qnh2k) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Open Always Wins](https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs) | 2:22 |
 | 79 | [Thirsty](https://open.spotify.com/track/0GIxebN29sVX3Up18qTb8R) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:23 |
 | 80 | [Roommates](https://open.spotify.com/track/73A6HiR1xE9cAwy61mP7AA) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Roommates](https://open.spotify.com/album/2Cp9X2MWTLEAVp7EuIiEFt) | 3:23 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 98 | [Cruel](https://open.spotify.com/track/3ZxtQyBPlRDQmffv7KfKCP) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Snacks \(Supersize\)](https://open.spotify.com/album/7amY1CW9j5LtD2Bbsx1FJO) | 4:26 |
 | 99 | [Bad Feeling](https://open.spotify.com/track/5L3rFG7ttfr4OK87dbUfle) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:26 |
 | 100 | [Vintage](https://open.spotify.com/track/2t8MNKWuCNh8eZFZ4ANZRR) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/216PcZkvm5Rnt6LgctC0X9) | 3:39 |
-| 101 | [All the Rage](https://open.spotify.com/track/6LU5xomPbOc1XADDwU0L36) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [All the Rage](https://open.spotify.com/album/2AxFTHoqk5jY7yRlUkS0GG) | 3:06 |
-| 102 | [Kiss](https://open.spotify.com/track/5rFGW7dBiezVY3sikP5tFq) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 2:19 |
+| 101 | [Kiss](https://open.spotify.com/track/5rFGW7dBiezVY3sikP5tFq) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 2:19 |
+| 102 | [All the Rage](https://open.spotify.com/track/6LU5xomPbOc1XADDwU0L36) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [All the Rage](https://open.spotify.com/album/2AxFTHoqk5jY7yRlUkS0GG) | 3:06 |
 | 103 | [Galaxy \(feat\. Stan Walker\)](https://open.spotify.com/track/1joM5RLNRDmsR2AiF5XaRF) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Get 'Em Girls](https://open.spotify.com/album/7t6s6NWaLUEkRQEDqp8yNN) | 4:04 |
 | 104 | [The Hurtin' Kind](https://open.spotify.com/track/0WEnbKV0sLhYjiA9H7Bfqk) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:06 |
 | 105 | [Lucifer](https://open.spotify.com/track/56xB3EGgd7qxfzAVji8Fh2) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 3:19 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 179 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 180 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AcAGpgAAAABh18laj8s5aPpjTJ05ey4b`
+Snapshot ID: `AcAMMgAAAAB0C9QmTFoV8MYD60MFzxT/`

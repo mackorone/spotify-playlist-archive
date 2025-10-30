@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,075 likes - 49 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,077 likes - 49 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Easy Love Pt\. 1](https://open.spotify.com/track/7r4MXnjGgL3iI1o17QndRj) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:07 |
 | 2 | [Deep Stays Down](https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:19 |
 | 3 | [Louisiana Sunshine Feeling Okay](https://open.spotify.com/track/0EPUo3osivqu12WoH2m9IT) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Airline Highway](https://open.spotify.com/album/4wojnxJ20xjQqZ0Bji3O6F) | 3:05 |
-| 4 | [Get Up](https://open.spotify.com/track/7bXqvbsH7owO0tjlzHItqX) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Sweetwater \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/46SCZ9Z6zeSU3mB5AbP2kp) | 2:20 |
+| 4 | [Holy Ghost Fire](https://open.spotify.com/track/6lvL0sBjlBb8WP1FCiWGZc) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 3:22 |
 | 5 | [Mockingbird](https://open.spotify.com/track/7kiwF7Shhi48WbBNswDhqb) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:06 |
-| 6 | [Holy Ghost Fire](https://open.spotify.com/track/6lvL0sBjlBb8WP1FCiWGZc) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 3:22 |
+| 6 | [Get Up](https://open.spotify.com/track/7bXqvbsH7owO0tjlzHItqX) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Sweetwater \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/46SCZ9Z6zeSU3mB5AbP2kp) | 2:20 |
 | 7 | [Bleach Blonde Bottle Blues](https://open.spotify.com/track/7dH8e4Eb8PMqDCTU20ZKRB) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs) | 3:13 |
 | 8 | [Bad Spell](https://open.spotify.com/track/5TS1lP8hWsGMjjblpVrUnI) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:15 |
 | 9 | [Bluephoria](https://open.spotify.com/track/1VBIGJaKmOPcVcblzIlZk4) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:33 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 21 | [Little Bit](https://open.spotify.com/track/0zC6UhoAauAwCJ4vaEtcA9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:06 |
 | 22 | [She's A Self Made Man](https://open.spotify.com/track/5wTeGGSnCrWl9b0rqNi9Qr) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 3:01 |
 | 23 | [Black Betty](https://open.spotify.com/track/1hyEsWwmDnWnLaw0n0YkLS) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi) | 2:44 |
-| 24 | [Done](https://open.spotify.com/track/3K0oUB93h6G4DC9EYqe4sW) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mileage](https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB) | 2:39 |
-| 25 | [Mad As A Hatter \- Live In Concert](https://open.spotify.com/track/165iM5ZIR7JnNLDBEG8rHb) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live In Concert\)](https://open.spotify.com/album/02FRIUcCGRWYsN7ZeIksRg) | 5:12 |
+| 24 | [Mad As A Hatter \- Live In Concert](https://open.spotify.com/track/165iM5ZIR7JnNLDBEG8rHb) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live In Concert\)](https://open.spotify.com/album/02FRIUcCGRWYsN7ZeIksRg) | 5:12 |
+| 25 | [Done](https://open.spotify.com/track/3K0oUB93h6G4DC9EYqe4sW) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mileage](https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB) | 2:39 |
 | 26 | [Strike Gold](https://open.spotify.com/track/7AZTHka2MiNr13j68b0Qun) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:20 |
 | 27 | [Runnin' Down a Dream](https://open.spotify.com/track/2jh28FMlAr45a1r6nRUVu3) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Runnin' Down a Dream](https://open.spotify.com/album/665hfrsUrX8NtDd89Lt4aV) | 4:04 |
 | 28 | [God Moves On The Water](https://open.spotify.com/track/56w5xZcUip6M2Racahglwl) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 2:44 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 48 | [Travelin' Light \- Live](https://open.spotify.com/track/5TXhMT91DxzUbOvPQXJOex) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 3:18 |
 | 49 | [Rosetta](https://open.spotify.com/track/1EW75a4rh00F4NIuY7bLhn) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Look Up](https://open.spotify.com/album/0MdReiUZQM3xFZ1RvBKgrt) | 3:46 |
 
-Snapshot ID: `aP62AAAAAADBFhI1Da3iZt0+ugmervjv`
+Snapshot ID: `aQAHgAAAAADJR2KC0K0k4lhm0WKReZcx`

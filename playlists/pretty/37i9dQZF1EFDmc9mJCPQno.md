@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 51 | [Latest Ghost \- Piano Version](https://open.spotify.com/track/2loDDNNlOt33AQqRDIZOtJ) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World \(Piano Versions\)](https://open.spotify.com/album/5rU6PM80YSF6JOOz4Nw92T) | 2:51 |
 | 52 | [NINETEEN](https://open.spotify.com/track/4TqQPf01wvMqpbjcVtaeNJ) | [NATTY](https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se) | [NINETEEN](https://open.spotify.com/album/3UrgYfoyt36j4j1smNqwpb) | 3:03 |
 | 53 | [Priorities](https://open.spotify.com/track/74JMCtnIUVepy6Iz6FLqzx) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Priorities](https://open.spotify.com/album/2Jwz8d47Z1SjssxwYGMMEE) | 3:13 |
-| 54 | [Sodom & Gomorrah](https://open.spotify.com/track/3x3kYVMHdqwConilMGjZzi) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 3:09 |
-| 55 | [SUPA DUPA LUV](https://open.spotify.com/track/6hp4n7Bwt8TCpm9hImFLLX) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 2:52 |
+| 54 | [SUPA DUPA LUV](https://open.spotify.com/track/6hp4n7Bwt8TCpm9hImFLLX) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 2:52 |
+| 55 | [Sodom & Gomorrah](https://open.spotify.com/track/3x3kYVMHdqwConilMGjZzi) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 3:09 |
 | 56 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 |
 | 57 | [Salvation](https://open.spotify.com/track/38bCx6AbjjduaSVlgIwKZP) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:20 |
 | 58 | [Send My Love To John](https://open.spotify.com/track/4ObFrK0MLVZyYaFHOyPbVa) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:25 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 123 | [It's Mean When You Don't Mean It](https://open.spotify.com/track/06qDeXAlTAspztapKBCQXs) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [The Wrong Side of 25](https://open.spotify.com/album/1ts3tatZuXKtmyTbyqybKS) | 4:09 |
 | 124 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `AcAGfgAAAADT5dOzvMeNtqORcDyXOf90`
+Snapshot ID: `AcAMRgAAAABwHgFhQ/X6WqYEmMKZ021f`

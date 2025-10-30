@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 
 > This is Kali Uchis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,228 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,325 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pretty Promises, \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 3:09 |
 | 2 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 |
-| 3 | [After The Storm \(feat\. Tyler, The Creator & Bootsy Collins\)](https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:27 |
-| 4 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp) | 4:38 |
-| 5 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
+| 3 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp) | 4:38 |
+| 4 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
+| 5 | [After The Storm \(feat\. Tyler, The Creator & Bootsy Collins\)](https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:27 |
 | 6 | [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 |
 | 7 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 |
 | 8 | [She's My Collar \(feat\. Kali Uchis\)](https://open.spotify.com/track/3lIxtCaROdRDuTnNBDm3n2) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 | 49 | [FIND YOUR WINGS \(feat\. Roy Ayers, Sydney Bennett & Kali Uchis\)](https://open.spotify.com/track/7er0EUMY653mxZ1NVD9mwQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Cherry Bomb](https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In) | 2:59 |
 | 50 | [Simple](https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \(Deluxe\)](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:22 |
 
-Snapshot ID: `aP62AAAAAAAKvptFypgUO85bNz0TsHeg`
+Snapshot ID: `aQAHgAAAAADG8qoSzWy2ETJuIIpPCiAg`

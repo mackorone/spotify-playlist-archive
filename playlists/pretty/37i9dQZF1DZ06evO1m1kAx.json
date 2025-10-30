@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 7724,
+  "num_followers": 7727,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAD1JRKx2pSpHFEE9r8hn1Bt",
+  "snapshot_id": "aQAHgAAAAAAOkUXxEY2deBDfbGncFkQl",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salary 4 Life",
-        "url": "https://open.spotify.com/album/2JdhdRFrmEOLRxojMh5y76"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 153027,
-      "name": "Salary 4 Life",
-      "url": "https://open.spotify.com/track/5hbSZEE3pg99Y0Qj330rKT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unstoppable International",
         "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 289384,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/3mhjJw2JU1cpTfrPA29Jcc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Salary 4 Life",
+        "url": "https://open.spotify.com/album/2JdhdRFrmEOLRxojMh5y76"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 153027,
+      "name": "Salary 4 Life",
+      "url": "https://open.spotify.com/track/5hbSZEE3pg99Y0Qj330rKT"
     },
     {
       "added_at": null,
@@ -435,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cupid Stories",
+        "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
+      },
+      "artists": [
+        {
+          "name": "Bracket",
+          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Remember (feat. 2face)",
+      "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "[I.N.I.T] In Nasboi I Trust",
         "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 184500,
       "name": "Ashewo",
       "url": "https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cupid Stories",
-        "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
-      },
-      "artists": [
-        {
-          "name": "Bracket",
-          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Remember (feat. 2face)",
-      "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
     },
     {
       "added_at": null,
@@ -531,6 +531,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "KUKU GOOGLE AM",
+        "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 210250,
+      "name": "KUKU GOOGLE AM",
+      "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Syemca",
+          "url": "https://open.spotify.com/artist/4deX5BRJZF7cfEdxcMXTDp"
+        }
+      ],
+      "duration_ms": 184420,
+      "name": "Target You (feat. Syemca)",
+      "url": "https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Azaman",
         "url": "https://open.spotify.com/album/2OpvIZAXt5UVzxUCN0tVSY"
       },
@@ -559,42 +595,6 @@
       "duration_ms": 224000,
       "name": "Azaman",
       "url": "https://open.spotify.com/track/61gKKvpUMUnfmVkJGzLiGw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Syemca",
-          "url": "https://open.spotify.com/artist/4deX5BRJZF7cfEdxcMXTDp"
-        }
-      ],
-      "duration_ms": 184420,
-      "name": "Target You (feat. Syemca)",
-      "url": "https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KUKU GOOGLE AM",
-        "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 210250,
-      "name": "KUKU GOOGLE AM",
-      "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
     },
     {
       "added_at": null,

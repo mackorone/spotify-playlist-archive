@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,599 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,700 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 33 | [Robarte Un Beso](https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Robarte Un Beso](https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L) | 2:53 |
 | 34 | [La Mejor Versión de Mi](https://open.spotify.com/track/2dD81TOEFUYhYG7x46CBwY) | [Carlo Gless](https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm) | [La Mejor Versión de Mi](https://open.spotify.com/album/6W9IzP6FXIdiI0QHr9yv5T) | 2:14 |
 | 35 | [Si Veo a Tu Mamá](https://open.spotify.com/track/1TzT4fQENDBK4a1GkDvB0P) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Si Veo a Tu Mamá](https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh) | 2:40 |
-| 36 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
-| 37 | [No Bailes Sola \- Versión Acústica](https://open.spotify.com/track/3LfJzT37DkyzELlmmTWYgO) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Bailes Sola \(Versión Acústica\)](https://open.spotify.com/album/6JxnMDh4sNQs4sd6z5w0eo) | 3:09 |
+| 36 | [No Bailes Sola \- Versión Acústica](https://open.spotify.com/track/3LfJzT37DkyzELlmmTWYgO) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Bailes Sola \(Versión Acústica\)](https://open.spotify.com/album/6JxnMDh4sNQs4sd6z5w0eo) | 3:09 |
+| 37 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
 | 38 | [Mis ojos lloran por ti](https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Mis ojos lloran por ti](https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp) | 3:50 |
 | 39 | [Me Llamas \- Versión Acústica](https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap) | [Segundo Piso](https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659) | [Me Llamas \(Versión Acústica\)](https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG) | 3:30 |
 | 40 | [Escápate Conmigo](https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Covers, Vol\. 2](https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5) | 2:29 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 55 | [Calma](https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Calma](https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql) | 3:05 |
 | 56 | [Amor Tumbado](https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Amor Tumbado](https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n) | 2:28 |
 | 57 | [Alguien Te Va a Hacer Llorar](https://open.spotify.com/track/6kQiVs1qyD6dZMJ0BmtJ2D) | [Hugo Coronel](https://open.spotify.com/artist/0RGnnaJ9xMIKNvKCuvNvfj) | [Bohemia Y Trova, Vol\. 2](https://open.spotify.com/album/4HaMf32uLd9i4F6Yrv0mTb) | 2:54 |
-| 58 | [Amigos con derechos](https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Amigos con derechos](https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2) | 2:40 |
-| 59 | [Bolero Falaz](https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Bolero Falaz](https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0) | 4:23 |
+| 58 | [Bolero Falaz](https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Bolero Falaz](https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0) | 4:23 |
+| 59 | [Amigos con derechos](https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Amigos con derechos](https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2) | 2:40 |
 | 60 | [Asi Es La Vida](https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX) | [Pablo Rojas](https://open.spotify.com/artist/3eZMc1qqbM4whaMy2X14nx) | [Asi Es La Vida](https://open.spotify.com/album/4EYa4M7e4FYqBqsJFwt3Vi) | 4:44 |
 | 61 | [Me Rehúso](https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Me Rehúso](https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41) | 2:52 |
 | 62 | [Muerte En Hawaii](https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Muerte En Hawaii](https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM) | 3:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,253 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,256 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 49 | [Rebound](https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [SET](https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv) | 2:58 |
 | 50 | [In To You \(feat\. g1nger\) \- Prod\. WOOGIE](https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [g1nger](https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:38 |
 | 51 | [OVERZONE](https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [HORIZON : THE MIXTAPE](https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj) | 1:21 |
-| 52 | [Love Kills](https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:37 |
-| 53 | [TOUCHIN'](https://open.spotify.com/track/4N5jdijK8DSBbBd4A30DUe) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [TOUCHIN'](https://open.spotify.com/album/08FjoakLYgsyA4NzfVPWke) | 3:05 |
-| 54 | [Lost \(Feat\. Chan\)](https://open.spotify.com/track/0CGLEfpRiP9Xx3DOGIpyu6) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [Chan \(찬\)](https://open.spotify.com/artist/6u58RtKuPesaAnsSybhP5u) | [Lost \(Feat\. Chan\)](https://open.spotify.com/album/6wYbrnLW8oLOzLS8cfO2vR) | 2:24 |
+| 52 | [Lost \(Feat\. Chan\)](https://open.spotify.com/track/0CGLEfpRiP9Xx3DOGIpyu6) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [Chan \(찬\)](https://open.spotify.com/artist/6u58RtKuPesaAnsSybhP5u) | [Lost \(Feat\. Chan\)](https://open.spotify.com/album/6wYbrnLW8oLOzLS8cfO2vR) | 2:24 |
+| 53 | [Love Kills](https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:37 |
+| 54 | [TOUCHIN'](https://open.spotify.com/track/4N5jdijK8DSBbBd4A30DUe) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [TOUCHIN'](https://open.spotify.com/album/08FjoakLYgsyA4NzfVPWke) | 3:05 |
 | 55 | [Wildfire](https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 3:16 |
 | 56 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |
 | 57 | [Blame](https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:41 |

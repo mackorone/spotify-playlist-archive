@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: Lavt
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,217 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,220 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [インベイダー](https://open.spotify.com/track/2WXOJAqPT1z0aWBErwBVXa) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [NEBULA](https://open.spotify.com/album/35Q7g8tt4SpLNieBRmsziE) | 2:55 |
 | 60 | [HINOYOUNI](https://open.spotify.com/track/7fHBlogt7Hr2OboKfTUR6G) | [HINONABE](https://open.spotify.com/artist/5prUoGMqRokR10HEyR4LjD) | [HINOYOUNI](https://open.spotify.com/album/5T3GvOdy47VfB0SU9XCupE) | 3:11 |
 
-Snapshot ID: `AAAAAFrMVFwct5O5GPSN74wYOAEYqe9t`
+Snapshot ID: `AAAAAI5m313CpmquAVcuS1z1+88cBnxs`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 
 > Country classics you know and love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,544 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,884 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 | 11 | [Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:55 |
 | 12 | [Neon Moon](https://open.spotify.com/track/3EUl8M6SzxZl03NPkB8mUd) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 4:23 |
 | 13 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:43 |
-| 14 | [Louisiana Saturday Night](https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y) | [Mel McDaniel](https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup) | [I'm Countryfied](https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5) | 2:24 |
-| 15 | [Diggin' Up Bones](https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life](https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf) | 2:58 |
+| 14 | [Diggin' Up Bones](https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life](https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf) | 2:58 |
+| 15 | [Louisiana Saturday Night](https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y) | [Mel McDaniel](https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup) | [I'm Countryfied](https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5) | 2:24 |
 | 16 | [Stand By Your Man](https://open.spotify.com/track/2Cb2l4UoXynCHCeCYHRZN8) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Stand By Your Man](https://open.spotify.com/album/1m4lP2IzV8Z1oEUYMHMClr) | 2:37 |
 | 17 | [I Walk The Line \- Single Version](https://open.spotify.com/track/6uya0AiJA1Avd4DY2XFlVm) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [With His Hot and Blue Guitar](https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E) | 2:43 |
 | 18 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:56 |

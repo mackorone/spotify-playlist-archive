@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked and nourishing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,132 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,155 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 21 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
 | 22 | [Comin' Through](https://open.spotify.com/track/7pOrN8TYTjTzDZYQMShjXl) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Future Weather](https://open.spotify.com/album/1sG9LABomGMUH0w56LfNV0) | 3:21 |
 | 23 | [Feeling](https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeling](https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq) | 3:20 |
-| 24 | [Lovers Only](https://open.spotify.com/track/5El7hefZel9jzdjnoBUrUJ) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Lovers Only](https://open.spotify.com/album/5SzdVGZnxac4bJmw1kI78U) | 3:39 |
-| 25 | [Letting Go](https://open.spotify.com/track/5EeqvDL2BckMvhbNtOEHAh) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 3:30 |
+| 24 | [Letting Go](https://open.spotify.com/track/5EeqvDL2BckMvhbNtOEHAh) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 3:30 |
+| 25 | [Lovers Only](https://open.spotify.com/track/5El7hefZel9jzdjnoBUrUJ) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Lovers Only](https://open.spotify.com/album/5SzdVGZnxac4bJmw1kI78U) | 3:39 |
 | 26 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
 | 27 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
 | 28 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 |
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 52 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 |
 | 53 | [Dirty Laundry](https://open.spotify.com/track/2Xtkc0tsVpwdLcFZt5SQ97) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Dirty Laundry](https://open.spotify.com/album/7aSC9q6YLN4hsx0p2ZPH2Q) | 2:36 |
 | 54 | [Carry On](https://open.spotify.com/track/7LKCXjugK9m71mt7miWltA) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:43 |
-| 55 | [Come Out](https://open.spotify.com/track/7vU7nNXJ54V85fTQ23dWOe) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:48 |
-| 56 | [Hide & Seek](https://open.spotify.com/track/2t4tWVaCBykTHYG7Wx6AEB) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Hide & Seek](https://open.spotify.com/album/7Bpblm74urUd8VLJlGubqU) | 3:41 |
+| 55 | [Hide & Seek](https://open.spotify.com/track/2t4tWVaCBykTHYG7Wx6AEB) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Hide & Seek](https://open.spotify.com/album/7Bpblm74urUd8VLJlGubqU) | 3:41 |
+| 56 | [Come Out](https://open.spotify.com/track/7vU7nNXJ54V85fTQ23dWOe) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:48 |
 | 57 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 |
 | 58 | [Maybe it Takes Time](https://open.spotify.com/track/08rCwumMxFDgtKAM8K0iwE) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX) | [EARTHBREAKS](https://open.spotify.com/album/5DbnZ4p3dabnY1GF3FOpgs) | 3:05 |
-| 59 | [Phone Me](https://open.spotify.com/track/7vkGvXf79RRutQv2yGW2Ru) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:24 |
-| 60 | [Mistakes](https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 3:59 |
+| 59 | [Mistakes](https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 3:59 |
+| 60 | [Phone Me](https://open.spotify.com/track/7vkGvXf79RRutQv2yGW2Ru) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:24 |
 | 61 | [Haircut](https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Boy in Jeans](https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn) | 3:36 |
 | 62 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 |
 | 63 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |

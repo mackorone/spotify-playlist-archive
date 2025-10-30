@@ -4,7 +4,7 @@
 
 > All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray
 
-327 songs - 18 hr 27 min
+328 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 | 2023-11-29 | 2024-12-05 |
 | [Feed My Release](https://open.spotify.com/track/06HsoB1J6BYNJtxOuvy2yN) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Below a Massive Dark Land](https://open.spotify.com/album/4FBlXgeZ4n0nwY0bXuZ8P2) | 5:16 | 2024-12-04 |  |
 | [Feet Up](https://open.spotify.com/track/0Zyt2jTbyRv1QNb3Yahk1m) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/7rrD1cHZGGUo9DUQwm9mDR) | 2:59 | 2023-11-29 | 2024-04-19 |
-| [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 | 2024-12-04 |  |
+| [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 | 2024-12-04 | 2025-10-30 |
 | [Fight Back Time](https://open.spotify.com/track/1e0jxzKnJEKnjse5gfPBwZ) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh), [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Fight Back Time](https://open.spotify.com/album/7vrjR8CtwCxt6WDON4Ph4C) | 3:17 | 2023-11-29 | 2024-01-01 |
 | [First Rule of the Bug](https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Spirit World Tour](https://open.spotify.com/album/47mGdZRog8LOGSdYzlVSO2) | 3:27 | 2023-11-29 | 2024-12-05 |
 | [Flames shards goo](https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:48 | 2023-11-29 | 2024-12-05 |
@@ -294,6 +294,7 @@
 | [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 | 2023-11-29 | 2024-12-05 |
 | [Territory Day](https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 5:26 | 2023-11-29 | 2024-04-19 |
 | [Territory Day](https://open.spotify.com/track/5U8QZWyYdNNLZpzHcS8i2D) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/3Ej72D5LaFOqUPpqpcu2U3) | 5:26 | 2023-11-29 | 2024-12-05 |
+| [that's what time does](https://open.spotify.com/track/6CpaWnrVt7lyGALNFUNgdt) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 3:08 | 2024-12-04 |  |
 | [The Big Boom](https://open.spotify.com/track/52rDZ9pPuVKAQoycR0wqme) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [The Big Boom](https://open.spotify.com/album/28R26xS0sxrdEFCKwSjwKG) | 3:14 | 2023-11-29 | 2023-12-24 |
 | [The Big Boom \- Bonus Track](https://open.spotify.com/track/587lEdNGAThT52JpvjnJKd) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/0AsVb7S4UL2760pQlRVpAe) | 3:14 | 2023-11-29 | 2024-04-19 |
 | [The Cabin](https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [The Cabin](https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl) | 3:57 | 2023-11-29 | 2024-12-05 |

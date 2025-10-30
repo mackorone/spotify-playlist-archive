@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 42516,
+  "num_followers": 42532,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Con Arena Nueva",
-        "url": "https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 261133,
-      "name": "Cuando el Amor se Da\u00f1a",
-      "url": "https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "In Da House",
         "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 330800,
       "name": "Otra Noche (Another Night)",
       "url": "https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Con Arena Nueva",
+        "url": "https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 261133,
+      "name": "Cuando el Amor se Da\u00f1a",
+      "url": "https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Sin Medir Distancia",
-        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Era Mentira",
-      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Amor Amor",
         "url": "https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 279613,
       "name": "De Oro",
       "url": "https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Sin Medir Distancia",
+        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Era Mentira",
+      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1659,26 +1659,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de la Sonora Cordobesa",
-        "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
+        "name": "\u00c9xitos los Tupamaros",
+        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
       "artists": [
         {
-          "name": "La Sonora Cordobesa",
-          "url": "https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK"
-        },
-        {
-          "name": "Eliseo Herrera",
-          "url": "https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani"
-        },
-        {
-          "name": "Pedro Laza Y Sus Pelayeros",
-          "url": "https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk"
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
         }
       ],
-      "duration_ms": 155719,
-      "name": "La Mafafa",
-      "url": "https://open.spotify.com/track/6ssMfGx7MMrJlvdvuRfZCA"
+      "duration_ms": 209084,
+      "name": "Bacano",
+      "url": "https://open.spotify.com/track/5OQxj4awrNDYMnvNAzwSjQ"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1699,18 +1691,26 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "\u00c9xitos los Tupamaros",
-        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
+        "name": "Historia Musical de la Sonora Cordobesa",
+        "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
       },
       "artists": [
         {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+          "name": "La Sonora Cordobesa",
+          "url": "https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK"
+        },
+        {
+          "name": "Eliseo Herrera",
+          "url": "https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani"
+        },
+        {
+          "name": "Pedro Laza Y Sus Pelayeros",
+          "url": "https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk"
         }
       ],
-      "duration_ms": 209084,
-      "name": "Bacano",
-      "url": "https://open.spotify.com/track/5OQxj4awrNDYMnvNAzwSjQ"
+      "duration_ms": 155719,
+      "name": "La Mafafa",
+      "url": "https://open.spotify.com/track/6ssMfGx7MMrJlvdvuRfZCA"
     },
     {
       "added_at": "2024-07-12 23:11:55",

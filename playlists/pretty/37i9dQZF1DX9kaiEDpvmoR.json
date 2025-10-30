@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93718,
+  "num_followers": 93711,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-10-23 22:00:31",
       "album": {
-        "name": "Vill du ha mig?",
-        "url": "https://open.spotify.com/album/14KULSxBCHTaw036GPyJZv"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Vill du ha mig?",
-      "url": "https://open.spotify.com/track/4mfAUCnXYemDDjSs9SXL6V"
-    },
-    {
-      "added_at": "2025-10-23 22:00:31",
-      "album": {
         "name": "All These Years",
         "url": "https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 228482,
       "name": "All These Years",
       "url": "https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w"
+    },
+    {
+      "added_at": "2025-10-23 22:00:31",
+      "album": {
+        "name": "Kaprifol",
+        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 235230,
+      "name": "Kaprifol",
+      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
     },
     {
       "added_at": "2025-10-23 22:00:31",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-10-23 22:00:31",
       "album": {
-        "name": "Kaprifol",
-        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 235230,
-      "name": "Kaprifol",
-      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
-    },
-    {
-      "added_at": "2025-10-23 22:00:31",
-      "album": {
         "name": "Hemland",
         "url": "https://open.spotify.com/album/7Mwl7nb4iMLxfsDOoqqbPw"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 279186,
       "name": "Tro",
       "url": "https://open.spotify.com/track/6s0GL6SGcyHKSzZwMmdCGL"
+    },
+    {
+      "added_at": "2025-10-23 22:00:31",
+      "album": {
+        "name": "Vill du ha mig?",
+        "url": "https://open.spotify.com/album/14KULSxBCHTaw036GPyJZv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Vill du ha mig?",
+      "url": "https://open.spotify.com/track/4mfAUCnXYemDDjSs9SXL6V"
     },
     {
       "added_at": "2025-10-23 22:00:31",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-10-23 22:00:31",
       "album": {
-        "name": "Bl\u00e5jeans och stj\u00e4rnljus",
-        "url": "https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF"
-      },
-      "artists": [
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 209610,
-      "name": "Bl\u00e5jeans och stj\u00e4rnljus",
-      "url": "https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ"
-    },
-    {
-      "added_at": "2025-10-23 22:00:31",
-      "album": {
         "name": "V\u00e5r b\u00e4sta tid",
         "url": "https://open.spotify.com/album/4axxNXvgZVi1BIL9Oo5bX5"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 216511,
       "name": "V\u00e5r b\u00e4sta tid",
       "url": "https://open.spotify.com/track/5v1oyyCiPfOtesq1lsuNDE"
+    },
+    {
+      "added_at": "2025-10-23 22:00:31",
+      "album": {
+        "name": "Bl\u00e5jeans och stj\u00e4rnljus",
+        "url": "https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 209610,
+      "name": "Bl\u00e5jeans och stj\u00e4rnljus",
+      "url": "https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ"
     },
     {
       "added_at": "2025-10-23 22:00:31",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-10-23 22:00:31",
       "album": {
-        "name": "Benjamin (From the TV series 'Etter Benjamin')",
-        "url": "https://open.spotify.com/album/2fpkbXE7GnDltvI6m4AJZX"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "Benjamin - From the TV series 'Etter Benjamin'",
-      "url": "https://open.spotify.com/track/6qMI1g2TrI8YkybFCBnmwM"
-    },
-    {
-      "added_at": "2025-10-23 22:00:31",
-      "album": {
         "name": "Lake Geneva",
         "url": "https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 221560,
       "name": "Lake Geneva",
       "url": "https://open.spotify.com/track/5XRO2QAIHPVwo7RXY6Ybqb"
+    },
+    {
+      "added_at": "2025-10-23 22:00:31",
+      "album": {
+        "name": "Benjamin (From the TV series 'Etter Benjamin')",
+        "url": "https://open.spotify.com/album/2fpkbXE7GnDltvI6m4AJZX"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "Benjamin - From the TV series 'Etter Benjamin'",
+      "url": "https://open.spotify.com/track/6qMI1g2TrI8YkybFCBnmwM"
     },
     {
       "added_at": "2025-10-23 22:00:31",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2025-10-23 22:00:31",
       "album": {
-        "name": "Dr\u00f6mmare",
-        "url": "https://open.spotify.com/album/5gBifDZIcbwifi9TDVXzfS"
-      },
-      "artists": [
-        {
-          "name": "Jakob Hellman",
-          "url": "https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG"
-        },
-        {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
-        }
-      ],
-      "duration_ms": 206977,
-      "name": "Dr\u00f6mmare",
-      "url": "https://open.spotify.com/track/3LhUaJOzQpcWTIuBxtr9fC"
-    },
-    {
-      "added_at": "2025-10-23 22:00:31",
-      "album": {
         "name": "L\u00e5nat",
         "url": "https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A"
       },
@@ -1103,6 +1083,22 @@
       "duration_ms": 257000,
       "name": "Besv\u00e4rjelse (jag kommer \u00e4lska dig d\u00e5)",
       "url": "https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX"
+    },
+    {
+      "added_at": "2025-10-23 22:00:31",
+      "album": {
+        "name": "Henrys gitarr",
+        "url": "https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs"
+      },
+      "artists": [
+        {
+          "name": "Per Gessle",
+          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+        }
+      ],
+      "duration_ms": 173447,
+      "name": "Henrys gitarr",
+      "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
     },
     {
       "added_at": "2025-10-23 22:00:31",
@@ -1127,22 +1123,6 @@
     {
       "added_at": "2025-10-23 22:00:31",
       "album": {
-        "name": "Henrys gitarr",
-        "url": "https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs"
-      },
-      "artists": [
-        {
-          "name": "Per Gessle",
-          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
-        }
-      ],
-      "duration_ms": 173447,
-      "name": "Henrys gitarr",
-      "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
-    },
-    {
-      "added_at": "2025-10-23 22:00:31",
-      "album": {
         "name": "Don\u2019t Look Back In Anger",
         "url": "https://open.spotify.com/album/0OG4BDakNEA4JCXsrofX0T"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 222785,
       "name": "Don't Look Back in Anger",
       "url": "https://open.spotify.com/track/1aXG3oxcEYBvIztcrZOd0x"
+    },
+    {
+      "added_at": "2025-10-23 22:00:31",
+      "album": {
+        "name": "Dr\u00f6mmare",
+        "url": "https://open.spotify.com/album/5gBifDZIcbwifi9TDVXzfS"
+      },
+      "artists": [
+        {
+          "name": "Jakob Hellman",
+          "url": "https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG"
+        },
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "duration_ms": 206977,
+      "name": "Dr\u00f6mmare",
+      "url": "https://open.spotify.com/track/3LhUaJOzQpcWTIuBxtr9fC"
     },
     {
       "added_at": "2025-10-23 22:00:31",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2025-10-23 22:00:31",
       "album": {
-        "name": "\u00c4r det upp till dig och mig",
-        "url": "https://open.spotify.com/album/36Y6LGKWC5qrVnEU2uX5Nd"
+        "name": "\u00c4lskade v\u00e4n",
+        "url": "https://open.spotify.com/album/2z2kXYzNFlTp3FYmThV1Uw"
       },
       "artists": [
         {
-          "name": "Jakob Hellman",
-          "url": "https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG"
+          "name": "Uno Svenningsson",
+          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
         }
       ],
-      "duration_ms": 265786,
-      "name": "\u00c4r det upp till dig och mig",
-      "url": "https://open.spotify.com/track/5D94n7MSUmTTPwO91roL9x"
+      "duration_ms": 199336,
+      "name": "\u00c4lskade v\u00e4n",
+      "url": "https://open.spotify.com/track/6ROMGo5KcACNoRxjyp2uEh"
     },
     {
       "added_at": "2025-10-23 22:00:31",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2025-10-23 22:00:31",
       "album": {
-        "name": "\u00c4lskade v\u00e4n",
-        "url": "https://open.spotify.com/album/2z2kXYzNFlTp3FYmThV1Uw"
+        "name": "\u00c4r det upp till dig och mig",
+        "url": "https://open.spotify.com/album/36Y6LGKWC5qrVnEU2uX5Nd"
       },
       "artists": [
         {
-          "name": "Uno Svenningsson",
-          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
+          "name": "Jakob Hellman",
+          "url": "https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG"
         }
       ],
-      "duration_ms": 199336,
-      "name": "\u00c4lskade v\u00e4n",
-      "url": "https://open.spotify.com/track/6ROMGo5KcACNoRxjyp2uEh"
+      "duration_ms": 265786,
+      "name": "\u00c4r det upp till dig och mig",
+      "url": "https://open.spotify.com/track/5D94n7MSUmTTPwO91roL9x"
     }
   ],
   "unique_name": "Aktuellt",

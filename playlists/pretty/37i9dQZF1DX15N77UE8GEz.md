@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15N77UE8GEz.md) - [plain]
 
 > ¡Escucha los éxitos de hoy!<br/>Foto: Young Cister
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,350 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,346 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15N77UE8GEz.md) - [plain]
 | 4 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 |
 | 5 | [111](https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [111](https://open.spotify.com/album/06MqSsqJMuOnZkLPYJQdkQ) | 2:33 |
 | 6 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
-| 7 | [FAMOSINHA](https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al) | [Dj Caio Vieira](https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [FAMOSINHA](https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26) | 2:12 |
+| 7 | [FAMOSINHA](https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al) | [Dj Caio Vieira](https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [FAMOSINHA](https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26) | 2:13 |
 | 8 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
 | 9 | [Sola \(Remix\)](https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Sola \(Remix\)](https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj) | 5:07 |
 | 10 | [Ama Um Maloqueiro](https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Ama Um Maloqueiro](https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S) | 2:42 |

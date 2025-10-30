@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,917 likes - 43 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,022 likes - 42 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 36 | [Castelos & Ruínas](https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 4:09 |
 | 37 | [ANJO DA MADRUGADA](https://open.spotify.com/track/2c0x0hg7DlzlPk6XLXhNgH) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 2:29 |
 | 38 | [Deus do Furdunço](https://open.spotify.com/track/4cdCTVjFGCOxwhIOBAgY6O) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 2:28 |
-| 39 | [O Que Quiser Fazer](https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Um](https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0) | 3:45 |
-| 40 | [Quadros](https://open.spotify.com/track/6ffxCvPayroRFYIZelqNMI) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 5:09 |
-| 41 | [Vivos](https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 4:09 |
-| 42 | [O Próximo Nascer do Sol](https://open.spotify.com/track/47PieBHqNxpbLZqsDAUCI4) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 3:06 |
-| 43 | [Sigo na Sombra](https://open.spotify.com/track/2e0tjPnWrT0w5225k6aB7B) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 3:15 |
+| 39 | [Quadros](https://open.spotify.com/track/6ffxCvPayroRFYIZelqNMI) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 5:09 |
+| 40 | [Vivos](https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 4:09 |
+| 41 | [O Próximo Nascer do Sol](https://open.spotify.com/track/47PieBHqNxpbLZqsDAUCI4) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 3:06 |
+| 42 | [Sigo na Sombra](https://open.spotify.com/track/2e0tjPnWrT0w5225k6aB7B) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 3:15 |
 
-Snapshot ID: `aP62AAAAAAD+SJ1j67b4jHFQU/EgpXVa`
+Snapshot ID: `aQAHgAAAAAD6Yo9Z5xCXt1uCPKwxNKa7`

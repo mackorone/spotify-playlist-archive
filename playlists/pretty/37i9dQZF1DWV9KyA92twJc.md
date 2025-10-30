@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: יובל רפאל
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,670 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,673 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 47 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
 | 48 | [Move \(feat\. Camila Cabello & Malachiii\)](https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC) | [Move \(feat\. Camila Cabello & Malachiii\)](https://open.spotify.com/album/1Jo5dOD8bFEWnPIXKlORVp) | 3:00 |
 | 49 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 |
-| 50 | [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 |
-| 51 | [how could u love somebody like me?](https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [how could u love somebody like me?](https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj) | 2:06 |
+| 50 | [how could u love somebody like me?](https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [how could u love somebody like me?](https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj) | 2:06 |
+| 51 | [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 |
 | 52 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 |
 | 53 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 |
 | 54 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |

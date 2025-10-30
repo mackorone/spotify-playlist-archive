@@ -1,6 +1,6 @@
 {
   "description": "John Otto, take 'em to the Matthews Bridge!",
-  "num_followers": 2127251,
+  "num_followers": 2128459,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-04-25 01:08:02",
       "album": {
+        "name": "Candyass",
+        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
+      },
+      "artists": [
+        {
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
+    },
+    {
+      "added_at": "2025-04-25 01:08:02",
+      "album": {
         "name": "L.D. 50",
         "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 171106,
       "name": "The Only",
       "url": "https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa"
-    },
-    {
-      "added_at": "2025-04-25 01:08:02",
-      "album": {
-        "name": "Candyass",
-        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
-      },
-      "artists": [
-        {
-          "name": "Orgy",
-          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Blue Monday",
-      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
     },
     {
       "added_at": "2025-04-25 01:08:02",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-04-25 01:08:02",
       "album": {
-        "name": "Introduction To Mayhem",
-        "url": "https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76"
-      },
-      "artists": [
-        {
-          "name": "Primer 55",
-          "url": "https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Loose",
-      "url": "https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p"
-    },
-    {
-      "added_at": "2025-04-25 01:08:02",
-      "album": {
         "name": "Revolution Revolucion",
         "url": "https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 210533,
       "name": "I Am Loco",
       "url": "https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH"
+    },
+    {
+      "added_at": "2025-04-25 01:08:02",
+      "album": {
+        "name": "Introduction To Mayhem",
+        "url": "https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76"
+      },
+      "artists": [
+        {
+          "name": "Primer 55",
+          "url": "https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p"
     },
     {
       "added_at": "2025-04-25 01:08:02",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2025-04-25 01:08:02",
       "album": {
-        "name": "Soulfly",
-        "url": "https://open.spotify.com/album/5cAwcJxr5mVnuA7TLAYPTc"
+        "name": "Best Of (Chapter One 1997-2004)",
+        "url": "https://open.spotify.com/album/0YIzJF9rLdrK9KzADZjYVe"
       },
       "artists": [
         {
-          "name": "Soulfly",
-          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
         }
       ],
-      "duration_ms": 246733,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/5dOA0yswTUbMiiPCTQfnsx"
+      "duration_ms": 258426,
+      "name": "Denial",
+      "url": "https://open.spotify.com/track/12nGRgtkjrqb3mvsEp4yKj"
     },
     {
       "added_at": "2025-04-25 01:08:02",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2025-04-25 01:08:02",
       "album": {
-        "name": "Best Of (Chapter One 1997-2004)",
-        "url": "https://open.spotify.com/album/0YIzJF9rLdrK9KzADZjYVe"
+        "name": "Soulfly",
+        "url": "https://open.spotify.com/album/5cAwcJxr5mVnuA7TLAYPTc"
       },
       "artists": [
         {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+          "name": "Soulfly",
+          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
         }
       ],
-      "duration_ms": 258426,
-      "name": "Denial",
-      "url": "https://open.spotify.com/track/12nGRgtkjrqb3mvsEp4yKj"
+      "duration_ms": 246733,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/5dOA0yswTUbMiiPCTQfnsx"
     },
     {
       "added_at": "2025-04-25 01:08:02",

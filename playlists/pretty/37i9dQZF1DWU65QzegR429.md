@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Apache & Reke
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,109 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,111 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 17 | [Aroma \(HMMM\)](https://open.spotify.com/track/2VpoSO7cRJvkNBWypTPvqc) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Aroma \(HMMM\)](https://open.spotify.com/album/4VYqQJVw2wS6k7Brt0DnWe) | 3:13 |
 | 18 | [Perfume Dior](https://open.spotify.com/track/79puczoWNwwnOSTX4uPhqB) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Perfume Dior](https://open.spotify.com/album/1iv5lEV8vkGY2hObOrRPHK) | 2:02 |
 | 19 | [Bárbara Ramírez](https://open.spotify.com/track/3ysoG8pRPSenqsG4zHOJrV) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Bárbara Ramírez](https://open.spotify.com/album/3RGpQMzRfJCkQeCoR3mxXv) | 2:32 |
-| 20 | [Si Está Bien](https://open.spotify.com/track/1S5wJqYFcahCTM0dTRDd8o) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc) | [Si Está Bien](https://open.spotify.com/album/2Piq2CegIdxpfLHweqe5TC) | 4:54 |
+| 20 | [SI ESTÁ BIEN](https://open.spotify.com/track/1S5wJqYFcahCTM0dTRDd8o) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc) | [SI ESTÁ BIEN](https://open.spotify.com/album/2Piq2CegIdxpfLHweqe5TC) | 4:54 |
 | 21 | [Callao](https://open.spotify.com/track/1qfoVO97S7uNUgOgEy0LDw) | [Roazter](https://open.spotify.com/artist/3hncPoEEkUNszgGGwjlxIa), [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3), [Real Boss](https://open.spotify.com/artist/5Tt8mIEodxHYHf4UZPZohf) | [Callao](https://open.spotify.com/album/6jVLTpsEz1XACI8C2NPMDc) | 3:37 |
 | 22 | [Veneno](https://open.spotify.com/track/2G5UM1u5f3hJ1wGefbPjMD) | [Cyn Santana](https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf) | [Veneno](https://open.spotify.com/album/0CRQpJLtwOPiv73Ju9kxSb) | 2:47 |
 | 23 | [Pa' Probar](https://open.spotify.com/track/2U0RWntbBGTo8kYUfRS4Ys) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Pa' Probar](https://open.spotify.com/album/0rv4lSFstUkln0SsYhOyDz) | 2:49 |

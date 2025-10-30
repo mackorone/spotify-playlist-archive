@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,638 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,644 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 39 | [Wherever I Go](https://open.spotify.com/track/46jLy47W8rkf8rEX04gMKB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My \(Deluxe\)](https://open.spotify.com/album/6p01JdkB7ry8iAf4IuC1Lv) | 2:49 |
 | 40 | [Rx \(Medicate\)](https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Wake Up Call](https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl) | 3:53 |
 | 41 | [Animal](https://open.spotify.com/track/0l4DTppOxy7NUaEcwXuOb6) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Habits \(Spotify\)](https://open.spotify.com/album/6oZ5iDw1LT25svEK0g5OqT) | 3:32 |
-| 42 | [Revolution](https://open.spotify.com/track/7Fv8Qp3tTSbSS2VjryUF7L) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:51 |
-| 43 | [Shot At The Night](https://open.spotify.com/track/2aZ2Co4NeQRsqWcU930zHT) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Direct Hits](https://open.spotify.com/album/3T5bbO2BOnnjun6jKhJdjV) | 4:02 |
+| 42 | [Shot At The Night](https://open.spotify.com/track/2aZ2Co4NeQRsqWcU930zHT) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Direct Hits](https://open.spotify.com/album/3T5bbO2BOnnjun6jKhJdjV) | 4:02 |
+| 43 | [Revolution](https://open.spotify.com/track/7Fv8Qp3tTSbSS2VjryUF7L) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:51 |
 | 44 | [Not Over You](https://open.spotify.com/track/6j7hih15xG2cdYwIJnQXsq) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Sweeter](https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j) | 3:38 |
 | 45 | [Angel](https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Savages](https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn) | 3:22 |
 | 46 | [Say Amen \(Saturday Night\)](https://open.spotify.com/track/76vMKwFtdDDCLcM6zXybjB) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:09 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 56 | [Calling All Angels](https://open.spotify.com/track/0E29BKKGCJHcb7b9oIWgGB) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [My Private Nation](https://open.spotify.com/album/3gQ2rh7TxfCgpfj40Eo8D1) | 4:02 |
 | 57 | [Sovereign Light Café](https://open.spotify.com/track/4QRkCwqwHFaZ7xeoR9CHL6) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Strangeland](https://open.spotify.com/album/6JWc4iAiJ9FjyK0B59ABb4) | 3:38 |
 | 58 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
-| 59 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
-| 60 | [Whataya Want from Me](https://open.spotify.com/track/0zv9bOC2NSMd3Fw2HgM5Xn) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [For Your Entertainment](https://open.spotify.com/album/2OkC5JujOSTWWSx4F5IbLO) | 3:47 |
+| 59 | [Whataya Want from Me](https://open.spotify.com/track/0zv9bOC2NSMd3Fw2HgM5Xn) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [For Your Entertainment](https://open.spotify.com/album/2OkC5JujOSTWWSx4F5IbLO) | 3:47 |
+| 60 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
 | 61 | [Carry On](https://open.spotify.com/track/5xZjfKSfTooDP2rcAgjxlH) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 4:38 |
 | 62 | [Never Going Back](https://open.spotify.com/track/5k02Wjsu2MdpF3c9VFQD0k) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:17 |
 | 63 | [HOLD ME TIGHT OR DON’T](https://open.spotify.com/track/0Q9vbV7G2Q6lts13nY9YGP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:30 |

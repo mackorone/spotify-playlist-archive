@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,849 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,852 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 46 | [Move Like Me](https://open.spotify.com/track/6dCdOzsea9tGh7a14jl3wL) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder](https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx) | 1:47 |
 | 47 | [Hostage](https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:53 |
 | 48 | [Parachute](https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:11 |
-| 49 | [Thorns](https://open.spotify.com/track/4Grrun3ZnHh9qzPuasmTl3) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Heartlands / Thorns](https://open.spotify.com/album/1NnzB8wGIoN04CjEjL9fo6) | 6:22 |
+| 49 | [Home](https://open.spotify.com/track/3mVAVmOOPfix072ec37bNe) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:28 |
 | 50 | [Lover \(ōlowó ōrí mi\)](https://open.spotify.com/track/3LjnZRA4lyQ9JtTbkWT3dX) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder](https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx) | 3:01 |
 
-Snapshot ID: `aP62AAAAAAD4JZ/Gu4VQhkKP8QcyWflc`
+Snapshot ID: `aQAHgAAAAACioDcblUqAeNiAEOBo1xxZ`

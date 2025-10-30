@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2baJMpwgH2W.md) - [plain]
 
 > Ballads from the best shows, from the West End and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,267 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,275 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2baJMpwgH2W.md) - [plain]
 | 29 | [I Believe](https://open.spotify.com/track/4YfNmQKnrX5DrlAxSAnMoA) | [Andrew Rannells](https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b) | [The Book Of Mormon \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5yauUuXppqUj2ulor38hvI) | 4:42 |
 | 30 | [Fernando](https://open.spotify.com/track/1V9zWcD0PpWlFa42vCErzm) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Andy Garcia](https://open.spotify.com/artist/5XaRUXHFbgs8LDoYzoPJ1R) | [Mamma Mia! Here We Go Again \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14hC5eBiPUxdPa90eCzwrR) | 3:59 |
 | 31 | [Defying Gravity \- From "Wicked" Original Broadway Cast Recording/2003](https://open.spotify.com/track/0yM3VmM8gHEVGViKvAbQkc) | [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk), [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Stephen Oremus](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi) | [Wicked](https://open.spotify.com/album/46VuziW5kL9Hrt5NlJtLjY) | 5:53 |
-| 32 | [I Know Him So Well](https://open.spotify.com/track/2M3E9wbFtqdkSGkhfHikFh) | [Elaine Paige](https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA), [Barbara Dickson](https://open.spotify.com/artist/5pi8sj5ExnwL73KjHR2lFR) | [Love Hurts](https://open.spotify.com/album/43KUczsSjyfpXlWuylA62Y) | 4:17 |
-| 33 | [Roxie](https://open.spotify.com/track/7nOhijGWNbwBpzmQ6XqLRG) | [Renée Zellweger](https://open.spotify.com/artist/4ZYtO7K6tpQGNgoRRseDOg) | [Chicago \- Music From The Miramax Motion Picture](https://open.spotify.com/album/3RH2do6C88Owoka8V51LsP) | 3:20 |
+| 32 | [Roxie](https://open.spotify.com/track/7nOhijGWNbwBpzmQ6XqLRG) | [Renée Zellweger](https://open.spotify.com/artist/4ZYtO7K6tpQGNgoRRseDOg) | [Chicago \- Music From The Miramax Motion Picture](https://open.spotify.com/album/3RH2do6C88Owoka8V51LsP) | 3:20 |
+| 33 | [I Know Him So Well](https://open.spotify.com/track/2M3E9wbFtqdkSGkhfHikFh) | [Elaine Paige](https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA), [Barbara Dickson](https://open.spotify.com/artist/5pi8sj5ExnwL73KjHR2lFR) | [Love Hurts](https://open.spotify.com/album/43KUczsSjyfpXlWuylA62Y) | 4:17 |
 | 34 | [Naughty](https://open.spotify.com/track/64DXFDl2A6ObNy7iXFlZzZ) | [Matilda the Musical Original Cast](https://open.spotify.com/artist/7paFidVdtsmKlLtHiLZu41) | [Matilda the Musical \(Original London Cast Recording\)](https://open.spotify.com/album/4TMFJM8OsgA2RwwYySNhmU) | 4:02 |
 | 35 | [All I Ask Of You](https://open.spotify.com/track/52KiYg6Kn2NB9riY2IwUgi) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Phantom Of The Opera Original London Cast](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25), [Steve Barton](https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US), [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [The Phantom Of The Opera](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) | 4:14 |
 | 36 | [God Help the Outcasts](https://open.spotify.com/track/67KymXb4OUQtUlO31EFOjS) | [Heidi Mollenhauer](https://open.spotify.com/artist/2FmXrymxv6kNBnA66HpoPt), [Chorus \- The Hunchback Of Notre Dame](https://open.spotify.com/artist/5oHSxqr1uDloCbJJPNBd6T) | [The Hunchback Of Notre Dame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) | 3:45 |

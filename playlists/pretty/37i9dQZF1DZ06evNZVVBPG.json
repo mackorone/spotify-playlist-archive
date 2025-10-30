@@ -1,12 +1,12 @@
 {
   "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
-  "num_followers": 2736533,
+  "num_followers": 2736838,
   "original_name": "This Is Lana Del Rey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAADlZlM1x6766yR3fkoDI4/p",
+  "snapshot_id": "aQAHgAAAAAAw0ID5aHSQPenaQvXuefrT",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Banisters",
+        "url": "https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 201779,
+      "name": "Sweet Carolina",
+      "url": "https://open.spotify.com/track/1Hezl8gsPpfK3N2by41Wxb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 111626,
       "name": "Stargirl Interlude",
       "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Banisters",
-        "url": "https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 201779,
-      "name": "Sweet Carolina",
-      "url": "https://open.spotify.com/track/1Hezl8gsPpfK3N2by41Wxb"
     },
     {
       "added_at": null,

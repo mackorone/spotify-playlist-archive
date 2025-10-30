@@ -1,6 +1,6 @@
 {
   "description": "heartbreak feels good in a place like sad hour, with Alexander Stewart",
-  "num_followers": 2406533,
+  "num_followers": 2406399,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
@@ -173,22 +173,6 @@
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
     },
     {
-      "added_at": "2025-08-01 04:00:33",
-      "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
-    },
-    {
       "added_at": "2025-07-18 04:02:26",
       "album": {
         "name": "You'll Be Alright, Kid",
@@ -203,6 +187,22 @@
       "duration_ms": 189553,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+    },
+    {
+      "added_at": "2025-08-01 04:00:33",
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -517,22 +517,6 @@
       "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
     },
     {
-      "added_at": "2025-08-08 04:00:48",
-      "album": {
-        "name": "BITE ME",
-        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 143298,
-      "name": "I Think I Like You Better When You\u2019re Gone",
-      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
-    },
-    {
       "added_at": "2025-09-29 15:49:30",
       "album": {
         "name": "The Art of Loving",
@@ -547,6 +531,22 @@
       "duration_ms": 184000,
       "name": "Loud",
       "url": "https://open.spotify.com/track/3bUpRf4GN6SV6ejgQ4IQxT"
+    },
+    {
+      "added_at": "2025-08-08 04:00:48",
+      "album": {
+        "name": "BITE ME",
+        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 143298,
+      "name": "I Think I Like You Better When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
-      "added_at": "2025-08-22 04:00:20",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 302408,
-      "name": "canal street",
-      "url": "https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9"
-    },
-    {
       "added_at": "2025-08-18 03:07:29",
       "album": {
         "name": "The Secret of Us (Deluxe)",
@@ -855,6 +839,22 @@
       "duration_ms": 221207,
       "name": "I Told You Things",
       "url": "https://open.spotify.com/track/5V6mK1pEu22104f22m8KkX"
+    },
+    {
+      "added_at": "2025-08-22 04:00:20",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 302408,
+      "name": "canal street",
+      "url": "https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF"
     },
     {
-      "added_at": "2025-05-27 16:03:27",
-      "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 235566,
-      "name": "Dark Til Daylight",
-      "url": "https://open.spotify.com/track/5t6VW9ocIgB84vD8uR5xXU"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
@@ -939,6 +923,22 @@
       "duration_ms": 242317,
       "name": "Some Things I'll Never Know",
       "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
+    },
+    {
+      "added_at": "2025-05-27 16:03:27",
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 235566,
+      "name": "Dark Til Daylight",
+      "url": "https://open.spotify.com/track/5t6VW9ocIgB84vD8uR5xXU"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1005,22 +1005,6 @@
       "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "It'll Be Okay",
-        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "It'll Be Okay",
-      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
-    },
-    {
       "added_at": "2025-07-25 04:10:49",
       "album": {
         "name": "You Stole The Show",
@@ -1035,6 +1019,22 @@
       "duration_ms": 207190,
       "name": "You Stole The Show",
       "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "It'll Be Okay",
+        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "It'll Be Okay",
+      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy"
     },
     {
-      "added_at": "2025-08-17 04:45:45",
-      "album": {
-        "name": "savior",
-        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "savior",
-      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Snow Angel",
@@ -1463,6 +1447,22 @@
       "duration_ms": 168978,
       "name": "Tummy Hurts",
       "url": "https://open.spotify.com/track/0hFTdvxUbHl1CqrdZcbWtZ"
+    },
+    {
+      "added_at": "2025-08-17 04:45:45",
+      "album": {
+        "name": "savior",
+        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "savior",
+      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1713,6 +1713,22 @@
       "url": "https://open.spotify.com/track/5AVpEbTcWXVWa4u3VctYDv"
     },
     {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Astronomy",
+        "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 243907,
+      "name": "Astronomy",
+      "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
+    },
+    {
       "added_at": "2025-08-22 04:00:20",
       "album": {
         "name": "LIVING ROOM",
@@ -1731,22 +1747,6 @@
       "duration_ms": 187460,
       "name": "LIVING ROOM",
       "url": "https://open.spotify.com/track/2JAYY8Ts7FruUCEXxE07Nt"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Astronomy",
-        "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 243907,
-      "name": "Astronomy",
-      "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
     },
     {
       "added_at": "2025-09-19 04:00:28",
@@ -1797,6 +1797,22 @@
       "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
     },
     {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "NEVER ENOUGH (Bonus Version)",
+        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 225312,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH"
+    },
+    {
       "added_at": "2025-07-25 04:10:49",
       "album": {
         "name": "Learn To Love (with Dean Lewis)",
@@ -1815,22 +1831,6 @@
       "duration_ms": 213456,
       "name": "Learn To Love (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5qQYndZ8HuHCbN0PZf4l3o"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "NEVER ENOUGH (Bonus Version)",
-        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 225312,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH"
     },
     {
       "added_at": "2025-07-11 04:00:20",
@@ -1969,22 +1969,6 @@
       "url": "https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP"
     },
     {
-      "added_at": "2025-09-05 04:00:27",
-      "album": {
-        "name": "Marigolds",
-        "url": "https://open.spotify.com/album/0UZYkqUUPKY9W41v4RTgFr"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 170318,
-      "name": "Marigolds",
-      "url": "https://open.spotify.com/track/4cWbKUGBCvMaNlQElQrUvD"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "anatomy",
@@ -1999,6 +1983,22 @@
       "duration_ms": 182073,
       "name": "anatomy",
       "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
+    },
+    {
+      "added_at": "2025-09-05 04:00:27",
+      "album": {
+        "name": "Marigolds",
+        "url": "https://open.spotify.com/album/0UZYkqUUPKY9W41v4RTgFr"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 170318,
+      "name": "Marigolds",
+      "url": "https://open.spotify.com/track/4cWbKUGBCvMaNlQElQrUvD"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2049,22 +2049,6 @@
       "url": "https://open.spotify.com/track/5VbDVHAwEj0rHyQe1PwGTe"
     },
     {
-      "added_at": "2025-09-05 04:00:27",
-      "album": {
-        "name": "Dying",
-        "url": "https://open.spotify.com/album/62JSSTLIDCNBRv3R2VUrSD"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Dying",
-      "url": "https://open.spotify.com/track/5y48DeMoYP3UUrye3yNUKH"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Memory Lane",
@@ -2083,18 +2067,18 @@
     {
       "added_at": "2025-09-05 04:00:27",
       "album": {
-        "name": "Matches & Gasoline",
-        "url": "https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm"
+        "name": "Dying",
+        "url": "https://open.spotify.com/album/62JSSTLIDCNBRv3R2VUrSD"
       },
       "artists": [
         {
-          "name": "Noah Rinker",
-          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
         }
       ],
-      "duration_ms": 287063,
-      "name": "Matches & Gasoline",
-      "url": "https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp"
+      "duration_ms": 183266,
+      "name": "Dying",
+      "url": "https://open.spotify.com/track/5y48DeMoYP3UUrye3yNUKH"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2117,6 +2101,22 @@
       "url": "https://open.spotify.com/track/6tqSQ7LWVgmVyf41tFAqHV"
     },
     {
+      "added_at": "2025-09-05 04:00:27",
+      "album": {
+        "name": "Matches & Gasoline",
+        "url": "https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "duration_ms": 287063,
+      "name": "Matches & Gasoline",
+      "url": "https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp"
+    },
+    {
       "added_at": "2025-08-01 04:00:33",
       "album": {
         "name": "Heavens Sirens",
@@ -2133,22 +2133,6 @@
       "url": "https://open.spotify.com/track/0vk7mlt1Bnhw5P2pS3yitn"
     },
     {
-      "added_at": "2025-07-18 04:02:26",
-      "album": {
-        "name": "I Tried",
-        "url": "https://open.spotify.com/album/151XFBOwvm6LvudHhqDlNP"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 152815,
-      "name": "I Tried",
-      "url": "https://open.spotify.com/track/7GvGFGMeck6jUymfuqDUTc"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Intrusive Thoughts",
@@ -2163,6 +2147,22 @@
       "duration_ms": 201058,
       "name": "Intrusive Thoughts",
       "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
+    },
+    {
+      "added_at": "2025-07-18 04:02:26",
+      "album": {
+        "name": "I Tried",
+        "url": "https://open.spotify.com/album/151XFBOwvm6LvudHhqDlNP"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 152815,
+      "name": "I Tried",
+      "url": "https://open.spotify.com/track/7GvGFGMeck6jUymfuqDUTc"
     },
     {
       "added_at": "2025-05-16 04:00:10",
@@ -2265,22 +2265,6 @@
       "url": "https://open.spotify.com/track/5OzkheroVCAAted61g9GUA"
     },
     {
-      "added_at": "2025-03-14 04:00:03",
-      "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ"
-      },
-      "artists": [
-        {
-          "name": "Bebe Stockwell",
-          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
-        }
-      ],
-      "duration_ms": 213419,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Narcissist",
@@ -2295,6 +2279,22 @@
       "duration_ms": 172878,
       "name": "Narcissist",
       "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
+    },
+    {
+      "added_at": "2025-03-14 04:00:03",
+      "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "duration_ms": 213419,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9"
     },
     {
       "added_at": "2025-08-29 04:00:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 
 > This is Ludmila Ferber\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,344 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,348 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 4 | [Meu Prazer](https://open.spotify.com/track/1xWZv65Lh0soR16GOhTsoV) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Márcio Pereira](https://open.spotify.com/artist/0qdCtA4DBrgIcS3hdL6ZcB), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 7 \- Filho do Homem](https://open.spotify.com/album/6PHskQPBNPz0blL2d5MCit) | 5:07 |
 | 5 | [Maravilhoso](https://open.spotify.com/track/5QLKWX0W2fcPqeuwG5pg2O) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 8 \- Maravilhoso És](https://open.spotify.com/album/05GWMnAUx5EJwpgUPvJnhL) | 4:32 |
 | 6 | [Um Novo Começo](https://open.spotify.com/track/4Oc780FqTA7ZqnK9zeL3Tf) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG) | 5:37 |
-| 7 | [O Mover do Espírito](https://open.spotify.com/track/6hDhsbyAXQbHdCEo258lNP) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Cantarei para Sempre](https://open.spotify.com/album/714CqfPzokz27FP3pV8B0T) | 5:03 |
-| 8 | [Doce Presença](https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Doce Presença](https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E) | 4:07 |
+| 7 | [Doce Presença](https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Doce Presença](https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E) | 4:07 |
+| 8 | [O Mover do Espírito](https://open.spotify.com/track/6hDhsbyAXQbHdCEo258lNP) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Cantarei para Sempre](https://open.spotify.com/album/714CqfPzokz27FP3pV8B0T) | 5:03 |
 | 9 | [Buscar Tua Face é Preciso \- Ao Vivo](https://open.spotify.com/track/1EeHWzE395JKcIOuHeJ35G) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 6:35 |
 | 10 | [Sopra Espírito](https://open.spotify.com/track/5922FUTIiDyxgRZoJ9Chlp) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Deus É Bom Demais](https://open.spotify.com/album/6MogrOg46kXWjllw4gEbJN) | 5:32 |
 | 11 | [Aguenta Firme \- Ao Vivo](https://open.spotify.com/track/0NR9d8dB0sT21mIogGTUNj) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 5: Coragem \(Ao Vivo\)](https://open.spotify.com/album/18vcxTw8s6ZkvAkU9ulcFP) | 6:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 49 | [Autor da Minha Fé](https://open.spotify.com/track/2RL6SclWQSRIX34Su8S5eR) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Cantarei para Sempre](https://open.spotify.com/album/714CqfPzokz27FP3pV8B0T) | 5:50 |
 | 50 | [Só o Senhor é Deus](https://open.spotify.com/track/0iIpBvZapfG7Cq3DNDBW3S) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG) | 5:48 |
 
-Snapshot ID: `aP62AAAAAADD0VN2thLHBd3HuZlo7MJR`
+Snapshot ID: `aQAHgAAAAAA9kkb3Shlez/nI5A5jtdw3`

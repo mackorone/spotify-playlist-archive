@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Architects
 
-1,386 songs - 3 day 12 hr 42 min
+1,387 songs - 3 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [Elysium](https://open.spotify.com/track/2q8Q78o1fFNmVLhQgK5GKE) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Elysium](https://open.spotify.com/album/5NIeT2mluYPgmRyFevja1E) | 4:48 | 2022-12-16 | 2023-02-04 |
 | [Emerald](https://open.spotify.com/track/6M6uFcep2f8DhHz4RNoBvJ) | [Abiotic](https://open.spotify.com/artist/25TXAPH49z6xsXwjcBJdfe) | [Emerald](https://open.spotify.com/album/0Ikr6a0Sd5SUazxtxsVNJ8) | 4:45 | 2022-07-13 | 2022-07-19 |
 | [Empress](https://open.spotify.com/track/59Dai1T2TOvlWvMJR6OVdi) | [Assemble the Chariots](https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ) | [Empress](https://open.spotify.com/album/4r1h70lXgPiGJCvGqjAvlM) | 3:53 | 2022-07-13 | 2022-07-23 |
+| [Emptiness Remains](https://open.spotify.com/track/3oEWDsLYU9tdhJzbWk2zf8) | [Downswing](https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo) | [And Everything Was Dark](https://open.spotify.com/album/34znRI8FwvRl8bk46tRL0i) | 2:55 | 2025-10-24 |  |
 | [Empty, Like Me.](https://open.spotify.com/track/1oaRm4ubgYTSlDNM0xGbgR) | [Grieve](https://open.spotify.com/artist/6DAXLVtNvEBAy0ncBuaQGv), [Joshua Roberts](https://open.spotify.com/artist/5KrUtVY5gE9p9U52TT42rR) | [Empty, Like Me.](https://open.spotify.com/album/0wKIiZrKsOPxqhRxvlWcQ0) | 4:24 | 2023-02-17 | 2023-05-27 |
 | [End Of Existence](https://open.spotify.com/track/07L1zD6CCZTaYKnbJn7O2q) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [End Of Existence](https://open.spotify.com/album/5NyRa9KtYkqAHxdy9j5l7L) | 4:00 | 2022-07-13 | 2022-07-23 |
 | [Ending Scene](https://open.spotify.com/track/2luOKihLKUYMHF4IUB4Ash) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Ending Scene](https://open.spotify.com/album/7JQXb7Ik9o29agL6SgKIWr) | 2:45 | 2025-04-25 | 2025-07-03 |
@@ -1016,7 +1017,7 @@
 | [Scars On A Soul](https://open.spotify.com/track/7zuuCnA5KwE12ij3up8i4P) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [Scars On A Soul](https://open.spotify.com/album/5DMaqfH3GHcqcxbeTQaYRH) | 2:48 | 2024-03-27 | 2024-06-11 |
 | [Scars Upon Scars](https://open.spotify.com/track/4I2nxxg5Rztf5ldzh0Acc7) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Scars Upon Scars](https://open.spotify.com/album/4U0gc1lWiU9Osb10MzVmYN) | 3:00 | 2025-06-27 | 2025-09-02 |
 | [Scorched Earth](https://open.spotify.com/track/2HeZ83vUcp2nQqvSlsWMC8) | [Gutrectomy](https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD), [Filth](https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY) | [Scorched Earth](https://open.spotify.com/album/7FTmfJvqaXMAQMVafKDsrt) | 3:50 | 2022-07-13 | 2022-07-22 |
-| [Scorpion](https://open.spotify.com/track/7LpzmSVLxX9N2le4in8mGN) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Bleeding Star](https://open.spotify.com/album/3OJy1H2OZSIv8QvAhKfMj2) | 3:19 | 2024-09-20 |  |
+| [Scorpion](https://open.spotify.com/track/7LpzmSVLxX9N2le4in8mGN) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Bleeding Star](https://open.spotify.com/album/3OJy1H2OZSIv8QvAhKfMj2) | 3:19 | 2024-09-20 | 2025-10-30 |
 | [Second Circle](https://open.spotify.com/track/7xK4zeYArpNpd7U2AuclH7) | [Deep as Ocean](https://open.spotify.com/artist/344AraN5Ez4IUmGHYPoo6N) | [Second Circle](https://open.spotify.com/album/0zFSXVpqMcE7m4auGN2Bb6) | 3:33 | 2022-01-14 | 2022-04-29 |
 | [Secrets \(feat\. Iggy Pop and Randy Blythe\)](https://open.spotify.com/track/0IWO0eDIpFbKUZ8qWch8Y4) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [Secrets \(feat\. Iggy Pop and Randy Blythe\)](https://open.spotify.com/album/6hgQD9yLIqccvdaMtbOiMk) | 4:47 | 2022-04-29 | 2022-06-11 |
 | [Seeing Red](https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Seeing Red](https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe) | 3:39 | 2023-12-08 | 2024-04-13 |

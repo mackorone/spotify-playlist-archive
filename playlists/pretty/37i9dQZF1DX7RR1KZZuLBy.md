@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,949 likes - 50 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,974 likes - 50 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 46 | [Imagine Me](https://open.spotify.com/track/7kN3bGZtBKwWwYKSkE3RER) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 5:18 |
 | 47 | [Xa Ndiyekelelwa \(Live\)](https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 6:46 |
 | 48 | [Haleluyah Mdumiseni \- Live](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
-| 49 | [Big God](https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A), [Anderson](https://open.spotify.com/artist/7dbUWZryjCvpQ4g1VdUsXi) | [Chapter Two](https://open.spotify.com/album/4gkygS0bybfrSmP7TElwIm) | 10:57 |
-| 50 | [Kulungile Baba](https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba](https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb) | 4:44 |
+| 49 | [Kulungile Baba](https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba](https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb) | 4:44 |
+| 50 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 |
 
 Snapshot ID: `AAAAANGQKjm/Ianf22ffKLalzrli47fg`

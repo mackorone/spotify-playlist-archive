@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,107 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,108 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 19 | [Feet Off The Ground \(feat\. Jade Bird\)](https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Feet Off The Ground \(feat\. Jade Bird\)](https://open.spotify.com/album/3limK1OjauMlUTz8U28IiK) | 4:18 |
 | 20 | [Turns Out That I Am God](https://open.spotify.com/track/6x592JUnn8F8fJuO4y1Zqk) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Turns Out That I Am God](https://open.spotify.com/album/3EJQOpa5mrtRQwernIVL36) | 3:05 |
 | 21 | [Windfall \- 2015 Remaster](https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace \(Remastered\)](https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd) | 2:59 |
-| 22 | [Thunderbird](https://open.spotify.com/track/36gUdwmMhZXcwOSaUkTPty) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:28 |
-| 23 | [All Your'n](https://open.spotify.com/track/3AK75yY57gkBbSPOqzn6GW) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [All Your'n](https://open.spotify.com/album/3GnTjxsOBLdqm6A5yXTcaL) | 3:38 |
-| 24 | [The Dead Don't Die](https://open.spotify.com/track/4Ef1laInbBHGfn3qUMilBK) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Dead Don't Die](https://open.spotify.com/album/0d2OrxfHnQVwchS6OyyUZQ) | 3:51 |
+| 22 | [All Your'n](https://open.spotify.com/track/3AK75yY57gkBbSPOqzn6GW) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [All Your'n](https://open.spotify.com/album/3GnTjxsOBLdqm6A5yXTcaL) | 3:38 |
+| 23 | [The Dead Don't Die](https://open.spotify.com/track/4Ef1laInbBHGfn3qUMilBK) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Dead Don't Die](https://open.spotify.com/album/0d2OrxfHnQVwchS6OyyUZQ) | 3:51 |
+| 24 | [Thunderbird](https://open.spotify.com/track/36gUdwmMhZXcwOSaUkTPty) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:28 |
 | 25 | [L.A\. Freeway](https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Old No\. 1](https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ) | 4:56 |
 | 26 | [Valley](https://open.spotify.com/track/4MoCLZnuRqgdEKaz0wL5h4) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 4:04 |
 | 27 | [Let's Move To The Country](https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 3:05 |
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 59 | [Fruits Of My Labour](https://open.spotify.com/track/1I82ICxLwXvTWHR09ReWC2) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Cuntry Covers Vol\. 1](https://open.spotify.com/album/6z56QWKJpMuTMPF3eLA3hu) | 4:44 |
 | 60 | [Denim & Diamonds](https://open.spotify.com/track/7fHUqBn0fIdmVjBLq0ofbx) | [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Shooter](https://open.spotify.com/album/7aETyhIwmu3PpDFu2o12MG) | 3:26 |
 | 61 | [Rodeo](https://open.spotify.com/track/6q6czsVwoeC3mm0oJUwsgd) | [Charlie Marie](https://open.spotify.com/artist/406fNzpPwYacXCIIExPSuj) | [Charlie Marie](https://open.spotify.com/album/1Z0wb6vPJo4TlSQs3YU9sp) | 3:41 |
-| 62 | [Justice](https://open.spotify.com/track/1EOGdbnAjCYFo2NGHy2Yki) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Justice](https://open.spotify.com/album/54zCCRilHLhxkA0Moy7Jnz) | 3:44 |
+| 62 | [Luck of the Draw](https://open.spotify.com/track/37WNhzp7wOKMuMsByEsUF2) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Luck of the Draw](https://open.spotify.com/album/0N7kbieW6rfTyVPxtshZ7N) | 2:47 |
 | 63 | [Things to Burn](https://open.spotify.com/track/1Lo43muVKuiR8p7UB0qqEG) | [Caleb Lee Hutchinson](https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6) | [Southern Galactic](https://open.spotify.com/album/2m1aVZ8rrNN3LhNoCfkNCy) | 3:18 |
 | 64 | [You've Got Other Girls for That](https://open.spotify.com/track/5YmUheNKfm5UiZ3q1mxVEF) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [You've Got Other Girls for That](https://open.spotify.com/album/0SwMHWz5Av4WNhffxJwPgQ) | 4:03 |
 | 65 | [South Dakota](https://open.spotify.com/track/44vfk0WNEL5V8WWY3zJWU0) | [This Frontier Needs Heroes](https://open.spotify.com/artist/5vMDGNt5WMierLVP10lire) | [South Dakota](https://open.spotify.com/album/3sZoFntft0GWB8me6Y77tL) | 4:06 |
 | 66 | [Angels Among Us](https://open.spotify.com/track/5RfGLT4G5YeY5niIYc5GnI) | [Jenna Rae](https://open.spotify.com/artist/6osWFsdfO9F5O82CoyUYE5) | [Workin' Woman](https://open.spotify.com/album/7bBq1QuARjBme4nclMsr5T) | 4:51 |
-| 67 | [Luck of the Draw](https://open.spotify.com/track/37WNhzp7wOKMuMsByEsUF2) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Luck of the Draw](https://open.spotify.com/album/0N7kbieW6rfTyVPxtshZ7N) | 2:47 |
+| 67 | [Justice](https://open.spotify.com/track/1EOGdbnAjCYFo2NGHy2Yki) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Justice](https://open.spotify.com/album/54zCCRilHLhxkA0Moy7Jnz) | 3:44 |
 | 68 | [All American Singer](https://open.spotify.com/track/6zczgmAukHRE72zlbMlxB5) | [Zephaniah OHora](https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY) | [All American Singer](https://open.spotify.com/album/4HzLPoajEg28lyK3cHztOY) | 3:57 |
 | 69 | [12 Feet High](https://open.spotify.com/track/0a20AtS66hP9xUj51qXtl5) | [Leslie Stevens](https://open.spotify.com/artist/2QFJpQcoOMr1A2m8socQKF) | [12 Feet High](https://open.spotify.com/album/6KkGswg0AiEqjN2Uc79cWt) | 3:45 |
 | 70 | [Track 1](https://open.spotify.com/track/3MCL9D4nelPpNMLTT4fKC4) | [Infinite River](https://open.spotify.com/artist/5Pmm6i4hOWqqm2oVM90VAm) | [Prequel](https://open.spotify.com/album/79cEd6PLap7uBwJrPeSW4s) | 11:56 |

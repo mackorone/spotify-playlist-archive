@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,512 likes - 75 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,564 likes - 75 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 51 | [Don't Let Me Be Lonely Tonight](https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 2:58 |
 | 52 | [Nightshift](https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Nightshift](https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G) | 4:13 |
 | 53 | [Puerto Banus](https://open.spotify.com/track/5aWFVn8VxQcoV5QtjFrZ28) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Jazzmasters 4](https://open.spotify.com/album/59EZIGuewk99mkPphgvBRS) | 3:46 |
-| 54 | [That's The Way Of The World](https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt) | [Kim Pensyl](https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN) | [Under The Influence](https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC) | 5:43 |
-| 55 | [Anything and Everything](https://open.spotify.com/track/67nk03tcRdD1QEt1nOp92g) | [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [Renaissance](https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU) | 4:54 |
+| 54 | [Anything and Everything](https://open.spotify.com/track/67nk03tcRdD1QEt1nOp92g) | [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [Renaissance](https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU) | 4:54 |
+| 55 | [That's The Way Of The World](https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt) | [Kim Pensyl](https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN) | [Under The Influence](https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC) | 5:43 |
 | 56 | [Soul Express](https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Soul Express](https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH) | 4:38 |
 | 57 | [Midnight In Manhattan](https://open.spotify.com/track/3HMDFevQzJFDInhHmP2sRM) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Perfect Moment](https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr) | 4:49 |
 | 58 | [Bliss](https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 5:14 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 68 | [Nightlife](https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Nightlife](https://open.spotify.com/album/3REfT3hfJrLkfsfmkS8ZHN) | 4:31 |
 | 69 | [Grace](https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Destiny](https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf) | 5:32 |
 | 70 | [The Lady In My Life](https://open.spotify.com/track/3T6oXUTD0BKKpCFw6ZLQgs) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Guitar Man](https://open.spotify.com/album/4EW0ST9Wo4fpgqQsTqHrBe) | 4:30 |
-| 71 | [Shelbi](https://open.spotify.com/track/6rsEUK5SHTPTI7lBAC40Cz) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Cover to Cover](https://open.spotify.com/album/6tNoPJMjPioawoVZyhbAaT) | 4:02 |
+| 71 | [Bird Island](https://open.spotify.com/track/7Hum40xexcHsivuPoY1Bhq) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Hardcastle 2](https://open.spotify.com/album/2qSKvHHykvwH4ND8WrUqVq) | 4:28 |
 | 72 | [Bedtime Story](https://open.spotify.com/track/3SkljL4PezsMZJVoZyfb56) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [The Magic of Moonlight](https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N) | 5:20 |
 | 73 | [Blue Water](https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Just Around The Corner](https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b) | 4:10 |
 | 74 | [Can't Tell You Why](https://open.spotify.com/track/1BwNfHaT60LY3jf1zVLdZB) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [South Beach](https://open.spotify.com/album/0xol8frvOzgzF6T8pfNOzp) | 4:14 |

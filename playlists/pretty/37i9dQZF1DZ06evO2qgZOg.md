@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 
 > This is Skillet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,690 likes - 49 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,811 likes - 49 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 48 | [Open Wounds](https://open.spotify.com/track/2UfKuGYONPAuopJtpGfZyA) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Collide](https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW) | 3:14 |
 | 49 | [Dominion](https://open.spotify.com/track/08y95NOBjAM41gJfSqTogE) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 3:51 |
 
-Snapshot ID: `aP62AAAAAACLR7BUxorWXp+OR5FmxREj`
+Snapshot ID: `aQAHgAAAAAAha7cb+jI0HQJMNAy2Z4px`

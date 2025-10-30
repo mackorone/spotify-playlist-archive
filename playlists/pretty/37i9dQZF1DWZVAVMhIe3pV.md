@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,913 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,036 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 50 | [Cherub Rock \- 2011 Remaster](https://open.spotify.com/track/0F2LiyHp9E0pAanpfnzHNp) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 4:58 |
 | 51 | [Courage](https://open.spotify.com/track/7tlou9CjCXkaMfza2oq0GX) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:30 |
 | 52 | [Hell You Call A Dream](https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Hell You Call A Dream / Qué Más Quieres](https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir) | 2:56 |
-| 53 | [Bad Girlfriend](https://open.spotify.com/track/5ynWvN3bQymHVThxutO4hG) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Scars & Souvenirs](https://open.spotify.com/album/1AB8tdwS9hY4iyulXexNab) | 3:25 |
-| 54 | [Victorious](https://open.spotify.com/track/6TFGNgCyhgHKNn046iG6fa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Victorious](https://open.spotify.com/album/2dwb86bhTK0Nr9ClfXQbZA) | 4:24 |
+| 53 | [Victorious](https://open.spotify.com/track/6TFGNgCyhgHKNn046iG6fa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Victorious](https://open.spotify.com/album/2dwb86bhTK0Nr9ClfXQbZA) | 4:24 |
+| 54 | [Bad Girlfriend](https://open.spotify.com/track/5ynWvN3bQymHVThxutO4hG) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Scars & Souvenirs](https://open.spotify.com/album/1AB8tdwS9hY4iyulXexNab) | 3:25 |
 | 55 | [Never Gonna Learn](https://open.spotify.com/track/0XHnYbXteyBDfVvk9EGaPu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:18 |
 | 56 | [Screamager](https://open.spotify.com/track/6AXZm9PDOhrG99M1dDBAbp) | [Therapy?](https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey) | [Troublegum](https://open.spotify.com/album/6ub0GyzfrkFZahy42i7pfR) | 2:36 |
 | 57 | [Young Cardinals](https://open.spotify.com/track/17H3w82ezx4QYYH6WnMmfr) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:37 |

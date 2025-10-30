@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,570 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,625 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 34 | [FLOUKA](https://open.spotify.com/track/58hii2p9hc4txC94nXqNTr) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:28 |
 | 35 | [Kelma](https://open.spotify.com/track/4vtD50wmruYW80fnTOWplJ) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kelma](https://open.spotify.com/album/05C5ZLaQkfgFDWKFwRRNtH) | 3:05 |
 | 36 | [Tab3ini 1](https://open.spotify.com/track/3ieQkUz7YJVTIqee3RIh8s) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Tab3ini 1](https://open.spotify.com/album/3vuRRX6z5ws5S4F45fyrIn) | 4:40 |
-| 37 | [Gospel](https://open.spotify.com/track/1aDxG3kCAjBXBKz7IdrIKN) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Molno Jorjo](https://open.spotify.com/album/5kQ3ixWHYSnogyUZpurEkc) | 2:36 |
-| 38 | [Overdoze](https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:22 |
+| 37 | [Overdoze](https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:22 |
+| 38 | [Gospel](https://open.spotify.com/track/1aDxG3kCAjBXBKz7IdrIKN) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Molno Jorjo](https://open.spotify.com/album/5kQ3ixWHYSnogyUZpurEkc) | 2:36 |
 | 39 | [B&M](https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:16 |
 | 40 | [Labass](https://open.spotify.com/track/3jROBCnXC1dGpHaPKOVEyu) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm), [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Têtu](https://open.spotify.com/album/3INxB4MNa1Kiw3OGaF4D5k) | 4:08 |
 

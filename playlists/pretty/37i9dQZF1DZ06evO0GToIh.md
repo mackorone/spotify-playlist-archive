@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 
 > This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,293 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,476 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 14 | [Como Quieras Quiero](https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:02 |
 | 15 | [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
 | 16 | [Te Vale Madre](https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Vale Madre](https://open.spotify.com/album/025e1NdAZgqFznEwS9Amvm) | 2:31 |
-| 17 | [Mi Primer Día Sin Ti](https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Primer Día Sin Ti](https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5) | 3:10 |
+| 17 | [Desde Que Llegaste](https://open.spotify.com/track/5A90OxfOMIGXM2jocXmASG) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Desde Que Llegaste](https://open.spotify.com/album/6CDrZFBVkrxaaYOoiP3iLW) | 3:26 |
 | 18 | [Bájale](https://open.spotify.com/track/1LOLsJKiqBjgVg0HWAcfpF) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:42 |
-| 19 | [Desde Que Llegaste](https://open.spotify.com/track/5A90OxfOMIGXM2jocXmASG) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Desde Que Llegaste](https://open.spotify.com/album/6CDrZFBVkrxaaYOoiP3iLW) | 3:26 |
+| 19 | [Mi Primer Día Sin Ti](https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Primer Día Sin Ti](https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5) | 3:10 |
 | 20 | [Peca de Bonita](https://open.spotify.com/track/4Rf4ssFxIqUTcRAUn2ARGU) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:22 |
 | 21 | [CCC \- Remix](https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CCC \(Remix\)](https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo) | 2:27 |
 | 22 | [Mientes Tan Bien](https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 49 | [Te Invito a Ser Feliz](https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Invito a Ser Feliz](https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm) | 3:16 |
 | 50 | [Qué Bonito Es Lo Bonito](https://open.spotify.com/track/3rs4G7RNNBRrRHI5o6uN9a) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 2:52 |
 
-Snapshot ID: `aP62AAAAAADH5lyzDs5lqgEjJ2JOzM3F`
+Snapshot ID: `aQAHgAAAAADHta5PBdLkfHVvV8H4+was`

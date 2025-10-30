@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,012 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,023 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 35 | [Dior \(feat\. Gunna\)](https://open.spotify.com/track/683tYxiTlWzupDpaZ2mCv4) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:53 |
 | 36 | [Speak 4 Em](https://open.spotify.com/track/6BfJ1k7cPUqq7k9QsMBb19) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:22 |
 | 37 | [Motion God](https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:22 |
-| 38 | [OUTTA TOWN \(feat\. BossMan Dlow\)](https://open.spotify.com/track/2MzTqKr8Fsu3I5iLUPjLOP) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 2:13 |
-| 39 | [Just Say Det](https://open.spotify.com/track/1X5qFwlfEX1cHpp08hiGlw) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:24 |
+| 38 | [Just Say Det](https://open.spotify.com/track/1X5qFwlfEX1cHpp08hiGlw) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:24 |
+| 39 | [OUTTA TOWN \(feat\. BossMan Dlow\)](https://open.spotify.com/track/2MzTqKr8Fsu3I5iLUPjLOP) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 2:13 |
 | 40 | [Trust Nothing \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 3:05 |
 | 41 | [I Really \(feat\. 42 Dugg & Moneybagg Yo\)](https://open.spotify.com/track/7qX5T4glBvqHlRxEZvQbvc) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Life Of A Hotboii](https://open.spotify.com/album/02sXWcIVVNCGr6WE30UJyZ) | 3:11 |
 | 42 | [No Chill \(feat\. Lil Baby & Rylo Rodriguez\)](https://open.spotify.com/track/0K5a9PJkMiDXQZ58FY2w9H) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Time Served \(Deluxe\)](https://open.spotify.com/album/7eJt0QB6bN6JiqoBTVO7KS) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 49 | [Relentless Again](https://open.spotify.com/track/6uWaErhSQM176jluMQCuD7) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:42 |
 | 50 | [Ain't See It Coming \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/1wQafeevFpRYcIxpLyUpXH) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Welcome to O'Block](https://open.spotify.com/album/7gGJ9rNtigRF53dsFo48Wp) | 2:43 |
 
-Snapshot ID: `aP62AAAAAAAFq/1QC8fN6skmHpwQYlWa`
+Snapshot ID: `aQAHgAAAAAAlWG3x2JMiYY169PO4q+qu`

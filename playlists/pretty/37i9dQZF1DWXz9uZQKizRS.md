@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Pola Maj
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,041 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,039 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 23 | [Biegać](https://open.spotify.com/track/1PCXlbO62TayuSQ3GQSZTy) | [Wczasy](https://open.spotify.com/artist/4njrEn0vyPU5KOw7uWNrRW) | [Biegać](https://open.spotify.com/album/45yakSMtdjbZWiwYKGw76a) | 2:41 |
 | 24 | [wait no](https://open.spotify.com/track/13F4wWNxmMGI7Qhw0sjPW9) | [imasleep](https://open.spotify.com/artist/1hAUIs8Rpq6kpNHqlwJW4i) | [wait no](https://open.spotify.com/album/0n8SsT9vgnGSUoz30WodUJ) | 3:36 |
 | 25 | [Na Spokojnie](https://open.spotify.com/track/2UGaY7tgXk5gPJXOk0G8zT) | [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp), [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Na Spokojnie](https://open.spotify.com/album/2wqAUxb2My9ohUxUC4LCb0) | 2:58 |
-| 26 | [Weather](https://open.spotify.com/track/3RHz375bDU8hYCvk6NMByy) | [Babyhats](https://open.spotify.com/artist/5cqRWXSEk4JOG5hUhQpgON) | [Weather](https://open.spotify.com/album/4WnN67ysS7Z3ul08iceUWx) | 4:14 |
+| 26 | [Weather](https://open.spotify.com/track/3RHz375bDU8hYCvk6NMByy) | [babyhats](https://open.spotify.com/artist/5cqRWXSEk4JOG5hUhQpgON) | [Weather](https://open.spotify.com/album/4WnN67ysS7Z3ul08iceUWx) | 4:14 |
 | 27 | [sad aura club \(astygmatyzm\)](https://open.spotify.com/track/1ROYie1trCzeoScS1TKMrP) | [Jakub Zaron](https://open.spotify.com/artist/0a2IhoVzXyoQp6LPI9o2yw), [Greg Strangler](https://open.spotify.com/artist/4GNfmsk4UMneqeoOldw3vN) | [sad aura club \(astygmatyzm\)](https://open.spotify.com/album/08FV9CW4gumvGuRhqCZDpV) | 3:43 |
 | 28 | [Spadające gwiazdy](https://open.spotify.com/track/4ggf5e1R9ksMB2m58ouAQa) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Michał Smajdor](https://open.spotify.com/artist/3sdRA1BQYDShj19NPYUJ5k), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [NA KONIEC LATA](https://open.spotify.com/album/3hxzY5TxqTx83i2KHQrVOZ) | 3:00 |
 | 29 | [Ty](https://open.spotify.com/track/2ogs5S1dnnJcDnjz2ATg2v) | [Linda](https://open.spotify.com/artist/0kuyTWxry4ZGnRiamkFuKD), [bieran](https://open.spotify.com/artist/2vIMpjqjpFbfrAHB7ayYT3) | [Ty](https://open.spotify.com/album/2PVM5XkvPIKOpOngCnyuhG) | 2:43 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aP62AAAAAAAGt3J5hIbtojwjg5NTU6+U",
+  "snapshot_id": "aQAHgAAAAAC8+VdPmX3MkO5LAsKCLpSY",
   "tracks": [
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency Tsunami",
-        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 151481,
-      "name": "Young Wheezy (with Gunna)",
-      "url": "https://open.spotify.com/track/0bMyxvtbPa7HFemLjzw0xX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RECKLESS",
         "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 228386,
       "name": "Wanted You (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/1Faq8G2y56A8fRv7HsLq25"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emergency Tsunami",
+        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 151481,
+      "name": "Young Wheezy (with Gunna)",
+      "url": "https://open.spotify.com/track/0bMyxvtbPa7HFemLjzw0xX"
     },
     {
       "added_at": null,
@@ -679,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Habits (Deluxe)",
+        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 217775,
+      "name": "Price On My Head (feat. The Weeknd)",
+      "url": "https://open.spotify.com/track/4hqOmrCCJKyiuwDexd8c2t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Demons Protected By Angels",
         "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
       },
@@ -703,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Habits (Deluxe)",
-        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
+        "name": "Emergency Tsunami",
+        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
       },
       "artists": [
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 217775,
-      "name": "Price On My Head (feat. The Weeknd)",
-      "url": "https://open.spotify.com/track/4hqOmrCCJKyiuwDexd8c2t"
+      "duration_ms": 155086,
+      "name": "Vetement Socks",
+      "url": "https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs"
     },
     {
       "added_at": null,
@@ -747,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency Tsunami",
-        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+        "name": "Bad Habits (Deluxe)",
+        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
       },
       "artists": [
         {
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 155086,
-      "name": "Vetement Socks",
-      "url": "https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs"
+      "duration_ms": 204363,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
       "duration_ms": 215293,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Habits (Deluxe)",
-        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 204363,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Good For It",
-      "url": "https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WUNNA (Deluxe)",
         "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Good For It",
+      "url": "https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baller",
         "url": "https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs"
       },
@@ -883,26 +883,6 @@
       "duration_ms": 150679,
       "name": "Baller",
       "url": "https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "88GLAM RELOADED",
-        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
-      },
-      "artists": [
-        {
-          "name": "88GLAM",
-          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 185316,
-      "name": "Bali",
-      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
     },
     {
       "added_at": null,
@@ -927,22 +907,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "REAL ME",
-        "url": "https://open.spotify.com/album/0pPQgcXmQXqlFEgYJPMgBX"
+        "name": "88GLAM RELOADED",
+        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
       },
       "artists": [
         {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+          "name": "88GLAM",
+          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
         },
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 187213,
-      "name": "REAL ME (WITH METRO BOOMIN)",
-      "url": "https://open.spotify.com/track/5gceXfpczt6WqGkkqeICAm"
+      "duration_ms": 185316,
+      "name": "Bali",
+      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
     },
     {
       "added_at": null,
@@ -959,6 +939,26 @@
       "duration_ms": 177413,
       "name": "Fell In Love (2016)",
       "url": "https://open.spotify.com/track/0Tj8jGisjOjBE74rJUlcah"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REAL ME",
+        "url": "https://open.spotify.com/album/0pPQgcXmQXqlFEgYJPMgBX"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 187213,
+      "name": "REAL ME (WITH METRO BOOMIN)",
+      "url": "https://open.spotify.com/track/5gceXfpczt6WqGkkqeICAm"
     },
     {
       "added_at": null,
